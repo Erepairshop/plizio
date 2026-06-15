@@ -1,0 +1,497 @@
+{
+  "city_id": "jaunay-marigny",
+  "anchor": {
+    "name": "Jaunay-Marigny",
+    "coords": [
+      0.3708,
+      46.6864
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Denis-Kirche",
+            "hu": "Szent Dénes-templom",
+            "ro": "Biserica Sfântul Denis",
+            "en": "St. Denis Church"
+          },
+          "coords": [
+            0.370873,
+            46.686034
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Arthurs Garten",
+            "hu": "Arthur kertje",
+            "ro": "Grădina lui Arthur",
+            "en": "Arthur's Garden"
+          },
+          "coords": [
+            0.371706,
+            46.671175
+          ],
+          "category": "garden",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die fantasievollen Pflanzenarrangements, die sich perfekt für Familien eignen, und bringen Sie eine Kamera für die bunten Blumenbeete mit.",
+            "hu": "Fedezze fel az ötletes növénykompozíciókat, amelyek tökéletesek a családok számára, és hozzon magával fényképezőgépet a színes virágágyásokhoz.",
+            "ro": "Explorați aranjamentele florale pline de imaginație, perfecte pentru familii, și aduceți o cameră pentru a fotografia paturile colorate de flori.",
+            "en": "Explore the imaginative plant arrangements perfect for families, and be sure to bring a camera to capture the vibrant, colorful flower beds."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqualympic-Stadion",
+            "hu": "Aqualimpiai Stadion",
+            "ro": "Stadionul Aqualympic",
+            "en": "Aqualympic Stadium"
+          },
+          "coords": [
+            0.36771,
+            46.669052
+          ],
+          "category": "family",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive Wasserspiele, die Kinder lieben werden, und packen Sie zur Sicherheit ein kleines Handtuch in Ihren Rucksack.",
+            "hu": "Élvezze az interaktív vízi játékokat, amelyeket a gyerekek imádni fognak, és a biztonság kedvéért csomagoljon egy kis törölközőt a hátizsákjába.",
+            "ro": "Bucurați-vă de jocurile interactive cu apă pe care copiii le vor adora și împachetați un prosop mic în rucsac pentru orice eventualitate.",
+            "en": "Enjoy the interactive water features that kids will absolutely love, and pack a small towel in your backpack just to stay dry and comfortable."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Kokon",
+            "hu": "A Gubó",
+            "ro": "Coconul",
+            "en": "The Cocoon"
+          },
+          "coords": [
+            0.368898,
+            46.668846
+          ],
+          "category": "family",
+          "arrive_at": "12:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem einzigartigen Rückzugsort, der Ruhe inmitten des Parks bietet, und nutzen Sie die schattigen Bänke für eine kurze Pause.",
+            "hu": "Pihenjen meg ebben az egyedülálló menedékben, amely nyugalmat kínál a park közepén, és használja ki az árnyékos padokat egy rövid szünetre.",
+            "ro": "Relaxați-vă în acest refugiu unic care oferă liniște în mijlocul parcului și profitați de băncile umbrite pentru o scurtă pauză revigorantă.",
+            "en": "Relax in this unique retreat offering tranquility right in the middle of the park, and take advantage of the shaded benches for a quick rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der außergewöhnlichen Reisen",
+            "hu": "Rendkívüli Utazások Tere",
+            "ro": "Piața Călătoriilor Extraordinare",
+            "en": "Square of Extraordinary Voyages"
+          },
+          "coords": [
+            0.365746,
+            46.668197
+          ],
+          "category": "square",
+          "arrive_at": "13:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
+            "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
+            "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Jules' Erfindungen",
+            "hu": "Jules Találmányai",
+            "ro": "Invențiile lui Jules",
+            "en": "Jules' Inventions"
+          },
+          "coords": [
+            0.368685,
+            46.667853
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Maschinen, die von Jules Vernes Fantasie inspiriert sind, und nehmen Sie sich Zeit, die interaktiven Displays auszuprobieren.",
+            "hu": "Fedezze fel a Jules Verne fantáziája ihlette lenyűgöző gépezeteket, és szánjon időt az izgalmas interaktív kijelzők kipróbálására.",
+            "ro": "Descoperiți mașinăriile fascinante inspirate de imaginația lui Jules Verne și faceți-vă timp pentru a încerca ecranele interactive uimitoare.",
+            "en": "Discover fascinating machines inspired by Jules Verne's imagination, and take your time to thoroughly try out the amazing interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Die musikalische Grotte",
+            "hu": "A Zenei Barlang",
+            "ro": "Grota Muzicală",
+            "en": "The Musical Grotto"
+          },
+          "coords": [
+            0.364874,
+            46.66518
+          ],
+          "category": "family",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lauschen Sie den bezaubernden Melodien, die in dieser künstlichen Höhle widerhallen, und bleiben Sie ruhig stehen, um die Akustik voll zu genießen.",
+            "hu": "Hallgassa meg a varázslatos dallamokat, amelyek ebben a mesterséges barlangban visszhangoznak, és álljon meg egy pillanatra a tökéletes akusztikáért.",
+            "ro": "Ascultați melodiile încântătoare care răsună în această peșteră artificială și stați liniștit o clipă pentru a vă bucura pe deplin de acustică.",
+            "en": "Listen to the enchanting melodies echoing throughout this artificial cave, and stand perfectly still for a moment to fully enjoy the acoustics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Besuch der historischen Kirche, die einen entspannten Ton angibt. Mittags besuchen Sie die lebhaften und fantasievollen Familiengärten der Futuroscope-Gegend, die ideal zum Erkunden sind. Der Nachmittag ist voller interaktiver Steampunk- und Jules-Verne-Abenteuer, die den Geist fesseln. Beenden Sie Ihre Tour entspannt an einer musikalischen Grotte.",
+        "hu": "Kezdje a reggelt a történelmi helyi templom nyugodt meglátogatásával, amely békés alaphangot ad a napnak. A dél a Futuroscope környékének élénk és fantáziadús családi kertjeibe vezet, amely tökéletes a felfedezésre. A délután tele van interaktív steampunk és Jules Verne ihlette kalandokkal, amelyek rabul ejtik az elmét. Fejezze be sétáját a varázslatos zenei barlangoknál pihenve.",
+        "ro": "Începeți dimineața cu o vizită liniștită la biserica istorică locală, stabilind un ton calm pentru zi. Amiaza vă aduce în grădinile vibrante pentru familii din zona Futuroscope, perfecte pentru explorare. După-amiaza este plină de aventuri interactive cu tematică steampunk și inspirate de Jules Verne care captivează mintea. Încheiați-vă turul relaxându-vă la grotele muzicale fermecătoare.",
+        "en": "Start your morning with a peaceful visit to the historic local church, setting a calm tone for the day. Midday brings you to the vibrant and imaginative family gardens of the Futuroscope area, perfect for exploration. The afternoon is filled with interactive steampunk and Jules Verne-inspired adventures that captivate the mind. End your walking tour relaxing by enchanting musical grottos."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Denis-Kirche",
+            "hu": "Szent Dénes-templom",
+            "ro": "Biserica Sfântul Denis",
+            "en": "St. Denis Church"
+          },
+          "coords": [
+            0.370873,
+            46.686034
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel der Riesen",
+            "hu": "Óriások Szigete",
+            "ro": "Insula Uriașilor",
+            "en": "Island of Giants"
+          },
+          "coords": [
+            0.401688,
+            46.705449
+          ],
+          "category": "park",
+          "arrive_at": "10:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen Park, der von übergroßen Skulpturen geprägt ist, und tragen Sie bequeme Schuhe für die vielen Feldwege.",
+            "hu": "Sétáljon át ezen a hatalmas parkon, amelyet túlméretezett szobrok díszítenek, és viseljen kényelmes cipőt a rengeteg földúthoz.",
+            "ro": "Plimbați-vă prin acest parc vast, marcat de sculpturi supradimensionate, și purtați pantofi comozi pentru numeroasele poteci de pământ.",
+            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade der Düfte",
+            "hu": "Illatok Sétánya",
+            "ro": "Promenada Parfumurilor",
+            "en": "Promenade of Scents"
+          },
+          "coords": [
+            0.395301,
+            46.675499
+          ],
+          "category": "garden",
+          "arrive_at": "11:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Atmen Sie die herrlichen Düfte der vielfältigen Kräuter und Blumen ein und berühren Sie sanft die Blätter, um ihre natürlichen Öle freizusetzen.",
+            "hu": "Lélegezze be a változatos fűszernövények és virágok csodás illatát, és óvatosan érintse meg a leveleket a természetes olajok felszabadításához.",
+            "ro": "Inspirați parfumurile minunate ale diverselor ierburi și flori și atingeți ușor frunzele pentru a elibera uleiurile lor naturale delicate.",
+            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils."
+          }
+        },
+        {
+          "name": {
+            "de": "Futuroscope-Park",
+            "hu": "Futuroscope Park",
+            "ro": "Parcul Futuroscope",
+            "en": "Futuroscope Park"
+          },
+          "coords": [
+            0.3775,
+            46.67
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie futuristische Attraktionen, die Technologie und Kunst verschmelzen, und laden Sie die Park-App herunter, um die Wartezeiten im Blick zu haben.",
+            "hu": "Élje át a jövőbe mutató attrakciókat, ahol a technológia és a művészet találkozik, és töltse le a park alkalmazását a várakozási idők követéséhez.",
+            "ro": "Experimentați atracțiile futuriste unde tehnologia se îmbină cu arta și descărcați aplicația parcului pentru a verifica timpii de așteptare.",
+            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der außergewöhnlichen Reisen",
+            "hu": "Rendkívüli Utazások Tere",
+            "ro": "Piața Călătoriilor Extraordinare",
+            "en": "Square of Extraordinary Voyages"
+          },
+          "coords": [
+            0.365746,
+            46.668197
+          ],
+          "category": "square",
+          "arrive_at": "14:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
+            "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
+            "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Cirrus-Wolke",
+            "hu": "A Cirrus Felhő",
+            "ro": "Norul Cirrus",
+            "en": "The Cirrus Cloud"
+          },
+          "coords": [
+            0.36621,
+            46.665586
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wolkenartige Architektur dieses entspannenden Pavillons und besuchen Sie ihn am späten Nachmittag für sanftes, beruhigendes Licht.",
+            "hu": "Csodálja meg ennek a pihentető pavilonnak a felhőszerű építészetét, és látogassa meg késő délután a lágy, nyugtató fényekért és hangulatért.",
+            "ro": "Admirați arhitectura asemănătoare unui nor a acestui pavilion relaxant și vizitați-l după-amiaza târziu pentru o lumină moale și o atmosferă calmă.",
+            "en": "Admire the cloud-like architecture of this relaxing pavilion, and visit it in the late afternoon for soft, soothing light and a calm atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Zentrum zu den weitläufigen Parks mit ihren riesigen Skulpturen und genießen Sie die Morgenbrise. Mittags fahren Sie durch herrlich duftende Promenaden, bevor Sie das High-Tech-Herz der Gegend erreichen. Verbringen Sie den Nachmittag damit, in die futuristischen Wunder des Hauptparks einzutauchen. Beenden Sie Ihre Fahrt in weichen, wolkenartigen Architekturpavillons.",
+        "hu": "Tekerjen el a városközpontból az óriási szobrokkal díszített hatalmas parkok felé, élvezve a friss reggeli szellőt. Délre kerekezzen át a csodás illatú sétányokon, mielőtt elérné a környék csúcstechnológiás szívét. Töltse a délutánt a fő vidámpark futurisztikus csodáinak felfedezésével. Fejezze be utazását lágy, felhőszerű építészeti pavilonokban pihenve a nap végén.",
+        "ro": "Pedați din centrul orașului spre parcurile întinse împodobite cu sculpturi gigantice, bucurându-vă de briza dimineții. La prânz, mergeți pe bicicletă prin promenade frumos parfumate înainte de a ajunge în inima high-tech a zonei. Petreceți-vă după-amiaza scufundându-vă în minunile futuriste ale parcului tematic principal. Încheiați plimbarea relaxându-vă în pavilioane cu arhitectură de nor.",
+        "en": "Pedal away from the town center towards the expansive parks adorned with giant sculptures, enjoying the fresh morning breeze. By midday, cycle through beautifully scented promenades before reaching the high-tech heart of the area. Spend your afternoon diving into the futuristic wonders of the main theme park. Conclude your ride winding down in soft, cloud-like architectural pavilions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 11.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Insel der Riesen",
+            "hu": "Óriások Szigete",
+            "ro": "Insula Uriașilor",
+            "en": "Island of Giants"
+          },
+          "coords": [
+            0.401688,
+            46.705449
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen Park, der von übergroßen Skulpturen geprägt ist, und tragen Sie bequeme Schuhe für die vielen Feldwege.",
+            "hu": "Sétáljon át ezen a hatalmas parkon, amelyet túlméretezett szobrok díszítenek, és viseljen kényelmes cipőt a rengeteg földúthoz.",
+            "ro": "Plimbați-vă prin acest parc vast, marcat de sculpturi supradimensionate, și purtați pantofi comozi pentru numeroasele poteci de pământ.",
+            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Denis-Kirche",
+            "hu": "Szent Dénes-templom",
+            "ro": "Biserica Sfântul Denis",
+            "en": "St. Denis Church"
+          },
+          "coords": [
+            0.370873,
+            46.686034
+          ],
+          "category": "religious",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade der Düfte",
+            "hu": "Illatok Sétánya",
+            "ro": "Promenada Parfumurilor",
+            "en": "Promenade of Scents"
+          },
+          "coords": [
+            0.395301,
+            46.675499
+          ],
+          "category": "garden",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die herrlichen Düfte der vielfältigen Kräuter und Blumen ein und berühren Sie sanft die Blätter, um ihre natürlichen Öle freizusetzen.",
+            "hu": "Lélegezze be a változatos fűszernövények és virágok csodás illatát, és óvatosan érintse meg a leveleket a természetes olajok felszabadításához.",
+            "ro": "Inspirați parfumurile minunate ale diverselor ierburi și flori și atingeți ușor frunzele pentru a elibera uleiurile lor naturale delicate.",
+            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils."
+          }
+        },
+        {
+          "name": {
+            "de": "Futuroscope-Park",
+            "hu": "Futuroscope Park",
+            "ro": "Parcul Futuroscope",
+            "en": "Futuroscope Park"
+          },
+          "coords": [
+            0.3775,
+            46.67
+          ],
+          "category": "recreational",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie futuristische Attraktionen, die Technologie und Kunst verschmelzen, und laden Sie die Park-App herunter, um die Wartezeiten im Blick zu haben.",
+            "hu": "Élje át a jövőbe mutató attrakciókat, ahol a technológia és a művészet találkozik, és töltse le a park alkalmazását a várakozási idők követéséhez.",
+            "ro": "Experimentați atracțiile futuriste unde tehnologia se îmbină cu arta și descărcați aplicația parcului pentru a verifica timpii de așteptare.",
+            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz der außergewöhnlichen Reisen",
+            "hu": "Rendkívüli Utazások Tere",
+            "ro": "Piața Călătoriilor Extraordinare",
+            "en": "Square of Extraordinary Voyages"
+          },
+          "coords": [
+            0.365746,
+            46.668197
+          ],
+          "category": "square",
+          "arrive_at": "13:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
+            "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
+            "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Auxance-Tal",
+            "hu": "Auxance-völgy",
+            "ro": "Valea Auxance",
+            "en": "Auxance Valley"
+          },
+          "coords": [
+            0.334711,
+            46.646486
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die natürliche Schönheit dieses Flusstals, das reich an lokaler Flora ist, und bringen Sie Insektenspray für Wanderungen am Wasser mit.",
+            "hu": "Fedezze fel ennek a folyóvölgynek a természeti szépségét, amely gazdag helyi növényvilágban, és hozzon rovarriasztót a vízparti sétákhoz.",
+            "ro": "Explorați frumusețea naturală a acestei văi bogate în floră locală și asigurați-vă că aduceți spray împotriva insectelor pentru plimbările pe malul apei.",
+            "en": "Explore the stunning natural beauty of this river valley rich in local flora, and bring bug spray for comfortable walking near the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie gleich morgens zum Park der majestätischen Riesen und genießen Sie die Größe der Kunstwerke. Besuchen Sie die ruhige lokale Kirche für einen Moment der Besinnung, bevor Sie zu den botanischen Promenaden weiterfahren. Der Nachmittag wird vom riesigen futuristischen Park geprägt, der ein wahres Erlebnis bietet. Fahren Sie schließlich ins ruhige Flusstal, um den Sonnenuntergang zu genießen.",
+        "hu": "Autózzon reggel elsőként a fenséges óriások parkjába, és gyönyörködjön a szabadtéri művészet nagyszerűségében. Látogasson el a csendes helyi templomba egy pillanatnyi elmélkedésre, majd induljon a festői botanikus sétányok felé. A délutánt a hatalmas futurisztikus park emeli ki, amely igazi érzékszervi kavalkád. Végül vezessen ki a nyugodt folyóvölgybe, hogy élvezze a természetet naplementekor.",
+        "ro": "Conduceți la parcul maiestuos al uriașilor la prima oră a dimineții, admirând scara măreață a artei în aer liber. Mergeți la biserica locală liniștită pentru un moment de reflecție înainte de a vă îndrepta spre promenadele botanice pitorești. După-amiaza este evidențiată de imensul parc futurist, oferind o senzație unică. În cele din urmă, conduceți spre valea râului pentru a vă bucura de natură.",
+        "en": "Drive to the majestic giants' park first thing in the morning, taking in the grand scale of the outdoor art. Proceed to the quiet local church for a moment of reflection before moving towards the scenic botanical promenades. Your afternoon is highlighted by the immense futuristic park, offering a sensory overload. Finally, drive out to the serene river valley to enjoy nature at sunset."
+      }
+    }
+  }
+}

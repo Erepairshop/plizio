@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-ithaca-vathy-cities-v2",
+  "anchor": {
+    "name": "Vathy (Ithaca)",
+    "coords": [
+      20.7202,
+      38.3647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 4.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum Ithaka",
+            "hu": "Ithakai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Itaca",
+            "en": "Ithaca archaeological museum"
+          },
+          "coords": [
+            20.721525,
+            38.364612
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Artefakte aus der mykenischen Zeit und schauen Sie sich die Keramiksammlung an, die die homerischen Epen lebendig macht.",
+            "hu": "Fedezze fel a mükénéi korból származó helyi leleteket, és mindenképpen tekintse meg az ókori kerámiagyűjteményt, amely életre kelti a homéroszi eposzokat.",
+            "ro": "Descoperiți artefacte locale din epoca miceniană și nu uitați să verificați colecția de ceramică veche, care dă viață epopeilor homerice.",
+            "en": "Discover local artifacts dating back to the Mycenaean era and remember to check the pottery collection, which brings Homeric epics to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhora",
+            "hu": "Palaiokhora",
+            "ro": "Palaiokhora",
+            "en": "Palaiokhora"
+          },
+          "coords": [
+            20.712419,
+            38.352605
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atmosphärischen Ruinen dieser mittelalterlichen Hauptstadt, aber tragen Sie festes Schuhwerk, da die historischen Wege steinig sind.",
+            "hu": "Fedezze fel a középkori főváros hangulatos romjait, de viseljen masszív cipőt, mivel a történelmi ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei capitale medievale, dar purtați încălțăminte rezistentă, deoarece cărările istorice sunt stâncoase.",
+            "en": "Explore the atmospheric ruins of this medieval capital, but wear sturdy shoes since the historical pathways can be quite rocky and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Dexá",
+            "hu": "Dexá strand",
+            "ro": "Plaja Dexá",
+            "en": "Dexá"
+          },
+          "coords": [
+            20.702863,
+            38.370812
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Olivenbäumen umgebenen Strand und kommen Sie früh, um sich einen Platz im natürlichen Schatten zu sichern.",
+            "hu": "Pihenjen ezen az olajfákkal körülvett, kék zászlós strandon, és érkezzen korán, hogy még a tömeg előtt találjon természetes árnyékot magának.",
+            "ro": "Relaxați-vă pe această plajă superbă înconjurată de măslini și ajungeți devreme pentru a prinde un loc cu umbră naturală înainte să se aglomereze.",
+            "en": "Relax at this beautiful blue-flag beach surrounded by olive trees, and arrive early to claim a spot in the natural shade before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Enetika Kanonia",
+            "hu": "Enetika kanonia",
+            "ro": "Enetika kanonia",
+            "en": "Enetika kanonia"
+          },
+          "coords": [
+            20.710178,
+            38.373273
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der venezianischen Verteidigungskanonen, die die Bucht schützen und einen fantastischen Ort für Panoramafotos bieten.",
+            "hu": "Csodálja meg az öblöt védő velencei ágyúk maradványait, amelyek fantasztikus és könnyen megközelíthető helyszínt kínálnak a panorámafotókhoz.",
+            "ro": "Admirați rămășițele tunurilor de apărare venețiene care protejează golful, oferind un loc fantastic și ușor accesibil pentru fotografii panoramice.",
+            "en": "Admire the remnants of the Venetian defensive cannons protecting the bay, offering a fantastic and easily accessible spot for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Loutsa",
+            "hu": "Loutsa strand",
+            "ro": "Plaja Loutsa",
+            "en": "Loutsa"
+          },
+          "coords": [
+            20.709406,
+            38.374287
+          ],
+          "category": "recreational",
+          "arrive_at": "15:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie ein ruhiges Bad im flachen, klaren Wasser von Loutsa, ein perfekter kurzer Stopp für Familien direkt am Eingang der Bucht.",
+            "hu": "Élvezze a nyugodt úszást Loutsa sekély, tiszta vizében, amely tökéletes, gyors megállót jelent a családok számára közvetlenül a Vathy-öböl bejáratánál.",
+            "ro": "Bucurați-vă de o înotare liniștită în apele limpezi ale plajei Loutsa, fiind o oprire rapidă și perfectă pentru familii chiar la intrarea în golf.",
+            "en": "Enjoy a tranquil swim in the shallow, clear waters of Loutsa, making it a perfect quick stop for families right at the entrance of Vathy bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Zentrum von Vathy im archäologischen Museum, wo Sie Ithakas mythische Vergangenheit erkunden, bevor Sie die mittelalterlichen Ruinen von Palaiokhora entdecken.\n\nMittags lockt ein Tapetenwechsel, während Sie entlang der Küste zum Strand von Dexá spazieren. Diese von Olivenbäumen gesäumte Bucht ist der perfekte Ort für eine kleine Pause.\n\nAm Nachmittag erwarten Sie die historischen venezianischen Kanonen, die stumm den Eingang der Bucht bewachen. Die Aussicht über den Hafen ist von hier aus spektakulär.\n\nBeenden Sie Ihre Wanderung am Strand von Loutsa und entspannen Sie sich in seinem flachen Wasser, während der Abend hereinbricht. Ein friedlicher Abschluss.",
+        "hu": "A délelőtt Vathy szívében, a régészeti múzeumban indul, ahol felfedezheti Ithaka mitikus múltját, majd dél felé véve az irányt megcsodálhatja Palaiokhora középkori romjait.\n\nA délidő egy kellemes part menti sétát ígér a Dexá strand felé. Ez az olajfákkal szegélyezett öböl tökéletes hely a lábak pihentetésére és a tengeri szellő élvezetére.\n\nDélután a történelmi velencei ágyúk várják, amelyek némán őrzik az öböl bejáratát. Ebből a magasságból igazán látványos kilátás nyílik a kikötőre és a tengerre.\n\nZárja a gyalogtúrát a Loutsa strandon, és pihenjen a nyugodt, sekély vízben az este közeledtével. Ez egy békés befejezése a történelemben és szépségben gazdag napnak.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Vathy la muzeul arheologic, explorând trecutul mitic al Itacăi, înainte de a descoperi ruinele medievale din Palaiokhora.\n\nLa amiază veți face o schimbare de peisaj în timp ce vă plimbați de-a lungul coastei spre plaja Dexá. Acest golf mărginit de măslini este locul perfect pentru odihnă.\n\nDupă-amiaza vă așteaptă istoricele tunuri venețiene, care păzesc tăcute intrarea în golf. Priveliștea asupra portului de la acest punct de observație este cu adevărat spectaculoasă.\n\nÎncheiați-vă turul pietonal la plaja Loutsa, relaxându-vă în apele sale calme pe măsură ce se lasă seara. O concluzie pașnică a unei zile bogate în istorie și frumusețe de coastă.",
+        "en": "Your morning starts in the heart of Vathy at the archaeological museum, exploring Ithaca's mythical past. From there, head south to uncover the medieval ruins of Palaiokhora.\n\nMidday invites a shift in scenery as you walk along the coast to Dexá beach. This olive-fringed cove is the perfect spot to rest your feet and enjoy the Ionian breeze.\n\nIn the afternoon, the historic Venetian cannons await you, silently guarding the bay's entrance. The views over the harbor from this vantage point are truly spectacular.\n\nEnd your walking tour at Loutsa beach, relaxing in its calm, shallow waters as the evening sets in. It's a peaceful conclusion to a day rich in history and coastal beauty."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:32",
+      "total_km": 5.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum Ithaka",
+            "hu": "Ithakai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Itaca",
+            "en": "Ithaca archaeological museum"
+          },
+          "coords": [
+            20.721525,
+            38.364612
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Artefakte aus der mykenischen Zeit und schauen Sie sich die Keramiksammlung an, die die homerischen Epen lebendig macht.",
+            "hu": "Fedezze fel a mükénéi korból származó helyi leleteket, és mindenképpen tekintse meg az ókori kerámiagyűjteményt, amely életre kelti a homéroszi eposzokat.",
+            "ro": "Descoperiți artefacte locale din epoca miceniană și nu uitați să verificați colecția de ceramică veche, care dă viață epopeilor homerice.",
+            "en": "Discover local artifacts dating back to the Mycenaean era and remember to check the pottery collection, which brings Homeric epics to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhora",
+            "hu": "Palaiokhora",
+            "ro": "Palaiokhora",
+            "en": "Palaiokhora"
+          },
+          "coords": [
+            20.712419,
+            38.352605
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atmosphärischen Ruinen dieser mittelalterlichen Hauptstadt, aber tragen Sie festes Schuhwerk, da die historischen Wege steinig sind.",
+            "hu": "Fedezze fel a középkori főváros hangulatos romjait, de viseljen masszív cipőt, mivel a történelmi ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei capitale medievale, dar purtați încălțăminte rezistentă, deoarece cărările istorice sunt stâncoase.",
+            "en": "Explore the atmospheric ruins of this medieval capital, but wear sturdy shoes since the historical pathways can be quite rocky and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Dexá",
+            "hu": "Dexá strand",
+            "ro": "Plaja Dexá",
+            "en": "Dexá"
+          },
+          "coords": [
+            20.702863,
+            38.370812
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Olivenbäumen umgebenen Strand und kommen Sie früh, um sich einen Platz im natürlichen Schatten zu sichern.",
+            "hu": "Pihenjen ezen az olajfákkal körülvett, kék zászlós strandon, és érkezzen korán, hogy még a tömeg előtt találjon természetes árnyékot magának.",
+            "ro": "Relaxați-vă pe această plajă superbă înconjurată de măslini și ajungeți devreme pentru a prinde un loc cu umbră naturală înainte să se aglomereze.",
+            "en": "Relax at this beautiful blue-flag beach surrounded by olive trees, and arrive early to claim a spot in the natural shade before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Enetika Kanonia",
+            "hu": "Enetika kanonia",
+            "ro": "Enetika kanonia",
+            "en": "Enetika kanonia"
+          },
+          "coords": [
+            20.710178,
+            38.373273
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der venezianischen Verteidigungskanonen, die die Bucht schützen und einen fantastischen Ort für Panoramafotos bieten.",
+            "hu": "Csodálja meg az öblöt védő velencei ágyúk maradványait, amelyek fantasztikus és könnyen megközelíthető helyszínt kínálnak a panorámafotókhoz.",
+            "ro": "Admirați rămășițele tunurilor de apărare venețiene care protejează golful, oferind un loc fantastic și ușor accesibil pentru fotografii panoramice.",
+            "en": "Admire the remnants of the Venetian defensive cannons protecting the bay, offering a fantastic and easily accessible spot for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Loutsa",
+            "hu": "Loutsa strand",
+            "ro": "Plaja Loutsa",
+            "en": "Loutsa"
+          },
+          "coords": [
+            20.709406,
+            38.374287
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie ein ruhiges Bad im flachen, klaren Wasser von Loutsa, ein perfekter kurzer Stopp für Familien direkt am Eingang der Bucht.",
+            "hu": "Élvezze a nyugodt úszást Loutsa sekély, tiszta vizében, amely tökéletes, gyors megállót jelent a családok számára közvetlenül a Vathy-öböl bejáratánál.",
+            "ro": "Bucurați-vă de o înotare liniștită în apele limpezi ale plajei Loutsa, fiind o oprire rapidă și perfectă pentru familii chiar la intrarea în golf.",
+            "en": "Enjoy a tranquil swim in the shallow, clear waters of Loutsa, making it a perfect quick stop for families right at the entrance of Vathy bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Mnimata",
+            "hu": "Mnimata",
+            "ro": "Mnimata",
+            "en": "Mnimata"
+          },
+          "coords": [
+            20.717619,
+            38.380551
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser abgelegenen Kieselsteinbucht und bringen Sie unbedingt eigenes Wasser und Snacks mit, da es keine Einrichtungen gibt.",
+            "hu": "Meneküljön el a tömeg elől ebben az eldugott, kristálytiszta vizű kavicsos öbölben, és mindenképpen vigyen magával vizet, mivel nincsenek büfék.",
+            "ro": "Scăpați de aglomerație în acest golfuleț retras cu ape cristaline și asigurați-vă că aduceți apă și gustări, deoarece nu există facilități comerciale.",
+            "en": "Escape the crowds at this secluded pebbly cove with crystal-clear waters, and make sure to bring your own water and snacks as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Skinos",
+            "hu": "Skinos strand",
+            "ro": "Plaja Skinos",
+            "en": "Skinos"
+          },
+          "coords": [
+            20.723324,
+            38.384653
+          ],
+          "category": "recreational",
+          "arrive_at": "17:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen Strand im Schatten hoher Pinien, aber stellen Sie sich auf einen kurzen Spaziergang durch den Wald ein.",
+            "hu": "Zárja a napot ezen a hatalmas fenyők által árnyékolt, lenyűgöző strandon, de készüljön fel egy rövid erdei sétára a kijelölt parkolóhelytől.",
+            "ro": "Încheiați-vă ziua pe această plajă uimitoare umbrită de pini înalți, dar fiți pregătit pentru o scurtă plimbare prin pădure de la zona de parcare.",
+            "en": "Conclude your day at this stunning beach shaded by tall pines, but be prepared for a short walk through the forest from the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum archäologischen Museum für eine Portion antiker Geschichte, bevor Sie sich zu den mittelalterlichen Überresten von Palaiokhora aufmachen.\n\nAm Mittag rollen Sie mühelos hinunter zum einladenden Strand von Dexá. Ein erfrischendes Bad bietet hier die perfekte Pause auf Ihrer Radtour.\n\nDie Nachmittagsfahrt führt Sie vorbei an den alten venezianischen Kanonen mit Panoramablick auf die Bucht, bevor Sie das ruhige Ufer von Loutsa für eine Pause erreichen.\n\nWenn der Abend naht, fahren Sie weiter auf der Küstenstraße nach Mnimata und schließlich zum Skinos Strand. Diese ruhigen, nach Pinien duftenden Orte sind atemberaubend.",
+        "hu": "Tekerjen el korán a régészeti múzeumhoz egy kis ókori történelemért, majd folytassa útját a dombnak felfelé Palaiokhora középkori maradványai felé a melegedő délelőttben.\n\nDélben guruljon le a Dexá strand hívogató vizéhez. Egy frissítő úszás itt tökéletes pihenést biztosít, mielőtt visszapattanna a kerékpárra a további kalandokhoz.\n\nA délutáni kerékpározás a régi velencei ágyúk mellett vezet el, panorámás kilátást nyújtva az öbölre, majd elérve a nyugodt Loutsa partjait megpihenhet egy kicsit.\n\nAhogy közeledik az este, haladjon tovább a festői part menti úton Mnimata, majd végül a Skinos strand felé. Ezek a csendes helyek fenséges naplemente hangulatot árasztanak.",
+        "ro": "Pedalați devreme spre muzeul arheologic pentru o porție de istorie antică, apoi continuați drumul spre vestigiile medievale din Palaiokhora pe măsură ce se încălzește.\n\nLa prânz, coborâți fără efort către apele primitoare ale plajei Dexá. O baie răcoritoare aici oferă pauza perfectă înainte de a vă întoarce pe bicicletă.\n\nCiclismul de după-amiază vă duce pe lângă vechile tunuri venețiene, oferind vedere panoramică la golf, înainte de a ajunge la țărmurile liniștite de la Loutsa.\n\nOdată cu lăsarea serii, mergeți mai departe pe drumul pitoresc de coastă până la Mnimata și plaja Skinos. Aceste locuri liniștite, parfumate cu pini, sunt perfecte la apus.",
+        "en": "Pedal out early to the archaeological museum for a dose of ancient history, then continue your ride up toward the medieval remnants of Palaiokhora as the morning warms up.\n\nBy midday, cruise effortlessly down to the inviting waters of Dexá beach. A refreshing swim here provides the perfect break before hopping back on your bicycle.\n\nAfternoon cycling takes you past the old Venetian cannons, offering panoramic bay views, before reaching the calm and family-friendly shores of Loutsa for a quick rest.\n\nAs evening approaches, push further along the scenic coastal road to Mnimata and finally Skinos beach. These quiet, pine-scented spots offer a sublime sunset atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sarakíniko",
+            "hu": "Sarakíniko",
+            "ro": "Sarakíniko",
+            "en": "Sarakíniko"
+          },
+          "coords": [
+            20.737144,
+            38.365541
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein morgendliches Bad im smaragdgrünen Wasser dieser ruhigen Bucht und packen Sie Ihre Schnorchelausrüstung ein, um die felsige Küste zu erkunden.",
+            "hu": "Vegyünk egy reggeli fürdőt ennek a csendes öbölnek a ragyogóan tiszta, smaragdzöld vizében, és vigyünk magunkkal búvárfelszerelést a part felfedezéséhez.",
+            "ro": "Faceți o baie matinală în apele de smarald ale acestui golf liniștit și împachetați echipamentul de snorkeling pentru a explora coasta stâncoasă.",
+            "en": "Take a morning dip in the brilliantly clear, emerald waters of this quiet cove, and pack your snorkeling gear to explore the rocky coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Filiatro",
+            "hu": "Filiatro strand",
+            "ro": "Plaja Filiatro",
+            "en": "Filiatro"
+          },
+          "coords": [
+            20.74195,
+            38.371902
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie den kosmopolitischsten Strand der Insel mit hervorragenden Badebedingungen und genießen Sie ein kühles Getränk aus der kleinen Strandkantine.",
+            "hu": "Látogasson el a sziget legkozmopolitább strandjára, ahol kiválóak a fürdőzési feltételek, és fogyasszon el egy hűsítő italt a kis strandbüféből.",
+            "ro": "Vizitați cea mai cosmopolită plajă a insulei cu condiții excelente de înot și bucurați-vă de o băutură rece de la mica cantină de pe plajă.",
+            "en": "Visit the most cosmopolitan beach of the island with excellent swimming conditions, and enjoy a refreshing cold drink from the small beach canteen."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Ithaka",
+            "hu": "Ithakai Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Itaca",
+            "en": "Ithaca archaeological museum"
+          },
+          "coords": [
+            20.721525,
+            38.364612
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Artefakte aus der mykenischen Zeit und schauen Sie sich die Keramiksammlung an, die die homerischen Epen lebendig macht.",
+            "hu": "Fedezze fel a mükénéi korból származó helyi leleteket, és mindenképpen tekintse meg az ókori kerámiagyűjteményt, amely életre kelti a homéroszi eposzokat.",
+            "ro": "Descoperiți artefacte locale din epoca miceniană și nu uitați să verificați colecția de ceramică veche, care dă viață epopeilor homerice.",
+            "en": "Discover local artifacts dating back to the Mycenaean era and remember to check the pottery collection, which brings Homeric epics to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Dexá",
+            "hu": "Dexá strand",
+            "ro": "Plaja Dexá",
+            "en": "Dexá"
+          },
+          "coords": [
+            20.702863,
+            38.370812
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Olivenbäumen umgebenen Strand und kommen Sie früh, um sich einen Platz im natürlichen Schatten zu sichern.",
+            "hu": "Pihenjen ezen az olajfákkal körülvett, kék zászlós strandon, és érkezzen korán, hogy még a tömeg előtt találjon természetes árnyékot magának.",
+            "ro": "Relaxați-vă pe această plajă superbă înconjurată de măslini și ajungeți devreme pentru a prinde un loc cu umbră naturală înainte să se aglomereze.",
+            "en": "Relax at this beautiful blue-flag beach surrounded by olive trees, and arrive early to claim a spot in the natural shade before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Enetika Kanonia",
+            "hu": "Enetika kanonia",
+            "ro": "Enetika kanonia",
+            "en": "Enetika kanonia"
+          },
+          "coords": [
+            20.710178,
+            38.373273
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der venezianischen Verteidigungskanonen, die die Bucht schützen und einen fantastischen Ort für Panoramafotos bieten.",
+            "hu": "Csodálja meg az öblöt védő velencei ágyúk maradványait, amelyek fantasztikus és könnyen megközelíthető helyszínt kínálnak a panorámafotókhoz.",
+            "ro": "Admirați rămășițele tunurilor de apărare venețiene care protejează golful, oferind un loc fantastic și ușor accesibil pentru fotografii panoramice.",
+            "en": "Admire the remnants of the Venetian defensive cannons protecting the bay, offering a fantastic and easily accessible spot for panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Mnimata",
+            "hu": "Mnimata",
+            "ro": "Mnimata",
+            "en": "Mnimata"
+          },
+          "coords": [
+            20.717619,
+            38.380551
+          ],
+          "category": "recreational",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser abgelegenen Kieselsteinbucht und bringen Sie unbedingt eigenes Wasser und Snacks mit, da es keine Einrichtungen gibt.",
+            "hu": "Meneküljön el a tömeg elől ebben az eldugott, kristálytiszta vizű kavicsos öbölben, és mindenképpen vigyen magával vizet, mivel nincsenek büfék.",
+            "ro": "Scăpați de aglomerație în acest golfuleț retras cu ape cristaline și asigurați-vă că aduceți apă și gustări, deoarece nu există facilități comerciale.",
+            "en": "Escape the crowds at this secluded pebbly cove with crystal-clear waters, and make sure to bring your own water and snacks as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt östlich von Vathy mit einem Bad in der Bucht von Sarakíniko, gefolgt von der lebhaften Atmosphäre an den organisierten Ufern des Strandes Filiatro.\n\nFahren Sie gegen Mittag zurück ins Stadtzentrum, um im archäologischen Museum in das lokale Erbe und die reiche homerische Geschichte Ithakas einzutauchen.\n\nAm Nachmittag fahren Sie bequem die Küstenstraße zum schattigen Strand Dexá für eine erholsame Pause und dann weiter zu den venezianischen Kanonen für tolle Fotos.\n\nBeenden Sie Ihren Roadtrip am abgelegenen Strand von Mnimata in der Abenddämmerung. Die kurze Fahrt belohnt Sie mit kristallklarem Wasser und einer ruhigen Umgebung.",
+        "hu": "Kezdje a festői autózást Vathytól keletre egy frissítő reggeli fürdőzéssel a Sarakíniko-öbölben, amit a Filiatro strand vibráló hangulata és kiépített partja követ.\n\nDélben vezessen vissza a városközpontba, hogy a régészeti múzeumban elmerüljön a helyi örökségben, magába szívva Ithaka gazdag homéroszi és mükénéi történelmét.\n\nDélután kényelmesen haladjon végig a parti úton az olajfákkal árnyékolt Dexá strandig egy pihentető szünetre, majd hajtson fel a velencei ágyúkhoz a csodás öbölfotókért.\n\nZárja az autós túrát az eldugott Mnimata strandon alkonyatkor. A rövid út kristálytiszta vízzel és a tömegtől távoli, nyugodt természeti környezettel jutalmazza.",
+        "ro": "Începeți traseul cu mașina la est de Vathy cu o baie matinală în golful Sarakíniko, urmată rapid de atmosfera vibrantă și țărmurile amenajate ale plajei Filiatro.\n\nÎn jurul prânzului, conduceți înapoi în centrul orașului pentru a vă cufunda în patrimoniul local la muzeul arheologic, absorbind bogata istorie homerică a insulei.\n\nDupă-amiaza, navigați confortabil pe drumul de coastă până la plaja Dexá pentru o pauză relaxantă, apoi urcați cu mașina la tunurile venețiene pentru fotografii magnifice.\n\nÎncheiați-vă călătoria la plaja retrasă Mnimata la lăsarea serii. Scurta plimbare vă recompensează cu ape cristaline și un mediu natural senin, departe de agitație.",
+        "en": "Start your scenic drive east of Vathy with a refreshing morning swim at Sarakíniko cove, followed quickly by the vibrant atmosphere and organized shores of Filiatro beach.\n\nAround midday, drive back into the town center to immerse yourself in local heritage at the archaeological museum, absorbing the rich Homeric and Mycenaean history of Ithaca.\n\nIn the afternoon, comfortably navigate the coastal road to the olive-shaded Dexá beach for a relaxing pause, then drive up to the Venetian cannons for magnificent bay photos.\n\nWrap up your road trip at the secluded Mnimata beach as dusk settles. The short drive rewards you with crystal-clear waters and a serene natural environment away from the crowds."
+      }
+    }
+  }
+}

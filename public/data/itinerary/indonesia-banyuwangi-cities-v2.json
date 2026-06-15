@@ -1,0 +1,543 @@
+{
+  "city_id": "indonesia-banyuwangi-cities-v2",
+  "anchor": {
+    "name": "Banyuwangi",
+    "coords": [
+      114.366944,
+      -8.218611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Blambangan",
+            "hu": "Museum Blambangan",
+            "ro": "Museum Blambangan",
+            "en": "Museum Blambangan"
+          },
+          "coords": [
+            114.36816,
+            -8.220869
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Banyuwangis reiches Erbe anhand antiker Artefakte in diesem Museum und achten Sie besonders auf die Töpfersammlung am Eingang.",
+            "hu": "Fedezze fel Banyuwangi gazdag örökségét az ősi leleteken keresztül, és ne hagyja ki a bejárat melletti érdekes kerámiagyűjteményt sem.",
+            "ro": "Descoperiți moștenirea bogată din Banyuwangi prin artefacte antice și asigurați-vă că verificați colecția de ceramică de la intrare.",
+            "en": "Discover Banyuwangi's rich heritage through ancient artifacts in this museum, and be sure to check the pottery collection by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kampung Lukis - Painting Village",
+            "hu": "Kampung Lukis - Painting Village",
+            "ro": "Kampung Lukis - Painting Village",
+            "en": "Kampung Lukis - Painting Village"
+          },
+          "coords": [
+            114.372257,
+            -8.211566
+          ],
+          "category": "landmark",
+          "arrive_at": "11:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch bunte Gassen voller lokaler Kunst und kommen Sie am besten am Vormittag, um den Künstlern beim Malen zuzusehen.",
+            "hu": "Sétáljon a helyi művészettel díszített színes sikátorokban, de érkezzen délelőtt, hogy láthassa a művészeket munka közben.",
+            "ro": "Plimbați-vă pe aleile colorate împodobite cu artă locală, dar veniți dimineața pentru a vedea artiștii pictând în aer liber.",
+            "en": "Stroll through colorful alleys adorned with vibrant local art, but arrive mid-morning to catch the artists actively painting outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Banyuwangi",
+            "hu": "Masjid Agung Banyuwangi",
+            "ro": "Masjid Agung Banyuwangi",
+            "en": "Masjid Agung Banyuwangi"
+          },
+          "coords": [
+            114.372907,
+            -8.209371
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser großen Moschee, wobei Sie auf angemessene Kleidung und die Gebetszeiten achten sollten.",
+            "hu": "Csodálja meg ennek a kiemelkedő nagy mecsetnek a lenyűgöző építészetét, de ügyeljen a szerény öltözékre és az imaidőkre.",
+            "ro": "Admirați arhitectura impresionantă a acestei mari moschei, amintindu-vă să vă îmbrăcați modest și să respectați orele de rugăciune.",
+            "en": "Admire the striking architecture of this prominent grand mosque, remembering to dress modestly and respect the designated prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendapa Sabha Swagata Blambangan",
+            "hu": "Pendapa Sabha Swagata Blambangan",
+            "ro": "Pendapa Sabha Swagata Blambangan",
+            "en": "Pendapa Sabha Swagata Blambangan"
+          },
+          "coords": [
+            114.374057,
+            -8.207977
+          ],
+          "category": "castle",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Pavillon mit traditionellem Design und einem alten Bunker, und fragen Sie die Wachen nach einer kurzen Führung.",
+            "hu": "Fedezze fel ezt a hagyományos kialakítású és egy földalatti bunkerrel is rendelkező történelmi pavilont, és kérjen egy rövid tárlatvezetést.",
+            "ro": "Explorați acest mare pavilion istoric cu design tradițional și un buncăr subteran, cerând gardienilor un scurt tur ghidat.",
+            "en": "Explore this grand historical pavilion featuring traditional design and an underground bunker, asking the guards for a quick guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Banyuwangi",
+            "hu": "Pasar Banyuwangi",
+            "ro": "Pasar Banyuwangi",
+            "en": "Pasar Banyuwangi"
+          },
+          "coords": [
+            114.375257,
+            -8.21046
+          ],
+          "category": "cultural",
+          "arrive_at": "14:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre dieses traditionellen Marktes ein, wo beim Kauf von frischen Snacks höfliches Handeln erwartet wird.",
+            "hu": "Merüljön el a hagyományos piac nyüzsgő hangulatában, ahol udvarias alkudozás ajánlott a friss helyi finomságok vásárlásakor.",
+            "ro": "Cufundați-vă în atmosfera vibrantă a acestei piețe tradiționale, unde negocierea politicoasă este esențială la cumpărarea gustărilor.",
+            "en": "Immerse yourself in the bustling atmosphere of this traditional market, where bargaining politely is expected when buying fresh local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "tugu kartini",
+            "hu": "tugu kartini",
+            "ro": "tugu kartini",
+            "en": "tugu kartini"
+          },
+          "coords": [
+            114.377821,
+            -8.212442
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal zu Ehren einer indonesischen Heldin Ihren Respekt, das im goldenen Nachmittagslicht ein tolles Fotomotiv bietet.",
+            "hu": "Tisztelgés Indonézia női hőse előtt ennél az emlékműnél, amely az aranyló délutáni fényekben kiváló fotózási helyszínként is szolgál.",
+            "ro": "Omagiați eroina națională a Indoneziei la acest monument, care servește drept un loc excelent pentru fotografii în lumina caldă a după-amiezii.",
+            "en": "Pay your respects at this monument honoring Indonesia's female heroine, which serves as a great photo spot during the golden afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Banyuwangi beginnt mit einem tiefen Einblick in die Geschichte im Museum Blambangan. Die frische Morgenluft bietet das perfekte Tempo, um die antiken Relikte und Artefakte zu bewundern.\nMittags spazieren Sie durch die bunten Gassen von Kampung Lukis, wo Künstler ihre Werke zeigen. Danach bewundern Sie die beeindruckende Architektur der Masjid Agung Banyuwangi in aller Ruhe.\nDer Nachmittag ist der Erkundung des großen Pendapa Sabha Swagata Blambangan und seiner Geheimnisse gewidmet. Danach erwartet Sie im Pasar Banyuwangi ein Fest für die Sinne mit vielen lokalen Produkten.\nIhr Tag endet am Tugu-Kartini-Denkmal, das im goldenen Abendlicht besonders schön wirkt. Dieser Spaziergang verbindet die tiefe Kultur und das pulsierende Alltagsleben der Stadt auf wunderbare Weise.",
+        "hu": "A Banyuwangi-i séta a helyi történelemben való elmerüléssel kezdődik a Museum Blambangan termeiben. A friss reggeli levegő tökéletes ritmust ad a kiállított ősi leletek és műtárgyak megcsodálásához.\nDélben a Kampung Lukis színes ösvényein sétál, ahol a helyi művészek büszkén mutatják be munkáikat. Ezután a fenséges Masjid Agung mecset építészeti remekművénél tart egy rövid, békés pihenőt.\nA délutánt a lenyűgöző Pendapa Sabha Swagata Blambangan felfedezésével tölti, feltárva annak titkait. Később a nyüzsgő Pasar Banyuwangi piac a hagyományos áruk és illatok igazi kavalkádját kínálja.\nA nap a Tugu Kartini emlékműnél ér véget, miközben az aranyló fények kiemelik a nemzeti hősiesség előtti tisztelgést. Ez a kellemes séta gyönyörűen ötvözi a város kultúráját és mindennapi életét.",
+        "ro": "Turul pietonal prin Banyuwangi începe cu o incursiune în istoria locală la Muzeul Blambangan. Aerul proaspăt al dimineții oferă ritmul perfect pentru a aprecia artefactele și relicvele antice expuse.\nLa prânz, veți explora aleile colorate din Kampung Lukis, unde artiștii locali își expun lucrările. Apoi, veți face o pauză la maiestuoasa Masjid Agung pentru a-i admira arhitectura impresionantă.\nDupă-amiaza este dedicată explorării grandiosului Pendapa Sabha Swagata Blambangan, descoperindu-i secretele. Mai târziu, forfota de la Pasar Banyuwangi vă oferă un festin senzorial cu bunuri tradiționale.\nZiua se încheie la monumentul Tugu Kartini, în lumina aurie a serii, omagiind eroismul național. Această plimbare ușoară conectează frumos cultura profundă a orașului cu viața sa cotidiană vibrantă.",
+        "en": "Your walking tour of Banyuwangi begins with an immersive dive into local history at the Museum Blambangan. The morning air sets a perfect pace to appreciate the intricate artifacts and ancient relics on display.\nMidday leads you through the colorful paths of Kampung Lukis, where local artists proudly display their work. You will then stop by the grand Masjid Agung for a moment of architectural admiration.\nThe afternoon is spent wandering through the impressive Pendapa Sabha Swagata Blambangan, uncovering its historical secrets. Later, the bustling Pasar Banyuwangi offers a sensory feast of traditional goods.\nYour day wraps up at the Tugu Kartini monument as the golden hour highlights its tribute to national heroism. This gentle walk beautifully connects the city’s profound culture and vibrant daily life."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Patung Kuda Tirtawangi",
+            "hu": "Patung Kuda Tirtawangi",
+            "ro": "Patung Kuda Tirtawangi",
+            "en": "Patung Kuda Tirtawangi"
+          },
+          "coords": [
+            114.358222,
+            -8.236684
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese dynamische Pferdestatue, die den Geist der Stadt symbolisiert, am besten vom östlichen Gehweg aus, fernab des Verkehrs.",
+            "hu": "Csodálja meg a város szellemét jelképező dinamikus lovasszobrot, amelyet a forgalom elkerülése végett a keleti járdáról érdemes fotózni.",
+            "ro": "Admirați această statuie dinamică a cailor, simbolizând spiritul orașului, cel mai bine privită de pe trotuarul estic pentru siguranță.",
+            "en": "Marvel at this dynamic horse statue symbolizing the city's robust spirit, best viewed from the eastern sidewalk to avoid busy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Blambangan",
+            "hu": "Museum Blambangan",
+            "ro": "Museum Blambangan",
+            "en": "Museum Blambangan"
+          },
+          "coords": [
+            114.36816,
+            -8.220869
+          ],
+          "category": "museum",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Banyuwangis reiches Erbe anhand antiker Artefakte in diesem Museum und achten Sie besonders auf die Töpfersammlung am Eingang.",
+            "hu": "Fedezze fel Banyuwangi gazdag örökségét az ősi leleteken keresztül, és ne hagyja ki a bejárat melletti érdekes kerámiagyűjteményt sem.",
+            "ro": "Descoperiți moștenirea bogată din Banyuwangi prin artefacte antice și asigurați-vă că verificați colecția de ceramică de la intrare.",
+            "en": "Discover Banyuwangi's rich heritage through ancient artifacts in this museum, and be sure to check the pottery collection by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kampung Lukis - Painting Village",
+            "hu": "Kampung Lukis - Painting Village",
+            "ro": "Kampung Lukis - Painting Village",
+            "en": "Kampung Lukis - Painting Village"
+          },
+          "coords": [
+            114.372257,
+            -8.211566
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch bunte Gassen voller lokaler Kunst und kommen Sie am besten am Vormittag, um den Künstlern beim Malen zuzusehen.",
+            "hu": "Sétáljon a helyi művészettel díszített színes sikátorokban, de érkezzen délelőtt, hogy láthassa a művészeket munka közben.",
+            "ro": "Plimbați-vă pe aleile colorate împodobite cu artă locală, dar veniți dimineața pentru a vedea artiștii pictând în aer liber.",
+            "en": "Stroll through colorful alleys adorned with vibrant local art, but arrive mid-morning to catch the artists actively painting outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendapa Sabha Swagata Blambangan",
+            "hu": "Pendapa Sabha Swagata Blambangan",
+            "ro": "Pendapa Sabha Swagata Blambangan",
+            "en": "Pendapa Sabha Swagata Blambangan"
+          },
+          "coords": [
+            114.374057,
+            -8.207977
+          ],
+          "category": "castle",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Pavillon mit traditionellem Design und einem alten Bunker, und fragen Sie die Wachen nach einer kurzen Führung.",
+            "hu": "Fedezze fel ezt a hagyományos kialakítású és egy földalatti bunkerrel is rendelkező történelmi pavilont, és kérjen egy rövid tárlatvezetést.",
+            "ro": "Explorați acest mare pavilion istoric cu design tradițional și un buncăr subteran, cerând gardienilor un scurt tur ghidat.",
+            "en": "Explore this grand historical pavilion featuring traditional design and an underground bunker, asking the guards for a quick guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "tugu kartini",
+            "hu": "tugu kartini",
+            "ro": "tugu kartini",
+            "en": "tugu kartini"
+          },
+          "coords": [
+            114.377821,
+            -8.212442
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal zu Ehren einer indonesischen Heldin Ihren Respekt, das im goldenen Nachmittagslicht ein tolles Fotomotiv bietet.",
+            "hu": "Tisztelgés Indonézia női hőse előtt ennél az emlékműnél, amely az aranyló délutáni fényekben kiváló fotózási helyszínként is szolgál.",
+            "ro": "Omagiați eroina națională a Indoneziei la acest monument, care servește drept un loc excelent pentru fotografii în lumina caldă a după-amiezii.",
+            "en": "Pay your respects at this monument honoring Indonesia's female heroine, which serves as a great photo spot during the golden afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Pujasera",
+            "hu": "Pasar Pujasera",
+            "ro": "Pasar Pujasera",
+            "en": "Pasar Pujasera"
+          },
+          "coords": [
+            114.376464,
+            -8.216439
+          ],
+          "category": "cultural",
+          "arrive_at": "16:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie an diesem lebhaften kulinarischen Treffpunkt authentisches Streetfood und probieren Sie das scharfe Gericht Nasi Tempong.",
+            "hu": "Kóstolja meg az autentikus kelet-jávai utcai ételeket ebben a nyüzsgő központban, és próbálja ki a csípős Nasi Tempong specialitást.",
+            "ro": "Savurați mâncarea stradală autentică la acest centru culinar plin de viață și încercați specialitatea locală picantă Nasi Tempong.",
+            "en": "Savor authentic East Javanese street food at this lively culinary hub, and try the local specialty Nasi Tempong if you can handle spicy dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Burung",
+            "hu": "Pasar Burung",
+            "ro": "Pasar Burung",
+            "en": "Pasar Burung"
+          },
+          "coords": [
+            114.37573,
+            -8.221846
+          ],
+          "category": "cultural",
+          "arrive_at": "16:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartigen Eindrücke des traditionellen Vogelmarktes, wobei Sie beim Fotografieren etwas Abstand zu den Käfigen halten sollten.",
+            "hu": "Tapasztalja meg a hagyományos madárpiac egyedi hangulatát, ügyelve arra, hogy tisztes távolságot tartson a ketrecektől fotózás közben.",
+            "ro": "Experimentați atmosfera unică a pieței tradiționale de păsări, păstrând o distanță respectuoasă față de cuști atunci când faceți fotografii.",
+            "en": "Experience the unique sights and sounds of the traditional bird market, keeping a respectful distance from the cages while taking photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am Patung Kuda Tirtawangi, wo die dynamischen Pferdestatuen den Geist der Stadt verkörpern. Eine kurze Fahrt bringt Sie zu den Ausstellungen im Museum Blambangan.\nGegen Mittag radeln Sie in das kreative Herz von Kampung Lukis, gefolgt von einer Erkundung des Pendapa Sabha Swagata. Das Fahren auf diesen ruhigen Straßen bietet eine reizvolle lokale Perspektive.\nAm Nachmittag machen Sie eine Pause am Tugu Kartini, bevor es zu den kulinarischen Hotspots geht. Die sanfte Brise macht das Radeln zwischen diesen kulturellen und historischen Schätzen sehr erfrischend.\nDer Abend klingt aus, während Sie durch Pasar Pujasera und den Vogelmarkt Pasar Burung navigieren. Das Probieren von Streetfood und die Marktenergie bilden den perfekten Abschluss Ihres aktiven Tages.",
+        "hu": "Kezdje kerékpáros kalandját a Patung Kuda Tirtawanginál, ahol a dinamikus lovasszobrok a város szellemét testesítik meg. Egy frissítő tekerés után a Museum Blambangan gazdag kiállításaihoz érkezik.\nDélben a kerekek a Kampung Lukis kreatív szívébe viszik, majd a történelmi Pendapa Sabha Swagata következik. Ezeken a csendes utcákon pedálozva elbűvölő helyi perspektívából láthatja a várost.\nDélután tartson egy kis pihenőt a Tugu Kartininál, mielőtt az élénk kulináris helyszínek felé venné az irányt. A lágy szellő hihetetlenül frissítővé teszi a kulturális gyöngyszemek közötti kerékpározást.\nAz este folyamán kényelmesen gurulhat át a Pasar Pujasera és a Pasar Burung piacokon. Az utcai ételek kóstolása és az élénk piaci energia tökéletes befejezést nyújt az aktív naphoz.",
+        "ro": "Începeți aventura pe bicicletă la impresionanta Patung Kuda Tirtawangi, unde statuile dinamice ale cailor întruchipează spiritul orașului. O scurtă plimbare vă aduce la expozițiile Muzeului Blambangan.\nLa prânz, roțile vă poartă în inima creativă din Kampung Lukis, urmată de o explorare a istoricului Pendapa Sabha Swagata. Pedalarea pe aceste străzi liniștite oferă o perspectivă locală fermecătoare.\nDupă-amiaza, faceți o pauză la Tugu Kartini înainte de a vă îndrepta spre zonele culinare. Briza ușoară face ca ciclismul între aceste bijuterii culturale și istorice să fie incredibil de revigorant.\nSeara încetinește ritmul navigând prin Pasar Pujasera și piața de păsări Pasar Burung. Gustarea mâncării stradale și energia vibrantă a pieței reprezintă un final perfect pentru această zi activă.",
+        "en": "Kick off your cycling adventure at the striking Patung Kuda Tirtawangi, where the dynamic horse statues embody the spirit of the city. A brisk ride then brings you to the rich exhibits of Museum Blambangan.\nBy midday, your wheels carry you into the creative heart of Kampung Lukis, followed by an exploration of the historical Pendapa Sabha Swagata. Pedaling these quiet streets offers a charming local perspective.\nIn the afternoon, pause to reflect at Tugu Kartini before heading toward the lively culinary scenes. The gentle breeze makes cycling between these cultural and historical gems incredibly refreshing.\nThe evening slows down as you navigate through Pasar Pujasera and the unique Pasar Burung. Tasting street food and absorbing the vibrant market energy provides a perfect finish to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Al Kautsar",
+            "hu": "Masjid Al Kautsar",
+            "ro": "Masjid Al Kautsar",
+            "en": "Masjid Al Kautsar"
+          },
+          "coords": [
+            114.351636,
+            -8.211951
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe in dieser friedlichen Moschee und besuchen Sie den kleinen Garten nebenan, um sich kurz zu entspannen.",
+            "hu": "Találjon egy békés pillanatot ebben a nyugodt közösségi mecsetben, és pihenjen egyet a szomszédos kis kertben a folytatás előtt.",
+            "ro": "Găsiți un moment de liniște la această moschee comunitară și vizitați grădina mică adiacentă pentru a vă relaxa înainte de a pleca.",
+            "en": "Find a moment of peace at this serene community mosque, and visit the adjacent small garden to relax before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Blambangan",
+            "hu": "Museum Blambangan",
+            "ro": "Museum Blambangan",
+            "en": "Museum Blambangan"
+          },
+          "coords": [
+            114.36816,
+            -8.220869
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Banyuwangis reiches Erbe anhand antiker Artefakte in diesem Museum und achten Sie besonders auf die Töpfersammlung am Eingang.",
+            "hu": "Fedezze fel Banyuwangi gazdag örökségét az ősi leleteken keresztül, és ne hagyja ki a bejárat melletti érdekes kerámiagyűjteményt sem.",
+            "ro": "Descoperiți moștenirea bogată din Banyuwangi prin artefacte antice și asigurați-vă că verificați colecția de ceramică de la intrare.",
+            "en": "Discover Banyuwangi's rich heritage through ancient artifacts in this museum, and be sure to check the pottery collection by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "tugu kartini",
+            "hu": "tugu kartini",
+            "ro": "tugu kartini",
+            "en": "tugu kartini"
+          },
+          "coords": [
+            114.377821,
+            -8.212442
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal zu Ehren einer indonesischen Heldin Ihren Respekt, das im goldenen Nachmittagslicht ein tolles Fotomotiv bietet.",
+            "hu": "Tisztelgés Indonézia női hőse előtt ennél az emlékműnél, amely az aranyló délutáni fényekben kiváló fotózási helyszínként is szolgál.",
+            "ro": "Omagiați eroina națională a Indoneziei la acest monument, care servește drept un loc excelent pentru fotografii în lumina caldă a după-amiezii.",
+            "en": "Pay your respects at this monument honoring Indonesia's female heroine, which serves as a great photo spot during the golden afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Segitiga Berlian",
+            "hu": "Pasar Segitiga Berlian",
+            "ro": "Pasar Segitiga Berlian",
+            "en": "Pasar Segitiga Berlian"
+          },
+          "coords": [
+            114.379253,
+            -8.212757
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesem einzigartigen Einkaufsviertel durch vielfältige Waren, wo frühe Besuche die besten lokalen Produkte garantieren.",
+            "hu": "Böngésszen a különleges formájú bevásárlónegyed széles kínálatában, ahol a kora reggeli látogatás biztosítja a legjobb helyi termékeket.",
+            "ro": "Explorați o varietate de bunuri în acest cartier cu formă unică, unde vizitele dimineața devreme garantează cele mai bune produse locale.",
+            "en": "Browse a wide variety of goods in this uniquely shaped shopping district, where early morning visits guarantee the best local produce selections."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendapa Sabha Swagata Blambangan",
+            "hu": "Pendapa Sabha Swagata Blambangan",
+            "ro": "Pendapa Sabha Swagata Blambangan",
+            "en": "Pendapa Sabha Swagata Blambangan"
+          },
+          "coords": [
+            114.374057,
+            -8.207977
+          ],
+          "category": "castle",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Pavillon mit traditionellem Design und einem alten Bunker, und fragen Sie die Wachen nach einer kurzen Führung.",
+            "hu": "Fedezze fel ezt a hagyományos kialakítású és egy földalatti bunkerrel is rendelkező történelmi pavilont, és kérjen egy rövid tárlatvezetést.",
+            "ro": "Explorați acest mare pavilion istoric cu design tradițional și un buncăr subteran, cerând gardienilor un scurt tur ghidat.",
+            "en": "Explore this grand historical pavilion featuring traditional design and an underground bunker, asking the guards for a quick guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cemetery",
+            "hu": "Cemetery",
+            "ro": "Cemetery",
+            "en": "Cemetery"
+          },
+          "coords": [
+            114.367307,
+            -8.204294
+          ],
+          "category": "landmark",
+          "arrive_at": "15:12",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen historischen Friedhof, um die alte Ahnenverehrung in Banyuwangi zu verstehen, und verhalten Sie sich leise.",
+            "hu": "Sétáljon végig ezen a történelmi temetőn, hogy megértse Banyuwangi ősi tiszteletét, és végig őrizze meg csendes, tiszteletteljes viselkedését.",
+            "ro": "Plimbați-vă prin acest cimitir istoric pentru a înțelege venerarea ancestrală din Banyuwangi, păstrând o atitudine liniștită și respectuoasă.",
+            "en": "Walk through this deeply rooted historical cemetery to understand the ancestral reverence of Banyuwangi, keeping a quiet and respectful demeanor."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Hadi",
+            "hu": "Masjid Al Hadi",
+            "ro": "Masjid Al Hadi",
+            "en": "Masjid Al Hadi"
+          },
+          "coords": [
+            114.374439,
+            -8.199612
+          ],
+          "category": "religious",
+          "arrive_at": "16:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokalen Designelemente dieser schönen Moschee und werfen Sie einen Blick in den Hof, der oft für Treffen genutzt wird.",
+            "hu": "Értékelje e gyönyörű mecset bonyolult helyi dizájnelemeit, és nézze meg az udvart, amely gyakran ad otthont békés közösségi összejöveteleknek.",
+            "ro": "Apreciați designul local al acestei moschei frumoase și curtea interioară, care găzduiește adesea adunări pașnice ale comunității.",
+            "en": "Appreciate the intricate local design elements of this beautiful mosque, checking the courtyard which often hosts peaceful community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "water park,zoo,beach local",
+            "hu": "water park,zoo,beach local",
+            "ro": "water park,zoo,beach local",
+            "en": "water park,zoo,beach local"
+          },
+          "coords": [
+            114.379992,
+            -8.197575
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem beliebten Küstenerholungsgebiet mit vielen Attraktionen, aber bringen Sie Bargeld für die Eintrittsgelder mit.",
+            "hu": "Zárja a napot ebben a népszerű, tengerparti rekreációs övezetben, de hozzon magával készpénzt, mivel a belépődíjak zónánként változnak.",
+            "ro": "Încheiați ziua în această zonă de recreere de coastă populară, dar aduceți bani gheață suplimentari, deoarece taxele de intrare variază.",
+            "en": "End your day at this popular coastal recreation area featuring a mix of attractions, but bring extra cash as entrance fees vary by zone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit einem ruhigen Besuch der Masjid Al Kautsar, um entspannt in den Morgen zu starten. Danach führt eine bequeme Fahrt zu den kulturellen Ausstellungen im Museum Blambangan.\nWenn die Sonne höher steigt, erreichen Sie das Wahrzeichen Tugu Kartini und den einzigartigen Pasar Segitiga Berlian. Mit dem Auto lassen sich die Entfernungen zwischen diesen städtischen Zielen mühelos überbrücken.\nDer Nachmittag entfaltet sich am beeindruckenden Pendapa Sabha Swagata Blambangan, gefolgt vom historischen Friedhof. Danach besuchen Sie die ruhige Masjid Al Hadi, während der Tag langsam abkühlt.\nIhre Reise gipfelt im Küstenerholungsgebiet mit Wasserpark und lokalem Strand. Die Entspannung am Wasser bietet einen beruhigenden und malerischen Abschluss Ihrer umfassenden Autotour durch die Stadt.",
+        "hu": "Autós túrája a Masjid Al Kautsar mecset békés meglátogatásával indul, ráhangolódva a reggelre. Innen egy kényelmes út vezet a Museum Blambangan lenyűgöző és kiterjedt kulturális kiállításaihoz.\nA nap folyamán eléri az ikonikus Tugu Kartini emlékművet és a különleges szerkezetű Pasar Segitiga Berlian piacot. Az autó lehetővé teszi, hogy zökkenőmentesen kösse össze ezeket a városi nevezetességeket.\nA délután a fenséges Pendapa Sabha Swagata Blambangan felfedezésével folytatódik, majd egy történelmi temetőnél tart rövid pihenőt. Ezután a nyugodt Masjid Al Hadi mecsetbe látogat el a hűvösödő időben.\nUtazása a helyi strandot és vízi parkot is magába foglaló tengerparti rekreációs övezetben éri el csúcspontját. A vízparti pihenés nyugtató és festői lezárása ennek az átfogó városi autós túrának.",
+        "ro": "Turul dumneavoastră auto începe cu o vizită liniștită la Masjid Al Kautsar, pentru o dimineață relaxantă. De acolo, un drum confortabil vă conduce la expozițiile culturale extinse din Muzeul Blambangan.\nPe măsură ce soarele urcă, veți ajunge la iconicul Tugu Kartini și la structura unică a Pasar Segitiga Berlian. Având o mașină, puteți parcurge fără efort distanța dintre aceste repere urbane distincte.\nDupă-amiaza se desfășoară la impresionantul Pendapa Sabha Swagata Blambangan, urmat de o oprire la Cimitirul istoric. Vizitați apoi senina Masjid Al Hadi, pe măsură ce căldura zilei se mai domolește.\nCălătoria culminează la zona de recreere de pe coastă, cu parc acvatic și plajă locală. Relaxarea pe malul apei oferă o concluzie liniștitoare și pitorească pentru turul dumneavoastră cuprinzător al orașului.",
+        "en": "Your driving tour commences with a tranquil visit to Masjid Al Kautsar, easing you into the morning. From there, a comfortable drive leads to the extensive cultural displays housed within Museum Blambangan.\nAs the sun climbs, you will reach the iconic Tugu Kartini and the uniquely structured Pasar Segitiga Berlian. Having a car allows you to seamlessly bridge the gap between these distinct urban landmarks.\nThe afternoon unfolds at the impressive Pendapa Sabha Swagata Blambangan, followed by a reflective stop at the historical Cemetery. You then visit the serene Masjid Al Hadi as the day begins to cool down.\nYour journey culminates at the coastal recreation area featuring a water park and local beach. Relaxing by the water’s edge offers a soothing and picturesque conclusion to your comprehensive city driving tour."
+      }
+    }
+  }
+}

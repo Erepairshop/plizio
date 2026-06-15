@@ -1,0 +1,543 @@
+{
+  "city_id": "france-carolles-cities-v2",
+  "anchor": {
+    "name": "Carolles",
+    "coords": [
+      -1.55972,
+      48.74969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:34",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Vigor",
+            "hu": "Église Saint-Vigor",
+            "ro": "Église Saint-Vigor",
+            "en": "Église Saint-Vigor"
+          },
+          "coords": [
+            -1.558716,
+            48.750608
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser historischen Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die Glasfenster im Morgenlicht einzufangen.",
+            "hu": "Csodálja meg e történelmi templom időtálló építészetét, és hozzon magával nagylátószögű objektívet, hogy megörökítse a reggeli fényben fürdő üvegablakokat.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici istorice și aduceți un obiectiv cu unghi larg pentru a surprinde detaliile vitraliilor în lumina dimineții.",
+            "en": "Admire the timeless architecture of this historic church and bring a wide-angle lens to capture the beautiful stained glass details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Rocher du Sard",
+            "hu": "Le Rocher du Sard",
+            "ro": "Le Rocher du Sard",
+            "en": "Le Rocher du Sard"
+          },
+          "coords": [
+            -1.571782,
+            48.748865
+          ],
+          "category": "natural",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht von dieser Felsformation, aber tragen Sie festes Schuhwerk, da die Küstenwege uneben sind.",
+            "hu": "Élvezze a lélegzetelállító panorámát az öbölre erről a sziklaformációról, de viseljen masszív cipőt, mivel a part menti ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare ale golfului de pe această formațiune stâncoasă, dar purtați încălțăminte solidă deoarece potecile sunt inegale.",
+            "en": "Enjoy breathtaking panoramic views of the bay from this dramatic rock formation, but be sure to wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabane Vauban",
+            "hu": "Cabane Vauban",
+            "ro": "Cabane Vauban",
+            "en": "Cabane Vauban"
+          },
+          "coords": [
+            -1.569302,
+            48.743903
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen steinernen Beobachtungsposten an der Klippe und bringen Sie ein Fernglas mit, um den weiten Horizont nach Schiffen abzusuchen.",
+            "hu": "Fedezze fel ezt a szikla szélén magasodó történelmi kő őrhelyet, és hozzon távcsövet, hogy távoli hajókat és tengeri madarakat fürkésszen a láthatáron.",
+            "ro": "Explorați acest post de observație istoric din piatră de pe marginea stâncii și aduceți binoclul pentru a scruta orizontul larg după nave și păsări marine.",
+            "en": "Explore this historic stone observation post perched on the cliff edge and bring binoculars to scan the expansive horizon for distant ships and seabirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte des Mines d'Or",
+            "hu": "Grotte des Mines d'Or",
+            "ro": "Grotte des Mines d'Or",
+            "en": "Grotte des Mines d'Or"
+          },
+          "coords": [
+            -1.574085,
+            48.755947
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mysteriösen Küstenhöhlen, die in den Klippen versteckt sind, und planen Sie Ihren Besuch strikt bei Ebbe, um den Eingang sicher zu erreichen.",
+            "hu": "Fedezze fel a sziklák között megbúvó rejtélyes tengerparti barlangokat, és a rejtett bejárat biztonságos megközelítése érdekében látogasson ide apálykor.",
+            "ro": "Descoperiți peșterile de coastă misterioase ascunse în stânci și planificați-vă vizita strict în timpul mareei scăzute pentru a accesa intrarea în siguranță.",
+            "en": "Discover the mysterious coastal caves tucked away in the cliffs, and plan your visit strictly during low tide to safely access the hidden entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Croix Paqueray",
+            "hu": "La Croix Paqueray",
+            "ro": "La Croix Paqueray",
+            "en": "La Croix Paqueray"
+          },
+          "coords": [
+            -1.57207,
+            48.757221
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem malerischen Aussichtspunkt mit freiem Blick auf die Küste, der sich ideal eignet, um eine kleine Picknickdecke auszubreiten.",
+            "hu": "Pihenjen meg ezen a festői természetes kilátóponton, amely zavartalan kilátást nyújt a partvonalra, és tökéletes hely egy kis pikniktakaró leterítésére.",
+            "ro": "Faceți o pauză la acest punct de belvedere pitoresc, care oferă vederi neîntrerupte ale coastei, fiind un loc ideal pentru a întinde o mică pătură de picnic.",
+            "en": "Pause at this scenic natural overlook offering uninterrupted views of the coastline, making it an ideal spot to spread out a small picnic blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Maudune",
+            "hu": "Chapelle Notre-Dame de Maudune",
+            "ro": "Chapelle Notre-Dame de Maudune",
+            "en": "Chapelle Notre-Dame de Maudune"
+          },
+          "coords": [
+            -1.5712,
+            48.760965
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, in den Hügeln gelegene Kapelle, um echte Gelassenheit zu erleben, und sprechen Sie aus Respekt vor der Atmosphäre leise.",
+            "hu": "Látogasson el ebbe a dombok között megbúvó, nyugodt kápolnába az igazi békességért, és a meditatív légkör tiszteletben tartása végett halkan beszéljen.",
+            "ro": "Vizitați această capelă liniștită amplasată în dealuri pentru a experimenta o seninătate autentică și amintiți-vă să vorbiți încet din respect pentru atmosferă.",
+            "en": "Visit this tranquil chapel nestled in the hills to experience genuine serenity, and remember to speak softly out of respect for its meditative atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen des Dorfes mit einem friedlichen Besuch der örtlichen Kirche und genießen Sie das morgendliche Ambiente. \n\nAm Mittag geht es zur zerklüfteten Küste auf alten Pfaden, die atemberaubende Panoramen über die Bucht eröffnen. \n\nAm Nachmittag entdecken Sie historische Militärposten und versteckte Küstenhöhlen, die auf die dramatische Vergangenheit hinweisen. \n\nBeenden Sie Ihren Spaziergang mit dem weiten Blick von einer Kapelle und lassen Sie die Küstenbrise auf sich wirken.",
+        "hu": "Kezdje a gyalogtúrát a falu szívében, egy békés látogatással a helyi templomban, élvezve a csendes reggeli hangulatot. \n\nDélben a zord partvonal felé veszi az irányt, ősi ösvényeket követve, amelyek lenyűgöző panorámát nyújtanak az öbölre. \n\nDélután fedezze fel a történelmi katonai őrhelyeket és a rejtett partmenti barlangokat, amelyek a drámai múltat idézik. \n\nZárja sétáját a domboldali kápolnából nyíló pazar kilátással, hagyva, hogy az alkonyati tengerparti szellő megnyugtassa.",
+        "ro": "Începeți turul de plimbare în inima satului cu o vizită pașnică la biserica locală, bucurându-vă de atmosfera liniștită a dimineții. \n\nLa amiază vă îndreptați spre coasta accidentată, urmărind poteci străvechi care dezvăluie panorame uluitoare asupra golfului. \n\nDupă-amiaza, descoperiți posturi militare istorice și peșteri de coastă ascunse care sugerează trecutul dramatic al regiunii. \n\nÎncheiați plimbarea cu vederi ample de la o capelă pe deal, lăsând briza de coastă să vă liniștească spiritul.",
+        "en": "Begin your walking tour in the heart of the village with a peaceful visit to the local church, enjoying the quiet morning ambiance. \n\nMidday takes you towards the rugged coastline, tracing ancient pathways that reveal stunning panoramas over the bay. \n\nIn the afternoon, discover historical military posts and hidden coastal caves that hint at the region's dramatic past. \n\nConclude your stroll with sweeping views from a hillside chapel, letting the twilight coastal breeze calm your spirit."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Vigor",
+            "hu": "Église Saint-Vigor",
+            "ro": "Église Saint-Vigor",
+            "en": "Église Saint-Vigor"
+          },
+          "coords": [
+            -1.558716,
+            48.750608
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser historischen Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die Glasfenster im Morgenlicht einzufangen.",
+            "hu": "Csodálja meg e történelmi templom időtálló építészetét, és hozzon magával nagylátószögű objektívet, hogy megörökítse a reggeli fényben fürdő üvegablakokat.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici istorice și aduceți un obiectiv cu unghi larg pentru a surprinde detaliile vitraliilor în lumina dimineții.",
+            "en": "Admire the timeless architecture of this historic church and bring a wide-angle lens to capture the beautiful stained glass details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Jullouville",
+            "hu": "Menhir de Jullouville",
+            "ro": "Menhir de Jullouville",
+            "en": "Menhir de Jullouville"
+          },
+          "coords": [
+            -1.542292,
+            48.752837
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem uralten megalithischen Hinkelstein, um den prähistorischen Puls der Region zu spüren, und kommen Sie früh, um den Menschenmassen auszuweichen.",
+            "hu": "Álljon meg ezen ősi megalitikus kőtömb mellett, hogy átérezze a régió történelem előtti lüktetését, és érkezzen korán a délutáni tömeg elkerülése végett.",
+            "ro": "Stați lângă această piatră megalitică antică pentru a simți pulsul preistoric al regiunii și vizitați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Stand beside this ancient megalithic standing stone to feel the region's prehistoric pulse, and visit early in the day to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Maudune",
+            "hu": "Chapelle Notre-Dame de Maudune",
+            "ro": "Chapelle Notre-Dame de Maudune",
+            "en": "Chapelle Notre-Dame de Maudune"
+          },
+          "coords": [
+            -1.5712,
+            48.760965
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, in den Hügeln gelegene Kapelle, um echte Gelassenheit zu erleben, und sprechen Sie aus Respekt vor der Atmosphäre leise.",
+            "hu": "Látogasson el ebbe a dombok között megbúvó, nyugodt kápolnába az igazi békességért, és a meditatív légkör tiszteletben tartása végett halkan beszéljen.",
+            "ro": "Vizitați această capelă liniștită amplasată în dealuri pentru a experimenta o seninătate autentică și amintiți-vă să vorbiți încet din respect pentru atmosferă.",
+            "en": "Visit this tranquil chapel nestled in the hills to experience genuine serenity, and remember to speak softly out of respect for its meditative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "La Croix Paqueray",
+            "hu": "La Croix Paqueray",
+            "ro": "La Croix Paqueray",
+            "en": "La Croix Paqueray"
+          },
+          "coords": [
+            -1.57207,
+            48.757221
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem malerischen Aussichtspunkt mit freiem Blick auf die Küste, der sich ideal eignet, um eine kleine Picknickdecke auszubreiten.",
+            "hu": "Pihenjen meg ezen a festői természetes kilátóponton, amely zavartalan kilátást nyújt a partvonalra, és tökéletes hely egy kis pikniktakaró leterítésére.",
+            "ro": "Faceți o pauză la acest punct de belvedere pitoresc, care oferă vederi neîntrerupte ale coastei, fiind un loc ideal pentru a întinde o mică pătură de picnic.",
+            "en": "Pause at this scenic natural overlook offering uninterrupted views of the coastline, making it an ideal spot to spread out a small picnic blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte des Mines d'Or",
+            "hu": "Grotte des Mines d'Or",
+            "ro": "Grotte des Mines d'Or",
+            "en": "Grotte des Mines d'Or"
+          },
+          "coords": [
+            -1.574085,
+            48.755947
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mysteriösen Küstenhöhlen, die in den Klippen versteckt sind, und planen Sie Ihren Besuch strikt bei Ebbe, um den Eingang sicher zu erreichen.",
+            "hu": "Fedezze fel a sziklák között megbúvó rejtélyes tengerparti barlangokat, és a rejtett bejárat biztonságos megközelítése érdekében látogasson ide apálykor.",
+            "ro": "Descoperiți peșterile de coastă misterioase ascunse în stânci și planificați-vă vizita strict în timpul mareei scăzute pentru a accesa intrarea în siguranță.",
+            "en": "Discover the mysterious coastal caves tucked away in the cliffs, and plan your visit strictly during low tide to safely access the hidden entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Rocher du Sard",
+            "hu": "Le Rocher du Sard",
+            "ro": "Le Rocher du Sard",
+            "en": "Le Rocher du Sard"
+          },
+          "coords": [
+            -1.571782,
+            48.748865
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht von dieser Felsformation, aber tragen Sie festes Schuhwerk, da die Küstenwege uneben sind.",
+            "hu": "Élvezze a lélegzetelállító panorámát az öbölre erről a sziklaformációról, de viseljen masszív cipőt, mivel a part menti ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare ale golfului de pe această formațiune stâncoasă, dar purtați încălțăminte solidă deoarece potecile sunt inegale.",
+            "en": "Enjoy breathtaking panoramic views of the bay from this dramatic rock formation, but be sure to wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabane Vauban",
+            "hu": "Cabane Vauban",
+            "ro": "Cabane Vauban",
+            "en": "Cabane Vauban"
+          },
+          "coords": [
+            -1.569302,
+            48.743903
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen steinernen Beobachtungsposten an der Klippe und bringen Sie ein Fernglas mit, um den weiten Horizont nach Schiffen abzusuchen.",
+            "hu": "Fedezze fel ezt a szikla szélén magasodó történelmi kő őrhelyet, és hozzon távcsövet, hogy távoli hajókat és tengeri madarakat fürkésszen a láthatáron.",
+            "ro": "Explorați acest post de observație istoric din piatră de pe marginea stâncii și aduceți binoclul pentru a scruta orizontul larg după nave și păsări marine.",
+            "en": "Explore this historic stone observation post perched on the cliff edge and bring binoculars to scan the expansive horizon for distant ships and seabirds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der zentralen Kirche, bevor Sie landeinwärts radeln, um alte prähistorische Hinkelsteine zu entdecken. \n\nIhre Mittagsfahrt verlagert sich zu den nördlichen Klippen und erreicht eine ruhige Kapelle im spektakulären natürlichen Licht. \n\nAm Nachmittag radeln Sie am Rande der Küste entlang, um wilde Felsvorsprünge und versteckte historische Küstengrotten zu erkunden. \n\nBeenden Sie das Abenteuer und fahren Sie nach Süden zu einem ikonischen steinernen Wachturm, um den Sonnenuntergang einzufangen.",
+        "hu": "Kezdje kerékpáros útját a központi templomnál, mielőtt a szárazföld belseje felé pedálozna, hogy ősi megalitikus köveket fedezzen fel. \n\nA déli túra az északi sziklák felé veszi az irányt, és elér egy békés dombtetői kápolnát, melyet lenyűgöző fény fürdet. \n\nDélután a part mentén haladva vad sziklaalakzatokat és rejtett történelmi tengerparti barlangokat fedezhet fel a szélben. \n\nZárja a kalandot dél felé haladva egy ikonikus kő őrtoronynál, megörökítve a végtelen tenger feletti csodás naplementét.",
+        "ro": "Începeți călătoria cu bicicleta la biserica centrală înainte de a pedala spre interior pentru a descoperi pietre preistorice antice. \n\nPlimbarea de la amiază se îndreaptă spre stâncile nordice, ajungând la o capelă senină pe deal, scăldată în lumină naturală. \n\nPedalarea de după-amiază vă aduce de-a lungul marginii coastei pentru a explora aflorimente stâncoase sălbatice și grote ascunse. \n\nÎncheiați aventura mergând spre sud către un turn de veghe emblematic din piatră, surprinzând apusul peste marea nesfârșită.",
+        "en": "Kick off your cycling journey gracefully at the central church before pedaling inland to uncover ancient prehistoric standing stones. \n\nYour midday ride shifts gear towards the northern cliffs, reaching a serene hilltop chapel bathed in spectacular natural light. \n\nAfternoon pedaling brings you along the coastal edge to explore wild rocky outcrops and hidden historic coastal grottos. \n\nWrap up the adventure riding south towards an iconic stone watchtower, capturing the sunset over the endless sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 6.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de Jullouville",
+            "hu": "Menhir de Jullouville",
+            "ro": "Menhir de Jullouville",
+            "en": "Menhir de Jullouville"
+          },
+          "coords": [
+            -1.542292,
+            48.752837
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie neben diesem uralten megalithischen Hinkelstein, um den prähistorischen Puls der Region zu spüren, und kommen Sie früh, um den Menschenmassen auszuweichen.",
+            "hu": "Álljon meg ezen ősi megalitikus kőtömb mellett, hogy átérezze a régió történelem előtti lüktetését, és érkezzen korán a délutáni tömeg elkerülése végett.",
+            "ro": "Stați lângă această piatră megalitică antică pentru a simți pulsul preistoric al regiunii și vizitați devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Stand beside this ancient megalithic standing stone to feel the region's prehistoric pulse, and visit early in the day to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Vigor",
+            "hu": "Église Saint-Vigor",
+            "ro": "Église Saint-Vigor",
+            "en": "Église Saint-Vigor"
+          },
+          "coords": [
+            -1.558716,
+            48.750608
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser historischen Kirche und bringen Sie ein Weitwinkelobjektiv mit, um die Glasfenster im Morgenlicht einzufangen.",
+            "hu": "Csodálja meg e történelmi templom időtálló építészetét, és hozzon magával nagylátószögű objektívet, hogy megörökítse a reggeli fényben fürdő üvegablakokat.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici istorice și aduceți un obiectiv cu unghi larg pentru a surprinde detaliile vitraliilor în lumina dimineții.",
+            "en": "Admire the timeless architecture of this historic church and bring a wide-angle lens to capture the beautiful stained glass details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Maudune",
+            "hu": "Chapelle Notre-Dame de Maudune",
+            "ro": "Chapelle Notre-Dame de Maudune",
+            "en": "Chapelle Notre-Dame de Maudune"
+          },
+          "coords": [
+            -1.5712,
+            48.760965
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige, in den Hügeln gelegene Kapelle, um echte Gelassenheit zu erleben, und sprechen Sie aus Respekt vor der Atmosphäre leise.",
+            "hu": "Látogasson el ebbe a dombok között megbúvó, nyugodt kápolnába az igazi békességért, és a meditatív légkör tiszteletben tartása végett halkan beszéljen.",
+            "ro": "Vizitați această capelă liniștită amplasată în dealuri pentru a experimenta o seninătate autentică și amintiți-vă să vorbiți încet din respect pentru atmosferă.",
+            "en": "Visit this tranquil chapel nestled in the hills to experience genuine serenity, and remember to speak softly out of respect for its meditative atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "La Croix Paqueray",
+            "hu": "La Croix Paqueray",
+            "ro": "La Croix Paqueray",
+            "en": "La Croix Paqueray"
+          },
+          "coords": [
+            -1.57207,
+            48.757221
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem malerischen Aussichtspunkt mit freiem Blick auf die Küste, der sich ideal eignet, um eine kleine Picknickdecke auszubreiten.",
+            "hu": "Pihenjen meg ezen a festői természetes kilátóponton, amely zavartalan kilátást nyújt a partvonalra, és tökéletes hely egy kis pikniktakaró leterítésére.",
+            "ro": "Faceți o pauză la acest punct de belvedere pitoresc, care oferă vederi neîntrerupte ale coastei, fiind un loc ideal pentru a întinde o mică pătură de picnic.",
+            "en": "Pause at this scenic natural overlook offering uninterrupted views of the coastline, making it an ideal spot to spread out a small picnic blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte des Mines d'Or",
+            "hu": "Grotte des Mines d'Or",
+            "ro": "Grotte des Mines d'Or",
+            "en": "Grotte des Mines d'Or"
+          },
+          "coords": [
+            -1.574085,
+            48.755947
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mysteriösen Küstenhöhlen, die in den Klippen versteckt sind, und planen Sie Ihren Besuch strikt bei Ebbe, um den Eingang sicher zu erreichen.",
+            "hu": "Fedezze fel a sziklák között megbúvó rejtélyes tengerparti barlangokat, és a rejtett bejárat biztonságos megközelítése érdekében látogasson ide apálykor.",
+            "ro": "Descoperiți peșterile de coastă misterioase ascunse în stânci și planificați-vă vizita strict în timpul mareei scăzute pentru a accesa intrarea în siguranță.",
+            "en": "Discover the mysterious coastal caves tucked away in the cliffs, and plan your visit strictly during low tide to safely access the hidden entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Rocher du Sard",
+            "hu": "Le Rocher du Sard",
+            "ro": "Le Rocher du Sard",
+            "en": "Le Rocher du Sard"
+          },
+          "coords": [
+            -1.571782,
+            48.748865
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Bucht von dieser Felsformation, aber tragen Sie festes Schuhwerk, da die Küstenwege uneben sind.",
+            "hu": "Élvezze a lélegzetelállító panorámát az öbölre erről a sziklaformációról, de viseljen masszív cipőt, mivel a part menti ösvények meglehetősen egyenetlenek.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare ale golfului de pe această formațiune stâncoasă, dar purtați încălțăminte solidă deoarece potecile sunt inegale.",
+            "en": "Enjoy breathtaking panoramic views of the bay from this dramatic rock formation, but be sure to wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabane Vauban",
+            "hu": "Cabane Vauban",
+            "ro": "Cabane Vauban",
+            "en": "Cabane Vauban"
+          },
+          "coords": [
+            -1.569302,
+            48.743903
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen steinernen Beobachtungsposten an der Klippe und bringen Sie ein Fernglas mit, um den weiten Horizont nach Schiffen abzusuchen.",
+            "hu": "Fedezze fel ezt a szikla szélén magasodó történelmi kő őrhelyet, és hozzon távcsövet, hogy távoli hajókat és tengeri madarakat fürkésszen a láthatáron.",
+            "ro": "Explorați acest post de observație istoric din piatră de pe marginea stâncii și aduceți binoclul pentru a scruta orizontul larg după nave și păsări marine.",
+            "en": "Explore this historic stone observation post perched on the cliff edge and bring binoculars to scan the expansive horizon for distant ships and seabirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabanne Vauban de Champeaux",
+            "hu": "Cabanne Vauban de Champeaux",
+            "ro": "Cabanne Vauban de Champeaux",
+            "en": "Cabanne Vauban de Champeaux"
+          },
+          "coords": [
+            -1.552117,
+            48.733634
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die strategische Brillanz dieses historischen steinernen Wachhauses und stellen Sie sich für ein perfektes Küstenporträt an die rustikalen Wände.",
+            "hu": "Csodálja meg e történelmi kő őrház stratégiai zsenialitását, és álljon a rusztikus falak mellé egy tökéletes tengerparti portréfotó elkészítéséhez.",
+            "ro": "Minunați-vă de geniul strategic al acestui corp de gardă istoric din piatră și poziționați-vă lângă pereții rustici pentru un portret de coastă perfect.",
+            "en": "Marvel at the strategic brilliance of this historical stone watchhouse, and position yourself against the rustic walls for a perfect coastal portrait."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit dem Besuch des beeindruckenden Menhirs, bevor Sie ins Dorf hinabfahren, um die Kirche zu bewundern. \n\nFahren Sie am Mittag auf den kurvenreichen Küstenstraßen zu einer friedlichen nördlichen Kapelle und dramatischen Aussichtspunkten. \n\nVerbringen Sie den Nachmittag damit, von einem majestätischen Küstenblick zum anderen zu fahren und Höhlen und Küsten zu entdecken. \n\nBeenden Sie Ihren Roadtrip im äußersten Süden, um einen perfekt erhaltenen historischen steinernen Wachturm zu bestaunen.",
+        "hu": "Kezdje festői autózását a lenyűgöző történelem előtti menhírnél, mielőtt visszatérne a faluba, hogy megcsodálja a templomot. \n\nDél közeledtével navigáljon a kanyargós partmenti utakon egy békés északi kápolnához és drámai természetes kilátópontokhoz. \n\nDélutánját autózással töltheti egyik fenséges tengerparti kilátástól a másikig, legendás barlangokat és sziklás partokat fedezve fel. \n\nZárja autós túráját a legdélebbi pont felé haladva, hogy megcsodáljon egy tökéletesen megőrzött történelmi kő őrtornyot.",
+        "ro": "Începeți plimbarea pitorească vizitând impresionantul menhir preistoric înainte de a coborî înapoi în sat pentru biserică. \n\nLa amiază, navigați pe drumurile de coastă șerpuite către o capelă nordică pașnică și puncte de belvedere naturale dramatice. \n\nPetreceți-vă după-amiaza conducând de la o priveliște maiestuoasă de coastă la alta, descoperind peșteri legendare și țărmuri stâncoase. \n\nÎncheiați-vă călătoria mergând spre sudul extrem pentru a vă minuna de un turn de veghe din piatră istoric perfect conservat.",
+        "en": "Start your scenic drive by visiting the impressive prehistoric menhir before descending back into the village to admire the church. \n\nAs midday approaches, navigate the winding coastal roads to a peaceful northern chapel and dramatic natural lookout spots. \n\nSpend your afternoon driving from one majestic coastal view to another, uncovering legendary caves and rocky shorelines. \n\nConclude your road trip heading down to the extreme south to marvel at a perfectly preserved historical stone watchtower."
+      }
+    }
+  }
+}

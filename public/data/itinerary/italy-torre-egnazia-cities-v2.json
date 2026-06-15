@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-torre-egnazia-cities-v2",
+  "anchor": {
+    "name": "Torre Egnazia",
+    "coords": [
+      17.368,
+      40.89787
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 3.03,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Bamboo Beach",
+            "de": "Bamboo Beach",
+            "hu": "Bamboo Beach",
+            "ro": "Bamboo Beach"
+          },
+          "coords": [
+            17.364498,
+            40.899416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start your day at Bamboo Beach, known for its pristine waters and soft sands, and consider renting a sunbed early to secure the best seaside spot.",
+            "de": "Beginnen Sie Ihren Tag am Bamboo Beach, der für sein klares Wasser bekannt ist, und mieten Sie früh eine Liege, um den besten Platz zu sichern.",
+            "hu": "Kezdje a napot a kristálytiszta vizű Bamboo strandon, ahol érdemes korán napágyat bérelni, hogy a legjobb helyet szerezze meg a tengerparton.",
+            "ro": "Începeți ziua la plaja Bamboo, cunoscută pentru apele sale cristaline, și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc la soare."
+          }
+        },
+        {
+          "name": {
+            "en": "Duna beach",
+            "de": "Duna beach",
+            "hu": "Duna beach",
+            "ro": "Duna beach"
+          },
+          "coords": [
+            17.366204,
+            40.89871
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "en": "Take a short stroll to Duna beach, a protected area boasting natural sand dunes, where bringing your own towel is ideal for a quick, scenic rest.",
+            "de": "Spazieren Sie zum nahegelegenen Duna-Strand, einem Naturschutzgebiet mit Sanddünen, wo ein eigenes Handtuch ideal für eine kurze Rast ist.",
+            "hu": "Sétáljon át a közeli Duna strandra, amely egy természetes homokdűnéiről ismert védett terület, ahol egy saját törölközőn pihenve élvezheti a tájat.",
+            "ro": "Faceți o scurtă plimbare până la plaja Duna, o zonă protejată cu dune de nisip naturale, unde aducerea propriului prosop este ideală pentru o odihnă."
+          }
+        },
+        {
+          "name": {
+            "en": "Coccaro Beach",
+            "de": "Coccaro Beach",
+            "hu": "Coccaro Beach",
+            "ro": "Coccaro Beach"
+          },
+          "coords": [
+            17.374528,
+            40.89637
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "en": "Continue your coastal walk to the upscale Coccaro Beach, offering luxury amenities and a great beachfront restaurant for a refreshing midday drink.",
+            "de": "Setzen Sie Ihre Küstenwanderung zum Coccaro Beach fort, der luxuriöse Annehmlichkeiten und ein tolles Strandrestaurant für ein erfrischendes Getränk bietet.",
+            "hu": "Folytassa parti sétáját az exkluzív Coccaro Beach felé, amely luxus kényelmet és egy kiváló tengerparti éttermet kínál egy frissítő déli italhoz.",
+            "ro": "Continuați plimbarea de coastă către Coccaro Beach, care oferă facilități de lux și un restaurant excelent pe plajă pentru o băutură răcoritoare la amiază."
+          }
+        },
+        {
+          "name": {
+            "en": "AcquaPark Egnazia",
+            "de": "AcquaPark Egnazia",
+            "hu": "AcquaPark Egnazia",
+            "ro": "AcquaPark Egnazia"
+          },
+          "coords": [
+            17.379132,
+            40.891736
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "en": "Embrace some energetic fun at AcquaPark Egnazia, the largest water park in Southern Italy, where you should buy tickets online to skip the lines.",
+            "de": "Erleben Sie actionreichen Spaß im AcquaPark Egnazia, dem größten Wasserpark Süditaliens, wo Sie Tickets besser vorab online kaufen sollten.",
+            "hu": "Élvezze a pezsgő szórakozást Dél-Olaszország legnagyobb aquaparkjában, az AcquaPark Egnaziában, ahol érdemes online jegyet venni a sorban állás elkerülésére.",
+            "ro": "Bucurați-vă de distracție energică la AcquaPark Egnazia, cel mai mare parc acvatic din sudul Italiei, unde ar trebui să cumpărați bilete online."
+          }
+        },
+        {
+          "name": {
+            "en": "National Archaeological Museum of Egnazia",
+            "de": "Archäologisches Nationalmuseum Egnazia",
+            "hu": "Egnazia Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național Arheologic din Egnazia"
+          },
+          "coords": [
+            17.387078,
+            40.88599
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Conclude your day at the National Archaeological Museum of Egnazia to discover ancient Messapian artifacts, taking advantage of the late afternoon shade.",
+            "de": "Beenden Sie Ihren Tag im Archäologischen Nationalmuseum von Egnazia, um messapische Artefakte zu entdecken und den Schatten des späten Nachmittags zu nutzen.",
+            "hu": "Zárja a napot az Egnazia Nemzeti Régészeti Múzeumban az ókori messzáp leletek felfedezésével, kihasználva a késő délutáni kellemes árnyékot.",
+            "ro": "Încheiați-vă ziua la Muzeul Național Arheologic din Egnazia pentru a descoperi artefacte antice mesapiene, profitând de umbra plăcută a după-amiezii târzii."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning with a relaxing stroll along the northern shores, soaking in the sun at Bamboo and Duna beaches. By midday, move further down the coast to enjoy the upscale vibe and refreshments at Coccaro Beach. The afternoon shifts the pace entirely with thrilling waterslides at AcquaPark Egnazia. Finally, end your walk in the late afternoon discovering ancient Messapian secrets at the Archaeological Museum.",
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang an den nördlichen Stränden und tanken Sie Sonne am Bamboo- und Duna-Strand. Mittags genießen Sie die gehobene Atmosphäre am Coccaro Beach. Der Nachmittag bringt mit den rasanten Wasserrutschen im AcquaPark Egnazia Action. Schließlich beenden Sie Ihre Tour am späten Nachmittag und entdecken antike messapische Geheimnisse im Archäologischen Museum.",
+        "hu": "Kezdje a reggelt egy pihentető sétával az északi partokon, élvezve a napsütést a Bamboo és a Duna strandokon. Délben sétáljon lejjebb a parton, hogy megtapasztalja az elegáns Coccaro Beach hangulatát. A délután izgalmas tempóváltást hoz az AcquaPark Egnazia vízicsúszdáin. Végül fejezze be sétáját a késő délutáni órákban, felfedezve az ősi messzáp titkokat a helyi Régészeti Múzeumban.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă de-a lungul coastelor nordice, bucurându-vă de soare pe plajele Bamboo și Duna. La prânz, coborâți mai mult pe coastă pentru a savura atmosfera exclusivistă la Coccaro Beach. După-amiaza schimbă ritmul complet cu toboganele palpitante de la AcquaPark Egnazia. În cele din urmă, încheiați ziua descoperind secrete antice la Muzeul Arheologic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Le Agavi",
+            "de": "Le Agavi",
+            "hu": "Le Agavi",
+            "ro": "Le Agavi"
+          },
+          "coords": [
+            17.355016,
+            40.903065
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Kick off your cycling tour at Le Agavi, a serene rocky cove perfect for snorkeling, so don't forget to pack your underwater gear for the morning.",
+            "de": "Starten Sie Ihre Radtour am Le Agavi, einer ruhigen Felsenbucht, die sich perfekt zum Schnorcheln eignet, also packen Sie Ihre Ausrüstung ein.",
+            "hu": "Indítsa kerékpártúráját a Le Agavi nevű csendes, sziklás öbölnél, amely tökéletes sznorkelezéshez, így ne felejtse el magával hozni a búvárfelszerelését.",
+            "ro": "Începeți turul cu bicicleta la Le Agavi, un golf stâncos liniștit, perfect pentru snorkeling, așa că nu uitați să vă împachetați echipamentul subacvatic."
+          }
+        },
+        {
+          "name": {
+            "en": "Duna beach",
+            "de": "Duna beach",
+            "hu": "Duna beach",
+            "ro": "Duna beach"
+          },
+          "coords": [
+            17.366204,
+            40.89871
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "en": "Cycle south to the picturesque Duna beach to admire its unique Mediterranean vegetation, but make sure to park your bike safely near the main path.",
+            "de": "Radeln Sie südwärts zum malerischen Duna-Strand, um die mediterrane Vegetation zu bewundern, und stellen Sie Ihr Fahrrad sicher am Hauptweg ab.",
+            "hu": "Tekerjen délre a festői Duna strandhoz, hogy megcsodálja a mediterrán növényzetet, de ügyeljen arra, hogy a kerékpárt biztonságosan parkolja le.",
+            "ro": "Pedalați spre sud până la pitoreasca plajă Duna pentru a admira vegetația mediteraneană unică, dar asigurați-vă că parcați bicicleta în siguranță."
+          }
+        },
+        {
+          "name": {
+            "en": "National Archaeological Museum of Egnazia",
+            "de": "Archäologisches Nationalmuseum Egnazia",
+            "hu": "Egnazia Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național Arheologic din Egnazia"
+          },
+          "coords": [
+            17.387078,
+            40.88599
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "en": "Arrive at the Egnazia Museum to explore the rich history of this ancient coastal settlement, and pick up a free audio guide for deeper insights.",
+            "de": "Erreichen Sie das Egnazia-Museum, um die reiche Geschichte dieser Küstensiedlung zu erkunden, und nutzen Sie einen kostenlosen Audioguide.",
+            "hu": "Érkezzen az Egnazia Múzeumhoz, hogy felfedezze ennek az ősi tengerparti településnek a történetét, és kérjen egy ingyenes audioguide-ot a jobb megértéshez.",
+            "ro": "Ajungeți la Muzeul Egnazia pentru a explora istoria bogată a acestei așezări antice de coastă și luați un ghid audio gratuit pentru o înțelegere mai profundă."
+          }
+        },
+        {
+          "name": {
+            "en": "Southern Basilica",
+            "de": "Südliche Basilika",
+            "hu": "Déli Bazilika",
+            "ro": "Bazilica de Sud"
+          },
+          "coords": [
+            17.390073,
+            40.88707
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Pedal over to the ruins of the Southern Basilica, an early Christian masterpiece, where comfortable walking shoes will help you navigate the ancient stones.",
+            "de": "Radeln Sie zu den Ruinen der Südlichen Basilika, einem frühchristlichen Meisterwerk, wo bequeme Wanderschuhe beim Gehen auf den antiken Steinen helfen.",
+            "hu": "Tekerjen át a Déli Bazilika romjaihoz, egy ókeresztény remekműhöz, ahol kényelmes cipőre lesz szüksége az ősi köveken való sétához.",
+            "ro": "Pedalați până la ruinele Bazilicii de Sud, o capodoperă creștină timpurie, unde pantofii confortabili vă vor ajuta să navigați pe pietrele antice."
+          }
+        },
+        {
+          "name": {
+            "en": "Port of Egnazia",
+            "de": "Hafen von Egnazia",
+            "hu": "Egnazia kikötője",
+            "ro": "Portul Egnazia"
+          },
+          "coords": [
+            17.392839,
+            40.888214
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Stop by the ancient Porto di Egnazia, once a bustling Roman trade hub, which provides an excellent backdrop for memorable photos of the Adriatic Sea.",
+            "de": "Halten Sie am antiken Porto di Egnazia, einst ein belebtes römisches Handelszentrum, das eine hervorragende Kulisse für Fotos der Adria bietet.",
+            "hu": "Álljon meg az ősi Porto di Egnazia-nál, amely egykor forgalmas római kereskedelmi központ volt, és ma kiváló hátteret nyújt az Adriai-tenger fotózásához.",
+            "ro": "Opriți-vă la anticul Porto di Egnazia, odată un centru comercial roman plin de viață, care oferă un fundal excelent pentru fotografii cu Marea Adriatică."
+          }
+        },
+        {
+          "name": {
+            "en": "Northern Wall",
+            "de": "Nordmauer",
+            "hu": "Északi fal",
+            "ro": "Zidul Nordic"
+          },
+          "coords": [
+            17.388385,
+            40.889022
+          ],
+          "category": "historical",
+          "arrive_at": "16:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "en": "Finish your ride at the imposing Northern Wall of the ancient city, observing its massive defensive blocks as the setting sun highlights the ruins.",
+            "de": "Beenden Sie Ihre Fahrt an der imposanten Nordmauer der antiken Stadt und betrachten Sie die massiven Verteidigungsblöcke im warmen Licht der untergehenden Sonne.",
+            "hu": "Fejezze be a túrát az ókori város lenyűgöző Északi Falánál, megfigyelve a hatalmas védelmi blokkokat, miközben a lemenő nap megvilágítja a romokat.",
+            "ro": "Terminați plimbarea la impunătorul Zid Nordic al orașului antic, observând blocurile sale masive de apărare în timp ce soarele la apus luminează ruinele."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your cycling adventure kicks off at the serene Le Agavi cove, riding smoothly past the natural beauty of Duna beach. As the sun rises higher, your journey transitions from coastal leisure to profound history at the Egnazia Museum. Spend a captivating afternoon weaving through the grand ruins of the Southern Basilica and the ancient port. Conclude your ride by the imposing Northern Wall under a golden sunset.",
+        "de": "Ihr Radabenteuer beginnt an der ruhigen Bucht Le Agavi und führt Sie an der natürlichen Schönheit des Duna-Strandes vorbei. Wenn die Sonne höher steigt, wechselt Ihre Reise von Küstenfreizeit zu tiefgründiger Geschichte im Egnazia-Museum. Verbringen Sie den Nachmittag bei den großartigen Ruinen der Südlichen Basilika und dem antiken Hafen. Beenden Sie Ihre Fahrt an der imposanten Nordmauer im goldenen Sonnenuntergang.",
+        "hu": "Kerékpáros kalandja a békés Le Agavi öbölben kezdődik, ahonnan a Duna strand természeti szépségei mellett tekerhet el. Ahogy a nap magasabbra hág, az utazás a tengerparti pihenésből a történelembe vált az Egnazia Múzeumnál. Töltsön egy lenyűgöző délutánt a Déli Bazilika és az ősi kikötő romjai között. Fejezze be túráját a lenyűgöző Északi Falnál, egy aranyló naplemente kíséretében.",
+        "ro": "Aventura dvs. pe bicicletă începe la golful liniștit Le Agavi, pedalând lin pe lângă frumusețea plajei Duna. Pe măsură ce soarele urcă, călătoria dvs. trece de la relaxarea de coastă la istoria profundă de la Muzeul Egnazia. Petreceți o după-amiază captivantă printre ruinele mărețe ale Bazilicii de Sud și portul antic. Încheiați-vă plimbarea la impunătorul Zid Nordic sub un apus de soare auriu."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:35",
+      "total_km": 8.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Rock Church",
+            "de": "Felsenkirche",
+            "hu": "Sziklatemplom",
+            "ro": "Biserica Rupestră"
+          },
+          "coords": [
+            17.344508,
+            40.910858
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Begin your driving tour at the intriguing Chiesa Rupestre, a rock-hewn church showing medieval devotion, best visited early before the midday heat arrives.",
+            "de": "Beginnen Sie Ihre Autotour an der faszinierenden Felsenkirche Chiesa Rupestre, die am besten früh besucht wird, bevor die Mittagshitze einsetzt.",
+            "hu": "Kezdje autós túráját az izgalmas Chiesa Rupestre sziklatemplománál, amelyet a legjobb kora reggel meglátogatni, még a déli hőség beállta előtt.",
+            "ro": "Începeți turul cu mașina la intriganta Chiesa Rupestre, o biserică săpată în stâncă, cel mai bine vizitată devreme înainte de căldura amiezii."
+          }
+        },
+        {
+          "name": {
+            "en": "Calette del Capitolo",
+            "de": "Calette del Capitolo",
+            "hu": "Calette del Capitolo",
+            "ro": "Calette del Capitolo"
+          },
+          "coords": [
+            17.349392,
+            40.906425
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Drive down to Calette del Capitolo to enjoy a sequence of charming sandy coves, where parking can be scarce so look for designated lots nearby.",
+            "de": "Fahren Sie hinab zu den Calette del Capitolo, um bezaubernde Sandbuchten zu genießen; da Parkplätze knapp sind, suchen Sie nach ausgewiesenen Flächen.",
+            "hu": "Vezessen le a Calette del Capitolo felé, hogy élvezze a bájos homokos öblöket, ahol a parkolás nehézkes lehet, ezért keressen kijelölt parkolókat.",
+            "ro": "Conduceți până la Calette del Capitolo pentru a vă bucura de o serie de golfuri fermecătoare de nisip, unde locurile de parcare pot fi rare."
+          }
+        },
+        {
+          "name": {
+            "en": "Rock Church of St. Andrew and Procopius",
+            "de": "Felsenkirche St. Andreas und Prokop",
+            "hu": "Szent András és Prokopiusz sziklatemplom",
+            "ro": "Biserica Rupestră Sf. Andrei și Procopie"
+          },
+          "coords": [
+            17.339581,
+            40.896015
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "en": "Explore the fascinating Chiesa rupestre di Sant'Andrea e Procopio, known for its faded frescoes, making sure to bring a flashlight for the darker corners.",
+            "de": "Erkunden Sie die faszinierende Felsenkirche Sant'Andrea e Procopio mit ihren verblassten Fresken und bringen Sie eine Taschenlampe für dunkle Ecken mit.",
+            "hu": "Fedezze fel a lenyűgöző Sant'Andrea e Procopio sziklatemplomot, amelynek megfakult freskóihoz érdemes zseblámpát vinni a sötétebb sarkok miatt.",
+            "ro": "Explorați fascinanta biserică rupestră Sant'Andrea e Procopio, cunoscută pentru frescele sale decolorate, aducând o lanternă pentru colțurile întunecate."
+          }
+        },
+        {
+          "name": {
+            "en": "National Archaeological Museum of Egnazia",
+            "de": "Archäologisches Nationalmuseum Egnazia",
+            "hu": "Egnazia Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național Arheologic din Egnazia"
+          },
+          "coords": [
+            17.387078,
+            40.88599
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "en": "Park at the Egnazia Museum and take time to absorb the rich regional history through its well-curated exhibits, starting on the fully air-conditioned ground floor.",
+            "de": "Parken Sie am Egnazia-Museum und nehmen Sie sich Zeit für die reiche regionale Geschichte in den gut kuratierten, klimatisierten Ausstellungen.",
+            "hu": "Parkoljon le az Egnazia Múzeumnál, és szánjon időt a gazdag regionális történelem befogadására a kiváló, légkondicionált kiállításokon keresztül.",
+            "ro": "Parcați la Muzeul Egnazia și faceți-vă timp pentru a absorbi istoria regională bogată prin exponatele sale bine curatoriate și complet aer condiționat."
+          }
+        },
+        {
+          "name": {
+            "en": "Southern Basilica",
+            "de": "Südliche Basilika",
+            "hu": "Déli Bazilika",
+            "ro": "Bazilica de Sud"
+          },
+          "coords": [
+            17.390073,
+            40.88707
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Wander slightly south to the ruins of the Southern Basilica to witness the impressive mosaic floor remnants, ideally photographed on a slightly overcast day.",
+            "de": "Spazieren Sie etwas südlich zu den Ruinen der Südlichen Basilika, um beeindruckende Mosaikbodenreste zu bewundern, ideal für Fotos an bewölkten Tagen.",
+            "hu": "Sétáljon egy kicsit délre a Déli Bazilika romjaihoz, hogy megtekintse a lenyűgöző mozaikpadló maradványait, amelyeket érdemes borúsabb napon fotózni.",
+            "ro": "Plimbați-vă puțin spre sud până la ruinele Bazilicii de Sud pentru a vedea rămășițele impresionante ale podelei de mozaic, ideal de fotografiat."
+          }
+        },
+        {
+          "name": {
+            "en": "Civil Basilica",
+            "de": "Zivilbasilika",
+            "hu": "Civil Bazilika",
+            "ro": "Bazilica Civilă"
+          },
+          "coords": [
+            17.391625,
+            40.887637
+          ],
+          "category": "historical",
+          "arrive_at": "16:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "en": "Move on to the nearby Civil Basilica, the ancient civic heart of Egnazia, and try to spot the architectural differences from its religious counterpart.",
+            "de": "Gehen Sie weiter zur nahegelegenen Zivilbasilika, dem antiken bürgerlichen Zentrum von Egnazia, und entdecken Sie die architektonischen Unterschiede.",
+            "hu": "Haladjon tovább a közeli Civil Bazilikához, Egnazia egykori polgári központjához, és próbálja megfiyelni az építészeti különbségeket a vallási épületekhez képest.",
+            "ro": "Mergeți la Bazilica Civilă din apropiere, inima civică antică a orașului Egnazia, și încercați să observați diferențele arhitecturale față de cea religioasă."
+          }
+        },
+        {
+          "name": {
+            "en": "Port of Egnazia",
+            "de": "Hafen von Egnazia",
+            "hu": "Egnazia kikötője",
+            "ro": "Portul Egnazia"
+          },
+          "coords": [
+            17.392839,
+            40.888214
+          ],
+          "category": "historical",
+          "arrive_at": "17:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Conclude your road trip by viewing the submerged ruins of Porto di Egnazia along the shore, a perfect spot to watch the sunset over the sea before dinner.",
+            "de": "Beenden Sie Ihren Roadtrip mit einem Blick auf die versunkenen Ruinen des Porto di Egnazia, einem perfekten Ort, um den Sonnenuntergang vor dem Abendessen zu beobachten.",
+            "hu": "Fejezze be az autós utazást a Porto di Egnazia víz alatti romjainak megtekintésével a parton, amely tökéletes hely a tengeri naplemente megcsodálására vacsora előtt.",
+            "ro": "Încheiați excursia cu mașina vizualizând ruinele scufundate ale Porto di Egnazia de-a lungul coastei, un loc perfect pentru a privi apusul peste mare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your scenic drive inland, exploring the fascinating rock-hewn Chiesa Rupestre and the sunny sandy stretches at Calette del Capitolo. Before lunch, marvel at the hidden medieval frescoes inside the Sant'Andrea e Procopio church. Dedicate your afternoon to the rich heritage preserved at the Archaeological Museum and its neighboring Southern and Civil Basilicas. Wrap up your comprehensive day trip at the ancient Roman port as evening falls.",
+        "de": "Beginnen Sie Ihre malerische Fahrt im Landesinneren und erkunden Sie die faszinierende Felsenkirche sowie die sonnigen Sandstrände der Calette del Capitolo. Bewundern Sie vor dem Mittagessen die versteckten Fresken der Kirche Sant'Andrea. Widmen Sie Ihren Nachmittag dem reichen Erbe im Archäologischen Museum und den benachbarten Basiliken. Runden Sie Ihren Tagesausflug bei Einbruch der Dunkelheit am antiken römischen Hafen ab.",
+        "hu": "Kezdje festői autózását a szárazföld belsejében, felfedezve a lenyűgöző Chiesa Rupestre sziklatemplomát és a Calette del Capitolo napos homokját. Ebéd előtt csodálja meg a rejtett középkori freskókat a Sant'Andrea templomban. A délutánt szentelje a Régészeti Múzeumban, valamint a szomszédos Déli és Civil Bazilikában őrzött gazdag örökségnek. Fejezze be ezt a tartalmas napot az ősi kikötőnél, ahogy leszáll az est.",
+        "ro": "Începeți plimbarea pitorească cu mașina, explorând biserica rupestră fascinantă și plajele însorite de la Calette del Capitolo. Înainte de prânz, admirați frescele medievale ascunse în biserica Sant'Andrea. Dedicați-vă după-amiaza patrimoniului bogat conservat la Muzeul Arheologic și la Bazilicile vecine. Încheiați-vă excursia cuprinzătoare de o zi la portul antic roman, odată cu lăsarea serii."
+      }
+    }
+  }
+}

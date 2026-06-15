@@ -1,0 +1,543 @@
+{
+  "city_id": "uk-portlethen-cities-v2",
+  "anchor": {
+    "name": "Portlethen",
+    "coords": [
+      -2.13,
+      57.061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Portlethen",
+            "hu": "Portlethen Vasútállomás",
+            "ro": "Gara Portlethen",
+            "en": "Portlethen Railway Station"
+          },
+          "coords": [
+            -2.128,
+            57.0614
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof Portlethen, dem Verkehrsknotenpunkt, wo Sie frühzeitig den Fahrplan prüfen sollten, um die Rückreise bequem zu planen.",
+            "hu": "Kezdje útját a portletheni vasútállomáson, a város közlekedési csomópontjában, ahol érdemes korán ellenőrizni a menetrendet a könnyebb visszautazásért.",
+            "ro": "Începeți călătoria la Gara Portlethen, nodul de transport al orașului, unde ar trebui să verificați devreme orarul pentru a planifica ușor întoarcerea.",
+            "en": "Begin your journey at Portlethen Railway Station, the town's transport hub, where you should check the timetable early to plan your return trip easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Portlethen",
+            "hu": "Portletheni Plébániatemplom",
+            "ro": "Biserica Parohială Portlethen",
+            "en": "Portlethen Parish Church"
+          },
+          "coords": [
+            -2.127317,
+            57.060449
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche von Portlethen, einem friedlichen Ort, aber nehmen Sie bei einem Besuch im Inneren stets Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a portletheni plébániatemplom építészetét, de a belső tér látogatásakor mindig tartsa tiszteletben a folyamatban lévő istentiszteleteket.",
+            "ro": "Admirați arhitectura Bisericii Parohiale Portlethen, un centru spiritual liniștit, dar respectați întotdeauna slujbele în desfășurare la vizitarea interiorului.",
+            "en": "Admire the architecture of Portlethen Parish Church, a peaceful spiritual center, but remember to respect ongoing services when visiting the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibliothek Portlethen",
+            "hu": "Portletheni Könyvtár",
+            "ro": "Biblioteca Portlethen",
+            "en": "Portlethen Library"
+          },
+          "coords": [
+            -2.136616,
+            57.05737
+          ],
+          "category": "civic",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte in der Bibliothek von Portlethen, wofür Sie einen Ausweis mitbringen sollten, um die öffentlichen Computer nutzen zu können.",
+            "hu": "Fedezze fel a helyi történelmet a portletheni könyvtárban, ahová érdemes igazolványt vinni, ha használni szeretné a digitális archívumot.",
+            "ro": "Descoperiți istoria locală la Biblioteca Portlethen, o resursă civică excelentă, așa că aduceți un act de identitate pentru a accesa arhivele digitale.",
+            "en": "Discover local history at Portlethen Library, a great civic resource, so bring an ID if you plan to access their digital archives or public computers."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourtree Park",
+            "hu": "Bourtree Park",
+            "ro": "Parcul Bourtree",
+            "en": "Bourtree Park"
+          },
+          "coords": [
+            -2.135271,
+            57.056118
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Bourtree Park, einem idealen Erholungsort für Familien, wo ein kleiner Picknickkorb Ihre Mittagspause unglaublich angenehm macht.",
+            "hu": "Pihenjen a Bourtree Parkban, amely ideális rekreációs hely családoknak, ahol egy kis piknikkosárral még élvezetesebbé teheti a déli szünetet.",
+            "ro": "Relaxați-vă în Parcul Bourtree, un loc de recreere ideal pentru familii, unde aducerea unui mic coș de picnic va face pauza de prânz foarte plăcută.",
+            "en": "Relax in Bourtree Park, an ideal recreational spot for families, where packing a small picnic basket will make your midday rest incredibly enjoyable."
+          }
+        },
+        {
+          "name": {
+            "de": "Portlethen Moss",
+            "hu": "Portlethen Moss",
+            "ro": "Portlethen Moss",
+            "en": "Portlethen Moss"
+          },
+          "coords": [
+            -2.14741,
+            57.0575
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Portlethen Moss, einen wichtigen natürlichen Lebensraum für die lokale Tierwelt, und tragen Sie feste wasserdichte Schuhe für die feuchten Pfade.",
+            "hu": "Fedezze fel a Portlethen Moss-t, a helyi vadvilág fontos természetes élőhelyét, és viseljen vízálló cipőt a nedves ösvények kényelmes bejárásához.",
+            "ro": "Explorați Portlethen Moss, un habitat natural important cu faună locală, așa că purtați pantofi rezistenți la apă pentru a merge confortabil pe poteci.",
+            "en": "Explore Portlethen Moss, an important natural habitat featuring local wildlife, so wear sturdy waterproof shoes to comfortably walk the damp trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Portlethen",
+            "hu": "Portletheni Bevásárlóközpont",
+            "ro": "Centrul Comercial Portlethen",
+            "en": "Portlethen Shopping Centre"
+          },
+          "coords": [
+            -2.139591,
+            57.062378
+          ],
+          "category": "civic",
+          "arrive_at": "13:49",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie das Einkaufszentrum von Portlethen nach lokalen Waren und Souvenirs, und holen Sie sich hier einen schnellen Kaffee vor der Abreise.",
+            "hu": "Böngésszen a portletheni bevásárlóközpontban helyi áruk és szuvenírek után, és igyon itt egy gyors kávét, mielőtt befejezné a mai kirándulást.",
+            "ro": "Răsfoiți Centrul Comercial Portlethen pentru bunuri locale și suveniruri, și luați în considerare să beți o cafea rapidă aici înainte de a încheia ziua.",
+            "en": "Browse the Portlethen Shopping Centre for local goods and souvenirs, and consider grabbing a quick coffee here before concluding your day trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am Bahnhof Portlethen und genießen Sie die ruhige Atmosphäre, bevor Sie zur charmanten Pfarrkirche spazieren.\n\nZur Mittagszeit können Sie in der Bibliothek in die lokale Geschichte eintauchen und eine friedliche Pause im gepflegten Bourtree Park einlegen.\n\nAm Nachmittag begeben Sie sich in die Naturlandschaften von Portlethen Moss, wo Sie die lokale Flora entdecken.\n\nBeenden Sie Ihre Reise in der Nähe des modernen Einkaufszentrums und lassen Sie das angenehme Gemeindegefühl auf sich wirken, bevor Sie heimkehren.",
+        "hu": "Kezdje sétáját a portletheni állomáson, magába szívva a nyugodt atmoszférát, mielőtt egy rövid sétát tenne a közeli bájos plébániatemplomhoz.\n\nDélben kapcsolódjon be a helyi közösség életébe a könyvtárban, és tartson egy békés pihenőt a jól karbantartott Bourtree Parkban.\n\nDélután látogasson el a Portlethen Moss természeti tájaira, felfedezve a helyi növényvilágot.\n\nFejezze be pihentető utazását a modern bevásárlóközpont közelében, elmerengve a kellemes tengerparti közösségi hangulaton, mielőtt hazatérne.",
+        "ro": "Începeți turul de mers pe jos la Gara Portlethen, absorbind atmosfera liniștită înainte de a face o scurtă plimbare până la fermecătoarea biserică parohială.\n\nLa amiază, interacționați cu comunitatea locală la bibliotecă și luați o pauză liniștită în Parcul Bourtree cel bine întreținut.\n\nDupă-amiaza, aventurați-vă în peisajele naturale de la Portlethen Moss, descoperind flora locală.\n\nÎncheiați călătoria relaxantă lângă centrul comercial modern, reflectând asupra atmosferei plăcute a comunității de coastă înainte de a vă întoarce acasă.",
+        "en": "Begin your walking tour at the Portlethen Station, absorbing the tranquil atmosphere before making a short stroll to the charming parish church nearby.\n\nBy midday, engage with the local community at the library and take a peaceful break in the well-maintained Bourtree Park with some snacks.\n\nIn the afternoon, venture out to the natural landscapes of Portlethen Moss, discovering local flora.\n\nConclude your relaxing journey near the modern shopping centre, reflecting on the pleasant coastal community vibe before heading home."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Portlethen",
+            "hu": "Portlethen Vasútállomás",
+            "ro": "Gara Portlethen",
+            "en": "Portlethen Railway Station"
+          },
+          "coords": [
+            -2.128,
+            57.0614
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof Portlethen, dem Verkehrsknotenpunkt, wo Sie frühzeitig den Fahrplan prüfen sollten, um die Rückreise bequem zu planen.",
+            "hu": "Kezdje útját a portletheni vasútállomáson, a város közlekedési csomópontjában, ahol érdemes korán ellenőrizni a menetrendet a könnyebb visszautazásért.",
+            "ro": "Începeți călătoria la Gara Portlethen, nodul de transport al orașului, unde ar trebui să verificați devreme orarul pentru a planifica ușor întoarcerea.",
+            "en": "Begin your journey at Portlethen Railway Station, the town's transport hub, where you should check the timetable early to plan your return trip easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Portlethen",
+            "hu": "Portletheni Plébániatemplom",
+            "ro": "Biserica Parohială Portlethen",
+            "en": "Portlethen Parish Church"
+          },
+          "coords": [
+            -2.127317,
+            57.060449
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche von Portlethen, einem friedlichen Ort, aber nehmen Sie bei einem Besuch im Inneren stets Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a portletheni plébániatemplom építészetét, de a belső tér látogatásakor mindig tartsa tiszteletben a folyamatban lévő istentiszteleteket.",
+            "ro": "Admirați arhitectura Bisericii Parohiale Portlethen, un centru spiritual liniștit, dar respectați întotdeauna slujbele în desfășurare la vizitarea interiorului.",
+            "en": "Admire the architecture of Portlethen Parish Church, a peaceful spiritual center, but remember to respect ongoing services when visiting the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Portlethen",
+            "hu": "Ó-Portlethen",
+            "ro": "Vechiul Portlethen",
+            "en": "Old Portlethen"
+          },
+          "coords": [
+            -2.116714,
+            57.056658
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im alten Portlethen mit seinem historischen Küstencharme, wo eine Kamera ein Muss ist, um die traditionellen Gebäude festzuhalten.",
+            "hu": "Lépjen vissza az időben a történelmi tengerparti bájjal rendelkező Ó-Portlethenben, ahová mindenképpen vigyen kamerát a hagyományos épületek megörökítéséhez.",
+            "ro": "Pășiți înapoi în timp în Vechiul Portlethen, oferind un farmec de coastă istoric, unde o cameră este esențială pentru a surprinde clădirile tradiționale.",
+            "en": "Step back in time at Old Portlethen, offering historic coastal charm, where bringing a camera is a must to capture the quaint, traditional buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourtree Park",
+            "hu": "Bourtree Park",
+            "ro": "Parcul Bourtree",
+            "en": "Bourtree Park"
+          },
+          "coords": [
+            -2.135271,
+            57.056118
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Bourtree Park, einem idealen Erholungsort für Familien, wo ein kleiner Picknickkorb Ihre Mittagspause unglaublich angenehm macht.",
+            "hu": "Pihenjen a Bourtree Parkban, amely ideális rekreációs hely családoknak, ahol egy kis piknikkosárral még élvezetesebbé teheti a déli szünetet.",
+            "ro": "Relaxați-vă în Parcul Bourtree, un loc de recreere ideal pentru familii, unde aducerea unui mic coș de picnic va face pauza de prânz foarte plăcută.",
+            "en": "Relax in Bourtree Park, an ideal recreational spot for families, where packing a small picnic basket will make your midday rest incredibly enjoyable."
+          }
+        },
+        {
+          "name": {
+            "de": "Portlethen Moss",
+            "hu": "Portlethen Moss",
+            "ro": "Portlethen Moss",
+            "en": "Portlethen Moss"
+          },
+          "coords": [
+            -2.14741,
+            57.0575
+          ],
+          "category": "natural",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Portlethen Moss, einen wichtigen natürlichen Lebensraum für die lokale Tierwelt, und tragen Sie feste wasserdichte Schuhe für die feuchten Pfade.",
+            "hu": "Fedezze fel a Portlethen Moss-t, a helyi vadvilág fontos természetes élőhelyét, és viseljen vízálló cipőt a nedves ösvények kényelmes bejárásához.",
+            "ro": "Explorați Portlethen Moss, un habitat natural important cu faună locală, așa că purtați pantofi rezistenți la apă pentru a merge confortabil pe poteci.",
+            "en": "Explore Portlethen Moss, an important natural habitat featuring local wildlife, so wear sturdy waterproof shoes to comfortably walk the damp trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Golfclub Portlethen",
+            "hu": "Portlethen Golfklub",
+            "ro": "Clubul de Golf Portlethen",
+            "en": "Portlethen Golf Club"
+          },
+          "coords": [
+            -2.14301,
+            57.06576
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Grüns des Portlethen Golf Clubs in einer unberührten Landschaft, bleiben Sie aber auf den markierten Wegen, um fliegende Bälle zu meiden.",
+            "hu": "Élvezze a Portlethen Golfklub hatalmas zöldjeit az érintetlen tájban, de maradjon a kijelölt nyilvános ösvényeken, hogy elkerülje a repülő golflabdákat.",
+            "ro": "Bucurați-vă de verdele vast al Clubului de Golf Portlethen, deși ar trebui să rămâneți pe cărările publice marcate pentru a evita mingile de golf.",
+            "en": "Enjoy the vast greens of Portlethen Golf Club, offering a pristine landscape, though you should stick to marked public paths to avoid stray golf balls."
+          }
+        },
+        {
+          "name": {
+            "de": "Hillside Schule",
+            "hu": "Hillside Iskola",
+            "ro": "Școala Hillside",
+            "en": "Hillside School"
+          },
+          "coords": [
+            -2.128519,
+            57.062559
+          ],
+          "category": "civic",
+          "arrive_at": "15:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das moderne Design der Hillside School, das das lokale Gemeinschaftsleben widerspiegelt, aber halten Sie während der Schulzeiten respektvollen Abstand.",
+            "hu": "Figyelje meg a Hillside Iskola modern polgári kialakítását, amely tükrözi a közösségi életet, de tartson tisztes távolságot az aktív tanítási órák alatt.",
+            "ro": "Observați designul civic modern al Școlii Hillside, reflectând viața comunității, dar păstrați o distanță respectuoasă în timpul orelor de curs active.",
+            "en": "Observe the modern civic design of Hillside School, reflecting local community life, but keep a respectful distance during active school hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Hauptbahnhof, fahren Sie schnell zur historischen Kirche und dann weiter zur malerischen Küste von Old Portlethen.\n\nMittags radeln Sie landeinwärts, um die Grünflächen des Bourtree Parks zu genießen, gefolgt von einer Fahrt rund um das schöne Portlethen Moss.\n\nVerbringen Sie den späten Nachmittag mit einer Fahrt zum örtlichen Golfclub und bewundern Sie die gepflegten Grüns und die weite Aussicht.\n\nBeenden Sie Ihre Radtour, indem Sie an der Hillside School vorbeifahren und einen letzten Blick auf die lebendige Architektur der Stadt werfen.",
+        "hu": "Kezdje a kerékpáros napot a központi állomáson, majd tekerjen át a történelmi templomhoz, és induljon el az ó-portletheni festői partvidék felé.\n\nEbédidőben tekerjen vissza a szárazföld felé, hogy élvezze a Bourtree Park nyílt zöldterületeit, majd a gyönyörű Portlethen Moss körüli frissítő utat.\n\nKéső délután kerekezzen fel a helyi golfklubhoz, megcsodálva a gondozott zöld pázsitokat és a környékre nyíló elsöprő kilátást.\n\nFejezze be kerékpártúráját a Hillside Iskola mellett elhaladva, megörökítve a város nyüzsgő polgári építészetének utolsó pillanatait.",
+        "ro": "Începeți ziua de ciclism la gara centrală, mergând rapid până la biserica istorică și apoi îndreptându-vă spre coasta pitorească din Vechiul Portlethen.\n\nLa prânz, pedalați înapoi spre interior pentru a vă bucura de spațiile verzi din Parcul Bourtree, urmate de o plimbare revigorantă în jurul Portlethen Moss.\n\nPetreceți după-amiaza târziu pedalând spre clubul de golf local, admirând verdele bine îngrijit și priveliștile superbe ale zonei înconjurătoare.\n\nTerminați turul cu bicicleta trecând pe lângă Școala Hillside, captând o ultimă privire asupra arhitecturii civice pline de viață a orașului.",
+        "en": "Start your cycling day at the central station, quickly riding over to the historic church and then heading out to the picturesque Old Portlethen coast.\n\nFor lunch, cycle back inland to enjoy the open green spaces of Bourtree Park, followed by an energizing ride around the beautiful Portlethen Moss.\n\nSpend your late afternoon cruising up to the local golf club, admiring the well-kept greens and sweeping views of the surrounding area.\n\nFinish your bicycle tour by rolling past Hillside School, capturing a final glimpse of the town's lively civic architecture before you depart."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 14.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Portlethen",
+            "hu": "Portlethen Vasútállomás",
+            "ro": "Gara Portlethen",
+            "en": "Portlethen Railway Station"
+          },
+          "coords": [
+            -2.128,
+            57.0614
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Bahnhof Portlethen, dem Verkehrsknotenpunkt, wo Sie frühzeitig den Fahrplan prüfen sollten, um die Rückreise bequem zu planen.",
+            "hu": "Kezdje útját a portletheni vasútállomáson, a város közlekedési csomópontjában, ahol érdemes korán ellenőrizni a menetrendet a könnyebb visszautazásért.",
+            "ro": "Începeți călătoria la Gara Portlethen, nodul de transport al orașului, unde ar trebui să verificați devreme orarul pentru a planifica ușor întoarcerea.",
+            "en": "Begin your journey at Portlethen Railway Station, the town's transport hub, where you should check the timetable early to plan your return trip easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Badentoy Park",
+            "hu": "Badentoy Park",
+            "ro": "Parcul Badentoy",
+            "en": "Badentoy Park"
+          },
+          "coords": [
+            -2.149387,
+            57.071528
+          ],
+          "category": "industrial",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie durch den Badentoy Park, ein wichtiges Industriezentrum der Region, wo Sie an geschäftigen Wochentagen besonders auf den Verkehr achten sollten.",
+            "hu": "Vezessen át a Badentoy Parkon, amely a régió egyik fő ipari központja, ahol a forgalom gondos megfigyelése kulcsfontosságú a forgalmas hétköznapokon.",
+            "ro": "Conduceți prin Parcul Badentoy, un hub industrial major, unde observarea atentă a modelelor de trafic este crucială în timpul zilelor aglomerate din săptămână.",
+            "en": "Drive through Badentoy Park, a major industrial and business hub for the region, where observing traffic patterns is crucial during busy weekdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Findon Ness",
+            "hu": "Findon Ness",
+            "ro": "Findon Ness",
+            "en": "Findon Ness"
+          },
+          "coords": [
+            -2.083333,
+            57.066667
+          ],
+          "category": "natural",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Klippen von Findon Ness, einem außergewöhnlichen Aussichtspunkt, und bleiben Sie zu Ihrer eigenen Sicherheit immer weit von den Kanten entfernt.",
+            "hu": "Csodálja meg a Findon Ness drámai szikláit, ezt a kivételes természetes kilátót, és saját biztonsága érdekében mindig maradjon jóval a szélektől távol.",
+            "ro": "Minunați-vă de stâncile dramatice de la Findon Ness, un punct de vedere natural excepțional, și stați întotdeauna departe de marginile neprotejate pentru siguranță.",
+            "en": "Marvel at the dramatic cliffs of Findon Ness, an exceptional natural viewpoint, and always stay well back from the unprotected edges for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Golfclub Portlethen",
+            "hu": "Portlethen Golfklub",
+            "ro": "Clubul de Golf Portlethen",
+            "en": "Portlethen Golf Club"
+          },
+          "coords": [
+            -2.14301,
+            57.06576
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Grüns des Portlethen Golf Clubs in einer unberührten Landschaft, bleiben Sie aber auf den markierten Wegen, um fliegende Bälle zu meiden.",
+            "hu": "Élvezze a Portlethen Golfklub hatalmas zöldjeit az érintetlen tájban, de maradjon a kijelölt nyilvános ösvényeken, hogy elkerülje a repülő golflabdákat.",
+            "ro": "Bucurați-vă de verdele vast al Clubului de Golf Portlethen, deși ar trebui să rămâneți pe cărările publice marcate pentru a evita mingile de golf.",
+            "en": "Enjoy the vast greens of Portlethen Golf Club, offering a pristine landscape, though you should stick to marked public paths to avoid stray golf balls."
+          }
+        },
+        {
+          "name": {
+            "de": "Portlethen Moss",
+            "hu": "Portlethen Moss",
+            "ro": "Portlethen Moss",
+            "en": "Portlethen Moss"
+          },
+          "coords": [
+            -2.14741,
+            57.0575
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie Portlethen Moss, einen wichtigen natürlichen Lebensraum für die lokale Tierwelt, und tragen Sie feste wasserdichte Schuhe für die feuchten Pfade.",
+            "hu": "Fedezze fel a Portlethen Moss-t, a helyi vadvilág fontos természetes élőhelyét, és viseljen vízálló cipőt a nedves ösvények kényelmes bejárásához.",
+            "ro": "Explorați Portlethen Moss, un habitat natural important cu faună locală, așa că purtați pantofi rezistenți la apă pentru a merge confortabil pe poteci.",
+            "en": "Explore Portlethen Moss, an important natural habitat featuring local wildlife, so wear sturdy waterproof shoes to comfortably walk the damp trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourtree Park",
+            "hu": "Bourtree Park",
+            "ro": "Parcul Bourtree",
+            "en": "Bourtree Park"
+          },
+          "coords": [
+            -2.135271,
+            57.056118
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Bourtree Park, einem idealen Erholungsort für Familien, wo ein kleiner Picknickkorb Ihre Mittagspause unglaublich angenehm macht.",
+            "hu": "Pihenjen a Bourtree Parkban, amely ideális rekreációs hely családoknak, ahol egy kis piknikkosárral még élvezetesebbé teheti a déli szünetet.",
+            "ro": "Relaxați-vă în Parcul Bourtree, un loc de recreere ideal pentru familii, unde aducerea unui mic coș de picnic va face pauza de prânz foarte plăcută.",
+            "en": "Relax in Bourtree Park, an ideal recreational spot for families, where packing a small picnic basket will make your midday rest incredibly enjoyable."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Portlethen",
+            "hu": "Ó-Portlethen",
+            "ro": "Vechiul Portlethen",
+            "en": "Old Portlethen"
+          },
+          "coords": [
+            -2.116714,
+            57.056658
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im alten Portlethen mit seinem historischen Küstencharme, wo eine Kamera ein Muss ist, um die traditionellen Gebäude festzuhalten.",
+            "hu": "Lépjen vissza az időben a történelmi tengerparti bájjal rendelkező Ó-Portlethenben, ahová mindenképpen vigyen kamerát a hagyományos épületek megörökítéséhez.",
+            "ro": "Pășiți înapoi în timp în Vechiul Portlethen, oferind un farmec de coastă istoric, unde o cameră este esențială pentru a surprinde clădirile tradiționale.",
+            "en": "Step back in time at Old Portlethen, offering historic coastal charm, where bringing a camera is a must to capture the quaint, traditional buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Portlethen",
+            "hu": "Portletheni Plébániatemplom",
+            "ro": "Biserica Parohială Portlethen",
+            "en": "Portlethen Parish Church"
+          },
+          "coords": [
+            -2.127317,
+            57.060449
+          ],
+          "category": "religious",
+          "arrive_at": "16:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche von Portlethen, einem friedlichen Ort, aber nehmen Sie bei einem Besuch im Inneren stets Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a portletheni plébániatemplom építészetét, de a belső tér látogatásakor mindig tartsa tiszteletben a folyamatban lévő istentiszteleteket.",
+            "ro": "Admirați arhitectura Bisericii Parohiale Portlethen, un centru spiritual liniștit, dar respectați întotdeauna slujbele în desfășurare la vizitarea interiorului.",
+            "en": "Admire the architecture of Portlethen Parish Church, a peaceful spiritual center, but remember to respect ongoing services when visiting the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Bahnhof, navigieren Sie in das Badentoy-Gebiet und erleben Sie die spektakulären, rauen Klippen bei Findon Ness.\n\nFahren Sie nachmittags zurück in Richtung Stadtzentrum, vorbei am makellosen Golfplatz, und erkunden Sie die wilden Pfade von Portlethen Moss.\n\nSetzen Sie Ihre Route für einen kurzen Spaziergang zum Bourtree Park fort und fahren Sie dann zu den charmanten historischen Häusern in Old Portlethen.\n\nBeenden Sie Ihren Roadtrip mit einem ruhigen Moment in der Nähe der wunderschönen Pfarrkirche und lassen Sie den Küstensonnenuntergang auf sich wirken.",
+        "hu": "Kezdje autós kirándulását az állomáson, majd navigáljon a Badentoy környékére, mielőtt megtapasztalná a Findon Ness igazán látványos, zord szikláit.\n\nDélután vezessen vissza a főváros felé, elhaladva a makulátlan golfpálya mellett, és felfedezve a Portlethen Moss nyugodt, vad ösvényeit.\n\nFolytassa útját a Bourtree Parkba egy rövid sétára, majd tegyen egy gyors utat Ó-Portlethen bájos, történelmi lakóépületei felé.\n\nFejezze be átfogó autós túráját egy csendes pillanattal a gyönyörű plébániatemplom közelében, hagyva, hogy a tengerparti naplemente lezárja a napot.",
+        "ro": "Începeți călătoria cu mașina la gară, apoi navigați către zona Badentoy înainte de a experimenta stâncile cu adevărat spectaculoase și accidentate de la Findon Ness.\n\nConduceți înapoi spre orașul principal după-amiaza, trecând pe lângă terenul de golf imaculat și explorând traseele sălbatice și senine de la Portlethen Moss.\n\nContinuați-vă traseul spre Parcul Bourtree pentru o scurtă plimbare, apoi faceți o scurtă călătorie până la locuințele istorice fermecătoare din Vechiul Portlethen.\n\nÎncheiați excursia extinsă cu un moment de liniște lângă frumoasa biserică parohială, lăsând apusul de pe coastă să încheie o zi perfectă.",
+        "en": "Kick off your driving trip at the station, then navigate to the Badentoy area before experiencing the truly spectacular, rugged cliffs at Findon Ness.\n\nDrive back towards the main town in the afternoon, passing the pristine golf course and exploring the serene, wild trails of Portlethen Moss.\n\nContinue your route to Bourtree Park for a short walk, then take a quick drive to the charming, historic dwellings at Old Portlethen.\n\nEnd your extensive road trip with a quiet moment near the beautiful parish church, letting the coastal sunset conclude a perfect day out."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "fouesnant",
+  "anchor": {
+    "name": "Fouesnant",
+    "coords": [
+      -4.0122,
+      47.8933
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 6.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.009558,
+            47.895097
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende romanische Architektur der Kirche und kommen Sie am besten früh morgens, um das sanfte Licht durch die Fensterrunden ungestört zu genießen.",
+            "hu": "Csodálja meg a lenyűgöző román stílusú építészetet, és érkezzen kora reggel, hogy zavartalanul élvezhesse az ablakokon beáramló lágy fény játékát a csendes térben.",
+            "ro": "Admirați impresionanta arhitectură romanică a bisericii și veniți devreme dimineața pentru a vă bucura în liniște de lumina blândă care se filtrează prin ferestre.",
+            "en": "Admire the impressive Romanesque architecture of the church and arrive early in the morning to quietly enjoy the soft light filtering through the beautiful historic windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne Chapel",
+            "hu": "Sainte-Anne Chapel",
+            "ro": "Sainte-Anne Chapel",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            -4.020093,
+            47.905754
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Kapelle und nehmen Sie sich Zeit für einen Moment der Ruhe, bevor Sie den Fußweg in Richtung der malerischen Küste fortsetzen.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát, és szánjon időt egy pillanatnyi megnyugvásra, mielőtt folytatná útját a festői szépségű tengerpart irányába.",
+            "ro": "Descoperiți această capelă fermecătoare și luați-vă un moment de liniște înainte de a continua plimbarea spre pitoreasca zonă de coastă a Bretaniei.",
+            "en": "Discover this charming small chapel and take your time for a moment of peace before continuing your walk towards the picturesque Breton coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Coz Beach",
+            "hu": "Cap Coz Beach",
+            "ro": "Cap Coz Beach",
+            "en": "Cap Coz Beach"
+          },
+          "coords": [
+            -3.984549,
+            47.886532
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 51,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses herrlichen feinen Sandstrandes und vergessen Sie nicht Ihre Sonnencreme, da der Strand den ganzen Tag über hervorragend sonnig gelegen ist.",
+            "hu": "Sétáljon végig ezen a csodálatos, finom homokos tengerparton, és ne felejtse el a naptejet, mivel a part egész nap tökéletesen napos fekvésű.",
+            "ro": "Plimbați-vă de-a lungul acestei minunate plaje cu nisip fin și nu uitați crema de soare, deoarece plaja este perfect expusă la soare pe tot parcursul zilei.",
+            "en": "Stroll along this magnificent fine sand beach and do not forget your sunscreen, as the coastline remains perfectly sunny throughout the entire day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bot Conan",
+            "hu": "Plage de Bot Conan",
+            "ro": "Plage de Bot Conan",
+            "en": "Plage de Bot Conan"
+          },
+          "coords": [
+            -3.985018,
+            47.872311
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser idyllischen, von Bäumen gesäumten Bucht und bringen Sie ein Picknick mit, um das türkisblaue Wasser in einer wunderbar geschützten Umgebung zu genießen.",
+            "hu": "Pihenjen ebben az idilli, fákkal övezett öbölben, és hozzon magával pikniket, hogy csodás, szélvédett környezetben élvezhesse a türkizkék tengervizet.",
+            "ro": "Relaxați-vă în acest golf idilic, mărginit de copaci, și aduceți un picnic pentru a vă bucura de apa turcoaz într-un cadru minunat și perfect protejat de vânt.",
+            "en": "Relax in this idyllic tree-lined cove and bring a picnic lunch to fully enjoy the crystal-clear turquoise waters in a wonderfully sheltered, peaceful environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerveltrec",
+            "hu": "Plage de Kerveltrec",
+            "ro": "Plage de Kerveltrec",
+            "en": "Plage de Kerveltrec"
+          },
+          "coords": [
+            -3.985596,
+            47.8676
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem weniger überlaufenen Küstenabschnitt und achten Sie auf die Gezeiten, um den besten Platz für Ihren Nachmittagsausklang zu finden.",
+            "hu": "Élvezze a békés hangulatot ezen a kevésbé zsúfolt partszakaszon, és figyeljen az árapályra, hogy megtalálja a legjobb helyet a délután kellemes lezárásához.",
+            "ro": "Bucurați-vă de atmosfera pașnică pe această porțiune de coastă mai puțin aglomerată și verificați mareele pentru a găsi cel mai bun loc pentru încheierea după-amiezii.",
+            "en": "Enjoy the peaceful atmosphere at this less crowded stretch of coastline and check the tide schedule to find the perfect spot to gently wind down your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen von Fouesnant, wo alte Kirchen und Kapellen die reiche bretonische Geschichte erzählen. Nach einem ruhigen Start führt der Weg in Richtung Küste. Mittags lockt der lange Sandstrand von Cap Coz mit sanften Wellen und perfektem Meeresklima für eine erholsame Pause. Der Nachmittag steht im Zeichen versteckter Buchten, beginnend mit dem idyllischen Plage de Bot Conan. Die dichten Bäume und das klare Wasser bieten eine unvergleichliche Atmosphäre. Gegen Abend lassen wir den Tag am Plage de Kerveltrec entspannt ausklingen, während die Sonne langsam über dem weiten Atlantik untergeht.",
+        "hu": "A nap Fouesnant szívében indul, ahol az ősi templomok és kápolnák a breton történelemről mesélnek. Egy csendes séta után az út a gyönyörű partok felé vezet. Délben a Cap Coz hosszú homokos strandja hívogat, ahol a lágy hullámok és a tengeri levegő tökéletes pihenést nyújt. A délután a rejtett öblök felfedezésével telik, kezdve a fás, idilli Plage de Bot Conan partjával. A kristálytiszta víz felejthetetlen élményt kínál. Kora este a békés Plage de Kerveltrec homokján zárjuk a napot, megcsodálva a hatalmas Atlanti-óceán felett lassan lemenő napot.",
+        "ro": "Ziua începe în inima orașului Fouesnant, unde bisericile și capelele străvechi spun povestea bogatei istorii bretone. După un start liniștit, drumul duce spre coastă. La prânz, plaja întinsă cu nisip de la Cap Coz vă atrage cu valuri blânde și o briză marină perfectă pentru o pauză. După-amiaza este dedicată golfurilor ascunse, începând cu idilica Plage de Bot Conan, înconjurată de copaci. Spre seară, ne încheiem ziua într-o notă relaxantă pe plaja liniștită de la Kerveltrec, în timp ce soarele apune încet peste oceanul Atlantic.",
+        "en": "The day begins in the heart of Fouesnant, where ancient churches and chapels tell the rich history of Brittany. After a quiet start, the walking path leads towards the beautiful coast. At midday, the long sandy stretch of Cap Coz beach invites you with gentle waves and a perfect maritime climate for a relaxing break. The afternoon is dedicated to discovering hidden coves, starting with the idyllic, tree-lined Plage de Bot Conan. In the evening, we conclude the day unwinding on the peaceful sands of Plage de Kerveltrec, watching the sun slowly set over the Atlantic Ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 13.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.009558,
+            47.895097
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour, indem Sie die massiven romanischen Steinmauern dieser zentralen Kirche bewundern, und prüfen Sie den Reifendruck, bevor es zur Küste geht.",
+            "hu": "Kezdje a kerékpáros napot ennek a központi templomnak a masszív román kőfalainak megcsodálásával, majd ellenőrizze a guminyomást a parti ösvények meghódítása előtt.",
+            "ro": "Începeți ziua de ciclism admirând pereții masivi din piatră romanică ai acestei biserici centrale, asigurându-vă că anvelopele sunt umflate înainte de a pleca.",
+            "en": "Start your biking day by admiring the solid Romanesque stone walls of this central church, ensuring your tires are fully pumped before heading towards the coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Coz Beach",
+            "hu": "Cap Coz Beach",
+            "ro": "Cap Coz Beach",
+            "en": "Cap Coz Beach"
+          },
+          "coords": [
+            -3.984549,
+            47.886532
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Brise, während Sie an diesem Strand entlangradeln, und nutzen Sie die Fahrradständer am Eingang, um Ihr Rad während eines Bades sicher abzuschließen.",
+            "hu": "Élvezze a frissítő szellőt, miközben végigteker a látványos homokos parton, és használja a bejárat melletti tárolókat, hogy biztonságban tudja kerékpárját egy fürdőzés alatt.",
+            "ro": "Bucurați-vă de o briză răcoroasă în timp ce pedalați de-a lungul acestei plaje, și folosiți parcările pentru biciclete de la intrare pentru a o bloca în siguranță.",
+            "en": "Enjoy a refreshing breeze as you pedal along this spectacular sandy beach, and use the provided bike racks near the entrance to safely lock your bicycle during a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-la-Forêt Marina",
+            "hu": "Port-la-Forêt Marina",
+            "ro": "Port-la-Forêt Marina",
+            "en": "Port-la-Forêt Marina"
+          },
+          "coords": [
+            -3.97294,
+            47.89929
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Rennyachten im Yachthafen und schieben Sie Ihr Fahrrad einen Moment auf den belebten Promenaden, um Rücksicht auf Fußgänger zu nehmen.",
+            "hu": "Csodálja meg a híres kikötőben horgonyzó lenyűgöző versenyjachtokat, és tolja egy kicsit a kerékpárját a forgalmas sétányokon, figyelemmel a gyalogosokra.",
+            "ro": "Admirați iahturile de curse impresionante andocate în acest faimos port de agrement, și mergeți pe lângă bicicletă pe promenadele aglomerate pentru a respecta pietonii.",
+            "en": "Marvel at the impressive racing yachts docked in this famous marina, and take a moment to walk your bike along the busy promenades to respect the passing pedestrians."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerleven",
+            "hu": "Plage de Kerleven",
+            "ro": "Plage de Kerleven",
+            "en": "Plage de Kerleven"
+          },
+          "coords": [
+            -3.965024,
+            47.896062
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Mittagspause an diesem weitläufigen Strand mit ruhigem Wasser und halten Sie Ausschau nach kleinen Cafés hinter den Dünen für einen Snack.",
+            "hu": "Tartson egy jól megérdemelt ebédszünetet ezen a nyugodt vizű, tágas strandon, és keressen egy kis helyi kávézót a dűnék mögött egy gyors energiapótlásra.",
+            "ro": "Luați o binemeritată pauză de prânz la această plajă vastă care oferă ape calme, și căutați micile cafenele locale din spatele dunelor pentru o gustare rapidă.",
+            "en": "Take a well-deserved midday break at this expansive beach offering calm waters, and keep an eye out for small local cafes just behind the dunes for a quick energy boost."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerambigorn",
+            "hu": "Plage de Kerambigorn",
+            "ro": "Plage de Kerambigorn",
+            "en": "Plage de Kerambigorn"
+          },
+          "coords": [
+            -3.995234,
+            47.852465
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Radeln Sie an den wunderschönen natürlichen Dünen vorbei und denken Sie daran, strikt auf den ausgewiesenen Radwegen zu bleiben, um das Ökosystem zu schützen.",
+            "hu": "Tekerjen el a tágas strandot övező gyönyörű természetes dűnék mellett, és ügyeljen arra, hogy szigorúan a kijelölt kerékpárutakon maradjon a törékeny ökoszisztéma védelmében.",
+            "ro": "Pedalați pe lângă frumoasele dune naturale, și nu uitați să rămâneți strict pe pistele de ciclism desemnate pentru a proteja ecosistemul local fragil.",
+            "en": "Cycle past the beautiful natural dunes framing this vast beach, and remember to stay strictly on the designated cycling paths to protect the fragile local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Mousterlin Point",
+            "hu": "Mousterlin Point",
+            "ro": "Mousterlin Point",
+            "en": "Mousterlin Point"
+          },
+          "coords": [
+            -4.039006,
+            47.860894
+          ],
+          "category": "natural",
+          "arrive_at": "16:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit dem atemberaubenden Panoramablick vom Felsen und packen Sie eine Windjacke ein, da die Brise hier am Nachmittag recht kräftig sein kann.",
+            "hu": "Zárja kerékpáros útját a sziklás pontról nyíló lélegzetelállító óceáni panorámával, és pakoljon be egy vékony széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Încheiați-vă călătoria cu bicicleta bucurându-vă de priveliștile panoramice de la acest punct stâncos, și aduceți o jachetă subțire, deoarece briza coastelor poate fi puternică.",
+            "en": "End your cycling journey taking in the breathtaking panoramic ocean views from the rocky point, and pack a light windbreaker as the coastal breezes here can be quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad lässt sich die reizvolle Vielfalt von Fouesnant ideal erkunden. Am Vormittag starten wir an der historischen Kirche und gleiten gemütlich zur Küste, wo uns der Cap Coz Strand mit feinem Sand begrüßt. Die Mittagsstunden verbringen wir fasziniert im weltbekannten Jachthafen Port-la-Forêt, bevor uns der Strand von Kerleven zur Abkühlung einlädt. Der Nachmittag bietet eine malerische Fahrt entlang naturbelassener Dünen und Strände in Richtung Süden. Zum Sonnenuntergang erreichen wir stolz die wilde Spitze von Mousterlin, wo sich das weite Meer eindrucksvoll vor uns ausbreitet.",
+        "hu": "Fouesnant varázslatos sokszínűségét kerékpárral a legjobb felfedezni. Délelőtt a történelmi templom mellől indulunk, és kényelmesen kigördülünk a partra, ahol a finom homokos Cap Coz fogad. A déli órákban a Port-la-Forêt kikötő hatalmas jachtjai nyűgöznek le minket, mielőtt a Kerleven strandon hűsölnénk. A délután festői utazást kínál az érintetlen dűnék és déli strandok mentén. Napnyugtakor büszkén érjük el a vad Mousterlin pontot, ahol a végtelen tenger lenyűgöző panorámája terül elénk.",
+        "ro": "Ciclismul este modalitatea ideală de a explora diversitatea orașului Fouesnant. Dimineața pornim de la biserica istorică și ne îndreptăm ușor spre coastă, unde ne întâmpină plaja Cap Coz. La prânz, suntem fascinați de portul de agrement Port-la-Forêt, renumit la nivel mondial, înainte ca plaja Kerleven să ne invite la răcorire. După-amiaza oferă o plimbare pitorească de-a lungul dunelor naturale și a plajelor sudice. La apus ajungem mândri la punctul stâncos Mousterlin, unde oceanul vast se întinde impresionant în fața noastră.",
+        "en": "Cycling is the ideal way to explore the delightful diversity of Fouesnant. In the morning, we set off from the historic town church and glide effortlessly towards the coast, greeted by the fine sands of Cap Coz. Midday brings us to the fascinating Port-la-Forêt marina to admire ocean-racing yachts, followed by a refreshing dip at Kerleven beach. The afternoon offers a highly picturesque ride along pristine natural dunes heading south. At sunset, we proudly arrive at the wild Mousterlin Point, rewarding ourselves with an expansive and breathtaking view of the Atlantic Ocean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 16.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sainte-Anne Chapel",
+            "hu": "Sainte-Anne Chapel",
+            "ro": "Sainte-Anne Chapel",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            -4.020093,
+            47.905754
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit einem Besuch dieser gut erhaltenen Kapelle und nutzen Sie den kleinen Schotterparkplatz in der Nähe, um Ihr Fahrzeug sicher abzustellen.",
+            "hu": "Kezdje az autós túrát ennek a jó állapotban fennmaradt helyi kápolnának a meglátogatásával, és használja a közeli kis kavicsos parkolót a jármű biztonságos leállításához.",
+            "ro": "Începeți turul cu mașina vizitând această capelă locală bine conservată, folosind mica parcare cu pietriș din apropiere pentru a lăsa vehiculul în siguranță o clipă.",
+            "en": "Begin your driving tour by visiting this well-preserved local chapel, using the small gravel parking area nearby to securely leave your vehicle for a quick morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.009558,
+            47.895097
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das alte Mauerwerk der zentralen Kirche, aber beachten Sie, dass das Parken auf dem Marktplatz im Sommer oft eine blaue Parkscheibe erfordert.",
+            "hu": "Csodálja meg a központi templom ősi kőfalait, de tartsa szem előtt, hogy a főtéren a forgalmas nyári hónapokban kék parkolótárcsa használata kötelező.",
+            "ro": "Admirați zidăria veche a bisericii centrale, dar fiți conștienți că parcarea în piața orașului necesită un disc albastru de parcare în timpul lunilor aglomerate de vară.",
+            "en": "Marvel at the ancient stonework of the central church, but be aware that parking in the town square requires a blue parking disc during the busy summer tourist months."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-la-Forêt Marina",
+            "hu": "Port-la-Forêt Marina",
+            "ro": "Port-la-Forêt Marina",
+            "en": "Port-la-Forêt Marina"
+          },
+          "coords": [
+            -3.97294,
+            47.89929
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Fahren Sie zum weitläufigen Yachthafen hinab und nutzen Sie die großen, kostenlosen Parkplätze, die speziell für Besucher direkt am Hafen angelegt wurden.",
+            "hu": "Hajtson le a hatalmas jachtkikötőhöz, hogy megnézze az óceánjáró hajókat, és vegye igénybe a kikötő közelében található, látogatók számára kijelölt nagy ingyenes parkolókat.",
+            "ro": "Conduceți până la marele port de agrement pentru a vedea bărcile gigantice și utilizați parcările mari gratuite desemnate special pentru vizitatorii din apropiere.",
+            "en": "Drive down to the expansive marina to see the giant ocean-going boats, and utilize the large free parking lots specifically designated for visitors located near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Coz Beach",
+            "hu": "Cap Coz Beach",
+            "ro": "Cap Coz Beach",
+            "en": "Cap Coz Beach"
+          },
+          "coords": [
+            -3.984549,
+            47.886532
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem wunderschönen Halbinselstrand und versuchen Sie, vor Mittag anzukommen, um einen Platz auf dem oft gut besuchten Parkplatz am Meer zu ergattern.",
+            "hu": "Álljon meg ezen a gyönyörű, keskeny félszigeten lévő strandon, és próbáljon dél előtt érkezni, hogy könnyen találjon helyet a gyakran zsúfolt tengerparti parkolóban.",
+            "ro": "Opriți la această plajă frumoasă de pe peninsulă și încercați să ajungeți înainte de prânz pentru a prinde cu ușurință un loc în parcarea adesea aglomerată de la malul mării.",
+            "en": "Stop by this narrow, beautiful peninsula beach for a lovely stroll, aiming to arrive before noon to easily secure a spot in the often crowded beachfront parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Mousterlin Point",
+            "hu": "Mousterlin Point",
+            "ro": "Mousterlin Point",
+            "en": "Mousterlin Point"
+          },
+          "coords": [
+            -4.039006,
+            47.860894
+          ],
+          "category": "natural",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie bequem auf dem großen Platz nahe der Landspitze und vertreten Sie sich bei einem kurzen Spaziergang die Beine, um die beeindruckende Meeresweite zu genießen.",
+            "hu": "Parkoljon le kényelmesen a pont melletti nagy parkolóban, és nyújtsa ki a lábát egy rövid sétával, hogy teljes mértékben értékelni tudja a környező óceán lenyűgöző látványát.",
+            "ro": "Parcați cu ușurință la parcarea mare din apropierea punctului și faceți o scurtă plimbare pitorească pentru a aprecia pe deplin priveliștile impresionante asupra oceanului.",
+            "en": "Park easily at the large lot near the point and stretch your legs with a short scenic walk to fully appreciate the impressive, sweeping views of the surrounding ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Mousterlin",
+            "hu": "Plage de Mousterlin",
+            "ro": "Plage de Mousterlin",
+            "en": "Plage de Mousterlin"
+          },
+          "coords": [
+            -4.043023,
+            47.846736
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Gehen Sie direkt vom Auto auf den weichen Sand dieses unberührten Strandes und prüfen Sie die lokalen Flaggen, um sicheres Schwimmen am Nachmittag zu gewährleisten.",
+            "hu": "Sétáljon egyenesen az autóból ennek az érintetlen strandnak a puha homokjára, és ellenőrizze a helyi zászlókat a biztonságos délutáni fürdőzés érdekében.",
+            "ro": "Mergeți direct de la mașină la nisipurile moi ale acestei plaje imaculate, verificând steagurile locale pentru a vă asigura condiții sigure de înot în timpul după-amiezii.",
+            "en": "Walk straight from your car to the soft sands of this pristine beach, checking the local flags to ensure safe swimming conditions during the shifting afternoon tides."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerler",
+            "hu": "Plage de Kerler",
+            "ro": "Plage de Kerler",
+            "en": "Plage de Kerler"
+          },
+          "coords": [
+            -4.072112,
+            47.858666
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an diesem abgelegenen westlichen Strand und bringen Sie eine gemütliche Decke mit, um den spektakulären Sonnenuntergang am Horizont zu beobachten.",
+            "hu": "Fejezze be autós túráját ezen a gyönyörű, távoli nyugati strandon, és hozzon magával egy kényelmes takarót, hogy arról nézhesse végig a látványos atlanti naplementét.",
+            "ro": "Încheiați excursia rutieră la această frumoasă plajă vestică izolată, aducând o pătură confortabilă pentru a sta și a privi un apus spectaculos peste orizontul Atlanticului.",
+            "en": "Conclude your road trip at this beautiful remote western beach, bringing a cozy blanket to sit comfortably as you watch a spectacular sunset over the Atlantic horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie die Highlights von Fouesnant wunderbar flexibel. Der Morgen beginnt mit Kultur an der historischen Kapelle Sainte-Anne und der großen Kirche im Zentrum. Zum Mittagessen steuern wir den beeindruckenden Jachthafen Port-la-Forêt und den malerischen Cap Coz an. Am Nachmittag bringt uns eine kurze Fahrt tief in den Süden zur rauen Schönheit von Mousterlin, wo Natur pur auf uns wartet. Der Tag endet perfekt an den abgelegenen, weiten Stränden im Westen, wo das Meeresrauschen und der sanfte Sonnenuntergang für einen unvergesslichen Ausklang sorgen.",
+        "hu": "Autóval rugalmasan felfedezhetjük Fouesnant összes látványosságát. A reggel a Sainte-Anne kápolna és a központi templom kulturális szépségeivel indul. Ebédidőben a lenyűgöző Port-la-Forêt jachtkikötőt és a festői Cap Coz partszakaszát látogatjuk meg. A délután egy rövid vezetéssel a déli Mousterlin zord és érintetlen természeti szépségeibe vezet minket, friss tengeri sós levegővel. A nap végül a nyugati eldugott, tágas homokos strandokon ér véget, ahol a hullámok zúgása és a naplemente varázslatos befejezést nyújt.",
+        "ro": "Cu mașina, experimentați atracțiile din Fouesnant într-un mod minunat de flexibil. Dimineața începe cu explorări culturale la Capela Sainte-Anne și biserica principală din centru. La prânz ne îndreptăm spre portul impresionant Port-la-Forêt și pitoreasca plajă Cap Coz. După-amiaza, o scurtă plimbare cu mașina ne poartă adânc în sud spre frumusețea sălbatică de la Mousterlin, unde ne așteaptă natura pură. Ziua se încheie perfect pe plajele izolate și întinse din vest, unde sunetul mării și un apus blând creează o seară de neuitat.",
+        "en": "Driving allows for a highly flexible and comprehensive exploration of Fouesnant. The morning kicks off with local heritage at the Sainte-Anne Chapel and the majestic town church. By midday, we navigate towards the massive boats at Port-la-Forêt marina and the scenic sandy curves of Cap Coz. The afternoon drive takes us straight south to experience the wild, unspoiled coastal beauty surrounding Mousterlin Point. We smoothly finish our road trip relaxing on the beautifully remote western beaches, letting the ocean waves and a quiet sunset wrap up the perfect day."
+      }
+    }
+  }
+}

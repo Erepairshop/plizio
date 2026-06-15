@@ -1,0 +1,589 @@
+{
+  "city_id": "chalette-sur-loing",
+  "anchor": {
+    "name": "Châlette-sur-Loing",
+    "coords": [
+      2.7358,
+      48.0117
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Compassion",
+            "hu": "Notre-Dame-de-Compassion templom",
+            "ro": "Biserica Notre-Dame-de-Compassion",
+            "en": "Église Notre-Dame-de-Compassion"
+          },
+          "coords": [
+            2.730668,
+            48.013414
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser friedlichen Kirche und versuchen Sie, an der ruhigen Morgenmesse teilzunehmen, um eine besinnliche Erfahrung zu machen.",
+            "hu": "Csodálja meg ennek a békés helyi templomnak a gyönyörű ólomüveg ablakait, és ha teheti, látogasson el a reggeli misére egy igazán meghitt és feltöltő élményért.",
+            "ro": "Admirați vitraliile absolut minunate ale acestei biserici pașnice și încercați să participați la liturghia de dimineață pentru o experiență spirituală cu adevărat senină.",
+            "en": "Admire the beautiful stained glass windows of this peaceful church, and try to visit during morning mass for a truly serene and spiritually uplifting local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Hangar",
+            "hu": "Le Hangar",
+            "ro": "Le Hangar",
+            "en": "Le Hangar"
+          },
+          "coords": [
+            2.735315,
+            48.016269
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Kulturzentrum mit faszinierender lokaler Kunst und prüfen Sie den aktuellen Spielplan am Eingang für spannende abendliche Theateraufführungen.",
+            "hu": "Fedezze fel ezt a helyi kortárs művészetet bemutató élénk kulturális központot, és mindenképpen nézze meg a bejáratnál az esti színházi előadások aktuális műsorát.",
+            "ro": "Explorați acest centru cultural vibrant care prezintă artă contemporană locală și asigurați-vă că verificați programul de la intrare pentru spectacolele de teatru de seară.",
+            "en": "Explore this vibrant cultural center showcasing local contemporary art, and be sure to check the schedule at the entrance for any upcoming evening theater performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Thérèse Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Sainte-Thérèse Church"
+          },
+          "coords": [
+            2.714124,
+            48.017094
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für stille Reflexion in dieser intimen Kirche, die für ihre Architektur bekannt ist, und betreten Sie sie durch das ruhigere, versteckte Seitentor.",
+            "hu": "Töltsön el egy kis időt csendes elmélkedéssel ebben a minimalista építészetéről ismert barátságos templomban, és a zavartalanabb élményért használja a rejtett oldalsó bejáratot.",
+            "ro": "Petreceți un moment de reflecție în această biserică intimă recunoscută pentru arhitectura sa minimalistă, folosind intrarea laterală mai liniștită pentru a evita mulțimea.",
+            "en": "Take a moment for quiet reflection in this intimate neighborhood church known for its minimalist architecture, and use the hidden side entrance for a more secluded visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der heiligen Olga",
+            "hu": "Szent Olga templom",
+            "ro": "Biserica Sfânta Olga",
+            "en": "Église Sainte-Olga"
+          },
+          "coords": [
+            2.709362,
+            48.023339
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende kulturelle Erbe dieser russisch-orthodoxen Kirche, aber denken Sie unbedingt an eine respektvolle und bescheidene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel ennek a különleges orosz ortodox templomnak a lenyűgöző kulturális örökségét, de ne feledjen visszafogott és szerény öltözéket viselni a belépés előtt.",
+            "ro": "Descoperiți moștenirea culturală absolut fascinantă a acestei biserici ortodoxe ruse, dar asigurați-vă că sunteți îmbrăcați decent și cuviincios la intrarea în lăcaș.",
+            "en": "Discover the fascinating cultural heritage and intricate details of this Russian Orthodox church, but always remember to dress modestly and respectfully before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Canal du Loing"
+          },
+          "coords": [
+            2.722222,
+            48.0275
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der historischen Treidelpfade dieses malerischen Kanals und bringen Sie eine Kamera mit, um die Spiegelungen der alten Ziegelstein-Schleusen einzufangen.",
+            "hu": "Sétáljon végig a festői csatorna történelmi vontatóútjain, és mindenképp hozzon magával fényképezőgépet a régi téglaépítésű zsilipek vízi tükröződésének megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul potecilor istorice ale acestui canal pitoresc și aduceți o cameră foto pentru a surprinde reflexiile frumoase ale vechilor ecluze de cărămidă în apă.",
+            "en": "Stroll along the historic towpaths of this scenic canal, and bring a camera to capture the charming and picture-perfect reflection of the old brick locks in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "House of Nature"
+          },
+          "coords": [
+            2.722578,
+            48.027619
+          ],
+          "category": "cultural",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lernen Sie die regionalen Ökosysteme durch faszinierende interaktive Ausstellungen kennen und fragen Sie das Personal nach der besten Zeit zur Vogelbeobachtung am nahen Wasser.",
+            "hu": "Ismerje meg a regionális ökoszisztémákat az interaktív kiállításokon, és bátran kérdezze meg a személyzetet a közeli vízparti madármegfigyelés legideálisabb időpontjairól.",
+            "ro": "Învățați despre ecosistemele regionale prin expoziții interactive uimitoare și întrebați personalul despre cel mai bun moment pentru observarea păsărilor lângă apă.",
+            "en": "Learn about regional ecosystems through engaging interactive exhibits, and don't hesitate to ask the friendly staff about the best times for birdwatching near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalette-See",
+            "hu": "Chalette-tó",
+            "ro": "Lacul Chalette",
+            "en": "Lac de Chalette"
+          },
+          "coords": [
+            2.72758,
+            48.027307
+          ],
+          "category": "natural",
+          "arrive_at": "16:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses schönen Sees nach einem langen Tag oder mieten Sie rechtzeitig ein Tretboot für eine erfrischende Fahrt auf den ruhigen Gewässern.",
+            "hu": "Pihenjen egy hosszú nap után ennek a gyönyörű tónak a homokos partján, vagy béreljen egy vízibiciklit egy frissítő és nyugtató körre a lágyan ringatózó békés vizeken.",
+            "ro": "Relaxați-vă pe malul nisipos al acestui lac frumos după o zi lungă de plimbări sau închiriați o hidrobicicletă pentru o cursă revigorantă și plăcută pe apele mereu liniștite.",
+            "en": "Relax on the sandy shores of this beautiful lake after a long day of sightseeing, or rent a pedal boat for a refreshing and deeply calming ride across the tranquil waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der friedlichen Kirchen und kulturellen Orte im Süden der Stadt. Mittags schlendern Sie durch historische Viertel und entdecken religiöse und architektonische Juwelen. Der Nachmittag ist vollkommen der Natur gewidmet und führt Sie entlang malerischer Kanalwege zum Ökozentrum. Beenden Sie den Tag entspannt am Seeufer und genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a város déli részén található békés templomok és kulturális helyszínek felfedezésével. Délben sétáljon a történelmi negyedekben, rejtett építészeti kincseket kutatva. A délutánt a természetnek szenteljük, a festői csatornapart mentén haladva az izgalmas ökológiai központ felé. Zárja a napot a helyi tó partján pihenve, és élvezze a nyugodt naplementét a fák mögött.",
+        "ro": "Începeți dimineața explorând bisericile pașnice și locurile culturale din partea de sud a orașului. La amiază, plimbați-vă prin cartierele istorice, descoperind minunate bijuterii arhitecturale ascunse. După-amiaza este dedicată naturii, urmând cărările pitorești ale canalului spre centrul ecologic. Încheiați ziua relaxându-vă liniștit lângă lac, bucurându-vă de un apus magic peste apă.",
+        "en": "Start your morning exploring the peaceful churches and cultural venues in the southern part of town. By midday, walk through the historic neighborhoods, discovering hidden architectural gems. The afternoon is dedicated to nature, following the scenic canal paths straight towards the engaging ecological center. End your day relaxing by the beautiful lake, enjoying the tranquil sunset over the calm waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Compassion",
+            "hu": "Notre-Dame-de-Compassion templom",
+            "ro": "Biserica Notre-Dame-de-Compassion",
+            "en": "Église Notre-Dame-de-Compassion"
+          },
+          "coords": [
+            2.730668,
+            48.013414
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser friedlichen Kirche und versuchen Sie, an der ruhigen Morgenmesse teilzunehmen, um eine besinnliche Erfahrung zu machen.",
+            "hu": "Csodálja meg ennek a békés helyi templomnak a gyönyörű ólomüveg ablakait, és ha teheti, látogasson el a reggeli misére egy igazán meghitt és feltöltő élményért.",
+            "ro": "Admirați vitraliile absolut minunate ale acestei biserici pașnice și încercați să participați la liturghia de dimineață pentru o experiență spirituală cu adevărat senină.",
+            "en": "Admire the beautiful stained glass windows of this peaceful church, and try to visit during morning mass for a truly serene and spiritually uplifting local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Thérèse Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Sainte-Thérèse Church"
+          },
+          "coords": [
+            2.714124,
+            48.017094
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für stille Reflexion in dieser intimen Kirche, die für ihre Architektur bekannt ist, und betreten Sie sie durch das ruhigere, versteckte Seitentor.",
+            "hu": "Töltsön el egy kis időt csendes elmélkedéssel ebben a minimalista építészetéről ismert barátságos templomban, és a zavartalanabb élményért használja a rejtett oldalsó bejáratot.",
+            "ro": "Petreceți un moment de reflecție în această biserică intimă recunoscută pentru arhitectura sa minimalistă, folosind intrarea laterală mai liniștită pentru a evita mulțimea.",
+            "en": "Take a moment for quiet reflection in this intimate neighborhood church known for its minimalist architecture, and use the hidden side entrance for a more secluded visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der heiligen Olga",
+            "hu": "Szent Olga templom",
+            "ro": "Biserica Sfânta Olga",
+            "en": "Église Sainte-Olga"
+          },
+          "coords": [
+            2.709362,
+            48.023339
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende kulturelle Erbe dieser russisch-orthodoxen Kirche, aber denken Sie unbedingt an eine respektvolle und bescheidene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel ennek a különleges orosz ortodox templomnak a lenyűgöző kulturális örökségét, de ne feledjen visszafogott és szerény öltözéket viselni a belépés előtt.",
+            "ro": "Descoperiți moștenirea culturală absolut fascinantă a acestei biserici ortodoxe ruse, dar asigurați-vă că sunteți îmbrăcați decent și cuviincios la intrarea în lăcaș.",
+            "en": "Discover the fascinating cultural heritage and intricate details of this Russian Orthodox church, but always remember to dress modestly and respectfully before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Canal du Loing"
+          },
+          "coords": [
+            2.722222,
+            48.0275
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der historischen Treidelpfade dieses malerischen Kanals und bringen Sie eine Kamera mit, um die Spiegelungen der alten Ziegelstein-Schleusen einzufangen.",
+            "hu": "Sétáljon végig a festői csatorna történelmi vontatóútjain, és mindenképp hozzon magával fényképezőgépet a régi téglaépítésű zsilipek vízi tükröződésének megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul potecilor istorice ale acestui canal pitoresc și aduceți o cameră foto pentru a surprinde reflexiile frumoase ale vechilor ecluze de cărămidă în apă.",
+            "en": "Stroll along the historic towpaths of this scenic canal, and bring a camera to capture the charming and picture-perfect reflection of the old brick locks in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "House of Nature"
+          },
+          "coords": [
+            2.722578,
+            48.027619
+          ],
+          "category": "cultural",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lernen Sie die regionalen Ökosysteme durch faszinierende interaktive Ausstellungen kennen und fragen Sie das Personal nach der besten Zeit zur Vogelbeobachtung am nahen Wasser.",
+            "hu": "Ismerje meg a regionális ökoszisztémákat az interaktív kiállításokon, és bátran kérdezze meg a személyzetet a közeli vízparti madármegfigyelés legideálisabb időpontjairól.",
+            "ro": "Învățați despre ecosistemele regionale prin expoziții interactive uimitoare și întrebați personalul despre cel mai bun moment pentru observarea păsărilor lângă apă.",
+            "en": "Learn about regional ecosystems through engaging interactive exhibits, and don't hesitate to ask the friendly staff about the best times for birdwatching near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalette-See",
+            "hu": "Chalette-tó",
+            "ro": "Lacul Chalette",
+            "en": "Lac de Chalette"
+          },
+          "coords": [
+            2.72758,
+            48.027307
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses schönen Sees nach einem langen Tag oder mieten Sie rechtzeitig ein Tretboot für eine erfrischende Fahrt auf den ruhigen Gewässern.",
+            "hu": "Pihenjen egy hosszú nap után ennek a gyönyörű tónak a homokos partján, vagy béreljen egy vízibiciklit egy frissítő és nyugtató körre a lágyan ringatózó békés vizeken.",
+            "ro": "Relaxați-vă pe malul nisipos al acestui lac frumos după o zi lungă de plimbări sau închiriați o hidrobicicletă pentru o cursă revigorantă și plăcută pe apele mereu liniștite.",
+            "en": "Relax on the sandy shores of this beautiful lake after a long day of sightseeing, or rent a pedal boat for a refreshing and deeply calming ride across the tranquil waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Hangar",
+            "hu": "Le Hangar",
+            "ro": "Le Hangar",
+            "en": "Le Hangar"
+          },
+          "coords": [
+            2.735315,
+            48.016269
+          ],
+          "category": "cultural",
+          "arrive_at": "15:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Kulturzentrum mit faszinierender lokaler Kunst und prüfen Sie den aktuellen Spielplan am Eingang für spannende abendliche Theateraufführungen.",
+            "hu": "Fedezze fel ezt a helyi kortárs művészetet bemutató élénk kulturális központot, és mindenképpen nézze meg a bejáratnál az esti színházi előadások aktuális műsorát.",
+            "ro": "Explorați acest centru cultural vibrant care prezintă artă contemporană locală și asigurați-vă că verificați programul de la intrare pentru spectacolele de teatru de seară.",
+            "en": "Explore this vibrant cultural center showcasing local contemporary art, and be sure to check the schedule at the entrance for any upcoming evening theater performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Chêne Paillé",
+            "hu": "Chêne Paillé",
+            "ro": "Chêne Paillé",
+            "en": "Chêne Paillé"
+          },
+          "coords": [
+            2.763752,
+            48.02078
+          ],
+          "category": "landmark",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese prächtige historische Eiche, die als stiller Zeuge vergangener Jahrhunderte steht und sich am besten im weichen Licht der späten goldenen Stunde fotografieren lässt.",
+            "hu": "Látogassa meg ezt a csodálatos történelmi tölgyfát, amely évszázadok néma tanúja, és amelyet a legszebben a lemenő nap aranyóra fényeiben lehet csodásan lefotózni.",
+            "ro": "Vizitați acest stejar istoric absolut magnific care stă ca un martor tăcut al secolelor, fiind ideal de fotografiat în lumina caldă și aurie de la lăsarea serii.",
+            "en": "Visit this magnificent historical oak tree standing as a silent witness to centuries of history, best photographed and appreciated in the warm, fading golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der friedlichen Kirchen im südlichen Zentrum, bevor Sie weiterradeln. Am Mittag führt Sie die Route entlang ruhiger Straßen zu faszinierenden orthodoxen und katholischen Wahrzeichen. Der Nachmittag bringt Sie über den wunderschönen Kanalweg hinaus in die freie Natur und an den erholsamen See. Beenden Sie die Tour an den östlichen Kultur- und Naturdenkmälern in der warmen Abendsonne.",
+        "hu": "Kezdje a reggelt a város déli részén lévő békés templomok felfedezésével, majd pattanjon újra nyeregbe. Délben az útvonal csendes utcákon vezet át lenyűgöző ortodox és katolikus vallási emlékekhez. A délután a csodálatos csatorna mentén haladva a természetbe és egy pihentető tópartra viszi Önt. Fejezze be a túrát a keleti kulturális és természeti látnivalóknál a meleg lemenő nap fényében.",
+        "ro": "Începeți dimineața cu explorarea bisericilor liniștite din centrul sudic, înainte de a pedala mai departe. La amiază, traseul vă duce pe străzi liniștite către repere ortodoxe și catolice fascinante. După-amiaza vă scoate în natură de-a lungul frumosului drum de pe canal și la un lac perfect pentru relaxare. Terminați turul la reperele culturale și naturale din est sub soarele blând de seară.",
+        "en": "Start your morning exploring the peaceful churches in the southern center before hopping back on your bike. By midday, your route takes you along quiet streets to fascinating orthodox and catholic landmarks. The afternoon brings you out into nature via the beautiful canal path and onto a highly relaxing lakeside retreat. Finish the tour at the eastern cultural and natural monuments bathed in warm evening sunlight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chêne Paillé",
+            "hu": "Chêne Paillé",
+            "ro": "Chêne Paillé",
+            "en": "Chêne Paillé"
+          },
+          "coords": [
+            2.763752,
+            48.02078
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese prächtige historische Eiche, die als stiller Zeuge vergangener Jahrhunderte steht und sich am besten im weichen Licht der späten goldenen Stunde fotografieren lässt.",
+            "hu": "Látogassa meg ezt a csodálatos történelmi tölgyfát, amely évszázadok néma tanúja, és amelyet a legszebben a lemenő nap aranyóra fényeiben lehet csodásan lefotózni.",
+            "ro": "Vizitați acest stejar istoric absolut magnific care stă ca un martor tăcut al secolelor, fiind ideal de fotografiat în lumina caldă și aurie de la lăsarea serii.",
+            "en": "Visit this magnificent historical oak tree standing as a silent witness to centuries of history, best photographed and appreciated in the warm, fading golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Hangar",
+            "hu": "Le Hangar",
+            "ro": "Le Hangar",
+            "en": "Le Hangar"
+          },
+          "coords": [
+            2.735315,
+            48.016269
+          ],
+          "category": "cultural",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Kulturzentrum mit faszinierender lokaler Kunst und prüfen Sie den aktuellen Spielplan am Eingang für spannende abendliche Theateraufführungen.",
+            "hu": "Fedezze fel ezt a helyi kortárs művészetet bemutató élénk kulturális központot, és mindenképpen nézze meg a bejáratnál az esti színházi előadások aktuális műsorát.",
+            "ro": "Explorați acest centru cultural vibrant care prezintă artă contemporană locală și asigurați-vă că verificați programul de la intrare pentru spectacolele de teatru de seară.",
+            "en": "Explore this vibrant cultural center showcasing local contemporary art, and be sure to check the schedule at the entrance for any upcoming evening theater performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Compassion",
+            "hu": "Notre-Dame-de-Compassion templom",
+            "ro": "Biserica Notre-Dame-de-Compassion",
+            "en": "Église Notre-Dame-de-Compassion"
+          },
+          "coords": [
+            2.730668,
+            48.013414
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser friedlichen Kirche und versuchen Sie, an der ruhigen Morgenmesse teilzunehmen, um eine besinnliche Erfahrung zu machen.",
+            "hu": "Csodálja meg ennek a békés helyi templomnak a gyönyörű ólomüveg ablakait, és ha teheti, látogasson el a reggeli misére egy igazán meghitt és feltöltő élményért.",
+            "ro": "Admirați vitraliile absolut minunate ale acestei biserici pașnice și încercați să participați la liturghia de dimineață pentru o experiență spirituală cu adevărat senină.",
+            "en": "Admire the beautiful stained glass windows of this peaceful church, and try to visit during morning mass for a truly serene and spiritually uplifting local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Thérèse Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Sainte-Thérèse Church"
+          },
+          "coords": [
+            2.714124,
+            48.017094
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für stille Reflexion in dieser intimen Kirche, die für ihre Architektur bekannt ist, und betreten Sie sie durch das ruhigere, versteckte Seitentor.",
+            "hu": "Töltsön el egy kis időt csendes elmélkedéssel ebben a minimalista építészetéről ismert barátságos templomban, és a zavartalanabb élményért használja a rejtett oldalsó bejáratot.",
+            "ro": "Petreceți un moment de reflecție în această biserică intimă recunoscută pentru arhitectura sa minimalistă, folosind intrarea laterală mai liniștită pentru a evita mulțimea.",
+            "en": "Take a moment for quiet reflection in this intimate neighborhood church known for its minimalist architecture, and use the hidden side entrance for a more secluded visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der heiligen Olga",
+            "hu": "Szent Olga templom",
+            "ro": "Biserica Sfânta Olga",
+            "en": "Église Sainte-Olga"
+          },
+          "coords": [
+            2.709362,
+            48.023339
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende kulturelle Erbe dieser russisch-orthodoxen Kirche, aber denken Sie unbedingt an eine respektvolle und bescheidene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel ennek a különleges orosz ortodox templomnak a lenyűgöző kulturális örökségét, de ne feledjen visszafogott és szerény öltözéket viselni a belépés előtt.",
+            "ro": "Descoperiți moștenirea culturală absolut fascinantă a acestei biserici ortodoxe ruse, dar asigurați-vă că sunteți îmbrăcați decent și cuviincios la intrarea în lăcaș.",
+            "en": "Discover the fascinating cultural heritage and intricate details of this Russian Orthodox church, but always remember to dress modestly and respectfully before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Canal du Loing"
+          },
+          "coords": [
+            2.722222,
+            48.0275
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der historischen Treidelpfade dieses malerischen Kanals und bringen Sie eine Kamera mit, um die Spiegelungen der alten Ziegelstein-Schleusen einzufangen.",
+            "hu": "Sétáljon végig a festői csatorna történelmi vontatóútjain, és mindenképp hozzon magával fényképezőgépet a régi téglaépítésű zsilipek vízi tükröződésének megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul potecilor istorice ale acestui canal pitoresc și aduceți o cameră foto pentru a surprinde reflexiile frumoase ale vechilor ecluze de cărămidă în apă.",
+            "en": "Stroll along the historic towpaths of this scenic canal, and bring a camera to capture the charming and picture-perfect reflection of the old brick locks in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "House of Nature"
+          },
+          "coords": [
+            2.722578,
+            48.027619
+          ],
+          "category": "cultural",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lernen Sie die regionalen Ökosysteme durch faszinierende interaktive Ausstellungen kennen und fragen Sie das Personal nach der besten Zeit zur Vogelbeobachtung am nahen Wasser.",
+            "hu": "Ismerje meg a regionális ökoszisztémákat az interaktív kiállításokon, és bátran kérdezze meg a személyzetet a közeli vízparti madármegfigyelés legideálisabb időpontjairól.",
+            "ro": "Învățați despre ecosistemele regionale prin expoziții interactive uimitoare și întrebați personalul despre cel mai bun moment pentru observarea păsărilor lângă apă.",
+            "en": "Learn about regional ecosystems through engaging interactive exhibits, and don't hesitate to ask the friendly staff about the best times for birdwatching near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalette-See",
+            "hu": "Chalette-tó",
+            "ro": "Lacul Chalette",
+            "en": "Lac de Chalette"
+          },
+          "coords": [
+            2.72758,
+            48.027307
+          ],
+          "category": "natural",
+          "arrive_at": "16:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses schönen Sees nach einem langen Tag oder mieten Sie rechtzeitig ein Tretboot für eine erfrischende Fahrt auf den ruhigen Gewässern.",
+            "hu": "Pihenjen egy hosszú nap után ennek a gyönyörű tónak a homokos partján, vagy béreljen egy vízibiciklit egy frissítő és nyugtató körre a lágyan ringatózó békés vizeken.",
+            "ro": "Relaxați-vă pe malul nisipos al acestui lac frumos după o zi lungă de plimbări sau închiriați o hidrobicicletă pentru o cursă revigorantă și plăcută pe apele mereu liniștite.",
+            "en": "Relax on the sandy shores of this beautiful lake after a long day of sightseeing, or rent a pedal boat for a refreshing and deeply calming ride across the tranquil waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Autofahrt im fernen Osten mit einem alten Wahrzeichen und lokaler Kultur. Gegen Mittag durchqueren Sie das Stadtzentrum und parken in der Nähe verschiedener Kirchen und Baudenkmäler für kurze, beeindruckende Spaziergänge. Der Nachmittag wird komplett fußgängerfreundlich am Kanal verbracht, wobei Sie alles ganz bequem erkunden können. Lassen Sie den Tag mit einem kurzen Weg zum friedlichen See ausklingen und genießen Sie die klare Abendluft.",
+        "hu": "Kezdje az autós túrát a távolabbi keleti részen egy ősi látványossággal és helyi kultúrával. Délben szelje át a belvárost, és parkoljon le a különféle különleges templomok közelében rövidebb, lenyűgöző sétákhoz. A délutánt teljesen gyalogosan töltheti a csatorna mellett, ahol mindent kényelmesen felfedezhet a parkolótól indulva. Zárja a napot egy rövid sétával a békés tóhoz, élvezve a friss és üdítő esti levegőt.",
+        "ro": "Începeți turul cu mașina în estul îndepărtat cu un reper vechi și cultură locală. În jurul prânzului, traversați centrul orașului și parcați aproape de diverse biserici pentru plimbări scurte și impresionante pe jos. După-amiaza va fi petrecută complet la pas pe lângă canal, explorând convenabil direct din parcare. Încheiați ziua printr-o scurtă plimbare către lacul pașnic și bucurați-vă de aerul curat de seară.",
+        "en": "Start your driving tour in the far east with an ancient landmark and local culture. Around midday, cross through the town center and park near the various churches for short, impressive walking loops. The afternoon becomes completely pedestrian-friendly by the canal, allowing you to explore everything conveniently from your parking spot. Wind down the day with a short walk to the peaceful lake and enjoy the crisp evening air."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-daruvar-cities-v2",
+  "anchor": {
+    "name": "Daruvar",
+    "coords": [
+      17.223,
+      45.593
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dvorac grofa Jankovića",
+            "hu": "Dvorac grofa Jankovića",
+            "ro": "Dvorac grofa Jankovića",
+            "en": "Dvorac grofa Jankovića"
+          },
+          "coords": [
+            17.220877,
+            45.596017
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante barocke Schloss aus dem 18. Jahrhundert, um die adelige Geschichte der Familie Janković zu entdecken, und besuchen Sie unbedingt den Weinkeller für lokale Verkostungen.",
+            "hu": "Fedezze fel ezt az elegáns 18. századi barokk kastélyt, hogy megismerje a Janković család nemesi történetét, és feltétlenül látogasson el a borospincébe egy helyi kóstolóra.",
+            "ro": "Explorați acest elegant castel baroc din secolul al XVIII-lea pentru a descoperi istoria nobilă a familiei Janković și asigurați-vă că vizitați crama pentru degustări locale.",
+            "en": "Explore this elegant 18th-century Baroque castle to uncover the noble history of the Janković family, and make sure to check the wine cellar for local tasting options."
+          }
+        },
+        {
+          "name": {
+            "de": "Raspelo iz 1931. godine",
+            "hu": "Raspelo iz 1931. godine",
+            "ro": "Raspelo iz 1931. godine",
+            "en": "Raspelo iz 1931. godine"
+          },
+          "coords": [
+            17.223071,
+            45.594665
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Kruzifix aus dem Jahr 1931, das als Zeugnis des lokalen Glaubens steht, und nehmen Sie sich einen Moment Zeit, um die detaillierte Steinmetzarbeit im Morgenlicht zu bewundern.",
+            "hu": "Álljon meg ennél az 1931-es történelmi feszületnél, amely a helyi hit bizonyítékaként áll, és szánjon egy percet arra, hogy megcsodálja a részletes kőfaragást a reggeli fényben.",
+            "ro": "Opriți-vă la acest crucifix istoric din 1931 care stă ca o mărturie a credinței locale, făcându-vă un moment pentru a aprecia sculptura detaliată în piatră în lumina dimineții.",
+            "en": "Pause at this historic 1931 crucifix that stands as a testament to local faith, taking a moment to appreciate its detailed stonework in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Centralno blatno kupalište",
+            "hu": "Centralno blatno kupalište",
+            "ro": "Centralno blatno kupalište",
+            "en": "Centralno blatno kupalište"
+          },
+          "coords": [
+            17.225712,
+            45.593598
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des zentralen Schlammbads, ein Eckpfeiler von Daruvars Kur-Erbe, und erkundigen Sie sich drinnen nach der Buchung einer verjüngenden Thermalbehandlung.",
+            "hu": "Csodálja meg a központi iszapfürdő lenyűgöző építészetét, amely a daruvári gyógyfürdő örökségének alapköve, és érdeklődjön bent egy fiatalító termálkezelés foglalásáról.",
+            "ro": "Admirați arhitectura impresionantă a băilor centrale cu nămol, o piatră de temelie a moștenirii balneare din Daruvar, și întrebați înăuntru despre rezervarea unui tratament termal de întinerire.",
+            "en": "Admire the striking architecture of the central mud baths, a cornerstone of Daruvar's spa heritage, and inquire inside about booking a rejuvenating thermal treatment."
+          }
+        },
+        {
+          "name": {
+            "de": "Ždral",
+            "hu": "Ždral",
+            "ro": "Ždral",
+            "en": "Ždral"
+          },
+          "coords": [
+            17.227316,
+            45.596272
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die ikonische Kranich-Skulptur, die die Verbindung der Stadt zu heilenden Gewässern symbolisiert, am besten zu betrachten, wenn der Brunnen an klaren Nachmittagen sprudelt.",
+            "hu": "Fényképezze le az ikonikus daru szobrot, amely a város gyógyvizekhez való kötődését szimbolizálja, és a legszebb látványt akkor nyújtja, amikor a szökőkút tiszta délutánokon teljes erővel működik.",
+            "ro": "Fotografiați sculptura iconică a Cocorului, care simbolizează legătura orașului cu apele vindecătoare, vizibilă cel mai bine atunci când fântâna curge din plin în după-amiezile senine.",
+            "en": "Photograph the iconic Crane sculpture which symbolizes the town's connection to healing waters, best viewed when the fountain is flowing fully on clear afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipium Iassorum",
+            "hu": "Municipium Iassorum",
+            "ro": "Municipium Iassorum",
+            "en": "Municipium Iassorum"
+          },
+          "coords": [
+            17.233903,
+            45.596229
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die faszinierenden Ruinen dieser antiken römischen Siedlung, um Daruvars tiefe historische Wurzeln zu begreifen, und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Sétáljon ezen az ősi római település lenyűgöző romjai között, hogy megértse Daruvár mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale acestei vechi așezări romane pentru a înțelege rădăcinile istorice profunde ale Daruvarului, purtând pantofi rezistenți pentru a naviga pe terenul arheologic accidentat.",
+            "en": "Walk among the fascinating ruins of this ancient Roman settlement to grasp Daruvar's deep historical roots, wearing sturdy shoes to navigate the uneven archeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Termalni vodeni park Aquae Balissae",
+            "hu": "Termalni vodeni park Aquae Balissae",
+            "ro": "Termalni vodeni park Aquae Balissae",
+            "en": "Termalni vodeni park Aquae Balissae"
+          },
+          "coords": [
+            17.225642,
+            45.597697
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln in den modernen Thermalbecken von Aquae Balissae nach einem Tag voller Besichtigungen, und denken Sie daran, ein eigenes Handtuch einzupacken, um Leihgebühren zu sparen.",
+            "hu": "Lazítsa el izmait az Aquae Balissae modern termálmedencéiben egy városnézéssel töltött nap után, és ne felejtsen el saját törölközőt vinni, hogy megspórolja a bérleti díjat.",
+            "ro": "Relaxați-vă mușchii în piscinele termale moderne de la Aquae Balissae după o zi de vizitare a obiectivelor turistice, amintindu-vă să împachetați propriul prosop pentru a economisi taxele de închiriere.",
+            "en": "Relax your muscles in the modern thermal pools of Aquae Balissae after a day of sightseeing, remembering to pack your own towel to save on rental fees at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am majestätischen Schloss Janković und tauchen Sie in die aristokratischen Wurzeln von Daruvar ein. Der kurze Spaziergang zum Kruzifix von 1931 setzt einen besinnlichen Ton.\nMittag: Fahren Sie fort zu den zentralen Schlammbädern, einem Wahrzeichen des Thermal-Erbes der Stadt. Die nahegelegene Kranich-Skulptur bietet ein perfektes Fotomotiv.\nNachmittag: Gehen Sie in der Zeit zurück beim Municipium Iassorum. Die römischen Ruinen bilden einen faszinierenden Kontrast zur barocken Eleganz des Vormittags.\nAbend: Schließen Sie Ihren Spaziergang mit völliger Entspannung im Thermalwasserpark Aquae Balissae ab. Das warme Wasser ist der perfekte Weg, um sich zu erholen.",
+        "hu": "Délelőtt: Kezdje a lenyűgöző Janković-kastélynál, és merüljön el Daruvár arisztokratikus gyökereiben. Az 1931-es feszülethez tett rövid séta elmélkedő alaphangot ad a napnak.\nDél: Folytassa útját a központi iszapfürdőhöz, amely a város termálörökségének fémjelzése. A közeli Daru-szobor tökéletes fotózási lehetőséget kínál.\nDélután: Lépjen még visszább az időben a Municipium Iassorum falainál. Az ókori római romok lenyűgöző kontrasztot nyújtanak a délelőtti barokk eleganciához képest.\nEste: Zárja sétáját a teljes kikapcsolódással az Aquae Balissae termálvízi parkban. A meleg gyógyvíz a legtökéletesebb módja a fáradt izmok megnyugtatásának.",
+        "ro": "Dimineața: Începeți la grandiosul Castel Janković, scufundându-vă în rădăcinile aristocratice ale Daruvarului. Scurta plimbare până la Crucifixul din 1931 stabilește un ton reflexiv.\nPrânz: Continuați către Băile Centrale cu Nămol, un semn distinctiv al moștenirii termale. În apropiere, sculptura Cocorului oferă o oportunitate foto perfectă.\nDupă-amiaza: Întoarceți-vă în timp la Municipium Iassorum. Ruinele romane antice oferă un contrast fascinant cu eleganța barocă a dimineții.\nSeara: Încheiați plimbarea cu relaxare supremă la parcul acvatic termal Aquae Balissae. Apele calde sunt modalitatea perfectă de a vă liniști mușchii obosiți.",
+        "en": "Morning: Start at the grand Janković Castle, diving into the aristocratic roots of Daruvar. The short stroll to the 1931 Crucifix sets a reflective tone for the day.\nMidday: Continue to the Central Mud Baths, a hallmark of the town's thermal heritage. Nearby, the iconic Crane sculpture offers a perfect photo opportunity before lunch.\nAfternoon: Step further back in time at Municipium Iassorum. The ancient Roman ruins here provide a stark but fascinating contrast to the baroque elegance of the morning.\nEvening: Conclude your walk with ultimate relaxation at the Aquae Balissae thermal water park. The warm waters are the perfect way to soothe tired muscles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igralište Mirele Ljutak",
+            "hu": "Igralište Mirele Ljutak",
+            "ro": "Igralište Mirele Ljutak",
+            "en": "Igralište Mirele Ljutak"
+          },
+          "coords": [
+            17.217846,
+            45.590358
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder auf diesem gut ausgestatteten, Mirela Ljutak gewidmeten Spielplatz Energie abbauen, und nutzen Sie die schattigen Bänke am Rand für eine bequeme Pause.",
+            "hu": "Hagyja, hogy gyermekei levezessék energiájukat ezen a jól felszerelt, Mirela Ljutaknak szentelt játszótéren, és használja a kerítés melletti árnyékos padokat egy kényelmes pihenésre.",
+            "ro": "Lăsați-vă copiii să-și consume energia la acest loc de joacă bine echipat dedicat Mirelei Ljutak, folosind băncile umbrite de pe margine pentru o odihnă confortabilă.",
+            "en": "Let your children burn off some energy at this well-equipped playground dedicated to Mirela Ljutak, utilizing the shaded benches around the perimeter for a comfortable rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kameni križ 1907. godine",
+            "hu": "Kameni križ 1907. godine",
+            "ro": "Kameni križ 1907. godine",
+            "en": "Kameni križ 1907. godine"
+          },
+          "coords": [
+            17.223883,
+            45.592542
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie das Steinkreuz aus dem Jahr 1907, das als ruhige historische Markierung im Stadtzentrum dient, und überprüfen Sie die verblassten Inschriften, die eine kurze Geschichte seiner Einweihung erzählen.",
+            "hu": "Figyelje meg az 1907-ből származó kőkeresztet, amely csendes történelmi jelzőként szolgál a városközpontban, és vizsgálja meg a megkopott feliratokat, amelyek rövid történetet mesélnek a felszenteléséről.",
+            "ro": "Observați crucea de piatră din 1907, care servește ca un marker istoric liniștit în centrul orașului, verificând inscripțiile decolorate care spun o scurtă poveste a dedicării sale.",
+            "en": "Observe the stone cross from 1907 which serves as a quiet historical marker in the town center, checking the faded inscriptions that tell a brief story of its dedication."
+          }
+        },
+        {
+          "name": {
+            "de": "Centralno blatno kupalište",
+            "hu": "Centralno blatno kupalište",
+            "ro": "Centralno blatno kupalište",
+            "en": "Centralno blatno kupalište"
+          },
+          "coords": [
+            17.225712,
+            45.593598
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des zentralen Schlammbads, ein Eckpfeiler von Daruvars Kur-Erbe, und erkundigen Sie sich drinnen nach der Buchung einer verjüngenden Thermalbehandlung.",
+            "hu": "Csodálja meg a központi iszapfürdő lenyűgöző építészetét, amely a daruvári gyógyfürdő örökségének alapköve, és érdeklődjön bent egy fiatalító termálkezelés foglalásáról.",
+            "ro": "Admirați arhitectura impresionantă a băilor centrale cu nămol, o piatră de temelie a moștenirii balneare din Daruvar, și întrebați înăuntru despre rezervarea unui tratament termal de întinerire.",
+            "en": "Admire the striking architecture of the central mud baths, a cornerstone of Daruvar's spa heritage, and inquire inside about booking a rejuvenating thermal treatment."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac grofa Jankovića",
+            "hu": "Dvorac grofa Jankovića",
+            "ro": "Dvorac grofa Jankovića",
+            "en": "Dvorac grofa Jankovića"
+          },
+          "coords": [
+            17.220877,
+            45.596017
+          ],
+          "category": "castle",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante barocke Schloss aus dem 18. Jahrhundert, um die adelige Geschichte der Familie Janković zu entdecken, und besuchen Sie unbedingt den Weinkeller für lokale Verkostungen.",
+            "hu": "Fedezze fel ezt az elegáns 18. századi barokk kastélyt, hogy megismerje a Janković család nemesi történetét, és feltétlenül látogasson el a borospincébe egy helyi kóstolóra.",
+            "ro": "Explorați acest elegant castel baroc din secolul al XVIII-lea pentru a descoperi istoria nobilă a familiei Janković și asigurați-vă că vizitați crama pentru degustări locale.",
+            "en": "Explore this elegant 18th-century Baroque castle to uncover the noble history of the Janković family, and make sure to check the wine cellar for local tasting options."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipium Iassorum",
+            "hu": "Municipium Iassorum",
+            "ro": "Municipium Iassorum",
+            "en": "Municipium Iassorum"
+          },
+          "coords": [
+            17.233903,
+            45.596229
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die faszinierenden Ruinen dieser antiken römischen Siedlung, um Daruvars tiefe historische Wurzeln zu begreifen, und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Sétáljon ezen az ősi római település lenyűgöző romjai között, hogy megértse Daruvár mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale acestei vechi așezări romane pentru a înțelege rădăcinile istorice profunde ale Daruvarului, purtând pantofi rezistenți pentru a naviga pe terenul arheologic accidentat.",
+            "en": "Walk among the fascinating ruins of this ancient Roman settlement to grasp Daruvar's deep historical roots, wearing sturdy shoes to navigate the uneven archeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tursko groblje",
+            "hu": "Tursko groblje",
+            "ro": "Tursko groblje",
+            "en": "Tursko groblje"
+          },
+          "coords": [
+            17.228693,
+            45.583246
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feierliche Ruhe des alten türkischen Friedhofs, der die komplexe osmanische Vergangenheit der Region widerspiegelt, und treten Sie vorsichtig auf, da viele der alten Grabsteine zerbrechlich sind.",
+            "hu": "Fedezze fel a régi török temető ünnepélyes nyugalmát, amely a régió összetett oszmán múltját tükrözi, és lépkedjen óvatosan, mivel sok ősi sírkő törékeny.",
+            "ro": "Descoperiți liniștea solemnă a vechiului cimitir turcesc care reflectă trecutul otoman complex al regiunii și pășiți cu grijă, deoarece multe dintre vechile pietre funerare sunt fragile.",
+            "en": "Discover the solemn tranquility of the old Turkish cemetery that reflects the region's complex Ottoman past, and tread carefully as many of the ancient tombstones are fragile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Radtour an der frischen Luft auf dem Spielplatz Mirela Ljutak. Von dort ist es nur eine kurze Fahrt zum Steinkreuz von 1907, einem historischen Juwel.\nMittag: Radeln Sie zu den markanten zentralen Schlammbädern und besuchen Sie dann das majestätische Schloss Janković. Die flachen Straßen machen das Radfahren hier mühelos.\nNachmittag: Fahren Sie zum Municipium Iassorum, um das römische Erbe zu erkunden. Der leichte Tapetenwechsel zeigt, wie verschiedene historische Schichten in Daruvar koexistieren.\nAbend: Beenden Sie Ihre Fahrt mit einer Reise zum alten türkischen Friedhof. Das Radfahren im späten Nachmittagslicht verleiht diesem Ort eine ruhige Atmosphäre.",
+        "hu": "Délelőtt: Kezdje kerékpártúráját egy kis friss levegővel a Mirela Ljutak játszótéren. Innen rövid út vezet az 1907-es kőkereszthez, amely egy visszafogott történelmi gyöngyszem.\nDél: Tekerjen a lenyűgöző központi iszapfürdőhöz, majd látogasson el a fenséges Janković-kastélyhoz. Az itteni sík utak erőfeszítés nélkülivé teszik a kerékpározást.\nDélután: Kerékpározzon ki a Municipium Iassorum romjaihoz, hogy felfedezze a római örökséget. A környezetváltozás bepillantást enged Daruvár történelmének rétegeibe.\nEste: Fejezze be túráját a régi török temetőhöz vezető úttal. A késő délutáni fényben való kerékpározás megható, csendes atmoszférát kölcsönöz ennek a nyughelynek.",
+        "ro": "Dimineața: Începeți turul cu bicicleta la locul de joacă Mirela Ljutak. De acolo, este o scurtă plimbare până la Crucea de Piatră din 1907, o bijuterie istorică discretă.\nPrânz: Pedați spre impresionantele Băi Centrale cu Nămol, apoi vizitați maiestuosul Castel Janković. Drumurile plate de aici fac mersul pe bicicletă fără efort.\nDupă-amiaza: Mergeți cu bicicleta la Municipium Iassorum pentru a explora moștenirea romană. Schimbarea de peisaj oferă o privire asupra istoriei complexe din Daruvar.\nSeara: Încheiați călătoria cu un drum către vechiul cimitir turcesc. Ciclismul aici în lumina târzie a după-amiezii adaugă o atmosferă liniștită acestui loc de odihnă.",
+        "en": "Morning: Kick off your cycling tour with some fresh air at the Mirela Ljutak playground. From there, it's a short ride to the 1907 Stone Cross, an understated historical gem.\nMidday: Pedal to the striking Central Mud Baths, then visit the majestic Janković Castle. The flat roads here make cycling between these central landmarks effortless.\nAfternoon: Cycle out to Municipium Iassorum to explore the Roman heritage. The slight change in scenery offers a glimpse into how layers of history coexist in Daruvar.\nEvening: End your ride with a journey to the old Turkish Cemetery. Cycling here in the late afternoon light adds a poignant, quiet atmosphere to this resting place."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Raspelo",
+            "hu": "Raspelo",
+            "ro": "Raspelo",
+            "en": "Raspelo"
+          },
+          "coords": [
+            17.185427,
+            45.591389
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses rustikale Straßenkreuz, das die tief verwurzelten religiösen Traditionen der lokalen Bauerngemeinden veranschaulicht, und das sich am besten für einen kurzen, besinnlichen Stopp auf Ihrer Fahrt eignet.",
+            "hu": "Tekintse meg ezt a rusztikus út menti feszületet, amely a helyi gazdálkodó közösségek mélyen gyökerező vallási hagyományait illusztrálja, és a legalkalmasabb egy rövid, elmélkedő megállóra az autós túra során.",
+            "ro": "Vizualizați acest crucifix rustic de pe marginea drumului, care ilustrează tradițiile religioase profund înrădăcinate ale comunităților agricole locale, vizitat cel mai bine rapid ca o scurtă oprire de reflecție în timpul turului cu mașina.",
+            "en": "View this rustic roadside crucifix that illustrates the deep-rooted religious traditions of the local farming communities, best visited quickly as a brief reflective stop on your driving tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinska opatija Sveta Jelena de Podborje",
+            "hu": "Benediktinska opatija Sveta Jelena de Podborje",
+            "ro": "Benediktinska opatija Sveta Jelena de Podborje",
+            "en": "Benediktinska opatija Sveta Jelena de Podborje"
+          },
+          "coords": [
+            17.204649,
+            45.585156
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die verbliebenen Strukturen der Benediktinerabtei der Heiligen Helena, ein bedeutendes Stück mittelalterliches christliches Erbe, und bringen Sie ein Weitwinkelobjektiv mit, um die beeindruckenden Bögen einzufangen.",
+            "hu": "Csodálja meg a Szent Ilona bencés apátság megmaradt építményeit, amely a középkori keresztény örökség jelentős része, és hozzon magával egy nagylátószögű objektívet a lenyűgöző boltívek megörökítéséhez.",
+            "ro": "Minunați-vă de structurile rămase ale abației benedictine Sfânta Elena, o piesă semnificativă a moștenirii creștine medievale, și aduceți un obiectiv cu unghi larg pentru a surprinde arcadele impresionante.",
+            "en": "Marvel at the remaining structures of the Benedictine abbey of Saint Helena, a significant piece of medieval Christian heritage, and bring a wide-angle lens to capture the impressive arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Igralište Mirele Ljutak",
+            "hu": "Igralište Mirele Ljutak",
+            "ro": "Igralište Mirele Ljutak",
+            "en": "Igralište Mirele Ljutak"
+          },
+          "coords": [
+            17.217846,
+            45.590358
+          ],
+          "category": "family",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder auf diesem gut ausgestatteten, Mirela Ljutak gewidmeten Spielplatz Energie abbauen, und nutzen Sie die schattigen Bänke am Rand für eine bequeme Pause.",
+            "hu": "Hagyja, hogy gyermekei levezessék energiájukat ezen a jól felszerelt, Mirela Ljutaknak szentelt játszótéren, és használja a kerítés melletti árnyékos padokat egy kényelmes pihenésre.",
+            "ro": "Lăsați-vă copiii să-și consume energia la acest loc de joacă bine echipat dedicat Mirelei Ljutak, folosind băncile umbrite de pe margine pentru o odihnă confortabilă.",
+            "en": "Let your children burn off some energy at this well-equipped playground dedicated to Mirela Ljutak, utilizing the shaded benches around the perimeter for a comfortable rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac grofa Jankovića",
+            "hu": "Dvorac grofa Jankovića",
+            "ro": "Dvorac grofa Jankovića",
+            "en": "Dvorac grofa Jankovića"
+          },
+          "coords": [
+            17.220877,
+            45.596017
+          ],
+          "category": "castle",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante barocke Schloss aus dem 18. Jahrhundert, um die adelige Geschichte der Familie Janković zu entdecken, und besuchen Sie unbedingt den Weinkeller für lokale Verkostungen.",
+            "hu": "Fedezze fel ezt az elegáns 18. századi barokk kastélyt, hogy megismerje a Janković család nemesi történetét, és feltétlenül látogasson el a borospincébe egy helyi kóstolóra.",
+            "ro": "Explorați acest elegant castel baroc din secolul al XVIII-lea pentru a descoperi istoria nobilă a familiei Janković și asigurați-vă că vizitați crama pentru degustări locale.",
+            "en": "Explore this elegant 18th-century Baroque castle to uncover the noble history of the Janković family, and make sure to check the wine cellar for local tasting options."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipium Iassorum",
+            "hu": "Municipium Iassorum",
+            "ro": "Municipium Iassorum",
+            "en": "Municipium Iassorum"
+          },
+          "coords": [
+            17.233903,
+            45.596229
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die faszinierenden Ruinen dieser antiken römischen Siedlung, um Daruvars tiefe historische Wurzeln zu begreifen, und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Sétáljon ezen az ősi római település lenyűgöző romjai között, hogy megértse Daruvár mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale acestei vechi așezări romane pentru a înțelege rădăcinile istorice profunde ale Daruvarului, purtând pantofi rezistenți pentru a naviga pe terenul arheologic accidentat.",
+            "en": "Walk among the fascinating ruins of this ancient Roman settlement to grasp Daruvar's deep historical roots, wearing sturdy shoes to navigate the uneven archeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Tursko groblje",
+            "hu": "Tursko groblje",
+            "ro": "Tursko groblje",
+            "en": "Tursko groblje"
+          },
+          "coords": [
+            17.228693,
+            45.583246
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feierliche Ruhe des alten türkischen Friedhofs, der die komplexe osmanische Vergangenheit der Region widerspiegelt, und treten Sie vorsichtig auf, da viele der alten Grabsteine zerbrechlich sind.",
+            "hu": "Fedezze fel a régi török temető ünnepélyes nyugalmát, amely a régió összetett oszmán múltját tükrözi, és lépkedjen óvatosan, mivel sok ősi sírkő törékeny.",
+            "ro": "Descoperiți liniștea solemnă a vechiului cimitir turcesc care reflectă trecutul otoman complex al regiunii și pășiți cu grijă, deoarece multe dintre vechile pietre funerare sunt fragile.",
+            "en": "Discover the solemn tranquility of the old Turkish cemetery that reflects the region's complex Ottoman past, and tread carefully as many of the ancient tombstones are fragile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Fahrt am Stadtrand bei einem historischen Straßenkreuz und fahren Sie dann zu den beeindruckenden Überresten der Benediktinerabtei der Heiligen Helena.\nMittag: Fahren Sie in Richtung Zentrum und machen Sie eine Pause auf dem Spielplatz Mirela Ljutak. Fahren Sie weiter zum Schloss Janković, das leicht erreichbar ist.\nNachmittag: Machen Sie einen kurzen Ausflug zum Municipium Iassorum. Ein Auto ermöglicht es Ihnen, schnell vom Mittelalter und Barock in die römische Antike zu wechseln.\nAbend: Ihre letzte Fahrt führt Sie zum feierlichen Gelände des türkischen Friedhofs. Die Mobilität eines Autos macht den Besuch dieser verstreuten historischen Stätten einfach.",
+        "hu": "Délelőtt: Kezdje autós túráját a külvárosban egy történelmi út menti feszületnél, majd navigáljon a Szent Ilona bencés apátság lenyűgöző maradványaihoz.\nDél: Vezessen a központ felé, és tartson egy családbarát szünetet a Mirela Ljutak játszótéren. Folytassa útját a Janković-kastélyhoz, amely könnyen megközelíthető.\nDélután: Tegyen rövid utazást a Municipium Iassorum romjaihoz. Az autó lehetővé teszi a gyors átmenetet a középkori és barokk korszakból a mély római ókorba.\nEste: Utolsó útja a török temető ünnepélyes területére viszi. Az autó mobilitása megkönnyíti ezen kissé szétszórt történelmi helyszínek meglátogatását.",
+        "ro": "Dimineața: Începeți turul cu mașina la periferie, la un crucifix istoric, apoi navigați către rămășițele impresionante ale abației benedictine Sfânta Elena.\nPrânz: Conduceți spre centru, luând o pauză pentru familie la locul de joacă Mirela Ljutak. Continuați până la Castelul Janković, ușor accesibil cu mașina.\nDupă-amiaza: Faceți o scurtă excursie la Municipium Iassorum. Mașina vă permite să treceți rapid de la epocile medievală și barocă la antichitatea romană.\nSeara: Ultima călătorie vă duce la terenurile solemne ale cimitirului turcesc. Mobilitatea mașinii simplifică vizitarea acestor situri istorice ușor dispersate.",
+        "en": "Morning: Begin your driving tour on the outskirts at a historic roadside crucifix, then navigate to the impressive remnants of the Benedictine abbey of Saint Helena.\nMidday: Drive toward the center, taking a family-friendly break at the Mirela Ljutak playground. Continue to the Janković Castle, easily accessible with parking options.\nAfternoon: Make the short trip to Municipium Iassorum. Having a car allows you to quickly transition from the medieval and baroque eras to deep Roman antiquity.\nEvening: Your final drive takes you to the solemn grounds of the Turkish Cemetery. The mobility of a car makes it simple to visit these slightly dispersed historical sites."
+      }
+    }
+  }
+}

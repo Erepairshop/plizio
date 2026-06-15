@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-roccalumera-cities-v2",
+  "anchor": {
+    "name": "Roccalumera",
+    "coords": [
+      15.39519,
+      37.97626
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 2.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Letterario Salvatore Quasimodo",
+            "hu": "Parco Letterario Salvatore Quasimodo",
+            "ro": "Parco Letterario Salvatore Quasimodo",
+            "en": "Parco Letterario Salvatore Quasimodo"
+          },
+          "coords": [
+            15.391893,
+            37.973774
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Literaturpark zu Ehren des Nobelpreisträgers, um seine poetischen Wurzeln zu verstehen, und achten Sie auf besondere Lesungen.",
+            "hu": "Fedezze fel a Nobel-díjas költő irodalmi parkját, hogy megértse művészi gyökereit, és mindenképpen érdeklődjön a különleges felolvasóestekről.",
+            "ro": "Explorați parcul literar dedicat laureatului Nobel pentru a înțelege rădăcinile sale poetice și verificați programul pentru evenimente de lectură.",
+            "en": "Explore the literary park dedicated to the Nobel laureate to understand his poetic roots, and check the schedule for special poetry reading events."
+          }
+        },
+        {
+          "name": {
+            "de": "Antica Filanda",
+            "hu": "Antica Filanda",
+            "ro": "Antica Filanda",
+            "en": "Antica Filanda"
+          },
+          "coords": [
+            15.397222,
+            37.977873
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der Region in dieser alten Seidenspinnerei, aber bringen Sie eine warme Jacke mit, da es innen oft kühl ist.",
+            "hu": "Ismerje meg a régió ipari örökségét ebben a régi selyemfonóban, de érdemes rétegesen öltözni, mivel az épület belső terei kissé hűvösek lehetnek.",
+            "ro": "Descoperiți moștenirea industrială a regiunii în această veche filatură de mătase, însă luați-vă o haină călduroasă, deoarece interiorul este răcoros.",
+            "en": "Discover the region's industrial heritage at this old silk mill, which beautifully highlights local history, but wear warm layers as it can be chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Sole Beach bar",
+            "hu": "Sole Beach bar",
+            "ro": "Sole Beach bar",
+            "en": "Sole Beach bar"
+          },
+          "coords": [
+            15.400179,
+            37.979909
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ionischen Meer in dieser Strandbar mit toller Aussicht, aber kommen Sie frühzeitig, um sich eine gute Sonnenliege zu sichern.",
+            "hu": "Pihenjen a Jón-tenger partján ebben a hangulatos tengerparti bárban, de érkezzen korán, hogy biztosítsa a legjobb helyet egy kényelmes napozóágyon.",
+            "ro": "Relaxați-vă la Marea Ionică în acest bar de pe plajă cu priveliști superbe, dar încercați să ajungeți devreme pentru a prinde un șezlong excelent.",
+            "en": "Relax by the Ionian Sea at this vibrant beach bar offering refreshing drinks and great views, but try to arrive early to secure a prime sunbed spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Play's Beach bar",
+            "hu": "Play's Beach bar",
+            "ro": "Play's Beach bar",
+            "en": "Play's Beach bar"
+          },
+          "coords": [
+            15.400946,
+            37.98081
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und lokale Snacks direkt am Strand, ideal für eine Pause am Nachmittag, wobei Bargeld hier oft bevorzugt wird.",
+            "hu": "Élvezze a pezsgő hangulatot és a helyi falatokat közvetlenül a parton, amely tökéletes egy délutáni pihenőhöz, bár itt a készpénzes fizetés ajánlott.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și de gustările locale chiar pe plajă, perfecte pentru o pauză, deși plata în numerar este adesea preferată.",
+            "en": "Enjoy a lively atmosphere and excellent local snacks right on the beach, making it perfect for an afternoon break, though cash is often preferred here."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Saracena",
+            "hu": "Torre Saracena",
+            "ro": "Torre Saracena",
+            "en": "Torre Saracena"
+          },
+          "coords": [
+            15.389771,
+            37.970599
+          ],
+          "category": "castle",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen mittelalterlichen Küstenwachturm für einen atemberaubenden Panoramablick, aber seien Sie bereit für sehr steile und enge Treppen.",
+            "hu": "Mássza meg ezt a középkori partvédelmi tornyot a lélegzetelállító panorámáért, de készüljön fel a meredek és meglehetősen szűk történelmi lépcsőkre.",
+            "ro": "Urcați în acest turn medieval de apărare pentru o vedere panoramică uluitoare a coastei, dar fiți pregătiți pentru scări istorice abrupte și înguste.",
+            "en": "Climb this medieval coastal defense tower to enjoy breathtaking panoramic views of the coastline, but be prepared for steep and narrow historical stairs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit Poesie im Quasimodo-Park. Mittags entdecken Sie das industrielle Erbe in der Antica Filanda. Verbringen Sie den Nachmittag entspannt an zwei lebhaften Strandbars. Beenden Sie den Abend mit einem Panoramablick vom Torre Saracena.",
+        "hu": "Kezdje a reggelt az irodalom jegyében a Quasimodo parkban. Délben fedezze fel a régió ipari örökségét az Antica Filandában. A délutánt töltse lazítással két hangulatos tengerparti bárban. Zárja az estét a Torre Saracena torony panorámájával.",
+        "ro": "Începeți dimineața cu poezie la parcul Quasimodo. La prânz, descoperiți patrimoniul industrial la Antica Filanda. Petreceți după-amiaza relaxându-vă la două baruri vibrante pe plajă. Încheiați seara cu priveliști panoramice de la Torre Saracena.",
+        "en": "Start your morning immersed in poetry at the Quasimodo park. Midday finds you discovering industrial heritage at Antica Filanda. Spend your afternoon relaxing by the sea at two vibrant beach bars. Conclude the evening with panoramic views from Torre Saracena."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 2.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            15.381584,
+            37.963353
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen in die reiche maritime Geschichte von Roccalumera ein und fragen Sie die Führer nach alten Schiffen.",
+            "hu": "Merüljön el a város gazdag tengerészeti történelmében a helyi halászati hagyományokat bemutató kiállításokon, és kérdezze a vezetőket a hajókról.",
+            "ro": "Explorați istoria maritimă bogată prin expoziții fascinante despre tradițiile de pescuit, și întrebați ghizii despre poveștile vechilor corăbii.",
+            "en": "Dive into Roccalumera's rich maritime history through fascinating exhibits on local fishing traditions, and ask the guides for stories about old ships."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santa Maria delle Grazie",
+            "hu": "Chiesa Santa Maria delle Grazie",
+            "ro": "Chiesa Santa Maria delle Grazie",
+            "en": "Chiesa Santa Maria delle Grazie"
+          },
+          "coords": [
+            15.382307,
+            37.964508
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken und die friedliche Atmosphäre dieser Kirche, aber denken Sie daran, sich aus Respekt angemessen zu kleiden.",
+            "hu": "Csodálja meg a gyönyörű freskókat és a békés hangulatot ebben a történelmi templomban, de ne feledkezzen meg a szerény és tiszteletteljes öltözködésről.",
+            "ro": "Admirați frescele frumoase și atmosfera senină din această biserică istorică, dar nu uitați să vă îmbrăcați decent pentru a respecta tradiția locală.",
+            "en": "Admire the beautiful frescoes and serene atmosphere in this historic local church, but remember to dress modestly to respect the religious traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Saracena",
+            "hu": "Torre Saracena",
+            "ro": "Torre Saracena",
+            "en": "Torre Saracena"
+          },
+          "coords": [
+            15.389771,
+            37.970599
+          ],
+          "category": "castle",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen mittelalterlichen Küstenwachturm für einen atemberaubenden Panoramablick, aber seien Sie bereit für sehr steile und enge Treppen.",
+            "hu": "Mássza meg ezt a középkori partvédelmi tornyot a lélegzetelállító panorámáért, de készüljön fel a meredek és meglehetősen szűk történelmi lépcsőkre.",
+            "ro": "Urcați în acest turn medieval de apărare pentru o vedere panoramică uluitoare a coastei, dar fiți pregătiți pentru scări istorice abrupte și înguste.",
+            "en": "Climb this medieval coastal defense tower to enjoy breathtaking panoramic views of the coastline, but be prepared for steep and narrow historical stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Letterario Salvatore Quasimodo",
+            "hu": "Parco Letterario Salvatore Quasimodo",
+            "ro": "Parco Letterario Salvatore Quasimodo",
+            "en": "Parco Letterario Salvatore Quasimodo"
+          },
+          "coords": [
+            15.391893,
+            37.973774
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Literaturpark zu Ehren des Nobelpreisträgers, um seine poetischen Wurzeln zu verstehen, und achten Sie auf besondere Lesungen.",
+            "hu": "Fedezze fel a Nobel-díjas költő irodalmi parkját, hogy megértse művészi gyökereit, és mindenképpen érdeklődjön a különleges felolvasóestekről.",
+            "ro": "Explorați parcul literar dedicat laureatului Nobel pentru a înțelege rădăcinile sale poetice și verificați programul pentru evenimente de lectură.",
+            "en": "Explore the literary park dedicated to the Nobel laureate to understand his poetic roots, and check the schedule for special poetry reading events."
+          }
+        },
+        {
+          "name": {
+            "de": "Antica Filanda",
+            "hu": "Antica Filanda",
+            "ro": "Antica Filanda",
+            "en": "Antica Filanda"
+          },
+          "coords": [
+            15.397222,
+            37.977873
+          ],
+          "category": "museum",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der Region in dieser alten Seidenspinnerei, aber bringen Sie eine warme Jacke mit, da es innen oft kühl ist.",
+            "hu": "Ismerje meg a régió ipari örökségét ebben a régi selyemfonóban, de érdemes rétegesen öltözni, mivel az épület belső terei kissé hűvösek lehetnek.",
+            "ro": "Descoperiți moștenirea industrială a regiunii în această veche filatură de mătase, însă luați-vă o haină călduroasă, deoarece interiorul este răcoros.",
+            "en": "Discover the region's industrial heritage at this old silk mill, which beautifully highlights local history, but wear warm layers as it can be chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Sole Beach bar",
+            "hu": "Sole Beach bar",
+            "ro": "Sole Beach bar",
+            "en": "Sole Beach bar"
+          },
+          "coords": [
+            15.400179,
+            37.979909
+          ],
+          "category": "recreational",
+          "arrive_at": "16:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Ionischen Meer in dieser Strandbar mit toller Aussicht, aber kommen Sie frühzeitig, um sich eine gute Sonnenliege zu sichern.",
+            "hu": "Pihenjen a Jón-tenger partján ebben a hangulatos tengerparti bárban, de érkezzen korán, hogy biztosítsa a legjobb helyet egy kényelmes napozóágyon.",
+            "ro": "Relaxați-vă la Marea Ionică în acest bar de pe plajă cu priveliști superbe, dar încercați să ajungeți devreme pentru a prinde un șezlong excelent.",
+            "en": "Relax by the Ionian Sea at this vibrant beach bar offering refreshing drinks and great views, but try to arrive early to secure a prime sunbed spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum Schifffahrtsmuseum für lokale Seemannsgeschichten. Mittags geht es vorbei an einer schönen Kirche zum mittelalterlichen Torre Saracena. Nachmittags erwarten Sie Literatur- und Industriegeschichte. Beenden Sie den Tag entspannt an der Strandbar.",
+        "hu": "Kerékpározzon kora reggel a tengerészeti múzeumba a helyi hajós történetekért. Délben egy szép templom érintésével érje el a középkori Torre Saracenát. Délután irodalmi és selyemipari titkok várják. Zárja a napot egy hűsítő itallal a tengerparti bárban.",
+        "ro": "Pedalați devreme spre muzeul maritim pentru a explora legendele mării. Prânzul vă duce pe lângă o biserică frumoasă la Torre Saracena medievală. După-amiaza, descoperiți istoria literară și a mătăsii. Încheiați ziua relaxându-vă cu o băutură la barul de pe plajă.",
+        "en": "Cycle early to the maritime museum to explore local sea lore. Midday takes you past a beautiful church to the medieval Torre Saracena. In the afternoon, dive into literary history and old silk trades. End the day unwinding with a cold drink at the beach bar."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:14",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+            "hu": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+            "ro": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+            "en": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli"
+          },
+          "coords": [
+            15.409111,
+            37.990396
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie eine beeindruckende Sammlung moderner Kunstwerke, die einen schönen Kontrast zu den Altertümern bilden, und prüfen Sie den Kalender.",
+            "hu": "Tekintse meg a modern művészeti alkotások lenyűgöző gyűjteményét, amely kontrasztot alkot a régiségekkel, és keresse az időszaki kiállításokat.",
+            "ro": "Vizionați o colecție impresionantă de opere de artă modernă ce contrastează cu antichitățile orașului, și verificați programul expozițiilor temporare.",
+            "en": "View an impressive collection of modern artworks that provide a sharp contrast to the town's antiquities, and check the calendar for temporary shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Assunta",
+            "hu": "Chiesa di Santa Maria Assunta",
+            "ro": "Chiesa di Santa Maria Assunta",
+            "en": "Chiesa di Santa Maria Assunta"
+          },
+          "coords": [
+            15.408413,
+            37.988961
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese schöne zentrale Kirche ein, um die architektonische Anmut zu schätzen, und besuchen Sie sie idealerweise während der Morgenmesse.",
+            "hu": "Lépjen be ebbe a kedves központi templomba, hogy értékelje építészeti kecsességét, de ügyeljen arra, hogy a délelőtti misék idején érdemes látogatni.",
+            "ro": "Intrați în această frumoasă biserică centrală pentru a aprecia grația arhitecturală, asigurându-vă că o vizitați preferabil în timpul slujbei de dimineață.",
+            "en": "Step inside this lovely central church to appreciate its architectural grace and quiet spiritual ambiance, making sure to visit during morning mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria del Rosario",
+            "hu": "Chiesa di Santa Maria del Rosario",
+            "ro": "Chiesa di Santa Maria del Rosario",
+            "en": "Chiesa di Santa Maria del Rosario"
+          },
+          "coords": [
+            15.390089,
+            37.992061
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe spirituelle Hingabe der Einheimischen in dieser ruhigen Gemeinde und nehmen Sie sich Zeit, den kunstvollen Hauptaltar zu bewundern.",
+            "hu": "Tapasztalja meg a helyiek mély vallási elkötelezettségét ebben a csendes plébánián, és szánjon egy percet a gazdagon díszített főoltár megcsodálására.",
+            "ro": "Experimentați devotamentul spiritual al localnicilor în această parohie liniștită și luați-vă un moment pentru a admira altarul principal frumos decorat.",
+            "en": "Experience the deep spiritual devotion of the locals in this quiet neighborhood parish, and take a moment to admire the intricately decorated main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Antica Filanda",
+            "hu": "Antica Filanda",
+            "ro": "Antica Filanda",
+            "en": "Antica Filanda"
+          },
+          "coords": [
+            15.397222,
+            37.977873
+          ],
+          "category": "museum",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der Region in dieser alten Seidenspinnerei, aber bringen Sie eine warme Jacke mit, da es innen oft kühl ist.",
+            "hu": "Ismerje meg a régió ipari örökségét ebben a régi selyemfonóban, de érdemes rétegesen öltözni, mivel az épület belső terei kissé hűvösek lehetnek.",
+            "ro": "Descoperiți moștenirea industrială a regiunii în această veche filatură de mătase, însă luați-vă o haină călduroasă, deoarece interiorul este răcoros.",
+            "en": "Discover the region's industrial heritage at this old silk mill, which beautifully highlights local history, but wear warm layers as it can be chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Letterario Salvatore Quasimodo",
+            "hu": "Parco Letterario Salvatore Quasimodo",
+            "ro": "Parco Letterario Salvatore Quasimodo",
+            "en": "Parco Letterario Salvatore Quasimodo"
+          },
+          "coords": [
+            15.391893,
+            37.973774
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Literaturpark zu Ehren des Nobelpreisträgers, um seine poetischen Wurzeln zu verstehen, und achten Sie auf besondere Lesungen.",
+            "hu": "Fedezze fel a Nobel-díjas költő irodalmi parkját, hogy megértse művészi gyökereit, és mindenképpen érdeklődjön a különleges felolvasóestekről.",
+            "ro": "Explorați parcul literar dedicat laureatului Nobel pentru a înțelege rădăcinile sale poetice și verificați programul pentru evenimente de lectură.",
+            "en": "Explore the literary park dedicated to the Nobel laureate to understand his poetic roots, and check the schedule for special poetry reading events."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Saracena",
+            "hu": "Torre Saracena",
+            "ro": "Torre Saracena",
+            "en": "Torre Saracena"
+          },
+          "coords": [
+            15.389771,
+            37.970599
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen mittelalterlichen Küstenwachturm für einen atemberaubenden Panoramablick, aber seien Sie bereit für sehr steile und enge Treppen.",
+            "hu": "Mássza meg ezt a középkori partvédelmi tornyot a lélegzetelállító panorámáért, de készüljön fel a meredek és meglehetősen szűk történelmi lépcsőkre.",
+            "ro": "Urcați în acest turn medieval de apărare pentru o vedere panoramică uluitoare a coastei, dar fiți pregătiți pentru scări istorice abrupte și înguste.",
+            "en": "Climb this medieval coastal defense tower to enjoy breathtaking panoramic views of the coastline, but be prepared for steep and narrow historical stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            15.381584,
+            37.963353
+          ],
+          "category": "museum",
+          "arrive_at": "17:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen in die reiche maritime Geschichte von Roccalumera ein und fragen Sie die Führer nach alten Schiffen.",
+            "hu": "Merüljön el a város gazdag tengerészeti történelmében a helyi halászati hagyományokat bemutató kiállításokon, és kérdezze a vezetőket a hajókról.",
+            "ro": "Explorați istoria maritimă bogată prin expoziții fascinante despre tradițiile de pescuit, și întrebați ghizii despre poveștile vechilor corăbii.",
+            "en": "Dive into Roccalumera's rich maritime history through fascinating exhibits on local fishing traditions, and ask the guides for stories about old ships."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur Galerie für moderne Kunst, um zeitgenössische Werke zu bewundern. Mittags besuchen Sie historische Kirchen und die Antica Filanda. Der Nachmittag widmet sich der Poesie und mittelalterlichen Wachtürmen. Den Abschluss bildet das Schifffahrtsmuseum.",
+        "hu": "Autózzon elsőként a modern művészeti galériába kortárs alkotásokért. A déli órákban történelmi templomok és az izgalmas Antica Filanda várja. A délután az irodalmi parké és a középkori védműveké. A napot a tengerészeti múzeum izgalmas kiállításaival zárja.",
+        "ro": "Conduceți mai întâi la galeria de artă modernă pentru a admira lucrări contemporane. Prânzul include vizite la biserici istorice și fascinanta Antica Filanda. După-amiaza trece la poezie și turnuri medievale de apărare. Încheiați la muzeul maritim.",
+        "en": "Drive first to the modern art gallery to admire contemporary works. Midday includes visits to historic churches and the fascinating Antica Filanda. The afternoon shifts to poetry at the literary park and medieval defense towers. Conclude at the maritime museum."
+      }
+    }
+  }
+}

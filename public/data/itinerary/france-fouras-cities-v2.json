@@ -1,0 +1,451 @@
+{
+  "city_id": "france-fouras-cities-v2",
+  "anchor": {
+    "name": "Fouras",
+    "coords": [
+      -1.09358,
+      45.98837
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Fouras",
+            "hu": "Fouras Városháza",
+            "ro": "Primăria Fouras",
+            "en": "Fouras Town Hall"
+          },
+          "coords": [
+            -1.093697,
+            45.98845
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Rathauses im Zentrum von Fouras und beachten Sie die charmanten Details an der Hauptfassade.",
+            "hu": "Csodálja meg a városháza történelmi építészetét Fouras központjában, és érdemes megfigyelni a főhomlokzat bájos, aprólékos részleteit.",
+            "ro": "Admirați arhitectura istorică a primăriei din centrul orașului Fouras și observați detaliile fermecătoare și autentice de pe fațada principală.",
+            "en": "Admire the historic architecture of the town hall in the center of Fouras, and take a moment to notice the charming details on the main facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gaudens",
+            "hu": "Saint-Gaudens templom",
+            "ro": "Biserica Saint-Gaudens",
+            "en": "Saint-Gaudens Church"
+          },
+          "coords": [
+            -1.094883,
+            45.988939
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um ihre eleganten Buntglasfenster zu betrachten, und kommen Sie am besten am Vormittag für das schönste Licht.",
+            "hu": "Látogasson el ebbe a békés templomba az elegáns ólomüveg ablakokért, és érdemes délelőtt érkezni, amikor a legszebben süt be a napfény.",
+            "ro": "Vizitați această biserică liniștită pentru a contempla vitraliile sale elegante, ideal în timpul dimineții pentru a vă bucura de cea mai bună lumină.",
+            "en": "Visit this peaceful church to contemplate its elegant stained glass windows, and try to arrive in the morning when the sunlight is most beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Régional de Fouras",
+            "hu": "Fouras-i Regionális Múzeum",
+            "ro": "Muzeul Regional Fouras",
+            "en": "Regional Museum of Fouras"
+          },
+          "coords": [
+            -1.097517,
+            45.986006
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region in diesem Museum und planen Sie extra Zeit für die faszinierenden Schiffsmodelle ein.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét ebben a múzeumban, és szánjon egy kis extra időt a lenyűgöző hajómodellek tanulmányozására.",
+            "ro": "Descoperiți istoria maritimă bogată a regiunii în acest muzeu fascinant și rezervați-vă ceva timp suplimentar pentru modelele detaliate de nave.",
+            "en": "Discover the region's rich maritime history in this fascinating museum, and be sure to allocate extra time to study the intricate ship models."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Plaja Mare (Grande Plage)",
+            "en": "Grande Plage Beach"
+          },
+          "coords": [
+            -1.098525,
+            45.988454
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Hauptstrand mit seinem weichen Sand, und spazieren Sie die schöne Promenade entlang für einen tollen Meerblick.",
+            "hu": "Pihenjen meg ezen a népszerű, finom homokos fő strandon, és sétáljon egyet a gyönyörű sétányon, ahonnan csodálatos kilátás nyílik az óceánra.",
+            "ro": "Relaxați-vă pe această plajă principală populară cu nisip fin și plimbați-vă pe promenada frumoasă pentru a vă bucura de priveliștile oceanului.",
+            "en": "Relax on this popular main beach with its soft sand, and take a leisurely stroll along the beautiful promenade to enjoy lovely ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Sud",
+            "hu": "Plage Sud",
+            "ro": "Plaja Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -1.092696,
+            45.983811
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre an diesem südlichen Strandabschnitt, der sich perfekt für einen entspannten Spaziergang am späten Nachmittag eignet.",
+            "hu": "Élvezze a csendesebb hangulatot ezen a déli strandszakaszon, amely tökéletes helyszín egy pihentető, késő délutáni tengerparti sétához.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită de pe această porțiune sudică a plajei, locul perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "Enjoy the quieter atmosphere on this southern stretch of beach, making it the perfect spot for a relaxing walk late in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Fouras am historischen Rathaus, gefolgt von einem Moment der Stille in der Kirche Saint-Gaudens. Erfahren Sie im Regionalmuseum mehr über die Geschichte. Nachmittags lockt die Grande Plage zum Sonnenbaden, bevor Sie den Tag am Plage Sud ausklingen lassen.",
+        "hu": "Kezdje sétáját Fouras szívében a történelmi városházánál, majd csendesedjen el egy pillanatra a Saint-Gaudens templomban. Ismerje meg a múltat a helyi múzeumban. Délután a Grande Plage csábít napozásra, majd a napot a békés Plage Sud partján fejezheti be.",
+        "ro": "Începeți plimbarea în inima orașului Fouras la primăria istorică, urmată de un moment de liniște la Biserica Saint-Gaudens. Învățați despre trecut la muzeul regional. După-amiaza, Grande Plage vă invită să vă relaxați la soare, înainte de a încheia ziua pe Plage Sud.",
+        "en": "Begin your walk in the heart of Fouras at the historic town hall, followed by a quiet moment at the Saint-Gaudens Church. Learn about the past at the regional museum. In the afternoon, the Grande Plage invites you for some sun, before concluding the day at Plage Sud."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 3.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Fouras",
+            "hu": "Fouras Városháza",
+            "ro": "Primăria Fouras",
+            "en": "Fouras Town Hall"
+          },
+          "coords": [
+            -1.093697,
+            45.98845
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Rathauses im Zentrum von Fouras und beachten Sie die charmanten Details an der Hauptfassade.",
+            "hu": "Csodálja meg a városháza történelmi építészetét Fouras központjában, és érdemes megfigyelni a főhomlokzat bájos, aprólékos részleteit.",
+            "ro": "Admirați arhitectura istorică a primăriei din centrul orașului Fouras și observați detaliile fermecătoare și autentice de pe fațada principală.",
+            "en": "Admire the historic architecture of the town hall in the center of Fouras, and take a moment to notice the charming details on the main facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gaudens",
+            "hu": "Saint-Gaudens templom",
+            "ro": "Biserica Saint-Gaudens",
+            "en": "Saint-Gaudens Church"
+          },
+          "coords": [
+            -1.094883,
+            45.988939
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um ihre eleganten Buntglasfenster zu betrachten, und kommen Sie am besten am Vormittag für das schönste Licht.",
+            "hu": "Látogasson el ebbe a békés templomba az elegáns ólomüveg ablakokért, és érdemes délelőtt érkezni, amikor a legszebben süt be a napfény.",
+            "ro": "Vizitați această biserică liniștită pentru a contempla vitraliile sale elegante, ideal în timpul dimineții pentru a vă bucura de cea mai bună lumină.",
+            "en": "Visit this peaceful church to contemplate its elegant stained glass windows, and try to arrive in the morning when the sunlight is most beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Nord",
+            "hu": "Plage Nord",
+            "ro": "Plaja Nord",
+            "en": "North Beach"
+          },
+          "coords": [
+            -1.092992,
+            45.992531
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser nördliche Strand bietet eine wunderbare Kulisse für Naturfreunde, also bringen Sie ein Fernglas mit, um die vielen Küstenvögel zu beobachten.",
+            "hu": "Ez az északi strand csodálatos környezetet kínál a természet kedvelőinek, ezért érdemes távcsövet hozni a part menti madarak megfigyeléséhez.",
+            "ro": "Această plajă nordică oferă un cadru minunat pentru iubitorii de natură, așa că aduceți un binoclu pentru a observa numeroasele păsări de coastă.",
+            "en": "This northern beach provides a wonderful setting for nature lovers, so consider bringing binoculars to observe the many fascinating coastal birds."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vierge",
+            "hu": "La Vierge",
+            "ro": "La Vierge",
+            "en": "La Vierge Landmark"
+          },
+          "coords": [
+            -1.102343,
+            45.99178
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante Küstenwahrzeichen für einen tollen Fotomoment, und achten Sie bei Ebbe auf die freigelegten, rauen Felsformationen.",
+            "hu": "Keresse fel ezt a jellegzetes parti tájékozódási pontot egy remek fotóért, és apály idején figyelje meg a felszínre kerülő, zord sziklaképződményeket.",
+            "ro": "Vizitați acest reper de coastă distinctiv pentru o fotografie grozavă și observați formațiunile stâncoase brute dezvăluite în timpul refluxului.",
+            "en": "Visit this distinctive coastal landmark for a great photo opportunity, and watch for the exposed, rugged rock formations during low tide hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Vierge",
+            "hu": "Plage de la Vierge",
+            "ro": "Plaja La Vierge",
+            "en": "La Vierge Beach"
+          },
+          "coords": [
+            -1.109216,
+            45.998397
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem abgeschiedenen Strandbereich, ideal für ein Picknick, aber überprüfen Sie vorher unbedingt die Gezeitenzeiten.",
+            "hu": "Meneküljön el a tömeg elől ezen az eldugott strandszakaszon, amely ideális egy piknikhez, de előtte mindenképpen ellenőrizze az árapály idejét.",
+            "ro": "Evadați de aglomerație pe această plajă retrasă, ideală pentru un picnic liniștit, dar asigurați-vă că verificați orele mareelor înainte de a merge.",
+            "en": "Escape the crowds at this secluded stretch of beach, perfect for a peaceful picnic, but make sure to check the tide schedules before you head out."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Plaja Mare (Grande Plage)",
+            "en": "Grande Plage Beach"
+          },
+          "coords": [
+            -1.098525,
+            45.988454
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Hauptstrand mit seinem weichen Sand, und spazieren Sie die schöne Promenade entlang für einen tollen Meerblick.",
+            "hu": "Pihenjen meg ezen a népszerű, finom homokos fő strandon, és sétáljon egyet a gyönyörű sétányon, ahonnan csodálatos kilátás nyílik az óceánra.",
+            "ro": "Relaxați-vă pe această plajă principală populară cu nisip fin și plimbați-vă pe promenada frumoasă pentru a vă bucura de priveliștile oceanului.",
+            "en": "Relax on this popular main beach with its soft sand, and take a leisurely stroll along the beautiful promenade to enjoy lovely ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Régional de Fouras",
+            "hu": "Fouras-i Regionális Múzeum",
+            "ro": "Muzeul Regional Fouras",
+            "en": "Regional Museum of Fouras"
+          },
+          "coords": [
+            -1.097517,
+            45.986006
+          ],
+          "category": "museum",
+          "arrive_at": "15:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region in diesem Museum und planen Sie extra Zeit für die faszinierenden Schiffsmodelle ein.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét ebben a múzeumban, és szánjon egy kis extra időt a lenyűgöző hajómodellek tanulmányozására.",
+            "ro": "Descoperiți istoria maritimă bogată a regiunii în acest muzeu fascinant și rezervați-vă ceva timp suplimentar pentru modelele detaliate de nave.",
+            "en": "Discover the region's rich maritime history in this fascinating museum, and be sure to allocate extra time to study the intricate ship models."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rathaus und radeln Sie zur Kirche Saint-Gaudens. Fahren Sie weiter zur Plage Nord und zum Aussichtspunkt La Vierge. Nach einer Pause am ruhigen Plage de la Vierge geht es zurück zur Grande Plage und abschließend für kulturelle Einblicke ins Regionalmuseum von Fouras.",
+        "hu": "Kezdje kerékpártúráját a városházától a Saint-Gaudens templom felé. Tekerjen tovább a Plage Nord és a La Vierge kilátópont irányába. A csendes Plage de la Vierge után térjen vissza a Grande Plage-ra, majd zárja a napot egy kis kultúrával a Fouras-i Regionális Múzeumban.",
+        "ro": "Începeți turul cu bicicleta de la primărie către Biserica Saint-Gaudens. Pedalați spre Plage Nord și punctul de belvedere La Vierge. După o pauză la liniștita Plage de la Vierge, întoarceți-vă la Grande Plage și încheiați cu o vizită culturală la Muzeul Regional.",
+        "en": "Start your bike tour at the town hall and ride towards the Saint-Gaudens Church. Continue to Plage Nord and the La Vierge landmark. After resting at the quiet Plage de la Vierge, return to the Grande Plage and finish with some culture at the Regional Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de l'Espérance",
+            "hu": "Plage de l'Espérance",
+            "ro": "Plaja Espérance",
+            "en": "Espérance Beach"
+          },
+          "coords": [
+            -1.083698,
+            45.977936
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen Strand mit viel Platz, der ideal ist, um die frische Morgenbrise abseits des Trubels zu genießen.",
+            "hu": "Kezdje a napot ezen a tágas strandon, ahol rengeteg hely várja, és tökéletes arra, hogy a nyüzsgéstől távol élvezze a friss reggeli tengeri szellőt.",
+            "ro": "Începeți-vă ziua pe această plajă spațioasă, ideală pentru a vă bucura de briza proaspătă a dimineții, departe de agitația principală a orașului.",
+            "en": "Start your day at this spacious beach area, which is ideal for enjoying the fresh morning sea breeze away from the main hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Sud",
+            "hu": "Plage Sud",
+            "ro": "Plaja Sud",
+            "en": "South Beach"
+          },
+          "coords": [
+            -1.092696,
+            45.983811
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre an diesem südlichen Strandabschnitt, der sich perfekt für einen entspannten Spaziergang am späten Nachmittag eignet.",
+            "hu": "Élvezze a csendesebb hangulatot ezen a déli strandszakaszon, amely tökéletes helyszín egy pihentető, késő délutáni tengerparti sétához.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită de pe această porțiune sudică a plajei, locul perfect pentru o plimbare relaxantă la sfârșitul după-amiezii.",
+            "en": "Enjoy the quieter atmosphere on this southern stretch of beach, making it the perfect spot for a relaxing walk late in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Régional de Fouras",
+            "hu": "Fouras-i Regionális Múzeum",
+            "ro": "Muzeul Regional Fouras",
+            "en": "Regional Museum of Fouras"
+          },
+          "coords": [
+            -1.097517,
+            45.986006
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region in diesem Museum und planen Sie extra Zeit für die faszinierenden Schiffsmodelle ein.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti történelmét ebben a múzeumban, és szánjon egy kis extra időt a lenyűgöző hajómodellek tanulmányozására.",
+            "ro": "Descoperiți istoria maritimă bogată a regiunii în acest muzeu fascinant și rezervați-vă ceva timp suplimentar pentru modelele detaliate de nave.",
+            "en": "Discover the region's rich maritime history in this fascinating museum, and be sure to allocate extra time to study the intricate ship models."
+          }
+        },
+        {
+          "name": {
+            "de": "Création 2 ouf",
+            "hu": "Création 2 ouf",
+            "ro": "Création 2 ouf",
+            "en": "Création 2 ouf Gallery"
+          },
+          "coords": [
+            -1.095714,
+            45.98686
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser einzigartigen Galerie faszinierende zeitgenössische Kunstwerke, und unterhalten Sie sich unbedingt mit den anwesenden lokalen Künstlern.",
+            "hu": "Fedezzen fel lenyűgöző kortárs művészeti alkotásokat ebben az egyedi galériában, és mindenképpen beszélgessen egy kicsit a jelenlévő helyi művészekkel.",
+            "ro": "Descoperiți opere de artă contemporană fascinante în această galerie unică și nu ratați ocazia de a discuta cu artiștii locali pasionați și creativi.",
+            "en": "Discover fascinating contemporary artworks in this unique gallery space, and be sure to strike up a conversation with the passionate local artists present."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Vierge",
+            "hu": "Plage de la Vierge",
+            "ro": "Plaja La Vierge",
+            "en": "La Vierge Beach"
+          },
+          "coords": [
+            -1.109216,
+            45.998397
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem abgeschiedenen Strandbereich, ideal für ein Picknick, aber überprüfen Sie vorher unbedingt die Gezeitenzeiten.",
+            "hu": "Meneküljön el a tömeg elől ezen az eldugott strandszakaszon, amely ideális egy piknikhez, de előtte mindenképpen ellenőrizze az árapály idejét.",
+            "ro": "Evadați de aglomerație pe această plajă retrasă, ideală pentru un picnic liniștit, dar asigurați-vă că verificați orele mareelor înainte de a merge.",
+            "en": "Escape the crowds at this secluded stretch of beach, perfect for a peaceful picnic, but make sure to check the tide schedules before you head out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Plage de l'Espérance, um die ruhige Meeresbrise zu genießen. Weiter geht es zum Plage Sud und danach ins Regionalmuseum, um mehr über die lokale Geschichte zu erfahren. Am Nachmittag bietet die Galerie Création 2 ouf moderne Kunst, bevor Sie den Tag am Plage de la Vierge beenden.",
+        "hu": "Autózzon reggel a Plage de l'Espérance partjára a friss tengeri szellőért. Később irány a Plage Sud, majd a Regionális Múzeum, ahol elmerülhet a helyi történelemben. Délután a Création 2 ouf modern művészete várja, mielőtt a Plage de la Vierge partján búcsúztatná a napot.",
+        "ro": "Conduceți dimineața spre Plage de l'Espérance pentru o briză proaspătă, apoi mergeți la Plage Sud și la Muzeul Regional pentru istorie locală. După-amiaza, galeria Création 2 ouf vă oferă artă modernă, înainte de a vă încheia călătoria cu un apus relaxant la Plage de la Vierge.",
+        "en": "Drive in the morning to Plage de l'Espérance for a fresh sea breeze. Continue to Plage Sud and the Regional Museum to dive into local history. In the afternoon, the Création 2 ouf gallery offers modern art, before you end your day at the tranquil Plage de la Vierge."
+      }
+    }
+  }
+}

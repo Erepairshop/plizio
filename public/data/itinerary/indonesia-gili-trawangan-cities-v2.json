@@ -1,0 +1,589 @@
+{
+  "city_id": "indonesia-gili-trawangan-cities-v2",
+  "anchor": {
+    "name": "Gili Trawangan",
+    "coords": [
+      116.037,
+      -8.34897
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 4.73,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marcket place",
+            "hu": "Marcket place",
+            "ro": "Marcket place",
+            "en": "Marcket place"
+          },
+          "coords": [
+            116.043412,
+            -8.352627
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Atmosphäre auf diesem geschäftigen Markt, der sich ideal für traditionelle indonesische Snacks eignet, aber kommen Sie früh, bevor die besten Leckereien ausverkauft sind.",
+            "hu": "Tapasztalja meg a helyi hangulatot ezen a nyüzsgő piacon, amely tökéletes a hagyományos indonéz rágcsálnivalók kóstolására, de érkezzen korán, mielőtt a legjobb falatok elfogynak.",
+            "ro": "Experimentați atmosfera locală în această piață plină de viață, perfectă pentru a gusta gustări tradiționale indoneziene, dar ajungeți devreme înainte să se epuizeze cele mai bune preparate.",
+            "en": "Experience the local vibe at this bustling marketplace, perfect for tasting traditional Indonesian snacks, but arrive early before the best treats sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Markat walls",
+            "hu": "Markat walls",
+            "ro": "Markat walls",
+            "en": "Markat walls"
+          },
+          "coords": [
+            116.041736,
+            -8.352681
+          ],
+          "category": "cultural",
+          "arrive_at": "10:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften Wandgemälde an diesen kulturellen Mauern, die den Geist der Insel wunderbar einfangen, und vergessen Sie nicht, ein Weitwinkelobjektiv für die besten Fotos mitzubringen.",
+            "hu": "Csodálja meg az élénk falfestményeket e kulturális falak mentén, amelyek gyönyörűen megragadják a sziget szellemét, és ne felejtsen el nagylátószögű objektívet hozni a legjobb fotókhoz.",
+            "ro": "Admirați picturile murale vibrante de-a lungul acestor pereți culturali care surprind frumos spiritul insulei și nu uitați să aduceți un obiectiv cu unghi larg pentru cele mai bune fotografii.",
+            "en": "Admire the vibrant murals along these cultural walls which beautifully capture the island's spirit, and don't forget to bring a wide-angle lens for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Bale Art",
+            "hu": "Bale Art",
+            "ro": "Bale Art",
+            "en": "Bale Art"
+          },
+          "coords": [
+            116.058811,
+            -8.349103
+          ],
+          "category": "museum",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser einzigartigen Galerie eine reiche Sammlung lokaler Gemälde, die die wahre indonesische Kreativität zeigen und ein großartiger Ort ist, um authentische, leicht zu transportierende Souvenirs zu kaufen.",
+            "hu": "Fedezzen fel egy gazdag helyi festménygyűjteményt ebben az egyedülálló galériában, amely bemutatja az igazi indonéz kreativitást, és kiváló hely autentikus, könnyen szállítható szuvenírek vásárlására.",
+            "ro": "Descoperiți o colecție bogată de picturi locale în această galerie unică ce prezintă adevărata creativitate indoneziană, fiind un loc excelent pentru a cumpăra suveniruri autentice, ușor de transportat.",
+            "en": "Discover a rich collection of local paintings at this unique gallery showcasing true Indonesian creativity, making it a great place to buy authentic, easily transportable souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake Gallery",
+            "hu": "Lake Gallery",
+            "ro": "Lake Gallery",
+            "en": "Lake Gallery"
+          },
+          "coords": [
+            116.055348,
+            -8.350591
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Ausstellungsraum in die zeitgenössische Inselkunst ein, wo Sie sich die Zeit nehmen sollten, die Künstlerbeschreibungen zu lesen, um den lokalen Kontext vollständig zu verstehen.",
+            "hu": "Merüljön el a kortárs szigeti művészetben ebben a modern kiállítótérben, ahol érdemes időt szánni a művészleírások elolvasására, hogy teljes mértékben megértse a helyi kontextust.",
+            "ro": "Cufundați-vă în arta insulară contemporană în acest spațiu expozițional modern, unde ar trebui să vă faceți timp să citiți descrierile artiștilor pentru a înțelege pe deplin contextul local.",
+            "en": "Immerse yourself in contemporary island art at this modern exhibition space, where you should take your time reading the artist descriptions to fully understand the local context."
+          }
+        },
+        {
+          "name": {
+            "de": "3 human-size underwater sculptures by BASK Resort",
+            "hu": "3 human-size underwater sculptures by BASK Resort",
+            "ro": "3 human-size underwater sculptures by BASK Resort",
+            "en": "3 human-size underwater sculptures by BASK Resort"
+          },
+          "coords": [
+            116.050905,
+            -8.349225
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über diesen faszinierend schönen versunkenen Statuen, die als künstliches Riff dienen, aber besuchen Sie sie unbedingt bei Flut, um sich nicht an den flachen Korallen zu kratzen.",
+            "hu": "Sznorkelezzen ezek a kísértetiesen gyönyörű víz alatti szobrok felett, amelyek mesterséges zátonyként szolgálnak, de mindenképpen dagálykor látogasson el, hogy elkerülje a sekély korallok okozta karcolásokat.",
+            "ro": "Faceți snorkeling deasupra acestor statui scufundate de o frumusețe obsedantă, care servesc drept recif artificial, dar asigurați-vă că le vizitați în timpul fluxului pentru a evita să vă zgâriați de coralii de mică adâncime.",
+            "en": "Snorkel above these hauntingly beautiful submerged statues that serve as an artificial reef, but be sure to visit during high tide to avoid scratching yourself on the shallow corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Snorkeling Spot",
+            "hu": "Turtle Snorkeling Spot",
+            "ro": "Turtle Snorkeling Spot",
+            "en": "Turtle Snorkeling Spot"
+          },
+          "coords": [
+            116.041949,
+            -8.340118
+          ],
+          "category": "landmark",
+          "arrive_at": "16:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schwimmen Sie an diesem berühmten Ort neben majestätischen Meeresschildkröten in ihrem natürlichen Lebensraum und denken Sie daran, einen respektvollen Abstand einzuhalten, um diese sanften Meeresbewohner nicht zu stressen.",
+            "hu": "Ússzon fenséges tengeri teknősök mellett természetes élőhelyükön ezen a híres helyen, és ne felejtsen el tiszteletteljes távolságot tartani, hogy elkerülje e szelíd tengeri élőlények zavarását.",
+            "ro": "Înotați alături de maiestuoasele țestoase marine în habitatul lor natural în acest loc faimos și amintiți-vă să păstrați o distanță respectuoasă pentru a evita stresarea acestor creaturi marine blânde.",
+            "en": "Swim alongside majestic sea turtles in their natural habitat at this famous site, and remember to keep a respectful distance to avoid stressing these gentle marine creatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Sunset",
+            "hu": "Beach Sunset",
+            "ro": "Beach Sunset",
+            "en": "Beach Sunset"
+          },
+          "coords": [
+            116.038874,
+            -8.338845
+          ],
+          "category": "landmark",
+          "arrive_at": "17:22",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag ausklingen, während Sie beobachten, wie der Himmel über dem Ozean an diesem unberührten Strand die Farben wechselt, wo ein Platz in einer lokalen Strandbar eine Stunde vor der Dämmerung die beste Aussicht garantiert.",
+            "hu": "Vezesse le a napot a színeit változtató égbolt óceán feletti látványával ezen az érintetlen strandon, ahol a legjobb kilátást akkor garantálhatja, ha egy órával szürkület előtt foglal helyet egy helyi strandbárban.",
+            "ro": "Încheiați-vă ziua privind cum cerul își schimbă culorile deasupra oceanului pe această plajă virgină, unde obținerea unui loc la un bar local pe plajă cu o oră înainte de amurg garantează cea mai bună priveliște.",
+            "en": "Wind down your day watching the sky change colors over the ocean at this pristine beach, where grabbing a spot at a local beach bar an hour before dusk guarantees the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Zentrum mit einem Besuch des bunten Marktplatzes, gefolgt von den faszinierenden Wandgemälden. Gegen Mittag tauchen wir in die lokale Kulturszene ein, erkunden erstklassige Kunstwerke in der Bale Art und modernen Ausdruck in der Lake Gallery. Am Nachmittag führt der Weg zur Küste, um die berühmten Unterwasserskulpturen von BASK zu bewundern und bei den Schildkröten zu schnorcheln. Der Tag endet malerisch mit einem Spaziergang zum perfekten Strand für einen unvergesslichen Sonnenuntergang über dem Meer.",
+        "hu": "A reggel a központban indul a színes piac meglátogatásával, majd a lenyűgöző kulturális falfestmények megtekintésével. Dél körül elmerülünk a helyi művészeti életben, felfedezve a Bale Art kiállítását és a Lake Gallery modern alkotásait. Délután az út a partra vezet, ahol megcsodálhatjuk a BASK víz alatti szobrait, majd a híres teknősös sznorkelező helynél úszhatunk. A nap festői módon zárul, egy kellemes sétával a tökéletes strandra, ahol felejthetetlen naplementében lehet részünk.",
+        "ro": "Dimineața începe în centru cu o vizită la piața plină de culoare, urmată de fascinantele picturi murale culturale. Până la prânz ne scufundăm în scena culturală locală, explorând lucrări de artă excelente la Bale Art și expresii moderne la Lake Gallery. După-amiaza ne îndreptăm spre coastă pentru a admira faimoasele sculpturi subacvatice BASK și a face snorkeling cu țestoasele. Ziua se încheie pitoresc cu o plimbare spre plaja perfectă pentru a savura un apus de soare de neuitat deasupra oceanului.",
+        "en": "The morning starts in the center with a visit to the colorful marketplace, followed by the fascinating cultural murals. By midday, we dive into the local cultural scene, exploring excellent artworks at Bale Art and modern expression at the Lake Gallery. The afternoon leads to the coast to admire the famous BASK underwater sculptures and snorkel with the turtles. The day ends picturesquely with a stroll to the perfect beach to enjoy an unforgettable sunset over the tranquil ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 5.45,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Marcket place",
+            "hu": "Marcket place",
+            "ro": "Marcket place",
+            "en": "Marcket place"
+          },
+          "coords": [
+            116.043412,
+            -8.352627
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Atmosphäre auf diesem geschäftigen Markt, der sich ideal für traditionelle indonesische Snacks eignet, aber kommen Sie früh, bevor die besten Leckereien ausverkauft sind.",
+            "hu": "Tapasztalja meg a helyi hangulatot ezen a nyüzsgő piacon, amely tökéletes a hagyományos indonéz rágcsálnivalók kóstolására, de érkezzen korán, mielőtt a legjobb falatok elfogynak.",
+            "ro": "Experimentați atmosfera locală în această piață plină de viață, perfectă pentru a gusta gustări tradiționale indoneziene, dar ajungeți devreme înainte să se epuizeze cele mai bune preparate.",
+            "en": "Experience the local vibe at this bustling marketplace, perfect for tasting traditional Indonesian snacks, but arrive early before the best treats sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Entrance Battery Tunnel",
+            "hu": "Entrance Battery Tunnel",
+            "ro": "Entrance Battery Tunnel",
+            "en": "Entrance Battery Tunnel"
+          },
+          "coords": [
+            116.034121,
+            -8.357897
+          ],
+          "category": "historical",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Reise in die Vergangenheit und erkunden Sie in diesen dunklen Tunneln die Überreste der Geschichte des Zweiten Weltkriegs. Bringen Sie eine zuverlässige Taschenlampe mit, da es im Inneren überhaupt keine Beleuchtung gibt.",
+            "hu": "Lépjen vissza az időben, és fedezze fel a második világháború történelmének maradványait ezekben a sötét alagutakban, és vigyen magával egy megbízható zseblámpát, mivel a belső világítás egyáltalán nem létezik.",
+            "ro": "Faceți un pas înapoi în timp explorând rămășițele istoriei celui de-al Doilea Război Mondial în aceste tuneluri întunecate și aduceți o lanternă de încredere, deoarece iluminatul interior este complet inexistent.",
+            "en": "Step back in time by exploring the remnants of World War II history in these dark tunnels, and bring a reliable flashlight since the interior lighting is completely non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "The exile hammock and swing",
+            "hu": "The exile hammock and swing",
+            "ro": "The exile hammock and swing",
+            "en": "The exile hammock and swing"
+          },
+          "coords": [
+            116.030906,
+            -8.357229
+          ],
+          "category": "landmark",
+          "arrive_at": "11:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich und machen Sie ikonische tropische Fotos auf dieser malerischen Meeresschaukel. Ein frühes Eintreffen am Morgen ist jedoch unerlässlich, um den langen Schlangen anderer eifriger Touristen zu entgehen.",
+            "hu": "Pihenjen és készítsen ikonikus trópusi fotókat ezen a festői tengeri hintán, bár kora reggeli érkezés elengedhetetlen, hogy elkerülje a többi lelkes turista hosszú sorát.",
+            "ro": "Relaxați-vă și faceți fotografii tropicale iconice pe acest leagăn pitoresc de mare, deși sosirea dimineața devreme este esențială pentru a evita cozile lungi ale altor turiști dornici.",
+            "en": "Relax and take iconic tropical photos on this picturesque sea swing, though arriving early in the morning is essential to beat the long lines of other eager tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Menara Suar Trewangan",
+            "hu": "Menara Suar Trewangan",
+            "ro": "Menara Suar Trewangan",
+            "en": "Menara Suar Trewangan"
+          },
+          "coords": [
+            116.029432,
+            -8.344631
+          ],
+          "category": "landmark",
+          "arrive_at": "12:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den ikonischen Leuchtturm der Insel, um einen Panoramablick auf das umliegende Archipel zu genießen, aber achten Sie darauf, feste Schuhe zu tragen, da der umliegende Weg ziemlich uneben sein kann.",
+            "hu": "Másszon fel a sziget ikonikus világítótornyába, ahonnan panorámás kilátás nyílik a környező szigetvilágra, de mindenképpen viseljen masszív cipőt, mivel a környező ösvény meglehetősen egyenetlen lehet.",
+            "ro": "Urcați pe farul iconic al insulei pentru vederi panoramice ale arhipelagului înconjurător, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece poteca din jur poate fi destul de denivelată.",
+            "en": "Climb up the island's iconic lighthouse for panoramic views of the surrounding archipelago, but make sure to wear sturdy shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Yoga stressless Beach",
+            "hu": "Yoga stressless Beach",
+            "ro": "Yoga stressless Beach",
+            "en": "Yoga stressless Beach"
+          },
+          "coords": [
+            116.03178,
+            -8.340366
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Finden Sie Ihren inneren Frieden, indem Sie an einer morgendlichen Dehnungssitzung auf dem weichen Sand hier teilnehmen, und bringen Sie Ihr eigenes leichtes Handtuch mit, da Matten für spontane Besucher nicht immer verfügbar sind.",
+            "hu": "Találja meg belső békéjét egy reggeli nyújtással az itteni puha homokon, és hozzon magával saját könnyű törölközőt, mivel a spontán látogatók számára nem mindig állnak rendelkezésre matracok.",
+            "ro": "Găsiți-vă liniștea interioară participând la o sesiune de întinderi de dimineață pe nisipul fin de aici, aducându-vă propriul prosop ușor, deoarece covorașele nu sunt întotdeauna disponibile.",
+            "en": "Find your inner peace by joining a morning stretching session on the soft sands here, bringing your own lightweight towel as mats are not always readily available for drop-ins."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Snorkeling Spot",
+            "hu": "Turtle Snorkeling Spot",
+            "ro": "Turtle Snorkeling Spot",
+            "en": "Turtle Snorkeling Spot"
+          },
+          "coords": [
+            116.041949,
+            -8.340118
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schwimmen Sie an diesem berühmten Ort neben majestätischen Meeresschildkröten in ihrem natürlichen Lebensraum und denken Sie daran, einen respektvollen Abstand einzuhalten, um diese sanften Meeresbewohner nicht zu stressen.",
+            "hu": "Ússzon fenséges tengeri teknősök mellett természetes élőhelyükön ezen a híres helyen, és ne felejtsen el tiszteletteljes távolságot tartani, hogy elkerülje e szelíd tengeri élőlények zavarását.",
+            "ro": "Înotați alături de maiestuoasele țestoase marine în habitatul lor natural în acest loc faimos și amintiți-vă să păstrați o distanță respectuoasă pentru a evita stresarea acestor creaturi marine blânde.",
+            "en": "Swim alongside majestic sea turtles in their natural habitat at this famous site, and remember to keep a respectful distance to avoid stressing these gentle marine creatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Shallow Turbo",
+            "hu": "Shallow Turbo",
+            "ro": "Shallow Turbo",
+            "en": "Shallow Turbo"
+          },
+          "coords": [
+            116.044026,
+            -8.339525
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die farbenfrohen Korallengärten dieses relativ flachen Riffs ein, das sich perfekt für Anfänger eignet, obwohl Sie rechtzeitig vor dem Betreten des Wassers korallensichere Sonnencreme auftragen sollten.",
+            "hu": "Merüljön el ennek a viszonylag sekély, kezdők számára is tökéletes zátonynak a nyüzsgő korallkertjeiben, bár a vízbe lépés előtt jóval korábban érdemes korallbarát naptejet felkenni.",
+            "ro": "Scufundați-vă în grădinile vibrante de corali ale acestui recif relativ superficial, perfect pentru începători, deși ar trebui să aplicați o cremă de soare sigură pentru corali înainte de a intra în apă.",
+            "en": "Dive into the vibrant coral gardens of this relatively shallow reef which is perfect for beginners, though you should apply coral-safe sunscreen well before entering the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Sunset",
+            "hu": "Beach Sunset",
+            "ro": "Beach Sunset",
+            "en": "Beach Sunset"
+          },
+          "coords": [
+            116.038874,
+            -8.338845
+          ],
+          "category": "landmark",
+          "arrive_at": "16:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag ausklingen, während Sie beobachten, wie der Himmel über dem Ozean an diesem unberührten Strand die Farben wechselt, wo ein Platz in einer lokalen Strandbar eine Stunde vor der Dämmerung die beste Aussicht garantiert.",
+            "hu": "Vezesse le a napot a színeit változtató égbolt óceán feletti látványával ezen az érintetlen strandon, ahol a legjobb kilátást akkor garantálhatja, ha egy órával szürkület előtt foglal helyet egy helyi strandbárban.",
+            "ro": "Încheiați-vă ziua privind cum cerul își schimbă culorile deasupra oceanului pe această plajă virgină, unde obținerea unui loc la un bar local pe plajă cu o oră înainte de amurg garantează cea mai bună priveliște.",
+            "en": "Wind down your day watching the sky change colors over the ocean at this pristine beach, where grabbing a spot at a local beach bar an hour before dusk guarantees the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein flotter Morgen auf dem Fahrrad bringt uns vom geschäftigen Markt zu den historischen Bunkern aus dem Zweiten Weltkrieg. Mittags radeln wir weiter zur legendären Meeresschaukel und besteigen den hoch aufragenden Leuchtturm für eine spektakuläre Aussicht. Am Nachmittag entspannen wir kurz am Yoga Beach, bevor wir die erfrischenden Korallenriffe und Schildkröten beim Schnorcheln erkunden. Der Abend nähert sich, während wir gemütlich entlang der Küste zu unserem finalen Strandabschnitt für den Sonnenuntergang radeln.",
+        "hu": "Egy frissítő reggeli biciklizés a nyüzsgő piactól a második világháborús történelmi bunkerekhez vezet minket. Délben tovább kerekezünk a legendás tengeri hintához, és megmásszuk a magasodó világítótornyot a látványos panorámáért. Délután röviden megpihenünk a Yoga Beach-en, mielőtt felfedeznénk a frissítő korallzátonyokat és teknősöket sznorkelezés közben. Az este közeledtével kényelmesen tekerünk végig a tengerpart mentén, hogy elérjük a tökéletes naplementét nyújtó szakaszt.",
+        "ro": "O dimineață vioaie pe bicicletă ne duce de la piața aglomerată la buncărele istorice din al Doilea Război Mondial. La prânz pedalăm spre legendarul leagăn de mare și urcăm pe farul falnic pentru a admira o panoramă spectaculoasă. După-amiaza ne relaxăm scurt la Yoga Beach, înainte de a explora recifele răcoritoare de corali și țestoasele făcând snorkeling. Seara se apropie în timp ce pedalăm relaxat de-a lungul coastei spre destinația noastră finală pentru un apus de soare magic.",
+        "en": "A brisk morning on the bike takes us from the bustling marketplace to the historical World War II bunkers. At noon, we cycle further to the legendary sea swing and climb the towering lighthouse for a spectacular panoramic view. In the afternoon, we relax briefly at Yoga Beach before exploring the refreshing coral reefs and turtles while snorkeling. Evening approaches as we leisurely pedal along the coastline to our final beach stretch for a magical sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 6.35,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Entrance Battery Tunnel",
+            "hu": "Entrance Battery Tunnel",
+            "ro": "Entrance Battery Tunnel",
+            "en": "Entrance Battery Tunnel"
+          },
+          "coords": [
+            116.034121,
+            -8.357897
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Reise in die Vergangenheit und erkunden Sie in diesen dunklen Tunneln die Überreste der Geschichte des Zweiten Weltkriegs. Bringen Sie eine zuverlässige Taschenlampe mit, da es im Inneren überhaupt keine Beleuchtung gibt.",
+            "hu": "Lépjen vissza az időben, és fedezze fel a második világháború történelmének maradványait ezekben a sötét alagutakban, és vigyen magával egy megbízható zseblámpát, mivel a belső világítás egyáltalán nem létezik.",
+            "ro": "Faceți un pas înapoi în timp explorând rămășițele istoriei celui de-al Doilea Război Mondial în aceste tuneluri întunecate și aduceți o lanternă de încredere, deoarece iluminatul interior este complet inexistent.",
+            "en": "Step back in time by exploring the remnants of World War II history in these dark tunnels, and bring a reliable flashlight since the interior lighting is completely non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Menara Suar Trewangan",
+            "hu": "Menara Suar Trewangan",
+            "ro": "Menara Suar Trewangan",
+            "en": "Menara Suar Trewangan"
+          },
+          "coords": [
+            116.029432,
+            -8.344631
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den ikonischen Leuchtturm der Insel, um einen Panoramablick auf das umliegende Archipel zu genießen, aber achten Sie darauf, feste Schuhe zu tragen, da der umliegende Weg ziemlich uneben sein kann.",
+            "hu": "Másszon fel a sziget ikonikus világítótornyába, ahonnan panorámás kilátás nyílik a környező szigetvilágra, de mindenképpen viseljen masszív cipőt, mivel a környező ösvény meglehetősen egyenetlen lehet.",
+            "ro": "Urcați pe farul iconic al insulei pentru vederi panoramice ale arhipelagului înconjurător, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece poteca din jur poate fi destul de denivelată.",
+            "en": "Climb up the island's iconic lighthouse for panoramic views of the surrounding archipelago, but make sure to wear sturdy shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Halik",
+            "hu": "Halik",
+            "ro": "Halik",
+            "en": "Halik"
+          },
+          "coords": [
+            116.038308,
+            -8.336235
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen tiefen Steilhang, der für ausgezeichnetes Strömungstauchen und häufige Hai-Sichtungen bekannt ist, weshalb es sehr empfehlenswert ist, einen erfahrenen lokalen Führer zu engagieren.",
+            "hu": "Fedezze fel ezt a meredek letörést, amely a kiváló áramlatos merülésről és a gyakori cápaészlelésekről híres, így erősen ajánlott egy tapasztalt helyi vezető felfogadása a biztonságos navigáláshoz.",
+            "ro": "Explorați acest perete abrupt faimos pentru scufundările excelente în curent și observările frecvente de rechini, fiind foarte recomandat să angajați un ghid local experimentat pentru a naviga în siguranță.",
+            "en": "Explore this deep drop-off famed for excellent drift diving and frequent shark sightings, making it highly recommended to hire an experienced local guide to safely navigate the currents."
+          }
+        },
+        {
+          "name": {
+            "de": "little shark",
+            "hu": "little shark",
+            "ro": "little shark",
+            "en": "little shark"
+          },
+          "coords": [
+            116.037574,
+            -8.338196
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beobachten Sie junge Riffhaie, die an diesem treffend benannten Ort in den flacheren Gewässern schwimmen, und halten Sie sich völlig still im Wasser, um diese scheuen Raubtiere zu ermutigen, näher zu kommen.",
+            "hu": "Figyelje meg a sekélyebb vizekben úszkáló fiatal szirticápákat ezen a találóan elnevezett helyen, és maradjon teljesen mozdulatlan a vízben, hogy ezek a félénk ragadozók közelebb merészkedjenek.",
+            "ro": "Observați puii de rechini de recif înotând în apele mai puțin adânci în această locație denumită sugestiv, stând complet nemișcat în apă pentru a încuraja acești prădători timizi să se apropie.",
+            "en": "Spot juvenile reef sharks cruising in the shallower waters at this aptly named location, keeping completely still in the water to encourage these shy predators to come closer."
+          }
+        },
+        {
+          "name": {
+            "de": "Shallow Turbo",
+            "hu": "Shallow Turbo",
+            "ro": "Shallow Turbo",
+            "en": "Shallow Turbo"
+          },
+          "coords": [
+            116.044026,
+            -8.339525
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die farbenfrohen Korallengärten dieses relativ flachen Riffs ein, das sich perfekt für Anfänger eignet, obwohl Sie rechtzeitig vor dem Betreten des Wassers korallensichere Sonnencreme auftragen sollten.",
+            "hu": "Merüljön el ennek a viszonylag sekély, kezdők számára is tökéletes zátonynak a nyüzsgő korallkertjeiben, bár a vízbe lépés előtt jóval korábban érdemes korallbarát naptejet felkenni.",
+            "ro": "Scufundați-vă în grădinile vibrante de corali ale acestui recif relativ superficial, perfect pentru începători, deși ar trebui să aplicați o cremă de soare sigură pentru corali înainte de a intra în apă.",
+            "en": "Dive into the vibrant coral gardens of this relatively shallow reef which is perfect for beginners, though you should apply coral-safe sunscreen well before entering the water."
+          }
+        },
+        {
+          "name": {
+            "de": "3 human-size underwater sculptures by BASK Resort",
+            "hu": "3 human-size underwater sculptures by BASK Resort",
+            "ro": "3 human-size underwater sculptures by BASK Resort",
+            "en": "3 human-size underwater sculptures by BASK Resort"
+          },
+          "coords": [
+            116.050905,
+            -8.349225
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über diesen faszinierend schönen versunkenen Statuen, die als künstliches Riff dienen, aber besuchen Sie sie unbedingt bei Flut, um sich nicht an den flachen Korallen zu kratzen.",
+            "hu": "Sznorkelezzen ezek a kísértetiesen gyönyörű víz alatti szobrok felett, amelyek mesterséges zátonyként szolgálnak, de mindenképpen dagálykor látogasson el, hogy elkerülje a sekély korallok okozta karcolásokat.",
+            "ro": "Faceți snorkeling deasupra acestor statui scufundate de o frumusețe obsedantă, care servesc drept recif artificial, dar asigurați-vă că le vizitați în timpul fluxului pentru a evita să vă zgâriați de coralii de mică adâncime.",
+            "en": "Snorkel above these hauntingly beautiful submerged statues that serve as an artificial reef, but be sure to visit during high tide to avoid scratching yourself on the shallow corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Bale Art",
+            "hu": "Bale Art",
+            "ro": "Bale Art",
+            "en": "Bale Art"
+          },
+          "coords": [
+            116.058811,
+            -8.349103
+          ],
+          "category": "museum",
+          "arrive_at": "14:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser einzigartigen Galerie eine reiche Sammlung lokaler Gemälde, die die wahre indonesische Kreativität zeigen und ein großartiger Ort ist, um authentische, leicht zu transportierende Souvenirs zu kaufen.",
+            "hu": "Fedezzen fel egy gazdag helyi festménygyűjteményt ebben az egyedülálló galériában, amely bemutatja az igazi indonéz kreativitást, és kiváló hely autentikus, könnyen szállítható szuvenírek vásárlására.",
+            "ro": "Descoperiți o colecție bogată de picturi locale în această galerie unică ce prezintă adevărata creativitate indoneziană, fiind un loc excelent pentru a cumpăra suveniruri autentice, ușor de transportat.",
+            "en": "Discover a rich collection of local paintings at this unique gallery showcasing true Indonesian creativity, making it a great place to buy authentic, easily transportable souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake Gallery",
+            "hu": "Lake Gallery",
+            "ro": "Lake Gallery",
+            "en": "Lake Gallery"
+          },
+          "coords": [
+            116.055348,
+            -8.350591
+          ],
+          "category": "museum",
+          "arrive_at": "16:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Ausstellungsraum in die zeitgenössische Inselkunst ein, wo Sie sich die Zeit nehmen sollten, die Künstlerbeschreibungen zu lesen, um den lokalen Kontext vollständig zu verstehen.",
+            "hu": "Merüljön el a kortárs szigeti művészetben ebben a modern kiállítótérben, ahol érdemes időt szánni a művészleírások elolvasására, hogy teljes mértékben megértse a helyi kontextust.",
+            "ro": "Cufundați-vă în arta insulară contemporană în acest spațiu expozițional modern, unde ar trebui să vă faceți timp să citiți descrierile artiștilor pentru a înțelege pe deplin contextul local.",
+            "en": "Immerse yourself in contemporary island art at this modern exhibition space, where you should take your time reading the artist descriptions to fully understand the local context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere komfortable Tour beginnt mit der Erkundung des historischen Tunnels, gefolgt vom majestätischen Inselfeuer. Der Mittag ist voll auf Meeresabenteuer ausgerichtet, wenn wir die spektakulären Tauchplätze von Halik bis zu den flachen Riffen anfahren. Nachmittags verbinden wir Kunst und Natur, besuchen die faszinierenden Unterwasserskulpturen und beeindruckenden lokalen Galerien. Ein kultivierter Abend erwartet uns in den Museen, bevor die Dämmerung unsere motorisierte Inselerkundung sanft abschließt.",
+        "hu": "Kényelmes utunk a történelmi alagút felfedezésével kezdődik, melyet a fenséges szigeti világítótorony követ. A dél az óceáni kalandokról szól, ahogy végigjárjuk a látványos merülőhelyeket Haliktól egészen a sekélyebb zátonyokig. Délután összekapcsoljuk a művészetet a természettel, meglátogatva a lenyűgöző víz alatti szobrokat és a helyi galériákat. Egy kulturált este vár ránk a múzeumokban, mielőtt az alkonyat lágyan lezárná ezt a motorizált szigeti felfedezést.",
+        "ro": "Turul nostru confortabil începe cu explorarea tunelului istoric, urmat de maiestuosul far al insulei tropicale. Prânzul este axat pe aventuri oceanice, îndreptându-ne spre locuri spectaculoase de scufundări, de la Halik la recifele superficiale. După-amiaza combinăm arta cu natura, vizitând sculpturile subacvatice fascinante și galeriile locale impresionante. O seară culturală ne așteaptă în muzee, înainte ca amurgul să încheie ușor explorarea noastră motorizată a insulei.",
+        "en": "Our comfortable tour starts with exploring the historic tunnel, followed by the majestic tropical island lighthouse. Midday is focused on oceanic adventures as we head to spectacular dive sites ranging from Halik to the shallow reefs. In the afternoon, we combine art with nature, visiting the fascinating underwater sculptures and impressive local galleries. A cultured evening awaits us in the museums before dusk softly concludes our motorized exploration of the island."
+      }
+    }
+  }
+}

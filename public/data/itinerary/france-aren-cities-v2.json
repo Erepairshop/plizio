@@ -1,0 +1,520 @@
+{
+  "city_id": "france-aren-cities-v2",
+  "anchor": {
+    "name": "Aren",
+    "coords": [
+      -0.68919,
+      43.2607
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Aren",
+            "hu": "Château d'Aren",
+            "ro": "Château d'Aren",
+            "en": "Château d'Aren"
+          },
+          "coords": [
+            -0.68881,
+            43.261008
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Burg, die die Gegend prägt; umrunden Sie das Gelände frühmorgens, um das beste Fotolicht zu nutzen.",
+            "hu": "Csodálja meg a környéket meghatározó, robusztus történelmi kastély építészetét; érdemes kora reggel körbesétálni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați arhitectura robustă a acestui castel istoric care definește peisajul; plimbați-vă în jurul perimetrului dimineața devreme pentru cele mai bune poze.",
+            "en": "Admire the robust architecture of this historic castle that defines the local landscape; walk around the perimeter early in the morning to capture the best lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.68662,
+            43.268937
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um das traditionelle Mauerwerk zu sehen; bleiben Sie leise, da Einheimische den Ort oft für stille Reflexionen nutzen.",
+            "hu": "Lépjen be ebbe a békés templomba a hagyományos kőmunkákért; ügyeljen a csendre, mivel a helyiek gyakran használják a teret csendes, reggeli elmélkedésre.",
+            "ro": "Intrați în această biserică pașnică pentru a observa zidăria tradițională; păstrați liniștea, deoarece localnicii folosesc adesea spațiul pentru reflecție.",
+            "en": "Step inside this peaceful church to observe its traditional stonework; make sure to remain quiet as local parish members often use the space for silent morning reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Aren",
+            "hu": "Plage d'Aren",
+            "ro": "Plage d'Aren",
+            "en": "Plage d'Aren"
+          },
+          "coords": [
+            -0.684391,
+            43.268425
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Flussufern dieses Naherholungsgebiets; packen Sie eine leichte Picknickdecke ein, da die Einrichtungen in der Nähe sehr begrenzt sind.",
+            "hu": "Pihenjen a helyi rekreációs terület lágy folyópartjain; hozzon magával pikniktakarót és nasit, mivel a közelben nagyon korlátozottak az elérhető szolgáltatások.",
+            "ro": "Relaxați-vă de-a lungul malurilor blânde ale acestei zone de agrement; împachetați o pătură de picnic și gustări, deoarece facilitățile sunt destul de limitate în apropiere.",
+            "en": "Relax along the gentle riverbanks of this local recreational area; pack a lightweight picnic blanket and some snacks, as there are limited facilities available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Poey d'Oloron",
+            "hu": "Plage de Poey d'Oloron",
+            "ro": "Plage de Poey d'Oloron",
+            "en": "Plage de Poey d'Oloron"
+          },
+          "coords": [
+            -0.679229,
+            43.24569
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die natürliche Schönheit und das ruhige Wasser dieses Strandes; tragen Sie feste Wasserschuhe, wenn Sie baden möchten, da das Flussbett steinig ist.",
+            "hu": "Élvezze e folyóparti strand természetes szépségét és nyugodt vizét; viseljen vízicipőt, ha belevetné magát a vízbe, mert a meder eléggé sziklás és kavicsos lehet.",
+            "ro": "Bucurați-vă de frumusețea naturală și de apele calme ale acestei plaje pe râu; purtați încălțăminte de apă rezistentă dacă doriți să vă răcoriți, albia fiind stâncoasă.",
+            "en": "Enjoy the natural beauty and calm waters of this riverside beach retreat; wear sturdy water shoes if you plan to dip your toes, as the riverbed can be quite rocky and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.669126,
+            43.244296
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser idyllischen Landkirche; achten Sie auf die Holzschnitzereien der Türen und kommen Sie am späten Nachmittag wegen des Lichts.",
+            "hu": "Fedezze fel ennek a festői vidéki templomnak a békés atmoszféráját; figyelje meg az ajtók finom fafaragásait, és látogasson ide késő délután a csodás fényekért.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici rustice; acordați atenție sculpturilor subtile în lemn de pe uși și vizitați-o spre seară pentru o lumină caldă.",
+            "en": "Discover the serene atmosphere of this quaint countryside church; pay attention to the subtle wood carvings on the doors, and visit in the late afternoon for a golden glow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des historischen Château d'Aren.\n\nMittags spazieren Sie nach Norden zur Église Saint-Pierre und zum nahen Plage d'Aren für eine Pause.\n\nAm Nachmittag genießen Sie einen malerischen Weg zum Plage de Poey d'Oloron, ideal für Naturliebhaber.\n\nLassen Sie den Tag an der charmanten Église Saint-Martin entspannt ausklingen.",
+        "hu": "Kezdje a napot a történelmi Château d'Aren felfedezésével.\n\nDélben sétáljon északra a békés Église Saint-Pierre-hez és a közeli Plage d'Aren-hez egy kis pihenésre.\n\nDélután egy festői séta vár a Plage de Poey d'Oloron-hoz, amely igazi természeti kincs.\n\nFejezze be a napot a hangulatos Église Saint-Martin felfedezésével.",
+        "ro": "Începeți ziua explorând istoricul Château d'Aren.\n\nLa prânz, plimbați-vă spre nord către liniștita Église Saint-Pierre și apropiata Plage d'Aren pentru o pauză relaxantă.\n\nDupă-amiaza continuă cu o plimbare pitorească până la Plage de Poey d'Oloron, perfectă pentru natură.\n\nÎncheiați ziua vizitând fermecătoarea Église Saint-Martin.",
+        "en": "Begin your day exploring the historic Château d'Aren, a beautiful centerpiece.\n\nMidday takes you slightly north to the serene Église Saint-Pierre and nearby Plage d'Aren for a relaxing break.\n\nThe afternoon continues with a long scenic walk to Plage de Poey d'Oloron, perfect for nature lovers.\n\nConclude your day with a visit to the charming Église Saint-Martin."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Aren",
+            "hu": "Château d'Aren",
+            "ro": "Château d'Aren",
+            "en": "Château d'Aren"
+          },
+          "coords": [
+            -0.68881,
+            43.261008
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Burg, die die Gegend prägt; umrunden Sie das Gelände frühmorgens, um das beste Fotolicht zu nutzen.",
+            "hu": "Csodálja meg a környéket meghatározó, robusztus történelmi kastély építészetét; érdemes kora reggel körbesétálni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați arhitectura robustă a acestui castel istoric care definește peisajul; plimbați-vă în jurul perimetrului dimineața devreme pentru cele mai bune poze.",
+            "en": "Admire the robust architecture of this historic castle that defines the local landscape; walk around the perimeter early in the morning to capture the best lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.68662,
+            43.268937
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um das traditionelle Mauerwerk zu sehen; bleiben Sie leise, da Einheimische den Ort oft für stille Reflexionen nutzen.",
+            "hu": "Lépjen be ebbe a békés templomba a hagyományos kőmunkákért; ügyeljen a csendre, mivel a helyiek gyakran használják a teret csendes, reggeli elmélkedésre.",
+            "ro": "Intrați în această biserică pașnică pentru a observa zidăria tradițională; păstrați liniștea, deoarece localnicii folosesc adesea spațiul pentru reflecție.",
+            "en": "Step inside this peaceful church to observe its traditional stonework; make sure to remain quiet as local parish members often use the space for silent morning reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie-Madeleine",
+            "hu": "Église Sainte-Marie-Madeleine",
+            "ro": "Église Sainte-Marie-Madeleine",
+            "en": "Église Sainte-Marie-Madeleine"
+          },
+          "coords": [
+            -0.714767,
+            43.268677
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante religiöse Stätte; nehmen Sie sich Zeit für die Buntglasfenster, die besonders beeindruckend wirken, wenn die späte Sonne hindurchscheint.",
+            "hu": "Látogasson el erre a Mária Magdolnának szentelt, jellegzetes vallási helyszínre; csodálja meg az üvegablakokat, amelyek naplemente idején a leglátványosabbak.",
+            "ro": "Vizitați acest lăcaș religios distinctiv închinat Mariei Magdalena; priviți vitraliile colorate, care devin deosebit de impresionante la apusul soarelui.",
+            "en": "Visit this distinctive religious site dedicated to Mary Magdalene; take a moment to look at the stained glass windows, which are particularly striking when the sun is setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -0.706389,
+            43.249935
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten architektonischen Details dieser zentralen Pfarrkirche; prüfen Sie den Aushang auf gelegentliche, lohnenswerte lokale Chorauftritte.",
+            "hu": "Fedezze fel e központi plébániatemplom elegáns építészeti részleteit; nézze meg a hirdetőtáblát a helyi kórusok fellépéseiért, amelyeken érdemes részt venni.",
+            "ro": "Explorați detaliile arhitecturale elegante ale acestei biserici parohiale centrale; verificați avizierul exterior pentru concerte corale locale ocazionale.",
+            "en": "Explore the elegant architectural details of this central parish church; check the notice board outside for occasional local choral performances that are well worth attending."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Mesplès",
+            "hu": "Château de Mesplès",
+            "ro": "Château de Mesplès",
+            "en": "Château de Mesplès"
+          },
+          "coords": [
+            -0.697724,
+            43.246036
+          ],
+          "category": "castle",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses noblen Anwesens, um seine historische Bedeutung zu spüren; bringen Sie ein Weitwinkelobjektiv für Fotos der gesamten Fassade mit.",
+            "hu": "Sétáljon végig e nemesi birtok területén, és érezze át annak történelmi súlyát; hozzon magával nagylátószögű objektívet, hogy a teljes homlokzatot lefotózhassa.",
+            "ro": "Plimbați-vă pe domeniul acestei proprietăți nobiliare pentru a simți greutatea istorică; aduceți o lentilă super-angulară pentru a fotografia întreaga fațadă.",
+            "en": "Wander through the grounds of this noble estate to feel its historical weight; bring a wide-angle lens for photography to capture the entire façade of the grand structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jacques-le-Majeur",
+            "hu": "Église Saint-Jacques-le-Majeur",
+            "ro": "Église Saint-Jacques-le-Majeur",
+            "en": "Église Saint-Jacques-le-Majeur"
+          },
+          "coords": [
+            -0.699747,
+            43.246798
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen historischen Wegpunkt für Pilger auf dem Jakobsweg; holen Sie sich einen lokalen Stempel für Ihr Reisetagebuch als einzigartiges Souvenir.",
+            "hu": "Lépjen be ebbe a zarándokok által is gyakran látogatott történelmi megállóba; kérjen egy helyi pecsétet az útinaplójába, amely igazán egyedi szuvenírként szolgál majd.",
+            "ro": "Intrați în acest punct de trecere istoric vizitat de pelerini; colecționați o ștampilă locală dacă aveți un jurnal de călătorie, servind ca un suvenir unic.",
+            "en": "Step into this historical waypoint often visited by pilgrims on the Camino routes; collect a local stamp if you keep a travel journal, as it serves as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            -0.69107,
+            43.238264
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schätzen Sie die rustikale Einfachheit und den Charme dieser historischen Kirche; suchen Sie nach den alten Steinmarkierungen und meiden Sie Zeiten der Gottesdienste.",
+            "hu": "Értékelje e történelmi helyi templom rusztikus egyszerűségét és varázsát; keresse meg a közeli ősi kőjelzéseket, és igyekezzen a miséken kívüli időpontban érkezni.",
+            "ro": "Apreciați simplitatea rustică a acestei biserici locale istorice; căutați marcajele vechi de piatră din apropiere și încercați să vizitați în afara slujbelor.",
+            "en": "Appreciate the rustic simplicity and charm of this historic local church; look for the ancient stone markers nearby, and try to visit when there are no active services."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Château d'Aren los und fahren Sie nach Norden zur Église Saint-Pierre.\n\nMittags geht es westwärts zur Église Sainte-Marie-Madeleine und Église Notre-Dame auf ruhigen Landstraßen.\n\nDer Nachmittag ist dem Château de Mesplès und der Église Saint-Jacques-le-Majeur gewidmet.\n\nBeenden Sie Ihre Radtour an der historischen Église Saint-Laurent.",
+        "hu": "Kerékpározzon ki a Château d'Aren-től, majd tekerjen északra az Église Saint-Pierre templomhoz.\n\nDélben folytassa útját nyugatra az Église Sainte-Marie-Madeleine és az Église Notre-Dame felé.\n\nA délután az impozáns Château de Mesplès és az Église Saint-Jacques-le-Majeur felfedezéséé.\n\nZárja a kerékpártúrát az Église Saint-Laurent-nél.",
+        "ro": "Pedalați de la Château d'Aren și mergeți spre nord pentru a vizita Église Saint-Pierre.\n\nLa prânz, mergeți spre vest către Église Sainte-Marie-Madeleine și Église Notre-Dame.\n\nDupă-amiaza este rezervată impresionantului Château de Mesplès și bisericii vecine Église Saint-Jacques-le-Majeur.\n\nTerminați turul cu bicicleta la Église Saint-Laurent.",
+        "en": "Pedal out from the grand Château d'Aren and head north to visit the quiet Église Saint-Pierre.\n\nBy midday, cycle westward to admire Église Sainte-Marie-Madeleine and Église Notre-Dame, enjoying the open roads.\n\nThe afternoon is reserved for the impressive Château de Mesplès and the neighboring Église Saint-Jacques-le-Majeur.\n\nFinish your cycling tour at the historic Église Saint-Laurent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 9.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Mesplès",
+            "hu": "Château de Mesplès",
+            "ro": "Château de Mesplès",
+            "en": "Château de Mesplès"
+          },
+          "coords": [
+            -0.697724,
+            43.246036
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses noblen Anwesens, um seine historische Bedeutung zu spüren; bringen Sie ein Weitwinkelobjektiv für Fotos der gesamten Fassade mit.",
+            "hu": "Sétáljon végig e nemesi birtok területén, és érezze át annak történelmi súlyát; hozzon magával nagylátószögű objektívet, hogy a teljes homlokzatot lefotózhassa.",
+            "ro": "Plimbați-vă pe domeniul acestei proprietăți nobiliare pentru a simți greutatea istorică; aduceți o lentilă super-angulară pentru a fotografia întreaga fațadă.",
+            "en": "Wander through the grounds of this noble estate to feel its historical weight; bring a wide-angle lens for photography to capture the entire façade of the grand structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jacques-le-Majeur",
+            "hu": "Église Saint-Jacques-le-Majeur",
+            "ro": "Église Saint-Jacques-le-Majeur",
+            "en": "Église Saint-Jacques-le-Majeur"
+          },
+          "coords": [
+            -0.699747,
+            43.246798
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen historischen Wegpunkt für Pilger auf dem Jakobsweg; holen Sie sich einen lokalen Stempel für Ihr Reisetagebuch als einzigartiges Souvenir.",
+            "hu": "Lépjen be ebbe a zarándokok által is gyakran látogatott történelmi megállóba; kérjen egy helyi pecsétet az útinaplójába, amely igazán egyedi szuvenírként szolgál majd.",
+            "ro": "Intrați în acest punct de trecere istoric vizitat de pelerini; colecționați o ștampilă locală dacă aveți un jurnal de călătorie, servind ca un suvenir unic.",
+            "en": "Step into this historical waypoint often visited by pilgrims on the Camino routes; collect a local stamp if you keep a travel journal, as it serves as a unique souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -0.706389,
+            43.249935
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eleganten architektonischen Details dieser zentralen Pfarrkirche; prüfen Sie den Aushang auf gelegentliche, lohnenswerte lokale Chorauftritte.",
+            "hu": "Fedezze fel e központi plébániatemplom elegáns építészeti részleteit; nézze meg a hirdetőtáblát a helyi kórusok fellépéseiért, amelyeken érdemes részt venni.",
+            "ro": "Explorați detaliile arhitecturale elegante ale acestei biserici parohiale centrale; verificați avizierul exterior pentru concerte corale locale ocazionale.",
+            "en": "Explore the elegant architectural details of this central parish church; check the notice board outside for occasional local choral performances that are well worth attending."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie-Madeleine",
+            "hu": "Église Sainte-Marie-Madeleine",
+            "ro": "Église Sainte-Marie-Madeleine",
+            "en": "Église Sainte-Marie-Madeleine"
+          },
+          "coords": [
+            -0.714767,
+            43.268677
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante religiöse Stätte; nehmen Sie sich Zeit für die Buntglasfenster, die besonders beeindruckend wirken, wenn die späte Sonne hindurchscheint.",
+            "hu": "Látogasson el erre a Mária Magdolnának szentelt, jellegzetes vallási helyszínre; csodálja meg az üvegablakokat, amelyek naplemente idején a leglátványosabbak.",
+            "ro": "Vizitați acest lăcaș religios distinctiv închinat Mariei Magdalena; priviți vitraliile colorate, care devin deosebit de impresionante la apusul soarelui.",
+            "en": "Visit this distinctive religious site dedicated to Mary Magdalene; take a moment to look at the stained glass windows, which are particularly striking when the sun is setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Aren",
+            "hu": "Plage d'Aren",
+            "ro": "Plage d'Aren",
+            "en": "Plage d'Aren"
+          },
+          "coords": [
+            -0.684391,
+            43.268425
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Flussufern dieses Naherholungsgebiets; packen Sie eine leichte Picknickdecke ein, da die Einrichtungen in der Nähe sehr begrenzt sind.",
+            "hu": "Pihenjen a helyi rekreációs terület lágy folyópartjain; hozzon magával pikniktakarót és nasit, mivel a közelben nagyon korlátozottak az elérhető szolgáltatások.",
+            "ro": "Relaxați-vă de-a lungul malurilor blânde ale acestei zone de agrement; împachetați o pătură de picnic și gustări, deoarece facilitățile sunt destul de limitate în apropiere.",
+            "en": "Relax along the gentle riverbanks of this local recreational area; pack a lightweight picnic blanket and some snacks, as there are limited facilities available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.68662,
+            43.268937
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um das traditionelle Mauerwerk zu sehen; bleiben Sie leise, da Einheimische den Ort oft für stille Reflexionen nutzen.",
+            "hu": "Lépjen be ebbe a békés templomba a hagyományos kőmunkákért; ügyeljen a csendre, mivel a helyiek gyakran használják a teret csendes, reggeli elmélkedésre.",
+            "ro": "Intrați în această biserică pașnică pentru a observa zidăria tradițională; păstrați liniștea, deoarece localnicii folosesc adesea spațiul pentru reflecție.",
+            "en": "Step inside this peaceful church to observe its traditional stonework; make sure to remain quiet as local parish members often use the space for silent morning reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aren",
+            "hu": "Château d'Aren",
+            "ro": "Château d'Aren",
+            "en": "Château d'Aren"
+          },
+          "coords": [
+            -0.68881,
+            43.261008
+          ],
+          "category": "castle",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Burg, die die Gegend prägt; umrunden Sie das Gelände frühmorgens, um das beste Fotolicht zu nutzen.",
+            "hu": "Csodálja meg a környéket meghatározó, robusztus történelmi kastély építészetét; érdemes kora reggel körbesétálni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați arhitectura robustă a acestui castel istoric care definește peisajul; plimbați-vă în jurul perimetrului dimineața devreme pentru cele mai bune poze.",
+            "en": "Admire the robust architecture of this historic castle that defines the local landscape; walk around the perimeter early in the morning to capture the best lighting for your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            -0.69107,
+            43.238264
+          ],
+          "category": "religious",
+          "arrive_at": "16:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schätzen Sie die rustikale Einfachheit und den Charme dieser historischen Kirche; suchen Sie nach den alten Steinmarkierungen und meiden Sie Zeiten der Gottesdienste.",
+            "hu": "Értékelje e történelmi helyi templom rusztikus egyszerűségét és varázsát; keresse meg a közeli ősi kőjelzéseket, és igyekezzen a miséken kívüli időpontban érkezni.",
+            "ro": "Apreciați simplitatea rustică a acestei biserici locale istorice; căutați marcajele vechi de piatră din apropiere și încercați să vizitați în afara slujbelor.",
+            "en": "Appreciate the rustic simplicity and charm of this historic local church; look for the ancient stone markers nearby, and try to visit when there are no active services."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Süden am prächtigen Château de Mesplès und der Église Saint-Jacques-le-Majeur.\n\nMittags fahren Sie nach Westen zur Église Notre-Dame und Église Sainte-Marie-Madeleine.\n\nAm Nachmittag geht es weiter zum Plage d'Aren und zur Église Saint-Pierre.\n\nBeenden Sie den Tag beim Château d'Aren und der Église Saint-Laurent.",
+        "hu": "Kezdje autós túráját délen a lenyűgöző Château de Mesplès-nél és az Église Saint-Jacques-le-Majeur-nél.\n\nDélben vezessen nyugatra az Église Notre-Dame és az Église Sainte-Marie-Madeleine felfedezéséhez.\n\nDélután irány észak, egy békés pihenőre a Plage d'Aren-nél.\n\nFejezze be a napot a Château d'Aren és az Église Saint-Laurent érintésével.",
+        "ro": "Începeți turul cu mașina în sud, la magnificul Château de Mesplès și la Église Saint-Jacques-le-Majeur.\n\nSpre prânz, conduceți spre vest pentru a descoperi Église Notre-Dame și Église Sainte-Marie-Madeleine.\n\nDupă-amiaza, mergeți la Plage d'Aren și Église Saint-Pierre.\n\nÎncheiați ziua la Château d'Aren și Église Saint-Laurent.",
+        "en": "Start your driving tour in the south at the magnificent Château de Mesplès and the adjacent Église Saint-Jacques-le-Majeur.\n\nTowards midday, drive west to discover Église Notre-Dame and Église Sainte-Marie-Madeleine.\n\nIn the afternoon, head north for a serene break at Plage d'Aren and the nearby Église Saint-Pierre.\n\nConclude your evening at Château d'Aren and Église Saint-Laurent."
+      }
+    }
+  }
+}

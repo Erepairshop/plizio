@@ -1,0 +1,451 @@
+{
+  "city_id": "france-la-palmyre-cities-v2",
+  "anchor": {
+    "name": "La Palmyre",
+    "coords": [
+      -1.17762,
+      45.69124
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Pins",
+            "hu": "Notre-Dame-des-Pins kápolna",
+            "ro": "Capela Notre-Dame-des-Pins",
+            "en": "Notre-Dame-des-Pins Chapel"
+          },
+          "coords": [
+            -1.177157,
+            45.690776
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante, von Kiefern umgebene Architektur dieser ruhigen Kapelle und kommen Sie früh, um die friedliche Atmosphäre ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a fenyőkkel körülvett, békés kápolna hangulatos építészetét, és érkezzen kora reggel, hogy még a tömeg előtt élvezhesse a csendes, nyugodt légkört.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele liniștite înconjurate de pini și veniți dimineața devreme pentru a vă bucura de atmosfera pașnică fără aglomerație.",
+            "en": "Admire the charming pine-surrounded architecture of this tranquil chapel, and visit early in the morning to enjoy the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Le Sextant",
+            "hu": "Villa Le Sextant",
+            "ro": "Vila Le Sextant",
+            "en": "Villa Le Sextant"
+          },
+          "coords": [
+            -1.177257,
+            45.687652
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers innovatives modernistisches Design in dieser historischen Villa, aber respektieren Sie beim Fotografieren unbedingt die Privatgrundstücksgrenzen.",
+            "hu": "Csodálja meg Le Corbusier innovatív, modernista dizájnját ennél a történelmi villánál, de fényképezés közben feltétlenül tartsa tiszteletben a magánterület határait.",
+            "ro": "Minunați-vă de designul modernist inovator al lui Le Corbusier la această vilă istorică, dar asigurați-vă că respectați limitele proprietății private când faceți poze.",
+            "en": "Marvel at Le Corbusier's innovative modernist design at this historic villa, but remember to respect the private property boundaries while taking your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Youpi-Land",
+            "hu": "Youpi-Land",
+            "ro": "Youpi-Land",
+            "en": "Youpi-Land"
+          },
+          "coords": [
+            -1.18096,
+            45.684367
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie mit, um die Hüpfburgen in diesem lebhaften Freizeitpark zu genießen, und kaufen Sie eine Tageskarte für maximalen Spaß am Nachmittag.",
+            "hu": "Hozza el az egész családot, hogy élvezzék a vidámpark ugrálóvárait és csúszdáit, és érdemes napijegyet venni, hogy a lehető legtöbbet hozhassák ki a délutáni mókából.",
+            "ro": "Aduceți toată familia pentru a vă bucura de castelele gonflabile din acest parc de distracții și cumpărați un abonament de o zi pentru a prelungi distracția de după-amiază.",
+            "en": "Bring the whole family to enjoy the bouncy castles and exciting slides at this lively amusement park, and buy a full-day pass to maximize your fun in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Point Sublime",
+            "hu": "Point Sublime",
+            "ro": "Point Sublime",
+            "en": "Point Sublime"
+          },
+          "coords": [
+            -1.180994,
+            45.683207
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem natürlichen Aussichtspunkt und bringen Sie eine Windjacke mit, da die Meeresbrise stark ist.",
+            "hu": "Gyönyörködjön a lenyűgöző panorámában a sziklás partvidékre erről a természetes kilátópontról, de vigyen magával széldzsekit, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Admirați vederile panoramice uluitoare ale coastei de la acest punct de observație natural și aduceți o jachetă de vânt, deoarece briza mării poate fi destul de puternică.",
+            "en": "Take in the breathtaking panoramic views of the rugged coastline from this natural observation point, and bring a windbreaker jacket as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von La Palmyre",
+            "hu": "La Palmyre strand",
+            "ro": "Plaja La Palmyre",
+            "en": "La Palmyre Beach"
+          },
+          "coords": [
+            -1.176528,
+            45.679276
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses wunderschönen Strandes und mieten Sie früh am Tag eine bequeme Sonnenliege, um sich einen perfekten Platz zu sichern.",
+            "hu": "Pihenjen a finom aranyhomokon ezen a gyönyörű helyi strandon, és béreljen kényelmes napozóágyat még a nap elején, hogy garantáltan tökéletes helye legyen a hullámok közelében.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei plaje locale cu ape calme și închiriați un șezlong confortabil devreme pentru a vă asigura locul perfect lângă valurile mării.",
+            "en": "Relax on the fine golden sands of this beautiful local beach with calm waters, and rent a comfortable sunbed early in the day to guarantee a perfect spot near the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem ruhigen Charme der örtlichen Kapellen und historischen Straßen. Mittags laden die faszinierenden architektonischen Wahrzeichen im Kiefernwald ein. Am Nachmittag können Sie die Meeresbrise an den herrlichen Aussichtspunkten genießen. Lassen Sie den Abend bei sanften Wellen und einem wunderschönen Sonnenuntergang an der Bucht ausklingen.",
+        "hu": "Kezdje a reggelt a helyi kápolnák és történelmi utcák csendes varázsával. A délben tegyen egy sétát a fenyvesekben megbúvó lenyűgöző építészeti látványosságok között. Délután élvezze az óceáni szellőt a különböző kilátópontoknál és a homokos tengerpartokon. Az estét a finom hullámok mellett pihenve zárja, miközben a gyönyörű öböl felett lenyugszik a nap.",
+        "ro": "Începeți dimineața cu farmecul liniștit al capelelor locale și al străzilor istorice. La prânz, sunteți invitați să explorați reperele arhitecturale ascunse în pădurea de pini. După-amiaza, bucurați-vă de briza oceanului la diversele puncte de observație și țărmuri. Încheiați seara relaxându-vă lângă valurile blânde, privind apusul soarelui peste golful superb.",
+        "en": "Start your morning with the quiet charm of the local chapels and historic streets. Midday invites you to explore the fascinating architectural landmarks hidden in the pine forest. In the afternoon, embrace the ocean breeze at the various viewpoints and sandy shores. End your evening relaxing by the gentle waves, watching the sunset over the beautiful bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Pins",
+            "hu": "Notre-Dame-des-Pins kápolna",
+            "ro": "Capela Notre-Dame-des-Pins",
+            "en": "Notre-Dame-des-Pins Chapel"
+          },
+          "coords": [
+            -1.177157,
+            45.690776
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante, von Kiefern umgebene Architektur dieser ruhigen Kapelle und kommen Sie früh, um die friedliche Atmosphäre ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a fenyőkkel körülvett, békés kápolna hangulatos építészetét, és érkezzen kora reggel, hogy még a tömeg előtt élvezhesse a csendes, nyugodt légkört.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele liniștite înconjurate de pini și veniți dimineața devreme pentru a vă bucura de atmosfera pașnică fără aglomerație.",
+            "en": "Admire the charming pine-surrounded architecture of this tranquil chapel, and visit early in the morning to enjoy the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo von La Palmyre",
+            "hu": "La Palmyre Állatkert",
+            "ro": "Grădina Zoologică La Palmyre",
+            "en": "La Palmyre Zoo"
+          },
+          "coords": [
+            -1.165765,
+            45.687279
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der berühmtesten zoologischen Gärten Europas mit exotischen Tieren und besuchen Sie unbedingt die Seelöwenshow, die bei Kindern immer sehr beliebt ist.",
+            "hu": "Fedezze fel Európa egyik leghíresebb egzotikus állatkertjét, és semmiképp se hagyja ki a látványos oroszlánfóka-show-t, amely mindig óriási sikert arat a gyerekek körében.",
+            "ro": "Explorați una dintre cele mai renumite grădini zoologice din Europa cu animale exotice și asigurați-vă că participați la spectacolul cu lei de mare, adorat de toți copiii.",
+            "en": "Explore one of Europe's most renowned zoological parks featuring exotic animals, and make sure to attend the spectacular sea lion show which is always a hit with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Le Sextant",
+            "hu": "Villa Le Sextant",
+            "ro": "Vila Le Sextant",
+            "en": "Villa Le Sextant"
+          },
+          "coords": [
+            -1.177257,
+            45.687652
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers innovatives modernistisches Design in dieser historischen Villa, aber respektieren Sie beim Fotografieren unbedingt die Privatgrundstücksgrenzen.",
+            "hu": "Csodálja meg Le Corbusier innovatív, modernista dizájnját ennél a történelmi villánál, de fényképezés közben feltétlenül tartsa tiszteletben a magánterület határait.",
+            "ro": "Minunați-vă de designul modernist inovator al lui Le Corbusier la această vilă istorică, dar asigurați-vă că respectați limitele proprietății private când faceți poze.",
+            "en": "Marvel at Le Corbusier's innovative modernist design at this historic villa, but remember to respect the private property boundaries while taking your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Point Sublime",
+            "hu": "Point Sublime",
+            "ro": "Point Sublime",
+            "en": "Point Sublime"
+          },
+          "coords": [
+            -1.180994,
+            45.683207
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem natürlichen Aussichtspunkt und bringen Sie eine Windjacke mit, da die Meeresbrise stark ist.",
+            "hu": "Gyönyörködjön a lenyűgöző panorámában a sziklás partvidékre erről a természetes kilátópontról, de vigyen magával széldzsekit, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Admirați vederile panoramice uluitoare ale coastei de la acest punct de observație natural și aduceți o jachetă de vânt, deoarece briza mării poate fi destul de puternică.",
+            "en": "Take in the breathtaking panoramic views of the rugged coastline from this natural observation point, and bring a windbreaker jacket as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Bonne Anse",
+            "hu": "Bonne Anse strand",
+            "ro": "Plaja Bonne Anse",
+            "en": "Bonne Anse Beach"
+          },
+          "coords": [
+            -1.188422,
+            45.686928
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des Kitesurfens in der geschützten Bucht dieses Strandes und denken Sie daran, die lokalen Gezeiten zu prüfen, bevor Sie Wasseraktivitäten planen.",
+            "hu": "Tapasztalja meg a kiteszörfözés izgalmát ennek a tágas strandnak a védett öblében, és ne felejtse el ellenőrizni a helyi árapály-táblázatot a vízi programok tervezése előtt.",
+            "ro": "Experimentați fiorul kitesurfing-ului în golful protejat al acestei plaje extinse și nu uitați să verificați programul mareelor înainte de a vă planifica activitățile acvatice.",
+            "en": "Experience the thrill of kitesurfing in the protected bay of this expansive beach, and remember to check the local tide schedule before planning your aquatic activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Bonne Anse",
+            "hu": "Bonne Anse öböl",
+            "ro": "Golful Bonne Anse",
+            "en": "Bonne Anse Bay"
+          },
+          "coords": [
+            -1.197295,
+            45.682813
+          ],
+          "category": "landmark",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Schönheit dieser weiten Sandbucht, die von Meeresströmungen geformt wurde, und wandern Sie den malerischen Leuchtturmpfad für spektakuläre Sonnenuntergangsfotos.",
+            "hu": "Fedezze fel az óceáni áramlatok által formált, hatalmas homokos öböl lenyűgöző természeti szépségét, és sétáljon végig a festői világítótorony-ösvényen a legjobb fotókért.",
+            "ro": "Descoperiți frumusețea naturală uimitoare a acestui golf de nisip format de curenți și plimbați-vă pe cărarea pitorească a farului pentru cele mai spectaculoase fotografii la apus.",
+            "en": "Discover the stunning natural beauty of this vast sandy bay formed by ocean currents, and walk along the picturesque lighthouse path for the most spectacular sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem ruhigen Charme der örtlichen Kapellen und historischen Straßen. Mittags laden die faszinierenden architektonischen Wahrzeichen im Kiefernwald ein. Am Nachmittag können Sie die Meeresbrise an den herrlichen Aussichtspunkten genießen. Lassen Sie den Abend bei sanften Wellen und einem wunderschönen Sonnenuntergang an der Bucht ausklingen.",
+        "hu": "Kezdje a reggelt a helyi kápolnák és történelmi utcák csendes varázsával. A délben tegyen egy sétát a fenyvesekben megbúvó lenyűgöző építészeti látványosságok között. Délután élvezze az óceáni szellőt a különböző kilátópontoknál és a homokos tengerpartokon. Az estét a finom hullámok mellett pihenve zárja, miközben a gyönyörű öböl felett lenyugszik a nap.",
+        "ro": "Începeți dimineața cu farmecul liniștit al capelelor locale și al străzilor istorice. La prânz, sunteți invitați să explorați reperele arhitecturale ascunse în pădurea de pini. După-amiaza, bucurați-vă de briza oceanului la diversele puncte de observație și țărmuri. Încheiați seara relaxându-vă lângă valurile blânde, privind apusul soarelui peste golful superb.",
+        "en": "Start your morning with the quiet charm of the local chapels and historic streets. Midday invites you to explore the fascinating architectural landmarks hidden in the pine forest. In the afternoon, embrace the ocean breeze at the various viewpoints and sandy shores. End your evening relaxing by the gentle waves, watching the sunset over the beautiful bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo von La Palmyre",
+            "hu": "La Palmyre Állatkert",
+            "ro": "Grădina Zoologică La Palmyre",
+            "en": "La Palmyre Zoo"
+          },
+          "coords": [
+            -1.165765,
+            45.687279
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der berühmtesten zoologischen Gärten Europas mit exotischen Tieren und besuchen Sie unbedingt die Seelöwenshow, die bei Kindern immer sehr beliebt ist.",
+            "hu": "Fedezze fel Európa egyik leghíresebb egzotikus állatkertjét, és semmiképp se hagyja ki a látványos oroszlánfóka-show-t, amely mindig óriási sikert arat a gyerekek körében.",
+            "ro": "Explorați una dintre cele mai renumite grădini zoologice din Europa cu animale exotice și asigurați-vă că participați la spectacolul cu lei de mare, adorat de toți copiii.",
+            "en": "Explore one of Europe's most renowned zoological parks featuring exotic animals, and make sure to attend the spectacular sea lion show which is always a hit with children."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Pins",
+            "hu": "Notre-Dame-des-Pins kápolna",
+            "ro": "Capela Notre-Dame-des-Pins",
+            "en": "Notre-Dame-des-Pins Chapel"
+          },
+          "coords": [
+            -1.177157,
+            45.690776
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante, von Kiefern umgebene Architektur dieser ruhigen Kapelle und kommen Sie früh, um die friedliche Atmosphäre ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a fenyőkkel körülvett, békés kápolna hangulatos építészetét, és érkezzen kora reggel, hogy még a tömeg előtt élvezhesse a csendes, nyugodt légkört.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele liniștite înconjurate de pini și veniți dimineața devreme pentru a vă bucura de atmosfera pașnică fără aglomerație.",
+            "en": "Admire the charming pine-surrounded architecture of this tranquil chapel, and visit early in the morning to enjoy the peaceful atmosphere before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Le Sextant",
+            "hu": "Villa Le Sextant",
+            "ro": "Vila Le Sextant",
+            "en": "Villa Le Sextant"
+          },
+          "coords": [
+            -1.177257,
+            45.687652
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers innovatives modernistisches Design in dieser historischen Villa, aber respektieren Sie beim Fotografieren unbedingt die Privatgrundstücksgrenzen.",
+            "hu": "Csodálja meg Le Corbusier innovatív, modernista dizájnját ennél a történelmi villánál, de fényképezés közben feltétlenül tartsa tiszteletben a magánterület határait.",
+            "ro": "Minunați-vă de designul modernist inovator al lui Le Corbusier la această vilă istorică, dar asigurați-vă că respectați limitele proprietății private când faceți poze.",
+            "en": "Marvel at Le Corbusier's innovative modernist design at this historic villa, but remember to respect the private property boundaries while taking your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Bonne Anse",
+            "hu": "Bonne Anse strand",
+            "ro": "Plaja Bonne Anse",
+            "en": "Bonne Anse Beach"
+          },
+          "coords": [
+            -1.188422,
+            45.686928
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel des Kitesurfens in der geschützten Bucht dieses Strandes und denken Sie daran, die lokalen Gezeiten zu prüfen, bevor Sie Wasseraktivitäten planen.",
+            "hu": "Tapasztalja meg a kiteszörfözés izgalmát ennek a tágas strandnak a védett öblében, és ne felejtse el ellenőrizni a helyi árapály-táblázatot a vízi programok tervezése előtt.",
+            "ro": "Experimentați fiorul kitesurfing-ului în golful protejat al acestei plaje extinse și nu uitați să verificați programul mareelor înainte de a vă planifica activitățile acvatice.",
+            "en": "Experience the thrill of kitesurfing in the protected bay of this expansive beach, and remember to check the local tide schedule before planning your aquatic activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Bonne Anse",
+            "hu": "Bonne Anse öböl",
+            "ro": "Golful Bonne Anse",
+            "en": "Bonne Anse Bay"
+          },
+          "coords": [
+            -1.197295,
+            45.682813
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Schönheit dieser weiten Sandbucht, die von Meeresströmungen geformt wurde, und wandern Sie den malerischen Leuchtturmpfad für spektakuläre Sonnenuntergangsfotos.",
+            "hu": "Fedezze fel az óceáni áramlatok által formált, hatalmas homokos öböl lenyűgöző természeti szépségét, és sétáljon végig a festői világítótorony-ösvényen a legjobb fotókért.",
+            "ro": "Descoperiți frumusețea naturală uimitoare a acestui golf de nisip format de curenți și plimbați-vă pe cărarea pitorească a farului pentru cele mai spectaculoase fotografii la apus.",
+            "en": "Discover the stunning natural beauty of this vast sandy bay formed by ocean currents, and walk along the picturesque lighthouse path for the most spectacular sunset photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von La Palmyre",
+            "hu": "La Palmyre strand",
+            "ro": "Plaja La Palmyre",
+            "en": "La Palmyre Beach"
+          },
+          "coords": [
+            -1.176528,
+            45.679276
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses wunderschönen Strandes und mieten Sie früh am Tag eine bequeme Sonnenliege, um sich einen perfekten Platz zu sichern.",
+            "hu": "Pihenjen a finom aranyhomokon ezen a gyönyörű helyi strandon, és béreljen kényelmes napozóágyat még a nap elején, hogy garantáltan tökéletes helye legyen a hullámok közelében.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei plaje locale cu ape calme și închiriați un șezlong confortabil devreme pentru a vă asigura locul perfect lângă valurile mării.",
+            "en": "Relax on the fine golden sands of this beautiful local beach with calm waters, and rent a comfortable sunbed early in the day to guarantee a perfect spot near the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem ruhigen Charme der örtlichen Kapellen und historischen Straßen. Mittags laden die faszinierenden architektonischen Wahrzeichen im Kiefernwald ein. Am Nachmittag können Sie die Meeresbrise an den herrlichen Aussichtspunkten genießen. Lassen Sie den Abend bei sanften Wellen und einem wunderschönen Sonnenuntergang an der Bucht ausklingen.",
+        "hu": "Kezdje a reggelt a helyi kápolnák és történelmi utcák csendes varázsával. A délben tegyen egy sétát a fenyvesekben megbúvó lenyűgöző építészeti látványosságok között. Délután élvezze az óceáni szellőt a különböző kilátópontoknál és a homokos tengerpartokon. Az estét a finom hullámok mellett pihenve zárja, miközben a gyönyörű öböl felett lenyugszik a nap.",
+        "ro": "Începeți dimineața cu farmecul liniștit al capelelor locale și al străzilor istorice. La prânz, sunteți invitați să explorați reperele arhitecturale ascunse în pădurea de pini. După-amiaza, bucurați-vă de briza oceanului la diversele puncte de observație și țărmuri. Încheiați seara relaxându-vă lângă valurile blânde, privind apusul soarelui peste golful superb.",
+        "en": "Start your morning with the quiet charm of the local chapels and historic streets. Midday invites you to explore the fascinating architectural landmarks hidden in the pine forest. In the afternoon, embrace the ocean breeze at the various viewpoints and sandy shores. End your evening relaxing by the gentle waves, watching the sunset over the beautiful bay."
+      }
+    }
+  }
+}

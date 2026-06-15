@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-lokve-cities-v2",
+  "anchor": {
+    "name": "Lokve",
+    "coords": [
+      14.7481,
+      45.3581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 5.26,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Muzej žaba",
+            "hu": "Muzej žaba",
+            "ro": "Muzej žaba",
+            "en": "Muzej žaba"
+          },
+          "coords": [
+            14.754061,
+            45.358116
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Froschmuseum, eine einzigartige Sammlung über heimische Amphibien, und fragen Sie den Kurator unbedingt nach den besten Wanderwegen.",
+            "hu": "Fedezze fel a lenyűgöző Békamúzeumot, amely a helyi kétéltűeket mutatja be, és mindenképpen kérje a kurátor tanácsát a legjobb közeli gyalogos ösvényekről.",
+            "ro": "Explorați fascinantul Muzeu al Broaștelor, o colecție unică de amfibieni locali, și asigurați-vă că întrebați custodele despre cele mai bune trasee de drumeție.",
+            "en": "Explore the fascinating Frog Museum, a unique collection showcasing local amphibian life, and be sure to ask the passionate curator for the best nearby walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidikovac hrvatskih branitelja",
+            "hu": "Vidikovac hrvatskih branitelja",
+            "ro": "Vidikovac hrvatskih branitelja",
+            "en": "Vidikovac hrvatskih branitelja"
+          },
+          "coords": [
+            14.760095,
+            45.35824
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick an diesem den kroatischen Verteidigern gewidmeten Aussichtspunkt, wo das frühe Morgenlicht die besten Fotobedingungen bietet.",
+            "hu": "Élvezze a lélegzetelállító panorámát a horvát védők emlékére emelt kilátóból, ahol a kora reggeli fény biztosítja a legjobb feltételeket a fotózáshoz.",
+            "ro": "Bucurați-vă de priveliștile panoramice la acest punct de belvedere dedicat apărătorilor croați, unde lumina dimineții oferă cele mai bune condiții de fotografiere.",
+            "en": "Take in the breathtaking panoramic views at this memorial viewpoint dedicated to Croatian defenders, where early morning light offers the best photography conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Spilja Lokvarka",
+            "hu": "Spilja Lokvarka",
+            "ro": "Spilja Lokvarka",
+            "en": "Spilja Lokvarka"
+          },
+          "coords": [
+            14.762657,
+            45.361722
+          ],
+          "category": "natural",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Steigen Sie in die faszinierende Höhle Lokvarka hinab, die für ihre tiefen Galerien bekannt ist, aber bringen Sie eine warme Jacke mit, da es ganzjährig kühl bleibt.",
+            "hu": "Ereszkedjen le a lenyűgöző Lokvarka-barlangba, amely mély galériáiról ismert, de ne felejtsen el meleg kabátot hozni, mivel a hőmérséklet egész évben alacsony.",
+            "ro": "Coborâți în fascinanta Peșteră Lokvarka, cunoscută pentru galeriile sale adânci, dar nu uitați să luați o jachetă caldă deoarece temperaturile sunt scăzute tot anul.",
+            "en": "Descend into the mesmerizing Lokvarka Cave, known for its deep galleries and stunning stalactites, but remember to bring a warm jacket as temperatures remain low year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Park-šuma Golubinjak",
+            "hu": "Park-šuma Golubinjak",
+            "ro": "Park-šuma Golubinjak",
+            "en": "Park-šuma Golubinjak"
+          },
+          "coords": [
+            14.762265,
+            45.351693
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den zauberhaften Waldpark Golubinjak mit seinen riesigen Nadelbäumen und packen Sie ein Picknick für die gut gepflegten Rastplätze ein.",
+            "hu": "Sétáljon végig a varázslatos Golubinjak erdőparkon, csodálja meg az ősi tűlevelűeket, és hozzon magával piknikkosarat a jól karbantartott pihenőhelyekre.",
+            "ro": "Plimbați-vă prin fermecătorul Parc Forestier Golubinjak pentru a vedea conifere antice și asigurați-vă că împachetați un picnic pentru a vă bucura de locurile de odihnă.",
+            "en": "Wander through the enchanting Golubinjak Forest Park to see towering ancient conifers and hidden caves, and pack a picnic to enjoy at the well-maintained resting spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidikovac Lokvarsko Jezero",
+            "hu": "Vidikovac Lokvarsko Jezero",
+            "ro": "Vidikovac Lokvarsko Jezero",
+            "en": "Vidikovac Lokvarsko Jezero"
+          },
+          "coords": [
+            14.721155,
+            45.357296
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 55,
+          "hop_from_prev_min": 49,
+          "hop_from_prev_km": 3.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie das tiefblaue Wasser des Lokvarsko-Sees von diesem Aussichtspunkt aus, der an einem klaren Nachmittag die perfekte Kulisse für Sonnenuntergangsfotos bietet.",
+            "hu": "Csodálja meg a Lokvarsko-tó mélykék vizét ebből a lenyűgöző kilátóból, amely tökéletes hátteret biztosít a naplementés fotókhoz egy tiszta délutánon.",
+            "ro": "Admirați apele albastre și adânci ale Lacului Lokvarsko de la acest punct de belvedere, care oferă fundalul perfect pentru fotografiile la apus în zilele senine.",
+            "en": "Admire the deep blue waters of Lokvarsko Lake from this stunning vantage point, which provides the perfect backdrop for sunset photos on a clear afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Lokve mit einem Besuch im Froschmuseum, wo Sie in die lokalen Legenden eintauchen. Ein kurzer Spaziergang führt Sie zum Aussichtspunkt der Verteidiger mit herrlichem Panoramablick.\n\nDer Mittag lädt Sie unter die Erde ein, während Sie die tiefen Höhlengalerien der Spilja Lokvarka erkunden. Wieder am Tageslicht angekommen, machen Sie sich auf den Weg in die üppigen Wälder der Umgebung.\n\nDen Nachmittag verbringen Sie im majestätischen Waldpark Golubinjak, wo Sie unter riesigen Nadelbäumen und zwischen versteckten Felsformationen spazieren. Genießen Sie die friedliche Bergatmosphäre.\n\nDer Abend nähert sich mit einer Wanderung zum Aussichtspunkt des Lokvarsko-Sees. Während die Sonne über dem tiefblauen Wasser untergeht, bieten die ruhigen Reflexionen einen unvergesslichen Abschluss Ihres Spaziergangs.",
+        "hu": "A reggel Lokve szívében kezdődik egy látogatással a mókás Békamúzeumban. Egy rövid séta elvezeti a horvát védők kilátójához, ahonnan elsöprő panoráma nyílik a környező lenyűgöző hegyvidéki tájra.\n\nA dél körüli órákban a föld alá ereszkedve felfedezheti a Lokvarka-barlang lenyűgöző cseppköveit. A napfényre visszatérve a közeli erdőrezervátum buja zöld területei felé veszi az irányt.\n\nA délutánt a fenséges Golubinjak erdőparkban töltheti, hatalmas örökzöldek árnyékában, rejtett sziklaképződmények között. Szánjon időt a békés hangulat és a tiszta hegyi levegő élvezetére.\n\nAz este a Lokvarsko-tó kilátójához vezető festői túrával közeledik. Ahogy a nap lenyugszik a mélykék vizek felett, a nyugodt tükröződések békés, felejthetetlen lezárást adnak a sétának.",
+        "ro": "Dimineața începe în Lokve cu o vizită la ineditul Muzeu al Broaștelor. O scurtă plimbare vă duce la Punctul de Belvedere al Apărătorilor, oferind o panoramă vastă a peisajului montan uimitor din jur.\n\nLa prânz explorați subteranul, admirând stalactitele din adânca Peșteră Lokvarka. Ieșind înapoi la lumina zilei, vă veți îndrepta spre verdeața luxuriantă a rezervației forestiere din apropiere.\n\nDupă-amiaza este petrecută hoinărind prin Parcul Forestier Golubinjak, la umbra coniferelor uriașe și a formațiunilor stâncoase ascunse. Bucurați-vă de atmosfera liniștită și de aerul curat de munte.\n\nSeara se apropie cu o drumeție pitorească spre punctul de belvedere al Lacului Lokvarsko. Apusul soarelui peste apele albastre oferă o încheiere liniștită și de neuitat aventurii dumneavoastră.",
+        "en": "Morning begins in the heart of Lokve with a visit to the quirky Frog Museum, diving straight into local lore. A short stroll leads you to the Defenders' Viewpoint, offering sweeping vistas of the surrounding mountain landscape.\n\nMidday invites you underground as you explore the stunning stalactites of the deep Lokvarka Cave. Emerging back into the daylight, you will head towards the lush greenery of the nearby forest reserve.\n\nAfternoon is spent wandering the majestic Golubinjak Forest Park, shaded by towering evergreens and dotted with hidden rock formations. Take your time to enjoy the tranquil atmosphere and clear mountain air.\n\nEvening approaches with a scenic trek to the Lokvarsko Lake Viewpoint. As the sun sets over the deep blue waters, the serene reflections provide a peaceful, unforgettable close to your walking adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 13.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Muzej žaba",
+            "hu": "Muzej žaba",
+            "ro": "Muzej žaba",
+            "en": "Muzej žaba"
+          },
+          "coords": [
+            14.754061,
+            45.358116
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Froschmuseum, eine einzigartige Sammlung über heimische Amphibien, und fragen Sie den Kurator unbedingt nach den besten Wanderwegen.",
+            "hu": "Fedezze fel a lenyűgöző Békamúzeumot, amely a helyi kétéltűeket mutatja be, és mindenképpen kérje a kurátor tanácsát a legjobb közeli gyalogos ösvényekről.",
+            "ro": "Explorați fascinantul Muzeu al Broaștelor, o colecție unică de amfibieni locali, și asigurați-vă că întrebați custodele despre cele mai bune trasee de drumeție.",
+            "en": "Explore the fascinating Frog Museum, a unique collection showcasing local amphibian life, and be sure to ask the passionate curator for the best nearby walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Spilja Lokvarka",
+            "hu": "Spilja Lokvarka",
+            "ro": "Spilja Lokvarka",
+            "en": "Spilja Lokvarka"
+          },
+          "coords": [
+            14.762657,
+            45.361722
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Steigen Sie in die faszinierende Höhle Lokvarka hinab, die für ihre tiefen Galerien bekannt ist, aber bringen Sie eine warme Jacke mit, da es ganzjährig kühl bleibt.",
+            "hu": "Ereszkedjen le a lenyűgöző Lokvarka-barlangba, amely mély galériáiról ismert, de ne felejtsen el meleg kabátot hozni, mivel a hőmérséklet egész évben alacsony.",
+            "ro": "Coborâți în fascinanta Peșteră Lokvarka, cunoscută pentru galeriile sale adânci, dar nu uitați să luați o jachetă caldă deoarece temperaturile sunt scăzute tot anul.",
+            "en": "Descend into the mesmerizing Lokvarka Cave, known for its deep galleries and stunning stalactites, but remember to bring a warm jacket as temperatures remain low year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Park-šuma Golubinjak",
+            "hu": "Park-šuma Golubinjak",
+            "ro": "Park-šuma Golubinjak",
+            "en": "Park-šuma Golubinjak"
+          },
+          "coords": [
+            14.762265,
+            45.351693
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den zauberhaften Waldpark Golubinjak mit seinen riesigen Nadelbäumen und packen Sie ein Picknick für die gut gepflegten Rastplätze ein.",
+            "hu": "Sétáljon végig a varázslatos Golubinjak erdőparkon, csodálja meg az ősi tűlevelűeket, és hozzon magával piknikkosarat a jól karbantartott pihenőhelyekre.",
+            "ro": "Plimbați-vă prin fermecătorul Parc Forestier Golubinjak pentru a vedea conifere antice și asigurați-vă că împachetați un picnic pentru a vă bucura de locurile de odihnă.",
+            "en": "Wander through the enchanting Golubinjak Forest Park to see towering ancient conifers and hidden caves, and pack a picnic to enjoy at the well-maintained resting spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidikovac Lokvarsko Jezero",
+            "hu": "Vidikovac Lokvarsko Jezero",
+            "ro": "Vidikovac Lokvarsko Jezero",
+            "en": "Vidikovac Lokvarsko Jezero"
+          },
+          "coords": [
+            14.721155,
+            45.357296
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie das tiefblaue Wasser des Lokvarsko-Sees von diesem Aussichtspunkt aus, der an einem klaren Nachmittag die perfekte Kulisse für Sonnenuntergangsfotos bietet.",
+            "hu": "Csodálja meg a Lokvarsko-tó mélykék vizét ebből a lenyűgöző kilátóból, amely tökéletes hátteret biztosít a naplementés fotókhoz egy tiszta délutánon.",
+            "ro": "Admirați apele albastre și adânci ale Lacului Lokvarsko de la acest punct de belvedere, care oferă fundalul perfect pentru fotografiile la apus în zilele senine.",
+            "en": "Admire the deep blue waters of Lokvarsko Lake from this stunning vantage point, which provides the perfect backdrop for sunset photos on a clear afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokvarsko jezero",
+            "hu": "Lokvarsko jezero",
+            "ro": "Lokvarsko jezero",
+            "en": "Lokvarsko jezero"
+          },
+          "coords": [
+            14.694506,
+            45.366783
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.32,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern des Lokvarsko-Sees entlang, einem riesigen Stausee, der sich ideal zum Angeln eignet, und mieten Sie ein kleines Boot.",
+            "hu": "Sétáljon a Lokvarsko-tó békés partján, amely egy hatalmas és horgászatra tökéletes mesterséges víztározó, és fontolja meg egy kis csónak bérlését a felfedezéshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor liniștite ale Lacului Lokvarsko, un lac de acumulare perfect pentru pescuit, și luați în considerare închirierea unei bărci.",
+            "en": "Stroll along the serene shores of Lokvarsko Lake, a massive artificial reservoir perfect for fishing, and consider renting a small boat to fully appreciate its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Jezero Bajer",
+            "hu": "Jezero Bajer",
+            "ro": "Jezero Bajer",
+            "en": "Jezero Bajer"
+          },
+          "coords": [
+            14.710752,
+            45.314519
+          ],
+          "category": "natural",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.95,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Bajer-See, der von üppigen Bergen umgeben ist, und nutzen Sie die flache Promenade für eine gemütliche Rad- oder Wandertour.",
+            "hu": "Pihenjen a festői Bajer-tónál, amelyet buja zöld hegyek vesznek körül, és használja ki a sík, jól aszfaltozott sétányt egy kellemes kerékpáros túrához.",
+            "ro": "Relaxați-vă la pitorescul Lac Bajer, înconjurat de munți verzi, și profitați de promenada plată și bine pavată pentru o tură relaxantă cu bicicleta sau pe jos.",
+            "en": "Relax at the picturesque Bajer Lake, surrounded by lush green mountains, and take advantage of the flat, well-paved promenade for a leisurely cycling or walking tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Froschmuseum, um die Naturgeschichte der Region zu verstehen. Danach radeln Sie zur faszinierenden Höhle Lokvarka, um ihre tiefen, kühlen Galerien zu erkunden.\n\nMittags radeln Sie durch die dichten Bäume des Waldparks Golubinjak. Der erfrischende Schatten und die gut gepflegten Wege machen ihn zu einem idealen Ort, um die unberührte Wildnis zu genießen.\n\nAm Nachmittag fahren Sie zum Aussichtspunkt des Lokvarsko-Sees und hinunter zum Ufer. Die Fahrt entlang des riesigen Stausees bietet spektakuläre Ausblicke auf das von Wäldern gesäumte Wasser.\n\nDer Abend bricht herein, während Sie zum malerischen Bajer-See hinunterfahren. Die glatte Promenade ist perfekt für eine entspannte Fahrt bei Sonnenuntergang und kühlen Brisen.",
+        "hu": "A reggel a Békamúzeumban kezdődik, amely tökéletes a régió természettörténetének megismerésére. Ezután a Lokvarka-barlanghoz teker, hogy felfedezze annak hűvös, mélyen fekvő galériáit.\n\nDélben a Golubinjak erdőpark sűrű fái között kerékpározik. A frissítő árnyék és a jól karbantartott ösvények ideális helyszínt biztosítanak a megpihenésre és a vadon szépségének élvezetére.\n\nA délután a Lokvarsko-tó kilátójához, majd magához a tóparthoz vezet. A hatalmas víztározó melletti kerékpározás látványos kilátást nyújt az erdőkkel övezett víztükörre.\n\nAz este a festői Bajer-tóhoz vezet. A vizet körülölelő sima sétány tökéletes egy nyugodt, naplementés kerékpározáshoz, hűs szellővel és alkonyati színekkel zárva a napot.",
+        "ro": "Dimineața începe la Muzeul Broaștelor pentru a înțelege istoria naturală a regiunii. Apoi veți pedala până la fascinanta Peșteră Lokvarka pentru a explora galeriile sale adânci și răcoroase.\n\nLa prânz vă regăsiți pedalând prin copacii deși ai Parcului Forestier Golubinjak. Umbra răcoroasă și traseele bine întreținute fac din acesta un loc ideal pentru a aprecia sălbăticia neatinsă.\n\nDupă-amiaza aduce o plimbare spre Belvedere Lacul Lokvarsko, urmată de o coborâre pe malul lacului. Ciclismul de-a lungul rezervorului imens oferă priveliști spectaculoase ale apei.\n\nSeara coboară blând în timp ce pedalați spre pitorescul Lac Bajer. Promenada netedă din jurul apei este perfectă pentru o plimbare relaxată la apus, încheind ziua cu brize răcoroase.",
+        "en": "Morning starts at the unique Frog Museum in the village center, perfect for understanding the region's natural history. You'll then pedal up to the fascinating Lokvarka Cave to explore its deep, cool galleries.\n\nMidday finds you cycling through the dense, towering trees of Golubinjak Forest Park. The refreshing shade and well-maintained trails make it an ideal spot to pause and appreciate the untouched wilderness.\n\nAfternoon brings a rewarding ride to the Lokvarsko Lake Viewpoint, followed by a descent to the lakeshore itself. Cycling along the vast reservoir offers spectacular views of the water framed by forests.\n\nEvening gently rolls in as you ride down to the picturesque Bajer Lake. The smooth promenade circling the water is perfect for a relaxed sunset ride, ending your day with cool breezes and twilight colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 16.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Muzej žaba",
+            "hu": "Muzej žaba",
+            "ro": "Muzej žaba",
+            "en": "Muzej žaba"
+          },
+          "coords": [
+            14.754061,
+            45.358116
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Froschmuseum, eine einzigartige Sammlung über heimische Amphibien, und fragen Sie den Kurator unbedingt nach den besten Wanderwegen.",
+            "hu": "Fedezze fel a lenyűgöző Békamúzeumot, amely a helyi kétéltűeket mutatja be, és mindenképpen kérje a kurátor tanácsát a legjobb közeli gyalogos ösvényekről.",
+            "ro": "Explorați fascinantul Muzeu al Broaștelor, o colecție unică de amfibieni locali, și asigurați-vă că întrebați custodele despre cele mai bune trasee de drumeție.",
+            "en": "Explore the fascinating Frog Museum, a unique collection showcasing local amphibian life, and be sure to ask the passionate curator for the best nearby walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Spilja Lokvarka",
+            "hu": "Spilja Lokvarka",
+            "ro": "Spilja Lokvarka",
+            "en": "Spilja Lokvarka"
+          },
+          "coords": [
+            14.762657,
+            45.361722
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Steigen Sie in die faszinierende Höhle Lokvarka hinab, die für ihre tiefen Galerien bekannt ist, aber bringen Sie eine warme Jacke mit, da es ganzjährig kühl bleibt.",
+            "hu": "Ereszkedjen le a lenyűgöző Lokvarka-barlangba, amely mély galériáiról ismert, de ne felejtsen el meleg kabátot hozni, mivel a hőmérséklet egész évben alacsony.",
+            "ro": "Coborâți în fascinanta Peșteră Lokvarka, cunoscută pentru galeriile sale adânci, dar nu uitați să luați o jachetă caldă deoarece temperaturile sunt scăzute tot anul.",
+            "en": "Descend into the mesmerizing Lokvarka Cave, known for its deep galleries and stunning stalactites, but remember to bring a warm jacket as temperatures remain low year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Park-šuma Golubinjak",
+            "hu": "Park-šuma Golubinjak",
+            "ro": "Park-šuma Golubinjak",
+            "en": "Park-šuma Golubinjak"
+          },
+          "coords": [
+            14.762265,
+            45.351693
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den zauberhaften Waldpark Golubinjak mit seinen riesigen Nadelbäumen und packen Sie ein Picknick für die gut gepflegten Rastplätze ein.",
+            "hu": "Sétáljon végig a varázslatos Golubinjak erdőparkon, csodálja meg az ősi tűlevelűeket, és hozzon magával piknikkosarat a jól karbantartott pihenőhelyekre.",
+            "ro": "Plimbați-vă prin fermecătorul Parc Forestier Golubinjak pentru a vedea conifere antice și asigurați-vă că împachetați un picnic pentru a vă bucura de locurile de odihnă.",
+            "en": "Wander through the enchanting Golubinjak Forest Park to see towering ancient conifers and hidden caves, and pack a picnic to enjoy at the well-maintained resting spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokvarsko jezero",
+            "hu": "Lokvarsko jezero",
+            "ro": "Lokvarsko jezero",
+            "en": "Lokvarsko jezero"
+          },
+          "coords": [
+            14.694506,
+            45.366783
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern des Lokvarsko-Sees entlang, einem riesigen Stausee, der sich ideal zum Angeln eignet, und mieten Sie ein kleines Boot.",
+            "hu": "Sétáljon a Lokvarsko-tó békés partján, amely egy hatalmas és horgászatra tökéletes mesterséges víztározó, és fontolja meg egy kis csónak bérlését a felfedezéshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor liniștite ale Lacului Lokvarsko, un lac de acumulare perfect pentru pescuit, și luați în considerare închirierea unei bărci.",
+            "en": "Stroll along the serene shores of Lokvarsko Lake, a massive artificial reservoir perfect for fishing, and consider renting a small boat to fully appreciate its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Jezero Lepenica",
+            "hu": "Jezero Lepenica",
+            "ro": "Jezero Lepenica",
+            "en": "Jezero Lepenica"
+          },
+          "coords": [
+            14.689119,
+            45.32079
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.13,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen am Lepenica-See, einem ruhigen Ort für Schwimmer im Sommer, wo Sie leicht ein schattiges Plätzchen für einen friedlichen Nachmittag finden.",
+            "hu": "Meneküljön el a tömeg elől a Lepenica-tóhoz, amely nyáron a helyi úszók kedvence, és ahol könnyedén találhat egy csendes, árnyékos helyet a délutáni olvasáshoz.",
+            "ro": "Scăpați de aglomerație la Lacul Lepenica, un loc liniștit preferat de înotători vara, unde puteți găsi ușor o zonă umbrită pentru o lectură de după-amiază.",
+            "en": "Escape the crowds at Lepenica Lake, a tranquil spot favored by local swimmers in the summer, where you can easily find a quiet shaded area for a peaceful afternoon read."
+          }
+        },
+        {
+          "name": {
+            "de": "Potkoš",
+            "hu": "Potkoš",
+            "ro": "Potkoš",
+            "en": "Potkoš"
+          },
+          "coords": [
+            14.733208,
+            45.301646
+          ],
+          "category": "natural",
+          "arrive_at": "16:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.02,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unberührte Schönheit von Potkoš, einem abgelegenen Naturgebiet mit reicher Artenvielfalt, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel Potkoš érintetlen szépségét, amely egy biodiverzitásban gazdag, eldugott természeti terület, és viseljen túracipőt a rögös, jelöletlen ösvényekhez.",
+            "ro": "Descoperiți frumusețea imaculată a zonei Potkoš, un loc retras bogat în biodiversitate, și purtați încălțăminte solidă pentru a naviga în siguranță pe potecile sale accidentate.",
+            "en": "Discover the pristine beauty of Potkoš, a secluded natural area rich in biodiversity, and wear sturdy walking shoes to safely navigate its rugged, unmarked paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Zentrum von Lokve im charmanten Froschmuseum. Eine kurze Fahrt bringt Sie dann zur Höhle Lokvarka für eine beeindruckende unterirdische Erkundung der Stalaktiten.\n\nMittags fahren Sie in den spektakulären Waldpark Golubinjak, wo riesige Nadelbäume eine grüne Kathedrale bilden. Die Zugänglichkeit macht es leicht, einen malerischen Waldspaziergang zu genießen.\n\nDer Nachmittag ist dem weiten Lokvarsko-See gewidmet, der sich perfekt für einen ruhigen Halt am Ufer. Von dort aus fahren Sie zu den ruhigen Wassern des Lepenica-Sees.\n\nDer Abend endet mit einer Fahrt in das unberührte Gebiet von Potkoš. Umgeben von Natur können Sie den Tag Revue passieren lassen, während die Dämmerung über die ruhige Landschaft hereinbricht.",
+        "hu": "A reggel Lokve központjában, a Békamúzeumban kezdődik, amely játékos alaphangot ad a napnak. Egy rövid autóút után a Lokvarka-barlangba érkezik egy lenyűgöző föld alatti felfedezésre.\n\nA déli órákban a látványos Golubinjak erdőparkba hajt, ahol a hatalmas tűlevelűek zöld katedrálist alkotnak. A park könnyű megközelíthetősége ideális egy festői erdei sétához.\n\nA délutánt a hatalmas Lokvarsko-tó kék víztükre mellett tölti, amely tökéletes egy békés parti pihenőhöz. Innen egy rövid út vezet a Lepenica-tó csendesebb, kevésbé zsúfolt partjához.\n\nAz este a távoli és érintetlen Potkoš területére vezető festői autózással zárul. A zavartalan természet lágy ölelésében átgondolhatja a nap élményeit, miközben leszáll az alkonyat.",
+        "ro": "Dimineața începe în centrul orașului Lokve, la fermecătorul Muzeu al Broaștelor. Un scurt drum cu mașina vă duce apoi la Peștera Lokvarka pentru o explorare subterană impresionantă.\n\nLa prânz conduceți în spectaculosul Parc Forestier Golubinjak, unde coniferele uriașe creează o catedrală verde. Accesibilitatea parcului face ușoară o scurtă plimbare prin pădure.\n\nDupă-amiaza este dedicată vastului Lac Lokvarsko, o întindere albastră perfectă pentru o oprire pe țărm. De acolo, un scurt drum vă aduce la apele liniștite ale Lacului Lepenica.\n\nSeara se încheie cu o plimbare pitorească spre zona izolată și curată Potkoš. Înconjurat de natură, puteți reflecta la călătoria zilei în timp ce crepusculul se lasă peste peisaj.",
+        "en": "Morning begins in Lokve's center at the charming Frog Museum, setting a playful tone for the day. A very short drive then takes you to Lokvarka Cave for an impressive underground exploration.\n\nMidday sees you driving into the spectacular Golubinjak Forest Park, where towering conifers create a cathedral of green. The park's accessibility makes it easy to step out and enjoy a scenic forest walk.\n\nAfternoon is dedicated to the vast Lokvarsko Lake, a brilliant blue expanse perfect for a peaceful shoreline stop. From there, a short drive brings you to the tranquil, less crowded waters of Lepenica Lake.\n\nEvening concludes with a scenic cruise to the remote and pristine area of Potkoš. Surrounded by unspoiled nature, you can reflect on the day's journey as the twilight settles over the tranquil landscape."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "city-tomar",
+  "anchor": {
+    "name": "Tomar",
+    "coords": [
+      -8.4114,
+      39.6032
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Forum romano de Tomar",
+            "de": "Forum romano de Tomar",
+            "hu": "Forum romano de Tomar",
+            "ro": "Forum romano de Tomar"
+          },
+          "coords": [
+            -8.40812,
+            39.603201
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Discover the ancient foundations of Tomar at these Roman forum ruins, and remember to wear comfortable shoes for exploring the uneven archaeological grounds.",
+            "de": "Entdecken Sie die antiken Fundamente von Tomar an diesen Ruinen des römischen Forums und denken Sie an bequeme Schuhe für das unebene archäologische Gelände.",
+            "hu": "Fedezze fel Tomar ősi alapjait a római fórum ezen romjainál, és ne felejtsen el kényelmes cipőt viselni az egyenetlen régészeti terület bejárásához.",
+            "ro": "Descoperiți fundațiile antice ale orașului Tomar la aceste ruine ale forumului roman și nu uitați să purtați încălțăminte comodă pe terenul arheologic accidentat."
+          }
+        },
+        {
+          "name": {
+            "en": "Museu Luso-Hebraico Abraham Zacut",
+            "de": "Museu Luso-Hebraico Abraham Zacut",
+            "hu": "Museu Luso-Hebraico Abraham Zacut",
+            "ro": "Museu Luso-Hebraico Abraham Zacut"
+          },
+          "coords": [
+            -8.413802,
+            39.603228
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Explore the rich history of Tomar's Jewish community inside this remarkably preserved 15th-century synagogue, taking time to admire the acoustic clay jugs.",
+            "de": "Erkunden Sie die reiche Geschichte der jüdischen Gemeinde Tomars in dieser erhaltenen Synagoge aus dem 15. Jahrhundert und bewundern Sie die akustischen Tonkrüge.",
+            "hu": "Fedezze fel a tomari zsidó közösség gazdag történetét ebben a figyelemre méltóan megőrzött 15. századi zsinagógában, és csodálja meg az akusztikus agyagkorsókat.",
+            "ro": "Explorați istoria bogată a comunității evreiești din Tomar în această sinagogă remarcabil de bine conservată, făcându-vă timp să admirați ulcioarele acustice."
+          }
+        },
+        {
+          "name": {
+            "en": "Museu Municipal - Nucleo de Arte Contemporanea",
+            "de": "Museu Municipal - Nucleo de Arte Contemporanea",
+            "hu": "Museu Municipal - Nucleo de Arte Contemporanea",
+            "ro": "Museu Municipal - Nucleo de Arte Contemporanea"
+          },
+          "coords": [
+            -8.413727,
+            39.60473
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Enjoy a diverse collection of Portuguese contemporary art in this bright gallery space, and look out for the fascinating temporary exhibitions on the upper floor.",
+            "de": "Genießen Sie eine vielfältige Sammlung portugiesischer Gegenwartskunst in dieser hellen Galerie und achten Sie auf die faszinierenden Wechselausstellungen oben.",
+            "hu": "Élvezze a portugál kortárs művészet sokszínű gyűjteményét ebben a világos galériatérben, és figyeljen a felső emeleten található lenyűgöző időszaki kiállításokra.",
+            "ro": "Bucurați-vă de o colecție diversă de artă contemporană portugheză în această galerie luminoasă și căutați expozițiile temporare fascinante de la etajul superior."
+          }
+        },
+        {
+          "name": {
+            "en": "Castelo de Tomar",
+            "de": "Castelo de Tomar",
+            "hu": "Castelo de Tomar",
+            "ro": "Castelo de Tomar"
+          },
+          "coords": [
+            -8.417553,
+            39.602946
+          ],
+          "category": "castle",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Wander along the imposing walls of this former Templar stronghold for panoramic city views, ideally arriving early in the afternoon to avoid the largest crowds.",
+            "de": "Wandern Sie entlang der imposanten Mauern dieser einstigen Templerfestung für einen Panoramablick auf die Stadt, idealerweise am frühen Nachmittag ohne Menschenmassen.",
+            "hu": "Sétáljon végig ennek az egykori templomos erődnek az impozáns falain a panorámás városi kilátásért, ideális esetben kora délután érkezve, hogy elkerülje a tömeget.",
+            "ro": "Plimbați-vă de-a lungul zidurilor impunătoare ale acestei foste fortărețe templiere pentru vederi panoramice, ajungând ideal la începutul după-amiezii."
+          }
+        },
+        {
+          "name": {
+            "en": "Convent of Christ",
+            "de": "Convent of Christ",
+            "hu": "Convent of Christ",
+            "ro": "Convent of Christ"
+          },
+          "coords": [
+            -8.419404,
+            39.603673
+          ],
+          "category": "religious",
+          "arrive_at": "15:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Marvel at the magnificent Manueline window and intricate cloisters of this UNESCO World Heritage site, dedicating at least an hour to fully appreciate the details.",
+            "de": "Bestaunen Sie das prächtige manuelinische Fenster und die Kreuzgänge dieses UNESCO-Weltkulturerbes und nehmen Sie sich mindestens eine Stunde Zeit für die Details.",
+            "hu": "Csodálja meg ennek az UNESCO világörökségi helyszínnek a csodálatos Mánuel-stílusú ablakát és kerengőit, legalább egy órát szánva a részletek teljes befogadására.",
+            "ro": "Admirați superba fereastră manuelină și claustrele acestui sit al Patrimoniului Mondial UNESCO, alocând cel puțin o oră pentru a aprecia pe deplin detaliile."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning begins by unearthing Tomar's ancient roots at the Roman forum, setting a profound tone for the day. Midday transitions to Jewish heritage at the renowned Abraham Zacut Synagogue and modern Portuguese art. Afternoon involves a steady climb to explore the majestic Templar Castle. Evening is reserved for the Convent of Christ's stunning Manueline architecture.",
+        "de": "Der Morgen beginnt mit der Entdeckung der antiken Wurzeln Tomars auf dem römischen Forum. Am Mittag stehen das jüdische Erbe in der Abraham-Zacut-Synagoge und moderne Kunst im Fokus. Der Nachmittag bringt einen stetigen Aufstieg zur majestätischen Templerburg. Der Abend ist der atemberaubenden manuelinischen Architektur des Christusklosters vorbehalten.",
+        "hu": "A reggel Tomar ókori gyökereinek feltárásával kezdődik a római fórumnál, megadva a nap alaphangját. A dél a zsidó örökség és a modern portugál művészet jegyében telik. A délután egy folyamatos emelkedőt tartogat a fenséges templomos kastély felfedezésére. Az este a Krisztus-rendi kolostor lenyűgöző Mánuel-stílusú építészetéé.",
+        "ro": "Dimineața începe cu descoperirea rădăcinilor antice ale orașului Tomar la forumul roman. La prânz, treceți la moștenirea evreiască de la Sinagoga Abraham Zacut și la arta modernă portugheză. După-amiaza implică o urcare constantă pentru a explora maiestuosul Castel Templier. Seara este rezervată arhitecturii manueline uluitoare a Mănăstirii lui Hristos."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Convento de Sao Francisco",
+            "de": "Convento de Sao Francisco",
+            "hu": "Convento de Sao Francisco",
+            "ro": "Convento de Sao Francisco"
+          },
+          "coords": [
+            -8.414329,
+            39.599865
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start your cycling day at this peaceful convent known for its elegant architecture, and park your bike securely near the main entrance before exploring the nave.",
+            "de": "Beginnen Sie Ihren Radtag in diesem friedlichen Kloster, das für seine elegante Architektur bekannt ist, und parken Sie Ihr Fahrrad sicher in der Nähe des Haupteingangs.",
+            "hu": "Kezdje a kerékpáros napot ennél a békés, elegáns építészetéről ismert kolostornál, és parkolja le kerékpárját biztonságosan a főbejárat közelében a hajó felfedezése előtt.",
+            "ro": "Începeți ziua de ciclism la acest mănăstire pașnică, cunoscută pentru arhitectura sa elegantă, și parcați bicicleta în siguranță lângă intrarea principală."
+          }
+        },
+        {
+          "name": {
+            "en": "Museu Luso-Hebraico Abraham Zacut",
+            "de": "Museu Luso-Hebraico Abraham Zacut",
+            "hu": "Museu Luso-Hebraico Abraham Zacut",
+            "ro": "Museu Luso-Hebraico Abraham Zacut"
+          },
+          "coords": [
+            -8.413802,
+            39.603228
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Step inside this historic synagogue to uncover fascinating Jewish heritage, and ask the museum staff for insights on the symbolic artifacts displayed in the center.",
+            "de": "Treten Sie in diese historische Synagoge ein, um faszinierendes jüdisches Erbe zu entdecken, und fragen Sie das Personal nach den symbolischen Artefakten in der Mitte.",
+            "hu": "Lépjen be ebbe a történelmi zsinagógába, hogy felfedezze a lenyűgöző zsidó örökséget, és kérdezze a személyzetet a középen kiállított szimbolikus tárgyakról.",
+            "ro": "Pășiți în această sinagogă istorică pentru a descoperi moștenirea evreiască fascinantă și cereți personalului detalii despre artefactele simbolice expuse."
+          }
+        },
+        {
+          "name": {
+            "en": "Castelo de Tomar",
+            "de": "Castelo de Tomar",
+            "hu": "Castelo de Tomar",
+            "ro": "Castelo de Tomar"
+          },
+          "coords": [
+            -8.417553,
+            39.602946
+          ],
+          "category": "castle",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Ride up to the grand Templar castle to witness centuries of military history, taking care on the slightly steep cobblestone approach leading to the main gates.",
+            "de": "Fahren Sie zur großen Templerburg hinauf, um jahrhundertelange Militärgeschichte zu erleben, und achten Sie auf die leicht steile Kopfsteinpflasterzufahrt zum Tor.",
+            "hu": "Tekerjen fel a lenyűgöző templomos kastélyhoz, hogy tanúja legyen a több évszázados hadtörténetnek, vigyázva a főkapuhoz vezető, kissé meredek macskaköves feljárón.",
+            "ro": "Urcați cu bicicleta până la marele castel templier pentru a fi martori la secole de istorie militară, având grijă la drumul pietruit ușor abrupt spre porți."
+          }
+        },
+        {
+          "name": {
+            "en": "Convent of Christ",
+            "de": "Convent of Christ",
+            "hu": "Convent of Christ",
+            "ro": "Convent of Christ"
+          },
+          "coords": [
+            -8.419404,
+            39.603673
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Discover the exquisite Renaissance cloisters adjacent to the castle grounds, keeping your camera ready to capture the breathtaking interplay of light and shadow.",
+            "de": "Entdecken Sie die exquisiten Renaissance-Kreuzgänge neben dem Schlossgelände und halten Sie Ihre Kamera bereit, um das atemberaubende Lichtspiel einzufangen.",
+            "hu": "Fedezze fel a kastély területével szomszédos, gyönyörű reneszánsz kerengőket, készenlétben tartva fényképezőgépét a fény és árnyék lélegzetelállító játékának megörökítésére.",
+            "ro": "Descoperiți claustrele renascentiste rafinate adiacente terenurilor castelului, ținând camera pregătită pentru a surprinde jocul uluitor de lumini și umbre."
+          }
+        },
+        {
+          "name": {
+            "en": "Tanque Pequeno Renascentista",
+            "de": "Tanque Pequeno Renascentista",
+            "hu": "Tanque Pequeno Renascentista",
+            "ro": "Tanque Pequeno Renascentista"
+          },
+          "coords": [
+            -8.418371,
+            39.601539
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Relax by this small, elegantly carved Renaissance water tank surrounded by nature, enjoying a brief moment of tranquility while refilling your water bottle.",
+            "de": "Entspannen Sie sich an diesem kleinen, elegant geschnitzten Renaissance-Wassertank inmitten der Natur und genießen Sie einen Moment der Ruhe, während Sie Ihre Flasche auffüllen.",
+            "hu": "Pihenjen meg ennél a természettel körülvett, elegánsan faragott kis reneszánsz víztartálynál, élvezve a nyugalom rövid pillanatát, miközben újratölti vizespalackját.",
+            "ro": "Relaxați-vă lângă acest mic rezervor de apă renascentist sculptat elegant, înconjurat de natură, bucurându-vă de un moment de liniște în timp ce vă umpleți sticla."
+          }
+        },
+        {
+          "name": {
+            "en": "Tanque Grande Renascentista",
+            "de": "Tanque Grande Renascentista",
+            "hu": "Tanque Grande Renascentista",
+            "ro": "Tanque Grande Renascentista"
+          },
+          "coords": [
+            -8.419396,
+            39.601736
+          ],
+          "category": "natural",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Conclude your ride at the larger Renaissance tank historically used by monks, a perfect spot to rest your legs and soak in the serene, leafy atmosphere.",
+            "de": "Beenden Sie Ihre Fahrt am größeren Renaissance-Tank, der einst von Mönchen genutzt wurde, ein perfekter Ort, um Ihre Beine auszuruhen und die Atmosphäre zu genießen.",
+            "hu": "Fejezze be utazását a nagyobb, történelmileg szerzetesek által használt reneszánsz tartálynál, amely tökéletes hely a lábak pihentetésére és a békés hangulat befogadására.",
+            "ro": "Încheiați-vă plimbarea la rezervorul renascentist mai mare, folosit istoric de călugări, un loc perfect pentru a vă odihni picioarele și a absorbi atmosfera senină."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your cycling route feeling the serene morning ambiance at the Convent of Sao Francisco. Midday takes you through the city center's Jewish history and up the winding roads to the imposing Castle of Tomar. In the afternoon, marvel at the exquisite details of the Convent of Christ. Evening invites a peaceful ride to the historic Renaissance water tanks.",
+        "de": "Beginnen Sie Ihre Radroute mit der ruhigen Morgenatmosphäre am Kloster Sao Francisco. Der Mittag führt Sie durch die jüdische Geschichte ins Zentrum und hinauf zur Burg von Tomar. Am Nachmittag können Sie die exquisiten Details des Christusklosters bestaunen. Der Abend lädt zu einer friedlichen Fahrt zu den historischen Renaissance-Wassertanks ein.",
+        "hu": "Kezdje kerékpáros útvonalát a Sao Francisco kolostor nyugodt reggeli hangulatával. A dél a belváros zsidó történelmén és a kanyargós utakon át a lenyűgöző tomari kastélyhoz vezet. Délután csodálja meg a Krisztus-rendi kolostor gyönyörű részleteit. Az este egy békés utazásra hív a történelmi reneszánsz víztartályokhoz.",
+        "ro": "Începeți traseul de ciclism simțind ambianța senină a dimineții la Mănăstirea Sao Francisco. Prânzul vă poartă prin istoria evreiască și pe drumurile șerpuite spre impunătorul Castel din Tomar. După-amiaza, admirați detaliile rafinate ale Mănăstirii lui Hristos. Seara vă invită la o plimbare pașnică spre bazinele de apă renascentiste."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 12.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Parque Estrada do Barreiro",
+            "de": "Parque Estrada do Barreiro",
+            "hu": "Parque Estrada do Barreiro",
+            "ro": "Parque Estrada do Barreiro"
+          },
+          "coords": [
+            -8.400615,
+            39.607337
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Begin your road trip at this spacious park offering plenty of greenery and easy parking, an excellent location for a morning stroll before the day gets too warm.",
+            "de": "Beginnen Sie Ihren Roadtrip in diesem weitläufigen Park mit viel Grün und guten Parkmöglichkeiten, einem hervorragenden Ort für einen morgendlichen Spaziergang.",
+            "hu": "Kezdje autós utazását ebben a tágas, sok zöldet és könnyű parkolást kínáló parkban, amely kiváló hely egy reggeli sétához, mielőtt a nap túl meleg lenne.",
+            "ro": "Începeți excursia cu mașina în acest parc spațios care oferă multă verdeață și parcare ușoară, o locație excelentă pentru o plimbare matinală înainte să se încălzească."
+          }
+        },
+        {
+          "name": {
+            "en": "Quinta da Granja",
+            "de": "Quinta da Granja",
+            "hu": "Quinta da Granja",
+            "ro": "Quinta da Granja"
+          },
+          "coords": [
+            -8.403862,
+            39.628007
+          ],
+          "category": "castle",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "en": "Drive out to this striking historical estate with beautiful rustic architecture, taking time to admire the impressive 16th-century structural elements from the outside.",
+            "de": "Fahren Sie zu diesem markanten historischen Anwesen mit wunderschöner rustikaler Architektur und bewundern Sie die beeindruckenden Strukturelemente aus dem 16. Jahrhundert.",
+            "hu": "Vezessen el ehhez a feltűnő történelmi birtokhoz, amely gyönyörű rusztikus építészettel rendelkezik, és szánjon időt a lenyűgöző 16. századi szerkezeti elemek megcsodálására.",
+            "ro": "Conduceți până la această proprietate istorică impresionantă, cu arhitectură rustică frumoasă, făcându-vă timp să admirați elementele structurale din secolul al XVI-lea."
+          }
+        },
+        {
+          "name": {
+            "en": "Convent of Christ",
+            "de": "Convent of Christ",
+            "hu": "Convent of Christ",
+            "ro": "Convent of Christ"
+          },
+          "coords": [
+            -8.419404,
+            39.603673
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "en": "Visit this iconic templar masterpiece towering over Tomar, and try to park slightly further down the hill if the main lot is full during peak tourist hours.",
+            "de": "Besuchen Sie dieses ikonische Templer-Meisterwerk, das Tomar überragt, und versuchen Sie, etwas weiter den Hügel hinunter zu parken, wenn der Hauptparkplatz voll ist.",
+            "hu": "Látogassa meg ezt a Tomar fölé magasodó ikonikus templomos mesterművet, és próbáljon meg lejjebb parkolni a dombon, ha a fő parkoló tele van a csúcsidőszakban.",
+            "ro": "Vizitați această capodoperă templieră emblematică care domină orașul Tomar și încercați să parcați puțin mai jos pe deal dacă parcarea principală este plină la orele de vârf."
+          }
+        },
+        {
+          "name": {
+            "en": "Tanque da Cadeira d’El-Rei",
+            "de": "Tanque da Cadeira d’El-Rei",
+            "hu": "Tanque da Cadeira d’El-Rei",
+            "ro": "Tanque da Cadeira d’El-Rei"
+          },
+          "coords": [
+            -8.427261,
+            39.603197
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Stop by this fascinating historical stone basin nestled in the landscape, providing a quiet and relatively secluded spot to reflect on the region's rich past.",
+            "de": "Halten Sie an diesem faszinierenden historischen Steinbecken, das in die Landschaft eingebettet ist und einen ruhigen Ort bietet, um über die reiche Vergangenheit nachzudenken.",
+            "hu": "Álljon meg ennél a tájba ágyazott, lenyűgöző történelmi kőmedencénél, amely csendes és viszonylag eldugott helyet biztosít a régió gazdag múltjának elmélkedésére.",
+            "ro": "Opriți-vă la acest bazin istoric fascinant din piatră, cuibărit în peisaj, oferind un loc liniștit și relativ izolat pentru a reflecta asupra trecutului bogat al regiunii."
+          }
+        },
+        {
+          "name": {
+            "en": "Albufeira do Carril",
+            "de": "Albufeira do Carril",
+            "hu": "Albufeira do Carril",
+            "ro": "Albufeira do Carril"
+          },
+          "coords": [
+            -8.355467,
+            39.616875
+          ],
+          "category": "natural",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "en": "End your day at this expansive reservoir where calm waters mirror the sky, an ideal place to stretch your legs along the shore and watch the late afternoon sun.",
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen Stausee, wo das ruhige Wasser den Himmel spiegelt, ein idealer Ort, um sich die Beine zu vertreten und die Nachmittagssonne zu beobachten.",
+            "hu": "Fejezze be a napot ennél a hatalmas víztározónál, ahol a nyugodt vizek tükrözik az eget, ideális hely a parton való sétálásra és a késő délutáni napsütés megtekintésére.",
+            "ro": "Încheiați ziua la acest lac de acumulare întins, unde apele calme oglindesc cerul, un loc ideal pentru a vă întinde picioarele pe țărm și a privi soarele după-amiezii."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning starts easily with a refreshing stroll around the broad paths of Parque Estrada do Barreiro. Midday drives you into the scenic outskirts to admire the rustic beauty of Quinta da Granja. Afternoon is devoted to navigating towards the spectacular hilltop Convent of Christ. Evening offers a scenic drive out to the tranquil shores of Albufeira do Carril.",
+        "de": "Der Morgen beginnt entspannt mit einem erfrischenden Spaziergang auf den breiten Wegen des Parque Estrada do Barreiro. Am Mittag fahren Sie in die malerischen Außenbezirke, um die Quinta da Granja zu bewundern. Der Nachmittag ist dem spektakulären Christuskloster gewidmet. Der Abend bietet eine malerische Fahrt zu den Ufern der Albufeira do Carril.",
+        "hu": "A reggel könnyedén indul egy frissítő sétával a Parque Estrada do Barreiro széles ösvényein. Délben a festői külvárosba hajt, hogy megcsodálja a Quinta da Granja rusztikus szépségét. A délutánt a dombtetőn álló látványos Krisztus-rendi kolostorhoz vezető út teszi ki. Az este egy festői utazást kínál az Albufeira do Carril nyugodt partjaihoz.",
+        "ro": "Dimineața începe ușor cu o plimbare revigorantă pe aleile largi din Parque Estrada do Barreiro. La prânz, conduceți spre periferia pitorească pentru a admira frumusețea rustică a Quintei da Granja. După-amiaza este dedicată spectaculoasei Mănăstiri a lui Hristos. Seara oferă o plimbare pitorească cu mașina spre malurile liniștite ale Albufeira do Carril."
+      }
+    }
+  }
+}

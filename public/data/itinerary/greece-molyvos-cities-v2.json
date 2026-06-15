@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-molyvos-cities-v2",
+  "anchor": {
+    "name": "Molyvos",
+    "coords": [
+      26.17373,
+      39.36851
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lesbische Kanone",
+            "hu": "Leszboszi ágyú",
+            "ro": "Tunul din Lesbos",
+            "en": "Lesbian canon"
+          },
+          "coords": [
+            26.171289,
+            39.368929
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Artilleriestück aus der maritimen Vergangenheit der Insel und besuchen Sie es früh, um der starken Sommerhitze zu entgehen.",
+            "hu": "Csodálja meg a sziget tengeri múltját tükröző történelmi tüzérségi emléket, és látogasson el ide kora reggel, hogy elkerülje az erős nyári hőséget.",
+            "ro": "Admirați această piesă istorică de artilerie ce reflectă trecutul maritim al insulei și vizitați-o dimineața devreme pentru a evita căldura de vară.",
+            "en": "Admire this historical artillery piece reflecting the island's maritime past, and visit early in the morning to beat the harsh Mediterranean summer heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Demarkheio",
+            "hu": "Demarkheio",
+            "ro": "Demarkheio",
+            "en": "Demarkheio"
+          },
+          "coords": [
+            26.173388,
+            39.368784
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur des historischen Rathauses und werfen Sie einen Blick auf die Anschlagtafeln für anstehende lokale Veranstaltungen.",
+            "hu": "Fedezze fel a helyi közigazgatást szolgáló történelmi városháza elegáns építészetét, és nézze meg a hirdetőtáblákon a közelgő helyi eseményeket.",
+            "ro": "Descoperiți arhitectura elegantă a primăriei istorice ce deservește administrația locală și verificați avizierele pentru evenimentele locale viitoare.",
+            "en": "Discover the elegant architecture of the historic town hall serving local administration, and check the notice boards for upcoming authentic local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanisches Bademuseum",
+            "hu": "Oszmán Fürdőmúzeum",
+            "ro": "Muzeul Băilor Otomane",
+            "en": "Ottoman Bath Museum"
+          },
+          "coords": [
+            26.174894,
+            39.367898
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der türkischen Bäder mit komplexen Heizsystemen, aber bringen Sie ein Weitwinkelobjektiv für die Decken mit.",
+            "hu": "Fedezze fel a bonyolult fűtési rendszerekkel rendelkező hagyományos törökfürdők maradványait, de ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Explorați rămășițele fascinante ale băilor turcești tradiționale cu sisteme de încălzire complexe, dar nu uitați să aduceți un obiectiv cu unghi larg.",
+            "en": "Explore the fascinating remains of the traditional Turkish baths with intricate heating systems, but remember to bring a wide-angle lens for the ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Mithymna",
+            "hu": "Mithymna vára",
+            "ro": "Castelul din Mithymna",
+            "en": "Castle of Mithymna"
+          },
+          "coords": [
+            26.177439,
+            39.368301
+          ],
+          "category": "castle",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser byzantinischen Festung mit herrlichem Blick auf die Ägäis hinauf und tragen Sie festes Schuhwerk für die unebenen Kopfsteinpflaster.",
+            "hu": "Másszon fel ehhez a lenyűgöző bizánci erődhöz, amely csodálatos kilátást nyújt az Égei-tengerre, és viseljen masszív cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață bizantină impresionantă ce oferă priveliști uimitoare la Marea Egee și purtați încălțăminte rezistentă pe drumurile pietruite.",
+            "en": "Climb to this impressive Byzantine fortress offering stunning Aegean Sea views, and wear sturdy walking shoes because the ancient cobbled paths are uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Molivos",
+            "hu": "Molivos",
+            "ro": "Molivos",
+            "en": "Molivos"
+          },
+          "coords": [
+            26.17479,
+            39.362145
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Küstenbereich, wo bunte Boote im Wasser schaukeln, und genießen Sie ein kaltes Getränk in einem Café bei lebhafter Atmosphäre.",
+            "hu": "Pihenjen ezen a bájos partszakaszon, ahol színes csónakok ringatóznak a vízen, és igyon egy hideg italt egy kávézóban az élénk hangulat élvezetéhez.",
+            "ro": "Relaxați-vă în această zonă de coastă fermecătoare, unde bărcile colorate se leagănă pe apă, și savurați o băutură rece la o cafenea cu atmosferă plină de viață.",
+            "en": "Relax in this charming coastal area where colorful traditional boats bob in the water, and grab a cold drink at a café to enjoy the lively atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein morgendlicher Spaziergang durch Molyvos offenbart seine historischen Wurzeln, beginnend mit der Küstenverteidigung. Mittags entdecken Sie das faszinierende osmanische Erbe der Stadt. Der Nachmittag ist der Erkundung der majestätischen Burg auf dem Hügel gewidmet. Der Abend klingt schließlich am lebhaften Hafen aus, ideal zum Entspannen nach einem Tag voller Entdeckungen.",
+        "hu": "Egy reggeli séta Molyvosban feltárja a mély történelmi gyökereket, kezdve a partvédelemmel és a közigazgatás épületeivel. Délben a lenyűgöző oszmán örökséget fedezhetjük fel. A délután a hegyen álló fenséges várkastély felfedezésének van szentelve. Végül az este a nyüzsgő kikötőben ér véget, amely tökéletes hely a pihenésre a felfedezésekkel teli nap után.",
+        "ro": "O plimbare matinală prin Molyvos dezvăluie rădăcinile sale istorice, începând cu apărarea de coastă. La prânz, veți descoperi fascinanta moștenire otomană a orașului. După-amiaza este dedicată explorării maiestuosului castel așezat pe deal. În cele din urmă, seara se încheie la portul plin de viață, perfect pentru a vă relaxa după o zi plină de descoperiri uimitoare.",
+        "en": "A morning stroll through Molyvos reveals its deep historical roots, starting with coastal defenses and administrative elegance. Midday brings you to the fascinating Ottoman heritage. The afternoon is dedicated to exploring the majestic castle perched on the hill. Finally, the evening settles down at the vibrant harbor, perfect for relaxing after a day of discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Mithymna",
+            "hu": "Mithymna vára",
+            "ro": "Castelul din Mithymna",
+            "en": "Castle of Mithymna"
+          },
+          "coords": [
+            26.177439,
+            39.368301
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser byzantinischen Festung mit herrlichem Blick auf die Ägäis hinauf und tragen Sie festes Schuhwerk für die unebenen Kopfsteinpflaster.",
+            "hu": "Másszon fel ehhez a lenyűgöző bizánci erődhöz, amely csodálatos kilátást nyújt az Égei-tengerre, és viseljen masszív cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață bizantină impresionantă ce oferă priveliști uimitoare la Marea Egee și purtați încălțăminte rezistentă pe drumurile pietruite.",
+            "en": "Climb to this impressive Byzantine fortress offering stunning Aegean Sea views, and wear sturdy walking shoes because the ancient cobbled paths are uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanisches Bademuseum",
+            "hu": "Oszmán Fürdőmúzeum",
+            "ro": "Muzeul Băilor Otomane",
+            "en": "Ottoman Bath Museum"
+          },
+          "coords": [
+            26.174894,
+            39.367898
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste der türkischen Bäder mit komplexen Heizsystemen, aber bringen Sie ein Weitwinkelobjektiv für die Decken mit.",
+            "hu": "Fedezze fel a bonyolult fűtési rendszerekkel rendelkező hagyományos törökfürdők maradványait, de ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Explorați rămășițele fascinante ale băilor turcești tradiționale cu sisteme de încălzire complexe, dar nu uitați să aduceți un obiectiv cu unghi larg.",
+            "en": "Explore the fascinating remains of the traditional Turkish baths with intricate heating systems, but remember to bring a wide-angle lens for the ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Demarkheio",
+            "hu": "Demarkheio",
+            "ro": "Demarkheio",
+            "en": "Demarkheio"
+          },
+          "coords": [
+            26.173388,
+            39.368784
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur des historischen Rathauses und werfen Sie einen Blick auf die Anschlagtafeln für anstehende lokale Veranstaltungen.",
+            "hu": "Fedezze fel a helyi közigazgatást szolgáló történelmi városháza elegáns építészetét, és nézze meg a hirdetőtáblákon a közelgő helyi eseményeket.",
+            "ro": "Descoperiți arhitectura elegantă a primăriei istorice ce deservește administrația locală și verificați avizierele pentru evenimentele locale viitoare.",
+            "en": "Discover the elegant architecture of the historic town hall serving local administration, and check the notice boards for upcoming authentic local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Molivos",
+            "hu": "Molivos",
+            "ro": "Molivos",
+            "en": "Molivos"
+          },
+          "coords": [
+            26.17479,
+            39.362145
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Küstenbereich, wo bunte Boote im Wasser schaukeln, und genießen Sie ein kaltes Getränk in einem Café bei lebhafter Atmosphäre.",
+            "hu": "Pihenjen ezen a bájos partszakaszon, ahol színes csónakok ringatóznak a vízen, és igyon egy hideg italt egy kávézóban az élénk hangulat élvezetéhez.",
+            "ro": "Relaxați-vă în această zonă de coastă fermecătoare, unde bărcile colorate se leagănă pe apă, și savurați o băutură rece la o cafenea cu atmosferă plină de viață.",
+            "en": "Relax in this charming coastal area where colorful traditional boats bob in the water, and grab a cold drink at a café to enjoy the lively atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick auf Molyvos",
+            "hu": "Panoráma kilátás Molyvosra",
+            "ro": "Vedere panoramică spre Molyvos",
+            "en": "Panoramic view to Molyvos"
+          },
+          "coords": [
+            26.173841,
+            39.351713
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf traditionelle Steinhäuser, die zum Meer hinabfallen, und sichern Sie Ihre Kamera vor dem Aussichtspunkt.",
+            "hu": "Gyönyörködjön a tenger felé ereszkedő hagyományos kőházak lélegzetelállító látványában, és tartsa biztonságban fényképezőgépét a kilátóponthoz sétálva.",
+            "ro": "Admirați priveliștile uimitoare cu case tradiționale din piatră ce coboară spre mare și asigurați-vă camera foto înainte de a ajunge la punctul de belvedere.",
+            "en": "Take in the breathtaking vistas of traditional stone houses cascading down to the sea, and secure your camera well before walking to the vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Naturista strand",
+            "ro": "Plajă pentru naturiști",
+            "en": "Naturist beach"
+          },
+          "coords": [
+            26.173489,
+            39.35358
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem wunderschönen, für FKK-Anhänger idealen Küstenort, aber vergessen Sie nicht ausreichend Wasser und Sonnenschutz.",
+            "hu": "Élvezze a félreeső, békés hangulatot ezen a naturisták számára ideális tengerparti helyen, de ne felejtsen el sok vizet és napvédő felszerelést pakolni.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest loc de coastă superb, ideal pentru naturiști, dar nu uitați să luați suficientă apă și protecție solară.",
+            "en": "Enjoy the secluded, peaceful atmosphere at this beautiful coastal spot ideal for naturists, but don't forget to pack plenty of water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit dem Aufstieg zur legendären Festung, bevor Sie zu den osmanischen Bädern hinunterrollen. Die Mittagssonne scheint auf das historische Rathaus und das Hafengebiet. Am Nachmittag radeln Sie nach Süden, um atemberaubende Ausblicke auf die Siedlung zu genießen. Ihr Tag klingt friedlich an den ruhigen südlichen Stränden abseits der Massen aus.",
+        "hu": "Kezdje a kerékpáros napot az ikonikus erődítményhez való feltekeréssel, majd guruljon le az oszmán fürdőkhöz. A déli napsütés a történelmi városházát és az alsó kikötőt világítja meg. Délután dél felé pedálozva lélegzetelállító panorámában gyönyörködhet az egész településről. A nap a békés déli partokon, a zajos tömegektől távol fejeződik be kellemesen.",
+        "ro": "Începeți ziua de ciclism urcând la fortăreața iconică înainte de a coborî spre Băile Otomane. Soarele de la amiază luminează primăria istorică și zona pitorească a portului. După-amiaza, pedalați spre sud pentru a admira priveliști panoramice uimitoare ale întregii așezări. Ziua dumneavoastră se încheie liniștit pe țărmurile sudice pașnice, departe de mulțimile aglomerate.",
+        "en": "Start your cycling day climbing to the iconic fortress before coasting down to the Ottoman Baths. The midday sun shines on the historic town hall and the scenic lower harbor area. In the afternoon, you pedal south to catch breathtaking sweeping views of the entire settlement. Your day winds down beautifully on the peaceful southern shores, far from the busy crowds."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:25",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Leuchtturm",
+            "hu": "Világítótorony",
+            "ro": "Far",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            26.184198,
+            39.378908
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an dieser ikonischen maritimen Struktur, die Seeleute seit Generationen leitet, und parken Sie vorsichtig an der schmalen Zufahrtsstraße.",
+            "hu": "Kezdje a napot ennél a tengerészeket generációk óta vezető ikonikus építménynél, és parkoljon óvatosan a keskeny bekötőúton a fotózás előtt.",
+            "ro": "Începeți ziua la această structură maritimă iconică ce ghidează marinarii de generații și parcați cu grijă pe drumul îngust de acces înainte de a face poze.",
+            "en": "Start your day at this iconic maritime structure guiding sailors for generations, and park carefully along the narrow unpaved approach road before snapping photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Limantzki",
+            "hu": "Limantzki",
+            "ro": "Limantzki",
+            "en": "Limantzki"
+          },
+          "coords": [
+            26.187039,
+            39.378531
+          ],
+          "category": "recreational",
+          "arrive_at": "09:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Erholungsgebiet, ideal für eine Pause am Meer, und bringen Sie Snacks mit, da die Einrichtungen hier sehr begrenzt sind.",
+            "hu": "Kapcsolódjon ki ezen a festői kis pihenőhelyen, amely tökéletes egy tengerparti szünethez, és hozzon némi rágcsálnivalót, mivel a helyi szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă în această mică zonă de recreere pitorească perfectă pentru o pauză scurtă și aduceți gustări, deoarece facilitățile locale sunt destul de limitate.",
+            "en": "Unwind at this small, picturesque recreational area perfect for a quick seaside break, and bring some snacks since local facilities are quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsipouria",
+            "hu": "Tsipouria",
+            "ro": "Tsipouria",
+            "en": "Tsipouria"
+          },
+          "coords": [
+            26.193141,
+            39.375009
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische lokale Flair an diesem für sein klares Wasser bekannten Rückzugsort und kommen Sie vor Mittag, um einen Parkplatz zu sichern.",
+            "hu": "Tapasztalja meg az autentikus helyi hangulatot ezen a tiszta vizéről ismert tengerparti menedéken, és érkezzen dél előtt a jó parkolóhely biztosításához.",
+            "ro": "Experimentați atmosfera locală autentică la acest refugiu de coastă cunoscut pentru apele sale limpezi și ajungeți înainte de prânz pentru o parcare bună.",
+            "en": "Experience the authentic local vibe at this coastal retreat known for its clear waters, and arrive before midday to secure a good parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Mithymna",
+            "hu": "Mithymna vára",
+            "ro": "Castelul din Mithymna",
+            "en": "Castle of Mithymna"
+          },
+          "coords": [
+            26.177439,
+            39.368301
+          ],
+          "category": "castle",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser byzantinischen Festung mit herrlichem Blick auf die Ägäis hinauf und tragen Sie festes Schuhwerk für die unebenen Kopfsteinpflaster.",
+            "hu": "Másszon fel ehhez a lenyűgöző bizánci erődhöz, amely csodálatos kilátást nyújt az Égei-tengerre, és viseljen masszív cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață bizantină impresionantă ce oferă priveliști uimitoare la Marea Egee și purtați încălțăminte rezistentă pe drumurile pietruite.",
+            "en": "Climb to this impressive Byzantine fortress offering stunning Aegean Sea views, and wear sturdy walking shoes because the ancient cobbled paths are uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramablick auf Molyvos",
+            "hu": "Panoráma kilátás Molyvosra",
+            "ro": "Vedere panoramică spre Molyvos",
+            "en": "Panoramic view to Molyvos"
+          },
+          "coords": [
+            26.173841,
+            39.351713
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf traditionelle Steinhäuser, die zum Meer hinabfallen, und sichern Sie Ihre Kamera vor dem Aussichtspunkt.",
+            "hu": "Gyönyörködjön a tenger felé ereszkedő hagyományos kőházak lélegzetelállító látványában, és tartsa biztonságban fényképezőgépét a kilátóponthoz sétálva.",
+            "ro": "Admirați priveliștile uimitoare cu case tradiționale din piatră ce coboară spre mare și asigurați-vă camera foto înainte de a ajunge la punctul de belvedere.",
+            "en": "Take in the breathtaking vistas of traditional stone houses cascading down to the sea, and secure your camera well before walking to the vantage point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt um Molyvos beginnt am nördlichen Leuchtturm und führt zu ruhigen Rückzugsorten am Meer. Bis zum Mittag erreichen Sie bezaubernde Küstenorte für eine kurze Pause. Am Nachmittag verlagert sich der Fokus auf die große Festung, die die Stadt überragt. Die Reise endet an einem phänomenalen südlichen Aussichtspunkt und bietet ein unvergessliches Sonnenuntergangspanorama.",
+        "hu": "A Molyvos körüli autózás az északi világítótoronynál kezdődik, csendes tengerparti menedékekhez vezetve. Délre bájos parti helyeket ér el, amelyek tökéletesek egy rövid pihenőre. Délután a hangsúly a várost uraló hatalmas erődítményre helyeződik át. Az utazás egy fantasztikus déli kilátónál ér véget, amely felejthetetlen naplementés panorámát kínál a látogatóknak.",
+        "ro": "Călătoria cu mașina în jurul Molyvosului începe la farul nordic, îndrumându-vă spre refugii liniștite pe litoral. Până la prânz, ajungeți în locuri de coastă fermecătoare. După-amiaza, atenția se mută pe marea fortăreață care domină orașul de pe cel mai înalt vârf al său. Călătoria se încheie la un punct de belvedere sudic fenomenal, oferind o panoramă de neuitat.",
+        "en": "Driving around the edges of Molyvos begins at the northern lighthouse, guiding you to quiet seaside retreats. By midday, you'll reach charming coastal spots perfect for a short break. The afternoon shifts focus to the grand fortress overlooking the town from its highest peak. The journey concludes at a phenomenal southern viewpoint, offering an unforgettable sunset panorama."
+      }
+    }
+  }
+}

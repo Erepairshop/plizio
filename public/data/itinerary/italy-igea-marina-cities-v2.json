@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-igea-marina-cities-v2",
+  "anchor": {
+    "name": "Igea Marina",
+    "coords": [
+      12.48181,
+      44.13328
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Solaria Beach 80 bis 86",
+            "hu": "Solaria Beach 80-86",
+            "ro": "Solaria Beach 80 la 86",
+            "en": "Solaria Beach 80 to 86"
+          },
+          "coords": [
+            12.486009,
+            44.132021
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgensonne am breiten Sandstrand von Solaria Beach und bringen Sie ein gutes Buch mit, um unter den bequemen Schirmen zu entspannen.",
+            "hu": "Élvezze a reggeli napsütést a Solaria Beach széles homokos partján, és hozzon egy jó könyvet, hogy a bérelhető kényelmes napernyők alatt pihenhessen.",
+            "ro": "Bucurați-vă de soarele dimineții pe plaja lată cu nisip de la Solaria Beach și aduceți o carte bună pentru a vă relaxa sub umbrelele confortabile.",
+            "en": "Enjoy the morning sun on the wide sandy shores of Solaria Beach, and bring a good book to relax under the comfortable umbrellas available for rent."
+          }
+        },
+        {
+          "name": {
+            "de": "Motonave Super Tayfun",
+            "hu": "Motonave Super Tayfun",
+            "ro": "Motonave Super Tayfun",
+            "en": "Motonave Super Tayfun"
+          },
+          "coords": [
+            12.484443,
+            44.134589
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf dieses klassische Motorboot für spannende Küstenausflüge, ideal um direkt eine nachmittägliche Fahrt auf der Adria zu buchen.",
+            "hu": "Vessen egy pillantást erre a klasszikus motorcsónakra, amely izgalmas tengerparti kirándulásokat kínál, és foglaljon egy délutáni utat az Adrián.",
+            "ro": "Aruncați o privire la această barcă cu motor clasică ce oferă excursii de coastă și rezervați o excursie de după-amiază de-a lungul Mării Adriatice.",
+            "en": "Take a quick look at this classic motorboat that offers exciting coastal excursions, perfect for booking an afternoon trip along the Adriatic sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kokobay 74/75",
+            "hu": "Kokobay 74/75",
+            "ro": "Kokobay 74/75",
+            "en": "Kokobay 74/75"
+          },
+          "coords": [
+            12.482349,
+            44.135134
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre im Kokobay, wo Sie sich an der Strandbar einen erfrischenden Cocktail holen und sommerlichen Klängen lauschen können.",
+            "hu": "Tapasztalja meg a Kokobay élénk atmoszféráját, ahol a tengerparti bárban frissítő koktélt kortyolhat, miközben vidám nyári dallamokat hallgat.",
+            "ro": "Experimentați atmosfera plină de viață la Kokobay, unde puteți savura un cocktail răcoros la barul de pe plajă în timp ce ascultați muzică de vară.",
+            "en": "Experience the lively atmosphere at Kokobay, where you can grab a refreshing cocktail from the beach bar while listening to upbeat summer tunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Lido 72",
+            "hu": "Bagno Lido 72",
+            "ro": "Bagno Lido 72",
+            "en": "Bagno Lido 72"
+          },
+          "coords": [
+            12.481366,
+            44.136128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundliche Umgebung des Bagno Lido und lassen Sie die Kinder sicher im flachen Wasser spielen, während Sie einen Espresso trinken.",
+            "hu": "Helyezkedjen el a Bagno Lido családbarát környezetében, és hagyja a gyerekeket biztonságosan játszani a sekély vízben, amíg ön megiszik egy presszókávét.",
+            "ro": "Relaxați-vă în mediul familial de la Bagno Lido, lăsând copiii să se joace în siguranță în apele puțin adânci, în timp ce savurați un espresso.",
+            "en": "Settle into the family-friendly environment of Bagno Lido, and let the kids play safely in the shallow waters while you enjoy a quick espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Renzo 69",
+            "hu": "Bagno Renzo 69",
+            "ro": "Bagno Renzo 69",
+            "en": "Bagno Renzo 69"
+          },
+          "coords": [
+            12.479848,
+            44.137538
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang des gepflegten Sandes im Bagno Renzo und probieren Sie die hervorragenden lokalen Meeresfrüchte-Snacks.",
+            "hu": "Tegyen egy kényelmes sétát a Bagno Renzo gondozott homokján, és kóstolja meg a kiváló, helyben készült tengeri herkentyűket kínáló falatokat.",
+            "ro": "Faceți o plimbare relaxantă pe nisipul bine întreținut de la Bagno Renzo și profitați de excelentele gustări locale cu fructe de mare din apropiere.",
+            "en": "Take a leisurely stroll along the well-kept sands of Bagno Renzo, taking advantage of the excellent local seafood snacks available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            12.47841,
+            44.130624
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit viel Spaß im Luna Park, wo klassische Fahrgeschäfte für Kinder und Erwachsene gleichermaßen für fröhliche Unterhaltung sorgen.",
+            "hu": "Zárja a napot egy kis szórakozással a Luna Parkban, ahol a klasszikus vidámparki játékok örömteli kikapcsolódást nyújtanak gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Încheiați-vă ziua cu multă distracție la Luna Park, unde atracțiile clasice oferă o bucurie imensă atât pentru copii, cât și pentru adulți.",
+            "en": "End your day with a splash of fun at Luna Park, where classic amusement rides provide joyful entertainment for both kids and adults alike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Küste am Solaria Beach, wo die sanfte Morgenbrise und der goldene Sand einen entspannten Ton für den Tag setzen.\n\nSehen Sie das Super Tayfun Boot, bevor Sie das Kokobay besuchen. Genießen Sie dann eine gemütliche Mittagspause in der Nähe des Bagno Lido.\n\nVerbringen Sie einen entspannten Nachmittag im Bagno Renzo und spazieren Sie am Ufer entlang. Lassen Sie sich von der Sonne wärmen und beobachten Sie die Wellen.\n\nBeenden Sie den Rundgang im Luna Park. Die hellen Lichter und fröhlichen Fahrgeschäfte bieten das perfekte, freudige Finale eines angenehmen Tages.",
+        "hu": "Fedezze fel a pezsgő tengerparti sávot a Solaria Beach-től kezdve, ahol a lágy reggeli szellő és az aranyhomok megnyugtató alaphangot ad a napnak.\n\nNézze meg a Super Tayfun hajót, mielőtt a Kokobay felé venné az irányt, majd élvezze a kényelmes ebédszünetet a Bagno Lido közelében.\n\nTöltsön el egy lusta délutánt a Bagno Renzo partján sétálva. Hagyja, hogy a nap felmelegítse, miközben figyeli a part menti hullámokat.\n\nFejezze be a sétát a Luna Parkban. A fényes fények és a vidám játékok tökéletes, örömteli lezárást kínálnak egy kellemes napnak az Adriai-tenger mellett.",
+        "ro": "Explorați banda de coastă vibrantă începând de la Solaria Beach, unde briza blândă și nisipul auriu creează o atmosferă relaxantă pentru zi.\n\nVedeți barca Super Tayfun înainte de a ajunge la Kokobay. Apoi bucurați-vă de o pauză de prânz liniștită lângă Bagno Lido, absorbind atmosfera mării.\n\nPetreceți o după-amiază leneșă la Bagno Renzo, plimbându-vă de-a lungul malului. Lăsați soarele să vă încălzească în timp ce priviți valurile care se sparg.\n\nÎncheiați turul de mers pe jos la Luna Park. Luminile strălucitoare și atracțiile vesele oferă un final perfect și plin de bucurie la Marea Adriatică.",
+        "en": "Explore the vibrant coastal strip starting at Solaria Beach, where the gentle morning breeze and golden sands set a relaxing tone for the day.\n\nSee the Super Tayfun boat before hitting Kokobay. Then enjoy a leisurely lunch break near Bagno Lido, soaking up the unmistakable Italian seaside atmosphere.\n\nSpend a lazy afternoon at Bagno Renzo, walking along the shore. Let the sun warm you as you watch the waves roll in along this pristine coastline.\n\nConclude the walking tour at Luna Park. The bright lights and cheerful rides offer the perfect joyful finale to a pleasant day by the Adriatic Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo delle conchiglie",
+            "hu": "Museo delle conchiglie",
+            "ro": "Museo delle conchiglie",
+            "en": "Museo delle conchiglie"
+          },
+          "coords": [
+            12.465528,
+            44.144595
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die detailreichen Muschelsammlungen in diesem faszinierenden Museum und verpassen Sie nicht die temporären Meeresausstellungen im Erdgeschoss.",
+            "hu": "Csodálja meg a bonyolult kagylógyűjteményeket ebben a lenyűgöző múzeumban, és ne felejtse el megnézni a földszinti időszaki tengeri kiállításokat sem.",
+            "ro": "Admirați colecțiile complexe de scoici marine în acest muzeu fascinant și nu uitați să verificați expozițiile maritime temporare de la parter.",
+            "en": "Marvel at the intricate sea shell collections in this fascinating museum, and don't forget to check the ground floor for temporary marine exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua della pescivendola",
+            "hu": "Statua della pescivendola",
+            "ro": "Statua della pescivendola",
+            "en": "Statua della pescivendola"
+          },
+          "coords": [
+            12.463019,
+            44.143593
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Bronzestatue zu Ehren der lokalen Fischersfrauen, die ein tolles Fotomotiv für die maritimen Wurzeln der Stadt darstellt.",
+            "hu": "Csodálja meg a helyi halárus asszonyoknak emléket állító bájos bronzszobrot, amely nagyszerű fotózási helyszín, és kiemeli a város tengeri gyökereit.",
+            "ro": "Admirați acest omagiu fermecător din bronz adus femeilor pescar, care servește drept un loc excelent de fotografiat și evidențiază istoria maritimă.",
+            "en": "Admire this charming bronze tribute to the local fishwives, which stands as a great photo spot highlighting the town's historical maritime roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo \"Qualcosa di Noi\"",
+            "hu": "Museo \"Qualcosa di Noi\"",
+            "ro": "Museo \"Qualcosa di Noi\"",
+            "en": "Museo \"Qualcosa di Noi\""
+          },
+          "coords": [
+            12.460409,
+            44.143256
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche lokale Geschichte in diesem malerischen Museum und nehmen Sie sich Zeit für die gut kuratierten Tafeln über das Dorfleben.",
+            "hu": "Fedezze fel a gazdag helyi történelmet ebben a különleges múzeumban, és szánjon időt a falusi életet bemutató, gondosan összeállított táblák elolvasására.",
+            "ro": "Explorați bogata istorie locală conservată în acest muzeu pitoresc, acordându-vă timp pentru a citi plăcile bine organizate despre viața satului.",
+            "en": "Explore the rich local history preserved inside this quaint museum, taking your time to read the well-curated plaques detailing village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Astra",
+            "hu": "Teatro Astra",
+            "ro": "Teatro Astra",
+            "en": "Teatro Astra"
+          },
+          "coords": [
+            12.461473,
+            44.148804
+          ],
+          "category": "cultural",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Teatro Astra und erkundigen Sie sich an der Kasse nach abendlichen Kulturaufführungen während der Sommermonate.",
+            "hu": "Szánjon egy percet a Teatro Astra lenyűgöző építészetének megcsodálására, és érdeklődjön a jegypénztárnál a nyári esti kulturális előadások felől.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura impresionantă a Teatrului Astra și verificați casa de bilete pentru spectacolele culturale de seară de vară.",
+            "en": "Take a moment to appreciate the striking architecture of Teatro Astra, and check the box office for evening cultural performances during the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Gino 59-60",
+            "hu": "Bagno Gino 59-60",
+            "ro": "Bagno Gino 59-60",
+            "en": "Bagno Gino 59-60"
+          },
+          "coords": [
+            12.47618,
+            44.141089
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand im Bagno Gino, einem perfekt organisierten Ort, an dem Sie ein Tretboot mieten können, um die ruhigen Gewässer zu erkunden.",
+            "hu": "Élvezze a Bagno Gino érintetlen aranyhomokját, egy tökéletesen szervezett helyet, ahol vízibiciklit is bérelhet, hogy felfedezze a part menti csendes vizeket.",
+            "ro": "Bucurați-vă de nisipul auriu imaculat la Bagno Gino, un loc perfect organizat unde puteți închiria o hidrobicicletă pentru a explora apele calme.",
+            "en": "Enjoy the pristine golden sands at Bagno Gino, a perfectly organized spot where you can rent a pedal boat to explore the calm waters off the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Spiaggia 61-62-63-64",
+            "hu": "La Grande Spiaggia 61-62-63-64",
+            "ro": "La Grande Spiaggia 61-62-63-64",
+            "en": "La Grande Spiaggia 61-62-63-64"
+          },
+          "coords": [
+            12.477439,
+            44.139975
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das pulsierende Resortleben an La Grande Spiaggia, ein idealer Ort für eine Partie Beachvolleyball oder einfach nur zum Sonnenbaden am Ufer.",
+            "hu": "Tapasztalja meg a pezsgő üdülőhelyi életet a La Grande Spiaggia-n, amely ideális hely egy strandröplabda meccshez vagy egyszerűen csak napozáshoz.",
+            "ro": "Experimentați viața vibrantă a stațiunii la La Grande Spiaggia, un loc ideal pentru a juca volei pe plajă sau pur și simplu pentru a vă bronza.",
+            "en": "Experience the vibrant resort life at La Grande Spiaggia, an ideal place to join a game of beach volleyball or simply sunbathe near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Hotel Elios",
+            "hu": "Spiaggia Hotel Elios",
+            "ro": "Spiaggia Hotel Elios",
+            "en": "Spiaggia Hotel Elios"
+          },
+          "coords": [
+            12.478383,
+            44.138628
+          ],
+          "category": "recreational",
+          "arrive_at": "17:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem hochgeschätzten Strandabschnitt des Hotels Elios, der Premium-Sonnenliegen und außergewöhnlichen Service direkt am Meer bietet.",
+            "hu": "Pihenjen a Hotel Elioshoz tartozó, nagyra értékelt partszakaszon, amely prémium napágyakat és kivételes szolgáltatásokat kínál közvetlenül a hullámok mellett.",
+            "ro": "Relaxați-vă pe această porțiune de plajă foarte apreciată asociată Hotelului Elios, oferind șezlonguri premium și servicii excepționale chiar lângă valuri.",
+            "en": "Relax on this highly regarded stretch of beach associated with Hotel Elios, offering premium sunbeds and exceptional service right by the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum Muschelmuseum, um Meeresschätze zu entdecken, und gleiten Sie dann zur historischen Fischersfrau-Statue, während Sie die Küstenluft spüren.\n\nEntdecken Sie im Museum Qualcosa di Noi lokale Geschichten, bevor Sie in der Nähe des Teatro Astra pausieren. Die von Bäumen gesäumten Straßen sind ideal.\n\nFahren Sie in Richtung Süden zum Bagno Gino und zur Grande Spiaggia. Die langen Radwege parallel zum Strand sorgen für eine mühelose und landschaftlich reizvolle Fahrt.\n\nBeenden Sie Ihre Fahrt an der Spiaggia Hotel Elios, wo der Blick auf den Sonnenuntergang über dem Wasser Ihren aktiven Tag belohnt. Pihentesse izmait a hűs homokon.",
+        "hu": "Kerékpározzon el a Kagylómúzeumhoz a tengeri kincsek felfedezéséhez, majd guruljon át a történelmi Halárus asszony szobrához a friss parti levegőn.\n\nFedezze fel a helyi történeteket a Qualcosa di Noi Múzeumban, mielőtt megállna a Teatro Astra közelében. A fás utcák kiváló pihenőhelyeket kínálnak.\n\nTekerjen dél felé a Bagno Gino és a La Grande Spiaggia irányába. A stranddal párhuzamos hosszú kerékpárutak könnyed és festői utazást biztosítanak.\n\nFejezze be az utat a Spiaggia Hotel Eliosnál, ahol a víz feletti naplemente látványa jutalmazza aktív napját. Pihentesse izmait a hűs homokon.",
+        "ro": "Mergeți cu bicicleta la Muzeul Scoicilor pentru a descoperi comori marine, apoi treceți pe la Statuia istorică a Femeii Pescar, simțind aerul mării.\n\nDescoperiți poveștile locale la Muzeul Qualcosa di Noi înainte de a face o pauză lângă Teatrul Astra. Străzile mărginite de copaci sunt excelente pentru odihnă.\n\nPedalați spre sud spre Bagno Gino și La Grande Spiaggia. Piste lungi de biciclete paralele cu plaja asigură o călătorie fără efort și pitorească.\n\nÎncheiați cursa la Spiaggia Hotel Elios, unde priveliștile apusului de soare peste apă vă răsplătesc ziua activă. Relaxați-vă mușchii pe nisipul răcoros.",
+        "en": "Cycle to the Shell Museum to uncover marine treasures, then glide over to the historic Fishwife Statue, feeling the crisp coastal air as you ride.\n\nDiscover local stories at the Qualcosa di Noi Museum before pausing near Teatro Astra. The tree-lined streets offer excellent spots to rest.\n\nPedal south towards Bagno Gino and La Grande Spiaggia. The long stretches of cycle paths parallel to the beach make for an effortless and scenic journey.\n\nEnd your ride at Spiaggia Hotel Elios, where the sunset views over the water reward your active day. Relax your muscles on the cooling sand."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Benelli",
+            "hu": "Castello Benelli",
+            "ro": "Castello Benelli",
+            "en": "Castello Benelli"
+          },
+          "coords": [
+            12.464856,
+            44.119648
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im Castello Benelli, um die faszinierende mittelalterliche Architektur zu bewundern, und tragen Sie bequeme Schuhe.",
+            "hu": "Lépjen vissza az időben a Castello Benelli lenyűgöző középkori építészetének megtekintéséhez, és viseljen kényelmes cipőt az egyenetlen padló miatt.",
+            "ro": "Întoarceți-vă în timp la Castello Benelli pentru a vedea arhitectura medievală fascinantă și asigurați-vă că purtați pantofi confortabili pentru podele.",
+            "en": "Step back in time at Castello Benelli to witness the fascinating medieval architecture, and make sure to wear comfortable shoes for the uneven floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo \"Qualcosa di Noi\"",
+            "hu": "Museo \"Qualcosa di Noi\"",
+            "ro": "Museo \"Qualcosa di Noi\"",
+            "en": "Museo \"Qualcosa di Noi\""
+          },
+          "coords": [
+            12.460409,
+            44.143256
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche lokale Geschichte in diesem malerischen Museum und nehmen Sie sich Zeit für die gut kuratierten Tafeln über das Dorfleben.",
+            "hu": "Fedezze fel a gazdag helyi történelmet ebben a különleges múzeumban, és szánjon időt a falusi életet bemutató, gondosan összeállított táblák elolvasására.",
+            "ro": "Explorați bogata istorie locală conservată în acest muzeu pitoresc, acordându-vă timp pentru a citi plăcile bine organizate despre viața satului.",
+            "en": "Explore the rich local history preserved inside this quaint museum, taking your time to read the well-curated plaques detailing village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Astra",
+            "hu": "Teatro Astra",
+            "ro": "Teatro Astra",
+            "en": "Teatro Astra"
+          },
+          "coords": [
+            12.461473,
+            44.148804
+          ],
+          "category": "cultural",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Teatro Astra und erkundigen Sie sich an der Kasse nach abendlichen Kulturaufführungen während der Sommermonate.",
+            "hu": "Szánjon egy percet a Teatro Astra lenyűgöző építészetének megcsodálására, és érdeklődjön a jegypénztárnál a nyári esti kulturális előadások felől.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura impresionantă a Teatrului Astra și verificați casa de bilete pentru spectacolele culturale de seară de vară.",
+            "en": "Take a moment to appreciate the striking architecture of Teatro Astra, and check the box office for evening cultural performances during the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo delle conchiglie",
+            "hu": "Museo delle conchiglie",
+            "ro": "Museo delle conchiglie",
+            "en": "Museo delle conchiglie"
+          },
+          "coords": [
+            12.465528,
+            44.144595
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die detailreichen Muschelsammlungen in diesem faszinierenden Museum und verpassen Sie nicht die temporären Meeresausstellungen im Erdgeschoss.",
+            "hu": "Csodálja meg a bonyolult kagylógyűjteményeket ebben a lenyűgöző múzeumban, és ne felejtse el megnézni a földszinti időszaki tengeri kiállításokat sem.",
+            "ro": "Admirați colecțiile complexe de scoici marine în acest muzeu fascinant și nu uitați să verificați expozițiile maritime temporare de la parter.",
+            "en": "Marvel at the intricate sea shell collections in this fascinating museum, and don't forget to check the ground floor for temporary marine exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            12.47841,
+            44.130624
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie die Fahrt am Luna Park für aufregendes Vergnügen. Der große Parkplatz und der sofortige Spaß machen es zum perfekten Abschluss einer abwechslungsreichen Tour.",
+            "hu": "Zárja a napot egy kis szórakozással a Luna Parkban, ahol a klasszikus vidámparki játékok örömteli kikapcsolódást nyújtanak gyerekeknek és felnőtteknek egyaránt.",
+            "ro": "Încheiați-vă ziua cu multă distracție la Luna Park, unde atracțiile clasice oferă o bucurie imensă atât pentru copii, cât și pentru adulți.",
+            "en": "End your day with a splash of fun at Luna Park, where classic amusement rides provide joyful entertainment for both kids and adults alike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Landesinneren mit einem Besuch des Castello Benelli. Die Fahrt durch die ruhigen Straßen bietet einen schönen Kontrast zum belebten Strand.\n\nFahren Sie zum Museum Qualcosa di Noi für eine Dosis Geschichte, gefolgt von einem kurzen Halt am Teatro Astra, um dessen Architektur von der Straße aus zu bewundern.\n\nFahren Sie an die Küste, um das Muschelmuseum zu besuchen. Ausreichend Parkplätze in der Nebensaison ermöglichen einen einfachen Zugang zu diesen Schätzen.\n\nBeenden Sie die Fahrt am Luna Park für aufregendes Vergnügen. Der große Parkplatz und der sofortige Spaß machen es zum perfekten Abschluss einer abwechslungsreichen Tour.",
+        "hu": "Kezdje a szárazföld belsejében a lenyűgöző Castello Benelli látogatásával. A csendes reggeli utcákon való vezetés szép kontrasztot nyújt a későbbi nyüzsgő parttal.\n\nHajtson a Qualcosa di Noi Múzeumhoz egy kis történelemért, majd álljon meg röviden a Teatro Astránál, hogy megcsodálja szerkezetét az utcáról.\n\nHelyezze át székhelyét a partvonal felé, és látogassa meg a Kagylómúzeumot. A szezonon kívüli bőséges parkolási lehetőség könnyű hozzáférést biztosít.\n\nTerminați drumul la Luna Park pentru amuzament palpitant. A hatalmas parkoló és az azonnali szórakozás tökéletes módja egy változatos autós túra lezárásának.",
+        "ro": "Începeți în interior cu o vizită la Castello Benelli. Conducerea pe străzile liniștite de dimineață oferă un contrast plăcut cu plaja aglomerată de mai târziu.\n\nConduceți la Muzeul Qualcosa di Noi pentru o doză de patrimoniu, urmată de o oprire scurtă la Teatrul Astra pentru a admira structura sa de pe stradă.\n\nMutați-vă spre coastă pentru a vizita Muzeul Scoicilor. Parcarea amplă din extrasezon permite un acces ușor la aceste comori culturale marine fascinante.\n\nTerminați drumul la Luna Park pentru amuzament palpitant. Parcarea vastă și distracția imediată o fac modul perfect de a încheia un tur auto divers și captivant.",
+        "en": "Start inland with a spectacular visit to Castello Benelli. Driving through the quiet morning streets provides a lovely contrast to the busy beach later on.\n\nDrive to the Qualcosa di Noi Museum for a dose of heritage, followed by a quick stop at Teatro Astra to admire its structure from the street.\n\nRelocate towards the coastline to visit the Shell Museum. Ample parking in the off-season allows easy access to these cultural marine treasures.\n\nFinish the drive at Luna Park for thrilling amusement. The vast parking lot and immediate fun make it the perfect way to wrap up a diverse, motorized tour."
+      }
+    }
+  }
+}

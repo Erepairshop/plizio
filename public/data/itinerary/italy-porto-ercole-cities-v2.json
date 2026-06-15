@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-porto-ercole-cities-v2",
+  "anchor": {
+    "name": "Porto Ercole",
+    "coords": [
+      11.2025,
+      42.39597
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Paolo della Croce",
+            "hu": "Chiesa di San Paolo della Croce",
+            "ro": "Chiesa di San Paolo della Croce",
+            "en": "Chiesa di San Paolo della Croce"
+          },
+          "coords": [
+            11.203524,
+            42.393373
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Fassade dieser Kirche und treten Sie ein, um einen Moment der Ruhe zu finden.",
+            "hu": "Csodálja meg a templom egyszerű, de elegáns homlokzatát, és lépjen be, hogy találjon egy békés pillanatot a nyüzsgő utcák előtt.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestei biserici și intrați pentru a găsi un moment de pace înainte de a explora străzile aglomerate.",
+            "en": "Admire the simple but elegant facade of this church and step inside to find a moment of peace before the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti",
+            "hu": "Monumento ai Caduti",
+            "ro": "Monumento ai Caduti",
+            "en": "Monumento ai Caduti"
+          },
+          "coords": [
+            11.204115,
+            42.394524
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Kriegerdenkmal Ihren Respekt und nehmen Sie sich eine Minute Zeit, um über die lokale Geschichte nachzudenken.",
+            "hu": "Tisztelegjen az ünnepélyes háborús emlékműnél, szánjon egy percet a helyi történelem átgondolására a város szívében.",
+            "ro": "Aduceți un omagiu la acest solemn monument comemorativ al războiului, luându-vă un minut pentru a reflecta asupra istoriei locale în inima orașului.",
+            "en": "Pay your respects at this solemn war memorial, taking a minute to reflect on local history right in the town's heart."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Senese (XV sec.)",
+            "hu": "Porta Senese (XV sec.)",
+            "ro": "Porta Senese (XV sec.)",
+            "en": "Porta Senese (XV sec.)"
+          },
+          "coords": [
+            11.209773,
+            42.390798
+          ],
+          "category": "landmark",
+          "arrive_at": "10:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses beeindruckende Tor aus dem 15. Jahrhundert, das einst die Stadt bewachte, und beachten Sie das feine Mauerwerk.",
+            "hu": "Sétáljon át ezen a lenyűgöző 15. századi kapun, amely egykor a várost őrizte, megfigyelve az áthaladáskor a finom kőművesmunkát.",
+            "ro": "Treceți prin această impresionantă poartă din secolul al XV-lea care a păzit odată orașul, remarcând detaliile din piatră.",
+            "en": "Walk through this impressive 15th-century gate that once guarded the town, noting the fine stonework as you pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino belvedere",
+            "hu": "Giardino belvedere",
+            "ro": "Giardino belvedere",
+            "en": "Giardino belvedere"
+          },
+          "coords": [
+            11.211436,
+            42.391029
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diese erhöhten Gärten und bringen Sie unbedingt Ihre Kamera für die spektakuläre Aussicht mit.",
+            "hu": "Élvezze a pihentető sétát ezekben a magasan fekvő kertekben, és feltétlenül hozzon magával fényképezőgépet a látványos kikötői kilátáshoz.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin aceste grădini suspendate, asigurându-vă că aduceți camera pentru priveliștile spectaculoase ale portului.",
+            "en": "Enjoy a relaxing stroll through these elevated gardens, making sure to bring your camera for the spectacular harbor views."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Porto Ercole",
+            "hu": "Faro di Porto Ercole",
+            "ro": "Faro di Porto Ercole",
+            "en": "Faro di Porto Ercole"
+          },
+          "coords": [
+            11.212475,
+            42.390054
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem historischen Leuchtturm, um die Meeresbrise zu spüren, aber tragen Sie feste Schuhe, da der Weg uneben sein kann.",
+            "hu": "Sétáljon ki ehhez a történelmi világítótoronyhoz, hogy érezze a tengeri szellőt, de viseljen erős cipőt, mert az ösvény egyenetlen lehet.",
+            "ro": "Mergeți până la acest far istoric pentru a simți briza mării, dar purtați încălțăminte solidă, deoarece poteca poate fi neregulată.",
+            "en": "Walk out to this historic lighthouse to feel the sea breeze, but wear sturdy shoes as the path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Santa Caterina",
+            "hu": "Forte Santa Caterina",
+            "ro": "Forte Santa Caterina",
+            "en": "Forte Santa Caterina"
+          },
+          "coords": [
+            11.210993,
+            42.398293
+          ],
+          "category": "castle",
+          "arrive_at": "12:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieser Küstenfestung und planen Sie Ihren Besuch am späten Nachmittag, um die Mittagssonne zu meiden.",
+            "hu": "Fedezze fel e parti erődítmény robusztus falait, és tervezze látogatását a késő délutáni órákra, hogy elkerülje a déli napsütést.",
+            "ro": "Explorați zidurile robuste ale acestei fortărețe de coastă, planificând vizita spre sfârșitul după-amiezii pentru a evita soarele intens.",
+            "en": "Explore the robust walls of this coastal fortress, planning your visit in the late afternoon to avoid the intense midday sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im historischen Zentrum und tauchen Sie bei der Chiesa di San Paolo in die lokale Geschichte ein. Spazieren Sie durch die alte Porta Senese hinauf zum Giardino Belvedere für einen atemberaubenden Blick auf das Meer. Erreichen Sie den Leuchtturm und atmen Sie die Brise ein, bevor Sie zu den Festungen gehen. Beenden Sie den Spaziergang, während die Sonne Schatten auf die Mauern wirft.",
+        "hu": "Kezdje a történelmi központban a Chiesa di San Paolo meglátogatásával, hamar elmerülve a történelemben. Sétáljon át a Porta Senese-n a Giardino Belvedere-hez, ahonnan lenyűgöző kilátás nyílik. Érje el a festői világítótornyot, érezze a mediterrán szellőt, majd induljon az erődök felé. Zárja sétáját a Forte Santa Caterina megcsodálásával.",
+        "ro": "Începeți în centrul istoric la Chiesa di San Paolo, pășind în atmosfera locală. Treceți prin Porta Senese până la Giardino Belvedere pentru o priveliște superbă asupra mării. Ajungeți la farul pitoresc, respirând briza înainte de a vă îndrepta spre fortărețe. Încheiați plimbarea admirând Forte Santa Caterina în timp ce soarele apune peste ziduri.",
+        "en": "Start at the historical center visiting San Paolo della Croce, diving into local history early on. Wander through Porta Senese up to the panoramic Giardino belvedere for stunning sea views. Reach the scenic lighthouse, breathing in the Mediterranean breeze before heading towards the coastal fortresses. End your walk admiring Forte Santa Caterina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tomba Michelangelo Merisi, detto Il Caravaggio",
+            "hu": "Tomba Michelangelo Merisi, detto Il Caravaggio",
+            "ro": "Tomba Michelangelo Merisi, detto Il Caravaggio",
+            "en": "Tomba Michelangelo Merisi, detto Il Caravaggio"
+          },
+          "coords": [
+            11.196643,
+            42.402574
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die letzte Ruhestätte des legendären Malers Caravaggio, ein Muss für Kunstliebhaber, die die Region besuchen.",
+            "hu": "Fedezze fel a legendás festő, Caravaggio végső nyughelyét, ami elengedhetetlen állomás a régióba látogató művészetkedvelők számára.",
+            "ro": "Descoperiți locul de veci al legendarului pictor Caravaggio, o oprire esențială pentru iubitorii de artă care vizitează regiunea.",
+            "en": "Discover the final resting place of the legendary painter Caravaggio, an essential stop for art lovers visiting the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Mulinaccio",
+            "hu": "Torre del Mulinaccio",
+            "ro": "Torre del Mulinaccio",
+            "en": "Torre del Mulinaccio"
+          },
+          "coords": [
+            11.20734,
+            42.399599
+          ],
+          "category": "tower",
+          "arrive_at": "09:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen alten Turm, der einst als Windmühle diente, und schätzen Sie seine einzigartige Rolle in der lokalen Landwirtschaft.",
+            "hu": "Fényképezze le ezt az ősi tornyot, amely egykor szélmalomként szolgált, értékelve a helyi mezőgazdaságban betöltött egyedülálló szerepét.",
+            "ro": "Fotografiați acest turn antic care a servit cândva drept moară de vânt, apreciind rolul său istoric unic în agricultura locală.",
+            "en": "Photograph this ancient tower that once served as a windmill, appreciating its unique historical role in local agriculture."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Senese (XV sec.)",
+            "hu": "Porta Senese (XV sec.)",
+            "ro": "Porta Senese (XV sec.)",
+            "en": "Porta Senese (XV sec.)"
+          },
+          "coords": [
+            11.209773,
+            42.390798
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses beeindruckende Tor aus dem 15. Jahrhundert, das einst die Stadt bewachte, und beachten Sie das feine Mauerwerk.",
+            "hu": "Sétáljon át ezen a lenyűgöző 15. századi kapun, amely egykor a várost őrizte, megfigyelve az áthaladáskor a finom kőművesmunkát.",
+            "ro": "Treceți prin această impresionantă poartă din secolul al XV-lea care a păzit odată orașul, remarcând detaliile din piatră.",
+            "en": "Walk through this impressive 15th-century gate that once guarded the town, noting the fine stonework as you pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Porto Ercole",
+            "hu": "Faro di Porto Ercole",
+            "ro": "Faro di Porto Ercole",
+            "en": "Faro di Porto Ercole"
+          },
+          "coords": [
+            11.212475,
+            42.390054
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem historischen Leuchtturm, um die Meeresbrise zu spüren, aber tragen Sie feste Schuhe, da der Weg uneben sein kann.",
+            "hu": "Sétáljon ki ehhez a történelmi világítótoronyhoz, hogy érezze a tengeri szellőt, de viseljen erős cipőt, mert az ösvény egyenetlen lehet.",
+            "ro": "Mergeți până la acest far istoric pentru a simți briza mării, dar purtați încălțăminte solidă, deoarece poteca poate fi neregulată.",
+            "en": "Walk out to this historic lighthouse to feel the sea breeze, but wear sturdy shoes as the path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Isolotto Beach Club",
+            "hu": "Isolotto Beach Club",
+            "ro": "Isolotto Beach Club",
+            "en": "Isolotto Beach Club"
+          },
+          "coords": [
+            11.208388,
+            42.386018
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in diesem schicken Strandclub und mieten Sie in den Sommermonaten im Voraus eine Sonnenliege.",
+            "hu": "Tarts egy jól megérdemelt pihenőt ebben az elegáns strandklubban, és a nyári csúcsidőszakban előre bérelj napágyat.",
+            "ro": "Luați o pauză binemeritată la acest club de plajă elegant, închiriind un șezlong în avans în lunile de vară de vârf.",
+            "en": "Take a well-deserved break at this chic beach club, renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Pilette",
+            "hu": "Le Pilette",
+            "ro": "Le Pilette",
+            "en": "Le Pilette"
+          },
+          "coords": [
+            11.204318,
+            42.384101
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesen felsigen Terrassen am klaren Wasser, perfekt zum Schnorcheln, wenn Sie Ihre eigene Ausrüstung mitbringen.",
+            "hu": "Pihenjen ezeken a bájos sziklás teraszokon a tiszta víz mellett, ami tökéletes a sznorkelezéshez, ha hoz saját felszerelést.",
+            "ro": "Relaxați-vă pe aceste terase stâncoase fermecătoare lângă apa limpede, perfecte pentru snorkeling dacă vă aduceți propriul echipament.",
+            "en": "Relax on these charming rocky terraces by the clear water, perfect for snorkeling if you bring your own gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Stella",
+            "hu": "Forte Stella",
+            "ro": "Forte Stella",
+            "en": "Forte Stella"
+          },
+          "coords": [
+            11.198826,
+            42.384866
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sternförmige Architektur dieser spanischen Festung und planen Sie viel Zeit für die Ausstellungen ein.",
+            "hu": "Csodálja meg e spanyol erőd egyedülálló, hatágú csillag alakú építészetét, és szánjon bőven időt a múzeumi kiállításokra.",
+            "ro": "Minunați-vă de arhitectura unică în formă de stea a acestui fort spaniol, alocând mult timp pentru exponatele muzeului.",
+            "en": "Marvel at the unique six-pointed star architecture of this Spanish fort, allocating plenty of time for the museum exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum faszinierenden Grab von Caravaggio und fahren Sie dann zum historischen Torre del Mulinaccio. Fahren Sie durch das alte Tor zum Faro für ein majestätisches Küstenpanorama, das die Mühe lohnt. Rollen Sie nachmittags zu Strandclubs wie dem Isolotto für eine Erfrischung am Wasser hinab. Bezwingen Sie abends den letzten Anstieg zum Forte Stella für einen herrlichen Sonnenuntergang.",
+        "hu": "Reggel tekerjen el Caravaggio sírjához, majd haladjon tovább a történelmi Torre del Mulinaccio felé. Kerékpározzon át az ősi kapun a világítótoronyhoz, ahonnan fenséges tengerparti panoráma nyílik. Guruljon le a tengerparti klubokhoz egy frissítő pihenőre a kristálytiszta vizek mellett. Este küzdje le a végső emelkedőt a Forte Stella-hoz, hogy élvezze a csodálatos naplementét.",
+        "ro": "Pedalați dimineața spre mormântul lui Caravaggio, apoi îndreptați-vă spre istoricul Torre del Mulinaccio. Mergeți prin poarta veche la Faro pentru o panoramă de coastă majestuoasă care răsplătește efortul. Coborâți după-amiaza la cluburile de pe plajă pentru o pauză răcoritoare lângă apele limpezi. Seara, cuceriți ultima ascensiune spre Forte Stella pentru un apus magnific.",
+        "en": "Pedal to the intriguing Tomb of Caravaggio, then cruise towards the historical Torre del Mulinaccio. Cycle through the old gate to the Faro for majestic coastal panoramas that reward the uphill effort. Roll down to the beach clubs like Isolotto and Le Pilette for a refreshing break by the crystal waters. Conquer the final ascent to Forte Stella to enjoy a magnificent sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ocugì Cala Galera",
+            "hu": "Ocugì Cala Galera",
+            "ro": "Ocugì Cala Galera",
+            "en": "Ocugì Cala Galera"
+          },
+          "coords": [
+            11.20898,
+            42.404024
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen belebten Yachthafen, beobachten Sie die Luxusyachten und genießen Sie einen Espresso in einem Café am Wasser.",
+            "hu": "Sétáljon ezen a nyüzsgő kikötőn, figyelve a luxusjachtokat, és fogyasszon el egy gyors eszpresszót a vízparti kávézók egyikében.",
+            "ro": "Plimbați-vă prin acest port plin de viață observând iahturile de lux și savurați un espresso rapid la o cafenea de pe faleză.",
+            "en": "Stroll around this bustling marina observing the luxury yachts, enjoying a quick espresso at one of the waterfront cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Santa Caterina",
+            "hu": "Forte Santa Caterina",
+            "ro": "Forte Santa Caterina",
+            "en": "Forte Santa Caterina"
+          },
+          "coords": [
+            11.210993,
+            42.398293
+          ],
+          "category": "castle",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Mauern dieser Küstenfestung und planen Sie Ihren Besuch am späten Nachmittag, um die Mittagssonne zu meiden.",
+            "hu": "Fedezze fel e parti erődítmény robusztus falait, és tervezze látogatását a késő délutáni órákra, hogy elkerülje a déli napsütést.",
+            "ro": "Explorați zidurile robuste ale acestei fortărețe de coastă, planificând vizita spre sfârșitul după-amiezii pentru a evita soarele intens.",
+            "en": "Explore the robust walls of this coastal fortress, planning your visit in the late afternoon to avoid the intense midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino belvedere",
+            "hu": "Giardino belvedere",
+            "ro": "Giardino belvedere",
+            "en": "Giardino belvedere"
+          },
+          "coords": [
+            11.211436,
+            42.391029
+          ],
+          "category": "park",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diese erhöhten Gärten und bringen Sie unbedingt Ihre Kamera für die spektakuläre Aussicht mit.",
+            "hu": "Élvezze a pihentető sétát ezekben a magasan fekvő kertekben, és feltétlenül hozzon magával fényképezőgépet a látványos kikötői kilátáshoz.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin aceste grădini suspendate, asigurându-vă că aduceți camera pentru priveliștile spectaculoase ale portului.",
+            "en": "Enjoy a relaxing stroll through these elevated gardens, making sure to bring your camera for the spectacular harbor views."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Stella",
+            "hu": "Forte Stella",
+            "ro": "Forte Stella",
+            "en": "Forte Stella"
+          },
+          "coords": [
+            11.198826,
+            42.384866
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sternförmige Architektur dieser spanischen Festung und planen Sie viel Zeit für die Ausstellungen ein.",
+            "hu": "Csodálja meg e spanyol erőd egyedülálló, hatágú csillag alakú építészetét, és szánjon bőven időt a múzeumi kiállításokra.",
+            "ro": "Minunați-vă de arhitectura unică în formă de stea a acestui fort spaniol, alocând mult timp pentru exponatele muzeului.",
+            "en": "Marvel at the unique six-pointed star architecture of this Spanish fort, allocating plenty of time for the museum exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Lunga",
+            "hu": "Spiaggia Lunga",
+            "ro": "Spiaggia Lunga",
+            "en": "Spiaggia Lunga"
+          },
+          "coords": [
+            11.195797,
+            42.382139
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen, langgestreckten Sandstrand und kommen Sie früh, um sich den besten Platz zu sichern.",
+            "hu": "Lazítson ezen a gyönyörűen elnyúló homokos strandon, és érkezzen kora reggel, hogy biztosítsa a legjobb helyet a víz közelében.",
+            "ro": "Relaxați-vă pe această plajă lungă cu nisip superbă, ajungând dimineața devreme pentru a vă asigura cel mai bun loc lângă apă.",
+            "en": "Unwind on this beautifully stretched out sandy beach, arriving early in the morning to secure the best spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lo Sbarcatello",
+            "hu": "Lo Sbarcatello",
+            "ro": "Lo Sbarcatello",
+            "en": "Lo Sbarcatello"
+          },
+          "coords": [
+            11.192198,
+            42.379774
+          ],
+          "category": "recreational",
+          "arrive_at": "15:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser abgelegenen Bucht mit unglaublich klarem Wasser, einem friedlichen Rückzugsort abseits der Massen.",
+            "hu": "Zárja a napot ebben az elzárt öbölben, hihetetlenül tiszta vízzel, ami békés menedéket nyújt a fő turistatömegektől távol.",
+            "ro": "Încheiați-vă ziua în acest golf retras cu o apă incredibil de limpede, o retragere pașnică departe de aglomerația principală.",
+            "en": "Conclude your day at this secluded bay with incredibly clear water, a peaceful retreat away from the main tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Cala Galera, um die Yachten zu beobachten, und erkunden Sie dann die nahegelegene Festung. Parken Sie mittags in der Nähe des Belvedere-Gartens für einen weiten Blick über das Vorgebirge ohne weite Fußmärsche. Fahren Sie nachmittags zur Südküste, um das beeindruckende Museum des Forte Stella zu besuchen. Beenden Sie den Tag an den herrlichen Buchten, wenn der Abend hereinbricht.",
+        "hu": "Vezessen Cala Galerához, hogy megnézze a jachtokat, majd fedezze fel a közeli erődöt. Parkoljon délben a Belvedere kert közelében, hogy hegymászás nélkül élvezhesse a panorámát. Délután induljon a déli part felé, és látogassa meg a lenyűgöző Forte Stella múzeumot. Fejezze be a napot a gyönyörű öblökben ugrálva az est közeledtével.",
+        "ro": "Conduceți spre Cala Galera pentru a observa iahturile, apoi explorați fortăreața din apropiere. Parcați la prânz lângă Grădina Belvedere pentru o vedere panoramică fără urcare. Îndreptați-vă după-amiaza spre coasta de sud, vizitând impresionantul muzeu Forte Stella. Terminați ziua oprindu-vă la golfuri frumoase precum Spiaggia Lunga la lăsarea serii.",
+        "en": "Drive to Cala Galera to watch the yachts, then explore the nearby Forte Santa Caterina. Park near the Belvedere Garden to enjoy sweeping views of the promontory without the uphill trek. Head towards the southern coast in the afternoon, visiting the impressive Forte Stella museum high above the sea. Finish the day hopping between beautiful bays as evening falls."
+      }
+    }
+  }
+}

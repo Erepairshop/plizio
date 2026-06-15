@@ -1,0 +1,405 @@
+{
+  "city_id": "albania-himare-cities-v2",
+  "anchor": {
+    "name": "Himarë",
+    "coords": [
+      19.7447,
+      40.1031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plazhi i Himarës",
+            "hu": "Plazhi i Himarës",
+            "ro": "Plazhi i Himarës",
+            "en": "Plazhi i Himarës"
+          },
+          "coords": [
+            19.744221,
+            40.100927
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am wunderbar klaren Wasser dieses zentralen Strandes, aber kommen Sie früh, um einen Platz an der lebhaften Promenade zu sichern.",
+            "hu": "Kezdje a napot e központi strand gyönyörű, tiszta vizének élvezetével, de érkezzen korán, hogy jó helyet kapjon a nyüzsgő sétány közelében.",
+            "ro": "Începeți ziua bucurându-vă de apele splendid de clare ale acestei plaje centrale, dar veniți devreme pentru un loc bun lângă promenada vibrantă.",
+            "en": "Start your day by enjoying the beautifully clear waters of this central beach, but arrive early to grab a good spot near the vibrant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zyklopenhöhle",
+            "hu": "Küklopsz-barlang",
+            "ro": "Peștera Ciclopului",
+            "en": "Cyclop’s Cave"
+          },
+          "coords": [
+            19.747163,
+            40.100724
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende geologische Formation, die der Küste einen Hauch von Mythos verleiht, und tragen Sie feste Schuhe für den felsigen Pfad.",
+            "hu": "Fedezze fel ezt a lenyűgöző geológiai képződményt, amely mitikus hangulatot kölcsönöz a partnak, és viseljen masszív cipőt a sziklás tengerparti ösvényhez.",
+            "ro": "Explorați această formațiune geologică fascinantă care adaugă o notă de mit coastei și purtați încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Explore this fascinating geological formation that adds a wonderful touch of myth to the coast, and wear sturdy shoes for the rocky coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Marachi",
+            "hu": "Marachi",
+            "ro": "Marachi",
+            "en": "Marachi"
+          },
+          "coords": [
+            19.749152,
+            40.099195
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit markanten tiefblauen Farbtönen und bringen Sie reichlich Wasser mit, da die Ausstattung hier sehr einfach ist.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, amely feltűnő mélykék árnyalatairól híres, és vigyen sok vizet, mivel az itteni felszereltség nagyon alapvető.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, faimoasă pentru nuanțele sale de albastru intens, și aduceți apă deoarece facilitățile sunt destul de limitate.",
+            "en": "Relax on this picturesque pebble beach famous for its striking deep blue hues, and remember to bring plenty of water as facilities here are quite basic."
+          }
+        },
+        {
+          "name": {
+            "de": "Akacia",
+            "hu": "Akacia",
+            "ro": "Akacia",
+            "en": "Akacia"
+          },
+          "coords": [
+            19.752659,
+            40.097807
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt, der eine deutlich leisere Alternative zu den Hauptstränden bietet, ideal, wenn Sie Ihr eigenes Handtuch mitbringen.",
+            "hu": "Kapcsolódjon ki ezen a nyugodt partszakaszon, amely sokkal csendesebb alternatívát kínál a fő strandokhoz képest, ideális, ha saját törölközőt szeretne hozni.",
+            "ro": "Destindeți-vă pe această întindere de coastă liniștită, o alternativă mult mai tăcută la plajele principale, ideală dacă preferați să vă aduceți propriul prosop.",
+            "en": "Unwind at this tranquil coastal stretch offering a much quieter alternative to the main beaches, making it ideal if you prefer bringing your own towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi i Potamit",
+            "hu": "Plazhi i Potamit",
+            "ro": "Plazhi i Potamit",
+            "en": "Plazhi i Potamit"
+          },
+          "coords": [
+            19.754458,
+            40.092968
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem weitläufigen Strand, der für seine kühleren Quellen bekannt ist, und bleiben Sie, um die hervorragenden lokalen Meeresfrüchte zu genießen.",
+            "hu": "Fejezze be sétáját ezen a hűvösebb vizéről ismert, tágas strandon, és maradjon, hogy élvezze a közelben felszolgált kiváló, friss tengeri ételeket.",
+            "ro": "Încheiați plimbarea pe această plajă vastă, cunoscută pentru izvoarele sale răcoroase, și rămâneți să savurați fructele de mare excelente servite în apropiere.",
+            "en": "End your walk at this expansive beach known for its cooler, refreshing underwater springs, and stay to enjoy the excellent local seafood served nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den sanften Wellen des Strandes von Himarë, wo Sie die erfrischende Küstenatmosphäre genießen.\n\nMittags erkunden Sie die geheimnisvolle Zyklopenhöhle und entspannen anschließend ausgiebig am tiefblauen Marachi-Strand.\n\nDen Nachmittag verbringen Sie mit einem gemütlichen Spaziergang in Richtung Süden zur sehr ruhigen und idyllischen Küste von Akacia.\n\nDer Abend endet am Potami-Strand, wo Sie lokale Spezialitäten kosten können, während die Sonne langsam über dem Ionischen Meer untergeht.",
+        "hu": "A reggel a Himarë strand lágy hullámainál kezdődik, magába szívva a frissítő és pezsgő tengerparti hangulatot.\n\nDélben fedezze fel a titokzatos Küklopsz-barlangot, majd pihenjen egy nagyot a mélykék vizű Marachi strandon.\n\nA délutánt azzal tölti, hogy kellemes sétát tesz dél felé az Akacia kifejezetten békés és idilli partszakaszára.\n\nAz estét a Potami strandon zárja, ahol megkóstolhatja a helyi specialitásokat, figyelve a Jón-tenger felett lenyugvó napot.",
+        "ro": "Dimineața începe la valurile blânde ale plajei Himarë, savurând din plin vibrația răcoroasă a coastei albaneze.\n\nLa amiază explorați misterioasa Peșteră a Ciclopului și vă odihniți îndelung pe plaja Marachi, recunoscută pentru apele sale adânci.\n\nDupă-amiaza o petreceți plimbându-vă relaxat spre sud, pe malul extrem de liniștit și idilic de la Akacia.\n\nSeara se încheie la plaja Potami, unde puteți degusta specialități locale, privind cum soarele apune superb sub orizontul Mării Ionice.",
+        "en": "Morning starts by the gentle waves of Himarë Beach, soaking in the refreshing and vibrant coastal atmosphere.\n\nMidday involves exploring the mysterious Cyclop's Cave before resting deeply at the strikingly blue waters of Marachi beach.\n\nThe afternoon is spent strolling pleasantly south along the rugged coast to the incredibly peaceful Akacia shore.\n\nEvening concludes at Potami Beach, where you can taste local seafood specialties while watching the sun dip below the beautiful Ionian horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plazhi i Himarës",
+            "hu": "Plazhi i Himarës",
+            "ro": "Plazhi i Himarës",
+            "en": "Plazhi i Himarës"
+          },
+          "coords": [
+            19.744221,
+            40.100927
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am wunderbar klaren Wasser dieses zentralen Strandes, aber kommen Sie früh, um einen Platz an der lebhaften Promenade zu sichern.",
+            "hu": "Kezdje a napot e központi strand gyönyörű, tiszta vizének élvezetével, de érkezzen korán, hogy jó helyet kapjon a nyüzsgő sétány közelében.",
+            "ro": "Începeți ziua bucurându-vă de apele splendid de clare ale acestei plaje centrale, dar veniți devreme pentru un loc bun lângă promenada vibrantă.",
+            "en": "Start your day by enjoying the beautifully clear waters of this central beach, but arrive early to grab a good spot near the vibrant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Himarë",
+            "hu": "Himarëi vár",
+            "ro": "Castelul Himarë",
+            "en": "Himarë Castle"
+          },
+          "coords": [
+            19.731672,
+            40.117779
+          ],
+          "category": "castle",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie diese majestätischen antiken Ruinen mit atemberaubendem Blick auf das Ionische Meer und besuchen Sie sie am späten Vormittag.",
+            "hu": "Sétáljon végig ezeken a fenséges ősi romokon, ahonnan lélegzetelállító panoráma nyílik a Jón-tengerre, és látogasson el késő délelőtt a meleg elkerülése végett.",
+            "ro": "Rătăciți prin aceste ruine antice maiestuoase care oferă panorame uluitoare ale Mării Ionice și vizitați-le dimineața târziu pentru a evita căldura.",
+            "en": "Wander through these majestic ancient ruins offering breathtaking panoramas of the Ionian sea, and visit during the late morning to avoid the strongest sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "Church of all Saints"
+          },
+          "coords": [
+            19.733959,
+            40.117451
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser historischen religiösen Stätte, die sich nahe der Burg befindet, und kleiden Sie sich respektvoll.",
+            "hu": "Csodálja meg e történelmi vallási helyszín időtlen építészetét, amely gyönyörűen fészkel a vár közelében, és ne feledjen szerény ruházatot viselni.",
+            "ro": "Admirați arhitectura atemporală a acestui sit istoric religios frumos amplasat lângă castel și amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Admire the timeless architecture of this historic religious site beautifully nestled near the castle, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi i Livadhit",
+            "hu": "Plazhi i Livadhit",
+            "ro": "Plazhi i Livadhit",
+            "en": "Plazhi i Livadhit"
+          },
+          "coords": [
+            19.724829,
+            40.106854
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das tiefe blaue Wasser dieser weiten, hervorragend organisierten Bucht und nutzen Sie die zahlreichen Strandbars zur Erfrischung.",
+            "hu": "Merüljön el ennek a széles, kivételesen rendezett öbölnek a mélykék vizében, és használja ki a számos tengerparti bárt egy gyors frissítőre.",
+            "ro": "Scufundați-vă în apele albastre adânci ale acestui golf larg și excepțional de organizat și profitați din plin de barurile de plajă pentru a vă răcori.",
+            "en": "Dive into the deep blue waters of this wide, exceptionally organized bay, and take full advantage of the numerous beach bars for a quick refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Beach",
+            "hu": "Akvárium strand",
+            "ro": "Plaja Aquarium",
+            "en": "Aquarium Beach"
+          },
+          "coords": [
+            19.712141,
+            40.112925
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kristallklare Bucht, die von natürlichen Felsen umgeben ist, aber bedenken Sie, dass die Anfahrt einen holprigen Feldweg beinhaltet.",
+            "hu": "Fedezze fel ezt a természetes sziklákkal körülvett, kristálytiszta öblöt, de ne feledje, hogy az utolsó szakasz egy rögös földúton történő navigálást igényel.",
+            "ro": "Descoperiți acest golf izolat, închis de stânci naturale, deși rețineți că apropierea finală necesită parcurgerea unui traseu denivelat de pământ.",
+            "en": "Discover this secluded, crystal-clear cove enclosed by natural rocks, though keep in mind the final approach requires navigating a bumpy dirt trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden Morgenbrise direkt am Himarë-Strand, bevor Sie sich aufs Rad schwingen und bergauf in die Geschichte eintauchen.\n\nMittags erreichen Sie stolz die antiken Ruinen der Burg von Himarë und besuchen anschließend die friedliche Allerheiligenkirche auf dem Hügel.\n\nNachmittags rollen Sie gemütlich hinunter zum weitläufigen Livadhi-Strand, um sich mit einem erfrischenden Bad abzukühlen.\n\nDer Abend endet wunderschön am abgelegenen Aquarium-Strand, einem perfekten versteckten Juwel inmitten der wilden Natur.",
+        "hu": "Kezdje a frissítő reggeli szellővel közvetlenül a Himarë strandon, mielőtt felkerekezne a dombra, hogy elmerüljön a lenyűgöző történelemben.\n\nDélben eléri a himarëi vár fenséges, ősi romjait, majd meglátogatja a hegyen található, végtelenül békés Mindenszentek templomát.\n\nDélután kényelmesen guruljon le a tágas és széles Livadhi strandra egy hűsítő úszásra a kristálytiszta tengervízben.\n\nAz este a hihetetlenül eldugott Akvárium strandon ér véget, amely egy tökéletes rejtett gyöngyszem a vad természet lágy ölén.",
+        "ro": "Începeți cu briza răcoroasă a dimineții chiar la plaja Himarë, înainte de a urca pe bicicletă spre dealurile încărcate de istorie fascinantă.\n\nLa amiază ajungeți la ruinele antice ale impresionantului Castel Himarë și vizitați senina Biserică a Tuturor Sfinților din apropiere.\n\nDupă-amiaza, coborâți relaxat spre întinsa plajă Livadhi pentru a înota în apele albastre și a vă bucura de soarele cald.\n\nSeara se încheie magic la izolată plajă Aquarium, o bijuterie ascunsă perfectă pentru relaxare în mijlocul naturii stâncoase.",
+        "en": "Start with a refreshing morning breeze right at Himarë Beach before riding your bike uphill to immerse yourself in deep local history.\n\nMidday brings you to the majestic ancient ruins of Himarë Castle and the profoundly serene Church of all Saints perched on the hill.\n\nIn the afternoon, cruise down comfortably to the expansive Livadhi Beach for a well-deserved, cooling swim in the vivid blue water.\n\nEvening wraps up beautifully at the secluded Aquarium Beach, a perfect hidden gem completely embraced by wild natural rocks."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 8.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kisha e Shën Mërisë së Athalit",
+            "hu": "Kisha e Shën Mërisë së Athalit",
+            "ro": "Kisha e Shën Mërisë së Athalit",
+            "en": "Kisha e Shën Mërisë së Athalit"
+          },
+          "coords": [
+            19.77169,
+            40.115423
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieses sehr abgelegenen Bergwahrzeichens und stellen Sie sicher, dass Ihr Auto für holprige Wege bereit ist.",
+            "hu": "Tapasztalja meg e hihetetlenül távoli hegyi nevezetesség nyugodt légkörét, és győződjön meg róla, hogy járműve felkészült a kissé rögösebb útra.",
+            "ro": "Experimentați atmosfera senină a acestui reper montan incredibil de izolat și asigurați-vă că vehiculul este pregătit pentru un drum mai accidentat.",
+            "en": "Experience the serene atmosphere of this incredibly secluded mountain landmark, and make sure your vehicle is prepared for a slightly rougher drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Himarë",
+            "hu": "Himarëi vár",
+            "ro": "Castelul Himarë",
+            "en": "Himarë Castle"
+          },
+          "coords": [
+            19.731672,
+            40.117779
+          ],
+          "category": "castle",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie diese majestätischen antiken Ruinen mit atemberaubendem Blick auf das Ionische Meer und besuchen Sie sie am späten Vormittag.",
+            "hu": "Sétáljon végig ezeken a fenséges ősi romokon, ahonnan lélegzetelállító panoráma nyílik a Jón-tengerre, és látogasson el késő délelőtt a meleg elkerülése végett.",
+            "ro": "Rătăciți prin aceste ruine antice maiestuoase care oferă panorame uluitoare ale Mării Ionice și vizitați-le dimineața târziu pentru a evita căldura.",
+            "en": "Wander through these majestic ancient ruins offering breathtaking panoramas of the Ionian sea, and visit during the late morning to avoid the strongest sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Allerheiligenkirche",
+            "hu": "Mindenszentek temploma",
+            "ro": "Biserica Tuturor Sfinților",
+            "en": "Church of all Saints"
+          },
+          "coords": [
+            19.733959,
+            40.117451
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser historischen religiösen Stätte, die sich nahe der Burg befindet, und kleiden Sie sich respektvoll.",
+            "hu": "Csodálja meg e történelmi vallási helyszín időtlen építészetét, amely gyönyörűen fészkel a vár közelében, és ne feledjen szerény ruházatot viselni.",
+            "ro": "Admirați arhitectura atemporală a acestui sit istoric religios frumos amplasat lângă castel și amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Admire the timeless architecture of this historic religious site beautifully nestled near the castle, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi i Himarës",
+            "hu": "Plazhi i Himarës",
+            "ro": "Plazhi i Himarës",
+            "en": "Plazhi i Himarës"
+          },
+          "coords": [
+            19.744221,
+            40.100927
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am wunderbar klaren Wasser dieses zentralen Strandes, aber kommen Sie früh, um einen Platz an der lebhaften Promenade zu sichern.",
+            "hu": "Kezdje a napot e központi strand gyönyörű, tiszta vizének élvezetével, de érkezzen korán, hogy jó helyet kapjon a nyüzsgő sétány közelében.",
+            "ro": "Începeți ziua bucurându-vă de apele splendid de clare ale acestei plaje centrale, dar veniți devreme pentru un loc bun lângă promenada vibrantă.",
+            "en": "Start your day by enjoying the beautifully clear waters of this central beach, but arrive early to grab a good spot near the vibrant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi i Filikurit",
+            "hu": "Plazhi i Filikurit",
+            "ro": "Plazhi i Filikurit",
+            "en": "Plazhi i Filikurit"
+          },
+          "coords": [
+            19.75185,
+            40.085674
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit dieses verborgenen Küstenabschnitts und bringen Sie Proviant mit, da der Zugang eine steile Wanderung erfordert.",
+            "hu": "Szívja magába e tökéletesen rejtett partszakasz érintetlen szépségét, és vigyen bőséges felszerelést, mivel a megközelítés meredek leereszkedést igényel.",
+            "ro": "Bucurați-vă de frumusețea neatinsă a acestei întinderi de coastă ascunse și aduceți provizii, deoarece accesul necesită o drumeție abruptă în jos.",
+            "en": "Soak in the unspoiled beauty of this perfectly hidden coastal stretch, and bring plenty of supplies since access requires a steep, adventurous hike down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt abenteuerlich an der abgelegenen Bergkirche Kisha e Shën Mërisë së Athalit mit ihrem wahrhaft atemberaubenden Panoramablick.\n\nMittags tauchen Sie tief in die Geschichte ein bei der majestätischen Burg von Himarë und der direkt benachbarten, stillen Allerheiligenkirche.\n\nVerbringen Sie einen entspannten Nachmittag wieder unten im Tal, direkt am einladenden und belebten zentralen Himarë-Strand.\n\nDer Abend lädt Sie an die raue, unberührte Küste des Filikuri-Strandes zu einer absolut unvergesslichen Dämmerung abseits der Massen ein.",
+        "hu": "A napja kalandosan, a távoli Kisha e Shën Mërisë së Athalit hegyi templomnál kezdődik, ahonnan valóban pazar panoráma nyílik a vidékre.\n\nDélben mélyen a történelembe csöppen a fenséges himarëi várnál és a közvetlenül mellette fekvő, csendes Mindenszentek templománál.\n\nA délutánt már lent a völgyben, a hívogató és nyüzsgő központi Himarë strandon töltheti kellemes és megérdemelt pihenéssel.\n\nAz este a Filikuri strand zord, érintetlen szépségéhez hívogat egy abszolút emlékezetes alkonyatra, távol a turisták zajától.",
+        "ro": "Ziua ta începe aventuros la îndepărtata biserică montană Kisha e Shën Mërisë së Athalit, admirând priveliștile sale ample și superbe.\n\nAmiaza face o tranziție profundă în istorie la maiestuosul Castel Himarë și tăcuta Biserică a Tuturor Sfinților din imediata apropiere.\n\nPetreceți o după-amiază relaxantă coborând înapoi în vale, direct pe plaja centrală Himarë, bucurându-vă de valurile calme.\n\nSeara vă invită la frumusețea sălbatică și neatinsă a plajei Filikuri pentru un amurg absolut de neuitat, departe de aglomerație.",
+        "en": "Your day begins adventurously at the remote Kisha e Shën Mërisë së Athalit mountain church with its sweeping, panoramic views.\n\nMidday transitions deeply into local history at the majestic Himarë Castle and the quietly beautiful Church of all Saints nearby.\n\nSpend a highly relaxing afternoon back down in the main valley, chilling by the inviting waves of the central Himarë Beach.\n\nEvening invites you to the rugged, unspoiled beauty of Filikuri Beach for an absolutely memorable twilight away from the crowds."
+      }
+    }
+  }
+}

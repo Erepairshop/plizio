@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-maristella-cities-v2",
+  "anchor": {
+    "name": "Maristella",
+    "coords": [
+      8.22091,
+      40.59248
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Edificio militare della zweite Weltkrieg",
+            "hu": "Második világháborús katonai épület",
+            "ro": "Clădire militară din al doilea război mondial",
+            "en": "Edificio militare della seconda guerra mondiale"
+          },
+          "coords": [
+            8.22251,
+            40.598243
+          ],
+          "category": "historical",
+          "arrive_at": "09:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die dicken Betonwände dieses strategischen Bauwerks und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu meistern.",
+            "hu": "Figyelje meg e stratégiai épület vastag betonfalait, és viseljen masszív lábbelit, hogy biztonságosan közlekedhessen az egyenetlen terepen.",
+            "ro": "Observați pereții groși de beton ai acestei structuri strategice și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Observe the thick concrete walls of this strategic WWII structure, bringing sturdy footwear to navigate the uneven surrounding terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia delle ninfee",
+            "hu": "Baia delle ninfee",
+            "ro": "Baia delle ninfee",
+            "en": "Baia delle ninfee"
+          },
+          "coords": [
+            8.219345,
+            40.599834
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieser malerischen Bucht, aber packen Sie Wasser und Sonnencreme ein, da schattige Plätze sehr selten sind.",
+            "hu": "Pihenjen meg a festői öböl kristálytiszta vizénél, de feltétlenül vigyen magával vizet és naptejet, mivel az árnyékos helyek nagyon ritkák itt.",
+            "ro": "Relaxați-vă lângă apele cristaline ale acestui golf pitoresc, dar aduceți neapărat apă și cremă de soare, deoarece zonele umbrite sunt foarte rare.",
+            "en": "Relax by the crystalline waters of this scenic recreational bay, but make sure to pack your own water and sunscreen as shaded areas are quite scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino della seconda guerra mondiale",
+            "hu": "Második világháborús erőd",
+            "ro": "Fortăreață din al Doilea Război Mondial",
+            "en": "Fortino della seconda guerra mondiale"
+          },
+          "coords": [
+            8.234718,
+            40.599764
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen rauen Küstenbunker, um die einstige Wachsamkeit zu spüren, und nutzen Sie eine Taschenlampe für die dunklen Innenräume.",
+            "hu": "Lépjen be ebbe a masszív partvédelmi bunkerbe, és egy zseblámpa segítségével alaposan fedezze fel a sötét belső szobák történelmi hangulatát.",
+            "ro": "Pășiți în acest buncăr robust de apărare și folosiți o lanternă pentru a explora în detaliu încăperile interioare umbrite și pline de istorie.",
+            "en": "Step inside this rugged coastal defense bunker to understand wartime vigilance, using a flashlight to explore its shadowed interior rooms fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino",
+            "hu": "Fortino",
+            "ro": "Fortino",
+            "en": "Fortino"
+          },
+          "coords": [
+            8.233618,
+            40.601575
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von diesem historischen Bunker und besuchen Sie ihn mittags, um das Küstenlicht perfekt einzufangen.",
+            "hu": "Élvezze a lenyűgöző panorámát ebből a történelmi bunkerből, és időzítse látogatását délre, hogy a tengerparti fényeket tökéletesen megörökítse.",
+            "ro": "Bucurați-vă de priveliștile panoramice de la această cazemată istorică, planificând vizita la prânz pentru a capta perfect lumina coastei pe cameră.",
+            "en": "Take in the sweeping panoramic views from this historical pillbox, timing your visit for midday to capture the coastal light perfectly on camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Batteria militare della seconda guerra mondiale",
+            "hu": "Második világháborús katonai üteg",
+            "ro": "Baterie militară din al Doilea Război Mondial",
+            "en": "Batteria militare della seconda guerra mondiale"
+          },
+          "coords": [
+            8.239132,
+            40.603782
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesigen Artilleriestellungen an der Küste und achten Sie auf Ihre Schritte bei den verstreuten Trümmern und steilen Abgründen.",
+            "hu": "Fedezze fel a partvonalat egykor őrző hatalmas tüzérségi állásokat, és nagyon ügyeljen a lépéseire a szétszórt törmelékek és meredek lejtők körül.",
+            "ro": "Explorați vastele amplasamente de artilerie de pe coastă, fiind atenți la pașii dumneavoastră printre dărâmăturile istorice și pantele abrupte.",
+            "en": "Explore the vast artillery emplacements that once guarded the coastline, watching your step around the scattered historic rubble and steep drop-offs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang durch die Macchia zu versteckten Bunkern.\n\nMittags entspannen Sie in der Baia delle ninfee.\n\nNachmittags folgen Sie der Küste zu den gut erhaltenen Festungen.\n\nAbends endet die Tour an der Artilleriebatterie im sanften Licht.",
+        "hu": "Kezdje a napot a part menti bozótosban tett sétával, rejtett bunkereket fedezve fel.\n\nDélben pihenjen meg a Baia delle ninfee nyugodt vizénél.\n\nDélután a part mentén haladva fedezze fel a háborús erődítményeket.\n\nEste a történelmi túra a tüzérségi ütegnél ér véget.",
+        "ro": "Începeți ziua plimbându-vă prin vegetația de coastă pentru a descoperi buncăre ascunse.\n\nLa prânz, relaxați-vă la Baia delle ninfee.\n\nDupă-amiaza, explorați fortificațiile bine conservate de pe coastă.\n\nSeara, încheiați turul la bateria de artilerie la apus.",
+        "en": "Start your day walking through the coastal scrub to discover hidden WWII bunkers and strategic coastal outposts.\n\nMidday recharge by the tranquil waters of Baia delle ninfee, blending history with breathtaking natural beauty.\n\nAfternoon continue along the rugged coastline, connecting a series of well-preserved wartime fortifications.\n\nEvening concludes your historical walk near the impressive artillery battery in the fading light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Postazione militare",
+            "hu": "Katonai őrhely",
+            "ro": "Post militar",
+            "en": "Postazione militare"
+          },
+          "coords": [
+            8.21445,
+            40.584256
+          ],
+          "category": "historical",
+          "arrive_at": "09:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die taktische Anlage dieses südlichen Außenpostens und tragen Sie eine Windjacke, da die Küstenbrise hier überraschend stark ist.",
+            "hu": "Fedezze fel e déli védelmi előőrs taktikai elrendezését, és viseljen széldzsekit, mivel a tengerparti szellő itt meglepően erős és hideg lehet.",
+            "ro": "Descoperiți aspectul tactic al acestui avanpost defensiv sudic, purtând o jachetă de vânt, deoarece briza de coastă poate fi surprinzător de puternică.",
+            "en": "Discover the tactical layout of this southern defensive outpost, wearing a windbreaker as the coastal breeze can be surprisingly strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Crabile de Rodeddu",
+            "hu": "Nuraghe Crabile de Rodeddu",
+            "ro": "Nuraghe Crabile de Rodeddu",
+            "en": "Nuraghe Crabile de Rodeddu"
+          },
+          "coords": [
+            8.223035,
+            40.580654
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antike Megalitharchitektur dieses bronzezeitlichen Turms und kommen Sie früh, um die Ruhe vor der großen Hitze zu genießen.",
+            "hu": "Csodálja meg e bronzkori torony ősi megalitikus építészetét, és érkezzen korán, hogy a nyári hőség előtt békés magányban élvezhesse a helyszínt.",
+            "ro": "Admirați arhitectura megalitică a acestui turn din Epoca Bronzului, ajungând devreme pentru a vă bucura de liniște înainte de a începe căldura.",
+            "en": "Marvel at the ancient megalithic architecture of this Bronze Age tower, arriving early to enjoy the site in peaceful solitude before the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio militare della zweite Weltkrieg",
+            "hu": "Második világháborús katonai épület",
+            "ro": "Clădire militară din al doilea război mondial",
+            "en": "Edificio militare della seconda guerra mondiale"
+          },
+          "coords": [
+            8.22251,
+            40.598243
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die dicken Betonwände dieses strategischen Bauwerks und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu meistern.",
+            "hu": "Figyelje meg e stratégiai épület vastag betonfalait, és viseljen masszív lábbelit, hogy biztonságosan közlekedhessen az egyenetlen terepen.",
+            "ro": "Observați pereții groși de beton ai acestei structuri strategice și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Observe the thick concrete walls of this strategic WWII structure, bringing sturdy footwear to navigate the uneven surrounding terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia delle ninfee",
+            "hu": "Baia delle ninfee",
+            "ro": "Baia delle ninfee",
+            "en": "Baia delle ninfee"
+          },
+          "coords": [
+            8.219345,
+            40.599834
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieser malerischen Bucht, aber packen Sie Wasser und Sonnencreme ein, da schattige Plätze sehr selten sind.",
+            "hu": "Pihenjen meg a festői öböl kristálytiszta vizénél, de feltétlenül vigyen magával vizet és naptejet, mivel az árnyékos helyek nagyon ritkák itt.",
+            "ro": "Relaxați-vă lângă apele cristaline ale acestui golf pitoresc, dar aduceți neapărat apă și cremă de soare, deoarece zonele umbrite sunt foarte rare.",
+            "en": "Relax by the crystalline waters of this scenic recreational bay, but make sure to pack your own water and sunscreen as shaded areas are quite scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale di Porto Conte",
+            "hu": "Porto Conte Regionális Natúrpark",
+            "ro": "Parcul Natural Regional Porto Conte",
+            "en": "Parco Naturale Regionale di Porto Conte"
+          },
+          "coords": [
+            8.210475,
+            40.607812
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die vielfältige Macchia dieser geschützten Naturoase und halten Sie ein Fernglas bereit, um lokale Vogelarten zu beobachten.",
+            "hu": "Sétáljon át e védett természeti oázis változatos mediterrán bozótosán, és tartson kéznél egy távcsövet a helyi madárfajok megfigyeléséhez.",
+            "ro": "Plimbați-vă prin vegetația mediteraneană diversă a acestei oaze protejate, ținând la îndemână un binoclu pentru a observa speciile locale de păsări.",
+            "en": "Wander through the diverse Mediterranean scrub of this protected natural oasis, keeping a pair of binoculars handy for spotting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Caposaldo XXV",
+            "hu": "XXV. számú erődítmény",
+            "ro": "Bastionul XXV",
+            "en": "Caposaldo XXV"
+          },
+          "coords": [
+            8.224773,
+            40.612454
+          ],
+          "category": "historical",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Analysieren Sie die verstärkten Befestigungen dieser nördlichen Anlage und nehmen Sie eine gedruckte Karte mit, da der Handyempfang hier schwach ist.",
+            "hu": "Elemezze ezen északi erődítmény megerősített falait, és vigyen magával nyomtatott térképet, mivel a mobilhálózat vétele itt jelentősen gyengül.",
+            "ro": "Analizați fortificațiile acestui bastion nordic, având la dumneavoastră o hartă tipărită, deoarece semnalul mobil scade semnificativ în această zonă.",
+            "en": "Analyze the reinforced fortifications of this northern coastal stronghold, carrying a printed map since mobile reception drops significantly in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens nach Süden zu antiken Nuraghen und militärischen Außenposten.\n\nMittags fahren Sie zur idyllischen Baia delle ninfee für eine Pause.\n\nNachmittags erkunden Sie die Wege im Naturpark Porto Conte.\n\nAbends endet die Fahrt an der nördlichen Festung.",
+        "hu": "Reggel tekerjen délre az ókori nuraghék és katonai őrhelyek felé.\n\nDélben induljon északra a Baia delle ninfee festői öblébe pihenni.\n\nDélután fedezze fel a Porto Conte Natúrpark buja ösvényeit.\n\nEste fejezze be a kerékpározást az északi erődnél.",
+        "ro": "Pedalați dimineața spre sud pentru a descoperi nuraghe antice și avanposturi militare.\n\nLa prânz, mergeți la Baia delle ninfee pentru o pauză relaxantă.\n\nDupă-amiaza, explorați traseele din Parcul Natural Porto Conte.\n\nSeara, finalizați cursa la fortăreața nordică.",
+        "en": "Pedal south in the morning to uncover ancient Bronze Age nuraghes alongside 20th-century military outposts in the quiet breeze.\n\nMidday cycle north to the pristine Baia delle ninfee, enjoying a relaxing break surrounded by sweeping coastal views.\n\nAfternoon ride through the lush trails of Porto Conte Natural Park, experiencing its rich biodiversity.\n\nEvening finishes your adventure at Caposaldo XXV."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe Monte Rudedu",
+            "hu": "Nuraghe Monte Rudedu",
+            "ro": "Nuraghe Monte Rudedu",
+            "en": "Nuraghe Monte Rudedu"
+          },
+          "coords": [
+            8.21719,
+            40.577966
+          ],
+          "category": "historical",
+          "arrive_at": "09:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die runden Fundamente dieses antiken sardischen Bauwerks und tragen Sie feste Wanderschuhe für den felsigen Annäherungsweg.",
+            "hu": "Kövesse nyomon ezen ősi szardíniai építmény körkörös alapjait, és viseljen masszív túracipőt, hogy kényelmesen megbirkózzon a sziklás ösvénnyel.",
+            "ro": "Urmăriți fundațiile circulare ale acestei structuri sarde antice, purtând pantofi de drumeție robuști pentru a aborda confortabil poteca stâncoasă.",
+            "en": "Trace the circular foundations of this ancient Sardinian structure, wearing sturdy hiking shoes to comfortably tackle the rocky approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Deposito munizioni",
+            "hu": "Lőszerraktár",
+            "ro": "Depozit de muniție",
+            "en": "Deposito munizioni"
+          },
+          "coords": [
+            8.214772,
+            40.58611
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die halbunterirdische Anlage dieses alten Militärdepots und bringen Sie im Sommer wegen des dichten Gestrüpps Insektenschutz mit.",
+            "hu": "Vizsgálja meg e régi katonai raktár félig földalatti elrendezését, és a sűrű növényzet miatt nyáron feltétlenül használjon rovarriasztót.",
+            "ro": "Inspectați aspectul semi-subteran al acestui vechi depozit militar, aducând repelent împotriva insectelor vara din cauza tufișurilor dense.",
+            "en": "Inspect the semi-underground storage layout of this old military depot, bringing insect repellent during the summer months due to the dense brush."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale di Porto Conte",
+            "hu": "Porto Conte Regionális Natúrpark",
+            "ro": "Parcul Natural Regional Porto Conte",
+            "en": "Parco Naturale Regionale di Porto Conte"
+          },
+          "coords": [
+            8.210475,
+            40.607812
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die vielfältige Macchia dieser geschützten Naturoase und halten Sie ein Fernglas bereit, um lokale Vogelarten zu beobachten.",
+            "hu": "Sétáljon át e védett természeti oázis változatos mediterrán bozótosán, és tartson kéznél egy távcsövet a helyi madárfajok megfigyeléséhez.",
+            "ro": "Plimbați-vă prin vegetația mediteraneană diversă a acestei oaze protejate, ținând la îndemână un binoclu pentru a observa speciile locale de păsări.",
+            "en": "Wander through the diverse Mediterranean scrub of this protected natural oasis, keeping a pair of binoculars handy for spotting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia delle Ninfe",
+            "hu": "Baia delle Ninfe",
+            "ro": "Baia delle Ninfe",
+            "en": "Baia delle Ninfe"
+          },
+          "coords": [
+            8.212301,
+            40.612067
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenschönheit dieses unberührten Naturfleckens und legen Sie Ihr Handtuch auf die weicheren Sandflecken am Nordrand.",
+            "hu": "Élvezze ezen érintetlen természeti hely nyugodt part menti szépségét, és terítse le törölközőjét az északi perem felé eső puhább homokos részeken.",
+            "ro": "Bucurați-vă de frumusețea de coastă a acestui loc natural virgin, așezându-vă prosopul pe porțiunile de nisip mai moi de la marginea nordică.",
+            "en": "Enjoy the tranquil coastal beauty of this pristine nature spot, laying your towel on the softer sandy patches located towards the northern edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Caposaldo XXIV della seconda guerra mondiale",
+            "hu": "XXIV. világháborús erődítmény",
+            "ro": "Bastionul XXIV din Al Doilea Război Mondial",
+            "en": "Caposaldo XXIV della seconda guerra mondiale"
+          },
+          "coords": [
+            8.237404,
+            40.599414
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Studieren Sie die fantastischen Sichtachsen dieses gut erhaltenen Verteidigungsnetzes und bleiben Sie auf den Wegen, um die Flora zu schützen.",
+            "hu": "Tanulmányozza a lenyűgöző látóvonalakat ebből a jól megőrzött védelmi hálózatból, a kijelölt ösvényeken maradva az őshonos növényzet védelmében.",
+            "ro": "Studiați liniile de vizibilitate din această rețea defensivă bine conservată, rămânând pe potecile marcate pentru a evita vegetația fragilă.",
+            "en": "Study the commanding sightlines from this well-preserved defensive network, sticking to the marked paths to avoid the fragile native vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino della II guerra mondiale",
+            "hu": "Második világháborús bunker",
+            "ro": "Buncăr din al Doilea Război Mondial",
+            "en": "Fortino della II guerra mondiale"
+          },
+          "coords": [
+            8.2431,
+            40.600667
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte des Mittelmeerraums an diesem Betonaußenposten auf und bringen Sie ein Weitwinkelobjektiv für den Meereshorizont mit.",
+            "hu": "Fedezze fel a Földközi-tengeri hadszíntér történelmét ezen a beton előőrsön, és hozzon nagylátószögű objektívet a hatalmas tengeri horizont miatt.",
+            "ro": "Urmăriți istoria teatrului mediteranean la acest avanpost de beton și aduceți neapărat un obiectiv cu unghi larg pentru orizontul mării.",
+            "en": "Trace the history of the Mediterranean theater at this concrete outpost, and definitely bring a wide-angle lens to capture the vast sea horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Batteria militare della seconda guerra mondiale",
+            "hu": "Második világháborús katonai üteg",
+            "ro": "Baterie militară din al Doilea Război Mondial",
+            "en": "Batteria militare della seconda guerra mondiale"
+          },
+          "coords": [
+            8.239132,
+            40.603782
+          ],
+          "category": "historical",
+          "arrive_at": "17:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die riesigen Artilleriestellungen an der Küste und achten Sie auf Ihre Schritte bei den verstreuten Trümmern und steilen Abgründen.",
+            "hu": "Fedezze fel a partvonalat egykor őrző hatalmas tüzérségi állásokat, és nagyon ügyeljen a lépéseire a szétszórt törmelékek és meredek lejtők körül.",
+            "ro": "Explorați vastele amplasamente de artilerie de pe coastă, fiind atenți la pașii dumneavoastră printre dărâmăturile istorice și pantele abrupte.",
+            "en": "Explore the vast artillery emplacements that once guarded the coastline, watching your step around the scattered historic rubble and steep drop-offs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den südlichen Nuraghen und den alten Munitionsdepots.\n\nMittags steuern Sie den Naturpark Porto Conte und die herrliche Bucht an.\n\nNachmittags besuchen Sie ein dichtes Netz von Bunkeranlagen.\n\nAbends genießen Sie den Sonnenuntergang an der Küstenbatterie.",
+        "hu": "Reggel vezessen délre az ókori nuraghékhoz és régi lőszerraktárakhoz.\n\nDélben irány a Porto Conte Natúrpark és a gyönyörű öböl.\n\nDélután járja be a keleti fok II. világháborús védelmi vonalait.\n\nEste a parti ütegnél csodálhatja meg a lenyűgöző tengeri naplementét.",
+        "ro": "Conduceți dimineața spre sud către vechile nuraghe și depozitele de muniție.\n\nLa prânz, vizitați Parcul Natural Porto Conte și frumoasa deltă.\n\nDupă-amiaza, explorați rețeaua de fortificații de pe coasta estică.\n\nSeara, încheiați turul la bateria de coastă la amurg.",
+        "en": "Drive south in the morning to explore the ancient Nuraghe Monte Rudedu and nearby forgotten military munitions depots.\n\nMidday navigate towards Porto Conte Natural Park and Baia delle Ninfe, appreciating the pristine ecological preserves.\n\nAfternoon hop between a dense network of WWII defensive strongholds along the eastern cape.\n\nEvening ends your driving tour at the majestic coastal battery taking in the view."
+      }
+    }
+  }
+}

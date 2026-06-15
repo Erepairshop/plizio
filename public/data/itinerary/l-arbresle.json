@@ -1,0 +1,405 @@
+{
+  "city_id": "l-arbresle",
+  "anchor": {
+    "name": "L'Arbresle",
+    "coords": [
+      4.6169,
+      45.8356
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:45",
+      "total_km": 1.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            4.618137,
+            45.836026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche, die ein Ort spiritueller Ruhe ist, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg a központi templom csodálatos ólomüveg ablakait, amely a lelki nyugalom szigete, és érkezzen kora reggel a legszebb fényekért.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici centrale, un loc de liniște spirituală, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the magnificent stained glass windows of this central church, a place of spiritual tranquility, and come in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de l'église de la Madeleine",
+            "hu": "Porte de l'église de la Madeleine",
+            "ro": "Porte de l'église de la Madeleine",
+            "en": "Porte de l'église de la Madeleine"
+          },
+          "coords": [
+            4.618749,
+            45.834682
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Portal, das an das reiche Erbe der Stadt erinnert, und achten Sie auf die feinen Steingravuren über dem Bogen.",
+            "hu": "Fedezze fel ezt a történelmi portált, amely a város gazdag örökségét idézi, és figyelje meg a boltív feletti finom kőfaragásokat.",
+            "ro": "Descoperiți acest portal istoric care evocă moștenirea bogată a orașului și acordați atenție gravurilor fine în piatră de deasupra arcului.",
+            "en": "Discover this historic portal that evokes the rich heritage of the town, and pay close attention to the fine stone engravings above the arch."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            4.62215,
+            45.826713
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante Gebäude mit seiner klassischen Architektur, das die Geschichte des Viertels erzählt, und nehmen Sie sich Zeit für Fotos.",
+            "hu": "Látogasson el ebbe a klasszikus építészeti stílusú, bájos épületbe, amely a negyed történetét meséli el, és szánjon időt a fényképezésre.",
+            "ro": "Vizitați această clădire fermecătoare cu arhitectură clasică, ce spune povestea cartierului, și acordați-vă timp suficient pentru fotografii.",
+            "en": "Visit this charming building with its classic architecture that tells the history of the district, and make sure to take your time for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Glacière du XVIIIe siècle",
+            "hu": "Glacière du XVIIIe siècle",
+            "ro": "Glacière du XVIIIe siècle",
+            "en": "Glacière du XVIIIe siècle"
+          },
+          "coords": [
+            4.620435,
+            45.820161
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Staunen Sie über diesen historischen Eiskeller aus dem 18. Jahrhundert, ein Meisterwerk der Technik, und tragen Sie bequeme Schuhe für den Abstieg.",
+            "hu": "Csodálkozzon rá erre a 18. századi történelmi jégveremre, amely egy igazi mérnöki mestermű, és viseljen kényelmes cipőt a biztonságos lejutáshoz.",
+            "ro": "Minunați-vă de această pivniță istorică de gheață din secolul al XVIII-lea, o capodoperă a ingineriei, și purtați încălțăminte comodă pentru coborâre.",
+            "en": "Marvel at this historic 18th-century ice house, a true masterpiece of engineering, and make sure to wear comfortable shoes for the short descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie de La Tourette",
+            "hu": "Sainte-Marie de La Tourette",
+            "ro": "Sainte-Marie de La Tourette",
+            "en": "Sainte-Marie de La Tourette"
+          },
+          "coords": [
+            4.622584,
+            45.819679
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie Le Corbusiers modernistisches Meisterwerk hautnah, das architektonisch einzigartig ist, und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Tapasztalja meg Le Corbusier modernista mesterművét, amely építészetileg egyedülálló, és mindenképpen foglalja le előre a vezetett túrát.",
+            "ro": "Experimentați capodopera modernistă a lui Le Corbusier, cu o arhitectură unică, și asigurați-vă că vă rezervați turul ghidat în avans pentru acces.",
+            "en": "Experience Le Corbusier's modernist masterpiece firsthand, which is architecturally unique, and be sure to book your guided tour well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im spirituellen Herzen von L'Arbresle an der zentralen Kirche. Am Mittag entdecken Sie die historischen Schätze in den malerischen Gassen. Der Nachmittag führt Sie zu weiteren religiösen Monumenten und architektonischen Highlights. Am späten Nachmittag runden Sie den Tag mit dem Meisterwerk von Le Corbusier ab.",
+        "hu": "Kezdje sétáját L'Arbresle spirituális szívében, a központi templomnál. Délben fedezze fel a festői utcák rejtett történelmi kincseit. A délután további vallási emlékművekhez és építészeti látványosságokhoz vezet. Késő délután pedig zárja a napot Le Corbusier zseniális építészeti remekművével.",
+        "ro": "Începeți plimbarea în inima spirituală din L'Arbresle, la biserica sa centrală. La prânz, descoperiți comorile istorice ascunse pe străzile pitorești. După-amiaza vă conduce către alte monumente religioase și puncte de atracție arhitecturale. Spre seară, încheiați ziua cu capodopera lui Le Corbusier.",
+        "en": "Begin your walking tour in the spiritual heart of L'Arbresle at the central church. At midday, discover the hidden historical treasures in the picturesque streets. The afternoon leads you to additional religious monuments and structural highlights. By late afternoon, round off the day at Le Corbusier's masterpiece."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 6.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            4.618137,
+            45.836026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche, die ein Ort spiritueller Ruhe ist, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg a központi templom csodálatos ólomüveg ablakait, amely a lelki nyugalom szigete, és érkezzen kora reggel a legszebb fényekért.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici centrale, un loc de liniște spirituală, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the magnificent stained glass windows of this central church, a place of spiritual tranquility, and come in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de l'église de la Madeleine",
+            "hu": "Porte de l'église de la Madeleine",
+            "ro": "Porte de l'église de la Madeleine",
+            "en": "Porte de l'église de la Madeleine"
+          },
+          "coords": [
+            4.618749,
+            45.834682
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Portal, das an das reiche Erbe der Stadt erinnert, und achten Sie auf die feinen Steingravuren über dem Bogen.",
+            "hu": "Fedezze fel ezt a történelmi portált, amely a város gazdag örökségét idézi, és figyelje meg a boltív feletti finom kőfaragásokat.",
+            "ro": "Descoperiți acest portal istoric care evocă moștenirea bogată a orașului și acordați atenție gravurilor fine în piatră de deasupra arcului.",
+            "en": "Discover this historic portal that evokes the rich heritage of the town, and pay close attention to the fine stone engravings above the arch."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Église Saint-Joseph",
+            "ro": "Église Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            4.625661,
+            45.847867
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese malerische Kirche, deren friedliche Atmosphäre zur Reflexion einlädt, und genießen Sie die Stille abseits der Hauptverkehrsstraßen.",
+            "hu": "Fedezze fel ezt a festői templomot, amelynek békés légköre elmélkedésre hív, és élvezze a csendet távol a fő közlekedési útvonalaktól.",
+            "ro": "Explorați această biserică pitorească a cărei atmosferă pașnică invită la reflecție și bucurați-vă de liniștea departe de drumurile principale aglomerate.",
+            "en": "Explore this picturesque church whose peaceful atmosphere invites reflection, and enjoy the profound silence away from the main busy thoroughfares."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie de La Tourette",
+            "hu": "Sainte-Marie de La Tourette",
+            "ro": "Sainte-Marie de La Tourette",
+            "en": "Sainte-Marie de La Tourette"
+          },
+          "coords": [
+            4.622584,
+            45.819679
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erleben Sie Le Corbusiers modernistisches Meisterwerk hautnah, das architektonisch einzigartig ist, und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Tapasztalja meg Le Corbusier modernista mesterművét, amely építészetileg egyedülálló, és mindenképpen foglalja le előre a vezetett túrát.",
+            "ro": "Experimentați capodopera modernistă a lui Le Corbusier, cu o arhitectură unică, și asigurați-vă că vă rezervați turul ghidat în avans pentru acces.",
+            "en": "Experience Le Corbusier's modernist masterpiece firsthand, which is architecturally unique, and be sure to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Sain-Bel",
+            "hu": "Château de Sain-Bel",
+            "ro": "Château de Sain-Bel",
+            "en": "Château de Sain-Bel"
+          },
+          "coords": [
+            4.598429,
+            45.811902
+          ],
+          "category": "castle",
+          "arrive_at": "13:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Burgruine, die majestätisch über dem Tal thront, und bringen Sie ein Fernglas für die unglaubliche Aussicht mit.",
+            "hu": "Látogassa meg ezt a lenyűgöző várromot, amely fenségesen magasodik a völgy fölé, és hozzon magával távcsövet a hihetetlen kilátás kedvéért.",
+            "ro": "Vizitați această impresionantă ruină a castelului care domină maiestuos valea și aduceți binoclul pentru a admira priveliștile absolut incredibile.",
+            "en": "Visit this impressive castle ruin that majestically overlooks the valley below, and definitely bring a pair of binoculars for the incredible views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Hauptkirche von L'Arbresle und nehmen Sie die Morgenstimmung auf. Fahren Sie gegen Mittag durch das historische Zentrum zu weiteren schönen Kirchen. Am Nachmittag radeln Sie zum berühmten Kloster von La Tourette. Lassen Sie den Tag schließlich bei den beeindruckenden Ruinen von Sain-Bel ausklingen.",
+        "hu": "Indítsa kerékpártúráját L'Arbresle főtemplománál, és szívja magába a reggeli hangulatot. Délben tekerjen át a történelmi központon további gyönyörű templomok felé. Délután látogasson el a híres La Tourette kolostorhoz. Végül fejezze be a napot a Sain-Bel lenyűgöző középkori várromjainál, ahonnan csodás a kilátás.",
+        "ro": "Începeți turul cu bicicleta la biserica principală din L'Arbresle și bucurați-vă de atmosfera dimineții. La prânz, pedalați prin centrul istoric către alte biserici frumoase. După-amiaza, mergeți la faimoasa mănăstire La Tourette. Încheiați ziua relaxându-vă la impresionantele ruine ale castelului Sain-Bel.",
+        "en": "Start your bike tour at the main church of L'Arbresle and soak in the fresh morning atmosphere. Around noon, ride through the historic center towards other beautiful churches. In the afternoon, pedal to the famous monastery of La Tourette. Finally, end your active day at the impressive castle ruins of Sain-Bel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 11.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Old Town (Vieux Bourg)",
+            "hu": "Old Town (Vieux Bourg)",
+            "ro": "Old Town (Vieux Bourg)",
+            "en": "Old Town (Vieux Bourg)"
+          },
+          "coords": [
+            4.678689,
+            45.860403
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die engen Gassen der Altstadt, die den mittelalterlichen Charme bewahrt haben, und besuchen Sie die kleinen lokalen Handwerksläden.",
+            "hu": "Sétáljon végig az óváros szűk macskaköves utcáin, amelyek megőrizték középkori báját, és térjen be a kis helyi kézműves boltokba is a sétája során.",
+            "ro": "Plimbați-vă pe străzile înguste ale orașului vechi, care și-a păstrat farmecul medieval, și asigurați-vă că vizitați micile magazine locale de artizanat.",
+            "en": "Stroll through the narrow streets of the old town, which has perfectly preserved its medieval charm, and be sure to visit the small local craft shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            4.612067,
+            45.853528
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klaren Linien dieser eleganten Kirche, die ein echtes architektonisches Juwel ist, und betreten Sie sie für einen Moment der Ruhe.",
+            "hu": "Csodálja meg ennek az elegáns templomnak a letisztult vonalait, amely egy igazi építészeti ékszerdoboz, és lépjen be egy pillanatnyi nyugalomért.",
+            "ro": "Admirați liniile curate ale acestei biserici elegante, o adevărată bijuterie arhitecturală, și pășiți înăuntru pentru a vă bucura de un moment de liniște.",
+            "en": "Admire the clean lines of this elegant church, which is a true architectural gem, and step inside to enjoy a wonderful moment of profound peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            4.618137,
+            45.836026
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche, die ein Ort spiritueller Ruhe ist, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg a központi templom csodálatos ólomüveg ablakait, amely a lelki nyugalom szigete, és érkezzen kora reggel a legszebb fényekért.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici centrale, un loc de liniște spirituală, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the magnificent stained glass windows of this central church, a place of spiritual tranquility, and come in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie de La Tourette",
+            "hu": "Sainte-Marie de La Tourette",
+            "ro": "Sainte-Marie de La Tourette",
+            "en": "Sainte-Marie de La Tourette"
+          },
+          "coords": [
+            4.622584,
+            45.819679
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie Le Corbusiers modernistisches Meisterwerk hautnah, das architektonisch einzigartig ist, und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Tapasztalja meg Le Corbusier modernista mesterművét, amely építészetileg egyedülálló, és mindenképpen foglalja le előre a vezetett túrát.",
+            "ro": "Experimentați capodopera modernistă a lui Le Corbusier, cu o arhitectură unică, și asigurați-vă că vă rezervați turul ghidat în avans pentru acces.",
+            "en": "Experience Le Corbusier's modernist masterpiece firsthand, which is architecturally unique, and be sure to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Sain-Bel",
+            "hu": "Château de Sain-Bel",
+            "ro": "Château de Sain-Bel",
+            "en": "Château de Sain-Bel"
+          },
+          "coords": [
+            4.598429,
+            45.811902
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Burgruine, die majestätisch über dem Tal thront, und bringen Sie ein Fernglas für die unglaubliche Aussicht mit.",
+            "hu": "Látogassa meg ezt a lenyűgöző várromot, amely fenségesen magasodik a völgy fölé, és hozzon magával távcsövet a hihetetlen kilátás kedvéért.",
+            "ro": "Vizitați această impresionantă ruină a castelului care domină maiestuos valea și aduceți binoclul pentru a admira priveliștile absolut incredibile.",
+            "en": "Visit this impressive castle ruin that majestically overlooks the valley below, and definitely bring a pair of binoculars for the incredible views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt in den mittelalterlichen Gassen der hochgelegenen Altstadt. Erkunden Sie am Mittag die charmanten und gut erhaltenen religiösen Stätten in der Umgebung. Am Nachmittag fahren Sie zum weltberühmten Kloster Sainte-Marie de La Tourette. Den Abend beschließen Sie mit einem Besuch der majestätischen Burg von Sain-Bel.",
+        "hu": "Utazása a magasan fekvő óváros hangulatos középkori utcáin veszi kezdetét. Délben fedezze fel a környék bájos és kiválóan megőrzött vallási helyszíneit. Délután autózzon el a világhírű Sainte-Marie de La Tourette kolostorhoz. Az estét a Sain-Bel fenséges várromjának lenyűgöző látványával koronázhatja meg.",
+        "ro": "Călătoria dumneavoastră începe pe străzile medievale ale orașului vechi așezat la înălțime. La prânz, explorați siturile religioase fermecătoare și bine conservate din împrejurimi. După-amiaza, conduceți la celebra mănăstire Sainte-Marie de La Tourette. Seara se încheie cu o vizită la castelul maiestuos din Sain-Bel.",
+        "en": "Your scenic drive begins in the medieval streets of the elevated old town area. At midday, explore the charming and well-preserved religious sites located nearby. In the afternoon, drive out to the world-famous Sainte-Marie de La Tourette monastery. Conclude your evening with a visit to the majestic castle of Sain-Bel."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-hilaire-du-harcouet",
+  "anchor": {
+    "name": "Saint-Hilaire-du-Harcouët",
+    "coords": [
+      -1.0919,
+      48.5778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 2.22,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett Piac",
+            "ro": "Piața Acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            -1.099075,
+            48.580778
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieser historischen Markthalle mit lokalen normannischen Produkten und kommen Sie mittwochs früh für den besten Cidre und Käse.",
+            "hu": "Tapasztalja meg ennek a történelmi fedett piacnak a nyüzsgő hangulatát, amely elengedhetetlen a helyi normandiai termékekhez, és érkezzen szerdán korán a legjobb sajtért.",
+            "ro": "Experimentați atmosfera plină de viață a acestei piețe istorice acoperite, esențială pentru produsele locale normande, și ajungeți devreme miercurea pentru cel mai bun cidru.",
+            "en": "Experience the lively atmosphere of this historic covered market, essential for local Norman produce, and arrive early on Wednesdays for the best cider and cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Yves",
+            "hu": "Saint-Yves Kápolna",
+            "ro": "Capela Saint-Yves",
+            "en": "Chapel of Saint-Yves"
+          },
+          "coords": [
+            -1.103395,
+            48.581685
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte und doch schöne Architektur dieser ruhigen religiösen Stätte, an der ein Moment der Besinnung im friedlichen Garten sehr zu empfehlen ist.",
+            "hu": "Csodálja meg e csendes vallási helyszín egyszerű, mégis gyönyörű építészetét, amely fontos spirituális mérföldkő, ahol érdemes egy percet elidőzni a békés kertben.",
+            "ro": "Admirați arhitectura simplă, dar frumoasă a acestui loc religios liniștit, un reper spiritual important unde un moment de reflecție în grădina pașnică este foarte recomandat.",
+            "en": "Admire the simple yet beautiful architecture of this quiet religious site, an important spiritual landmark where taking a moment of reflection in the peaceful garden is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Hilaire",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.092736,
+            48.576771
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden Buntglasfenster und die robuste Struktur dieser zentralen Kirche und betrachten Sie das Kirchenschiff, wenn das Nachmittagslicht einfällt.",
+            "hu": "Fedezze fel ennek a központi templomnak a lenyűgöző ólomüvegét és robusztus szerkezetét, és mindenképpen nézze meg a főhajót, amikor a délutáni napfény beárad rajta.",
+            "ro": "Explorați vitraliile uimitoare și structura robustă a acestei biserici centrale, o mărturie a reconstrucției orașului, și asigurați-vă că priviți naosul în lumina după-amiezii.",
+            "en": "Explore the stunning stained glass and robust structure of this central church, a testament to the town's rebuilding, and make sure to view the nave when the afternoon sunlight streams in."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Turm",
+            "hu": "A Régi Torony",
+            "ro": "Vechiul Turn",
+            "en": "The Old Tower"
+          },
+          "coords": [
+            -1.092608,
+            48.575322
+          ],
+          "category": "tower",
+          "arrive_at": "11:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stehen Sie vor den alten Ruinen dieses historischen Turms, einem seltenen Überrest der mittelalterlichen Vergangenheit, und lesen Sie die Informationstafeln in der Nähe.",
+            "hu": "Álljon meg a történelmi torony ősi romjai előtt, amely a középkori múlt ritka emléke, és olvassa el a közeli tájékoztató táblákat, hogy teljesen megértse a védelmi jelentőségét.",
+            "ro": "Stați în fața ruinelor antice ale acestui turn istoric, o rămășiță rară a trecutului medieval, și citiți plăcile informative din apropiere pentru a-i înțelege rolul defensiv.",
+            "en": "Stand before the ancient ruins of this historic tower, a rare remnant of the medieval past, and read the informative plaques nearby to fully grasp its original defensive significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré-See",
+            "hu": "Prieuré-tó",
+            "ro": "Lacul Prieuré",
+            "en": "Prieuré Lake"
+          },
+          "coords": [
+            -1.088006,
+            48.57276
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses ruhige Gewässer, das atemberaubende Spiegelungen der Umgebung bietet, und packen Sie ein leichtes Picknick für die Tische am Nordufer ein.",
+            "hu": "Sétáljon egyet e nyugodt tó körül, amely a környező növényzet lenyűgöző tükröződését kínálja, és csomagoljon egy könnyű pikniket, amelyet az északi szélénél lévő asztaloknál fogyaszthat el.",
+            "ro": "Plimbați-vă în jurul acestei ape liniștite care oferă reflexii uimitoare ale verdeții din jur și împachetați un picnic ușor pentru a vă bucura la mesele de pe malul nordic.",
+            "en": "Stroll around this tranquil body of water that offers stunning reflections of the surrounding greenery, and pack a light picnic to enjoy at the charming tables located near the northern edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf",
+            "hu": "Minigolf",
+            "ro": "Mini-golf",
+            "en": "Mini-golf"
+          },
+          "coords": [
+            -1.091396,
+            48.574805
+          ],
+          "category": "family",
+          "arrive_at": "13:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie einen unterhaltsamen Nachmittag bei dieser gepflegten Familienattraktion, ideal zum Entspannen nach dem Sightseeing, aber denken Sie daran, Bargeld mitzubringen.",
+            "hu": "Töltsön el egy vidám délutánt ezen a jól karbantartott családi látványosságon, amely tökéletes a városnézés utáni kikapcsolódásra, de ne felejtsen el készpénzt hozni magával.",
+            "ro": "Bucurați-vă de o după-amiază plină de distracție la această atracție familială, perfectă pentru relaxare, dar amintiți-vă să aduceți numerar deoarece uneori cardurile nu sunt acceptate.",
+            "en": "Enjoy a fun-filled afternoon at this well-maintained family attraction, perfect for unwinding after sightseeing, but remember to bring cash as card payments might occasionally not be accepted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf der belebten Markthalle und genießen Sie die lebhafte lokale Atmosphäre. \nGegen Mittag begeben Sie sich zum spirituellen Zentrum der Stadt an der Kapelle und der zentralen Kirche. \nVerbringen Sie einen entspannten Nachmittag bei den mittelalterlichen Überresten des alten Turms, bevor Sie zum ruhigen See spazieren. \nBeenden Sie den Abend mit Spaß beim Minigolf.",
+        "hu": "Kezdje a reggelt a nyüzsgő fedett piacon, élvezve a vibráló helyi hangulatot. \nDélben térjen át a város spirituális központjába, a kápolnához és az ikonikus központi templomhoz. \nTöltsön el egy pihentető délutánt a régi torony középkori maradványainak felfedezésével, mielőtt a békés tóhoz sétálna. \nZárja az estét könnyed szórakozással a helyi minigolfpályán.",
+        "ro": "Începeți dimineața la piața acoperită, bucurându-vă de atmosfera locală vibrantă. \nLa prânz, mergeți spre inima spirituală a orașului la capela și la biserica centrală emblematică. \nPetreceți o după-amiază relaxantă descoperind rămășițele medievale ale vechiului turn înainte de a vă plimba spre lac. \nÎncheiați-vă seara cu o distracție ușoară la terenul local de mini-golf.",
+        "en": "Start your morning at the bustling covered market, taking in the vibrant local atmosphere. \nBy midday, transition towards the town's spiritual heart at the Chapelle Saint-Yves and the iconic central church. \nSpend a relaxing afternoon discovering the medieval remnants of the old tower before strolling to the serene lake. \nConclude your evening with lighthearted fun at the local mini-golf course."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 3.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett Piac",
+            "ro": "Piața Acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            -1.099075,
+            48.580778
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieser historischen Markthalle mit lokalen normannischen Produkten und kommen Sie mittwochs früh für den besten Cidre und Käse.",
+            "hu": "Tapasztalja meg ennek a történelmi fedett piacnak a nyüzsgő hangulatát, amely elengedhetetlen a helyi normandiai termékekhez, és érkezzen szerdán korán a legjobb sajtért.",
+            "ro": "Experimentați atmosfera plină de viață a acestei piețe istorice acoperite, esențială pentru produsele locale normande, și ajungeți devreme miercurea pentru cel mai bun cidru.",
+            "en": "Experience the lively atmosphere of this historic covered market, essential for local Norman produce, and arrive early on Wednesdays for the best cider and cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Yves",
+            "hu": "Saint-Yves Kápolna",
+            "ro": "Capela Saint-Yves",
+            "en": "Chapel of Saint-Yves"
+          },
+          "coords": [
+            -1.103395,
+            48.581685
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte und doch schöne Architektur dieser ruhigen religiösen Stätte, an der ein Moment der Besinnung im friedlichen Garten sehr zu empfehlen ist.",
+            "hu": "Csodálja meg e csendes vallási helyszín egyszerű, mégis gyönyörű építészetét, amely fontos spirituális mérföldkő, ahol érdemes egy percet elidőzni a békés kertben.",
+            "ro": "Admirați arhitectura simplă, dar frumoasă a acestui loc religios liniștit, un reper spiritual important unde un moment de reflecție în grădina pașnică este foarte recomandat.",
+            "en": "Admire the simple yet beautiful architecture of this quiet religious site, an important spiritual landmark where taking a moment of reflection in the peaceful garden is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Manoir du Jardin",
+            "hu": "Manoir du Jardin",
+            "ro": "Conacul Manoir du Jardin",
+            "en": "Manoir du Jardin"
+          },
+          "coords": [
+            -1.102999,
+            48.569032
+          ],
+          "category": "castle",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitlose Eleganz dieses großen historischen Herrenhauses, das die aristokratischen Wurzeln der Region widerspiegelt, und gehen Sie um das Gebäude herum.",
+            "hu": "Fedezze fel ennek a nagyszerű történelmi udvarháznak az időtlen eleganciáját, és tegyen egy sétát a kerülete mentén, hogy megcsodálja a szépen megőrzött külső kőműves munkákat.",
+            "ro": "Descoperiți eleganța atemporală a acestui conac istoric, reflectând rădăcinile aristocratice ale regiunii, și plimbați-vă în jurul său pentru a aprecia zidăria exterioară.",
+            "en": "Discover the timeless elegance of this grand historic manor house, reflecting the deep aristocratic roots of the region, and walk around its perimeter to appreciate the preserved exterior stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré-See",
+            "hu": "Prieuré-tó",
+            "ro": "Lacul Prieuré",
+            "en": "Prieuré Lake"
+          },
+          "coords": [
+            -1.088006,
+            48.57276
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses ruhige Gewässer, das atemberaubende Spiegelungen der Umgebung bietet, und packen Sie ein leichtes Picknick für die Tische am Nordufer ein.",
+            "hu": "Sétáljon egyet e nyugodt tó körül, amely a környező növényzet lenyűgöző tükröződését kínálja, és csomagoljon egy könnyű pikniket, amelyet az északi szélénél lévő asztaloknál fogyaszthat el.",
+            "ro": "Plimbați-vă în jurul acestei ape liniștite care oferă reflexii uimitoare ale verdeții din jur și împachetați un picnic ușor pentru a vă bucura la mesele de pe malul nordic.",
+            "en": "Stroll around this tranquil body of water that offers stunning reflections of the surrounding greenery, and pack a light picnic to enjoy at the charming tables located near the northern edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Turm",
+            "hu": "A Régi Torony",
+            "ro": "Vechiul Turn",
+            "en": "The Old Tower"
+          },
+          "coords": [
+            -1.092608,
+            48.575322
+          ],
+          "category": "tower",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Stehen Sie vor den alten Ruinen dieses historischen Turms, einem seltenen Überrest der mittelalterlichen Vergangenheit, und lesen Sie die Informationstafeln in der Nähe.",
+            "hu": "Álljon meg a történelmi torony ősi romjai előtt, amely a középkori múlt ritka emléke, és olvassa el a közeli tájékoztató táblákat, hogy teljesen megértse a védelmi jelentőségét.",
+            "ro": "Stați în fața ruinelor antice ale acestui turn istoric, o rămășiță rară a trecutului medieval, și citiți plăcile informative din apropiere pentru a-i înțelege rolul defensiv.",
+            "en": "Stand before the ancient ruins of this historic tower, a rare remnant of the medieval past, and read the informative plaques nearby to fully grasp its original defensive significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Hilaire",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.092736,
+            48.576771
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden Buntglasfenster und die robuste Struktur dieser zentralen Kirche und betrachten Sie das Kirchenschiff, wenn das Nachmittagslicht einfällt.",
+            "hu": "Fedezze fel ennek a központi templomnak a lenyűgöző ólomüvegét és robusztus szerkezetét, és mindenképpen nézze meg a főhajót, amikor a délutáni napfény beárad rajta.",
+            "ro": "Explorați vitraliile uimitoare și structura robustă a acestei biserici centrale, o mărturie a reconstrucției orașului, și asigurați-vă că priviți naosul în lumina după-amiezii.",
+            "en": "Explore the stunning stained glass and robust structure of this central church, a testament to the town's rebuilding, and make sure to view the nave when the afternoon sunlight streams in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie in den Tag, indem Sie zur historischen Markthalle radeln, um das morgendliche Treiben zu genießen. \nGegen Mittag erkunden Sie die ruhige Kapelle und das große Herrenhaus außerhalb des Zentrums. \nIhr Nachmittag bietet eine erfrischende Radtour um den See, ideal zum Entspannen. \nBeenden Sie die Tour, indem Sie zurückgleiten, um den alten Turm und die Hauptkirche zu bewundern.",
+        "hu": "Kezdje a napot a történelmi fedett piacra pedálozva, hogy magába szívja a reggeli zsongást. \nDélben tekerjen el a csendes kápolnához és a központtól kissé távolabb fekvő nagyszerű udvarházhoz. \nA délután egy frissítő kerékpározást kínál a nyugodt tó körül, amely tökéletes a kikapcsolódásra. \nFejezze be a túrát visszagurulva, hogy megcsodálja az ősi tornyot és a főtemplomot.",
+        "ro": "Începeți-vă ziua pedalând spre piața istorică pentru a vă bucura de agitația matinală. \nLa prânz, mergeți să explorați liniștita capelă și grandiosul conac aflat puțin în afara centrului. \nDupă-amiaza oferă o plimbare răcoritoare cu bicicleta în jurul lacului, perfectă pentru relaxare. \nTerminați turul alunecând înapoi pentru a admira vechiul turn și biserica principală.",
+        "en": "Kick off your day pedaling to the historic covered market to soak in the regional morning buzz. \nAround midday, ride out to explore the quiet Chapelle Saint-Yves and the grand Manor House slightly outside the center. \nYour afternoon offers a refreshing cycle around the tranquil Prieuré Lake, perfect for unwinding. \nFinish the tour by gliding back to admire the ancient tower and the main church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Parigny",
+            "hu": "Parigny Kastély",
+            "ro": "Castelul Parigny",
+            "en": "Parigny Castle"
+          },
+          "coords": [
+            -1.079346,
+            48.592269
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Silhouette dieser historischen Burg, die die ländliche Landschaft dominiert, und fotografieren Sie sie vom Aussichtspunkt an der Straße aus.",
+            "hu": "Csodálja meg ennek a vidéki tájat uraló történelmi kastélynak az impozáns sziluettjét, amely bepillantást enged a feudális időkbe, és fényképezzen az út menti kilátóból.",
+            "ro": "Minunați-vă de silueta impunătoare a acestui castel istoric care domină peisajul rural, oferind o privire în timpurile feudale, și faceți fotografii de la punctul de belvedere.",
+            "en": "Marvel at the imposing silhouette of this historic castle that dominates the rural landscape, offering a glimpse into feudal times, and take photos from the roadside viewpoint for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Church of Notre-Dame"
+          },
+          "coords": [
+            -1.079669,
+            48.593976
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Heiligtum in der nahen Landschaft, das für seine ruhige Atmosphäre bekannt ist, und betrachten Sie den wunderschön geschnitzten Holzaltar.",
+            "hu": "Látogasson el ebbe a közeli vidéken fekvő, békés hangulatáról ismert bájos vallási szentélybe, és figyelje meg a gyönyörűen faragott faoltárt, amely a belső tér fénypontja.",
+            "ro": "Vizitați acest sanctuar religios fermecător situat în zona rurală din apropiere, cunoscut pentru atmosfera sa liniștită, și observați altarul de lemn frumos sculptat.",
+            "en": "Visit this charming religious sanctuary set in the nearby countryside, known for its tranquil atmosphere, and observe the beautifully carved wooden altarpiece which is the highlight of the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett Piac",
+            "ro": "Piața Acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            -1.099075,
+            48.580778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieser historischen Markthalle mit lokalen normannischen Produkten und kommen Sie mittwochs früh für den besten Cidre und Käse.",
+            "hu": "Tapasztalja meg ennek a történelmi fedett piacnak a nyüzsgő hangulatát, amely elengedhetetlen a helyi normandiai termékekhez, és érkezzen szerdán korán a legjobb sajtért.",
+            "ro": "Experimentați atmosfera plină de viață a acestei piețe istorice acoperite, esențială pentru produsele locale normande, și ajungeți devreme miercurea pentru cel mai bun cidru.",
+            "en": "Experience the lively atmosphere of this historic covered market, essential for local Norman produce, and arrive early on Wednesdays for the best cider and cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus Manoir du Jardin",
+            "hu": "Manoir du Jardin",
+            "ro": "Conacul Manoir du Jardin",
+            "en": "Manoir du Jardin"
+          },
+          "coords": [
+            -1.102999,
+            48.569032
+          ],
+          "category": "castle",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitlose Eleganz dieses großen historischen Herrenhauses, das die aristokratischen Wurzeln der Region widerspiegelt, und gehen Sie um das Gebäude herum.",
+            "hu": "Fedezze fel ennek a nagyszerű történelmi udvarháznak az időtlen eleganciáját, és tegyen egy sétát a kerülete mentén, hogy megcsodálja a szépen megőrzött külső kőműves munkákat.",
+            "ro": "Descoperiți eleganța atemporală a acestui conac istoric, reflectând rădăcinile aristocratice ale regiunii, și plimbați-vă în jurul său pentru a aprecia zidăria exterioară.",
+            "en": "Discover the timeless elegance of this grand historic manor house, reflecting the deep aristocratic roots of the region, and walk around its perimeter to appreciate the preserved exterior stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Hilaire",
+            "hu": "Saint-Hilaire Templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.092736,
+            48.576771
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden Buntglasfenster und die robuste Struktur dieser zentralen Kirche und betrachten Sie das Kirchenschiff, wenn das Nachmittagslicht einfällt.",
+            "hu": "Fedezze fel ennek a központi templomnak a lenyűgöző ólomüvegét és robusztus szerkezetét, és mindenképpen nézze meg a főhajót, amikor a délutáni napfény beárad rajta.",
+            "ro": "Explorați vitraliile uimitoare și structura robustă a acestei biserici centrale, o mărturie a reconstrucției orașului, și asigurați-vă că priviți naosul în lumina după-amiezii.",
+            "en": "Explore the stunning stained glass and robust structure of this central church, a testament to the town's rebuilding, and make sure to view the nave when the afternoon sunlight streams in."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré-See",
+            "hu": "Prieuré-tó",
+            "ro": "Lacul Prieuré",
+            "en": "Prieuré Lake"
+          },
+          "coords": [
+            -1.088006,
+            48.57276
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses ruhige Gewässer, das atemberaubende Spiegelungen der Umgebung bietet, und packen Sie ein leichtes Picknick für die Tische am Nordufer ein.",
+            "hu": "Sétáljon egyet e nyugodt tó körül, amely a környező növényzet lenyűgöző tükröződését kínálja, és csomagoljon egy könnyű pikniket, amelyet az északi szélénél lévő asztaloknál fogyaszthat el.",
+            "ro": "Plimbați-vă în jurul acestei ape liniștite care oferă reflexii uimitoare ale verdeții din jur și împachetați un picnic ușor pentru a vă bucura la mesele de pe malul nordic.",
+            "en": "Stroll around this tranquil body of water that offers stunning reflections of the surrounding greenery, and pack a light picnic to enjoy at the charming tables located near the northern edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum imposanten Château de Parigny und bewundern Sie die Architektur im Morgenlicht. \nBesuchen Sie am Mittag die nahe gelegene Kirche, bevor Sie zum belebten Stadtmarkt zurückkehren. \nAm Nachmittag fahren Sie zum klassischen Herrenhaus und der rekonstruierten zentralen Stadtkirche. \nBeenden Sie Ihren Roadtrip mit einem ruhigen Spaziergang an den Ufern des Prieuré-Sees.",
+        "hu": "Hajtson ki korán az impozáns Parigny kastélyhoz, és csodálja meg a nagyszerű építészetet a reggeli fényben. \nDélben látogasson el a közeli templomba, mielőtt visszatérne a nyüzsgő városi piacra. \nDélután autózzon a klasszikus udvarházhoz és az újjáépített központi templomhoz. \nZárja az autós utazást egy békés sétával a Prieuré-tó tágas partjainál.",
+        "ro": "Mergeți devreme cu mașina la impunătorul castel, asistând la arhitectura feudală în lumina dimineții. \nLa prânz, vizitați biserica din apropiere înainte de a vă întoarce la piața plină de viață. \nDupă-amiaza, conduceți la conacul clasic și la biserica centrală reconstruită a orașului. \nÎncheiați-vă excursia cu o plimbare pașnică de-a lungul malurilor extinse ale lacului Prieuré.",
+        "en": "Drive out early to the imposing Château de Parigny, witnessing the grand feudal architecture in the morning light. \nBy midday, visit the nearby Église Notre-Dame before heading back to the bustling town market. \nIn the afternoon, cruise over to the classic Manor House and the reconstructed central town church. \nConclude your road trip with a peaceful walk along the expansive shores of Prieuré Lake."
+      }
+    }
+  }
+}

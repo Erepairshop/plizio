@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-giulianova-cities-v2",
+  "anchor": {
+    "name": "Giulianova",
+    "coords": [
+      13.96679,
+      42.75357
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella Gentilizia de Bartolomei",
+            "hu": "Cappella Gentilizia de Bartolomei",
+            "ro": "Cappella Gentilizia de Bartolomei",
+            "en": "Cappella Gentilizia de Bartolomei"
+          },
+          "coords": [
+            13.958007,
+            42.750343
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotischen Details dieser privaten Familienkapelle und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie einen kurzen Spaziergang zum Hauptplatz machen.",
+            "hu": "Csodálja meg e magán családi kápolna neogótikus részleteit, különös tekintettel a bonyolult kőfaragásokra, mielőtt átsétálna a főtérre.",
+            "ro": "Admirați detaliile neogotice ale acestei capele private de familie, remarcând pietrăria complicată înainte de a face o scurtă plimbare până în piața principală.",
+            "en": "Admire the neo-Gothic details of this private family chapel, noting the intricate stonework before taking a short walk to the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Flaviano",
+            "hu": "Duomo di San Flaviano",
+            "ro": "Duomo di San Flaviano",
+            "en": "Duomo di San Flaviano"
+          },
+          "coords": [
+            13.957529,
+            42.751902
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die bemerkenswerte achteckige Kuppel dieser Renaissance-Kathedrale und betreten Sie die Krypta, wobei Sie früh ankommen sollten, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a reneszánsz katedrálisnak a figyelemre méltó nyolcszögletű kupoláját, majd lépjen be a kriptába; érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Priviți cupola octogonală remarcabilă a acestei catedrale renascentiste, intrând pentru a vizita cripta și sosind devreme pentru a evita soarele amiezii.",
+            "en": "Gaze at the remarkable octagonal dome of this Renaissance cathedral, stepping inside to view the crypt and arriving early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Della Misericordia",
+            "hu": "Chiesa Della Misericordia",
+            "ro": "Chiesa Della Misericordia",
+            "en": "Chiesa Della Misericordia"
+          },
+          "coords": [
+            13.956582,
+            42.751763
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante zentrale Kirche ein, um ihre gut erhaltenen Fresken zu betrachten, und achten Sie bei Ihrem Besuch auf angemessene Kleidung.",
+            "hu": "Lépjen be ebbe a bájos központi templomba, hogy megtekintse jó állapotban fennmaradt freskóit, és ügyeljen a visszafogott öltözködésre a látogatás során.",
+            "ro": "Pășiți în această fermecătoare biserică centrală pentru a vedea frescele sale bine conservate, asigurându-vă că sunteți îmbrăcați decent pentru vizită.",
+            "en": "Step inside this charming central church to view its well-preserved frescoes, making sure to dress modestly for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Polo Museale Civico La Rocca",
+            "hu": "Polo Museale Civico La Rocca",
+            "ro": "Polo Museale Civico La Rocca",
+            "en": "Polo Museale Civico La Rocca"
+          },
+          "coords": [
+            13.954892,
+            42.752137
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Stadtbefestigung und achten Sie besonders auf die archäologischen Ausstellungen im Untergeschoss.",
+            "hu": "Fedezze fel a város ősi erődítményeinek maradványait, különös figyelmet fordítva az alsó szinten található régészeti kiállításokra.",
+            "ro": "Explorați rămășițele vechilor fortificații ale orașului, acordând o atenție deosebită exponatelor arheologice de la etajul inferior.",
+            "en": "Explore the remnants of the town's ancient fortifications, paying special attention to the archaeological exhibits on the lower floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte dello Splendore",
+            "hu": "Museo d'arte dello Splendore",
+            "ro": "Museo d'arte dello Splendore",
+            "en": "Museo d'arte dello Splendore"
+          },
+          "coords": [
+            13.952988,
+            42.757692
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung zeitgenössischer Kunst und heiliger Reliquien und genießen Sie anschließend einen ruhigen Moment auf der malerischen Terrasse des Museums.",
+            "hu": "Fedezzen fel egy gazdag kortárs művészeti és szent ereklye gyűjteményt, majd utána élvezzen egy csendes pillanatot a múzeum festői teraszán.",
+            "ro": "Descoperiți o colecție bogată de artă contemporană și relicve sacre, bucurându-vă ulterior de un moment de liniște pe terasa panoramică a muzeului.",
+            "en": "Discover a rich collection of contemporary art and sacred relics, enjoying a quiet moment on the museum's scenic terrace afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der eleganten Oberstadt an der historischen Cappella Gentilizia. Der Mittag entfaltet sich rund um den einzigartigen achteckigen Dom und die Misericordia-Kirche. Der Nachmittag ist der Entdeckung der Stadtgeschichte in La Rocca gewidmet. Der Abend endet mit Kunst und weiten Ausblicken im Splendore-Museum.",
+        "hu": "A reggel az elegáns felsővárosban, a történelmi Cappella Gentilizia kápolnánál kezdődik. A dél környéke az egyedülálló nyolcszögletű dóm és a Misericordia templom felfedezésével telik. A délután a városi történelem megismerésére összpontosít a La Rocca múzeumban. Az este képzőművészettel és pazar kilátással zárul a Splendore múzeumban.",
+        "ro": "Dimineața începe în elegantul oraș de sus, la istorica Cappella Gentilizia. Amiaza se desfășoară în jurul domului octogonal unic și al bisericii Misericordia. După-amiaza este dedicată descoperirii istoriei civice la muzeul La Rocca. Seara se încheie cu artă rafinată și priveliști panoramice la muzeul Splendore.",
+        "en": "Morning starts in the elegant upper town at the historic Cappella Gentilizia. Midday unfolds around the unique octagonal Duomo and Misericordia church. The afternoon is dedicated to discovering the civic history at La Rocca. Evening concludes with fine art and sweeping views at the Splendore museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre del Salinello",
+            "hu": "Torre del Salinello",
+            "ro": "Torre del Salinello",
+            "en": "Torre del Salinello"
+          },
+          "coords": [
+            13.957828,
+            42.763012
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von diesem historischen Küstenwachturm und halten Sie Ausschau nach den Informationstafeln, die seine Verteidigungsgeschichte detailliert beschreiben.",
+            "hu": "Készítsen fotókat erről a történelmi tengerparti őrtoronyról, és keresse meg a védelmi történelmét részletező információs táblákat.",
+            "ro": "Faceți fotografii acestui turn de veghe istoric de pe coastă, căutând plăcile informative care detaliază istoria sa defensivă.",
+            "en": "Take photos of this historical coastal watchtower, keeping an eye out for the informational plaques detailing its defense history."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tellina",
+            "hu": "La Tellina",
+            "ro": "La Tellina",
+            "en": "La Tellina"
+          },
+          "coords": [
+            13.963527,
+            42.763572
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang entlang der lebhaften Strandeinrichtungen und halten Sie an, um einen schnellen Espresso oder Gelato an einem nahegelegenen Kiosk zu trinken.",
+            "hu": "Élvezze a pihentető sétát a nyüzsgő strandlétesítmények mentén, és álljon meg egy gyors eszpresszóra vagy fagyira egy közeli kioszknál.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul facilităților de plajă vibrante, oprindu-vă pentru un espresso rapid sau o înghețată la un chioșc din apropiere.",
+            "en": "Enjoy a relaxing stroll along the vibrant beach facilities, stopping to grab a quick espresso or gelato at a nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pietro Apostolo",
+            "hu": "San Pietro Apostolo",
+            "ro": "San Pietro Apostolo",
+            "en": "San Pietro Apostolo"
+          },
+          "coords": [
+            13.963111,
+            42.757847
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese moderne und geräumige Kirche in Meeresnähe und schätzen Sie ihre luftige Architektur und ruhige Atmosphäre, bevor Sie Ihre Fahrt fortsetzen.",
+            "hu": "Látogasson el ebbe a tengerközeli, modern és tágas templomba, és élvezze annak szellős építészetét és csendes hangulatát, mielőtt folytatná útját.",
+            "ro": "Vizitați această biserică modernă și spațioasă de lângă mare, apreciind arhitectura sa aerisită și ambianța liniștită înainte de a vă continua drumul.",
+            "en": "Visit this modern and spacious church near the sea, appreciating its airy architecture and quiet ambiance before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Boat",
+            "hu": "Boat",
+            "ro": "Boat",
+            "en": "Boat"
+          },
+          "coords": [
+            13.971211,
+            42.754902
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem ikonischen Hafenmonument zu Ehren lokaler Fischer, das am besten im weichen Licht des Morgens oder späten Nachmittags betrachtet wird.",
+            "hu": "Készítsen egy fotót ennél az ikonikus, helyi halászokat tisztelő kikötői emlékműnél, amely a kora reggeli vagy késő délutáni lágy fényben mutat a legjobban.",
+            "ro": "Faceți o fotografie lângă acest monument simbolic al portului care onorează pescarii locali, văzut cel mai bine în lumina blândă a dimineții sau a după-amiezii târzii.",
+            "en": "Snap a photo by this iconic harbor monument honoring local fishermen, best viewed during the soft light of the morning or late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Ennio Flaiano",
+            "hu": "Anfiteatro Ennio Flaiano",
+            "ro": "Anfiteatro Ennio Flaiano",
+            "en": "Anfiteatro Ennio Flaiano"
+          },
+          "coords": [
+            13.97337,
+            42.74923
+          ],
+          "category": "cultural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Gehen Sie um diesen Freiluftveranstaltungsort herum, der dem berühmten Schriftsteller gewidmet ist, und prüfen Sie die lokalen Spielpläne für abendliche Aufführungen im Sommer.",
+            "hu": "Sétáljon körbe a híres írónak szentelt szabadtéri helyszínen, és nyáron ellenőrizze a helyi programokat esetleges esti előadások miatt.",
+            "ro": "Plimbați-vă în jurul acestui loc în aer liber dedicat faimosului scriitor, verificând programele locale în caz de spectacole de seară pe timp de vară.",
+            "en": "Walk around this open-air venue dedicated to the famous writer, checking local schedules in case of evening performances during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Flaviano",
+            "hu": "Duomo di San Flaviano",
+            "ro": "Duomo di San Flaviano",
+            "en": "Duomo di San Flaviano"
+          },
+          "coords": [
+            13.957529,
+            42.751902
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die bemerkenswerte achteckige Kuppel dieser Renaissance-Kathedrale und betreten Sie die Krypta, wobei Sie früh ankommen sollten, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a reneszánsz katedrálisnak a figyelemre méltó nyolcszögletű kupoláját, majd lépjen be a kriptába; érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Priviți cupola octogonală remarcabilă a acestei catedrale renascentiste, intrând pentru a vizita cripta și sosind devreme pentru a evita soarele amiezii.",
+            "en": "Gaze at the remarkable octagonal dome of this Renaissance cathedral, stepping inside to view the crypt and arriving early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte dello Splendore",
+            "hu": "Museo d'arte dello Splendore",
+            "ro": "Museo d'arte dello Splendore",
+            "en": "Museo d'arte dello Splendore"
+          },
+          "coords": [
+            13.952988,
+            42.757692
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung zeitgenössischer Kunst und heiliger Reliquien und genießen Sie anschließend einen ruhigen Moment auf der malerischen Terrasse des Museums.",
+            "hu": "Fedezzen fel egy gazdag kortárs művészeti és szent ereklye gyűjteményt, majd utána élvezzen egy csendes pillanatot a múzeum festői teraszán.",
+            "ro": "Descoperiți o colecție bogată de artă contemporană și relicve sacre, bucurându-vă ulterior de un moment de liniște pe terasa panoramică a muzeului.",
+            "en": "Discover a rich collection of contemporary art and sacred relics, enjoying a quiet moment on the museum's scenic terrace afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Salinello-Turm an der Nordküste, bevor Sie sich bei La Tellina entspannen. Mittags radeln Sie zur imposanten Kirche San Pietro Apostolo und besichtigen das Hafenmonument. Verbringen Sie den Nachmittag damit, das große Amphitheater Ennio Flaiano in Meeresnähe zu erkunden. Beenden Sie Ihren Tag mit einem Aufstieg zum Dom der Oberstadt und dem herrlichen Kunstmuseum.",
+        "hu": "Kezdje a reggelt az északi parton álló történelmi Salinello toronynál, majd pihenjen meg a La Tellina strandon. Délben tekerjen el az impozáns San Pietro Apostolo templomhoz, és nézze meg a kikötői hajó emlékművet. A délutánt a tengerközeli hatalmas Ennio Flaiano amfiteátrum felfedezésével töltheti. A napot a felsővárosi dóm és a pompás művészeti múzeum megtekintésével zárja.",
+        "ro": "Începeți dimineața la istoricul turn Salinello de pe coasta de nord, înainte de a vă relaxa la La Tellina. La prânz, pedalați spre impunătoarea biserică San Pietro Apostolo și vedeți monumentul cu barcă din port. Petreceți după-amiaza explorând marele amfiteatru Ennio Flaiano, aproape de mare. Încheiați ziua urcând la domul din orașul de sus și la splendidul muzeu de artă.",
+        "en": "Kick off your morning at the historic Salinello tower on the northern coast before relaxing at La Tellina. By noon, cycle to the imposing San Pietro Apostolo and check out the harbor's Boat monument. Spend the afternoon exploring the grand Ennio Flaiano amphitheater near the sea. Finish your day climbing to the upper town's Duomo and the splendid art museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 5.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castrum Novum",
+            "hu": "Castrum Novum",
+            "ro": "Castrum Novum",
+            "en": "Castrum Novum"
+          },
+          "coords": [
+            13.9691,
+            42.737483
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken römischen Ruinen dieser Küstensiedlung und tragen Sie festes Schuhwerk, um bequem durch die unbefestigten archäologischen Bereiche zu navigieren.",
+            "hu": "Csodálja meg e tengerparti település ókori római romjait, és viseljen kényelmes cipőt a burkolatlan régészeti területek könnyed bejárásához.",
+            "ro": "Minunați-vă de vechile ruine romane ale acestei așezări de la malul mării, purtând încălțăminte robustă pentru a naviga confortabil prin zonele arheologice neasfaltate.",
+            "en": "Marvel at the ancient Roman ruins of this seaside settlement, wearing sturdy shoes to comfortably navigate the unpaved archaeological areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria a Mare",
+            "hu": "Chiesa di Santa Maria a Mare",
+            "ro": "Chiesa di Santa Maria a Mare",
+            "en": "Chiesa di Santa Maria a Mare"
+          },
+          "coords": [
+            13.971349,
+            42.738371
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kirche ein, die für ihr antikes Portal bekannt ist, und verbinden Sie Ihren Besuch mit dem nahegelegenen archäologischen Park.",
+            "hu": "Lépjen be ebbe az ősi portáljáról ismert történelmi templomba, és kösse össze látogatását a közeli régészeti parkkal.",
+            "ro": "Pășiți în această biserică istorică cunoscută pentru portalul său antic, combinând vizita dumneavoastră cu parcul arheologic din apropiere.",
+            "en": "Step into this historical church known for its ancient portal, combining your visit with the nearby archaeological park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santissima Annunziata",
+            "hu": "Parrocchia Santissima Annunziata",
+            "ro": "Parrocchia Santissima Annunziata",
+            "en": "Parrocchia Santissima Annunziata"
+          },
+          "coords": [
+            13.97451,
+            42.743233
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einladende Architektur dieser lokalen Pfarrei, ein idealer kurzer Zwischenstopp für einen Moment der Besinnung während der Erkundung der Küstenstadt.",
+            "hu": "Csodálja meg ennek a helyi plébániának a hívogató építészetét, amely ideális rövid megálló egy pillanatnyi elmélkedésre a tengerparti város felfedezése közben.",
+            "ro": "Admirați arhitectura primitoare a acestei parohii locale, o oprire scurtă ideală pentru un moment de reflecție în timp ce explorați orașul de coastă.",
+            "en": "Admire the welcoming architecture of this local parish, an ideal brief stop for a moment of reflection while exploring the coastal town."
+          }
+        },
+        {
+          "name": {
+            "de": "Boat",
+            "hu": "Boat",
+            "ro": "Boat",
+            "en": "Boat"
+          },
+          "coords": [
+            13.971211,
+            42.754902
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem ikonischen Hafenmonument zu Ehren lokaler Fischer, das am besten im weichen Licht des Morgens oder späten Nachmittags betrachtet wird.",
+            "hu": "Készítsen egy fotót ennél az ikonikus, helyi halászokat tisztelő kikötői emlékműnél, amely a kora reggeli vagy késő délutáni lágy fényben mutat a legjobban.",
+            "ro": "Faceți o fotografie lângă acest monument simbolic al portului care onorează pescarii locali, văzut cel mai bine în lumina blândă a dimineții sau a după-amiezii târzii.",
+            "en": "Snap a photo by this iconic harbor monument honoring local fishermen, best viewed during the soft light of the morning or late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Don Juan",
+            "hu": "Don Juan",
+            "ro": "Don Juan",
+            "en": "Don Juan"
+          },
+          "coords": [
+            13.963004,
+            42.764482
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strandabschnitt und genießen Sie die erfrischende Meeresbrise, wobei Sie eine Sonnenliege mieten können, falls Sie länger bleiben.",
+            "hu": "Pihenjen ezen a népszerű partszakaszon, élvezze a frissítő tengeri szellőt, és béreljen napágyat, ha hosszabb időt tervez itt tölteni.",
+            "ro": "Relaxați-vă pe această porțiune populară de plajă și bucurați-vă de briza răcoroasă a mării, închiriind un șezlong dacă plănuiți să stați mai mult.",
+            "en": "Relax along this popular stretch of beach and enjoy the refreshing sea breeze, renting a sunbed if you plan to stay a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di San Flaviano",
+            "hu": "Duomo di San Flaviano",
+            "ro": "Duomo di San Flaviano",
+            "en": "Duomo di San Flaviano"
+          },
+          "coords": [
+            13.957529,
+            42.751902
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die bemerkenswerte achteckige Kuppel dieser Renaissance-Kathedrale und betreten Sie die Krypta, wobei Sie früh ankommen sollten, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a reneszánsz katedrálisnak a figyelemre méltó nyolcszögletű kupoláját, majd lépjen be a kriptába; érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Priviți cupola octogonală remarcabilă a acestei catedrale renascentiste, intrând pentru a vizita cripta și sosind devreme pentru a evita soarele amiezii.",
+            "en": "Gaze at the remarkable octagonal dome of this Renaissance cathedral, stepping inside to view the crypt and arriving early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Polo Museale Civico La Rocca",
+            "hu": "Polo Museale Civico La Rocca",
+            "ro": "Polo Museale Civico La Rocca",
+            "en": "Polo Museale Civico La Rocca"
+          },
+          "coords": [
+            13.954892,
+            42.752137
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Stadtbefestigung und achten Sie besonders auf die archäologischen Ausstellungen im Untergeschoss.",
+            "hu": "Fedezze fel a város ősi erődítményeinek maradványait, különös figyelmet fordítva az alsó szinten található régészeti kiállításokra.",
+            "ro": "Explorați rămășițele vechilor fortificații ale orașului, acordând o atenție deosebită exponatelor arheologice de la etajul inferior.",
+            "en": "Explore the remnants of the town's ancient fortifications, paying special attention to the archaeological exhibits on the lower floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d'arte dello Splendore",
+            "hu": "Museo d'arte dello Splendore",
+            "ro": "Museo d'arte dello Splendore",
+            "en": "Museo d'arte dello Splendore"
+          },
+          "coords": [
+            13.952988,
+            42.757692
+          ],
+          "category": "museum",
+          "arrive_at": "15:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung zeitgenössischer Kunst und heiliger Reliquien und genießen Sie anschließend einen ruhigen Moment auf der malerischen Terrasse des Museums.",
+            "hu": "Fedezzen fel egy gazdag kortárs művészeti és szent ereklye gyűjteményt, majd utána élvezzen egy csendes pillanatot a múzeum festői teraszán.",
+            "ro": "Descoperiți o colecție bogată de artă contemporană și relicve sacre, bucurându-vă ulterior de un moment de liniște pe terasa panoramică a muzeului.",
+            "en": "Discover a rich collection of contemporary art and sacred relics, enjoying a quiet moment on the museum's scenic terrace afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einem Eintauchen in die antike römische Geschichte bei den Ruinen von Castrum Novum und der nahegelegenen Santa Maria a Mare. Mittags fahren Sie die belebte Küste hinauf zur Pfarrei Annunziata und zum zentralen Hafenmonument. Der Nachmittag bringt eine Küstenpause bei Don Juan, bevor Sie zum ikonischen Dom der Altstadt fahren. Der Abend endet mit einem tiefen kulturellen Eintauchen in die Museen La Rocca und Splendore.",
+        "hu": "A nap a Castrum Novum római kori romjainak és a közeli Santa Maria a Mare templomnak a felfedezésével indul. Délben a nyüzsgő part mentén az Annunziata plébániához és a kikötő központi emlékművéhez vezet az út. A délután egy tengerparti pihenőt hoz a Don Juan-nál, majd felhajt a történelmi központ ikonikus dómjához. Az este mély kulturális elmerüléssel zárul a La Rocca és a Splendore múzeumokban.",
+        "ro": "Ziua dumneavoastră începe cu o incursiune în istoria romană antică la ruinele Castrum Novum și la biserica apropiată Santa Maria a Mare. Amiaza vă poartă pe coasta animată către parohia Annunziata și monumentul central al portului. După-amiaza aduce o pauză de coastă la Don Juan, înainte de a conduce spre domul iconic din centrul istoric. Seara se încheie cu o imersiune culturală profundă la muzeele La Rocca și Splendore.",
+        "en": "Your day begins with a dive into ancient Roman history at the Castrum Novum ruins and the nearby Santa Maria a Mare. Midday takes you up the bustling coast to the Annunziata parish and the central harbor monument. Afternoon brings a coastal break at Don Juan before driving up to the historic center's iconic Duomo. Evening concludes with a deep cultural immersion at La Rocca and Splendore museums."
+      }
+    }
+  }
+}

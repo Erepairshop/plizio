@@ -1,0 +1,428 @@
+{
+  "city_id": "thailand-mae-sai-cities-v2",
+  "anchor": {
+    "name": "Mae Sai",
+    "coords": [
+      99.883611,
+      20.428056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:16",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nördlichster Punkt Thailands (Schild)",
+            "hu": "Thaiföld legészakibb pontját jelző tábla",
+            "ro": "Semnul celui mai nordic punct din Thailanda",
+            "en": "Northernmost point in Thailand sign"
+          },
+          "coords": [
+            99.880622,
+            20.444342
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Erinnerungsfoto am ikonischen Torbogen, der den nördlichsten Punkt Thailands markiert und das Grenzleben symbolisiert, aber kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Készítsen egy emlékezetes fotót Thaiföld legészakibb pontját jelző ikonikus kapunál, amely a határ menti életet szimbolizálja, de érkezzen korán, hogy elkerülje az árusok tömegét.",
+            "ro": "Faceți o fotografie memorabilă la arcada iconică ce marchează cel mai nordic punct al Thailandei, un simbol al vieții de graniță, și veniți devreme pentru a evita mulțimile de comercianți.",
+            "en": "Snap a memorable photo at the iconic archway marking Thailand's northernmost boundary, a symbol of bordertown life, and come early to avoid the bustling merchant crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Wao Tempel",
+            "hu": "Wat Phra That Doi Wao templom",
+            "ro": "Templul Wat Phra That Doi Wao",
+            "en": "Wat Phra That Doi Wao"
+          },
+          "coords": [
+            99.879994,
+            20.442127
+          ],
+          "category": "landmark",
+          "arrive_at": "09:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und den Panoramablick auf die Grenze von diesem verehrten Hügeltempel aus, aber denken Sie daran, Schultern und Knie bedeckende Kleidung zu tragen.",
+            "hu": "Csodálja meg a lenyűgöző építészetet és a határra nyíló panorámát ebből a tisztelt hegytetőn álló templomból, és ne feledjen vállat és térdet takaró, visszafogott ruházatot viselni.",
+            "ro": "Admirați arhitectura uimitoare și priveliștile panoramice de la acest templu venerat de pe deal, dar nu uitați să purtați haine decente care vă acoperă umerii și genunchii.",
+            "en": "Admire the striking architecture and panoramic border views from this revered hilltop temple, but remember to wear conservative clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Skywalk (50 Baht Eintritt)",
+            "hu": "Skywalk (50 baht belépő)",
+            "ro": "Skywalk (intrare 50 bahți)",
+            "en": "Skywalk (50B entry)"
+          },
+          "coords": [
+            99.877778,
+            20.443911
+          ],
+          "category": "landmark",
+          "arrive_at": "09:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie die transparente Glasplattform für einen aufregenden Blick auf Thailand und Myanmar und halten Sie die kleine Gebühr von 50 Baht am Eingang passend bereit.",
+            "hu": "Lépjen az átlátszó üvegplatformra, ahonnan izgalmas, zavartalan kilátás nyílik Thaiföldre és Mianmarra, a kis 50 bahtos belépőt pedig pontos összeggel fizesse ki a bejáratnál.",
+            "ro": "Pășiți pe platforma de sticlă transparentă pentru o priveliște captivantă spre Thailanda și Myanmar, plătind mica taxă de 50 de bahți la intrare cu bani potriviți.",
+            "en": "Step onto the transparent glass platform for a thrilling, uninterrupted view of both Thailand and Myanmar, paying the small 50-baht fee at the entrance kiosk in exact change."
+          }
+        },
+        {
+          "name": {
+            "de": "Skorpionberg (Doi Wao)",
+            "hu": "Skorpió-hegy (Doi Wao)",
+            "ro": "Muntele Scorpionului (Doi Wao)",
+            "en": "Scorpion Mountain (Doi Wao)"
+          },
+          "coords": [
+            99.87765,
+            20.442836
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Wandern Sie die sanften Hänge dieses natürlichen Aussichtspunkts hinauf, um das üppige Grün und die Skorpionstatue zu genießen, und bringen Sie Wasser mit, um im feuchten Klima hydriert zu bleiben.",
+            "hu": "Túrázzon fel a természetes kilátópont lankás lejtőin, élvezze a buja zöldet és az óriási skorpiószobrot, és vigyen magával vizet, hogy hidratált maradjon a párás klímában.",
+            "ro": "Urcați pe pantele blânde ale acestui punct de belvedere natural pentru a admira statuia scorpionului uriaș, aducând apă pentru a vă menține hidratat în climatul tropical umed.",
+            "en": "Hike up the gentle slopes of this natural vantage point to enjoy lush greenery and a giant scorpion statue, bringing a bottle of water to stay hydrated in the humid tropical climate."
+          }
+        },
+        {
+          "name": {
+            "de": "Tham Pha Chom Tempel",
+            "hu": "Tham Pha Chom templom",
+            "ro": "Templul Tham Pha Chom",
+            "en": "Tham Pha Chom Temple"
+          },
+          "coords": [
+            99.873327,
+            20.441863
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedlichen Meditationshöhlen und kunstvollen buddhistischen Schreine im Kalkstein und ziehen Sie respektvoll Ihre Schuhe aus, bevor Sie die Haupthöhle betreten.",
+            "hu": "Fedezze fel a mészkőbe vájt békés meditációs barlangokat és a bonyolult buddhista szentélyeket, de a fő barlangszerkezetbe való belépés előtt tiszteletteljesen vegye le a cipőjét.",
+            "ro": "Explorați peșterile pașnice de meditație și altarele budiste sculptate în calcar, descălțându-vă cu respect înainte de a intra în structurile principale ale peșterii.",
+            "en": "Explore the peaceful meditation caves and intricate Buddhist shrines carved into the limestone, taking off your shoes respectfully before entering the main cavern structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Chao Por Tham Kob Schrein",
+            "hu": "Chao Por Tham Kob szentély",
+            "ro": "Altarul Chao Por Tham Kob",
+            "en": "Chao Por Tham Kob Shrine"
+          },
+          "coords": [
+            99.881733,
+            20.44101
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem lokalen Schrein, der thailändische und birmanische Traditionen verbindet, Ihren Respekt und beobachten Sie, wie Einheimische Räucherstäbchen anzünden, während Sie leise sprechen.",
+            "hu": "Fejezze ki tiszteletét ennél a thai és burmai hagyományokat ötvöző helyi szentélynél, és csendben figyelje meg, ahogy a helyiek füstölőket gyújtanak a rituálék során.",
+            "ro": "Prezentați-vă respectul la acest altar local ce îmbină tradițiile thailandeze și birmaneze, observând cum localnicii aprind bețișoare parfumate în timp ce păstrați liniștea.",
+            "en": "Pay your respects at this local animist and Buddhist shrine blending Thai and Burmese traditions, observing how locals light incense sticks while keeping your voice down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der geschäftigen Nordgrenze und treten Sie an das ikonische Schild, das Thailands Rand markiert. Mittags steigen Sie die Hänge des Doi Wao hinauf, wo Tempel und Skywalks atemberaubende Panoramen zweier Länder bieten. Am Nachmittag entdecken Sie die friedlichen Meditationshöhlen von Tham Pha Chom am Fluss. Beenden Sie Ihren Abend an lokalen Schreinen und reflektieren Sie die harmonische Mischung der Kulturen.",
+        "hu": "Kezdje a reggelt a nyüzsgő északi határon, az ikonikus táblánál, amely Thaiföld szélét jelzi. Délben mássza meg a Doi Wao lejtőit, ahol a hegytetőn álló templomok és az üveg skywalk lélegzetelállító panorámát nyújtanak. Délután fedezze fel a Tham Pha Chom békés meditációs barlangjait a folyó mellett. Este a helyi szentélyeknél pihenve elmélkedhet a thai és a burmai kultúrák harmonikus keveredésén.",
+        "ro": "Începeți dimineața la granița nordică plină de viață, apropiindu-vă de markerul iconic ce definește marginea Thailandei. La amiază urcați pe pantele Doi Wao, unde templele și platformele de sticlă oferă panorame uluitoare. După-amiaza, descoperiți peșterile de meditație din Tham Pha Chom de-a lungul râului. Încheiați seara la altarele locale, reflectând la amestecul armonios de culturi thailandeze și birmaneze.",
+        "en": "Begin your morning at the bustling northern border, stepping up to the iconic marker that defines Thailand's edge. Midday takes you up the slopes of Doi Wao, where hilltop temples and transparent skywalks offer breathtaking dual-country panoramas. In the afternoon, discover the serene meditation caves of Tham Pha Chom alongside the gentle river. Conclude your evening at local shrines, reflecting on the harmonious blend of Thai and Burmese cultures."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "11:26",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chao Por Tham Kob Schrein",
+            "hu": "Chao Por Tham Kob szentély",
+            "ro": "Altarul Chao Por Tham Kob",
+            "en": "Chao Por Tham Kob Shrine"
+          },
+          "coords": [
+            99.881733,
+            20.44101
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das spirituelle Zentrum der Gemeinde an diesem kleinen, aber bunten Schrein und achten Sie darauf, beim Eintreten über die Holzschwelle zu treten, anstatt darauf.",
+            "hu": "Fedezze fel a helyi közösség spirituális szívét ennél a kis, de színes szentélynél, és belépéskor ügyeljen arra, hogy átlépje a fa küszöböt, ne pedig rálépjen.",
+            "ro": "Descoperiți inima spirituală a comunității la acest altar mic, dar colorat, având grijă să pășiți peste pragul de lemn, nu pe el, atunci când intrați în incintă.",
+            "en": "Discover the spiritual heart of the local community at this small but colorful shrine, making sure to step over the wooden threshold rather than on it when you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Mueang Daeng Tempel",
+            "hu": "Mueang Daeng templom",
+            "ro": "Templul Mueang Daeng",
+            "en": "Mueang Daeng Temple"
+          },
+          "coords": [
+            99.89229,
+            20.437428
+          ],
+          "category": "landmark",
+          "arrive_at": "09:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen goldenen Verzierungen dieses weniger besuchten Tempels, der einen ruhigen Rückzugsort bietet, und kommen Sie am späten Vormittag, um den Alltag der Mönche zu sehen.",
+            "hu": "Csodálja meg a kevésbé látogatott templom díszes arany dekorációját, amely csendes menedéket nyújt a forgalmas utcáktól, és látogasson el késő délelőtt, hogy lássa a szerzetesek mindennapjait.",
+            "ro": "Admirați decorațiunile aurii ale acestui templu mai puțin vizitat, care oferă o retragere liniștită, și vizitați-l dimineața târziu pentru a observa rutina zilnică a călugărilor.",
+            "en": "Marvel at the ornate golden decorations of this lesser-visited temple that offers a quiet retreat from the busy streets, and visit in the late morning to see the monks' daily routines."
+          }
+        },
+        {
+          "name": {
+            "de": "Tee- und Pflanzenöl-Entwicklungszentrum",
+            "hu": "Tea- és Növényi Olaj Fejlesztési Központ",
+            "ro": "Centrul de Dezvoltare a Uleiului de Ceai și Plante",
+            "en": "Tea Oil and Plant Oils Development Center"
+          },
+          "coords": [
+            99.880233,
+            20.420345
+          ],
+          "category": "landmark",
+          "arrive_at": "10:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie inmitten wunderschön angelegter Gärten mehr über nachhaltige Landwirtschaft und königliche Initiativen und probieren Sie im Café unbedingt die einzigartigen Kameliensamenöl-Produkte.",
+            "hu": "Ismerkedjen meg a fenntartható mezőgazdasággal a gyönyörűen parkosított kertekben, és mindenképpen térjen be a kávézóba, hogy megkóstolja a különleges kaméliamagolaj-termékeket.",
+            "ro": "Aflați despre agricultura sustenabilă în mijlocul grădinilor frumos amenajate și asigurați-vă că vă opriți la cafenea pentru a gusta produsele lor unice din ulei de semințe de camelie.",
+            "en": "Learn about sustainable agriculture and royal botanical initiatives amidst beautifully landscaped gardens, and definitely stop by the on-site cafe to taste their unique Camellia seed oil products."
+          }
+        },
+        {
+          "name": {
+            "de": "Pha Teak Tempel Chedi",
+            "hu": "Pha Teak templom Csedije",
+            "ro": "Chedi-ul Templului Pha Teak",
+            "en": "Pha Teak Temple Chedi"
+          },
+          "coords": [
+            99.867546,
+            20.419888
+          ],
+          "category": "landmark",
+          "arrive_at": "10:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den antiken Charme dieses historischen Stupas inmitten üppiger Vegetation und nähern Sie sich dem Ort respektvoll, da er von den älteren Bewohnern als zutiefst heilig angesehen wird.",
+            "hu": "Tapasztalja meg az ősi sztúpa történelmi varázsát a buja növényzet közepén, és közelítse meg tisztelettel a helyet, mivel az idősebb lakosok mélyen szentnek tartják.",
+            "ro": "Experimentați farmecul antic al acestei stupe istorice înconjurate de vegetație luxuriantă, apropiindu-vă cu respect, deoarece este considerată profund sacră de locuitorii mai în vârstă.",
+            "en": "Experience the ancient charm of this historic stupa surrounded by lush vegetation, approaching the site respectfully as it is considered deeply sacred by the older residents of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Stupa",
+            "hu": "Nagy sztúpa",
+            "ro": "Marea Stupă",
+            "en": "Big stupa"
+          },
+          "coords": [
+            99.864814,
+            20.426899
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Größe dieses massiven Denkmals am westlichen Rand von Mae Sai und bringen Sie ein Weitwinkelobjektiv mit, um die gesamte Struktur vor dem Himmel einzufangen.",
+            "hu": "Tekintse meg az impresszív méretű műemléket, amely Mae Sai nyugati peremét uralja, és hozzon magával nagylátószögű objektívet, hogy az egész építményt megörökíthesse az éggel a háttérben.",
+            "ro": "Priviți dimensiunea impresionantă a acestui monument masiv de la periferia vestică, aducând un obiectiv superangular pentru a surprinde întreaga structură pe fundalul cerului albastru.",
+            "en": "Gaze upon the impressive scale of this massive monument that dominates the western outskirts of Mae Sai, bringing a wide-angle lens to capture the entire structure against the sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens los, um spirituelle Orte nahe der Grenze zu entdecken, beginnend mit bunten Gemeindeschreinen. Gegen Mittag führt Sie Ihre Fahrt vorbei an Tempeln zu den üppigen Gärten des Tea Oil Centers für eine Pause. Der Nachmittag konzentriert sich auf antike Stupas, die im Grünen am ruhigeren Stadtrand versteckt sind. Ihr Abend klingt aus, während Sie zurückradeln und die kühle Brise und majestätischen Monumente genießen.",
+        "hu": "Reggel induljon útnak két keréken, hogy felfedezze a határ menti spirituális helyeket a színes helyi szentélyektől kezdve. Délben az útja nyüzsgő templomok mellett vezet a Tea Oil Center buja kertjei felé egy frissítő pihenőre. Délután a figyelem a zöldellő, csendes külvárosban megbúvó ősi sztúpák felé fordul. Az este a visszautazással zárul, élvezve a hűsítő szellőt és a fenséges műemlékek látványát.",
+        "ro": "Porniți cu bicicleta dimineața pentru a descoperi locurile spirituale de lângă graniță, începând cu altare colorate. La amiază, călătoria vă duce pe lângă temple vibrante spre grădinile luxuriante ale Centrului de Ulei de Ceai. După-amiaza se concentrează pe stupe antice ascunse în verdeața de la periferia liniștită a orașului. Seara se încheie pedalând înapoi, bucurându-vă de briza răcoroasă și de priveliștile monumentale.",
+        "en": "Pedal out in the morning to uncover the spiritual spots near the border, beginning with colorful community shrines. By midday, your ride takes you past vibrant temples towards the lush gardens of the Tea Oil Development Center for a refreshing break. The afternoon shifts focus to ancient stupas hidden amidst the greenery on the town's quieter outskirts. Your evening winds down as you cycle back, enjoying the cooling breeze and majestic monument views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "12:40",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nördlichster Punkt Thailands (Schild)",
+            "hu": "Thaiföld legészakibb pontját jelző tábla",
+            "ro": "Semnul celui mai nordic punct din Thailanda",
+            "en": "Northernmost point in Thailand sign"
+          },
+          "coords": [
+            99.880622,
+            20.444342
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre grenzüberschreitende Reise am ikonischen Schild, das das Ende Thailands markiert, und holen Sie sich einen lokalen Kaffee, bevor Sie den belebten Grenzübergang passieren.",
+            "hu": "Kezdje határon átnyúló utazását a Thaiföld szélét jelző ikonikus táblánál, és igyon egy gyors helyi kávét a közeli bódékban, mielőtt átkelne a nyüzsgő határállomáson.",
+            "ro": "Începeți călătoria transfrontalieră la semnul iconic ce marchează marginea Thailandei, luând o cafea locală rapidă de la tarabe înainte de a naviga prin aglomeratul punct de trecere a frontierei.",
+            "en": "Start your cross-border journey at the iconic sign marking the edge of Thailand, grabbing a quick local coffee from the nearby stalls before navigating the bustling border crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Tachileik Shwedagon Pagode",
+            "hu": "Tachileik Shwedagon pagoda",
+            "ro": "Pagoda Tachileik Shwedagon",
+            "en": "Tachileik Shwedagon Pagoda"
+          },
+          "coords": [
+            99.884446,
+            20.454921
+          ],
+          "category": "landmark",
+          "arrive_at": "09:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese atemberaubende goldene Nachbildung der berühmten Pagode von Rangun und gehen Sie im Uhrzeigersinn um den Hauptstupa, was nach lokalem Brauch Glück bringt.",
+            "hu": "Csodálja meg a híres yangoni pagoda lenyűgöző arany másolatát a hegyen, és szánjon időt arra, hogy a helyi szokásoknak megfelelően az óramutató járásával megegyezően megkerülje a fő sztúpát.",
+            "ro": "Admirați această uimitoare replică aurie a celebrei pagode din Yangon și luați-vă timp să vă plimbați în sensul acelor de ceasornic în jurul stupei principale pentru a atrage norocul.",
+            "en": "Marvel at this stunning golden replica of Yangon's famous pagoda standing proudly on a hill, taking time to walk clockwise around the main stupa to ensure good luck according to local custom."
+          }
+        },
+        {
+          "name": {
+            "de": "NgweTaungOo Kloster",
+            "hu": "NgweTaungOo kolostor",
+            "ro": "Mănăstirea NgweTaungOo",
+            "en": "NgweTaungOo Monastery"
+          },
+          "coords": [
+            99.877428,
+            20.45039
+          ],
+          "category": "landmark",
+          "arrive_at": "09:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses kunstvollen birmanischen Klosters mit seinen aufwendigen Holzschnitzereien und sprechen Sie leise, da oft junge Mönche in den Sälen lernen.",
+            "hu": "Merüljön el a bonyolult fafaragványokkal díszített burmai kolostor békés hangulatában, és tartsa halkan a hangját, mivel a szomszédos termekben gyakran fiatal szerzetesek tanulnak.",
+            "ro": "Bucurați-vă de ambianța pașnică a acestei mănăstiri birmaneze împodobite cu sculpturi în lemn complexe, păstrând liniștea deoarece călugării novici studiază adesea în sălile adiacente.",
+            "en": "Soak in the peaceful ambiance of this ornate Burmese monastery adorned with intricate wood carvings, keeping your voice low as novice monks are often studying in the adjacent halls."
+          }
+        },
+        {
+          "name": {
+            "de": "PongHtoon Oberschule",
+            "hu": "PongHtoon Középiskola",
+            "ro": "Liceul PongHtoon",
+            "en": "PongHtoon High School"
+          },
+          "coords": [
+            99.876776,
+            20.448789
+          ],
+          "category": "religious",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie den klösterlichen Bildungsalltag an dieser einzigartigen Einrichtung und achten Sie darauf, die Schüler nicht direkt zu fotografieren, ohne vorher um Erlaubnis zu bitten.",
+            "hu": "Figyelje meg a mindennapi oktatást ebben a hitet és a tudományokat ötvöző különleges intézményben, ügyelve arra, hogy előzetes engedély nélkül ne fotózza közvetlenül a diákokat.",
+            "ro": "Observați rutina educațională monahală la această instituție unică, având grijă să nu fotografiați direct elevii fără a obține în prealabil permisiunea acestora.",
+            "en": "Observe the daily monastic education routines at this unique institution blending faith and academics, taking care not to photograph the students directly without securing prior permission."
+          }
+        },
+        {
+          "name": {
+            "de": "Myanmar Toenaya Feld",
+            "hu": "Mianmari Toenaya mező",
+            "ro": "Câmpul Toenaya din Myanmar",
+            "en": "Myanmar Toenaya Field"
+          },
+          "coords": [
+            99.895107,
+            20.449908
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige historische Gelände des Toenaya-Feldes, wo lebhafte Feste stattfinden, und bringen Sie einen Hut mit, da es während der Mittagshitze nur sehr wenig Schatten gibt.",
+            "hu": "Fedezze fel a Toenaya mező hatalmas történelmi területét, ahol nyüzsgő fesztiválok kelnek életre, és hozzon magával széles karimájú kalapot, mivel a déli hőségben kevés az árnyék.",
+            "ro": "Explorați vastele terenuri istorice ale Câmpului Toenaya, unde au loc festivaluri vibrante, și aduceți o pălărie cu boruri largi deoarece există foarte puțină umbră în timpul căldurii de la amiază.",
+            "en": "Explore the vast historical grounds of the Toenaya Field where vibrant festivals and local markets come alive, and bring a wide-brimmed hat as there is very little shade during the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen an den Rand der Nation und fotografieren Sie das Grenzschild, bevor Sie in eine Welt des gemeinsamen Erbes eintauchen. Mittags befinden Sie sich in Myanmar und bewundern hoch aufragende goldene Stupas und kunstvoll geschnitzte Klöster. Verbringen Sie den Nachmittag damit, das klösterliche Leben und historische Felder zu erkunden. Der Abend nähert sich, während Sie bereichert zur thailändischen Seite zurückkehren.",
+        "hu": "Autózzon reggel a nemzet peremére, készítsen fotókat a határjelzésnél, mielőtt átlépne a közös örökség világába. Délben már Mianmarban csodálhatja meg a magasba törő arany sztúpákat és a bonyolultan faragott kolostorokat. A délutánt a helyi szerzetesi élet és a hatalmas történelmi mezők felfedezésével töltheti. Az este közeledtével induljon vissza a thai oldalra, a kultúrákon átívelő kalanddal gazdagodva.",
+        "ro": "Conduceți până la marginea națiunii în această dimineață, fotografiind semnul de frontieră înainte de a trece într-o lume cu un patrimoniu comun. La amiază vă aflați în Myanmar, admirând stupe aurii și mănăstiri sculptate pe dealuri. Petreceți după-amiaza observând viața monahală și explorând vastele câmpuri istorice. Seara se apropie în timp ce vă îndreptați spre partea thailandeză, îmbogățit de aventura multiculturală.",
+        "en": "Drive to the edge of the nation this morning, snapping photos at the border sign before crossing into a world of shared heritage. Midday finds you across the line in Myanmar, marveling at the towering golden stupas and intricately carved monasteries on the hills. Spend your afternoon observing local monastic life and exploring vast historical fields where communities gather. Evening approaches as you head back towards the Thai side, enriched by the cross-cultural adventure."
+      }
+    }
+  }
+}

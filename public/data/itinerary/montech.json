@@ -1,0 +1,474 @@
+{
+  "city_id": "montech",
+  "anchor": {
+    "name": "Montech",
+    "coords": [
+      1.2297,
+      43.9569
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Montech",
+            "hu": "Montech kikötője",
+            "ro": "Portul Montech",
+            "en": "Port of Montech"
+          },
+          "coords": [
+            1.229736,
+            43.956438
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Boote an diesem lebhaften Binnenhafen, einem wichtigen Knotenpunkt des Kanalnetzes, und trinken Sie früh einen Kaffee am Ufer.",
+            "hu": "Csodálja meg a hajókat ebben a nyüzsgő belföldi kikötőben, a csatornahálózat fontos csomópontjában, és érkezzen korán egy kávéra a vízparton.",
+            "ro": "Admirați bărcile în acest port interior animat, un nod crucial al rețelei de canale, și ajungeți devreme pentru a bea o cafea pe malul apei.",
+            "en": "Admire the boats at this lively inland port, a crucial hub of the canal network, and arrive early to grab a coffee at a nearby waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Garonne-Kanal",
+            "hu": "Garonne-csatorna",
+            "ro": "Canalul Garonne",
+            "en": "Canal de Garonne"
+          },
+          "coords": [
+            1.241999,
+            43.96253
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser malerischen historischen Wasserstraße, die einst dem Handel diente, und tragen Sie bequeme Schuhe für die Treidelpfade.",
+            "hu": "Sétáljon ezen a festői történelmi vízi úton, amely egykor a kereskedelmet szolgálta, és viseljen kényelmes cipőt a burkolatlan vontatóösvényekhez.",
+            "ro": "Plimbați-vă de-a lungul acestei căi navigabile istorice pitorești, ideală pentru a înțelege comerțul, și purtați încălțăminte comodă pe poteci.",
+            "en": "Walk along this scenic historical waterway, perfect for understanding regional trade, and wear comfortable shoes to navigate the unpaved towpaths."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkeil Montech",
+            "hu": "Montech vízi lejtő",
+            "ro": "Panta de apă din Montech",
+            "en": "Montech Water Slope"
+          },
+          "coords": [
+            1.2275,
+            43.970278
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses einzigartige Ingenieursbauwerk, das Boote ohne Schleusen anhebt, und prüfen Sie vorab die Betriebszeiten im Besucherzentrum.",
+            "hu": "Csodálja meg ezt az egyedülálló mérnöki csodát, amely zsilipek nélkül emeli fel a hajókat, és ellenőrizze a látogatóközpontban a nyitvatartást.",
+            "ro": "Admirați această capodoperă inginerească unică ce ridică bărcile fără ecluze, și verificați programul de funcționare la centrul de vizitatori.",
+            "en": "Marvel at this unique engineering feat that lifts boats without locks, a marvel of modern history, and check the visitor center for operation times."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermühlen Montech",
+            "hu": "Montech papírgyárak",
+            "ro": "Fabricile de hârtie Montech",
+            "en": "Montech Paper Mills"
+          },
+          "coords": [
+            1.227069,
+            43.970681
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser großen industriellen Papiermühlen, die die produktive Vergangenheit zeigen, und lesen Sie die Infotafeln draußen.",
+            "hu": "Fedezze fel ezeknek a nagy ipari papírgyáraknak a maradványait, amelyek a múltat idézik, és mindenképpen olvassa el a kint elhelyezett táblákat.",
+            "ro": "Explorați rămășițele acestor mari fabrici industriale de hârtie, care arată trecutul productiv, și citiți plăcuțele informative aflate afară.",
+            "en": "Explore the remnants of these grand industrial paper mills, showcasing the region's productive past, and read the informational plaques outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Agre",
+            "hu": "Agre-erdő",
+            "ro": "Pădurea Agre",
+            "en": "Agre Forest"
+          },
+          "coords": [
+            1.268707,
+            43.946854
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieses weitläufigen natürlichen Waldes mit seiner reichen Artenvielfalt ein und bringen Sie Insektenschutzmittel mit.",
+            "hu": "Lélegezze be a friss levegőt ebben a hatalmas természetes erdőben, amely gazdag élővilágot rejt, és hozzon magával rovarriasztót az ösvényekre.",
+            "ro": "Respirați aerul proaspăt din această pădure naturală întinsă, cu o biodiversitate bogată, și aduceți spray contra insectelor pentru traseele umbrite.",
+            "en": "Breathe in the fresh air of this expansive natural forest, offering rich local biodiversity, and bring insect repellent for the shaded woodland trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am ruhigen Hafen von Montech und genießen Sie die maritime Atmosphäre. Mittags wandern Sie entlang des schattigen Canal de Garonne zum historischen Wasserkeil. Entdecken Sie am Nachmittag das industrielle Erbe der alten Papiermühlen. Am Abend führt Sie ein friedlicher Spaziergang in den ruhigen Wald von Agre, um einen perfekten Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje a reggelt a békés montech-i kikötőben, elmerülve a hajózási hangulatban. Délben sétáljon az árnyékos Garonne-csatorna mentén a történelmi vízi lejtőhöz. Délután fedezze fel a régi papírgyárak lenyűgöző ipari örökségét. Ahogy közeledik az este, tegyen egy hosszú, csendes sétát a nyugodt Agre-erdőben, tökéletesen zárva a természet és a történelem e csodás napját.",
+        "ro": "Începeți dimineața în portul liniștit din Montech, bucurându-vă de atmosfera maritimă. La prânz, plimbați-vă de-a lungul Canalului Garonne către panta de apă istorică. Petreceți după-amiaza descoperind moștenirea industrială fascinantă de la vechile fabrici de hârtie. Pe măsură ce se lasă seara, o plimbare lungă în pădurea Agre încheie o zi perfectă de natură și istorie locală.",
+        "en": "Start your morning at the tranquil Port of Montech, soaking in the maritime atmosphere. By midday, wander along the shaded Canal de Garonne to the historic Water Slope. Spend your afternoon discovering the industrial heritage at the Paper Mills. As evening approaches, enjoy a long, peaceful walk into the serene Agre Forest, concluding a perfect day of nature and local history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Montech",
+            "hu": "Montech kikötője",
+            "ro": "Portul Montech",
+            "en": "Port of Montech"
+          },
+          "coords": [
+            1.229736,
+            43.956438
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Boote an diesem lebhaften Binnenhafen, einem wichtigen Knotenpunkt des Kanalnetzes, und trinken Sie früh einen Kaffee am Ufer.",
+            "hu": "Csodálja meg a hajókat ebben a nyüzsgő belföldi kikötőben, a csatornahálózat fontos csomópontjában, és érkezzen korán egy kávéra a vízparton.",
+            "ro": "Admirați bărcile în acest port interior animat, un nod crucial al rețelei de canale, și ajungeți devreme pentru a bea o cafea pe malul apei.",
+            "en": "Admire the boats at this lively inland port, a crucial hub of the canal network, and arrive early to grab a coffee at a nearby waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Garonne-Kanal",
+            "hu": "Garonne-csatorna",
+            "ro": "Canalul Garonne",
+            "en": "Canal de Garonne"
+          },
+          "coords": [
+            1.241999,
+            43.96253
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser malerischen historischen Wasserstraße, die einst dem Handel diente, und tragen Sie bequeme Schuhe für die Treidelpfade.",
+            "hu": "Sétáljon ezen a festői történelmi vízi úton, amely egykor a kereskedelmet szolgálta, és viseljen kényelmes cipőt a burkolatlan vontatóösvényekhez.",
+            "ro": "Plimbați-vă de-a lungul acestei căi navigabile istorice pitorești, ideală pentru a înțelege comerțul, și purtați încălțăminte comodă pe poteci.",
+            "en": "Walk along this scenic historical waterway, perfect for understanding regional trade, and wear comfortable shoes to navigate the unpaved towpaths."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkeil Montech",
+            "hu": "Montech vízi lejtő",
+            "ro": "Panta de apă din Montech",
+            "en": "Montech Water Slope"
+          },
+          "coords": [
+            1.2275,
+            43.970278
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses einzigartige Ingenieursbauwerk, das Boote ohne Schleusen anhebt, und prüfen Sie vorab die Betriebszeiten im Besucherzentrum.",
+            "hu": "Csodálja meg ezt az egyedülálló mérnöki csodát, amely zsilipek nélkül emeli fel a hajókat, és ellenőrizze a látogatóközpontban a nyitvatartást.",
+            "ro": "Admirați această capodoperă inginerească unică ce ridică bărcile fără ecluze, și verificați programul de funcționare la centrul de vizitatori.",
+            "en": "Marvel at this unique engineering feat that lifts boats without locks, a marvel of modern history, and check the visitor center for operation times."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermühlen Montech",
+            "hu": "Montech papírgyárak",
+            "ro": "Fabricile de hârtie Montech",
+            "en": "Montech Paper Mills"
+          },
+          "coords": [
+            1.227069,
+            43.970681
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser großen industriellen Papiermühlen, die die produktive Vergangenheit zeigen, und lesen Sie die Infotafeln draußen.",
+            "hu": "Fedezze fel ezeknek a nagy ipari papírgyáraknak a maradványait, amelyek a múltat idézik, és mindenképpen olvassa el a kint elhelyezett táblákat.",
+            "ro": "Explorați rămășițele acestor mari fabrici industriale de hârtie, care arată trecutul productiv, și citiți plăcuțele informative aflate afară.",
+            "en": "Explore the remnants of these grand industrial paper mills, showcasing the region's productive past, and read the informational plaques outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bressols-See",
+            "hu": "Bressols-tó",
+            "ro": "Lacul Bressols",
+            "en": "Lac de Bressols"
+          },
+          "coords": [
+            1.284125,
+            43.960739
+          ],
+          "category": "natural",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses malerischen Sees, einem Paradies für Vögel, und packen Sie ein leichtes Picknick für den Sonnenuntergang ein.",
+            "hu": "Pihenjen meg a festői tó nyugodt vizénél, amely a helyi madárvilág menedéke, és csomagoljon egy könnyű pikniket a füves partokra naplementekor.",
+            "ro": "Relaxați-vă pe malul apelor calme ale acestui lac pitoresc, un refugiu pentru păsări, și aduceți un mic picnic pentru a-l savura la apusul soarelui.",
+            "en": "Relax by the calm waters of this picturesque lake, a haven for local birdlife, and pack a light picnic to enjoy on the grassy banks during sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Agre",
+            "hu": "Agre-erdő",
+            "ro": "Pădurea Agre",
+            "en": "Agre Forest"
+          },
+          "coords": [
+            1.268707,
+            43.946854
+          ],
+          "category": "natural",
+          "arrive_at": "16:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieses weitläufigen natürlichen Waldes mit seiner reichen Artenvielfalt ein und bringen Sie Insektenschutzmittel mit.",
+            "hu": "Lélegezze be a friss levegőt ebben a hatalmas természetes erdőben, amely gazdag élővilágot rejt, és hozzon magával rovarriasztót az ösvényekre.",
+            "ro": "Respirați aerul proaspăt din această pădure naturală întinsă, cu o biodiversitate bogată, și aduceți spray contra insectelor pentru traseele umbrite.",
+            "en": "Breathe in the fresh air of this expansive natural forest, offering rich local biodiversity, and bring insect repellent for the shaded woodland trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom lebhaften Hafen von Montech los und genießen Sie die frische Kanalbrise. Mittags fahren Sie am faszinierenden Wasserkeil und den alten Papiermühlen vorbei. Am Nachmittag treten Sie zügig zu den Ufern des Lac de Bressols für eine malerische Pause. Beenden Sie den Abend mit einer ruhigen Fahrt in den zauberhaften Wald von Agre, voller Natur und Geschichte.",
+        "hu": "Reggel tekerjen ki Montech nyüzsgő kikötőjéből, élvezve a csatorna friss szellőjét. Délben a lenyűgöző vízi lejtő és a történelmi papírgyárak mellett vezet az útja. Délután kerekezzen el a Bressols-tó festői partjaira egy megérdemelt pihenőre. Zárja az estét egy kellemes biciklizéssel a varázslatos Agre-erdőben, tökéletesen ötvözve a történelmi felfedezést a szabadtéri kalanddal.",
+        "ro": "Pedalați dimineața din portul animat Montech, savurând briza proaspătă a canalului. La prânz, treceți pe lângă panta de apă fascinantă și vechile fabrici de hârtie. După-amiaza, mergeți rapid spre malurile pitorești ale Lacului Bressols pentru o pauză relaxantă. Încheiați seara cu o plimbare ușoară în pădurea fermecătoare Agre, combinând istoria cu aventura în natură.",
+        "en": "Cycle out from the bustling Port of Montech in the morning, enjoying the fresh canal breeze. Midday brings you past the marvelous Water Slope and historic Paper Mills. In the afternoon, pedal swiftly to the pristine shores of Lac de Bressols for a scenic break. Finish your evening with a gentle ride into the enchanting Agre Forest, blending historical exploration with outdoor adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 24.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Montech",
+            "hu": "Montech kikötője",
+            "ro": "Portul Montech",
+            "en": "Port of Montech"
+          },
+          "coords": [
+            1.229736,
+            43.956438
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Boote an diesem lebhaften Binnenhafen, einem wichtigen Knotenpunkt des Kanalnetzes, und trinken Sie früh einen Kaffee am Ufer.",
+            "hu": "Csodálja meg a hajókat ebben a nyüzsgő belföldi kikötőben, a csatornahálózat fontos csomópontjában, és érkezzen korán egy kávéra a vízparton.",
+            "ro": "Admirați bărcile în acest port interior animat, un nod crucial al rețelei de canale, și ajungeți devreme pentru a bea o cafea pe malul apei.",
+            "en": "Admire the boats at this lively inland port, a crucial hub of the canal network, and arrive early to grab a coffee at a nearby waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserkeil Montech",
+            "hu": "Montech vízi lejtő",
+            "ro": "Panta de apă din Montech",
+            "en": "Montech Water Slope"
+          },
+          "coords": [
+            1.2275,
+            43.970278
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses einzigartige Ingenieursbauwerk, das Boote ohne Schleusen anhebt, und prüfen Sie vorab die Betriebszeiten im Besucherzentrum.",
+            "hu": "Csodálja meg ezt az egyedülálló mérnöki csodát, amely zsilipek nélkül emeli fel a hajókat, és ellenőrizze a látogatóközpontban a nyitvatartást.",
+            "ro": "Admirați această capodoperă inginerească unică ce ridică bărcile fără ecluze, și verificați programul de funcționare la centrul de vizitatori.",
+            "en": "Marvel at this unique engineering feat that lifts boats without locks, a marvel of modern history, and check the visitor center for operation times."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermühlen Montech",
+            "hu": "Montech papírgyárak",
+            "ro": "Fabricile de hârtie Montech",
+            "en": "Montech Paper Mills"
+          },
+          "coords": [
+            1.227069,
+            43.970681
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser großen industriellen Papiermühlen, die die produktive Vergangenheit zeigen, und lesen Sie die Infotafeln draußen.",
+            "hu": "Fedezze fel ezeknek a nagy ipari papírgyáraknak a maradványait, amelyek a múltat idézik, és mindenképpen olvassa el a kint elhelyezett táblákat.",
+            "ro": "Explorați rămășițele acestor mari fabrici industriale de hârtie, care arată trecutul productiv, și citiți plăcuțele informative aflate afară.",
+            "en": "Explore the remnants of these grand industrial paper mills, showcasing the region's productive past, and read the informational plaques outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Le grand Saulous",
+            "hu": "Le grand Saulous",
+            "ro": "Le grand Saulous",
+            "en": "Le grand Saulous"
+          },
+          "coords": [
+            1.171475,
+            44.0003
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unberührte Schönheit dieser weiten, offenen Landschaft zur ruhigen Reflexion, und bleiben Sie auf den Wegen, um Schlamm zu meiden.",
+            "hu": "Fedezze fel ennek a hatalmas nyílt tájnak az érintetlen szépségét, amely tökéletes a csendes elmélkedéshez, és maradjon a főbb túraútvonalakon.",
+            "ro": "Descoperiți frumusețea naturală neatinsă a acestui peisaj vast, perfect pentru reflecție liniștită, și rămâneți pe traseele principale pentru siguranță.",
+            "en": "Discover the untouched natural beauty of this vast open landscape, perfect for quiet reflection, and stick to the main trails to avoid muddy patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Kiesgrube",
+            "hu": "Egykori kavicsbánya",
+            "ro": "Fosta carieră de pietriș",
+            "en": "Ancienne gravière"
+          },
+          "coords": [
+            1.197059,
+            43.90479
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ehemalige, von der Natur zurückeroberte Kiesgrube mit enormer Widerstandsfähigkeit, und bringen Sie ein Fernglas zur Vogelbeobachtung mit.",
+            "hu": "Látogasson el ebbe a vad természet által visszahódított egykori kavicsbányába, és mindenképpen hozzon magával távcsövet a kiváló madármegfigyeléshez.",
+            "ro": "Vizitați această fostă carieră de pietriș recucerită de natura sălbatică, o dovadă a rezilienței ecologice, și aduceți binoclul pentru a privi păsările.",
+            "en": "Visit this former gravel pit now reclaimed by wild nature, showing incredible ecological resilience, and bring binoculars for excellent birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "La Gravette See",
+            "hu": "La Gravette-tó",
+            "ro": "Lacul La Gravette",
+            "en": "Lac de La Gravette"
+          },
+          "coords": [
+            1.205633,
+            43.918394
+          ],
+          "category": "natural",
+          "arrive_at": "16:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen wunderschön umgestalteten See, der eine friedliche Flucht aus dem Trubel bietet, und halten Sie Ausschau nach versteckten Angelplätzen.",
+            "hu": "Sétálja körbe ezt a gyönyörűen átalakított tóvidéket, amely békés menedéket kínál a város zaja elől, és keressen rejtett, hangulatos horgászhelyeket.",
+            "ro": "Plimbați-vă în jurul acestei frumoase zone lacustre transformate, o evadare pașnică din oraș, și fiți atenți la locurile de pescuit ascunse printre sălcii.",
+            "en": "Walk around this beautiful transformed lake area, offering a peaceful escape from the city hustle, and keep an eye out for hidden fishing spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Agre",
+            "hu": "Agre-erdő",
+            "ro": "Pădurea Agre",
+            "en": "Agre Forest"
+          },
+          "coords": [
+            1.268707,
+            43.946854
+          ],
+          "category": "natural",
+          "arrive_at": "17:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieses weitläufigen natürlichen Waldes mit seiner reichen Artenvielfalt ein und bringen Sie Insektenschutzmittel mit.",
+            "hu": "Lélegezze be a friss levegőt ebben a hatalmas természetes erdőben, amely gazdag élővilágot rejt, és hozzon magával rovarriasztót az ösvényekre.",
+            "ro": "Respirați aerul proaspăt din această pădure naturală întinsă, cu o biodiversitate bogată, și aduceți spray contra insectelor pentru traseele umbrite.",
+            "en": "Breathe in the fresh air of this expansive natural forest, offering rich local biodiversity, and bring insect repellent for the shaded woodland trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie frühmorgens vom Hafen zum prächtigen Wasserkeil. Mittags führt Sie die Tour weiter zu den ruhigen Landschaften von Le grand Saulous und der Ancienne gravière. Am Nachmittag können Sie an den stillen Gewässern des Lac de La Gravette entspannen. Wenn der Abend hereinbricht, parken Sie beim Wald von Agre für einen letzten beruhigenden Spaziergang durch die Natur.",
+        "hu": "Kora reggel vezessen a központi kikötőből a csodálatos vízi lejtőhöz. Délben fedezze fel a Le grand Saulous és az Ancienne gravière békés tájait a városon kívül. Délután pihenjen meg a Lac de La Gravette nyugodt vizeinél. Ahogy leszáll az est, parkoljon le az Agre-erdő közelében egy utolsó megnyugtató sétára, kényelmesen bejárva Montech legszebb természeti kincseit.",
+        "ro": "Conduceți dimineața devreme de la port spre panta de apă magnifică. La prânz, vizitați peisajele liniștite de la Le grand Saulous și Ancienne gravière. În timpul după-amiezii, relaxați-vă lângă apele senine ale Lacului La Gravette. Odată cu lăsarea serii, parcați lângă pădurea Agre pentru o ultimă plimbare liniștitoare, explorând minunile naturale din jurul orașului Montech.",
+        "en": "Drive from the central Port to the magnificent Water Slope early in the morning. Midday takes you further to the tranquil landscapes of Le grand Saulous and the Ancienne gravière. During the afternoon, relax by the serene waters of Lac de La Gravette. As evening falls, park near the Agre Forest for a final calming stroll, experiencing the best natural gems around Montech by car."
+      }
+    }
+  }
+}

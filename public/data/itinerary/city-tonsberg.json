@@ -1,0 +1,566 @@
+{
+  "city_id": "city-tonsberg",
+  "anchor": {
+    "name": "Tønsberg",
+    "coords": [
+      10.407,
+      59.2675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:34",
+      "total_km": 1.97,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stoltenbergparken",
+            "hu": "Stoltenbergparken",
+            "ro": "Stoltenbergparken",
+            "en": "Stoltenbergparken"
+          },
+          "coords": [
+            10.410017,
+            59.27071
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang unter den alten Bäumen dieser grünen Oase, um den Puls der Stadt zu spüren, und holen Sie sich vorher einen Kaffee für die sonnige Bank.",
+            "hu": "Tegyen egy sétát e központi zöld oázis öreg fái alatt, hogy érezze a város lüktetését, és ne felejtsen el egy kávét venni a közeli kávézóból a napos padon való pihenéshez.",
+            "ro": "Bucurați-vă de o plimbare sub copacii bătrâni din această oază verde centrală pentru a simți pulsul orașului și nu uitați să luați o cafea înainte de a sta pe o bancă însorită.",
+            "en": "Enjoy a leisurely stroll under the old trees of this central green oasis to feel the city’s pulse, and don't forget to grab a coffee from a nearby café before sitting on a sunny bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Utøya monument",
+            "hu": "Utøya monument",
+            "ro": "Utøya monument",
+            "en": "Utøya monument"
+          },
+          "coords": [
+            10.403773,
+            59.268555
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem herzförmigen Denkmal für ein tragisches historisches Ereignis Ihren Respekt, und nähern Sie sich bei Ihrem morgendlichen Spaziergang am Ufer mit stiller Würde.",
+            "hu": "Rójja le tiszteletét ennél a szív alakú, egy tragikus történelmi eseménynek emléket állító emlékműnél, ügyelve arra, hogy csendes méltósággal közelítsen a reggeli séta során.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn în formă de inimă care comemorează un eveniment istoric tragic, asigurându-vă că vă apropiați cu demnitate în timpul plimbării.",
+            "en": "Pay your respects at this solemn heart-shaped memorial commemorating a tragic historical event, ensuring you approach with quiet dignity during your morning walk along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Tønsberg Sjøfartshistoriske Senter",
+            "hu": "Tønsberg Sjøfartshistoriske Senter",
+            "ro": "Tønsberg Sjøfartshistoriske Senter",
+            "en": "Tønsberg Sjøfartshistoriske Senter"
+          },
+          "coords": [
+            10.404564,
+            59.267256
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Norwegens maritimes Erbe ein, indem Sie authentische Schiffsmodelle erkunden, und verpassen Sie nicht die interaktiven Ausstellungen im hinteren Raum des Gebäudes.",
+            "hu": "Merüljön el a norvég tengeri örökségben a hajómodellek és bálnavadászati leletek felfedezésével, és mindenképpen nézze meg az épület hátsó termében található interaktív kiállításokat.",
+            "ro": "Pătrundeți în moștenirea maritimă a Norvegiei explorând modele autentice de nave și asigurați-vă că vizitați expozițiile interactive aflate în camera din spate a clădirii.",
+            "en": "Dive deep into Norway's maritime legacy by exploring authentic ship models and whaling artifacts, and be sure to check the interactive exhibits located in the building's back room."
+          }
+        },
+        {
+          "name": {
+            "de": "Vestfold Kunstsenter",
+            "hu": "Vestfold Kunstsenter",
+            "ro": "Vestfold Kunstsenter",
+            "en": "Vestfold Kunstsenter"
+          },
+          "coords": [
+            10.410262,
+            59.26673
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige regionale Kunstszene durch wechselnde zeitgenössische Ausstellungen und fragen Sie das freundliche Personal nach den Techniken der lokalen Künstler.",
+            "hu": "Tapasztalja meg az élénk regionális művészeti szcénát a változó kortárs kiállításokon keresztül, és ha mélyebb betekintésre vágyik, kérdezze a galéria személyzetét a technikákról.",
+            "ro": "Experimentați scena artistică regională vibrantă prin expoziții contemporane rotative și întrebați personalul amabil despre tehnicile artiștilor locali pentru perspective mai profunde.",
+            "en": "Experience the vibrant regional art scene through rotating contemporary exhibitions, and ask the friendly gallery staff about the local artists' techniques if you want deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Haugar kunstmuseum",
+            "hu": "Haugar kunstmuseum",
+            "ro": "Haugar kunstmuseum",
+            "en": "Haugar kunstmuseum"
+          },
+          "coords": [
+            10.412069,
+            59.267661
+          ],
+          "category": "museum",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie moderne norwegische Meisterwerke in einer ehemaligen Seefahrtsschule und genießen Sie die wunderbare Aussicht von der Skulpturenterrasse des Museums.",
+            "hu": "Csodálja meg a modern norvég remekműveket egy lenyűgöző egykori tengerészeti iskolában, és élvezze a csodálatos dombtetői kilátást a múzeum szabadtéri szoborteraszáról.",
+            "ro": "Admirați capodoperele moderne norvegiene găzduite într-o fostă școală maritimă, profitând de priveliștile minunate de pe terasa cu sculpturi în aer liber a muzeului.",
+            "en": "Admire modern Norwegian masterpieces housed in an impressive former maritime school, taking advantage of the wonderful hilltop views from the museum's outdoor sculpture terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunnarsbøparken",
+            "hu": "Gunnarsbøparken",
+            "ro": "Gunnarsbøparken",
+            "en": "Gunnarsbøparken"
+          },
+          "coords": [
+            10.415586,
+            59.264171
+          ],
+          "category": "park",
+          "arrive_at": "16:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am eleganten historischen Gemeindehaus, das von üppigen Rasenflächen umgeben ist, und genießen Sie ein kurzes Nachmittagspicknick an der frischen Küstenluft.",
+            "hu": "Pihenjen az elegáns történelmi önkormányzati épület mellett, amelyet buja pázsit vesz körül, ami tökéletes hely egy délutáni piknikhez a friss tengerparti levegőn.",
+            "ro": "Relaxați-vă lângă clădirea municipală istorică elegantă, înconjurată de peluze luxuriante, fiind locul perfect pentru a vă bucura de un scurt picnic de după-amiază în aerul proaspăt.",
+            "en": "Relax by the elegant historical municipal building surrounded by lush lawns, making it the perfect spot to unroll a blanket and enjoy a quick afternoon picnic in the fresh coastal air."
+          }
+        },
+        {
+          "name": {
+            "de": "Kystkultursenteret",
+            "hu": "Kystkultursenteret",
+            "ro": "Kystkultursenteret",
+            "en": "Kystkultursenteret"
+          },
+          "coords": [
+            10.411919,
+            59.261076
+          ],
+          "category": "museum",
+          "arrive_at": "17:24",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem stimmungsvollen Holzzentrum mehr über das traditionelle Küstenleben und den Bootsbau. Kommen Sie am späten Nachmittag, um das goldene Licht auf dem Wasser zu sehen.",
+            "hu": "Ismerje meg a hagyományos tengerparti életet és hajóépítést ebben a hangulatos fából készült központban, és érkezzen késő délután, hogy lássa az aranyóra fényét a vizen.",
+            "ro": "Aflați despre viața tradițională de coastă și construcția de bărci în acest centru de lemn și ajungeți spre seară pentru a prinde lumina orei de aur reflectată pe apa din apropiere.",
+            "en": "Learn about traditional coastal life and boat building in this atmospheric wooden center, arriving late afternoon to catch the golden hour light reflecting off the nearby waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang durch den Stoltenbergparken, bevor Sie das ergreifende Utøya-Denkmal besuchen.\n\nDer Mittag lädt Sie ein, im maritimen Zentrum und im Vestfold Kunstsenter in die lokale Geschichte einzutauchen.\n\nAm Nachmittag erkunden Sie die Meisterwerke im Haugar Kunstmuseum, bevor Sie auf den Rasenflächen des Gunnarsbøparken entspannen.\n\nBeenden Sie den Abend mit der Entdeckung der reichen Küstentraditionen im Kystkultursenteret am Wasser.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Stoltenbergparkenben, mielőtt meglátogatná a megható Utøya emlékművet.\n\nA dél a helyi történelem és művészet felfedezésére hív a Tengerészeti Központban és a Vestfold Kunstsenterben.\n\nDélután csodálja meg a Haugar művészeti múzeum remekműveit, majd pihenjen meg a Gunnarsbøparken zöld pázsitján.\n\nZárja az estét a gazdag partvidéki hagyományok felfedezésével a Kystkultursenteretben, miközben a nap lenyugszik.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă prin Stoltenbergparken, înainte de a vizita emoționantul monument Utøya.\n\nLa prânz sunteți invitați să pătrundeți în istoria locală la Centrul Maritim și la vibrantul Vestfold Kunstsenter.\n\nDupă-amiaza, explorați capodoperele de la muzeul de artă Haugar înainte de a vă relaxa pe peluzele verzi din Gunnarsbøparken.\n\nÎncheiați seara descoperind bogatele tradiții de coastă la Kystkultursenteret în timp ce soarele apune.",
+        "en": "Begin your morning with a refreshing walk through Stoltenbergparken, setting a calm tone before visiting the poignant Utøya monument.\n\nMidday invites you to delve into local history at the Maritime Center and the vibrant Vestfold Kunstsenter.\n\nIn the afternoon, explore the masterpieces at Haugar kunstmuseum before unwinding on the green lawns of Gunnarsbøparken.\n\nConclude your evening discovering the rich coastal traditions at Kystkultursenteret as the sun sets over the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:06",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ilene naturreservat",
+            "hu": "Ilene naturreservat",
+            "ro": "Ilene naturreservat",
+            "en": "Ilene naturreservat"
+          },
+          "coords": [
+            10.38523,
+            59.275317
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie in diesem Naturschutzgebiet vielfältige Wasservögel. Bringen Sie ein Fernglas mit und tragen Sie wasserdichte Schuhe, um die feuchten Pfade bequem zu begehen.",
+            "hu": "Figyeljen meg különféle vizesélőhelyi madárfajokat ebben a védett tengerparti rezervátumban, ezért hozzon távcsövet és viseljen vízálló csizmát a mocsaras ösvényeken való túrázáshoz.",
+            "ro": "Observați diverse specii de păsări în această rezervație naturală de coastă, așa că aduceți binoclul și purtați cizme impermeabile pentru a traversa confortabil potecile umede.",
+            "en": "Spot diverse wetland bird species in this protected coastal nature reserve, so bring your binoculars and wear waterproof boots for traversing the damp, marshy trails comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunsberghus",
+            "hu": "Tunsberghus",
+            "ro": "Tunsberghus",
+            "en": "Tunsberghus"
+          },
+          "coords": [
+            10.403849,
+            59.271797
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen der größten mittelalterlichen Festung Norwegens und tragen Sie feste Wanderschuhe, um die steilen, unebenen Steinwege sicher zu bewältigen.",
+            "hu": "Mássza meg Norvégia legnagyobb középkori erődjének romjait a lenyűgöző királyi történelem felfedezéséhez, és viseljen erős túracipőt a meredek, egyenetlen kőutak biztonságos bejárásához.",
+            "ro": "Urcați pe ruinele celei mai mari cetăți medievale din Norvegia pentru a descoperi istoria regală și purtați pantofi rezistenți pentru a naviga în siguranță pe cărările abrupte de piatră.",
+            "en": "Climb the ruins of Norway's largest medieval fortress to uncover fascinating royal history, and wear sturdy walking shoes to safely navigate the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Vestfoldtunet",
+            "hu": "Vestfoldtunet",
+            "ro": "Vestfoldtunet",
+            "en": "Vestfoldtunet"
+          },
+          "coords": [
+            10.404075,
+            59.273103
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen authentischen historischen Holzbauernhäusern umher, die einen Einblick in die ländliche Vergangenheit bieten, und lesen Sie die kleinen Informationstafeln an den Hütten.",
+            "hu": "Sétáljon az autentikus, történelmi fa parasztházak között, amelyek bepillantást engednek a vidék múltjába, és feltétlenül olvassa el a kabinok bejáratánál található információs táblákat.",
+            "ro": "Plimbați-vă printre fermele istorice autentice din lemn care oferă o privire în trecutul rural, asigurându-vă că citiți micile plăci informative așezate lângă intrarea fiecărei cabine.",
+            "en": "Wander among authentic historic timber farmhouses that offer a glimpse into rural past, making sure to read the small informational plaques placed near the entrance of each cabin."
+          }
+        },
+        {
+          "name": {
+            "de": "Slottsfjellsmuseet",
+            "hu": "Slottsfjellsmuseet",
+            "ro": "Slottsfjellsmuseet",
+            "en": "Slottsfjellsmuseet"
+          },
+          "coords": [
+            10.405965,
+            59.273675
+          ],
+          "category": "museum",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die berühmten Wikingerschiff-Nachbildungen, und besuchen Sie die Halle mit dem beeindruckenden Walskelett, bevor am Nachmittag die großen Menschenmengen eintreffen.",
+            "hu": "Vizsgálja meg a híres viking hajómásolatokat és középkori leleteket, és próbálja meg meglátogatni a lenyűgöző bálnacsontváz termét, mielőtt a délutáni tömeg megérkezik.",
+            "ro": "Examinați faimoasele replici de nave vikinge din acest muzeu și încercați să vizitați sala impresionantă a scheletului de balenă înainte de sosirea mulțimilor de după-amiază.",
+            "en": "Examine the famous Viking ship replicas and medieval artifacts in this flagship museum, aiming to visit the awe-inspiring whale skeleton hall before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Haugar kunstmuseum",
+            "hu": "Haugar kunstmuseum",
+            "ro": "Haugar kunstmuseum",
+            "en": "Haugar kunstmuseum"
+          },
+          "coords": [
+            10.412069,
+            59.267661
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie moderne norwegische Meisterwerke in einer ehemaligen Seefahrtsschule und genießen Sie die wunderbare Aussicht von der Skulpturenterrasse des Museums.",
+            "hu": "Csodálja meg a modern norvég remekműveket egy lenyűgöző egykori tengerészeti iskolában, és élvezze a csodálatos dombtetői kilátást a múzeum szabadtéri szoborteraszáról.",
+            "ro": "Admirați capodoperele moderne norvegiene găzduite într-o fostă școală maritimă, profitând de priveliștile minunate de pe terasa cu sculpturi în aer liber a muzeului.",
+            "en": "Admire modern Norwegian masterpieces housed in an impressive former maritime school, taking advantage of the wonderful hilltop views from the museum's outdoor sculpture terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunnarsbøparken",
+            "hu": "Gunnarsbøparken",
+            "ro": "Gunnarsbøparken",
+            "en": "Gunnarsbøparken"
+          },
+          "coords": [
+            10.415586,
+            59.264171
+          ],
+          "category": "park",
+          "arrive_at": "16:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am eleganten historischen Gemeindehaus, das von üppigen Rasenflächen umgeben ist, und genießen Sie ein kurzes Nachmittagspicknick an der frischen Küstenluft.",
+            "hu": "Pihenjen az elegáns történelmi önkormányzati épület mellett, amelyet buja pázsit vesz körül, ami tökéletes hely egy délutáni piknikhez a friss tengerparti levegőn.",
+            "ro": "Relaxați-vă lângă clădirea municipală istorică elegantă, înconjurată de peluze luxuriante, fiind locul perfect pentru a vă bucura de un scurt picnic de după-amiază în aerul proaspăt.",
+            "en": "Relax by the elegant historical municipal building surrounded by lush lawns, making it the perfect spot to unroll a blanket and enjoy a quick afternoon picnic in the fresh coastal air."
+          }
+        },
+        {
+          "name": {
+            "de": "Presterødkilen naturreservat",
+            "hu": "Presterødkilen naturreservat",
+            "ro": "Presterødkilen naturreservat",
+            "en": "Presterødkilen naturreservat"
+          },
+          "coords": [
+            10.436499,
+            59.26576
+          ],
+          "category": "natural",
+          "arrive_at": "18:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren aktiven Tag mit einer Radtour durch dieses ruhige Vogelparadies. Bleiben Sie auf den markierten Wegen, um die nistenden Tiere bei Sonnenuntergang nicht zu stören.",
+            "hu": "Zárja aktív napját egy kerékpározással ezen a nyugodt madármegfigyelő paradicsomon, és ügyeljen arra, hogy a csendes, kijelölt utakon maradjon, hogy ne zavarja az állatvilágot.",
+            "ro": "Încheiați-vă ziua activă pedalând prin acest paradis senin de observare a păsărilor, amintindu-vă să rămâneți pe potecile marcate pentru a nu deranja fauna la apusul soarelui.",
+            "en": "End your active day by cycling through this serene bird-watching paradise, remembering to stay quietly on the marked paths to avoid disturbing the nesting wildlife during sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit der Vogelbeobachtung im Ilene-Naturreservat und genießen Sie die klare Morgenluft.\n\nRadeln Sie zu den imposanten Ruinen von Tunsberghus für eine Dosis königlicher Geschichte, gefolgt vom Charme des Vestfoldtunet.\n\nVerbringen Sie den Nachmittag mit den faszinierenden Exponaten im Slottsfjellsmuseet und im Haugar Kunstmuseum.\n\nBeenden Sie den Tag mit einer entspannten Fahrt am Gunnarsbøparken vorbei zur natürlichen Schönheit von Presterødkilen.",
+        "hu": "Kezdje kerékpáros kalandját madármegfigyeléssel az Ilene naturreservatban, élvezve a friss tengerparti levegőt.\n\nTekerjen az impozáns Tunsberghus romjaihoz egy kis királyi történelemért, majd élvezze a Vestfoldtunet rusztikus varázsát.\n\nDélutánját a Slottsfjellsmuseet és a Haugar művészeti múzeum lenyűgöző kiállításainak szentelje.\n\nFejezze be a napot egy pihentető tekeréssel a Gunnarsbøparken mellett, és gyönyörködjön a Presterødkilen természetében.",
+        "ro": "Începeți aventura pe bicicletă observând păsările la Ilene naturreservat, bucurându-vă de aerul proaspăt al dimineții.\n\nPedalați spre ruinele impunătoare Tunsberghus pentru o doză de istorie regală, urmate de farmecul rustic de la Vestfoldtunet.\n\nPetreceți după-amiaza absorbind expozițiile fascinante de la Slottsfjellsmuseet și muzeul de artă Haugar.\n\nFinalizați cu o plimbare relaxantă pe lângă Gunnarsbøparken, încheind în mijlocul frumuseții naturale de la Presterødkilen.",
+        "en": "Start your cycling adventure bird-watching at Ilene naturreservat, enjoying the crisp morning air by the coastline.\n\nPedal towards the imposing Tunsberghus ruins for a dose of royal history, followed by the rustic charm of Vestfoldtunet.\n\nSpend your afternoon absorbing the fascinating exhibits at Slottsfjellsmuseet and Haugar kunstmuseum.\n\nFinish with a relaxing ride past Gunnarsbøparken, ending amidst the natural beauty of Presterødkilen at twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:17",
+      "total_km": 5.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ilene naturreservat",
+            "hu": "Ilene naturreservat",
+            "ro": "Ilene naturreservat",
+            "en": "Ilene naturreservat"
+          },
+          "coords": [
+            10.38523,
+            59.275317
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie in diesem Naturschutzgebiet vielfältige Wasservögel. Bringen Sie ein Fernglas mit und tragen Sie wasserdichte Schuhe, um die feuchten Pfade bequem zu begehen.",
+            "hu": "Figyeljen meg különféle vizesélőhelyi madárfajokat ebben a védett tengerparti rezervátumban, ezért hozzon távcsövet és viseljen vízálló csizmát a mocsaras ösvényeken való túrázáshoz.",
+            "ro": "Observați diverse specii de păsări în această rezervație naturală de coastă, așa că aduceți binoclul și purtați cizme impermeabile pentru a traversa confortabil potecile umede.",
+            "en": "Spot diverse wetland bird species in this protected coastal nature reserve, so bring your binoculars and wear waterproof boots for traversing the damp, marshy trails comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunsberghus",
+            "hu": "Tunsberghus",
+            "ro": "Tunsberghus",
+            "en": "Tunsberghus"
+          },
+          "coords": [
+            10.403849,
+            59.271797
+          ],
+          "category": "castle",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen der größten mittelalterlichen Festung Norwegens und tragen Sie feste Wanderschuhe, um die steilen, unebenen Steinwege sicher zu bewältigen.",
+            "hu": "Mássza meg Norvégia legnagyobb középkori erődjének romjait a lenyűgöző királyi történelem felfedezéséhez, és viseljen erős túracipőt a meredek, egyenetlen kőutak biztonságos bejárásához.",
+            "ro": "Urcați pe ruinele celei mai mari cetăți medievale din Norvegia pentru a descoperi istoria regală și purtați pantofi rezistenți pentru a naviga în siguranță pe cărările abrupte de piatră.",
+            "en": "Climb the ruins of Norway's largest medieval fortress to uncover fascinating royal history, and wear sturdy walking shoes to safely navigate the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Slottsfjellsmuseet",
+            "hu": "Slottsfjellsmuseet",
+            "ro": "Slottsfjellsmuseet",
+            "en": "Slottsfjellsmuseet"
+          },
+          "coords": [
+            10.405965,
+            59.273675
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die berühmten Wikingerschiff-Nachbildungen, und besuchen Sie die Halle mit dem beeindruckenden Walskelett, bevor am Nachmittag die großen Menschenmengen eintreffen.",
+            "hu": "Vizsgálja meg a híres viking hajómásolatokat és középkori leleteket, és próbálja meg meglátogatni a lenyűgöző bálnacsontváz termét, mielőtt a délutáni tömeg megérkezik.",
+            "ro": "Examinați faimoasele replici de nave vikinge din acest muzeu și încercați să vizitați sala impresionantă a scheletului de balenă înainte de sosirea mulțimilor de după-amiază.",
+            "en": "Examine the famous Viking ship replicas and medieval artifacts in this flagship museum, aiming to visit the awe-inspiring whale skeleton hall before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoltenbergparken",
+            "hu": "Stoltenbergparken",
+            "ro": "Stoltenbergparken",
+            "en": "Stoltenbergparken"
+          },
+          "coords": [
+            10.410017,
+            59.27071
+          ],
+          "category": "park",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie einen gemütlichen Spaziergang unter den alten Bäumen dieser grünen Oase, um den Puls der Stadt zu spüren, und holen Sie sich vorher einen Kaffee für die sonnige Bank.",
+            "hu": "Tegyen egy sétát e központi zöld oázis öreg fái alatt, hogy érezze a város lüktetését, és ne felejtsen el egy kávét venni a közeli kávézóból a napos padon való pihenéshez.",
+            "ro": "Bucurați-vă de o plimbare sub copacii bătrâni din această oază verde centrală pentru a simți pulsul orașului și nu uitați să luați o cafea înainte de a sta pe o bancă însorită.",
+            "en": "Enjoy a leisurely stroll under the old trees of this central green oasis to feel the city’s pulse, and don't forget to grab a coffee from a nearby café before sitting on a sunny bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Tønsberg Sjøfartshistoriske Senter",
+            "hu": "Tønsberg Sjøfartshistoriske Senter",
+            "ro": "Tønsberg Sjøfartshistoriske Senter",
+            "en": "Tønsberg Sjøfartshistoriske Senter"
+          },
+          "coords": [
+            10.404564,
+            59.267256
+          ],
+          "category": "museum",
+          "arrive_at": "14:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Norwegens maritimes Erbe ein, indem Sie authentische Schiffsmodelle erkunden, und verpassen Sie nicht die interaktiven Ausstellungen im hinteren Raum des Gebäudes.",
+            "hu": "Merüljön el a norvég tengeri örökségben a hajómodellek és bálnavadászati leletek felfedezésével, és mindenképpen nézze meg az épület hátsó termében található interaktív kiállításokat.",
+            "ro": "Pătrundeți în moștenirea maritimă a Norvegiei explorând modele autentice de nave și asigurați-vă că vizitați expozițiile interactive aflate în camera din spate a clădirii.",
+            "en": "Dive deep into Norway's maritime legacy by exploring authentic ship models and whaling artifacts, and be sure to check the interactive exhibits located in the building's back room."
+          }
+        },
+        {
+          "name": {
+            "de": "Kystkultursenteret",
+            "hu": "Kystkultursenteret",
+            "ro": "Kystkultursenteret",
+            "en": "Kystkultursenteret"
+          },
+          "coords": [
+            10.411919,
+            59.261076
+          ],
+          "category": "museum",
+          "arrive_at": "16:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem stimmungsvollen Holzzentrum mehr über das traditionelle Küstenleben und den Bootsbau. Kommen Sie am späten Nachmittag, um das goldene Licht auf dem Wasser zu sehen.",
+            "hu": "Ismerje meg a hagyományos tengerparti életet és hajóépítést ebben a hangulatos fából készült központban, és érkezzen késő délután, hogy lássa az aranyóra fényét a vizen.",
+            "ro": "Aflați despre viața tradițională de coastă și construcția de bărci în acest centru de lemn și ajungeți spre seară pentru a prinde lumina orei de aur reflectată pe apa din apropiere.",
+            "en": "Learn about traditional coastal life and boat building in this atmospheric wooden center, arriving late afternoon to catch the golden hour light reflecting off the nearby waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosanesstranda",
+            "hu": "Rosanesstranda",
+            "ro": "Rosanesstranda",
+            "en": "Rosanesstranda"
+          },
+          "coords": [
+            10.429494,
+            59.25282
+          ],
+          "category": "recreational",
+          "arrive_at": "18:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ziehen Sie die Schuhe aus und spazieren Sie an diesem schönen Sandstrand entlang. Bringen Sie ein kleines Handtuch mit, falls Sie Ihre Zehen in das kühle Fjordwasser tauchen möchten.",
+            "hu": "Vegye le a cipőjét, és sétáljon egyet ezen a kellemes homokos strandon; hozzon magával egy kis törölközőt, hátha úgy dönt, hogy megmártózik a hűvös fjord vízében.",
+            "ro": "Scoateți-vă pantofii și plimbați-vă pe această plajă plăcută cu nisip, aducând un prosop mic în rucsac în cazul în care decideți să vă scufundați picioarele în apa rece a fiordului.",
+            "en": "Kick off your shoes and stroll along this pleasant sandy recreational beach, bringing a small towel in your daypack just in case you decide to dip your toes in the cool fjord water."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosahaugparken",
+            "hu": "Rosahaugparken",
+            "ro": "Rosahaugparken",
+            "en": "Rosahaugparken"
+          },
+          "coords": [
+            10.423573,
+            59.250399
+          ],
+          "category": "park",
+          "arrive_at": "19:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen ruhigen, bewaldeten Park, der einen entspannenden Rückzugsort bietet, und folgen Sie den Kieswegen zum Aussichtspunkt für schöne abendliche Fotomotive.",
+            "hu": "Fedezzen fel egy nyugodt, fás parkot, amely pihentető menedéket kínál, és kövesse a kanyargós kavicsos ösvényeket a kilátó felé a szép esti fotózási lehetőségekért.",
+            "ro": "Descoperiți un parc împădurit liniștit care oferă o retragere relaxantă și urmați traseele șerpuite de pietriș către punctul de belvedere pentru oportunități minunate de fotografii.",
+            "en": "Discover a tranquil wooded park offering a relaxing retreat from the city center bustle, and follow the winding gravel trails towards the viewpoint for lovely evening photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im Ilene-Naturreservat und tauchen Sie in die ruhige Feuchtgebietsumgebung ein.\n\nDer Mittag bietet einen majestätischen Besuch von Tunsberghus und den umfassenden Sammlungen im Slottsfjellsmuseet.\n\nNach einer kurzen Fahrt zum Stoltenbergparken erkunden Sie das maritime Zentrum und das Kystkultursenteret.\n\nBeenden Sie Ihre Fahrt an der Rosanesstranda und machen Sie einen Spaziergang durch den Rosahaugparken.",
+        "hu": "Kezdje autós utazását az Ilene naturreservatnál, elmerülve a nyugodt vizesélőhelyi környezetben, mielőtt a városba hajtana.\n\nA délidő a Tunsberghus fenséges látogatását és a Slottsfjellsmuseet átfogó gyűjteményeit kínálja.\n\nEgy rövid, Stoltenbergparkenbe tartó út után fedezze fel a Tengerészeti Központot és a Kystkultursenteret-t.\n\nZárja a festői utazást a Rosanesstrandánál, figyelve a hullámokat, mielőtt tenne egy esti sétát a Rosahaugparkenben.",
+        "ro": "Începeți excursia cu mașina la Ilene naturreservat, cufundându-vă în mediul liniștit al zonelor umede înainte de a conduce în oraș.\n\nLa prânz, vizitați mărețul Tunsberghus și colecțiile cuprinzătoare de la Slottsfjellsmuseet.\n\nDupă o scurtă oprire la Stoltenbergparken, explorați Centrul Maritim și Kystkultursenteret.\n\nÎncheiați traseul pitoresc la Rosanesstranda, admirând valurile înainte de o plimbare la amurg prin Rosahaugparken.",
+        "en": "Kick off your road trip at Ilene naturreservat, immersing yourself in the tranquil wetland environment before driving into town.\n\nMidday features a majestic visit to Tunsberghus and the comprehensive collections at Slottsfjellsmuseet.\n\nAfter a quick drive to Stoltenbergparken, explore the engaging Tønsberg Sjøfartshistoriske Senter and Kystkultursenteret.\n\nConclude your scenic drive down at Rosanesstranda, watching the waves before a twilight stroll through Rosahaugparken."
+      }
+    }
+  }
+}

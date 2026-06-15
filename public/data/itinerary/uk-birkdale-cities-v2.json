@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-birkdale-cities-v2",
+  "anchor": {
+    "name": "Birkdale",
+    "coords": [
+      -3.0192,
+      53.6325
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Birkdale Railway Station",
+            "hu": "Birkdale Vasútállomás",
+            "ro": "Gara Birkdale",
+            "en": "Birkdale Railway Station"
+          },
+          "coords": [
+            -3.0145,
+            53.634
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die viktorianische Architektur dieses historischen Bahnhofs, der Birkdale mit Liverpool verbindet, und prüfen Sie die Anzeigetafeln auf lokale Erbe-Pfade.",
+            "hu": "Csodálja meg a Birkdale-t Liverpoollal összekötő történelmi állomás viktoriánus építészetét, és távozás előtt keresse meg a helyi örökségi útvonalak tábláit.",
+            "ro": "Admirați arhitectura victoriană a acestei stații istorice care leagă Birkdale de Liverpool și verificați panourile informative pentru traseele de patrimoniu local.",
+            "en": "Admire the Victorian architecture of this historic station connecting Birkdale to Liverpool, and check the display boards for local heritage trails before you exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkdale Village",
+            "hu": "Birkdale Falu",
+            "ro": "Satul Birkdale",
+            "en": "Birkdale Village"
+          },
+          "coords": [
+            -3.013661,
+            53.634066
+          ],
+          "category": "cultural",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses charmante kulturelle Zentrum mit unabhängigen Boutiquen und gemütlichen Cafés und holen Sie sich unbedingt ein frisches Gebäck für den Weg.",
+            "hu": "Sétáljon végig ezen a független butikokkal és kávézókkal teli hangulatos kulturális központon, és mindenképpen vegyen egy friss péksüteményt az útra.",
+            "ro": "Plimbați-vă prin acest centru cultural fermecător plin de buticuri independente și cafenele confortabile, asigurându-vă că luați o prăjitură proaspătă pentru drum.",
+            "en": "Stroll through this charming cultural hub filled with independent boutiques and cozy cafes, making sure to grab a fresh pastry from a local bakery for your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Weld Road",
+            "hu": "Weld Út",
+            "ro": "Drumul Weld",
+            "en": "Weld Road"
+          },
+          "coords": [
+            -3.015593,
+            53.634821
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie diese historisch bedeutsame Straße entlang, die erstklassige Beispiele klassischer Wohnarchitektur zeigt, und achten Sie auf die verzierten schmiedeeisernen Tore.",
+            "hu": "Sétáljon végig ezen a történelmileg jelentős utcán, amely a klasszikus lakóépítészet kiváló példáit mutatja be, és figyelje meg a díszes kovácsoltvas kapukat.",
+            "ro": "Mergeți pe această stradă cu o istorie bogată, care prezintă exemple excelente de arhitectură rezidențială clasică, fiind atenți la porțile din fier forjat ornamentat.",
+            "en": "Walk down this historically significant street that showcases prime examples of classic residential architecture, keeping an eye out for the ornate ironwork gates."
+          }
+        },
+        {
+          "name": {
+            "de": "St James' Church",
+            "hu": "St James Templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St James' Church"
+          },
+          "coords": [
+            -3.019538,
+            53.638391
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschöne religiöse Wahrzeichen mit atemberaubenden Buntglasfenstern, die die Geschichte der Stadt widerspiegeln, und besuchen Sie es idealerweise zur Chorprobe.",
+            "hu": "Fedezze fel ezt a gyönyörű vallási emlékművet, amelynek lenyűgöző ólomüveg ablakai a város történelmét tükrözik, és próbáljon meg a kóruspróba idején érkezni.",
+            "ro": "Explorați acest frumos punct de reper religios, cu vitralii uimitoare care reflectă istoria orașului, și încercați să îl vizitați atunci când corul repetă.",
+            "en": "Explore this beautiful religious landmark featuring stunning stained glass windows that reflect the town's history, and try to visit when the choir is practicing."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Street West",
+            "hu": "Lord Street West",
+            "ro": "Lord Street West",
+            "en": "Lord Street West"
+          },
+          "coords": [
+            -3.012454,
+            53.643533
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten viktorianischen Vordächer und historischen Schaufenster entlang dieses berühmten Boulevards, dem idealen Ort, um einzigartige Antiquitäten zu finden.",
+            "hu": "Fedezze fel az elegáns viktoriánus baldachinokat és a történelmi kirakatokat ezen a híres sugárúton, amely ideális hely egyedi régiségek és ajándéktárgyak keresésére.",
+            "ro": "Descoperiți copertinele victoriene elegante și vitrinele istorice de-a lungul acestui faimos bulevard, făcându-l locul ideal pentru a găsi antichități unice.",
+            "en": "Discover the elegant Victorian canopies and historic shopfronts along this famous boulevard, making it the ideal spot for finding unique antiques and souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkdale Sands",
+            "hu": "Birkdale Homokos Part",
+            "ro": "Plaja Birkdale",
+            "en": "Birkdale Sands"
+          },
+          "coords": [
+            -3.028612,
+            53.645278
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite, natürliche Schönheit dieses Küstensandes, der sich perfekt zum Drachensteigen eignet, aber prüfen Sie immer die Gezeiten, bevor Sie zu weit hinausgehen.",
+            "hu": "Élvezze a sárkányeregetéshez tökéletes tengerparti homok végtelen természeti szépségét, de mindig ellenőrizze az árapály idejét, mielőtt túl messzire merészkedne.",
+            "ro": "Bucurați-vă de frumusețea naturală vastă a acestui nisip de coastă, perfect pentru a înălța zmeie, dar verificați întotdeauna orele mareelor înainte de a vă aventura.",
+            "en": "Enjoy the vast, sweeping natural beauty of these coastal sands perfect for kite flying or beachcombing, but always check the local tide times before venturing out far."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Bahnhof und führt schnell in das geschäftige Herz des Dorfes. Mittags passieren Sie die eleganten historischen Häuser an der Weld Road in Richtung der St. James' Church. Der Nachmittag ist der Erkundung der Architektur entlang der Lord Street West gewidmet. Der Abend endet mit einem atemberaubenden Spaziergang am weiten Küstensand.",
+        "hu": "A reggel a történelmi vasútállomáson kezdődik, ahonnan gyorsan a helyi falu nyüzsgő szívébe érünk. A dél közeledtével a Weld Road elegáns műemlékházai mellett haladunk a békés St James templom felé. A délutánt a Lord Street West mentén található építészeti csodák felfedezésére szánjuk. Végül az estét egy lélegzetelállító séta zárja a tágas tengerparti homokon.",
+        "ro": "Dimineața începe la gara istorică, trecând rapid în inima plină de viață a satului local. La prânz treceți pe lângă casele de patrimoniu elegante de pe Weld Road spre biserica pașnică St James. După-amiaza este dedicată explorării splendorilor arhitecturale de-a lungul Lord Street West. În cele din urmă, seara se încheie cu o plimbare uluitoare pe nisipurile de coastă.",
+        "en": "Morning begins with the arrival at the historic railway station, quickly transitioning into the bustling heart of the local village. Midday takes you past the elegant heritage homes on Weld Road toward the peaceful St James' Church. The afternoon is dedicated to exploring the architectural splendors along Lord Street West. Finally, the evening concludes with a breathtaking walk along the expansive coastal sands."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Birkdale Village",
+            "hu": "Birkdale Falu",
+            "ro": "Satul Birkdale",
+            "en": "Birkdale Village"
+          },
+          "coords": [
+            -3.013661,
+            53.634066
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses charmante kulturelle Zentrum mit unabhängigen Boutiquen und gemütlichen Cafés und holen Sie sich unbedingt ein frisches Gebäck für den Weg.",
+            "hu": "Sétáljon végig ezen a független butikokkal és kávézókkal teli hangulatos kulturális központon, és mindenképpen vegyen egy friss péksüteményt az útra.",
+            "ro": "Plimbați-vă prin acest centru cultural fermecător plin de buticuri independente și cafenele confortabile, asigurându-vă că luați o prăjitură proaspătă pentru drum.",
+            "en": "Stroll through this charming cultural hub filled with independent boutiques and cozy cafes, making sure to grab a fresh pastry from a local bakery for your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "St James' Church",
+            "hu": "St James Templom",
+            "ro": "Biserica Sfântul Iacob",
+            "en": "St James' Church"
+          },
+          "coords": [
+            -3.019538,
+            53.638391
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschöne religiöse Wahrzeichen mit atemberaubenden Buntglasfenstern, die die Geschichte der Stadt widerspiegeln, und besuchen Sie es idealerweise zur Chorprobe.",
+            "hu": "Fedezze fel ezt a gyönyörű vallási emlékművet, amelynek lenyűgöző ólomüveg ablakai a város történelmét tükrözik, és próbáljon meg a kóruspróba idején érkezni.",
+            "ro": "Explorați acest frumos punct de reper religios, cu vitralii uimitoare care reflectă istoria orașului, și încercați să îl vizitați atunci când corul repetă.",
+            "en": "Explore this beautiful religious landmark featuring stunning stained glass windows that reflect the town's history, and try to visit when the choir is practicing."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkdale Sands",
+            "hu": "Birkdale Homokos Part",
+            "ro": "Plaja Birkdale",
+            "en": "Birkdale Sands"
+          },
+          "coords": [
+            -3.028612,
+            53.645278
+          ],
+          "category": "natural",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite, natürliche Schönheit dieses Küstensandes, der sich perfekt zum Drachensteigen eignet, aber prüfen Sie immer die Gezeiten, bevor Sie zu weit hinausgehen.",
+            "hu": "Élvezze a sárkányeregetéshez tökéletes tengerparti homok végtelen természeti szépségét, de mindig ellenőrizze az árapály idejét, mielőtt túl messzire merészkedne.",
+            "ro": "Bucurați-vă de frumusețea naturală vastă a acestui nisip de coastă, perfect pentru a înălța zmeie, dar verificați întotdeauna orele mareelor înainte de a vă aventura.",
+            "en": "Enjoy the vast, sweeping natural beauty of these coastal sands perfect for kite flying or beachcombing, but always check the local tide times before venturing out far."
+          }
+        },
+        {
+          "name": {
+            "de": "Southport Pleasureland",
+            "hu": "Southport Vidámpark",
+            "ro": "Parcul de Distracții Southport",
+            "en": "Southport Pleasureland"
+          },
+          "coords": [
+            -3.018048,
+            53.648535
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel klassischer Vergnügungspark-Fahrgeschäfte für alle Altersgruppen und buchen Sie Ihre Tickets im Voraus online, um Warteschlangen zu vermeiden.",
+            "hu": "Élvezze a minden korosztályra szabott klasszikus vidámparki játékok izgalmát, és foglalja le jegyeit előre online, hogy elkerülje a sorban állást a bejáratnál.",
+            "ro": "Experimentați fiorul atracțiilor clasice de parc de distracții pentru toate vârstele și rezervați biletele online în avans pentru a evita cozile și a economisi timp.",
+            "en": "Experience the thrill of classic amusement park rides tailored for all ages, and book your tickets online in advance to skip the queues and save time at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Marine Lake",
+            "ro": "Lacul Marin",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.006863,
+            53.654175
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Tretbootfahrt auf diesem weitläufigen künstlichen See, umgeben von üppigen Parks, und vergessen Sie Ihre Kamera nicht für atemberaubende Sonnenuntergänge.",
+            "hu": "Tegyen egy pihentető vízibiciklis túrát ezen a buja parkokkal körülvett, hatalmas mesterséges tavon, és ne felejtse el a fényképezőgépét a lenyűgöző naplemente megörökítéséhez.",
+            "ro": "Faceți o plimbare relaxantă cu hidrobicicleta pe acest vast lac artificial înconjurat de parcuri luxuriante și nu uitați aparatul foto pentru a surprinde apusurile uimitoare.",
+            "en": "Take a relaxing pedal boat ride on this expansive man-made lake surrounded by lush parks, and don't forget your camera to capture the stunning sunset views over the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Street West",
+            "hu": "Lord Street West",
+            "ro": "Lord Street West",
+            "en": "Lord Street West"
+          },
+          "coords": [
+            -3.012454,
+            53.643533
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten viktorianischen Vordächer und historischen Schaufenster entlang dieses berühmten Boulevards, dem idealen Ort, um einzigartige Antiquitäten zu finden.",
+            "hu": "Fedezze fel az elegáns viktoriánus baldachinokat és a történelmi kirakatokat ezen a híres sugárúton, amely ideális hely egyedi régiségek és ajándéktárgyak keresésére.",
+            "ro": "Descoperiți copertinele victoriene elegante și vitrinele istorice de-a lungul acestui faimos bulevard, făcându-l locul ideal pentru a găsi antichități unice.",
+            "en": "Discover the elegant Victorian canopies and historic shopfronts along this famous boulevard, making it the ideal spot for finding unique antiques and souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im lebhaften Dorf, bevor Sie zur historischen Kirche weiterradeln. Mittags nehmen Sie Fahrt auf in Richtung der malerischen Küstensände und spüren die frische Meeresbrise. Der Nachmittag bringt die pulsierende Energie des örtlichen Vergnügungsparks. Beenden Sie den Abend, indem Sie am ruhigen Marine Lake und den großen Boulevards vorbeigleiten.",
+        "hu": "Kezdje kerékpáros útját a nyüzsgő faluban, mielőtt eltekerne a történelmi templomhoz egy kis reggeli elmélkedésre. Délben a festői tengerparti homok felé vesszük az irányt, érezve a friss óceáni szellőt. A délután a helyi vidámpark vibráló energiáját hozza el. Az estét a csendes mesterséges tó és a Lord Street West nagyszerű sugárútjai melletti kellemes gurulással zárja.",
+        "ro": "Începeți călătoria cu bicicleta în satul plin de viață înainte de a pedala către biserica istorică. La prânz, accelerați în timp ce pedalați spre nisipurile pitorești de coastă, simțind briza proaspătă a oceanului. După-amiaza aduce energia vibrantă a parcului de distracții local. Încheiați seara alunecând pe lângă lacul marin liniștit și marile bulevarde de pe Lord Street West.",
+        "en": "Start your cycling journey in the lively village before pedaling to the historic church for a moment of morning reflection. Midday speeds up as you ride out to the scenic coastal sands, feeling the fresh ocean breeze. Afternoon brings the vibrant energy of the local pleasureland rides. End your evening gliding past the tranquil marine lake and the grand boulevards of Lord Street West."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hillside Golf Club",
+            "hu": "Hillside Golf Klub",
+            "ro": "Clubul de Golf Hillside",
+            "en": "Hillside Golf Club"
+          },
+          "coords": [
+            -3.028,
+            53.62
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragenden Kiefern und dramatischen Dünen dieses prestigeträchtigen Golfplatzes und nutzen Sie die nahegelegenen Fußwege für großartige Ausblicke.",
+            "hu": "Csodálja meg ennek a tekintélyes golfpályának a magas fenyőfáit és drámai dűnéit, és sétáljon a közeli közönséges ösvényeken, ahonnan tagság nélkül is remek kilátás nyílik.",
+            "ro": "Admirați pinii falnici și dunele dramatice ale acestui prestigios teren de golf, plimbându-vă pe cărările publice din apropiere pentru priveliști minunate fără a fi membru.",
+            "en": "Admire the towering pine trees and dramatic dunes of this prestigious golf course, walking along the public footpaths nearby for great views without needing a membership."
+          }
+        },
+        {
+          "name": {
+            "de": "Royal Birkdale Golf Club",
+            "hu": "Royal Birkdale Golf Klub",
+            "ro": "Clubul de Golf Royal Birkdale",
+            "en": "Royal Birkdale Golf Club"
+          },
+          "coords": [
+            -3.033,
+            53.622
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen weltbekannten Meisterschaftsgolfplatz mit spektakulärem Links-Spiel und rufen Sie vorher an, um sich über Abschlagzeiten und die Kleiderordnung zu informieren.",
+            "hu": "Látogasson el erre a világhírű bajnoki golfpályára, és feltétlenül hívja fel őket előre, hogy érdeklődjön a látogatói időpontokról és a klubház öltözködési szabályairól.",
+            "ro": "Vizitați acest teren de golf de campionat de renume mondial și asigurați-vă că sunați în avans pentru a întreba despre orele de vizitare și codul vestimentar al clubului.",
+            "en": "Visit this world-renowned championship golf course offering spectacular links play, and be sure to call ahead to inquire about visitor tee times and clubhouse dress codes."
+          }
+        },
+        {
+          "name": {
+            "de": "Birkdale Village",
+            "hu": "Birkdale Falu",
+            "ro": "Satul Birkdale",
+            "en": "Birkdale Village"
+          },
+          "coords": [
+            -3.013661,
+            53.634066
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses charmante kulturelle Zentrum mit unabhängigen Boutiquen und gemütlichen Cafés und holen Sie sich unbedingt ein frisches Gebäck für den Weg.",
+            "hu": "Sétáljon végig ezen a független butikokkal és kávézókkal teli hangulatos kulturális központon, és mindenképpen vegyen egy friss péksüteményt az útra.",
+            "ro": "Plimbați-vă prin acest centru cultural fermecător plin de buticuri independente și cafenele confortabile, asigurându-vă că luați o prăjitură proaspătă pentru drum.",
+            "en": "Stroll through this charming cultural hub filled with independent boutiques and cozy cafes, making sure to grab a fresh pastry from a local bakery for your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Street West",
+            "hu": "Lord Street West",
+            "ro": "Lord Street West",
+            "en": "Lord Street West"
+          },
+          "coords": [
+            -3.012454,
+            53.643533
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eleganten viktorianischen Vordächer und historischen Schaufenster entlang dieses berühmten Boulevards, dem idealen Ort, um einzigartige Antiquitäten zu finden.",
+            "hu": "Fedezze fel az elegáns viktoriánus baldachinokat és a történelmi kirakatokat ezen a híres sugárúton, amely ideális hely egyedi régiségek és ajándéktárgyak keresésére.",
+            "ro": "Descoperiți copertinele victoriene elegante și vitrinele istorice de-a lungul acestui faimos bulevard, făcându-l locul ideal pentru a găsi antichități unice.",
+            "en": "Discover the elegant Victorian canopies and historic shopfronts along this famous boulevard, making it the ideal spot for finding unique antiques and souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Marine Lake",
+            "ro": "Lacul Marin",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.006863,
+            53.654175
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Tretbootfahrt auf diesem weitläufigen künstlichen See, umgeben von üppigen Parks, und vergessen Sie Ihre Kamera nicht für atemberaubende Sonnenuntergänge.",
+            "hu": "Tegyen egy pihentető vízibiciklis túrát ezen a buja parkokkal körülvett, hatalmas mesterséges tavon, és ne felejtse el a fényképezőgépét a lenyűgöző naplemente megörökítéséhez.",
+            "ro": "Faceți o plimbare relaxantă cu hidrobicicleta pe acest vast lac artificial înconjurat de parcuri luxuriante și nu uitați aparatul foto pentru a surprinde apusurile uimitoare.",
+            "en": "Take a relaxing pedal boat ride on this expansive man-made lake surrounded by lush parks, and don't forget your camera to capture the stunning sunset views over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt inmitten des üppigen Grüns der weltberühmten Golfplätze am Stadtrand. Mittags erreichen Sie das Dorfzentrum, um die lokale Kultur und historischen Straßen zu genießen. Den Nachmittag verbringen Sie damit, entlang der malerischen Lord Street West zu fahren. Parken Sie schließlich am Marine Lake für einen ruhigen Abend am Wasser im schwindenden Licht.",
+        "hu": "Autós túrája a világhírű golfpályák buja zöldje közepette kezdődik a város szélén. A dél a faluközpontba hozza, hogy élvezze a helyi kultúrát és a történelmi utcákat. A délutánt a festői Lord Street West mentén való autózással tölti, megcsodálva viktoriánus báját. Végül parkoljon le a tónál egy nyugodt estére, figyelve, ahogy a víz visszatükrözi az elmúló fényt.",
+        "ro": "Turul dumneavoastră auto începe printre verdeața luxuriantă a terenurilor de golf de renume mondial de la marginea orașului. Prânzul vă aduce în centrul satului pentru a vă bucura de cultura locală și străzile istorice. După-amiaza o petreceți conducând pe pitoreasca Lord Street West. În cele din urmă, parcați lângă lacul marin pentru o seară liniștită, privind reflexiile pe apă.",
+        "en": "Your driving tour begins amidst the lush greenery of world-renowned golf courses on the town's edge. Midday brings you into the village center to enjoy local culture and historic streets. The afternoon is spent cruising down the picturesque Lord Street West, admiring its Victorian charm. Finally, park near the marine lake for a tranquil evening watching the water reflect the fading light."
+      }
+    }
+  }
+}

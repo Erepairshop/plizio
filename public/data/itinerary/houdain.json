@@ -1,0 +1,497 @@
+{
+  "city_id": "houdain",
+  "anchor": {
+    "name": "Houdain",
+    "coords": [
+      2.5372,
+      50.4522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Houdain",
+            "hu": "Houdain Városháza",
+            "ro": "Primăria Houdain",
+            "en": "Houdain Town Hall"
+          },
+          "coords": [
+            2.537269,
+            50.452075
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur des Rathauses, die die lokale Geschichte perfekt einfängt, und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a városháza klasszikus polgári építészetét, amely tökéletesen tükrözi a helyi történelmet, és érdemes megnézni a hirdetőtáblákon a közelgő közösségi eseményeket is.",
+            "ro": "Admirați arhitectura civică clasică a primăriei, care surprinde perfect istoria locală, și asigurați-vă că verificați panourile informative pentru evenimentele comunitare viitoare.",
+            "en": "Admire the classic civic architecture of the town hall, which perfectly captures local history, and be sure to check the notice boards for upcoming community events in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.541002,
+            50.452065
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne religiöse Herzstück, um die ruhige Atmosphäre und die historischen Buntglasfenster zu genießen und einen Moment der Besinnung zu erleben.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási központba, hogy értékelje a nyugodt légkört és a történelmi ólomüveg ablakokat, tartva egy pillanatnyi csendes elmélkedést az útja folytatása előtt.",
+            "ro": "Pășiți înăuntrul acestei frumoase atracții religioase pentru a aprecia atmosfera sa senină și vitraliile istorice, luând un moment de reflecție liniștită înainte de a vă continua drumul.",
+            "en": "Step inside this beautiful religious centerpiece to appreciate its serene atmosphere and historic stained glass, taking a moment of quiet reflection before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            2.517733,
+            50.441926
+          ],
+          "category": "religious",
+          "arrive_at": "10:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen architektonischen Details dieser charmanten Kirche und achten Sie auf das einzigartige Mauerwerk an der Außenseite; besuchen Sie sie im Morgenlicht.",
+            "hu": "Fedezze fel ennek a bájos templomnak a hagyományos építészeti részleteit, megfigyelve a különleges külső kőműves munkát, és próbáljon meg a reggeli fényben érkezni a legjobb fotókért.",
+            "ro": "Explorați detaliile arhitecturale tradiționale ale acestei biserici fermecătoare, observând zidăria unică de pe exterior și încercați să o vizitați în lumina dimineții pentru fotografii.",
+            "en": "Explore the traditional architectural details of this charming church, noting the unique stonework on the exterior, and try to visit during the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Ranchicourt",
+            "hu": "Ranchicourt kastélya",
+            "ro": "Château de Ranchicourt",
+            "en": "Château de Ranchicourt"
+          },
+          "coords": [
+            2.552676,
+            50.44059
+          ],
+          "category": "castle",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Gelände dieses eleganten Schlosses, das einen Einblick in das aristokratische Leben bietet, und tragen Sie bequeme Schuhe, um das Anwesen zu erkunden.",
+            "hu": "Fedezze fel ennek az elegáns kastélynak a fenséges területét, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt a történelmi birtok körbejárásához.",
+            "ro": "Descoperiți domeniul majestuos al acestui castel elegant care oferă o privire în viața aristocratică și purtați încălțăminte confortabilă pentru a explora complet moșia istorică.",
+            "en": "Discover the majestic grounds of this elegant castle which offers a glimpse into aristocratic life, and wear comfortable walking shoes to fully explore the surrounding historic estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.555079,
+            50.437006
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen strukturellen Merkmale dieser spirituellen Stätte, die der Gemeinde seit Generationen dient, und gehen Sie um das Gebäude herum, um die Fassaden zu sehen.",
+            "hu": "Figyelje meg ennek a spirituális helynek a finom szerkezeti jellemzőit, amely generációk óta szolgálja a közösséget, és sétálja körbe az épületet, hogy lássa az eredeti homlokzatot.",
+            "ro": "Observați trăsăturile structurale delicate ale acestui sit spiritual care a servit comunitatea de generații și plimbați-vă în jurul perimetrului pentru a vedea fațadele originale.",
+            "en": "Notice the delicate structural features of this spiritual site that has served the community for generations, and walk around the perimeter to view its preserved original facades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Houdain, erkunden Sie das Rathaus und die nahe gelegene historische Kirche. Der Morgen bietet einen sanften Einstieg in den Rhythmus der Stadt. \n\nWeiter westwärts führt der Spaziergang durch ruhige Straßen zur Église Saint-Rémi. Dieser angenehme Spaziergang unterstreicht den Charme der lokalen Architektur. \n\nAm Nachmittag liegt der Fokus auf dem malerischen Château de Ranchicourt, einem wunderschönen Anwesen, das den langen Spaziergang mit seiner Pracht belohnt. \n\nBeenden Sie Ihren Tag an der nahen Église Notre-Dame und lassen Sie die friedliche Umgebung des historischen Schlossviertels Ihren Spaziergang ruhig ausklingen.",
+        "hu": "Kezdje a napot Houdain szívében, felfedezve a klasszikus Városházát és a közeli történelmi templomot. A délelőtt lágy bevezetést nyújt a város barátságos, nyugodt életritmusába. \n\nNyugat felé haladva a séta csendes utcákon át vezet az Église Saint-Rémi felé. Ez a kellemes barangolás kiemeli a helyi építészet mindennapi báját. \n\nDélután irány a festői Château de Ranchicourt, egy gyönyörű birtok, amely lenyűgöző megjelenésével bőven megjutalmazza a hosszabb sétát. \n\nZárja a napot a közeli Église Notre-Dame-nál, hagyva, hogy a történelmi kastélynegyed békés környezete nyugodt befejezést nyújtson a gyalogtúrának.",
+        "ro": "Începeți ziua în inima orașului Houdain, explorând Primăria clasică și biserica sa istorică. Dimineața oferă o introducere blândă în ritmul primitor și liniștit al orașului. \n\nContinuând spre vest, plimbarea vă poartă pe străzi liniștite către Église Saint-Rémi. Această promenadă plăcută evidențiază farmecul de zi cu zi al arhitecturii locale. \n\nDupă-amiaza, îndreptați-vă atenția spre pitorescul Château de Ranchicourt, o moșie superbă care recompensează plimbarea lungă prin prezența sa magnifică. \n\nÎncheiați-vă ziua la Église Notre-Dame din apropiere, permițând împrejurimilor pașnice ale cartierului castelului istoric să ofere un final calm turului dumneavoastră.",
+        "en": "Begin your day at the heart of Houdain, exploring the classic Town Hall and its nearby historic church. The morning offers a gentle introduction to the town's welcoming pace. \n\nContinuing westward, the walk takes you through quiet streets towards Église Saint-Rémi. This pleasant stroll highlights the everyday charm of the local architecture. \n\nIn the afternoon, shift your focus towards the scenic Château de Ranchicourt, a beautiful estate that rewards the long walk with its magnificent presence. \n\nConclude your day at the nearby Église Notre-Dame, allowing the peaceful surroundings of the historical castle district to provide a calm end to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Houdain",
+            "hu": "Houdain Városháza",
+            "ro": "Primăria Houdain",
+            "en": "Houdain Town Hall"
+          },
+          "coords": [
+            2.537269,
+            50.452075
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur des Rathauses, die die lokale Geschichte perfekt einfängt, und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a városháza klasszikus polgári építészetét, amely tökéletesen tükrözi a helyi történelmet, és érdemes megnézni a hirdetőtáblákon a közelgő közösségi eseményeket is.",
+            "ro": "Admirați arhitectura civică clasică a primăriei, care surprinde perfect istoria locală, și asigurați-vă că verificați panourile informative pentru evenimentele comunitare viitoare.",
+            "en": "Admire the classic civic architecture of the town hall, which perfectly captures local history, and be sure to check the notice boards for upcoming community events in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.541002,
+            50.452065
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne religiöse Herzstück, um die ruhige Atmosphäre und die historischen Buntglasfenster zu genießen und einen Moment der Besinnung zu erleben.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási központba, hogy értékelje a nyugodt légkört és a történelmi ólomüveg ablakokat, tartva egy pillanatnyi csendes elmélkedést az útja folytatása előtt.",
+            "ro": "Pășiți înăuntrul acestei frumoase atracții religioase pentru a aprecia atmosfera sa senină și vitraliile istorice, luând un moment de reflecție liniștită înainte de a vă continua drumul.",
+            "en": "Step inside this beautiful religious centerpiece to appreciate its serene atmosphere and historic stained glass, taking a moment of quiet reflection before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle polonaise",
+            "hu": "Lengyel kápolna",
+            "ro": "Chapelle polonaise",
+            "en": "Chapelle polonaise"
+          },
+          "coords": [
+            2.547995,
+            50.468486
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche multikulturelle Bergbaugeschichte in dieser kleinen polnischen Kapelle und suchen Sie nach den kulturellen Motiven, die das Innere schmücken.",
+            "hu": "Ismerje meg a gazdag multikulturális bányászati történelmet ebben a kis lengyel kápolnában, és keresse meg azokat a kulturális motívumokat, amelyek a szerény belső teret díszítik.",
+            "ro": "Aflați despre istoria bogată a mineritului multicultural din această mică, dar semnificativă capelă poloneză și căutați motivele culturale care îi decorează interiorul modest.",
+            "en": "Learn about the rich multicultural mining history embedded in this small but significant Polish chapel, and look for the specific cultural motifs that decorate its humble interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Roger Salengro",
+            "hu": "Roger Salengro",
+            "ro": "Roger Salengro",
+            "en": "Roger Salengro"
+          },
+          "coords": [
+            2.54298,
+            50.472332
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem historischen Wahrzeichen für eine prominente französische politische Persönlichkeit Ihren Respekt und nutzen Sie die Bänke, um mehr über sein Erbe zu lesen.",
+            "hu": "Tisztelgjen e történelmi emlékműnél, amelyet egy kiemelkedő francia politikai személyiségnek szenteltek, és használja a közeli padokat, hogy olvasson a régióra hagyott örökségéről.",
+            "ro": "Aduceți-vă omagiile la acest punct de reper istoric dedicat unei figuri politice franceze proeminente și folosiți băncile din apropiere pentru a citi despre moștenirea sa durabilă.",
+            "en": "Pay your respects at this historical landmark dedicated to a prominent French political figure, and use the nearby benches to read up on his enduring legacy in the local region."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine Art déco",
+            "hu": "Art Deco uszoda",
+            "ro": "Piscine Art déco",
+            "en": "Piscine Art déco"
+          },
+          "coords": [
+            2.541253,
+            50.472764
+          ],
+          "category": "family",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die authentischen geometrischen Designs dieses wunderbar erhaltenen Art-déco-Schwimmbads und prüfen Sie die Öffnungszeiten, falls Sie ein erfrischendes Bad nehmen möchten.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött Art Deco uszodának az autentikus geometriai formáit, és ellenőrizze a nyitvatartást, ha esetleg egy frissítő csobbanásra vágyna a nap folyamán.",
+            "ro": "Minunați-vă de designul geometric autentic al acestei piscine Art Deco frumos conservate și verificați din timp programul dacă doriți să faceți o baie răcoritoare în timpul vizitei.",
+            "en": "Marvel at the authentic geometric designs of this beautifully preserved Art Deco swimming pool, and check the public opening hours in advance if you actually wish to take a refreshing dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Ranchicourt",
+            "hu": "Ranchicourt kastélya",
+            "ro": "Château de Ranchicourt",
+            "en": "Château de Ranchicourt"
+          },
+          "coords": [
+            2.552676,
+            50.44059
+          ],
+          "category": "castle",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Gelände dieses eleganten Schlosses, das einen Einblick in das aristokratische Leben bietet, und tragen Sie bequeme Schuhe, um das Anwesen zu erkunden.",
+            "hu": "Fedezze fel ennek az elegáns kastélynak a fenséges területét, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt a történelmi birtok körbejárásához.",
+            "ro": "Descoperiți domeniul majestuos al acestui castel elegant care oferă o privire în viața aristocratică și purtați încălțăminte confortabilă pentru a explora complet moșia istorică.",
+            "en": "Discover the majestic grounds of this elegant castle which offers a glimpse into aristocratic life, and wear comfortable walking shoes to fully explore the surrounding historic estate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie vom zentralen Rathaus, genießen Sie die Morgenluft und besuchen Sie die Kirche, bevor Sie zu den nördlichen Wahrzeichen der Stadt radeln. \n\nFahren Sie zur Chapelle polonaise und zum Roger-Salengro-Denkmal. Die Radwege hier verbinden Sie leicht mit der reichen industriellen und kulturellen Vergangenheit der Stadt. \n\nIhr Nachmittag bietet einen Halt im atemberaubenden Piscine Art déco, gefolgt von einer entspannten Fahrt in den Süden zum großen historischen Schloss. \n\nBeenden Sie Ihr Radabenteuer am Château de Ranchicourt, genießen Sie das Abendlicht über dem Anwesen, bevor Sie sich langsam auf den Rückweg machen.",
+        "hu": "Kezdje a kerékpározást a központi Városházától, szívja magába a friss levegőt a templomnál, majd induljon el a város északi nevezetességei felé a délelőtt folyamán. \n\nTekerjen kényelmesen a Chapelle polonaise és a Roger Salengro emlékmű felé. Az itteni kerékpárutak könnyen összekapcsolják a város gazdag ipari múltjával. \n\nA délután egy megállót tartogat a lenyűgöző Art Deco uszodánál, amelyet egy kellemes déli irányú kerékpározás követ a hatalmas, lenyűgöző történelmi kastélyhoz. \n\nFejezze be kerékpáros kalandját a Château de Ranchicourt-nál, élvezve az esti fényeket a birtokon, mielőtt lassan visszaindulna a kiindulópontra.",
+        "ro": "Începeți să pedalați de la Primăria centrală, bucurându-vă de aerul dimineții la biserică înainte de a vă îndrepta spre reperele din partea de nord a orașului. \n\nMergeți lin către Chapelle polonaise și monumentul Roger Salengro. Pistele de biciclete de aici vă conectează ușor cu trecutul industrial al orașului. \n\nDupă-amiaza include o oprire la uimitoarea Piscine Art déco, urmată de o plimbare relaxantă spre sud către grandiosul castel istoric. \n\nTerminați aventura pe bicicletă la Château de Ranchicourt, bucurându-vă de lumina serii pe moșie înainte de a vă întoarce încet.",
+        "en": "Start pedaling from the central Town Hall, taking in the morning air as you quickly visit the central church before heading to the northern landmarks of the town. \n\nRide smoothly towards the Chapelle polonaise and the Roger Salengro monument. The bike paths here connect you easily with the town's rich industrial and cultural past. \n\nYour afternoon features a stop at the stunning Piscine Art déco, where the geometric architecture shines, followed by a breezy southern ride to the grand castle. \n\nFinish your cycling adventure at the Château de Ranchicourt, enjoying the evening light across the estate before slowly making your way back to your starting point."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 10.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Houdain",
+            "hu": "Houdain Városháza",
+            "ro": "Primăria Houdain",
+            "en": "Houdain Town Hall"
+          },
+          "coords": [
+            2.537269,
+            50.452075
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische zivile Architektur des Rathauses, die die lokale Geschichte perfekt einfängt, und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a városháza klasszikus polgári építészetét, amely tökéletesen tükrözi a helyi történelmet, és érdemes megnézni a hirdetőtáblákon a közelgő közösségi eseményeket is.",
+            "ro": "Admirați arhitectura civică clasică a primăriei, care surprinde perfect istoria locală, și asigurați-vă că verificați panourile informative pentru evenimentele comunitare viitoare.",
+            "en": "Admire the classic civic architecture of the town hall, which perfectly captures local history, and be sure to check the notice boards for upcoming community events in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            2.541002,
+            50.452065
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne religiöse Herzstück, um die ruhige Atmosphäre und die historischen Buntglasfenster zu genießen und einen Moment der Besinnung zu erleben.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási központba, hogy értékelje a nyugodt légkört és a történelmi ólomüveg ablakokat, tartva egy pillanatnyi csendes elmélkedést az útja folytatása előtt.",
+            "ro": "Pășiți înăuntrul acestei frumoase atracții religioase pentru a aprecia atmosfera sa senină și vitraliile istorice, luând un moment de reflecție liniștită înainte de a vă continua drumul.",
+            "en": "Step inside this beautiful religious centerpiece to appreciate its serene atmosphere and historic stained glass, taking a moment of quiet reflection before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine Art déco",
+            "hu": "Art Deco uszoda",
+            "ro": "Piscine Art déco",
+            "en": "Piscine Art déco"
+          },
+          "coords": [
+            2.541253,
+            50.472764
+          ],
+          "category": "family",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die authentischen geometrischen Designs dieses wunderbar erhaltenen Art-déco-Schwimmbads und prüfen Sie die Öffnungszeiten, falls Sie ein erfrischendes Bad nehmen möchten.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött Art Deco uszodának az autentikus geometriai formáit, és ellenőrizze a nyitvatartást, ha esetleg egy frissítő csobbanásra vágyna a nap folyamán.",
+            "ro": "Minunați-vă de designul geometric autentic al acestei piscine Art Deco frumos conservate și verificați din timp programul dacă doriți să faceți o baie răcoritoare în timpul vizitei.",
+            "en": "Marvel at the authentic geometric designs of this beautifully preserved Art Deco swimming pool, and check the public opening hours in advance if you actually wish to take a refreshing dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Roger Salengro",
+            "hu": "Roger Salengro",
+            "ro": "Roger Salengro",
+            "en": "Roger Salengro"
+          },
+          "coords": [
+            2.54298,
+            50.472332
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem historischen Wahrzeichen für eine prominente französische politische Persönlichkeit Ihren Respekt und nutzen Sie die Bänke, um mehr über sein Erbe zu lesen.",
+            "hu": "Tisztelgjen e történelmi emlékműnél, amelyet egy kiemelkedő francia politikai személyiségnek szenteltek, és használja a közeli padokat, hogy olvasson a régióra hagyott örökségéről.",
+            "ro": "Aduceți-vă omagiile la acest punct de reper istoric dedicat unei figuri politice franceze proeminente și folosiți băncile din apropiere pentru a citi despre moștenirea sa durabilă.",
+            "en": "Pay your respects at this historical landmark dedicated to a prominent French political figure, and use the nearby benches to read up on his enduring legacy in the local region."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle polonaise",
+            "hu": "Lengyel kápolna",
+            "ro": "Chapelle polonaise",
+            "en": "Chapelle polonaise"
+          },
+          "coords": [
+            2.547995,
+            50.468486
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche multikulturelle Bergbaugeschichte in dieser kleinen polnischen Kapelle und suchen Sie nach den kulturellen Motiven, die das Innere schmücken.",
+            "hu": "Ismerje meg a gazdag multikulturális bányászati történelmet ebben a kis lengyel kápolnában, és keresse meg azokat a kulturális motívumokat, amelyek a szerény belső teret díszítik.",
+            "ro": "Aflați despre istoria bogată a mineritului multicultural din această mică, dar semnificativă capelă poloneză și căutați motivele culturale care îi decorează interiorul modest.",
+            "en": "Learn about the rich multicultural mining history embedded in this small but significant Polish chapel, and look for the specific cultural motifs that decorate its humble interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Ranchicourt",
+            "hu": "Ranchicourt kastélya",
+            "ro": "Château de Ranchicourt",
+            "en": "Château de Ranchicourt"
+          },
+          "coords": [
+            2.552676,
+            50.44059
+          ],
+          "category": "castle",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Gelände dieses eleganten Schlosses, das einen Einblick in das aristokratische Leben bietet, und tragen Sie bequeme Schuhe, um das Anwesen zu erkunden.",
+            "hu": "Fedezze fel ennek az elegáns kastélynak a fenséges területét, amely bepillantást enged az arisztokrata életbe, és viseljen kényelmes cipőt a történelmi birtok körbejárásához.",
+            "ro": "Descoperiți domeniul majestuos al acestui castel elegant care oferă o privire în viața aristocratică și purtați încălțăminte confortabilă pentru a explora complet moșia istorică.",
+            "en": "Discover the majestic grounds of this elegant castle which offers a glimpse into aristocratic life, and wear comfortable walking shoes to fully explore the surrounding historic estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.555079,
+            50.437006
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen strukturellen Merkmale dieser spirituellen Stätte, die der Gemeinde seit Generationen dient, und gehen Sie um das Gebäude herum, um die Fassaden zu sehen.",
+            "hu": "Figyelje meg ennek a spirituális helynek a finom szerkezeti jellemzőit, amely generációk óta szolgálja a közösséget, és sétálja körbe az épületet, hogy lássa az eredeti homlokzatot.",
+            "ro": "Observați trăsăturile structurale delicate ale acestui sit spiritual care a servit comunitatea de generații și plimbați-vă în jurul perimetrului pentru a vedea fațadele originale.",
+            "en": "Notice the delicate structural features of this spiritual site that has served the community for generations, and walk around the perimeter to view its preserved original facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            2.517733,
+            50.441926
+          ],
+          "category": "religious",
+          "arrive_at": "15:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die traditionellen architektonischen Details dieser charmanten Kirche und achten Sie auf das einzigartige Mauerwerk an der Außenseite; besuchen Sie sie im Morgenlicht.",
+            "hu": "Fedezze fel ennek a bájos templomnak a hagyományos építészeti részleteit, megfigyelve a különleges külső kőműves munkát, és próbáljon meg a reggeli fényben érkezni a legjobb fotókért.",
+            "ro": "Explorați detaliile arhitecturale tradiționale ale acestei biserici fermecătoare, observând zidăria unică de pe exterior și încercați să o vizitați în lumina dimineții pentru fotografii.",
+            "en": "Explore the traditional architectural details of this charming church, noting the unique stonework on the exterior, and try to visit during the morning light for the best photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mühelos im Stadtzentrum am Rathaus und der Kirche, während der morgendliche Verkehr noch relativ ruhig und überschaubar ist. \n\nFahren Sie schnell in den Norden, um das atemberaubende Art-déco-Schwimmbad, das Denkmal von Roger Salengro und die kulturell bedeutsame polnische Kapelle zu bewundern. \n\nAm Nachmittag machen Sie eine kurze Fahrt nach Süden zum Château de Ranchicourt und der Église Notre-Dame und genießen den Komfort des einfachen Wechsels. \n\nBeenden Sie Ihre umfassende Tour an der Église Saint-Rémi. Der Komfort eines Autos sorgt dafür, dass Sie über einen Tag voller urbanem Erbe und Architektur nachdenken können.",
+        "hu": "Autós túrája könnyedén indul a városközpontban, érintve a Városházát és a templomot, amíg a reggeli forgalom még viszonylag nyugodt és könnyen kezelhető. \n\nGyorsan haladjon át az északi kerületbe, hogy megcsodálja a lenyűgöző Art Deco uszodát, a Roger Salengro emlékművet és a jelentős lengyel kápolnát. \n\nDélután tegyen egy rövid utat délre, hogy megcsodálja a Château de Ranchicourt-t és a közeli Église Notre-Dame-t, élvezve a kényelmes helyváltoztatást. \n\nZárja átfogó túráját az Église Saint-Rémi-nél. Az autó kényelme biztosítja, hogy kipihenten gondoljon vissza a városi örökség és a kastélyok tökéletes egyensúlyára.",
+        "ro": "Turul dumneavoastră auto începe fără efort în centrul orașului la Primărie și biserică, în timp ce traficul de dimineață este încă relativ calm și lejer. \n\nTreceți rapid în cartierul nordic pentru a admira uimitoarea piscină Art Deco, monumentul Roger Salengro și capela poloneză, plină de semnificație culturală. \n\nDupă-amiaza, conduceți puțin spre sud pentru a vă minuna de Château de Ranchicourt și Église Notre-Dame, bucurându-vă de confortul mașinii. \n\nÎncheiați turul cuprinzător la Église Saint-Rémi. Confortul unei mașini vă asigură că puteți reflecta asupra unei zile care echilibrează perfect patrimoniul urban.",
+        "en": "Your driving tour begins effortlessly in the town center, checking off the Town Hall and Saint-Jean-Baptiste Church while the morning traffic is still relatively calm and light. \n\nQuickly transition to the northern district to admire the stunning Art Deco swimming pool, the Roger Salengro monument, and the culturally significant Polish chapel. \n\nIn the afternoon, take a short drive south to marvel at the Château de Ranchicourt and the nearby Église Notre-Dame, enjoying the comfort of transitioning between expansive historical sites. \n\nWrap up your comprehensive tour at Église Saint-Rémi. The convenience of a car ensures you can reflect on a day perfectly balancing urban heritage with grand chateau architecture."
+      }
+    }
+  }
+}

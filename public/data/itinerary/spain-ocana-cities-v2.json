@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-ocana-cities-v2",
+  "anchor": {
+    "name": "Ocaña",
+    "coords": [
+      -3.501134,
+      39.958406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busto de José Antonio Primo de Rivera",
+            "hu": "Busto de José Antonio Primo de Rivera",
+            "ro": "Busto de José Antonio Primo de Rivera",
+            "en": "Busto de José Antonio Primo de Rivera"
+          },
+          "coords": [
+            -3.498238,
+            39.95966
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal auf dem Platz, das Spaniens komplexe Vergangenheit widerspiegelt, und nutzen Sie das Morgenlicht für ein Foto.",
+            "hu": "Nézze meg a téren álló, Spanyolország összetett múltját tükröző történelmi emlékművet, és készítsen egy fényképet a reggeli fényben.",
+            "ro": "Observați acest monument istoric din piață care reflectă trecutul complex al Spaniei și profitați de lumina dimineții pentru a face o fotografie.",
+            "en": "Observe this historic monument in the square that reflects Spain's complex past, and take a moment to snap a photo in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Juan",
+            "hu": "Iglesia de San Juan",
+            "ro": "Iglesia de San Juan",
+            "en": "Iglesia de San Juan"
+          },
+          "coords": [
+            -3.500254,
+            39.960495
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses religiösen Gebäudes als Anker des spirituellen Lebens von Ocaña, und achten Sie vor dem Eintreten auf die detaillierte Fassade.",
+            "hu": "Csodálja meg ennek a vallási épületnek, Ocaña szellemi élete horgonyának lenyűgöző építészetét, és belépés előtt vessen egy pillantást a részletes homlokzatra.",
+            "ro": "Admirați arhitectura impresionantă a acestui edificiu religios, o ancoră a vieții spirituale din Ocaña, acordând atenție fațadei detaliate înainte de a intra.",
+            "en": "Admire the impressive architecture of this religious edifice, an anchor of Ocaña's spiritual life, keeping an eye on the detailed façade before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Rollo de Justicia",
+            "hu": "Rollo de Justicia",
+            "ro": "Rollo de Justicia",
+            "en": "Rollo de Justicia"
+          },
+          "coords": [
+            -3.499244,
+            39.960137
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses imposante Symbol mittelalterlicher Gerechtigkeit, das als Zeugnis der historischen Gerichtsbarkeit der Stadt steht, und lesen Sie die Plakette in der Nähe.",
+            "hu": "Vizsgálja meg a középkori igazságszolgáltatás e lenyűgöző szimbólumát, amely a város történelmi joghatóságának bizonyítéka, és mindenképpen olvassa el a közeli táblát.",
+            "ro": "Examinați acest simbol impunător al justiției medievale, care stă ca o mărturie a jurisdicției istorice a orașului, dar asigurați-vă că citiți placa informativă din apropiere.",
+            "en": "Examine this imposing symbol of medieval justice that stands proudly as a testament to the town's historical jurisdiction, but be sure to read the nearby plaque."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de San Miguel",
+            "hu": "Torre de San Miguel",
+            "ro": "Torre de San Miguel",
+            "en": "Torre de San Miguel"
+          },
+          "coords": [
+            -3.498453,
+            39.961686
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem majestätischen historischen Turm hinauf, der einst Teil einer größeren Struktur war, und besuchen Sie ihn am besten, wenn die Glocke läutet.",
+            "hu": "Nézzen fel erre a fenséges történelmi toronyra, amely egykor egy nagyobb építmény része volt, és próbálja meg akkor meglátogatni, amikor a harang szólal.",
+            "ro": "Priviți în sus la acest turn istoric maiestuos, care a făcut cândva parte dintr-o structură mai mare, și încercați să fiți acolo când bat clopotele pentru o experiență memorabilă.",
+            "en": "Look up at this majestic historical tower which once formed part of a grander structure, and try to visit when the bell tolls for a memorable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Fuente Grande",
+            "hu": "Centro de Interpretación Fuente Grande",
+            "ro": "Centro de Interpretación Fuente Grande",
+            "en": "Centro de Interpretación Fuente Grande"
+          },
+          "coords": [
+            -3.499276,
+            39.96269
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem Interpretationszentrum die wichtige Rolle des Wassers für die Entwicklung von Ocaña kennen, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Ismerje meg a víz létfontosságú szerepét Ocaña fejlődésében ebben az értelmező központban, miután előzetesen ellenőrizte a nyitvatartási időt az interneten.",
+            "ro": "Aflați despre rolul vital al apei în dezvoltarea orașului Ocaña la acest centru de interpretare, verificând programul online înainte de vizită.",
+            "en": "Learn about the vital role of water in Ocaña's development at this interpretation center, checking the opening hours online before you plan your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Grande",
+            "hu": "Fuente Grande",
+            "ro": "Fuente Grande",
+            "en": "Fuente Grande"
+          },
+          "coords": [
+            -3.500923,
+            39.962368
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen monumentalen Renaissance-Brunnen, der ein wahres architektonisches Wunderwerk ist, und tragen Sie bequeme Schuhe für einen Spaziergang um das große Steinbecken.",
+            "hu": "Fedezze fel ezt a monumentális reneszánsz szökőkutat, amely igazi építészeti csoda, és viseljen kényelmes cipőt, hogy körbesétálja a hatalmas kőmedencét.",
+            "ro": "Explorați această fântână monumentală renascentistă, o adevărată minune arhitecturală, și purtați încălțăminte confortabilă pentru a vă plimba în jurul bazinului său extins din piatră.",
+            "en": "Explore this monumental Renaissance fountain which is a true architectural marvel, and wear comfortable shoes to walk around its expansive stone basin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang morgens am zentralen Denkmal in entspanntem Tempo. Bis zum Mittag entdecken Sie das religiöse Herz und die Justizsymbole des mittelalterlichen Ocaña. Der Nachmittag bietet einen tiefen Einblick in den Turm San Miguel und das Interpretationszentrum. Am Abend können Sie die monumentale Fuente Grande im Sonnenuntergang bewundern.",
+        "hu": "Kezdje reggeli sétáját a központi mellszobornál, kényelmes tempóban. Délre felfedezi a középkori Ocaña vallási szívét és igazságügyi szimbólumait. A délután elmélyülést kínál a történelmi San Miguel toronyban és az értelmező központban. Ahogy közeledik az este, csodálja meg a monumentális Fuente Grande-t a lenyugvó napfényben.",
+        "ro": "Începeți turul de dimineață la bustul central, într-un ritm relaxat. Până la prânz, veți descoperi inima religioasă și simbolurile justiției din Ocaña medievală. După-amiaza oferă o incursiune profundă în turnul istoric San Miguel și centrul de interpretare. Seara, admirați monumentala Fuente Grande în lumina apusului.",
+        "en": "Begin your walking tour in the morning at the central bust, setting a relaxed pace. By midday, you'll uncover the religious heart and justice symbols of medieval Ocaña. The afternoon offers a deep dive into the historical San Miguel tower and the interpretation center. As evening approaches, marvel at the monumental Fuente Grande as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la Semana Santa de Ocaña",
+            "hu": "Monumento a la Semana Santa de Ocaña",
+            "ro": "Monumento a la Semana Santa de Ocaña",
+            "en": "Monumento a la Semana Santa de Ocaña"
+          },
+          "coords": [
+            -3.504637,
+            39.954164
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Denken Sie über die tiefe kulturelle Bedeutung der lokalen Karwoche-Feierlichkeiten nach, die in diesem Denkmal dargestellt sind, und treten Sie langsam näher heran.",
+            "hu": "Gondoljon a helyi nagyheti ünnepségek mély kulturális jelentőségére, amelyet ez az emlékmű ábrázol, és lassan közeledjen, hogy értékelje a finom részleteket.",
+            "ro": "Reflectați asupra semnificației culturale profunde a sărbătorilor locale din Săptămâna Mare reprezentate pe acest monument, apropiindu-vă încet pentru a observa detaliile.",
+            "en": "Reflect on the deep cultural significance of the local Holy Week celebrations depicted in this monument, approaching slowly to appreciate the fine details."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto de José Antonio Primo de Rivera",
+            "hu": "Busto de José Antonio Primo de Rivera",
+            "ro": "Busto de José Antonio Primo de Rivera",
+            "en": "Busto de José Antonio Primo de Rivera"
+          },
+          "coords": [
+            -3.498238,
+            39.95966
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal auf dem Platz, das Spaniens komplexe Vergangenheit widerspiegelt, und nutzen Sie das Morgenlicht für ein Foto.",
+            "hu": "Nézze meg a téren álló, Spanyolország összetett múltját tükröző történelmi emlékművet, és készítsen egy fényképet a reggeli fényben.",
+            "ro": "Observați acest monument istoric din piață care reflectă trecutul complex al Spaniei și profitați de lumina dimineții pentru a face o fotografie.",
+            "en": "Observe this historic monument in the square that reflects Spain's complex past, and take a moment to snap a photo in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Porticum Salutis",
+            "hu": "Porticum Salutis",
+            "ro": "Porticum Salutis",
+            "en": "Porticum Salutis"
+          },
+          "coords": [
+            -3.496788,
+            39.9589
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierenden Ausstellungen dieses Museums ein, planen Sie genügend Zeit für die reiche Geschichte ein und nutzen Sie, wenn möglich, eine Führung.",
+            "hu": "Merüljön el ennek az izgalmas múzeumnak a lenyűgöző kiállításaiban, hagyjon elég időt a gazdag történelem befogadására, és vegyen részt egy tárlatvezetésen, ha lehetséges.",
+            "ro": "Pătrundeți în expozițiile fascinante ale acestui muzeu, alocând suficient timp pentru a absorbi istoria bogată și solicitând un tur ghidat dacă este disponibil.",
+            "en": "Delve into the fascinating exhibits at this intriguing museum, allowing plenty of time to fully absorb the rich history and taking a guided tour if one is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Juan",
+            "hu": "Iglesia de San Juan",
+            "ro": "Iglesia de San Juan",
+            "en": "Iglesia de San Juan"
+          },
+          "coords": [
+            -3.500254,
+            39.960495
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses religiösen Gebäudes als Anker des spirituellen Lebens von Ocaña, und achten Sie vor dem Eintreten auf die detaillierte Fassade.",
+            "hu": "Csodálja meg ennek a vallási épületnek, Ocaña szellemi élete horgonyának lenyűgöző építészetét, és belépés előtt vessen egy pillantást a részletes homlokzatra.",
+            "ro": "Admirați arhitectura impresionantă a acestui edificiu religios, o ancoră a vieții spirituale din Ocaña, acordând atenție fațadei detaliate înainte de a intra.",
+            "en": "Admire the impressive architecture of this religious edifice, an anchor of Ocaña's spiritual life, keeping an eye on the detailed façade before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Grande",
+            "hu": "Fuente Grande",
+            "ro": "Fuente Grande",
+            "en": "Fuente Grande"
+          },
+          "coords": [
+            -3.500923,
+            39.962368
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen monumentalen Renaissance-Brunnen, der ein wahres architektonisches Wunderwerk ist, und tragen Sie bequeme Schuhe für einen Spaziergang um das große Steinbecken.",
+            "hu": "Fedezze fel ezt a monumentális reneszánsz szökőkutat, amely igazi építészeti csoda, és viseljen kényelmes cipőt, hogy körbesétálja a hatalmas kőmedencét.",
+            "ro": "Explorați această fântână monumentală renascentistă, o adevărată minune arhitecturală, și purtați încălțăminte confortabilă pentru a vă plimba în jurul bazinului său extins din piatră.",
+            "en": "Explore this monumental Renaissance fountain which is a true architectural marvel, and wear comfortable shoes to walk around its expansive stone basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de Santa Catalina de Siena",
+            "hu": "Convento de Santa Catalina de Siena",
+            "ro": "Convento de Santa Catalina de Siena",
+            "en": "Convento de Santa Catalina de Siena"
+          },
+          "coords": [
+            -3.494086,
+            39.961323
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses religiösen Klosters, das den Test der Zeit bestanden hat, und denken Sie daran, aus Respekt vor den Bewohnern leise zu sprechen.",
+            "hu": "Élvezze a vallási kolostor békés légkörét, amely kiállta az idő próbáját, és ne felejtsen el halkan beszélni az ott élők iránti tiszteletből.",
+            "ro": "Bucurați-vă de atmosfera senină a acestei mănăstiri care a rezistat testului timpului, amintindu-vă să vorbiți încet din respect pentru rezidenți.",
+            "en": "Take in the serene atmosphere of this religious convent that has stood the test of time, remembering to keep your voice down out of respect for the residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente vieja",
+            "hu": "Fuente vieja",
+            "ro": "Fuente vieja",
+            "en": "Fuente vieja"
+          },
+          "coords": [
+            -3.507283,
+            39.961804
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese alte Wasserquelle, die die frühen Bewohner der Stadt versorgte, und bringen Sie eine kleine Wasserflasche für Ihre historische Erkundung mit.",
+            "hu": "Fedezze fel ezt az ősi vízforrást, amely a város korai lakóit táplálta, és vigyen magával egy kis vizes palackot, hogy hidratált maradjon a felfedezés során.",
+            "ro": "Descoperiți această veche sursă de apă care i-a susținut pe primii locuitori ai orașului, luând o sticlă cu apă pentru a vă hidrata în timpul explorării.",
+            "en": "Discover this ancient water source that sustained the town's early inhabitants, carrying a small water bottle to stay hydrated during your historical exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit den lokalen Traditionen am Karwoche-Denkmal. Der späte Vormittag führt Sie durch historische Wahrzeichen und ein Museum. Nach einem entspannten Mittag bei religiösen Stätten radeln Sie zum monumentalen Renaissance-Brunnen. Die abendliche Fahrt endet mit einem friedlichen Besuch der alten Quelle.",
+        "hu": "Kezdje kerékpáros útját a helyi hagyományok ünneplésével a nagyheti emlékműnél. A késő délelőtt történelmi nevezetességekhez és egy múzeumhoz vezet. Miután délben felfedezte a vallási örökséget, a monumentális reneszánsz szökőkút felé pedálozik. Az esti kerékpározás az ősi régi forrás békés meglátogatásával zárul.",
+        "ro": "Începeți călătoria cu bicicleta celebrând tradițiile locale la monumentul Săptămânii Mari. Dimineața târziu vă poartă prin repere istorice și un muzeu. După un prânz relaxant explorând patrimoniul religios, veți pedala spre monumentala fântână renascentistă. Plimbarea de seară se încheie cu o vizită la vechiul izvor antic.",
+        "en": "Kick off your cycling journey celebrating local traditions at the Holy Week monument. Late morning takes you through historical landmarks and a fascinating museum. After a relaxing midday exploring religious heritage, you will pedal towards the monumental Renaissance fountain. Your evening ride concludes with a peaceful visit to the ancient old fountain."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina municipal de Los Pinos",
+            "hu": "Piscina municipal de Los Pinos",
+            "ro": "Piscina municipal de Los Pinos",
+            "en": "Piscina municipal de Los Pinos"
+          },
+          "coords": [
+            -3.517368,
+            39.956798
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Ausflug mit einer erfrischenden Pause in der Nähe dieses lebhaften Erholungsgebiets, und parken Sie Ihr Auto sicher in der Nähe.",
+            "hu": "Kezdje az utazást egy frissítő pihenéssel e nyüzsgő szabadidős terület közelében, és parkolja le biztonságosan az autóját, mielőtt elindulna felfedezni a környéket.",
+            "ro": "Începeți călătoria cu o pauză răcoritoare în apropierea acestei zone de agrement pline de viață, parcându-vă mașina în siguranță înainte de a explora împrejurimile.",
+            "en": "Start your trip with a refreshing break near this lively recreational area, parking your car securely nearby before setting off to explore the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente vieja",
+            "hu": "Fuente vieja",
+            "ro": "Fuente vieja",
+            "en": "Fuente vieja"
+          },
+          "coords": [
+            -3.507283,
+            39.961804
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese alte Wasserquelle, die die frühen Bewohner der Stadt versorgte, und bringen Sie eine kleine Wasserflasche für Ihre historische Erkundung mit.",
+            "hu": "Fedezze fel ezt az ősi vízforrást, amely a város korai lakóit táplálta, és vigyen magával egy kis vizes palackot, hogy hidratált maradjon a felfedezés során.",
+            "ro": "Descoperiți această veche sursă de apă care i-a susținut pe primii locuitori ai orașului, luând o sticlă cu apă pentru a vă hidrata în timpul explorării.",
+            "en": "Discover this ancient water source that sustained the town's early inhabitants, carrying a small water bottle to stay hydrated during your historical exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Juan",
+            "hu": "Iglesia de San Juan",
+            "ro": "Iglesia de San Juan",
+            "en": "Iglesia de San Juan"
+          },
+          "coords": [
+            -3.500254,
+            39.960495
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses religiösen Gebäudes als Anker des spirituellen Lebens von Ocaña, und achten Sie vor dem Eintreten auf die detaillierte Fassade.",
+            "hu": "Csodálja meg ennek a vallási épületnek, Ocaña szellemi élete horgonyának lenyűgöző építészetét, és belépés előtt vessen egy pillantást a részletes homlokzatra.",
+            "ro": "Admirați arhitectura impresionantă a acestui edificiu religios, o ancoră a vieții spirituale din Ocaña, acordând atenție fațadei detaliate înainte de a intra.",
+            "en": "Admire the impressive architecture of this religious edifice, an anchor of Ocaña's spiritual life, keeping an eye on the detailed façade before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Grande",
+            "hu": "Fuente Grande",
+            "ro": "Fuente Grande",
+            "en": "Fuente Grande"
+          },
+          "coords": [
+            -3.500923,
+            39.962368
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen monumentalen Renaissance-Brunnen, der ein wahres architektonisches Wunderwerk ist, und tragen Sie bequeme Schuhe für einen Spaziergang um das große Steinbecken.",
+            "hu": "Fedezze fel ezt a monumentális reneszánsz szökőkutat, amely igazi építészeti csoda, és viseljen kényelmes cipőt, hogy körbesétálja a hatalmas kőmedencét.",
+            "ro": "Explorați această fântână monumentală renascentistă, o adevărată minune arhitecturală, și purtați încălțăminte confortabilă pentru a vă plimba în jurul bazinului său extins din piatră.",
+            "en": "Explore this monumental Renaissance fountain which is a true architectural marvel, and wear comfortable shoes to walk around its expansive stone basin."
+          }
+        },
+        {
+          "name": {
+            "de": "Porticum Salutis",
+            "hu": "Porticum Salutis",
+            "ro": "Porticum Salutis",
+            "en": "Porticum Salutis"
+          },
+          "coords": [
+            -3.496788,
+            39.9589
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierenden Ausstellungen dieses Museums ein, planen Sie genügend Zeit für die reiche Geschichte ein und nutzen Sie, wenn möglich, eine Führung.",
+            "hu": "Merüljön el ennek az izgalmas múzeumnak a lenyűgöző kiállításaiban, hagyjon elég időt a gazdag történelem befogadására, és vegyen részt egy tárlatvezetésen, ha lehetséges.",
+            "ro": "Pătrundeți în expozițiile fascinante ale acestui muzeu, alocând suficient timp pentru a absorbi istoria bogată și solicitând un tur ghidat dacă este disponibil.",
+            "en": "Delve into the fascinating exhibits at this intriguing museum, allowing plenty of time to fully absorb the rich history and taking a guided tour if one is available."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal \"El Carmen\"",
+            "hu": "Piscina Municipal \"El Carmen\"",
+            "ro": "Piscina Municipal \"El Carmen\"",
+            "en": "Piscina Municipal \"El Carmen\""
+          },
+          "coords": [
+            -3.497362,
+            39.954861
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem beliebten städtischen Schwimmbad ausklingen und bringen Sie für ein entspanntes Bad am Nachmittag Handtuch und Badesachen mit.",
+            "hu": "Zárja a napot ebben a népszerű helyi uszodában, és hozzon magával törölközőt és fürdőruhát, ha esetleg egy pihentető délutáni csobbanásra vágyna.",
+            "ro": "Încheiați-vă ziua la această facilitate locală populară, aducând un prosop și un costum de baie în cazul în care doriți o baie relaxantă de după-amiază.",
+            "en": "Wind down your day at this popular local pool facility, bringing along a towel and swimwear just in case you decide to enjoy a relaxing afternoon dip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Erholungsgebiet Los Pinos, um sich zu orientieren. Mittags geht es in das historische Zentrum, zu alten Wasserquellen und beeindruckenden Kirchen. Der Nachmittag ist der prächtigen Fuente Grande und den Ausstellungen von Porticum Salutis gewidmet. Lassen Sie den Roadtrip mit einem entspannten Abend nahe den El Carmen Pools ausklingen.",
+        "hu": "Kezdje autós útját a Los Pinos szabadidős területen, hogy tájékozódjon. Délben a történelmi központ felé veszi az irányt, ősi vízforrásokat és templomokat követve. A délután a csodálatos Fuente Grande és a Porticum Salutis kiállításainak van szentelve. Zárja az autós utazást egy pihentető estével az El Carmen medencék közelében.",
+        "ro": "Începeți traseul cu mașina la zona de agrement Los Pinos pentru a vă orienta. La prânz vă îndreptați spre centrul istoric, urmărind vechile surse de apă și bisericile. După-amiaza este dedicată magnificei Fuente Grande și expozițiilor de la Porticum Salutis. Încheiați-vă excursia cu o seară relaxantă lângă piscinele El Carmen.",
+        "en": "Start your driving route at the recreational Los Pinos area to orient yourself. Midday shifts towards the historic center, tracing ancient water sources and striking churches. The afternoon is dedicated to the magnificent Fuente Grande and the intriguing exhibits of Porticum Salutis. Wind down your road trip with a relaxing evening near the El Carmen pools."
+      }
+    }
+  }
+}

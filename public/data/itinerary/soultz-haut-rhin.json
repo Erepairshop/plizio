@@ -1,0 +1,474 @@
+{
+  "city_id": "soultz-haut-rhin",
+  "anchor": {
+    "name": "Soultz-Haut-Rhin",
+    "coords": [
+      7.2292,
+      47.8858
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 1.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            7.229478,
+            47.886277
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur auf dem belebten Place de la République, dem Herzen von Soultz, und genießen Sie einen Kaffee in einem der kleinen Bistros in der Nähe.",
+            "hu": "Csodálja meg az építészetet a nyüzsgő Republic Square-en, Soultz szívében, és igyon egy kávét a térhez közeli hangulatos kis bisztrók egyikében, miközben pihen.",
+            "ro": "Admirați arhitectura din animata Piață a Republicii, inima orașului Soultz, și savurați o cafea relaxantă la unul dintre micile bistrouri aflate chiar în apropiere.",
+            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            7.230117,
+            47.887014
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
+            "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
+            "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bucheneck",
+            "hu": "Bucheneck kastély",
+            "ro": "Castelul Bucheneck",
+            "en": "Bucheneck Castle"
+          },
+          "coords": [
+            7.227384,
+            47.886836
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
+            "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
+            "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Nef des Jouets",
+            "hu": "Nef des Jouets",
+            "ro": "Nef des Jouets",
+            "en": "Nef des Jouets"
+          },
+          "coords": [
+            7.227399,
+            47.887861
+          ],
+          "category": "museum",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in der Nef des Jouets in die nostalgische Welt der alten Spielzeuge ein und bringen Sie Ihre Kinder mit, um die interaktiven Ausstellungsstücke zu erleben.",
+            "hu": "Merüljön el a régi játékok nosztalgikus világában a Nef des Jouets múzeumban, és hozza el a gyerekeket is, hogy közösen fedezzék fel az interaktív kiállításokat.",
+            "ro": "Pătrundeți în lumea nostalgică a jucăriilor vechi la muzeul Nef des Jouets și asigurați-vă că aduceți copiii pentru a se bucura de expozițiile interactive și unice.",
+            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Synagoge",
+            "hu": "Zsinagóga",
+            "ro": "Sinagoga",
+            "en": "Synagogue"
+          },
+          "coords": [
+            7.227344,
+            47.884761
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Besonderheiten der alten Synagoge von Soultz, die ein wichtiges Zeugnis der jüdischen Gemeinde ist, am besten bei Tageslicht.",
+            "hu": "Figyelje meg a soultzi régi zsinagóga építészeti sajátosságait, amely a zsidó közösség fontos emlékhelye, és a legszebb arcát természetes nappali fénynél mutatja.",
+            "ro": "Observați caracteristicile arhitecturale ale vechii sinagogi din Soultz, o mărturie importantă a comunității evreiești, de preferat în timpul zilei pentru o lumină bună.",
+            "en": "Observe the architectural features of the old Synagogue of Soultz, an important testament to the local Jewish community, best appreciated in natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Georges",
+            "hu": "Saint-Georges kápolna",
+            "ro": "Capela Saint-Georges",
+            "en": "Chapelle Saint-Georges"
+          },
+          "coords": [
+            7.235603,
+            47.882387
+          ],
+          "category": "religious",
+          "arrive_at": "14:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der Chapelle Saint-Georges, einer malerischen Kapelle am Rande der Stadt, und machen Sie hier eine kurze Pause im Schatten.",
+            "hu": "Élvezze a Chapelle Saint-Georges békés atmoszféráját, amely egy festői kápolna a város szélén, és tartson itt egy rövid, frissítő pihenőt a fák hűs árnyékában.",
+            "ro": "Bucurați-vă de atmosfera pașnică de la Chapelle Saint-Georges, o capelă pitorească la marginea orașului, și faceți o scurtă pauză de relaxare la umbra copacilor.",
+            "en": "Enjoy the peaceful atmosphere of Chapelle Saint-Georges, a picturesque chapel on the edge of town, and take a short refreshing break in the shade of the trees here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Soultz auf dem belebten Place de la République. Genießen Sie die morgendliche Atmosphäre.\nDie majestätische Kirche Saint-Maurice und das faszinierende Schloss Bucheneck entführen Sie in die reiche Vergangenheit der Stadt.\nNachmittags weckt das Spielzeugmuseum Nef des Jouets nostalgische Gefühle, gefolgt von einem Besuch der alten Synagoge.\nDer Tag endet mit einem entspannten Spaziergang zur malerischen Chapelle Saint-Georges, wo Sie in Ruhe den Abend ausklingen lassen können.",
+        "hu": "Kezdje a sétát Soultz szívében, a nyüzsgő Republic Square-en. Szívja magába a friss reggeli hangulatot és a kávézók illatát.\nA fenséges Saint-Maurice templom és a lenyűgöző Bucheneck kastély elkalauzolja Önt a város gazdag és fordulatos múltjába.\nDélután a Nef des Jouets játékmúzeum ébreszt nosztalgikus érzéseket, amelyet a régi zsinagóga megtekintése követ.\nA nap egy pihentető sétával zárul a festői Chapelle Saint-Georges felé, ahol békében és csendben élvezheti a csodálatos estét.",
+        "ro": "Începeți turul în inima orașului Soultz, în animata Piață a Republicii. Bucurați-vă de atmosfera matinală și de aroma cafelei proaspete.\nMăreața Biserică Saint-Maurice și fascinantul Castel Bucheneck vă vor purta în trecutul bogat și interesant al acestui oraș istoric.\nDupă-amiaza, muzeul de jucării Nef des Jouets trezește sentimente nostalgice, urmat de o vizită la vechea și impresionanta sinagogă.\nZiua se încheie cu o plimbare relaxantă către pitoreasca Chapelle Saint-Georges, unde vă puteți bucura de o seară liniștită.",
+        "en": "Begin your walking tour in the heart of Soultz at the bustling Republic Square. Soak in the fresh morning atmosphere and lively vibe.\nThe majestic Saint-Maurice Church and the fascinating Bucheneck Castle will transport you back into the city's rich and vibrant past.\nIn the afternoon, the Nef des Jouets toy museum awakens nostalgic feelings, followed closely by a visit to the historic local synagogue.\nThe day concludes with a relaxing stroll to the picturesque Chapelle Saint-Georges, where you can unwind in peace as evening falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 4.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Republic Square"
+          },
+          "coords": [
+            7.229478,
+            47.886277
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur auf dem belebten Place de la République, dem Herzen von Soultz, und genießen Sie einen Kaffee in einem der kleinen Bistros in der Nähe.",
+            "hu": "Csodálja meg az építészetet a nyüzsgő Republic Square-en, Soultz szívében, és igyon egy kávét a térhez közeli hangulatos kis bisztrók egyikében, miközben pihen.",
+            "ro": "Admirați arhitectura din animata Piață a Republicii, inima orașului Soultz, și savurați o cafea relaxantă la unul dintre micile bistrouri aflate chiar în apropiere.",
+            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            7.230117,
+            47.887014
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
+            "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
+            "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bucheneck",
+            "hu": "Bucheneck kastély",
+            "ro": "Castelul Bucheneck",
+            "en": "Bucheneck Castle"
+          },
+          "coords": [
+            7.227384,
+            47.886836
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
+            "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
+            "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gilles",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Église Saint-Gilles"
+          },
+          "coords": [
+            7.20928,
+            47.874302
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Église Saint-Gilles, die durch ihre ruhige Umgebung besticht, und werfen Sie einen Blick auf die wunderschön verzierten Holzschnitzereien.",
+            "hu": "Fedezze fel a történelmi Église Saint-Gilles-t, amely nyugodt környezetével hódít, és mindenképpen vessen egy pillantást a gyönyörűen díszített fafaragásokra is.",
+            "ro": "Explorați istorica Église Saint-Gilles, care impresionează prin împrejurimile sale liniștite, și aruncați o privire atentă la sculpturile în lemn frumos decorate.",
+            "en": "Explore the historical Église Saint-Gilles, which impresses with its tranquil surroundings, and take a close look at the beautifully decorated interior wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hartmannswiller",
+            "hu": "Hartmannswiller kastély",
+            "ro": "Castelul Hartmannswiller",
+            "en": "Château de Hartmannswiller"
+          },
+          "coords": [
+            7.218807,
+            47.862296
+          ],
+          "category": "castle",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie das imposante Château de Hartmannswiller, eine beeindruckende Festungsanlage, und tragen Sie bequeme Schuhe für den Spaziergang auf dem Burggelände.",
+            "hu": "Látogassa meg az impozáns Château de Hartmannswiller erődítményt, és mindenképpen viseljen kényelmes cipőt, hogy bejárhassa a vár kiterjedt és egyenetlen területét.",
+            "ro": "Vizitați impunătorul Château de Hartmannswiller, o fortăreață impresionantă, și purtați încălțăminte confortabilă pentru a explora în voie terenurile accidentate.",
+            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Blaise",
+            "hu": "Saint-Blaise templom",
+            "ro": "Biserica Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            7.218104,
+            47.861319
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schlichtheit der Église Saint-Blaise in Hartmannswiller, einem ruhigen spirituellen Ort, der sich perfekt für einen besinnlichen Abschluss eignet.",
+            "hu": "Csodálja meg a hartmannswilleri Église Saint-Blaise egyszerűségét, amely egy csendes spirituális hely, és tökéletes egy elmélyült, nyugodt napzáró elmélkedéshez.",
+            "ro": "Admirați simplitatea Église Saint-Blaise din Hartmannswiller, un loc spiritual liniștit, absolut perfect pentru o reflecție profundă la sfârșitul unei zile pline.",
+            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet zentral am Place de la République, bevor Sie die nahegelegene Kirche Saint-Maurice und ihre Architektur bewundern.\nDas Schloss Bucheneck bietet einen tiefen Einblick in die Geschichte, ideal als kultureller Zwischenstopp am späten Vormittag.\nAm Nachmittag radeln Sie entspannt durch die Landschaft zur Église Saint-Gilles und weiter zum imposanten Château de Hartmannswiller.\nDen Abschluss bildet die ruhige Église Saint-Blaise, bevor Sie mit dem Rad in der sanften Abendsonne den Heimweg antreten.",
+        "hu": "Kerékpártúrája a központi Republic Square-en indul, mielőtt megcsodálná a közeli Saint-Maurice templomot és annak építészetét.\nA Bucheneck kastély mély bepillantást enged a történelembe, ami ideális kulturális megálló a késő délelőtti órákban a tekerés után.\nDélután kényelmesen kerékpározik a vidéki tájon át az Église Saint-Gilles-hez, majd a lenyűgöző Château de Hartmannswiller erődítményhez.\nA napot a csendes Église Saint-Blaise zárja, mielőtt a lemenő nap lágy fényében kellemesen visszakerekezne a szálláshelyére.",
+        "ro": "Turul dvs. cu bicicleta începe central în Piața Republicii, înainte de a admira arhitectura bisericii din apropiere, Saint-Maurice.\nCastelul Bucheneck oferă o perspectivă profundă asupra istoriei, fiind o oprire culturală ideală în a doua parte a dimineții.\nDupă-amiaza, pedalați relaxat prin peisajul rural către Église Saint-Gilles și mai departe spre impunătorul Château de Hartmannswiller.\nZiua se încheie la liniștita Église Saint-Blaise, înainte de a vă întoarce cu bicicleta acasă sub razele blânde ale soarelui de seară.",
+        "en": "Your cycling tour starts centrally at Republic Square before you admire the nearby Saint-Maurice Church and its stunning architecture.\nBucheneck Castle offers a deep dive into local history, serving as an ideal cultural stop in the late morning after a short ride.\nIn the afternoon, pedal comfortably through the scenic countryside to Église Saint-Gilles and the imposing Château de Hartmannswiller.\nThe day wraps up at the quiet Église Saint-Blaise before you cycle back pleasantly under the soft glow of the setting evening sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Saint-André templom",
+            "ro": "Biserica Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            7.250547,
+            47.90423
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag an der Église Saint-André, einer charmanten Dorfkirche, und beachten Sie die einzigartige Dachkonstruktion, bevor Sie weiter ins Zentrum fahren.",
+            "hu": "Kezdje a napot az Église Saint-André bájos falusi templománál, és figyelje meg az egyedi tetőszerkezetet, mielőtt tovább indulna a nyüzsgő városközpont felé.",
+            "ro": "Începeți ziua la Église Saint-André, o biserică de sat fermecătoare, și observați structura unică a acoperișului înainte de a vă îndrepta spre centrul orașului.",
+            "en": "Start your day at Église Saint-André, a charming village church, and note its unique roof structure before driving onward towards the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Nef des Jouets",
+            "hu": "Nef des Jouets",
+            "ro": "Nef des Jouets",
+            "en": "Nef des Jouets"
+          },
+          "coords": [
+            7.227399,
+            47.887861
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in der Nef des Jouets in die nostalgische Welt der alten Spielzeuge ein und bringen Sie Ihre Kinder mit, um die interaktiven Ausstellungsstücke zu erleben.",
+            "hu": "Merüljön el a régi játékok nosztalgikus világában a Nef des Jouets múzeumban, és hozza el a gyerekeket is, hogy közösen fedezzék fel az interaktív kiállításokat.",
+            "ro": "Pătrundeți în lumea nostalgică a jucăriilor vechi la muzeul Nef des Jouets și asigurați-vă că aduceți copiii pentru a se bucura de expozițiile interactive și unice.",
+            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bucheneck",
+            "hu": "Bucheneck kastély",
+            "ro": "Castelul Bucheneck",
+            "en": "Bucheneck Castle"
+          },
+          "coords": [
+            7.227384,
+            47.886836
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
+            "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
+            "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            7.230117,
+            47.887014
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
+            "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
+            "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Hartmannswiller",
+            "hu": "Hartmannswiller kastély",
+            "ro": "Castelul Hartmannswiller",
+            "en": "Château de Hartmannswiller"
+          },
+          "coords": [
+            7.218807,
+            47.862296
+          ],
+          "category": "castle",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das imposante Château de Hartmannswiller, eine beeindruckende Festungsanlage, und tragen Sie bequeme Schuhe für den Spaziergang auf dem Burggelände.",
+            "hu": "Látogassa meg az impozáns Château de Hartmannswiller erődítményt, és mindenképpen viseljen kényelmes cipőt, hogy bejárhassa a vár kiterjedt és egyenetlen területét.",
+            "ro": "Vizitați impunătorul Château de Hartmannswiller, o fortăreață impresionantă, și purtați încălțăminte confortabilă pentru a explora în voie terenurile accidentate.",
+            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Blaise",
+            "hu": "Saint-Blaise templom",
+            "ro": "Biserica Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            7.218104,
+            47.861319
+          ],
+          "category": "religious",
+          "arrive_at": "15:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schlichtheit der Église Saint-Blaise in Hartmannswiller, einem ruhigen spirituellen Ort, der sich perfekt für einen besinnlichen Abschluss eignet.",
+            "hu": "Csodálja meg a hartmannswilleri Église Saint-Blaise egyszerűségét, amely egy csendes spirituális hely, és tökéletes egy elmélyült, nyugodt napzáró elmélkedéshez.",
+            "ro": "Admirați simplitatea Église Saint-Blaise din Hartmannswiller, un loc spiritual liniștit, absolut perfect pentru o reflecție profundă la sfârșitul unei zile pline.",
+            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen Sie im Norden an der charmanten Église Saint-André, bevor Sie bequem in das Zentrum von Soultz fahren.\nDas Spielzeugmuseum Nef des Jouets und das Schloss Bucheneck bieten faszinierende Einblicke in Kultur und Geschichte für die ganze Familie.\nNach einem Stopp an der Kirche Saint-Maurice fahren Sie in den Süden, um das mächtige Château de Hartmannswiller zu erkunden.\nDie Tour endet ruhig an der Église Saint-Blaise, von wo aus Sie entspannt mit dem Auto durch die Dämmerung zurückfahren können.",
+        "hu": "Autóval induljon északról, a bájos Église Saint-André templomtól, mielőtt kényelmesen begurulna Soultz történelmi központjába.\nA Nef des Jouets játékmúzeum és a Bucheneck kastély lenyűgöző kulturális és történelmi betekintést nyújt az egész család számára.\nA Saint-Maurice templomnál tett rövid megálló után dél felé autózik, hogy felfedezze a hatalmas Château de Hartmannswiller erődítményt.\nA túra békésen ér véget az Église Saint-Blaise-nél, ahonnan kényelmesen és nyugodtan hazavezethet a lenyugvó nap fényében.",
+        "ro": "Cu mașina, începeți din nord, la fermecătoarea Église Saint-André, înainte de a conduce confortabil spre centrul istoric din Soultz.\nMuzeul de jucării Nef des Jouets și Castelul Bucheneck oferă perspective culturale și istorice fascinante pentru întreaga familie.\nDupă o oprire la Biserica Saint-Maurice, conduceți spre sud pentru a explora impresionantul și masivul Château de Hartmannswiller.\nTurul se încheie pașnic la Église Saint-Blaise, de unde puteți conduce relaxat spre casă în timp ce se lasă ușor amurgul.",
+        "en": "Starting by car in the north at the charming Église Saint-André, you will then drive comfortably into the historical center of Soultz.\nThe Nef des Jouets toy museum and Bucheneck Castle offer fascinating cultural and historical insights that the whole family will love.\nAfter a brief stop at Saint-Maurice Church, drive south to thoroughly explore the massive and impressive Château de Hartmannswiller.\nThe tour ends peacefully at Église Saint-Blaise, from where you can drive back easily and relaxingly as twilight begins to settle in."
+      }
+    }
+  }
+}

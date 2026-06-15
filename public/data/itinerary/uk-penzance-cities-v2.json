@@ -1,0 +1,520 @@
+{
+  "city_id": "uk-penzance-cities-v2",
+  "anchor": {
+    "name": "Penzance",
+    "coords": [
+      -5.5369,
+      50.1214
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 1.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Market Jew Street",
+            "hu": "Market Jew Street",
+            "ro": "Market Jew Street",
+            "en": "Market Jew Street"
+          },
+          "coords": [
+            -5.53499,
+            50.11975
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das geschäftige Herz der Stadt, wo Händler frische Produkte anbieten, und kommen Sie früh, um die besten kornischen Pasteten zu ergattern.",
+            "hu": "Fedezze fel a város nyüzsgő központját, ahol helyi árusok kínálják friss termékeiket, és érkezzen korán, hogy megkóstolhassa a legjobb cornwalli batyukat.",
+            "ro": "Explorați inima plină de viață a orașului, unde vânzătorii locali oferă produse proaspete, și ajungeți devreme pentru cele mai bune pateuri tradiționale.",
+            "en": "Explore the bustling heart of town where local vendors sell fresh produce, and arrive early to snag the best Cornish pasties before they sell out."
+          }
+        },
+        {
+          "name": {
+            "de": "Penzance Harbour",
+            "hu": "Penzance Harbour",
+            "ro": "Penzance Harbour",
+            "en": "Penzance Harbour"
+          },
+          "coords": [
+            -5.53152,
+            50.1186
+          ],
+          "category": "civic",
+          "arrive_at": "10:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Beobachten Sie bunte Fischerboote im historischen Hafen, der das maritime Erbe prägte, und halten Sie nach Robben nahe der östlichen Rampe Ausschau.",
+            "hu": "Figyelje a színes halászhajókat a történelmi kikötőben, amely a város tengeri örökségét adta, és keressen fókákat a keleti rámpa közelében.",
+            "ro": "Priviți bărcile colorate de pescuit în portul istoric care a modelat moștenirea maritimă și fiți atenți la focile care apar frecvent lângă rampa estică.",
+            "en": "Watch colorful fishing boats bob in the historic harbor that shaped the town's maritime legacy, and keep an eye out for seals near the eastern slipway."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapel Street",
+            "hu": "Chapel Street",
+            "ro": "Chapel Street",
+            "en": "Chapel Street"
+          },
+          "coords": [
+            -5.534744,
+            50.117181
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese alte, von skurriler Architektur und Piratengeschichten geprägte Straße, aber tragen Sie festes Schuhwerk für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig ezen a kalóztörténetekkel és furcsa épületekkel teli ősi utcán, de mindenképpen kényelmes cipőt viseljen a hangulatos macskaköveken.",
+            "ro": "Plimbați-vă pe această stradă veche plină de arhitectură excentrică și povești cu pirați, purtând pantofi rezistenți pentru pietruiala fermecătoare.",
+            "en": "Stroll down this ancient thoroughfare adorned with quirky architecture and pirate lore, but wear sturdy shoes for the charming yet uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Egyptian House",
+            "hu": "Egyptian House",
+            "ro": "Egyptian House",
+            "en": "Egyptian House"
+          },
+          "coords": [
+            -5.5363,
+            50.117844
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die überraschend verzierte und farbenfrohe Fassade dieser historischen Kuriosität und bringen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Csodálja meg e történelmi építészeti ritkaság meglepően díszes és színes homlokzatát, és hozzon magával széles látószögű lencsét a tökéletes fotókhoz.",
+            "ro": "Admirați fațadele surprinzător de ornate și colorate ale acestei curiozități arhitecturale istorice, aducând un aparat cu obiectiv larg pentru fotografii.",
+            "en": "Marvel at the surprisingly ornate and colorful facades of this historic architectural oddity, bringing a camera with a wide lens to capture its full glory."
+          }
+        },
+        {
+          "name": {
+            "de": "Morrab Gardens",
+            "hu": "Morrab Gardens",
+            "ro": "Morrab Gardens",
+            "en": "Morrab Gardens"
+          },
+          "coords": [
+            -5.537,
+            50.116
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser subtropischen Oase mit seltenen Pflanzen des milden Klimas und packen Sie ein kleines Picknick für den viktorianischen Musikpavillon ein.",
+            "hu": "Pihenjen ebben a szubtrópusi oázisban, amely a helyi enyhe klíma ritka növényeit mutatja be, és hozzon egy kis pikniket a viktoriánus zenepavilonhoz.",
+            "ro": "Relaxați-vă în această oază subtropicală plină de plante rare aclimatizate aici și pregătiți un mic picnic pentru a vă bucura lângă foișorul victorian.",
+            "en": "Relax in this subtropical oasis showcasing rare plants thriving in Cornwall's mild climate, and pack a small picnic to enjoy near the Victorian bandstand."
+          }
+        },
+        {
+          "name": {
+            "de": "Penlee House Gallery",
+            "hu": "Penlee House Gallery",
+            "ro": "Penlee House Gallery",
+            "en": "Penlee House Gallery"
+          },
+          "coords": [
+            -5.541111,
+            50.116389
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das künstlerische Genie der Newlyn-School-Maler in diesem eleganten Herrenhaus und genießen Sie danach einen ruhigen Nachmittagstee im Café.",
+            "hu": "Fedezze fel a Newlyn School festőinek zsenialitását ebben az elegáns kúriában, majd szánjon időt egy csendes délutáni teára a hangulatos helyi kávézóban.",
+            "ro": "Descoperiți geniul artistic al pictorilor Școlii Newlyn în acest conac elegant, făcându-vă timp pentru un ceai de după-amiază liniștit la cafeneaua din incintă.",
+            "en": "Discover the artistic genius of the Newlyn School painters within this elegant manor, taking time to enjoy a quiet afternoon tea in the cozy on-site café."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubilee Pool",
+            "hu": "Jubilee Pool",
+            "ro": "Jubilee Pool",
+            "en": "Jubilee Pool"
+          },
+          "coords": [
+            -5.53147,
+            50.11479
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem ikonischen Art-déco-Freibad mit geothermisch beheiztem Wasser und buchen Sie Ihre Sitzung in den Sommermonaten unbedingt im Voraus.",
+            "hu": "Ússzon az ikonikus art deco medencében, amelynek vizét természetes geotermikus energia fűti, és a nyári hónapokban mindenképpen foglaljon előre jegyet.",
+            "ro": "Înotați în iconicul bazin art deco care dispune de ape încălzite geotermal, asigurându-vă că rezervați sesiunea online în lunile aglomerate de vară.",
+            "en": "Swim in the iconic art deco lido that features naturally geothermally heated waters, making sure to pre-book your session online during the busy summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im geschäftigen Zentrum rund um die Market Jew Street und gehen Sie zum historischen Hafen, während die Stadt erwacht.\n\nAm Mittag schlendern Sie durch die historischen Gassen der Chapel Street, entdecken das eklektische Egyptian House und finden Ruhe in den Gärten.\n\nVerbringen Sie den Nachmittag mit lokaler Kunst im Penlee House und genießen Sie die kulturelle Atmosphäre, bevor Sie zur Küste aufbrechen.\n\nLassen Sie den Tag am atemberaubenden Jubilee Pool ausklingen, wo Sie die späte Nachmittagssonne und die herrliche Meeresluft genießen können.",
+        "hu": "Kezdje a reggelt a Market Jew Street nyüzsgő központjában, majd ahogy a város ébredezik, sétáljon le a történelmi kikötő felé.\n\nDélben barangoljon a Chapel Street ódon utcáin, fedezze fel a különleges Egyptian House-t, majd pihenjen meg a buja kertekben.\n\nA délutánt szentelje a helyi művészetnek a Penlee House-ban, mielőtt a part felé venné az irányt egy kellemes kulturális séta után.\n\nZárja a napot a lenyűgöző Jubilee Pool mellett, élvezve a késő délutáni napsütést és a páratlan, hűsítő tengerparti hangulatot.",
+        "ro": "Începeți dimineața explorând centrul civic animat din jurul străzii Market Jew, îndreptându-vă spre portul istoric pe măsură ce orașul se trezește.\n\nLa amiază, plimbați-vă pe coridoarele istorice ale străzii Chapel, descoperind eclectica Casă Egipteană înainte de a găsi liniște în grădini.\n\nPetreceți după-amiaza cufundați în arta locală la Penlee House, bucurându-vă de un ritm cultural constant înainte de a vă îndrepta spre coastă.\n\nÎncheiați ziua relaxându-vă la uimitoarea Jubilee Pool, bucurându-vă de soarele după-amiezii târzii și de atmosfera magnifică a litoralului.",
+        "en": "Start your morning exploring the bustling civic heart around Market Jew Street, transitioning toward the historic harbor as the town awakens.\n\nBy midday, weave through the historic corridors of Chapel Street, encountering the eclectic Egyptian House before finding solace in lush gardens.\n\nSpend your afternoon immersed in local art at Penlee House, enjoying a steady cultural pace before heading toward the coastline.\n\nConclude the day relaxing by the stunning Jubilee Pool, soaking in the late afternoon sun and the magnificent seaside atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St Michael's Mount",
+            "hu": "St Michael's Mount",
+            "ro": "St Michael's Mount",
+            "en": "St Michael's Mount"
+          },
+          "coords": [
+            -5.477967,
+            50.116936
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie den alten Granitdamm, um diese dramatische Inselfestung zu erkunden, und prüfen Sie die Gezeiten genau, um nicht vom Hochwasser überrascht zu werden.",
+            "hu": "Keljen át az ősi gránit töltésen, hogy felfedezze ezt a drámai szigeterődöt, de alaposan ellenőrizze az árapály idejét, nehogy a magas vízállás csapdába ejtse.",
+            "ro": "Traversați vechiul drum de granit pentru a explora această fortăreață insulară dramatică, verificând cu atenție orele mareei pentru a nu rămâne blocat.",
+            "en": "Cross the ancient granite causeway to explore this dramatic island fortress, checking the tide times meticulously to avoid getting stranded at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubilee Pool",
+            "hu": "Jubilee Pool",
+            "ro": "Jubilee Pool",
+            "en": "Jubilee Pool"
+          },
+          "coords": [
+            -5.53147,
+            50.11479
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem ikonischen Art-déco-Freibad mit geothermisch beheiztem Wasser und buchen Sie Ihre Sitzung in den Sommermonaten unbedingt im Voraus.",
+            "hu": "Ússzon az ikonikus art deco medencében, amelynek vizét természetes geotermikus energia fűti, és a nyári hónapokban mindenképpen foglaljon előre jegyet.",
+            "ro": "Înotați în iconicul bazin art deco care dispune de ape încălzite geotermal, asigurându-vă că rezervați sesiunea online în lunile aglomerate de vară.",
+            "en": "Swim in the iconic art deco lido that features naturally geothermally heated waters, making sure to pre-book your session online during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Penzance Promenade",
+            "hu": "Penzance Promenade",
+            "ro": "Penzance Promenade",
+            "en": "Penzance Promenade"
+          },
+          "coords": [
+            -5.539985,
+            50.112837
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Atmen Sie die salzige Meeresluft an der wunderschönen viktorianischen Strandpromenade ein und gönnen Sie sich am östlichen Ende eine große Kugel lokales Eis.",
+            "hu": "Szívja magába a sós tengeri levegőt a gyönyörű viktoriánus tengerparti sétányon, és álljon meg a keleti végén egy hatalmas gombóc helyi kézműves fagylaltra.",
+            "ro": "Respirați aerul sărat al mării de-a lungul frumoasei promenade victoriene, oprindu-vă la capătul estic pentru a vă răsfăța cu o cupă uriașă de înghețată locală.",
+            "en": "Breathe in the salty sea air along the beautiful Victorian seafront promenade, stopping at the eastern end to treat yourself to a massive scoop of local ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Penlee House Gallery",
+            "hu": "Penlee House Gallery",
+            "ro": "Penlee House Gallery",
+            "en": "Penlee House Gallery"
+          },
+          "coords": [
+            -5.541111,
+            50.116389
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das künstlerische Genie der Newlyn-School-Maler in diesem eleganten Herrenhaus und genießen Sie danach einen ruhigen Nachmittagstee im Café.",
+            "hu": "Fedezze fel a Newlyn School festőinek zsenialitását ebben az elegáns kúriában, majd szánjon időt egy csendes délutáni teára a hangulatos helyi kávézóban.",
+            "ro": "Descoperiți geniul artistic al pictorilor Școlii Newlyn în acest conac elegant, făcându-vă timp pentru un ceai de după-amiază liniștit la cafeneaua din incintă.",
+            "en": "Discover the artistic genius of the Newlyn School painters within this elegant manor, taking time to enjoy a quiet afternoon tea in the cozy on-site café."
+          }
+        },
+        {
+          "name": {
+            "de": "Morrab Gardens",
+            "hu": "Morrab Gardens",
+            "ro": "Morrab Gardens",
+            "en": "Morrab Gardens"
+          },
+          "coords": [
+            -5.537,
+            50.116
+          ],
+          "category": "natural",
+          "arrive_at": "15:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser subtropischen Oase mit seltenen Pflanzen des milden Klimas und packen Sie ein kleines Picknick für den viktorianischen Musikpavillon ein.",
+            "hu": "Pihenjen ebben a szubtrópusi oázisban, amely a helyi enyhe klíma ritka növényeit mutatja be, és hozzon egy kis pikniket a viktoriánus zenepavilonhoz.",
+            "ro": "Relaxați-vă în această oază subtropicală plină de plante rare aclimatizate aici și pregătiți un mic picnic pentru a vă bucura lângă foișorul victorian.",
+            "en": "Relax in this subtropical oasis showcasing rare plants thriving in Cornwall's mild climate, and pack a small picnic to enjoy near the Victorian bandstand."
+          }
+        },
+        {
+          "name": {
+            "de": "The Acorn",
+            "hu": "The Acorn",
+            "ro": "The Acorn",
+            "en": "The Acorn"
+          },
+          "coords": [
+            -5.537465,
+            50.117853
+          ],
+          "category": "cultural",
+          "arrive_at": "16:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erleben Sie eine fesselnde Vorstellung in dieser zur Kunststätte umgebauten Kapelle und buchen Sie Tickets im Voraus, da intime Abendshows schnell ausverkauft sind.",
+            "hu": "Tekintsen meg egy lenyűgöző független előadást ebben a művészeti központtá alakított kápolnában, és foglaljon jegyet előre, mert az esti műsorok hamar betelnek.",
+            "ro": "Urmăriți o reprezentație independentă captivantă în această fostă capelă transformată, rezervând biletele din timp deoarece spectacolele intime se epuizează rapid.",
+            "en": "Catch a captivating independent performance at this former chapel turned thriving arts center, booking your tickets well ahead as intimate evening shows sell out fast."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "St Mary's Church",
+            "ro": "St Mary's Church",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -5.533019,
+            50.116487
+          ],
+          "category": "religious",
+          "arrive_at": "18:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser wunderschön restaurierten Pfarrkirche mit exquisiten Buntglasfenstern und erkunden Sie respektvoll den friedlichen historischen Friedhof.",
+            "hu": "Lelje meg a békét ebben a gyönyörűen felújított, csodás ólomüveg ablakokkal díszített templomban, és tisztelettel fedezze fel a történelmi sírkövekkel teli udvart.",
+            "ro": "Găsiți liniștea în această biserică parohială frumos restaurată, cu vitralii rafinate, și explorați cu respect curtea pașnică a bisericii pentru pietrele funerare.",
+            "en": "Find serenity inside this beautifully restored parish church featuring exquisite stained glass, and respectfully explore the peaceful churchyard for its historic gravestones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer in der frischen Morgenluft mit der Überquerung des Damms zum St Michael's Mount und erklimmen Sie die Inselfestung.\n\nRadeln Sie mittags zurück zum Festland, vorbei am Jubilee Pool, und entspannen Sie sich auf der wunderschönen Strandpromenade von Penzance.\n\nAm Nachmittag steht Kultur auf dem Programm, wenn Sie die Penlee House Gallery besuchen und durch die ruhigen Wege der Morrab Gardens radeln.\n\nAm Abend können Sie eine unvergessliche Veranstaltung im The Acorn besuchen und den Tag an der nahegelegenen St Mary's Church ausklingen lassen.",
+        "hu": "Indítsa kalandját a friss reggeli levegőn a drámai St Michael's Mount szigeterődjének felfedezésével, miután átkelt a gránit töltésen.\n\nDélben tekerjen vissza a szárazföldre, guruljon el a Jubilee Pool mellett, és élvezze a kellemes biciklizést a tengerparti sétányon.\n\nA délután a kultúráé: látogasson el a Penlee House Gallery-be, majd pihenjen meg kerékpárjával a Morrab Gardens csendes ösvényein.\n\nEste tekintsen meg egy emlékezetes előadást a The Acornban, majd zárja ezt a dinamikus napot a közeli St Mary's Church falai között.",
+        "ro": "Începeți aventura traversând drumul spectaculos spre St Michael's Mount în aerul proaspăt al dimineții, escaladând fortăreața insulară.\n\nPedalați înapoi pe continent la amiază, trecând pe lângă Jubilee Pool și plimbându-vă confortabil pe frumoasa Promenadă din Penzance.\n\nDupă-amiaza se transformă cultural pe măsură ce vizitați Galeria Penlee House și aleile liniștite din Morrab Gardens pe bicicletă.\n\nPe măsură ce se apropie seara, prindeți un eveniment memorabil la The Acorn, încheind o zi dinamică la biserica St Mary's din apropiere.",
+        "en": "Kick off your adventure crossing the dramatic causeway to St Michael's Mount in the crisp morning air, taking time to scale the island fortress.\n\nCycle back to the mainland for midday, rolling past the Jubilee Pool and cruising comfortably along the beautiful Penzance Promenade.\n\nYour afternoon seamlessly shifts to culture as you visit the Penlee House Gallery and the tranquil paths of Morrab Gardens on your bike.\n\nAs evening approaches, catch a memorable event at The Acorn, wrapping up a dynamic day at the nearby St Mary's Church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Drift Reservoir",
+            "hu": "Drift Reservoir",
+            "ro": "Drift Reservoir",
+            "en": "Drift Reservoir"
+          },
+          "coords": [
+            -5.590361,
+            50.10917
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene Zugvögel an diesem ruhigen Süßwassersee und denken Sie an ein gutes Fernglas sowie wasserdichte Stiefel für die oft schlammigen Uferwege.",
+            "hu": "Figyelje meg a ritka vándormadarakat ennél a nyugodt édesvizű tónál, és ne felejtsen el távcsövet, illetve vízálló bakancsot hozni a sáros erdei ösvényekre.",
+            "ro": "Observați păsările migratoare rare la acest lac de apă dulce liniștit, amintindu-vă să împachetați un binoclu bun și cizme impermeabile pentru traseele noroioase.",
+            "en": "Spot rare migratory birds resting at this tranquil inland freshwater lake, remembering to pack a good pair of binoculars and waterproof boots for the muddy trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Boscathnoe Reservoir",
+            "hu": "Boscathnoe Reservoir",
+            "ro": "Boscathnoe Reservoir",
+            "en": "Boscathnoe Reservoir"
+          },
+          "coords": [
+            -5.565259,
+            50.125818
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen abgelegenen Waldspaziergang um diesen malerischen Stausee am frühen Morgen, wenn der Nebel auf der Wasseroberfläche eine stimmungsvolle Atmosphäre schafft.",
+            "hu": "Tegyen egy eldugott erdei sétát e festői kis víztározó körül, és érkezzen kora reggel, amikor a felszíni köd gyönyörűen melankolikus, titokzatos hangulatot teremt.",
+            "ro": "Bucurați-vă de o plimbare retrasă prin pădure în jurul acestui mic și pitoresc rezervor, vizitând dis-de-dimineață când ceața de la suprafață creează o atmosferă unică.",
+            "en": "Enjoy a secluded woodland walk around this small and picturesque reservoir, visiting during early morning when the surface mist creates a beautifully moody atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Penlee House Gallery",
+            "hu": "Penlee House Gallery",
+            "ro": "Penlee House Gallery",
+            "en": "Penlee House Gallery"
+          },
+          "coords": [
+            -5.541111,
+            50.116389
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das künstlerische Genie der Newlyn-School-Maler in diesem eleganten Herrenhaus und genießen Sie danach einen ruhigen Nachmittagstee im Café.",
+            "hu": "Fedezze fel a Newlyn School festőinek zsenialitását ebben az elegáns kúriában, majd szánjon időt egy csendes délutáni teára a hangulatos helyi kávézóban.",
+            "ro": "Descoperiți geniul artistic al pictorilor Școlii Newlyn în acest conac elegant, făcându-vă timp pentru un ceai de după-amiază liniștit la cafeneaua din incintă.",
+            "en": "Discover the artistic genius of the Newlyn School painters within this elegant manor, taking time to enjoy a quiet afternoon tea in the cozy on-site café."
+          }
+        },
+        {
+          "name": {
+            "de": "Jubilee Pool",
+            "hu": "Jubilee Pool",
+            "ro": "Jubilee Pool",
+            "en": "Jubilee Pool"
+          },
+          "coords": [
+            -5.53147,
+            50.11479
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem ikonischen Art-déco-Freibad mit geothermisch beheiztem Wasser und buchen Sie Ihre Sitzung in den Sommermonaten unbedingt im Voraus.",
+            "hu": "Ússzon az ikonikus art deco medencében, amelynek vizét természetes geotermikus energia fűti, és a nyári hónapokban mindenképpen foglaljon előre jegyet.",
+            "ro": "Înotați în iconicul bazin art deco care dispune de ape încălzite geotermal, asigurându-vă că rezervați sesiunea online în lunile aglomerate de vară.",
+            "en": "Swim in the iconic art deco lido that features naturally geothermally heated waters, making sure to pre-book your session online during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Penzance South Pier Light",
+            "hu": "Penzance South Pier Light",
+            "ro": "Penzance South Pier Light",
+            "en": "Penzance South Pier Light"
+          },
+          "coords": [
+            -5.528017,
+            50.117702
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Panoramablick auf Mount's Bay von diesem historischen gusseisernen Leuchtturm aus und halten Sie Ihren Hut fest, wenn der starke Küstenwind weht.",
+            "hu": "Csodálja meg a Mount's Bay panorámáját erről a történelmi öntöttvas világítótoronyról, és ügyeljen arra, hogy erősen fogja a kalapját az erős parti szelekben.",
+            "ro": "Admirați vederea panoramică asupra Golfului Mount de la acest far istoric din fontă, asigurându-vă că vă țineți bine pălăria când vânturile de coastă încep să sufle.",
+            "en": "Admire panoramic views of Mount's Bay from this historic cast-iron lighthouse, making sure to hold onto your hat securely when the strong coastal winds begin to blow."
+          }
+        },
+        {
+          "name": {
+            "de": "St Michael's Mount",
+            "hu": "St Michael's Mount",
+            "ro": "St Michael's Mount",
+            "en": "St Michael's Mount"
+          },
+          "coords": [
+            -5.477967,
+            50.116936
+          ],
+          "category": "fortress",
+          "arrive_at": "15:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie den alten Granitdamm, um diese dramatische Inselfestung zu erkunden, und prüfen Sie die Gezeiten genau, um nicht vom Hochwasser überrascht zu werden.",
+            "hu": "Keljen át az ősi gránit töltésen, hogy felfedezze ezt a drámai szigeterődöt, de alaposan ellenőrizze az árapály idejét, nehogy a magas vízállás csapdába ejtse.",
+            "ro": "Traversați vechiul drum de granit pentru a explora această fortăreață insulară dramatică, verificând cu atenție orele mareei pentru a nu rămâne blocat.",
+            "en": "Cross the ancient granite causeway to explore this dramatic island fortress, checking the tide times meticulously to avoid getting stranded at high water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie als Erstes zum ruhigen Drift Reservoir und genießen Sie die Aussicht auf das Süßwasser und die morgendliche Vogelbeobachtung fernab der Massen.\n\nSteuern Sie das Boscathnoe Reservoir an, bevor Sie mittags in die Stadt zurückkehren, um in der Penlee House Gallery Kunst zu bewundern.\n\nVerbringen Sie den Nachmittag damit, die Küsteninfrastruktur am Jubilee Pool zu bestaunen und die Aussicht am Penzance South Pier Light zu genießen.\n\nBeenden Sie Ihren Roadtrip mit einer Fahrt zum St Michael's Mount und erkunden Sie am späten Nachmittag den historischen Damm und die alten Hallen.",
+        "hu": "Kezdje a napot a békés Drift Reservoirnál, ahol élvezheti az édesvizű tó csendjét és a kora reggeli madármegfigyelést távol a tömegtől.\n\nVezessen tovább a Boscathnoe Reservoirhoz, majd térjen vissza a városba, hogy délben elmerüljön a Penlee House Gallery képzőművészetében.\n\nA délutánt töltse a part menti Jubilee Pool lenyűgöző látványával, majd gyönyörködjön a panorámában a Penzance South Pier Light tornyánál.\n\nZárja a festői autós utat a St Michael's Mountnál, a késő délutánt a történelmi töltésen és az ősi vártermek felfedezésével töltve.",
+        "ro": "Conduceți mai întâi la liniștitul Drift Reservoir, bucurându-vă de priveliștile senine de apă dulce și de observarea păsărilor dimineața devreme.\n\nNavigați spre Boscathnoe Reservoir înainte de a vă întoarce în oraș la prânz, aprofundând istoria și artele plastice la faimoasa Penlee House Gallery.\n\nPetreceți după-amiaza admirând infrastructura de coastă de la Jubilee Pool și bucurându-vă de priveliștile panoramice de la Penzance South Pier Light.\n\nÎncheiați-vă călătoria pitorească conducând spre St Michael's Mount, petrecând după-amiaza târziu traversând drumul său istoric și sălile antice.",
+        "en": "Drive out to the tranquil Drift Reservoir first thing, enjoying the serene freshwater views and peaceful morning birdwatching away from the crowds.\n\nNavigate toward Boscathnoe Reservoir before heading back into town midday, diving into history and fine arts at the acclaimed Penlee House Gallery.\n\nSpend your afternoon admiring the coastal infrastructure at Jubilee Pool and taking in the panoramic vistas at the Penzance South Pier Light.\n\nConclude your scenic road trip by driving to St Michael's Mount, spending your late afternoon traversing its historic causeway and ancient halls."
+      }
+    }
+  }
+}

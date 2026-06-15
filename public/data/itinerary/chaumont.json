@@ -1,0 +1,451 @@
+{
+  "city_id": "chaumont",
+  "anchor": {
+    "name": "Chaumont",
+    "coords": [
+      5.1386,
+      48.1108
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 2.48,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Chaumont",
+            "hu": "Chaumont Városháza",
+            "ro": "Primăria Chaumont",
+            "en": "Chaumont Town Hall"
+          },
+          "coords": [
+            5.139484,
+            48.110951
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das majestätische Rathaus von Chaumont besticht durch seine klassische Architektur; achten Sie auf die Details und besuchen Sie den nahen Markt.",
+            "hu": "Chaumont fenséges városházája klasszikus építészetével nyűgöz le; figyelje meg a finom részleteket, és érdemes a közeli piacot is meglátogatni.",
+            "ro": "Primăria maiestuoasă din Chaumont impresionează prin arhitectura sa clasică; observați detaliile fine și vizitați piața din apropiere.",
+            "en": "The majestic Chaumont Town Hall impresses with its classical architecture; observe the fine details and make sure to visit the nearby market."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Signe",
+            "hu": "Le Signe",
+            "ro": "Le Signe",
+            "en": "Le Signe"
+          },
+          "coords": [
+            5.135234,
+            48.110756
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Le Signe ist das nationale Zentrum für Grafikdesign; erkunden Sie die modernen Ausstellungen und kaufen Sie einzigartige Plakate im Museumsshop.",
+            "hu": "A Le Signe a grafikai tervezés nemzeti központja; fedezze fel a modern kiállításokat, és vásároljon egyedi plakátokat a múzeum boltjában.",
+            "ro": "Le Signe este centrul național de design grafic; explorați expozițiile moderne și cumpărați postere unice din magazinul muzeului uimitor.",
+            "en": "Le Signe is the national center for graphic design; explore the modern exhibitions and buy unique posters in the fantastic museum shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon des Comtes de Champagne",
+            "hu": "Donjon des Comtes de Champagne",
+            "ro": "Donjon des Comtes de Champagne",
+            "en": "Donjon des Comtes de Champagne"
+          },
+          "coords": [
+            5.136357,
+            48.113082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Dieser historische Turm bietet einen faszinierenden Einblick in die mittelalterliche Geschichte; steigen Sie hinauf, um einen tollen Blick zu genießen.",
+            "hu": "Ez a történelmi torony lenyűgöző bepillantást nyújt a középkori történelembe; másszon fel a lenyűgöző kilátásért és a csodálatos panorámáért.",
+            "ro": "Acest turn istoric oferă o perspectivă fascinantă asupra istoriei medievale; urcați la etaj pentru o priveliște minunată asupra întregului oraș.",
+            "en": "This historical tower provides a fascinating glimpse into medieval history; climb to the top for a wonderful panoramic view of the entire city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste Bazilika",
+            "ro": "Bazilica Saint-Jean-Baptiste",
+            "en": "Basilica of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            5.138816,
+            48.112347
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die wunderschöne Basilika beherbergt Meisterwerke der Renaissance; nehmen Sie sich Zeit für die beeindruckenden Skulpturen im ruhigen Innenraum.",
+            "hu": "A gyönyörű bazilika reneszánsz mesterműveknek ad otthont; szánjon időt a lenyűgöző szobrok és a csendes belső tér nyugodt felfedezésére.",
+            "ro": "Frumoasa bazilică găzduiește capodopere renascentiste; acordați-vă timp pentru sculpturile impresionante din interiorul liniștit al bisericii.",
+            "en": "The beautiful basilica houses Renaissance masterpieces; take your time exploring the impressive sculptures in the perfectly quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Jésuites",
+            "hu": "Chapelle des Jésuites",
+            "ro": "Chapelle des Jésuites",
+            "en": "Chapelle des Jésuites"
+          },
+          "coords": [
+            5.141362,
+            48.112545
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Diese elegante Kapelle besticht durch ihre einzigartige barocke Fassade; informieren Sie sich vorab über die aktuellen, saisonalen Kunstausstellungen.",
+            "hu": "Ez az elegáns kápolna egyedülálló barokk homlokzatával hódít; érdemes előre tájékozódni az aktuális, szezonális művészeti kiállításokról.",
+            "ro": "Această capelă elegantă impresionează prin fațada sa unică în stil baroc; informați-vă în prealabil despre expozițiile de artă sezoniere.",
+            "en": "This elegant chapel captivates with its unique Baroque facade; make sure to check in advance for current, highly interesting seasonal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Chaumont",
+            "hu": "Chaumont Viadukt",
+            "ro": "Viaductul din Chaumont",
+            "en": "Chaumont Viaduct"
+          },
+          "coords": [
+            5.121325,
+            48.110785
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das monumentale Viadukt ist ein architektonisches Wunderwerk des 19. Jahrhunderts; gehen Sie unbedingt auf der Fußgängerebene für fantastische Fotos.",
+            "hu": "A monumentális viadukt a 19. század építészeti csodája; feltétlenül sétáljon végig a gyalogos szinten, hogy fantasztikus fotókat készíthessen.",
+            "ro": "Viaductul monumental este o minune arhitecturală a secolului al XIX-lea; asigurați-vă că mergeți pe nivelul pietonal pentru fotografii fantastice.",
+            "en": "The monumental viaduct is a 19th-century architectural marvel; definitely walk along the dedicated pedestrian level to capture fantastic photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am eleganten Rathaus und genießen Sie die lokale Atmosphäre. Gehen Sie danach zum Le Signe für hochmoderne Grafikdesign-Ausstellungen.\nGegen Mittag besuchen Sie den historischen Donjon des Comtes de Champagne. Machen Sie eine gemütliche Pause in einem der umliegenden Cafés im Stadtzentrum.\nAm Nachmittag bewundern Sie die Renaissance-Skulpturen in der Basilika und die barocke Eleganz der wunderschönen Chapelle des Jésuites.\nBeenden Sie Ihren Spaziergang am majestätischen Viadukt von Chaumont und genießen Sie den Sonnenuntergang über dem Tal.",
+        "hu": "Kezdje a reggelt az elegáns Városházánál, és élvezze a helyi atmoszférát. Ezután sétáljon át a Le Signe-be, hogy megcsodálja az élvonalbeli grafikai tervezést.\nDélben látogassa meg a történelmi Donjon des Comtes de Champagne-t. Tartson egy kis szünetet a belváros egyik kényelmes, hangulatos kávézójában.\nDélután csodálja meg a Bazilika reneszánsz szobrait, majd fedezze fel a Chapelle des Jésuites lenyűgöző, barokk eleganciáját.\nFejezze be a sétát a fenséges Chaumont viaduktnál, és gyönyörködjön a völgy felett lemenő nap gyönyörű, esti fényeiben.",
+        "ro": "Începeți dimineața la Primăria elegantă, bucurându-vă de atmosfera locală. Continuați spre Le Signe pentru a explora designul grafic de ultimă oră.\nLa prânz, vizitați istoricul Donjon des Comtes de Champagne. Luați o pauză relaxantă la o cafenea confortabilă din centrul frumos al orașului.\nDupă-amiaza, admirați sculpturile renascentiste din Bazilică, urmate de eleganța barocă a frumoasei Chapelle des Jésuites.\nÎncheiați-vă plimbarea la maiestuosul Viaduct din Chaumont, privind cum lumina serii transformă valea într-un peisaj de vis.",
+        "en": "Start your morning at the elegant Town Hall, absorbing the classic local atmosphere. Continue to Le Signe to explore cutting-edge graphic design in a vibrant setting.\nAround midday, walk to the historic Donjon des Comtes de Champagne to admire medieval architecture. Enjoy a relaxing break at a nearby cafe before exploring further.\nIn the afternoon, marvel at the detailed Renaissance sculptures in the Basilica, followed by the Baroque elegance of the Chapelle des Jésuites.\nEnd your walk at the majestic Chaumont Viaduct, crossing the valley as the evening light paints the sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.56,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Chaumont",
+            "hu": "Chaumont Városháza",
+            "ro": "Primăria Chaumont",
+            "en": "Chaumont Town Hall"
+          },
+          "coords": [
+            5.139484,
+            48.110951
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das majestätische Rathaus von Chaumont besticht durch seine klassische Architektur; achten Sie auf die Details und besuchen Sie den nahen Markt.",
+            "hu": "Chaumont fenséges városházája klasszikus építészetével nyűgöz le; figyelje meg a finom részleteket, és érdemes a közeli piacot is meglátogatni.",
+            "ro": "Primăria maiestuoasă din Chaumont impresionează prin arhitectura sa clasică; observați detaliile fine și vizitați piața din apropiere.",
+            "en": "The majestic Chaumont Town Hall impresses with its classical architecture; observe the fine details and make sure to visit the nearby market."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Signe",
+            "hu": "Le Signe",
+            "ro": "Le Signe",
+            "en": "Le Signe"
+          },
+          "coords": [
+            5.135234,
+            48.110756
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Le Signe ist das nationale Zentrum für Grafikdesign; erkunden Sie die modernen Ausstellungen und kaufen Sie einzigartige Plakate im Museumsshop.",
+            "hu": "A Le Signe a grafikai tervezés nemzeti központja; fedezze fel a modern kiállításokat, és vásároljon egyedi plakátokat a múzeum boltjában.",
+            "ro": "Le Signe este centrul național de design grafic; explorați expozițiile moderne și cumpărați postere unice din magazinul muzeului uimitor.",
+            "en": "Le Signe is the national center for graphic design; explore the modern exhibitions and buy unique posters in the fantastic museum shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Chaumont",
+            "hu": "Chaumont Viadukt",
+            "ro": "Viaductul din Chaumont",
+            "en": "Chaumont Viaduct"
+          },
+          "coords": [
+            5.121325,
+            48.110785
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Das monumentale Viadukt ist ein architektonisches Wunderwerk des 19. Jahrhunderts; gehen Sie unbedingt auf der Fußgängerebene für fantastische Fotos.",
+            "hu": "A monumentális viadukt a 19. század építészeti csodája; feltétlenül sétáljon végig a gyalogos szinten, hogy fantasztikus fotókat készíthessen.",
+            "ro": "Viaductul monumental este o minune arhitecturală a secolului al XIX-lea; asigurați-vă că mergeți pe nivelul pietonal pentru fotografii fantastice.",
+            "en": "The monumental viaduct is a 19th-century architectural marvel; definitely walk along the dedicated pedestrian level to capture fantastic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon des Comtes de Champagne",
+            "hu": "Donjon des Comtes de Champagne",
+            "ro": "Donjon des Comtes de Champagne",
+            "en": "Donjon des Comtes de Champagne"
+          },
+          "coords": [
+            5.136357,
+            48.113082
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Dieser historische Turm bietet einen faszinierenden Einblick in die mittelalterliche Geschichte; steigen Sie hinauf, um einen tollen Blick zu genießen.",
+            "hu": "Ez a történelmi torony lenyűgöző bepillantást nyújt a középkori történelembe; másszon fel a lenyűgöző kilátásért és a csodálatos panorámáért.",
+            "ro": "Acest turn istoric oferă o perspectivă fascinantă asupra istoriei medievale; urcați la etaj pentru o priveliște minunată asupra întregului oraș.",
+            "en": "This historical tower provides a fascinating glimpse into medieval history; climb to the top for a wonderful panoramic view of the entire city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste Bazilika",
+            "ro": "Bazilica Saint-Jean-Baptiste",
+            "en": "Basilica of Saint-Jean-Baptiste"
+          },
+          "coords": [
+            5.138816,
+            48.112347
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die wunderschöne Basilika beherbergt Meisterwerke der Renaissance; nehmen Sie sich Zeit für die beeindruckenden Skulpturen im ruhigen Innenraum.",
+            "hu": "A gyönyörű bazilika reneszánsz mesterműveknek ad otthont; szánjon időt a lenyűgöző szobrok és a csendes belső tér nyugodt felfedezésére.",
+            "ro": "Frumoasa bazilică găzduiește capodopere renascentiste; acordați-vă timp pentru sculpturile impresionante din interiorul liniștit al bisericii.",
+            "en": "The beautiful basilica houses Renaissance masterpieces; take your time exploring the impressive sculptures in the perfectly quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Madeleine",
+            "hu": "Chapelle Sainte-Madeleine",
+            "ro": "Chapelle Sainte-Madeleine",
+            "en": "Chapelle Sainte-Madeleine"
+          },
+          "coords": [
+            5.139813,
+            48.120087
+          ],
+          "category": "religious",
+          "arrive_at": "14:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Die historische Kapelle ist ein wahrer Geheimtipp für ruhige Momente; besuchen Sie diesen Ort am späten Nachmittag für das weiche, goldene Licht.",
+            "hu": "A történelmi kápolna igazi rejtett kincs a csendes pillanatokhoz; látogasson el ide késő délután, hogy élvezze a lágy, meleg aranyfényt.",
+            "ro": "Capela istorică este o adevărată comoară ascunsă pentru momente de liniște; vizitați acest loc după-amiaza târziu pentru lumina blândă și aurie.",
+            "en": "The historical chapel is a true hidden gem for quiet moments; visit this peaceful place late in the afternoon to enjoy the soft, golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rathaus und fahren Sie direkt zum Le Signe, um kreative Inspirationen zu sammeln, bevor die Massen eintreffen.\nGegen Mittag radeln Sie zum beeindruckenden Viadukt von Chaumont. Nehmen Sie sich Zeit für das Bauwerk und genießen Sie ein schnelles Mittagessen.\nAm Nachmittag geht es hinauf zum Donjon des Comtes de Champagne und anschließend zur wunderschönen Basilika Saint-Jean-Baptiste.\nBeenden Sie Ihren Tag mit einer ruhigen Fahrt zur Chapelle Sainte-Madeleine, wo Sie die friedliche Abendstimmung entspannt ausklingen lassen können.",
+        "hu": "Kezdje kerékpártúráját a Városházánál, majd tekerjen egyenesen a Le Signe-hez némi kreatív inspirációért a kora reggeli órákban.\nDélben biciklizzen le a fenséges Chaumont viadukthoz. Szánjon időt a lenyűgöző építményre, és ebédeljen egyet a közvetlen közelben.\nDélután tekerjen fel a Donjon des Comtes de Champagne-hoz, majd látogassa meg a lenyűgöző Saint-Jean-Baptiste Bazilikát.\nZárja a napot egy békés utazással a Chapelle Sainte-Madeleine-hez, ahol kipihenheti magát és élvezheti a csendes esti környezetet.",
+        "ro": "Începeți turul cu bicicleta la Primărie, apoi îndreptați-vă spre Le Signe pentru inspirație creativă înainte de sosirea aglomerației.\nLa prânz, pedalați către magnificul Viaduct din Chaumont. Acordați-vă timp pe structura impresionantă și luați un prânz rapid în apropiere.\nDupă-amiaza, urcați la Donjon des Comtes de Champagne, apoi vizitați uimitoarea Bazilică Saint-Jean-Baptiste.\nÎncheiați-vă ziua cu o plimbare liniștită la Chapelle Sainte-Madeleine, unde vă puteți relaxa complet și bucura de serile pașnice.",
+        "en": "Kick off your cycling tour at the Town Hall, then head straight to Le Signe for some creative inspiration before the crowds arrive.\nBy midday, cycle down to the magnificent Chaumont Viaduct. Take your time riding along the impressive structure and grab a quick lunch nearby.\nIn the afternoon, cycle up to the Donjon des Comtes de Champagne, then visit the stunning Basilica of Saint-Jean-Baptiste.\nConclude your day with a peaceful ride to Chapelle Sainte-Madeleine, where you can unwind and enjoy the tranquil evening surroundings."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 4.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Viadukt von Chaumont",
+            "hu": "Chaumont Viadukt",
+            "ro": "Viaductul din Chaumont",
+            "en": "Chaumont Viaduct"
+          },
+          "coords": [
+            5.121325,
+            48.110785
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das monumentale Viadukt ist ein architektonisches Wunderwerk des 19. Jahrhunderts; gehen Sie unbedingt auf der Fußgängerebene für fantastische Fotos.",
+            "hu": "A monumentális viadukt a 19. század építészeti csodája; feltétlenül sétáljon végig a gyalogos szinten, hogy fantasztikus fotókat készíthessen.",
+            "ro": "Viaductul monumental este o minune arhitecturală a secolului al XIX-lea; asigurați-vă că mergeți pe nivelul pietonal pentru fotografii fantastice.",
+            "en": "The monumental viaduct is a 19th-century architectural marvel; definitely walk along the dedicated pedestrian level to capture fantastic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Signe",
+            "hu": "Le Signe",
+            "ro": "Le Signe",
+            "en": "Le Signe"
+          },
+          "coords": [
+            5.135234,
+            48.110756
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Le Signe ist das nationale Zentrum für Grafikdesign; erkunden Sie die modernen Ausstellungen und kaufen Sie einzigartige Plakate im Museumsshop.",
+            "hu": "A Le Signe a grafikai tervezés nemzeti központja; fedezze fel a modern kiállításokat, és vásároljon egyedi plakátokat a múzeum boltjában.",
+            "ro": "Le Signe este centrul național de design grafic; explorați expozițiile moderne și cumpărați postere unice din magazinul muzeului uimitor.",
+            "en": "Le Signe is the national center for graphic design; explore the modern exhibitions and buy unique posters in the fantastic museum shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon des Comtes de Champagne",
+            "hu": "Donjon des Comtes de Champagne",
+            "ro": "Donjon des Comtes de Champagne",
+            "en": "Donjon des Comtes de Champagne"
+          },
+          "coords": [
+            5.136357,
+            48.113082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Dieser historische Turm bietet einen faszinierenden Einblick in die mittelalterliche Geschichte; steigen Sie hinauf, um einen tollen Blick zu genießen.",
+            "hu": "Ez a történelmi torony lenyűgöző bepillantást nyújt a középkori történelembe; másszon fel a lenyűgöző kilátásért és a csodálatos panorámáért.",
+            "ro": "Acest turn istoric oferă o perspectivă fascinantă asupra istoriei medievale; urcați la etaj pentru o priveliște minunată asupra întregului oraș.",
+            "en": "This historical tower provides a fascinating glimpse into medieval history; climb to the top for a wonderful panoramic view of the entire city."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Saint-Aignan",
+            "hu": "Chapelle de Saint-Aignan",
+            "ro": "Chapelle de Saint-Aignan",
+            "en": "Chapelle de Saint-Aignan"
+          },
+          "coords": [
+            5.150139,
+            48.119576
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Diese kleine Kapelle strahlt eine ganz besondere, intime Atmosphäre aus; kombinieren Sie den kurzen Besuch mit einem Spaziergang im nahegelegenen Park.",
+            "hu": "Ez a kis kápolna igazán különleges, meghitt atmoszférát áraszt; kösse össze a rövid látogatást egy kellemes sétával a közeli zöld parkban.",
+            "ro": "Această mică capelă emană o atmosferă cu totul specială și intimă; combinați vizita scurtă cu o plimbare relaxantă în parcul din apropiere.",
+            "en": "This small chapel radiates a very special, deeply intimate atmosphere; combine the short visit with a relaxing walk in the nearby green park."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame du Rosaire",
+            "hu": "Église Notre-Dame du Rosaire",
+            "ro": "Église Notre-Dame du Rosaire",
+            "en": "Église Notre-Dame du Rosaire"
+          },
+          "coords": [
+            5.137646,
+            48.100581
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Die moderne Kirche bietet einen faszinierenden Kontrast zu den alten Bauten; bewundern Sie die klaren Linien und die interessante Raumgestaltung.",
+            "hu": "A modern templom lenyűgöző kontrasztot alkot a régebbi épületekkel; csodálja meg a tiszta vonalakat és az érdekes, egyedi belső térkialakítást.",
+            "ro": "Biserica modernă oferă un contrast fascinant față de clădirile vechi; admirați liniile clare și designul interior foarte interesant și unic.",
+            "en": "The modern church offers a fascinating contrast to the older buildings; admire the clean lines and the highly interesting, unique interior design."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Autotag direkt am spektakulären Viadukt von Chaumont und genießen Sie die gewaltigen Dimensionen im frühen Morgenlicht.\nGegen Mittag fahren Sie ins Zentrum, um Le Signe zu besuchen. Genießen Sie ein wunderbares Mittagessen, bevor Sie zum historischen Donjon weiterfahren.\nAm Nachmittag fahren Sie etwas weiter hinaus zur friedlichen Chapelle de Saint-Aignan und machen einen kleinen, entspannenden Spaziergang.\nBeenden Sie Ihre Reise an der modernen Église Notre-Dame du Rosaire und lassen Sie die architektonischen Kontraste auf sich wirken.",
+        "hu": "Kezdje autós útját közvetlenül a látványos Chaumont viaduktnál, és élvezze hatalmas méreteit a kora reggeli napfényben.\nDélben hajtson be a központba, hogy meglátogassa a Le Signe-t. Egyen egy finom ebédet a belvárosban, mielőtt a történelmi Donjon felé indulna.\nDélután utazzon tovább a békés Chapelle de Saint-Aignan felfedezéséhez, és tegyen egy pihentető, kellemes sétát a csendes környéken.\nFejezze be útját a modern Église Notre-Dame du Rosaire-nél, elmélkedve a különböző építészeti stílusok lenyűgöző, esti kontrasztján.",
+        "ro": "Începeți ziua de condus mergând direct la spectaculosul Viaduct din Chaumont, bucurându-vă de dimensiunile sale în lumina dimineții.\nLa prânz, conduceți în centru pentru a vizita Le Signe. Luați un prânz minunat înainte de a continua spre istoricul Donjon des Comtes de Champagne.\nDupă-amiaza, îndreptați-vă spre pașnica Chapelle de Saint-Aignan, făcând o plimbare relaxantă în împrejurimile foarte liniștite.\nÎncheiați călătoria la moderna Église Notre-Dame du Rosaire, reflectând la contrastul uimitor al stilurilor arhitecturale la final de zi.",
+        "en": "Start your driving day by heading directly to the spectacular Chaumont Viaduct, enjoying its grand scale in the early morning light.\nBy midday, drive into the center to visit Le Signe. Have a wonderful lunch in the downtown area before continuing to the historic Donjon.\nIn the afternoon, head further out to explore the peaceful Chapelle de Saint-Aignan, taking a relaxing stroll in the surrounding area.\nFinish your journey at the modern Église Notre-Dame du Rosaire, reflecting on the striking contrast of architectural styles as the day ends."
+      }
+    }
+  }
+}

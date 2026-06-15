@@ -1,0 +1,497 @@
+{
+  "city_id": "pachuca-cities-v2",
+  "anchor": {
+    "name": "Pachuca",
+    "coords": [
+      -98.7375,
+      20.1213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 2.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Juárez",
+            "hu": "Plaza Juárez",
+            "ro": "Plaza Juárez",
+            "en": "Plaza Juárez"
+          },
+          "coords": [
+            -98.736122,
+            20.122919
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist der ideale Startpunkt, um das Treiben der Einheimischen zu beobachten, also holen Sie sich einen Kaffee und entspannen Sie.",
+            "hu": "A város szíve ideális kiindulópont, ahol megfigyelheti a helyiek mindennapjait, ezért vegyen egy kávét és pihenjen egy padon.",
+            "ro": "Inima orașului este punctul de plecare ideal pentru a observa viața localnicilor, așa că luați o cafea și relaxați-vă.",
+            "en": "The heart of the city is the ideal starting point to observe the daily life of locals, so grab a coffee and relax on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Jardín del Arte",
+            "hu": "Teatro Jardín del Arte",
+            "ro": "Teatro Jardín del Arte",
+            "en": "Teatro Jardín del Arte"
+          },
+          "coords": [
+            -98.734457,
+            20.122747
+          ],
+          "category": "cultural",
+          "arrive_at": "09:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Dieses kulturelle Zentrum bietet faszinierende Vorführungen; prüfen Sie den Spielplan im Voraus, um eine lokale Theateraufführung nicht zu verpassen.",
+            "hu": "Ez a kulturális központ lenyűgöző előadásokat kínál; előre ellenőrizze a műsort, hogy ne maradjon le a helyi színházi produkciókról.",
+            "ro": "Acest centru cultural oferă spectacole fascinante; verificați programul în avans pentru a nu rata o piesă de teatru locală.",
+            "en": "This cultural hub offers fascinating performances; check the schedule in advance so you don't miss a local theatrical production."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuartel del Arte",
+            "hu": "Cuartel del Arte",
+            "ro": "Cuartel del Arte",
+            "en": "Cuartel del Arte"
+          },
+          "coords": [
+            -98.731973,
+            20.121034
+          ],
+          "category": "cultural",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "In dieser ehemaligen Kaserne finden Sie heute beeindruckende Kunstausstellungen, achten Sie auf die wechselnden Galerien im ersten Stock.",
+            "hu": "Ebben az egykori laktanyában ma lenyűgöző művészeti kiállításokat talál, figyeljen az első emeleti, folyamatosan változó galériákra.",
+            "ro": "În această fostă cazarmă veți găsi expoziții de artă impresionante, acordați atenție galeriilor mereu schimbătoare de la primul etaj.",
+            "en": "This former military barracks now houses impressive art exhibitions, be sure to look out for the rotating galleries on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Galería de Arte Contemporáneo de Hidalgo",
+            "hu": "Galería de Arte Contemporáneo de Hidalgo",
+            "ro": "Galería de Arte Contemporáneo de Hidalgo",
+            "en": "Galería de Arte Contemporáneo de Hidalgo"
+          },
+          "coords": [
+            -98.735424,
+            20.118204
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die moderne Kunst Mexikos und nehmen Sie sich Zeit, die detaillierten Beschreibungen neben den Gemälden zu lesen.",
+            "hu": "Merüljön el Mexikó modern művészetében, és szánjon időt arra, hogy elolvassa a festmények melletti részletes leírásokat.",
+            "ro": "Cufundați-vă în arta modernă din Mexic și faceți-vă timp pentru a citi descrierile detaliate de lângă tablouri.",
+            "en": "Immerse yourself in the modern art of Mexico, and take your time reading the detailed descriptions placed next to the paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural del Ferrocarril",
+            "hu": "Centro Cultural del Ferrocarril",
+            "ro": "Centro Cultural del Ferrocarril",
+            "en": "Centro Cultural del Ferrocarril"
+          },
+          "coords": [
+            -98.74079,
+            20.122216
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Lokomotiven und die spannende Bahngeschichte von Pachuca; bringen Sie bequeme Schuhe für das weitläufige Freigelände mit.",
+            "hu": "Fedezze fel Pachuca régi mozdonyait és izgalmas vasúttörténetét; hozzon kényelmes cipőt a tágas szabadtéri területhez.",
+            "ro": "Descoperiți vechile locomotive și istoria feroviară a Pachucăi; aduceți încălțăminte confortabilă pentru zona vastă în aer liber.",
+            "en": "Discover old locomotives and the exciting railway history of Pachuca; bring comfortable walking shoes for the expansive outdoor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajolotario Miquiztli Xolotl",
+            "hu": "Ajolotario Miquiztli Xolotl",
+            "ro": "Ajolotario Miquiztli Xolotl",
+            "en": "Ajolotario Miquiztli Xolotl"
+          },
+          "coords": [
+            -98.748439,
+            20.125828
+          ],
+          "category": "museum",
+          "arrive_at": "16:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die faszinierenden Axolotl, eine seltene Amphibienart; unterstützen Sie den Schutz durch eine kleine Spende.",
+            "hu": "Itt mindent megtudhat a lenyűgöző axolotlokról, a ritka kétéltűekről; támogassa a védelmüket egy kisebb összegű adománnyal.",
+            "ro": "Aici veți afla totul despre axoloții fascinanți, un amfibian rar; sprijiniți conservarea lor făcând o mică donație la intrare.",
+            "en": "Here you will learn all about the fascinating axolotl, a rare amphibian; consider supporting their conservation with a small donation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Plaza Juárez und schlendern Sie durch das historische Zentrum. Danach tauchen Sie im Teatro Jardín del Arte in die lokale Kulturszene ein. Am Nachmittag entdecken Sie faszinierende Eisenbahngeschichte im Centro Cultural del Ferrocarril. Abends bewundern Sie einzigartige Axolotl im Ajolotario.",
+        "hu": "Kezdje a napot a Plaza Juárez-en, majd sétáljon át a történelmi belvároson. Ezt követően merüljön el a Teatro Jardín del Arte helyi kulturális életében. Délután fedezze fel a Centro Cultural del Ferrocarril vasúttörténeti kincseit. Este pedig csodálja meg az egyedülálló axolotlokat.",
+        "ro": "Începeți ziua în Plaza Juárez și faceți o plimbare prin centrul istoric al orașului. Ulterior, pătrundeți în scena culturală la Teatro Jardín del Arte. După-amiaza, descoperiți istoria feroviară fascinantă la Centro Cultural del Ferrocarril. Seara, admirați axoloții unici la Ajolotario.",
+        "en": "Start your day at Plaza Juárez and take a stroll through the historic downtown. Afterwards, immerse yourself in the local cultural scene at the Teatro Jardín del Arte. In the afternoon, discover fascinating railway history at the Centro Cultural del Ferrocarril. In the evening, admire unique axolotls at the Ajolotario."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza Juárez",
+            "hu": "Plaza Juárez",
+            "ro": "Plaza Juárez",
+            "en": "Plaza Juárez"
+          },
+          "coords": [
+            -98.736122,
+            20.122919
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Herz der Stadt ist der ideale Startpunkt, um das Treiben der Einheimischen zu beobachten, also holen Sie sich einen Kaffee und entspannen Sie.",
+            "hu": "A város szíve ideális kiindulópont, ahol megfigyelheti a helyiek mindennapjait, ezért vegyen egy kávét és pihenjen egy padon.",
+            "ro": "Inima orașului este punctul de plecare ideal pentru a observa viața localnicilor, așa că luați o cafea și relaxați-vă.",
+            "en": "The heart of the city is the ideal starting point to observe the daily life of locals, so grab a coffee and relax on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural del Ferrocarril",
+            "hu": "Centro Cultural del Ferrocarril",
+            "ro": "Centro Cultural del Ferrocarril",
+            "en": "Centro Cultural del Ferrocarril"
+          },
+          "coords": [
+            -98.74079,
+            20.122216
+          ],
+          "category": "museum",
+          "arrive_at": "09:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Lokomotiven und die spannende Bahngeschichte von Pachuca; bringen Sie bequeme Schuhe für das weitläufige Freigelände mit.",
+            "hu": "Fedezze fel Pachuca régi mozdonyait és izgalmas vasúttörténetét; hozzon kényelmes cipőt a tágas szabadtéri területhez.",
+            "ro": "Descoperiți vechile locomotive și istoria feroviară a Pachucăi; aduceți încălțăminte confortabilă pentru zona vastă în aer liber.",
+            "en": "Discover old locomotives and the exciting railway history of Pachuca; bring comfortable walking shoes for the expansive outdoor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajolotario Miquiztli Xolotl",
+            "hu": "Ajolotario Miquiztli Xolotl",
+            "ro": "Ajolotario Miquiztli Xolotl",
+            "en": "Ajolotario Miquiztli Xolotl"
+          },
+          "coords": [
+            -98.748439,
+            20.125828
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Hier erfahren Sie alles über die faszinierenden Axolotl, eine seltene Amphibienart; unterstützen Sie den Schutz durch eine kleine Spende.",
+            "hu": "Itt mindent megtudhat a lenyűgöző axolotlokról, a ritka kétéltűekről; támogassa a védelmüket egy kisebb összegű adománnyal.",
+            "ro": "Aici veți afla totul despre axoloții fascinanți, un amfibian rar; sprijiniți conservarea lor făcând o mică donație la intrare.",
+            "en": "Here you will learn all about the fascinating axolotl, a rare amphibian; consider supporting their conservation with a small donation."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecoparque",
+            "hu": "Ecoparque",
+            "ro": "Ecoparque",
+            "en": "Ecoparque"
+          },
+          "coords": [
+            -98.746006,
+            20.116923
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieser Park ist eine grüne Oase zur Erholung und Tierbeobachtung, packen Sie unbedingt Sonnencreme und ausreichend Trinkwasser ein.",
+            "hu": "Ez a park zöld oázis a kikapcsolódáshoz és az állatmegfigyeléshez, mindenképpen csomagoljon be fényvédőt és elegendő ivóvizet.",
+            "ro": "Acest parc este o oază verde pentru relaxare și observarea animalelor, asigurați-vă că luați protecție solară și apă potabilă suficientă.",
+            "en": "This park is a green oasis for relaxation and animal observation, so be absolutely sure to pack sunscreen and plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Macromural Palmitas",
+            "hu": "Macromural Palmitas",
+            "ro": "Macromural Palmitas",
+            "en": "Macromural Palmitas"
+          },
+          "coords": [
+            -98.740612,
+            20.112694
+          ],
+          "category": "landmark",
+          "arrive_at": "14:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieses riesige Straßenkunstprojekt erstreckt sich über ein ganzes Viertel; gehen Sie ein paar Straßen weiter, um die beste Perspektive für Fotos zu finden.",
+            "hu": "Ez a hatalmas utcai művészeti projekt egy egész negyedre kiterjed; menjen néhány utcával távolabb a legjobb fotózási szög megtalálásához.",
+            "ro": "Acest proiect uriaș de artă stradală se întinde pe un cartier întreg; mergeți câteva străzi mai departe pentru a găsi cea mai bună perspectivă foto.",
+            "en": "This giant street art project spans an entire neighborhood; walk a few streets away to find the absolute best perspective for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Cubitos",
+            "hu": "Parque Ecológico Cubitos",
+            "ro": "Parque Ecológico Cubitos",
+            "en": "Parque Ecológico Cubitos"
+          },
+          "coords": [
+            -98.734984,
+            20.099691
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältige Pflanzenwelt dieses ökologischen Parks und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Élvezze a változatos növényvilágot ebben az ökológiai parkban, és maradjon a kijelölt ösvényeken a helyi flóra védelme érdekében.",
+            "ro": "Bucurați-vă de flora diversă din acest parc ecologic și rămâneți pe traseele marcate pentru a proteja plantele locale sensibile.",
+            "en": "Enjoy the diverse plant life of this ecological park and stay strictly on the marked trails to protect the sensitive local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet entspannt im Zentrum und führt Sie zum beeindruckenden Eisenbahnmuseum. Mittags radeln Sie weiter, um die heimische Tierwelt und Flora im Ecoparque zu erkunden. Der Nachmittag wird bunt mit dem riesigen Macromural Palmitas. Den Abend verbringen Sie im weitläufigen Parque Ecológico Cubitos.",
+        "hu": "Kerékpártúrája a központból indul, egyenesen a lenyűgöző vasúti múzeumhoz. Délben továbbteker, hogy felfedezze az Ecoparque helyi állat- és növényvilágát. A délután színes élményt nyújt a hatalmas Macromural Palmitas megtekintésével. Az estét a tágas Parque Ecológico Cubitosban töltheti.",
+        "ro": "Turul cu bicicleta începe relaxant în centru și vă poartă la impresionantul muzeu feroviar. La prânz, pedalați mai departe pentru a explora flora și fauna locală din Ecoparque. După-amiaza devine plină de culoare la imensul Macromural Palmitas. Petreceți seara în vastul Parque Ecológico Cubitos.",
+        "en": "Your bike tour starts smoothly in the center, taking you to the impressive railway museum. At midday, pedal on to explore the local wildlife and flora at the Ecoparque. The afternoon gets colorful with the giant Macromural Palmitas. Spend your evening in the spacious Parque Ecológico Cubitos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural del Ferrocarril",
+            "hu": "Centro Cultural del Ferrocarril",
+            "ro": "Centro Cultural del Ferrocarril",
+            "en": "Centro Cultural del Ferrocarril"
+          },
+          "coords": [
+            -98.74079,
+            20.122216
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Lokomotiven und die spannende Bahngeschichte von Pachuca; bringen Sie bequeme Schuhe für das weitläufige Freigelände mit.",
+            "hu": "Fedezze fel Pachuca régi mozdonyait és izgalmas vasúttörténetét; hozzon kényelmes cipőt a tágas szabadtéri területhez.",
+            "ro": "Descoperiți vechile locomotive și istoria feroviară a Pachucăi; aduceți încălțăminte confortabilă pentru zona vastă în aer liber.",
+            "en": "Discover old locomotives and the exciting railway history of Pachuca; bring comfortable walking shoes for the expansive outdoor area."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuartel del Arte",
+            "hu": "Cuartel del Arte",
+            "ro": "Cuartel del Arte",
+            "en": "Cuartel del Arte"
+          },
+          "coords": [
+            -98.731973,
+            20.121034
+          ],
+          "category": "cultural",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "In dieser ehemaligen Kaserne finden Sie heute beeindruckende Kunstausstellungen, achten Sie auf die wechselnden Galerien im ersten Stock.",
+            "hu": "Ebben az egykori laktanyában ma lenyűgöző művészeti kiállításokat talál, figyeljen az első emeleti, folyamatosan változó galériákra.",
+            "ro": "În această fostă cazarmă veți găsi expoziții de artă impresionante, acordați atenție galeriilor mereu schimbătoare de la primul etaj.",
+            "en": "This former military barracks now houses impressive art exhibitions, be sure to look out for the rotating galleries on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Macromural Palmitas",
+            "hu": "Macromural Palmitas",
+            "ro": "Macromural Palmitas",
+            "en": "Macromural Palmitas"
+          },
+          "coords": [
+            -98.740612,
+            20.112694
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieses riesige Straßenkunstprojekt erstreckt sich über ein ganzes Viertel; gehen Sie ein paar Straßen weiter, um die beste Perspektive für Fotos zu finden.",
+            "hu": "Ez a hatalmas utcai művészeti projekt egy egész negyedre kiterjed; menjen néhány utcával távolabb a legjobb fotózási szög megtalálásához.",
+            "ro": "Acest proiect uriaș de artă stradală se întinde pe un cartier întreg; mergeți câteva străzi mai departe pentru a găsi cea mai bună perspectivă foto.",
+            "en": "This giant street art project spans an entire neighborhood; walk a few streets away to find the absolute best perspective for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Cubitos",
+            "hu": "Parque Ecológico Cubitos",
+            "ro": "Parque Ecológico Cubitos",
+            "en": "Parque Ecológico Cubitos"
+          },
+          "coords": [
+            -98.734984,
+            20.099691
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältige Pflanzenwelt dieses ökologischen Parks und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Élvezze a változatos növényvilágot ebben az ökológiai parkban, és maradjon a kijelölt ösvényeken a helyi flóra védelme érdekében.",
+            "ro": "Bucurați-vă de flora diversă din acest parc ecologic și rămâneți pe traseele marcate pentru a proteja plantele locale sensibile.",
+            "en": "Enjoy the diverse plant life of this ecological park and stay strictly on the marked trails to protect the sensitive local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo El Rehilete",
+            "hu": "Museo El Rehilete",
+            "ro": "Museo El Rehilete",
+            "en": "Museo El Rehilete"
+          },
+          "coords": [
+            -98.777197,
+            20.076864
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Ein interaktives Museum, das besonders für Familien spannend ist; besuchen Sie das Planetarium gleich zu Beginn, bevor es zu voll wird.",
+            "hu": "Interaktív múzeum, amely különösen a családok számára izgalmas; rögtön az elején látogassa meg a planetáriumot, mielőtt túl zsúfolt lenne.",
+            "ro": "Un muzeu interactiv deosebit de captivant pentru familii; vizitați planetariul chiar la început, înainte să devină prea aglomerat.",
+            "en": "An interactive museum that is especially exciting for families; visit the planetarium right at the beginning before it gets too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de toros - Vicente Segura",
+            "hu": "Plaza de toros - Vicente Segura",
+            "ro": "Plaza de toros - Vicente Segura",
+            "en": "Plaza de toros - Vicente Segura"
+          },
+          "coords": [
+            -98.780357,
+            20.065435
+          ],
+          "category": "landmark",
+          "arrive_at": "16:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Diese beeindruckende Arena spiegelt die Stierkampfkultur wider; machen Sie einen kurzen Spaziergang um das Gebäude für interessante architektonische Details.",
+            "hu": "Ez a lenyűgöző aréna a bikaviadal-kultúrát tükrözi; tegyen egy rövid sétát az épület körül érdekes építészeti részletekért.",
+            "ro": "Această arenă impresionantă reflectă cultura coridelor; faceți o scurtă plimbare în jurul clădirii pentru detalii arhitecturale interesante.",
+            "en": "This impressive arena reflects the local bullfighting culture; take a short walk around the building to see interesting architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Feria de Pachuca Hidalgo",
+            "hu": "Feria de Pachuca Hidalgo",
+            "ro": "Feria de Pachuca Hidalgo",
+            "en": "Feria de Pachuca Hidalgo"
+          },
+          "coords": [
+            -98.781096,
+            20.062557
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das lebhafte Festgelände bietet Spaß und lokale Spezialitäten; probieren Sie unbedingt die traditionellen Pastes an einem der vielen Essensstände.",
+            "hu": "A nyüzsgő fesztiválterület szórakozást és helyi specialitásokat kínál; mindenképpen kóstolja meg a hagyományos pástétomokat egy ételstandnál.",
+            "ro": "Terenul vibrant al festivalului oferă distracție și specialități locale; asigurați-vă că gustați tradiționalele \"pastes\" la unul dintre standurile alimentare.",
+            "en": "The lively fairgrounds offer fun and local specialties; be absolutely sure to try the traditional pastes at one of the many food stands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zuerst das historische Eisenbahnmuseum und die Kunst im Cuartel del Arte. Danach fahren Sie zum farbenprächtigen Macromural Palmitas für fantastische Fotos. Am Nachmittag bietet das Museo El Rehilete spannende Ausstellungen für die ganze Familie. Der Abend klingt auf dem belebten Feriengelände aus.",
+        "hu": "Autóval először a történelmi vasúti múzeumot és a Cuartel del Arte művészetét fedezi fel. Ezután a színpompás Macromural Palmitas felé veszi az irányt remek fotókért. Délután a Museo El Rehilete kínál izgalmas kiállításokat az egész családnak. Az este a nyüzsgő fesztiválterületen ér véget.",
+        "ro": "Cu mașina, explorați mai întâi muzeul istoric feroviar și arta de la Cuartel del Arte. Apoi, mergeți la coloratul Macromural Palmitas pentru fotografii fantastice. După-amiaza, Museo El Rehilete oferă expoziții fascinante pentru toată familia. Seara se încheie la vibrantul teren al festivalului.",
+        "en": "By car, first explore the historic railway museum and the art at the Cuartel del Arte. Next, drive to the colorful Macromural Palmitas for fantastic photo opportunities. In the afternoon, Museo El Rehilete offers exciting exhibits for the whole family. The evening concludes at the lively fairgrounds."
+      }
+    }
+  }
+}

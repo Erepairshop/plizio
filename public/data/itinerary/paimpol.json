@@ -1,0 +1,612 @@
+{
+  "city_id": "paimpol",
+  "anchor": {
+    "name": "Paimpol",
+    "coords": [
+      -3.0464,
+      48.7778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:43",
+      "total_km": 2.53,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Martray",
+            "hu": "Place du Martray",
+            "ro": "Place du Martray",
+            "en": "Place du Martray"
+          },
+          "coords": [
+            -3.045528,
+            48.779541
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fachwerkhäuser auf diesem lebendigen Platz, der das Herz Paimpols bildet, und probieren Sie in einem der Cafés eine echte bretonische Galette.",
+            "hu": "Csodálja meg a történelmi favázas házakat ezen a nyüzsgő téren, amely Paimpol szíve, és kóstoljon meg egy igazi breton galette-et a hangulatos kávézók egyikében.",
+            "ro": "Admirați casele istorice cu cherestea aparentă din această piață vibrantă, inima orașului Paimpol, și savurați o galetă bretonă autentică la o cafenea din apropiere.",
+            "en": "Admire the historic half-timbered houses on this vibrant square, which forms the heart of Paimpol, and be sure to try an authentic Breton galette at one of the lively cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieille Tour",
+            "hu": "Vieille Tour",
+            "ro": "Vieille Tour",
+            "en": "Vieille Tour"
+          },
+          "coords": [
+            -3.0486,
+            48.778675
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markante Turmruine, ein faszinierendes Überbleibsel der alten Kirche, und achten Sie auf die aufwendigen Steinmetzarbeiten aus dem frühen Mittelalter.",
+            "hu": "Fedezze fel ezt a lenyűgöző toronyromot, a régi templom lenyűgöző maradványát, és figyelje meg a kora középkori kőfaragások bonyolult, gazdag részleteit.",
+            "ro": "Descoperiți această ruină impresionantă a turnului, o rămășiță fascinantă a vechii biserici, și analizați cu atenție sculpturile complicate în piatră din Evul Mediu timpuriu.",
+            "en": "Discover the striking tower ruin, a fascinating remnant of the old church, and look closely to appreciate the intricate early medieval stone carvings preserved on its exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Sea Museum"
+          },
+          "coords": [
+            -3.041947,
+            48.778841
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die harte Arbeit der Kabeljaufischer in diesem fesselnden Schifffahrtsmuseum, für dessen Besuch Sie etwa eineinhalb Stunden einplanen sollten.",
+            "hu": "Tudjon meg mindent a tőkehalhalászok kemény munkájáról ebben a lenyűgöző Tengerészeti Múzeumban, amelynek alapos bejárásához érdemes legalább másfél órát szánnia.",
+            "ro": "Aflați totul despre munca grea a pescarilor de cod în acest muzeu maritim captivant, unde este recomandat să alocați cel puțin o oră și jumătate pentru o vizită completă.",
+            "en": "Learn everything about the arduous work of cod fishermen at this captivating maritime museum, where you should ideally allocate around an hour and a half for a thorough visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Paimpol",
+            "hu": "Paimpol kikötője",
+            "ro": "Portul Paimpol",
+            "en": "Port of Paimpol"
+          },
+          "coords": [
+            -3.0438,
+            48.7818
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der belebten Kais dieses malerischen Hafens, um die traditionellen Segelboote zu bewundern, und kommen Sie früh, um das beste Licht zum Fotografieren zu haben.",
+            "hu": "Sétáljon végig ennek a festői kikötőnek a nyüzsgő rakpartjain, hogy megcsodálja a hagyományos vitorlásokat, és érkezzen korán, hogy a legjobb fényviszonyokat kapja a fotózáshoz.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor pline de viață ale acestui port pitoresc pentru a admira bărcile tradiționale cu pânze și sosiți devreme pentru a prinde cea mai bună lumină.",
+            "en": "Stroll along the bustling quays of this picturesque port to admire the traditional sailboats, and arrive early in the day to get the absolute best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Four à Chaux",
+            "hu": "Plage du Four à Chaux",
+            "ro": "Plage du Four à Chaux",
+            "en": "Plage du Four à Chaux"
+          },
+          "coords": [
+            -3.040931,
+            48.783001
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten, ruhigen Strandabschnitt mit herrlichem Blick auf das Meer, und bringen Sie unbedingt bequeme Schuhe für die unebenen Küstenpfade mit.",
+            "hu": "Pihenjen ezen a hangulatos, csendes partszakaszon, ahonnan csodálatos kilátás nyílik a tengerre, és mindenképpen hozzon magával kényelmes cipőt az egyenetlen tengerparti ösvényekhez.",
+            "ro": "Relaxați-vă pe această porțiune de plajă fermecătoare și liniștită, cu vederi minunate la ocean, și asigurați-vă că aduceți încălțăminte confortabilă pentru potecile de coastă.",
+            "en": "Relax at this charming, quiet stretch of beach offering wonderful views of the ocean, and be sure to bring comfortable walking shoes for navigating the uneven coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Tossen",
+            "hu": "Plage de la Tossen",
+            "ro": "Plage de la Tossen",
+            "en": "Plage de la Tossen"
+          },
+          "coords": [
+            -3.034553,
+            48.783211
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad im geschützten Meerwasserschwimmbad dieses beliebten Strandes, der sich besonders gut für Familien mit kleinen Kindern anbietet.",
+            "hu": "Élvezze a frissítő fürdőzést e népszerű strand védett tengervizes medencéjében, amely különösen ideális választás a kisgyermekes családok számára a meleg nyári napokon.",
+            "ro": "Bucurați-vă de o baie răcoroasă în piscina protejată cu apă de mare a acestei plaje populare, un loc care este deosebit de potrivit pentru familiile cu copii mici.",
+            "en": "Enjoy a refreshing swim in the protected seawater pool at this highly popular beach, making it an exceptionally great spot for families traveling with young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Keirdreiz",
+            "hu": "Plage de Keirdreiz",
+            "ro": "Plage de Keirdreiz",
+            "en": "Plage de Keirdreiz"
+          },
+          "coords": [
+            -3.028401,
+            48.777372
+          ],
+          "category": "recreational",
+          "arrive_at": "17:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem friedlichen Küstenabschnitt baumeln, der für seine unberührte Natur bekannt ist, und achten Sie bei Ebbe auf die versteckten Gezeitentümpel.",
+            "hu": "Kapcsolódjon ki ezen a békés partszakaszon, amely érintetlen természeti szépségéről ismert, és apály idején feltétlenül figyelje meg az apró, rejtett árapálymedencéket.",
+            "ro": "Relaxați-vă pe această porțiune pașnică de coastă, faimoasă pentru frumusețea sa naturală virgină, și aveți grijă să căutați micile bălți formate la reflux de-a lungul țărmului.",
+            "en": "Unwind along this peaceful stretch of coastline, famous for its untouched natural beauty, and be sure to carefully look for the hidden tidal pools when the tide is low."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im historischen Herzen von Paimpol. Rund um die Place du Martray und die alte Turmruine spürt man den Charme der Fachwerkhäuser und die mittelalterliche Geschichte der Bretagne.\n\nZu Mittag tauchen Sie im Meeresmuseum in die faszinierende Vergangenheit der Islandfischer ein. Anschließend schlendern Sie am lebhaften Hafen entlang und genießen maritime Atmosphäre.\n\nDer Nachmittag steht im Zeichen der Entspannung an der Küste. Die kleinen Strände Four à Chaux und Tossen laden mit ihren Meerwasserschwimmbecken und feinem Sand zum Verweilen ein.\n\nZum Abschluss spazieren Sie zur Plage de Keirdreiz, wo die malerische Küstenlandschaft im sanften Abendlicht erstrahlt. Ein ruhiger Moment, um die bretonische Natur in vollen Zügen zu genießen.",
+        "hu": "A nap Paimpol történelmi szívében kezdődik. A Place du Martray és az öreg toronyrom körül sétálva azonnal magával ragadja a fagerendás házak bája és Bretagne középkori történelme.\n\nDélben a Tengerészeti Múzeumban elmerülhet az izlandi halászok lenyűgöző múltjában. Ezután sétáljon végig a nyüzsgő kikötő mentén, és szívja magába a varázslatos tengeri atmoszférát.\n\nA délután a part menti pihenés jegyében telik. A Four à Chaux és a Tossen apró strandjai tengervizes medencéikkel és finom homokjukkal csendes elidőzésre, fürdőzésre csábítanak.\n\nZárásként sétáljon el a Plage de Keirdreiz felé, ahol a festői partvidék lágy esti fényekben ragyog. Ez egy békés pillanat, amikor teljes mértékben élvezheti a lenyűgöző breton természetet.",
+        "ro": "Ziua începe în inima istorică a orașului Paimpol. În jurul Place du Martray și al ruinelor vechiului turn, veți simți imediat farmecul caselor cu cherestea și istoria medievală.\n\nLa prânz, scufundați-vă în trecutul pescarilor în Muzeul Mării. Apoi, faceți o plimbare relaxantă de-a lungul portului plin de viață și bucurați-vă de atmosfera maritimă autentică.\n\nDupă-amiaza este dedicată relaxării pe coastă. Micile plaje Four à Chaux și Tossen vă invită să zăboviți pe nisip sau să faceți o baie în piscinele lor cu apă de mare protejată.\n\nÎn încheiere, plimbați-vă spre Plage de Keirdreiz, unde peisajul de coastă strălucește în lumina blândă a serii. Un moment de liniște perfect pentru a savura frumusețea naturală.",
+        "en": "The day begins in the historical heart of Paimpol. Wandering around Place du Martray and the old tower ruins, you immediately feel the charm of half-timbered houses and medieval history.\n\nAt midday, dive into the fascinating past of the Iceland fishermen at the Sea Museum. Afterwards, stroll along the bustling harbor quays to fully soak up the authentic maritime atmosphere.\n\nThe afternoon is dedicated to coastal relaxation. The small beaches of Four à Chaux and Tossen invite you to linger peacefully on the sand or swim in the protected seawater pools.\n\nTo conclude, stroll towards Plage de Keirdreiz, where the picturesque coastal landscape sparkles in the soft evening light. A perfectly tranquil moment to savor Breton nature at its best."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:11",
+      "total_km": 7.37,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Martray",
+            "hu": "Place du Martray",
+            "ro": "Place du Martray",
+            "en": "Place du Martray"
+          },
+          "coords": [
+            -3.045528,
+            48.779541
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fachwerkhäuser auf diesem lebendigen Platz, der das Herz Paimpols bildet, und probieren Sie in einem der Cafés eine echte bretonische Galette.",
+            "hu": "Csodálja meg a történelmi favázas házakat ezen a nyüzsgő téren, amely Paimpol szíve, és kóstoljon meg egy igazi breton galette-et a hangulatos kávézók egyikében.",
+            "ro": "Admirați casele istorice cu cherestea aparentă din această piață vibrantă, inima orașului Paimpol, și savurați o galetă bretonă autentică la o cafenea din apropiere.",
+            "en": "Admire the historic half-timbered houses on this vibrant square, which forms the heart of Paimpol, and be sure to try an authentic Breton galette at one of the lively cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Paimpol",
+            "hu": "Paimpol kikötője",
+            "ro": "Portul Paimpol",
+            "en": "Port of Paimpol"
+          },
+          "coords": [
+            -3.0438,
+            48.7818
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der belebten Kais dieses malerischen Hafens, um die traditionellen Segelboote zu bewundern, und kommen Sie früh, um das beste Licht zum Fotografieren zu haben.",
+            "hu": "Sétáljon végig ennek a festői kikötőnek a nyüzsgő rakpartjain, hogy megcsodálja a hagyományos vitorlásokat, és érkezzen korán, hogy a legjobb fényviszonyokat kapja a fotózáshoz.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor pline de viață ale acestui port pitoresc pentru a admira bărcile tradiționale cu pânze și sosiți devreme pentru a prinde cea mai bună lumină.",
+            "en": "Stroll along the bustling quays of this picturesque port to admire the traditional sailboats, and arrive early in the day to get the absolute best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Tossen",
+            "hu": "Plage de la Tossen",
+            "ro": "Plage de la Tossen",
+            "en": "Plage de la Tossen"
+          },
+          "coords": [
+            -3.034553,
+            48.783211
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad im geschützten Meerwasserschwimmbad dieses beliebten Strandes, der sich besonders gut für Familien mit kleinen Kindern anbietet.",
+            "hu": "Élvezze a frissítő fürdőzést e népszerű strand védett tengervizes medencéjében, amely különösen ideális választás a kisgyermekes családok számára a meleg nyári napokon.",
+            "ro": "Bucurați-vă de o baie răcoroasă în piscina protejată cu apă de mare a acestei plaje populare, un loc care este deosebit de potrivit pentru familiile cu copii mici.",
+            "en": "Enjoy a refreshing swim in the protected seawater pool at this highly popular beach, making it an exceptionally great spot for families traveling with young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Guilben",
+            "hu": "Pointe de Guilben",
+            "ro": "Pointe de Guilben",
+            "en": "Pointe de Guilben"
+          },
+          "coords": [
+            -3.010684,
+            48.780995
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dem atemberaubenden Panoramablick auf die felsige Küste verzaubern und tragen Sie wegen der starken Meeresbrise unbedingt eine leichte Windjacke.",
+            "hu": "Hagyja, hogy elvarázsolja a sziklás partvidékre nyíló lélegzetelállító panoráma ezen a lenyűgöző ponton, és az erős tengeri szél miatt mindenképpen viseljen szélkabátot.",
+            "ro": "Lăsați-vă fermecați de priveliștile panoramice uluitoare ale coastei stâncoase de pe acest promontoriu și asigurați-vă că purtați o jachetă din cauza brizelor puternice.",
+            "en": "Allow yourself to be enchanted by the breathtaking panoramic views of the rocky coastline here, and be sure to wear a light windbreaker due to the strong sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Keirdreiz",
+            "hu": "Plage de Keirdreiz",
+            "ro": "Plage de Keirdreiz",
+            "en": "Plage de Keirdreiz"
+          },
+          "coords": [
+            -3.028401,
+            48.777372
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem friedlichen Küstenabschnitt baumeln, der für seine unberührte Natur bekannt ist, und achten Sie bei Ebbe auf die versteckten Gezeitentümpel.",
+            "hu": "Kapcsolódjon ki ezen a békés partszakaszon, amely érintetlen természeti szépségéről ismert, és apály idején feltétlenül figyelje meg az apró, rejtett árapálymedencéket.",
+            "ro": "Relaxați-vă pe această porțiune pașnică de coastă, faimoasă pentru frumusețea sa naturală virgină, și aveți grijă să căutați micile bălți formate la reflux de-a lungul țărmului.",
+            "en": "Unwind along this peaceful stretch of coastline, famous for its untouched natural beauty, and be sure to carefully look for the hidden tidal pools when the tide is low."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Cruckin",
+            "hu": "Plage du Cruckin",
+            "ro": "Plage du Cruckin",
+            "en": "Plage du Cruckin"
+          },
+          "coords": [
+            -3.020528,
+            48.770756
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Ruhe dieses feinsandigen Strandes in der Bucht von Paimpol und nutzen Sie die Gelegenheit für einen ausgedehnten Spaziergang am flachen Wasser.",
+            "hu": "Tapasztalja meg ennek a finom homokos strandnak az idilli nyugalmát a Paimpol-öbölben, és használja ki a lehetőséget egy hosszú sétára a sekély, tiszta parti vizek mentén.",
+            "ro": "Experimentați liniștea idilică a acestei plaje cu nisip fin din Golful Paimpol și profitați de ocazie pentru a face o plimbare lungă și relaxantă de-a lungul apei puțin adânci.",
+            "en": "Experience the idyllic tranquility of this fine sandy beach nestled in the Bay of Paimpol, and take full advantage of the opportunity for a long walk along the shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Beauport",
+            "hu": "Beauport apátság",
+            "ro": "Abația Beauport",
+            "en": "Beauport Abbey"
+          },
+          "coords": [
+            -3.019444,
+            48.767778
+          ],
+          "category": "monastic",
+          "arrive_at": "16:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieser beeindruckenden Zisterzienserabtei direkt am Wasser und buchen Sie im Voraus eine Führung, um die geheimen Ecken zu entdecken.",
+            "hu": "Merüljön el ennek a lenyűgöző, közvetlenül a vízparton álló ciszterci apátságnak a történetében, és foglaljon előre vezetett túrát a rejtett zugok alapos felfedezéséhez.",
+            "ro": "Cufundați-vă în istoria acestei impresionante abații cisterciene situate chiar pe malul apei și rezervați un tur ghidat în avans pentru a explora colțurile sale ascunse.",
+            "en": "Immerse yourself in the profound history of this impressive Cistercian abbey right on the water, and book a guided tour in advance to fully explore its hidden corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Sea Museum"
+          },
+          "coords": [
+            -3.041947,
+            48.778841
+          ],
+          "category": "museum",
+          "arrive_at": "18:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die harte Arbeit der Kabeljaufischer in diesem fesselnden Schifffahrtsmuseum, für dessen Besuch Sie etwa eineinhalb Stunden einplanen sollten.",
+            "hu": "Tudjon meg mindent a tőkehalhalászok kemény munkájáról ebben a lenyűgöző Tengerészeti Múzeumban, amelynek alapos bejárásához érdemes legalább másfél órát szánnia.",
+            "ro": "Aflați totul despre munca grea a pescarilor de cod în acest muzeu maritim captivant, unde este recomandat să alocați cel puțin o oră și jumătate pentru o vizită completă.",
+            "en": "Learn everything about the arduous work of cod fishermen at this captivating maritime museum, where you should ideally allocate around an hour and a half for a thorough visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet im Zentrum an der Place du Martray, bevor Sie gemütlich zum historischen Hafen rollen. Von dort geht es direkt an die Küste zur entspannten Plage de la Tossen.\n\nMittags radeln Sie zur Landzunge Pointe de Guilben, wo weite Ausblicke auf das Meer warten. Danach bieten die Strände Keirdreiz und Cruckin perfekte Stopps für ein gemütliches Picknick.\n\nAm Nachmittag erreichen Sie die majestätische Beauport Abbey. Diese historische Klosteranlage direkt am Wasser lädt zu einer faszinierenden Zeitreise in die mittelalterliche Bretagne ein.\n\nDen Abend verbringen Sie im spannenden Meeresmuseum im Zentrum. Lassen Sie die Tour bei einem leckeren bretonischen Abendessen in den Gassen rund um den beleuchteten Hafen ausklingen.",
+        "hu": "A kerékpártúra a Place du Martray központjából indul, mielőtt kényelmesen legurulna a történelmi kikötőbe. Innen egyenesen a tengerpartra tekerünk a békés Plage de la Tossen felé.\n\nDélben tekerjen el a Pointe de Guilben hegyfokhoz, ahol pazar tengeri kilátás várja. Ezután a Keirdreiz és Cruckin strandok tökéletes megállót kínálnak egy kényelmes piknikhez.\n\nDélután érkezik meg a fenséges Beauport apátsághoz. Ez a közvetlenül a vízparton álló történelmi kolostoregyüttes egy lenyűgöző időutazásra hív a középkori Bretagne misztikus világába.\n\nAz estét a központban található, izgalmas Tengerészeti Múzeumban töltheti. Zárja a napot egy ízletes breton vacsorával a kivilágított kikötő körüli varázslatos, macskaköves utcákon.",
+        "ro": "Turul pe bicicletă începe din centrul Place du Martray, înainte de a pedala ușor spre portul istoric. De acolo, vă îndreptați direct spre coasta relaxantă la Plage de la Tossen.\n\nLa prânz, pedalați spre promontoriul Pointe de Guilben pentru priveliști panoramice uimitoare. Apoi, plajele Keirdreiz și Cruckin oferă opriri perfecte pentru un picnic relaxant.\n\nDupă-amiaza veți ajunge la maiestuoasa Abație Beauport. Acest complex istoric situat chiar pe malul apei vă invită într-o călătorie fascinantă în timpul Bretaniei medievale.\n\nPetreceți seara la fascinantul Muzeu al Mării din centru. Încheiați turul cu o cină bretonă delicioasă pe străduțele pietruite din jurul portului frumos iluminat și liniștit.",
+        "en": "The bike tour starts in the center at Place du Martray, before smoothly rolling down to the historic harbor. From there, you head directly to the relaxed coast at Plage de la Tossen.\n\nAt midday, cycle to the Pointe de Guilben headland for sweeping panoramic sea views. Afterwards, the Keirdreiz and Cruckin beaches offer perfect stopping points for a scenic picnic.\n\nIn the afternoon, arrive at the majestic Beauport Abbey. This historical monastic complex situated right on the water perfectly invites you on a journey into medieval Brittany.\n\nSpend the evening at the fascinating Sea Museum in the center. Conclude your tour with a delicious Breton dinner in the cobblestone alleys surrounding the beautifully illuminated harbor."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:05",
+      "total_km": 6.49,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Beauport",
+            "hu": "Beauport apátság",
+            "ro": "Abația Beauport",
+            "en": "Beauport Abbey"
+          },
+          "coords": [
+            -3.019444,
+            48.767778
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieser beeindruckenden Zisterzienserabtei direkt am Wasser und buchen Sie im Voraus eine Führung, um die geheimen Ecken zu entdecken.",
+            "hu": "Merüljön el ennek a lenyűgöző, közvetlenül a vízparton álló ciszterci apátságnak a történetében, és foglaljon előre vezetett túrát a rejtett zugok alapos felfedezéséhez.",
+            "ro": "Cufundați-vă în istoria acestei impresionante abații cisterciene situate chiar pe malul apei și rezervați un tur ghidat în avans pentru a explora colțurile sale ascunse.",
+            "en": "Immerse yourself in the profound history of this impressive Cistercian abbey right on the water, and book a guided tour in advance to fully explore its hidden corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Cruckin",
+            "hu": "Plage du Cruckin",
+            "ro": "Plage du Cruckin",
+            "en": "Plage du Cruckin"
+          },
+          "coords": [
+            -3.020528,
+            48.770756
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Ruhe dieses feinsandigen Strandes in der Bucht von Paimpol und nutzen Sie die Gelegenheit für einen ausgedehnten Spaziergang am flachen Wasser.",
+            "hu": "Tapasztalja meg ennek a finom homokos strandnak az idilli nyugalmát a Paimpol-öbölben, és használja ki a lehetőséget egy hosszú sétára a sekély, tiszta parti vizek mentén.",
+            "ro": "Experimentați liniștea idilică a acestei plaje cu nisip fin din Golful Paimpol și profitați de ocazie pentru a face o plimbare lungă și relaxantă de-a lungul apei puțin adânci.",
+            "en": "Experience the idyllic tranquility of this fine sandy beach nestled in the Bay of Paimpol, and take full advantage of the opportunity for a long walk along the shallow water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Guilben",
+            "hu": "Pointe de Guilben",
+            "ro": "Pointe de Guilben",
+            "en": "Pointe de Guilben"
+          },
+          "coords": [
+            -3.010684,
+            48.780995
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von dem atemberaubenden Panoramablick auf die felsige Küste verzaubern und tragen Sie wegen der starken Meeresbrise unbedingt eine leichte Windjacke.",
+            "hu": "Hagyja, hogy elvarázsolja a sziklás partvidékre nyíló lélegzetelállító panoráma ezen a lenyűgöző ponton, és az erős tengeri szél miatt mindenképpen viseljen szélkabátot.",
+            "ro": "Lăsați-vă fermecați de priveliștile panoramice uluitoare ale coastei stâncoase de pe acest promontoriu și asigurați-vă că purtați o jachetă din cauza brizelor puternice.",
+            "en": "Allow yourself to be enchanted by the breathtaking panoramic views of the rocky coastline here, and be sure to wear a light windbreaker due to the strong sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Keirdreiz",
+            "hu": "Plage de Keirdreiz",
+            "ro": "Plage de Keirdreiz",
+            "en": "Plage de Keirdreiz"
+          },
+          "coords": [
+            -3.028401,
+            48.777372
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele an diesem friedlichen Küstenabschnitt baumeln, der für seine unberührte Natur bekannt ist, und achten Sie bei Ebbe auf die versteckten Gezeitentümpel.",
+            "hu": "Kapcsolódjon ki ezen a békés partszakaszon, amely érintetlen természeti szépségéről ismert, és apály idején feltétlenül figyelje meg az apró, rejtett árapálymedencéket.",
+            "ro": "Relaxați-vă pe această porțiune pașnică de coastă, faimoasă pentru frumusețea sa naturală virgină, și aveți grijă să căutați micile bălți formate la reflux de-a lungul țărmului.",
+            "en": "Unwind along this peaceful stretch of coastline, famous for its untouched natural beauty, and be sure to carefully look for the hidden tidal pools when the tide is low."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Martray",
+            "hu": "Place du Martray",
+            "ro": "Place du Martray",
+            "en": "Place du Martray"
+          },
+          "coords": [
+            -3.045528,
+            48.779541
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fachwerkhäuser auf diesem lebendigen Platz, der das Herz Paimpols bildet, und probieren Sie in einem der Cafés eine echte bretonische Galette.",
+            "hu": "Csodálja meg a történelmi favázas házakat ezen a nyüzsgő téren, amely Paimpol szíve, és kóstoljon meg egy igazi breton galette-et a hangulatos kávézók egyikében.",
+            "ro": "Admirați casele istorice cu cherestea aparentă din această piață vibrantă, inima orașului Paimpol, și savurați o galetă bretonă autentică la o cafenea din apropiere.",
+            "en": "Admire the historic half-timbered houses on this vibrant square, which forms the heart of Paimpol, and be sure to try an authentic Breton galette at one of the lively cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieille Tour",
+            "hu": "Vieille Tour",
+            "ro": "Vieille Tour",
+            "en": "Vieille Tour"
+          },
+          "coords": [
+            -3.0486,
+            48.778675
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markante Turmruine, ein faszinierendes Überbleibsel der alten Kirche, und achten Sie auf die aufwendigen Steinmetzarbeiten aus dem frühen Mittelalter.",
+            "hu": "Fedezze fel ezt a lenyűgöző toronyromot, a régi templom lenyűgöző maradványát, és figyelje meg a kora középkori kőfaragások bonyolult, gazdag részleteit.",
+            "ro": "Descoperiți această ruină impresionantă a turnului, o rămășiță fascinantă a vechii biserici, și analizați cu atenție sculpturile complicate în piatră din Evul Mediu timpuriu.",
+            "en": "Discover the striking tower ruin, a fascinating remnant of the old church, and look closely to appreciate the intricate early medieval stone carvings preserved on its exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Sea Museum"
+          },
+          "coords": [
+            -3.041947,
+            48.778841
+          ],
+          "category": "museum",
+          "arrive_at": "16:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die harte Arbeit der Kabeljaufischer in diesem fesselnden Schifffahrtsmuseum, für dessen Besuch Sie etwa eineinhalb Stunden einplanen sollten.",
+            "hu": "Tudjon meg mindent a tőkehalhalászok kemény munkájáról ebben a lenyűgöző Tengerészeti Múzeumban, amelynek alapos bejárásához érdemes legalább másfél órát szánnia.",
+            "ro": "Aflați totul despre munca grea a pescarilor de cod în acest muzeu maritim captivant, unde este recomandat să alocați cel puțin o oră și jumătate pentru o vizită completă.",
+            "en": "Learn everything about the arduous work of cod fishermen at this captivating maritime museum, where you should ideally allocate around an hour and a half for a thorough visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Paimpol",
+            "hu": "Paimpol kikötője",
+            "ro": "Portul Paimpol",
+            "en": "Port of Paimpol"
+          },
+          "coords": [
+            -3.0438,
+            48.7818
+          ],
+          "category": "historical",
+          "arrive_at": "17:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der belebten Kais dieses malerischen Hafens, um die traditionellen Segelboote zu bewundern, und kommen Sie früh, um das beste Licht zum Fotografieren zu haben.",
+            "hu": "Sétáljon végig ennek a festői kikötőnek a nyüzsgő rakpartjain, hogy megcsodálja a hagyományos vitorlásokat, és érkezzen korán, hogy a legjobb fényviszonyokat kapja a fotózáshoz.",
+            "ro": "Plimbați-vă de-a lungul cheiurilor pline de viață ale acestui port pitoresc pentru a admira bărcile tradiționale cu pânze și sosiți devreme pentru a prinde cea mai bună lumină.",
+            "en": "Stroll along the bustling quays of this picturesque port to admire the traditional sailboats, and arrive early in the day to get the absolute best lighting for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Grèves de Kerroc'h",
+            "hu": "Grèves de Kerroc'h",
+            "ro": "Grèves de Kerroc'h",
+            "en": "Grèves de Kerroc'h"
+          },
+          "coords": [
+            -3.035236,
+            48.790149
+          ],
+          "category": "recreational",
+          "arrive_at": "19:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesen dramatischen Klippen und rauen Stränden, wo die untergehende Sonne die Felsen in goldenes Licht taucht – perfekt für unvergessliche Fotos.",
+            "hu": "Fejezze be a napját ezen a drámai sziklákkal és vad strandokkal tarkított parton, ahol a lemenő nap aranyfénybe öltözteti a köveket, ami tökéletes hátteret ad a fotóknak.",
+            "ro": "Încheiați-vă ziua pe aceste stânci dramatice și plaje stâncoase, unde soarele apus scaldă formațiunile în lumină aurie, oferind un cadru perfect pentru fotografii memorabile.",
+            "en": "End your day along these dramatic cliffs and rugged beaches, where the setting sun beautifully bathes the jagged rocks in golden light, making it perfect for memorable photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotrip beginnt spektakulär bei der Beauport Abbey, einem gotischen Meisterwerk am Meer. Danach fahren Sie zur nahen Plage du Cruckin für einen erfrischenden Morgenspaziergang.\n\nUm die Mittagszeit steuern Sie die dramatische Pointe de Guilben an, bevor Sie sich an der Plage de Keirdreiz entspannen. Danach geht es zurück ins Zentrum zur belebten Place du Martray.\n\nDer Nachmittag führt Sie in die Altstadt zur alten Turmruine und tief in die maritime Geschichte im Meeresmuseum. Paimpols seefahrerisches Erbe wird hier eindrucksvoll lebendig.\n\nLassen Sie das Auto stehen und erkunden Sie den Hafen in der Dämmerung. Zum großen Finale fahren Sie hinauf zu den Grèves de Kerroc'h, wo wilde Klippen den perfekten Sonnenuntergang bieten.",
+        "hu": "Autós utazása látványosan kezdődik a tengerparti Beauport apátságnál, a gótika mesterművénél. Ezután hajtson a közeli Plage du Cruckin homokos partjára egy frissítő reggeli sétára.\n\nDél körül a drámai Pointe de Guilben felé veszi az irányt, mielőtt megpihenne a Plage de Keirdreiz partján. Ezután térjen vissza a nyüzsgő központba, a híres Place du Martray-re.\n\nA délután az óváros régi toronyromjához és a Tengerészeti Múzeum gazdag történelmébe vezeti Önt. Paimpol tengerészhagyatékának varázsa itt elevenedik meg a leginkább a látogatóknak.\n\nHagyja hátra az autót, és fedezze fel a kikötőt szürkületkor. A nagy fináléhoz hajtson fel a Grèves de Kerroc'h vad szikláihoz, amelyek a létező legtökéletesebb naplementét kínálják.",
+        "ro": "Călătoria cu mașina începe spectaculos la Abația Beauport, o capodoperă gotică la mare. Apoi, conduceți la plaja din apropiere, Cruckin, pentru o plimbare revigorantă de dimineață.\n\nÎn jurul prânzului, mergeți spre dramatica Pointe de Guilben, înainte de a vă relaxa la Plage de Keirdreiz. Apoi, întoarceți-vă în centrul orașului spre animata Place du Martray.\n\nDupă-amiaza vă poartă în orașul vechi la ruinele turnului și adânc în istoria maritimă la Muzeul Mării. Patrimoniul marin al Paimpolului prinde viață aici într-un mod impresionant.\n\nLăsați mașina și explorați portul în amurg. Pentru marele final, conduceți la Grèves de Kerroc'h, unde stâncile sălbatice accidentate oferă cel mai spectaculos apus de soare posibil.",
+        "en": "Your car trip starts spectacularly at Beauport Abbey, a gothic masterpiece by the sea. Next, drive over to the nearby Plage du Cruckin for a refreshingly brisk morning walk.\n\nAround midday, head to the dramatic Pointe de Guilben before relaxing beautifully at Plage de Keirdreiz. Afterwards, return into the bustling town center towards Place du Martray.\n\nThe afternoon takes you to the old town's tower ruins and deep into maritime history at the Sea Museum. Paimpol's seafaring heritage truly comes alive here in a spectacular fashion.\n\nLeave the car and explore the harbor at twilight. For the grand finale, drive up to the untamed Grèves de Kerroc'h, where wild cliffs offer the most spectacular sunset imaginable."
+      }
+    }
+  }
+}

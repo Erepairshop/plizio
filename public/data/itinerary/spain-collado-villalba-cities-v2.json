@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-collado-villalba-cities-v2",
+  "anchor": {
+    "name": "Collado Villalba",
+    "coords": [
+      -3.992725,
+      40.643029
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:53",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuente del Caño Viejo",
+            "hu": "Fuente del Caño Viejo",
+            "ro": "Fuente del Caño Viejo",
+            "en": "Fuente del Caño Viejo"
+          },
+          "coords": [
+            -3.990292,
+            40.639703
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie diesen traditionellen Steinbrunnen, der die landwirtschaftliche Vergangenheit zeigt, und bringen Sie eine Flasche für das Wasser mit.",
+            "hu": "Nézze meg ezt a város mezőgazdasági múltját idéző hagyományos kőkutat, és hozzon magával egy palackot a közeli frissítő vízhez.",
+            "ro": "Admirați această fântână tradițională ce reprezintă trecutul agricol al orașului și aduceți o sticlă pentru a lua apă proaspătă de aici.",
+            "en": "See this traditional stone fountain representing the town's agricultural past, and bring a bottle to catch the refreshing runoff nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora del Enebral",
+            "hu": "Nuestra Señora del Enebral",
+            "ro": "Nuestra Señora del Enebral",
+            "en": "Nuestra Señora del Enebral"
+          },
+          "coords": [
+            -3.992568,
+            40.642994
+          ],
+          "category": "religious",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses religiösen Zentrums und treten Sie morgens leise ein, um den verzierten Altar zu betrachten.",
+            "hu": "Csodálja meg e központi vallási csomópont gyönyörű építészetét, és lépjen be csendben a reggeli órákban, hogy megnézze a díszes oltárt.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru religios și intrați în liniște dimineața pentru a vedea altarul frumos ornamentat.",
+            "en": "Admire the beautiful architecture of this central religious hub, and step inside quietly during morning hours to see the ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural El Capricho",
+            "hu": "Centro Cultural El Capricho",
+            "ro": "Centro Cultural El Capricho",
+            "en": "Centro Cultural El Capricho"
+          },
+          "coords": [
+            -3.991495,
+            40.644216
+          ],
+          "category": "cultural",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Kulturzentrum mit lokalen Kunsttalenten und prüfen Sie die Tafel auf kostenlose Nachmittagsworkshops.",
+            "hu": "Fedezze fel ezt az élénk kulturális központot, amely helyi tehetségeket mutat be, és keresse az ingyenes délutáni workshopok menetrendjét.",
+            "ro": "Explorați acest centru cultural plin de viață ce expune talente locale și verificați panoul pentru atelierele gratuite de după-amiază.",
+            "en": "Explore this lively cultural center showcasing local artistic talents, and check the front board for free afternoon workshop schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Piedra del Concejo",
+            "hu": "Piedra del Concejo",
+            "ro": "Piedra del Concejo",
+            "en": "Piedra del Concejo"
+          },
+          "coords": [
+            -3.992033,
+            40.64563
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Versammlungsort aus Stein, der die lokale Verwaltung prägte, und achten Sie auf die verwitterten Schnitzereien.",
+            "hu": "Látogasson el erre a történelmi tanácskozóhelyre, amely a helyi kormányzást alakította, és figyelje meg a kopott faragásokat a felületén.",
+            "ro": "Vizitați acest loc istoric de adunare din piatră ce a modelat guvernarea locală și priviți cu atenție sculpturile erodate de pe suprafață.",
+            "en": "Visit this historic stone council meeting place that shaped local governance, and look closely at the weathered carvings on its surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Dehesa de Collado Villalba",
+            "hu": "Mirador de la Dehesa de Collado Villalba",
+            "ro": "Mirador de la Dehesa de Collado Villalba",
+            "en": "Mirador de la Dehesa de Collado Villalba"
+          },
+          "coords": [
+            -3.995906,
+            40.6455
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen weiten Blick auf die üppige Dehesa-Landschaft und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Gyönyörködjön a buja Dehesa táj széles panorámájában ebből a természetes nézőpontból, és érkezzen naplemente körül a legjobb fényviszonyokért.",
+            "ro": "Bucurați-vă de priveliștile vaste ale peisajului luxuriant Dehesa de la acest punct de belvedere și sosiți la apus pentru cea mai bună lumină.",
+            "en": "Take in sweeping views of the lush Dehesa landscape from this natural vantage point, and arrive near sunset for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang zum alten Brunnen, der die Ursprünge der Stadt zeigt. Mittags besuchen Sie die historische Kirche und das Zentrum für lokale Kunst. Der Nachmittag ist für die ikonische Piedra del Concejo, ein Stück lokales Erbe, reserviert. Der Abend endet am natürlichen Aussichtspunkt mit Blick auf die sanften Hügel der Dehesa.",
+        "hu": "A reggel egy sétával indul a régi kúthoz, amely bepillantást enged a város eredetébe. A nap közepén a történelmi templom és a helyi művészeti központ várja. A délután az ikonikus Piedra del Concejo meglátogatásáról szól, amely a helyi örökség része. Az este a természetes kilátópontnál ér véget, ahonnan a Dehesa dombjaira nyílik kilátás.",
+        "ro": "Dimineața începe cu o plimbare spre fântâna veche, oferind o privire asupra originilor orașului. La amiază vizitați biserica istorică și centrul cultural pentru artă locală. După-amiaza este rezervată emblematicei Piedra del Concejo, o parte a moștenirii locale. Seara se încheie la punctul de belvedere natural, admirând colinele din Dehesa.",
+        "en": "Morning starts with a stroll to the old fountain, offering a glimpse into the town's origins. Midday brings you to the historic church and cultural center for local art. Afternoon is reserved for the iconic Piedra del Concejo, an essential piece of local heritage. Evening ends beautifully at the natural viewpoint, taking in the rolling hills of the Dehesa."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuente del Caño Viejo",
+            "hu": "Fuente del Caño Viejo",
+            "ro": "Fuente del Caño Viejo",
+            "en": "Fuente del Caño Viejo"
+          },
+          "coords": [
+            -3.990292,
+            40.639703
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie diesen traditionellen Steinbrunnen, der die landwirtschaftliche Vergangenheit zeigt, und bringen Sie eine Flasche für das Wasser mit.",
+            "hu": "Nézze meg ezt a város mezőgazdasági múltját idéző hagyományos kőkutat, és hozzon magával egy palackot a közeli frissítő vízhez.",
+            "ro": "Admirați această fântână tradițională ce reprezintă trecutul agricol al orașului și aduceți o sticlă pentru a lua apă proaspătă de aici.",
+            "en": "See this traditional stone fountain representing the town's agricultural past, and bring a bottle to catch the refreshing runoff nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora del Enebral",
+            "hu": "Nuestra Señora del Enebral",
+            "ro": "Nuestra Señora del Enebral",
+            "en": "Nuestra Señora del Enebral"
+          },
+          "coords": [
+            -3.992568,
+            40.642994
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses religiösen Zentrums und treten Sie morgens leise ein, um den verzierten Altar zu betrachten.",
+            "hu": "Csodálja meg e központi vallási csomópont gyönyörű építészetét, és lépjen be csendben a reggeli órákban, hogy megnézze a díszes oltárt.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru religios și intrați în liniște dimineața pentru a vedea altarul frumos ornamentat.",
+            "en": "Admire the beautiful architecture of this central religious hub, and step inside quietly during morning hours to see the ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Dehesa de Collado Villalba",
+            "hu": "Mirador de la Dehesa de Collado Villalba",
+            "ro": "Mirador de la Dehesa de Collado Villalba",
+            "en": "Mirador de la Dehesa de Collado Villalba"
+          },
+          "coords": [
+            -3.995906,
+            40.6455
+          ],
+          "category": "natural",
+          "arrive_at": "10:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen weiten Blick auf die üppige Dehesa-Landschaft und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Gyönyörködjön a buja Dehesa táj széles panorámájában ebből a természetes nézőpontból, és érkezzen naplemente körül a legjobb fényviszonyokért.",
+            "ro": "Bucurați-vă de priveliștile vaste ale peisajului luxuriant Dehesa de la acest punct de belvedere și sosiți la apus pentru cea mai bună lumină.",
+            "en": "Take in sweeping views of the lush Dehesa landscape from this natural vantage point, and arrive near sunset for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Monolito Dolmen Enrtretérminos",
+            "hu": "Monolito Dolmen Enrtretérminos",
+            "ro": "Monolito Dolmen Enrtretérminos",
+            "en": "Monolito Dolmen Enrtretérminos"
+          },
+          "coords": [
+            -4.020141,
+            40.643545
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende antike Megalithdenkmal, das historische Grenzen markiert, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi megalitikus emlékművet, amely történelmi határokat jelöl, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Descoperiți acest fascinant monument megalitic antic ce marchează granițe istorice și purtați pantofi confortabili pentru terenul accidentat.",
+            "en": "Discover this fascinating ancient megalithic monument that marks historic boundaries, and wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Acuático Municipal",
+            "hu": "Centro Acuático Municipal",
+            "ro": "Centro Acuático Municipal",
+            "en": "Centro Acuático Municipal"
+          },
+          "coords": [
+            -4.004201,
+            40.642697
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem modernen Wasserfreizeitzentrum der Gemeinde und bringen Sie ein Handtuch mit, um Leihgebühren zu vermeiden.",
+            "hu": "Pihenjen ebben a helyi közösség által kedvelt modern vízi rekreációs központban, és hozzon saját törölközőt a bérleti díjak elkerülése végett.",
+            "ro": "Relaxați-vă la acest modern centru acvatic recreativ preferat de localnici și aduceți propriul prosop pentru a evita taxele de închiriere.",
+            "en": "Relax at this modern recreational aquatic center favored by the local community, and bring your own towel to avoid rental fees at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura Collado Villalba",
+            "hu": "Casa de la Cultura Collado Villalba",
+            "ro": "Casa de la Cultura Collado Villalba",
+            "en": "Casa de la Cultura Collado Villalba"
+          },
+          "coords": [
+            -4.002936,
+            40.632802
+          ],
+          "category": "cultural",
+          "arrive_at": "13:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in vielfältige Ausstellungen in diesem wichtigen Kulturzentrum ein und buchen Sie Tickets im Voraus online für gute Plätze.",
+            "hu": "Merüljön el a különféle kiállításokban ebben a jelentős kulturális csomópontban, és foglaljon jegyet előre online a jó helyek biztosításáért.",
+            "ro": "Explorați diverse expoziții și spectacole la acest important centru cultural și rezervați bilete online din timp pentru a prinde locuri bune.",
+            "en": "Delve into diverse exhibitions and performances at this major cultural hub, and book tickets online in advance to secure a good seat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum charmanten Caño Viejo Brunnen und zur zentralen Pfarrkirche. Mittags führt Sie die Tour zum Aussichtspunkt, der die natürliche Schönheit der Dehesa überblickt. Der Nachmittag führt zum faszinierenden Dolmen-Monolithen tief in die alte Geschichte. Der Abend endet mit einem Stopp im Wasserzentrum und im lokalen Kulturhaus.",
+        "hu": "Kezdjen a hangulatos Caño Viejo kútnál, mielőtt tiszteletét tenné a központi plébánián. Délben a túra a Dehesa természeti szépségeit bemutató kilátóhoz vezet. A délután a lenyűgöző Dolmen monolitjához visz, elmerülve az ókori történelemben. Az este a vízi központnál és a helyi kultúrháznál tett frissítő megállóval zárul.",
+        "ro": "Începeți plimbarea cu bicicleta spre fântâna Caño Viejo, apoi vizitați parohia centrală. La amiază pedalați spre punctul de belvedere ce domină frumusețea naturală din Dehesa. După-amiaza vă conduce spre fascinantul monolit Dolmen, aprofundând istoria antică. Seara se termină la centrul acvatic și la casa de cultură locală.",
+        "en": "Start cycling to the charming Caño Viejo fountain before paying respects at the central parish. Midday cycling takes you to the scenic viewpoint overlooking the Dehesa's natural beauty. Afternoon leads to the fascinating Dolmen monolith, diving deep into ancient history. Evening finishes with a refreshing stop at the aquatic center and local cultural house."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Cultura Collado Villalba",
+            "hu": "Casa de la Cultura Collado Villalba",
+            "ro": "Casa de la Cultura Collado Villalba",
+            "en": "Casa de la Cultura Collado Villalba"
+          },
+          "coords": [
+            -4.002936,
+            40.632802
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in vielfältige Ausstellungen in diesem wichtigen Kulturzentrum ein und buchen Sie Tickets im Voraus online für gute Plätze.",
+            "hu": "Merüljön el a különféle kiállításokban ebben a jelentős kulturális csomópontban, és foglaljon jegyet előre online a jó helyek biztosításáért.",
+            "ro": "Explorați diverse expoziții și spectacole la acest important centru cultural și rezervați bilete online din timp pentru a prinde locuri bune.",
+            "en": "Delve into diverse exhibitions and performances at this major cultural hub, and book tickets online in advance to secure a good seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Santiago Apóstol",
+            "hu": "Ermita Santiago Apóstol",
+            "ro": "Ermita Santiago Apóstol",
+            "en": "Ermita Santiago Apóstol"
+          },
+          "coords": [
+            -4.009467,
+            40.627541
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser kleinen, traditionellen Eremitage, die dem Heiligen Jakob gewidmet ist, und spazieren Sie durch den ruhigen Garten.",
+            "hu": "Tapasztalja meg a Szent Jakabnak szentelt kis hagyományos remetelak nyugalmát, és sétáljon egyet a csendes kertben a békés pillanatokért.",
+            "ro": "Experimentați liniștea acestui mic schit tradițional dedicat Sfântului Iacob și plimbați-vă prin grădina tăcută pentru momente de pace.",
+            "en": "Experience the tranquility of this small, traditional hermitage dedicated to Saint James, and walk around the quiet garden for moments of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Monolito Dolmen Enrtretérminos",
+            "hu": "Monolito Dolmen Enrtretérminos",
+            "ro": "Monolito Dolmen Enrtretérminos",
+            "en": "Monolito Dolmen Enrtretérminos"
+          },
+          "coords": [
+            -4.020141,
+            40.643545
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende antike Megalithdenkmal, das historische Grenzen markiert, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi megalitikus emlékművet, amely történelmi határokat jelöl, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Descoperiți acest fascinant monument megalitic antic ce marchează granițe istorice și purtați pantofi confortabili pentru terenul accidentat.",
+            "en": "Discover this fascinating ancient megalithic monument that marks historic boundaries, and wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora del Enebral",
+            "hu": "Nuestra Señora del Enebral",
+            "ro": "Nuestra Señora del Enebral",
+            "en": "Nuestra Señora del Enebral"
+          },
+          "coords": [
+            -3.992568,
+            40.642994
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieses religiösen Zentrums und treten Sie morgens leise ein, um den verzierten Altar zu betrachten.",
+            "hu": "Csodálja meg e központi vallási csomópont gyönyörű építészetét, és lépjen be csendben a reggeli órákban, hogy megnézze a díszes oltárt.",
+            "ro": "Admirați arhitectura frumoasă a acestui centru religios și intrați în liniște dimineața pentru a vedea altarul frumos ornamentat.",
+            "en": "Admire the beautiful architecture of this central religious hub, and step inside quietly during morning hours to see the ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Piedra del Concejo",
+            "hu": "Piedra del Concejo",
+            "ro": "Piedra del Concejo",
+            "en": "Piedra del Concejo"
+          },
+          "coords": [
+            -3.992033,
+            40.64563
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Versammlungsort aus Stein, der die lokale Verwaltung prägte, und achten Sie auf die verwitterten Schnitzereien.",
+            "hu": "Látogasson el erre a történelmi tanácskozóhelyre, amely a helyi kormányzást alakította, és figyelje meg a kopott faragásokat a felületén.",
+            "ro": "Vizitați acest loc istoric de adunare din piatră ce a modelat guvernarea locală și priviți cu atenție sculpturile erodate de pe suprafață.",
+            "en": "Visit this historic stone council meeting place that shaped local governance, and look closely at the weathered carvings on its surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Asociación de vecinos Lagos de Moralzarzal",
+            "hu": "Asociación de vecinos Lagos de Moralzarzal",
+            "ro": "Asociación de vecinos Lagos de Moralzarzal",
+            "en": "Asociación de vecinos Lagos de Moralzarzal"
+          },
+          "coords": [
+            -3.970671,
+            40.668972
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den lokalen Geist in diesem freundlichen Nachbarschaftsverein und trinken Sie einen schnellen Kaffee in der kleinen Cafeteria.",
+            "hu": "Ismerje meg a helyi szellemiséget ebben a barátságos szomszédsági egyesületben, és igyon egy gyors kávét a kis közösségi kávézójukban.",
+            "ro": "Interacționați cu spiritul local la această prietenoasă asociație de cartier și beți o cafea rapidă la mica lor cantină comunitară din interior.",
+            "en": "Engage with the local spirit at this friendly neighborhood association complex, and grab a quick coffee at their small community cafeteria inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur Casa de la Cultura, um in die lebendige Kunstszene einzutauchen. Mittags besuchen Sie die friedliche Eremitage Santiago Apóstol und den alten Dolmen. Nachmittags kehren Sie ins Zentrum zurück, um die Enebral-Kirche und die Piedra del Concejo zu erkunden. Der Abend klingt bei den Moralzarzal-Seen entspannt aus.",
+        "hu": "Először vezessen a Kultúrházba, hogy elmerüljön a város élénk művészeti közösségében. Délben békés látogatást tesz a Santiago Apóstol remetelaknál és az ősi Dolmennél. Délután visszatér a központba, hogy felfedezze az Enebral templomot és a Piedra del Concejo-t. Az este a Moralzarzal tavaknál zárul, egy békés naplementével.",
+        "ro": "Conduceți întâi la Casa de Cultură pentru a descoperi comunitatea artistică vibrantă. La amiază faceți o vizită pașnică la schitul Santiago Apóstol și la vechiul Dolmen. După-amiaza vă aduce înapoi în centru pentru a explora biserica Enebral și Piedra del Concejo. Seara vă relaxați la lacurile Moralzarzal pentru un apus liniștit.",
+        "en": "Drive first to the Casa de la Cultura to dive straight into the town's vibrant artistic community. Midday features a peaceful visit to the Santiago Apóstol hermitage and the ancient Dolmen. Afternoon brings you back to the center to explore the historic Enebral church and the Piedra del Concejo. Evening relaxes at the Moralzarzal lakes association for a serene sunset."
+      }
+    }
+  }
+}

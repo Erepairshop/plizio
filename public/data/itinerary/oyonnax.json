@@ -1,0 +1,428 @@
+{
+  "city_id": "oyonnax",
+  "anchor": {
+    "name": "Oyonnax",
+    "coords": [
+      5.655,
+      46.2556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Droits de l'Enfance",
+            "hu": "Place des Droits de l'Enfance",
+            "ro": "Place des Droits de l'Enfance",
+            "en": "Place des Droits de l'Enfance"
+          },
+          "coords": [
+            5.644529,
+            46.256994
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem friedlichen Platz, einem Zeugnis moderner Gemeinschaftswerte, wo Sie vor der Erkundung der historischen Stätten einen Kaffee trinken können.",
+            "hu": "Kezdje a napot ezen a békés, modern közösségi értékeket hirdető téren, ahol a közeli történelmi helyszínek felfedezése előtt még nyugodtan megihat egy gyors kávét.",
+            "ro": "Începeți-vă ziua în această piață liniștită, un simbol al valorilor comunitare moderne, unde puteți savura o cafea rapidă înainte de a explora atracțiile istorice.",
+            "en": "Begin your day at this peaceful square, a testament to modern community values, where you can grab a quick coffee before exploring the nearby historic sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kamm und Kunststoff",
+            "hu": "Fésű és Műanyag Múzeum",
+            "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+            "en": "Museum of Comb and Plastics"
+          },
+          "coords": [
+            5.64801,
+            46.261
+          ],
+          "category": "museum",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe von Oyonnax anhand von Kämmen und Kunststoffen, aber vergessen Sie nicht, die Wechselausstellungen für modernes Design zu besuchen.",
+            "hu": "Fedezze fel Oyonnax ipari örökségét a fésűk és műanyagok révén, de mindenképpen nézze meg az időszaki kiállításokat is a modern dizájn lenyűgöző részleteiért.",
+            "ro": "Descoperiți moștenirea industrială unică prin piepteni și materiale plastice, dar asigurați-vă că verificați și expozițiile temporare pentru designul modern fascinant.",
+            "en": "Discover Oyonnax's unique industrial heritage through intricate combs and early plastics, but make sure to check the temporary exhibitions for fascinating design insights."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Vapeur",
+            "hu": "La Grande Vapeur",
+            "ro": "La Grande Vapeur",
+            "en": "La Grande Vapeur"
+          },
+          "coords": [
+            5.657986,
+            46.260832
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses architektonische Wunderwerk, das einst die Fabriken antrieb, und achten Sie auf die Tafeln, die die Dampfmechanismen erklären.",
+            "hu": "Csodálja meg ezt az építészeti csodát, amely egykor a város gyárait hajtotta, és keresse az információs táblákat, amelyek a gőzmechanizmusokat magyarázzák.",
+            "ro": "Admirați această capodoperă arhitecturală care alimenta fabricile orașului și căutați plăcile informative care explică mecanismele sale inovatoare cu abur.",
+            "en": "Admire this striking architectural marvel that once powered the city's factories, and look for the detailed informational plaques explaining its steam mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "René-Nicod-Park",
+            "hu": "René Nicod Park",
+            "ro": "Parcul René Nicod",
+            "en": "René Nicod Park"
+          },
+          "coords": [
+            5.65931,
+            46.259856
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser üppigen Grünanlage mitten im Stadtzentrum und packen Sie ein leichtes Picknick ein, um es auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen meg ebben a buja, zöld parkban a városközpont szívében, és érdemes egy könnyű pikniket is magával hoznia, amit az árnyékos padok egyikén fogyaszthat el.",
+            "ro": "Relaxați-vă în acest spațiu verde luxuriant din centrul orașului și luați în considerare un mic picnic pentru a vă bucura de el pe una dintre numeroasele bănci umbrite.",
+            "en": "Relax in this lush green space offering a serene escape right in the city center, and consider packing a light picnic to enjoy on one of the many shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Léger-Kirche",
+            "hu": "Saint-Léger templom",
+            "ro": "Biserica Saint-Léger",
+            "en": "Saint-Léger Church"
+          },
+          "coords": [
+            5.658223,
+            46.258001
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und das ruhige Innere dieser historischen Kirche und nehmen Sie sich einen Moment der Besinnung vor dem Weitergehen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és nyugodt belső terét, és tartson egy perc csendes pihenőt a túra folytatása előtt.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, luându-vă un moment de reflecție înainte de a trece mai departe.",
+            "en": "Marvel at the beautiful stained glass windows and tranquil interior of this historic church, taking a moment of quiet reflection before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarsouille-Wanderweg",
+            "hu": "Sarsouille ösvény",
+            "ro": "Traseul Sarsouille",
+            "en": "Sarsouille Trail"
+          },
+          "coords": [
+            5.663231,
+            46.256877
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Folgen Sie diesem malerischen Pfad, der Natur und lokale Geschichte verbindet, und tragen Sie unbedingt bequeme Wanderschuhe, da das Gelände uneben sein kann.",
+            "hu": "Kövesse ezt a festői ösvényt, amely tökéletesen ötvözi a természetet és a helyi történelmet, de viseljen kényelmes cipőt, mert a terep egyenetlen lehet.",
+            "ro": "Urmați acest traseu pitoresc care îmbină perfect natura cu istoria locală și asigurați-vă că purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Follow this picturesque trail that perfectly blends nature with local history, and be sure to wear comfortable walking shoes as the terrain can be slightly uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang durch Oyonnax, indem Sie die lokale Atmosphäre aufsaugen, bevor Sie im faszinierenden Kunststoffmuseum in die einzigartige Geschichte der Stadt eintauchen.\n\nBestaunen Sie gegen Mittag die Industriearchitektur von La Grande Vapeur, bevor Sie im René-Nicod-Park einen ruhigen Ort zum Ausruhen und Krafttanken finden.\n\nDer Nachmittag lädt in der historischen Kirche Saint-Léger zur stillen Reflexion ein und schlägt eine Brücke zwischen der Industrie und den tiefen kulturellen Wurzeln der Stadt.\n\nLassen Sie Ihren Tag ausklingen, indem Sie auf dem malerischen Sarsouille-Wanderweg dem Stadtzentrum entfliehen und die üppige Natur der Jura-Berge genießen.",
+        "hu": "Kezdje oyonnaxi sétáját a helyi hangulat befogadásával, mielőtt a lenyűgöző műanyagipari múzeumban elmerülne a város egyedülálló, gazdag történelmében és múltjában.\n\nAz ebédidő közeledtével csodálja meg a La Grande Vapeur ipari építészetét, majd keressen egy nyugodt helyet a René Nicod parkban a megérdemelt pihenésre és feltöltődésre.\n\nA délután csendes elmélkedésre csábít a történelmi Saint-Léger templomban, áthidalva a szakadékot Oyonnax ipari hatalma és mélyen gyökerező kulturális hagyományai között.\n\nZárja a napot a városközpontból kiszakadva a festői Sarsouille ösvényen, élvezve a Jura-hegység buja természetével való utolsó, igazán frissítő és békés találkozást.",
+        "ro": "Începeți turul pietonal al orașului Oyonnax bucurându-vă de atmosfera locală, înainte de a pătrunde în istoria sa unică la fascinantul muzeu al materialelor plastice.\n\nPe măsură ce se apropie prânzul, admirați arhitectura industrială de la La Grande Vapeur, apoi găsiți un loc liniștit în Parcul René Nicod pentru a vă odihni.\n\nDupă-amiaza vă invită la reflecție în biserica istorică Saint-Léger, făcând legătura între puterea industrială a orașului Oyonnax și rădăcinile sale culturale profunde.\n\nÎncheiați-vă ziua evadând din centrul urban pe pitorescul traseu Sarsouille, bucurându-vă de o ultimă conexiune revigorantă cu natura luxuriantă a munților Jura.",
+        "en": "Begin your walking tour of Oyonnax by soaking in the local atmosphere before diving straight into the city's unique history at the fascinating plastics museum.\n\nAs lunchtime approaches, marvel at the industrial architecture of La Grande Vapeur before finding a tranquil spot in René Nicod Park to rest and recharge.\n\nThe afternoon invites quiet reflection at the historic Saint-Léger Church, bridging the gap between Oyonnax's industrial might and its deep cultural roots.\n\nConclude your day by escaping the urban center on the scenic Sarsouille Trail, enjoying a final, refreshing connection with the lush nature of the Jura mountains."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Kamm und Kunststoff",
+            "hu": "Fésű és Műanyag Múzeum",
+            "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+            "en": "Museum of Comb and Plastics"
+          },
+          "coords": [
+            5.64801,
+            46.261
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe von Oyonnax anhand von Kämmen und Kunststoffen, aber vergessen Sie nicht, die Wechselausstellungen für modernes Design zu besuchen.",
+            "hu": "Fedezze fel Oyonnax ipari örökségét a fésűk és műanyagok révén, de mindenképpen nézze meg az időszaki kiállításokat is a modern dizájn lenyűgöző részleteiért.",
+            "ro": "Descoperiți moștenirea industrială unică prin piepteni și materiale plastice, dar asigurați-vă că verificați și expozițiile temporare pentru designul modern fascinant.",
+            "en": "Discover Oyonnax's unique industrial heritage through intricate combs and early plastics, but make sure to check the temporary exhibitions for fascinating design insights."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Vapeur",
+            "hu": "La Grande Vapeur",
+            "ro": "La Grande Vapeur",
+            "en": "La Grande Vapeur"
+          },
+          "coords": [
+            5.657986,
+            46.260832
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses architektonische Wunderwerk, das einst die Fabriken antrieb, und achten Sie auf die Tafeln, die die Dampfmechanismen erklären.",
+            "hu": "Csodálja meg ezt az építészeti csodát, amely egykor a város gyárait hajtotta, és keresse az információs táblákat, amelyek a gőzmechanizmusokat magyarázzák.",
+            "ro": "Admirați această capodoperă arhitecturală care alimenta fabricile orașului și căutați plăcile informative care explică mecanismele sale inovatoare cu abur.",
+            "en": "Admire this striking architectural marvel that once powered the city's factories, and look for the detailed informational plaques explaining its steam mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "René-Nicod-Park",
+            "hu": "René Nicod Park",
+            "ro": "Parcul René Nicod",
+            "en": "René Nicod Park"
+          },
+          "coords": [
+            5.65931,
+            46.259856
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser üppigen Grünanlage mitten im Stadtzentrum und packen Sie ein leichtes Picknick ein, um es auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen meg ebben a buja, zöld parkban a városközpont szívében, és érdemes egy könnyű pikniket is magával hoznia, amit az árnyékos padok egyikén fogyaszthat el.",
+            "ro": "Relaxați-vă în acest spațiu verde luxuriant din centrul orașului și luați în considerare un mic picnic pentru a vă bucura de el pe una dintre numeroasele bănci umbrite.",
+            "en": "Relax in this lush green space offering a serene escape right in the city center, and consider packing a light picnic to enjoy on one of the many shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarsouille-Wanderweg",
+            "hu": "Sarsouille ösvény",
+            "ro": "Traseul Sarsouille",
+            "en": "Sarsouille Trail"
+          },
+          "coords": [
+            5.663231,
+            46.256877
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Folgen Sie diesem malerischen Pfad, der Natur und lokale Geschichte verbindet, und tragen Sie unbedingt bequeme Wanderschuhe, da das Gelände uneben sein kann.",
+            "hu": "Kövesse ezt a festői ösvényt, amely tökéletesen ötvözi a természetet és a helyi történelmet, de viseljen kényelmes cipőt, mert a terep egyenetlen lehet.",
+            "ro": "Urmați acest traseu pitoresc care îmbină perfect natura cu istoria locală și asigurați-vă că purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Follow this picturesque trail that perfectly blends nature with local history, and be sure to wear comfortable walking shoes as the terrain can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Viry",
+            "hu": "Lac de Viry (Viry-tó)",
+            "ro": "Lacul Viry",
+            "en": "Lac de Viry"
+          },
+          "coords": [
+            5.722537,
+            46.277785
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses weniger überlaufenen Sees, der sich ideal zur Vogelbeobachtung oder zum Entspannen an den ruhigen Ufern eignet.",
+            "hu": "Élvezze ennek a kevésbé zsúfolt tónak a nyugodt atmoszféráját, amely ideális hely madármegfigyeléshez, vagy csak egyszerűen a csendes parti kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui lac mai puțin aglomerat, fiind locul ideal pentru observarea păsărilor sau pentru relaxare pe țărmurile tăcute.",
+            "en": "Enjoy the tranquil atmosphere and pristine waters of this less-crowded lake, making it the ideal spot for birdwatching or unwinding on the quiet shores."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einem tiefen Einblick in die industrielle Vergangenheit im Museum und fahren Sie dann zur monumentalen La Grande Vapeur.\n\nRadeln Sie mühelos durch die Straßen zum René-Nicod-Park, wo die schattigen Wege die perfekte Mittagspause abseits des Sattels bieten.\n\nDas Abenteuer geht weiter, während Sie den Asphalt hinter sich lassen und auf dem Sarsouille-Pfad städtische Räume mit der Natur verbinden.\n\nBeenden Sie den Tag mit einer Fahrt zum ruhigen Lac de Viry und belohnen Sie sich mit einem friedlichen Blick auf das Wasser im sanften Abendlicht.",
+        "hu": "Kezdje kerékpáros utazását a múzeumban, ahol elmerülhet az ipari múltban, majd zökkenőmentesen folytassa útját a monumentális La Grande Vapeur épületéhez.\n\nTekerjen könnyedén a város utcáin a René Nicod park felé, ahol az árnyékos ösvények tökéletes napközbeni szünetet biztosítanak, távol a nyeregtől és a forgalomtól.\n\nA kaland folytatódik, ahogy maga mögött hagyja a betont a Sarsouille ösvény kedvéért, élvezve a kellemes utazást, amely ötvözi a várost és a természetet.\n\nZárja erősen a napot a békés Lac de Viry tóhoz tekerve, megjutalmazva aktív napját a csendes vízi kilátással, ahogy az esti fény finoman elterül a tájon.",
+        "ro": "Începeți-vă călătoria pe bicicletă cu o incursiune în trecutul industrial la muzeu, trecând apoi perfect către monumentala clădire La Grande Vapeur.\n\nPedați fără efort pe străzile orașului spre Parcul René Nicod, unde aleile umbrite oferă pauza perfectă la mijlocul zilei, departe de șaua bicicletei.\n\nAventura continuă în timp ce lăsați asfaltul în urmă pentru traseul Sarsouille, bucurându-vă de o plimbare plăcută care îmbină spațiile urbane cu natura.\n\nTerminați în forță pedalând spre seriosul Lac de Viry, recompensându-vă ziua activă cu vederi liniștite ale apei, pe măsură ce lumina serii se înmoaie.",
+        "en": "Kick off your cycling journey with a deep dive into Oyonnax's industrial past at the museum, seamlessly transitioning to the monumental La Grande Vapeur.\n\nPedal effortlessly through the city streets towards René Nicod Park, where the shaded paths provide the perfect mid-day break from the saddle.\n\nThe adventure continues as you leave the pavement behind for the Sarsouille Trail, enjoying a pleasant ride that merges urban spaces with natural surroundings.\n\nFinish strong by cycling out to the serene Lac de Viry, rewarding your active day with peaceful water views as the evening light softens over the landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 27.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Kamm und Kunststoff",
+            "hu": "Fésű és Műanyag Múzeum",
+            "ro": "Muzeul Pieptenului și al Materialelor Plastice",
+            "en": "Museum of Comb and Plastics"
+          },
+          "coords": [
+            5.64801,
+            46.261
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe von Oyonnax anhand von Kämmen und Kunststoffen, aber vergessen Sie nicht, die Wechselausstellungen für modernes Design zu besuchen.",
+            "hu": "Fedezze fel Oyonnax ipari örökségét a fésűk és műanyagok révén, de mindenképpen nézze meg az időszaki kiállításokat is a modern dizájn lenyűgöző részleteiért.",
+            "ro": "Descoperiți moștenirea industrială unică prin piepteni și materiale plastice, dar asigurați-vă că verificați și expozițiile temporare pentru designul modern fascinant.",
+            "en": "Discover Oyonnax's unique industrial heritage through intricate combs and early plastics, but make sure to check the temporary exhibitions for fascinating design insights."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Vapeur",
+            "hu": "La Grande Vapeur",
+            "ro": "La Grande Vapeur",
+            "en": "La Grande Vapeur"
+          },
+          "coords": [
+            5.657986,
+            46.260832
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses architektonische Wunderwerk, das einst die Fabriken antrieb, und achten Sie auf die Tafeln, die die Dampfmechanismen erklären.",
+            "hu": "Csodálja meg ezt az építészeti csodát, amely egykor a város gyárait hajtotta, és keresse az információs táblákat, amelyek a gőzmechanizmusokat magyarázzák.",
+            "ro": "Admirați această capodoperă arhitecturală care alimenta fabricile orașului și căutați plăcile informative care explică mecanismele sale inovatoare cu abur.",
+            "en": "Admire this striking architectural marvel that once powered the city's factories, and look for the detailed informational plaques explaining its steam mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Genin",
+            "hu": "Lac Genin (Genin-tó)",
+            "ro": "Lacul Genin",
+            "en": "Lac Genin"
+          },
+          "coords": [
+            5.697885,
+            46.220355
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Dieser oft als Klein-Kanada bezeichnete See eignet sich perfekt für ein erfrischendes Bad, allerdings sind Parkplätze schnell belegt, also kommen Sie früh.",
+            "hu": "A gyakran a Kis Kanadának nevezett tó tökéletes egy frissítő úszáshoz vagy sétához, de a parkolók gyorsan megtelnek, ezért érkezzen korán.",
+            "ro": "Numit Mica Canada, acest lac uimitor este perfect pentru o plimbare, deși parcarea se umple rapid, așa că încercați să ajungeți mai devreme.",
+            "en": "Often called the Little Canada of Haut-Bugey, this stunning alpine lake is perfect for a refreshing walk, though parking fills up quickly so try to arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Viry",
+            "hu": "Lac de Viry (Viry-tó)",
+            "ro": "Lacul Viry",
+            "en": "Lac de Viry"
+          },
+          "coords": [
+            5.722537,
+            46.277785
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses weniger überlaufenen Sees, der sich ideal zur Vogelbeobachtung oder zum Entspannen an den ruhigen Ufern eignet.",
+            "hu": "Élvezze ennek a kevésbé zsúfolt tónak a nyugodt atmoszféráját, amely ideális hely madármegfigyeléshez, vagy csak egyszerűen a csendes parti kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui lac mai puțin aglomerat, fiind locul ideal pentru observarea păsărilor sau pentru relaxare pe țărmurile tăcute.",
+            "en": "Enjoy the tranquil atmosphere and pristine waters of this less-crowded lake, making it the ideal spot for birdwatching or unwinding on the quiet shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Coiselet",
+            "hu": "Lac de Coiselet (Coiselet-tó)",
+            "ro": "Lacul Coiselet",
+            "en": "Lac de Coiselet"
+          },
+          "coords": [
+            5.617507,
+            46.323889
+          ],
+          "category": "natural",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die steilen Klippen, die sich über das weite Wasser erheben, und mieten Sie ein Boot, um die geologischen Formationen zu bewundern.",
+            "hu": "Gyönyörködjön a hatalmas víztükör fölé magasodó drámai sziklákban, és béreljen egy kis csónakot a lenyűgöző geológiai képződmények megcsodálásához.",
+            "ro": "Admirați stâncile dramatice care se înalță peste apele întinse și închiriați o barcă mică pentru a aprecia pe deplin formațiunile geologice uimitoare.",
+            "en": "Take in the dramatic cliffs towering over the expansive waters at this majestic spot, and consider renting a small boat to appreciate the geological formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour im Herzen von Oyonnax und erkunden Sie das Museum und die architektonische Pracht von La Grande Vapeur, bevor Sie losfahren.\n\nEine malerische Fahrt bringt Sie zum beeindruckenden Lac Genin, bekannt als Klein-Kanada, und bietet einen dramatischen Wechsel zur alpinen Schönheit.\n\nSetzen Sie Ihren Roadtrip durch die wunderschönen Landschaften des Haut-Bugey zum Lac de Viry fort, einem versteckten Juwel für einen ruhigen Nachmittag.\n\nGegen Ende des Tages fahren Sie zum weitläufigen Lac de Coiselet, wo die hoch aufragenden Klippen eine spektakuläre Kulisse für den Abend bilden.",
+        "hu": "Kezdje autós útját Oyonnax szívében, fedezze fel a híres múzeumot és a La Grande Vapeur építészeti nagyszerűségét, mielőtt a nyílt országútra lépne.\n\nEgy festői autózás elviszi a lenyűgöző Lac Geninhez, a Kis Kanadához, drámai váltást kínálva az ipari történelemből a nyers alpesi szépségbe.\n\nFolytassa utazását a csodálatos Haut-Bugey tájain keresztül a Lac de Viry felé, amely egy rejtett gyöngyszem, tökéletes egy csendes délutáni megállóhoz.\n\nA nap lecsengésével vezessen a hatalmas Lac de Coiselet felé, ahol a tornyosuló sziklák és a kiterjedt vizek igazán látványos hátteret biztosítanak az estének.",
+        "ro": "Începeți-vă itinerariul auto în inima orașului Oyonnax, explorând renumitul muzeu și măreția arhitecturală a clădirii La Grande Vapeur, înainte de a porni la drum.\n\nO scurtă călătorie vă duce la uimitorul Lac Genin, cunoscut drept Mica Canada, oferind o schimbare dramatică de la istoria industrială la frumusețea alpină.\n\nContinuați-vă călătoria prin peisajele frumoase din Haut-Bugey până la Lac de Viry, o bijuterie ascunsă perfectă pentru o oprire liniștită după-amiaza.\n\nPe măsură ce ziua se încheie, conduceți spre Lac de Coiselet, unde stâncile impunătoare și apele vaste creează un fundal cu adevărat spectaculos.",
+        "en": "Start your driving itinerary in the heart of Oyonnax, exploring the renowned museum and the architectural grandeur of La Grande Vapeur before hitting the open road.\n\nA scenic drive takes you to the stunning Lac Genin, affectionately known as Little Canada, offering a dramatic shift from industrial history to raw alpine beauty.\n\nContinue your road trip through the beautiful Haut-Bugey landscapes to Lac de Viry, a hidden gem perfectly suited for a quiet, contemplative afternoon stop.\n\nAs the day winds down, drive to the expansive Lac de Coiselet, where the towering cliffs and vast waters create a truly spectacular backdrop for the evening."
+      }
+    }
+  }
+}

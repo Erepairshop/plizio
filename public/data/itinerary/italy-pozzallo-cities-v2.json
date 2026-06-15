@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-pozzallo-cities-v2",
+  "anchor": {
+    "name": "Pozzallo",
+    "coords": [
+      14.84658,
+      36.72653
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento ai Caduti del Mare",
+            "hu": "Monumento ai Caduti del Mare",
+            "ro": "Monumento ai Caduti del Mare",
+            "en": "Monumento ai Caduti del Mare"
+          },
+          "coords": [
+            14.83802,
+            36.722581
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ergreifende Denkmal für gefallene Seeleute, das Pozzallos maritimes Erbe widerspiegelt, idealerweise früh am Morgen, wenn das Licht weicher ist.",
+            "hu": "Csodálja meg az elesett tengerészek megható tengerparti emlékművét, amely Pozzallo tengeri örökségét tükrözi, a legjobb kora reggel meglátogatni a szép fényviszonyok miatt.",
+            "ro": "Admirați acest monument emoționant dedicat marinarilor căzuți, care reflectă moștenirea maritimă a orașului Pozzallo, ideal de vizitat dimineața pentru o lumină blândă.",
+            "en": "Admire this poignant seaside memorial dedicated to fallen sailors, reflecting Pozzallo's deep maritime heritage, best visited early when the light softens the bronze."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Lungomare Raganzino",
+            "hu": "Anfiteatro Lungomare Raganzino",
+            "ro": "Anfiteatro Lungomare Raganzino",
+            "en": "Anfiteatro Lungomare Raganzino"
+          },
+          "coords": [
+            14.842814,
+            36.7236
+          ],
+          "category": "cultural",
+          "arrive_at": "09:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses Amphitheater, das Sommerveranstaltungen vor einer atemberaubenden Meereskulisse beherbergt, und genießen Sie die Brise auf den warmen Stufen.",
+            "hu": "Sétáljon végig ezen a szabadtéri amfiteátrumon, amely nyári eseményeknek ad otthont a tenger lenyűgöző hátterével, és pihenjen meg a naptól melegedett kőlépcsőkön.",
+            "ro": "Plimbați-vă prin acest amfiteatru în aer liber ce găzduiește evenimente de vară, cu marea pe fundal, și luați un moment să vă așezați pe treptele încălzite de soare.",
+            "en": "Stroll through this open-air amphitheater that hosts summer events against a stunning sea backdrop, taking a moment to sit on the sun-warmed steps to enjoy the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni",
+            "hu": "San Giovanni",
+            "ro": "San Giovanni",
+            "en": "San Giovanni"
+          },
+          "coords": [
+            14.839837,
+            36.726046
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Kirche mit klassischer sizilianischer Architektur, die eine ruhige Zuflucht vor der Sonne bietet, aber kleiden Sie sich angemessen.",
+            "hu": "Lépjen be ebbe a békés helyi templomba, amely a klasszikus szicíliai építészetet képviseli, és nyugalmat kínál, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Pășiți în această biserică liniștită, cu o arhitectură clasică siciliană, oferind un refugiu departe de soare, dar amintiți-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Step into this peaceful local church featuring classic Sicilian architecture, offering a quiet respite from the sun, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna del Rosario",
+            "hu": "Madonna del Rosario",
+            "ro": "Madonna del Rosario",
+            "en": "Madonna del Rosario"
+          },
+          "coords": [
+            14.845091,
+            36.727731
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante Heiligtum, das für seine kunstvollen Altarbilder bekannt ist, und kommen Sie kurz vor Mittag, um die belebtesten Gottesdienste zu meiden.",
+            "hu": "Látogasson el ebbe a bájos szentélybe, amely bonyolult oltárképeiről ismert, és érkezzen röviddel dél előtt, hogy elkerülje a legforgalmasabb istentiszteleti órákat.",
+            "ro": "Vizitați acest sanctuar religios fermecător, cunoscut pentru altarele sale complicate, sosind puțin înainte de prânz pentru a evita orele aglomerate de slujbă.",
+            "en": "Visit this charming religious sanctuary known for its intricate altarpieces and devoted local following, arriving slightly before midday to avoid the busiest service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pandolfi",
+            "hu": "Palazzo Pandolfi",
+            "ro": "Palazzo Pandolfi",
+            "en": "Palazzo Pandolfi"
+          },
+          "coords": [
+            14.848022,
+            36.727206
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Aristokratenpalast, der die Geschichte von Pozzallos wohlhabender Vergangenheit erzählt, und achten Sie auf die wunderschönen Fassaden.",
+            "hu": "Fedezze fel ezt a történelmi arisztokrata palotát, amely Pozzallo gazdag múltjáról mesél, és feltétlenül vegye szemügyre a gyönyörűen megőrzött homlokzatokat.",
+            "ro": "Explorați acest palat aristocratic istoric care spune povestea trecutului bogat al orașului, asigurându-vă că observați fațadele frumos conservate de la exterior.",
+            "en": "Explore this historic aristocratic palace that tells the story of Pozzallo's wealthy past, making sure to notice the beautifully preserved facades before exploring inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santa Maria di Portosalvo",
+            "hu": "Parrocchia Santa Maria di Portosalvo",
+            "ro": "Parrocchia Santa Maria di Portosalvo",
+            "en": "Parrocchia Santa Maria di Portosalvo"
+          },
+          "coords": [
+            14.849075,
+            36.728079
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese wichtige Pfarrkirche, wo maritime Traditionen auf starken lokalen Glauben treffen, und prüfen Sie den Zeitplan für eine der stimmungsvollen Abendmessen.",
+            "hu": "Fedezze fel ezt a fontos plébániatemplomot, ahol a tengeri hagyományok találkoznak a helyi hittel, és nézze meg a menetrendet egy hangulatos esti mise meglátogatásához.",
+            "ro": "Descoperiți această importantă biserică parohială, unde tradițiile maritime se întâlnesc cu credința, verificând programul pentru a prinde o slujbă de seară atmosferică.",
+            "en": "Discover this vital central parish church where maritime traditions meet strong local faith, checking the schedule outside to catch one of the atmospheric evening masses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt an der lebhaften Küste von Raganzino, wo Denkmäler und alte Echos sich mit der Meeresbrise vermischen. Bis zum Mittag schlendern Sie ins Herz der Stadt und entdecken friedliche Kirchen und schattige Plätze. Der Nachmittag ist Pozzallos reicher Geschichte gewidmet, wenn Sie den eleganten Palazzo Pandolfi erkunden. Schließlich bricht der Abend rund um Santa Maria di Portosalvo an, wo sich Einheimische unter dem warmen Himmel treffen.",
+        "hu": "A reggel a nyüzsgő Raganzino part mentén kezdődik, ahol az emlékművek és a tengeri szellő finoman keveredik. Délre a város szívébe sétál, ahol békés templomokat és árnyékos tereket fedezhet fel. A délután Pozzallo gazdag történelmének van szentelve, miközben az elegáns Palazzo Pandolfi épületét járja be. Végül az este a gyönyörű Santa Maria di Portosalvo körül érkezik el, ahol a helyiek gyülekeznek a meleg szicíliai égbolt alatt.",
+        "ro": "Dimineața începe de-a lungul coastei vibrante Raganzino, unde monumentele se împletesc cu briza mării. La amiază, veți rătăci în inima orașului, descoperind biserici pașnice și piețe umbrite. După-amiaza este dedicată istoriei bogate a orașului Pozzallo, pe măsură ce explorați elegantul Palazzo Pandolfi. În cele din urmă, seara se lasă în jurul frumoasei Santa Maria di Portosalvo, unde localnicii se adună sub cerul cald sicilian.",
+        "en": "Your morning begins along the vibrant Raganzino coastline, where monuments and ancient echoes mingle with the sea breeze. By midday, you'll wander into the town's heart, uncovering peaceful churches and shaded squares that invite quiet reflection. The afternoon is dedicated to Pozzallo's rich history as you explore the elegant Palazzo Pandolfi. Finally, the evening settles around the beautiful Santa Maria di Portosalvo, where locals gather under the warm Sicilian sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Raganzino",
+            "hu": "Spiaggia Raganzino",
+            "ro": "Spiaggia Raganzino",
+            "en": "Spiaggia Raganzino"
+          },
+          "coords": [
+            14.83489,
+            36.721642
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit flachem Wasser und lebhaften Strandbars, ideal für ein morgendliches Bad, bevor der Nachmittagswind auffrischt.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, amelyet sekély víz és nyüzsgő bárok jellemeznek, tökéletes egy reggeli úszáshoz, mielőtt a délutáni szelek felerősödnének.",
+            "ro": "Relaxați-vă pe această plajă cu nisip și ape puțin adânci, plină de baruri animate, perfectă pentru o baie de dimineață înainte ca vânturile de după-amiază să se întețească.",
+            "en": "Relax on this expansive sandy beach characterized by shallow, child-friendly waters and lively beach bars, perfect for a morning swim before the afternoon winds pick up."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni",
+            "hu": "San Giovanni",
+            "ro": "San Giovanni",
+            "en": "San Giovanni"
+          },
+          "coords": [
+            14.839837,
+            36.726046
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese friedliche Kirche mit klassischer sizilianischer Architektur, die eine ruhige Zuflucht vor der Sonne bietet, aber kleiden Sie sich angemessen.",
+            "hu": "Lépjen be ebbe a békés helyi templomba, amely a klasszikus szicíliai építészetet képviseli, és nyugalmat kínál, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Pășiți în această biserică liniștită, cu o arhitectură clasică siciliană, oferind un refugiu departe de soare, dar amintiți-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Step into this peaceful local church featuring classic Sicilian architecture, offering a quiet respite from the sun, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pandolfi",
+            "hu": "Palazzo Pandolfi",
+            "ro": "Palazzo Pandolfi",
+            "en": "Palazzo Pandolfi"
+          },
+          "coords": [
+            14.848022,
+            36.727206
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Aristokratenpalast, der die Geschichte von Pozzallos wohlhabender Vergangenheit erzählt, und achten Sie auf die wunderschönen Fassaden.",
+            "hu": "Fedezze fel ezt a történelmi arisztokrata palotát, amely Pozzallo gazdag múltjáról mesél, és feltétlenül vegye szemügyre a gyönyörűen megőrzött homlokzatokat.",
+            "ro": "Explorați acest palat aristocratic istoric care spune povestea trecutului bogat al orașului, asigurându-vă că observați fațadele frumos conservate de la exterior.",
+            "en": "Explore this historic aristocratic palace that tells the story of Pozzallo's wealthy past, making sure to notice the beautifully preserved facades before exploring inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santa Maria di Portosalvo",
+            "hu": "Parrocchia Santa Maria di Portosalvo",
+            "ro": "Parrocchia Santa Maria di Portosalvo",
+            "en": "Parrocchia Santa Maria di Portosalvo"
+          },
+          "coords": [
+            14.849075,
+            36.728079
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese wichtige Pfarrkirche, wo maritime Traditionen auf starken lokalen Glauben treffen, und prüfen Sie den Zeitplan für eine der stimmungsvollen Abendmessen.",
+            "hu": "Fedezze fel ezt a fontos plébániatemplomot, ahol a tengeri hagyományok találkoznak a helyi hittel, és nézze meg a menetrendet egy hangulatos esti mise meglátogatásához.",
+            "ro": "Descoperiți această importantă biserică parohială, unde tradițiile maritime se întâlnesc cu credința, verificând programul pentru a prinde o slujbă de seară atmosferică.",
+            "en": "Discover this vital central parish church where maritime traditions meet strong local faith, checking the schedule outside to catch one of the atmospheric evening masses."
+          }
+        },
+        {
+          "name": {
+            "de": "San Paolo",
+            "hu": "San Paolo",
+            "ro": "San Paolo",
+            "en": "San Paolo"
+          },
+          "coords": [
+            14.845946,
+            36.731336
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser modernen, einladenden Kirche im Landesinneren und nehmen Sie sich Zeit, die klaren Linien ihrer zeitgenössischen Architektur in Ruhe zu bewundern.",
+            "hu": "Álljon meg ennél a kicsit beljebb található modern, de hívogató templomnál, és szánjon időt a kortárs építészet tiszta vonalainak megcsodálására egy csendes pillanatban.",
+            "ro": "Faceți o pauză la această biserică modernă și primitoare, situată puțin mai în interior, admirând liniile curate ale arhitecturii sale contemporane într-un moment liniștit.",
+            "en": "Pause at this modern yet inviting church situated a bit further inland, taking time to admire the clean lines of its contemporary architecture during a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietre Nere",
+            "hu": "Pietre Nere",
+            "ro": "Pietre Nere",
+            "en": "Pietre Nere"
+          },
+          "coords": [
+            14.853648,
+            36.728844
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Küstenabschnitt, der für seine dunklen Felsen bekannt ist, und bringen Sie eine leichte Jacke mit, da die Meeresbrise abkühlt.",
+            "hu": "Sétáljon végig ezen a festői partszakaszon, amely sötét sziklaképződményeiről híres, és hozzon magával egy könnyű kabátot, mivel a tengeri szellő gyorsan lehűti a levegőt.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste pitorești, renumită pentru rocile sale întunecate, și luați o jachetă ușoară, deoarece briza mării răcește zona seara.",
+            "en": "Walk along this scenic coastal stretch famous for its dark rock formations and vibrant evening promenade, bringing a light jacket as the sea breeze cools down the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro della Musica Augusto Daolio",
+            "hu": "Teatro della Musica Augusto Daolio",
+            "ro": "Teatro della Musica Augusto Daolio",
+            "en": "Teatro della Musica Augusto Daolio"
+          },
+          "coords": [
+            14.85538,
+            36.729732
+          ],
+          "category": "cultural",
+          "arrive_at": "14:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kulturelle Pause in diesem lokalen Musiktheater, das der italienischen Kunst gewidmet ist, und prüfen Sie die Plakate auf kostenlose Aufführungen.",
+            "hu": "Élvezze a kulturális közjátékot ebben a helyi zenés színházban, amely az olasz művészetnek szentelt, és nézze meg a hirdetőtáblát az ingyenes közösségi előadásokért.",
+            "ro": "Bucurați-vă de un interludiu cultural la acest teatru muzical local dedicat artei italiene, verificând panoul pentru eventuale spectacole comunitare gratuite.",
+            "en": "Enjoy a cultural interlude at this local music theater dedicated to Italian artistry, checking the local billboard for any free community performances during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit den sanften Morgenwellen an der Spiaggia Raganzino und genießen Sie die Energie der Küste. Wenn es wärmer wird, radeln Sie in Richtung Zentrum, um klassische Kirchen und historische Paläste zu bewundern. Nach dem Mittagessen führt Sie die Route leicht ins Landesinnere, um moderne Heiligtümer zu entdecken. Beenden Sie Ihre Fahrt bei Pietre Nere und dem Musiktheater, wo Sie den Sonnenuntergang erleben.",
+        "hu": "Kezdje kerékpáros kalandját a lágy reggeli hullámokkal a Spiaggia Raganzino-n, magába szívva a parti energiákat. Ahogy a nap melegszik, tekerjen a központ felé, hogy megcsodálja a klasszikus vallási építészetet és a palotákat. Ebéd után az útvonal kissé beljebb visz, hogy felfedezzen egy modern szentélyt a hagyományos utcák között. Fejezze be útját a Pietre Nere és a helyi zenés színház környékén, megörökítve a naplemente élénk színeit.",
+        "ro": "Începeți aventura cu bicicleta cu valurile blânde ale dimineții la Spiaggia Raganzino, bucurându-vă de energia coastei. Pe măsură ce ziua se încălzește, pedalați spre centru pentru a admira arhitectura clasică și palatele. După prânz, traseul vă poartă ușor spre interior pentru a descoperi sanctuare moderne ascunse printre străzile tradiționale. Încheiați cursa la Pietre Nere și la teatrul muzical, admirând culorile apusului peste apă.",
+        "en": "Start your cycling adventure with the gentle morning waves at Spiaggia Raganzino, soaking in the early coastal energy. As the day warms, pedal gently towards the center to admire classic religious architecture and historic palaces. After lunch, the route takes you slightly inland to discover modern sanctuaries nestled among traditional streets. Conclude your ride at Pietre Nere and the local music theater, catching the vibrant sunset colors over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 7.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Moretta",
+            "hu": "Lido Moretta",
+            "ro": "Lido Moretta",
+            "en": "Lido Moretta"
+          },
+          "coords": [
+            14.812242,
+            36.716471
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gut ausgestatteten Strandclub mit bequemen Liegen und kühlen Getränken; kommen Sie früh, um einen erstklassigen Platz direkt am Wasser zu sichern.",
+            "hu": "Kapcsolódjon ki ebben a jól felszerelt strandklubban, amely kényelmes nyugágyakat és frissítő italokat kínál, és érkezzen korán, hogy biztosítsa a legjobb helyet a víznél.",
+            "ro": "Relaxați-vă la acest club de plajă bine dotat, cu șezlonguri confortabile și băuturi răcoritoare, ajungând devreme pentru a prinde un loc excelent chiar la marginea apei.",
+            "en": "Unwind at this well-equipped beach club offering comfortable loungers and refreshing drinks, arriving early to secure a prime spot right by the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Carizza",
+            "hu": "Carizza",
+            "ro": "Carizza",
+            "en": "Carizza"
+          },
+          "coords": [
+            14.817142,
+            36.717234
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigeren, von Einheimischen bevorzugten Erholungsort mit entspannter Atmosphäre und bringen Sie eigene Snacks mit, da die Annehmlichkeiten rustikal sind.",
+            "hu": "Fedezze fel ezt a helyiek által kedvelt csendesebb rekreációs helyet, amely laza légköréről ismert, és hozzon saját harapnivalót, mivel a szolgáltatások korlátozottak.",
+            "ro": "Descoperiți acest loc de agrement mai liniștit, preferat de localnici pentru atmosfera sa relaxată, aducând propriile gustări, deoarece facilitățile de aici sunt limitate.",
+            "en": "Discover this quieter recreational spot favored by locals for its relaxed atmosphere, bringing your own snacks as amenities here are charmingly rustic and limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Raganzino",
+            "hu": "Spiaggia Raganzino",
+            "ro": "Spiaggia Raganzino",
+            "en": "Spiaggia Raganzino"
+          },
+          "coords": [
+            14.83489,
+            36.721642
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit flachem Wasser und lebhaften Strandbars, ideal für ein morgendliches Bad, bevor der Nachmittagswind auffrischt.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, amelyet sekély víz és nyüzsgő bárok jellemeznek, tökéletes egy reggeli úszáshoz, mielőtt a délutáni szelek felerősödnének.",
+            "ro": "Relaxați-vă pe această plajă cu nisip și ape puțin adânci, plină de baruri animate, perfectă pentru o baie de dimineață înainte ca vânturile de după-amiază să se întețească.",
+            "en": "Relax on this expansive sandy beach characterized by shallow, child-friendly waters and lively beach bars, perfect for a morning swim before the afternoon winds pick up."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti del Mare",
+            "hu": "Monumento ai Caduti del Mare",
+            "ro": "Monumento ai Caduti del Mare",
+            "en": "Monumento ai Caduti del Mare"
+          },
+          "coords": [
+            14.83802,
+            36.722581
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ergreifende Denkmal für gefallene Seeleute, das Pozzallos maritimes Erbe widerspiegelt, idealerweise früh am Morgen, wenn das Licht weicher ist.",
+            "hu": "Csodálja meg az elesett tengerészek megható tengerparti emlékművét, amely Pozzallo tengeri örökségét tükrözi, a legjobb kora reggel meglátogatni a szép fényviszonyok miatt.",
+            "ro": "Admirați acest monument emoționant dedicat marinarilor căzuți, care reflectă moștenirea maritimă a orașului Pozzallo, ideal de vizitat dimineața pentru o lumină blândă.",
+            "en": "Admire this poignant seaside memorial dedicated to fallen sailors, reflecting Pozzallo's deep maritime heritage, best visited early when the light softens the bronze."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pandolfi",
+            "hu": "Palazzo Pandolfi",
+            "ro": "Palazzo Pandolfi",
+            "en": "Palazzo Pandolfi"
+          },
+          "coords": [
+            14.848022,
+            36.727206
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Aristokratenpalast, der die Geschichte von Pozzallos wohlhabender Vergangenheit erzählt, und achten Sie auf die wunderschönen Fassaden.",
+            "hu": "Fedezze fel ezt a történelmi arisztokrata palotát, amely Pozzallo gazdag múltjáról mesél, és feltétlenül vegye szemügyre a gyönyörűen megőrzött homlokzatokat.",
+            "ro": "Explorați acest palat aristocratic istoric care spune povestea trecutului bogat al orașului, asigurându-vă că observați fațadele frumos conservate de la exterior.",
+            "en": "Explore this historic aristocratic palace that tells the story of Pozzallo's wealthy past, making sure to notice the beautifully preserved facades before exploring inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santa Maria di Portosalvo",
+            "hu": "Parrocchia Santa Maria di Portosalvo",
+            "ro": "Parrocchia Santa Maria di Portosalvo",
+            "en": "Parrocchia Santa Maria di Portosalvo"
+          },
+          "coords": [
+            14.849075,
+            36.728079
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese wichtige Pfarrkirche, wo maritime Traditionen auf starken lokalen Glauben treffen, und prüfen Sie den Zeitplan für eine der stimmungsvollen Abendmessen.",
+            "hu": "Fedezze fel ezt a fontos plébániatemplomot, ahol a tengeri hagyományok találkoznak a helyi hittel, és nézze meg a menetrendet egy hangulatos esti mise meglátogatásához.",
+            "ro": "Descoperiți această importantă biserică parohială, unde tradițiile maritime se întâlnesc cu credința, verificând programul pentru a prinde o slujbă de seară atmosferică.",
+            "en": "Discover this vital central parish church where maritime traditions meet strong local faith, checking the schedule outside to catch one of the atmospheric evening masses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietre Nere",
+            "hu": "Pietre Nere",
+            "ro": "Pietre Nere",
+            "en": "Pietre Nere"
+          },
+          "coords": [
+            14.853648,
+            36.728844
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Küstenabschnitt, der für seine dunklen Felsen bekannt ist, und bringen Sie eine leichte Jacke mit, da die Meeresbrise abkühlt.",
+            "hu": "Sétáljon végig ezen a festői partszakaszon, amely sötét sziklaképződményeiről híres, és hozzon magával egy könnyű kabátot, mivel a tengeri szellő gyorsan lehűti a levegőt.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste pitorești, renumită pentru rocile sale întunecate, și luați o jachetă ușoară, deoarece briza mării răcește zona seara.",
+            "en": "Walk along this scenic coastal stretch famous for its dark rock formations and vibrant evening promenade, bringing a light jacket as the sea breeze cools down the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Pool at Kikki-Village",
+            "hu": "Pool at Kikki-Village",
+            "ro": "Pool at Kikki-Village",
+            "en": "Pool at Kikki-Village"
+          },
+          "coords": [
+            14.850193,
+            36.755736
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem weitläufigen Resort-Pool ab, der Tagesgäste mit hervorragenden Einrichtungen empfängt, und packen Sie ein zusätzliches Handtuch zum Entspannen ein.",
+            "hu": "Hűsöljön ebben a tágas üdülőmedencében, amely kiváló felszereltséggel várja a nappali látogatókat, és csomagoljon egy extra törölközőt a kényelmes délutáni pihenéshez.",
+            "ro": "Răcoriți-vă în această piscină mare a complexului, care primește vizitatori de o zi cu facilități excelente, împachetând un prosop suplimentar pentru o după-amiază de relaxare.",
+            "en": "Cool off in this expansive resort pool that welcomes day visitors with excellent facilities, packing an extra towel for a comfortable afternoon lounging by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am äußersten westlichen Rand von Pozzallo und genießen Sie den Sand von Lido Moretta und Carizza. Mittags gelangen Sie ins Stadtzentrum und wechseln mühelos zwischen den historischen Denkmälern und dem Palazzo Pandolfi. Am Nachmittag erkunden Sie die Kirchen und die markanten Felsen von Pietre Nere. Die Reise endet perfekt mit einem entspannenden Bad am Abend im luxuriösen Kikki-Village-Poolkomplex.",
+        "hu": "Kezdje autós utazását Pozzallo nyugati peremén, élvezve a Lido Moretta és Carizza érintetlen homokját. A dél közeledtével a városközpontba érkezik, ahol történelmi műemlékek és az elegáns Palazzo Pandolfi várják. Délután fedezze fel a központi templomokat és a Pietre Nere sötét, lenyűgöző szikláit a part mentén. Az utazás egy pihentető esti fürdőzéssel zárul a fényűző Kikki-Village medencekomplexumában.",
+        "ro": "Începeți călătoria la marginile vestice ale orașului Pozzallo, bucurându-vă de nisipurile imaculate de la Lido Moretta și Carizza. Amiaza vă aduce în centrul orașului, trecând cu ușurință între monumentele istorice și Palazzo Pandolfi. După-amiaza, explorați bisericile centrale și rocile întunecate și izbitoare de la Pietre Nere. Călătoria se încheie perfect cu o baie de seară relaxantă în complexul luxos de piscine Kikki-Village.",
+        "en": "Kick off your road trip at the far western edges of Pozzallo, enjoying the pristine sands of Lido Moretta and Carizza. Midday brings you into the town center, effortlessly hopping between the historical monuments and the elegant Palazzo Pandolfi. In the afternoon, explore the central churches and the dark, striking rocks of Pietre Nere along the coast. The journey finishes perfectly with a relaxing evening dip at the luxurious Kikki-Village pool complex."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "sainte-marie-aux-mines",
+  "anchor": {
+    "name": "Sainte-Marie-aux-Mines",
+    "coords": [
+      7.1839,
+      48.2467
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:18",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Temple Réformé",
+            "hu": "Református Templom",
+            "ro": "Templul Reformat",
+            "en": "Temple Réformé"
+          },
+          "coords": [
+            7.185035,
+            48.245401
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieses reformierten Tempels, der für die religiöse Vielfalt der Stadt steht, und nutzen Sie das Morgenlicht für Fotos.",
+            "hu": "Csodálja meg a református templom visszafogott eleganciáját, amely a város vallási sokszínűségét jelképezi, és látogasson el ide a reggeli fényekben a legjobb fotókért.",
+            "ro": "Admirați eleganța sobră a acestui templu reformat, simbol al diversității religioase a orașului, și vizitați-l în lumina dimineții pentru fotografii optime.",
+            "en": "Admire the sober elegance of this reformed temple, a symbol of the city's religious diversity, and try visiting during morning light for best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Madeleine",
+            "hu": "Sainte-Madeleine kápolna",
+            "ro": "Capela Sainte-Madeleine",
+            "en": "Chapelle Sainte-Madeleine"
+          },
+          "coords": [
+            7.181791,
+            48.247367
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante historische Kapelle im Tal, die das lokale spirituelle Erbe widerspiegelt, und prüfen Sie den Aushang auf kleine Konzerte.",
+            "hu": "Fedezze fel ezt a völgyben megbúvó bájos történelmi kápolnát, a helyi szellemi örökség részét, és keresse a hirdetőtáblán a kisebb koncertek időpontjait.",
+            "ro": "Descoperiți această capelă istorică fermecătoare ascunsă în vale, reflectând moștenirea spirituală locală, și verificați avizierul pentru mici concerte ocazionale.",
+            "en": "Discover this charming historic chapel nestled in the valley, reflecting local spiritual heritage, and check the notice board for occasional small concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Église des Chaînes",
+            "hu": "Láncok temploma",
+            "ro": "Biserica Lanțurilor",
+            "en": "Église des Chaînes"
+          },
+          "coords": [
+            7.183242,
+            48.24405
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche der Ketten mit ihren einzigartigen architektonischen Details aus der Bergbauzeit und achten Sie auf die Schmiedearbeiten am Eingang.",
+            "hu": "Fedezze fel a Láncok templomát, amelynek egyedi építészeti részletei a bányászati kort idézik, és figyelje meg az aprólékos kovácsmunkákat a bejárat közelében.",
+            "ro": "Explorați Biserica Lanțurilor cu detaliile sale arhitecturale unice din epoca minieră și priviți cu atenție feroneria elaborată de lângă intrarea principală.",
+            "en": "Explore the Church of the Chains with its unique architectural details highlighting the mining era, and look closely at the ironworks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Municipal",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "Théâtre Municipal"
+          },
+          "coords": [
+            7.180421,
+            48.243527
+          ],
+          "category": "cultural",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die italienische Architektur dieses städtischen Theaters, das seit dem 19. Jahrhundert ein kulturelles Zentrum ist, und holen Sie sich ein Programm.",
+            "hu": "Csodálja meg ennek a 19. század óta kulturális központként működő, olaszos stílusú színháznak az építészetét, és kérjen egy műsorfüzetet az előcsarnokban.",
+            "ro": "Minunați-vă de arhitectura în stil italian a acestui teatru municipal, un centru cultural din secolul al XIX-lea, și luați un program cu viitoarele spectacole.",
+            "en": "Marvel at the Italian-style architecture of this municipal theatre, a cultural hub since the 19th century, and grab a program to see upcoming performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Saint-Louis templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            7.181425,
+            48.241837
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie die grandiose Kirche Saint-Louis, um ihre beeindruckenden Buntglasfenster zu bewundern, und bringen Sie ein Weitwinkelobjektiv für den Innenraum mit.",
+            "hu": "Lépjen be a grandiózus Saint-Louis templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, és hozzon magával nagylátószögű objektívet a belső tér fotózásához.",
+            "ro": "Pășiți în grandioasa Biserică Saint-Louis pentru a admira vitraliile sale impresionante și folosiți un obiectiv cu unghi larg pentru a surprinde spațiul vast.",
+            "en": "Step into the grandiose Saint-Louis Church to appreciate its impressive stained glass windows, and bring a wide-angle lens to capture the vast interior space."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Beginnen Sie Ihren Spaziergang im Herzen der Stadt am Temple Réformé und erkunden Sie das protestantische Erbe. (Mid) Schlendern Sie durch die Straßen zur Chapelle Sainte-Madeleine und zur Église des Chaînes. (Aft) Widmen Sie Ihren Nachmittag dem Théâtre Municipal und seiner italienischen Architektur. (Eve) Beenden Sie Ihren Tag mit einem friedlichen Besuch der grandiosen Église Saint-Louis, während die Sonne untergeht.",
+        "hu": "(M) Kezdje gyalogtúráját a város szívében a Református Templomnál, felfedezve a helyi protestáns örökséget. (Mid) Sétáljon végig a hangulatos utcákon a Sainte-Madeleine kápolnához és a Láncok templomához. (Aft) Szánja a délutánt a Városi Színháznak, megcsodálva annak olaszos építészetét. (Eve) Zárja a napot a grandiózus Saint-Louis templom békés meglátogatásával, miközben a nap lemenőben van.",
+        "ro": "(M) Începeți turul pietonal în inima orașului la Templul Reformat, explorând moștenirea protestantă locală. (Mid) Plimbați-vă pe străzile fermecătoare spre Capela Sainte-Madeleine și Biserica Lanțurilor. (Aft) Dedicați-vă după-amiaza Teatrului Municipal, admirând arhitectura sa italiană. (Eve) Încheiați-vă ziua cu o vizită liniștită la grandioasa Biserică Saint-Louis, în timp ce soarele apune peste vale.",
+        "en": "(M) Begin your walking tour in the heart of the city at the Temple Réformé, exploring the local Protestant heritage. (Mid) Stroll through the charming streets to the Chapelle Sainte-Madeleine and Église des Chaînes, taking in the historical vibe. (Aft) Dedicate your afternoon to the Théâtre Municipal, marveling at its Italian architecture. (Eve) Conclude your day with a peaceful visit to the grandiose Église Saint-Louis as the sun sets over the valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:03",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Luthérienne",
+            "hu": "Evangélikus kápolna",
+            "ro": "Capela Luterană",
+            "en": "Chapelle Luthérienne"
+          },
+          "coords": [
+            7.200323,
+            48.246947
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser historischen lutherischen Kapelle mit ihren tiefen protestantischen Wurzeln und schließen Sie Ihr Rad sicher am Ständer an.",
+            "hu": "Kezdje a kerékpártúrát ennél a történelmi evangélikus kápolnánál, amely a régió protestáns gyökereit őrzi, és zárja le biztonságosan a kerékpárját a tárolónál.",
+            "ro": "Începeți turul cu bicicleta la această capelă luterană istorică ce reprezintă rădăcinile protestante ale regiunii și asigurați-vă bicicleta la suportul alăturat.",
+            "en": "Start your bike tour at this historic Lutheran chapel representing the deep Protestant roots of the region, and lock your bike securely at the adjacent rack."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple Réformé",
+            "hu": "Református Templom",
+            "ro": "Templul Reformat",
+            "en": "Temple Réformé"
+          },
+          "coords": [
+            7.185035,
+            48.245401
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieses reformierten Tempels, der für die religiöse Vielfalt der Stadt steht, und nutzen Sie das Morgenlicht für Fotos.",
+            "hu": "Csodálja meg a református templom visszafogott eleganciáját, amely a város vallási sokszínűségét jelképezi, és látogasson el ide a reggeli fényekben a legjobb fotókért.",
+            "ro": "Admirați eleganța sobră a acestui templu reformat, simbol al diversității religioase a orașului, și vizitați-l în lumina dimineții pentru fotografii optime.",
+            "en": "Admire the sober elegance of this reformed temple, a symbol of the city's religious diversity, and try visiting during morning light for best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Saint-Louis templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            7.181425,
+            48.241837
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die grandiose Kirche Saint-Louis, um ihre beeindruckenden Buntglasfenster zu bewundern, und bringen Sie ein Weitwinkelobjektiv für den Innenraum mit.",
+            "hu": "Lépjen be a grandiózus Saint-Louis templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, és hozzon magával nagylátószögű objektívet a belső tér fotózásához.",
+            "ro": "Pășiți în grandioasa Biserică Saint-Louis pentru a admira vitraliile sale impresionante și folosiți un obiectiv cu unghi larg pentru a surprinde spațiul vast.",
+            "en": "Step into the grandiose Saint-Louis Church to appreciate its impressive stained glass windows, and bring a wide-angle lens to capture the vast interior space."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Mineurs",
+            "hu": "Bányászok Tornya",
+            "ro": "Turnul Minerilor",
+            "en": "Tour des Mineurs"
+          },
+          "coords": [
+            7.16201,
+            48.2312
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Bergbauturm in die reiche Bergbaugeschichte der Region ein und nehmen Sie an einer Führung teil, um die mittelalterliche Silbergewinnung zu verstehen.",
+            "hu": "Merüljön el a régió gazdag bányászati történelmében a Bányászok Tornyában, és vegyen részt egy vezetésen, hogy megértse a középkori ezüstkitermelés rejtelmeit.",
+            "ro": "Cufundați-vă în istoria minieră a regiunii la Turnul Minerilor și faceți un tur ghidat pentru a înțelege pe deplin tehnicile medievale de extracție a argintului.",
+            "en": "Immerse yourself in the region's rich mining history at the Miners' Tower, taking a guided tour to fully understand the medieval silver extraction techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-sur-l'Hâte",
+            "hu": "Saint-Pierre-sur-l'Hâte templom",
+            "ro": "Biserica Saint-Pierre-sur-l'Hâte",
+            "en": "Église Saint-Pierre-sur-l'Hâte"
+          },
+          "coords": [
+            7.169887,
+            48.22747
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Kirche, die über Jahrhunderte von mehreren Konfessionen geteilt wurde, und genießen Sie die friedliche Atmosphäre auf dem Friedhof.",
+            "hu": "Látogasson el ebbe az ősi templomba, amelyet évszázadokon át több felekezet használt közösen, és élvezze a békés hangulatot a környező régi temetőben.",
+            "ro": "Vizitați această biserică veche, împărțită în mod unic de mai multe confesiuni de-a lungul secolelor, și bucurați-vă de atmosfera pașnică din cimitirul înconjurător.",
+            "en": "Visit this ancient church uniquely shared by multiple denominations over centuries, and take a moment to enjoy the peaceful atmosphere in its surrounding graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Starten Sie Ihr Radabenteuer an der Chapelle Luthérienne und spüren Sie die spirituelle Geschichte der Region. (Mid) Radeln Sie durchs Zentrum zum Temple Réformé und zur Église Saint-Louis. (Aft) Folgen Sie den Bergbaupfaden zum Tour des Mineurs und erkunden Sie die Silberminen. (Eve) Beenden Sie Ihre Fahrt an der einzigartigen Église Saint-Pierre-sur-l'Hâte in friedlicher historischer Umgebung.",
+        "hu": "(M) Kezdje kerékpáros kalandját az evangélikus kápolnánál, ráhangolódva a régió szellemi történelmére. (Mid) Tekerjen át a központon a Református Templom és a Saint-Louis templom érintésével dél felé. (Aft) Kövesse a bányászati útvonalakat a Bányászok Tornyához, felfedezve az ősi ezüstbányákat. (Eve) Fejezze be útját a különleges Saint-Pierre-sur-l'Hâte templomnál, megpihenve a békés környezetben.",
+        "ro": "(M) Începeți aventura pe bicicletă la Capela Luterană, simțind istoria spirituală a regiunii. (Mid) Pedați prin centru vizitând Templul Reformat și Biserica Saint-Louis înainte de a merge spre sud. (Aft) Urmați traseele miniere către Turnul Minerilor, explorând vechile situri de extracție. (Eve) Terminați plimbarea la Biserica Saint-Pierre-sur-l'Hâte, odihnindu-vă în împrejurimile sale istorice și pașnice.",
+        "en": "(M) Start your cycling adventure at the Chapelle Luthérienne, getting a feel for the region's spiritual history. (Mid) Pedal through the center visiting the Temple Réformé and Église Saint-Louis before heading south. (Aft) Follow the mining trails to the Tour des Mineurs, exploring the ancient silver extraction sites. (Eve) Finish your ride at the unique Église Saint-Pierre-sur-l'Hâte, resting in its peaceful historical surroundings."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 8.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Blaise",
+            "hu": "Saint-Blaise kápolna",
+            "ro": "Capela Saint-Blaise",
+            "en": "Chapelle Saint-Blaise"
+          },
+          "coords": [
+            7.21881,
+            48.257562
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser abgelegenen Kapelle, die für ihre ruhige Lage in der Natur bekannt ist, und machen Sie einen kurzen Spaziergang am nahen Bach.",
+            "hu": "Autózzon el ehhez az eldugott kápolnához, amely a nyugodt természeti környezetéről ismert, és tegyen egy rövid sétát a közeli patak partján a teljes kikapcsolódásért.",
+            "ro": "Conduceți până la această capelă izolată, cunoscută pentru cadrul său natural liniștit, și faceți o scurtă plimbare de-a lungul pârâului din apropiere pentru relaxare.",
+            "en": "Drive out to this secluded chapel known for its tranquil natural setting, and take a short walk along the nearby stream to fully appreciate the peaceful environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Échéry",
+            "hu": "Échéry kastély",
+            "ro": "Castelul Échéry",
+            "en": "Château d'Échéry"
+          },
+          "coords": [
+            7.196405,
+            48.268501
+          ],
+          "category": "castle",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen der Burg Échéry, die einen Einblick in die Feudalgeschichte bieten, und tragen Sie feste Schuhe für den steinigen Aufstieg.",
+            "hu": "Fedezze fel az Échéry kastély hangulatos romjait, amelyek bepillantást engednek a hűbéri történelembe, és viseljen masszív cipőt a sziklás felvezető úthoz.",
+            "ro": "Explorați ruinele evocatoare ale Castelului Échéry, care oferă o privire în istoria feudală, și purtați încălțăminte rezistentă, deoarece poteca este stâncoasă.",
+            "en": "Explore the evocative ruins of the Échéry Castle offering a glimpse into feudal history, and wear sturdy shoes as the path up to the site can be uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Municipal",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "Théâtre Municipal"
+          },
+          "coords": [
+            7.180421,
+            48.243527
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die italienische Architektur dieses städtischen Theaters, das seit dem 19. Jahrhundert ein kulturelles Zentrum ist, und holen Sie sich ein Programm.",
+            "hu": "Csodálja meg ennek a 19. század óta kulturális központként működő, olaszos stílusú színháznak az építészetét, és kérjen egy műsorfüzetet az előcsarnokban.",
+            "ro": "Minunați-vă de arhitectura în stil italian a acestui teatru municipal, un centru cultural din secolul al XIX-lea, și luați un program cu viitoarele spectacole.",
+            "en": "Marvel at the Italian-style architecture of this municipal theatre, a cultural hub since the 19th century, and grab a program to see upcoming performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Église des Chaînes",
+            "hu": "Láncok temploma",
+            "ro": "Biserica Lanțurilor",
+            "en": "Église des Chaînes"
+          },
+          "coords": [
+            7.183242,
+            48.24405
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche der Ketten mit ihren einzigartigen architektonischen Details aus der Bergbauzeit und achten Sie auf die Schmiedearbeiten am Eingang.",
+            "hu": "Fedezze fel a Láncok templomát, amelynek egyedi építészeti részletei a bányászati kort idézik, és figyelje meg az aprólékos kovácsmunkákat a bejárat közelében.",
+            "ro": "Explorați Biserica Lanțurilor cu detaliile sale arhitecturale unice din epoca minieră și priviți cu atenție feroneria elaborată de lângă intrarea principală.",
+            "en": "Explore the Church of the Chains with its unique architectural details highlighting the mining era, and look closely at the ironworks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Mineurs",
+            "hu": "Bányászok Tornya",
+            "ro": "Turnul Minerilor",
+            "en": "Tour des Mineurs"
+          },
+          "coords": [
+            7.16201,
+            48.2312
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Bergbauturm in die reiche Bergbaugeschichte der Region ein und nehmen Sie an einer Führung teil, um die mittelalterliche Silbergewinnung zu verstehen.",
+            "hu": "Merüljön el a régió gazdag bányászati történelmében a Bányászok Tornyában, és vegyen részt egy vezetésen, hogy megértse a középkori ezüstkitermelés rejtelmeit.",
+            "ro": "Cufundați-vă în istoria minieră a regiunii la Turnul Minerilor și faceți un tur ghidat pentru a înțelege pe deplin tehnicile medievale de extracție a argintului.",
+            "en": "Immerse yourself in the region's rich mining history at the Miners' Tower, taking a guided tour to fully understand the medieval silver extraction techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-sur-l'Hâte",
+            "hu": "Saint-Pierre-sur-l'Hâte templom",
+            "ro": "Biserica Saint-Pierre-sur-l'Hâte",
+            "en": "Église Saint-Pierre-sur-l'Hâte"
+          },
+          "coords": [
+            7.169887,
+            48.22747
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Kirche, die über Jahrhunderte von mehreren Konfessionen geteilt wurde, und genießen Sie die friedliche Atmosphäre auf dem Friedhof.",
+            "hu": "Látogasson el ebbe az ősi templomba, amelyet évszázadokon át több felekezet használt közösen, és élvezze a békés hangulatot a környező régi temetőben.",
+            "ro": "Vizitați această biserică veche, împărțită în mod unic de mai multe confesiuni de-a lungul secolelor, și bucurați-vă de atmosfera pașnică din cimitirul înconjurător.",
+            "en": "Visit this ancient church uniquely shared by multiple denominations over centuries, and take a moment to enjoy the peaceful atmosphere in its surrounding graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Fahren Sie zur ruhigen Chapelle Saint-Blaise und weiter zu den Ruinen des Château d'Échéry. (Mid) Parken Sie im Zentrum, um das Théâtre Municipal und die Église des Chaînes zu Fuß zu erkunden. (Aft) Fahren Sie kurz zum Tour des Mineurs, um in die berühmte Silberbergbaugeschichte des Tals einzutauchen. (Eve) Beenden Sie Ihre Autotour an der historischen Église Saint-Pierre-sur-l'Hâte und genießen Sie die Abendruhe.",
+        "hu": "(M) Autózzon el a csendes Saint-Blaise kápolnához, majd látogasson el az Échéry kastély romjaihoz. (Mid) Parkoljon le a városközpontban, és fedezze fel a Városi Színházat és a Láncok templomát gyalogosan. (Aft) Tegyen egy rövid utat a Bányászok Tornyához, hogy elmerüljön az ezüstbányászat történelmében. (Eve) Zárja autós túráját a történelmi Saint-Pierre-sur-l'Hâte templomnál, élvezve az esti nyugalmat.",
+        "ro": "(M) Conduceți spre liniștita Capelă Saint-Blaise, apoi îndreptați-vă spre ruinele Castelului Échéry. (Mid) Parcați în centru pentru a explora Teatrul Municipal și Biserica Lanțurilor pe jos. (Aft) Faceți un drum scurt până la Turnul Minerilor pentru a pătrunde în istoria minieră a văii. (Eve) Încheiați turul cu mașina la Biserica istorică Saint-Pierre-sur-l'Hâte, bucurându-vă de calmul serii.",
+        "en": "(M) Drive to the tranquil Chapelle Saint-Blaise to start your day surrounded by nature, then head to the Château d'Échéry ruins. (Mid) Park in the city center to explore the Théâtre Municipal and the nearby Église des Chaînes on foot. (Aft) Take a short drive to the Tour des Mineurs to dive deep into the valley's famous silver mining history. (Eve) Conclude your driving tour at the historic Église Saint-Pierre-sur-l'Hâte, enjoying the evening calm."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "indonesia-labuan-bajo-cities-v2",
+  "anchor": {
+    "name": "Labuan Bajo",
+    "coords": [
+      119.887778,
+      -8.496389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Holy Spirit Church",
+            "hu": "Holy Spirit Church",
+            "ro": "Holy Spirit Church",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            119.887834,
+            -8.497609
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Gemeinde in der Heilig-Geist-Kirche, um Labuan Bajos Kultur zu verstehen, und kleiden Sie sich angemessen mit bedeckten Schultern.",
+            "hu": "Csodálja meg a Szentlélek templom élénk helyi közösségét, amely Labuan Bajo kultúrájának alapja, és belépés előtt takarja el a vállait a helyi szokások tiszteletben tartása végett.",
+            "ro": "Admirați comunitatea locală vibrantă de la Biserica Sfântul Duh pentru a înțelege cultura din Labuan Bajo, acoperindu-vă umerii înainte de a intra pentru a respecta tradiția.",
+            "en": "Admire the vibrant local congregation at the Holy Spirit Church to understand Labuan Bajo's cultural fabric, and dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge",
+            "hu": "Bridge",
+            "ro": "Bridge",
+            "en": "Bridge"
+          },
+          "coords": [
+            119.878876,
+            -8.498293
+          ],
+          "category": "landmark",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese belebte Brücke, die wichtige Stadtteile verbindet, um den lokalen Rhythmus zu spüren, aber achten Sie auf den dichten Rollerverkehr in den Morgenstunden.",
+            "hu": "Sétáljon át a város kulcsfontosságú részeit összekötő nyüzsgő hídon, hogy átélje a helyi ritmust, de vigyázzon a sűrű robogóforgalomra a reggeli csúcsidőben.",
+            "ro": "Traversați acest pod aglomerat care conectează zone cheie ale orașului pentru a simți ritmul local, dar aveți grijă la traficul intens de scutere în orele de vârf.",
+            "en": "Cross this bustling landmark bridge that connects key parts of the town to feel the local rhythm, but watch out for the heavy scooter traffic during peak morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjis At Taqwa",
+            "hu": "Masjis At Taqwa",
+            "ro": "Masjis At Taqwa",
+            "en": "Masjis At Taqwa"
+          },
+          "coords": [
+            119.878494,
+            -8.493957
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die schöne Masjis At Taqwa, um ihre markante islamische Architektur in einer christlich geprägten Region zu sehen, wobei Sie drinnen die Schuhe ausziehen sollten.",
+            "hu": "Látogasson el a gyönyörű Masjis At Taqwa mecsetbe, hogy megfigyelje lenyűgöző iszlám építészetét, de ne felejtse el levenni a cipőjét és halkan beszélni a belső térben.",
+            "ro": "Vizitați frumoasa Masjis At Taqwa pentru a observa arhitectura sa islamică într-o regiune predominant creștină, asigurându-vă că vă descălțați și vorbiți încet în interior.",
+            "en": "Visit the beautiful Masjis At Taqwa to observe its striking Islamic architecture in a predominantly Christian region, taking off your shoes and speaking softly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kawasan Marina Waterfront Labuan Bajo",
+            "hu": "Kawasan Marina Waterfront Labuan Bajo",
+            "ro": "Kawasan Marina Waterfront Labuan Bajo",
+            "en": "Kawasan Marina Waterfront Labuan Bajo"
+          },
+          "coords": [
+            119.876468,
+            -8.493293
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der neu entwickelten Marina Waterfront für weite Meerblicke und maritimen Charme, und bringen Sie Sonnenbrille sowie Hut mit, da Schatten hier rar ist.",
+            "hu": "Sétáljon végig az újonnan kiépített Marina Waterfront sétányon a lenyűgöző óceáni kilátásért, és mindenképpen vigyen magával napszemüveget, mivel itt kevés az árnyékos rész.",
+            "ro": "Plimbați-vă de-a lungul noii faleze Marina Waterfront pentru a vă bucura de priveliștile oceanului, dar aduceți ochelari de soare și o pălărie deoarece umbra este rară aici.",
+            "en": "Stroll along the newly developed Marina Waterfront to enjoy sweeping ocean views and modern maritime charm, bringing sunglasses and a hat as shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+          },
+          "coords": [
+            119.876518,
+            -8.490926
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die große Nurul-Falaq-Moschee mit Blick auf den Hafen, um ihre friedliche Präsenz zu schätzen, idealerweise außerhalb der Hauptgebetzeiten für mehr Ruhe.",
+            "hu": "Fedezze fel a kikötőre néző hatalmas Nurul Falaq mecsetet, amelynek fenséges udvara a leginkább a fő imaidőkön kívül nyújt tökéletes és zavartalan békét a látogatóknak.",
+            "ro": "Descoperiți marea Moschee Nurul Falaq care domină portul pentru a aprecia prezența sa maiestuoasă și curtea liniștită, de preferat vizitând în afara orelor principale de rugăciune.",
+            "en": "Discover the grand Nurul Falaq Mosque overlooking the harbor to appreciate its majestic presence and peaceful courtyard, ideally visiting outside of the main prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset boat",
+            "hu": "Sunset boat",
+            "ro": "Sunset boat",
+            "en": "Sunset boat"
+          },
+          "coords": [
+            119.865382,
+            -8.493651
+          ],
+          "category": "landmark",
+          "arrive_at": "15:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag bei den Sunset-Booten, um den Himmel in Rosa und Orange leuchten zu sehen, und kommen Sie eine Stunde früher an, um den besten Fotopunkt zu sichern.",
+            "hu": "Zárja a napot az ikonikus naplemente hajóknál, hogy megcsodálja a ragyogó rózsaszín és narancssárga égboltot, de érkezzen egy órával korábban a legjobb fotós helyért.",
+            "ro": "Încheiați-vă ziua în zona bărcilor la apus pentru a vedea cerul devenind roz și portocaliu, ajungând cu o oră mai devreme pentru a vă asigura cel mai bun loc pentru fotografii.",
+            "en": "End your day at the iconic Sunset boat area to watch the sky turn brilliant shades of pink and orange, arriving at least an hour before sunset to secure the best photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der zentralen spirituellen Zentren und entdecken Sie die Heilig-Geist-Kirche. Mittags geht es in Richtung Hafen zur wunderschönen Masjis At Taqwa. Genießen Sie nachmittags die moderne Marina Waterfront und die beeindruckende Nurul-Falaq-Moschee. Beenden Sie den Tag an den Sunset-Booten und beobachten Sie den unvergesslichen Horizont.",
+        "hu": "Kezdje a reggelt a központi spirituális csomópontok felfedezésével, majd keljen át a nyüzsgő városi hídon. A dél a kikötő felé viszi, ahol a gyönyörű Masjis At Taqwa várja. Délután élvezze a Marina Waterfront modern kényelmét és az óceáni szellőt, valamint a hatalmas Nurul Falaq mecsetet. Végül zárja a napot a lenyűgöző horizont megfigyelésével a naplemente hajóknál.",
+        "ro": "Începeți dimineața explorând centrele spirituale centrale, descoperind Biserica Sfântul Duh înainte de a traversa podul orașului. La prânz, îndreptați-vă spre port, vizitând frumoasa Masjis At Taqwa. După-amiaza, bucurați-vă de facilitățile moderne și briza oceanului la Marina Waterfront și de Moscheea Nurul Falaq. Încheiați ziua admirând orizontul de neuitat la bărcile la apus.",
+        "en": "Start your morning exploring the central spiritual hubs, discovering the Holy Spirit Church before crossing the bustling town bridge. Midday takes you towards the harbor, visiting the beautiful Masjis At Taqwa. In the afternoon, enjoy the modern amenities and ocean breeze at the Marina Waterfront and the grand Nurul Falaq Mosque. Finally, end your day watching the unforgettable horizon at the Sunset boat area."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Baru",
+            "hu": "Pasar Baru",
+            "ro": "Pasar Baru",
+            "en": "Pasar Baru"
+          },
+          "coords": [
+            119.886018,
+            -8.508897
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die sensorische Vielfalt des Pasar Baru ein, um authentische lokale Produkte zu entdecken, und bringen Sie Bargeld mit, um mit den Verkäufern zu feilschen.",
+            "hu": "Vesse bele magát a Pasar Baru piac érzékszervi forgatagába, hogy felfedezze az autentikus helyi fűszereket, és hozzon magával aprópénzt a barátságos árusokkal való alkudozáshoz.",
+            "ro": "Explorați agitația pieței Pasar Baru pentru a descoperi produse locale și condimente proaspete, aducând bani gheață pentru a negocia ușor cu vânzătorii prietenoși.",
+            "en": "Dive into the sensory overload of Pasar Baru to discover authentic local produce and fresh spices, bringing small cash to easily bargain with the friendly stall owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Holy Spirit Church",
+            "hu": "Holy Spirit Church",
+            "ro": "Holy Spirit Church",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            119.887834,
+            -8.497609
+          ],
+          "category": "religious",
+          "arrive_at": "10:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Gemeinde in der Heilig-Geist-Kirche, um Labuan Bajos Kultur zu verstehen, und kleiden Sie sich angemessen mit bedeckten Schultern.",
+            "hu": "Csodálja meg a Szentlélek templom élénk helyi közösségét, amely Labuan Bajo kultúrájának alapja, és belépés előtt takarja el a vállait a helyi szokások tiszteletben tartása végett.",
+            "ro": "Admirați comunitatea locală vibrantă de la Biserica Sfântul Duh pentru a înțelege cultura din Labuan Bajo, acoperindu-vă umerii înainte de a intra pentru a respecta tradiția.",
+            "en": "Admire the vibrant local congregation at the Holy Spirit Church to understand Labuan Bajo's cultural fabric, and dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge",
+            "hu": "Bridge",
+            "ro": "Bridge",
+            "en": "Bridge"
+          },
+          "coords": [
+            119.878876,
+            -8.498293
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese belebte Brücke, die wichtige Stadtteile verbindet, um den lokalen Rhythmus zu spüren, aber achten Sie auf den dichten Rollerverkehr in den Morgenstunden.",
+            "hu": "Sétáljon át a város kulcsfontosságú részeit összekötő nyüzsgő hídon, hogy átélje a helyi ritmust, de vigyázzon a sűrű robogóforgalomra a reggeli csúcsidőben.",
+            "ro": "Traversați acest pod aglomerat care conectează zone cheie ale orașului pentru a simți ritmul local, dar aveți grijă la traficul intens de scutere în orele de vârf.",
+            "en": "Cross this bustling landmark bridge that connects key parts of the town to feel the local rhythm, but watch out for the heavy scooter traffic during peak morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Kawasan Marina Waterfront Labuan Bajo",
+            "hu": "Kawasan Marina Waterfront Labuan Bajo",
+            "ro": "Kawasan Marina Waterfront Labuan Bajo",
+            "en": "Kawasan Marina Waterfront Labuan Bajo"
+          },
+          "coords": [
+            119.876468,
+            -8.493293
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der neu entwickelten Marina Waterfront für weite Meerblicke und maritimen Charme, und bringen Sie Sonnenbrille sowie Hut mit, da Schatten hier rar ist.",
+            "hu": "Sétáljon végig az újonnan kiépített Marina Waterfront sétányon a lenyűgöző óceáni kilátásért, és mindenképpen vigyen magával napszemüveget, mivel itt kevés az árnyékos rész.",
+            "ro": "Plimbați-vă de-a lungul noii faleze Marina Waterfront pentru a vă bucura de priveliștile oceanului, dar aduceți ochelari de soare și o pălărie deoarece umbra este rară aici.",
+            "en": "Stroll along the newly developed Marina Waterfront to enjoy sweeping ocean views and modern maritime charm, bringing sunglasses and a hat as shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Maris Catolic",
+            "hu": "Stella Maris Catolic",
+            "ro": "Stella Maris Catolic",
+            "en": "Stella Maris Catolic"
+          },
+          "coords": [
+            119.877586,
+            -8.490382
+          ],
+          "category": "religious",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Stille in der katholischen Stella-Maris-Kirche mit ihrem eleganten Design, wobei Sie den Messeplan vorab prüfen sollten, um nicht zu stören.",
+            "hu": "Keressen egy csendes pillanatot az elegáns kialakítású Stella Maris katolikus templomban, de előzetesen ellenőrizze a miserendet, hogy ne zavarja meg a helyi istentiszteletet.",
+            "ro": "Găsiți un moment de liniște la Biserica Catolică Stella Maris, cu designul său elegant, verificând programul slujbelor în prealabil pentru a evita întreruperea acestora.",
+            "en": "Find a moment of quiet reflection at the Stella Maris Catholic Church with its simple yet elegant design, checking the mass schedule beforehand to avoid disrupting the services."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Raya",
+            "hu": "Pasar Raya",
+            "ro": "Pasar Raya",
+            "en": "Pasar Raya"
+          },
+          "coords": [
+            119.89751,
+            -8.483851
+          ],
+          "category": "cultural",
+          "arrive_at": "14:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den weitläufigen Pasar-Raya-Markt, um das wahre tägliche Leben der Inselbewohner zu erleben, und tragen Sie bequeme Schuhe, da der Boden nass sein kann.",
+            "hu": "Fedezze fel a hatalmas Pasar Raya piacot, hogy megtapasztalja a szigetlakók igazi mindennapi életét, és viseljen kényelmes cipőt, mivel a talaj egyenetlen és nedves lehet.",
+            "ro": "Explorați piața extinsă Pasar Raya pentru a experimenta viața de zi cu zi a insularilor, purtând încălțăminte confortabilă, deoarece solul poate fi denivelat și umed.",
+            "en": "Explore the expansive Pasar Raya market to experience the true daily life and trade of the islanders, wearing comfortable shoes as the ground can be uneven and wet."
+          }
+        },
+        {
+          "name": {
+            "de": "sunset",
+            "hu": "sunset",
+            "ro": "sunset",
+            "en": "sunset"
+          },
+          "coords": [
+            119.88335,
+            -8.472407
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem natürlichen Aussichtspunkt für einen atemberaubenden Sonnenuntergang auf und bringen Sie eine kleine Taschenlampe für den sicheren Abstieg im Dunkeln mit.",
+            "hu": "Másszon fel ehhez a természetes kilátóhoz, hogy lélegzetelállító naplementét lásson a szigetek felett, és hozzon magával egy kis zseblámpát a sötétedés utáni biztonságos lejutáshoz.",
+            "ro": "Urcați la acest punct de belvedere natural pentru a asista la un apus uluitor peste insule, aducând o mică lanternă pentru a coborî în siguranță după lăsarea întunericului.",
+            "en": "Climb to this prime natural viewpoint to witness a breathtaking panoramic sunset over the islands, bringing a small flashlight for a safe descent after the light fades entirely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf dem lebhaften Pasar-Baru-Markt und atmen Sie die frische Morgenenergie ein. Der Mittag bringt eine kulturelle Mischung, vorbei an der Heilig-Geist-Kirche und der modernen Marina Waterfront. Verbringen Sie den Nachmittag mit Fahrten zur Stella-Maris-Kirche und dem belebten Pasar Raya. Beenden Sie Ihren aktiven Tag mit einem herrlichen Blick am natürlichen Sonnenuntergangspunkt.",
+        "hu": "Kezdje a kerékpártúrát a pezsgő Pasar Baru piacon, magába szívva a friss reggeli energiákat. A dél kulturális keveredést hoz, ahogy a Szentlélek templom és a modern Marina Waterfront felé teker. A délutánt a Stella Maris templom és a nyüzsgő Pasar Raya piac felfedezésével töltheti. Zárja aktív napját a természetes naplemente kilátópontról nyíló csodálatos panorámával.",
+        "ro": "Începeți turul cu bicicleta la piața vibrantă Pasar Baru, respirând energia proaspătă a dimineții. Prânzul aduce un amestec cultural, trecând pe lângă Biserica Sfântul Duh și moderna Marina Waterfront. Petreceți după-amiaza pedalând către Biserica Stella Maris și aglomerata piață Pasar Raya. Încheiați-vă ziua activă cu o priveliște magnifică la punctul de belvedere natural pentru apus.",
+        "en": "Kick off your cycling tour at the vibrant Pasar Baru market, breathing in the fresh morning energy. Midday brings a cultural blend, riding past the Holy Spirit Church, the central bridge, and the sleek Marina Waterfront. Spend your afternoon pedaling to the Stella Maris Church and the bustling Pasar Raya. Conclude your active day with a magnificent view at the natural sunset viewpoint."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Baru",
+            "hu": "Pasar Baru",
+            "ro": "Pasar Baru",
+            "en": "Pasar Baru"
+          },
+          "coords": [
+            119.886018,
+            -8.508897
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die sensorische Vielfalt des Pasar Baru ein, um authentische lokale Produkte zu entdecken, und bringen Sie Bargeld mit, um mit den Verkäufern zu feilschen.",
+            "hu": "Vesse bele magát a Pasar Baru piac érzékszervi forgatagába, hogy felfedezze az autentikus helyi fűszereket, és hozzon magával aprópénzt a barátságos árusokkal való alkudozáshoz.",
+            "ro": "Explorați agitația pieței Pasar Baru pentru a descoperi produse locale și condimente proaspete, aducând bani gheață pentru a negocia ușor cu vânzătorii prietenoși.",
+            "en": "Dive into the sensory overload of Pasar Baru to discover authentic local produce and fresh spices, bringing small cash to easily bargain with the friendly stall owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Holy Spirit Church",
+            "hu": "Holy Spirit Church",
+            "ro": "Holy Spirit Church",
+            "en": "Holy Spirit Church"
+          },
+          "coords": [
+            119.887834,
+            -8.497609
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Gemeinde in der Heilig-Geist-Kirche, um Labuan Bajos Kultur zu verstehen, und kleiden Sie sich angemessen mit bedeckten Schultern.",
+            "hu": "Csodálja meg a Szentlélek templom élénk helyi közösségét, amely Labuan Bajo kultúrájának alapja, és belépés előtt takarja el a vállait a helyi szokások tiszteletben tartása végett.",
+            "ro": "Admirați comunitatea locală vibrantă de la Biserica Sfântul Duh pentru a înțelege cultura din Labuan Bajo, acoperindu-vă umerii înainte de a intra pentru a respecta tradiția.",
+            "en": "Admire the vibrant local congregation at the Holy Spirit Church to understand Labuan Bajo's cultural fabric, and dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+            "hu": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+            "ro": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+            "en": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi"
+          },
+          "coords": [
+            119.89842,
+            -8.485257
+          ],
+          "category": "religious",
+          "arrive_at": "10:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche in Wae Kesambi, um die Hingabe der Nachbarschaft zu spüren, und begrüßen Sie die Einheimischen mit einem freundlichen Lächeln.",
+            "hu": "Látogasson el ebbe a bájos helyi templomba Wae Kesambiban, hogy lássa a környék lakóinak odaadását, és üdvözölje a barátságos helyieket egy mosollyal a séta során.",
+            "ro": "Vizitați această biserică fermecătoare din Wae Kesambi pentru a vedea devotamentul cartierului, salutând localnicii primitori cu un zâmbet cald în timp ce explorați zona.",
+            "en": "Visit this charming local church nestled in Wae Kesambi to see the devotion of the neighborhood, greeting the welcoming locals with a friendly smile as you walk the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Raya",
+            "hu": "Pasar Raya",
+            "ro": "Pasar Raya",
+            "en": "Pasar Raya"
+          },
+          "coords": [
+            119.89751,
+            -8.483851
+          ],
+          "category": "cultural",
+          "arrive_at": "11:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den weitläufigen Pasar-Raya-Markt, um das wahre tägliche Leben der Inselbewohner zu erleben, und tragen Sie bequeme Schuhe, da der Boden nass sein kann.",
+            "hu": "Fedezze fel a hatalmas Pasar Raya piacot, hogy megtapasztalja a szigetlakók igazi mindennapi életét, és viseljen kényelmes cipőt, mivel a talaj egyenetlen és nedves lehet.",
+            "ro": "Explorați piața extinsă Pasar Raya pentru a experimenta viața de zi cu zi a insularilor, purtând încălțăminte confortabilă, deoarece solul poate fi denivelat și umed.",
+            "en": "Explore the expansive Pasar Raya market to experience the true daily life and trade of the islanders, wearing comfortable shoes as the ground can be uneven and wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+            "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+          },
+          "coords": [
+            119.876518,
+            -8.490926
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die große Nurul-Falaq-Moschee mit Blick auf den Hafen, um ihre friedliche Präsenz zu schätzen, idealerweise außerhalb der Hauptgebetzeiten für mehr Ruhe.",
+            "hu": "Fedezze fel a kikötőre néző hatalmas Nurul Falaq mecsetet, amelynek fenséges udvara a leginkább a fő imaidőkön kívül nyújt tökéletes és zavartalan békét a látogatóknak.",
+            "ro": "Descoperiți marea Moschee Nurul Falaq care domină portul pentru a aprecia prezența sa maiestuoasă și curtea liniștită, de preferat vizitând în afara orelor principale de rugăciune.",
+            "en": "Discover the grand Nurul Falaq Mosque overlooking the harbor to appreciate its majestic presence and peaceful courtyard, ideally visiting outside of the main prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kawasan Marina Waterfront Labuan Bajo",
+            "hu": "Kawasan Marina Waterfront Labuan Bajo",
+            "ro": "Kawasan Marina Waterfront Labuan Bajo",
+            "en": "Kawasan Marina Waterfront Labuan Bajo"
+          },
+          "coords": [
+            119.876468,
+            -8.493293
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der neu entwickelten Marina Waterfront für weite Meerblicke und maritimen Charme, und bringen Sie Sonnenbrille sowie Hut mit, da Schatten hier rar ist.",
+            "hu": "Sétáljon végig az újonnan kiépített Marina Waterfront sétányon a lenyűgöző óceáni kilátásért, és mindenképpen vigyen magával napszemüveget, mivel itt kevés az árnyékos rész.",
+            "ro": "Plimbați-vă de-a lungul noii faleze Marina Waterfront pentru a vă bucura de priveliștile oceanului, dar aduceți ochelari de soare și o pălărie deoarece umbra este rară aici.",
+            "en": "Stroll along the newly developed Marina Waterfront to enjoy sweeping ocean views and modern maritime charm, bringing sunglasses and a hat as shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset boat",
+            "hu": "Sunset boat",
+            "ro": "Sunset boat",
+            "en": "Sunset boat"
+          },
+          "coords": [
+            119.865382,
+            -8.493651
+          ],
+          "category": "landmark",
+          "arrive_at": "15:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag bei den Sunset-Booten, um den Himmel in Rosa und Orange leuchten zu sehen, und kommen Sie eine Stunde früher an, um den besten Fotopunkt zu sichern.",
+            "hu": "Zárja a napot az ikonikus naplemente hajóknál, hogy megcsodálja a ragyogó rózsaszín és narancssárga égboltot, de érkezzen egy órával korábban a legjobb fotós helyért.",
+            "ro": "Încheiați-vă ziua în zona bărcilor la apus pentru a vedea cerul devenind roz și portocaliu, ajungând cu o oră mai devreme pentru a vă asigura cel mai bun loc pentru fotografii.",
+            "en": "End your day at the iconic Sunset boat area to watch the sky turn brilliant shades of pink and orange, arriving at least an hour before sunset to secure the best photo spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt mit einem Einblick in das lokale Leben am Pasar Baru und der zentralen Heilig-Geist-Kirche. Gegen Mittag fahren Sie nach Wae Kesambi und erkunden die belebten Stände des Pasar Raya. Der Nachmittag bietet eine reibungslose Fahrt entlang der Küste mit der majestätischen Nurul-Falaq-Moschee. Beenden Sie Ihre Reise entspannt in der Nähe der legendären Sunset-Boote.",
+        "hu": "Kényelmes autózása a Pasar Baru és a központi Szentlélek templom helyi életének felfedezésével kezdődik. Délben Wae Kesambi felé veszi az irányt, majd megvizsgálja a Pasar Raya piac forgatagát. A délután sima utazást kínál a part mentén, megcsodálva a Nurul Falaq mecsetet és a sétányt. Fejezze be utazását egy kellemes pihenéssel az ikonikus naplemente hajók közelében.",
+        "ro": "Călătoria confortabilă începe cu o incursiune în viața locală la Pasar Baru și la Biserica centrală Sfântul Duh. În jurul prânzului, conduceți spre Wae Kesambi și explorați tarabele aglomerate din Pasar Raya. După-amiaza oferă o plimbare lină de-a lungul coastei, admirând maiestuoasa Moschee Nurul Falaq. Încheiați-vă călătoria relaxându-vă lângă bărcile emblematice de la apus.",
+        "en": "Your comfortable drive begins with a dive into local life at Pasar Baru and the central Holy Spirit Church. Around midday, cruise out to Wae Kesambi to visit the local parish and explore the bustling stalls of Pasar Raya. The afternoon offers a smooth ride along the coast, marveling at the majestic Nurul Falaq Mosque and the waterfront. End your journey relaxing near the iconic Sunset boats."
+      }
+    }
+  }
+}

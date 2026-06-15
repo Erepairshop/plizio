@@ -1,0 +1,474 @@
+{
+  "city_id": "ternate-cities-v2",
+  "anchor": {
+    "name": "Ternate",
+    "coords": [
+      127.387,
+      0.789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Langgar Ijo",
+            "hu": "Masjid Langgar Ijo",
+            "ro": "Masjid Langgar Ijo",
+            "en": "Masjid Langgar Ijo"
+          },
+          "coords": [
+            127.386395,
+            0.784665
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser lokalen Moschee, die ein wichtiger Treffpunkt ist, und besuchen Sie sie außerhalb der Gebetszeiten für etwas Ruhe.",
+            "hu": "Csodálja meg ennek a közösségi központként szolgáló helyi mecsetnek az egyszerű eleganciáját, és a békés nézelődéshez az imaidőkön kívül érkezzen.",
+            "ro": "Admirați eleganța simplă a acestei moschei locale ce servește drept centru comunitar și vizitați-o în afara orelor de rugăciune pentru liniște.",
+            "en": "Admire the simple elegance of this local mosque that serves as a community anchor, and try to visit outside prayer times for a peaceful look around."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Amiien",
+            "hu": "Masjid Al Amiien",
+            "ro": "Masjid Al Amiien",
+            "en": "Masjid Al Amiien"
+          },
+          "coords": [
+            127.383103,
+            0.786884
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieses zentralen Gotteshauses, wobei Sie auf angemessene Kleidung achten und vor dem Betreten die Schuhe ausziehen sollten.",
+            "hu": "Figyelje meg e központi istentiszteleti hely építészeti részleteit, és ne feledjen szerényen öltözni, illetve levenni a cipőjét a belépés előtt.",
+            "ro": "Observați detaliile arhitecturale ale acestui lăcaș central de cult, amintindu-vă să vă îmbrăcați decent și să vă descălțați înainte de a intra.",
+            "en": "Observe the architectural details of this central place of worship, remembering to dress modestly and remove your shoes before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Khairaat",
+            "hu": "Masjid Al Khairaat",
+            "ro": "Masjid Al Khairaat",
+            "en": "Masjid Al Khairaat"
+          },
+          "coords": [
+            127.38233,
+            0.78928
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses religiösen Wahrzeichens, das den tief verwurzelten Glauben widerspiegelt, und sprechen Sie leise aus Respekt.",
+            "hu": "Élvezze e vallási nevezetesség nyugodt légkörét, amely a sziget mély hitét tükrözi, és halkan beszéljen, hogy tiszteletben tartsa a hívőket.",
+            "ro": "Bucurați-vă de atmosfera senină a acestui reper religios care reflectă credința insulei și mențineți un ton scăzut pentru a respecta credincioșii.",
+            "en": "Take in the serene atmosphere of this religious landmark which reflects the island's deep-rooted faith, and keep your voice low to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nurul Iman",
+            "hu": "Masjid Nurul Iman",
+            "ro": "Masjid Nurul Iman",
+            "en": "Masjid Nurul Iman"
+          },
+          "coords": [
+            127.383412,
+            0.7912
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Beachten Sie das lebhafte Gemeindeleben rund um diese Viertelmoschee und setzen Sie sich ruhig in den Innenhof, während sich die Einheimischen versammeln.",
+            "hu": "Figyelje meg a mecset körüli vibráló közösségi életet, és üljön le csendben az udvaron, miközben a helyiek összegyűlnek beszélgetni.",
+            "ro": "Observați viața comunitară vibrantă din jurul acestei moschei de cartier, luându-vă un moment pentru a sta liniștit în curte alături de localnici.",
+            "en": "Notice the vibrant community life surrounding this neighborhood mosque, taking a moment to sit quietly in the courtyard while locals gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Orange",
+            "hu": "Fort Orange",
+            "ro": "Fort Orange",
+            "en": "Fort Orange"
+          },
+          "coords": [
+            127.386832,
+            0.793065
+          ],
+          "category": "castle",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser holländischen Kolonialburg aus dem 17. Jahrhundert, um die Gewürzhandel-Geschichte zu verstehen, und bringen Sie einen Hut mit.",
+            "hu": "Fedezze fel e 17. századi holland gyarmati vár romjait a fűszerkereskedelem megismeréséhez, és mindenképpen hozzon magával kalapot az erős nap elől.",
+            "ro": "Explorați ruinele acestui castel colonial olandez din secolul XVII pentru a înțelege istoria condimentelor și purtați o pălărie împotriva soarelui.",
+            "en": "Explore the sprawling remains of this 17th-century Dutch colonial castle to understand Ternate's spice trade history, bringing a hat to ward off the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Keraton Sultan Ternate",
+            "hu": "Keraton Sultan Ternate",
+            "ro": "Keraton Sultan Ternate",
+            "en": "Keraton Sultan Ternate"
+          },
+          "coords": [
+            127.38401,
+            0.800444
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum königliche Artefakte und das Erbe des Sultanats, aber prüfen Sie vorher die Öffnungszeiten, da diese variieren können.",
+            "hu": "Fedezze fel a királyi leleteket és a szultanátus évszázados örökségét ebben a múzeumban, de előre ellenőrizze a gyakran változó nyitvatartási időt.",
+            "ro": "Descoperiți artefacte regale și secole de moștenire a sultanatului în acest muzeu fascinant, verificând programul în avans deoarece poate fi neregulat.",
+            "en": "Discover royal artifacts and centuries of sultanate heritage inside this fascinating museum, checking the opening hours in advance as they can be irregular."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang zu den wunderschönen Moscheen im Süden von Ternate, wo das Gemeindeleben pulsiert. Gegen Mittag erreichen Sie Fort Orange, ein gewaltiges Überbleibsel des historischen Gewürzhandels. Am Nachmittag tauchen Sie im Keraton in die reiche Geschichte des Sultanats ein. Der Abend lädt zu einem ruhigen Spaziergang in der Stadt ein.",
+        "hu": "Kezdje a reggelt egy sétával Ternate déli részének gyönyörű mecseteinél, ahol lüktet a közösségi élet. Dél körül érje el a Fort Orange erődöt, a fűszerkereskedelem hatalmas emlékét. Délután merüljön el a szultanátus gazdag történelmében a Keraton múzeumban. Az este nyugodt sétára csábít a város csendesedő utcáin.",
+        "ro": "Începeți dimineața cu o plimbare spre moscheile frumoase din sudul Ternate, pline de viață comunitară. La prânz, vizitați Fort Orange, o rămășiță imensă a comerțului istoric cu mirodenii. După-amiaza vă scufundă în istoria bogată a sultanatului la Keraton. Seara este perfectă pentru o plimbare liniștită pe străzile orașului.",
+        "en": "Start your morning walking among the beautiful local mosques of southern Ternate, where community life thrives. By midday, you'll reach Fort Orange, a massive remnant of the historic spice trade. The afternoon invites you into the deep royal history of the sultanate at the Keraton museum. Let the late afternoon gently end your enriching walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Annaafi",
+            "hu": "Masjid Annaafi",
+            "ro": "Masjid Annaafi",
+            "en": "Masjid Annaafi"
+          },
+          "coords": [
+            127.383138,
+            0.780843
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser Moschee im südlichen Bezirk, die einen perfekten Ort für ein ruhiges Innehalten am frühen Tag bietet.",
+            "hu": "Tapasztalja meg a déli negyedben megbúvó mecset békés hangulatát, amely tökéletes helyszínt biztosít egy kis csendes elmélkedéshez a nap elején.",
+            "ro": "Experimentați ambianța pașnică a acestei moschei ascunse în districtul sudic, oferind un loc perfect pentru reflecție liniștită la începutul zilei.",
+            "en": "Experience the peaceful ambiance of this neighborhood mosque tucked in the southern district, providing a perfect spot for quiet reflection early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Langgar Ijo",
+            "hu": "Masjid Langgar Ijo",
+            "ro": "Masjid Langgar Ijo",
+            "en": "Masjid Langgar Ijo"
+          },
+          "coords": [
+            127.386395,
+            0.784665
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser lokalen Moschee, die ein wichtiger Treffpunkt ist, und besuchen Sie sie außerhalb der Gebetszeiten für etwas Ruhe.",
+            "hu": "Csodálja meg ennek a közösségi központként szolgáló helyi mecsetnek az egyszerű eleganciáját, és a békés nézelődéshez az imaidőkön kívül érkezzen.",
+            "ro": "Admirați eleganța simplă a acestei moschei locale ce servește drept centru comunitar și vizitați-o în afara orelor de rugăciune pentru liniște.",
+            "en": "Admire the simple elegance of this local mosque that serves as a community anchor, and try to visit outside prayer times for a peaceful look around."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Khairaat",
+            "hu": "Masjid Al Khairaat",
+            "ro": "Masjid Al Khairaat",
+            "en": "Masjid Al Khairaat"
+          },
+          "coords": [
+            127.38233,
+            0.78928
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses religiösen Wahrzeichens, das den tief verwurzelten Glauben widerspiegelt, und sprechen Sie leise aus Respekt.",
+            "hu": "Élvezze e vallási nevezetesség nyugodt légkörét, amely a sziget mély hitét tükrözi, és halkan beszéljen, hogy tiszteletben tartsa a hívőket.",
+            "ro": "Bucurați-vă de atmosfera senină a acestui reper religios care reflectă credința insulei și mențineți un ton scăzut pentru a respecta credincioșii.",
+            "en": "Take in the serene atmosphere of this religious landmark which reflects the island's deep-rooted faith, and keep your voice low to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Orange",
+            "hu": "Fort Orange",
+            "ro": "Fort Orange",
+            "en": "Fort Orange"
+          },
+          "coords": [
+            127.386832,
+            0.793065
+          ],
+          "category": "castle",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser holländischen Kolonialburg aus dem 17. Jahrhundert, um die Gewürzhandel-Geschichte zu verstehen, und bringen Sie einen Hut mit.",
+            "hu": "Fedezze fel e 17. századi holland gyarmati vár romjait a fűszerkereskedelem megismeréséhez, és mindenképpen hozzon magával kalapot az erős nap elől.",
+            "ro": "Explorați ruinele acestui castel colonial olandez din secolul XVII pentru a înțelege istoria condimentelor și purtați o pălărie împotriva soarelui.",
+            "en": "Explore the sprawling remains of this 17th-century Dutch colonial castle to understand Ternate's spice trade history, bringing a hat to ward off the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Keraton Sultan Ternate",
+            "hu": "Keraton Sultan Ternate",
+            "ro": "Keraton Sultan Ternate",
+            "en": "Keraton Sultan Ternate"
+          },
+          "coords": [
+            127.38401,
+            0.800444
+          ],
+          "category": "museum",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum königliche Artefakte und das Erbe des Sultanats, aber prüfen Sie vorher die Öffnungszeiten, da diese variieren können.",
+            "hu": "Fedezze fel a királyi leleteket és a szultanátus évszázados örökségét ebben a múzeumban, de előre ellenőrizze a gyakran változó nyitvatartási időt.",
+            "ro": "Descoperiți artefacte regale și secole de moștenire a sultanatului în acest muzeu fascinant, verificând programul în avans deoarece poate fi neregulat.",
+            "en": "Discover royal artifacts and centuries of sultanate heritage inside this fascinating museum, checking the opening hours in advance as they can be irregular."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Tolukko",
+            "hu": "Fort Tolukko",
+            "ro": "Fort Tolukko",
+            "en": "Fort Tolukko"
+          },
+          "coords": [
+            127.388111,
+            0.813868
+          ],
+          "category": "fortress",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen dieser von Portugiesen erbauten Festung hinauf, um den Meerblick zu genießen, und tragen Sie feste Schuhe für den unebenen Boden.",
+            "hu": "Mássza meg az egyedi portugál erőd kőlépcsőit a tengerre és a szomszédos szigetekre nyíló pazar kilátásért, és viseljen stabil cipőt az egyenetlen talaj miatt.",
+            "ro": "Urcați treptele de piatră ale acestei fortărețe portugheze pentru vederi panoramice asupra mării, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Climb the stone steps of this unique Portuguese-built fortress for sweeping views of the sea and neighboring islands, ensuring you have sturdy shoes for the uneven ground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour in Ternate bietet die perfekte Balance. Sie radeln zunächst durch das südliche Viertel, um die friedlichen Moscheen zu bewundern. Am Mittag erkunden Sie Fort Orange und das beeindruckende Sultanatsmuseum. Der Nachmittag führt Sie weiter nach Norden zum Fort Tolukko. Die Tour endet mit herrlichen Küstenblicken im sanften Nachmittagslicht.",
+        "hu": "A kerékpározás Ternate-ban tökéletes egyensúlyt kínál. Először a déli negyed békés mecseteit járja be két keréken. Délben a Fort Orange erődöt és a lenyűgöző szultáni múzeumot fedezi fel. Délután észak felé teker a Fort Tolukko irányába. A túra a tengerparti kilátásban gyönyörködve ér véget a kellemes délutáni fényekben.",
+        "ro": "Un tur cu bicicleta în Ternate oferă un echilibru perfect. Pedalați mai întâi prin districtul sudic pentru a admira moscheile pașnice. La prânz, explorați Fort Orange și muzeul sultanatului. După-amiaza vă duce spre nord la Fort Tolukko. Ziua se încheie cu vederi de coastă magnifice în lumina blândă a după-amiezii.",
+        "en": "Cycling through Ternate offers the perfect pace to see it all. You'll pedal through the southern districts first to visit peaceful community mosques. Midday highlights include Fort Orange and the fascinating Sultanate museum. The afternoon takes you north to Fort Tolukko. Wrap up your active day enjoying coastal views in the soft afternoon light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 5.18,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Tolukko",
+            "hu": "Fort Tolukko",
+            "ro": "Fort Tolukko",
+            "en": "Fort Tolukko"
+          },
+          "coords": [
+            127.388111,
+            0.813868
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen dieser von Portugiesen erbauten Festung hinauf, um den Meerblick zu genießen, und tragen Sie feste Schuhe für den unebenen Boden.",
+            "hu": "Mássza meg az egyedi portugál erőd kőlépcsőit a tengerre és a szomszédos szigetekre nyíló pazar kilátásért, és viseljen stabil cipőt az egyenetlen talaj miatt.",
+            "ro": "Urcați treptele de piatră ale acestei fortărețe portugheze pentru vederi panoramice asupra mării, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Climb the stone steps of this unique Portuguese-built fortress for sweeping views of the sea and neighboring islands, ensuring you have sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Keraton Sultan Ternate",
+            "hu": "Keraton Sultan Ternate",
+            "ro": "Keraton Sultan Ternate",
+            "en": "Keraton Sultan Ternate"
+          },
+          "coords": [
+            127.38401,
+            0.800444
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum königliche Artefakte und das Erbe des Sultanats, aber prüfen Sie vorher die Öffnungszeiten, da diese variieren können.",
+            "hu": "Fedezze fel a királyi leleteket és a szultanátus évszázados örökségét ebben a múzeumban, de előre ellenőrizze a gyakran változó nyitvatartási időt.",
+            "ro": "Descoperiți artefacte regale și secole de moștenire a sultanatului în acest muzeu fascinant, verificând programul în avans deoarece poate fi neregulat.",
+            "en": "Discover royal artifacts and centuries of sultanate heritage inside this fascinating museum, checking the opening hours in advance as they can be irregular."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Islah",
+            "hu": "Masjid Al Islah",
+            "ro": "Masjid Al Islah",
+            "en": "Masjid Al Islah"
+          },
+          "coords": [
+            127.378002,
+            0.793093
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser anmutig gestalteten Moschee an, die das westliche Küstenzentrum bedient, und denken Sie daran, dass das Fotografieren drinnen eingeschränkt sein kann.",
+            "hu": "Látogasson el ehhez a kecses kialakítású mecsethez, amely a partvidék nyugati oldalát szolgálja ki, és tartsa tiszteletben a benti fotózási tilalmat.",
+            "ro": "Opriți-vă la această moschee grațioasă care deservește zona vestică a centrului, amintindu-vă că fotografiatul în interior poate fi interzis.",
+            "en": "Stop by this gracefully designed mosque that serves the western side of the coastal center, remembering that photography inside might be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Orange",
+            "hu": "Fort Orange",
+            "ro": "Fort Orange",
+            "en": "Fort Orange"
+          },
+          "coords": [
+            127.386832,
+            0.793065
+          ],
+          "category": "castle",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser holländischen Kolonialburg aus dem 17. Jahrhundert, um die Gewürzhandel-Geschichte zu verstehen, und bringen Sie einen Hut mit.",
+            "hu": "Fedezze fel e 17. századi holland gyarmati vár romjait a fűszerkereskedelem megismeréséhez, és mindenképpen hozzon magával kalapot az erős nap elől.",
+            "ro": "Explorați ruinele acestui castel colonial olandez din secolul XVII pentru a înțelege istoria condimentelor și purtați o pălărie împotriva soarelui.",
+            "en": "Explore the sprawling remains of this 17th-century Dutch colonial castle to understand Ternate's spice trade history, bringing a hat to ward off the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Khairaat",
+            "hu": "Masjid Al Khairaat",
+            "ro": "Masjid Al Khairaat",
+            "en": "Masjid Al Khairaat"
+          },
+          "coords": [
+            127.38233,
+            0.78928
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses religiösen Wahrzeichens, das den tief verwurzelten Glauben widerspiegelt, und sprechen Sie leise aus Respekt.",
+            "hu": "Élvezze e vallási nevezetesség nyugodt légkörét, amely a sziget mély hitét tükrözi, és halkan beszéljen, hogy tiszteletben tartsa a hívőket.",
+            "ro": "Bucurați-vă de atmosfera senină a acestui reper religios care reflectă credința insulei și mențineți un ton scăzut pentru a respecta credincioșii.",
+            "en": "Take in the serene atmosphere of this religious landmark which reflects the island's deep-rooted faith, and keep your voice low to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Annaafi",
+            "hu": "Masjid Annaafi",
+            "ro": "Masjid Annaafi",
+            "en": "Masjid Annaafi"
+          },
+          "coords": [
+            127.383138,
+            0.780843
+          ],
+          "category": "landmark",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser Moschee im südlichen Bezirk, die einen perfekten Ort für ein ruhiges Innehalten am frühen Tag bietet.",
+            "hu": "Tapasztalja meg a déli negyedben megbúvó mecset békés hangulatát, amely tökéletes helyszínt biztosít egy kis csendes elmélkedéshez a nap elején.",
+            "ro": "Experimentați ambianța pașnică a acestei moschei ascunse în districtul sudic, oferind un loc perfect pentru reflecție liniștită la începutul zilei.",
+            "en": "Experience the peaceful ambiance of this neighborhood mosque tucked in the southern district, providing a perfect spot for quiet reflection early in the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die äußeren Juwelen von Ternate bequem erreichen, angefangen beim Aussichtspunkt Fort Tolukko im Norden. Ihr Mittagessen rückt näher, während Sie durch das königliche Keraton und charmante Moscheen navigieren. Den Nachmittag verbringen Sie in den historischen Mauern von Fort Orange. Zum Abschluss des Tages fahren Sie in die ruhigen südlichen Vororte.",
+        "hu": "Autóval kényelmesen elérheti Ternate távolabbi gyöngyszemeit is, az északi Fort Tolukko kilátópontjával kezdve. Az ebédidő közeledtével végigjárhatja a királyi Keraton múzeumot és a bájos mecseteket. A délutánt a történelmi Fort Orange falai között töltheti. A nap lezárásaként utazzon a csendes, déli külvárosok mecsetei felé.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la bijuteriile îndepărtate din Ternate, începând cu punctul de belvedere Fort Tolukko în nord. La prânz navigați printre regalele Keraton și moscheile fermecătoare. Vă petreceți după-amiaza în interiorul zidurilor istorice ale Fort Orange. Pentru a încheia ziua, conduceți spre suburbiile liniștite din sud.",
+        "en": "Driving allows you to effortlessly cover Ternate's spread-out gems, starting with the elevated views of Fort Tolukko in the north. By midday, you'll be navigating royal history at the Keraton and visiting central mosques. Spend your afternoon walking the historic walls of Fort Orange. Finally, drive south to end your tour at the peaceful neighborhood mosques."
+      }
+    }
+  }
+}

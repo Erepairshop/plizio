@@ -1,0 +1,626 @@
+{
+  "city_id": "thailand-baan-sri-thanu-cities-v2",
+  "anchor": {
+    "name": "Baan Sri Thanu",
+    "coords": [
+      99.96621,
+      9.75583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Sri Thanu",
+            "hu": "Wat Sri Thanu",
+            "ro": "Wat Sri Thanu",
+            "en": "Wat Sri Thanu"
+          },
+          "coords": [
+            99.967758,
+            9.756738
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses friedlichen Tempels, der als spirituelles Zentrum der Einheimischen dient, und denken Sie daran, Ihre Schultern zu bedecken.",
+            "hu": "Csodálja meg ennek a békés buddhista templomnak az építészetét, amely a helyiek spirituális központja, és ne felejtse el eltakarni a vállát, mielőtt belép.",
+            "ro": "Admirați arhitectura acestui templu budist pașnic, care servește ca centru spiritual pentru localnici, și amintiți-vă să vă acoperiți umerii înainte de a intra.",
+            "en": "Admire the intricate architecture of this peaceful Buddhist temple, which serves as a spiritual center for locals, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Sri Thanu",
+            "hu": "Ao Sri Thanu",
+            "ro": "Ao Sri Thanu",
+            "en": "Ao Sri Thanu"
+          },
+          "coords": [
+            99.96311,
+            9.755587
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieser malerischen Bucht, die für ihr flaches Wasser bekannt ist, und bringen Sie Ihr eigenes Handtuch mit, um sich bequem zu sonnen.",
+            "hu": "Pihenjen ezen a festői öböl finom homokján, amely tökéletes egy frissítő úszáshoz, és hozzon magával saját törölközőt a kényelmes napozáshoz a parton.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf pitoresc, cunoscut pentru apele sale calme și puțin adânci, și aduceți propriul prosop pentru a face plajă confortabil.",
+            "en": "Relax on the soft sands of this picturesque bay, known for its shallow, calm waters that are perfect for a refreshing swim, and bring your own towel to sunbathe comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Bliss Villas",
+            "hu": "Bliss Villas",
+            "ro": "Bliss Villas",
+            "en": "Bliss Villas"
+          },
+          "coords": [
+            99.967963,
+            9.752391
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Betrachten Sie das moderne Design dieser luxuriösen Villen, die einen Einblick in das gehobene Inselleben bieten, und machen Sie ein paar Fotos vom öffentlichen Strandzugang.",
+            "hu": "Figyelje meg ezeknek a tengerparti villáknak a fényűző modern dizájnját, amelyek bepillantást engednek a szigeti luxuséletbe, és készítsen pár fotót a közeli strandról.",
+            "ro": "Observați designul modern și luxos al acestor vile pe plajă, care oferă o privire în viața insulară de lux, în timp ce faceți câteva fotografii de pe plaja publică.",
+            "en": "Observe the luxurious modern design of these seaside villas, offering a glimpse into upscale island living, while snapping a few photos from the adjacent public beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Sookpol Village",
+            "hu": "Sookpol Village",
+            "ro": "Sookpol Village",
+            "en": "Sookpol Village"
+          },
+          "coords": [
+            99.964465,
+            9.762607
+          ],
+          "category": "landmark",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerische Siedlung, um das authentische thailändische Gemeinschaftsleben kennenzulernen, und bringen Sie Bargeld für die kleinen Handwerksläden mit.",
+            "hu": "Sétáljon át ezen a hangulatos településen, hogy megtapasztalja az autentikus thai közösségi életet, és tartson magánál készpénzt az apró kézműves boltokban való vásárláshoz.",
+            "ro": "Plimbați-vă prin această așezare locală pentru a experimenta viața comunitară thailandeză autentică și aveți la voi bani gheață pentru micile magazine de artizanat.",
+            "en": "Stroll through this quaint local settlement to experience authentic Thai community life, where small shops offer unique handmade crafts perfect for souvenirs, so carry some cash."
+          }
+        },
+        {
+          "name": {
+            "de": "The Challenge Phangan",
+            "hu": "The Challenge Phangan",
+            "ro": "The Challenge Phangan",
+            "en": "The Challenge Phangan"
+          },
+          "coords": [
+            99.965265,
+            9.760463
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufblasbaren Hindernissen dieses Wasserparks, der Spaß für alle Altersgruppen verspricht, und tragen Sie wasserfeste Sonnencreme auf.",
+            "hu": "Tegye próbára ügyességét ennek a híres vízi parknak az izgalmas felfújható akadályain, és ne felejtsen el bőségesen használni vízálló naptejet a leégés elkerülése érdekében.",
+            "ro": "Testați-vă agilitatea pe obstacolele gonflabile ale acestui parc acvatic faimos, care promite distracție nesfârșită, și asigurați-vă că aplicați o cremă de soare rezistentă la apă.",
+            "en": "Test your agility on the exciting inflatable obstacles of this famous water park, which promises endless fun for all ages, and make sure to apply waterproof sunscreen generously."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Chao Phao",
+            "hu": "Haad Chao Phao",
+            "ro": "Haad Chao Phao",
+            "en": "Haad Chao Phao"
+          },
+          "coords": [
+            99.961952,
+            9.76383
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Strand mit sanft wiegenden Palmen, der spektakuläre Sonnenuntergänge bietet, und packen Sie kühle Getränke ein, da es wenig Angebote gibt.",
+            "hu": "Kapcsolódjon ki ezen az érintetlen, csendes strandon, amely látványos naplementét kínál a pálmafák alatt, és csomagoljon hideg italokat, mivel a szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă pe această plajă liniștită, împodobită cu palmieri legănați, care oferă apusuri spectaculoase, și luați cu voi băuturi reci, deoarece facilitățile sunt limitate.",
+            "en": "Unwind at this pristine, quiet beach adorned with gently swaying palm trees, offering spectacular sunset views, and pack some cold drinks as facilities here are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihr Abenteuer am kulturell bedeutsamen Wat Sri Thanu und genießen Sie die friedliche Atmosphäre, bevor Sie zum goldenen Sand von Ao Sri Thanu schlendern.",
+          "midday": "Wenn die Sonne höher steigt, passieren Sie die moderne Architektur der Bliss Villas auf dem Weg zum Sookpol Village, wo Sie das ruhige Inselleben erleben können.",
+          "afternoon": "Verbringen Sie einen aktiven Nachmittag bei den aufregenden Hindernissen von The Challenge Phangan, testen Sie Ihre Balance und genießen Sie die lebhafte Atmosphäre.",
+          "evening": "Lassen Sie den Tag mit einem kurzen Spaziergang zum ruhigen Ufer von Haad Chao Phao ausklingen, einem abgeschiedenen Ort, um die Farben des tropischen Himmels zu beobachten."
+        },
+        "hu": {
+          "morning": "Kezdje kalandját a kulturális jelentőségű Wat Sri Thanu templomnál, és szívja magába a békés légkört, mielőtt lesétálna az Ao Sri Thanu aranyszínű homokjához.",
+          "midday": "Ahogy a nap egyre feljebb hág, haladjon el a Bliss Villas modern épületei mellett a Sookpol Village felé, ahol megtapasztalhatja a helyi szigeti élet nyugodt tempóját.",
+          "afternoon": "Töltse az aktív délutánt a The Challenge Phangan izgalmas, lebegő akadályainál, tegye próbára az egyensúlyérzékét, és élvezze az élettel teli, vidám vízi környezetet.",
+          "evening": "Zárja a napot egy rövid sétával a Haad Chao Phao nyugodt partjaihoz, amely eldugott helyszínt kínál a trópusi égbolt és a lágy hullámok megfigyelésére."
+        },
+        "ro": {
+          "morning": "Începeți aventura la importantul Wat Sri Thanu, absorbind atmosfera pașnică a dimineții înainte de a vă plimba pe nisipurile aurii de la Ao Sri Thanu.",
+          "midday": "Pe măsură ce soarele urcă, treceți pe lângă arhitectura modernă a Bliss Villas spre Sookpol Village, unde puteți experimenta ritmul blând al vieții insulare locale.",
+          "afternoon": "Petreceți-vă după-amiaza activă sărind pe obstacolele gonflabile de la The Challenge Phangan, testându-vă echilibrul și bucurându-vă de mediul acvatic plin de viață.",
+          "evening": "Încheiați ziua cu o scurtă plimbare spre țărmurile liniștite de la Haad Chao Phao, un loc retras ideal pentru a privi cum se închid culorile cerului tropical peste valuri."
+        },
+        "en": {
+          "morning": "Begin your walking adventure at the culturally significant Wat Sri Thanu, absorbing the peaceful morning atmosphere before wandering down to the golden sands of Ao Sri Thanu.",
+          "midday": "As the sun rises higher, pass by the modern architecture of Bliss Villas on your way to Sookpol Village, where you can experience the gentle pace of local island life.",
+          "afternoon": "Spend your active afternoon splashing around the exciting floating obstacles at The Challenge Phangan, testing your balance and enjoying the lively aquatic environment.",
+          "evening": "Wind down your day with a short walk to the tranquil shores of Haad Chao Phao, offering a secluded spot to watch the colors of the tropical sky deepen over the gentle waves."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Sri Thanu",
+            "hu": "Wat Sri Thanu",
+            "ro": "Wat Sri Thanu",
+            "en": "Wat Sri Thanu"
+          },
+          "coords": [
+            99.967758,
+            9.756738
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses friedlichen Tempels, der als spirituelles Zentrum der Einheimischen dient, und denken Sie daran, Ihre Schultern zu bedecken.",
+            "hu": "Csodálja meg ennek a békés buddhista templomnak az építészetét, amely a helyiek spirituális központja, és ne felejtse el eltakarni a vállát, mielőtt belép.",
+            "ro": "Admirați arhitectura acestui templu budist pașnic, care servește ca centru spiritual pentru localnici, și amintiți-vă să vă acoperiți umerii înainte de a intra.",
+            "en": "Admire the intricate architecture of this peaceful Buddhist temple, which serves as a spiritual center for locals, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Sookpol Village",
+            "hu": "Sookpol Village",
+            "ro": "Sookpol Village",
+            "en": "Sookpol Village"
+          },
+          "coords": [
+            99.964465,
+            9.762607
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese malerische Siedlung, um das authentische thailändische Gemeinschaftsleben kennenzulernen, und bringen Sie Bargeld für die kleinen Handwerksläden mit.",
+            "hu": "Sétáljon át ezen a hangulatos településen, hogy megtapasztalja az autentikus thai közösségi életet, és tartson magánál készpénzt az apró kézműves boltokban való vásárláshoz.",
+            "ro": "Plimbați-vă prin această așezare locală pentru a experimenta viața comunitară thailandeză autentică și aveți la voi bani gheață pentru micile magazine de artizanat.",
+            "en": "Stroll through this quaint local settlement to experience authentic Thai community life, where small shops offer unique handmade crafts perfect for souvenirs, so carry some cash."
+          }
+        },
+        {
+          "name": {
+            "de": "The Challenge Phangan",
+            "hu": "The Challenge Phangan",
+            "ro": "The Challenge Phangan",
+            "en": "The Challenge Phangan"
+          },
+          "coords": [
+            99.965265,
+            9.760463
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufblasbaren Hindernissen dieses Wasserparks, der Spaß für alle Altersgruppen verspricht, und tragen Sie wasserfeste Sonnencreme auf.",
+            "hu": "Tegye próbára ügyességét ennek a híres vízi parknak az izgalmas felfújható akadályain, és ne felejtsen el bőségesen használni vízálló naptejet a leégés elkerülése érdekében.",
+            "ro": "Testați-vă agilitatea pe obstacolele gonflabile ale acestui parc acvatic faimos, care promite distracție nesfârșită, și asigurați-vă că aplicați o cremă de soare rezistentă la apă.",
+            "en": "Test your agility on the exciting inflatable obstacles of this famous water park, which promises endless fun for all ages, and make sure to apply waterproof sunscreen generously."
+          }
+        },
+        {
+          "name": {
+            "de": "Samma Karuna",
+            "hu": "Samma Karuna",
+            "ro": "Samma Karuna",
+            "en": "Samma Karuna"
+          },
+          "coords": [
+            99.962288,
+            9.766356
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie spirituelles Erwachen in diesem Yoga-Zentrum inmitten der Natur, in dem Sie an Meditationskursen teilnehmen können, wenn Sie früh kommen, um eine Matte zu sichern.",
+            "hu": "Fedezze fel a spirituális ébredést ebben a természetben megbúvó híres jógaközpontban, ahol csatlakozhat egy meditációs órához, ha időben érkezik, hogy biztosítson magának helyet.",
+            "ro": "Descoperiți trezirea spirituală la acest centru de yoga și vindecare din natură, unde vă puteți alătura unei clase de meditație, cu condiția să sosiți devreme pentru un loc.",
+            "en": "Discover spiritual awakening at this renowned yoga and healing center nestled in nature, where you can join a drop-in meditation class, provided you arrive early to secure a mat."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Son",
+            "hu": "Haad Son",
+            "ro": "Haad Son",
+            "en": "Haad Son"
+          },
+          "coords": [
+            99.962114,
+            9.770491
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie im kristallklaren Wasser dieser Bucht, die ein farbenfrohes Korallenriff beherbergt, und tragen Sie Badeschuhe, um sich vor scharfen Felsen zu schützen.",
+            "hu": "Sznorkelezzen ennek a gyönyörű öbölnek a kristálytiszta vizeiben, amely egy vibráló korallzátonynak ad otthont, és viseljen vízi cipőt az éles sziklák elleni védelem érdekében.",
+            "ro": "Faceți snorkeling în apele cristaline ale acestui golf superb, care găzduiește un recif de corali vibrant, și purtați încălțăminte de apă pentru a vă proteja de pietre.",
+            "en": "Snorkel in the crystal-clear waters of this beautiful bay, home to a vibrant coral reef filled with colorful tropical fish, and wear water shoes to protect against sharp rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bird's Nest",
+            "hu": "Bird's Nest",
+            "ro": "Bird's Nest",
+            "en": "Bird's Nest"
+          },
+          "coords": [
+            99.963475,
+            9.772895
+          ],
+          "category": "natural",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem natürlichen, in die Bäume gebauten Aussichtspunkt auf, der ein weites Ozeanpanorama bietet, und treten Sie auf dem steilen Zugangsweg stets vorsichtig auf.",
+            "hu": "Másszon fel erre a fák közé épített figyelemre méltó kilátópontra, amely lenyűgöző óceáni panorámát nyújt, és óvatosan lépkedjen a kissé meredek és csúszós megközelítési úton.",
+            "ro": "Urcați spre acest punct de belvedere natural remarcabil, construit în copaci, care oferă panorame oceanice superbe, și pășiți cu grijă pe poteca de acces ușor abruptă.",
+            "en": "Ascend to this remarkable natural vantage point constructed seamlessly into the trees, providing sweeping oceanic panoramas, and tread carefully on the slightly steep approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Low Tide Viewpoint",
+            "hu": "Sunset Low Tide Viewpoint",
+            "ro": "Sunset Low Tide Viewpoint",
+            "en": "Sunset Low Tide Viewpoint"
+          },
+          "coords": [
+            99.974282,
+            9.743117
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Farben an diesem Aussichtspunkt, wo die Ebbe faszinierende Wasserreflexionen erzeugt, und seien Sie eine Stunde vor der Dämmerung hier, um Platz zu finden.",
+            "hu": "Csodálja meg az eget festő lélegzetelállító színeket ezen a partvidéki kilátónál, ahol a visszahúzódó dagály lenyűgöző tükröződéseket hoz létre, és érkezzen korán a legjobb helyért.",
+            "ro": "Asistați la culorile uluitoare de la acest punct de belvedere de coastă, unde refluxul creează reflexii fascinante pe apă, și ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Witness breathtaking colors paint the sky at this spectacular coastal outlook where the receding tide creates mesmerizing water reflections, and arrive an hour before dusk to claim a spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Starten Sie Ihre Radtour am ruhigen Wat Sri Thanu und radeln Sie dann mühelos durch die malerischen Straßen von Sookpol Village, bevor die Mittagshitze einsetzt.",
+          "midday": "Tauschen Sie die ruhigen Straßen gegen Adrenalin im The Challenge Phangan und machen Sie eine achtsame Pause, um das spirituelle Ambiente von Samma Karuna zu bewundern.",
+          "afternoon": "Setzen Sie Ihre Fahrt entlang der Küste zum Schnorcheln in Haad Son fort und fahren Sie weiter nach Norden, um die Holzstrukturen des Bird's Nest zu erklimmen.",
+          "evening": "Zum krönenden Abschluss radeln Sie an der Küste entlang nach Süden zum Sunset Low Tide Viewpoint und beobachten, wie das zurückweichende Wasser den Dämmerungshimmel spiegelt."
+        },
+        "hu": {
+          "morning": "Indítsa kerékpártúráját a békés Wat Sri Thanu templomnál, majd tekerjen könnyedén a Sookpol Village hangulatos utcáin, még a déli hőség beállta előtt.",
+          "midday": "Cserélje le a csendes utakat a The Challenge Phangan adrenalinjára, majd tartson egy tudatos szünetet, hogy megcsodálja a Samma Karuna spirituális hangulatát.",
+          "afternoon": "Folytassa part menti útját a Haad Son felé egy frissítő sznorkelezésre, majd haladjon tovább északra, hogy felmásszon a Bird's Nest szeszélyes faépítményeire.",
+          "evening": "A nagy fináléként guruljon délre a festői partvonal mentén a Sunset Low Tide Viewpoint felé, és figyelje, ahogy a visszahúzódó víz tökéletesen tükrözi az alkonyati eget."
+        },
+        "ro": {
+          "morning": "Începeți turul cu bicicleta la liniștitul Wat Sri Thanu, apoi pedalați fără efort prin străzile pitorești din Sookpol Village, înainte de a se lăsa căldura amiezii.",
+          "midday": "Schimbați drumurile liniștite cu adrenalina din parcul acvatic The Challenge Phangan, urmată de o pauză pentru a admira ambianța spirituală a Samma Karuna.",
+          "afternoon": "Continuați plimbarea pe coastă până la Haad Son pentru snorkeling, apoi mergeți mai la nord pentru a urca pe structurile ciudate din lemn ale Bird's Nest.",
+          "evening": "Pentru finalul grandios, mergeți spre sud pe coasta pitorească până la Sunset Low Tide Viewpoint, privind cum apele reflectă perfect cerul spectaculos al crepusculului."
+        },
+        "en": {
+          "morning": "Kick off your cycling tour at the serene Wat Sri Thanu, then pedal effortlessly through the quaint streets of Sookpol Village before the midday heat settles in.",
+          "midday": "Trade the quiet roads for adrenaline at The Challenge Phangan's inflatable water park, followed by a mindful pause to admire the spiritual ambiance of Samma Karuna.",
+          "afternoon": "Continue your coastal ride up to Haad Son for some refreshing snorkeling, then push further north to climb up the whimsical wooden structures of the Bird's Nest.",
+          "evening": "For the grand finale, cruise south along the scenic shoreline to the Sunset Low Tide Viewpoint, watching the receding waters perfectly mirror the spectacular twilight sky."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.7,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Sri Thanu",
+            "hu": "Wat Sri Thanu",
+            "ro": "Wat Sri Thanu",
+            "en": "Wat Sri Thanu"
+          },
+          "coords": [
+            99.967758,
+            9.756738
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses friedlichen Tempels, der als spirituelles Zentrum der Einheimischen dient, und denken Sie daran, Ihre Schultern zu bedecken.",
+            "hu": "Csodálja meg ennek a békés buddhista templomnak az építészetét, amely a helyiek spirituális központja, és ne felejtse el eltakarni a vállát, mielőtt belép.",
+            "ro": "Admirați arhitectura acestui templu budist pașnic, care servește ca centru spiritual pentru localnici, și amintiți-vă să vă acoperiți umerii înainte de a intra.",
+            "en": "Admire the intricate architecture of this peaceful Buddhist temple, which serves as a spiritual center for locals, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Wok Tum",
+            "hu": "Ao Wok Tum",
+            "ro": "Ao Wok Tum",
+            "en": "Ao Wok Tum"
+          },
+          "coords": [
+            99.972658,
+            9.741144
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit dieser Bucht mit ihren weiten Schlammflächen bei Ebbe, die sich perfekt für ruhige Momente eignet, und tragen Sie robuste Sandalen.",
+            "hu": "Élvezze ennek a kiterjedt öbölnek az érintetlen szépségét, amelyet apálykor széles iszapos lapályok jellemeznek, és viseljen strapabíró szandált, mivel tökéletes hely a sétára.",
+            "ro": "Bucurați-vă de frumusețea neatinsă a acestui golf, caracterizat prin întinderi mari de noroi la reflux, ideal pentru o plimbare liniștită, așa că purtați sandale rezistente.",
+            "en": "Enjoy the serene, untouched beauty of this expansive bay characterized by its wide muddy flats at low tide, making it a perfect spot for peaceful reflection, so wear sturdy sandals."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hin Kong",
+            "hu": "Ao Hin Kong",
+            "ro": "Ao Hin Kong",
+            "en": "Ao Hin Kong"
+          },
+          "coords": [
+            99.975756,
+            9.74576
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Küste, wo traditionelle Longtail-Boote festgemacht sind und die thailändische Fischerkultur einfangen, und kommen Sie am Nachmittag für das beste Licht.",
+            "hu": "Sétáljon végig a festői partvonalon, ahol a tradicionális csónakok horgonyoznak, és a legjobb fényviszonyok érdekében délután látogasson el ide, hogy remek fotókat készíthessen.",
+            "ro": "Plimbați-vă pe coasta pitorească, unde sunt ancorate bărcile tradiționale, surprinzând esența culturii pescărești, și vizitați zona după-amiaza pentru cea mai bună lumină.",
+            "en": "Walk along the dramatic coastline where traditional longtail boats are moored, capturing the quintessential essence of Thai fishing culture, and visit in the afternoon for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Low Tide Viewpoint",
+            "hu": "Sunset Low Tide Viewpoint",
+            "ro": "Sunset Low Tide Viewpoint",
+            "en": "Sunset Low Tide Viewpoint"
+          },
+          "coords": [
+            99.974282,
+            9.743117
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Farben an diesem Aussichtspunkt, wo die Ebbe faszinierende Wasserreflexionen erzeugt, und seien Sie eine Stunde vor der Dämmerung hier, um Platz zu finden.",
+            "hu": "Csodálja meg az eget festő lélegzetelállító színeket ezen a partvidéki kilátónál, ahol a visszahúzódó dagály lenyűgöző tükröződéseket hoz létre, és érkezzen korán a legjobb helyért.",
+            "ro": "Asistați la culorile uluitoare de la acest punct de belvedere de coastă, unde refluxul creează reflexii fascinante pe apă, și ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Witness breathtaking colors paint the sky at this spectacular coastal outlook where the receding tide creates mesmerizing water reflections, and arrive an hour before dusk to claim a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Monkeyland Resort",
+            "hu": "Monkeyland Resort",
+            "ro": "Monkeyland Resort",
+            "en": "Monkeyland Resort"
+          },
+          "coords": [
+            99.964636,
+            9.750718
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf dieses einzigartige Themenresort im üppigen Grün, das eine skurrile Kulisse für abenteuerlustige Reisende bietet, und respektieren Sie die Gäste.",
+            "hu": "Vessen egy pillantást erre a buja növényzetben megbúvó, egyedi tematikájú üdülőhelyre, amely mókás hátteret kínál a kalandvágyó utazóknak, és tartsa tiszteletben a vendégek nyugalmát.",
+            "ro": "Aruncați o scurtă privire în jurul acestui complex tematic ascuns în verdeață, oferind un fundal ciudat pentru călătorii aventuroși, și respectați intimitatea oaspeților cazați.",
+            "en": "Take a quick look around this unique themed resort tucked away in lush greenery, offering a quirky backdrop for adventurous travelers, and respect the privacy of the overnight guests."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Sri Thanu",
+            "hu": "Ao Sri Thanu",
+            "ro": "Ao Sri Thanu",
+            "en": "Ao Sri Thanu"
+          },
+          "coords": [
+            99.96311,
+            9.755587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieser malerischen Bucht, die für ihr flaches Wasser bekannt ist, und bringen Sie Ihr eigenes Handtuch mit, um sich bequem zu sonnen.",
+            "hu": "Pihenjen ezen a festői öböl finom homokján, amely tökéletes egy frissítő úszáshoz, és hozzon magával saját törölközőt a kényelmes napozáshoz a parton.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf pitoresc, cunoscut pentru apele sale calme și puțin adânci, și aduceți propriul prosop pentru a face plajă confortabil.",
+            "en": "Relax on the soft sands of this picturesque bay, known for its shallow, calm waters that are perfect for a refreshing swim, and bring your own towel to sunbathe comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "The Challenge Phangan",
+            "hu": "The Challenge Phangan",
+            "ro": "The Challenge Phangan",
+            "en": "The Challenge Phangan"
+          },
+          "coords": [
+            99.965265,
+            9.760463
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufblasbaren Hindernissen dieses Wasserparks, der Spaß für alle Altersgruppen verspricht, und tragen Sie wasserfeste Sonnencreme auf.",
+            "hu": "Tegye próbára ügyességét ennek a híres vízi parknak az izgalmas felfújható akadályain, és ne felejtsen el bőségesen használni vízálló naptejet a leégés elkerülése érdekében.",
+            "ro": "Testați-vă agilitatea pe obstacolele gonflabile ale acestui parc acvatic faimos, care promite distracție nesfârșită, și asigurați-vă că aplicați o cremă de soare rezistentă la apă.",
+            "en": "Test your agility on the exciting inflatable obstacles of this famous water park, which promises endless fun for all ages, and make sure to apply waterproof sunscreen generously."
+          }
+        },
+        {
+          "name": {
+            "de": "Samma Karuna",
+            "hu": "Samma Karuna",
+            "ro": "Samma Karuna",
+            "en": "Samma Karuna"
+          },
+          "coords": [
+            99.962288,
+            9.766356
+          ],
+          "category": "landmark",
+          "arrive_at": "15:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie spirituelles Erwachen in diesem Yoga-Zentrum inmitten der Natur, in dem Sie an Meditationskursen teilnehmen können, wenn Sie früh kommen, um eine Matte zu sichern.",
+            "hu": "Fedezze fel a spirituális ébredést ebben a természetben megbúvó híres jógaközpontban, ahol csatlakozhat egy meditációs órához, ha időben érkezik, hogy biztosítson magának helyet.",
+            "ro": "Descoperiți trezirea spirituală la acest centru de yoga și vindecare din natură, unde vă puteți alătura unei clase de meditație, cu condiția să sosiți devreme pentru un loc.",
+            "en": "Discover spiritual awakening at this renowned yoga and healing center nestled in nature, where you can join a drop-in meditation class, provided you arrive early to secure a mat."
+          }
+        },
+        {
+          "name": {
+            "de": "Bird's Nest",
+            "hu": "Bird's Nest",
+            "ro": "Bird's Nest",
+            "en": "Bird's Nest"
+          },
+          "coords": [
+            99.963475,
+            9.772895
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem natürlichen, in die Bäume gebauten Aussichtspunkt auf, der ein weites Ozeanpanorama bietet, und treten Sie auf dem steilen Zugangsweg stets vorsichtig auf.",
+            "hu": "Másszon fel erre a fák közé épített figyelemre méltó kilátópontra, amely lenyűgöző óceáni panorámát nyújt, és óvatosan lépkedjen a kissé meredek és csúszós megközelítési úton.",
+            "ro": "Urcați spre acest punct de belvedere natural remarcabil, construit în copaci, care oferă panorame oceanice superbe, și pășiți cu grijă pe poteca de acces ușor abruptă.",
+            "en": "Ascend to this remarkable natural vantage point constructed seamlessly into the trees, providing sweeping oceanic panoramas, and tread carefully on the slightly steep approach path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihre malerische Fahrt am Wat Sri Thanu, um den traditionellen Charme zu erleben, und fahren Sie dann zu den weiten, unberührten Wattflächen von Ao Wok Tum.",
+          "midday": "Halten Sie kurz am atemberaubenden Sunset Low Tide Viewpoint an und werfen Sie einen kurzen Blick auf die üppige Umgebung des versteckten Monkeyland Resort.",
+          "afternoon": "Fahren Sie zurück ins lebhafte Zentrum, entspannen Sie am malerischen Ao Sri Thanu, bevor Sie in den Spaß im Wasserpark The Challenge Phangan eintauchen.",
+          "evening": "Beenden Sie Ihre umfassende Inseltour mit einem ruhigen Stopp in der Nähe von Samma Karuna und erreichen Sie schließlich das Bird's Nest für den Blick auf den Horizont."
+        },
+        "hu": {
+          "morning": "Kezdje festői autózását a Wat Sri Thanu hagyományos bájának felfedezésével, majd induljon dél felé, az Ao Wok Tum és az Ao Hin Kong érintetlen árapálysíkságaihoz.",
+          "midday": "Álljon meg egy pillanatra a lélegzetelállító Sunset Low Tide Viewpointnál, majd vessen egy gyors pillantást az eldugott Monkeyland Resort buja környezetére.",
+          "afternoon": "Vezessen vissza a nyüzsgő központ felé, pihenjen meg a festői Ao Sri Thanu parton, mielőtt belevetné magát a The Challenge Phangan vízi parkjának izgalmaiba.",
+          "evening": "Zárja átfogó szigeti túráját egy békés megállóval a Samma Karuna közelében, és végül érje el a Bird's Nest természetes magaslatait, hogy szemlélje a horizontot."
+        },
+        "ro": {
+          "morning": "Începeți traseul pitoresc la Wat Sri Thanu pentru farmecul său tradițional, apoi mergeți la sud spre întinderile virgine și spectaculoase de la Ao Wok Tum și Ao Hin Kong.",
+          "midday": "Opriți scurt la spectaculosul Sunset Low Tide Viewpoint pentru a-i vedea farmecul de zi, urmat de o privire rapidă asupra împrejurimilor luxuriante de la Monkeyland Resort.",
+          "afternoon": "Conduceți înapoi spre centrul vibrant, relaxându-vă la pitorescul Ao Sri Thanu înainte de a vă scufunda în distracția energică de la parcul acvatic The Challenge Phangan.",
+          "evening": "Încheiați turul insulei cu o oprire liniștită lângă Samma Karuna, ajungând în cele din urmă la înălțimile naturale de la Bird's Nest pentru a privi orizontul la asfințit."
+        },
+        "en": {
+          "morning": "Start your scenic drive at Wat Sri Thanu to experience its traditional charm, then head south to the expansive, untouched tidal flats of Ao Wok Tum and Ao Hin Kong.",
+          "midday": "Briefly stop by the breathtaking Sunset Low Tide Viewpoint to see its daytime charm, followed by a quick peek at the lush surroundings of the hidden Monkeyland Resort.",
+          "afternoon": "Drive back towards the vibrant center, relaxing at the picturesque Ao Sri Thanu before diving into the energetic fun at The Challenge Phangan water park.",
+          "evening": "Conclude your comprehensive island tour with a peaceful stop near Samma Karuna, eventually reaching the natural heights of the Bird's Nest to gaze out over the dusky horizon."
+        }
+      }
+    }
+  }
+}

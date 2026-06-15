@@ -1,0 +1,405 @@
+{
+  "city_id": "gruissan",
+  "anchor": {
+    "name": "Gruissan",
+    "coords": [
+      3.0883,
+      43.1069
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 11.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Barberousse-Turm",
+            "hu": "Barberousse-torony",
+            "ro": "Turnul Barberousse",
+            "en": "Barberousse Tower"
+          },
+          "coords": [
+            3.084444,
+            43.107778
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser Festung aus dem 12. Jahrhundert, um atemberaubende Panoramablicke zu genießen, und tragen Sie feste Schuhe für die unebenen Treppen.",
+            "hu": "Mássza meg ennek a 12. századi erődnek a romjait a falu feletti látványos panorámáért, és viseljen masszív cipőt a kissé egyenetlen kőlépcsők miatt.",
+            "ro": "Urcați pe ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică spectaculoasă asupra satului, purtând încălțăminte rezistentă pentru treptele de piatră.",
+            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Gruissan",
+            "hu": "Étang de Gruissan",
+            "ro": "Étang de Gruissan",
+            "en": "Étang de Gruissan"
+          },
+          "coords": [
+            3.080111,
+            43.110979
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den Ufern dieser ruhigen Lagune entlang, um lokale Vogelarten wie Flamingos zu beobachten, also bringen Sie ein Fernglas für das beste Erlebnis mit.",
+            "hu": "Sétáljon ezen a nyugodt lagúna partján, hogy megfigyelhesse a helyi madárvilágot, köztük flamingókat, ezért hozzon magával távcsövet a legjobb élményért.",
+            "ro": "Plimbați-vă pe malurile acestei lagune liniștite pentru a observa păsările locale, inclusiv flamingo, și aduceți un binoclu pentru o experiență optimă.",
+            "en": "Stroll along the edges of this serene lagoon to observe local birdlife, including flamingos, so bring binoculars for the best wildlife viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Grazel",
+            "hu": "Plage du Grazel",
+            "ro": "Plage du Grazel",
+            "en": "Plage du Grazel"
+          },
+          "coords": [
+            3.110046,
+            43.111943
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten Strand direkt am Hafen, der mit seinen ruhigen Gewässern und nahegelegenen Cafés ideal für Familien auf der Suche nach Ruhe ist.",
+            "hu": "Pihenjen ennek a védett, közvetlenül a kikötőben található strandnak a finom homokján, amely tökéletes a nyugodt vizet és közeli kávézókat kereső családoknak.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, situată chiar în zona portului, ideală pentru familiile care caută ape calme și cafenele în apropiere.",
+            "en": "Relax on the fine sands of this sheltered beach located right in the harbor area, making it perfect for families seeking calm waters and nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Gruissan",
+            "hu": "Gruissan Kikötő",
+            "ro": "Portul Gruissan",
+            "en": "Gruissan Marina"
+          },
+          "coords": [
+            3.145703,
+            43.139244
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
+            "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chalets",
+            "hu": "Plage des Chalets",
+            "ro": "Plage des Chalets",
+            "en": "Plage des Chalets"
+          },
+          "coords": [
+            3.11673,
+            43.10214
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und suchen Sie sich einen malerischen Platz in Strandnähe für großartige Fotos.",
+            "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és keressen egy festői helyet a víz közelében, hogy nagyszerű fényképeket készíthessen.",
+            "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și găsiți un loc pitoresc lângă apă pentru a face fotografii grozave.",
+            "en": "Admire the iconic wooden stilt houses that make this expansive beach famous, and find a picturesque spot near the water to capture some amazing photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im Herzen des Dorfes am historischen Barberousse-Turm, der einen weiten Blick über die Region bietet. Von dort aus machen wir einen kurzen Spaziergang zum Étang de Gruissan. Mittags erreichen wir den Plage du Grazel, einen herrlichen geschützten Strand, der sich perfekt für eine erholsame Pause eignet. Den Nachmittag verbringen wir damit, den lebhaften Yachthafen zu entdecken, gefolgt von einem krönenden Abschluss am legendären Plage des Chalets.",
+        "hu": "Sétánkat a falu szívében, a történelmi Barberousse-toronynál kezdjük, ahonnan elsöprő kilátás nyílik a régióra. Innen egy rövid sétát teszünk a nyugodt Étang de Gruissan-hoz. A dél megérkezik velünk a Plage du Grazel-hez, egy csodálatos, védett strandhoz, amely tökéletes egy pihentető szünethez. A délutánt a nyüzsgő kikötő felfedezésével töltjük, majd egy jutalmazó finálé következik az ikonikus Plage des Chalets-nél.",
+        "ro": "Ne începem turul pietonal în inima satului la Turnul Barberousse, oferind vederi panoramice asupra regiunii. De acolo, facem o scurtă plimbare până la seninul Étang de Gruissan pentru a admira apele lagunei. Amiaza ne aduce la Plage du Grazel, o plajă adăpostită, perfectă pentru o pauză relaxantă. După-amiaza este dedicată descoperirii portului plin de viață, urmată de un final memorabil la emblematica Plage des Chalets.",
+        "en": "We begin our walking tour in the heart of the village at the historic Barberousse Tower, offering sweeping views of the region. From there, we take a short stroll to the serene Étang de Gruissan to admire the peaceful lagoon waters. Midday brings us to Plage du Grazel, a wonderful sheltered beach perfect for a relaxing rest. The afternoon is spent discovering the vibrant Gruissan Marina, followed by a rewarding finale at the iconic Plage des Chalets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Barberousse-Turm",
+            "hu": "Barberousse-torony",
+            "ro": "Turnul Barberousse",
+            "en": "Barberousse Tower"
+          },
+          "coords": [
+            3.084444,
+            43.107778
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser Festung aus dem 12. Jahrhundert, um atemberaubende Panoramablicke zu genießen, und tragen Sie feste Schuhe für die unebenen Treppen.",
+            "hu": "Mássza meg ennek a 12. századi erődnek a romjait a falu feletti látványos panorámáért, és viseljen masszív cipőt a kissé egyenetlen kőlépcsők miatt.",
+            "ro": "Urcați pe ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică spectaculoasă asupra satului, purtând încălțăminte rezistentă pentru treptele de piatră.",
+            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chalets",
+            "hu": "Plage des Chalets",
+            "ro": "Plage des Chalets",
+            "en": "Plage des Chalets"
+          },
+          "coords": [
+            3.11673,
+            43.10214
+          ],
+          "category": "natural",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und kommen Sie früh, um einen guten Platz am Wasser für spannendes Kitesurfen zu ergattern.",
+            "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és érkezzen korán, hogy jó helyet biztosítson magának a víz mellett a kiteszörfözéshez.",
+            "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și ajungeți devreme pentru a prinde un loc bun lângă apă pentru kitesurfing.",
+            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a good spot near the water for kite-surfing."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Gruissan",
+            "hu": "Gruissan Kikötő",
+            "ro": "Portul Gruissan",
+            "en": "Gruissan Marina"
+          },
+          "coords": [
+            3.145703,
+            43.139244
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
+            "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Ayguades",
+            "hu": "Plage des Ayguades",
+            "ro": "Plage des Ayguades",
+            "en": "Plage des Ayguades"
+          },
+          "coords": [
+            3.135049,
+            43.122324
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Nachmittag an diesem weitläufigen Sandstrand mit natürlichen Dünen und denken Sie an einen Sonnenschirm, da es kaum Schatten gibt.",
+            "hu": "Élvezze a békés délutánt ezen a hatalmas, természetes dűnékkel szegélyezett homokos szakaszon, és ne felejtsen el napernyőt vinni, mivel alig van árnyék.",
+            "ro": "Bucurați-vă de o după-amiază pașnică pe această plajă imensă flancată de dune, asigurându-vă că aduceți o umbrelă de soare, deoarece umbra naturală este rară.",
+            "en": "Enjoy a peaceful afternoon on this expansive sandy stretch backed by natural dunes, remembering to pack a parasol as natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Massif de la Clape",
+            "hu": "Massif de la Clape",
+            "ro": "Massif de la Clape",
+            "en": "Massif de la Clape"
+          },
+          "coords": [
+            3.1,
+            43.1583
+          ],
+          "category": "natural",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses schroffe Kalksteingebirge, um versteckte Weinberge zu entdecken, und stellen Sie sicher, dass Sie ausreichend Trinkwasser dabei haben.",
+            "hu": "Túrázzon végig ezen a zord mészkőhegységen, hogy felfedezze a rejtett szőlőültetvényeket és fenyőerdőket, és mindenképpen vigyen magával bőséges ivóvizet.",
+            "ro": "Explorați pe jos acest masiv calcaros accidentat pentru a descoperi podgorii ascunse și păduri de pini aromate, luând cu dumneavoastră suficientă apă de băut.",
+            "en": "Hike through this rugged limestone mountain range to discover hidden vineyards and aromatic pine forests, ensuring you carry plenty of drinking water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Fahrradabenteuer beginnt am beeindruckenden Barberousse-Turm, einer alten Ruine mit Blick auf das Dorf. Eine frische Fahrt nach Süden bringt uns zum Plage des Chalets mit seinen einzigartigen Pfahlbauten. Die Reise geht weiter zum belebten Yachthafen von Gruissan für eine lebhafte Mittagsatmosphäre. Am Nachmittag radeln wir zum Plage des Ayguades für eine Strandpause, bevor wir unseren Tag auf den Wegen des Massif de la Clape beenden.",
+        "hu": "Kerékpáros kalandunk a lenyűgöző Barberousse-toronynál kezdődik, ahonnan kilátás nyílik a falura. Egy szellős déli tekerés elvisz minket a Plage des Chalets-hez, ahol megcsodálhatjuk az egyedi cölöpházakat. Az utazás a nyüzsgő kikötő felé folytatódik egy élénk déli hangulatért. Délután a Plage des Ayguades felé pedálozunk egy tengerparti szünetre, majd a Massif de la Clape ösvényein fejezzük be a napot.",
+        "ro": "Aventura noastră cu bicicleta începe cu impresionantul Turn Barberousse, o ruină antică ce domină satul. O plimbare revigorantă spre sud ne duce la Plage des Chalets, unde putem admira casele pe piloni. Călătoria continuă spre portul plin de viață pentru o atmosferă de prânz animată. După-amiaza, pedalăm către Plage des Ayguades pentru o pauză pe plajă înainte de a ne încheia ziua pe traseele Masivului la Clape.",
+        "en": "Our cycling adventure starts with the impressive Barberousse Tower, an ancient ruin overlooking the village and surrounding lagoons. A breezy ride south takes us to Plage des Chalets, where we can marvel at the unique stilt houses. The journey continues to the bustling Gruissan Marina for a lively midday atmosphere and beautiful boat views. In the afternoon, we pedal to Plage des Ayguades for a beach break before finishing our day amidst the trails of Massif de la Clape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 25.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Auzils",
+            "hu": "Notre-Dame-des-Auzils Kápolna",
+            "ro": "Capela Notre-Dame-des-Auzils",
+            "en": "Notre-Dame-des-Auzils Chapel"
+          },
+          "coords": [
+            3.092778,
+            43.138194
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Seekapelle, die von einem ergreifenden Seemannsfriedhof umgeben ist, und nehmen Sie sich Zeit, die historischen Gedenktafeln zu lesen.",
+            "hu": "Látogasson el ebbe a dombok között fekvő tengerészeti kápolnába a megható tengerésztemetővel, és szánjon időt a lenyűgöző történelmi emléktáblák elolvasására.",
+            "ro": "Vizitați această capelă maritimă înconjurată de un cimitir marin emoționant în dealuri și acordați-vă timp pentru a citi plăcile memoriale istorice fascinante.",
+            "en": "Visit this maritime chapel surrounded by a poignant sailors' cemetery in the hills, and take your time reading the fascinating historical memorial plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Massif de la Clape",
+            "hu": "Massif de la Clape",
+            "ro": "Massif de la Clape",
+            "en": "Massif de la Clape"
+          },
+          "coords": [
+            3.1,
+            43.1583
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wilde Schönheit dieses Naturschutzgebiets auf kurzen Wanderungen und vergessen Sie nicht, an heißen Tagen genügend Trinkwasser mitzuführen.",
+            "hu": "Fedezze fel ennek a természetvédelmi területnek a vad szépségét rövid túrákon, és ne felejtsen el elegendő ivóvizet vinni a forró napokon.",
+            "ro": "Explorați frumusețea sălbatică a acestei rezervații naturale în scurte drumeții și nu uitați să purtați cu dumneavoastră apă potabilă în zilele toride.",
+            "en": "Explore the wild beauty of this nature reserve on short scenic hikes, and do not forget to carry ample drinking water during hot summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Gruissan",
+            "hu": "Gruissan Kikötő",
+            "ro": "Portul Gruissan",
+            "en": "Gruissan Marina"
+          },
+          "coords": [
+            3.145703,
+            43.139244
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
+            "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
+            "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chalets",
+            "hu": "Plage des Chalets",
+            "ro": "Plage des Chalets",
+            "en": "Plage des Chalets"
+          },
+          "coords": [
+            3.11673,
+            43.10214
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und kommen Sie früh, um einen guten Platz zum Fotografieren der Küste zu ergattern.",
+            "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és érkezzen korán, hogy jó helyet biztosítson magának a tengerpart fotózásához.",
+            "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și ajungeți devreme pentru a prinde un loc bun pentru fotografierea coastei.",
+            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a great spot for taking coastal photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bages",
+            "hu": "Étang de Bages",
+            "ro": "Étang de Bages",
+            "en": "Étang de Bages"
+          },
+          "coords": [
+            2.999547,
+            43.109492
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Schönheit dieser weiten Küstenlagune mit ihren traditionellen Fischerbooten und planen Sie Ihren Besuch für den späten Nachmittag zum Sonnenuntergang.",
+            "hu": "Tapasztalja meg e hatalmas, hagyományos halászhajókkal tarkított parti lagúna nyugodt szépségét, és időzítse látogatását késő délutánra egy lenyűgöző naplemente miatt.",
+            "ro": "Experimentați frumusețea liniștită a acestei lagune de coastă cu bărci tradiționale de pescuit, programându-vă vizita după-amiaza târziu pentru un apus uimitor.",
+            "en": "Experience the tranquil beauty of this vast coastal lagoon dotted with traditional fishing boats, timing your visit for late afternoon to catch a stunning sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Autotour an der ruhigen Kapelle Notre-Dame-des-Auzils in den Kalksteinhügeln. Als nächstes erkunden wir die wilde Schönheit des Massif de la Clape. Gegen Mittag erreichen wir den lebhaften Yachthafen von Gruissan, um am Wasser zu speisen und zwischen den Yachten zu schlendern. Unser Nachmittag umfasst einen Besuch der berühmten Pfahlbauten, der mit einem spektakulären Sonnenuntergang am Étang de Bages endet.",
+        "hu": "Autós túránkat a mészkődombok között megbúvó békés Notre-Dame-des-Auzils kápolnánál kezdjük. Ezután felfedezzük a Massif de la Clape vad szépségét. Dél körül megérkezünk a nyüzsgő kikötőbe egy vízparti étkezésre és egy sétára a jachtok között. Délután meglátogatjuk a híres cölöpházakat a Plage des Chalets-nél, majd egy látványos naplementével zárunk az Étang de Bages-nél.",
+        "ro": "Începem turul cu mașina la liniștita Capelă Notre-Dame-des-Auzils, ascunsă în dealurile calcaroase. Apoi, explorăm frumusețea sălbatică a Masivului la Clape. Până la amiază, ajungem în portul vibrant pentru a lua masa pe malul apei. După-amiaza include o vizită la faimoasele case pe piloni de la Plage des Chalets, încheindu-se cu un apus spectaculos de soare la Étang de Bages.",
+        "en": "We start our driving tour at the tranquil Notre-Dame-des-Auzils Chapel, a serene spot tucked into the limestone hills. Next, we explore the wild beauty of Massif de la Clape, perfect for nature lovers. By midday, we arrive at the vibrant Gruissan Marina for waterfront dining and a stroll among the yachts. Our afternoon features a visit to the famous stilt houses at Plage des Chalets, concluding with a spectacular sunset at Étang de Bages."
+      }
+    }
+  }
+}

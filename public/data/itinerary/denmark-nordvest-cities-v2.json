@@ -1,0 +1,474 @@
+{
+  "city_id": "denmark-nordvest-cities-v2",
+  "anchor": {
+    "name": "Nordvest",
+    "coords": [
+      12.52,
+      55.7
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:36",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grøndalskirken",
+            "hu": "Grøndalskirken",
+            "ro": "Grøndalskirken",
+            "en": "Grøndalskirken"
+          },
+          "coords": [
+            12.512472,
+            55.69584
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistische Architektur der Grøndalskirche, ein beeindruckendes Gemeindewahrzeichen, wo Sie morgens in aller Stille die Akustik testen sollten.",
+            "hu": "Csodálja meg a Grøndalskirken modernista építészetét, a közösség lenyűgöző szimbólumát, ahol egy csendes reggeli pillanatban feltétlenül érdemes tesztelni az akusztikát.",
+            "ro": "Admirați arhitectura modernistă a Grøndalskirken, un simbol impresionant al comunității, unde trebuie neapărat să verificați acustica într-o dimineață liniștită.",
+            "en": "Admire the modernist architecture of Grøndalskirken, an impressive community landmark where you should definitely check the acoustics during a quiet morning moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefanskirken",
+            "hu": "Stefanskirken",
+            "ro": "Stefanskirken",
+            "en": "Stefanskirken"
+          },
+          "coords": [
+            12.544537,
+            55.696629
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Stefanskirche im Herzen von Nørrebro, bekannt für ihren Gemeinschaftsgeist, und ruhen Sie sich kurz im charmanten angrenzenden Park aus.",
+            "hu": "Fedezze fel a Nørrebro szívében található Stefanskirkent, amely közösségi szelleméről ismert, és pihenjen egy pillanatot a hangulatos szomszédos parkban.",
+            "ro": "Explorați Stefanskirken în inima cartierului Nørrebro, cunoscută pentru spiritul său comunitar, și odihniți-vă un moment în parcul fermecător din apropiere.",
+            "en": "Explore Stefanskirken in the heart of Nørrebro, known for its engaging community spirit, and take a moment to rest in the charming adjoining park before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "De Gamles Bys Kirke",
+            "hu": "De Gamles Bys Kirke",
+            "ro": "De Gamles Bys Kirke",
+            "en": "De Gamles Bys Kirke"
+          },
+          "coords": [
+            12.558117,
+            55.694892
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ruhige De Gamles Bys Kirke, die eng mit Kopenhagens Pflegegeschichte verbunden ist, und achten Sie bei einem Spaziergang auf die schönen Backsteindetails.",
+            "hu": "Látogasson el a békés De Gamles Bys Kirke-hez, amely mélyen kapcsolódik Koppenhága gondozástörténetéhez, és sétája során figyelje meg a gyönyörű téglafalakat.",
+            "ro": "Vizitați liniștita De Gamles Bys Kirke, strâns legată de istoria asistenței din Copenhaga, și observați detaliile frumoase din cărămidă în timp ce vă plimbați.",
+            "en": "Visit the serene De Gamles Bys Kirke, deeply connected to Copenhagen's care history, and notice the beautiful brickwork details while strolling through the old city grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John's Church",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Saint John's Church"
+          },
+          "coords": [
+            12.561865,
+            55.691932
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die Johanneskirche, um ihr prächtiges Altarbild, ein wahres historisches Juwel, zu bewundern, und versuchen Sie, während einer Chorprobe vorbeizuschauen.",
+            "hu": "Lépjen be a Szent János templomba, hogy megcsodálja a csodálatos oltárképét, egy igazi történelmi gyöngyszemet, és próbáljon meg egy helyi kóruspróba idején érkezni.",
+            "ro": "Pășiți în Biserica Sf. Ioan pentru a admira altarul său magnific, o adevărată bijuterie istorică, și încercați să o vizitați în timpul unei repetiții a corului local.",
+            "en": "Step inside Saint John's Church to view its magnificent altarpiece, a true historic gem, and try visiting during a local choir rehearsal for an unforgettable atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaagaard Teater",
+            "hu": "Blaagaard Teater",
+            "ro": "Blaagaard Teater",
+            "en": "Blaagaard Teater"
+          },
+          "coords": [
+            12.558683,
+            55.688499
+          ],
+          "category": "cultural",
+          "arrive_at": "12:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am Blaagaard Teater, einem wichtigen Ort für zeitgenössische Kunst, wo Sie Tickets im Voraus buchen sollten, um ein spannendes Stück zu sehen.",
+            "hu": "Zárja sétáját a Blaagaard Teaternél, a kortárs előadóművészet kiemelkedő helyszínén, ahol érdemes előre jegyet foglalni egy elgondolkodtató darab megtekintéséhez.",
+            "ro": "Încheiați plimbarea la Blaagaard Teater, un loc proeminent pentru artele spectacolului contemporan, unde ar trebui să rezervați bilete în avans pentru o piesă provocatoare.",
+            "en": "Conclude your walk at Blaagaard Teater, a prominent venue for contemporary performance art, where you should book tickets in advance to catch an edgy, thought-provoking play."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in der ruhigen Gemeinde der Grøndalskirke, bevor Sie in das lebhafte Nørrebro aufbrechen. Mittags bewundern Sie die historische De Gamles Bys Kirke bei einem kurzen Bummel. Am Nachmittag bestaunen Sie das Altarbild der Johanneskirche. Lassen Sie den Tag mit zeitgenössischer Kunst im bekannten Blaagaard Teater ausklingen.",
+        "hu": "Kezdje sétáját a Grøndalskirken nyugodt közösségének felfedezésével, mielőtt a nyüzsgő Nørrebro negyed felé venné az irányt. Délben csodálja meg a történelmi De Gamles Bys Kirke-t. Délután gyönyörködjön a Szent János templom oltárképében, majd zárja a napot a kortárs előadóművészet elmélyülésével a híres Blaagaard Teaterben.",
+        "ro": "Începeți plimbarea explorând comunitatea liniștită de la Grøndalskirken înainte de a vă îndrepta spre cartierul vibrant Nørrebro. La amiază, admirați istorica De Gamles Bys Kirke. După-amiaza, minunați-vă de altarul Bisericii Sf. Ioan. Încheiați ziua bucurându-vă de arta spectacolului contemporan la proeminentul Blaagaard Teater.",
+        "en": "Begin your walk exploring the tranquil community of Grøndalskirken before heading to the vibrant Nørrebro district. Midday involves admiring the historic De Gamles Bys Kirke and enjoying a short stroll. In the afternoon, marvel at the altarpiece of Saint John's Church. End your day soaking in contemporary performance art at the prominent Blaagaard Teater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brønshøj Kirke",
+            "hu": "Brønshøj Kirke",
+            "ro": "Brønshøj Kirke",
+            "en": "Brønshøj Kirke"
+          },
+          "coords": [
+            12.498717,
+            55.705837
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an der Brønshøj Kirke, einer der ältesten Kirchen der Gegend mit mittelalterlichen Wurzeln, und untersuchen Sie die alten Verteidigungsmauern.",
+            "hu": "Kezdje a középkori gyökerekkel rendelkező Brønshøj Kirkénél, a környék egyik legrégebbi templománál, és vizsgálja meg az egykori viharos múltra utaló ősi védőfalakat.",
+            "ro": "Începeți la Brønshøj Kirke, una dintre cele mai vechi biserici cu rădăcini medievale, și examinați zidurile vechi de apărare care sugerează trecutul turbulent.",
+            "en": "Start at Brønshøj Kirke, one of the oldest churches in the area with medieval roots, and examine the ancient defensive walls that hint at the region's turbulent past."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellahøj Kirke",
+            "hu": "Bellahøj Kirke",
+            "ro": "Bellahøj Kirke",
+            "en": "Bellahøj Kirke"
+          },
+          "coords": [
+            12.509623,
+            55.705429
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante geometrische Design der Bellahøj Kirke, einer Ikone der modernen dänischen Kirchenarchitektur, und fotografieren Sie die Fassade von unten.",
+            "hu": "Csodálja meg a Bellahøj Kirke lenyűgöző geometriai kialakítását, a modern dán templomépítészet ikonját, és fényképezze le az impozáns homlokzatot az alsó utcaszintről.",
+            "ro": "Admirați designul geometric uimitor al Bellahøj Kirke, un icon al arhitecturii ecleziastice daneze moderne, și fotografiați fațada impresionantă de la nivelul străzii.",
+            "en": "Marvel at Bellahøj Kirke's striking geometric design, an icon of modern Danish church architecture, and photograph the impressive facade from the lower street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Taksigelseskirken",
+            "hu": "Taksigelseskirken",
+            "ro": "Taksigelseskirken",
+            "en": "Taksigelseskirken"
+          },
+          "coords": [
+            12.560936,
+            55.705491
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Taksigelseskirche, um ihr schlichtes, friedliches Inneres zu erleben, und kommen Sie kurz vor Mittag an, um die klangvollen Kirchenglocken zu hören.",
+            "hu": "Látogasson el a Taksigelseskirkenbe, hogy megtapasztalja szigorú, mégis békés belső terét, és érkezzen kevéssel dél előtt, hogy hallja a zengő templomharangokat.",
+            "ro": "Vizitați Taksigelseskirken pentru a experimenta interiorul său auster, dar pașnic, și ajungeți chiar înainte de prânz pentru a auzi clopotele răsunătoare ale bisericii.",
+            "en": "Visit Taksigelseskirken to experience its austere yet peaceful interior, a perfect space for reflection, and arrive just before noon to hear the resonant church bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Stefanskirken",
+            "hu": "Stefanskirken",
+            "ro": "Stefanskirken",
+            "en": "Stefanskirken"
+          },
+          "coords": [
+            12.544537,
+            55.696629
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an der Stefanskirche, einem wichtigen Gemeindezentrum im lebhaften Nørrebro, und schließen Sie Ihr Fahrrad sicher ab, während Sie einen Kaffee holen.",
+            "hu": "Tartson szünetet a Stefanskirkennél, a nyüzsgő Nørrebro egyik fontos közösségi központjánál, és zárja le biztonságosan kerékpárját, amíg iszik egy kávét a közelben.",
+            "ro": "Faceți o pauză la Stefanskirken, un centru comunitar esențial în vibrantul Nørrebro, și asigurați-vă bicicleta în apropiere în timp ce savurați o cafea rapidă.",
+            "en": "Take a break at Stefanskirken, an essential community hub in vibrant Nørrebro, and securely lock your bike nearby while you grab a quick coffee from a local roastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Aveny-T",
+            "hu": "Aveny-T",
+            "ro": "Aveny-T",
+            "en": "Aveny-T"
+          },
+          "coords": [
+            12.533198,
+            55.675005
+          ],
+          "category": "cultural",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Aveny-T, ein lebendiges Theater für junges Publikum und moderne Dramen, und überprüfen Sie die Plakate draußen auf kommende Avantgarde-Produktionen.",
+            "hu": "Fedezze fel az Aveny-T-t, a fiatal közönségnek és modern drámáknak szentelt élénk színházat, és nézze meg a szabadtéri plakátokat a közelgő avantgárd produkciókért.",
+            "ro": "Descoperiți Aveny-T, un teatru plin de viață dedicat publicului tânăr și dramelor moderne, și verificați afișele exterioare pentru viitoarele producții avangardiste.",
+            "en": "Discover Aveny-T, a lively theater dedicated to young audiences and modern dramas, and check their outdoor posters for upcoming avant-garde productions."
+          }
+        },
+        {
+          "name": {
+            "de": "Alhambra - Museet for humor og satire",
+            "hu": "Alhambra - Museet for humor og satire",
+            "ro": "Alhambra - Museet for humor og satire",
+            "en": "Alhambra - Museet for humor og satire"
+          },
+          "coords": [
+            12.531562,
+            55.675452
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lachen Sie lauthals im Alhambra, Dänemarks wichtigstem Museum für Humor und Satire, und verpassen Sie nicht die interaktive Karikaturenausstellung am späten Nachmittag.",
+            "hu": "Nevessen egy jót az Alhambrában, Dánia vezető humor- és szatíramúzeumában, és ne hagyja ki az interaktív karikatúra-kiállítást, amely feldobja a késő délutánját.",
+            "ro": "Râdeți cu poftă la Alhambra, principalul muzeu de umor și satiră din Danemarca, și nu ratați expoziția interactivă de caricaturi pentru a vă înveseli după-amiaza.",
+            "en": "Laugh out loud at Alhambra, Denmark’s premier museum for humor and satire, and don't miss the interactive caricatures exhibit to lighten up your late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an den mittelalterlichen Wurzeln der Brønshøj Kirke und radeln Sie zur geometrischen Bellahøj Kirke. Gegen Mittag fahren Sie zur Taksigelseskirche und tauchen an der Stefanskirche in Nørrebro ein. Nachmittags besuchen Sie moderne Dramen im Aveny-T und beenden die Tour im Satiremuseum Alhambra.",
+        "hu": "Kezdje kerékpártúráját a Brønshøj Kirke középkori gyökereivel, majd tekerjen a geometrikus Bellahøj Kirke felé. Dél közeledtével lovagoljon el a Taksigelseskirkenhez, és merüljön el Nørrebroban a Stefanskirkennél. Töltse a délutánt az Aveny-T modern drámáival, és fejezze be a túrát az Alhambra szatíramúzeumában.",
+        "ro": "Începeți turul cu bicicleta la rădăcinile medievale ale Brønshøj Kirke, pedalând spre geometrica Bellahøj Kirke. Pe măsură ce se apropie prânzul, mergeți la Taksigelseskirken și explorați Nørrebro la Stefanskirken. Petreceți după-amiaza la Aveny-T și terminați turul râzând cu poftă la muzeul de satiră Alhambra.",
+        "en": "Kick off your cycling tour with the medieval roots of Brønshøj Kirke, pedaling towards the geometric Bellahøj Kirke. As noon approaches, ride to Taksigelseskirken and immerse yourself in Nørrebro at Stefanskirken. Spend your afternoon catching modern drama at Aveny-T, and finish the tour laughing your heart out at Alhambra’s satire museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 12.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Taksigelseskirken",
+            "hu": "Taksigelseskirken",
+            "ro": "Taksigelseskirken",
+            "en": "Taksigelseskirken"
+          },
+          "coords": [
+            12.560936,
+            55.705491
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an der Taksigelseskirche, die für ihre neugotischen Elemente berühmt ist, wo ausreichend Parkplätze an der Straße einen bequemen ersten Halt bieten.",
+            "hu": "Kezdje autós túráját a Taksigelseskirkennél, amely egyedi neogótikus elemeiről híres, és ahol a bőséges közeli utcai parkolás kényelmes első megállót tesz lehetővé.",
+            "ro": "Începeți traseul la Taksigelseskirken, celebră pentru elementele sale neogotice unice, unde parcarea stradală amplă din apropiere o face o primă oprire convenabilă.",
+            "en": "Begin your drive at Taksigelseskirken, celebrated for its unique neo-gothic elements, where ample nearby street parking makes it a convenient first stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Brønshøj Kirke",
+            "hu": "Brønshøj Kirke",
+            "ro": "Brønshøj Kirke",
+            "en": "Brønshøj Kirke"
+          },
+          "coords": [
+            12.498717,
+            55.705837
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur Brønshøj Kirke, um ihren historischen Charme aus den 1180er Jahren zu bewundern, und machen Sie einen kurzen Spaziergang über den gepflegten Friedhof.",
+            "hu": "Vezessen el a Brønshøj Kirkéhez, hogy tanúja legyen az 1180-as évek óta büszkén álló épület történelmi varázsának, és sétáljon egyet a kifogástalanul gondozott temetőben.",
+            "ro": "Conduceți până la Brønshøj Kirke pentru a asista la farmecul său istoric, datând din anii 1180, și faceți o scurtă plimbare prin cimitirul său impecabil întreținut.",
+            "en": "Drive out to Brønshøj Kirke to witness its historical charm, standing proudly since the 1180s, and take a quick stroll through its impeccably kept cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Flintholm Kirke",
+            "hu": "Flintholm Kirke",
+            "ro": "Flintholm Kirke",
+            "en": "Flintholm Kirke"
+          },
+          "coords": [
+            12.498971,
+            55.679041
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie an der Flintholm Kirke, einer wunderschön integrierten modernen Gemeinde inmitten von Wohnblocks, und beobachten Sie das atemberaubende natürliche Licht.",
+            "hu": "Álljon meg a Flintholm Kirkénél, hogy lássa a lakótömbök közé beékelt, gyönyörűen integrált modern egyházközséget, és figyelje meg az oltárablakokon átszűrődő természetes fényt.",
+            "ro": "Opriți-vă la Flintholm Kirke pentru a vedea o parohie modernă frumos integrată, și observați lumina naturală uimitoare care se filtrează prin ferestrele altarului.",
+            "en": "Stop by Flintholm Kirke to see a beautifully integrated modern parish, nestled within residential blocks, and observe the stunning natural light filtering through the altar windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Møstings Hus",
+            "hu": "Møstings Hus",
+            "ro": "Møstings Hus",
+            "en": "Møstings Hus"
+          },
+          "coords": [
+            12.52776,
+            55.678374
+          ],
+          "category": "museum",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie Møstings Hus, ein elegantes Landhaus aus dem 19. Jahrhundert, das heute als Kunstraum dient, und prüfen Sie das Programm für wechselnde zeitgenössische Kunstausstellungen.",
+            "hu": "Fedezze fel a Møstings Hust, a 19. századi elegáns vidéki házból lett művészeti teret, és ellenőrizze a helyi programot, hogy látogatását a kortárs művészeti kiállításokhoz igazítsa.",
+            "ro": "Explorați Møstings Hus, o casă de țară elegantă din secolul 19 devenită spațiu de artă, și verificați programul pentru a vă coordona vizita cu expozițiile de artă contemporană.",
+            "en": "Explore Møstings Hus, an elegant 19th-century country house turned art space, and check the local schedule to coordinate your visit with their rotating contemporary art shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Storm P. Museet",
+            "hu": "Storm P. Museet",
+            "ro": "Storm P. Museet",
+            "en": "Storm P. Museet"
+          },
+          "coords": [
+            12.53197,
+            55.674424
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die skurrile Welt des Storm P. Museums ein, das dem beliebten dänischen Karikaturisten gewidmet ist, und stöbern Sie im Souvenirladen nach humorvollen Andenken.",
+            "hu": "Merüljön el a Storm P. Museet különös világában, amelyet a szeretett dán karikaturistának szenteltek, és böngésszen az ajándékboltban egyedi, humoros ajándéktárgyakért.",
+            "ro": "Scufundați-vă în lumea ciudată a Storm P. Museet, dedicat iubitului caricaturist danez, și răsfoiți magazinul de suveniruri pentru amintiri unice și pline de umor.",
+            "en": "Immerse yourself in the quirky world of Storm P. Museet, dedicated to the beloved Danish cartoonist, and browse the gift shop for unique, humorous souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt Thomas Kirke",
+            "hu": "Sankt Thomas Kirke",
+            "ro": "Sankt Thomas Kirke",
+            "en": "Sankt Thomas Kirke"
+          },
+          "coords": [
+            12.541756,
+            55.684311
+          ],
+          "category": "religious",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Halten Sie an der Sankt Thomas Kirche, einem architektonischen Highlight in Frederiksberg, und beachten Sie den imposanten Turm, der als verlässliches Wahrzeichen dient.",
+            "hu": "Tartsön szünetet a Sankt Thomas Kirkénél, Frederiksberg kiemelkedő építészeti látványosságánál, és figyelje meg az impozáns tornyot, amely megbízható navigációs tájékozódási pont.",
+            "ro": "Faceți o pauză la Sankt Thomas Kirke, un punct de atracție arhitectural în Frederiksberg, și observați turnul impunător care servește ca un reper de navigație de încredere.",
+            "en": "Pause at Sankt Thomas Kirke, a prominent architectural highlight in Frederiksberg, and note the imposing tower that stands as a reliable navigational landmark in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John's Church",
+            "hu": "Szent János templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Saint John's Church"
+          },
+          "coords": [
+            12.561865,
+            55.691932
+          ],
+          "category": "religious",
+          "arrive_at": "15:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an der Johanneskirche, einem prächtigen Heiligtum aus rotem Backstein, dessen historisches Ambiente einen Tag voller architektonischer Entdeckungen abschließt.",
+            "hu": "Fejezze be autós túráját a Szent János templomnál, egy csodálatos vöröstéglás szentélynél, ahol a nagyszerű, történelmi hangulat tökéletesen zárja az építészeti felfedezések napját.",
+            "ro": "Încheiați călătoria cu mașina la Biserica Sf. Ioan, un sanctuar magnific din cărămidă roșie, unde ambianța istorică grandioasă încheie perfect o zi de descoperiri arhitecturale.",
+            "en": "Finish your road trip at Saint John's Church, a magnificent red-brick sanctuary where the grand, historic ambiance perfectly concludes a day of architectural discovery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrtag mit der neugotischen Taksigelseskirche, bevor Sie zur mittelalterlichen Brønshøj Kirke fahren. Ihre Mittagsreise führt Sie durch die moderne Gemeinde Flintholm Kirke und das elegante Møstings Hus. Genießen Sie nachmittags die Cartoons im Storm P. Museet und beenden Sie den Ausflug an der Johanneskirche.",
+        "hu": "Kezdje az autós napot a neogótikus Taksigelseskirken megcsodálásával, mielőtt a középkori Brønshøj Kirkéhez cirkálna. A déli utazás a Flintholm Kirke modern egyházközségén és az elegáns Møstings Huson vezet keresztül. Délután élvezze a karikatúrákat a Storm P. Museet-ben, és fejezze be az utat a csodálatos Szent János templomnál.",
+        "ro": "Începeți ziua de condus admirând neogotica Taksigelseskirken înainte de a merge la medievala Brønshøj Kirke. Călătoria de la amiază vă poartă prin parohia modernă Flintholm Kirke și eleganta Møstings Hus. După-amiaza, bucurați-vă de desenele animate la Storm P. Museet și finalizați călătoria la superba Biserică Sf. Ioan.",
+        "en": "Start your driving day admiring the neo-gothic Taksigelseskirken before cruising to the medieval Brønshøj Kirke. Your midday journey takes you through the modern parish of Flintholm Kirke and the elegant Møstings Hus. In the afternoon, enjoy the cartoons at Storm P. Museet, and finalize the trip at the magnificent Saint John's Church."
+      }
+    }
+  }
+}

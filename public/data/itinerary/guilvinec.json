@@ -1,0 +1,405 @@
+{
+  "city_id": "guilvinec",
+  "anchor": {
+    "name": "Guilvinec",
+    "coords": [
+      -4.2839,
+      47.7953
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 2.11,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haliotika - La Cité de la Pêche",
+            "hu": "Haliotika - La Cité de la Pêche",
+            "ro": "Haliotika - La Cité de la Pêche",
+            "en": "Haliotika - La Cité de la Pêche"
+          },
+          "coords": [
+            -4.283626,
+            47.793012
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftige Fischauktion von der Besuchergalerie aus, aber kommen Sie früh, um die beste Action zu sehen.",
+            "hu": "Nézze meg a nyüzsgő halárverést a látogatói galériáról, hogy lássa a napi fogás érkezését, de érkezzen korán a legjobb pillanatokért.",
+            "ro": "Urmăriți licitația aglomerată de pește din galeria pentru vizitatori pentru a vedea cum sosește captura zilnică, dar veniți devreme pentru cea mai bună acțiune.",
+            "en": "Watch the bustling fish auction from the viewing gallery to see the daily catch arrive, but come early for the best action."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Guilvinec",
+            "hu": "Phare du Guilvinec",
+            "ro": "Phare du Guilvinec",
+            "en": "Phare du Guilvinec"
+          },
+          "coords": [
+            -4.284783,
+            47.791791
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Hafenlicht, das Seeleuten seit Generationen den Weg weist, und fangen Sie es am besten mit den Fischerbooten im Vordergrund ein.",
+            "hu": "Fotózza le ezt az ikonikus kikötői lámpát, amely generációk óta irányítja a tengerészeket, és mindenképpen örökítse meg a halászhajókkal az előtérben.",
+            "ro": "Fotografiați acest far emblematic care a ghidat marinarii de generații, asigurându-vă că îl surprindeți cu bărcile de pescuit în prim-plan.",
+            "en": "Photograph this iconic harbor light which has guided sailors for generations, making sure to capture it with the fishing boats in the foreground."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Men-Meur",
+            "hu": "Phare de Men-Meur",
+            "ro": "Phare de Men-Meur",
+            "en": "Phare de Men-Meur"
+          },
+          "coords": [
+            -4.284282,
+            47.793874
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Küstenpfads zu diesem massiven Leuchtturm und bringen Sie eine Windjacke mit, da die Meeresbrise hier stark ist.",
+            "hu": "Sétáljon végig az ehhez a masszív világítótoronyhoz vezető parti ösvényen, és hozzon széldzsekit, mivel a tengeri szél itt hírhedten erős.",
+            "ro": "Faceți o plimbare de-a lungul potecii de coastă care duce la acest far robust și aduceți o jachetă de vânt, deoarece briza mării este puternică aici.",
+            "en": "Take a walk along the coastal path leading to this sturdy lighthouse, and bring a windbreaker as the sea breeze here is notoriously strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève jaune",
+            "hu": "Grève jaune",
+            "ro": "Grève jaune",
+            "en": "Grève jaune"
+          },
+          "coords": [
+            -4.290909,
+            47.792706
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand mit gelbem Sand, der einen ruhigen Rückzugsort in der Nähe der Stadt bietet, ideal für einen Spaziergang barfuß bei Ebbe.",
+            "hu": "Pihenjen ezen a festői sárga homokos tengerparton, amely csendes menedéket nyújt a város közelében, és tökéletes egy mezítlábas sétához apálykor.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip galben, care oferă o evadare liniștită lângă oraș, perfectă pentru o plimbare desculț la reflux.",
+            "en": "Relax on this picturesque yellow-sand beach that offers a quiet escape near the town, perfect for a barefoot stroll at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Kergoz",
+            "hu": "Manoir de Kergoz",
+            "ro": "Manoir de Kergoz",
+            "en": "Manoir de Kergoz"
+          },
+          "coords": [
+            -4.281476,
+            47.801083
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende mittelalterliche Architektur dieses historischen Herrenhauses und achten Sie besonders auf die kunstvollen Steinmetzarbeiten an der Fassade.",
+            "hu": "Csodálja meg ennek a történelmi kúriának a lenyűgöző középkori építészetét, és figyelje meg alaposan a homlokzat bonyolult kőfaragásait.",
+            "ro": "Admirați arhitectura medievală impresionantă a acestui conac istoric și priviți cu atenție detaliile complicate din piatră de pe fațadă.",
+            "en": "Admire the striking medieval architecture of this historic manor, and look closely at the intricate stonework detailing on the facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der maritimen Kultur im bekannten Fischereizentrum Haliotika. Bewundern Sie vor dem Mittagessen die Leuchttürme, die die raue Küste bewachen. Verbringen Sie den Nachmittag am Strand Grève jaune und genießen Sie die frische Meeresbrise. Lassen Sie den Tag am historischen Manoir de Kergoz ausklingen.",
+        "hu": "Kezdje a reggelt a tengeri kultúra felfedezésével a híres Haliotika halászati központban. Ebéd előtt csodálja meg a zord partszakaszt őrző masszív világítótornyokat. A délutánt töltse pihenéssel a Grève jaune partján, élvezve a sós tengeri levegőt. Zárja a napot a történelmi Manoir de Kergoz épületénél.",
+        "ro": "Începeți dimineața explorând cultura maritimă la renumitul centru de pescuit Haliotika. Înainte de prânz, admirați farurile robuste care străjuiesc coasta accidentată. Petreceți după-amiaza relaxându-vă la Grève jaune pentru a vă bucura de briza mării. Încheiați ziua admirând arhitectura istorică de la Manoir de Kergoz.",
+        "en": "Start your morning immersed in maritime culture at the famous Haliotika fishing center. Before lunch, admire the sturdy lighthouses guarding the rugged coastline. Spend your afternoon relaxing at Grève jaune to enjoy the sea breeze. End the day with the historic architecture of Manoir de Kergoz."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haliotika - La Cité de la Pêche",
+            "hu": "Haliotika - La Cité de la Pêche",
+            "ro": "Haliotika - La Cité de la Pêche",
+            "en": "Haliotika - La Cité de la Pêche"
+          },
+          "coords": [
+            -4.283626,
+            47.793012
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftige Fischauktion von der Besuchergalerie aus, aber kommen Sie früh, um die beste Action zu sehen.",
+            "hu": "Nézze meg a nyüzsgő halárverést a látogatói galériáról, hogy lássa a napi fogás érkezését, de érkezzen korán a legjobb pillanatokért.",
+            "ro": "Urmăriți licitația aglomerată de pește din galeria pentru vizitatori pentru a vedea cum sosește captura zilnică, dar veniți devreme pentru cea mai bună acțiune.",
+            "en": "Watch the bustling fish auction from the viewing gallery to see the daily catch arrive, but come early for the best action."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Men-Meur",
+            "hu": "Phare de Men-Meur",
+            "ro": "Phare de Men-Meur",
+            "en": "Phare de Men-Meur"
+          },
+          "coords": [
+            -4.284282,
+            47.793874
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Küstenpfads zu diesem massiven Leuchtturm und bringen Sie eine Windjacke mit, da die Meeresbrise hier stark ist.",
+            "hu": "Sétáljon végig az ehhez a masszív világítótoronyhoz vezető parti ösvényen, és hozzon széldzsekit, mivel a tengeri szél itt hírhedten erős.",
+            "ro": "Faceți o plimbare de-a lungul potecii de coastă care duce la acest far robust și aduceți o jachetă de vânt, deoarece briza mării este puternică aici.",
+            "en": "Take a walk along the coastal path leading to this sturdy lighthouse, and bring a windbreaker as the sea breeze here is notoriously strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Ster",
+            "hu": "Plage du Ster",
+            "ro": "Plage du Ster",
+            "en": "Plage du Ster"
+          },
+          "coords": [
+            -4.305545,
+            47.797637
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser dieses familienfreundlichen Strandes, wo Sie sich ein Paddleboard mieten sollten, um die sanfte Küste zu erkunden.",
+            "hu": "Élvezze a nyugodt vizeket ezen a családbarát strandon, ahol érdemes evezőlapot bérelni a szelíd partvidék felfedezéséhez.",
+            "ro": "Bucurați-vă de apele calme ale acestei plaje potrivite pentru familii, unde ar trebui să închiriați o placă de paddleboard pentru a explora țărmul blând.",
+            "en": "Enjoy the calm waters of this family-friendly beach, where you should rent a paddleboard to explore the gentle shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Léhan",
+            "hu": "Étang de Léhan",
+            "ro": "Étang de Léhan",
+            "en": "Étang de Léhan"
+          },
+          "coords": [
+            -4.266524,
+            47.792701
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Vogelbeobachter werden diese ruhige Küstenlagune lieben, vergessen Sie also nicht, ein gutes Fernglas einzupacken, um die Zugvögel zu beobachten.",
+            "hu": "A madármegfigyelők imádni fogják ezt a csendes parti lagúnát, ezért ne felejtsen el egy jó távcsövet pakolni a költöző fajok megfigyeléséhez.",
+            "ro": "Pasionații de păsări vor adora această lagună de coastă liniștită, așa că nu uitați să împachetați un binoclu bun pentru a observa speciile migratoare.",
+            "en": "Birdwatchers will love this serene coastal lagoon, so don't forget to pack a good pair of binoculars to spot the migratory species."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Léhan",
+            "hu": "Plage de Léhan",
+            "ro": "Plage de Léhan",
+            "en": "Plage de Léhan"
+          },
+          "coords": [
+            -4.250949,
+            47.79207
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen, erfrischenden Spaziergang auf diesem unberührten Sandstrand und überprüfen Sie die Gezeiten, um den breitesten Strand zu nutzen.",
+            "hu": "Tegyen egy hosszú, frissítő sétát ezen az érintetlen homokos szakaszon, és ellenőrizze az árapály idejét, hogy a legszélesebb part álljon rendelkezésére.",
+            "ro": "Faceți o plimbare lungă și revigorantă pe această porțiune virgină de nisip și verificați orele mareelor pentru a vă asigura că aveți la dispoziție cea mai lată plajă.",
+            "en": "Take a long, refreshing walk on this unspoiled stretch of sand, and check the tide times to ensure you have the widest beach available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt bei Haliotika, wo Sie in das Leben der örtlichen Fischer eintauchen. Radeln Sie zum malerischen Phare de Men-Meur und dann nach Westen zum weitläufigen Plage du Ster. Am Nachmittag erkunden Sie den ruhigen Étang de Léhan. Beenden Sie Ihren aktiven Tag an den beruhigenden Wellen des Plage de Léhan.",
+        "hu": "Kerékpártúrája a Haliotika központnál kezdődik, ahol bepillanthat a helyi halászok életébe. Tekerjen el a festői Phare de Men-Meur világítótoronyhoz, majd induljon nyugatra a tágas Plage du Ster felé. Délután fedezze fel a nyugodt Étang de Léhan tavat. Zárja aktív napját a Plage de Léhan békés hullámai mellett.",
+        "ro": "Turul cu bicicleta începe la Haliotika, explorând viața de zi cu zi a pescarilor locali. Pedați către pitorescul Phare de Men-Meur înainte de a merge spre vest la întinsa Plage du Ster. După-amiaza, mergeți spre est pentru a explora liniștitul Étang de Léhan. Încheiați această zi activă pe malul relaxant al Plage de Léhan.",
+        "en": "Your cycling tour begins at Haliotika, delving into the daily lives of local fishermen. Pedal down to the scenic Phare de Men-Meur before heading west to the expansive Plage du Ster. In the afternoon, ride east to explore the tranquil Étang de Léhan. Conclude your active day by the calming waves of Plage de Léhan."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 10.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haliotika - La Cité de la Pêche",
+            "hu": "Haliotika - La Cité de la Pêche",
+            "ro": "Haliotika - La Cité de la Pêche",
+            "en": "Haliotika - La Cité de la Pêche"
+          },
+          "coords": [
+            -4.283626,
+            47.793012
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftige Fischauktion von der Besuchergalerie aus, aber kommen Sie früh, um die beste Action zu sehen.",
+            "hu": "Nézze meg a nyüzsgő halárverést a látogatói galériáról, hogy lássa a napi fogás érkezését, de érkezzen korán a legjobb pillanatokért.",
+            "ro": "Urmăriți licitația aglomerată de pește din galeria pentru vizitatori pentru a vedea cum sosește captura zilnică, dar veniți devreme pentru cea mai bună acțiune.",
+            "en": "Watch the bustling fish auction from the viewing gallery to see the daily catch arrive, but come early for the best action."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Kergoz",
+            "hu": "Manoir de Kergoz",
+            "ro": "Manoir de Kergoz",
+            "en": "Manoir de Kergoz"
+          },
+          "coords": [
+            -4.281476,
+            47.801083
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende mittelalterliche Architektur dieses historischen Herrenhauses und achten Sie besonders auf die kunstvollen Steinmetzarbeiten an der Fassade.",
+            "hu": "Csodálja meg ennek a történelmi kúriának a lenyűgöző középkori építészetét, és figyelje meg alaposan a homlokzat bonyolult kőfaragásait.",
+            "ro": "Admirați arhitectura medievală impresionantă a acestui conac istoric și priviți cu atenție detaliile complicate din piatră de pe fațadă.",
+            "en": "Admire the striking medieval architecture of this historic manor, and look closely at the intricate stonework detailing on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pors-Carn",
+            "hu": "Plage de Pors-Carn",
+            "ro": "Plage de Pors-Carn",
+            "en": "Plage de Pors-Carn"
+          },
+          "coords": [
+            -4.354873,
+            47.831491
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die erfahrenen Surfer bei den Wellen in dieser spektakulären geschwungenen Bucht und holen Sie sich einen Kaffee in einer der Strandhütten.",
+            "hu": "Nézze meg, ahogy a képzett szörfösök megküzdenek a hullámokkal ezen a látványos öbölben, és igyon egy kávét a tengerparti kunyhók egyikében.",
+            "ro": "Priviți surferii experimentați cum înfruntă valurile în acest golf curbat spectaculos și luați o cafea la una dintre cabanele de pe plajă.",
+            "en": "Watch the skilled surfers tackle the waves at this spectacular curved bay, and grab a coffee at one of the casual beachfront shacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Torche",
+            "hu": "Plage de la Torche",
+            "ro": "Plage de la Torche",
+            "en": "Plage de la Torche"
+          },
+          "coords": [
+            -4.347571,
+            47.843238
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die wilde Schönheit von der berühmtesten Surfspots der Bretagne, meiden Sie aber die ausgewiesenen Surfzonen, wenn Sie nur schwimmen möchten.",
+            "hu": "Tapasztalja meg Bretagne leghíresebb szörfhelyének vad szépségét, de kerülje a kijelölt szörfzónákat, ha csak úszni szeretne.",
+            "ro": "Experimentați frumusețea sălbatică a celui mai faimos loc de surf din Bretania, dar evitați zonele desemnate pentru surf dacă doriți doar să înotați.",
+            "en": "Experience the wild beauty of Brittany's most famous surf spot, but stay clear of the designated surf zones if you only plan to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tronoën",
+            "hu": "Plage de Tronoën",
+            "ro": "Plage de Tronoën",
+            "en": "Plage de Tronoën"
+          },
+          "coords": [
+            -4.350792,
+            47.855854
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen Naturstrand, der für seine rauen Dünen bekannt ist, und bleiben Sie auf den markierten Wegen, um das Ökosystem zu schützen.",
+            "hu": "Fejezze be a napot ezen a zord dűnéiről ismert tágas természetes strandon, és maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelme érdekében.",
+            "ro": "Încheiați-vă ziua pe această plajă naturală întinsă, cunoscută pentru dunele sale accidentate, și rămâneți pe potecile marcate pentru a proteja ecosistemul fragil.",
+            "en": "End your day at this expansive natural beach known for its rugged dunes, and stick to the marked paths to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im spannenden Haliotika-Museum, um die maritimen Wurzeln von Guilvinec zu verstehen. Fahren Sie kurz zum historischen Manoir de Kergoz und dann weiter zum herrlichen Plage de Pors-Carn. Der Nachmittag ist dem berühmten Surfspot am Plage de la Torche gewidmet. Beenden Sie Ihre Reise am unberührten Strand von Plage de Tronoën.",
+        "hu": "Kezdje autós utazását a lenyűgöző Haliotika múzeumban, hogy megértse Guilvinec tengerészeti gyökereit. Tegyen egy rövid utat a történelmi Manoir de Kergoz felé, majd induljon a lenyűgöző Plage de Pors-Carn partjára. A délutánt a híres szörfös helynek, a Plage de la Torche-nak szentelheti. Fejezze be útját a Plage de Tronoën érintetlen homokján.",
+        "ro": "Începeți călătoria cu mașina la captivantul muzeu Haliotika pentru a înțelege rădăcinile maritime ale orașului. Faceți un scurt drum până la istoricul Manoir de Kergoz înainte de a merge la impresionanta Plage de Pors-Carn. După-amiaza este dedicată faimosului loc de surf de la Plage de la Torche. Încheiați călătoria pe nisipurile imaculate ale Plage de Tronoën.",
+        "en": "Kick off your road trip at the engaging Haliotika museum to understand Guilvinec's maritime roots. Take a short drive to the historic Manoir de Kergoz before heading out to the stunning Plage de Pors-Carn. The afternoon is dedicated to the famous surf spot at Plage de la Torche. End your journey on the pristine sands of Plage de Tronoën."
+      }
+    }
+  }
+}

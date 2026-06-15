@@ -1,0 +1,451 @@
+{
+  "city_id": "lanton",
+  "anchor": {
+    "name": "Lanton",
+    "coords": [
+      -1.0353,
+      44.7039
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Lanton",
+            "hu": "Notre-Dame-de-Lanton templom",
+            "ro": "Biserica Notre-Dame-de-Lanton",
+            "en": "Church of Notre-Dame-de-Lanton"
+          },
+          "coords": [
+            -1.034269,
+            44.699496
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Ursprünge dieser bezaubernden Küstenkirche, die seit Jahrhunderten das Ufer bewacht, und genießen Sie einen Moment der Ruhe auf dem schattigen Vorplatz.",
+            "hu": "Csodálja meg ennek a bájos tengerparti templomnak a román kori eredetét, amely évszázadok óta őrzi a partot, és szánjon egy percet a csendes, árnyékos tér élvezetére odakint.",
+            "ro": "Admirați originile romanice ale acestei fermecătoare biserici de pe litoral, care păzește coasta de secole, și rezervați-vă un moment pentru a vă bucura de piațeta umbrită din exterior.",
+            "en": "Admire the Romanesque origins of this charming seaside church that has guarded the coast for centuries, and take a moment to enjoy the tranquil shaded square just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Certes-Graveyron",
+            "hu": "Domaine de Certes-Graveyron",
+            "ro": "Domaine de Certes-Graveyron",
+            "en": "Domaine de Certes-Graveyron"
+          },
+          "coords": [
+            -1.044808,
+            44.699065
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Naturreservat ehemaliger Salinen, das nun ein spektakuläres Refugium für Zugvögel bietet, weshalb Sie für optimale Beobachtungen ein Fernglas mitbringen sollten.",
+            "hu": "Fedezze fel az egykori sólepárlók ezen hatalmas természeti birtokát, amely ma a vándormadarak látványos menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb vadvilági kilátásokhoz.",
+            "ro": "Explorați acest vast domeniu natural al fostelor saline, care oferă acum un refugiu spectaculos pentru păsările migratoare, așa că aduceți-vă binoclul pentru cele mai bune observații.",
+            "en": "Explore this vast natural estate of former salt pans that now offers a spectacular haven for migrating birds, so make sure to bring your binoculars for the best wildlife views."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenpfad",
+            "hu": "Parti ösvény",
+            "ro": "Cărarea de coastă",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            -1.045126,
+            44.699849
+          ],
+          "category": "natural",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses malerischen Weges, der das Arcachon-Becken wunderschön säumt und unberührte Küstenpanoramen enthüllt, und tragen Sie bequeme Wanderschuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen a festői ösvényen, amely gyönyörűen szegélyezi az Arcachon-medencét, feltárva az érintetlen parti panorámákat, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă pe acest traseu pitoresc care mărginește frumos Bazinul Arcachon pentru a dezvălui panorame de coastă nealterate și purtați încălțăminte confortabilă pentru terenul ușor denivelat.",
+            "en": "Walk along this scenic trail that beautifully skirts the Arcachon Basin to reveal unspoiled coastal panoramas, and wear comfortable walking shoes as the path can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Suzette-Strand",
+            "hu": "Suzette strand",
+            "ro": "Plaja Suzette",
+            "en": "Suzette Beach"
+          },
+          "coords": [
+            -1.053323,
+            44.706471
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand, der einen perfekten, ruhigen Rückzugsort abseits der Massen bietet, und planen Sie Ihren Besuch bei Flut, falls Sie schwimmen möchten.",
+            "hu": "Pihenjen ezen a festői homokos partszakaszon, amely tökéletes, csendes menedéket nyújt a tömegtől távol, és időzítse látogatását dagály idejére, ha frissítő úszást tervez.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de nisip care oferă o retragere perfectă și liniștită departe de mulțimi și programați-vă vizita la flux dacă plănuiți o baie răcoritoare.",
+            "en": "Relax on this picturesque stretch of sand that provides a perfect quiet retreat away from the crowds, and time your visit with the high tide if you plan on going for a refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Cassy",
+            "hu": "Cassy kikötője",
+            "ro": "Portul Cassy",
+            "en": "Port of Cassy"
+          },
+          "coords": [
+            -1.052284,
+            44.709835
+          ],
+          "category": "culinary",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen lebhaften Yachthafen voller traditioneller Austernzuchtboote, die die reiche maritime Kultur der Region zeigen, und probieren Sie frische Austern direkt am Wasser.",
+            "hu": "Sétáljon ebben a nyüzsgő kikötőben, amely tele van hagyományos osztrigatenyésztő hajókkal, bemutatva a régió tengeri kultúráját, és kóstolja meg a friss osztrigát közvetlenül a vízparton.",
+            "ro": "Plimbați-vă prin acest port plin de viață, cu bărci tradiționale de cultivare a stridiilor care prezintă cultura maritimă a regiunii, și asigurați-vă că degustați stridii proaspete la malul apei.",
+            "en": "Stroll around this bustling marina filled with traditional oyster farming boats that showcase the region's rich maritime culture, and be sure to taste fresh oysters right by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem lokalen Erbe an der bezaubernden Küstenkirche, bevor Sie die Weiten der Domaine de Certes-Graveyron erkunden. Der Mittag lädt zu einem malerischen Spaziergang auf dem Küstenpfad ein. Am Nachmittag können Sie sich an den abgelegenen Sandstränden des Suzette Beach ausruhen. Lassen Sie den Tag im lebhaften Hafen von Cassy ausklingen, wo die maritime Kultur lebendig wird.",
+        "hu": "Kezdje a reggelt a helyi örökség felfedezésével a parti templomnál, mielőtt bejárná a Domaine de Certes-Graveyron hatalmas természeti térségeit. A délidő egy festői sétára csábít a part menti ösvényen. Délután pihenjen meg Suzette Beach eldugott homokján. Zárja a napot a nyüzsgő Cassy kikötőjében, ahol a tengeri kultúra igazán életre kel.",
+        "ro": "Începeți dimineața cufundându-vă în moștenirea locală la biserica de coastă, înainte de a explora vasta întindere a Domaine de Certes-Graveyron. Amiaza vă invită la o plimbare pe traseul de coastă. După-amiaza, odihniți-vă pe nisipurile retrase ale plajei Suzette. Încheiați ziua în plinul de viață Port de Cassy, unde cultura maritimă prinde viață.",
+        "en": "Begin your morning immersing in local heritage at the charming coastal church before exploring the vast natural expanse of the Domaine de Certes-Graveyron. Midday invites a scenic stroll along the coastal path, breathing in the fresh sea breeze. In the afternoon, rest upon the secluded sands of Suzette Beach. Conclude the day at the lively Port of Cassy, where the maritime culture comes alive."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Lanton",
+            "hu": "Notre-Dame-de-Lanton templom",
+            "ro": "Biserica Notre-Dame-de-Lanton",
+            "en": "Church of Notre-Dame-de-Lanton"
+          },
+          "coords": [
+            -1.034269,
+            44.699496
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Ursprünge dieser bezaubernden Küstenkirche, die seit Jahrhunderten das Ufer bewacht, und genießen Sie einen Moment der Ruhe auf dem schattigen Vorplatz.",
+            "hu": "Csodálja meg ennek a bájos tengerparti templomnak a román kori eredetét, amely évszázadok óta őrzi a partot, és szánjon egy percet a csendes, árnyékos tér élvezetére odakint.",
+            "ro": "Admirați originile romanice ale acestei fermecătoare biserici de pe litoral, care păzește coasta de secole, și rezervați-vă un moment pentru a vă bucura de piațeta umbrită din exterior.",
+            "en": "Admire the Romanesque origins of this charming seaside church that has guarded the coast for centuries, and take a moment to enjoy the tranquil shaded square just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Certes-Graveyron",
+            "hu": "Domaine de Certes-Graveyron",
+            "ro": "Domaine de Certes-Graveyron",
+            "en": "Domaine de Certes-Graveyron"
+          },
+          "coords": [
+            -1.044808,
+            44.699065
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Naturreservat ehemaliger Salinen, das nun ein spektakuläres Refugium für Zugvögel bietet, weshalb Sie für optimale Beobachtungen ein Fernglas mitbringen sollten.",
+            "hu": "Fedezze fel az egykori sólepárlók ezen hatalmas természeti birtokát, amely ma a vándormadarak látványos menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb vadvilági kilátásokhoz.",
+            "ro": "Explorați acest vast domeniu natural al fostelor saline, care oferă acum un refugiu spectaculos pentru păsările migratoare, așa că aduceți-vă binoclul pentru cele mai bune observații.",
+            "en": "Explore this vast natural estate of former salt pans that now offers a spectacular haven for migrating birds, so make sure to bring your binoculars for the best wildlife views."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Cassy",
+            "hu": "Cassy kikötője",
+            "ro": "Portul Cassy",
+            "en": "Port of Cassy"
+          },
+          "coords": [
+            -1.052284,
+            44.709835
+          ],
+          "category": "culinary",
+          "arrive_at": "11:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen lebhaften Yachthafen voller traditioneller Austernzuchtboote, die die reiche maritime Kultur der Region zeigen, und probieren Sie frische Austern direkt am Wasser.",
+            "hu": "Sétáljon ebben a nyüzsgő kikötőben, amely tele van hagyományos osztrigatenyésztő hajókkal, bemutatva a régió tengeri kultúráját, és kóstolja meg a friss osztrigát közvetlenül a vízparton.",
+            "ro": "Plimbați-vă prin acest port plin de viață, cu bărci tradiționale de cultivare a stridiilor care prezintă cultura maritimă a regiunii, și asigurați-vă că degustați stridii proaspete la malul apei.",
+            "en": "Stroll around this bustling marina filled with traditional oyster farming boats that showcase the region's rich maritime culture, and be sure to taste fresh oysters right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Cassy",
+            "hu": "Cassy strand",
+            "ro": "Plaja Cassy",
+            "en": "Plage de Cassy"
+          },
+          "coords": [
+            -1.059318,
+            44.709595
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen sonnigen Nachmittag an diesem familienfreundlichen Strand mit sanften Gewässern und lebendiger lokaler Atmosphäre, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a napsütéses délutánt ezen a családbarát strandon, amely nyugodt vizeket és élénk helyi hangulatot kínál, és érkezzen korán, hogy jó helyet biztosítson magának a sétány közelében.",
+            "ro": "Bucurați-vă de o după-amiază însorită la această plajă perfectă pentru familii, care oferă ape liniștite și o atmosferă locală vibrantă, ajungând devreme pentru a prinde un loc bun pe nisip.",
+            "en": "Enjoy a sunny afternoon at this family-friendly beach offering gentle waters and a vibrant local atmosphere, arriving early to secure a good spot near the lively promenade facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Taussat",
+            "hu": "Taussat kikötője",
+            "ro": "Portul Taussat",
+            "en": "Port of Taussat"
+          },
+          "coords": [
+            -1.065313,
+            44.715569
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Charme dieses alten Hafens, wo prächtige Villen aus dem 19. Jahrhundert von der Belle-Époque-Herrlichkeit zeugen, und fangen Sie das schöne Sonnenuntergangslicht ein.",
+            "hu": "Fedezze fel ennek a régi kikötőnek a történelmi báját, ahol a 19. századi villák a város boldog békeidőkbeli dicsőségét hirdetik, és örökítse meg fényképezőgépével a gyönyörű naplemente fényeit.",
+            "ro": "Descoperiți farmecul istoric al acestui vechi port, unde vilele mărețe din secolul al XIX-lea stau mărturie a gloriei belle époque a orașului, și surprindeți lumina superbă a apusului pe cameră.",
+            "en": "Discover the historical charm of this old port where grand 19th-century villas stand as a testament to the town's belle époque glory, and capture the beautiful sunset light on your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Südstrand von Taussat",
+            "hu": "Taussat déli strandja",
+            "ro": "Plaja de Sud din Taussat",
+            "en": "Plage Sud de Taussat"
+          },
+          "coords": [
+            -1.067505,
+            44.71372
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen südlichen Sandstränden von Taussat, wo der weite Blick auf die Bucht unglaubliche Fotomotive bietet, und lassen Sie den Tag hier in aller Ruhe ausklingen.",
+            "hu": "Kapcsolódjon ki Taussat nyugodt déli homokján, ahol az öbölre nyíló lenyűgöző kilátás hihetetlen fotózási lehetőségeket kínál, tökéletes utolsó megállóként szolgálva a nap levezetéséhez.",
+            "ro": "Relaxați-vă pe nisipurile sudice liniștite din Taussat, unde priveliștile ample asupra golfului oferă oportunități incredibile de fotografiere, fiind oprirea finală perfectă pentru relaxare.",
+            "en": "Unwind on the serene southern sands of Taussat where the sweeping views of the bay offer incredible photo opportunities, making it the perfect final stop to relax as the day cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der historischen Kirche, bevor Sie zum atemberaubenden Naturschutzgebiet Certes-Graveyron gleiten. Mittags radeln Sie zum Hafen von Cassy, um die traditionelle Austernzucht zu sehen. Verbringen Sie den Nachmittag am Plage de Cassy, bevor Sie an der Uferpromenade entlangfahren. Beenden Sie den Tag an den großen Villen im Hafen von Taussat und dem angrenzenden ruhigen Strand.",
+        "hu": "Biciklitúrája a történelmi templomnál kezdődik, mielőtt átgurulna a Certes-Graveyron lenyűgöző természetvédelmi területére. Délben tekerjen Cassy nyüzsgő kikötője felé a hagyományos osztrigatenyésztésért. Töltse a délutánt a Plage de Cassy napsütésében, majd kerékpározzon tovább a vízparton. Zárja aktív napját a csodás villák felfedezésével Taussat kikötőjében és csendes strandján.",
+        "ro": "Călătoria dvs. începe la biserica istorică înainte de a pedala spre rezervația naturală uimitoare Certes-Graveyron. Până la prânz, mergeți spre Portul Cassy pentru a vedea cultivarea tradițională a stridiilor. Petreceți-vă după-amiaza bucurându-vă de soare la Plage de Cassy. Încheiați-vă ziua activă descoperind vilele grandioase din Portul Taussat și plaja liniștită alăturată.",
+        "en": "Your ride kicks off at the historic church before gliding over to the stunning nature reserve of Certes-Graveyron. By midday, pedal towards the bustling Port of Cassy for a glimpse into traditional oyster farming. Spend your afternoon enjoying the sun at Plage de Cassy before riding along the waterfront. Wrap up your active day discovering the grand villas at the Port of Taussat and its adjacent serene beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 10.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audenge-Strand",
+            "hu": "Audenge strand",
+            "ro": "Plaja Audenge",
+            "en": "Plage d'Audenge"
+          },
+          "coords": [
+            -1.029441,
+            44.677652
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem lebhaften Küstenort, der über Europas größtes Meerwasserschwimmbecken verfügt und eine außergewöhnlich sichere Umgebung für frühe Schwimmer bietet.",
+            "hu": "Kezdje a reggelt ezen az élénk parti helyszínen, amely Európa legnagyobb tengervizes medencéjével büszkélkedhet, kivételesen biztonságos és frissítő környezetet nyújtva a korai úszóknak.",
+            "ro": "Începeți-vă dimineața în acest loc de coastă vibrant care prezintă cea mai mare piscină cu apă de mare din Europa, oferind un mediu excepțional de sigur și răcoritor pentru înotătorii matinali.",
+            "en": "Start your morning right at this vibrant coastal spot which features Europe's largest seawater swimming pool, providing an exceptionally safe and refreshing environment for early swimmers."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Certes-Graveyron",
+            "hu": "Domaine de Certes-Graveyron",
+            "ro": "Domaine de Certes-Graveyron",
+            "en": "Domaine de Certes-Graveyron"
+          },
+          "coords": [
+            -1.044808,
+            44.699065
+          ],
+          "category": "natural",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Naturreservat ehemaliger Salinen, das nun ein spektakuläres Refugium für Zugvögel bietet, weshalb Sie für optimale Beobachtungen ein Fernglas mitbringen sollten.",
+            "hu": "Fedezze fel az egykori sólepárlók ezen hatalmas természeti birtokát, amely ma a vándormadarak látványos menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb vadvilági kilátásokhoz.",
+            "ro": "Explorați acest vast domeniu natural al fostelor saline, care oferă acum un refugiu spectaculos pentru păsările migratoare, așa că aduceți-vă binoclul pentru cele mai bune observații.",
+            "en": "Explore this vast natural estate of former salt pans that now offers a spectacular haven for migrating birds, so make sure to bring your binoculars for the best wildlife views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-Lanton",
+            "hu": "Notre-Dame-de-Lanton templom",
+            "ro": "Biserica Notre-Dame-de-Lanton",
+            "en": "Church of Notre-Dame-de-Lanton"
+          },
+          "coords": [
+            -1.034269,
+            44.699496
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen Ursprünge dieser bezaubernden Küstenkirche, die seit Jahrhunderten das Ufer bewacht, und genießen Sie einen Moment der Ruhe auf dem schattigen Vorplatz.",
+            "hu": "Csodálja meg ennek a bájos tengerparti templomnak a román kori eredetét, amely évszázadok óta őrzi a partot, és szánjon egy percet a csendes, árnyékos tér élvezetére odakint.",
+            "ro": "Admirați originile romanice ale acestei fermecătoare biserici de pe litoral, care păzește coasta de secole, și rezervați-vă un moment pentru a vă bucura de piațeta umbrită din exterior.",
+            "en": "Admire the Romanesque origins of this charming seaside church that has guarded the coast for centuries, and take a moment to enjoy the tranquil shaded square just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Taussat",
+            "hu": "Taussat kikötője",
+            "ro": "Portul Taussat",
+            "en": "Port of Taussat"
+          },
+          "coords": [
+            -1.065313,
+            44.715569
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Charme dieses alten Hafens, wo prächtige Villen aus dem 19. Jahrhundert von der Belle-Époque-Herrlichkeit zeugen, und fangen Sie das schöne Sonnenuntergangslicht ein.",
+            "hu": "Fedezze fel ennek a régi kikötőnek a történelmi báját, ahol a 19. századi villák a város boldog békeidőkbeli dicsőségét hirdetik, és örökítse meg fényképezőgépével a gyönyörű naplemente fényeit.",
+            "ro": "Descoperiți farmecul istoric al acestui vechi port, unde vilele mărețe din secolul al XIX-lea stau mărturie a gloriei belle époque a orașului, și surprindeți lumina superbă a apusului pe cameră.",
+            "en": "Discover the historical charm of this old port where grand 19th-century villas stand as a testament to the town's belle époque glory, and capture the beautiful sunset light on your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Bétey-Strand",
+            "hu": "Bétey strand",
+            "ro": "Plaja Bétey",
+            "en": "Plage du Bétey"
+          },
+          "coords": [
+            -1.092199,
+            44.73343
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen herrlichen bewaldeten Strandbereich, wo der Schatten hoher Kiefern auf sanfte Gezeitengewässer trifft, was ihn zu einem idealen Ort für ein Picknick in der Mittagshitze macht.",
+            "hu": "Fedezze fel ezt a bájos, fás tengerparti területet, ahol a magas fenyők árnyéka találkozik a szelíd árapályvizekkel, ideális helyet biztosítva egy piknikhez a déli hőség idején.",
+            "ro": "Explorați această zonă de plajă împădurită încântătoare, unde umbra pinilor înalți întâlnește apele blânde ale mareei, devenind locul ideal pentru a vă întinde pătura de picnic la prânz.",
+            "en": "Explore this delightful forested beach area where the shade of tall pine trees meets the gentle tidal waters, making it an ideal spot to unfold your picnic blanket during the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand am Pier",
+            "hu": "A móló strandja",
+            "ro": "Plaja de la Dig",
+            "en": "Plage de la Jetée"
+          },
+          "coords": [
+            -1.09979,
+            44.7387
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem ikonischen Strand, dessen berühmter Pier einen Panoramablick über die gesamte Bucht bietet, und beobachten Sie die kleinen Boote in der goldenen Stunde.",
+            "hu": "Zárja utazását ezen az ikonikus strandon, amelynek híres mólója panorámás kilátást nyújt az egész öbölre, és szánjon egy percet a kis hajók megfigyelésére az aranyórában.",
+            "ro": "Încheiați-vă călătoria la această plajă iconică, marcată de faimosul său dig care oferă vederi panoramice asupra întregului golf, și priviți bărcile mici plutind în ora de aur.",
+            "en": "Conclude your journey at this iconic beach marked by its famous pier offering panoramic views across the entire bay, and take a moment to watch the small boats drift in the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst nach Audenge, um Europas größtes Meerwasserschwimmbecken zu bewundern, und erkunden Sie dann die Feuchtgebiete der Domaine. Mittags erreichen Sie die historische Kirche, ein idealer Ausgangspunkt für die Fahrt nach Taussat. Entspannen Sie am Nachmittag unter den Kiefern des Plage du Bétey. Beenden Sie Ihre Buchtentour am ikonischen Pier am Plage de la Jetée bei Sonnenuntergang.",
+        "hu": "Először hajtson Audenge-be, hogy megcsodálja Európa legnagyobb tengervizes medencéjét, majd fedezze fel a Domaine vizes élőhelyeit. Délben a történelmi templomhoz érkezik, majd egy rövid úttal Taussat kikötőjébe indul. Késő délután pihenjen a Plage du Bétey fenyőfái alatt. Fejezze be az öböltúrát a Plage de la Jetée ikonikus mólójánál, ahogy a naplemente aranyba borítja a tájat.",
+        "ro": "Conduceți mai întâi spre Audenge pentru a admira cea mai mare piscină cu apă de mare din Europa, apoi explorați zonele umede ale Domeniului. Amiaza vă aduce la biserica istorică, pregătind un drum scurt către minunile din Portul Taussat. După-amiaza, relaxați-vă sub pinii de la Plage du Bétey. Încheiați turul golfului pe digul iconic de la Plage de la Jetée, chiar la apusul soarelui.",
+        "en": "Drive first to Audenge to marvel at Europe's largest seawater pool, then head north to explore the vibrant wetlands of the Domaine. Midday brings you to the historic church, perfectly setting up a short drive to the belle époque marvels of Taussat Port. As afternoon fades, relax beneath the pine trees of Plage du Bétey. End your grand bay tour by the iconic pier at Plage de la Jetée as the sun sets."
+      }
+    }
+  }
+}

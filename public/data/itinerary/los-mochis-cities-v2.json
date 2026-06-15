@@ -1,0 +1,474 @@
+{
+  "city_id": "los-mochis-cities-v2",
+  "anchor": {
+    "name": "Los Mochis",
+    "coords": [
+      -108.9946,
+      25.7928
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haupteingang Park",
+            "hu": "Park Főbejárat",
+            "ro": "Intrarea Principală",
+            "en": "Main Entrance"
+          },
+          "coords": [
+            -109.001833,
+            25.788583
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer an diesem einladenden Torbogen und nehmen Sie sich einen Moment Zeit, um die Karte des Gartens zu studieren.",
+            "hu": "Kezdje a kalandot a város zöld szívében ennél a hívogató boltívnél, és szánjon egy percet a botanikus kert térképének tanulmányozására.",
+            "ro": "Începeți aventura prin inima verde a orașului la această arcadă primitoare, luându-vă un moment pentru a studia harta grădinii.",
+            "en": "Start your adventure through the city's green heart at this welcoming archway, taking a moment to review the map of the botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Ingenio Theater",
+            "hu": "Ingenio Színház",
+            "ro": "Teatrul Ingenio",
+            "en": "Ingenio Theater"
+          },
+          "coords": [
+            -109.00036,
+            25.788608
+          ],
+          "category": "cultural",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die beeindruckende zeitgenössische Architektur dieses Veranstaltungsortes und buchen Sie Tickets bei lokalen Aufführungen vorab.",
+            "hu": "Fényképezze le az előadó-művészeti központ lenyűgöző kortárs építészetét, és foglaljon jegyet előre, ha helyi előadást tartanak.",
+            "ro": "Fotografiați arhitectura contemporană uimitoare a acestui loc de spectacole și încercați să rezervați bilete în avans dacă este programat ceva.",
+            "en": "Take a photo of the stunning contemporary architecture of this performing arts venue, and try booking tickets in advance for local shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Interaktives Museum Trapiche",
+            "hu": "Trapiche Interaktív Múzeum",
+            "ro": "Muzeul Interactiv Trapiche",
+            "en": "Trapiche Interactive Museum"
+          },
+          "coords": [
+            -108.999103,
+            25.788559
+          ],
+          "category": "museum",
+          "arrive_at": "10:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktive Ausstellungen zu lokaler Landwirtschaft und Wissenschaft, ideal für Familien, die früh kommen sollten, um Menschenmengen zu meiden.",
+            "hu": "Próbálja ki a helyi mezőgazdaságot bemutató interaktív kiállításokat, ami tökéletes családoknak, ha korán érkeznek a tömeg elkerülése végett.",
+            "ro": "Interacționați cu expozițiile practice despre agricultura locală, perfecte pentru familiile care ar trebui să viziteze devreme pentru a evita aglomerația.",
+            "en": "Engage with hands-on exhibits that explain local agriculture and science, perfect for families who should visit early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Fuerte-Tals",
+            "hu": "Fuerte-völgy Múzeum",
+            "ro": "Muzeul Văii Fuerte",
+            "en": "Museum of the Fuerte Valley"
+          },
+          "coords": [
+            -108.999586,
+            25.790206
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die koloniale Geschichte durch detaillierte Artefakte und beachten Sie das historische Gebäude selbst, das einst eine Residenz war.",
+            "hu": "Fedezze fel a gyarmati történelmet a részletes műtárgyakon keresztül, és figyelje meg magát a történelmi épületet, amely egykor rezidencia volt.",
+            "ro": "Descoperiți istoria colonială prin artefacte detaliate, remarcând clădirea istorică în sine, care a fost odată o reședință proeminentă.",
+            "en": "Discover the indigenous and colonial history through detailed artifacts, noting the historic building itself which was once a prominent residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Casa Grande",
+            "hu": "Casa Grande Romjai",
+            "ro": "Ruinele Casei Mari",
+            "en": "Ruins of Casa Grande"
+          },
+          "coords": [
+            -109.003358,
+            25.789639
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie zwischen den Überresten des Anwesens des Stadtgründers umher und suchen Sie nach alten architektonischen Details im Gestrüpp.",
+            "hu": "Sétáljon a városalapító történelmi birtokának maradványai között, hogy megértse a város eredetét a növényzetben megbúvó régi részletekkel.",
+            "ro": "Plimbați-vă printre rămășițele moșiei istorice a fondatorului pentru a înțelege originile orașului, căutând detalii arhitecturale ascunse.",
+            "en": "Walk among the remnants of the town founder's historic estate to understand the city's origins, looking for the old architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten B. F. Johnston",
+            "hu": "B. F. Johnston Botanikus Kert",
+            "ro": "Grădina Botanică B. F. Johnston",
+            "en": "B. F. Johnston Botanical Garden"
+          },
+          "coords": [
+            -109.00481,
+            25.789164
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige Flora dieser riesigen städtischen Oase, in der Insektenschutzmittel in den wärmeren Monaten sehr zu empfehlen ist.",
+            "hu": "Sétáljon át a városalapító által hozott buja növényzeten ebben a városi oázisban, ahol a melegebb hónapokban rovarriasztó ajánlott.",
+            "ro": "Plimbați-vă prin flora diversă în această vastă oază urbană, unde repelentul de insecte este foarte recomandat în lunile mai calde.",
+            "en": "Stroll through the lush, diverse flora brought by the city's founder in this vast urban oasis, where insect repellent is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgenspaziergang im kulturellen Zentrum nahe der modernen Schauplätze.\n\nTauchen Sie mittags in die regionale Geschichte und die interaktiven Ausstellungen ein.\n\nVerbringen Sie den Nachmittag damit, die historischen Überreste der Stadtgründer zu erkunden.\n\nLassen Sie den Tag in den weitläufigen botanischen Gärten ausklingen und genießen Sie die Natur.",
+        "hu": "Kezdje a reggeli sétát a város kulturális központjának modern helyszínei körül.\n\nDélben merüljön el a regionális történelemben és az interaktív tudományos kiállításokban.\n\nDélután fedezze fel a városalapítók történelmi emlékeit az árnyékos romok között.\n\nZárja a napot a hatalmas botanikus kertben, élvezve a nyugodt természetet és a békét.",
+        "ro": "Începeți plimbarea matinală descoperind inima culturală a orașului lângă locații moderne.\n\nLa amiază, scufundați-vă în istoria regională și în expozițiile științifice interactive.\n\nPetreceți după-amiaza explorând rămășițele istorice ale fondatorilor orașului printre ruine.\n\nÎncheiați ziua relaxându-vă în grădinile botanice vaste, bucurându-vă de natura liniștită.",
+        "en": "Begin your morning stroll discovering the cultural heart of the city near modern venues.\n\nBy midday, immerse yourself in the regional history and interactive science exhibits.\n\nSpend the afternoon exploring the historical remnants of the city's founders among the ruins.\n\nConclude your day unwinding in the expansive botanical gardens, enjoying the peaceful nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 6.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+            "hu": "Rózsafüzér Királynője Plébánia",
+            "ro": "Parohia Fecioara Rozariului",
+            "en": "Parish of Our Lady of the Rosary"
+          },
+          "coords": [
+            -108.994859,
+            25.7683
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Turmspitze dieses religiösen Wahrzeichens und treten Sie ein, um einen ruhigen Moment abseits des Stadtverkehrs zu finden.",
+            "hu": "Csodálja meg e központi vallási nevezetesség modern tornyát, és lépjen be, hogy találjon egy békés pillanatot a nyüzsgő városi forgalomtól távol.",
+            "ro": "Admirați turla modernă a acestui reper religios și intrați pentru a găsi un moment de liniște departe de traficul aglomerat al orașului.",
+            "en": "Admire the towering modern spire of this central religious landmark, and step inside to find a peaceful moment away from the bustling traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Interaktives Museum Trapiche",
+            "hu": "Trapiche Interaktív Múzeum",
+            "ro": "Muzeul Interactiv Trapiche",
+            "en": "Trapiche Interactive Museum"
+          },
+          "coords": [
+            -108.999103,
+            25.788559
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher, um die interaktiven wissenschaftlichen Ausstellungen zu genießen, die am Vormittag noch nicht so überlaufen sind.",
+            "hu": "Parkolja le kerékpárját biztonságosan, hogy élvezze az interaktív tudományos kiállításokat, amelyek délelőtt még nem annyira zsúfoltak.",
+            "ro": "Parcați-vă bicicleta în siguranță pentru a vă bucura de expozițiile științifice interactive, care dimineața sunt mai puțin aglomerate.",
+            "en": "Lock your bike safely outside to enjoy the interactive science exhibits, which are pleasantly uncrowded during the mid-morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ingenio Theater",
+            "hu": "Ingenio Színház",
+            "ro": "Teatrul Ingenio",
+            "en": "Ingenio Theater"
+          },
+          "coords": [
+            -109.00036,
+            25.788608
+          ],
+          "category": "cultural",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause auf dem Vorplatz dieses architektonischen Meisterwerks, ideal für ein Erinnerungsfoto mit Ihrem Fahrrad.",
+            "hu": "Tartson egy rövid szünetet ennek az építészeti remekműnek az előterében, amely ideális egy emlékezetes kerékpáros fotó elkészítéséhez.",
+            "ro": "Faceți o scurtă pauză în fața acestei capodopere arhitecturale, ideală pentru o fotografie memorabilă cu bicicleta dumneavoastră.",
+            "en": "Take a short break in the plaza of this architectural masterpiece, a perfect spot to snap a memorable photo alongside your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten B. F. Johnston",
+            "hu": "B. F. Johnston Botanikus Kert",
+            "ro": "Grădina Botanică B. F. Johnston",
+            "en": "B. F. Johnston Botanical Garden"
+          },
+          "coords": [
+            -109.00481,
+            25.789164
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den breiten Wegen dieser städtischen Lunge und halten Sie Ausschau nach den freilaufenden Leguanen im Unterholz.",
+            "hu": "Óvatosan kerékpározzon e városi tüdő széles ösvényein, és tartsa nyitva a szemét a bozótosban szabadon kószáló leguánok miatt.",
+            "ro": "Pedalați cu grijă pe aleile largi ale acestui plămân urban, fiind atenți la iguanele care se plimbă liber prin tufișuri.",
+            "en": "Ride carefully along the wide paths of this urban lung, keeping an eye out for the free-roaming iguanas hiding in the underbrush."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Conrado Espinoza",
+            "hu": "Conrado Espinoza Kultúrház",
+            "ro": "Casa de Cultură Conrado Espinoza",
+            "en": "Conrado Espinoza House of Culture"
+          },
+          "coords": [
+            -108.972525,
+            25.804469
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie regionale Kunst in diesem Zentrum am Fuße des Hügels und informieren Sie sich vorab über die speziellen Ausstellungen.",
+            "hu": "Fedezze fel a regionális művészetet ebben a hegy lábánál fekvő kulturális központban, és előre tájékozódjon a különleges kiállításokról.",
+            "ro": "Explorați arta regională în acest centru cultural de la poalele dealului, verificând programul pentru expozițiile speciale de weekend.",
+            "en": "Explore regional art and history in this cultural hub set at the foot of the hill, checking the schedule for special weekend exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pergola Hügel",
+            "hu": "La Pergola domb",
+            "ro": "Dealul La Pergola",
+            "en": "La Pergola Hill"
+          },
+          "coords": [
+            -108.972815,
+            25.805474
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schieben Sie das Fahrrad das letzte steile Stück hinauf, um den besten natürlichen Aussichtspunkt der Stadt im Abendlicht zu genießen.",
+            "hu": "Tolja fel a kerékpárt az utolsó meredek szakaszon, hogy élvezhesse a város legjobb természetes kilátóját a lenyugvó nap fényében.",
+            "ro": "Împingeți bicicleta pe ultima porțiune abruptă pentru a vă bucura de cel mai bun punct de belvedere al orașului în lumina după-amiezii.",
+            "en": "Push your bike up the final steep section to enjoy the city's best natural viewpoint, rewarding your effort with sweeping afternoon views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Süden an der ikonischen Pfarrkirche, bevor Sie zu den Museen aufbrechen.\n\nGegen Mittag gleiten Sie an zeitgenössischer Architektur vorbei in die grüne urbane Oase.\n\nAm Nachmittag radeln Sie etwas weiter in den Norden, wo regionale Kultur auf Sie wartet.\n\nBeenden Sie den Tag mit einem lohnenden Anstieg zum besten natürlichen Aussichtspunkt der Stadt.",
+        "hu": "Kezdje a kerékpáros túrát délen az ikonikus plébániánál, mielőtt északra, a múzeumok felé venné az irányt.\n\nDélben haladjon el a kortárs építészet mellett, majd tekerjen be a zöldellő városi oázisba.\n\nDélután tegyen egy hosszabb utat az északi dombokhoz, ahol a regionális kultúra várja.\n\nZárja a napot egy megérdemelt kapaszkodóval a város legjobb természetes kilátójához.",
+        "ro": "Începeți traseul de ciclism la sud, la parohia iconică, înainte de a pedala spre complexul educațional.\n\nÎn jurul prânzului, treceți pe lângă teatrul contemporan și intrați în vasta oază urbană.\n\nDupă-amiaza, provocați-vă cu un traseu spre dealurile nordice, unde vă așteaptă arta regională.\n\nTerminați ziua cu o ascensiune plină de satisfacții către cel mai înalt punct de belvedere natural.",
+        "en": "Kick off your cycling journey south of the center at the iconic parish, before pedaling to the modern museums.\n\nAround noon, glide past the stunning contemporary theater and navigate the paths of the botanical garden.\n\nAs the afternoon sets in, challenge yourself with a ride to the northern hills for regional art.\n\nFinish the day with a rewarding ascent to the highest natural viewpoint over Los Mochis."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 7.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Pergola Hügel",
+            "hu": "La Pergola domb",
+            "ro": "Dealul La Pergola",
+            "en": "La Pergola Hill"
+          },
+          "coords": [
+            -108.972815,
+            25.805474
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie früh morgens auf den Hügel, um einen ungestörten Panoramablick auf Los Mochis zu genießen und bequem zu parken.",
+            "hu": "Hajtson fel a dombra kora reggel, hogy zavartalan panorámát élvezhessen Los Mochisra, és kényelmesen le tudjon parkolni.",
+            "ro": "Conduceți pe deal dimineața devreme pentru a vă bucura de o vedere panoramică neîntreruptă asupra Los Mochis și pentru a parca ușor.",
+            "en": "Drive up the hill early in the morning to enjoy an uninterrupted panoramic view of Los Mochis and easily secure a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Conrado Espinoza",
+            "hu": "Conrado Espinoza Kultúrház",
+            "ro": "Casa de Cultură Conrado Espinoza",
+            "en": "Conrado Espinoza House of Culture"
+          },
+          "coords": [
+            -108.972525,
+            25.804469
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verlassen Sie Ihr Auto am Fuß des Hügels und tauchen Sie in die regionalen Kunstausstellungen dieses traditionsreichen Hauses ein.",
+            "hu": "Hagyja autóját a domb lábánál, és merüljön el ennek a nagy múltú háznak a regionális művészeti kiállításaiban.",
+            "ro": "Lăsați mașina la poalele dealului și pătrundeți în expozițiile de artă regională ale acestei case cu o bogată istorie.",
+            "en": "Leave your car safely parked at the foot of the hill and delve into the regional art exhibitions of this historic establishment."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Fuerte-Tals",
+            "hu": "Fuerte-völgy Múzeum",
+            "ro": "Muzeul Văii Fuerte",
+            "en": "Museum of the Fuerte Valley"
+          },
+          "coords": [
+            -108.999586,
+            25.790206
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die zentralen Parkplätze, um dieses Museum zu besuchen, das die tiefgreifende koloniale Geschichte Nordsinaloas bewahrt.",
+            "hu": "Használja a központi parkolókat a múzeum felkereséséhez, amely Észak-Sinaloa mélyreható gyarmati történelmét őrzi.",
+            "ro": "Folosiți parcările centrale pentru a vizita acest muzeu care păstrează istoria colonială profundă a nordului Sinaloaei.",
+            "en": "Utilize the central parking areas to visit this museum, which preserves the profound colonial history of northern Sinaloa."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Casa Grande",
+            "hu": "Casa Grande Romjai",
+            "ro": "Ruinele Casei Mari",
+            "en": "Ruins of Casa Grande"
+          },
+          "coords": [
+            -109.003358,
+            25.789639
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie von Ihrem zentrumsnahen Parkplatz nur wenige Schritte, um die geheimnisvollen architektonischen Überreste zu erkunden.",
+            "hu": "Sétáljon mindössze néhány lépést a közeli parkolóból, hogy felfedezze ezeket a titokzatos építészeti maradványokat.",
+            "ro": "Faceți doar câțiva pași de la locul de parcare din centru pentru a explora aceste misterioase rămășițe arhitecturale.",
+            "en": "Walk just a few steps from your downtown parking spot to explore the mysterious architectural remnants hidden in the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten B. F. Johnston",
+            "hu": "B. F. Johnston Botanikus Kert",
+            "ro": "Grădina Botanică B. F. Johnston",
+            "en": "B. F. Johnston Botanical Garden"
+          },
+          "coords": [
+            -109.00481,
+            25.789164
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch die üppige Flora und lassen Sie Ihr Fahrzeug bequem auf den markierten Flächen stehen.",
+            "hu": "Élvezze a pihentető sétát a buja növényzetben, miközben gépjárművét kényelmesen a kijelölt területeken hagyja.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin flora abundentă, lăsând mașina în siguranță în zonele marcate.",
+            "en": "Enjoy a relaxing stroll through the abundant flora while leaving your vehicle conveniently parked in the designated perimeter areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Unserer Lieben Frau vom Rosenkranz",
+            "hu": "Rózsafüzér Királynője Plébánia",
+            "ro": "Parohia Fecioara Rozariului",
+            "en": "Parish of Our Lady of the Rosary"
+          },
+          "coords": [
+            -108.994859,
+            25.7683
+          ],
+          "category": "castle",
+          "arrive_at": "16:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss südwärts zur markanten Kirche und finden Sie in der Abenddämmerung einen ruhigen Parkplatz direkt davor.",
+            "hu": "Zárásként hajtson délre a jellegzetes templomhoz, és találjon egy csendes parkolóhelyet közvetlenül előtte alkonyatkor.",
+            "ro": "Conduceți spre sud către biserica impresionantă la finalul zilei, găsind un loc de parcare liniștit chiar în fața ei la amurg.",
+            "en": "Drive south to the striking parish as the day ends, finding a quiet parking spot right out front in the evening dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am nördlichen Aussichtspunkt für frühe Panoramablicke über die Stadt.\n\nFahren Sie zur Mittagszeit ins Zentrum, um in die indigene und koloniale Vergangenheit des Tals einzutauchen.\n\nAm Nachmittag wandeln Sie zwischen den faszinierenden Ruinen des Gründerhauses.\n\nBeenden Sie Ihren Roadtrip, indem Sie gen Süden zur hochaufragenden modernen Pfarrkirche steuern.",
+        "hu": "Kezdje a festői autózást az északi kilátópontnál, ahol kora reggeli panoráma nyílik a városra.\n\nDélben hajtson a belvárosba, hogy elmélyedjen a völgy őslakos és gyarmati múltjában.\n\nDélután barangoljon az alapító házának lenyűgöző romjai között a közeli parkolóból.\n\nZárja az utat egy délre tartó vezetéssel, hogy megcsodálja a modern plébániatemplomot.",
+        "ro": "Începeți traseul pitoresc la punctul de belvedere nordic pentru vederi panoramice matinale.\n\nConduceți spre centrul orașului la amiază pentru a aprofunda trecutul colonial al văii.\n\nDupă-amiaza, plimbați-vă printre ruinele intrigante ale casei fondatorului, lăsând mașina în centru.\n\nÎncheiați-vă călătoria cu mașina conducând spre sud către parohia modernă și impunătoare.",
+        "en": "Start your scenic drive at the northern vantage point for early panoramic city views.\n\nDrive downtown towards midday to delve into the valley's indigenous and colonial past.\n\nIn the afternoon, wander among the intriguing ruins of the founder's house.\n\nWrap up your road trip by driving south to the towering modern parish as the evening comes alive."
+      }
+    }
+  }
+}

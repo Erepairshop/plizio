@@ -5,6 +5,12 @@
       "hu": "horvatorszag-latnivalok",
       "ro": "croatia-obiective-turistice",
       "en": "croatia-attractions"
+    },
+    "cities": {
+      "de": "kroatien-staedte",
+      "hu": "horvatorszag-varosok",
+      "ro": "croatia-orase",
+      "en": "croatia-cities"
     }
   },
   "de": {
@@ -13,6 +19,12 @@
       "hu": "nemetorszag-latnivalok",
       "ro": "germania-obiective-turistice",
       "en": "germany-attractions"
+    },
+    "cities": {
+      "de": "deutschland-staedte",
+      "hu": "nemetorszag-varosok",
+      "ro": "germania-orase",
+      "en": "germany-cities"
     }
   },
   "at": {
@@ -21,6 +33,12 @@
       "hu": "ausztria-latnivalok",
       "ro": "austria-obiective-turistice",
       "en": "austria-attractions"
+    },
+    "cities": {
+      "de": "oesterreich-staedte",
+      "hu": "ausztria-varosok",
+      "ro": "austria-orase",
+      "en": "austria-cities"
     }
   },
   "ch": {
@@ -29,6 +47,12 @@
       "hu": "svajc-latnivalok",
       "ro": "elvetia-obiective-turistice",
       "en": "switzerland-attractions"
+    },
+    "cities": {
+      "de": "schweiz-staedte",
+      "hu": "svajc-varosok",
+      "ro": "elvetia-orase",
+      "en": "switzerland-cities"
     }
   },
   "fr": {
@@ -37,6 +61,12 @@
       "hu": "franciaorszag-latnivalok",
       "ro": "franta-obiective-turistice",
       "en": "france-attractions"
+    },
+    "cities": {
+      "de": "frankreich-staedte",
+      "hu": "franciaorszag-varosok",
+      "ro": "franta-orase",
+      "en": "france-cities"
     }
   },
   "it": {
@@ -45,6 +75,12 @@
       "hu": "olaszorszag-latnivalok",
       "ro": "italia-obiective-turistice",
       "en": "italy-attractions"
+    },
+    "cities": {
+      "de": "italien-staedte",
+      "hu": "olaszorszag-varosok",
+      "ro": "italia-orase",
+      "en": "italy-cities"
     }
   },
   "es": {
@@ -53,6 +89,12 @@
       "hu": "spanyolorszag-latnivalok",
       "ro": "spania-obiective-turistice",
       "en": "spain-attractions"
+    },
+    "cities": {
+      "de": "spanien-staedte",
+      "hu": "spanyolorszag-varosok",
+      "ro": "spania-orase",
+      "en": "spain-cities"
     }
   },
   "pt": {
@@ -61,6 +103,12 @@
       "hu": "portugalia-latnivalok",
       "ro": "portugalia-obiective-turistice",
       "en": "portugal-attractions"
+    },
+    "cities": {
+      "de": "portugal-staedte",
+      "hu": "portugalia-varosok",
+      "ro": "portugalia-orase",
+      "en": "portugal-cities"
     }
   },
   "nl": {
@@ -69,6 +117,12 @@
       "hu": "hollandia-latnivalok",
       "ro": "tarile-de-jos-obiective-turistice",
       "en": "netherlands-attractions"
+    },
+    "cities": {
+      "de": "niederlande-staedte",
+      "hu": "hollandia-varosok",
+      "ro": "tarile-de-jos-orase",
+      "en": "netherlands-cities"
     }
   },
   "be": {
@@ -77,6 +131,12 @@
       "hu": "belgium-latnivalok",
       "ro": "belgia-obiective-turistice",
       "en": "belgium-attractions"
+    },
+    "cities": {
+      "de": "belgien-staedte",
+      "hu": "belgium-varosok",
+      "ro": "belgia-orase",
+      "en": "belgium-cities"
     }
   },
   "gr": {
@@ -85,6 +145,12 @@
       "hu": "goeroegorszag-latnivalok",
       "ro": "grecia-obiective-turistice",
       "en": "greece-attractions"
+    },
+    "cities": {
+      "de": "griechenland-staedte",
+      "hu": "goeroegorszag-varosok",
+      "ro": "grecia-orase",
+      "en": "greece-cities"
     }
   },
   "pl": {
@@ -93,6 +159,12 @@
       "hu": "lengyelorszag-latnivalok",
       "ro": "polonia-obiective-turistice",
       "en": "poland-attractions"
+    },
+    "cities": {
+      "de": "polen-staedte",
+      "hu": "lengyelorszag-varosok",
+      "ro": "polonia-orase",
+      "en": "poland-cities"
     }
   },
   "cz": {
@@ -101,6 +173,12 @@
       "hu": "csehorszag-latnivalok",
       "ro": "cehia-obiective-turistice",
       "en": "czechia-attractions"
+    },
+    "cities": {
+      "de": "tschechien-staedte",
+      "hu": "csehorszag-varosok",
+      "ro": "cehia-orase",
+      "en": "czechia-cities"
     }
   },
   "hu": {
@@ -109,6 +187,12 @@
       "hu": "magyarorszag-latnivalok",
       "ro": "ungaria-obiective-turistice",
       "en": "hungary-attractions"
+    },
+    "cities": {
+      "de": "ungarn-staedte",
+      "hu": "magyarorszag-varosok",
+      "ro": "ungaria-orase",
+      "en": "hungary-cities"
     }
   },
   "ro": {
@@ -117,6 +201,12 @@
       "hu": "romania-latnivalok",
       "ro": "romania-obiective-turistice",
       "en": "romania-attractions"
+    },
+    "cities": {
+      "de": "rumaenien-staedte",
+      "hu": "romania-varosok",
+      "ro": "romania-orase",
+      "en": "romania-cities"
     }
   },
   "ie": {
@@ -125,6 +215,12 @@
       "hu": "irorszag-latnivalok",
       "ro": "irlanda-obiective-turistice",
       "en": "ireland-attractions"
+    },
+    "cities": {
+      "de": "irland-staedte",
+      "hu": "irorszag-varosok",
+      "ro": "irlanda-orase",
+      "en": "ireland-cities"
     }
   },
   "si": {
@@ -133,6 +229,12 @@
       "hu": "szlovenia-latnivalok",
       "ro": "slovenia-obiective-turistice",
       "en": "slovenia-attractions"
+    },
+    "cities": {
+      "de": "slowenien-staedte",
+      "hu": "szlovenia-varosok",
+      "ro": "slovenia-orase",
+      "en": "slovenia-cities"
     }
   },
   "sk": {
@@ -141,6 +243,2258 @@
       "hu": "szlovakia-latnivalok",
       "ro": "slovacia-obiective-turistice",
       "en": "slovakia-attractions"
+    },
+    "cities": {
+      "de": "slowakei-staedte",
+      "hu": "szlovakia-varosok",
+      "ro": "slovacia-orase",
+      "en": "slovakia-cities"
+    }
+  },
+  "ad": {
+    "attractions": {
+      "de": "andorra-sehenswuerdigkeiten",
+      "hu": "andorra-latnivalok",
+      "ro": "andorra-obiective-turistice",
+      "en": "andorra-attractions"
+    },
+    "cities": {
+      "de": "andorra-staedte",
+      "hu": "andorra-varosok",
+      "ro": "andorra-orase",
+      "en": "andorra-cities"
+    }
+  },
+  "ae": {
+    "attractions": {
+      "de": "vereinigte-arabische-emirate-sehenswuerdigkeiten",
+      "hu": "egyesuelt-arab-emirsegek-latnivalok",
+      "ro": "emiratele-arabe-unite-obiective-turistice",
+      "en": "united-arab-emirates-attractions"
+    },
+    "cities": {
+      "de": "vereinigte-arabische-emirate-staedte",
+      "hu": "egyesuelt-arab-emirsegek-varosok",
+      "ro": "emiratele-arabe-unite-orase",
+      "en": "united-arab-emirates-cities"
+    }
+  },
+  "af": {
+    "attractions": {
+      "de": "afghanistan-sehenswuerdigkeiten",
+      "hu": "afganisztan-latnivalok",
+      "ro": "afganistan-obiective-turistice",
+      "en": "afghanistan-attractions"
+    },
+    "cities": {
+      "de": "afghanistan-staedte",
+      "hu": "afganisztan-varosok",
+      "ro": "afganistan-orase",
+      "en": "afghanistan-cities"
+    }
+  },
+  "al": {
+    "attractions": {
+      "de": "albanien-sehenswuerdigkeiten",
+      "hu": "albania-latnivalok",
+      "ro": "albania-obiective-turistice",
+      "en": "albania-attractions"
+    },
+    "cities": {
+      "de": "albanien-staedte",
+      "hu": "albania-varosok",
+      "ro": "albania-orase",
+      "en": "albania-cities"
+    }
+  },
+  "am": {
+    "attractions": {
+      "de": "armenien-sehenswuerdigkeiten",
+      "hu": "oermenyorszag-latnivalok",
+      "ro": "armenia-obiective-turistice",
+      "en": "armenia-attractions"
+    },
+    "cities": {
+      "de": "armenien-staedte",
+      "hu": "oermenyorszag-varosok",
+      "ro": "armenia-orase",
+      "en": "armenia-cities"
+    }
+  },
+  "ao": {
+    "attractions": {
+      "de": "angola-sehenswuerdigkeiten",
+      "hu": "angola-latnivalok",
+      "ro": "angola-obiective-turistice",
+      "en": "angola-attractions"
+    },
+    "cities": {
+      "de": "angola-staedte",
+      "hu": "angola-varosok",
+      "ro": "angola-orase",
+      "en": "angola-cities"
+    }
+  },
+  "ar": {
+    "attractions": {
+      "de": "argentinien-sehenswuerdigkeiten",
+      "hu": "argentina-latnivalok",
+      "ro": "argentina-obiective-turistice",
+      "en": "argentina-attractions"
+    },
+    "cities": {
+      "de": "argentinien-staedte",
+      "hu": "argentina-varosok",
+      "ro": "argentina-orase",
+      "en": "argentina-cities"
+    }
+  },
+  "az": {
+    "attractions": {
+      "de": "aserbaidschan-sehenswuerdigkeiten",
+      "hu": "azerbajdzsan-latnivalok",
+      "ro": "azerbaidjan-obiective-turistice",
+      "en": "azerbaijan-attractions"
+    },
+    "cities": {
+      "de": "aserbaidschan-staedte",
+      "hu": "azerbajdzsan-varosok",
+      "ro": "azerbaidjan-orase",
+      "en": "azerbaijan-cities"
+    }
+  },
+  "ba": {
+    "attractions": {
+      "de": "bosnien-und-herzegowina-sehenswuerdigkeiten",
+      "hu": "bosznia-hercegovina-latnivalok",
+      "ro": "bosnia-si-hertegovina-obiective-turistice",
+      "en": "bosnia-and-herzegovina-attractions"
+    },
+    "cities": {
+      "de": "bosnien-und-herzegowina-staedte",
+      "hu": "bosznia-hercegovina-varosok",
+      "ro": "bosnia-si-hertegovina-orase",
+      "en": "bosnia-and-herzegovina-cities"
+    }
+  },
+  "bb": {
+    "attractions": {
+      "de": "barbados-sehenswuerdigkeiten",
+      "hu": "barbados-latnivalok",
+      "ro": "barbados-obiective-turistice",
+      "en": "barbados-attractions"
+    },
+    "cities": {
+      "de": "barbados-staedte",
+      "hu": "barbados-varosok",
+      "ro": "barbados-orase",
+      "en": "barbados-cities"
+    }
+  },
+  "bd": {
+    "attractions": {
+      "de": "bangladesch-sehenswuerdigkeiten",
+      "hu": "banglades-latnivalok",
+      "ro": "bangladesh-obiective-turistice",
+      "en": "bangladesh-attractions"
+    },
+    "cities": {
+      "de": "bangladesch-staedte",
+      "hu": "banglades-varosok",
+      "ro": "bangladesh-orase",
+      "en": "bangladesh-cities"
+    }
+  },
+  "bf": {
+    "attractions": {
+      "de": "burkina-faso-sehenswuerdigkeiten",
+      "hu": "burkina-faso-latnivalok",
+      "ro": "burkina-faso-obiective-turistice",
+      "en": "burkina-faso-attractions"
+    },
+    "cities": {
+      "de": "burkina-faso-staedte",
+      "hu": "burkina-faso-varosok",
+      "ro": "burkina-faso-orase",
+      "en": "burkina-faso-cities"
+    }
+  },
+  "bg": {
+    "attractions": {
+      "de": "bulgarien-sehenswuerdigkeiten",
+      "hu": "bulgaria-latnivalok",
+      "ro": "bulgaria-obiective-turistice",
+      "en": "bulgaria-attractions"
+    },
+    "cities": {
+      "de": "bulgarien-staedte",
+      "hu": "bulgaria-varosok",
+      "ro": "bulgaria-orase",
+      "en": "bulgaria-cities"
+    }
+  },
+  "bh": {
+    "attractions": {
+      "de": "bahrain-sehenswuerdigkeiten",
+      "hu": "bahrein-latnivalok",
+      "ro": "bahrain-obiective-turistice",
+      "en": "bahrain-attractions"
+    },
+    "cities": {
+      "de": "bahrain-staedte",
+      "hu": "bahrein-varosok",
+      "ro": "bahrain-orase",
+      "en": "bahrain-cities"
+    }
+  },
+  "bi": {
+    "attractions": {
+      "de": "burundi-sehenswuerdigkeiten",
+      "hu": "burundi-latnivalok",
+      "ro": "burundi-obiective-turistice",
+      "en": "burundi-attractions"
+    },
+    "cities": {
+      "de": "burundi-staedte",
+      "hu": "burundi-varosok",
+      "ro": "burundi-orase",
+      "en": "burundi-cities"
+    }
+  },
+  "bj": {
+    "attractions": {
+      "de": "benin-sehenswuerdigkeiten",
+      "hu": "benin-latnivalok",
+      "ro": "benin-obiective-turistice",
+      "en": "benin-attractions"
+    }
+  },
+  "bn": {
+    "attractions": {
+      "de": "brunei-darussalam-sehenswuerdigkeiten",
+      "hu": "brunei-latnivalok",
+      "ro": "brunei-obiective-turistice",
+      "en": "brunei-attractions"
+    },
+    "cities": {
+      "de": "brunei-darussalam-staedte",
+      "hu": "brunei-varosok",
+      "ro": "brunei-orase",
+      "en": "brunei-cities"
+    }
+  },
+  "bo": {
+    "attractions": {
+      "de": "bolivien-sehenswuerdigkeiten",
+      "hu": "bolivia-latnivalok",
+      "ro": "bolivia-obiective-turistice",
+      "en": "bolivia-attractions"
+    }
+  },
+  "br": {
+    "attractions": {
+      "de": "brasilien-sehenswuerdigkeiten",
+      "hu": "brazilia-latnivalok",
+      "ro": "brazilia-obiective-turistice",
+      "en": "brazil-attractions"
+    },
+    "cities": {
+      "de": "brasilien-staedte",
+      "hu": "brazilia-varosok",
+      "ro": "brazilia-orase",
+      "en": "brazil-cities"
+    }
+  },
+  "bs": {
+    "attractions": {
+      "de": "bahamas-sehenswuerdigkeiten",
+      "hu": "bahama-szigetek-latnivalok",
+      "ro": "bahamas-obiective-turistice",
+      "en": "bahamas-attractions"
+    },
+    "cities": {
+      "de": "bahamas-staedte",
+      "hu": "bahama-szigetek-varosok",
+      "ro": "bahamas-orase",
+      "en": "bahamas-cities"
+    }
+  },
+  "bt": {
+    "attractions": {
+      "de": "bhutan-sehenswuerdigkeiten",
+      "hu": "bhutan-latnivalok",
+      "ro": "bhutan-obiective-turistice",
+      "en": "bhutan-attractions"
+    },
+    "cities": {
+      "de": "bhutan-staedte",
+      "hu": "bhutan-varosok",
+      "ro": "bhutan-orase",
+      "en": "bhutan-cities"
+    }
+  },
+  "bw": {
+    "attractions": {
+      "de": "botsuana-sehenswuerdigkeiten",
+      "hu": "botswana-latnivalok",
+      "ro": "botswana-obiective-turistice",
+      "en": "botswana-attractions"
+    }
+  },
+  "by": {
+    "attractions": {
+      "de": "belarus-sehenswuerdigkeiten",
+      "hu": "feheroroszorszag-latnivalok",
+      "ro": "belarus-obiective-turistice",
+      "en": "belarus-attractions"
+    },
+    "cities": {
+      "de": "belarus-staedte",
+      "hu": "feheroroszorszag-varosok",
+      "ro": "belarus-orase",
+      "en": "belarus-cities"
+    }
+  },
+  "bz": {
+    "attractions": {
+      "de": "belize-sehenswuerdigkeiten",
+      "hu": "belize-latnivalok",
+      "ro": "belize-obiective-turistice",
+      "en": "belize-attractions"
+    },
+    "cities": {
+      "de": "belize-staedte",
+      "hu": "belize-varosok",
+      "ro": "belize-orase",
+      "en": "belize-cities"
+    }
+  },
+  "ca": {
+    "attractions": {
+      "de": "kanada-sehenswuerdigkeiten",
+      "hu": "kanada-latnivalok",
+      "ro": "canada-obiective-turistice",
+      "en": "canada-attractions"
+    },
+    "cities": {
+      "de": "kanada-staedte",
+      "hu": "kanada-varosok",
+      "ro": "canada-orase",
+      "en": "canada-cities"
+    }
+  },
+  "cd": {
+    "attractions": {
+      "de": "kongo-kinshasa-sehenswuerdigkeiten",
+      "hu": "kongo-kinshasa-latnivalok",
+      "ro": "congo-kinshasa-obiective-turistice",
+      "en": "congo-kinshasa-attractions"
+    },
+    "cities": {
+      "de": "kongo-kinshasa-staedte",
+      "hu": "kongo-kinshasa-varosok",
+      "ro": "congo-kinshasa-orase",
+      "en": "congo-kinshasa-cities"
+    }
+  },
+  "cf": {
+    "attractions": {
+      "de": "zentralafrikanische-republik-sehenswuerdigkeiten",
+      "hu": "koezep-afrikai-koeztarsasag-latnivalok",
+      "ro": "republica-centrafricana-obiective-turistice",
+      "en": "central-african-republic-attractions"
+    },
+    "cities": {
+      "de": "zentralafrikanische-republik-staedte",
+      "hu": "koezep-afrikai-koeztarsasag-varosok",
+      "ro": "republica-centrafricana-orase",
+      "en": "central-african-republic-cities"
+    }
+  },
+  "cg": {
+    "attractions": {
+      "de": "kongo-brazzaville-sehenswuerdigkeiten",
+      "hu": "kongo-brazzaville-latnivalok",
+      "ro": "congo-brazzaville-obiective-turistice",
+      "en": "congo-brazzaville-attractions"
+    },
+    "cities": {
+      "de": "kongo-brazzaville-staedte",
+      "hu": "kongo-brazzaville-varosok",
+      "ro": "congo-brazzaville-orase",
+      "en": "congo-brazzaville-cities"
+    }
+  },
+  "ci": {
+    "attractions": {
+      "de": "cote-d-ivoire-sehenswuerdigkeiten",
+      "hu": "elefantcsontpart-latnivalok",
+      "ro": "cote-d-ivoire-obiective-turistice",
+      "en": "cote-d-ivoire-attractions"
+    },
+    "cities": {
+      "de": "cote-d-ivoire-staedte",
+      "hu": "elefantcsontpart-varosok",
+      "ro": "cote-d-ivoire-orase",
+      "en": "cote-d-ivoire-cities"
+    }
+  },
+  "ck": {
+    "attractions": {
+      "de": "cookinseln-sehenswuerdigkeiten",
+      "hu": "cook-szigetek-latnivalok",
+      "ro": "insulele-cook-obiective-turistice",
+      "en": "cook-islands-attractions"
+    }
+  },
+  "cl": {
+    "attractions": {
+      "de": "chile-sehenswuerdigkeiten",
+      "hu": "chile-latnivalok",
+      "ro": "chile-obiective-turistice",
+      "en": "chile-attractions"
+    }
+  },
+  "cm": {
+    "attractions": {
+      "de": "kamerun-sehenswuerdigkeiten",
+      "hu": "kamerun-latnivalok",
+      "ro": "camerun-obiective-turistice",
+      "en": "cameroon-attractions"
+    },
+    "cities": {
+      "de": "kamerun-staedte",
+      "hu": "kamerun-varosok",
+      "ro": "camerun-orase",
+      "en": "cameroon-cities"
+    }
+  },
+  "cn": {
+    "attractions": {
+      "de": "china-sehenswuerdigkeiten",
+      "hu": "kina-latnivalok",
+      "ro": "china-obiective-turistice",
+      "en": "china-attractions"
+    },
+    "cities": {
+      "de": "china-staedte",
+      "hu": "kina-varosok",
+      "ro": "china-orase",
+      "en": "china-cities"
+    }
+  },
+  "co": {
+    "attractions": {
+      "de": "kolumbien-sehenswuerdigkeiten",
+      "hu": "kolumbia-latnivalok",
+      "ro": "columbia-obiective-turistice",
+      "en": "colombia-attractions"
+    },
+    "cities": {
+      "de": "kolumbien-staedte",
+      "hu": "kolumbia-varosok",
+      "ro": "columbia-orase",
+      "en": "colombia-cities"
+    }
+  },
+  "cr": {
+    "attractions": {
+      "de": "costa-rica-sehenswuerdigkeiten",
+      "hu": "costa-rica-latnivalok",
+      "ro": "costa-rica-obiective-turistice",
+      "en": "costa-rica-attractions"
+    },
+    "cities": {
+      "de": "costa-rica-staedte",
+      "hu": "costa-rica-varosok",
+      "ro": "costa-rica-orase",
+      "en": "costa-rica-cities"
+    }
+  },
+  "cu": {
+    "attractions": {
+      "de": "kuba-sehenswuerdigkeiten",
+      "hu": "kuba-latnivalok",
+      "ro": "cuba-obiective-turistice",
+      "en": "cuba-attractions"
+    },
+    "cities": {
+      "de": "kuba-staedte",
+      "hu": "kuba-varosok",
+      "ro": "cuba-orase",
+      "en": "cuba-cities"
+    }
+  },
+  "cv": {
+    "attractions": {
+      "de": "cabo-verde-sehenswuerdigkeiten",
+      "hu": "zoeld-foki-koeztarsasag-latnivalok",
+      "ro": "capul-verde-obiective-turistice",
+      "en": "cape-verde-attractions"
+    },
+    "cities": {
+      "de": "cabo-verde-staedte",
+      "hu": "zoeld-foki-koeztarsasag-varosok",
+      "ro": "capul-verde-orase",
+      "en": "cape-verde-cities"
+    }
+  },
+  "cy": {
+    "attractions": {
+      "de": "zypern-sehenswuerdigkeiten",
+      "hu": "ciprus-latnivalok",
+      "ro": "cipru-obiective-turistice",
+      "en": "cyprus-attractions"
+    }
+  },
+  "dj": {
+    "attractions": {
+      "de": "dschibuti-sehenswuerdigkeiten",
+      "hu": "dzsibuti-latnivalok",
+      "ro": "djibouti-obiective-turistice",
+      "en": "djibouti-attractions"
+    },
+    "cities": {
+      "de": "dschibuti-staedte",
+      "hu": "dzsibuti-varosok",
+      "ro": "djibouti-orase",
+      "en": "djibouti-cities"
+    }
+  },
+  "dk": {
+    "attractions": {
+      "de": "daenemark-sehenswuerdigkeiten",
+      "hu": "dania-latnivalok",
+      "ro": "danemarca-obiective-turistice",
+      "en": "denmark-attractions"
+    },
+    "cities": {
+      "de": "daenemark-staedte",
+      "hu": "dania-varosok",
+      "ro": "danemarca-orase",
+      "en": "denmark-cities"
+    }
+  },
+  "do": {
+    "attractions": {
+      "de": "dominikanische-republik-sehenswuerdigkeiten",
+      "hu": "dominikai-koeztarsasag-latnivalok",
+      "ro": "republica-dominicana-obiective-turistice",
+      "en": "dominican-republic-attractions"
+    },
+    "cities": {
+      "de": "dominikanische-republik-staedte",
+      "hu": "dominikai-koeztarsasag-varosok",
+      "ro": "republica-dominicana-orase",
+      "en": "dominican-republic-cities"
+    }
+  },
+  "dz": {
+    "attractions": {
+      "de": "algerien-sehenswuerdigkeiten",
+      "hu": "algeria-latnivalok",
+      "ro": "algeria-obiective-turistice",
+      "en": "algeria-attractions"
+    },
+    "cities": {
+      "de": "algerien-staedte",
+      "hu": "algeria-varosok",
+      "ro": "algeria-orase",
+      "en": "algeria-cities"
+    }
+  },
+  "ec": {
+    "attractions": {
+      "de": "ecuador-sehenswuerdigkeiten",
+      "hu": "ecuador-latnivalok",
+      "ro": "ecuador-obiective-turistice",
+      "en": "ecuador-attractions"
+    },
+    "cities": {
+      "de": "ecuador-staedte",
+      "hu": "ecuador-varosok",
+      "ro": "ecuador-orase",
+      "en": "ecuador-cities"
+    }
+  },
+  "ee": {
+    "attractions": {
+      "de": "estland-sehenswuerdigkeiten",
+      "hu": "esztorszag-latnivalok",
+      "ro": "estonia-obiective-turistice",
+      "en": "estonia-attractions"
+    },
+    "cities": {
+      "de": "estland-staedte",
+      "hu": "esztorszag-varosok",
+      "ro": "estonia-orase",
+      "en": "estonia-cities"
+    }
+  },
+  "eg": {
+    "attractions": {
+      "de": "aegypten-sehenswuerdigkeiten",
+      "hu": "egyiptom-latnivalok",
+      "ro": "egipt-obiective-turistice",
+      "en": "egypt-attractions"
+    },
+    "cities": {
+      "de": "aegypten-staedte",
+      "hu": "egyiptom-varosok",
+      "ro": "egipt-orase",
+      "en": "egypt-cities"
+    }
+  },
+  "er": {
+    "attractions": {
+      "de": "eritrea-sehenswuerdigkeiten",
+      "hu": "eritrea-latnivalok",
+      "ro": "eritreea-obiective-turistice",
+      "en": "eritrea-attractions"
+    }
+  },
+  "et": {
+    "attractions": {
+      "de": "aethiopien-sehenswuerdigkeiten",
+      "hu": "etiopia-latnivalok",
+      "ro": "etiopia-obiective-turistice",
+      "en": "ethiopia-attractions"
+    },
+    "cities": {
+      "de": "aethiopien-staedte",
+      "hu": "etiopia-varosok",
+      "ro": "etiopia-orase",
+      "en": "ethiopia-cities"
+    }
+  },
+  "fi": {
+    "attractions": {
+      "de": "finnland-sehenswuerdigkeiten",
+      "hu": "finnorszag-latnivalok",
+      "ro": "finlanda-obiective-turistice",
+      "en": "finland-attractions"
+    },
+    "cities": {
+      "de": "finnland-staedte",
+      "hu": "finnorszag-varosok",
+      "ro": "finlanda-orase",
+      "en": "finland-cities"
+    }
+  },
+  "fm": {
+    "attractions": {
+      "de": "mikronesien-sehenswuerdigkeiten",
+      "hu": "mikronezia-latnivalok",
+      "ro": "micronezia-obiective-turistice",
+      "en": "micronesia-attractions"
+    }
+  },
+  "ga": {
+    "attractions": {
+      "de": "gabun-sehenswuerdigkeiten",
+      "hu": "gabon-latnivalok",
+      "ro": "gabon-obiective-turistice",
+      "en": "gabon-attractions"
+    },
+    "cities": {
+      "de": "gabun-staedte",
+      "hu": "gabon-varosok",
+      "ro": "gabon-orase",
+      "en": "gabon-cities"
+    }
+  },
+  "gb": {
+    "attractions": {
+      "de": "vereinigtes-koenigreich-sehenswuerdigkeiten",
+      "hu": "egyesuelt-kiralysag-latnivalok",
+      "ro": "regatul-unit-obiective-turistice",
+      "en": "united-kingdom-attractions"
+    },
+    "cities": {
+      "de": "vereinigtes-koenigreich-staedte",
+      "hu": "egyesuelt-kiralysag-varosok",
+      "ro": "regatul-unit-orase",
+      "en": "united-kingdom-cities"
+    }
+  },
+  "gd": {
+    "attractions": {
+      "de": "grenada-sehenswuerdigkeiten",
+      "hu": "grenada-latnivalok",
+      "ro": "grenada-obiective-turistice",
+      "en": "grenada-attractions"
+    }
+  },
+  "ge": {
+    "attractions": {
+      "de": "georgien-sehenswuerdigkeiten",
+      "hu": "gruzia-latnivalok",
+      "ro": "georgia-obiective-turistice",
+      "en": "georgia-attractions"
+    },
+    "cities": {
+      "de": "georgien-staedte",
+      "hu": "gruzia-varosok",
+      "ro": "georgia-orase",
+      "en": "georgia-cities"
+    }
+  },
+  "gf": {
+    "attractions": {
+      "de": "franzoesisch-guayana-sehenswuerdigkeiten",
+      "hu": "francia-guyana-latnivalok",
+      "ro": "guyana-franceza-obiective-turistice",
+      "en": "french-guiana-attractions"
+    }
+  },
+  "gh": {
+    "attractions": {
+      "de": "ghana-sehenswuerdigkeiten",
+      "hu": "ghana-latnivalok",
+      "ro": "ghana-obiective-turistice",
+      "en": "ghana-attractions"
+    },
+    "cities": {
+      "de": "ghana-staedte",
+      "hu": "ghana-varosok",
+      "ro": "ghana-orase",
+      "en": "ghana-cities"
+    }
+  },
+  "gm": {
+    "attractions": {
+      "de": "gambia-sehenswuerdigkeiten",
+      "hu": "gambia-latnivalok",
+      "ro": "gambia-obiective-turistice",
+      "en": "gambia-attractions"
+    },
+    "cities": {
+      "de": "gambia-staedte",
+      "hu": "gambia-varosok",
+      "ro": "gambia-orase",
+      "en": "gambia-cities"
+    }
+  },
+  "gn": {
+    "attractions": {
+      "de": "guinea-sehenswuerdigkeiten",
+      "hu": "guinea-latnivalok",
+      "ro": "guineea-obiective-turistice",
+      "en": "guinea-attractions"
+    },
+    "cities": {
+      "de": "guinea-staedte",
+      "hu": "guinea-varosok",
+      "ro": "guineea-orase",
+      "en": "guinea-cities"
+    }
+  },
+  "gq": {
+    "attractions": {
+      "de": "aequatorialguinea-sehenswuerdigkeiten",
+      "hu": "egyenlitoi-guinea-latnivalok",
+      "ro": "guineea-ecuatoriala-obiective-turistice",
+      "en": "equatorial-guinea-attractions"
+    },
+    "cities": {
+      "de": "aequatorialguinea-staedte",
+      "hu": "egyenlitoi-guinea-varosok",
+      "ro": "guineea-ecuatoriala-orase",
+      "en": "equatorial-guinea-cities"
+    }
+  },
+  "gt": {
+    "attractions": {
+      "de": "guatemala-sehenswuerdigkeiten",
+      "hu": "guatemala-latnivalok",
+      "ro": "guatemala-obiective-turistice",
+      "en": "guatemala-attractions"
+    },
+    "cities": {
+      "de": "guatemala-staedte",
+      "hu": "guatemala-varosok",
+      "ro": "guatemala-orase",
+      "en": "guatemala-cities"
+    }
+  },
+  "gw": {
+    "attractions": {
+      "de": "guinea-bissau-sehenswuerdigkeiten",
+      "hu": "bissau-guinea-latnivalok",
+      "ro": "guineea-bissau-obiective-turistice",
+      "en": "guinea-bissau-attractions"
+    },
+    "cities": {
+      "de": "guinea-bissau-staedte",
+      "hu": "bissau-guinea-varosok",
+      "ro": "guineea-bissau-orase",
+      "en": "guinea-bissau-cities"
+    }
+  },
+  "gy": {
+    "attractions": {
+      "de": "guyana-sehenswuerdigkeiten",
+      "hu": "guyana-latnivalok",
+      "ro": "guyana-obiective-turistice",
+      "en": "guyana-attractions"
+    },
+    "cities": {
+      "de": "guyana-staedte",
+      "hu": "guyana-varosok",
+      "ro": "guyana-orase",
+      "en": "guyana-cities"
+    }
+  },
+  "hk": {
+    "attractions": {
+      "de": "sonderverwaltungsregion-hongkong-sehenswuerdigkeiten",
+      "hu": "hongkong-kkt-latnivalok",
+      "ro": "r-a-s-hong-kong-china-obiective-turistice",
+      "en": "hong-kong-sar-china-attractions"
+    },
+    "cities": {
+      "de": "sonderverwaltungsregion-hongkong-staedte",
+      "hu": "hongkong-kkt-varosok",
+      "ro": "r-a-s-hong-kong-china-orase",
+      "en": "hong-kong-sar-china-cities"
+    }
+  },
+  "hn": {
+    "attractions": {
+      "de": "honduras-sehenswuerdigkeiten",
+      "hu": "honduras-latnivalok",
+      "ro": "honduras-obiective-turistice",
+      "en": "honduras-attractions"
+    },
+    "cities": {
+      "de": "honduras-staedte",
+      "hu": "honduras-varosok",
+      "ro": "honduras-orase",
+      "en": "honduras-cities"
+    }
+  },
+  "ht": {
+    "attractions": {
+      "de": "haiti-sehenswuerdigkeiten",
+      "hu": "haiti-latnivalok",
+      "ro": "haiti-obiective-turistice",
+      "en": "haiti-attractions"
+    }
+  },
+  "id": {
+    "attractions": {
+      "de": "indonesien-sehenswuerdigkeiten",
+      "hu": "indonezia-latnivalok",
+      "ro": "indonezia-obiective-turistice",
+      "en": "indonesia-attractions"
+    },
+    "cities": {
+      "de": "indonesien-staedte",
+      "hu": "indonezia-varosok",
+      "ro": "indonezia-orase",
+      "en": "indonesia-cities"
+    }
+  },
+  "il": {
+    "attractions": {
+      "de": "israel-sehenswuerdigkeiten",
+      "hu": "izrael-latnivalok",
+      "ro": "israel-obiective-turistice",
+      "en": "israel-attractions"
+    },
+    "cities": {
+      "de": "israel-staedte",
+      "hu": "izrael-varosok",
+      "ro": "israel-orase",
+      "en": "israel-cities"
+    }
+  },
+  "in": {
+    "attractions": {
+      "de": "indien-sehenswuerdigkeiten",
+      "hu": "india-latnivalok",
+      "ro": "india-obiective-turistice",
+      "en": "india-attractions"
+    },
+    "cities": {
+      "de": "indien-staedte",
+      "hu": "india-varosok",
+      "ro": "india-orase",
+      "en": "india-cities"
+    }
+  },
+  "iq": {
+    "attractions": {
+      "de": "irak-sehenswuerdigkeiten",
+      "hu": "irak-latnivalok",
+      "ro": "irak-obiective-turistice",
+      "en": "iraq-attractions"
+    },
+    "cities": {
+      "de": "irak-staedte",
+      "hu": "irak-varosok",
+      "ro": "irak-orase",
+      "en": "iraq-cities"
+    }
+  },
+  "ir": {
+    "attractions": {
+      "de": "iran-sehenswuerdigkeiten",
+      "hu": "iran-latnivalok",
+      "ro": "iran-obiective-turistice",
+      "en": "iran-attractions"
+    },
+    "cities": {
+      "de": "iran-staedte",
+      "hu": "iran-varosok",
+      "ro": "iran-orase",
+      "en": "iran-cities"
+    }
+  },
+  "is": {
+    "attractions": {
+      "de": "island-sehenswuerdigkeiten",
+      "hu": "izland-latnivalok",
+      "ro": "islanda-obiective-turistice",
+      "en": "iceland-attractions"
+    },
+    "cities": {
+      "de": "island-staedte",
+      "hu": "izland-varosok",
+      "ro": "islanda-orase",
+      "en": "iceland-cities"
+    }
+  },
+  "jm": {
+    "attractions": {
+      "de": "jamaika-sehenswuerdigkeiten",
+      "hu": "jamaica-latnivalok",
+      "ro": "jamaica-obiective-turistice",
+      "en": "jamaica-attractions"
+    }
+  },
+  "jo": {
+    "attractions": {
+      "de": "jordanien-sehenswuerdigkeiten",
+      "hu": "jordania-latnivalok",
+      "ro": "iordania-obiective-turistice",
+      "en": "jordan-attractions"
+    },
+    "cities": {
+      "de": "jordanien-staedte",
+      "hu": "jordania-varosok",
+      "ro": "iordania-orase",
+      "en": "jordan-cities"
+    }
+  },
+  "jp": {
+    "attractions": {
+      "de": "japan-sehenswuerdigkeiten",
+      "hu": "japan-latnivalok",
+      "ro": "japonia-obiective-turistice",
+      "en": "japan-attractions"
+    },
+    "cities": {
+      "de": "japan-staedte",
+      "hu": "japan-varosok",
+      "ro": "japonia-orase",
+      "en": "japan-cities"
+    }
+  },
+  "ke": {
+    "attractions": {
+      "de": "kenia-sehenswuerdigkeiten",
+      "hu": "kenya-latnivalok",
+      "ro": "kenya-obiective-turistice",
+      "en": "kenya-attractions"
+    },
+    "cities": {
+      "de": "kenia-staedte",
+      "hu": "kenya-varosok",
+      "ro": "kenya-orase",
+      "en": "kenya-cities"
+    }
+  },
+  "kg": {
+    "attractions": {
+      "de": "kirgisistan-sehenswuerdigkeiten",
+      "hu": "kirgizisztan-latnivalok",
+      "ro": "kargazstan-obiective-turistice",
+      "en": "kyrgyzstan-attractions"
+    },
+    "cities": {
+      "de": "kirgisistan-staedte",
+      "hu": "kirgizisztan-varosok",
+      "ro": "kargazstan-orase",
+      "en": "kyrgyzstan-cities"
+    }
+  },
+  "kh": {
+    "attractions": {
+      "de": "kambodscha-sehenswuerdigkeiten",
+      "hu": "kambodzsa-latnivalok",
+      "ro": "cambodgia-obiective-turistice",
+      "en": "cambodia-attractions"
+    },
+    "cities": {
+      "de": "kambodscha-staedte",
+      "hu": "kambodzsa-varosok",
+      "ro": "cambodgia-orase",
+      "en": "cambodia-cities"
+    }
+  },
+  "ki": {
+    "attractions": {
+      "de": "kiribati-sehenswuerdigkeiten",
+      "hu": "kiribati-latnivalok",
+      "ro": "kiribati-obiective-turistice",
+      "en": "kiribati-attractions"
+    }
+  },
+  "km": {
+    "attractions": {
+      "de": "komoren-sehenswuerdigkeiten",
+      "hu": "comore-szigetek-latnivalok",
+      "ro": "comore-obiective-turistice",
+      "en": "comoros-attractions"
+    },
+    "cities": {
+      "de": "komoren-staedte",
+      "hu": "comore-szigetek-varosok",
+      "ro": "comore-orase",
+      "en": "comoros-cities"
+    }
+  },
+  "kp": {
+    "attractions": {
+      "de": "nordkorea-sehenswuerdigkeiten",
+      "hu": "eszak-korea-latnivalok",
+      "ro": "coreea-de-nord-obiective-turistice",
+      "en": "north-korea-attractions"
+    },
+    "cities": {
+      "de": "nordkorea-staedte",
+      "hu": "eszak-korea-varosok",
+      "ro": "coreea-de-nord-orase",
+      "en": "north-korea-cities"
+    }
+  },
+  "kr": {
+    "attractions": {
+      "de": "suedkorea-sehenswuerdigkeiten",
+      "hu": "del-korea-latnivalok",
+      "ro": "coreea-de-sud-obiective-turistice",
+      "en": "south-korea-attractions"
+    },
+    "cities": {
+      "de": "suedkorea-staedte",
+      "hu": "del-korea-varosok",
+      "ro": "coreea-de-sud-orase",
+      "en": "south-korea-cities"
+    }
+  },
+  "kw": {
+    "attractions": {
+      "de": "kuwait-sehenswuerdigkeiten",
+      "hu": "kuvait-latnivalok",
+      "ro": "kuweit-obiective-turistice",
+      "en": "kuwait-attractions"
+    },
+    "cities": {
+      "de": "kuwait-staedte",
+      "hu": "kuvait-varosok",
+      "ro": "kuweit-orase",
+      "en": "kuwait-cities"
+    }
+  },
+  "kz": {
+    "attractions": {
+      "de": "kasachstan-sehenswuerdigkeiten",
+      "hu": "kazahsztan-latnivalok",
+      "ro": "kazahstan-obiective-turistice",
+      "en": "kazakhstan-attractions"
+    },
+    "cities": {
+      "de": "kasachstan-staedte",
+      "hu": "kazahsztan-varosok",
+      "ro": "kazahstan-orase",
+      "en": "kazakhstan-cities"
+    }
+  },
+  "la": {
+    "attractions": {
+      "de": "laos-sehenswuerdigkeiten",
+      "hu": "laosz-latnivalok",
+      "ro": "laos-obiective-turistice",
+      "en": "laos-attractions"
+    },
+    "cities": {
+      "de": "laos-staedte",
+      "hu": "laosz-varosok",
+      "ro": "laos-orase",
+      "en": "laos-cities"
+    }
+  },
+  "lb": {
+    "attractions": {
+      "de": "libanon-sehenswuerdigkeiten",
+      "hu": "libanon-latnivalok",
+      "ro": "liban-obiective-turistice",
+      "en": "lebanon-attractions"
+    },
+    "cities": {
+      "de": "libanon-staedte",
+      "hu": "libanon-varosok",
+      "ro": "liban-orase",
+      "en": "lebanon-cities"
+    }
+  },
+  "lc": {
+    "attractions": {
+      "de": "st-lucia-sehenswuerdigkeiten",
+      "hu": "saint-lucia-latnivalok",
+      "ro": "sfanta-lucia-obiective-turistice",
+      "en": "st-lucia-attractions"
+    }
+  },
+  "li": {
+    "attractions": {
+      "de": "liechtenstein-sehenswuerdigkeiten",
+      "hu": "liechtenstein-latnivalok",
+      "ro": "liechtenstein-obiective-turistice",
+      "en": "liechtenstein-attractions"
+    },
+    "cities": {
+      "de": "liechtenstein-staedte",
+      "hu": "liechtenstein-varosok",
+      "ro": "liechtenstein-orase",
+      "en": "liechtenstein-cities"
+    }
+  },
+  "lk": {
+    "attractions": {
+      "de": "sri-lanka-sehenswuerdigkeiten",
+      "hu": "sri-lanka-latnivalok",
+      "ro": "sri-lanka-obiective-turistice",
+      "en": "sri-lanka-attractions"
+    },
+    "cities": {
+      "de": "sri-lanka-staedte",
+      "hu": "sri-lanka-varosok",
+      "ro": "sri-lanka-orase",
+      "en": "sri-lanka-cities"
+    }
+  },
+  "lr": {
+    "attractions": {
+      "de": "liberia-sehenswuerdigkeiten",
+      "hu": "liberia-latnivalok",
+      "ro": "liberia-obiective-turistice",
+      "en": "liberia-attractions"
+    },
+    "cities": {
+      "de": "liberia-staedte",
+      "hu": "liberia-varosok",
+      "ro": "liberia-orase",
+      "en": "liberia-cities"
+    }
+  },
+  "ls": {
+    "attractions": {
+      "de": "lesotho-sehenswuerdigkeiten",
+      "hu": "lesotho-latnivalok",
+      "ro": "lesotho-obiective-turistice",
+      "en": "lesotho-attractions"
+    },
+    "cities": {
+      "de": "lesotho-staedte",
+      "hu": "lesotho-varosok",
+      "ro": "lesotho-orase",
+      "en": "lesotho-cities"
+    }
+  },
+  "lt": {
+    "attractions": {
+      "de": "litauen-sehenswuerdigkeiten",
+      "hu": "litvania-latnivalok",
+      "ro": "lituania-obiective-turistice",
+      "en": "lithuania-attractions"
+    },
+    "cities": {
+      "de": "litauen-staedte",
+      "hu": "litvania-varosok",
+      "ro": "lituania-orase",
+      "en": "lithuania-cities"
+    }
+  },
+  "lu": {
+    "attractions": {
+      "de": "luxemburg-sehenswuerdigkeiten",
+      "hu": "luxemburg-latnivalok",
+      "ro": "luxemburg-obiective-turistice",
+      "en": "luxembourg-attractions"
+    },
+    "cities": {
+      "de": "luxemburg-staedte",
+      "hu": "luxemburg-varosok",
+      "ro": "luxemburg-orase",
+      "en": "luxembourg-cities"
+    }
+  },
+  "lv": {
+    "attractions": {
+      "de": "lettland-sehenswuerdigkeiten",
+      "hu": "lettorszag-latnivalok",
+      "ro": "letonia-obiective-turistice",
+      "en": "latvia-attractions"
+    },
+    "cities": {
+      "de": "lettland-staedte",
+      "hu": "lettorszag-varosok",
+      "ro": "letonia-orase",
+      "en": "latvia-cities"
+    }
+  },
+  "ly": {
+    "attractions": {
+      "de": "libyen-sehenswuerdigkeiten",
+      "hu": "libia-latnivalok",
+      "ro": "libia-obiective-turistice",
+      "en": "libya-attractions"
+    },
+    "cities": {
+      "de": "libyen-staedte",
+      "hu": "libia-varosok",
+      "ro": "libia-orase",
+      "en": "libya-cities"
+    }
+  },
+  "ma": {
+    "attractions": {
+      "de": "marokko-sehenswuerdigkeiten",
+      "hu": "marokko-latnivalok",
+      "ro": "maroc-obiective-turistice",
+      "en": "morocco-attractions"
+    },
+    "cities": {
+      "de": "marokko-staedte",
+      "hu": "marokko-varosok",
+      "ro": "maroc-orase",
+      "en": "morocco-cities"
+    }
+  },
+  "mc": {
+    "attractions": {
+      "de": "monaco-sehenswuerdigkeiten",
+      "hu": "monaco-latnivalok",
+      "ro": "monaco-obiective-turistice",
+      "en": "monaco-attractions"
+    }
+  },
+  "md": {
+    "attractions": {
+      "de": "moldau-sehenswuerdigkeiten",
+      "hu": "moldova-latnivalok",
+      "ro": "moldova-obiective-turistice",
+      "en": "moldova-attractions"
+    },
+    "cities": {
+      "de": "moldau-staedte",
+      "hu": "moldova-varosok",
+      "ro": "moldova-orase",
+      "en": "moldova-cities"
+    }
+  },
+  "me": {
+    "attractions": {
+      "de": "montenegro-sehenswuerdigkeiten",
+      "hu": "montenegro-latnivalok",
+      "ro": "muntenegru-obiective-turistice",
+      "en": "montenegro-attractions"
+    }
+  },
+  "mg": {
+    "attractions": {
+      "de": "madagaskar-sehenswuerdigkeiten",
+      "hu": "madagaszkar-latnivalok",
+      "ro": "madagascar-obiective-turistice",
+      "en": "madagascar-attractions"
+    },
+    "cities": {
+      "de": "madagaskar-staedte",
+      "hu": "madagaszkar-varosok",
+      "ro": "madagascar-orase",
+      "en": "madagascar-cities"
+    }
+  },
+  "mh": {
+    "attractions": {
+      "de": "marshallinseln-sehenswuerdigkeiten",
+      "hu": "marshall-szigetek-latnivalok",
+      "ro": "insulele-marshall-obiective-turistice",
+      "en": "marshall-islands-attractions"
+    }
+  },
+  "mk": {
+    "attractions": {
+      "de": "nordmazedonien-sehenswuerdigkeiten",
+      "hu": "eszak-macedonia-latnivalok",
+      "ro": "macedonia-de-nord-obiective-turistice",
+      "en": "north-macedonia-attractions"
+    }
+  },
+  "ml": {
+    "attractions": {
+      "de": "mali-sehenswuerdigkeiten",
+      "hu": "mali-latnivalok",
+      "ro": "mali-obiective-turistice",
+      "en": "mali-attractions"
+    },
+    "cities": {
+      "de": "mali-staedte",
+      "hu": "mali-varosok",
+      "ro": "mali-orase",
+      "en": "mali-cities"
+    }
+  },
+  "mm": {
+    "attractions": {
+      "de": "myanmar-sehenswuerdigkeiten",
+      "hu": "mianmar-latnivalok",
+      "ro": "myanmar-birmania-obiective-turistice",
+      "en": "myanmar-burma-attractions"
+    },
+    "cities": {
+      "de": "myanmar-staedte",
+      "hu": "mianmar-varosok",
+      "ro": "myanmar-birmania-orase",
+      "en": "myanmar-burma-cities"
+    }
+  },
+  "mn": {
+    "attractions": {
+      "de": "mongolei-sehenswuerdigkeiten",
+      "hu": "mongolia-latnivalok",
+      "ro": "mongolia-obiective-turistice",
+      "en": "mongolia-attractions"
+    },
+    "cities": {
+      "de": "mongolei-staedte",
+      "hu": "mongolia-varosok",
+      "ro": "mongolia-orase",
+      "en": "mongolia-cities"
+    }
+  },
+  "mr": {
+    "attractions": {
+      "de": "mauretanien-sehenswuerdigkeiten",
+      "hu": "mauritania-latnivalok",
+      "ro": "mauritania-obiective-turistice",
+      "en": "mauritania-attractions"
+    },
+    "cities": {
+      "de": "mauretanien-staedte",
+      "hu": "mauritania-varosok",
+      "ro": "mauritania-orase",
+      "en": "mauritania-cities"
+    }
+  },
+  "mt": {
+    "attractions": {
+      "de": "malta-sehenswuerdigkeiten",
+      "hu": "malta-latnivalok",
+      "ro": "malta-obiective-turistice",
+      "en": "malta-attractions"
+    },
+    "cities": {
+      "de": "malta-staedte",
+      "hu": "malta-varosok",
+      "ro": "malta-orase",
+      "en": "malta-cities"
+    }
+  },
+  "mu": {
+    "attractions": {
+      "de": "mauritius-sehenswuerdigkeiten",
+      "hu": "mauritius-latnivalok",
+      "ro": "mauritius-obiective-turistice",
+      "en": "mauritius-attractions"
+    }
+  },
+  "mv": {
+    "attractions": {
+      "de": "malediven-sehenswuerdigkeiten",
+      "hu": "maldiv-szigetek-latnivalok",
+      "ro": "maldive-obiective-turistice",
+      "en": "maldives-attractions"
+    },
+    "cities": {
+      "de": "malediven-staedte",
+      "hu": "maldiv-szigetek-varosok",
+      "ro": "maldive-orase",
+      "en": "maldives-cities"
+    }
+  },
+  "mw": {
+    "attractions": {
+      "de": "malawi-sehenswuerdigkeiten",
+      "hu": "malawi-latnivalok",
+      "ro": "malawi-obiective-turistice",
+      "en": "malawi-attractions"
+    }
+  },
+  "mx": {
+    "attractions": {
+      "de": "mexiko-sehenswuerdigkeiten",
+      "hu": "mexiko-latnivalok",
+      "ro": "mexic-obiective-turistice",
+      "en": "mexico-attractions"
+    },
+    "cities": {
+      "de": "mexiko-staedte",
+      "hu": "mexiko-varosok",
+      "ro": "mexic-orase",
+      "en": "mexico-cities"
+    }
+  },
+  "my": {
+    "attractions": {
+      "de": "malaysia-sehenswuerdigkeiten",
+      "hu": "malajzia-latnivalok",
+      "ro": "malaysia-obiective-turistice",
+      "en": "malaysia-attractions"
+    },
+    "cities": {
+      "de": "malaysia-staedte",
+      "hu": "malajzia-varosok",
+      "ro": "malaysia-orase",
+      "en": "malaysia-cities"
+    }
+  },
+  "mz": {
+    "attractions": {
+      "de": "mosambik-sehenswuerdigkeiten",
+      "hu": "mozambik-latnivalok",
+      "ro": "mozambic-obiective-turistice",
+      "en": "mozambique-attractions"
+    },
+    "cities": {
+      "de": "mosambik-staedte",
+      "hu": "mozambik-varosok",
+      "ro": "mozambic-orase",
+      "en": "mozambique-cities"
+    }
+  },
+  "na": {
+    "attractions": {
+      "de": "namibia-sehenswuerdigkeiten",
+      "hu": "namibia-latnivalok",
+      "ro": "namibia-obiective-turistice",
+      "en": "namibia-attractions"
+    },
+    "cities": {
+      "de": "namibia-staedte",
+      "hu": "namibia-varosok",
+      "ro": "namibia-orase",
+      "en": "namibia-cities"
+    }
+  },
+  "nc": {
+    "attractions": {
+      "de": "neukaledonien-sehenswuerdigkeiten",
+      "hu": "uj-kaledonia-latnivalok",
+      "ro": "noua-caledonie-obiective-turistice",
+      "en": "new-caledonia-attractions"
+    },
+    "cities": {
+      "de": "neukaledonien-staedte",
+      "hu": "uj-kaledonia-varosok",
+      "ro": "noua-caledonie-orase",
+      "en": "new-caledonia-cities"
+    }
+  },
+  "ne": {
+    "attractions": {
+      "de": "niger-sehenswuerdigkeiten",
+      "hu": "niger-latnivalok",
+      "ro": "niger-obiective-turistice",
+      "en": "niger-attractions"
+    },
+    "cities": {
+      "de": "niger-staedte",
+      "hu": "niger-varosok",
+      "ro": "niger-orase",
+      "en": "niger-cities"
+    }
+  },
+  "ng": {
+    "attractions": {
+      "de": "nigeria-sehenswuerdigkeiten",
+      "hu": "nigeria-latnivalok",
+      "ro": "nigeria-obiective-turistice",
+      "en": "nigeria-attractions"
+    },
+    "cities": {
+      "de": "nigeria-staedte",
+      "hu": "nigeria-varosok",
+      "ro": "nigeria-orase",
+      "en": "nigeria-cities"
+    }
+  },
+  "ni": {
+    "attractions": {
+      "de": "nicaragua-sehenswuerdigkeiten",
+      "hu": "nicaragua-latnivalok",
+      "ro": "nicaragua-obiective-turistice",
+      "en": "nicaragua-attractions"
+    },
+    "cities": {
+      "de": "nicaragua-staedte",
+      "hu": "nicaragua-varosok",
+      "ro": "nicaragua-orase",
+      "en": "nicaragua-cities"
+    }
+  },
+  "no": {
+    "attractions": {
+      "de": "norwegen-sehenswuerdigkeiten",
+      "hu": "norvegia-latnivalok",
+      "ro": "norvegia-obiective-turistice",
+      "en": "norway-attractions"
+    },
+    "cities": {
+      "de": "norwegen-staedte",
+      "hu": "norvegia-varosok",
+      "ro": "norvegia-orase",
+      "en": "norway-cities"
+    }
+  },
+  "np": {
+    "attractions": {
+      "de": "nepal-sehenswuerdigkeiten",
+      "hu": "nepal-latnivalok",
+      "ro": "nepal-obiective-turistice",
+      "en": "nepal-attractions"
+    },
+    "cities": {
+      "de": "nepal-staedte",
+      "hu": "nepal-varosok",
+      "ro": "nepal-orase",
+      "en": "nepal-cities"
+    }
+  },
+  "nr": {
+    "attractions": {
+      "de": "nauru-sehenswuerdigkeiten",
+      "hu": "nauru-latnivalok",
+      "ro": "nauru-obiective-turistice",
+      "en": "nauru-attractions"
+    }
+  },
+  "om": {
+    "attractions": {
+      "de": "oman-sehenswuerdigkeiten",
+      "hu": "oman-latnivalok",
+      "ro": "oman-obiective-turistice",
+      "en": "oman-attractions"
+    },
+    "cities": {
+      "de": "oman-staedte",
+      "hu": "oman-varosok",
+      "ro": "oman-orase",
+      "en": "oman-cities"
+    }
+  },
+  "pa": {
+    "attractions": {
+      "de": "panama-sehenswuerdigkeiten",
+      "hu": "panama-latnivalok",
+      "ro": "panama-obiective-turistice",
+      "en": "panama-attractions"
+    }
+  },
+  "pe": {
+    "attractions": {
+      "de": "peru-sehenswuerdigkeiten",
+      "hu": "peru-latnivalok",
+      "ro": "peru-obiective-turistice",
+      "en": "peru-attractions"
+    }
+  },
+  "pf": {
+    "attractions": {
+      "de": "franzoesisch-polynesien-sehenswuerdigkeiten",
+      "hu": "francia-polinezia-latnivalok",
+      "ro": "polinezia-franceza-obiective-turistice",
+      "en": "french-polynesia-attractions"
+    }
+  },
+  "ph": {
+    "attractions": {
+      "de": "philippinen-sehenswuerdigkeiten",
+      "hu": "fueloep-szigetek-latnivalok",
+      "ro": "filipine-obiective-turistice",
+      "en": "philippines-attractions"
+    },
+    "cities": {
+      "de": "philippinen-staedte",
+      "hu": "fueloep-szigetek-varosok",
+      "ro": "filipine-orase",
+      "en": "philippines-cities"
+    }
+  },
+  "pk": {
+    "attractions": {
+      "de": "pakistan-sehenswuerdigkeiten",
+      "hu": "pakisztan-latnivalok",
+      "ro": "pakistan-obiective-turistice",
+      "en": "pakistan-attractions"
+    },
+    "cities": {
+      "de": "pakistan-staedte",
+      "hu": "pakisztan-varosok",
+      "ro": "pakistan-orase",
+      "en": "pakistan-cities"
+    }
+  },
+  "ps": {
+    "attractions": {
+      "de": "palaestinensische-autonomiegebiete-sehenswuerdigkeiten",
+      "hu": "palesztin-autonomia-latnivalok",
+      "ro": "teritoriile-palestiniene-obiective-turistice",
+      "en": "palestinian-territories-attractions"
+    },
+    "cities": {
+      "de": "palaestinensische-autonomiegebiete-staedte",
+      "hu": "palesztin-autonomia-varosok",
+      "ro": "teritoriile-palestiniene-orase",
+      "en": "palestinian-territories-cities"
+    }
+  },
+  "pw": {
+    "attractions": {
+      "de": "palau-sehenswuerdigkeiten",
+      "hu": "palau-latnivalok",
+      "ro": "palau-obiective-turistice",
+      "en": "palau-attractions"
+    }
+  },
+  "py": {
+    "attractions": {
+      "de": "paraguay-sehenswuerdigkeiten",
+      "hu": "paraguay-latnivalok",
+      "ro": "paraguay-obiective-turistice",
+      "en": "paraguay-attractions"
+    },
+    "cities": {
+      "de": "paraguay-staedte",
+      "hu": "paraguay-varosok",
+      "ro": "paraguay-orase",
+      "en": "paraguay-cities"
+    }
+  },
+  "qa": {
+    "attractions": {
+      "de": "katar-sehenswuerdigkeiten",
+      "hu": "katar-latnivalok",
+      "ro": "qatar-obiective-turistice",
+      "en": "qatar-attractions"
+    },
+    "cities": {
+      "de": "katar-staedte",
+      "hu": "katar-varosok",
+      "ro": "qatar-orase",
+      "en": "qatar-cities"
+    }
+  },
+  "rs": {
+    "attractions": {
+      "de": "serbien-sehenswuerdigkeiten",
+      "hu": "szerbia-latnivalok",
+      "ro": "serbia-obiective-turistice",
+      "en": "serbia-attractions"
+    },
+    "cities": {
+      "de": "serbien-staedte",
+      "hu": "szerbia-varosok",
+      "ro": "serbia-orase",
+      "en": "serbia-cities"
+    }
+  },
+  "ru": {
+    "attractions": {
+      "de": "russland-sehenswuerdigkeiten",
+      "hu": "oroszorszag-latnivalok",
+      "ro": "rusia-obiective-turistice",
+      "en": "russia-attractions"
+    },
+    "cities": {
+      "de": "russland-staedte",
+      "hu": "oroszorszag-varosok",
+      "ro": "rusia-orase",
+      "en": "russia-cities"
+    }
+  },
+  "rw": {
+    "attractions": {
+      "de": "ruanda-sehenswuerdigkeiten",
+      "hu": "ruanda-latnivalok",
+      "ro": "rwanda-obiective-turistice",
+      "en": "rwanda-attractions"
+    },
+    "cities": {
+      "de": "ruanda-staedte",
+      "hu": "ruanda-varosok",
+      "ro": "rwanda-orase",
+      "en": "rwanda-cities"
+    }
+  },
+  "sa": {
+    "attractions": {
+      "de": "saudi-arabien-sehenswuerdigkeiten",
+      "hu": "szaud-arabia-latnivalok",
+      "ro": "arabia-saudita-obiective-turistice",
+      "en": "saudi-arabia-attractions"
+    },
+    "cities": {
+      "de": "saudi-arabien-staedte",
+      "hu": "szaud-arabia-varosok",
+      "ro": "arabia-saudita-orase",
+      "en": "saudi-arabia-cities"
+    }
+  },
+  "sb": {
+    "attractions": {
+      "de": "salomonen-sehenswuerdigkeiten",
+      "hu": "salamon-szigetek-latnivalok",
+      "ro": "insulele-solomon-obiective-turistice",
+      "en": "solomon-islands-attractions"
+    }
+  },
+  "sc": {
+    "attractions": {
+      "de": "seychellen-sehenswuerdigkeiten",
+      "hu": "seychelle-szigetek-latnivalok",
+      "ro": "seychelles-obiective-turistice",
+      "en": "seychelles-attractions"
+    },
+    "cities": {
+      "de": "seychellen-staedte",
+      "hu": "seychelle-szigetek-varosok",
+      "ro": "seychelles-orase",
+      "en": "seychelles-cities"
+    }
+  },
+  "sd": {
+    "attractions": {
+      "de": "sudan-sehenswuerdigkeiten",
+      "hu": "szudan-latnivalok",
+      "ro": "sudan-obiective-turistice",
+      "en": "sudan-attractions"
+    },
+    "cities": {
+      "de": "sudan-staedte",
+      "hu": "szudan-varosok",
+      "ro": "sudan-orase",
+      "en": "sudan-cities"
+    }
+  },
+  "se": {
+    "attractions": {
+      "de": "schweden-sehenswuerdigkeiten",
+      "hu": "svedorszag-latnivalok",
+      "ro": "suedia-obiective-turistice",
+      "en": "sweden-attractions"
+    },
+    "cities": {
+      "de": "schweden-staedte",
+      "hu": "svedorszag-varosok",
+      "ro": "suedia-orase",
+      "en": "sweden-cities"
+    }
+  },
+  "sg": {
+    "attractions": {
+      "de": "singapur-sehenswuerdigkeiten",
+      "hu": "szingapur-latnivalok",
+      "ro": "singapore-obiective-turistice",
+      "en": "singapore-attractions"
+    },
+    "cities": {
+      "de": "singapur-staedte",
+      "hu": "szingapur-varosok",
+      "ro": "singapore-orase",
+      "en": "singapore-cities"
+    }
+  },
+  "sl": {
+    "attractions": {
+      "de": "sierra-leone-sehenswuerdigkeiten",
+      "hu": "sierra-leone-latnivalok",
+      "ro": "sierra-leone-obiective-turistice",
+      "en": "sierra-leone-attractions"
+    },
+    "cities": {
+      "de": "sierra-leone-staedte",
+      "hu": "sierra-leone-varosok",
+      "ro": "sierra-leone-orase",
+      "en": "sierra-leone-cities"
+    }
+  },
+  "sm": {
+    "attractions": {
+      "de": "san-marino-sehenswuerdigkeiten",
+      "hu": "san-marino-latnivalok",
+      "ro": "san-marino-obiective-turistice",
+      "en": "san-marino-attractions"
+    },
+    "cities": {
+      "de": "san-marino-staedte",
+      "hu": "san-marino-varosok",
+      "ro": "san-marino-orase",
+      "en": "san-marino-cities"
+    }
+  },
+  "sn": {
+    "attractions": {
+      "de": "senegal-sehenswuerdigkeiten",
+      "hu": "szenegal-latnivalok",
+      "ro": "senegal-obiective-turistice",
+      "en": "senegal-attractions"
+    }
+  },
+  "so": {
+    "attractions": {
+      "de": "somalia-sehenswuerdigkeiten",
+      "hu": "szomalia-latnivalok",
+      "ro": "somalia-obiective-turistice",
+      "en": "somalia-attractions"
+    },
+    "cities": {
+      "de": "somalia-staedte",
+      "hu": "szomalia-varosok",
+      "ro": "somalia-orase",
+      "en": "somalia-cities"
+    }
+  },
+  "sr": {
+    "attractions": {
+      "de": "suriname-sehenswuerdigkeiten",
+      "hu": "suriname-latnivalok",
+      "ro": "suriname-obiective-turistice",
+      "en": "suriname-attractions"
+    }
+  },
+  "ss": {
+    "attractions": {
+      "de": "suedsudan-sehenswuerdigkeiten",
+      "hu": "del-szudan-latnivalok",
+      "ro": "sudanul-de-sud-obiective-turistice",
+      "en": "south-sudan-attractions"
+    },
+    "cities": {
+      "de": "suedsudan-staedte",
+      "hu": "del-szudan-varosok",
+      "ro": "sudanul-de-sud-orase",
+      "en": "south-sudan-cities"
+    }
+  },
+  "st": {
+    "attractions": {
+      "de": "sao-tome-und-principe-sehenswuerdigkeiten",
+      "hu": "sao-tome-es-principe-latnivalok",
+      "ro": "sao-tome-si-principe-obiective-turistice",
+      "en": "sao-tome-and-principe-attractions"
+    },
+    "cities": {
+      "de": "sao-tome-und-principe-staedte",
+      "hu": "sao-tome-es-principe-varosok",
+      "ro": "sao-tome-si-principe-orase",
+      "en": "sao-tome-and-principe-cities"
+    }
+  },
+  "sv": {
+    "attractions": {
+      "de": "el-salvador-sehenswuerdigkeiten",
+      "hu": "el-salvador-latnivalok",
+      "ro": "el-salvador-obiective-turistice",
+      "en": "el-salvador-attractions"
+    },
+    "cities": {
+      "de": "el-salvador-staedte",
+      "hu": "el-salvador-varosok",
+      "ro": "el-salvador-orase",
+      "en": "el-salvador-cities"
+    }
+  },
+  "sy": {
+    "attractions": {
+      "de": "syrien-sehenswuerdigkeiten",
+      "hu": "sziria-latnivalok",
+      "ro": "siria-obiective-turistice",
+      "en": "syria-attractions"
+    },
+    "cities": {
+      "de": "syrien-staedte",
+      "hu": "sziria-varosok",
+      "ro": "siria-orase",
+      "en": "syria-cities"
+    }
+  },
+  "sz": {
+    "attractions": {
+      "de": "eswatini-sehenswuerdigkeiten",
+      "hu": "szvazifoeld-latnivalok",
+      "ro": "eswatini-obiective-turistice",
+      "en": "eswatini-attractions"
+    },
+    "cities": {
+      "de": "eswatini-staedte",
+      "hu": "szvazifoeld-varosok",
+      "ro": "eswatini-orase",
+      "en": "eswatini-cities"
+    }
+  },
+  "td": {
+    "attractions": {
+      "de": "tschad-sehenswuerdigkeiten",
+      "hu": "csad-latnivalok",
+      "ro": "ciad-obiective-turistice",
+      "en": "chad-attractions"
+    },
+    "cities": {
+      "de": "tschad-staedte",
+      "hu": "csad-varosok",
+      "ro": "ciad-orase",
+      "en": "chad-cities"
+    }
+  },
+  "tg": {
+    "attractions": {
+      "de": "togo-sehenswuerdigkeiten",
+      "hu": "togo-latnivalok",
+      "ro": "togo-obiective-turistice",
+      "en": "togo-attractions"
+    },
+    "cities": {
+      "de": "togo-staedte",
+      "hu": "togo-varosok",
+      "ro": "togo-orase",
+      "en": "togo-cities"
+    }
+  },
+  "th": {
+    "attractions": {
+      "de": "thailand-sehenswuerdigkeiten",
+      "hu": "thaifoeld-latnivalok",
+      "ro": "thailanda-obiective-turistice",
+      "en": "thailand-attractions"
+    },
+    "cities": {
+      "de": "thailand-staedte",
+      "hu": "thaifoeld-varosok",
+      "ro": "thailanda-orase",
+      "en": "thailand-cities"
+    }
+  },
+  "tj": {
+    "attractions": {
+      "de": "tadschikistan-sehenswuerdigkeiten",
+      "hu": "tadzsikisztan-latnivalok",
+      "ro": "tadjikistan-obiective-turistice",
+      "en": "tajikistan-attractions"
+    },
+    "cities": {
+      "de": "tadschikistan-staedte",
+      "hu": "tadzsikisztan-varosok",
+      "ro": "tadjikistan-orase",
+      "en": "tajikistan-cities"
+    }
+  },
+  "tl": {
+    "attractions": {
+      "de": "timor-leste-sehenswuerdigkeiten",
+      "hu": "kelet-timor-latnivalok",
+      "ro": "timor-leste-obiective-turistice",
+      "en": "timor-leste-attractions"
+    },
+    "cities": {
+      "de": "timor-leste-staedte",
+      "hu": "kelet-timor-varosok",
+      "ro": "timor-leste-orase",
+      "en": "timor-leste-cities"
+    }
+  },
+  "tm": {
+    "attractions": {
+      "de": "turkmenistan-sehenswuerdigkeiten",
+      "hu": "tuerkmenisztan-latnivalok",
+      "ro": "turkmenistan-obiective-turistice",
+      "en": "turkmenistan-attractions"
+    },
+    "cities": {
+      "de": "turkmenistan-staedte",
+      "hu": "tuerkmenisztan-varosok",
+      "ro": "turkmenistan-orase",
+      "en": "turkmenistan-cities"
+    }
+  },
+  "tn": {
+    "attractions": {
+      "de": "tunesien-sehenswuerdigkeiten",
+      "hu": "tunezia-latnivalok",
+      "ro": "tunisia-obiective-turistice",
+      "en": "tunisia-attractions"
+    },
+    "cities": {
+      "de": "tunesien-staedte",
+      "hu": "tunezia-varosok",
+      "ro": "tunisia-orase",
+      "en": "tunisia-cities"
+    }
+  },
+  "to": {
+    "attractions": {
+      "de": "tonga-sehenswuerdigkeiten",
+      "hu": "tonga-latnivalok",
+      "ro": "tonga-obiective-turistice",
+      "en": "tonga-attractions"
+    }
+  },
+  "tr": {
+    "attractions": {
+      "de": "tuerkei-sehenswuerdigkeiten",
+      "hu": "toeroekorszag-latnivalok",
+      "ro": "turcia-obiective-turistice",
+      "en": "turkey-attractions"
+    },
+    "cities": {
+      "de": "tuerkei-staedte",
+      "hu": "toeroekorszag-varosok",
+      "ro": "turcia-orase",
+      "en": "turkey-cities"
+    }
+  },
+  "tt": {
+    "attractions": {
+      "de": "trinidad-und-tobago-sehenswuerdigkeiten",
+      "hu": "trinidad-es-tobago-latnivalok",
+      "ro": "trinidad-si-tobago-obiective-turistice",
+      "en": "trinidad-and-tobago-attractions"
+    },
+    "cities": {
+      "de": "trinidad-und-tobago-staedte",
+      "hu": "trinidad-es-tobago-varosok",
+      "ro": "trinidad-si-tobago-orase",
+      "en": "trinidad-and-tobago-cities"
+    }
+  },
+  "tw": {
+    "attractions": {
+      "de": "taiwan-sehenswuerdigkeiten",
+      "hu": "tajvan-latnivalok",
+      "ro": "taiwan-obiective-turistice",
+      "en": "taiwan-attractions"
+    },
+    "cities": {
+      "de": "taiwan-staedte",
+      "hu": "tajvan-varosok",
+      "ro": "taiwan-orase",
+      "en": "taiwan-cities"
+    }
+  },
+  "tz": {
+    "attractions": {
+      "de": "tansania-sehenswuerdigkeiten",
+      "hu": "tanzania-latnivalok",
+      "ro": "tanzania-obiective-turistice",
+      "en": "tanzania-attractions"
+    },
+    "cities": {
+      "de": "tansania-staedte",
+      "hu": "tanzania-varosok",
+      "ro": "tanzania-orase",
+      "en": "tanzania-cities"
+    }
+  },
+  "ua": {
+    "attractions": {
+      "de": "ukraine-sehenswuerdigkeiten",
+      "hu": "ukrajna-latnivalok",
+      "ro": "ucraina-obiective-turistice",
+      "en": "ukraine-attractions"
+    },
+    "cities": {
+      "de": "ukraine-staedte",
+      "hu": "ukrajna-varosok",
+      "ro": "ucraina-orase",
+      "en": "ukraine-cities"
+    }
+  },
+  "ug": {
+    "attractions": {
+      "de": "uganda-sehenswuerdigkeiten",
+      "hu": "uganda-latnivalok",
+      "ro": "uganda-obiective-turistice",
+      "en": "uganda-attractions"
+    },
+    "cities": {
+      "de": "uganda-staedte",
+      "hu": "uganda-varosok",
+      "ro": "uganda-orase",
+      "en": "uganda-cities"
+    }
+  },
+  "us": {
+    "attractions": {
+      "de": "usa-sehenswuerdigkeiten",
+      "hu": "amerikai-egyesuelt-allamok-latnivalok",
+      "ro": "statele-unite-obiective-turistice",
+      "en": "united-states-attractions"
+    },
+    "cities": {
+      "de": "usa-staedte",
+      "hu": "amerikai-egyesuelt-allamok-varosok",
+      "ro": "statele-unite-orase",
+      "en": "united-states-cities"
+    }
+  },
+  "uy": {
+    "attractions": {
+      "de": "uruguay-sehenswuerdigkeiten",
+      "hu": "uruguay-latnivalok",
+      "ro": "uruguay-obiective-turistice",
+      "en": "uruguay-attractions"
+    },
+    "cities": {
+      "de": "uruguay-staedte",
+      "hu": "uruguay-varosok",
+      "ro": "uruguay-orase",
+      "en": "uruguay-cities"
+    }
+  },
+  "uz": {
+    "attractions": {
+      "de": "usbekistan-sehenswuerdigkeiten",
+      "hu": "uezbegisztan-latnivalok",
+      "ro": "uzbekistan-obiective-turistice",
+      "en": "uzbekistan-attractions"
+    },
+    "cities": {
+      "de": "usbekistan-staedte",
+      "hu": "uezbegisztan-varosok",
+      "ro": "uzbekistan-orase",
+      "en": "uzbekistan-cities"
+    }
+  },
+  "va": {
+    "attractions": {
+      "de": "vatikanstadt-sehenswuerdigkeiten",
+      "hu": "vatikan-latnivalok",
+      "ro": "vatican-obiective-turistice",
+      "en": "vatican-attractions"
+    }
+  },
+  "vc": {
+    "attractions": {
+      "de": "st-vincent-und-die-grenadinen-sehenswuerdigkeiten",
+      "hu": "saint-vincent-es-a-grenadine-szigetek-latnivalok",
+      "ro": "saint-vincent-si-grenadinele-obiective-turistice",
+      "en": "st-vincent-and-grenadines-attractions"
+    }
+  },
+  "ve": {
+    "attractions": {
+      "de": "venezuela-sehenswuerdigkeiten",
+      "hu": "venezuela-latnivalok",
+      "ro": "venezuela-obiective-turistice",
+      "en": "venezuela-attractions"
+    }
+  },
+  "vn": {
+    "attractions": {
+      "de": "vietnam-sehenswuerdigkeiten",
+      "hu": "vietnam-latnivalok",
+      "ro": "vietnam-obiective-turistice",
+      "en": "vietnam-attractions"
+    },
+    "cities": {
+      "de": "vietnam-staedte",
+      "hu": "vietnam-varosok",
+      "ro": "vietnam-orase",
+      "en": "vietnam-cities"
+    }
+  },
+  "vu": {
+    "attractions": {
+      "de": "vanuatu-sehenswuerdigkeiten",
+      "hu": "vanuatu-latnivalok",
+      "ro": "vanuatu-obiective-turistice",
+      "en": "vanuatu-attractions"
+    }
+  },
+  "ws": {
+    "attractions": {
+      "de": "samoa-sehenswuerdigkeiten",
+      "hu": "szamoa-latnivalok",
+      "ro": "samoa-obiective-turistice",
+      "en": "samoa-attractions"
+    }
+  },
+  "ye": {
+    "attractions": {
+      "de": "jemen-sehenswuerdigkeiten",
+      "hu": "jemen-latnivalok",
+      "ro": "yemen-obiective-turistice",
+      "en": "yemen-attractions"
+    },
+    "cities": {
+      "de": "jemen-staedte",
+      "hu": "jemen-varosok",
+      "ro": "yemen-orase",
+      "en": "yemen-cities"
+    }
+  },
+  "za": {
+    "attractions": {
+      "de": "suedafrika-sehenswuerdigkeiten",
+      "hu": "del-afrikai-koeztarsasag-latnivalok",
+      "ro": "africa-de-sud-obiective-turistice",
+      "en": "south-africa-attractions"
+    },
+    "cities": {
+      "de": "suedafrika-staedte",
+      "hu": "del-afrikai-koeztarsasag-varosok",
+      "ro": "africa-de-sud-orase",
+      "en": "south-africa-cities"
+    }
+  },
+  "zm": {
+    "attractions": {
+      "de": "sambia-sehenswuerdigkeiten",
+      "hu": "zambia-latnivalok",
+      "ro": "zambia-obiective-turistice",
+      "en": "zambia-attractions"
+    },
+    "cities": {
+      "de": "sambia-staedte",
+      "hu": "zambia-varosok",
+      "ro": "zambia-orase",
+      "en": "zambia-cities"
+    }
+  },
+  "zw": {
+    "attractions": {
+      "de": "simbabwe-sehenswuerdigkeiten",
+      "hu": "zimbabwe-latnivalok",
+      "ro": "zimbabwe-obiective-turistice",
+      "en": "zimbabwe-attractions"
+    },
+    "cities": {
+      "de": "simbabwe-staedte",
+      "hu": "zimbabwe-varosok",
+      "ro": "zimbabwe-orase",
+      "en": "zimbabwe-cities"
     }
   }
 }

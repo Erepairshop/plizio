@@ -1,0 +1,543 @@
+{
+  "city_id": "evry-courcouronnes",
+  "anchor": {
+    "name": "Évry-Courcouronnes",
+    "coords": [
+      2.4296,
+      48.6238
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Évry-Courcouronnes",
+            "hu": "Évry-Courcouronnes vasútállomás",
+            "ro": "Gara Évry-Courcouronnes",
+            "en": "Gare d'Évry-Courcouronnes"
+          },
+          "coords": [
+            2.428217,
+            48.625278
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem belebten Verkehrsknotenpunkt, der als Tor zur modernen Stadtentwicklung von Évry dient.",
+            "hu": "Kezdje utazását ezen a nyüzsgő közlekedési csomóponton, amely Évry modern városfejlesztésének kapujaként szolgál.",
+            "ro": "Începeți călătoria în acest nod de tranzit aglomerat, care servește drept poartă către dezvoltarea urbană modernă din Évry.",
+            "en": "Start your journey at this bustling transit hub, which serves as a gateway to the modern urban development of Évry."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Évry",
+            "hu": "Évry Városháza",
+            "ro": "Primăria din Évry",
+            "en": "Hôtel de Ville d'Évry"
+          },
+          "coords": [
+            2.429442,
+            48.623737
+          ],
+          "category": "civic",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die moderne zivile Architektur des Rathauses zu würdigen, bevor Sie die umliegenden Fußgängerzonen erkunden.",
+            "hu": "Szánjon egy pillanatot a városháza modern civil építészetének megcsodálására, mielőtt felfedezné a környező sétálótereket.",
+            "ro": "Alocați un moment pentru a aprecia arhitectura civică modernă a primăriei înainte de a explora piețele pietonale din jur.",
+            "en": "Take a moment to appreciate the modern civic architecture of the city hall before exploring the surrounding pedestrian plazas."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Cathedral of the Resurrection"
+          },
+          "coords": [
+            2.428722,
+            48.623583
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen Backsteinzylinder dieser modernen, von Mario Botta entworfenen Kathedrale, aber vergessen Sie nicht, nach oben zu schauen, um die auf dem Dach gepflanzten Bäume zu sehen.",
+            "hu": "Csodálja meg a Mario Botta által tervezett modern katedrális ikonikus téglahengerét, és mindenképpen pillantson fel a tetőre ültetett fákra is.",
+            "ro": "Admirați cilindrul iconic din cărămidă al acestei catedrale moderne proiectate de Mario Botta, dar nu uitați să priviți în sus pentru a vedea copacii plantați pe acoperiș.",
+            "en": "Admire the iconic brick cylinder of this modern cathedral designed by Mario Botta, but be sure to look up to see the trees planted on its roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Universität von Évry",
+            "hu": "Évry-i Egyetem",
+            "ro": "Universitatea din Évry",
+            "en": "University of Évry"
+          },
+          "coords": [
+            2.42577,
+            48.6229
+          ],
+          "category": "civic",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den zeitgenössischen Campus, um das pulsierende Studentenleben zu erleben, und achten Sie auf die wechselnden öffentlichen Kunstausstellungen.",
+            "hu": "Sétáljon végig a kortárs egyetemi campuson, hogy megtapasztalja a nyüzsgő diákéletet, és figyelje meg az időszakos köztéri művészeti kiállításokat.",
+            "ro": "Plimbați-vă prin campusul contemporan pentru a experimenta viața studențească vibrantă și fiți atenți la expozițiile periodice de artă publică.",
+            "en": "Walk through the contemporary campus to experience the vibrant student life and look out for periodic public art displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Coquibus",
+            "hu": "Parc de Coquibus",
+            "ro": "Parc de Coquibus",
+            "en": "Parc de Coquibus"
+          },
+          "coords": [
+            2.433671,
+            48.621316
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in einer der größten Grünflächen von Évry, ideal für einen friedlichen Mittagsspaziergang auf den gewundenen, von Bäumen gesäumten Wegen.",
+            "hu": "Pihenjen meg Évry egyik legnagyobb zöldterületén, amely tökéletes egy békés déli sétához a kanyargós, fákkal szegélyezett utakon.",
+            "ro": "Relaxați-vă în una dintre cele mai mari spații verzi din Évry, perfectă pentru o plimbare liniștită la amiază pe potecile sale șerpuite și mărginite de copaci.",
+            "en": "Relax in one of Évry's largest green spaces, perfect for a peaceful midday stroll along its winding, tree-lined paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Évry",
+            "hu": "Évry-i Nagy Mecset",
+            "ro": "Marea Moschee din Évry",
+            "en": "Grand Mosque of Évry"
+          },
+          "coords": [
+            2.421664,
+            48.625911
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende Monument islamischer Architektur, das für seinen großen Innenhof und die kunstvollen Fliesenarbeiten bekannt ist, am besten außerhalb der Gebetszeiten.",
+            "hu": "Fedezze fel az iszlám építészet e lenyűgöző emlékművét, amely a tágas udvaráról és a bonyolult csempéiről híres, és próbáljon az imaidőn kívül érkezni.",
+            "ro": "Explorați acest monument impresionant al arhitecturii islamice, remarcabil pentru curtea sa grandioasă și faianța complexă, preferabil în afara orelor de rugăciune.",
+            "en": "Explore this stunning monument of Islamic architecture, notable for its grand courtyard and intricate tilework, outside of prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Arènes de l'Agora",
+            "hu": "Arènes de l'Agora",
+            "ro": "Arènes de l'Agora",
+            "en": "Arènes de l'Agora"
+          },
+          "coords": [
+            2.430124,
+            48.629051
+          ],
+          "category": "cultural",
+          "arrive_at": "14:19",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamische Atmosphäre dieses wichtigen Kultur- und Konzertortes direkt im Herzen des Geschäftsviertels der Stadt.",
+            "hu": "Élvezze ennek a fontos kulturális és koncerthelyszínnek a dinamikus atmoszféráját, amely közvetlenül a város kereskedelmi negyedének szívében található.",
+            "ro": "Surprindeți atmosfera dinamică a acestei importante locații culturale și de concerte, situată chiar în inima cartierului comercial al orașului.",
+            "en": "Catch the dynamic atmosphere of this major cultural and concert venue right in the heart of the city's commercial district."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Hauptbahnhof und gehen Sie rasch zur modernen Auferstehungskathedrale.\nMittags spazieren Sie durch den lebhaften Universitätscampus, um den weitläufigen Parc de Coquibus zu erreichen.\nAm Nachmittag machen Sie sich auf den Weg zur Großen Moschee von Évry, um deren prächtige Architektur zu bewundern.\nBeenden Sie Ihren Rundgang am Abend in den Arènes de l'Agora.",
+        "hu": "Kezdje a reggelt a főpályaudvaron, majd haladjon tovább a modern Feltámadás katedrálisához.\nDélben sétáljon át a nyüzsgő egyetemi campuson, hogy elérje a tágas Parc de Coquibus-t.\nDélután vegye az irányt az Évry-i Nagy Mecset felé, és csodálja meg annak fenséges építészetét.\nAz estét az Arènes de l'Agora kulturális atmoszférájának élvezetével zárja.",
+        "ro": "Începeți dimineața la gara principală, trecând rapid spre moderna Catedrală a Învierii.\nLa prânz, plimbați-vă prin campusul universitar vibrant pentru a ajunge în vastul Parc de Coquibus.\nDupă-amiaza, îndreptați-vă spre Marea Moschee din Évry pentru a-i admira arhitectura magnifică.\nÎncheiați-vă turul pietonal seara la Arènes de l'Agora, bucurându-vă de vibrația sa culturală.",
+        "en": "Start your morning at the main station, quickly moving to the modern Cathedral of the Resurrection.\nBy midday, stroll through the vibrant university campus to reach the expansive Parc de Coquibus.\nIn the afternoon, head towards the Grand Mosque of Évry to admire its magnificent architecture.\nConclude your walking tour in the evening at the Arènes de l'Agora, soaking in the cultural vibe."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Évry-Courcouronnes",
+            "hu": "Évry-Courcouronnes vasútállomás",
+            "ro": "Gara Évry-Courcouronnes",
+            "en": "Gare d'Évry-Courcouronnes"
+          },
+          "coords": [
+            2.428217,
+            48.625278
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem belebten Verkehrsknotenpunkt, der als Tor zur modernen Stadtentwicklung von Évry dient.",
+            "hu": "Kezdje utazását ezen a nyüzsgő közlekedési csomóponton, amely Évry modern városfejlesztésének kapujaként szolgál.",
+            "ro": "Începeți călătoria în acest nod de tranzit aglomerat, care servește drept poartă către dezvoltarea urbană modernă din Évry.",
+            "en": "Start your journey at this bustling transit hub, which serves as a gateway to the modern urban development of Évry."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Cathedral of the Resurrection"
+          },
+          "coords": [
+            2.428722,
+            48.623583
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen Backsteinzylinder dieser modernen, von Mario Botta entworfenen Kathedrale, aber vergessen Sie nicht, nach oben zu schauen, um die auf dem Dach gepflanzten Bäume zu sehen.",
+            "hu": "Csodálja meg a Mario Botta által tervezett modern katedrális ikonikus téglahengerét, és mindenképpen pillantson fel a tetőre ültetett fákra is.",
+            "ro": "Admirați cilindrul iconic din cărămidă al acestei catedrale moderne proiectate de Mario Botta, dar nu uitați să priviți în sus pentru a vedea copacii plantați pe acoperiș.",
+            "en": "Admire the iconic brick cylinder of this modern cathedral designed by Mario Botta, but be sure to look up to see the trees planted on its roof."
+          }
+        },
+        {
+          "name": {
+            "de": "ENSIIE (Ingenieurschule)",
+            "hu": "ENSIIE Mérnöki Iskola",
+            "ro": "Școala de Inginerie ENSIIE",
+            "en": "ENSIIE"
+          },
+          "coords": [
+            2.43191,
+            48.6267
+          ],
+          "category": "civic",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie an dem Gebäude dieser renommierten Ingenieurschule vorbei, das den starken Fokus der Stadt auf Spitzentechnologie und Bildung unterstreicht.",
+            "hu": "Sétáljon el e híres mérnöki iskola épülete mellett, amely kiemeli a város erős fókuszát a fejlett technológiára és oktatásra.",
+            "ro": "Treceți pe lângă clădirea acestei renumite școli de inginerie, care subliniază concentrarea puternică a orașului pe tehnologia avansată și educație.",
+            "en": "Pass by this renowned engineering school building, which highlights the town's strong focus on advanced technology and education."
+          }
+        },
+        {
+          "name": {
+            "de": "Khanh-Anh-Pagode",
+            "hu": "Khanh-Anh Pagoda",
+            "ro": "Pagoda Khanh-Anh",
+            "en": "Khanh-Anh Pagoda"
+          },
+          "coords": [
+            2.44391,
+            48.6275
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie Europas größte buddhistische Pagode und ziehen Sie Ihre Schuhe aus, um das ruhige, mit beeindruckenden Statuen dekorierte Innere respektvoll zu erkunden.",
+            "hu": "Látogasson el Európa legnagyobb buddhista pagodájába, és vegye le a cipőjét, hogy tiszteletteljesen fedezze fel a lenyűgöző szobrokkal díszített békés belső teret.",
+            "ro": "Vizitați cea mai mare pagodă budistă din Europa și descălțați-vă pentru a explora cu respect interiorul senin, decorat cu statui impresionante.",
+            "en": "Visit Europe's largest Buddhist pagoda and take off your shoes to respectfully explore the serene interior decorated with impressive statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Tourelles",
+            "hu": "Parc des Tourelles",
+            "ro": "Parc des Tourelles",
+            "en": "Parc des Tourelles"
+          },
+          "coords": [
+            2.459395,
+            48.626991
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause in diesem charmanten Park, in dem Sie zwischen alten Bäumen spazieren und an den Teichen die lokale Tierwelt beobachten können.",
+            "hu": "Élvezze a frissítő pihenőt ebben a hangulatos parkban, ahol öreg fák között barangolhat, és megfigyelheti a helyi élővilágot a tavak körül.",
+            "ro": "Bucurați-vă de o pauză revigorantă în acest parc fermecător, unde vă puteți plimba printre copaci bătrâni și puteți observa fauna locală în jurul iazurilor.",
+            "en": "Enjoy a refreshing break in this charming park where you can wander among old trees and spot local wildlife around the ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Beauvoir",
+            "hu": "Château de Beauvoir",
+            "ro": "Castelul Beauvoir",
+            "en": "Château de Beauvoir"
+          },
+          "coords": [
+            2.454352,
+            48.627607
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein, indem Sie die verbliebenen Strukturen dieses klassischen Anwesens besichtigen – bringen Sie am besten eine Kamera für die malerische Umgebung mit.",
+            "hu": "Merüljön el a helyi történelemben a klasszikus birtok fennmaradt épületeinek megtekintésével, és mindenképpen hozzon fényképezőgépet a festői környezet miatt.",
+            "ro": "Aprofundați istoria locală vizualizând structurile rămase ale acestui domeniu clasic, fiind recomandat să aduceți un aparat foto pentru peisajul pitoresc.",
+            "en": "Delve into local history by viewing the remaining structures of this classical estate, ideally bringing a camera for its picturesque setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Évry",
+            "hu": "Évry-i Nagy Mecset",
+            "ro": "Marea Moschee din Évry",
+            "en": "Grand Mosque of Évry"
+          },
+          "coords": [
+            2.421664,
+            48.625911
+          ],
+          "category": "religious",
+          "arrive_at": "14:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende Monument islamischer Architektur, das für seinen großen Innenhof und die kunstvollen Fliesenarbeiten bekannt ist, am besten außerhalb der Gebetszeiten.",
+            "hu": "Fedezze fel az iszlám építészet e lenyűgöző emlékművét, amely a tágas udvaráról és a bonyolult csempéiről híres, és próbáljon az imaidőn kívül érkezni.",
+            "ro": "Explorați acest monument impresionant al arhitecturii islamice, remarcabil pentru curtea sa grandioasă și faianța complexă, preferabil în afara orelor de rugăciune.",
+            "en": "Explore this stunning monument of Islamic architecture, notable for its grand courtyard and intricate tilework, outside of prayer times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer am Bahnhof und bewundern Sie die nahe Kathedrale und die ENSIIE-Architektur.\nRadeln Sie gegen Mittag zur Khanh-Anh-Pagode für eine friedliche und beeindruckende kulturelle Begegnung.\nVerbringen Sie den Nachmittag damit, durch den Parc des Tourelles zu fahren und das historische Château de Beauvoir zu erkunden.\nBeenden Sie den Tag, indem Sie zur majestätischen Großen Moschee radeln.",
+        "hu": "Kezdje kerékpáros kalandját az állomáson, megcsodálva a közeli katedrálist és az ENSIIE épületét.\nDél körül tekerjen a Khanh-Anh Pagoda felé egy békés és lenyűgöző kulturális élményért.\nA délutánt töltse a Parc des Tourelles-en való átbiciklizéssel és a történelmi Château de Beauvoir felfedezésével.\nZárja a napot azzal, hogy a fenséges Nagy Mecsethez kerékpározik a kora esti fényekben.",
+        "ro": "Începeți aventura pe bicicletă la gară, admirând catedrala din apropiere și arhitectura ENSIIE.\nPedalați spre Pagoda Khanh-Anh în jurul prânzului pentru o întâlnire culturală pașnică și impresionantă.\nPetreceți după-amiaza traversând Parc des Tourelles și explorând istoricul Château de Beauvoir.\nÎncheiați ziua pedalând spre maiestuoasa Mare Moschee exact la lăsarea serii.",
+        "en": "Kick off your biking adventure at the station, admiring the nearby cathedral and ENSIIE architecture.\nCycle towards the Khanh-Anh Pagoda around midday for a peaceful and awe-inspiring cultural encounter.\nSpend your afternoon riding through Parc des Tourelles and exploring the historic Château de Beauvoir.\nFinish the day by cycling to the majestic Grand Mosque just as the evening light hits."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Évry",
+            "hu": "Évry Városháza",
+            "ro": "Primăria din Évry",
+            "en": "Hôtel de Ville d'Évry"
+          },
+          "coords": [
+            2.429442,
+            48.623737
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die moderne zivile Architektur des Rathauses zu würdigen, bevor Sie die umliegenden Fußgängerzonen erkunden.",
+            "hu": "Szánjon egy pillanatot a városháza modern civil építészetének megcsodálására, mielőtt felfedezné a környező sétálótereket.",
+            "ro": "Alocați un moment pentru a aprecia arhitectura civică modernă a primăriei înainte de a explora piețele pietonale din jur.",
+            "en": "Take a moment to appreciate the modern civic architecture of the city hall before exploring the surrounding pedestrian plazas."
+          }
+        },
+        {
+          "name": {
+            "de": "Auferstehungskathedrale",
+            "hu": "Feltámadás katedrális",
+            "ro": "Catedrala Învierii",
+            "en": "Cathedral of the Resurrection"
+          },
+          "coords": [
+            2.428722,
+            48.623583
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ikonischen Backsteinzylinder dieser modernen, von Mario Botta entworfenen Kathedrale, aber vergessen Sie nicht, nach oben zu schauen, um die auf dem Dach gepflanzten Bäume zu sehen.",
+            "hu": "Csodálja meg a Mario Botta által tervezett modern katedrális ikonikus téglahengerét, és mindenképpen pillantson fel a tetőre ültetett fákra is.",
+            "ro": "Admirați cilindrul iconic din cărămidă al acestei catedrale moderne proiectate de Mario Botta, dar nu uitați să priviți în sus pentru a vedea copacii plantați pe acoperiș.",
+            "en": "Admire the iconic brick cylinder of this modern cathedral designed by Mario Botta, but be sure to look up to see the trees planted on its roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Spot Évry",
+            "hu": "Le Spot Évry",
+            "ro": "Le Spot Évry",
+            "en": "Le Spot Évry"
+          },
+          "coords": [
+            2.42658,
+            48.6285
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in diesem großen Freizeit- und Einkaufszentrum ausklingen, sehen Sie sich die lokalen Unterhaltungsangebote an oder holen Sie sich einen schnellen Snack.",
+            "hu": "Zárja a napot ebben a nagy szórakoztató- és bevásárlóközpontban, fedezze fel a helyi kikapcsolódási lehetőségeket, vagy kapjon be egy gyors falatot.",
+            "ro": "Încheiați-vă ziua în acest mare complex de recreere și cumpărături, verificând opțiunile locale de divertisment sau luând o gustare rapidă.",
+            "en": "Wrap up your day at this large recreational and shopping complex, checking out the local entertainment options or grabbing a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Évry",
+            "hu": "Évry-i Nagy Mecset",
+            "ro": "Marea Moschee din Évry",
+            "en": "Grand Mosque of Évry"
+          },
+          "coords": [
+            2.421664,
+            48.625911
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende Monument islamischer Architektur, das für seinen großen Innenhof und die kunstvollen Fliesenarbeiten bekannt ist, am besten außerhalb der Gebetszeiten.",
+            "hu": "Fedezze fel az iszlám építészet e lenyűgöző emlékművét, amely a tágas udvaráról és a bonyolult csempéiről híres, és próbáljon az imaidőn kívül érkezni.",
+            "ro": "Explorați acest monument impresionant al arhitecturii islamice, remarcabil pentru curtea sa grandioasă și faianța complexă, preferabil în afara orelor de rugăciune.",
+            "en": "Explore this stunning monument of Islamic architecture, notable for its grand courtyard and intricate tilework, outside of prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Khanh-Anh-Pagode",
+            "hu": "Khanh-Anh Pagoda",
+            "ro": "Pagoda Khanh-Anh",
+            "en": "Khanh-Anh Pagoda"
+          },
+          "coords": [
+            2.44391,
+            48.6275
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie Europas größte buddhistische Pagode und ziehen Sie Ihre Schuhe aus, um das ruhige, mit beeindruckenden Statuen dekorierte Innere respektvoll zu erkunden.",
+            "hu": "Látogasson el Európa legnagyobb buddhista pagodájába, és vegye le a cipőjét, hogy tiszteletteljesen fedezze fel a lenyűgöző szobrokkal díszített békés belső teret.",
+            "ro": "Vizitați cea mai mare pagodă budistă din Europa și descălțați-vă pentru a explora cu respect interiorul senin, decorat cu statui impresionante.",
+            "en": "Visit Europe's largest Buddhist pagoda and take off your shoes to respectfully explore the serene interior decorated with impressive statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Pompidou",
+            "hu": "Parc Pompidou",
+            "ro": "Parcul Pompidou",
+            "en": "Parc Pompidou"
+          },
+          "coords": [
+            2.450389,
+            48.634407
+          ],
+          "category": "natural",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen Abstecher zu dieser gut gepflegten Grünanlage, die hervorragende gepflasterte Wege für einen angenehmen Spaziergang abseits des Verkehrs bietet.",
+            "hu": "Tegyen egy kitérőt erre a jól karbantartott zöldterületre, amely kiváló kövezett utakat kínál egy zavartalan sétához, távol a forgalomtól.",
+            "ro": "Faceți un ocol către această zonă verde bine întreținută, care oferă cărări pavate excelente pentru o plimbare lină, departe de trafic.",
+            "en": "Take a detour to this well-maintained green area, which offers excellent paved paths for a smooth walk away from the traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Beauvoir",
+            "hu": "Château de Beauvoir",
+            "ro": "Castelul Beauvoir",
+            "en": "Château de Beauvoir"
+          },
+          "coords": [
+            2.454352,
+            48.627607
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein, indem Sie die verbliebenen Strukturen dieses klassischen Anwesens besichtigen – bringen Sie am besten eine Kamera für die malerische Umgebung mit.",
+            "hu": "Merüljön el a helyi történelemben a klasszikus birtok fennmaradt épületeinek megtekintésével, és mindenképpen hozzon fényképezőgépet a festői környezet miatt.",
+            "ro": "Aprofundați istoria locală vizualizând structurile rămase ale acestui domeniu clasic, fiind recomandat să aduceți un aparat foto pentru peisajul pitoresc.",
+            "en": "Delve into local history by viewing the remaining structures of this classical estate, ideally bringing a camera for its picturesque setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Rathaus und parken Sie kurz, um die einzigartige Auferstehungskathedrale zu besuchen.\nDer Mittag bringt eine Mischung aus Shopping und spiritueller Erkundung beim Spot Évry und der Großen Moschee.\nVerbringen Sie den Nachmittag damit, die hoch aufragende Khanh-Anh-Pagode zu bestaunen, bevor Sie im Parc Pompidou entspannen.\nBeenden Sie Ihre Tour am klassischen Château de Beauvoir.",
+        "hu": "Kezdje autós útját a Városházánál, rövid parkolással, hogy meglátogassa a különleges Feltámadás katedrálisát.\nA dél egy kis vásárlást és spirituális felfedezést tartogat a Le Spot Évry-nél, majd a Nagy Mecsetnél.\nA délutánt töltse a magasodó Khanh-Anh Pagoda csodálatával, mielőtt megpihenne a Parc Pompidou-ban.\nFejezze be autós túráját a klasszikus Château de Beauvoir-nál, elgondolkozva a modern és a régi keveredésén.",
+        "ro": "Începeți traseul cu mașina la Primărie, parcând scurt pentru a vizita unica Catedrală a Învierii.\nAmiaza aduce un mix de explorare comercială și spirituală, conducând spre Le Spot Évry și Marea Moschee.\nPetreceți după-amiaza admirând impresionanta Pagodă Khanh-Anh înainte de a vă relaxa în Parc Pompidou.\nÎncheiați turul la clasicul Château de Beauvoir, reflectând asupra amestecului de modern și vechi.",
+        "en": "Begin your drive at the Hôtel de Ville, parking briefly to visit the unique Cathedral of the Resurrection.\nMidday brings a mix of retail and spiritual exploration, driving to Le Spot Évry and then the Grand Mosque.\nSpend the afternoon marveling at the towering Khanh-Anh Pagoda before relaxing in Parc Pompidou.\nEnd your driving tour at the classic Château de Beauvoir, reflecting on the rich blend of modern and old."
+      }
+    }
+  }
+}

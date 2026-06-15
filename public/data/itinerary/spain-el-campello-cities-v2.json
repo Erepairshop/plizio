@@ -1,0 +1,566 @@
+{
+  "city_id": "spain-el-campello-cities-v2",
+  "anchor": {
+    "name": "El Campello",
+    "coords": [
+      -0.401111,
+      38.4275
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 1.84,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Al Pescador",
+            "hu": "Monumento Al Pescador",
+            "ro": "Monumento Al Pescador",
+            "en": "Monumento Al Pescador"
+          },
+          "coords": [
+            -0.389729,
+            38.424286
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese Bronzestatue ehrt die seefahrerischen Wurzeln der Stadt; fotografieren Sie sie bei Sonnenuntergang und bewundern Sie die feinen Netzdetails am Meer.",
+            "hu": "Ez a bronzszobor a város tengerészeti gyökereit tiszteli; fotózza le naplementekor, és figyelje meg a háló finom részleteit a Földközi-tenger hullámai felé.",
+            "ro": "Acest tribut din bronz onorează rădăcinile marinărești ale orașului; fotografiați-l la apus și observați detaliile plasei îndreptate spre Marea Mediterană.",
+            "en": "This bronze tribute honors the town's seafaring roots, so snap a photo during sunset and notice the intricate net details facing the Mediterranean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Illeta",
+            "hu": "Torre de la Illeta",
+            "ro": "Torre de la Illeta",
+            "en": "Torre de la Illeta"
+          },
+          "coords": [
+            -0.383951,
+            38.432652
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem restaurierten Wachturm aus dem 16. Jahrhundert auf, der Piraten abwehren sollte, und bringen Sie ein Weitwinkelobjektiv für tolle Küstenpanoramen mit.",
+            "hu": "Másszon fel ehhez a 16. századi őrtoronyhoz, amely a kalóztámadások ellen épült, és hozzon nagylátószögű objektívet a lenyűgöző tengerparti panorámához.",
+            "ro": "Urcați la acest turn de veghe din secolul al XVI-lea, construit pentru a respinge pirații, aducând o lentilă cu unghi larg pentru panorame uimitoare ale coastei.",
+            "en": "Climb near this restored 16th-century watchtower built to repel pirate attacks, bringing a wide-angle lens for stunning panoramic views of the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Banyets de la Reina",
+            "hu": "Platja dels Banyets de la Reina",
+            "ro": "Platja dels Banyets de la Reina",
+            "en": "Platja dels Banyets de la Reina"
+          },
+          "coords": [
+            -0.382571,
+            38.432384
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen kristallklaren Felsenpools, einst antike Fischfarmen, aber tragen Sie feste Wasserschuhe, da die archäologischen Reste scharf sein können.",
+            "hu": "Ússzon ezekben a kristálytiszta sziklamedencékben, amelyek egykor ókori halgazdaságok voltak, de viseljen erős vizicipőt, mert a víz alatti romok élesek lehetnek.",
+            "ro": "Înotați în aceste piscine stâncoase cu apă cristalină, foste ferme de pește antice, dar purtați încălțăminte de apă rezistentă, deoarece resturile scufundate sunt ascuțite.",
+            "en": "Swim in these crystal-clear rock pools that were once ancient fish farms, but wear sturdy water shoes as the submerged archaeological remains can be quite sharp."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo Ibérico A",
+            "hu": "Templo Ibérico A",
+            "ro": "Templo Ibérico A",
+            "en": "Templo Ibérico A"
+          },
+          "coords": [
+            -0.381555,
+            38.432301
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten Grundsteine dieses iberischen Heiligtums und lesen Sie unbedingt die zweisprachigen Tafeln, um seine historische und religiöse Bedeutung zu erfassen.",
+            "hu": "Csodálja meg ennek a kiemelkedő ibériai szentélynek az ősi alapköveit, és feltétlenül olvassa el a kétnyelvű táblákat, hogy megértse történelmi vallási jelentőségét.",
+            "ro": "Admirați pietrele de temelie antice ale acestui sanctuar iberic, asigurându-vă că citiți plăcile bilingve pentru a înțelege importanța sa istorică și religioasă.",
+            "en": "Marvel at the ancient foundation stones of this prominent Iberian sanctuary, making sure to read the bilingual plaques to understand its historical religious significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscifactoria Romana",
+            "hu": "Piscifactoria Romana",
+            "ro": "Piscifactoria Romana",
+            "en": "Piscifactoria Romana"
+          },
+          "coords": [
+            -0.380644,
+            38.431651
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden römischen Aquakultur-Ruinen im Küstenfelsen und besuchen Sie sie bei Ebbe, um das komplexe Kanalnetz deutlich zu erkennen.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, egyenesen a parti sziklába vájt római akvakultúra-romokat, és látogasson el apálykor, hogy tisztán lássa a bonyolult csatornahálózatot.",
+            "ro": "Explorați aceste ruine romane fascinante de acvacultură săpate în stânca de coastă și vizitați-le la reflux pentru a vedea clar rețeaua complicată de canale.",
+            "en": "Explore these fascinating Roman aquaculture ruins carved directly into the coastal rock, and visit during low tide to clearly see the intricate canal network."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Almadrava",
+            "hu": "Platja de l'Almadrava",
+            "ro": "Platja de l'Almadrava",
+            "en": "Platja de l'Almadrava"
+          },
+          "coords": [
+            -0.381748,
+            38.435765
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem friedlichen, windgeschützten Kieselstrand, wo eine bequeme Matte und ein gutes Buch Ihnen einen ungestörten und ruhigen Nachmittag garantieren.",
+            "hu": "Pihenjen ezen a nyugodt, a széltől védett kavicsos strandon, ahol egy kényelmes matrac és egy jó könyv nyugodt délutánt garantál a természet lágy ölén.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, ferită de vânturile puternice, unde aducând propria saltea confortabilă și o carte bună vă garantează o după-amiază pașnică.",
+            "en": "Relax on this peaceful pebble beach shielded from the strongest winds, where bringing your own comfortable mat and a good book guarantees a tranquil afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am legendären Monumento Al Pescador, das die Küstenkultur ehrt. Gegen Mittag führt Sie ein Spaziergang zur imposanten Torre de la Illeta in die Vergangenheit. Der Nachmittag lädt zur Erkundung antiker iberischer und römischer Ruinen entlang der Felsküste ein. Beenden Sie den Abend entspannt am Platja de l'Almadrava bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a tengerészeti örökséget tükröző ikonikus Monumento Al Pescadornál. Délben tegyen sétát az impozáns Torre de la Illeta felé, elmerülve a múltban. A délután az ókori ibériai és római romok felfedezésére hív a sziklás parton. Zárja az estét nyugodtan a Platja de l'Almadrava kavicsain, miközben a naplemente színeit csodálja.",
+        "ro": "Începeți dimineața la iconicul Monumento Al Pescador, reflectând moștenirea marină a orașului. Până la prânz, o plimbare vă duce la impunătorul Torre de la Illeta, pășind adânc în trecut. După-amiaza vă invită la explorarea ruinelor antice iberice și romane de-a lungul coastei. Încheiați-vă seara relaxându-vă la Platja de l'Almadrava odată cu apusul soarelui.",
+        "en": "Begin your morning greeting the iconic Monumento Al Pescador, reflecting the town's seaside heritage. By midday, a stroll takes you to the imposing Torre de la Illeta, stepping deeply into the past. Afternoon invites exploration through ancient Iberian and Roman ruins along the rocky shoreline. Conclude your evening unwinding at Platja de l'Almadrava with the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:19",
+      "total_km": 4.02,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "\"Can\" Punta del Riu Sec",
+            "hu": "\"Can\" Punta del Riu Sec",
+            "ro": "\"Can\" Punta del Riu Sec",
+            "en": "\"Can\" Punta del Riu Sec"
+          },
+          "coords": [
+            -0.391369,
+            38.415081
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser hundefreundliche Strand ist ein fröhlicher Ort, an dem Haustiere in der Brandung spielen; halten Sie höflich Abstand oder bringen Sie Ihren eigenen Hund mit.",
+            "hu": "Ez a kutyabarát strand vidám hely, ahol a háziállatok a hullámokban játszanak; tartson tisztes távolságot, vagy hozza el saját kedvencét, hogy élvezze a helyi hangulatot.",
+            "ro": "Această plajă dog-friendly este un loc vesel pentru a vedea animalele jucându-se în valuri; păstrați o distanță respectuoasă sau aduceți-vă propriul animal de companie.",
+            "en": "This vibrant dog-friendly beach is a joyful place to watch pets play in the surf, so maintain a respectful distance or bring a pet to enjoy the welcoming local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Al Pescador",
+            "hu": "Monumento Al Pescador",
+            "ro": "Monumento Al Pescador",
+            "en": "Monumento Al Pescador"
+          },
+          "coords": [
+            -0.389729,
+            38.424286
+          ],
+          "category": "monument",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Diese Bronzestatue ehrt die seefahrerischen Wurzeln der Stadt; fotografieren Sie sie bei Sonnenuntergang und bewundern Sie die feinen Netzdetails am Meer.",
+            "hu": "Ez a bronzszobor a város tengerészeti gyökereit tiszteli; fotózza le naplementekor, és figyelje meg a háló finom részleteit a Földközi-tenger hullámai felé.",
+            "ro": "Acest tribut din bronz onorează rădăcinile marinărești ale orașului; fotografiați-l la apus și observați detaliile plasei îndreptate spre Marea Mediterană.",
+            "en": "This bronze tribute honors the town's seafaring roots, so snap a photo during sunset and notice the intricate net details facing the Mediterranean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Illeta",
+            "hu": "Torre de la Illeta",
+            "ro": "Torre de la Illeta",
+            "en": "Torre de la Illeta"
+          },
+          "coords": [
+            -0.383951,
+            38.432652
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem restaurierten Wachturm aus dem 16. Jahrhundert auf, der Piraten abwehren sollte, und bringen Sie ein Weitwinkelobjektiv für tolle Küstenpanoramen mit.",
+            "hu": "Másszon fel ehhez a 16. századi őrtoronyhoz, amely a kalóztámadások ellen épült, és hozzon nagylátószögű objektívet a lenyűgöző tengerparti panorámához.",
+            "ro": "Urcați la acest turn de veghe din secolul al XVI-lea, construit pentru a respinge pirații, aducând o lentilă cu unghi larg pentru panorame uimitoare ale coastei.",
+            "en": "Climb near this restored 16th-century watchtower built to repel pirate attacks, bringing a wide-angle lens for stunning panoramic views of the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Banyets de la Reina",
+            "hu": "Platja dels Banyets de la Reina",
+            "ro": "Platja dels Banyets de la Reina",
+            "en": "Platja dels Banyets de la Reina"
+          },
+          "coords": [
+            -0.382571,
+            38.432384
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen kristallklaren Felsenpools, einst antike Fischfarmen, aber tragen Sie feste Wasserschuhe, da die archäologischen Reste scharf sein können.",
+            "hu": "Ússzon ezekben a kristálytiszta sziklamedencékben, amelyek egykor ókori halgazdaságok voltak, de viseljen erős vizicipőt, mert a víz alatti romok élesek lehetnek.",
+            "ro": "Înotați în aceste piscine stâncoase cu apă cristalină, foste ferme de pește antice, dar purtați încălțăminte de apă rezistentă, deoarece resturile scufundate sunt ascuțite.",
+            "en": "Swim in these crystal-clear rock pools that were once ancient fish farms, but wear sturdy water shoes as the submerged archaeological remains can be quite sharp."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo Ibérico A",
+            "hu": "Templo Ibérico A",
+            "ro": "Templo Ibérico A",
+            "en": "Templo Ibérico A"
+          },
+          "coords": [
+            -0.381555,
+            38.432301
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten Grundsteine dieses iberischen Heiligtums und lesen Sie unbedingt die zweisprachigen Tafeln, um seine historische und religiöse Bedeutung zu erfassen.",
+            "hu": "Csodálja meg ennek a kiemelkedő ibériai szentélynek az ősi alapköveit, és feltétlenül olvassa el a kétnyelvű táblákat, hogy megértse történelmi vallási jelentőségét.",
+            "ro": "Admirați pietrele de temelie antice ale acestui sanctuar iberic, asigurându-vă că citiți plăcile bilingve pentru a înțelege importanța sa istorică și religioasă.",
+            "en": "Marvel at the ancient foundation stones of this prominent Iberian sanctuary, making sure to read the bilingual plaques to understand its historical religious significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscifactoria Romana",
+            "hu": "Piscifactoria Romana",
+            "ro": "Piscifactoria Romana",
+            "en": "Piscifactoria Romana"
+          },
+          "coords": [
+            -0.380644,
+            38.431651
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden römischen Aquakultur-Ruinen im Küstenfelsen und besuchen Sie sie bei Ebbe, um das komplexe Kanalnetz deutlich zu erkennen.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, egyenesen a parti sziklába vájt római akvakultúra-romokat, és látogasson el apálykor, hogy tisztán lássa a bonyolult csatornahálózatot.",
+            "ro": "Explorați aceste ruine romane fascinante de acvacultură săpate în stânca de coastă și vizitați-le la reflux pentru a vedea clar rețeaua complicată de canale.",
+            "en": "Explore these fascinating Roman aquaculture ruins carved directly into the coastal rock, and visit during low tide to clearly see the intricate canal network."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Almadrava",
+            "hu": "Platja de l'Almadrava",
+            "ro": "Platja de l'Almadrava",
+            "en": "Platja de l'Almadrava"
+          },
+          "coords": [
+            -0.381748,
+            38.435765
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem friedlichen, windgeschützten Kieselstrand, wo eine bequeme Matte und ein gutes Buch Ihnen einen ungestörten und ruhigen Nachmittag garantieren.",
+            "hu": "Pihenjen ezen a nyugodt, a széltől védett kavicsos strandon, ahol egy kényelmes matrac és egy jó könyv nyugodt délutánt garantál a természet lágy ölén.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, ferită de vânturile puternice, unde aducând propria saltea confortabilă și o carte bună vă garantează o după-amiază pașnică.",
+            "en": "Relax on this peaceful pebble beach shielded from the strongest winds, where bringing your own comfortable mat and a good book guarantees a tranquil afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Amerador",
+            "hu": "Platja de l'Amerador",
+            "ro": "Platja de l'Amerador",
+            "en": "Platja de l'Amerador"
+          },
+          "coords": [
+            -0.374423,
+            38.443159
+          ],
+          "category": "recreational",
+          "arrive_at": "17:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenaussicht in dieser unberührten Bucht; kommen Sie früh, um sich einen Platz zu sichern, und bringen Sie Snacks mit, da es wenig Infrastruktur gibt.",
+            "hu": "Élvezze a csendes parti kilátást ezen az érintetlen öblön; érkezzen korán, hogy jó helyet találjon, és hozzon magával rágcsálnivalót, mivel a szolgáltatások minimálisak.",
+            "ro": "Bucurați-vă de vederea liniștită la coastă în acest golf neatins; ajungeți devreme pentru a obține un loc bun și aduceți gustări, deoarece facilitățile sunt minime aici.",
+            "en": "Enjoy the tranquil, sweeping coastal views at this quieter, unspoiled cove; arrive early to secure a prime spot and pack light snacks since facilities are minimal here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am hundefreundlichen Strand Punta del Riu Sec. Mittags fahren Sie am Monumento Al Pescador vorbei zum historischen Wachturm von Illeta. Verbringen Sie den Nachmittag damit, zwischen alten Fischfarmen und Tempeln die Meeresbrise zu genießen. Beenden Sie den Tag, indem Sie nach Norden zur ruhigen Platja de l'Amerador radeln.",
+        "hu": "Kezdje kerékpáros útját a kutyabarát Punta del Riu Sec strandon. Délben elhalad a Monumento Al Pescador mellett az Illeta történelmi őrtornya felé. A délutánt ókori halgazdaságok és ibériai templomok között tölti, élvezve a tengeri szellőt. Zárja a napot észak felé pedálozva a Platja de l'Amerador békés partjaira.",
+        "ro": "Începeți călătoria cu bicicleta la plaja prietenoasă cu câinii Punta del Riu Sec. Prânzul vă aduce pe lângă Monumento Al Pescador spre turnul istoric de pe Illeta. Petreceți după-amiaza plimbându-vă între ferme antice de pește și temple, bucurându-vă de briza mării. Terminați ziua pedalând spre nord către țărmurile senine ale Platja de l'Amerador.",
+        "en": "Start your cycling journey watching lively pets at the dog-friendly Punta del Riu Sec. Midday brings you past the Monumento Al Pescador towards the historic watchtower of Illeta. Spend the afternoon riding between ancient fish farms and Iberian temples, taking in the sea breeze. Finish the day pedaling north to the serene shores of Platja de l'Amerador."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 4.22,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja de l'Amerador",
+            "hu": "Platja de l'Amerador",
+            "ro": "Platja de l'Amerador",
+            "en": "Platja de l'Amerador"
+          },
+          "coords": [
+            -0.374423,
+            38.443159
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Küstenaussicht in dieser unberührten Bucht; kommen Sie früh, um sich einen Platz zu sichern, und bringen Sie Snacks mit, da es wenig Infrastruktur gibt.",
+            "hu": "Élvezze a csendes parti kilátást ezen az érintetlen öblön; érkezzen korán, hogy jó helyet találjon, és hozzon magával rágcsálnivalót, mivel a szolgáltatások minimálisak.",
+            "ro": "Bucurați-vă de vederea liniștită la coastă în acest golf neatins; ajungeți devreme pentru a obține un loc bun și aduceți gustări, deoarece facilitățile sunt minime aici.",
+            "en": "Enjoy the tranquil, sweeping coastal views at this quieter, unspoiled cove; arrive early to secure a prime spot and pack light snacks since facilities are minimal here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Almadrava",
+            "hu": "Platja de l'Almadrava",
+            "ro": "Platja de l'Almadrava",
+            "en": "Platja de l'Almadrava"
+          },
+          "coords": [
+            -0.381748,
+            38.435765
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem friedlichen, windgeschützten Kieselstrand, wo eine bequeme Matte und ein gutes Buch Ihnen einen ungestörten und ruhigen Nachmittag garantieren.",
+            "hu": "Pihenjen ezen a nyugodt, a széltől védett kavicsos strandon, ahol egy kényelmes matrac és egy jó könyv nyugodt délutánt garantál a természet lágy ölén.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș, ferită de vânturile puternice, unde aducând propria saltea confortabilă și o carte bună vă garantează o după-amiază pașnică.",
+            "en": "Relax on this peaceful pebble beach shielded from the strongest winds, where bringing your own comfortable mat and a good book guarantees a tranquil afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la Illeta",
+            "hu": "Torre de la Illeta",
+            "ro": "Torre de la Illeta",
+            "en": "Torre de la Illeta"
+          },
+          "coords": [
+            -0.383951,
+            38.432652
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem restaurierten Wachturm aus dem 16. Jahrhundert auf, der Piraten abwehren sollte, und bringen Sie ein Weitwinkelobjektiv für tolle Küstenpanoramen mit.",
+            "hu": "Másszon fel ehhez a 16. századi őrtoronyhoz, amely a kalóztámadások ellen épült, és hozzon nagylátószögű objektívet a lenyűgöző tengerparti panorámához.",
+            "ro": "Urcați la acest turn de veghe din secolul al XVI-lea, construit pentru a respinge pirații, aducând o lentilă cu unghi larg pentru panorame uimitoare ale coastei.",
+            "en": "Climb near this restored 16th-century watchtower built to repel pirate attacks, bringing a wide-angle lens for stunning panoramic views of the entire coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Banyets de la Reina",
+            "hu": "Platja dels Banyets de la Reina",
+            "ro": "Platja dels Banyets de la Reina",
+            "en": "Platja dels Banyets de la Reina"
+          },
+          "coords": [
+            -0.382571,
+            38.432384
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen kristallklaren Felsenpools, einst antike Fischfarmen, aber tragen Sie feste Wasserschuhe, da die archäologischen Reste scharf sein können.",
+            "hu": "Ússzon ezekben a kristálytiszta sziklamedencékben, amelyek egykor ókori halgazdaságok voltak, de viseljen erős vizicipőt, mert a víz alatti romok élesek lehetnek.",
+            "ro": "Înotați în aceste piscine stâncoase cu apă cristalină, foste ferme de pește antice, dar purtați încălțăminte de apă rezistentă, deoarece resturile scufundate sunt ascuțite.",
+            "en": "Swim in these crystal-clear rock pools that were once ancient fish farms, but wear sturdy water shoes as the submerged archaeological remains can be quite sharp."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo Ibérico A",
+            "hu": "Templo Ibérico A",
+            "ro": "Templo Ibérico A",
+            "en": "Templo Ibérico A"
+          },
+          "coords": [
+            -0.381555,
+            38.432301
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten Grundsteine dieses iberischen Heiligtums und lesen Sie unbedingt die zweisprachigen Tafeln, um seine historische und religiöse Bedeutung zu erfassen.",
+            "hu": "Csodálja meg ennek a kiemelkedő ibériai szentélynek az ősi alapköveit, és feltétlenül olvassa el a kétnyelvű táblákat, hogy megértse történelmi vallási jelentőségét.",
+            "ro": "Admirați pietrele de temelie antice ale acestui sanctuar iberic, asigurându-vă că citiți plăcile bilingve pentru a înțelege importanța sa istorică și religioasă.",
+            "en": "Marvel at the ancient foundation stones of this prominent Iberian sanctuary, making sure to read the bilingual plaques to understand its historical religious significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscifactoria Romana",
+            "hu": "Piscifactoria Romana",
+            "ro": "Piscifactoria Romana",
+            "en": "Piscifactoria Romana"
+          },
+          "coords": [
+            -0.380644,
+            38.431651
+          ],
+          "category": "historical",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden römischen Aquakultur-Ruinen im Küstenfelsen und besuchen Sie sie bei Ebbe, um das komplexe Kanalnetz deutlich zu erkennen.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, egyenesen a parti sziklába vájt római akvakultúra-romokat, és látogasson el apálykor, hogy tisztán lássa a bonyolult csatornahálózatot.",
+            "ro": "Explorați aceste ruine romane fascinante de acvacultură săpate în stânca de coastă și vizitați-le la reflux pentru a vedea clar rețeaua complicată de canale.",
+            "en": "Explore these fascinating Roman aquaculture ruins carved directly into the coastal rock, and visit during low tide to clearly see the intricate canal network."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Al Pescador",
+            "hu": "Monumento Al Pescador",
+            "ro": "Monumento Al Pescador",
+            "en": "Monumento Al Pescador"
+          },
+          "coords": [
+            -0.389729,
+            38.424286
+          ],
+          "category": "monument",
+          "arrive_at": "17:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Diese Bronzestatue ehrt die seefahrerischen Wurzeln der Stadt; fotografieren Sie sie bei Sonnenuntergang und bewundern Sie die feinen Netzdetails am Meer.",
+            "hu": "Ez a bronzszobor a város tengerészeti gyökereit tiszteli; fotózza le naplementekor, és figyelje meg a háló finom részleteit a Földközi-tenger hullámai felé.",
+            "ro": "Acest tribut din bronz onorează rădăcinile marinărești ale orașului; fotografiați-l la apus și observați detaliile plasei îndreptate spre Marea Mediterană.",
+            "en": "This bronze tribute honors the town's seafaring roots, so snap a photo during sunset and notice the intricate net details facing the Mediterranean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "\"Can\" Punta del Riu Sec",
+            "hu": "\"Can\" Punta del Riu Sec",
+            "ro": "\"Can\" Punta del Riu Sec",
+            "en": "\"Can\" Punta del Riu Sec"
+          },
+          "coords": [
+            -0.391369,
+            38.415081
+          ],
+          "category": "recreational",
+          "arrive_at": "17:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Dieser hundefreundliche Strand ist ein fröhlicher Ort, an dem Haustiere in der Brandung spielen; halten Sie höflich Abstand oder bringen Sie Ihren eigenen Hund mit.",
+            "hu": "Ez a kutyabarát strand vidám hely, ahol a háziállatok a hullámokban játszanak; tartson tisztes távolságot, vagy hozza el saját kedvencét, hogy élvezze a helyi hangulatot.",
+            "ro": "Această plajă dog-friendly este un loc vesel pentru a vedea animalele jucându-se în valuri; păstrați o distanță respectuoasă sau aduceți-vă propriul animal de companie.",
+            "en": "This vibrant dog-friendly beach is a joyful place to watch pets play in the surf, so maintain a respectful distance or bring a pet to enjoy the welcoming local vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am ruhigen Platja de l'Amerador. Gegen Mittag parken Sie an der Halbinsel Illeta, um den Wachturm und antike römische Ruinen zu Fuß zu erkunden. Tauchen Sie am Nachmittag tief in die reiche iberische Geschichte an den Ausgrabungsstätten ein. Ihr Tag klingt mit einer abendlichen Fahrt zu den südlichen Ufern aus.",
+        "hu": "Kezdje festői autózását a csendes Platja de l'Ameradornál, mielőtt megérkezik a tömeg. Délben parkoljon le az Illeta félszigetnél, és fedezze fel gyalog az őrtornyot és a római romokat. Délután merüljön el az ibériai történelemben a régészeti lelőhelyeken. A nap egy kellemes esti kocsikázással zárul a déli partok mentén.",
+        "ro": "Începeți plimbarea scenică cu mașina la liniștita Platja de l'Amerador. La prânz, parcați lângă peninsula Illeta pentru a explora pe jos turnul de veghe și ruinele antice romane. După-amiaza, aprofundați istoria bogată iberică la siturile arheologice. Ziua se încheie cu o plimbare de seară către țărmurile estice și sudice.",
+        "en": "Begin your scenic drive at the tranquil Platja de l'Amerador before the crowds arrive. By midday, park near the Illeta peninsula to explore an impressive array of watchtowers and ancient Roman ruins on foot. In the afternoon, dive deep into the rich Iberian history at the archaeological sites. Your day winds down with an evening drive to the southern shores."
+      }
+    }
+  }
+}

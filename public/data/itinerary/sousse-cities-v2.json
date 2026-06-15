@@ -1,0 +1,520 @@
+{
+  "city_id": "sousse-cities-v2",
+  "anchor": {
+    "name": "Sousse",
+    "coords": [
+      10.6369,
+      35.8256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 1.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab el Finga",
+            "hu": "Bab el Finga",
+            "ro": "Bab el Finga",
+            "en": "Bab el Finga"
+          },
+          "coords": [
+            10.634926,
+            35.825921
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieses alten Tors und achten Sie auf die robusten Steinmetzarbeiten, die Sousse einst vor Invasoren schützten.",
+            "hu": "Figyelje meg ennek az ősi kapunak az építészeti részleteit, és koncentráljon a masszív kőfaragásokra, amelyek egykor megvédték a várost.",
+            "ro": "Admirați detaliile arhitecturale ale acestei porți vechi și acordați atenție sculpturilor masive din piatră care odinioară apărau orașul Sousse de invadatori.",
+            "en": "Observe the architectural details of this ancient gate, paying attention to the robust stonework that once defended Sousse from invaders."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Dar Essid",
+            "hu": "Dar Essid Múzeum",
+            "ro": "Muzeul Dar Essid",
+            "en": "Museum Dar Essid"
+          },
+          "coords": [
+            10.635441,
+            35.827152
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle tunesische Leben in diesem gut erhaltenen Haus und verpassen Sie nicht den Panoramablick von der oberen Terrasse.",
+            "hu": "Fedezze fel a hagyományos tunéziai életet ebben a jól karbantartott házban, és semmiképp se hagyja ki a felső teraszról nyíló panorámát.",
+            "ro": "Descoperiți viața tradițională tunisiană în această casă bine conservată și nu ratați priveliștea panoramică de pe terasa superioară.",
+            "en": "Discover traditional Tunisian life in this well-preserved house, and be sure not to miss the panoramic views from the upper terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "El Kobba Museum",
+            "hu": "El Kobba Múzeum",
+            "ro": "Muzeul El Kobba",
+            "en": "El Kobba Museum"
+          },
+          "coords": [
+            10.638287,
+            35.825001
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die plissierten Gewänder und faszinierenden Artefakte in diesem Museum, aber kommen Sie früh, um die detaillierten Stickereien bei bestem Licht zu sehen.",
+            "hu": "Csodálja meg a rakott ruhákat és lenyűgöző leleteket a múzeumban, de érkezzen korán, hogy a legjobb fényben láthassa a részletgazdag hímzéseket.",
+            "ro": "Admirați veșmintele plisate și artefactele fascinante din acest muzeu, dar veniți devreme pentru a vedea broderiile detaliate în cea mai bună lumină.",
+            "en": "Admire the pleated garments and fascinating artifacts in this museum, but arrive early to see the detailed embroidery in the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El-Gharbi",
+            "hu": "Bab El-Gharbi",
+            "ro": "Bab El-Gharbi",
+            "en": "Bab El-Gharbi"
+          },
+          "coords": [
+            10.634815,
+            35.824524
+          ],
+          "category": "fortress",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser beeindruckenden Festungsmauern und spüren Sie die historische Bedeutung, während Sie die alten Verteidigungsstrukturen aus der Nähe betrachten.",
+            "hu": "Sétáljon végig ezeken a lenyűgöző erődfalakon, és érezze át a történelmi jelentőségüket, miközben közelről vizsgálja az ősi védelmi struktúrákat.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri impresionante de fortăreață și simțiți importanța istorică, examinând îndeaproape vechile structuri de apărare.",
+            "en": "Stroll along these impressive fortress walls and feel their historical significance while examining the ancient defensive structures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Sousse",
+            "hu": "Sousse Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Sousse",
+            "en": "Sousse Archeological Museum"
+          },
+          "coords": [
+            10.635576,
+            35.823108
+          ],
+          "category": "museum",
+          "arrive_at": "14:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die römische Geschichte ein und bestaunen Sie die weltberühmten Mosaike, für die Sie sich mindestens anderthalb Stunden Zeit nehmen sollten.",
+            "hu": "Merüljön el a római történelemben, és csodálja meg a világhírű mozaikokat, amelyek alapos felfedezésére érdemes legalább másfél órát rászánnia.",
+            "ro": "Pătrundeți în istoria romană și admirați mozaicurile de renume mondial, pentru care ar trebui să vă rezervați cel puțin o oră și jumătate.",
+            "en": "Delve into Roman history and marvel at the world-renowned mosaics, allocating at least an hour and a half to fully appreciate the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah von Sousse",
+            "hu": "Sousse Kasbah",
+            "ro": "Kasbah din Sousse",
+            "en": "Sousse Kasbah"
+          },
+          "coords": [
+            10.635514,
+            35.822035
+          ],
+          "category": "landmark",
+          "arrive_at": "15:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm dieser massiven Festung, um einen unvergleichlichen Blick auf die Medina zu genießen, und tragen Sie bequeme Schuhe für die unebenen Stufen.",
+            "hu": "Mássza meg ennek a masszív erődnek a tornyát, hogy páratlan kilátás nyíljon a medinára, és viseljen kényelmes cipőt az egyenetlen lépcsőkhöz.",
+            "ro": "Urcați în turnul acestei fortărețe masive pentru a vă bucura de o vedere de neegalat asupra medinei și purtați încălțăminte comodă pentru treptele inegale.",
+            "en": "Climb the tower of this massive fortress to enjoy an unparalleled view of the medina, and wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Säule",
+            "hu": "Római oszlop",
+            "ro": "Coloana romană",
+            "en": "Roman column"
+          },
+          "coords": [
+            10.639499,
+            35.822685
+          ],
+          "category": "historical",
+          "arrive_at": "16:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses stille Relikt der römischen Ära inmitten der modernen Stadt und nutzen Sie das sanfte Nachmittagslicht für beeindruckende Fotografien.",
+            "hu": "Tekintse meg a római kor e csendes emlékét a modern város közepén, és használja ki a lágy délutáni fényeket lenyűgöző fényképek készítéséhez.",
+            "ro": "Priviți această relicvă tăcută a erei romane în mijlocul orașului modern și profitați de lumina blândă a după-amiezii pentru fotografii impresionante.",
+            "en": "View this silent relic of the Roman era amidst the modern city, taking advantage of the soft afternoon light for impressive photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt an den alten Festungsmauern von Bab el Finga und führt Sie tief in die Kulturgeschichte der Stadt. Gegen Mittag erkunden Sie traditionelle Museen, die Ihnen das farbenfrohe Leben und die Handwerkskunst Tunesiens näherbringen. Am Nachmittag tauchen Sie in die antike Geschichte im Archäologischen Museum und der massiven Kasbah ein. Der Tag endet beschaulich an der Römischen Säule, wo Sie die reiche Vergangenheit von Sousse inmitten des modernen Treibens reflektieren können.",
+        "hu": "A séta a Bab el Finga ősi erődfalainál kezdődik, mélyen a város kultúrtörténetébe vezetve önt. Délben hagyományos múzeumokat fedez fel, amelyek közelebb hozzák Tunézia színes életét és kézművességét. Délután merüljön el az ókori történelemben a Régészeti Múzeumban és a lenyűgöző Kasbahban. A nap a Római Oszlopnál ér véget, ahol nyugodtan elmélkedhet Sousse gazdag múltjáról a modern nyüzsgés közepette.",
+        "ro": "Plimbarea începe la vechile ziduri ale fortăreței Bab el Finga și vă poartă adânc în istoria culturală a orașului. La prânz explorați muzee tradiționale care vă apropie de viața colorată și de meșteșugurile din Tunisia. După-amiaza vă scufundați în istoria antică la Muzeul Arheologic și la impresionanta Kasbah. Ziua se încheie liniștit la Coloana Romană, unde puteți reflecta la trecutul bogat al orașului Sousse în mijlocul agitației moderne.",
+        "en": "Your walk begins at the ancient fortress walls of Bab el Finga, leading you deep into the city's cultural history. Around midday, explore traditional museums that bring Tunisia's colorful life and craftsmanship closer to you. In the afternoon, immerse yourself in ancient history at the Archeological Museum and the massive Kasbah. The day ends peacefully at the Roman column, where you can reflect on the rich past of Sousse amidst the modern bustle."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 2.39,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Dar Essid",
+            "hu": "Dar Essid Múzeum",
+            "ro": "Muzeul Dar Essid",
+            "en": "Museum Dar Essid"
+          },
+          "coords": [
+            10.635441,
+            35.827152
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle tunesische Leben in diesem gut erhaltenen Haus und verpassen Sie nicht den Panoramablick von der oberen Terrasse.",
+            "hu": "Fedezze fel a hagyományos tunéziai életet ebben a jól karbantartott házban, és semmiképp se hagyja ki a felső teraszról nyíló panorámát.",
+            "ro": "Descoperiți viața tradițională tunisiană în această casă bine conservată și nu ratați priveliștea panoramică de pe terasa superioară.",
+            "en": "Discover traditional Tunisian life in this well-preserved house, and be sure not to miss the panoramic views from the upper terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "El Kobba Museum",
+            "hu": "El Kobba Múzeum",
+            "ro": "Muzeul El Kobba",
+            "en": "El Kobba Museum"
+          },
+          "coords": [
+            10.638287,
+            35.825001
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die plissierten Gewänder und faszinierenden Artefakte in diesem Museum, aber kommen Sie früh, um die detaillierten Stickereien bei bestem Licht zu sehen.",
+            "hu": "Csodálja meg a rakott ruhákat és lenyűgöző leleteket a múzeumban, de érkezzen korán, hogy a legjobb fényben láthassa a részletgazdag hímzéseket.",
+            "ro": "Admirați veșmintele plisate și artefactele fascinante din acest muzeu, dar veniți devreme pentru a vedea broderiile detaliate în cea mai bună lumină.",
+            "en": "Admire the pleated garments and fascinating artifacts in this museum, but arrive early to see the detailed embroidery in the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El-Gharbi",
+            "hu": "Bab El-Gharbi",
+            "ro": "Bab El-Gharbi",
+            "en": "Bab El-Gharbi"
+          },
+          "coords": [
+            10.634815,
+            35.824524
+          ],
+          "category": "fortress",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser beeindruckenden Festungsmauern und spüren Sie die historische Bedeutung, während Sie die alten Verteidigungsstrukturen aus der Nähe betrachten.",
+            "hu": "Sétáljon végig ezeken a lenyűgöző erődfalakon, és érezze át a történelmi jelentőségüket, miközben közelről vizsgálja az ősi védelmi struktúrákat.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri impresionante de fortăreață și simțiți importanța istorică, examinând îndeaproape vechile structuri de apărare.",
+            "en": "Stroll along these impressive fortress walls and feel their historical significance while examining the ancient defensive structures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Sousse",
+            "hu": "Sousse Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Sousse",
+            "en": "Sousse Archeological Museum"
+          },
+          "coords": [
+            10.635576,
+            35.823108
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die römische Geschichte ein und bestaunen Sie die weltberühmten Mosaike, für die Sie sich mindestens anderthalb Stunden Zeit nehmen sollten.",
+            "hu": "Merüljön el a római történelemben, és csodálja meg a világhírű mozaikokat, amelyek alapos felfedezésére érdemes legalább másfél órát rászánnia.",
+            "ro": "Pătrundeți în istoria romană și admirați mozaicurile de renume mondial, pentru care ar trebui să vă rezervați cel puțin o oră și jumătate.",
+            "en": "Delve into Roman history and marvel at the world-renowned mosaics, allocating at least an hour and a half to fully appreciate the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah von Sousse",
+            "hu": "Sousse Kasbah",
+            "ro": "Kasbah din Sousse",
+            "en": "Sousse Kasbah"
+          },
+          "coords": [
+            10.635514,
+            35.822035
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm dieser massiven Festung, um einen unvergleichlichen Blick auf die Medina zu genießen, und tragen Sie bequeme Schuhe für die unebenen Stufen.",
+            "hu": "Mássza meg ennek a masszív erődnek a tornyát, hogy páratlan kilátás nyíljon a medinára, és viseljen kényelmes cipőt az egyenetlen lépcsőkhöz.",
+            "ro": "Urcați în turnul acestei fortărețe masive pentru a vă bucura de o vedere de neegalat asupra medinei și purtați încălțăminte comodă pentru treptele inegale.",
+            "en": "Climb the tower of this massive fortress to enjoy an unparalleled view of the medina, and wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Haus der Masken",
+            "hu": "Római maszkok háza",
+            "ro": "Casa Romană a Măștilor",
+            "en": "Roman House of Masks"
+          },
+          "coords": [
+            10.636541,
+            35.81724
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Ruinen dieses Hauses, in dem detaillierte Maskenmozaike die theatralische Kultur der Römerzeit eindrucksvoll veranschaulichen.",
+            "hu": "Fedezze fel e ház lenyűgöző ókori romjait, ahol a részletes maszkmozaikok lenyűgözően illusztrálják a római kor színházi kultúráját.",
+            "ro": "Explorați ruinele antice fascinante ale acestei case, unde mozaicurile detaliate cu măști ilustrează impresionant cultura teatrală a epocii romane.",
+            "en": "Explore the fascinating ancient ruins of this house, where detailed mask mosaics impressively illustrate the theatrical culture of the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Punisch-Römische Nekropole",
+            "hu": "Pun-római nekropolisz",
+            "ro": "Necropola Punico-Romană",
+            "en": "Punico-Roman Necropolis"
+          },
+          "coords": [
+            10.627142,
+            35.820262
+          ],
+          "category": "historical",
+          "arrive_at": "17:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser historischen Begräbnisstätte, die die Verschmelzung punischer und römischer Traditionen zeigt, ideal für einen ruhigen, reflektierenden Spaziergang.",
+            "hu": "Zárja a napot ezen a történelmi temetkezési helyen, amely a pun és római hagyományok ötvöződését mutatja be, ideális egy csendes, elmélkedő sétához.",
+            "ro": "Încheiați-vă ziua la acest loc istoric de înmormântare, care arată fuziunea tradițiilor punice și romane, ideal pentru o plimbare liniștită și reflexivă.",
+            "en": "End your day at this historical burial site, which showcases the fusion of Punic and Roman traditions, ideal for a quiet, reflective stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern starten Sie am Museum Dar Essid und erkunden die verwinkelten Gassen der traditionellen Museen. Gegen Mittag radeln Sie entspannt entlang der westlichen Festungsmauern und erreichen das Archäologische Museum. Der Nachmittag bringt Sie zur beeindruckenden Kasbah und weiter zum Römischen Haus der Masken, wo Sie tiefer in die Antike eintauchen. Zum Abschluss fahren Sie zur Punisch-Römischen Nekropole, wo Sie den Tag umgeben von Jahrtausende alter Geschichte ausklingen lassen.",
+        "hu": "Két keréken a Dar Essid Múzeumban kezd, majd a hagyományos múzeumok kanyargós utcáin teker tovább. Dél körül nyugodtan halad a nyugati erődfalak mentén, amíg el nem éri a Régészeti Múzeumot. A délután a lenyűgöző Kasbahhoz és a Római Maszkok Házához vezet, ahol mélyebben elmerülhet az ókorban. Végül elbiciklizik a Pun-római Nekropoliszba, ahol évezredes történelemmel körülvéve fejezheti be a napot.",
+        "ro": "Pe două roți începeți la Muzeul Dar Essid și explorați străzile șerpuite ale muzeelor tradiționale. La prânz pedalați relaxat de-a lungul zidurilor vestice ale fortăreței și ajungeți la Muzeul Arheologic. După-amiaza vă poartă spre impresionanta Kasbah și mai departe către Casa Romană a Măștilor, unde vă adânciți în antichitate. La final, pedalați spre Necropola Punico-Romană, unde încheiați ziua înconjurați de istorie milenară.",
+        "en": "On two wheels, start at the Museum Dar Essid and explore the winding streets of the traditional museums. Around noon, cycle smoothly along the western fortress walls, reaching the Archeological Museum. The afternoon brings you to the impressive Kasbah and the Roman House of Masks, delving deeper into antiquity. Finally, ride to the Punico-Roman Necropolis to conclude your day surrounded by millennia of ancient history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 2.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Kobba Museum",
+            "hu": "El Kobba Múzeum",
+            "ro": "Muzeul El Kobba",
+            "en": "El Kobba Museum"
+          },
+          "coords": [
+            10.638287,
+            35.825001
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die plissierten Gewänder und faszinierenden Artefakte in diesem Museum, aber kommen Sie früh, um die detaillierten Stickereien bei bestem Licht zu sehen.",
+            "hu": "Csodálja meg a rakott ruhákat és lenyűgöző leleteket a múzeumban, de érkezzen korán, hogy a legjobb fényben láthassa a részletgazdag hímzéseket.",
+            "ro": "Admirați veșmintele plisate și artefactele fascinante din acest muzeu, dar veniți devreme pentru a vedea broderiile detaliate în cea mai bună lumină.",
+            "en": "Admire the pleated garments and fascinating artifacts in this museum, but arrive early to see the detailed embroidery in the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab el Finga",
+            "hu": "Bab el Finga",
+            "ro": "Bab el Finga",
+            "en": "Bab el Finga"
+          },
+          "coords": [
+            10.634926,
+            35.825921
+          ],
+          "category": "fortress",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieses alten Tors und achten Sie auf die robusten Steinmetzarbeiten, die Sousse einst vor Invasoren schützten.",
+            "hu": "Figyelje meg ennek az ősi kapunak az építészeti részleteit, és koncentráljon a masszív kőfaragásokra, amelyek egykor megvédték a várost.",
+            "ro": "Admirați detaliile arhitecturale ale acestei porți vechi și acordați atenție sculpturilor masive din piatră care odinioară apărau orașul Sousse de invadatori.",
+            "en": "Observe the architectural details of this ancient gate, paying attention to the robust stonework that once defended Sousse from invaders."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Sousse",
+            "hu": "Sousse Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Sousse",
+            "en": "Sousse Archeological Museum"
+          },
+          "coords": [
+            10.635576,
+            35.823108
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die römische Geschichte ein und bestaunen Sie die weltberühmten Mosaike, für die Sie sich mindestens anderthalb Stunden Zeit nehmen sollten.",
+            "hu": "Merüljön el a római történelemben, és csodálja meg a világhírű mozaikokat, amelyek alapos felfedezésére érdemes legalább másfél órát rászánnia.",
+            "ro": "Pătrundeți în istoria romană și admirați mozaicurile de renume mondial, pentru care ar trebui să vă rezervați cel puțin o oră și jumătate.",
+            "en": "Delve into Roman history and marvel at the world-renowned mosaics, allocating at least an hour and a half to fully appreciate the collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasbah von Sousse",
+            "hu": "Sousse Kasbah",
+            "ro": "Kasbah din Sousse",
+            "en": "Sousse Kasbah"
+          },
+          "coords": [
+            10.635514,
+            35.822035
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm dieser massiven Festung, um einen unvergleichlichen Blick auf die Medina zu genießen, und tragen Sie bequeme Schuhe für die unebenen Stufen.",
+            "hu": "Mássza meg ennek a masszív erődnek a tornyát, hogy páratlan kilátás nyíljon a medinára, és viseljen kényelmes cipőt az egyenetlen lépcsőkhöz.",
+            "ro": "Urcați în turnul acestei fortărețe masive pentru a vă bucura de o vedere de neegalat asupra medinei și purtați încălțăminte comodă pentru treptele inegale.",
+            "en": "Climb the tower of this massive fortress to enjoy an unparalleled view of the medina, and wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Säule",
+            "hu": "Római oszlop",
+            "ro": "Coloana romană",
+            "en": "Roman column"
+          },
+          "coords": [
+            10.639499,
+            35.822685
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses stille Relikt der römischen Ära inmitten der modernen Stadt und nutzen Sie das sanfte Nachmittagslicht für beeindruckende Fotografien.",
+            "hu": "Tekintse meg a római kor e csendes emlékét a modern város közepén, és használja ki a lágy délutáni fényeket lenyűgöző fényképek készítéséhez.",
+            "ro": "Priviți această relicvă tăcută a erei romane în mijlocul orașului modern și profitați de lumina blândă a după-amiezii pentru fotografii impresionante.",
+            "en": "View this silent relic of the Roman era amidst the modern city, taking advantage of the soft afternoon light for impressive photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Punisch-Römische Nekropole",
+            "hu": "Pun-római nekropolisz",
+            "ro": "Necropola Punico-Romană",
+            "en": "Punico-Roman Necropolis"
+          },
+          "coords": [
+            10.627142,
+            35.820262
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser historischen Begräbnisstätte, die die Verschmelzung punischer und römischer Traditionen zeigt, ideal für einen ruhigen, reflektierenden Spaziergang.",
+            "hu": "Zárja a napot ezen a történelmi temetkezési helyen, amely a pun és római hagyományok ötvöződését mutatja be, ideális egy csendes, elmélkedő sétához.",
+            "ro": "Încheiați-vă ziua la acest loc istoric de înmormântare, care arată fuziunea tradițiilor punice și romane, ideal pentru o plimbare liniștită și reflexivă.",
+            "en": "End your day at this historical burial site, which showcases the fusion of Punic and Roman traditions, ideal for a quiet, reflective stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt am traditionellen El Kobba Museum, bevor Sie das alte Tor Bab el Finga ansteuern. Mittags besuchen Sie das renommierte Archäologische Museum, wo fantastische Mosaike auf Sie warten. Der Nachmittag ist geprägt von der massiven Kasbah und der antiken Römischen Säule, die beide leicht zu erreichen sind. Am Abend fahren Sie entspannt zur Punisch-Römischen Nekropole, um abseits des Zentrums in die reiche Geschichte von Sousse einzutauchen.",
+        "hu": "Kényelmes utazása a hagyományos El Kobba Múzeumban kezdődik, mielőtt a Bab el Finga ősi kapujához hajtana. Délben a híres Régészeti Múzeumot látogatja meg, ahol fantasztikus mozaikok várják. A délutánt a masszív Kasbah és az ókori Római Oszlop fémjelzi, mindkettő könnyen megközelíthető autóval. Este kényelmesen elautózik a Pun-római Nekropoliszba, hogy a központtól távol merüljön el Sousse gazdag történelmében.",
+        "ro": "Călătoria dumneavoastră confortabilă începe la muzeul tradițional El Kobba, înainte de a vă îndrepta spre poarta antică Bab el Finga. La prânz vizitați renumitul Muzeu Arheologic, unde vă așteaptă mozaicuri fantastice. După-amiaza este marcată de masiva Kasbah și de antica Coloană Romană, ambele ușor accesibile. Seara conduceți relaxat spre Necropola Punico-Romană pentru a vă scufunda în bogata istorie a orașului Sousse, departe de centru.",
+        "en": "Your comfortable drive begins at the traditional El Kobba museum before heading to the ancient Bab el Finga gate. At midday, visit the renowned Archeological Museum, where fantastic mosaics await you. The afternoon features the massive Kasbah and the ancient Roman column, both easily accessible. In the evening, drive smoothly to the Punico-Roman Necropolis to immerse yourself in Sousse's rich history away from the center."
+      }
+    }
+  }
+}

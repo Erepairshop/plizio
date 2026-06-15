@@ -1,0 +1,451 @@
+{
+  "city_id": "indonesia-lembongan-cities-v2",
+  "anchor": {
+    "name": "Lembongan",
+    "coords": [
+      115.44056,
+      -8.68706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "LSL surf",
+            "hu": "LSL surf",
+            "ro": "LSL surf",
+            "en": "LSL surf"
+          },
+          "coords": [
+            115.447272,
+            -8.673562
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die erfahrenen Surfer bei LSL Surf, einem perfekten Ort, um die Strandkultur zu erleben, also holen Sie sich einen Kaffee und genießen Sie die Aussicht.",
+            "hu": "Figyeld meg az ügyes szörfösöket az LSL Surf-nél, amely tökéletes hely a helyi strandkultúra megismerésére, ezért vegyél egy kávét a közelben, és élvezd a kilátást.",
+            "ro": "Urmărește surferii pricepuți care prind valurile la LSL Surf, un loc perfect pentru a simți cultura locală, așa că ia o cafea din apropiere și bucură-te de priveliște.",
+            "en": "Observe the skilled surfers catching morning waves at LSL Surf, a perfect spot to grasp the local beach culture, so grab a coffee nearby and enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Tamarind Divers",
+            "hu": "Tamarind Divers",
+            "ro": "Tamarind Divers",
+            "en": "Tamarind Divers"
+          },
+          "coords": [
+            115.438591,
+            -8.681739
+          ],
+          "category": "landmark",
+          "arrive_at": "10:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie Tamarind Divers, um ihre Meeresfotografie zu bewundern und sich über den Naturschutz zu informieren; bringen Sie jedoch Bargeld für Buchungen mit.",
+            "hu": "Térj be a Tamarind Divers-hez, hogy megcsodáld a tengeri fotókat és tanulj a természetvédelemről, de hozz magaddal készpénzt, ha túrát szeretnél foglalni.",
+            "ro": "Treci pe la Tamarind Divers pentru a admira fotografia marină și a afla despre conservarea locală, dar adu-ți numerar dacă plănuiești să rezervi o excursie.",
+            "en": "Stop by Tamarind Divers to admire their vibrant marine photography and learn about local conservation efforts, but ensure you bring cash if you plan to book a trip."
+          }
+        },
+        {
+          "name": {
+            "de": "walk way through to Nusa Villa",
+            "hu": "Sétány a Nusa Villa felé",
+            "ro": "Alee spre Nusa Villa",
+            "en": "walk way through to Nusa Villa"
+          },
+          "coords": [
+            115.434493,
+            -8.685059
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Weg zur Nusa Villa entlang, um die üppige Vegetation und die traditionelle Architektur zu bewundern; tragen Sie bequeme Schuhe.",
+            "hu": "Sétálj végig a Nusa Villa felé vezető festői ösvényen, hogy megcsodáld a buja növényzetet és a hagyományos építészetet, de mindenképp viselj kényelmes cipőt.",
+            "ro": "Plimbă-te pe aleea pitorească spre Nusa Villa pentru a aprecia vegetația luxuriantă și arhitectura tradițională, asigurându-te că porți încălțăminte comodă.",
+            "en": "Stroll along the scenic walk way through to Nusa Villa to appreciate the lush vegetation and traditional architecture, making sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hidden Beach",
+            "hu": "Hidden Beach",
+            "ro": "Hidden Beach",
+            "en": "Hidden Beach"
+          },
+          "coords": [
+            115.43486,
+            -8.680672
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am einsamen Hidden Beach mit seinem unberührten weißen Sand fernab der Massen, also packen Sie ausreichend Wasser und Sonnencreme ein.",
+            "hu": "Pihenj a félreeső Hidden Beach-en, amely érintetlen fehér homokot és nyugodt vizet kínál távol a tömegtől, így csomagolj extra vizet és naptejet a kényelmedért.",
+            "ro": "Relaxează-te la izolata Hidden Beach, care oferă nisip alb și ape liniștite departe de aglomerație, așa că ia cu tine apă suplimentară și cremă de protecție solară.",
+            "en": "Relax at the secluded Hidden Beach, offering pristine white sands and tranquil waters away from the crowds, so pack some extra water and sunscreen for your comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Point",
+            "hu": "Sunset Point",
+            "ro": "Sunset Point",
+            "en": "Sunset Point"
+          },
+          "coords": [
+            115.427644,
+            -8.684006
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am Sunset Point für einen atemberaubenden Meerblick bei Sonnenuntergang und kommen Sie etwas früher, um den besten Platz zu sichern.",
+            "hu": "Fejezd be a sétát a Sunset Pointnál a lélegzetelállító óceáni panorámáért, ahogy az ég színt vált, és érkezz egy kicsit korábban, hogy biztosítsd a legjobb helyet.",
+            "ro": "Încheie plimbarea la Sunset Point pentru vederi panoramice uimitoare ale oceanului când cerul își schimbă culorile și ajungi puțin mai devreme pentru cel mai bun loc.",
+            "en": "End your walk at Sunset Point for breathtaking panoramic ocean views as the sky changes colors, and arrive slightly early to secure the best spot on the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im sanften Rhythmus der Insel und genießen Sie die frische Küstenbrise.\nMittags locken die lebhaften Strände, wo das azurblaue Wasser zum Entspannen unter der Sonne einlädt.\nDer Nachmittag enthüllt die raue Seite der Inselgruppe mit dramatischen Klippen und Küstenblicken.\nDer Abend bringt atemberaubende Sonnenuntergänge, ein perfekter Abschluss Ihres Inseltages.",
+        "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
+        "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
+        "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pantai Mahagiri",
+            "hu": "Pantai Mahagiri",
+            "ro": "Pantai Mahagiri",
+            "en": "Pantai Mahagiri"
+          },
+          "coords": [
+            115.451329,
+            -8.663342
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am Pantai Mahagiri, um die atemberaubende Aussicht auf den Mount Agung hinter dem ruhigen türkisfarbenen Wasser zu genießen; mieten Sie früh eine Liege.",
+            "hu": "Kezdj a Pantai Mahagirinél, hogy élvezd a nyugodt türkizkék víz mögött magasodó Agung-hegy lenyűgöző látványát, és érdemes már kora reggel bérelni egy napágyat.",
+            "ro": "Începe la Pantai Mahagiri pentru a admira priveliștea Muntelui Agung în spatele apelor turcoaz și liniștite, fiind ideal să închiriezi un șezlong la începutul zilei.",
+            "en": "Start at Pantai Mahagiri to enjoy the stunning view of Mount Agung rising behind the calm turquoise waters, making it ideal to rent a sunbed early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Jungutbatu Beach",
+            "hu": "Jungutbatu Beach",
+            "ro": "Jungutbatu Beach",
+            "en": "Jungutbatu Beach"
+          },
+          "coords": [
+            115.447502,
+            -8.671089
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Jungutbatu Beach, um die traditionellen Auslegerboote in den sanften Wellen schaukeln zu sehen, und nutzen Sie den gepflasterten Uferweg.",
+            "hu": "Tekerj le a Jungutbatu Beach-re, hogy megnézd a finom hullámokon ringatózó hagyományos csónakokat, és használd a kövezett tengerparti sétányt a könnyű haladáshoz.",
+            "ro": "Mergi spre Jungutbatu Beach pentru a vedea bărcile tradiționale legănându-se în valurile blânde și folosește calea pietruită de pe litoral pentru a pedala ușor.",
+            "en": "Ride down to Jungutbatu Beach to watch the traditional outrigger boats bobbing in the gentle waves, and use the paved seaside path for an effortless biking experience."
+          }
+        },
+        {
+          "name": {
+            "de": "LSL surf",
+            "hu": "LSL surf",
+            "ro": "LSL surf",
+            "en": "LSL surf"
+          },
+          "coords": [
+            115.447272,
+            -8.673562
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie Halt bei LSL Surf, um die dynamische Energie der örtlichen Surflehrer einzufangen, und fragen Sie nach einem kurzen Wettertipp, bevor Sie weiterfahren.",
+            "hu": "Tarts szünetet az LSL Surf-nél, hogy megörökítsd a deszkáikat készítő szörfoktatók energiáját, és kérj tőlük egy gyors időjárási tippet, mielőtt délre indulnál.",
+            "ro": "Fă o pauză la LSL surf pentru a capta energia instructorilor de surf care își pregătesc plăcile și cere-le un sfat rapid despre vreme înainte de a continua spre sud.",
+            "en": "Pause at LSL surf to capture the dynamic energy of local surf instructors prepping their boards, and ask them for a quick local weather tip before continuing south."
+          }
+        },
+        {
+          "name": {
+            "de": "Ceningan Paradise Adventures",
+            "hu": "Ceningan Paradise Adventures",
+            "ro": "Ceningan Paradise Adventures",
+            "en": "Ceningan Paradise Adventures"
+          },
+          "coords": [
+            115.444624,
+            -8.700058
+          ],
+          "category": "landmark",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die gelbe Brücke zu Ceningan Paradise Adventures für adrenalingeladene Klippensprünge, aber prüfen Sie vorher immer die aktuellen Gezeiten beim Personal.",
+            "hu": "Kelj át a sárga hídon a Ceningan Paradise Adventures-hez egy adrenalinpumpáló sziklaugrásra, de először mindig ellenőrizd az árapály-táblázatokat a személyzettel.",
+            "ro": "Traversează podul galben spre Ceningan Paradise Adventures pentru sărituri de pe stânci, dar verifică întotdeauna mai întâi graficele mareelor cu personalul de acolo.",
+            "en": "Cross the iconic yellow bridge to Ceningan Paradise Adventures for adrenaline-pumping cliff jumps, but always check the current tide charts with the staff first."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahana Point",
+            "hu": "Mahana Point",
+            "ro": "Mahana Point",
+            "en": "Mahana Point"
+          },
+          "coords": [
+            115.437485,
+            -8.706796
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich am Mahana Point aus und blicken Sie auf die dramatische Küste mit mutigen Surfern; holen Sie sich ein kaltes Getränk aus dem kleinen Klippencafé.",
+            "hu": "Pihenj meg a Mahana Pointnál, ahonnan rálátni a drámai partvonalra és a bátor szörfösökre, majd vegyél egy hideg italt a kis sziklaoldali kávézóban a felfrissüléshez.",
+            "ro": "Odihnește-te la Mahana Point pentru a privi coasta dramatică unde surferii înfruntă valurile mari și ia o băutură rece de la cafeneaua de pe stâncă pentru a te răcori.",
+            "en": "Rest at Mahana Point to overlook the dramatic coastline where daring surfers tackle large swells, and grab a cold drink from the small cliffside cafe to cool down."
+          }
+        },
+        {
+          "name": {
+            "de": "Zip line",
+            "hu": "Zip line",
+            "ro": "Tiroliană",
+            "en": "Zip line"
+          },
+          "coords": [
+            115.440299,
+            -8.708806
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an der Zipline, um über das leuchtend blaue Wasser zu schweben; befestigen Sie Ihr Handy sicher, wenn Sie die Fahrt aufzeichnen möchten.",
+            "hu": "Fejezd be a kerékpártúrát a drótkötélpályánál, hogy átszárnyalj a csatorna élénk kék vize felett, és rögzítsd biztonságosan a telefonod, ha rögzíteni szeretnéd.",
+            "ro": "Încheie turul cu bicicleta la tiroliană pentru a zbura deasupra apelor albastre vibrante ale canalului, asigurându-te că fixezi bine telefonul dacă vrei să filmezi.",
+            "en": "Conclude your bike tour at the Zip line to soar over the vibrant blue waters of the channel, ensuring you securely strap your phone if you wish to record the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im sanften Rhythmus der Insel und genießen Sie die frische Küstenbrise.\nMittags locken die lebhaften Strände, wo das azurblaue Wasser zum Entspannen unter der Sonne einlädt.\nDer Nachmittag enthüllt die raue Seite der Inselgruppe mit dramatischen Klippen und Küstenblicken.\nDer Abend bringt atemberaubende Sonnenuntergänge, ein perfekter Abschluss Ihres Inseltages.",
+        "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
+        "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
+        "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Legend Diving",
+            "hu": "Legend Diving",
+            "ro": "Legend Diving",
+            "en": "Legend Diving"
+          },
+          "coords": [
+            115.450431,
+            -8.667261
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie bei Legend Diving, um sich über die faszinierenden Manta-Lebensräume zu informieren, und buchen Sie einen Ausflug im Voraus für einen garantierten Platz.",
+            "hu": "Kezdj a Legend Divingnél, hogy megismerd a szigetet körülvevő lenyűgöző manta rája élőhelyeket, és foglalj előre túrát, ha garantált helyet szeretnél magadnak.",
+            "ro": "Începe la Legend Diving pentru a afla despre habitatele fascinante ale pisicilor de mare și rezervă o excursie în avans dacă dorești un loc garantat.",
+            "en": "Begin at Legend Diving to learn about the fascinating manta ray habitats surrounding the island, and book an excursion in advance if you want a guaranteed spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Jungutbatu Beach",
+            "hu": "Jungutbatu Beach",
+            "ro": "Jungutbatu Beach",
+            "en": "Jungutbatu Beach"
+          },
+          "coords": [
+            115.447502,
+            -8.671089
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Jungutbatu Beach, um die lebhafte Küstenatmosphäre zu genießen und den Algenbauern bei der Arbeit zuzusehen; parken Sie nahe dem Hauptplatz.",
+            "hu": "Vezess a Jungutbatu Beach-re, hogy magadba szívhasd a nyüzsgő tengerparti hangulatot és megnézd a hínártermelőket, a járművedet pedig a főtér közelében parkold le.",
+            "ro": "Condu spre Jungutbatu Beach pentru a absorbi atmosfera de coastă și a urmări cultivatorii de alge marine, parcându-ți vehiculul în apropierea pieței principale.",
+            "en": "Drive to Jungutbatu Beach to soak up the lively coastal atmosphere and watch the seaweed farmers at work, parking your vehicle near the main village square."
+          }
+        },
+        {
+          "name": {
+            "de": "Underwater Buddha Statue Garden",
+            "hu": "Vízalatti Buddha Szoborkert",
+            "ro": "Grădina Subacvatică a Statuilor Buddha",
+            "en": "Underwater Buddha Statue Garden"
+          },
+          "coords": [
+            115.466218,
+            -8.68443
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Unterwasser-Buddha-Garten mit einem Schnorchelboot, um die versunkenen Schnitzereien zu sehen; bringen Sie Ihre eigene Maske für perfekten Sitz mit.",
+            "hu": "Fedezd fel a Vízalatti Buddha Szoborkertet egy sznorkelhajóval a titokzatos faragványokért, és hozd magaddal a saját maszkodat, ha a tökéletes illeszkedést preferálod.",
+            "ro": "Explorează Grădina Subacvatică a Statuilor lui Buddha cu o barcă de snorkeling, aducându-ți propria mască dacă preferi o potrivire perfectă pentru fața ta.",
+            "en": "Explore the Underwater Buddha Statue Garden via a snorkeling boat to see the mysterious sunken carvings, bringing your own mask if you prefer a perfect fit."
+          }
+        },
+        {
+          "name": {
+            "de": "Loving Penida Viewpoint",
+            "hu": "Loving Penida kilátó",
+            "ro": "Loving Penida Viewpoint",
+            "en": "Loving Penida Viewpoint"
+          },
+          "coords": [
+            115.460242,
+            -8.697886
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Loving Penida Viewpoint für einen spektakulären Aussichtspunkt auf die Meerenge, der perfekte Ort für ein weites, atemberaubendes Panoramafoto.",
+            "hu": "Látogass el a Loving Penida kilátóhoz, ahonnan látványos kilátás nyílik a keskeny szorosra, így ez a tökéletes helyszín egy széles panorámafotó elkészítéséhez.",
+            "ro": "Vizitează Loving Penida Viewpoint pentru o perspectivă spectaculoasă asupra strâmtorii înguste, fiind locul perfect pentru a surprinde o fotografie panoramică amplă.",
+            "en": "Visit the Loving Penida Viewpoint for a spectacular vantage point overlooking the narrow strait, making it the perfect spot to capture a sweeping panoramic photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Ceningan cliff",
+            "hu": "Ceningan szikla",
+            "ro": "Stânca Ceningan",
+            "en": "Ceningan cliff"
+          },
+          "coords": [
+            115.460416,
+            -8.696683
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am Ceningan Cliff, um den steilen Abfall in die brechenden Wellen zu bestaunen, aber bleiben Sie hinter den natürlichen Kanten, da es rutschig ist.",
+            "hu": "Állj meg röviden a Ceningan sziklánál, hogy megcsodáld a meredek letörést a hullámokba, de maradj jóval a természetes perem mögött, mert a sziklák csúszósak lehetnek.",
+            "ro": "Oprește scurt la stânca Ceningan pentru a te minuna de căderea abruptă în valurile care se sparg, dar stai mult în spatele marginilor, deoarece rocile sunt alunecoase.",
+            "en": "Stop briefly at Ceningan cliff to marvel at the sheer drop into the crashing waves below, but stay well behind the natural edges as the rocks can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahana Point",
+            "hu": "Mahana Point",
+            "ro": "Mahana Point",
+            "en": "Mahana Point"
+          },
+          "coords": [
+            115.437485,
+            -8.706796
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Mahana Point, um den spektakulären Sonnenuntergang zu beobachten, und bestellen Sie lokale Meeresfrüchte-Snacks, bevor die Küche schließt.",
+            "hu": "Fejezd be az autós túrát a Mahana Pointnál, hogy végignézd a látványos naplementét az óceán felett, és rendelj helyi tengeri falatokat, mielőtt a konyha bezár.",
+            "ro": "Încheie turul auto la Mahana Point pentru a privi apusul spectaculos peste orizonturile oceanului, comandând o farfurie cu fructe de mare înainte să se închidă bucătăria.",
+            "en": "Finish your driving tour at Mahana Point to watch the spectacular sunset over the ocean horizons, ordering a plate of local seafood snacks before the kitchen closes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im sanften Rhythmus der Insel und genießen Sie die frische Küstenbrise.\nMittags locken die lebhaften Strände, wo das azurblaue Wasser zum Entspannen unter der Sonne einlädt.\nDer Nachmittag enthüllt die raue Seite der Inselgruppe mit dramatischen Klippen und Küstenblicken.\nDer Abend bringt atemberaubende Sonnenuntergänge, ein perfekter Abschluss Ihres Inseltages.",
+        "hu": "Kezdd a reggelt a sziget lágy ritmusában elmerülve, és élvezd a friss, sós tengerparti szellőt.\nDélben irány a nyüzsgő tengerpart, ahol az azúrkék víz napsütéses pihenésre csábít mindenkit.\nA délután a szigetcsoport zordabb oldalát tárja fel, drámai sziklákkal és lenyűgöző kilátásokkal.\nAz estét a lélegzetelállító naplementék koronázzák meg, tökéletes lezárást nyújtva a szigeti napnak.",
+        "ro": "Începe dimineața captivat de ritmul blând al insulei, bucurându-te de briza proaspătă a coastei.\nLa prânz, îndreaptă-te spre plajele vibrante, unde apele azurii te invită să te relaxezi la soare.\nDupă-amiaza dezvăluie latura sălbatică a arhipelagului, cu stânci dramatice și priveliști uimitoare.\nSeara se instalează cu apusuri spectaculoase, oferind un final perfect și liniștit zilei tale.",
+        "en": "Start your morning immersed in the gentle rhythm of the island, enjoying the fresh coastal breeze.\nBy midday, head to the vibrant beachfronts where azure waters invite you to relax under the sun.\nThe afternoon unveils the rugged side of the archipelago, featuring dramatic cliffs and coastal views.\nEvening sets in with breathtaking sunsets, offering a perfect, tranquil end to your island day."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "dole",
+  "anchor": {
+    "name": "Dole",
+    "coords": [
+      5.4897,
+      47.0922
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.489147,
+            47.089639
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
+            "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
+            "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu de Dole",
+            "hu": "Hôtel-Dieu de Dole",
+            "ro": "Hôtel-Dieu de Dole",
+            "en": "Hôtel-Dieu de Dole"
+          },
+          "coords": [
+            5.4926,
+            47.0903
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Krankenhauses und machen Sie unbedingt ein Foto vom beeindruckenden Innenhof am Vormittag.",
+            "hu": "Csodálja meg e történelmi kórház reneszánsz építészetét, és mindenképpen készítsen egy fotót a lenyűgöző belső udvarról a délelőtti fényekben.",
+            "ro": "Admirați arhitectura renascentistă a acestui spital istoric și asigurați-vă că faceți o fotografie a curții interioare impresionante în lumina dimineții.",
+            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Collégiale Notre-Dame"
+          },
+          "coords": [
+            5.49471,
+            47.0925
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
+            "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
+            "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Saint-Mauris Park",
+            "hu": "Cours Saint-Mauris Park",
+            "ro": "Parcul Cours Saint-Mauris",
+            "en": "Cours Saint-Mauris Park"
+          },
+          "coords": [
+            5.498003,
+            47.094271
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
+            "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
+            "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückhaltebecken",
+            "hu": "Bassin de rétention",
+            "ro": "Bassin de rétention",
+            "en": "Bassin de rétention"
+          },
+          "coords": [
+            5.534082,
+            47.099806
+          ],
+          "category": "natural",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem Wasserspeicher, wo festes Schuhwerk für einen Spaziergang entlang der unbefestigten Uferwege sehr zu empfehlen ist.",
+            "hu": "Élvezze a nyugodt légkört ezen a víztározón, ahol a part menti sétához erősen ajánlott egy kényelmes, zárt cipő viselése a kavicsos ösvényeken.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest bazin de retenție, unde încălțămintea confortabilă este recomandată pentru o plimbare pe malul neasfaltat.",
+            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Dole mit einem inspirierenden Besuch im Kunstmuseum. Gegen Mittag bewundern Sie das historische Hôtel-Dieu. Am Nachmittag schlendern Sie zur majestätischen Stiftskirche und entspannen im Cours Saint-Mauris Park. Der Abend klingt gemütlich bei einem langen Spaziergang am Bassin de rétention aus.",
+        "hu": "Kezdje a napot Dole városában a Szépművészeti Múzeum felfedezésével. Dél körül csodálja meg a történelmi Hôtel-Dieu épületét. Délután sétáljon el a fenséges Notre-Dame templomhoz, majd pihenjen a Cours Saint-Mauris parkban. Az estét a Bassin de rétention nyugodt vizénél zárhatja egy frissítő séta keretében.",
+        "ro": "Începeți-vă ziua în Dole explorând Muzeul de Arte Frumoase. La prânz, admirați impresionantul Hôtel-Dieu. După-amiaza, vizitați maiestuoasa biserică Notre-Dame și relaxați-vă în Parcul Cours Saint-Mauris. Seara se încheie liniștit cu o plimbare revigorantă de-a lungul apei la Bassin de rétention.",
+        "en": "Start your day in Dole with an inspiring visit to the Museum of Fine Arts. Around midday, admire the historical architecture of Hôtel-Dieu. In the afternoon, stroll to the majestic collegiate church and relax in Cours Saint-Mauris Park. Your evening concludes peacefully with a long walk by the Bassin de rétention."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:52",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Geburtshaus von Louis Pasteur",
+            "hu": "Louis Pasteur Szülőháza",
+            "ro": "Casa natală a lui Louis Pasteur",
+            "en": "Louis Pasteur's Birthplace"
+          },
+          "coords": [
+            5.417912,
+            47.053082
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten Wissenschaftlers ein und prüfen Sie die Öffnungszeiten vorab, da diese je nach Saison stark variieren können.",
+            "hu": "Merüljön el a híres tudós életében, de mindenképpen ellenőrizze előre a nyitvatartást, mivel az évszaktól függően jelentősen változhat a nap folyamán.",
+            "ro": "Explorați viața celebrului om de știință și verificați programul în avans, deoarece acesta poate varia semnificativ în funcție de sezonul turistic.",
+            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserpark Isis",
+            "hu": "Aquaparc Isis",
+            "ro": "Aquaparc Isis",
+            "en": "Aquaparc Isis"
+          },
+          "coords": [
+            5.486208,
+            47.071824
+          ],
+          "category": "family",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Spaß für die ganze Familie im Wasserpark, bei dem Sie eigene Handtücher und ausreichend Sonnencreme für den Außenbereich nicht vergessen sollten.",
+            "hu": "Élvezze a családi szórakozást ebben az élményfürdőben, és semmiképpen se felejtsen el saját törölközőt, illetve elegendő naptejet hozni a kinti részekhez.",
+            "ro": "Experimentați distracția în familie la parcul acvatic, unde nu ar trebui să uitați să vă aduceți propriile prosoape și multă cremă de protecție solară.",
+            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.489147,
+            47.089639
+          ],
+          "category": "museum",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
+            "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
+            "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu de Dole",
+            "hu": "Hôtel-Dieu de Dole",
+            "ro": "Hôtel-Dieu de Dole",
+            "en": "Hôtel-Dieu de Dole"
+          },
+          "coords": [
+            5.4926,
+            47.0903
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Krankenhauses und machen Sie unbedingt ein Foto vom beeindruckenden Innenhof am Vormittag.",
+            "hu": "Csodálja meg e történelmi kórház reneszánsz építészetét, és mindenképpen készítsen egy fotót a lenyűgöző belső udvarról a délelőtti fényekben.",
+            "ro": "Admirați arhitectura renascentistă a acestui spital istoric și asigurați-vă că faceți o fotografie a curții interioare impresionante în lumina dimineții.",
+            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Collégiale Notre-Dame"
+          },
+          "coords": [
+            5.49471,
+            47.0925
+          ],
+          "category": "religious",
+          "arrive_at": "15:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
+            "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
+            "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Saint-Mauris Park",
+            "hu": "Cours Saint-Mauris Park",
+            "ro": "Parcul Cours Saint-Mauris",
+            "en": "Cours Saint-Mauris Park"
+          },
+          "coords": [
+            5.498003,
+            47.094271
+          ],
+          "category": "park",
+          "arrive_at": "17:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
+            "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
+            "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Geburtshaus von Louis Pasteur und radeln Sie dann zum erfrischenden Aquaparc Isis. Mittags erkunden Sie die Kunstschätze im Museum. Der Nachmittag gehört der Altstadt mit dem Hôtel-Dieu und der imposanten Notre-Dame. Abends entspannen Sie Ihre Beine im wunderschönen Cours Saint-Mauris Park.",
+        "hu": "Induljon Louis Pasteur szülőházától, majd kerékpározzon el a frissítő Aquaparc Isishez. Délben fedezze fel a Múzeum kincseit. A délutánt az óváros történelmi Hôtel-Dieu és a Notre-Dame felfedezésének szentelheti. Este pedig lazítsa el fáradt lábait a gyönyörű Cours Saint-Mauris park zöldellő fái alatt.",
+        "ro": "Porniți de la casa natală a lui Louis Pasteur și pedalați către revigorantul Aquaparc Isis. La prânz, explorați comorile Muzeului de Artă. După-amiaza aparține orașului vechi, cu Hôtel-Dieu și impresionanta Notre-Dame. Seara, relaxați-vă picioarele în frumosul Parc Cours Saint-Mauris sub copacii umbroși.",
+        "en": "Start at the birthplace of Louis Pasteur and bike towards the refreshing Aquaparc Isis. At midday, explore the treasures of the Museum of Fine Arts. The afternoon belongs to the old town with Hôtel-Dieu and the imposing Notre-Dame. In the evening, rest your legs in the beautiful Cours Saint-Mauris Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Geburtshaus von Louis Pasteur",
+            "hu": "Louis Pasteur Szülőháza",
+            "ro": "Casa natală a lui Louis Pasteur",
+            "en": "Louis Pasteur's Birthplace"
+          },
+          "coords": [
+            5.417912,
+            47.053082
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten Wissenschaftlers ein und prüfen Sie die Öffnungszeiten vorab, da diese je nach Saison stark variieren können.",
+            "hu": "Merüljön el a híres tudós életében, de mindenképpen ellenőrizze előre a nyitvatartást, mivel az évszaktól függően jelentősen változhat a nap folyamán.",
+            "ro": "Explorați viața celebrului om de știință și verificați programul în avans, deoarece acesta poate varia semnificativ în funcție de sezonul turistic.",
+            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserpark Isis",
+            "hu": "Aquaparc Isis",
+            "ro": "Aquaparc Isis",
+            "en": "Aquaparc Isis"
+          },
+          "coords": [
+            5.486208,
+            47.071824
+          ],
+          "category": "family",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Spaß für die ganze Familie im Wasserpark, bei dem Sie eigene Handtücher und ausreichend Sonnencreme für den Außenbereich nicht vergessen sollten.",
+            "hu": "Élvezze a családi szórakozást ebben az élményfürdőben, és semmiképpen se felejtsen el saját törölközőt, illetve elegendő naptejet hozni a kinti részekhez.",
+            "ro": "Experimentați distracția în familie la parcul acvatic, unde nu ar trebui să uitați să vă aduceți propriile prosoape și multă cremă de protecție solară.",
+            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Schönen Künste",
+            "hu": "Szépművészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase",
+            "en": "Museum of Fine Arts"
+          },
+          "coords": [
+            5.489147,
+            47.089639
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
+            "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
+            "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Collégiale Notre-Dame"
+          },
+          "coords": [
+            5.49471,
+            47.0925
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
+            "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
+            "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Saint-Mauris Park",
+            "hu": "Cours Saint-Mauris Park",
+            "ro": "Parcul Cours Saint-Mauris",
+            "en": "Cours Saint-Mauris Park"
+          },
+          "coords": [
+            5.498003,
+            47.094271
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
+            "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
+            "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückhaltebecken",
+            "hu": "Bassin de rétention",
+            "ro": "Bassin de rétention",
+            "en": "Bassin de rétention"
+          },
+          "coords": [
+            5.534082,
+            47.099806
+          ],
+          "category": "natural",
+          "arrive_at": "16:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem Wasserspeicher, wo festes Schuhwerk für einen Spaziergang entlang der unbefestigten Uferwege sehr zu empfehlen ist.",
+            "hu": "Élvezze a nyugodt légkört ezen a víztározón, ahol a part menti sétához erősen ajánlott egy kényelmes, zárt cipő viselése a kavicsos ösvényeken.",
+            "ro": "Bucurați-vă de atmosfera liniștită la acest bazin de retenție, unde încălțămintea confortabilă este recomandată pentru o plimbare pe malul neasfaltat.",
+            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Vèze-Teich",
+            "hu": "Étang de la Vèze",
+            "ro": "Lacul Vèze",
+            "en": "Étang de la Vèze"
+          },
+          "coords": [
+            5.560823,
+            47.134334
+          ],
+          "category": "natural",
+          "arrive_at": "18:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unberührte Natur rund um diesen idyllischen See, der ein perfektes Fotomotiv für den späten Nachmittag kurz vor dem Sonnenuntergang bietet.",
+            "hu": "Fedezze fel a természetet ezen idillikus tó körül, amely tökéletes fotótémát kínál a késő délutáni órákban, közvetlenül a lenyűgöző naplemente előtt.",
+            "ro": "Descoperiți natura din jurul acestui lac idilic, care oferă un subiect foto perfect pentru sfârșitul după-amiezii, chiar înainte de frumosul apus de soare.",
+            "en": "Discover the natural beauty around this idyllic lake, providing a perfect photography subject in the late afternoon just before the breathtaking sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach einem Morgen im Pasteur-Museum fahren Sie direkt zum familienfreundlichen Aquaparc. Die Mittagszeit verbringen Sie mit Kultur im Kunstmuseum. Am Nachmittag besichtigen Sie die Notre-Dame und den Cours Saint-Mauris. Der Tag endet mit malerischen Fahrten zum Bassin de rétention und dem Étang de la Vèze.",
+        "hu": "A Pasteur-múzeumban töltött reggel után vezessen a családbarát Aquaparcba. A delet kulturális élményekkel töltheti a Szépművészeti Múzeumban. Délután tekintse meg a Notre-Dame-ot és a Cours Saint-Mauris parkot. A napot a Bassin de rétention és az Étang de la Vèze festői szépségű tavainál zárja.",
+        "ro": "După o dimineață la Muzeul Pasteur, conduceți direct la Aquaparc-ul familial. Petreceți prânzul cu cultură la Muzeul de Artă. După-amiaza, vizitați Notre-Dame și pitorescul Parc Cours Saint-Mauris. Ziua se încheie cu plimbări pitorești către Bassin de rétention și liniștitul Étang de la Vèze.",
+        "en": "After a morning at the Pasteur Museum, drive to the family-friendly Aquaparc. Spend your midday soaking up culture at the Fine Arts Museum. In the afternoon, visit Notre-Dame and the Cours Saint-Mauris Park. The day wraps up with scenic drives to the Bassin de rétention and Étang de la Vèze."
+      }
+    }
+  }
+}

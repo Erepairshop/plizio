@@ -1,0 +1,428 @@
+{
+  "city_id": "bogny-sur-meuse",
+  "anchor": {
+    "name": "Bogny-sur-Meuse",
+    "coords": [
+      4.7658,
+      49.8553
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Vivent Kirche",
+            "hu": "Saint-Vivent templom",
+            "ro": "Biserica Saint-Vivent",
+            "en": "Saint-Vivent Church"
+          },
+          "coords": [
+            4.766515,
+            49.851446
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser charmanten Kirche und kommen Sie am besten morgens, um das ruhige Licht im Kirchenschiff zu genießen.",
+            "hu": "Csodálja meg ennek a bájos templomnak a lenyűgöző építészetét, és érdemes reggel érkezni, hogy élvezhesse a főhajóba beáradó csendes fényt.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici fermecătoare și vizitați-o dimineața pentru a vă bucura de lumina liniștită care inundă naosul.",
+            "en": "Admire the impressive architecture of this charming church, and plan your visit for the morning to fully enjoy the peaceful light flooding the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l’Assomption",
+            "hu": "Église Notre-Dame de l’Assomption",
+            "ro": "Église Notre-Dame de l’Assomption",
+            "en": "Église Notre-Dame de l’Assomption"
+          },
+          "coords": [
+            4.760123,
+            49.859518
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kunstvollen Details dieser historischen Kirche, in der Sie auf den vorderen Bänken den besten Blick auf den reich verzierten Altar haben.",
+            "hu": "Fedezze fel ennek a történelmi templomnak a művészi részleteit, ahol az első padokból nyílik a legjobb kilátás a gazdagon díszített oltárra.",
+            "ro": "Descoperiți detaliile artistice ale acestei biserici istorice, unde primele bănci vă oferă cea mai bună vedere asupra altarului bogat ornamentat.",
+            "en": "Discover the artistic details of this historic church, where sitting in the front pews gives you the best view of the richly ornamented main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Metallurgiemuseum der Ardennen",
+            "hu": "Ardennek Kohászati Múzeuma",
+            "ro": "Muzeul de Metalurgie din Ardeni",
+            "en": "Museum of Ardennes Metallurgy"
+          },
+          "coords": [
+            4.75395,
+            49.8611
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte der Ardennen ein und achten Sie besonders auf die interaktiven Schmiede-Ausstellungen im Erdgeschoss.",
+            "hu": "Merüljön el az Ardennek lenyűgöző ipartörténetében, és mindenképpen szenteljen különös figyelmet a földszinten található interaktív kovácskiállításoknak.",
+            "ro": "Cufundați-vă în istoria industrială fascinantă a regiunii Ardeni și acordați o atenție deosebită expozițiilor interactive de fierărie de la parter.",
+            "en": "Immerse yourself in the fascinating industrial history of the Ardennes, making sure to pay special attention to the interactive forging exhibits downstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument des quatre fils Aymon",
+            "hu": "A négy Aymon-fiú emlékműve",
+            "ro": "Monumentul celor patru fii Aymon",
+            "en": "Monument des quatre fils Aymon"
+          },
+          "coords": [
+            4.74056,
+            49.859641
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick von diesem legendären Denkmal aus und tragen Sie festes Schuhwerk für den kurzen, aber steilen Aufstieg zum Gipfel.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a legendás emlékműből, és viseljen stabil cipőt a rövid, de meredek hegyi ösvényen való feljutáshoz.",
+            "ro": "Bucurați-vă de vederea uluitoare de la acest monument legendar și purtați încălțăminte solidă pentru urcarea scurtă, dar abruptă, până la vârf.",
+            "en": "Enjoy the breathtaking views from this legendary monument, and be sure to wear sturdy shoes for the short but somewhat steep climb up to the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            4.736432,
+            49.858402
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte Eleganz dieses friedlichen Gotteshauses und nutzen Sie die ruhigen Ecken des angrenzenden Kirchhofs für eine kurze Pause.",
+            "hu": "Tekintse meg ennek a békés istentiszteleti helynek az egyszerű eleganciáját, és használja ki a szomszédos templomudvar csendes sarkait egy rövid pihenőre.",
+            "ro": "Contemplați eleganța simplă a acestui lăcaș de cult pașnic și profitați de colțurile liniștite ale curții adiacente bisericii pentru o scurtă pauză.",
+            "en": "View the simple elegance of this peaceful place of worship, and take advantage of the quiet corners in the adjacent churchyard for a short, relaxing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Besuch der ruhigen Saint-Vivent Kirche. Danach schlendern Sie durch die historischen Straßen zur Église Notre-Dame de l’Assomption, die Sie mit ihrer Architektur verzaubern wird. Mittags erwartet Sie das faszinierende Metallurgiemuseum der Ardennen. Später erklimmen Sie das berühmte Aymon-Denkmal und beenden den Spaziergang an der Kirche Saint-Pierre.",
+        "hu": "Kezdje a napot a békés Saint-Vivent templom meglátogatásával. Ezután sétáljon végig a történelmi utcákon az Église Notre-Dame de l’Assomption felé, amelynek építészete lenyűgözi majd. Délben az Ardennek kohászati múzeuma várja. Később mássza meg a híres Aymon-emlékművet, végül fejezze be sétáját az elegáns Saint-Pierre templomnál egy nyugodt és inspiráló esti pihenővel.",
+        "ro": "Începeți ziua vizitând pașnica biserică Saint-Vivent. Apoi plimbați-vă pe străzile istorice până la Église Notre-Dame de l’Assomption, a cărei arhitectură vă va fermeca. La prânz, vă așteaptă fascinantul muzeu de metalurgie din Ardeni. Mai târziu, urcați la faimosul monument Aymon și încheiați plimbarea relaxantă la frumoasa biserică Saint-Pierre.",
+        "en": "Start your day by visiting the peaceful Saint-Vivent Church. Then stroll through the historic streets to Église Notre-Dame de l’Assomption, whose architecture will enchant you. At midday, the fascinating Ardennes metallurgy museum awaits. Later, climb to the famous Aymon Monument, and finally end your walk at the elegant Saint-Pierre Church for a truly inspiring evening break."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            4.784453,
+            49.860936
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser traditionellen Kirche und achten Sie besonders auf die wunderschönen Buntglasfenster in den Seitenschiffen.",
+            "hu": "Tapasztalja meg ennek a hagyományos templomnak a spirituális atmoszféráját, és figyelje meg alaposan a mellékhajók gyönyörű, színes üvegablakait.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici tradiționale și acordați o atenție deosebită vitraliilor superbe care împodobesc culoarele laterale.",
+            "en": "Experience the spiritual atmosphere of this traditional church, and pay close attention to the beautifully crafted stained glass windows in the aisles."
+          }
+        },
+        {
+          "name": {
+            "de": "Metallurgiemuseum der Ardennen",
+            "hu": "Ardennek Kohászati Múzeuma",
+            "ro": "Muzeul de Metalurgie din Ardeni",
+            "en": "Museum of Ardennes Metallurgy"
+          },
+          "coords": [
+            4.75395,
+            49.8611
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte der Ardennen ein und achten Sie besonders auf die interaktiven Schmiede-Ausstellungen im Erdgeschoss.",
+            "hu": "Merüljön el az Ardennek lenyűgöző ipartörténetében, és mindenképpen szenteljen különös figyelmet a földszinten található interaktív kovácskiállításoknak.",
+            "ro": "Cufundați-vă în istoria industrială fascinantă a regiunii Ardeni și acordați o atenție deosebită expozițiilor interactive de fierărie de la parter.",
+            "en": "Immerse yourself in the fascinating industrial history of the Ardennes, making sure to pay special attention to the interactive forging exhibits downstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument des quatre fils Aymon",
+            "hu": "A négy Aymon-fiú emlékműve",
+            "ro": "Monumentul celor patru fii Aymon",
+            "en": "Monument des quatre fils Aymon"
+          },
+          "coords": [
+            4.74056,
+            49.859641
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick von diesem legendären Denkmal aus und tragen Sie festes Schuhwerk für den kurzen, aber steilen Aufstieg zum Gipfel.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a legendás emlékműből, és viseljen stabil cipőt a rövid, de meredek hegyi ösvényen való feljutáshoz.",
+            "ro": "Bucurați-vă de vederea uluitoare de la acest monument legendar și purtați încălțăminte solidă pentru urcarea scurtă, dar abruptă, până la vârf.",
+            "en": "Enjoy the breathtaking views from this legendary monument, and be sure to wear sturdy shoes for the short but somewhat steep climb up to the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte Trans-Ardennes",
+            "hu": "Voie Verte Trans-Ardennes",
+            "ro": "Voie Verte Trans-Ardennes",
+            "en": "Voie Verte Trans-Ardennes"
+          },
+          "coords": [
+            4.768787,
+            49.837925
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie entlang dieses malerischen Flussweges und bringen Sie eine Wasserflasche mit, da die Verpflegungsmöglichkeiten hier begrenzt sind.",
+            "hu": "Kerékpározzon vagy sétáljon ezen a festői folyóparti úton, de mindenképpen hozzon magával kulacsot, mivel errefelé korlátozottak az étkezési lehetőségek.",
+            "ro": "Plimbați-vă sau mergeți cu bicicleta de-a lungul acestui traseu fluvial pitoresc și aduceți o sticlă cu apă, deoarece opțiunile de luat masa sunt limitate.",
+            "en": "Cycle or stroll along this highly picturesque river path, and remember to bring a reusable water bottle since refreshment options are fairly limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen der Uhus",
+            "hu": "Uhu-szikla",
+            "ro": "Stânca Bufnițelor",
+            "en": "Rock of the Eagle Owls"
+          },
+          "coords": [
+            4.769946,
+            49.837834
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante Naturdenkmal im Wald und nehmen Sie ein Fernglas mit, um die einheimische Vogelwelt in den steilen Felswänden zu beobachten.",
+            "hu": "Fedezze fel ezt a jellegzetes erdei természeti emlékművet, és vigyen magával távcsövet a meredek sziklafalakban megbúvó helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați acest monument natural izbitor din pădure și luați cu dumneavoastră un binoclu pentru a observa păsările locale ascunse în pereții stâncoși abrupți.",
+            "en": "Explore this striking natural monument hidden in the forest, and bring a pair of binoculars to properly observe the local birdlife in the steep cliff faces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Église Saint-Nicolas im Osten. Fahren Sie dann zügig zum Metallurgiemuseum, um in die lokale Geschichte einzutauchen. Am Nachmittag führt der Weg zum Aymon-Denkmal für einen Panoramablick, bevor Sie auf die malerische Voie Verte abbiegen. Den perfekten Abschluss bildet der eindrucksvolle Felsen der Uhus in der herrlichen Abenddämmerung am Flussufer.",
+        "hu": "Indítsa kerékpártúráját a keleti Église Saint-Nicolas templomnál. Ezután tekerjen el a kohászati múzeumba, hogy elmerüljön a helyi történelemben. Délután az út az Aymon-emlékműhöz vezet a panorámáért, mielőtt rátérne a festői Voie Verte ösvényre. A tökéletes befejezést a lenyűgöző Uhu-szikla nyújtja a csodálatos folyóparti alkonyatban.",
+        "ro": "Începeți turul cu bicicleta la Église Saint-Nicolas în est. Apoi pedalați spre muzeul de metalurgie pentru a vă cufunda în istoria locală. După-amiaza, traseul duce la monumentul Aymon pentru o priveliște panoramică, înainte de a coti pe pitoreasca Voie Verte. Finalul perfect este oferit de impresionanta Stâncă a Bufnițelor în timpul amurgului splendid pe malul râului.",
+        "en": "Start your cycling tour at Église Saint-Nicolas in the east. Then pedal briskly to the metallurgy museum to immerse yourself in local history. In the afternoon, the route leads to the Aymon Monument for a panoramic view before turning onto the picturesque Voie Verte. The perfect finale is the impressive Rock of the Eagle Owls during a gorgeous riverbank twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            4.736432,
+            49.858402
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte Eleganz dieses friedlichen Gotteshauses und nutzen Sie die ruhigen Ecken des angrenzenden Kirchhofs für eine kurze Pause.",
+            "hu": "Tekintse meg ennek a békés istentiszteleti helynek az egyszerű eleganciáját, és használja ki a szomszédos templomudvar csendes sarkait egy rövid pihenőre.",
+            "ro": "Contemplați eleganța simplă a acestui lăcaș de cult pașnic și profitați de colțurile liniștite ale curții adiacente bisericii pentru o scurtă pauză.",
+            "en": "View the simple elegance of this peaceful place of worship, and take advantage of the quiet corners in the adjacent churchyard for a short, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Metallurgiemuseum der Ardennen",
+            "hu": "Ardennek Kohászati Múzeuma",
+            "ro": "Muzeul de Metalurgie din Ardeni",
+            "en": "Museum of Ardennes Metallurgy"
+          },
+          "coords": [
+            4.75395,
+            49.8611
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte der Ardennen ein und achten Sie besonders auf die interaktiven Schmiede-Ausstellungen im Erdgeschoss.",
+            "hu": "Merüljön el az Ardennek lenyűgöző ipartörténetében, és mindenképpen szenteljen különös figyelmet a földszinten található interaktív kovácskiállításoknak.",
+            "ro": "Cufundați-vă în istoria industrială fascinantă a regiunii Ardeni și acordați o atenție deosebită expozițiilor interactive de fierărie de la parter.",
+            "en": "Immerse yourself in the fascinating industrial history of the Ardennes, making sure to pay special attention to the interactive forging exhibits downstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Vivent Kirche",
+            "hu": "Saint-Vivent templom",
+            "ro": "Biserica Saint-Vivent",
+            "en": "Saint-Vivent Church"
+          },
+          "coords": [
+            4.766515,
+            49.851446
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser charmanten Kirche und kommen Sie am besten morgens, um das ruhige Licht im Kirchenschiff zu genießen.",
+            "hu": "Csodálja meg ennek a bájos templomnak a lenyűgöző építészetét, és érdemes reggel érkezni, hogy élvezhesse a főhajóba beáradó csendes fényt.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici fermecătoare și vizitați-o dimineața pentru a vă bucura de lumina liniștită care inundă naosul.",
+            "en": "Admire the impressive architecture of this charming church, and plan your visit for the morning to fully enjoy the peaceful light flooding the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Anne",
+            "hu": "Église Sainte-Anne",
+            "ro": "Église Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            4.761593,
+            49.837458
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante kleine Kirche abseits der Hauptwege und fotografieren Sie die wunderschön erhaltene historische Fassade in den Nachmittagsstunden.",
+            "hu": "Látogassa meg ezt a főutaktól távol eső, bájos kis templomot, és a délutáni órákban készítsen gyönyörű fotókat a kiválóan megőrzött történelmi homlokzatról.",
+            "ro": "Vizitați această mică biserică fermecătoare, aflată departe de drumurile principale, și fotografiați fațada sa istorică minunat conservată în lumina după-amiezii.",
+            "en": "Visit this charming little church tucked away from the main roads, and try to photograph its beautifully preserved historic facade during the afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen der Uhus",
+            "hu": "Uhu-szikla",
+            "ro": "Stânca Bufnițelor",
+            "en": "Rock of the Eagle Owls"
+          },
+          "coords": [
+            4.769946,
+            49.837834
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante Naturdenkmal im Wald und nehmen Sie ein Fernglas mit, um die einheimische Vogelwelt in den steilen Felswänden zu beobachten.",
+            "hu": "Fedezze fel ezt a jellegzetes erdei természeti emlékművet, és vigyen magával távcsövet a meredek sziklafalakban megbúvó helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați acest monument natural izbitor din pădure și luați cu dumneavoastră un binoclu pentru a observa păsările locale ascunse în pereții stâncoși abrupți.",
+            "en": "Explore this striking natural monument hidden in the forest, and bring a pair of binoculars to properly observe the local birdlife in the steep cliff faces."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            4.784453,
+            49.860936
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser traditionellen Kirche und achten Sie besonders auf die wunderschönen Buntglasfenster in den Seitenschiffen.",
+            "hu": "Tapasztalja meg ennek a hagyományos templomnak a spirituális atmoszféráját, és figyelje meg alaposan a mellékhajók gyönyörű, színes üvegablakait.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici tradiționale și acordați o atenție deosebită vitraliilor superbe care împodobesc culoarele laterale.",
+            "en": "Experience the spiritual atmosphere of this traditional church, and pay close attention to the beautifully crafted stained glass windows in the aisles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Église Saint-Pierre und weiter zum spannenden Metallurgiemuseum. Um die Mittagszeit parken Sie nahe der zentralen Saint-Vivent Kirche. Der Nachmittag bringt Sie weiter in den Süden zur malerischen Église Sainte-Anne und dem faszinierenden Naturdenkmal der Uhus. Beenden Sie diesen abwechslungsreichen Tag mit einer Fahrt zur Église Saint-Nicolas.",
+        "hu": "Reggel vezessen az Église Saint-Pierre templomhoz, majd tovább az izgalmas kohászati múzeumba. Délben parkoljon le a központi Saint-Vivent templom közelében. A délután délebbre viszi a festői Église Sainte-Anne templomhoz és a lenyűgöző Uhu-szikla természeti emlékműhöz. Zárja ezt a változatos napot egy kellemes autózással a gyönyörű Église Saint-Nicolas templom felé.",
+        "ro": "Conduceți dimineața spre Église Saint-Pierre și mai departe spre muzeul de metalurgie. La prânz, parcați lângă biserica centrală Saint-Vivent. După-amiaza vă poartă mai la sud, la pitoreasca Église Sainte-Anne și la fascinantul monument natural al bufnițelor. Încheiați această zi plină de varietate cu un drum plăcut către superba biserică Saint-Nicolas din est.",
+        "en": "Drive in the morning to Église Saint-Pierre and on to the exciting metallurgy museum. Around midday, park near the centrally located Saint-Vivent Church. The afternoon takes you further south to the picturesque Église Sainte-Anne and the fascinating Eagle Owls' rock natural monument. End this varied day with a pleasant evening drive to the beautiful Église Saint-Nicolas."
+      }
+    }
+  }
+}

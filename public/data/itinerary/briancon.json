@@ -1,0 +1,405 @@
+{
+  "city_id": "briancon",
+  "anchor": {
+    "name": "Briançon",
+    "coords": [
+      6.635,
+      44.8958
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité Vauban",
+            "hu": "Vauban város",
+            "ro": "Orașul Vauban",
+            "en": "Vauban City"
+          },
+          "coords": [
+            6.642957,
+            44.902409
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die UNESCO-geschützten Festungsstraßen am frühen Morgen, um den Menschenmassen zu entgehen und Vaubans Militärarchitektur aus dem 17. Jahrhundert zu genießen.",
+            "hu": "Fedezze fel kora reggel az UNESCO által védett erődváros macskaköves utcáit, így elkerülheti a tömeget és nyugodtan megcsodálhatja Vauban 17. századi katonai építészetét.",
+            "ro": "Explorați străzile fortăreței listate de UNESCO dimineața devreme pentru a evita aglomerația și a aprecia pe deplin arhitectura militară din secolul al XVII-lea a lui Vauban.",
+            "en": "Explore the UNESCO-listed fortress streets early in the morning to beat the crowds and fully appreciate the 17th-century military architecture designed by Vauban."
+          }
+        },
+        {
+          "name": {
+            "de": "Pignerol-Tor",
+            "hu": "Pignerol kapu",
+            "ro": "Poarta Pignerol",
+            "en": "Pignerol Gate"
+          },
+          "coords": [
+            6.644196,
+            44.900784
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses monumentale Tor, den historischen Haupteingang zur Festungsstadt, und bewundern Sie den komplizierten Mechanismus der alten Zugbrücke.",
+            "hu": "Sétáljon át ezen a monumentális kapun, amely történelmileg az erődváros főbejárata volt, és csodálja meg a ma is látható, bonyolult felvonóhíd-mechanizmust.",
+            "ro": "Treceți prin această poartă monumentală, istoric intrarea principală în orașul fortificat, și admirați mecanismul complex al podului mobil, care este încă vizibil.",
+            "en": "Walk through this monumental gate, historically the main entrance to the fortified city, and take a moment to admire the intricate drawbridge mechanism still visible today."
+          }
+        },
+        {
+          "name": {
+            "de": "Asfeld-Brücke",
+            "hu": "Asfeld-híd",
+            "ro": "Podul Asfeld",
+            "en": "Asfeld Bridge"
+          },
+          "coords": [
+            6.6473,
+            44.8988
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese kühne einbogige Steinbrücke über der tiefen Durance-Schlucht für atemberaubende Ausblicke, aber tragen Sie feste Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon át a mély Durance-szurdokot átívelő, merész, egylyukú kőhídon a lélegzetelállító kilátásért, de ügyeljen a kényelmes cipőre az egyenetlen macskaköveken.",
+            "ro": "Traversați acest pod curajos cu un singur arc peste defileul adânc al râului Durance pentru priveliști uimitoare, dar purtați încălțăminte solidă pentru piatra cubică.",
+            "en": "Cross this daring single-arch stone bridge spanning the deep Durance gorge for breathtaking views, but make sure to wear sturdy shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Schappe-Park",
+            "hu": "Schappe Park",
+            "ro": "Parcul Schappe",
+            "en": "Schappe Park"
+          },
+          "coords": [
+            6.64286,
+            44.8969
+          ],
+          "category": "park",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem üppigen Park auf einem ehemaligen Seidenfabrik-Gelände, der ruhige Spazierwege und malerische Teiche für eine perfekte Picknickpause bietet.",
+            "hu": "Pihenjen meg ebben az egykori selyemgyár területén kialakított buja parkban, amely nyugodt sétányokat és festői tavakat kínál, ideális helyszínt nyújtva egy déli piknikhez.",
+            "ro": "Relaxați-vă în acest parc luxuriant amenajat pe locul unei foste fabrici de mătase, oferind alei liniștite și iazuri pitorești, perfecte pentru o pauză de prânz la picnic.",
+            "en": "Relax in this lush historical park built on a former silk factory site, offering tranquil walking paths and picturesque ponds perfect for a midday picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf de la Schappe",
+            "hu": "Schappe Minigolf",
+            "ro": "Mini-golf de la Schappe",
+            "en": "Mini-golf de la Schappe"
+          },
+          "coords": [
+            6.645206,
+            44.897014
+          ],
+          "category": "family",
+          "arrive_at": "14:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Familienpause auf diesem wunderschön angelegten Minigolfplatz im Park, der von alten Alpenbäumen umgeben ist.",
+            "hu": "Élvezze a vidám családi kikapcsolódást ezen a parkban megbúvó, gyönyörűen parkosított minigolfpályán, ahol a kihívást jelentő lyukakat öreg alpesi fák veszik körül.",
+            "ro": "Bucurați-vă de o pauză în familie la acest teren de mini-golf frumos amenajat în parc, oferind trasee provocatoare înconjurate de copaci alpini bătrâni.",
+            "en": "Enjoy a fun-filled family break at this beautifully landscaped mini-golf course nestled in the park, offering challenging holes surrounded by mature alpine trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der historischen Festungsstadt Vauban und ihren alten Toren. Überqueren Sie mittags die kühne Asfeld-Brücke über der Schlucht. Verbringen Sie den Nachmittag auf den friedlichen Wegen des Schappe-Parks. Lassen Sie den Tag mit Familienspaß beim Minigolf ausklingen.",
+        "hu": "Kezdje a reggelt a történelmi Vauban erődváros és ősi kapuinak felfedezésével. Délben keljen át a szurdok felett átívelő merész Asfeld-hídon. A délutánt töltse a Schappe Park békés ösvényein barangolva. A napot pedig zárja egy vidám, családi minigolfozással.",
+        "ro": "Începeți dimineața explorând orașul istoric Vauban și porțile sale vechi. La prânz, traversați curajosul pod Asfeld de peste defileu. Petreceți după-amiaza rătăcind pe aleile liniștite din Parcul Schappe. Încheiați-vă ziua cu distracție în familie la terenul de mini-golf.",
+        "en": "Begin your morning immersing yourself in the historic Vauban City and its ancient gates. By midday, cross the daring Asfeld Bridge spanning the deep gorge. Spend your afternoon wandering the peaceful paths of Schappe Park. Conclude your day with some family fun at the charming mini-golf course."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort des Salettes",
+            "hu": "Fort des Salettes",
+            "ro": "Fortul Salettes",
+            "en": "Fort des Salettes"
+          },
+          "coords": [
+            6.65167,
+            44.9048
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser beeindruckenden Bergschanze für einen Panoramablick auf das Briançon-Tal, aber bringen Sie viel Wasser mit, da der Pfad kaum Schatten bietet.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző hegyi erődítményhez a Briançon-völgyre nyíló panorámáért, és vigyen magával elegendő vizet, mivel az ösvényen kevés az árnyék.",
+            "ro": "Urcați până la această fortăreață montană impresionantă pentru vederi panoramice ale văii Briançon, aducând multă apă deoarece traseul oferă puțină umbră.",
+            "en": "Hike up to this impressive mountain redoubt for sweeping panoramic views of the Briançon valley, bringing plenty of water since the exposed trail offers little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pignerol-Tor",
+            "hu": "Pignerol kapu",
+            "ro": "Poarta Pignerol",
+            "en": "Pignerol Gate"
+          },
+          "coords": [
+            6.644196,
+            44.900784
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses monumentale Tor, den historischen Haupteingang zur Festungsstadt, und bewundern Sie den komplizierten Mechanismus der alten Zugbrücke.",
+            "hu": "Sétáljon át ezen a monumentális kapun, amely történelmileg az erődváros főbejárata volt, és csodálja meg a ma is látható, bonyolult felvonóhíd-mechanizmust.",
+            "ro": "Treceți prin această poartă monumentală, istoric intrarea principală în orașul fortificat, și admirați mecanismul complex al podului mobil, care este încă vizibil.",
+            "en": "Walk through this monumental gate, historically the main entrance to the fortified city, and take a moment to admire the intricate drawbridge mechanism still visible today."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Vauban",
+            "hu": "Vauban város",
+            "ro": "Orașul Vauban",
+            "en": "Vauban City"
+          },
+          "coords": [
+            6.642957,
+            44.902409
+          ],
+          "category": "fortress",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die UNESCO-geschützten Festungsstraßen am frühen Morgen, um den Menschenmassen zu entgehen und Vaubans Militärarchitektur aus dem 17. Jahrhundert zu genießen.",
+            "hu": "Fedezze fel kora reggel az UNESCO által védett erődváros macskaköves utcáit, így elkerülheti a tömeget és nyugodtan megcsodálhatja Vauban 17. századi katonai építészetét.",
+            "ro": "Explorați străzile fortăreței listate de UNESCO dimineața devreme pentru a evita aglomerația și a aprecia pe deplin arhitectura militară din secolul al XVII-lea a lui Vauban.",
+            "en": "Explore the UNESCO-listed fortress streets early in the morning to beat the crowds and fully appreciate the 17th-century military architecture designed by Vauban."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Trois-Têtes",
+            "hu": "Fort des Trois-Têtes",
+            "ro": "Fortul Trois-Têtes",
+            "en": "Fort des Trois-Têtes"
+          },
+          "coords": [
+            6.65,
+            44.89528
+          ],
+          "category": "fortress",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufigen Befestigungsanlagen, die die französische Grenze schützten, und vergessen Sie Ihre Kamera nicht für die dramatische Bergkulisse.",
+            "hu": "Fedezze fel a francia határt védő kiterjedt erődítményeket, és ne hagyja otthon a fényképezőgépét sem, hogy megörökíthesse a masszív erődöt körülölelő drámai hegyvonulatokat.",
+            "ro": "Descoperiți fortificațiile extinse care protejau granița franceză și nu uitați aparatul foto pentru a surprinde fundalul montan dramatic ce înconjoară această fortăreață.",
+            "en": "Discover the sprawling fortifications that protected the French border, and don't forget your camera to capture the dramatic mountain backdrop framing this massive stronghold."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Pont Baldy",
+            "hu": "Pont Baldy-tó",
+            "ro": "Lacul Pont Baldy",
+            "en": "Lac de Pont Baldy"
+          },
+          "coords": [
+            6.657684,
+            44.882212
+          ],
+          "category": "natural",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem Stausee, um die imposante Staumauer und das türkisfarbene Wasser zu bestaunen, ideal für eine erfrischende Nachmittagspause vor der Rückkehr in die Stadt.",
+            "hu": "Kerékpározzon el ehhez a békés víztározóhoz, hogy megcsodálhassa az impozáns gátat és a türkizkék vizet, amely tökéletes egy hűsítő délutáni pihenéshez a visszatérés előtt.",
+            "ro": "Pedalați până la acest lac de acumulare liniștit pentru a admira barajul impresionant și apele turcoaz, perfect pentru o odihnă revigorantă după-amiaza înainte de a vă întoarce.",
+            "en": "Cycle to this serene reservoir to marvel at the impressive dam structure and turquoise waters, perfect for a refreshing afternoon rest before heading back to the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum Fort des Salettes für morgendliche Ausblicke, bevor Sie das Pignerol-Tor und die Vauban-Stadt besuchen. Fahren Sie mittags zum imposanten Fort des Trois-Têtes. Folgen Sie am Nachmittag den Wegen hinab zum ruhigen Lac de Pont Baldy für ein entspanntes Finale.",
+        "hu": "Korán tekerjen fel a Fort des Salettes-hez a reggeli kilátásért, majd látogassa meg a Pignerol kaput és Vauban városát. Délben folytassa útját az impozáns Fort des Trois-Têtes felé. Délután guruljon le a békés Lac de Pont Baldy tavához egy pihentető befejezésért.",
+        "ro": "Pedalați devreme până la Fort des Salettes pentru vederi matinale înainte de a vizita Poarta Pignerol și orașul Vauban. La prânz, mergeți spre impunătorul Fort des Trois-Têtes. După-amiaza, coborâți spre liniștitul Lac de Pont Baldy pentru un final relaxant.",
+        "en": "Ride early up to Fort des Salettes to enjoy crisp morning views before visiting the Pignerol Gate and Vauban City. Midday, pedal towards the imposing Fort des Trois-Têtes for some deep military history. In the afternoon, follow the trails down to the serene Lac de Pont Baldy for a relaxing finale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 10.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité Vauban",
+            "hu": "Vauban város",
+            "ro": "Orașul Vauban",
+            "en": "Vauban City"
+          },
+          "coords": [
+            6.642957,
+            44.902409
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die UNESCO-geschützten Festungsstraßen am frühen Morgen, um den Menschenmassen zu entgehen und Vaubans Militärarchitektur aus dem 17. Jahrhundert zu genießen.",
+            "hu": "Fedezze fel kora reggel az UNESCO által védett erődváros macskaköves utcáit, így elkerülheti a tömeget és nyugodtan megcsodálhatja Vauban 17. századi katonai építészetét.",
+            "ro": "Explorați străzile fortăreței listate de UNESCO dimineața devreme pentru a evita aglomerația și a aprecia pe deplin arhitectura militară din secolul al XVII-lea a lui Vauban.",
+            "en": "Explore the UNESCO-listed fortress streets early in the morning to beat the crowds and fully appreciate the 17th-century military architecture designed by Vauban."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Trois-Têtes",
+            "hu": "Fort des Trois-Têtes",
+            "ro": "Fortul Trois-Têtes",
+            "en": "Fort des Trois-Têtes"
+          },
+          "coords": [
+            6.65,
+            44.89528
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufigen Befestigungsanlagen, die die französische Grenze schützten, und vergessen Sie Ihre Kamera nicht für die dramatische Bergkulisse.",
+            "hu": "Fedezze fel a francia határt védő kiterjedt erődítményeket, és ne hagyja otthon a fényképezőgépét sem, hogy megörökíthesse a masszív erődöt körülölelő drámai hegyvonulatokat.",
+            "ro": "Descoperiți fortificațiile extinse care protejau granița franceză și nu uitați aparatul foto pentru a surprinde fundalul montan dramatic ce înconjoară această fortăreață.",
+            "en": "Discover the sprawling fortifications that protected the French border, and don't forget your camera to capture the dramatic mountain backdrop framing this massive stronghold."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Sagne Enfonza",
+            "hu": "Sagne Enfonza-tó",
+            "ro": "Lacul Sagne Enfonza",
+            "en": "Lac de Sagne Enfonza"
+          },
+          "coords": [
+            6.727553,
+            44.896332
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem abgelegenen Alpensee, um absolute Ruhe in unberührter Natur zu erleben, und packen Sie eine leichte Jacke ein, da die Temperaturen schnell fallen können.",
+            "hu": "Autózzon fel ehhez a távoli alpesi tóhoz, hogy megtapasztalja az érintetlen természet nyugalmát, de pakoljon be egy könnyű kabátot is, mivel a hegyi levegő hirtelen lehűlhet.",
+            "ro": "Conduceți spre acest lac alpin izolat pentru a experimenta liniștea absolută în mijlocul naturii imaculate, având o jachetă ușoară deoarece temperaturile pot scădea rapid.",
+            "en": "Drive to this remote alpine lake to experience absolute tranquility amidst pristine nature, making sure to pack a light jacket as mountain temperatures can drop quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Anges",
+            "hu": "Angyalok tava",
+            "ro": "Lacul Îngerilor",
+            "en": "Lac des Anges"
+          },
+          "coords": [
+            6.726668,
+            44.90701
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie am Ufer des 'Sees der Engel' entlang, um Wildtiere zu beobachten, und nutzen Sie das magische Licht der goldenen Stunde für Landschaftsfotografien.",
+            "hu": "Sétáljon az 'Angyalok tava' partján, hogy megfigyelhesse a helyi vadvilágot, és használja ki az aranyóra varázslatos fényeit a tökéletes tájképek elkészítéséhez.",
+            "ro": "Plimbați-vă pe malul „Lacului Îngerilor” pentru a observa fauna locală și profitați de lumina de la apus pentru fotografii de peisaj cu adevărat magice.",
+            "en": "Hike around the shoreline of the 'Lake of Angels' to spot local wildlife and alpine flora, taking advantage of the golden hour light for truly magical landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Sarrailles",
+            "hu": "Sarrailles-tó",
+            "ro": "Lacul Sarrailles",
+            "en": "Lac des Sarrailles"
+          },
+          "coords": [
+            6.730873,
+            44.891276
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Seentour an diesem versteckten Juwel, das die umliegenden Gipfel im kristallklaren Wasser spiegelt, und beobachten Sie den Sonnenuntergang hinter den Bergen.",
+            "hu": "Fejezze be a tókörutat ezen a rejtett gyöngyszemen, amelynek kristálytiszta vize visszatükrözi a környező csúcsokat, békés helyet kínálva a hegyek mögött lebukó nap megtekintéséhez.",
+            "ro": "Încheiați turul lacurilor la această bijuterie ascunsă care reflectă vârfurile înconjurătoare în apa cristalină, un loc pașnic pentru a privi soarele apunând în spatele munților.",
+            "en": "Conclude your lake tour at this hidden gem reflecting the surrounding peaks in its crystal-clear water, offering a peaceful spot to watch the sun dip behind the mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der Erkundung der Vauban-Stadt und des beeindruckenden Fort des Trois-Têtes. Fahren Sie mittags in die Höhe zum abgelegenen Lac de Sagne Enfonza. Verbringen Sie den Nachmittag mit Seenhüpfen und enden Sie zum Sonnenuntergang am spektakulären Lac des Sarrailles.",
+        "hu": "Kezdje a lenyűgöző Vauban erődváros és a masszív Fort des Trois-Têtes reggeli felfedezésével. Délben autózzon fel a magaslatokra az eldugott Lac de Sagne Enfonza-hoz. A délutánt töltse a tavak körbejárásával, és naplementekor érkezzen meg a csodálatos Lac des Sarrailles-hez.",
+        "ro": "Începeți cu explorarea matinală a orașului Vauban și a formidabilului Fort des Trois-Têtes. La prânz, conduceți spre altitudini pentru a ajunge la izolatul Lac de Sagne Enfonza. Petreceți după-amiaza vizitând lacurile alpine, terminând la spectaculosul Lac des Sarrailles la apus.",
+        "en": "Start with a morning exploration of the impressive Vauban City and the formidable Fort des Trois-Têtes. By midday, drive up into the surrounding high altitudes to reach the secluded Lac de Sagne Enfonza. Spend your afternoon lake-hopping, finishing at the spectacular Lac des Sarrailles at sunset."
+      }
+    }
+  }
+}

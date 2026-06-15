@@ -1,0 +1,520 @@
+{
+  "city_id": "melun",
+  "anchor": {
+    "name": "Melun",
+    "coords": [
+      2.6592,
+      48.5397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Aspais",
+            "hu": "Saint-Aspais templom",
+            "ro": "Biserica Saint-Aspais",
+            "en": "Saint-Aspais Church"
+          },
+          "coords": [
+            2.659314,
+            48.538965
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die extravaganten gotischen Fassaden dieser zentralen Kirche, einem architektonischen Juwel der Stadt, und umrunden Sie das Äußere, um das asymmetrische Design zu sehen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző lángoló gótikus homlokzatát, a város egyik építészeti ékkövét, és sétálja körbe az épületet a különleges aszimmetrikus dizájn miatt.",
+            "ro": "Minunați-vă de fațadele gotice flamboaiante ale acestei biserici centrale, o bijuterie arhitecturală a orașului, și înconjurați exteriorul pentru a aprecia designul său asimetric.",
+            "en": "Marvel at the intricate flamboyant Gothic facades of this central church, an architectural gem of the city, and walk around the exterior to fully appreciate its unique asymmetric design."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Saint-Étienne",
+            "hu": "Saint-Étienne sziget",
+            "ro": "Insula Saint-Étienne",
+            "en": "Saint-Étienne Island"
+          },
+          "coords": [
+            2.65806,
+            48.5364
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das historische Herz von Melun auf dem Fluss, das einen friedlichen Rückzugsort voller antiken Charakter bietet, und tragen Sie bequeme Schuhe für die Pflastersteine.",
+            "hu": "Sétáljon végig Melun folyón elhelyezkedő történelmi szívében, amely békés, ősi karakterrel teli menedéket nyújt, és viseljen kényelmes cipőt a macskaköves ösvényeken való járáshoz.",
+            "ro": "Plimbați-vă prin inima istorică a orașului Melun, situată pe râu, oferind un refugiu liniștit plin de caracter antic, și purtați pantofi confortabili pentru aleile pietruite.",
+            "en": "Stroll through the historic heart of Melun situated on the river, offering a peaceful retreat full of ancient character, and wear comfortable shoes to navigate the cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat Saint-Sauveur",
+            "hu": "Saint-Sauveur perjelség",
+            "ro": "Prioratul Saint-Sauveur",
+            "en": "Saint-Sauveur Priory"
+          },
+          "coords": [
+            2.65789,
+            48.5362
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Überreste dieses mittelalterlichen Priorats, das von Meluns reicher Vergangenheit zeugt, und kommen Sie früh, um die Steinbögen im Morgenlicht zu fotografieren.",
+            "hu": "Fedezze fel ennek a középkori perjelnek az ősi maradványait, amely Melun gazdag múltjáról mesél, és érkezzen korán, hogy a reggeli napfényben fényképezze le a kőíveket.",
+            "ro": "Explorați vestigiile antice ale acestui priorat medieval care păstrează istoria bogată a orașului Melun și veniți devreme pentru a fotografia arcadele de piatră în lumina dimineții.",
+            "en": "Explore the ancient remains of this medieval priory that whispers tales of Melun's rich past, and arrive early to photograph the stone arches in the soft morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Notre-Dame Collegiate Church"
+          },
+          "coords": [
+            2.66024,
+            48.53543
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Zwillingstürme dieser historischen Stiftskirche auf der Insel mit ihrer frühen gotischen Architektur und achten Sie auf die antiken Schnitzereien.",
+            "hu": "Csodálja meg a szigeten álló történelmi társaskáptalani templom lenyűgöző ikertornyait és korai gótikus építészetét, de ne felejtse el megkeresni az ősi faragványokat a kórusban.",
+            "ro": "Admirați turnurile gemene izbitoare ale acestei biserici colegiale istorice de pe insulă, o capodoperă gotică timpurie, și asigurați-vă că explorați sculpturile antice din cor.",
+            "en": "Admire the striking twin towers of this historic collegiate church on the island, representing early Gothic architecture, and remember to check the choir for ancient carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Seine",
+            "hu": "Szajna-part",
+            "ro": "Malurile Senei",
+            "en": "Banks of the Seine"
+          },
+          "coords": [
+            2.655225,
+            48.528547
+          ],
+          "category": "natural",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang an den malerischen Flussufern, die viele impressionistische Maler inspiriert haben, und packen Sie Snacks für ein Picknick am sanften Wasser ein.",
+            "hu": "Élvezze a nyugodt sétát a festői folyóparton, amely sok impresszionista festőt megihletett, és csomagoljon helyi rágcsálnivalókat egy rögtönzött délutáni piknikhez a lágy vizek mellett.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul malurilor pitorești ale râului, care au inspirat mulți pictori impresioniști, și luați cu voi gustări locale pentru un picnic de după-amiază.",
+            "en": "Enjoy a tranquil walk along the picturesque riverbanks that inspired many impressionist painters, and pack some local snacks for an impromptu afternoon picnic by the gentle waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Gendarmeriemuseum",
+            "hu": "Nemzeti Csendőrségi Múzeum",
+            "ro": "Muzeul Național al Jandarmeriei",
+            "en": "National Gendarmerie Museum"
+          },
+          "coords": [
+            2.6529,
+            48.5454
+          ],
+          "category": "museum",
+          "arrive_at": "15:16",
+          "stay_min": 130,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der französischen Polizei mit einer umfangreichen Sammlung ein und nehmen Sie einen Audioguide, um die interaktiven Ausstellungen zu verstehen.",
+            "hu": "Merüljön el a francia rendőrség lenyűgöző történelmében a kiterjedt egyenruha- és járműgyűjteményen keresztül, és béreljen audioguide-ot az interaktív kiállítások megértéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a jandarmeriei franceze printr-o colecție extinsă de uniforme și vehicule și luați un ghid audio pentru a înțelege mai bine expozițiile interactive.",
+            "en": "Dive into the fascinating history of the French police force through an extensive collection of uniforms and vehicles, and grab an audio guide to better understand the interactive exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den extravaganten gotischen Details der Kirche Saint-Aspais im Zentrum.\n\nÜberqueren Sie mittags die Brücke zur Insel Saint-Étienne, um das historische Priorat und die Stiftskirche Notre-Dame zu erkunden.\n\nVerbringen Sie den Nachmittag mit einem Spaziergang und einem entspannten Picknick an den malerischen Ufern der Seine.\n\nBeenden Sie den Tag mit einzigartiger Geschichte im Nationalen Gendarmeriemuseum.",
+        "hu": "Kezdje a reggelt a városközpontban található Saint-Aspais templom lángoló gótikus részleteinek megcsodálásával.\n\nDélben sétáljon át a Saint-Étienne szigetre, hogy felfedezze a történelmi perjelséget és a Notre-Dame társaskáptalani templomot.\n\nA délutánt egy kényelmes sétával és egy pihentető piknikkel töltheti a Szajna festői partjainál.\n\nZárja a napot a Nemzeti Csendőrségi Múzeum egyedülálló történelmének megismerésével.",
+        "ro": "Începeți dimineața admirând detaliile gotice flamboaiante ale Bisericii Saint-Aspais din centrul orașului.\n\nLa prânz, traversați spre Insula Saint-Étienne pentru a explora prioratul istoric și Biserica Colegială Notre-Dame.\n\nPetreceți după-amiaza bucurându-vă de o plimbare și un picnic relaxant de-a lungul malurilor pitorești ale Senei.\n\nÎncheiați-vă ziua la Muzeul Național al Jandarmeriei.",
+        "en": "Start your morning by admiring the flamboyant Gothic details of Saint-Aspais Church in the city center.\n\nBy midday, cross over to Saint-Étienne Island to explore its historical priory and the striking Notre-Dame Collegiate Church.\n\nSpend your afternoon enjoying a leisurely stroll and a relaxing picnic along the scenic Banks of the Seine.\n\nConclude your day diving into unique history at the National Gendarmerie Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationales Gendarmeriemuseum",
+            "hu": "Nemzeti Csendőrségi Múzeum",
+            "ro": "Muzeul Național al Jandarmeriei",
+            "en": "National Gendarmerie Museum"
+          },
+          "coords": [
+            2.6529,
+            48.5454
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der französischen Polizei mit einer umfangreichen Sammlung ein und nehmen Sie einen Audioguide, um die interaktiven Ausstellungen zu verstehen.",
+            "hu": "Merüljön el a francia rendőrség lenyűgöző történelmében a kiterjedt egyenruha- és járműgyűjteményen keresztül, és béreljen audioguide-ot az interaktív kiállítások megértéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a jandarmeriei franceze printr-o colecție extinsă de uniforme și vehicule și luați un ghid audio pentru a înțelege mai bine expozițiile interactive.",
+            "en": "Dive into the fascinating history of the French police force through an extensive collection of uniforms and vehicles, and grab an audio guide to better understand the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aspais",
+            "hu": "Saint-Aspais templom",
+            "ro": "Biserica Saint-Aspais",
+            "en": "Saint-Aspais Church"
+          },
+          "coords": [
+            2.659314,
+            48.538965
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die extravaganten gotischen Fassaden dieser zentralen Kirche, einem architektonischen Juwel der Stadt, und umrunden Sie das Äußere, um das asymmetrische Design zu sehen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző lángoló gótikus homlokzatát, a város egyik építészeti ékkövét, és sétálja körbe az épületet a különleges aszimmetrikus dizájn miatt.",
+            "ro": "Minunați-vă de fațadele gotice flamboaiante ale acestei biserici centrale, o bijuterie arhitecturală a orașului, și înconjurați exteriorul pentru a aprecia designul său asimetric.",
+            "en": "Marvel at the intricate flamboyant Gothic facades of this central church, an architectural gem of the city, and walk around the exterior to fully appreciate its unique asymmetric design."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Saint-Étienne",
+            "hu": "Saint-Étienne sziget",
+            "ro": "Insula Saint-Étienne",
+            "en": "Saint-Étienne Island"
+          },
+          "coords": [
+            2.65806,
+            48.5364
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das historische Herz von Melun auf dem Fluss, das einen friedlichen Rückzugsort voller antiken Charakter bietet, und tragen Sie bequeme Schuhe für die Pflastersteine.",
+            "hu": "Sétáljon végig Melun folyón elhelyezkedő történelmi szívében, amely békés, ősi karakterrel teli menedéket nyújt, és viseljen kényelmes cipőt a macskaköves ösvényeken való járáshoz.",
+            "ro": "Plimbați-vă prin inima istorică a orașului Melun, situată pe râu, oferind un refugiu liniștit plin de caracter antic, și purtați pantofi confortabili pentru aleile pietruite.",
+            "en": "Stroll through the historic heart of Melun situated on the river, offering a peaceful retreat full of ancient character, and wear comfortable shoes to navigate the cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Notre-Dame Collegiate Church"
+          },
+          "coords": [
+            2.66024,
+            48.53543
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Zwillingstürme dieser historischen Stiftskirche auf der Insel mit ihrer frühen gotischen Architektur und achten Sie auf die antiken Schnitzereien.",
+            "hu": "Csodálja meg a szigeten álló történelmi társaskáptalani templom lenyűgöző ikertornyait és korai gótikus építészetét, de ne felejtse el megkeresni az ősi faragványokat a kórusban.",
+            "ro": "Admirați turnurile gemene izbitoare ale acestei biserici colegiale istorice de pe insulă, o capodoperă gotică timpurie, și asigurați-vă că explorați sculpturile antice din cor.",
+            "en": "Admire the striking twin towers of this historic collegiate church on the island, representing early Gothic architecture, and remember to check the choir for ancient carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin Laure Manaudou",
+            "hu": "Bassin Laure Manaudou",
+            "ro": "Bassin Laure Manaudou",
+            "en": "Bassin Laure Manaudou"
+          },
+          "coords": [
+            2.665314,
+            48.531242
+          ],
+          "category": "family",
+          "arrive_at": "13:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser modernen Wasser- und Familienanlage, die nach der berühmten Schwimmerin benannt ist, und prüfen Sie vorher die Öffnungszeiten, wenn Sie schwimmen möchten.",
+            "hu": "Kapcsolódjon ki a híres úszónőről elnevezett modern vízi és családi létesítménynél, amely frissítő szünetet kínál, de előzetesen ellenőrizze a nyitvatartást, ha úszni is szeretne.",
+            "ro": "Relaxați-vă la această facilitate acvatică modernă numită după celebra înotătoare, oferind o pauză revigorantă, și verificați din timp programul dacă doriți să faceți o baie.",
+            "en": "Unwind by this modern aquatic and family facility named after the famous swimmer, offering a refreshing break, and check the public opening hours in advance if you wish to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Seine",
+            "hu": "Szajna-part",
+            "ro": "Malurile Senei",
+            "en": "Banks of the Seine"
+          },
+          "coords": [
+            2.655225,
+            48.528547
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang an den malerischen Flussufern, die viele impressionistische Maler inspiriert haben, und packen Sie Snacks für ein Picknick am sanften Wasser ein.",
+            "hu": "Élvezze a nyugodt sétát a festői folyóparton, amely sok impresszionista festőt megihletett, és csomagoljon helyi rágcsálnivalókat egy rögtönzött délutáni piknikhez a lágy vizek mellett.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul malurilor pitorești ale râului, care au inspirat mulți pictori impresioniști, și luați cu voi gustări locale pentru un picnic de după-amiază.",
+            "en": "Enjoy a tranquil walk along the picturesque riverbanks that inspired many impressionist painters, and pack some local snacks for an impromptu afternoon picnic by the gentle waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Melun",
+            "hu": "Melun Városháza",
+            "ro": "Primăria Melun",
+            "en": "Melun Town Hall"
+          },
+          "coords": [
+            2.636838,
+            48.536516
+          ],
+          "category": "civic",
+          "arrive_at": "15:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des lokalen Verwaltungszentrums mit ihrer bürgerlichen Architektur des 19. Jahrhunderts und entspannen Sie auf den nahegelegenen Bänken.",
+            "hu": "Figyelje meg a helyi közigazgatási központ elegáns, 19. századi polgári építészetet tükröző homlokzatát, és pihenjen meg a közeli padokon, élvezve a nyüzsgő városi hangulatot.",
+            "ro": "Observați fațada elegantă a centrului administrativ local, care reflectă arhitectura burgheză a secolului al XIX-lea, și relaxați-vă pe băncile din apropiere pentru a simți atmosfera civică.",
+            "en": "Observe the elegant facade of the local administrative center, reflecting 19th-century bourgeois architecture, and relax on the nearby benches to enjoy the bustling civic atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour, indem Sie in die Ausstellungen des Nationalen Gendarmeriemuseums eintauchen.\n\nRadeln Sie ins Herz von Melun zur Kirche Saint-Aspais, bevor Sie das antike Zentrum der Insel Saint-Étienne erkunden.\n\nFahren Sie nach Notre-Dame hinunter zum Bassin Laure Manaudou und an den Ufern der Seine entlang.\n\nBeenden Sie Ihre aktive Fahrt am Rathaus von Melun, wenn der frühe Abend anbricht.",
+        "hu": "Kezdje a kerékpártúrát a Nemzeti Csendőrségi Múzeum lebilincselő kiállításainak felfedezésével.\n\nTekerjen Melun szívébe a Saint-Aspais templomhoz, majd fedezze fel a Saint-Étienne sziget ősi magját.\n\nA Notre-Dame megtekintése után tekerjen el a Bassin Laure Manaudouhoz és a Szajna partjára.\n\nZárja az aktív túrát a meluni városházánál a kora esti órákban.",
+        "ro": "Începeți turul cu bicicleta captivați de expozițiile interesante ale Muzeului Național al Jandarmeriei.\n\nPedalați în inima orașului Melun la Biserica Saint-Aspais înainte de a explora inima antică a Insulei Saint-Étienne.\n\nDupă Notre-Dame, coborâți spre Bassin Laure Manaudou și de-a lungul malurilor Senei.\n\nÎncheiați traseul activ la Primăria din Melun la lăsarea serii.",
+        "en": "Kick off your cycling tour by immersing yourself in the engaging exhibits of the National Gendarmerie Museum.\n\nPedal into the heart of Melun to marvel at Saint-Aspais Church before exploring the ancient heart of Saint-Étienne Island.\n\nAfter visiting Notre-Dame, cycle down to Bassin Laure Manaudou and along the Banks of the Seine.\n\nFinish your active ride at the Melun Town Hall as the early evening sets in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Melun",
+            "hu": "Melun Városháza",
+            "ro": "Primăria Melun",
+            "en": "Melun Town Hall"
+          },
+          "coords": [
+            2.636838,
+            48.536516
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des lokalen Verwaltungszentrums mit ihrer bürgerlichen Architektur des 19. Jahrhunderts und entspannen Sie auf den nahegelegenen Bänken.",
+            "hu": "Figyelje meg a helyi közigazgatási központ elegáns, 19. századi polgári építészetet tükröző homlokzatát, és pihenjen meg a közeli padokon, élvezve a nyüzsgő városi hangulatot.",
+            "ro": "Observați fațada elegantă a centrului administrativ local, care reflectă arhitectura burgheză a secolului al XIX-lea, și relaxați-vă pe băncile din apropiere pentru a simți atmosfera civică.",
+            "en": "Observe the elegant facade of the local administrative center, reflecting 19th-century bourgeois architecture, and relax on the nearby benches to enjoy the bustling civic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Gendarmeriemuseum",
+            "hu": "Nemzeti Csendőrségi Múzeum",
+            "ro": "Muzeul Național al Jandarmeriei",
+            "en": "National Gendarmerie Museum"
+          },
+          "coords": [
+            2.6529,
+            48.5454
+          ],
+          "category": "museum",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der französischen Polizei mit einer umfangreichen Sammlung ein und nehmen Sie einen Audioguide, um die interaktiven Ausstellungen zu verstehen.",
+            "hu": "Merüljön el a francia rendőrség lenyűgöző történelmében a kiterjedt egyenruha- és járműgyűjteményen keresztül, és béreljen audioguide-ot az interaktív kiállítások megértéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a jandarmeriei franceze printr-o colecție extinsă de uniforme și vehicule și luați un ghid audio pentru a înțelege mai bine expozițiile interactive.",
+            "en": "Dive into the fascinating history of the French police force through an extensive collection of uniforms and vehicles, and grab an audio guide to better understand the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aspais",
+            "hu": "Saint-Aspais templom",
+            "ro": "Biserica Saint-Aspais",
+            "en": "Saint-Aspais Church"
+          },
+          "coords": [
+            2.659314,
+            48.538965
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die extravaganten gotischen Fassaden dieser zentralen Kirche, einem architektonischen Juwel der Stadt, und umrunden Sie das Äußere, um das asymmetrische Design zu sehen.",
+            "hu": "Csodálja meg e központi templom lenyűgöző lángoló gótikus homlokzatát, a város egyik építészeti ékkövét, és sétálja körbe az épületet a különleges aszimmetrikus dizájn miatt.",
+            "ro": "Minunați-vă de fațadele gotice flamboaiante ale acestei biserici centrale, o bijuterie arhitecturală a orașului, și înconjurați exteriorul pentru a aprecia designul său asimetric.",
+            "en": "Marvel at the intricate flamboyant Gothic facades of this central church, an architectural gem of the city, and walk around the exterior to fully appreciate its unique asymmetric design."
+          }
+        },
+        {
+          "name": {
+            "de": "Insel Saint-Étienne",
+            "hu": "Saint-Étienne sziget",
+            "ro": "Insula Saint-Étienne",
+            "en": "Saint-Étienne Island"
+          },
+          "coords": [
+            2.65806,
+            48.5364
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das historische Herz von Melun auf dem Fluss, das einen friedlichen Rückzugsort voller antiken Charakter bietet, und tragen Sie bequeme Schuhe für die Pflastersteine.",
+            "hu": "Sétáljon végig Melun folyón elhelyezkedő történelmi szívében, amely békés, ősi karakterrel teli menedéket nyújt, és viseljen kényelmes cipőt a macskaköves ösvényeken való járáshoz.",
+            "ro": "Plimbați-vă prin inima istorică a orașului Melun, situată pe râu, oferind un refugiu liniștit plin de caracter antic, și purtați pantofi confortabili pentru aleile pietruite.",
+            "en": "Stroll through the historic heart of Melun situated on the river, offering a peaceful retreat full of ancient character, and wear comfortable shoes to navigate the cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame",
+            "hu": "Notre-Dame társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame",
+            "en": "Notre-Dame Collegiate Church"
+          },
+          "coords": [
+            2.66024,
+            48.53543
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Zwillingstürme dieser historischen Stiftskirche auf der Insel mit ihrer frühen gotischen Architektur und achten Sie auf die antiken Schnitzereien.",
+            "hu": "Csodálja meg a szigeten álló történelmi társaskáptalani templom lenyűgöző ikertornyait és korai gótikus építészetét, de ne felejtse el megkeresni az ősi faragványokat a kórusban.",
+            "ro": "Admirați turnurile gemene izbitoare ale acestei biserici colegiale istorice de pe insulă, o capodoperă gotică timpurie, și asigurați-vă că explorați sculpturile antice din cor.",
+            "en": "Admire the striking twin towers of this historic collegiate church on the island, representing early Gothic architecture, and remember to check the choir for ancient carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin Laure Manaudou",
+            "hu": "Bassin Laure Manaudou",
+            "ro": "Bassin Laure Manaudou",
+            "en": "Bassin Laure Manaudou"
+          },
+          "coords": [
+            2.665314,
+            48.531242
+          ],
+          "category": "family",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser modernen Wasser- und Familienanlage, die nach der berühmten Schwimmerin benannt ist, und prüfen Sie vorher die Öffnungszeiten, wenn Sie schwimmen möchten.",
+            "hu": "Kapcsolódjon ki a híres úszónőről elnevezett modern vízi és családi létesítménynél, amely frissítő szünetet kínál, de előzetesen ellenőrizze a nyitvatartást, ha úszni is szeretne.",
+            "ro": "Relaxați-vă la această facilitate acvatică modernă numită după celebra înotătoare, oferind o pauză revigorantă, și verificați din timp programul dacă doriți să faceți o baie.",
+            "en": "Unwind by this modern aquatic and family facility named after the famous swimmer, offering a refreshing break, and check the public opening hours in advance if you wish to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Seine",
+            "hu": "Szajna-part",
+            "ro": "Malurile Senei",
+            "en": "Banks of the Seine"
+          },
+          "coords": [
+            2.655225,
+            48.528547
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang an den malerischen Flussufern, die viele impressionistische Maler inspiriert haben, und packen Sie Snacks für ein Picknick am sanften Wasser ein.",
+            "hu": "Élvezze a nyugodt sétát a festői folyóparton, amely sok impresszionista festőt megihletett, és csomagoljon helyi rágcsálnivalókat egy rögtönzött délutáni piknikhez a lágy vizek mellett.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul malurilor pitorești ale râului, care au inspirat mulți pictori impresioniști, și luați cu voi gustări locale pentru un picnic de după-amiază.",
+            "en": "Enjoy a tranquil walk along the picturesque riverbanks that inspired many impressionist painters, and pack some local snacks for an impromptu afternoon picnic by the gentle waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am eleganten Rathaus von Melun, bevor Sie zum umfassenden Nationalen Gendarmeriemuseum fahren.\n\nFahren Sie in Richtung Stadtzentrum zur majestätischen Kirche Saint-Aspais und parken Sie nahe der Insel Saint-Étienne.\n\nErkunden Sie die Insel zu Fuß, fahren Sie kurz zum Bassin Laure Manaudou.\n\nBeenden Sie den Tag mit einem friedlichen Sonnenuntergangsspaziergang an den malerischen Ufern der Seine.",
+        "hu": "Kezdje autós útitervét az elegáns meluni városházánál, mielőtt az átfogó Nemzeti Csendőrségi Múzeumba hajtana.\n\nVezessen a városközpont felé a fenséges Saint-Aspais templomhoz, és parkoljon le a történelmi Saint-Étienne sziget közelében.\n\nFedezze fel a szigetet gyalog, majd tegyen egy rövid utat a Bassin Laure Manaudou felé.\n\nZárja a napot egy békés, festői naplemente-sétával a Szajna gyönyörű partjainál.",
+        "ro": "Începeți itinerariul cu mașina la eleganta Primărie Melun, apoi mergeți la Muzeul Național al Jandarmeriei.\n\nConduceți spre centrul orașului la maiestuoasa Biserică Saint-Aspais și parcați lângă istorica Insulă Saint-Étienne.\n\nExplorați insula pe jos, apoi faceți o scurtă plimbare cu mașina până la Bassin Laure Manaudou.\n\nÎncheiați ziua cu o plimbare liniștită la apus pe malurile frumoase ale Senei.",
+        "en": "Begin your driving itinerary at the elegant Melun Town Hall before heading to the comprehensive National Gendarmerie Museum.\n\nDrive towards the city center to visit the majestic Saint-Aspais Church and park near the historical Saint-Étienne Island.\n\nExplore the island's landmarks on foot, then take a short drive to the Bassin Laure Manaudou area.\n\nEnd your day with a peaceful, scenic sunset walk along the beautiful Banks of the Seine."
+      }
+    }
+  }
+}

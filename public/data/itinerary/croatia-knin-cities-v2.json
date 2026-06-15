@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-knin-cities-v2",
+  "anchor": {
+    "name": "Knin",
+    "coords": [
+      16.195,
+      44.035
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eko Info Centar - EU Krka Knin",
+            "hu": "Eko Info Centar - EU Krka Knin",
+            "ro": "Eko Info Centar - EU Krka Knin",
+            "en": "Eko Info Centar - EU Krka Knin"
+          },
+          "coords": [
+            16.190042,
+            44.033104
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier den ökologischen Reichtum des Krka-Flussbeckens, was eine perfekte Einführung in die Natur bietet, also holen Sie sich eine kostenlose Karte am Schalter.",
+            "hu": "Fedezze fel itt a Krka vízgyűjtő ökológiai gazdagságát, ami tökéletes bevezetés a természetbe, ezért feltétlenül kérjen egy ingyenes térképet az információs pultnál.",
+            "ro": "Descoperiți aici bogăția ecologică a bazinului râului Krka, o introducere perfectă în natură, așa că nu uitați să luați o hartă gratuită de la birou.",
+            "en": "Discover the ecological richness of the Krka river basin here, which provides a perfect introduction before heading into nature, so grab a free map at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Arheološka zbirka",
+            "hu": "Arheološka zbirka",
+            "ro": "Arheološka zbirka",
+            "en": "Arheološka zbirka"
+          },
+          "coords": [
+            16.19288,
+            44.033067
+          ],
+          "category": "museum",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit der Region ein, indem Sie faszinierende ausgegrabene Artefakte betrachten, und nehmen Sie sich Zeit für die detaillierten zweisprachigen Tafeln.",
+            "hu": "Merüljön el a régió mély, ókori múltjában a lenyűgöző ásatási leletek megtekintésével, és szánjon időt a részletes, kétnyelvű tájékoztató táblák elolvasására.",
+            "ro": "Pătrundeți în trecutul antic al regiunii admirând artefacte fascinante excavate și acordați-vă timp pentru a citi plăcuțele detaliate bilingve.",
+            "en": "Dive into the deep ancient past of the region by viewing fascinating excavated artifacts, and take your time reading the detailed bilingual placards."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva svetog Ante Padovanskog",
+            "hu": "crkva svetog Ante Padovanskog",
+            "ro": "crkva svetog Ante Padovanskog",
+            "en": "crkva svetog Ante Padovanskog"
+          },
+          "coords": [
+            16.194666,
+            44.03245
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die schöne Architektur dieser katholischen Kirche und achten Sie auf bescheidene Kleidung, bevor Sie für einen ruhigen Moment eintreten.",
+            "hu": "Csodálja meg e helyi katolikus templom békés atmoszféráját és gyönyörű építészetét, de ügyeljen a visszafogott öltözködésre, mielőtt betérne egy csendes pillanatra.",
+            "ro": "Admirați atmosfera senină și arhitectura frumoasă a acestei biserici catolice locale, asigurându-vă că sunteți îmbrăcat decent înainte de a intra pentru un moment de liniște.",
+            "en": "Admire the serene atmosphere and beautiful architecture of this local Catholic church, making sure to dress modestly before stepping inside for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva Pokrova Presvete Bogorodice",
+            "hu": "crkva Pokrova Presvete Bogorodice",
+            "ro": "crkva Pokrova Presvete Bogorodice",
+            "en": "crkva Pokrova Presvete Bogorodice"
+          },
+          "coords": [
+            16.195776,
+            44.033113
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche orthodoxe Erbe, das in der komplexen Ikonographie dieser Kirche sichtbar wird, und respektieren Sie die laufenden Gottesdienste am Wochenende.",
+            "hu": "Tapasztalja meg a gazdag ortodox örökséget, amely e templom bonyolult ikonográfiájában mutatkozik meg, és tartsa tiszteletben a folyamatban lévő hétvégi istentiszteleteket.",
+            "ro": "Experimentați bogata moștenire ortodoxă vizibilă în iconografia complexă a acestei biserici și respectați slujbele în curs dacă o vizitați într-un weekend.",
+            "en": "Experience the rich Orthodox heritage visible in the intricate iconography of this church, and respect the ongoing services if visiting on a weekend."
+          }
+        },
+        {
+          "name": {
+            "de": "Oluja 95",
+            "hu": "Oluja 95",
+            "ro": "Oluja 95",
+            "en": "Oluja 95"
+          },
+          "coords": [
+            16.193245,
+            44.034948
+          ],
+          "category": "museum",
+          "arrive_at": "12:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem umfassenden Museum mehr über Kroatiens jüngere Geschichte und die Operation Sturm, wobei bequeme Schuhe wegen der unebenen Festungswege empfohlen werden.",
+            "hu": "Ismerje meg Horvátország közelmúltbeli történelmét és a Vihar hadműveletet ebben az átfogó múzeumban, ahol kényelmes cipő ajánlott a vár egyenetlen ösvényei miatt.",
+            "ro": "Aflați despre istoria recentă a Croației și operațiunea Furtuna la acest muzeu cuprinzător, unde se recomandă încălțăminte confortabilă din cauza cărărilor denivelate.",
+            "en": "Learn about Croatia's recent history and the pivotal Operation Storm at this comprehensive museum, where comfortable shoes are recommended due to the uneven fortress paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument to Knin Liberators",
+            "hu": "Monument to Knin Liberators",
+            "ro": "Monument to Knin Liberators",
+            "en": "Monument to Knin Liberators"
+          },
+          "coords": [
+            16.190657,
+            44.038814
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem monumentalen Tribut an die Befreier der Stadt Ihren Respekt, ein Ort, der auch hervorragende Fotomotive vor der dramatischen Kulisse der Stadt bietet.",
+            "hu": "Rója le tiszteletét a város felszabadítóinak emlékművénél, amely egyben kiváló fotózási lehetőségeket is kínál a város drámai háttere előtt.",
+            "ro": "Prezentați-vă omagiile la acest tribut monumental adus eliberatorilor orașului, un loc care oferă, de asemenea, oportunități excelente de fotografiere pe fundalul dramatic al orașului.",
+            "en": "Pay your respects at this monumental tribute to the city's liberators, a site that also offers excellent photo opportunities against the dramatic backdrop of the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer in Knin am ökologischen Zentrum und lernen Sie die umliegende Natur kennen. Tauchen Sie im archäologischen Museum tief in die antike Vergangenheit ein. Verbringen Sie den Nachmittag damit, die jüngere Geschichte und lokale Denkmäler zu erkunden, die Kroatien geprägt haben. Beenden Sie den Tag mit einem friedlichen Spaziergang am Rande der Stadt.",
+        "hu": "Kezdje knini kalandját az ökológiai központ felfedezésével és a környező természet megismerésével. Merüljön el a város ókori múltjában a régészeti múzeumban, feltárva a történelmi rétegeket. A délutánt a közelmúlt történelmének szentelje, meglátogatva a helyi emlékműveket. Zárja a napot egy békés sétával a külvárosban, visszagondolva a felfedezésekkel teli napra.",
+        "ro": "Începeți aventura în Knin explorând centrul ecologic și învățând despre natura înconjurătoare. Pătrundeți adânc în trecutul antic al orașului la muzeul arheologic, descoperind straturi istorice. Petreceți după-amiaza onorând istoria recentă și vizitând monumentele locale care au modelat Croația. Încheiați cu o plimbare liniștită la periferie pentru a reflecta asupra zilei de descoperiri.",
+        "en": "Start your Knin adventure exploring the ecological hub and learning about the surrounding nature. Dive deep into the town's ancient past at the archaeological museum, uncovering fascinating historical layers. Spend your afternoon honoring recent history and visiting local monuments that shaped Croatia. Finish with a peaceful stroll or drive to the outskirts to reflect on a day full of discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eko Info Centar - EU Krka Knin",
+            "hu": "Eko Info Centar - EU Krka Knin",
+            "ro": "Eko Info Centar - EU Krka Knin",
+            "en": "Eko Info Centar - EU Krka Knin"
+          },
+          "coords": [
+            16.190042,
+            44.033104
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier den ökologischen Reichtum des Krka-Flussbeckens, was eine perfekte Einführung in die Natur bietet, also holen Sie sich eine kostenlose Karte am Schalter.",
+            "hu": "Fedezze fel itt a Krka vízgyűjtő ökológiai gazdagságát, ami tökéletes bevezetés a természetbe, ezért feltétlenül kérjen egy ingyenes térképet az információs pultnál.",
+            "ro": "Descoperiți aici bogăția ecologică a bazinului râului Krka, o introducere perfectă în natură, așa că nu uitați să luați o hartă gratuită de la birou.",
+            "en": "Discover the ecological richness of the Krka river basin here, which provides a perfect introduction before heading into nature, so grab a free map at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Arheološka zbirka",
+            "hu": "Arheološka zbirka",
+            "ro": "Arheološka zbirka",
+            "en": "Arheološka zbirka"
+          },
+          "coords": [
+            16.19288,
+            44.033067
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit der Region ein, indem Sie faszinierende ausgegrabene Artefakte betrachten, und nehmen Sie sich Zeit für die detaillierten zweisprachigen Tafeln.",
+            "hu": "Merüljön el a régió mély, ókori múltjában a lenyűgöző ásatási leletek megtekintésével, és szánjon időt a részletes, kétnyelvű tájékoztató táblák elolvasására.",
+            "ro": "Pătrundeți în trecutul antic al regiunii admirând artefacte fascinante excavate și acordați-vă timp pentru a citi plăcuțele detaliate bilingve.",
+            "en": "Dive into the deep ancient past of the region by viewing fascinating excavated artifacts, and take your time reading the detailed bilingual placards."
+          }
+        },
+        {
+          "name": {
+            "de": "Oluja 95",
+            "hu": "Oluja 95",
+            "ro": "Oluja 95",
+            "en": "Oluja 95"
+          },
+          "coords": [
+            16.193245,
+            44.034948
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem umfassenden Museum mehr über Kroatiens jüngere Geschichte und die Operation Sturm, wobei bequeme Schuhe wegen der unebenen Festungswege empfohlen werden.",
+            "hu": "Ismerje meg Horvátország közelmúltbeli történelmét és a Vihar hadműveletet ebben az átfogó múzeumban, ahol kényelmes cipő ajánlott a vár egyenetlen ösvényei miatt.",
+            "ro": "Aflați despre istoria recentă a Croației și operațiunea Furtuna la acest muzeu cuprinzător, unde se recomandă încălțăminte confortabilă din cauza cărărilor denivelate.",
+            "en": "Learn about Croatia's recent history and the pivotal Operation Storm at this comprehensive museum, where comfortable shoes are recommended due to the uneven fortress paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument to Knin Liberators",
+            "hu": "Monument to Knin Liberators",
+            "ro": "Monument to Knin Liberators",
+            "en": "Monument to Knin Liberators"
+          },
+          "coords": [
+            16.190657,
+            44.038814
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem monumentalen Tribut an die Befreier der Stadt Ihren Respekt, ein Ort, der auch hervorragende Fotomotive vor der dramatischen Kulisse der Stadt bietet.",
+            "hu": "Rója le tiszteletét a város felszabadítóinak emlékművénél, amely egyben kiváló fotózási lehetőségeket is kínál a város drámai háttere előtt.",
+            "ro": "Prezentați-vă omagiile la acest tribut monumental adus eliberatorilor orașului, un loc care oferă, de asemenea, oportunități excelente de fotografiere pe fundalul dramatic al orașului.",
+            "en": "Pay your respects at this monumental tribute to the city's liberators, a site that also offers excellent photo opportunities against the dramatic backdrop of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kninska katedrala",
+            "hu": "Kninska katedrala",
+            "ro": "Kninska katedrala",
+            "en": "Kninska katedrala"
+          },
+          "coords": [
+            16.20748,
+            44.02878
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese prächtige Kathedrale, um ihr aufstrebendes Design zu schätzen, und beachten Sie die beeindruckenden modernen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Lépjen be ebbe a hatalmas katedrálisba, hogy megcsodálja lenyűgöző kialakítását, és figyelje meg a délutáni fényt befogó, lenyűgöző modern ólomüveg ablakokat.",
+            "ro": "Pășiți în această catedrală grandioasă pentru a aprecia designul său impunător, remarcând vitraliile moderne impresionante care captează lumina după-amiezii.",
+            "en": "Step into this grand cathedral to appreciate its soaring design and historical significance, noting the impressive modern stained glass windows catching the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bracića jezero",
+            "hu": "Bracića jezero",
+            "ro": "Bracića jezero",
+            "en": "Bracića jezero"
+          },
+          "coords": [
+            16.232493,
+            43.990457
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen See, der als Oase für Einheimische dient, wo ein kleines Picknick und Insektenspray für einen herrlichen Abschluss sorgen.",
+            "hu": "Pihenjen meg ennél a festői tónál, amely oázisként szolgál a helyiek számára, ahol egy kis piknik és rovarriasztó biztosítja a felfedező nap kellemes befejezését.",
+            "ro": "Relaxați-vă lângă acest lac pitoresc care servește drept oază pentru localnici, unde un mic picnic și un spray anti-insecte vă asigură un final minunat al zilei.",
+            "en": "Unwind by this scenic lake that serves as an oasis for locals, where packing a small picnic and bug spray ensures a delightful end to your exploratory day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer in Knin am ökologischen Zentrum und lernen Sie die umliegende Natur kennen. Tauchen Sie im archäologischen Museum tief in die antike Vergangenheit ein. Verbringen Sie den Nachmittag damit, die jüngere Geschichte und lokale Denkmäler zu erkunden, die Kroatien geprägt haben. Beenden Sie den Tag mit einer friedlichen Radfahrt am Rande der Stadt am See.",
+        "hu": "Kezdje knini kalandját az ökológiai központ felfedezésével és a környező természet megismerésével. Merüljön el a város ókori múltjában a régészeti múzeumban, feltárva a történelmi rétegeket. A délutánt a közelmúlt történelmének szentelje, meglátogatva a helyi emlékműveket. Zárja a napot egy békés kerékpározással a tó partján fekvő külvárosban.",
+        "ro": "Începeți aventura în Knin explorând centrul ecologic și învățând despre natura înconjurătoare. Pătrundeți adânc în trecutul antic al orașului la muzeul arheologic, descoperind straturi istorice. Petreceți după-amiaza onorând istoria recentă și vizitând monumentele locale care au modelat Croația. Încheiați cu o plimbare liniștită cu bicicleta la lacul de la periferie.",
+        "en": "Start your Knin adventure exploring the ecological hub and learning about the surrounding nature. Dive deep into the town's ancient past at the archaeological museum, uncovering fascinating historical layers. Spend your afternoon honoring recent history and visiting local monuments that shaped Croatia. Finish with a peaceful bike ride to the scenic outskirts by the lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 9.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument to Knin Liberators",
+            "hu": "Monument to Knin Liberators",
+            "ro": "Monument to Knin Liberators",
+            "en": "Monument to Knin Liberators"
+          },
+          "coords": [
+            16.190657,
+            44.038814
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem monumentalen Tribut an die Befreier der Stadt Ihren Respekt, ein Ort, der auch hervorragende Fotomotive vor der dramatischen Kulisse der Stadt bietet.",
+            "hu": "Rója le tiszteletét a város felszabadítóinak emlékművénél, amely egyben kiváló fotózási lehetőségeket is kínál a város drámai háttere előtt.",
+            "ro": "Prezentați-vă omagiile la acest tribut monumental adus eliberatorilor orașului, un loc care oferă, de asemenea, oportunități excelente de fotografiere pe fundalul dramatic al orașului.",
+            "en": "Pay your respects at this monumental tribute to the city's liberators, a site that also offers excellent photo opportunities against the dramatic backdrop of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Oluja 95",
+            "hu": "Oluja 95",
+            "ro": "Oluja 95",
+            "en": "Oluja 95"
+          },
+          "coords": [
+            16.193245,
+            44.034948
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem umfassenden Museum mehr über Kroatiens jüngere Geschichte und die Operation Sturm, wobei bequeme Schuhe wegen der unebenen Festungswege empfohlen werden.",
+            "hu": "Ismerje meg Horvátország közelmúltbeli történelmét és a Vihar hadműveletet ebben az átfogó múzeumban, ahol kényelmes cipő ajánlott a vár egyenetlen ösvényei miatt.",
+            "ro": "Aflați despre istoria recentă a Croației și operațiunea Furtuna la acest muzeu cuprinzător, unde se recomandă încălțăminte confortabilă din cauza cărărilor denivelate.",
+            "en": "Learn about Croatia's recent history and the pivotal Operation Storm at this comprehensive museum, where comfortable shoes are recommended due to the uneven fortress paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kninska katedrala",
+            "hu": "Kninska katedrala",
+            "ro": "Kninska katedrala",
+            "en": "Kninska katedrala"
+          },
+          "coords": [
+            16.20748,
+            44.02878
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese prächtige Kathedrale, um ihr aufstrebendes Design zu schätzen, und beachten Sie die beeindruckenden modernen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Lépjen be ebbe a hatalmas katedrálisba, hogy megcsodálja lenyűgöző kialakítását, és figyelje meg a délutáni fényt befogó, lenyűgöző modern ólomüveg ablakokat.",
+            "ro": "Pășiți în această catedrală grandioasă pentru a aprecia designul său impunător, remarcând vitraliile moderne impresionante care captează lumina după-amiezii.",
+            "en": "Step into this grand cathedral to appreciate its soaring design and historical significance, noting the impressive modern stained glass windows catching the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sv. Nikola",
+            "hu": "Sv. Nikola",
+            "ro": "Sv. Nikola",
+            "en": "Sv. Nikola"
+          },
+          "coords": [
+            16.194431,
+            44.00928
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische religiöse Stätte etwas außerhalb des Zentrums für einen tief friedlichen Rückzugsort, perfekt für einen Moment der ruhigen Reflexion.",
+            "hu": "Látogasson el erre a központtól kissé távolabb eső történelmi vallási helyszínre egy mélyen békés elvonulásért, amely tökéletes egy pillanatnyi csendes elmélkedésre.",
+            "ro": "Vizitați acest sit religios istoric situat puțin mai departe de centru pentru o retragere profund pașnică, perfectă pentru un moment de reflecție liniștită.",
+            "en": "Visit this historic religious site slightly removed from the center for a deeply peaceful retreat, perfect for a moment of quiet reflection away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Bracića jezero",
+            "hu": "Bracića jezero",
+            "ro": "Bracića jezero",
+            "en": "Bracića jezero"
+          },
+          "coords": [
+            16.232493,
+            43.990457
+          ],
+          "category": "natural",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen See, der als Oase für Einheimische dient, wo ein kleines Picknick und Insektenspray für einen herrlichen Abschluss sorgen.",
+            "hu": "Pihenjen meg ennél a festői tónál, amely oázisként szolgál a helyiek számára, ahol egy kis piknik és rovarriasztó biztosítja a felfedező nap kellemes befejezését.",
+            "ro": "Relaxați-vă lângă acest lac pitoresc care servește drept oază pentru localnici, unde un mic picnic și un spray anti-insecte vă asigură un final minunat al zilei.",
+            "en": "Unwind by this scenic lake that serves as an oasis for locals, where packing a small picnic and bug spray ensures a delightful end to your exploratory day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer in Knin, indem Sie am Denkmal Ihren Respekt erweisen und im Museum tief in die jüngste Geschichte eintauchen. Fahren Sie zur beeindruckenden Kathedrale der Stadt, um die lokale Architektur zu bewundern. Beenden Sie den Tag mit einer ruhigen Fahrt zu versteckten religiösen Stätten und einem friedlichen Nachmittag am malerischen See.",
+        "hu": "Kezdje knini kalandját a felszabadítók emlékművénél, majd merüljön el a közelmúlt történelmében a múzeumban. Vezessen a város lenyűgöző katedrálisához, hogy megcsodálja a helyi építészetet. Zárja a napot egy békés utazással a rejtett vallási helyszínek felé, majd pihenjen a festői tónál.",
+        "ro": "Începeți aventura în Knin prezentând omagiile la monument și explorând istoria recentă la muzeu. Conduceți către catedrala impresionantă a orașului pentru a admira arhitectura locală. Încheiați ziua cu o plimbare liniștită către situri religioase ascunse și o după-amiază de relaxare la lacul pitoresc.",
+        "en": "Start your Knin adventure by paying respects at the monument and diving deep into recent history at the museum. Drive to the town's impressive cathedral to admire local architecture. Finish the day with a serene drive to hidden religious sites and a peaceful afternoon by the scenic lake."
+      }
+    }
+  }
+}

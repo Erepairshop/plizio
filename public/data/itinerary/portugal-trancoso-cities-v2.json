@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-trancoso-cities-v2",
+  "anchor": {
+    "name": "Trancoso",
+    "coords": [
+      -7.35,
+      40.7667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 0.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Trancoso",
+            "hu": "Trancoso Városháza",
+            "ro": "Primăria Trancoso",
+            "en": "Trancoso Town Hall"
+          },
+          "coords": [
+            -7.350485,
+            40.777944
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur auf dem Rathausplatz und achten Sie auf den alten Pranger, bevor Sie tiefer in die mittelalterlichen Gassen vordringen.",
+            "hu": "Csodálja meg a városháza terének hagyományos építészetét, és vegye szemügyre a régi pellengért, mielőtt mélyebbre merészkedne a középkori sikátorokban.",
+            "ro": "Admirați arhitectura tradițională din piața primăriei și observați vechiul stâlp al infamiei înainte de a vă aventura mai adânc pe străduțele medievale.",
+            "en": "Admire the traditional architecture of the town hall square, and take a moment to notice the pillory before heading deeper into the medieval alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa do Correio Mor",
+            "hu": "Régi Postamesteri Ház",
+            "ro": "Casa Dirigintelui Poștei",
+            "en": "Old Postmaster's House"
+          },
+          "coords": [
+            -7.349292,
+            40.778061
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das kunstvolle Mauerwerk an der Fassade dieses ehemaligen Postmeisterhauses, das man am besten im weichen Morgenlicht fotografiert.",
+            "hu": "Keresse a bonyolult kőfaragásokat ezen az egykori postamesteri rezidencián, amelyet a legérdemesebb a reggeli fényben lencsevégre kapni.",
+            "ro": "Căutați sculpturile detaliate în piatră de pe fațada acestei foste reședințe a dirigintelui poștei, cel mai bine de fotografiat în lumina dimineții.",
+            "en": "Look for the intricate stonework on the facade of this former postmaster's residence, which is best photographed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro da Cultura Judaica",
+            "hu": "Zsidó Kulturális Központ",
+            "ro": "Centrul de Cultură Iudaică",
+            "en": "Jewish Culture Center"
+          },
+          "coords": [
+            -7.348156,
+            40.777632
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Museum in die reiche sephardische Geschichte ein und verpassen Sie nicht die wechselnden Ausstellungen im ersten Stock.",
+            "hu": "Merüljön el a gazdag szefárd történelemben ebben a modern múzeumban, és mindenképpen tekintse meg az első emeleti időszaki kiállításokat.",
+            "ro": "Pătrundeți în bogata istorie sefardă din interiorul acestui muzeu modern și asigurați-vă că verificați expozițiile temporare de la primul etaj.",
+            "en": "Dive into the rich Sephardic history of Trancoso inside this modern museum, and be sure to check the temporary exhibition on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio Ducal",
+            "hu": "Dózse-palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            -7.348934,
+            40.779146
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe dieser alten Adelsresidenz und achten Sie im Vorbeigehen auf das steinerne Wappen über dem imposanten Haupteingang.",
+            "hu": "Értékelje e régi nemesi rezidencia nagyságát, különös figyelmet fordítva a főbejárat feletti kőből faragott címerre, miközben elsétál mellette.",
+            "ro": "Apreciați grandoarea acestei vechi reședințe nobiliare, acordând atenție blazonului sculptat de deasupra intrării principale în timp ce treceți pe acolo.",
+            "en": "Appreciate the grandeur of this old noble residence, paying attention to the carved coat of arms above the main entrance as you walk past."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Trancoso",
+            "hu": "Trancosói Kastély",
+            "ro": "Castelul Trancoso",
+            "en": "Trancoso Castle"
+          },
+          "coords": [
+            -7.347491,
+            40.779387
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die gut erhaltenen Burgmauern für einen Panoramablick auf die Region Beira Alta, und tragen Sie festes Schuhwerk für die unebenen Stufen.",
+            "hu": "Másszon fel a jól megőrzött várfalakra a Beira Alta régióra nyíló panorámáért, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Urcați pe zidurile bine conservate ale castelului pentru o vedere panoramică a regiunii Beira Alta, purtând încălțăminte solidă pentru treptele denivelate.",
+            "en": "Climb the well-preserved castle walls for a panoramic view of the Beira Alta region, wearing sturdy shoes to safely navigate the uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Fresta",
+            "hu": "Nossa Senhora da Fresta Templom",
+            "ro": "Biserica Nossa Senhora da Fresta",
+            "en": "Church of Nossa Senhora da Fresta"
+          },
+          "coords": [
+            -7.345402,
+            40.778229
+          ],
+          "category": "religious",
+          "arrive_at": "16:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanische Kirche, um ihre historischen Fresken zu bewundern und die ruhige Atmosphäre für einen Moment der Besinnung zu nutzen.",
+            "hu": "Lépjen be ebbe a román stílusú templomba, hogy megcsodálja történelmi freskóit, kihasználva a csendes légkört egy pillanatnyi elmélkedésre.",
+            "ro": "Pășiți în această biserică romanică pentru a-i admira frescele istorice, profitând de atmosfera liniștită pentru un scurt moment de reflecție.",
+            "en": "Step inside this Romanesque church to admire its historic frescoes, taking advantage of the quiet, peaceful atmosphere for a moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+            "hu": "Micha Velha Sziklasírjai",
+            "ro": "Mormintele Rupestre Micha Velha",
+            "en": "Micha Velha Rock Graves"
+          },
+          "coords": [
+            -7.345807,
+            40.779917
+          ],
+          "category": "historical",
+          "arrive_at": "17:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese in die Felsen gehauenen mittelalterlichen Gräber und bringen Sie ein Weitwinkelobjektiv mit, um die einzigartige Umgebung einzufangen.",
+            "hu": "Fedezze fel ezeket a tájba simuló középkori sziklasírokat, és hozzon magával nagylátószögű objektívet, hogy megörökítse az egyedülálló környezetet.",
+            "ro": "Descoperiți aceste morminte medievale săpate în stâncă în mijlocul peisajului și aduceți un obiectiv cu unghi larg pentru a surprinde cadrul unic.",
+            "en": "Discover these medieval rock-hewn graves nestled in the landscape, and bring a wide-angle lens to fully capture the unique geological setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang am historischen Rathaus und genießen die mittelalterliche Atmosphäre im Zentrum von Trancoso, bevor wir das alte Postmeisterhaus bewundern.\n\nAm Mittag besuchen wir das Zentrum für jüdische Kultur, eine wichtige Station für die Geschichte, und schlendern anschließend zum imposanten Herzogspalast.\n\nNachmittags erkunden wir die beeindruckende Burg von Trancoso und die nahe gelegene, ruhige romanische Kirche Nossa Senhora da Fresta.\n\nDer Abend endet mit einem faszinierenden Besuch der alten Felsengräber von Micha Velha, was einen mystischen und unvergesslichen Abschluss unseres Tages bildet.",
+        "hu": "Sétánkat a történelmi városházánál kezdjük, magunkba szívva Trancoso központjának középkori hangulatát, majd megcsodáljuk a régi postamesteri házat.\n\nDélben a Zsidó Kulturális Központba látogatunk, amely elengedhetetlen a régió örökségének megértéséhez, majd a Dózse-palotához sétálunk.\n\nDélután felfedezzük az impozáns trancosói kastélyt és a közeli Nossa Senhora da Fresta templomot, elmerülve a középkori építészetben.\n\nAz estét a Micha Velha ősi sziklasírjainak lenyűgöző látványával zárjuk, amely egyedülálló, misztikus befejezése az egész napos történelmi utazásunknak.",
+        "ro": "Ne începem turul la primăria istorică, bucurându-ne de atmosfera medievală din centrul orașului Trancoso înainte de a admira vechea casă a dirigintelui poștei.\n\nLa prânz ajungem la Centrul de Cultură Iudaică, o vizită esențială pentru a înțelege patrimoniul regiunii, urmată de o plimbare spre Palatul Ducal.\n\nDupă-amiaza explorăm impunătorul Castel Trancoso și liniștita Biserică Nossa Senhora da Fresta din apropiere, cufundându-ne în detaliile istorice.\n\nSeara se încheie cu o vizită fascinantă la vechile morminte săpate în stâncă de la Micha Velha, un final mistic pentru ziua noastră perfectă de explorare.",
+        "en": "We start our walking tour at the historic town hall, soaking in the medieval atmosphere of Trancoso's center before admiring the old postmaster's house.\n\nMidday brings us to the Jewish Culture Center, an essential visit to understand the region's diverse heritage, followed by a stroll to the stately Ducal Palace.\n\nIn the afternoon, we explore the imposing Trancoso Castle and the nearby tranquil Church of Nossa Senhora da Fresta to appreciate their ancient stones.\n\nThe evening concludes with a fascinating visit to the ancient rock-hewn graves of Micha Velha, providing a truly mystical end to our historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:28",
+      "total_km": 1.48,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            -7.353728,
+            40.77463
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die aktuellen Ausstellungen an, bevor Sie sich auf Ihr Fahrrad schwingen, und nutzen Sie den Vorplatz, um Ihre Route in Ruhe zu planen.",
+            "hu": "Nézze meg az aktuális kiállításokat, mielőtt kerékpárra pattanna, és használja a tágas előteret az útvonal kényelmes megtervezéséhez.",
+            "ro": "Aruncați o privire la expozițiile actuale înainte de a urca pe bicicletă și folosiți piațeta spațioasă pentru a vă planifica traseul în liniște.",
+            "en": "Check out the current art exhibitions before hopping on your bike, using the spacious plaza in front to comfortably map out your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Trancoso",
+            "hu": "Trancoso Városháza",
+            "ro": "Primăria Trancoso",
+            "en": "Trancoso Town Hall"
+          },
+          "coords": [
+            -7.350485,
+            40.777944
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad in der Nähe ab und gehen Sie zu Fuß über den Platz, um die wunderschöne Steinfassade des Rathauses aus der Nähe zu betrachten.",
+            "hu": "Parkolja le kerékpárját a közelben, és sétáljon végig a téren, hogy testközelből is megcsodálhassa a városháza gyönyörű kőhomlokzatát.",
+            "ro": "Parcați bicicleta în apropiere și plimbați-vă prin piață pentru a privi de aproape fațada frumoasă din piatră a clădirii primăriei.",
+            "en": "Park your bike nearby and walk across the main square to get a closer, uninterrupted look at the beautiful stone facade of the town hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro da Cultura Judaica",
+            "hu": "Zsidó Kulturális Központ",
+            "ro": "Centrul de Cultură Iudaică",
+            "en": "Jewish Culture Center"
+          },
+          "coords": [
+            -7.348156,
+            40.777632
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bitten Sie das Personal um die Broschüre mit den jüdischen Symbolen in Trancoso, um später bei der Weiterfahrt geheime Zeichen zu entdecken.",
+            "hu": "Kérje el a személyzettől a trancosói zsidó szimbólumokat bemutató füzetet, hogy később a tekerés során titkos jeleket fedezhessen fel.",
+            "ro": "Cereți personalului broșura cu simbolurile iudaice din Trancoso pentru a descoperi semne secrete mai târziu, în timp ce vă continuați plimbarea.",
+            "en": "Ask the staff for the local brochure of Jewish symbols in Trancoso to spot hidden carvings on doorframes as you cycle further."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio Ducal",
+            "hu": "Dózse-palota",
+            "ro": "Palatul Ducal",
+            "en": "Ducal Palace"
+          },
+          "coords": [
+            -7.348934,
+            40.779146
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Das Pflaster hier kann holprig sein; steigen Sie am besten ab, um das majestätische Äußere des Palastes ungestört genießen zu können.",
+            "hu": "A macskaköves út itt meglehetősen rázós lehet; a legjobb, ha leszáll a bicikliről, hogy zavartalanul gyönyörködhessen a fenséges palotában.",
+            "ro": "Pavajul de aici poate fi denivelat; cel mai bine este să descălecați pentru a admira în liniște exteriorul maiestuos al palatului istoric.",
+            "en": "The cobblestones here can be bumpy; it is best to dismount your bike to smoothly admire the majestic exterior of the historic palace."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Trancoso",
+            "hu": "Trancosói Kastély",
+            "ro": "Castelul Trancoso",
+            "en": "Trancoso Castle"
+          },
+          "coords": [
+            -7.347491,
+            40.779387
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Fahren Sie um die alten Befestigungsanlagen herum, bevor Sie eintreten, da die äußeren Wege großartige Perspektiven für Fotos bieten.",
+            "hu": "Kerékpározza körbe az ősi erődítményeket belépés előtt, mivel a külső ösvények nagyszerű fotózási szögeket és kilátást kínálnak.",
+            "ro": "Pedalați în jurul vechilor fortificații înainte de a intra, deoarece cărările exterioare oferă perspective excelente și unghiuri foto inedite.",
+            "en": "Cycle completely around the ancient fortifications before entering, as the exterior paths offer magnificent perspectives and unique photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+            "hu": "São Tomé Sziklasírjai",
+            "ro": "Mormintele Rupestre São Tomé",
+            "en": "São Tomé Rock Graves"
+          },
+          "coords": [
+            -7.347053,
+            40.780814
+          ],
+          "category": "historical",
+          "arrive_at": "16:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad an der Straße stehen und gehen Sie vorsichtig zwischen diesen bemerkenswerten, in den Stein gehauenen Relikten umher.",
+            "hu": "Hagyja a kerékpárt az út szélén, és óvatosan sétáljon e figyelemre méltó, közvetlenül a sziklába vájt ősi relikviák között.",
+            "ro": "Lăsați bicicleta pe marginea drumului și plimbați-vă cu grijă printre aceste relicve remarcabile săpate direct în formațiunile de piatră.",
+            "en": "Leave your bike safely by the road and walk carefully among these remarkable, ancient relics carved directly into the natural stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo de Sepulturas Rupestres da Micha Velha",
+            "hu": "Micha Velha Sziklasírjai",
+            "ro": "Mormintele Rupestre Micha Velha",
+            "en": "Micha Velha Rock Graves"
+          },
+          "coords": [
+            -7.345807,
+            40.779917
+          ],
+          "category": "historical",
+          "arrive_at": "17:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu dieser zweiten Grabstätte, wo das Licht am späten Nachmittag die Konturen des massiven Felsens wunderbar hervorhebt.",
+            "hu": "Egy rövid tekerés elvezet ehhez a második sírhelyhez, ahol a késő délutáni fény csodálatosan kiemeli a masszív szikla körvonalait.",
+            "ro": "O scurtă plimbare vă aduce la acest al doilea sit funerar, unde lumina după-amiezii târziu evidențiază frumos contururile rocilor masive.",
+            "en": "A short ride brings you to this second gravesite, where the late afternoon sun beautifully highlights the intricate contours of the massive rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Fresta",
+            "hu": "Nossa Senhora da Fresta Templom",
+            "ro": "Biserica Nossa Senhora da Fresta",
+            "en": "Church of Nossa Senhora da Fresta"
+          },
+          "coords": [
+            -7.345402,
+            40.778229
+          ],
+          "category": "religious",
+          "arrive_at": "19:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser friedlichen Kirche und nutzen Sie die ruhige Abendstimmung für einen letzten Blick auf die historische Fassade.",
+            "hu": "Zárja túráját ennél a békés templomnál, és élvezze a csendes esti hangulatot a történelmi homlokzat utolsó megtekintéséhez.",
+            "ro": "Încheiați-vă turul la această biserică pașnică, profitând de atmosfera liniștită de seară pentru o ultimă privire asupra fațadei istorice.",
+            "en": "Finish your cycling tour at this peaceful church, taking advantage of the quiet evening atmosphere for a final look at the historic facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Kulturzentrum und setzt einen kreativen Akzent, bevor wir zügig zum historischen Rathausplatz von Trancoso radeln.\n\nMittags fahren wir in das Herz des alten Viertels, um das jüdische Kulturzentrum zu besuchen, und radeln dann flott zum großartigen Herzogspalast.\n\nDer Nachmittag ist der robusten Burg von Trancoso und den nahegelegenen alten Gräbern von São Tomé gewidmet, die beide viel Geschichte bieten.\n\nDer Abend bricht herein, während wir die Gräber von Micha Velha entdecken und unsere Radtour an der friedlichen Kirche Nossa Senhora da Fresta beenden.",
+        "hu": "A reggel a Kulturális Központban indul, amely kreatív alaphangot ad, mielőtt Trancoso történelmi városháza terére kerekeznénk.\n\nDélben a régi negyed szívébe utazunk, hogy meglátogassuk a zsidó kulturális központot, majd sebesen a nagyszerű Dózse-palotához tekerünk.\n\nA délutánt a robusztus trancosói kastélynak és a közeli, mély történelemmel átitatott São Tomé ősi sziklasíroknak szenteljük.\n\nAz este közeledtével felfedezzük a Micha Velha sírokat, és a békés Nossa Senhora da Fresta templomnál fejezzük be történelmi kerékpáros utunkat.",
+        "ro": "Dimineața începe la Centrul Cultural, stabilind un ton creativ înainte de a pedala alert spre piața istorică a primăriei din Trancoso.\n\nLa prânz intrăm în inima vechiului cartier pentru a vizita Centrul de Cultură Iudaică, apoi pedalăm rapid spre marele Palat Ducal.\n\nDupă-amiaza este dedicată robustului Castel Trancoso și vechilor morminte de la São Tomé din apropiere, ambele pline de istorie captivantă.\n\nSeara se lasă în timp ce descoperim mormintele Micha Velha și ne încheiem călătoria cu bicicleta la liniștita Biserică Nossa Senhora da Fresta.",
+        "en": "Morning begins at the Cultural Center, setting a creative tone before we cycle smoothly to the historic town hall square of Trancoso.\n\nMidday takes us into the heart of the old quarter to visit the Jewish Culture Center, then pedaling swiftly to the grand Ducal Palace.\n\nThe afternoon is dedicated to the robust Trancoso Castle and the nearby ancient graves of São Tomé, both steeped in deep, visible history.\n\nEvening falls as we discover the Micha Velha graves and finally finish our cycling journey at the peaceful Church of Nossa Senhora da Fresta."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscinas Municipais de Trancoso",
+            "hu": "Trancosói Városi Medencék",
+            "ro": "Piscinele Municipale Trancoso",
+            "en": "Trancoso Municipal Pools"
+          },
+          "coords": [
+            -7.356716,
+            40.771119
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz hier als bequemen Ausgangspunkt für Ihren Tag und genießen Sie morgens das ruhige Wasser der Anlage.",
+            "hu": "Használja az itteni tágas parkolót a nap kényelmes kiindulópontjaként, és élvezze a létesítmény nyugodt vizét a kora reggeli órákban.",
+            "ro": "Folosiți parcarea mare de aici ca punct de plecare convenabil pentru ziua dvs. și bucurați-vă de apele liniștite ale complexului dimineața.",
+            "en": "Use the ample parking lot here as a convenient starting point for your day, and enjoy the calm waters of the facility in the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            -7.353728,
+            40.77463
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Parken in den Seitenstraßen ist in der Regel einfach; schauen Sie unbedingt im Foyer vorbei, um Informationen über lokale Veranstaltungen zu erhalten.",
+            "hu": "A mellékutcákban általában könnyű a parkolás; mindenképpen térjen be az előtérbe a helyi eseményekről szóló információkért.",
+            "ro": "Parcarea pe străzile laterale este de obicei ușoară; asigurați-vă că intrați în foaier pentru informații despre evenimentele locale.",
+            "en": "Parking along the side streets is usually easy; be sure to pop into the foyer to grab information regarding any ongoing local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Trancoso",
+            "hu": "Trancoso Városháza",
+            "ro": "Primăria Trancoso",
+            "en": "Trancoso Town Hall"
+          },
+          "coords": [
+            -7.350485,
+            40.777944
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam an den alten Mauern vorbei und suchen Sie sich einen ausgewiesenen Parkplatz, um den belebten Platz zu Fuß zu erkunden.",
+            "hu": "Hajtson lassan a régi falak mellett, és keressen egy kijelölt parkolóhelyet, hogy utána gyalogosan fedezhesse fel a nyüzsgő teret.",
+            "ro": "Conduceți încet pe lângă vechile ziduri și găsiți un loc de parcare amenajat pentru a explora apoi pe jos piața plină de viață.",
+            "en": "Drive slowly past the old walls and find a designated parking spot so you can comfortably explore the bustling town square on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro da Cultura Judaica",
+            "hu": "Zsidó Kulturális Központ",
+            "ro": "Centrul de Cultură Iudaică",
+            "en": "Jewish Culture Center"
+          },
+          "coords": [
+            -7.348156,
+            40.777632
+          ],
+          "category": "museum",
+          "arrive_at": "13:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Es ist am besten, das Auto stehen zu lassen und die kurze Strecke zu gehen, da die engen Gassen um das Museum schwer zu befahren sind.",
+            "hu": "A legjobb, ha otthagyja az autót, és megteszi a rövid távot gyalog, mivel a múzeum körüli szűk utcákon nehézkes a közlekedés.",
+            "ro": "Cel mai bine este să lăsați mașina și să parcurgeți distanța scurtă pe jos, deoarece străduțele înguste din jurul muzeului sunt greu de navigat.",
+            "en": "It is best to leave the car parked and walk the short distance, as the narrow, historic alleys around the museum are notoriously difficult to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Trancoso",
+            "hu": "Trancosói Kastély",
+            "ro": "Castelul Trancoso",
+            "en": "Trancoso Castle"
+          },
+          "coords": [
+            -7.347491,
+            40.779387
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "In der Nähe der Burgtore gibt es einige Parkplätze, von wo aus Sie direkt in die faszinierende mittelalterliche Festungsanlage eintauchen können.",
+            "hu": "A várkapu közelében található néhány parkolóhely, ahonnan közvetlenül beléphet a lenyűgöző középkori erődítmény területére.",
+            "ro": "Există câteva locuri de parcare aproape de porțile castelului, de unde puteți păși direct în interiorul fascinantei fortărețe medievale.",
+            "en": "There are a few parking spots available close to the castle gates, allowing you to step directly into the fascinating medieval fortress grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo de Sepulturas Rupestres de São Tomé",
+            "hu": "São Tomé Sziklasírjai",
+            "ro": "Mormintele Rupestre São Tomé",
+            "en": "São Tomé Rock Graves"
+          },
+          "coords": [
+            -7.347053,
+            40.780814
+          ],
+          "category": "historical",
+          "arrive_at": "16:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ein kurzes Stück Fahrt bringt Sie zu diesen historischen Gräbern; parken Sie am Straßenrand und achten Sie beim Aussteigen auf den Verkehr.",
+            "hu": "Egy rövid autóút elvisz ezekhez a történelmi sírokhoz; parkoljon le az út szélén, és kiszálláskor nagyon ügyeljen a forgalomra.",
+            "ro": "Un drum scurt vă duce la aceste morminte istorice; parcați pe marginea drumului și fiți atenți la trafic atunci când coborâți din mașină.",
+            "en": "A very short drive brings you to these historical graves; park safely on the shoulder and be mindful of passing traffic when exiting your vehicle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Tag mit einem erfrischenden Halt an den städtischen Schwimmbädern, wo wir bequem parken können, bevor wir das Kulturzentrum erkunden.\n\nGegen Mittag fahren wir in die Nähe des Rathauses und gehen zum Zentrum für jüdische Kultur, um das tiefe lokale Erbe zu erforschen.\n\nDer Nachmittag bringt uns direkt zur hoch aufragenden Burg von Trancoso, wo wir die mittelalterlichen Verteidigungsanlagen in unserem eigenen Tempo besichtigen können.\n\nGegen Abend bringt uns eine kurze Fahrt zu den faszinierenden Felsengräbern von São Tomé, die einen perfekten historischen Abschluss unserer Autotour bilden.",
+        "hu": "A napot egy frissítő megállóval kezdjük a városi medencéknél, könnyedén parkolva, mielőtt a Kulturális Központot kezdenénk felfedezni.\n\nDélben a városháza közelébe autózunk, és átsétálunk a Zsidó Kulturális Központba, hogy elmélyedjünk a helyi történelmi örökségben.\n\nA délután egyenesen a magasodó trancosói kastélyhoz visz minket, ahol saját tempónkban fedezhetjük fel az erős középkori védműveket.\n\nAhogy közeledik az este, egy rövid út elvezet minket São Tomé lenyűgöző sziklasírjaihoz, tökéletes történelmi lezárást nyújtva autós túránknak.",
+        "ro": "Ne începem ziua cu o oprire revigorantă la piscinele municipale, parcând ușor înainte de a trece la Centrul Cultural pentru a explora expozițiile.\n\nLa prânz, conducem aproape de primărie și mergem pe jos până la Centrul de Cultură Iudaică, luându-ne timp pentru a absorbi patrimoniul local.\n\nDupă-amiaza ne aduce direct la impunătorul Castel Trancoso, unde putem explora la pas apărările medievale robuste și priveliștile uimitoare.\n\nPe măsură ce se apropie seara, un scurt drum cu mașina ne aduce la mormintele săpate în stâncă de la São Tomé, oferind o concluzie istorică perfectă.",
+        "en": "We start our day with a refreshing stop at the municipal pools, parking easily before moving on to the Cultural Center to explore local exhibits.\n\nBy midday, we drive close to the town hall and walk to the nearby Jewish Culture Center, taking time to absorb the profound local heritage.\n\nAfternoon brings us directly to the towering Trancoso Castle, where we can safely park and explore the robust medieval defenses at our own pace.\n\nAs evening approaches, a short drive brings us to the fascinating rock graves of São Tomé, providing a perfect, historical conclusion to our driving tour."
+      }
+    }
+  }
+}

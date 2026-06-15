@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-porthmeor-cities-v2",
+  "anchor": {
+    "name": "Porthmeor",
+    "coords": [
+      -5.59813,
+      50.17848
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.94,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bosigran Smelting Works",
+            "hu": "Bosigran Smelting Works",
+            "ro": "Bosigran Smelting Works",
+            "en": "Bosigran Smelting Works"
+          },
+          "coords": [
+            -5.601058,
+            50.178548
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Küstenschmelze, um Cornwalls Zinnbergbauerbe zu entdecken, und tragen Sie festes Schuhwerk für die Klippenpfade.",
+            "hu": "Fedezze fel e partmenti kohó hangulatos romjait, hogy megismerje Cornwall ónbányászati örökségét, és viseljen masszív cipőt az egyenetlen sziklaösvényeken.",
+            "ro": "Explorați ruinele atmosferice ale acestei topitorii de coastă pentru a descoperi moștenirea minieră a Cornwallului și purtați încălțăminte rezistentă pe poteci.",
+            "en": "Explore the atmospheric ruins of this coastal smelting site to uncover Cornwall's tin mining heritage, and wear sturdy shoes for the uneven cliffside paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Carn Galver Mine",
+            "hu": "Carn Galver Mine",
+            "ro": "Carn Galver Mine",
+            "en": "Carn Galver Mine"
+          },
+          "coords": [
+            -5.612897,
+            50.171739
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Maschinenhaus der Carn Galver Mine in der Moorlandschaft und bringen Sie eine Kamera für beeindruckende Weitwinkel-Naturaufnahmen mit.",
+            "hu": "Csodálja meg a mocsaras tájból kiemelkedő Carn Galver bánya ikonikus gépházát, és hozzon magával fényképezőgépet a lenyűgöző, nagylátószögű természetfotókhoz.",
+            "ro": "Admirați emblematica clădire a mașinii de la Mina Carn Galver, care domină peisajul de mlaștină, și aduceți un aparat foto pentru cadre largi uimitoare.",
+            "en": "Admire the iconic engine house of Carn Galver Mine which stands proudly against the moorland landscape, and bring a camera for stunning wide-angle nature shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Watch Croft",
+            "hu": "Watch Croft",
+            "ro": "Watch Croft",
+            "en": "Watch Croft"
+          },
+          "coords": [
+            -5.613445,
+            50.165007
+          ],
+          "category": "park",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Gipfel des Watch Croft für atemberaubende Panoramablicke auf die Halbinsel Penwith, aber seien Sie selbst an sonnigen Tagen auf frischen Wind gefasst.",
+            "hu": "Túrázzon fel a Watch Croft csúcsára a Penwith-félszigetre nyíló lélegzetelállító panorámáért, de készüljön fel a hűvös szélre még az amúgy napos napokon is.",
+            "ro": "Urcați pe vârful Watch Croft pentru priveliști panoramice uimitoare ale peninsulei Penwith, dar fiți pregătiți pentru vânt rece chiar și în zilele însorite.",
+            "en": "Hike up to the summit of Watch Croft for breathtaking panoramic views of the Penwith peninsula, but be prepared for a brisk wind even on otherwise sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên Scryfa",
+            "hu": "Mên Scryfa",
+            "ro": "Mên Scryfa",
+            "en": "Mên Scryfa"
+          },
+          "coords": [
+            -5.60411,
+            50.161739
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den alten stehenden Stein Mên Scryfa mit seinen verblichenen lateinischen Inschriften und nähern Sie sich leise, um die mystische Atmosphäre zu spüren.",
+            "hu": "Vizsgálja meg az ősi Mên Scryfa állókövet a megfakult latin feliratokkal, és közeledjen halkan, hogy igazán átérezhesse a hely misztikus és történelmi hangulatát.",
+            "ro": "Examinați piatra antică Mên Scryfa cu inscripțiile sale latine decolorate care spun povești de demult și apropiați-vă în liniște pentru a simți atmosfera mistică.",
+            "en": "Examine the ancient Mên Scryfa standing stone with its faded Latin inscriptions that tell tales of old, and approach quietly to appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên-an-Tol",
+            "hu": "Mên-an-Tol",
+            "ro": "Mên-an-Tol",
+            "en": "Mên-an-Tol"
+          },
+          "coords": [
+            -5.604497,
+            50.15856
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Kriechen Sie durch den legendären Lochstein von Mên-an-Tol, dem Heilkräfte nachgesagt werden, aber besuchen Sie ihn am frühen Nachmittag, um Reisegruppen zu meiden.",
+            "hu": "Másszon át a legendás Mên-an-Tol lyukas kövén, amelynek gyógyító erőt tulajdonítanak, de látogasson el kora délután, hogy elkerülje az esetleges turistacsoportokat.",
+            "ro": "Târâți-vă prin legendara piatră cu gaură Mên-an-Tol, despre care se crede că are proprietăți vindecătoare, dar vizitați devreme pentru a evita grupurile de turiști.",
+            "en": "Crawl through the legendary holed stone of Mên-an-Tol, believed to have healing properties, but visit early in the afternoon to avoid the occasional tour groups."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit der Erkundung der dramatischen Küstenruinen der Bosigran-Schmelze, bevor Sie landeinwärts gehen.\n\nMidday: Wandern Sie durch das raue Gelände zur Carn Galver Mine und besteigen Sie den Watch Croft für weite Ausblicke.\n\nAfternoon: Tauchen Sie in die mystische Geschichte der Moore ein, indem Sie den alten stehenden Stein Mên Scryfa besuchen.\n\nEvening: Beenden Sie Ihre Wanderung am legendären Mên-an-Tol und genießen Sie die späte Nachmittagssonne und alte Legenden.",
+        "hu": "Morning: Kezdje a napot a Bosigran kohó drámai tengerparti romjainak felfedezésével, mielőtt a szárazföld belseje felé venné az irányt.\n\nMidday: Túrázzon a zord terepen a Carn Galver bányához, majd mássza meg a Watch Croftot a panorámás kilátásért.\n\nAfternoon: Merüljön el a lápvidék misztikus történelmében az ősi Mên Scryfa állókő meglátogatásával.\n\nEvening: Zárja sétáját az ikonikus Mên-an-Tolnál, elmerülve a késő délutáni napsütésben és az ősi legendákban.",
+        "ro": "Morning: Începeți ziua explorând ruinele dramatice de coastă ale topitoriei Bosigran înainte de a vă îndrepta spre interior.\n\nMidday: Faceți o drumeție pe terenul accidentat până la Mina Carn Galver și urcați pe Watch Croft pentru priveliști panoramice.\n\nAfternoon: Pătrundeți în istoria mistică a mlaștinilor vizitând antica piatră verticală Mên Scryfa.\n\nEvening: Încheiați plimbarea la emblematica piatră Mên-an-Tol, bucurându-vă de soarele târziu al după-amiezii și de legende.",
+        "en": "Morning: Start your day by exploring the dramatic coastal ruins of Bosigran Smelting Works before heading inland.\n\nMidday: Hike across the rugged terrain to Carn Galver Mine and ascend Watch Croft for panoramic views.\n\nAfternoon: Delve into the mystical history of the moors by visiting the ancient Mên Scryfa standing stone.\n\nEvening: Conclude your walk at the iconic Mên-an-Tol, soaking in the late afternoon sun and ancient legends."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.49,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bosigran Smelting Works",
+            "hu": "Bosigran Smelting Works",
+            "ro": "Bosigran Smelting Works",
+            "en": "Bosigran Smelting Works"
+          },
+          "coords": [
+            -5.601058,
+            50.178548
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Küstenschmelze, um Cornwalls Zinnbergbauerbe zu entdecken, und tragen Sie festes Schuhwerk für die Klippenpfade.",
+            "hu": "Fedezze fel e partmenti kohó hangulatos romjait, hogy megismerje Cornwall ónbányászati örökségét, és viseljen masszív cipőt az egyenetlen sziklaösvényeken.",
+            "ro": "Explorați ruinele atmosferice ale acestei topitorii de coastă pentru a descoperi moștenirea minieră a Cornwallului și purtați încălțăminte rezistentă pe poteci.",
+            "en": "Explore the atmospheric ruins of this coastal smelting site to uncover Cornwall's tin mining heritage, and wear sturdy shoes for the uneven cliffside paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Carn Galver Mine",
+            "hu": "Carn Galver Mine",
+            "ro": "Carn Galver Mine",
+            "en": "Carn Galver Mine"
+          },
+          "coords": [
+            -5.612897,
+            50.171739
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Maschinenhaus der Carn Galver Mine in der Moorlandschaft und bringen Sie eine Kamera für beeindruckende Weitwinkel-Naturaufnahmen mit.",
+            "hu": "Csodálja meg a mocsaras tájból kiemelkedő Carn Galver bánya ikonikus gépházát, és hozzon magával fényképezőgépet a lenyűgöző, nagylátószögű természetfotókhoz.",
+            "ro": "Admirați emblematica clădire a mașinii de la Mina Carn Galver, care domină peisajul de mlaștină, și aduceți un aparat foto pentru cadre largi uimitoare.",
+            "en": "Admire the iconic engine house of Carn Galver Mine which stands proudly against the moorland landscape, and bring a camera for stunning wide-angle nature shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Watch Croft",
+            "hu": "Watch Croft",
+            "ro": "Watch Croft",
+            "en": "Watch Croft"
+          },
+          "coords": [
+            -5.613445,
+            50.165007
+          ],
+          "category": "park",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Gipfel des Watch Croft für atemberaubende Panoramablicke auf die Halbinsel Penwith, aber seien Sie selbst an sonnigen Tagen auf frischen Wind gefasst.",
+            "hu": "Túrázzon fel a Watch Croft csúcsára a Penwith-félszigetre nyíló lélegzetelállító panorámáért, de készüljön fel a hűvös szélre még az amúgy napos napokon is.",
+            "ro": "Urcați pe vârful Watch Croft pentru priveliști panoramice uimitoare ale peninsulei Penwith, dar fiți pregătiți pentru vânt rece chiar și în zilele însorite.",
+            "en": "Hike up to the summit of Watch Croft for breathtaking panoramic views of the Penwith peninsula, but be prepared for a brisk wind even on otherwise sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên Scryfa",
+            "hu": "Mên Scryfa",
+            "ro": "Mên Scryfa",
+            "en": "Mên Scryfa"
+          },
+          "coords": [
+            -5.60411,
+            50.161739
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den alten stehenden Stein Mên Scryfa mit seinen verblichenen lateinischen Inschriften und nähern Sie sich leise, um die mystische Atmosphäre zu spüren.",
+            "hu": "Vizsgálja meg az ősi Mên Scryfa állókövet a megfakult latin feliratokkal, és közeledjen halkan, hogy igazán átérezhesse a hely misztikus és történelmi hangulatát.",
+            "ro": "Examinați piatra antică Mên Scryfa cu inscripțiile sale latine decolorate care spun povești de demult și apropiați-vă în liniște pentru a simți atmosfera mistică.",
+            "en": "Examine the ancient Mên Scryfa standing stone with its faded Latin inscriptions that tell tales of old, and approach quietly to appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên-an-Tol",
+            "hu": "Mên-an-Tol",
+            "ro": "Mên-an-Tol",
+            "en": "Mên-an-Tol"
+          },
+          "coords": [
+            -5.604497,
+            50.15856
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Kriechen Sie durch den legendären Lochstein von Mên-an-Tol, dem Heilkräfte nachgesagt werden, aber besuchen Sie ihn am frühen Nachmittag, um Reisegruppen zu meiden.",
+            "hu": "Másszon át a legendás Mên-an-Tol lyukas kövén, amelynek gyógyító erőt tulajdonítanak, de látogasson el kora délután, hogy elkerülje az esetleges turistacsoportokat.",
+            "ro": "Târâți-vă prin legendara piatră cu gaură Mên-an-Tol, despre care se crede că are proprietăți vindecătoare, dar vizitați devreme pentru a evita grupurile de turiști.",
+            "en": "Crawl through the legendary holed stone of Mên-an-Tol, believed to have healing properties, but visit early in the afternoon to avoid the occasional tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Boskednan stone circle",
+            "hu": "Boskednan stone circle",
+            "ro": "Boskednan stone circle",
+            "en": "Boskednan stone circle"
+          },
+          "coords": [
+            -5.593699,
+            50.160541
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den teilweise restaurierten Megalithen des Boskednan-Steinkreises und achten Sie beim Erkunden stets auf den umliegenden moorigen Untergrund.",
+            "hu": "Sétáljon a Kilenc Hajadonként ismert Boskednan kőkör részben helyreállított megalitjai között, és mindig ügyeljen lépéseire a környező, gyakran mocsaras talajon.",
+            "ro": "Plimbați-vă printre megaliții parțial restaurați ai cercului de piatră Boskednan și fiți foarte atenți la pași pe terenul mlăștinos care înconjoară acest loc sacru.",
+            "en": "Walk among the partially restored megaliths of the Boskednan stone circle, known locally as the Nine Maidens, and watch your step on the surrounding boggy ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Engine House (Ding Dong Mine)",
+            "hu": "Engine House (Ding Dong Mine)",
+            "ro": "Engine House (Ding Dong Mine)",
+            "en": "Engine House (Ding Dong Mine)"
+          },
+          "coords": [
+            -5.583614,
+            50.158011
+          ],
+          "category": "historical",
+          "arrive_at": "15:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Entdecken Sie an der Ding Dong Mine eine der ältesten Bergbaustätten Cornwalls und lesen Sie die Informationstafeln, um ihre historische Bedeutung zu verstehen.",
+            "hu": "Fedezze fel Cornwall egyik legrégebbi bányászati helyszínét a Ding Dong bánya gépházánál, és olvassa el a tájékoztató táblákat a történelmi jelentőség megértéséhez.",
+            "ro": "Descoperiți unul dintre cele mai vechi situri miniere din Cornwall la Ding Dong Mine și citiți plăcile informative pentru a înțelege pe deplin semnificația sa istorică.",
+            "en": "Discover one of the oldest mining sites in Cornwall at the Ding Dong Mine Engine House, and read the informative plaques to fully understand its historic significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie an den Klippen von Bosigran vorbei und bestaunen Sie das hoch aufragende Maschinenhaus der Carn Galver Mine.\n\nMidday: Parken Sie Ihr Fahrrad für eine kurze Wanderung auf den Watch Croft und fahren Sie dann zum Mên Scryfa.\n\nAfternoon: Treten Sie weiter in die Pedale, um den Mên-an-Tol und den teilweise restaurierten Boskednan-Steinkreis zu erkunden.\n\nEvening: Beenden Sie Ihre Fahrt am Maschinenhaus der Ding Dong Mine und beobachten Sie den Sonnenuntergang über der Landschaft.",
+        "hu": "Morning: Kerekezzen el a Bosigran sziklái mellett, és csodálja meg a Carn Galver bánya magasba törő gépházát.\n\nMidday: Tegye le a kerékpárt egy rövid túrára a Watch Croftra, majd folytassa útját az ősi Mên Scryfa felé.\n\nAfternoon: Tekerjen tovább a Mên-an-Tol és a lápvidéken fekvő, részben helyreállított Boskednan kőkör felfedezéséhez.\n\nEvening: Fejezze be hosszú útját a Ding Dong bánya gépházánál, és nézze végig a naplementét a történelmi táj felett.",
+        "ro": "Morning: Pedalați pe lângă stâncile de coastă de la Bosigran și admirați clădirea impunătoare a mașinii de la Mina Carn Galver.\n\nMidday: Lăsați bicicleta pentru o scurtă drumeție pe Watch Croft, apoi continuați drumul spre Mên Scryfa.\n\nAfternoon: Pedalați mai departe pentru a explora Mên-an-Tol și cercul de piatră parțial restaurat Boskednan de peste mlaștini.\n\nEvening: Terminați-vă călătoria la Ding Dong Mine, privind apusul soarelui peste acest peisaj de importanță istorică.",
+        "en": "Morning: Cycle past the coastal cliffs at Bosigran and marvel at the towering Carn Galver Mine engine house.\n\nMidday: Park your bike for a brief hike up Watch Croft, then continue your ride to the ancient Mên Scryfa.\n\nAfternoon: Pedal further to explore Mên-an-Tol and the partially restored Boskednan stone circle across the moors.\n\nEvening: Finish your long ride at the Engine House of Ding Dong Mine, watching the sunset over the historical landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.76,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bosigran Smelting Works",
+            "hu": "Bosigran Smelting Works",
+            "ro": "Bosigran Smelting Works",
+            "en": "Bosigran Smelting Works"
+          },
+          "coords": [
+            -5.601058,
+            50.178548
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Küstenschmelze, um Cornwalls Zinnbergbauerbe zu entdecken, und tragen Sie festes Schuhwerk für die Klippenpfade.",
+            "hu": "Fedezze fel e partmenti kohó hangulatos romjait, hogy megismerje Cornwall ónbányászati örökségét, és viseljen masszív cipőt az egyenetlen sziklaösvényeken.",
+            "ro": "Explorați ruinele atmosferice ale acestei topitorii de coastă pentru a descoperi moștenirea minieră a Cornwallului și purtați încălțăminte rezistentă pe poteci.",
+            "en": "Explore the atmospheric ruins of this coastal smelting site to uncover Cornwall's tin mining heritage, and wear sturdy shoes for the uneven cliffside paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Carn Galver Mine",
+            "hu": "Carn Galver Mine",
+            "ro": "Carn Galver Mine",
+            "en": "Carn Galver Mine"
+          },
+          "coords": [
+            -5.612897,
+            50.171739
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Maschinenhaus der Carn Galver Mine in der Moorlandschaft und bringen Sie eine Kamera für beeindruckende Weitwinkel-Naturaufnahmen mit.",
+            "hu": "Csodálja meg a mocsaras tájból kiemelkedő Carn Galver bánya ikonikus gépházát, és hozzon magával fényképezőgépet a lenyűgöző, nagylátószögű természetfotókhoz.",
+            "ro": "Admirați emblematica clădire a mașinii de la Mina Carn Galver, care domină peisajul de mlaștină, și aduceți un aparat foto pentru cadre largi uimitoare.",
+            "en": "Admire the iconic engine house of Carn Galver Mine which stands proudly against the moorland landscape, and bring a camera for stunning wide-angle nature shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Watch Croft",
+            "hu": "Watch Croft",
+            "ro": "Watch Croft",
+            "en": "Watch Croft"
+          },
+          "coords": [
+            -5.613445,
+            50.165007
+          ],
+          "category": "park",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Wandern Sie zum Gipfel des Watch Croft für atemberaubende Panoramablicke auf die Halbinsel Penwith, aber seien Sie selbst an sonnigen Tagen auf frischen Wind gefasst.",
+            "hu": "Túrázzon fel a Watch Croft csúcsára a Penwith-félszigetre nyíló lélegzetelállító panorámáért, de készüljön fel a hűvös szélre még az amúgy napos napokon is.",
+            "ro": "Urcați pe vârful Watch Croft pentru priveliști panoramice uimitoare ale peninsulei Penwith, dar fiți pregătiți pentru vânt rece chiar și în zilele însorite.",
+            "en": "Hike up to the summit of Watch Croft for breathtaking panoramic views of the Penwith peninsula, but be prepared for a brisk wind even on otherwise sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên Scryfa",
+            "hu": "Mên Scryfa",
+            "ro": "Mên Scryfa",
+            "en": "Mên Scryfa"
+          },
+          "coords": [
+            -5.60411,
+            50.161739
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den alten stehenden Stein Mên Scryfa mit seinen verblichenen lateinischen Inschriften und nähern Sie sich leise, um die mystische Atmosphäre zu spüren.",
+            "hu": "Vizsgálja meg az ősi Mên Scryfa állókövet a megfakult latin feliratokkal, és közeledjen halkan, hogy igazán átérezhesse a hely misztikus és történelmi hangulatát.",
+            "ro": "Examinați piatra antică Mên Scryfa cu inscripțiile sale latine decolorate care spun povești de demult și apropiați-vă în liniște pentru a simți atmosfera mistică.",
+            "en": "Examine the ancient Mên Scryfa standing stone with its faded Latin inscriptions that tell tales of old, and approach quietly to appreciate the mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mên-an-Tol",
+            "hu": "Mên-an-Tol",
+            "ro": "Mên-an-Tol",
+            "en": "Mên-an-Tol"
+          },
+          "coords": [
+            -5.604497,
+            50.15856
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Kriechen Sie durch den legendären Lochstein von Mên-an-Tol, dem Heilkräfte nachgesagt werden, aber besuchen Sie ihn am frühen Nachmittag, um Reisegruppen zu meiden.",
+            "hu": "Másszon át a legendás Mên-an-Tol lyukas kövén, amelynek gyógyító erőt tulajdonítanak, de látogasson el kora délután, hogy elkerülje az esetleges turistacsoportokat.",
+            "ro": "Târâți-vă prin legendara piatră cu gaură Mên-an-Tol, despre care se crede că are proprietăți vindecătoare, dar vizitați devreme pentru a evita grupurile de turiști.",
+            "en": "Crawl through the legendary holed stone of Mên-an-Tol, believed to have healing properties, but visit early in the afternoon to avoid the occasional tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Boskednan stone circle",
+            "hu": "Boskednan stone circle",
+            "ro": "Boskednan stone circle",
+            "en": "Boskednan stone circle"
+          },
+          "coords": [
+            -5.593699,
+            50.160541
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den teilweise restaurierten Megalithen des Boskednan-Steinkreises und achten Sie beim Erkunden stets auf den umliegenden moorigen Untergrund.",
+            "hu": "Sétáljon a Kilenc Hajadonként ismert Boskednan kőkör részben helyreállított megalitjai között, és mindig ügyeljen lépéseire a környező, gyakran mocsaras talajon.",
+            "ro": "Plimbați-vă printre megaliții parțial restaurați ai cercului de piatră Boskednan și fiți foarte atenți la pași pe terenul mlăștinos care înconjoară acest loc sacru.",
+            "en": "Walk among the partially restored megaliths of the Boskednan stone circle, known locally as the Nine Maidens, and watch your step on the surrounding boggy ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Bodrifty Iron Age Village",
+            "hu": "Bodrifty Iron Age Village",
+            "ro": "Bodrifty Iron Age Village",
+            "en": "Bodrifty Iron Age Village"
+          },
+          "coords": [
+            -5.580035,
+            50.163352
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Machen Sie in den Ruinen des eisenzeitlichen Dorfes Bodrifty eine Zeitreise und engagieren Sie nach Möglichkeit einen lokalen Führer für tiefere archäologische Einblicke.",
+            "hu": "Lépjen vissza az időben a Bodrifty vaskori falu romjainál, és ha teheti, fogadjon helyi vezetőt, hogy mélyebb régészeti és történelmi betekintést nyerhessen.",
+            "ro": "Întoarceți-vă în timp la ruinele satului din Epoca Fierului Bodrifty pentru a vedea vechile așezări și angajați un ghid local pentru perspective arheologice mai profunde.",
+            "en": "Step back in time at the Bodrifty Iron Age Village ruins to see ancient settlement layouts, and hire a local guide if possible to gain deeper archaeological insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Bosporthennis Sacred Well",
+            "hu": "Bosporthennis Sacred Well",
+            "ro": "Bosporthennis Sacred Well",
+            "en": "Bosporthennis Sacred Well"
+          },
+          "coords": [
+            -5.587595,
+            50.171372
+          ],
+          "category": "landmark",
+          "arrive_at": "16:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Suchen Sie die versteckte heilige Quelle von Bosporthennis auf, um keltische Spiritualität zu erleben, und bringen Sie ein kleines Band als Opfergabe mit.",
+            "hu": "Keresse fel az eldugott Bosporthennis szent kutat, hogy megtapasztalja az ősi kelta spiritualitást, és hozzon magával egy apró szalagot, amelyet felajánlásként hagyhat.",
+            "ro": "Căutați Fântâna Sacră ascunsă Bosporthennis pentru a experimenta spiritualitatea celtică antică și aduceți un mic suvenir, cum ar fi o panglică, pentru ofrandă.",
+            "en": "Seek out the hidden Bosporthennis Sacred Well to experience a rare piece of ancient Celtic spirituality, and bring a small token like a ribbon to leave as an offering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie an die Küste, um die Bosigran-Schmelze zu sehen, bevor Sie zur Carn Galver Mine aufbrechen.\n\nMidday: Machen Sie eine landschaftlich reizvolle Fahrt zum Fuß des Watch Croft, gefolgt von einem Stopp am mysteriösen Mên Scryfa.\n\nAfternoon: Setzen Sie Ihren Roadtrip zum legendären Mên-an-Tol und dem stimmungsvollen Boskednan-Steinkreis fort.\n\nEvening: Lassen Sie den Tag mit der Entdeckung des eisenzeitlichen Dorfes Bodrifty und der versteckten heiligen Quelle von Bosporthennis ausklingen.",
+        "hu": "Morning: Vezessen a tengerpart szélére, hogy megnézze a Bosigran kohót, mielőtt felmenne a Carn Galver bányához.\n\nMidday: Tegyen egy festői utazást a Watch Croft lábához, majd álljon meg egy rövid időre a titokzatos Mên Scryfánál.\n\nAfternoon: Folytassa útját a legendás Mên-an-Tolhoz és a hangulatos Boskednan kőkörhöz, amelyek igazán különlegesek.\n\nEvening: Zárja a napot a Bodrifty vaskori falu és a rejtett Bosporthennis szent kút ősi romjainak felfedezésével.",
+        "ro": "Morning: Conduceți până la marginea coastei pentru a vedea topitoria Bosigran înainte de a urca la Mina Carn Galver.\n\nMidday: Faceți o plimbare pitorească până la baza Watch Croft, urmată de o scurtă oprire la misterioasa Mên Scryfa.\n\nAfternoon: Continuați călătoria către legendara Mên-an-Tol și cercul de piatră atmosferic Boskednan din apropiere.\n\nEvening: Încheiați ziua descoperind satul din Epoca Fierului Bodrifty și Fântâna Sacră Bosporthennis, un loc cu adevărat ascuns.",
+        "en": "Morning: Drive to the edge of the coast to see Bosigran Smelting Works before heading up to the Carn Galver Mine.\n\nMidday: Take a scenic drive to the base of Watch Croft, followed by a short stop at the mysterious Mên Scryfa.\n\nAfternoon: Continue your road trip to the legendary Mên-an-Tol and the atmospheric Boskednan stone circle.\n\nEvening: Wrap up the day by discovering the Bodrifty Iron Age Village and the hidden Bosporthennis Sacred Well."
+      }
+    }
+  }
+}

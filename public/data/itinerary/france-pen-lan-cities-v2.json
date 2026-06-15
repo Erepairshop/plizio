@@ -1,0 +1,543 @@
+{
+  "city_id": "france-pen-lan-cities-v2",
+  "anchor": {
+    "name": "Pen Lan",
+    "coords": [
+      -2.4995,
+      47.51701
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de Pen Lan",
+            "hu": "Phare de Pen Lan",
+            "ro": "Phare de Pen Lan",
+            "en": "Phare de Pen Lan"
+          },
+          "coords": [
+            -2.501877,
+            47.516301
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen markanten Leuchtturm am Morgen, um das klare Licht zu nutzen, und achten Sie auf die schroffen Klippen für spektakuläre Küstenfotos.",
+            "hu": "Látogassa meg ezt a jellegzetes világítótornyot a kora reggeli fényekben, és figyeljen a meredek sziklákra a legszebb tengerparti fényképek elkészítéséhez.",
+            "ro": "Vizitați acest far pitoresc la primele ore ale dimineții pentru a profita de lumina clară și fiți atenți la stâncile abrupte pentru fotografii spectaculoase.",
+            "en": "Visit this striking lighthouse in the morning to make the most of the clear light, and pay attention to the rugged cliffs for spectacular coastal photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie des Prêtres",
+            "hu": "Baie des Prêtres",
+            "ro": "Baie des Prêtres",
+            "en": "Baie des Prêtres"
+          },
+          "coords": [
+            -2.502218,
+            47.518146
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser malerischen Bucht, entspannen Sie sich am sanften Sandstrand und vergessen Sie nicht, Ihr eigenes Wasser mitzubringen.",
+            "hu": "Élvezze e festői öböl békés hangulatát, pihenjen meg a puha homokos strandon, és ne felejtsen el elegendő ivóvizet magával hozni a kényelmes kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui golf pitoresc, relaxați-vă pe plaja cu nisip fin și nu uitați să vă aduceți apă pentru o ședere cât mai confortabilă.",
+            "en": "Enjoy the peaceful atmosphere of this picturesque bay, relax on the gentle sandy beach, and remember to bring your own water for a comfortable seaside break."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Barges",
+            "hu": "Plage des Barges",
+            "ro": "Plage des Barges",
+            "en": "Plage des Barges"
+          },
+          "coords": [
+            -2.49642,
+            47.517425
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser breite Strand ist ideal für einen entspannten Spaziergang entlang der Wellen; bringen Sie bequeme Schuhe mit und genießen Sie die frische Meeresbrise.",
+            "hu": "Ez a széles strand ideális egy pihentető sétához a hullámok mentén; hozzon magával kényelmes cipőt, és élvezze a friss, sós tengeri szellőt a délutáni órákban.",
+            "ro": "Această plajă largă este perfectă pentru o plimbare relaxantă de-a lungul valurilor; purtați încălțăminte confortabilă și bucurați-vă de briza proaspătă a mării.",
+            "en": "This wide beach is perfect for a relaxing stroll along the rolling waves; bring comfortable walking shoes and fully enjoy the fresh and invigorating sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn des Grays",
+            "hu": "Cairn des Grays",
+            "ro": "Cairn des Grays",
+            "en": "Cairn des Grays"
+          },
+          "coords": [
+            -2.490358,
+            47.51701
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende prähistorische Grabstätte, die tiefe Einblicke in die Vergangenheit bietet, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti síremléket, amely mély bepillantást enged a múltba, és viseljen zárt cipőt az egyenetlen terepen való járáshoz.",
+            "ro": "Explorați acest fascinant monument funerar preistoric care oferă o perspectivă asupra trecutului și purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this fascinating prehistoric burial site that offers deep insights into the ancient past, and wear sturdy footwear to safely navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Crapaud",
+            "hu": "Dolmen du Crapaud",
+            "ro": "Dolmen du Crapaud",
+            "en": "Dolmen du Crapaud"
+          },
+          "coords": [
+            -2.483971,
+            47.515039
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese mystischen Steinblöcke inmitten der Natur, spüren Sie die historische Bedeutung des Ortes und respektieren Sie die Schutzabsperrungen.",
+            "hu": "Csodálja meg ezeket a misztikus kőtömböket a természet lágy ölén, érezze át a hely történelmi jelentőségét, és tartsa tiszteletben a védelmet szolgáló korlátokat.",
+            "ro": "Admirați aceste blocuri mistice de piatră în mijlocul naturii, simțiți importanța istorică a locului și respectați barierele de protecție pentru a le conserva.",
+            "en": "Admire these mystical stone blocks surrounded by nature, feel the profound historical significance of the site, and respect the protective barriers for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Granges",
+            "hu": "Plage des Granges",
+            "ro": "Plage des Granges",
+            "en": "Plage des Granges"
+          },
+          "coords": [
+            -2.484779,
+            47.515976
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Strand ausklingen, wo sanfte Wellen zum Schwimmen einladen; packen Sie ein Picknick für den Sonnenuntergang ein.",
+            "hu": "Zárja a napot ezen a családbarát strandon, ahol a szelíd hullámok úszásra csábítanak; csomagoljon be egy finom pikniket, hogy a naplementében gyönyörködhessen.",
+            "ro": "Încheiați ziua pe această plajă perfectă pentru familii, unde valurile blânde vă invită la înot; pregătiți un picnic delicios pentru a admira un apus de soare superb.",
+            "en": "End your day at this family-friendly beach where gentle waves invite you for a swim; pack a delicious picnic to enjoy the spectacular colors of the evening sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Phare de Pen Lan und genießen Sie den weiten Blick auf den Ozean. Danach schlendern Sie gemütlich zur Baie des Prêtres, um sich zu entspannen. Mittags führt Ihr Weg zur weiten Plage des Barges, wo die frische Brise neue Energie spendet. Am Nachmittag tauchen Sie am Cairn des Grays und dem Dolmen du Crapaud in die mystische, prähistorische Vergangenheit der Region ein. Der Abend klingt schließlich friedlich an der Plage des Granges aus, ideal für ein Picknick bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a Pen Lan világítótoronynál, és gyönyörködjön a tengerre nyíló kilátásban, majd sétáljon át a békés Baie des Prêtres öbölhöz. Délben a tágas Plage des Barges strand felé veszi az irányt, ahol a tengeri szellő felfrissíti. Délután a Cairn des Grays és a Dolmen du Crapaud területén a régió misztikus, történelem előtti múltjába nyerhet betekintést. Az estét végül a családbarát Plage des Granges partján zárja, amely tökéletes egy naplemente alatti piknikhez.",
+        "ro": "Începeți ziua la Farul Pen Lan cu o vedere panoramică spre ocean, apoi plimbați-vă pe îndelete până la liniștitul Baie des Prêtres. La prânz, traseul vă duce către plaja largă Plage des Barges, unde briza proaspătă vă va revigora complet. După-amiaza veți descoperi trecutul mistic și preistoric al regiunii vizitând Cairn des Grays și Dolmen du Crapaud. Seara se încheie liniștit pe Plage des Granges, locul ideal pentru un picnic relaxant la apusul soarelui.",
+        "en": "Start your day at the Pen Lan Lighthouse for sweeping ocean views, then enjoy a leisurely stroll down to the tranquil Baie des Prêtres. By midday, your path leads to the expansive Plage des Barges, where the fresh sea breeze provides a revitalizing boost. In the afternoon, immerse yourself in the region's mystical prehistoric past by exploring the Cairn des Grays and the Dolmen du Crapaud. Your evening concludes peacefully at the Plage des Granges, offering the perfect backdrop for a relaxing sunset picnic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de Pen Lan",
+            "hu": "Phare de Pen Lan",
+            "ro": "Phare de Pen Lan",
+            "en": "Phare de Pen Lan"
+          },
+          "coords": [
+            -2.501877,
+            47.516301
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen markanten Leuchtturm am Morgen, um das klare Licht zu nutzen, und achten Sie auf die schroffen Klippen für spektakuläre Küstenfotos.",
+            "hu": "Látogassa meg ezt a jellegzetes világítótornyot a kora reggeli fényekben, és figyeljen a meredek sziklákra a legszebb tengerparti fényképek elkészítéséhez.",
+            "ro": "Vizitați acest far pitoresc la primele ore ale dimineții pentru a profita de lumina clară și fiți atenți la stâncile abrupte pentru fotografii spectaculoase.",
+            "en": "Visit this striking lighthouse in the morning to make the most of the clear light, and pay attention to the rugged cliffs for spectacular coastal photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bétahon",
+            "hu": "Plage de Bétahon",
+            "ro": "Plage de Bétahon",
+            "en": "Plage de Bétahon"
+          },
+          "coords": [
+            -2.508122,
+            47.52348
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen unberührten Küstenabschnitt abseits der Menschenmassen; bringen Sie einen Sonnenschirm mit, da es hier nur wenig natürlichen Schatten gibt.",
+            "hu": "Fedezze fel ezt az érintetlen partszakaszt távol a nagy tömegtől; feltétlenül hozzon magával napernyőt, mivel a környéken nagyon kevés természetes árnyék található.",
+            "ro": "Descoperiți această porțiune de coastă curată, departe de aglomerație; asigurați-vă că aduceți o umbrelă de soare, deoarece există puțină umbră naturală în zonă.",
+            "en": "Discover this pristine stretch of coastline away from the crowds; make sure to bring a sun umbrella as there is very little natural shade available along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maxent",
+            "hu": "Église Saint-Maxent",
+            "ro": "Église Saint-Maxent",
+            "en": "Église Saint-Maxent"
+          },
+          "coords": [
+            -2.49029,
+            47.532415
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um ihre friedliche Atmosphäre und die historischen Details zu bewundern, und denken Sie an angemessene Kleidung für den Besuch.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja békés hangulatát és történelmi részleteit, és ügyeljen a megfelelő, vállakat takaró öltözékre a látogatás során.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a admira atmosfera sa pașnică și detaliile istorice și amintiți-vă să purtați o ținută decentă în interiorul locașului.",
+            "en": "Step into this charming church to admire its peaceful atmosphere and intricate historical details, and remember to wear modest attire covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin ruiné",
+            "hu": "Moulin ruiné",
+            "ro": "Moulin ruiné",
+            "en": "Moulin ruiné"
+          },
+          "coords": [
+            -2.494137,
+            47.534079
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die malerischen Überreste dieser alten Mühle, die ein großartiges Fotomotiv abgibt, und seien Sie vorsichtig auf den bröckelnden Steinen in der Umgebung.",
+            "hu": "Tekintse meg ennek a régi malomnak a festői maradványait, amely kiváló fotótéma, és legyen nagyon óvatos a környéken lévő omladozó köveken való sétálás közben.",
+            "ro": "Vizitați ruinele pitorești ale acestei vechi mori, care reprezintă un subiect fotografic excelent, și aveți grijă la pietrele sfărâmicioase din jurul structurii.",
+            "en": "Visit the picturesque remains of this old mill, which makes for an excellent photography subject, and be very careful when walking on the crumbling stones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn des Grays",
+            "hu": "Cairn des Grays",
+            "ro": "Cairn des Grays",
+            "en": "Cairn des Grays"
+          },
+          "coords": [
+            -2.490358,
+            47.51701
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende prähistorische Grabstätte, die tiefe Einblicke in die Vergangenheit bietet, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti síremléket, amely mély bepillantást enged a múltba, és viseljen zárt cipőt az egyenetlen terepen való járáshoz.",
+            "ro": "Explorați acest fascinant monument funerar preistoric care oferă o perspectivă asupra trecutului și purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this fascinating prehistoric burial site that offers deep insights into the ancient past, and wear sturdy footwear to safely navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Crapaud",
+            "hu": "Dolmen du Crapaud",
+            "ro": "Dolmen du Crapaud",
+            "en": "Dolmen du Crapaud"
+          },
+          "coords": [
+            -2.483971,
+            47.515039
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese mystischen Steinblöcke inmitten der Natur, spüren Sie die historische Bedeutung des Ortes und respektieren Sie die Schutzabsperrungen.",
+            "hu": "Csodálja meg ezeket a misztikus kőtömböket a természet lágy ölén, érezze át a hely történelmi jelentőségét, és tartsa tiszteletben a védelmet szolgáló korlátokat.",
+            "ro": "Admirați aceste blocuri mistice de piatră în mijlocul naturii, simțiți importanța istorică a locului și respectați barierele de protecție pentru a le conserva.",
+            "en": "Admire these mystical stone blocks surrounded by nature, feel the profound historical significance of the site, and respect the protective barriers for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Granges",
+            "hu": "Plage des Granges",
+            "ro": "Plage des Granges",
+            "en": "Plage des Granges"
+          },
+          "coords": [
+            -2.484779,
+            47.515976
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Strand ausklingen, wo sanfte Wellen zum Schwimmen einladen; packen Sie ein Picknick für den Sonnenuntergang ein.",
+            "hu": "Zárja a napot ezen a családbarát strandon, ahol a szelíd hullámok úszásra csábítanak; csomagoljon be egy finom pikniket, hogy a naplementében gyönyörködhessen.",
+            "ro": "Încheiați ziua pe această plajă perfectă pentru familii, unde valurile blânde vă invită la înot; pregătiți un picnic delicios pentru a admira un apus de soare superb.",
+            "en": "End your day at this family-friendly beach where gentle waves invite you for a swim; pack a delicious picnic to enjoy the spectacular colors of the evening sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am markanten Leuchtturm und radeln Sie dann zügig zur ruhigen Plage de Bétahon, um die Morgensonne am Strand zu genießen. Gegen Mittag erreichen Sie die Église Saint-Maxent und bewundern die historische Architektur, bevor Sie zur malerischen Ruine des alten Mühle weiterfahren. Nachmittags erkunden Sie die prähistorischen Monumente Cairn des Grays und Dolmen du Crapaud auf Ihren Zweirädern. Den perfekten Abschluss bildet die Plage des Granges, wo Sie den Tag bei sanftem Meeresrauschen gemütlich ausklingen lassen können.",
+        "hu": "Induljon a jellegzetes világítótoronytól, majd tekerjen el a csendes Plage de Bétahon felé, hogy kiélvezze a kellemes reggeli napsütést. Délben megérkezik a Saint-Maxent templomhoz a történelmi építészet megcsodálására, majd a régi malom festői romjaihoz kerekezik. Délután a Cairn des Grays és a Dolmen du Crapaud lenyűgöző, történelem előtti emlékeit fedezi fel két keréken. A napot a békés Plage des Granges strandján zárja, ahol a tenger lágy morajlása kíséretében pihenheti ki a túra fáradalmait.",
+        "ro": "Porniți de la farul pitoresc și pedalați către liniștita Plage de Bétahon pentru a vă bucura de soarele blând al dimineții pe plajă. La prânz, ajungeți la biserica Saint-Maxent pentru a-i admira arhitectura istorică, înainte de a continua spre ruinele fermecătoare ale vechii mori. După-amiaza, explorați monumentele preistorice Cairn des Grays și Dolmen du Crapaud într-un ritm relaxant pe două roți. Finalul perfect are loc la Plage des Granges, unde vă puteți încheia ziua relaxându-vă ascultând sunetul valurilor.",
+        "en": "Start at the striking lighthouse before cycling briskly to the quiet Plage de Bétahon to soak up the morning sun on the sandy shore. Around midday, arrive at the Église Saint-Maxent to admire its historical architecture before heading to the picturesque ruined mill. In the afternoon, explore the fascinating prehistoric monuments of Cairn des Grays and Dolmen du Crapaud on your bicycle. The perfect conclusion awaits at Plage des Granges, where you can peacefully end your day listening to the gentle sound of the waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de Pen Lan",
+            "hu": "Phare de Pen Lan",
+            "ro": "Phare de Pen Lan",
+            "en": "Phare de Pen Lan"
+          },
+          "coords": [
+            -2.501877,
+            47.516301
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen markanten Leuchtturm am Morgen, um das klare Licht zu nutzen, und achten Sie auf die schroffen Klippen für spektakuläre Küstenfotos.",
+            "hu": "Látogassa meg ezt a jellegzetes világítótornyot a kora reggeli fényekben, és figyeljen a meredek sziklákra a legszebb tengerparti fényképek elkészítéséhez.",
+            "ro": "Vizitați acest far pitoresc la primele ore ale dimineții pentru a profita de lumina clară și fiți atenți la stâncile abrupte pentru fotografii spectaculoase.",
+            "en": "Visit this striking lighthouse in the morning to make the most of the clear light, and pay attention to the rugged cliffs for spectacular coastal photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Cromenac'h",
+            "hu": "Plage de Cromenac'h",
+            "ro": "Plage de Cromenac'h",
+            "en": "Plage de Cromenac'h"
+          },
+          "coords": [
+            -2.523333,
+            47.525314
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Schönheit dieses abgelegenen Strandes; er eignet sich hervorragend zum Muschelsuchen, aber achten Sie stets auf die wechselnden Gezeiten.",
+            "hu": "Élvezze ennek a félreeső strandnak a vad szépségét; kiválóan alkalmas kagylógyűjtésre, de mindig nagyon ügyeljen a gyorsan változó és kiszámíthatatlan árapályra.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestei plaje izolate; este excelentă pentru culesul scoicilor, dar acordați întotdeauna atenție mare mareelor schimbătoare.",
+            "en": "Enjoy the wild beauty of this secluded beach; it is an excellent spot for seashell hunting, but always pay close attention to the rapidly changing tides in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bétahon",
+            "hu": "Plage de Bétahon",
+            "ro": "Plage de Bétahon",
+            "en": "Plage de Bétahon"
+          },
+          "coords": [
+            -2.508122,
+            47.52348
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen unberührten Küstenabschnitt abseits der Menschenmassen; bringen Sie einen Sonnenschirm mit, da es hier nur wenig natürlichen Schatten gibt.",
+            "hu": "Fedezze fel ezt az érintetlen partszakaszt távol a nagy tömegtől; feltétlenül hozzon magával napernyőt, mivel a környéken nagyon kevés természetes árnyék található.",
+            "ro": "Descoperiți această porțiune de coastă curată, departe de aglomerație; asigurați-vă că aduceți o umbrelă de soare, deoarece există puțină umbră naturală în zonă.",
+            "en": "Discover this pristine stretch of coastline away from the crowds; make sure to bring a sun umbrella as there is very little natural shade available along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maxent",
+            "hu": "Église Saint-Maxent",
+            "ro": "Église Saint-Maxent",
+            "en": "Église Saint-Maxent"
+          },
+          "coords": [
+            -2.49029,
+            47.532415
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um ihre friedliche Atmosphäre und die historischen Details zu bewundern, und denken Sie an angemessene Kleidung für den Besuch.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja békés hangulatát és történelmi részleteit, és ügyeljen a megfelelő, vállakat takaró öltözékre a látogatás során.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a admira atmosfera sa pașnică și detaliile istorice și amintiți-vă să purtați o ținută decentă în interiorul locașului.",
+            "en": "Step into this charming church to admire its peaceful atmosphere and intricate historical details, and remember to wear modest attire covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin ruiné",
+            "hu": "Moulin ruiné",
+            "ro": "Moulin ruiné",
+            "en": "Moulin ruiné"
+          },
+          "coords": [
+            -2.494137,
+            47.534079
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die malerischen Überreste dieser alten Mühle, die ein großartiges Fotomotiv abgibt, und seien Sie vorsichtig auf den bröckelnden Steinen in der Umgebung.",
+            "hu": "Tekintse meg ennek a régi malomnak a festői maradványait, amely kiváló fotótéma, és legyen nagyon óvatos a környéken lévő omladozó köveken való sétálás közben.",
+            "ro": "Vizitați ruinele pitorești ale acestei vechi mori, care reprezintă un subiect fotografic excelent, și aveți grijă la pietrele sfărâmicioase din jurul structurii.",
+            "en": "Visit the picturesque remains of this old mill, which makes for an excellent photography subject, and be very careful when walking on the crumbling stones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn des Grays",
+            "hu": "Cairn des Grays",
+            "ro": "Cairn des Grays",
+            "en": "Cairn des Grays"
+          },
+          "coords": [
+            -2.490358,
+            47.51701
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende prähistorische Grabstätte, die tiefe Einblicke in die Vergangenheit bietet, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti síremléket, amely mély bepillantást enged a múltba, és viseljen zárt cipőt az egyenetlen terepen való járáshoz.",
+            "ro": "Explorați acest fascinant monument funerar preistoric care oferă o perspectivă asupra trecutului și purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Explore this fascinating prehistoric burial site that offers deep insights into the ancient past, and wear sturdy footwear to safely navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Crapaud",
+            "hu": "Dolmen du Crapaud",
+            "ro": "Dolmen du Crapaud",
+            "en": "Dolmen du Crapaud"
+          },
+          "coords": [
+            -2.483971,
+            47.515039
+          ],
+          "category": "historical",
+          "arrive_at": "15:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese mystischen Steinblöcke inmitten der Natur, spüren Sie die historische Bedeutung des Ortes und respektieren Sie die Schutzabsperrungen.",
+            "hu": "Csodálja meg ezeket a misztikus kőtömböket a természet lágy ölén, érezze át a hely történelmi jelentőségét, és tartsa tiszteletben a védelmet szolgáló korlátokat.",
+            "ro": "Admirați aceste blocuri mistice de piatră în mijlocul naturii, simțiți importanța istorică a locului și respectați barierele de protecție pentru a le conserva.",
+            "en": "Admire these mystical stone blocks surrounded by nature, feel the profound historical significance of the site, and respect the protective barriers for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Granges",
+            "hu": "Plage des Granges",
+            "ro": "Plage des Granges",
+            "en": "Plage des Granges"
+          },
+          "coords": [
+            -2.484779,
+            47.515976
+          ],
+          "category": "recreational",
+          "arrive_at": "17:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Strand ausklingen, wo sanfte Wellen zum Schwimmen einladen; packen Sie ein Picknick für den Sonnenuntergang ein.",
+            "hu": "Zárja a napot ezen a családbarát strandon, ahol a szelíd hullámok úszásra csábítanak; csomagoljon be egy finom pikniket, hogy a naplementében gyönyörködhessen.",
+            "ro": "Încheiați ziua pe această plajă perfectă pentru familii, unde valurile blânde vă invită la înot; pregătiți un picnic delicios pentru a admira un apus de soare superb.",
+            "en": "End your day at this family-friendly beach where gentle waves invite you for a swim; pack a delicious picnic to enjoy the spectacular colors of the evening sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Leuchtturm und anschließend zur wilden Plage de Cromenac'h, um die unberührte Küstenlandschaft zu bewundern. Mittags steuern Sie die ruhigere Plage de Bétahon an und besuchen danach die charmante Église Saint-Maxent sowie die alte Mühle. Der Nachmittag ist der faszinierenden Geschichte gewidmet, wenn Sie die alten Steinsetzungen von Cairn des Grays und Dolmen du Crapaud besichtigen. Beenden Sie Ihre Fahrt entspannt an der Plage des Granges, die mit ihrer malerischen Abendstimmung einen wunderschönen Abschluss bietet.",
+        "hu": "Reggel vezessen el a világítótoronyhoz, majd a vad Plage de Cromenac'h felé, hogy megcsodálja a régió érintetlen parti tájait. Délben vegye az irányt a csendesebb Plage de Bétahon felé, majd látogasson el a bájos Saint-Maxent templomhoz és az öreg malomhoz. A délutánt a lenyűgöző történelemnek szenteli, amikor a Cairn des Grays és a Dolmen du Crapaud ősi köveit térképezi fel autójával. Fejezze be az utazást a Plage des Granges partján, amely festői esti hangulatával gyönyörű, emlékezetes befejezést kínál túrájához.",
+        "ro": "Dimineața, conduceți până la far și apoi spre sălbatica Plage de Cromenac'h pentru a admira peisajele de coastă absolut spectaculoase. La prânz, îndreptați-vă spre liniștita Plage de Bétahon, apoi vizitați fermecătoarea biserică Saint-Maxent și vechea moară ruinată. După-amiaza este dedicată istoriei fascinante, explorând formațiunile antice de piatră de la Cairn des Grays și Dolmen du Crapaud. Încheiați-vă traseul cu mașina la Plage des Granges, care oferă un final minunat și relaxant datorită atmosferei sale pitorești de seară.",
+        "en": "Drive to the lighthouse in the morning, then head to the wild Plage de Cromenac'h to admire the completely unspoiled coastal scenery. At midday, steer towards the quieter Plage de Bétahon, followed by a visit to the charming Église Saint-Maxent and the old mill. The afternoon is dedicated to fascinating history as you explore the ancient stone settings of Cairn des Grays and Dolmen du Crapaud. Conclude your drive peacefully at Plage des Granges, which offers a beautiful and memorable ending with its picturesque evening ambiance."
+      }
+    }
+  }
+}

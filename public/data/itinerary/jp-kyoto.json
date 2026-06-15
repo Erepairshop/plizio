@@ -1,0 +1,451 @@
+{
+  "city_id": "jp-kyoto",
+  "anchor": {
+    "name": "Kyoto",
+    "coords": [
+      135.7681,
+      35.0116
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Kyoto",
+            "hu": "Rathaus Kyoto",
+            "ro": "Rathaus Kyoto",
+            "en": "Rathaus Kyoto"
+          },
+          "coords": [
+            135.76819,
+            35.011641
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur des Kyotoer Rathauses und nutzen Sie den weiten Platz für ein beeindruckendes Erinnerungsfoto am Morgen.",
+            "hu": "Csodálja meg a Kiotói Városháza lenyűgöző építészetét, és használja ki a tágas teret egy tökéletes reggeli emlékkép elkészítéséhez.",
+            "ro": "Admirați arhitectura impunătoare a Primăriei din Kyoto și profitați de piața spațioasă pentru a face o fotografie de neuitat în lumina dimineții.",
+            "en": "Admire the imposing architecture of Kyoto City Hall and take advantage of the spacious plaza to capture a memorable morning photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Franz-Xavier-Kathedrale Kyoto",
+            "hu": "Franz-Xavier-Kathedrale Kyoto",
+            "ro": "Franz-Xavier-Kathedrale Kyoto",
+            "en": "Franz-Xavier-Kathedrale Kyoto"
+          },
+          "coords": [
+            135.769621,
+            35.009727
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unerwartete katholische Kathedrale mit ihren wunderschönen Buntglasfenstern und nehmen Sie sich einen Moment Zeit für stille Reflexion fernab des Trubels.",
+            "hu": "Fedezze fel ezt a meglepő katolikus katedrálist a gyönyörű ólomüveg ablakaival, és szánjon egy percet a csendes elmélkedésre a város zajától távol.",
+            "ro": "Descoperiți această neașteptată catedrală catolică cu vitraliile sale superbe și acordați-vă un moment de liniște departe de agitația orașului.",
+            "en": "Discover this unexpected Catholic cathedral with its gorgeous stained glass windows and take a moment for quiet reflection away from the city bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Gear Theater",
+            "hu": "Gear Theater",
+            "ro": "Gear Theater",
+            "en": "Gear Theater"
+          },
+          "coords": [
+            135.766539,
+            35.008452
+          ],
+          "category": "cultural",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie eine fesselnde nonverbale Aufführung, die Technologie und darstellende Kunst auf einzigartige Weise vereint, und buchen Sie Ihre Tickets unbedingt im Voraus.",
+            "hu": "Éljen át egy lenyűgöző nonverbális előadást, amely egyedülálló módon ötvözi a technológiát és az előadóművészetet, de ne felejtse el előre lefoglalni a jegyeket.",
+            "ro": "Experimentați o captivantă reprezentație non-verbală care îmbină tehnologia și artele spectacolului într-un mod unic, dar asigurați-vă că rezervați biletele în avans.",
+            "en": "Experience a captivating non-verbal performance that uniquely blends technology and performing arts, but be sure to book your tickets well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyoto School History Museum",
+            "hu": "Kyoto School History Museum",
+            "ro": "Kyoto School History Museum",
+            "en": "Kyoto School History Museum"
+          },
+          "coords": [
+            135.765725,
+            35.000701
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Entwicklung des japanischen Bildungssystems ein und achten Sie besonders auf die gut erhaltenen historischen Klassenzimmer.",
+            "hu": "Merüljön el a japán oktatási rendszer lenyűgöző fejlődésében, és fordítson különös figyelmet a kiválóan karbantartott történelmi tantermekre.",
+            "ro": "Pătrundeți în istoria fascinantă a sistemului educațional japonez și acordați o atenție deosebită sălilor de clasă istorice perfect conservate.",
+            "en": "Delve into the fascinating evolution of the Japanese educational system and pay special attention to the beautifully preserved historic classrooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Byodo-ji Temple",
+            "hu": "Byodo-ji Temple",
+            "ro": "Byodo-ji Temple",
+            "en": "Byodo-ji Temple"
+          },
+          "coords": [
+            135.76028,
+            34.999489
+          ],
+          "category": "religious",
+          "arrive_at": "14:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ruhigen Tempel im Stadtzentrum und betrachten Sie die detaillierten Holzschnitzereien, die eine friedliche Atmosphäre im Herzen der Stadt schaffen.",
+            "hu": "Látogasson el ebbe a csendes belvárosi templomba, és figyelje meg a részletgazdag fafaragásokat, amelyek békés hangulatot teremtenek a város szívében.",
+            "ro": "Vizitați acest templu liniștit din centrul orașului și admirați sculpturile în lemn detaliate care creează o atmosferă pașnică în inima metropolei.",
+            "en": "Visit this serene downtown temple and observe the intricate wooden carvings that create a peaceful atmosphere right in the heart of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt am imposanten Rathaus, einem Wahrzeichen im Herzen der Stadt. Anschließend entdecken Sie die St.-Franz-Xavier-Kathedrale, die einen ruhigen Kontrast zum urbanen Leben bietet. Am Mittag lassen Sie sich im Gear Theater von einer innovativen Show faszinieren. Der Nachmittag steht im Zeichen der Bildungstradition im Schulgeschichtsmuseum, bevor der Tag im Byodo-ji friedlich ausklingt.",
+        "hu": "Sétája az impozáns Városházánál kezdődik, amely a város szívének egyik ikonikus épülete. Ezután felfedezi a Xavéri Szent Ferenc Katedrálist, amely nyugodt kontrasztot nyújt a városi nyüzsgéssel szemben. Délben a Gear Színház innovatív előadása varázsolja el. A délután a japán oktatás történetének megismerésével telik a múzeumban, majd a nap a Byodo-ji templom békéjében ér véget.",
+        "ro": "Plimbarea începe la impunătoarea Primărie, un punct de reper în inima orașului. Apoi veți descoperi Catedrala Sfântul Francisc Xavier, care oferă un contrast pașnic cu viața urbană. La prânz, veți fi fascinați de un spectacol inovator la Teatrul Gear. După-amiaza este dedicată tradiției educaționale la Muzeul de Istorie a Școlii, înainte ca ziua să se încheie liniștit la templul Byodo-ji.",
+        "en": "Your walking tour begins at the imposing City Hall, a landmark in the heart of the city. Next, you will discover the St. Francis Xavier Cathedral, offering a serene contrast to urban life. At midday, be captivated by an innovative show at the Gear Theater. The afternoon is dedicated to educational tradition at the School History Museum, before the day ends peacefully at Byodo-ji Temple."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Munakata Shrine",
+            "hu": "Munakata Shrine",
+            "ro": "Munakata Shrine",
+            "en": "Munakata Shrine"
+          },
+          "coords": [
+            135.761291,
+            35.018941
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der friedlichen Umgebung dieses Schreins, der im Kaiserpalastgarten verborgen liegt, und genießen Sie die morgendliche Stille der Natur.",
+            "hu": "Kezdje a napot a Császári Palota kertjében megbúvó szentély békés környezetében, és élvezze a természet kora reggeli csendjét.",
+            "ro": "Începeți ziua în împrejurimile pașnice ale acestui altar ascuns în grădina Palatului Imperial și bucurați-vă de liniștea dimineții în natură.",
+            "en": "Start your day in the peaceful surroundings of this shrine hidden within the Imperial Palace grounds and enjoy the morning tranquility of nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Kyoto",
+            "hu": "Rathaus Kyoto",
+            "ro": "Rathaus Kyoto",
+            "en": "Rathaus Kyoto"
+          },
+          "coords": [
+            135.76819,
+            35.011641
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie am Rathausplatz an, um die Mischung aus westlicher und japanischer Architektur zu bewundern, bevor Sie weiter in Richtung der östlichen Museen radeln.",
+            "hu": "Álljon meg a Városháza terén, hogy megcsodálja a nyugati és japán építészet ötvözetét, mielőtt tovább kerekezne a keleti múzeumok felé.",
+            "ro": "Opriți-vă în piața Primăriei pentru a admira amestecul de arhitectură vestică și japoneză, înainte de a pedala mai departe spre muzeele din est.",
+            "en": "Stop at the City Hall plaza to admire the blend of Western and Japanese architectural styles before cycling onwards to the eastern museums."
+          }
+        },
+        {
+          "name": {
+            "de": "Fujii Yurinkan Museum",
+            "hu": "Fujii Yurinkan Museum",
+            "ro": "Fujii Yurinkan Museum",
+            "en": "Fujii Yurinkan Museum"
+          },
+          "coords": [
+            135.781208,
+            35.011631
+          ],
+          "category": "museum",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Privatmuseum seltene chinesische Kunstwerke und verpassen Sie nicht das Gebäude selbst, das architektonisch an die Taisho-Zeit erinnert.",
+            "hu": "Fedezze fel a ritka kínai műalkotásokat ebben a magánmúzeumban, és ne hagyja ki magát az épületet sem, amely a Taisho-korszak építészetét idézi.",
+            "ro": "Descoperiți opere de artă chineză rare în acest muzeu privat și nu ratați clădirea în sine, care reflectă arhitectura perioadei Taisho.",
+            "en": "Discover rare Chinese artworks in this private museum and do not miss the building itself, which beautifully reflects Taisho-period architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Gion Corner",
+            "hu": "Gion Corner",
+            "ro": "Gion Corner",
+            "en": "Gion Corner"
+          },
+          "coords": [
+            135.775671,
+            35.001374
+          ],
+          "category": "cultural",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die traditionellen japanischen Künste ein, von der Teezeremonie bis zum Puppenspiel, und informieren Sie sich vorab über die genauen Vorführungszeiten.",
+            "hu": "Merüljön el a hagyományos japán művészetekben a teaceremóniától a bábszínházig, de előzetesen mindenképpen tájékozódjon a pontos előadási időpontokról.",
+            "ro": "Cufundați-vă în artele tradiționale japoneze, de la ceremonia ceaiului la teatrul de păpuși, și verificați în prealabil programul exact al spectacolelor.",
+            "en": "Immerse yourself in traditional Japanese arts, from the tea ceremony to puppet theater, and be sure to check the exact performance schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rokudo Chinno-ji Temple",
+            "hu": "Rokudo Chinno-ji Temple",
+            "ro": "Rokudo Chinno-ji Temple",
+            "en": "Rokudo Chinno-ji Temple"
+          },
+          "coords": [
+            135.775406,
+            34.998384
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen mystischen Tempel, der als Tor zur Unterwelt gilt, und suchen Sie nach dem berühmten Brunnen, der der Legende nach ins Jenseits führt.",
+            "hu": "Látogasson el ebbe a misztikus templomba, amelyet az alvilág kapujának tartanak, és keresse meg a híres kutat, amely a legenda szerint a túlvilágra vezet.",
+            "ro": "Vizitați acest templu mistic considerat poarta către lumea de dincolo și căutați faimoasa fântână care, conform legendei, duce spre viața de apoi.",
+            "en": "Visit this mystical temple considered the gateway to the underworld and look for the famous well that legends say leads to the afterlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorin-ji Temple",
+            "hu": "Sorin-ji Temple",
+            "ro": "Sorin-ji Temple",
+            "en": "Sorin-ji Temple"
+          },
+          "coords": [
+            135.781663,
+            35.002251
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie den Nachmittag in diesem abgelegenen Tempel in Higashiyama ausklingen und genießen Sie die herrliche Aussicht auf die umliegenden historischen Viertel.",
+            "hu": "Zárja a délutánt ebben az eldugott higashiyamai templomban, és élvezze a környező történelmi negyedekre nyíló csodálatos kilátást.",
+            "ro": "Încheiați după-amiaza în acest templu retras din Higashiyama și bucurați-vă de priveliștea minunată asupra cartierelor istorice înconjurătoare.",
+            "en": "Conclude your afternoon at this secluded temple in Higashiyama and enjoy the magnificent views over the surrounding historic neighborhoods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt entspannt am Munakata Shrine im Park des Kaiserpalastes. Danach rollen Sie zum markanten Rathaus und weiter zum Yurinkan Museum, wo asiatische Kunst auf Sie wartet. Am frühen Nachmittag tauchen Sie im Gion Corner in die klassischen Künste Japans ein. Anschließend erkunden Sie den mystischen Rokudo Chinno-ji und beenden den Ausflug mit einem friedlichen Stopp am Sorin-ji am Rande von Higashiyama.",
+        "hu": "Kerékpártúrája a Császári Palota parkjában található Munakata szentélynél indul. Ezután az ikonikus Városházához gurul, majd a Yurinkan Múzeumba, ahol ázsiai műkincsek várják. Kora délután a Gion Cornerben elmélyedhet a klasszikus japán művészetekben. Ezt követően felfedezi a misztikus Rokudo Chinno-ji-t, és a kirándulást a Higashiyama szélén fekvő békés Sorin-ji templomnál fejezi be.",
+        "ro": "Turul cu bicicleta începe relaxant la Altarul Munakata din parcul Palatului Imperial. Apoi pedalați spre Primăria distinctivă și mai departe spre Muzeul Yurinkan, unde vă așteaptă arta asiatică. La începutul după-amiezii, vă cufundați în artele clasice ale Japoniei la Gion Corner. Apoi explorați misticul Rokudo Chinno-ji și încheiați excursia cu o oprire pașnică la Sorin-ji la marginea Higashiyama.",
+        "en": "Your cycling tour begins gently at the Munakata Shrine within the Imperial Palace park. You then ride to the distinctive City Hall and onward to the Yurinkan Museum to view Asian art. In the early afternoon, immerse yourself in Japan's classical arts at Gion Corner. Afterwards, explore the mystical Rokudo Chinno-ji and end the excursion with a peaceful stop at Sorin-ji on the edge of Higashiyama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Shiramine Shrine",
+            "hu": "Shiramine Shrine",
+            "ro": "Shiramine Shrine",
+            "en": "Shiramine Shrine"
+          },
+          "coords": [
+            135.753149,
+            35.030277
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen Schrein, der den Sportlern gewidmet ist, und betrachten Sie die einzigartige Sammlung alter Bälle, die von traditionellen Kemari-Spielern gespendet wurden.",
+            "hu": "Csodálja meg ezt a sportolóknak szentelt szentélyt, és tekintse meg a hagyományos kemari játékosok által adományozott régi labdák egyedülálló gyűjteményét.",
+            "ro": "Admirați acest altar dedicat sportivilor și priviți colecția unică de mingi vechi donate de jucătorii tradiționali de kemari.",
+            "en": "Admire this shrine dedicated to sports and view the unique collection of old balls donated by traditional kemari players."
+          }
+        },
+        {
+          "name": {
+            "de": "Honpo-ji Temple",
+            "hu": "Honpo-ji Temple",
+            "ro": "Honpo-ji Temple",
+            "en": "Honpo-ji Temple"
+          },
+          "coords": [
+            135.75222,
+            35.035054
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen bedeutenden Nichiren-Tempel und nehmen Sie sich Zeit für den wunderschönen Landschaftsgarten, der vom berühmten Künstler Hasegawa Tohaku entworfen wurde.",
+            "hu": "Látogasson el ebbe a jelentős Nichiren-templomba, és szánjon időt a csodálatos tájkertre, amelyet a híres művész, Hasegawa Tohaku tervezett.",
+            "ro": "Vizitați acest important templu Nichiren și acordați-vă timp pentru grădina peisagistică superbă proiectată de faimosul artist Hasegawa Tohaku.",
+            "en": "Visit this significant Nichiren temple and take time to appreciate the beautiful landscape garden designed by the renowned artist Hasegawa Tohaku."
+          }
+        },
+        {
+          "name": {
+            "de": "Munakata Shrine",
+            "hu": "Munakata Shrine",
+            "ro": "Munakata Shrine",
+            "en": "Munakata Shrine"
+          },
+          "coords": [
+            135.761291,
+            35.018941
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen kurzen Zwischenstopp an diesem Schrein im Palastgarten und atmen Sie die frische Luft ein, bevor Sie das Stadtzentrum durchqueren.",
+            "hu": "Élvezze a rövid pihenőt ezen a palotakertben található szentélynél, és szívja magába a friss levegőt, mielőtt átszelné a belvárost.",
+            "ro": "Bucurați-vă de o scurtă oprire la acest altar din grădina palatului și respirați aerul proaspăt înainte de a traversa centrul orașului.",
+            "en": "Enjoy a brief stop at this shrine located within the palace garden and breathe in the fresh air before crossing the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Fujii Yurinkan Museum",
+            "hu": "Fujii Yurinkan Museum",
+            "ro": "Fujii Yurinkan Museum",
+            "en": "Fujii Yurinkan Museum"
+          },
+          "coords": [
+            135.781208,
+            35.011631
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um die beeindruckenden Exponate der chinesischen Kulturgeschichte in aller Ruhe zu studieren, da das Museum abseits der Hauptrouten liegt.",
+            "hu": "Parkoljon a közelben, hogy nyugodtan tanulmányozhassa a kínai kultúrtörténet lenyűgöző kiállításait ebben a fő útvonalaktól távolabb eső múzeumban.",
+            "ro": "Parcați în apropiere pentru a studia în liniște exponatele impresionante de istorie culturală chineză, deoarece muzeul se află departe de rutele principale.",
+            "en": "Park nearby to quietly study the impressive exhibits of Chinese cultural history, as this museum is conveniently situated off the main tourist routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Yogen-in Temple",
+            "hu": "Yogen-in Temple",
+            "ro": "Yogen-in Temple",
+            "en": "Yogen-in Temple"
+          },
+          "coords": [
+            135.773149,
+            34.987949
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen blutigen, aber historisch faszinierenden Tempel und achten Sie auf die beeindruckenden Deckengemälde sowie die berühmten Zedernholztüren.",
+            "hu": "Lépjen be ebbe a véres történelmű, mégis lenyűgöző templomba, és figyelje meg a lenyűgöző mennyezetfestményeket, valamint a híres cédrusfa ajtókat.",
+            "ro": "Pășiți în acest templu cu o istorie sângeroasă, dar fascinantă, și acordați atenție picturilor impresionante de pe tavan, precum și ușilor faimoase din lemn de cedru.",
+            "en": "Enter this temple with its bloody yet fascinating history, and pay attention to the impressive ceiling paintings as well as the famous cedar doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kosho-ji Temple",
+            "hu": "Kosho-ji Temple",
+            "ro": "Kosho-ji Temple",
+            "en": "Kosho-ji Temple"
+          },
+          "coords": [
+            135.752462,
+            34.989731
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in der Weitläufigkeit dieses Tempelkomplexes, wo Sie abseits der großen Touristenströme die wahre spirituelle Essenz Kyotos spüren können.",
+            "hu": "Fejezze be a napot ennek a hatalmas templomkomplexumnak a területén, ahol a nagy turistatömegektől távol érezheti Kiotó valódi spirituális esszenciáját.",
+            "ro": "Încheiați-vă ziua în vastitatea acestui complex de temple, unde puteți simți adevărata esență spirituală a orașului Kyoto, departe de marile mulțimi de turiști.",
+            "en": "End your day in the vastness of this temple complex, where you can feel the true spiritual essence of Kyoto far from the large tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotrip startet im Norden Kyotos am sportlich geprägten Shiramine Shrine und dem malerischen Honpo-ji. Eine kurze Fahrt bringt Sie zum ruhigen Munakata Shrine im Palastareal. Gegen Mittag fahren Sie ostwärts zum Yurinkan Museum, um seltene asiatische Schätze zu bewundern. Der Nachmittag führt Sie in den Süden: Zuerst besichtigen Sie den historisch tiefgründigen Yogen-in, bevor Sie die spirituelle Weite des Kosho-ji Tempels in vollen Zügen genießen.",
+        "hu": "Autós kirándulása Kiotó északi részén indul a sportos Shiramine szentélynél és a festői Honpo-ji templomnál. Egy rövid utazás a palota területén lévő nyugodt Munakata szentélyhez vezet. Dél körül kelet felé halad a Yurinkan Múzeumhoz, ahol ritka ázsiai kincseket csodálhat meg. A délután délre viszi: először a történelmileg mélyreható Yogen-in-t tekinti meg, majd kiélvezi a Kosho-ji templom spirituális tágasságát.",
+        "ro": "Călătoria cu mașina începe în nordul orașului Kyoto la Altarul Shiramine și la pitorescul templu Honpo-ji. O scurtă plimbare vă duce la pașnicul Altar Munakata din zona palatului. În jurul prânzului conduceți spre est către Muzeul Yurinkan pentru a admira comori asiatice rare. După-amiaza vă poartă spre sud: mai întâi vizitați profundul Yogen-in istoric, înainte de a vă bucura din plin de imensitatea spirituală a templului Kosho-ji.",
+        "en": "Your driving tour starts in northern Kyoto at the sports-themed Shiramine Shrine and the picturesque Honpo-ji. A short drive brings you to the tranquil Munakata Shrine within the palace grounds. Around midday, you drive eastward to the Yurinkan Museum to admire rare Asian treasures. The afternoon takes you south: first visiting the historically profound Yogen-in, before fully enjoying the spiritual vastness of Kosho-ji Temple."
+      }
+    }
+  }
+}

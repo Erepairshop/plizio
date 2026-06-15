@@ -1,0 +1,428 @@
+{
+  "city_id": "portugal-f-de-espada-cities-v2",
+  "anchor": {
+    "name": "Freixo de Espada à Cinta",
+    "coords": [
+      -6.8,
+      41.0833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:18",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Freixo",
+            "hu": "Freixo Városháza",
+            "ro": "Primăria din Freixo",
+            "en": "City Hall of Freixo"
+          },
+          "coords": [
+            -6.808172,
+            41.089649
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Rathauses und entdecken Sie seine Rolle für das regionale Erbe.",
+            "hu": "Csodálja meg ennek a történelmi városházának a lenyűgöző építészetét, és fedezze fel a régió örökségében betöltött szerepét.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării istorice și descoperiți rolul său în moștenirea regiunii înainte de a vizita piața din apropiere.",
+            "en": "Admire the striking architecture of this historic town hall and discover its role in the region's heritage before visiting the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Misericórdia",
+            "hu": "Misericórdia Templom",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -6.806073,
+            41.092381
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizvolle Kirche, um die kunstvollen Altardetails zu bewundern, und besuchen Sie sie am Vormittag für die besten Fotos.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja a bonyolult oltárrészleteket, és próbálja meg a reggeli fényben meglátogatni a legjobb fotókért.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia detaliile altarului și vizitați-o în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Step inside this charming church to appreciate its intricate altar details, and try to visit during the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Freixo Duarte d'Armas",
+            "hu": "Freixo Duarte d'Armas",
+            "ro": "Freixo Duarte d'Armas",
+            "en": "Freixo Duarte d'Armas"
+          },
+          "coords": [
+            -6.805028,
+            41.09241
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Wahrzeichen, das dem berühmten Chronisten Tribut zollt und einen perfekten Ort bietet, um lokale Geschichte zu lernen.",
+            "hu": "Fedezze fel ezt a lenyűgöző nevezetességet, amely a híres krónikás előtt tiszteleg, tökéletes helyszínt nyújtva a helyi történelem megismeréséhez.",
+            "ro": "Explorați acest punct de reper fascinant care aduce un omagiu celebrului cronicar, oferind un loc perfect pentru a învăța despre istoria locală.",
+            "en": "Explore this fascinating landmark that pays homage to the famous chronicler, offering a perfect spot to learn about local 16th-century history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau der Heilmittel",
+            "hu": "Remete Szűzanya Kápolna",
+            "ro": "Capela Maicii Domnului a Remediilor",
+            "en": "Chapel of Our Lady of Remedies"
+          },
+          "coords": [
+            -6.81213,
+            41.093672
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser Kapelle auf dem Hügel und nehmen Sie sich einen Moment Zeit, um den Panoramablick über die Landschaft zu bewundern.",
+            "hu": "Élvezze a dombtetőn álló kápolna békés hangulatát, és szánjon egy pillanatot arra, hogy magába szívja a környező vidékre nyíló panorámát.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele de pe deal și luați-vă un moment pentru a absorbi priveliștile panoramice asupra peisajului rural.",
+            "en": "Enjoy the peaceful atmosphere of this hilltop chapel and take a moment to absorb the panoramic views over the surrounding Portuguese countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Schwimmbäder",
+            "hu": "Városi Medencék",
+            "ro": "Piscinele Municipale",
+            "en": "Municipal Pools"
+          },
+          "coords": [
+            -6.813063,
+            41.09467
+          ],
+          "category": "family",
+          "arrive_at": "12:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach Ihrem Stadtrundgang in diesen gepflegten städtischen Pools ab und bringen Sie Ihr eigenes Handtuch für eine erholsame Pause mit.",
+            "hu": "Hűtse le magát ezekben a jól karbantartott városi medencékben a városi séta után, hozzon magával törölközőt egy pihentető délutáni szünethez.",
+            "ro": "Răcoriți-vă în aceste piscine municipale bine întreținute după plimbarea prin oraș, aducându-vă propriul prosop pentru o pauză de după-amiază.",
+            "en": "Cool off in these well-maintained municipal pools after your town walk, bringing your own towel for a relaxing and refreshing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Rathauses und der Igreja da Misericórdia. Am Mittag besuchen Sie das Denkmal Duarte d'Armas und tauchen in die lokale Geschichte ein. Am Nachmittag steigen Sie zur friedlichen Capela da Senhora dos Remédios auf, um den Panoramablick zu genießen. Beenden Sie Ihren Spaziergang mit einem erfrischenden abendlichen Bad in den Piscinas.",
+        "hu": "Kezdje a reggelt a történelmi Városháza és az Igreja da Misericórdia gyönyörű részleteinek felfedezésével. Délben látogasson el a Duarte d'Armas emlékműhöz, elmélyedve a helyi történelemben. Délután másszon fel a békés Capela da Senhora dos Remédios-hoz a panorámáért. Fejezze be sétáját egy frissítő esti csobbanással a helyi Piscinas Municipais medencéiben.",
+        "ro": "Începeți dimineața explorând istorica Primărie și detaliile frumoase ale bisericii Misericórdia. La prânz, vizitați monumentul Duarte d'Armas pentru a descoperi istoria locală. După-amiaza, urcați ușor spre pașnica Capela da Senhora dos Remédios pentru vederi panoramice. Încheiați-vă plimbarea cu o baie răcoritoare de seară la piscinele municipale.",
+        "en": "Start your morning exploring the historic Câmara Municipal and the beautiful details of Igreja da Misericórdia. Midday brings a visit to the Duarte d'Armas monument, delving into rich local history. In the afternoon, ascend slightly to the peaceful Capela da Senhora dos Remédios for panoramic views. Conclude your leisurely walk with a refreshing evening dip at the Piscinas Municipais."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 9.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Misericórdia",
+            "hu": "Misericórdia Templom",
+            "ro": "Biserica Misericórdia",
+            "en": "Church of Misericórdia"
+          },
+          "coords": [
+            -6.806073,
+            41.092381
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizvolle Kirche, um die kunstvollen Altardetails zu bewundern, und besuchen Sie sie am Vormittag für die besten Fotos.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja a bonyolult oltárrészleteket, és próbálja meg a reggeli fényben meglátogatni a legjobb fotókért.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia detaliile altarului și vizitați-o în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Step inside this charming church to appreciate its intricate altar details, and try to visit during the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Freixo",
+            "hu": "Freixo Városháza",
+            "ro": "Primăria din Freixo",
+            "en": "City Hall of Freixo"
+          },
+          "coords": [
+            -6.808172,
+            41.089649
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Rathauses und entdecken Sie seine Rolle für das regionale Erbe.",
+            "hu": "Csodálja meg ennek a történelmi városházának a lenyűgöző építészetét, és fedezze fel a régió örökségében betöltött szerepét.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării istorice și descoperiți rolul său în moștenirea regiunii înainte de a vizita piața din apropiere.",
+            "en": "Admire the striking architecture of this historic town hall and discover its role in the region's heritage before visiting the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaukel von Congida",
+            "hu": "Congida Hinta",
+            "ro": "Leagănul Congida",
+            "en": "Congida Swing"
+          },
+          "coords": [
+            -6.780001,
+            41.077914
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Schaukeln Sie auf dieser malerischen Schaukel hoch über der atemberaubenden Flusslandschaft, aber kommen Sie früh, um Wartezeiten zu vermeiden.",
+            "hu": "Hintázzon magasan a lenyűgöző folyami táj felett ezen a festői hintán, de érkezzen korán a nap folyamán, hogy elkerülje a sorban állást egy fotóhoz.",
+            "ro": "Legănați-vă deasupra peisajului fluvial uimitor pe acest leagăn pitoresc, dar ajungeți devreme pentru a evita așteptarea la rând pentru o fotografie.",
+            "en": "Swing high above the stunning river landscape on this picturesque swing, but arrive early in the day to avoid waiting in line for a photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand von Congida",
+            "hu": "Congida folyami strand",
+            "ro": "Plaja Fluvială Congida",
+            "en": "Congida River Beach"
+          },
+          "coords": [
+            -6.77977,
+            41.075536
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses Flussstrandes und packen Sie ein leichtes Picknick ein, das Sie im Schatten der Bäume genießen können.",
+            "hu": "Pihenjen ennek a folyami strandnak a nyugodt vizeinél, és csomagoljon be egy könnyű pikniket, amelyet a fák árnyékában élvezhet a gyönyörű folyó mentén.",
+            "ro": "Relaxați-vă lângă apele liniștite ale acestei plaje fluviale și aduceți un picnic ușor pentru a-l savura la umbra copacilor de-a lungul râului.",
+            "en": "Relax by the tranquil waters of this river beach and pack a light picnic to enjoy under the shade of the trees along the beautiful Douro River."
+          }
+        },
+        {
+          "name": {
+            "de": "Saucelle Stausee",
+            "hu": "Saucelle Víztározó",
+            "ro": "Rezervorul Saucelle",
+            "en": "Saucelle Reservoir"
+          },
+          "coords": [
+            -6.746327,
+            41.126679
+          ],
+          "category": "natural",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Technik dieses Stausees und bringen Sie ein Fernglas mit, um die lokale Vogelwelt über dem Damm zu beobachten.",
+            "hu": "Csodálja meg e víztározó csodálatos mérnöki munkáját, és hozzon magával távcsövet a gát felett lebegő helyi madárvilág megfigyeléséhez.",
+            "ro": "Admirați ingineria magnifică și întinderea vastă a acestui rezervor și aduceți un binoclu pentru a observa păsările locale care zboară deasupra barajului.",
+            "en": "Take in the magnificent engineering and vast blue expanse of this reservoir, and bring binoculars to spot local birdlife hovering over the dam."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der historischen Kirche und radeln Sie dann zum markanten Rathaus. Mittags lassen Sie das Stadtzentrum hinter sich und fahren in Richtung Fluss zur Schaukel Baloiço Congida. Verbringen Sie einen entspannten Nachmittag am nahen Praia Fluvial de Congida. Eine längere Abendfahrt führt Sie schließlich zum beeindruckenden Embalse de Saucelle.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi templomnál, majd tekerjen az ikonikus Városházához. Délben hagyja maga mögött a városközpontot, és lovagoljon a folyó felé a Baloiço Congida hintához. Töltsön el egy pihentető délutánt a közeli Praia Fluvial de Congida strandon. Végül egy hosszabb esti utazás a lenyűgöző Embalse de Saucelle gáthoz vezet naplementekor.",
+        "ro": "Începeți aventura cu bicicleta la biserica istorică, apoi pedalați spre emblematica Primărie. La prânz, lăsați centrul orașului și mergeți spre râu pentru leagănul Baloiço Congida. Petreceți o după-amiază relaxantă la plaja fluvială din apropiere. În cele din urmă, o plimbare mai lungă de seară vă duce la impresionantul rezervor Saucelle la apus.",
+        "en": "Kick off your cycling adventure at the historic Igreja da Misericórdia, then pedal to the iconic Câmara Municipal. By midday, leave the town center behind and ride towards the river to enjoy the Baloiço Congida swing. Spend a relaxing afternoon at the nearby Praia Fluvial de Congida. Finally, a longer evening ride leads you to the impressive Embalse de Saucelle at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 31.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Unserer Lieben Frau der Heilmittel",
+            "hu": "Remete Szűzanya Kápolna",
+            "ro": "Capela Maicii Domnului a Remediilor",
+            "en": "Chapel of Our Lady of Remedies"
+          },
+          "coords": [
+            -6.81213,
+            41.093672
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser Kapelle auf dem Hügel und nehmen Sie sich einen Moment Zeit, um den Panoramablick über die Landschaft zu bewundern.",
+            "hu": "Élvezze a dombtetőn álló kápolna békés hangulatát, és szánjon egy pillanatot arra, hogy magába szívja a környező vidékre nyíló panorámát.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele de pe deal și luați-vă un moment pentru a absorbi priveliștile panoramice asupra peisajului rural.",
+            "en": "Enjoy the peaceful atmosphere of this hilltop chapel and take a moment to absorb the panoramic views over the surrounding Portuguese countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Freixo",
+            "hu": "Freixo Városháza",
+            "ro": "Primăria din Freixo",
+            "en": "City Hall of Freixo"
+          },
+          "coords": [
+            -6.808172,
+            41.089649
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Rathauses und entdecken Sie seine Rolle für das regionale Erbe.",
+            "hu": "Csodálja meg ennek a történelmi városházának a lenyűgöző építészetét, és fedezze fel a régió örökségében betöltött szerepét.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării istorice și descoperiți rolul său în moștenirea regiunii înainte de a vizita piața din apropiere.",
+            "en": "Admire the striking architecture of this historic town hall and discover its role in the region's heritage before visiting the nearby square."
+          }
+        },
+        {
+          "name": {
+            "de": "Flussstrand von Congida",
+            "hu": "Congida folyami strand",
+            "ro": "Plaja Fluvială Congida",
+            "en": "Congida River Beach"
+          },
+          "coords": [
+            -6.77977,
+            41.075536
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses Flussstrandes und packen Sie ein leichtes Picknick ein, das Sie im Schatten der Bäume genießen können.",
+            "hu": "Pihenjen ennek a folyami strandnak a nyugodt vizeinél, és csomagoljon be egy könnyű pikniket, amelyet a fák árnyékában élvezhet a gyönyörű folyó mentén.",
+            "ro": "Relaxați-vă lângă apele liniștite ale acestei plaje fluviale și aduceți un picnic ușor pentru a-l savura la umbra copacilor de-a lungul râului.",
+            "en": "Relax by the tranquil waters of this river beach and pack a light picnic to enjoy under the shade of the trees along the beautiful Douro River."
+          }
+        },
+        {
+          "name": {
+            "de": "Internationale Douro Bootsfahrt",
+            "hu": "Nemzetközi Douro hajóút",
+            "ro": "Plimbare cu Barca pe Douro Internațional",
+            "en": "International Douro Boat Ride"
+          },
+          "coords": [
+            -6.737881,
+            41.131997
+          ],
+          "category": "landmark",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Begeben Sie sich auf eine unvergessliche Bootsfahrt durch die spektakulären Grenzschluchten und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Vegyen részt egy emlékezetes hajóúton a látványos kanyonokon keresztül, és a nyári csúcsszezonban mindenképpen előre foglalja le jegyeit.",
+            "ro": "Îmbarcați-vă într-o plimbare memorabilă cu barca prin canioanele spectaculoase și asigurați-vă că vă rezervați biletele în avans.",
+            "en": "Embark on a memorable boat ride through the spectacular border canyons, making sure to book your tickets in advance during the peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferradosa Stausee",
+            "hu": "Ferradosa Víztározó",
+            "ro": "Rezervorul Ferradosa",
+            "en": "Ferradosa Reservoir"
+          },
+          "coords": [
+            -6.837129,
+            41.128888
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schönheit dieses von sanften Hügeln umgebenen Stausees, ein friedlicher Ort, um sich abseits der Massen die Beine zu vertreten.",
+            "hu": "Fedezze fel ezen dombokkal körülvett víztározó nyugodt szépségét, amely békés helyet biztosít a tömegtől távol, hogy kinyújtóztassa a lábát.",
+            "ro": "Descoperiți frumusețea senină a acestui rezervor înconjurat de dealuri, un loc pașnic pentru a vă relaxa departe de aglomerație.",
+            "en": "Discover the serene beauty of this reservoir surrounded by rolling hills, which makes for a peaceful spot to stretch your legs away from crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pocinho Stausee",
+            "hu": "Pocinho Víztározó",
+            "ro": "Rezervorul Pocinho",
+            "en": "Pocinho Reservoir"
+          },
+          "coords": [
+            -6.959387,
+            41.071995
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit der dramatischen Landschaft dieses wichtigen Stausees und fangen Sie das goldene Licht ein, das sich auf dem Wasser spiegelt.",
+            "hu": "Fejezze be utazását e létfontosságú víztározó drámai tájának megtekintésével, megörökítve a vízen gyönyörűen tükröződő aranyóra fényét.",
+            "ro": "Încheiați-vă călătoria asistând la peisajul dramatic al acestui rezervor vital, surprinzând lumina orei de aur care se reflectă pe apă.",
+            "en": "End your journey witnessing the dramatic landscape of this vital reservoir, catching the golden hour light reflecting beautifully on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur charmanten Kapelle und dann hinunter zum historischen Rathaus. Am Mittag verlagert sich Ihr Fokus auf den herrlichen Fluss Douro am Praia Fluvial. Verbringen Sie Ihren Nachmittag mit einer Bootsfahrt entlang der Grenze und bewundern Sie Albufeira da Ferradosa. Am Abend fahren Sie zur Albufeira do Pocinho, um die weite Naturlandschaft zu bewundern.",
+        "hu": "Először hajtson el a hangulatos kápolnához, majd induljon a történelmi Városháza felé. Délben a csodálatos Douro folyóra összpontosít a Praia Fluvial strandon. Töltse a délutánt egy határon átnyúló hajókázással, és csodálja meg az Albufeira da Ferradosa-t. Este utazzon az Albufeira do Pocinho-hoz, hogy megcsodálja a hatalmas természeti tájat.",
+        "ro": "Conduceți mai întâi spre fermecătoarea capelă, apoi îndreptați-vă spre Primăria istorică. La prânz, concentrați-vă pe magnificul râu Douro la Praia Fluvial. Petreceți după-amiaza bucurându-vă de o plimbare cu barca de-a lungul graniței și admirând Albufeira da Ferradosa. Seara, conduceți spre Albufeira do Pocinho pentru a admira peisajul natural vast.",
+        "en": "Drive to the charming Capela da Senhora dos Remédios first, then head down to the historic Câmara Municipal. Midday shifts your focus to the magnificent Douro River at Praia Fluvial de Congida. Spend your afternoon enjoying a boat ride along the border and marveling at Albufeira da Ferradosa. In the evening, drive down to Albufeira do Pocinho to admire the vast natural landscape."
+      }
+    }
+  }
+}

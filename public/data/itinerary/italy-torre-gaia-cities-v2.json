@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-torre-gaia-cities-v2",
+  "anchor": {
+    "name": "Torre Gaia",
+    "coords": [
+      12.6434,
+      41.8501
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 3.97,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tor Vergata",
+            "hu": "Tor Vergata",
+            "ro": "Tor Vergata",
+            "en": "Tor Vergata"
+          },
+          "coords": [
+            12.623613,
+            41.851043
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige antike Anlage von Tor Vergata, um die römische Architektur zu verstehen, und tragen Sie festes Schuhwerk für die unebenen historischen Ruinen.",
+            "hu": "Fedezze fel Tor Vergata kiterjedt ókori komplexumát, hogy megértse a római építészeti tudást, és mindenképpen viseljen masszív cipőt az egyenetlen történelmi romok bejárásához.",
+            "ro": "Explorați vastul complex antic de la Tor Vergata pentru a înțelege măiestria arhitecturală romană, asigurându-vă că purtați încălțăminte robustă pentru ruinele istorice inegale.",
+            "en": "Explore the sprawling ancient complex of Tor Vergata to understand Roman architectural prowess, making sure to wear sturdy shoes for navigating the uneven historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Meilenstein",
+            "hu": "Római mérföldkő",
+            "ro": "Piatră de hotar romană",
+            "en": "Roman Milestone"
+          },
+          "coords": [
+            12.628409,
+            41.851387
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen authentischen römischen Meilenstein, um die antike Infrastruktur zu erfassen, und bringen Sie ein Zoomobjektiv für die Inschriften mit.",
+            "hu": "Vizsgálja meg ezt az eredeti római mérföldkövet, hogy megértse az ókori infrastruktúra méretét, és hozzon magával zoom objektívet a feliratok fotózásához.",
+            "ro": "Examinați această bornă romană autentică pentru a înțelege amploarea infrastructurii antice și aduceți un obiectiv zoom pentru a-i surprinde inscripțiile.",
+            "en": "Examine this authentic Roman milestone to grasp the scale of ancient infrastructure, and bring a zoom lens to capture its weathered inscriptions up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Margherita Maria Alacoque",
+            "hu": "Santa Margherita Maria Alacoque templom",
+            "ro": "Biserica Santa Margherita Maria Alacoque",
+            "en": "Church of Santa Margherita Maria Alacoque"
+          },
+          "coords": [
+            12.629725,
+            41.848858
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Bewundern Sie das friedliche Innere dieser modernen Pfarrkirche für einen spirituellen Rückzug, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg a modern plébániatemplom békés belsejét, amely csendes spirituális menedéket kínál, de ne feledjen szerényen öltözködni és halkan beszélni.",
+            "ro": "Admirați interiorul liniștit al acestei biserici parohiale moderne pentru o retragere spirituală, dar amintiți-vă să vă îmbrăcați modest și să vorbiți încet.",
+            "en": "Admire the peaceful interior of this modern parish church which offers a quiet spiritual retreat, but remember to dress modestly and speak softly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Area Casali",
+            "hu": "Villa Area Casali",
+            "ro": "Villa Area Casali",
+            "en": "Villa Area Casali"
+          },
+          "coords": [
+            12.635745,
+            41.841235
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verstreuten Überreste dieser römischen Villa, die das antike Wohnleben beleuchten, und kommen Sie am frühen Nachmittag für das beste Licht.",
+            "hu": "Fedezze fel az ókori római villa szétszórt maradványait, amelyek bemutatják a lakóéletet, és látogasson el kora délután a legjobb természetes megvilágítás érdekében.",
+            "ro": "Descoperiți rămășițele acestei vile romane impresionante care evidențiază viața rezidențială antică și vizitați-o la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Discover the scattered remains of this impressive Roman villa that highlight ancient residential life, and visit during the early afternoon for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Passolombardo",
+            "hu": "Passolombardo Római Villa",
+            "ro": "Vila Romană Passolombardo",
+            "en": "Passolombardo Roman Villa"
+          },
+          "coords": [
+            12.64773,
+            41.845111
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Fundamente der römischen Villa Passolombardo, um sich antiken Luxus vorzustellen, und achten Sie auf schwache Mosaikfragmente am Boden.",
+            "hu": "Sétáljon végig a Passolombardo Római Villa hatalmas alapjain, hogy elképzelje az ókori luxust, és figyeljen a talajon lévő halvány mozaiktöredékekre is.",
+            "ro": "Plimbați-vă prin fundațiile vaste ale Vilei Romane Passolombardo pentru a vizualiza luxul antic, fiind atenți la fragmentele slabe de mozaic de pe jos.",
+            "en": "Walk through the expansive foundations of the Passolombardo Roman Villa to visualize ancient luxury, keeping an eye out for faint mosaic fragments on the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria Madre dell'Ospitalità",
+            "hu": "Santa Maria Madre dell'Ospitalità templom",
+            "ro": "Biserica Santa Maria Madre dell'Ospitalità",
+            "en": "Church of Santa Maria Madre dell'Ospitalità"
+          },
+          "coords": [
+            12.650097,
+            41.856071
+          ],
+          "category": "religious",
+          "arrive_at": "16:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Erleben Sie die warme Atmosphäre dieses wunderschön gestalteten Heiligtums, was es zum perfekten letzten Halt macht, um sich vor der Rückreise auszuruhen.",
+            "hu": "Tapasztalja meg ennek a gyönyörűen tervezett szentélynek a meleg atmoszféráját, amely tökéletes utolsó állomás a visszaindulás előtti megpihenéshez.",
+            "ro": "Experimentați atmosfera caldă a acestui sanctuar frumos proiectat, transformându-l într-o ultimă oprire perfectă pentru a vă odihni picioarele la plecare.",
+            "en": "Experience the warm, welcoming atmosphere of this beautifully designed sanctuary, making it a perfect final stop to rest your feet before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihren Tag mit der Entdeckung der vielschichtigen Geschichte von Torre Gaia, indem Sie die antiken römischen Ruinen betreten.\nMittag: Setzen Sie Ihre Zeitreise fort, besuchen Sie weitere archäologische Stätten und halten Sie in einer der ruhigen örtlichen Kirchen inne.\nNachmittag: Tauchen Sie bei der Erkundung historisch bedeutsamer Villen tiefer in die Vergangenheit ein, wo die Überreste der Architektur begeistern.\nAbend: Beenden Sie Ihren Ausflug mit einem friedlichen Spaziergang nahe einer schönen historischen Kirche und genießen Sie die ruhige Abenddämmerung.",
+        "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
+        "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
+        "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 6.69,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Straße",
+            "hu": "Római út",
+            "ro": "Drumul Roman",
+            "en": "Roman Road"
+          },
+          "coords": [
+            12.648164,
+            41.829719
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der antiken Pflastersteine dieser römischen Straße, aber bleiben Sie auf dem modernen Weg daneben, um einen Reifenstapfen zu vermeiden.",
+            "hu": "Biciklizzen ennek az eredeti római útnak az ókori macskakövei mellett, de maradjon a modern ösvényen, hogy elkerülje az esetleges durrdefekteket útközben.",
+            "ro": "Mergeți pe lângă pietrele de pavaj antice ale acestui drum roman autentic, dar rămâneți pe poteca modernă de alături pentru a evita spargerea unei anvelope.",
+            "en": "Ride alongside the ancient paving stones of this authentic Roman road to connect with history, but stick to the modern path beside it to avoid puncturing a tire."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Spinoretico",
+            "hu": "Spinoretico temploma",
+            "ro": "Biserica din Spinoretico",
+            "en": "Church of Spinoretico"
+          },
+          "coords": [
+            12.642906,
+            41.829375
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser charmanten lokalen Kirche, die als Anker der Gemeinde dient, und schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern an.",
+            "hu": "Tartson egy rövid szünetet ennél a bájos helyi templomnál, amely a közösség horgonya, és zárja le biztonságosan a kerékpárját a kapun kívüli tárolóknál.",
+            "ro": "Luați o scurtă pauză la această biserică locală fermecătoare, ancoră a comunității, asigurându-vă bicicleta la rastelele desemnate chiar în afara porților sale.",
+            "en": "Take a brief pause at this charming local church that serves as a community anchor, locking your bike securely at the designated racks just outside the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Botte di Luciano",
+            "hu": "Botte di Luciano",
+            "ro": "Botte di Luciano",
+            "en": "Botte di Luciano"
+          },
+          "coords": [
+            12.631642,
+            41.836813
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses einzigartige archäologische Merkmal, das den Einfallsreichtum der römischen Wasserwirtschaft zeigt, und bringen Sie eine kleine Taschenlampe mit.",
+            "hu": "Vizsgálja meg ezt az egyedülálló régészeti leletet, amely az ókori vízgazdálkodás találékonyságát mutatja be, és hozzon magával egy kis zseblámpát a sötétebb részekhez.",
+            "ro": "Investigați această structură arheologică unică, o dovadă a ingeniozității managementului antic al apei, și aduceți o lanternă mică pentru a privi în interior.",
+            "en": "Investigate this unique archaeological feature that reveals the ingenuity of ancient Roman water management, and bring a small flashlight to see into the darker crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Bereich 5-7",
+            "hu": "Villa 5-7-es terület",
+            "ro": "Zona Vilei 5-7",
+            "en": "Villa Area 5-7"
+          },
+          "coords": [
+            12.632615,
+            41.841189
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die strukturellen Überreste in diesem Sektor, der einst zu einem großen Anwesen gehörte, und bleiben Sie hinter den Schutzseilen, um die Stätte zu bewahren.",
+            "hu": "Csodálja meg ennek a feltárt szektornak a szerkezeti maradványait, és ügyeljen arra, hogy a védőkötelek mögött maradjon a történelmi helyszín megőrzése érdekében.",
+            "ro": "Minunați-vă de rămășițele structurale din acest sector excavat care a aparținut cândva unei mari moșii, asigurându-vă că rămâneți în spatele frânghiilor de protecție.",
+            "en": "Marvel at the structural remains in this excavated sector that once belonged to a grand estate, ensuring you stay behind the protective ropes to preserve the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Passolombardo",
+            "hu": "Passolombardo Római Villa",
+            "ro": "Vila Romană Passolombardo",
+            "en": "Passolombardo Roman Villa"
+          },
+          "coords": [
+            12.64773,
+            41.845111
+          ],
+          "category": "historical",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Fundamente der römischen Villa Passolombardo, um sich antiken Luxus vorzustellen, und achten Sie auf schwache Mosaikfragmente am Boden.",
+            "hu": "Sétáljon végig a Passolombardo Római Villa hatalmas alapjain, hogy elképzelje az ókori luxust, és figyeljen a talajon lévő halvány mozaiktöredékekre is.",
+            "ro": "Plimbați-vă prin fundațiile vaste ale Vilei Romane Passolombardo pentru a vizualiza luxul antic, fiind atenți la fragmentele slabe de mozaic de pe jos.",
+            "en": "Walk through the expansive foundations of the Passolombardo Roman Villa to visualize ancient luxury, keeping an eye out for faint mosaic fragments on the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von San Zotico",
+            "hu": "San Zotico katakombák",
+            "ro": "Catacombele Sfântului Zotic",
+            "en": "Catacombs of San Zotico"
+          },
+          "coords": [
+            12.666183,
+            41.851396
+          ],
+          "category": "historical",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese faszinierenden frühchristlichen Grabkammern hinab, um die Geschichte zu erleben, aber packen Sie eine leichte Jacke für die kühlen Temperaturen ein.",
+            "hu": "Ereszkedjen le ezekbe a lenyűgöző ókeresztény temetkezési kamrákba a történelem megtapasztalásához, de hozzon egy könnyű kabátot, mivel a hőmérséklet lent jelentősen esik.",
+            "ro": "Coborâți în aceste fascinante camere funerare paleocreștine pentru a simți istoria, dar luați o jachetă ușoară deoarece temperaturile subterane scad semnificativ.",
+            "en": "Descend into these fascinating early Christian burial chambers to experience a profound sense of history, but pack a light jacket as underground temperatures drop significantly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Bernardino da Siena",
+            "hu": "San Bernardino da Siena templom",
+            "ro": "Biserica San Bernardino da Siena",
+            "en": "Church of San Bernardino da Siena"
+          },
+          "coords": [
+            12.654022,
+            41.861421
+          ],
+          "category": "religious",
+          "arrive_at": "17:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser ruhigen Kirche, die dem berühmten franziskanischen Prediger gewidmet ist, und ruhen Sie sich auf den nahegelegenen Bänken aus.",
+            "hu": "Fejezze be kerékpártúráját ennél a híres ferences prédikátornak szentelt nyugodt templomnál, és szánjon időt a pihenésre a közeli padokon az esti levegőn.",
+            "ro": "Terminați-vă turul cu bicicleta la această biserică liniștită dedicată faimosului predicator franciscan, făcându-vă timp să vă odihniți pe băncile din apropiere.",
+            "en": "Finish your cycling tour at this tranquil church dedicated to the famous Franciscan preacher, taking time to rest on the nearby benches while enjoying the evening air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihren Tag mit der Entdeckung der vielschichtigen Geschichte von Torre Gaia, indem Sie die antiken römischen Ruinen betreten.\nMittag: Setzen Sie Ihre Zeitreise fort, besuchen Sie weitere archäologische Stätten und halten Sie in einer der ruhigen örtlichen Kirchen inne.\nNachmittag: Tauchen Sie bei der Erkundung historisch bedeutsamer Villen tiefer in die Vergangenheit ein, wo die Überreste der Architektur begeistern.\nAbend: Beenden Sie Ihren Ausflug mit einem friedlichen Spaziergang nahe einer schönen historischen Kirche und genießen Sie die ruhige Abenddämmerung.",
+        "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
+        "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
+        "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:21",
+      "total_km": 9.24,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Villa im Parco di Barcaccia",
+            "hu": "Barcaccia Park Római Villája",
+            "ro": "Vila Romană din Parco di Barcaccia",
+            "en": "Roman Villa of Parco di Barcaccia"
+          },
+          "coords": [
+            12.630098,
+            41.832295
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit der Erkundung der majestätischen Ruinen dieser Vorstadtvilla und nutzen Sie den großen öffentlichen Parkplatz direkt gegenüber.",
+            "hu": "Kezdje autós túráját ennek a hatalmas külvárosi villának a fenséges romjainál, és használja a főutca túloldalán található tágas, ingyenes nyilvános parkolót.",
+            "ro": "Începeți-vă turul cu mașina explorând ruinele maiestuoase ale acestei vile suburbane și utilizați parcarea publică spațioasă situată chiar peste strada principală.",
+            "en": "Start your driving tour exploring the majestic ruins of this sprawling suburban villa, and use the spacious public parking lot located just across the main street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Spinoretico",
+            "hu": "Spinoretico temploma",
+            "ro": "Biserica din Spinoretico",
+            "en": "Church of Spinoretico"
+          },
+          "coords": [
+            12.642906,
+            41.829375
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser charmanten lokalen Kirche, die als Anker der Gemeinde dient, und parken Sie Ihr Auto in der ruhigen Seitenstraße.",
+            "hu": "Tartson egy rövid szünetet ennél a bájos helyi templomnál, amely a közösség horgonya, és parkoljon le az autójával a csendes mellékutcában.",
+            "ro": "Luați o scurtă pauză la această biserică locală fermecătoare, ancoră a comunității, parcându-vă mașina pe strada laterală liniștită din apropiere.",
+            "en": "Take a brief pause at this charming local church that serves as a community anchor, parking your car on the quiet side street to avoid main road traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Botte di Luciano",
+            "hu": "Botte di Luciano",
+            "ro": "Botte di Luciano",
+            "en": "Botte di Luciano"
+          },
+          "coords": [
+            12.631642,
+            41.836813
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses einzigartige archäologische Merkmal, das den Einfallsreichtum der römischen Wasserwirtschaft zeigt, und bringen Sie eine kleine Taschenlampe mit.",
+            "hu": "Vizsgálja meg ezt az egyedülálló régészeti leletet, amely az ókori vízgazdálkodás találékonyságát mutatja be, és hozzon magával egy kis zseblámpát a sötétebb részekhez.",
+            "ro": "Investigați această structură arheologică unică, o dovadă a ingeniozității managementului antic al apei, și aduceți o lanternă mică pentru a privi în interior.",
+            "en": "Investigate this unique archaeological feature that reveals the ingenuity of ancient Roman water management, and bring a small flashlight to see into the darker crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "Tor Vergata",
+            "hu": "Tor Vergata",
+            "ro": "Tor Vergata",
+            "en": "Tor Vergata"
+          },
+          "coords": [
+            12.623613,
+            41.851043
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige antike Anlage von Tor Vergata, um die römische Architektur zu verstehen, und tragen Sie festes Schuhwerk für die unebenen historischen Ruinen.",
+            "hu": "Fedezze fel Tor Vergata kiterjedt ókori komplexumát, hogy megértse a római építészeti tudást, és mindenképpen viseljen masszív cipőt az egyenetlen történelmi romok bejárásához.",
+            "ro": "Explorați vastul complex antic de la Tor Vergata pentru a înțelege măiestria arhitecturală romană, asigurându-vă că purtați încălțăminte robustă pentru ruinele istorice inegale.",
+            "en": "Explore the sprawling ancient complex of Tor Vergata to understand Roman architectural prowess, making sure to wear sturdy shoes for navigating the uneven historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Meilenstein",
+            "hu": "Római mérföldkő",
+            "ro": "Piatră de hotar romană",
+            "en": "Roman Milestone"
+          },
+          "coords": [
+            12.628409,
+            41.851387
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen authentischen römischen Meilenstein, um die antike Infrastruktur zu erfassen, und bringen Sie ein Zoomobjektiv für die Inschriften mit.",
+            "hu": "Vizsgálja meg ezt az eredeti római mérföldkövet, hogy megértse az ókori infrastruktúra méretét, és hozzon magával zoom objektívet a feliratok fotózásához.",
+            "ro": "Examinați această bornă romană autentică pentru a înțelege amploarea infrastructurii antice și aduceți un obiectiv zoom pentru a-i surprinde inscripțiile.",
+            "en": "Examine this authentic Roman milestone to grasp the scale of ancient infrastructure, and bring a zoom lens to capture its weathered inscriptions up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Passolombardo",
+            "hu": "Passolombardo Római Villa",
+            "ro": "Vila Romană Passolombardo",
+            "en": "Passolombardo Roman Villa"
+          },
+          "coords": [
+            12.64773,
+            41.845111
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Fundamente der römischen Villa Passolombardo, um sich antiken Luxus vorzustellen, und achten Sie auf schwache Mosaikfragmente am Boden.",
+            "hu": "Sétáljon végig a Passolombardo Római Villa hatalmas alapjain, hogy elképzelje az ókori luxust, és figyeljen a talajon lévő halvány mozaiktöredékekre is.",
+            "ro": "Plimbați-vă prin fundațiile vaste ale Vilei Romane Passolombardo pentru a vizualiza luxul antic, fiind atenți la fragmentele slabe de mozaic de pe jos.",
+            "en": "Walk through the expansive foundations of the Passolombardo Roman Villa to visualize ancient luxury, keeping an eye out for faint mosaic fragments on the ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von San Zotico",
+            "hu": "San Zotico katakombák",
+            "ro": "Catacombele Sfântului Zotic",
+            "en": "Catacombs of San Zotico"
+          },
+          "coords": [
+            12.666183,
+            41.851396
+          ],
+          "category": "historical",
+          "arrive_at": "16:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese faszinierenden frühchristlichen Grabkammern hinab, um die Geschichte zu erleben, aber packen Sie eine leichte Jacke für die kühlen Temperaturen ein.",
+            "hu": "Ereszkedjen le ezekbe a lenyűgöző ókeresztény temetkezési kamrákba a történelem megtapasztalásához, de hozzon egy könnyű kabátot, mivel a hőmérséklet lent jelentősen esik.",
+            "ro": "Coborâți în aceste fascinante camere funerare paleocreștine pentru a simți istoria, dar luați o jachetă ușoară deoarece temperaturile subterane scad semnificativ.",
+            "en": "Descend into these fascinating early Christian burial chambers to experience a profound sense of history, but pack a light jacket as underground temperatures drop significantly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Bernardino da Siena",
+            "hu": "San Bernardino da Siena templom",
+            "ro": "Biserica San Bernardino da Siena",
+            "en": "Church of San Bernardino da Siena"
+          },
+          "coords": [
+            12.654022,
+            41.861421
+          ],
+          "category": "religious",
+          "arrive_at": "18:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an dieser ruhigen Kirche, die dem berühmten franziskanischen Prediger gewidmet ist, und genießen Sie die friedliche Abendluft auf den Bänken.",
+            "hu": "Fejezze be autós túráját ennél a híres ferences prédikátornak szentelt nyugodt templomnál, és élvezze a békés esti levegőt a közeli padokon megpihenve.",
+            "ro": "Terminați-vă turul cu mașina la această biserică liniștită dedicată faimosului predicator franciscan, bucurându-vă de aerul pașnic al serii pe băncile din apropiere.",
+            "en": "Finish your driving tour at this tranquil church dedicated to the famous Franciscan preacher, enjoying the peaceful evening air on the nearby benches before departing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihren Tag mit der Entdeckung der vielschichtigen Geschichte von Torre Gaia, indem Sie die antiken römischen Ruinen betreten.\nMittag: Setzen Sie Ihre Zeitreise fort, besuchen Sie weitere archäologische Stätten und halten Sie in einer der ruhigen örtlichen Kirchen inne.\nNachmittag: Tauchen Sie bei der Erkundung historisch bedeutsamer Villen tiefer in die Vergangenheit ein, wo die Überreste der Architektur begeistern.\nAbend: Beenden Sie Ihren Ausflug mit einem friedlichen Spaziergang nahe einer schönen historischen Kirche und genießen Sie die ruhige Abenddämmerung.",
+        "hu": "Délelőtt: Kezdje a napot Torre Gaia rétegzett történelmének felfedezésével, és lépjen be a modern tájat pöttyöző ókori római romok közé.\nDél: Folytassa időutazását további régészeti lelőhelyek meglátogatásával, és szánjon egy pillanatot a csendes elmélkedésre egy helyi templomban.\nDélután: Merüljön el mélyebben a múltban a történelmi jelentőségű villák felfedezésével, ahol a klasszikus építészet maradványai még mindig lenyűgöznek.\nEste: Zárja kirándulását egy békés sétával egy gyönyörű történelmi templom közelében, élvezve a Róma keleti külvárosaira ereszkedő csendes alkonyt.",
+        "ro": "Dimineața: Începeți ziua descoperind istoria stratificată a cartierului Torre Gaia, pășind printre ruinele antice romane care presară peisajul modern.\nPrânz: Continuați-vă călătoria în timp vizitând mai multe situri arheologice și luați-vă un moment pentru a reflecta într-una dintre bisericile locale liniștite.\nDupă-amiaza: Pătrundeți mai adânc în trecut cu explorări ale unor vile cu semnificație istorică, unde rămășițele arhitecturii clasice încă captivează imaginația.\nSeara: Încheiați-vă excursia cu o plimbare pașnică lângă o frumoasă biserică istorică, bucurându-vă de amurgul liniștit care se lasă peste suburbiile estice.",
+        "en": "Morning: Start your day uncovering the layered history of Torre Gaia by stepping into the ancient Roman ruins that dot the modern landscape.\nMidday: Continue your journey through time as you visit more archaeological sites and take a moment to reflect in one of the serene local churches.\nAfternoon: Dive deeper into the past with explorations of historically significant villas, where the remnants of classical architecture still capture the imagination.\nEvening: Conclude your trip with a peaceful walk near a beautiful historic church, enjoying the quiet twilight settling over Rome's captivating eastern suburbs."
+      }
+    }
+  }
+}

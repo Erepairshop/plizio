@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-lido-degli-scacchi-cities-v2",
+  "anchor": {
+    "name": "Lido degli Scacchi",
+    "coords": [
+      12.23875,
+      44.70797
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Motoera",
+            "hu": "Motoera",
+            "ro": "Motoera",
+            "en": "Motoera"
+          },
+          "coords": [
+            12.237965,
+            44.706936
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der motorisierten Zweiräder in diesem charmanten kleinen Museum, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a motorizált kétkerekűek lenyűgöző történetét ebben a bájos kis múzeumban, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a vehiculelor cu două roți în acest mic muzeu fermecător, dar verificați programul sezonier înainte de vizită.",
+            "en": "Discover the fascinating history of motorized two-wheelers in this charming little museum, but be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Clodia 55",
+            "hu": "Bagno Clodia 55",
+            "ro": "Bagno Clodia 55",
+            "en": "Bagno Clodia 55"
+          },
+          "coords": [
+            12.240186,
+            44.707821
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Strandatmosphäre und die gut gepflegten Anlagen dieses klassischen Bagno, ideal für einen Vormittagskaffee mit Meerblick.",
+            "hu": "Élvezze a nyugodt tengerparti hangulatot és ennek a klasszikus strandnak a jól karbantartott létesítményeit, amely ideális egy délelőtti tengerre néző kávéhoz.",
+            "ro": "Bucurați-vă de atmosfera relaxantă pe plajă și de facilitățile bine întreținute ale acestui lido clasic, perfect pentru o cafea de dimineață cu vedere la mare.",
+            "en": "Enjoy the relaxing beach atmosphere and the well-maintained facilities of this classic lido, which is perfect for a mid-morning coffee with an ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Delfinus 52",
+            "hu": "Bagno Delfinus 52",
+            "ro": "Bagno Delfinus 52",
+            "en": "Bagno Delfinus 52"
+          },
+          "coords": [
+            12.240057,
+            44.709393
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den feinen Sandstränden dieses beliebten Strandbads und mieten Sie sich rechtzeitig eine Liege, um den besten Platz an der Sonne zu sichern.",
+            "hu": "Pihenjen meg a népszerű fürdőhely finom homokos partján, és béreljen időben napágyat, hogy biztosítsa a legjobb helyet a napon.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje populare și închiriați un șezlong din timp pentru a vă asigura cel mai bun loc la soare.",
+            "en": "Relax on the fine sandy beaches of this popular bathing establishment, and make sure to rent a sunbed early to secure the best spot in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Bar Nettuno",
+            "hu": "Bagno Bar Nettuno",
+            "ro": "Bagno Bar Nettuno",
+            "en": "Bagno Bar Nettuno"
+          },
+          "coords": [
+            12.240638,
+            44.714144
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kosten Sie die frischen Meeresfrüchte in diesem lebhaften Strandrestaurant, das für seine freundliche Bedienung und hervorragenden Schattenplätze bekannt ist.",
+            "hu": "Kóstolja meg a friss tengeri ételeket ebben a nyüzsgő tengerparti étteremben, amely barátságos kiszolgálásáról és kiváló árnyékos helyeiről ismert.",
+            "ro": "Gustați fructele de mare proaspete la acest restaurant animat de pe plajă, cunoscut pentru servirea prietenoasă și locurile excelente la umbră.",
+            "en": "Taste the fresh seafood at this lively beachside restaurant, which is well-known for its friendly service and excellent shaded seating areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Bar Bagno Ischia",
+            "hu": "Bar Bagno Ischia",
+            "ro": "Bar Bagno Ischia",
+            "en": "Bar Bagno Ischia"
+          },
+          "coords": [
+            12.240628,
+            44.715602
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele baumeln bei einem erfrischenden Getränk an dieser ruhigeren Strandbar, ideal um den Nachmittag entspannt ausklingen zu lassen.",
+            "hu": "Kapcsolódjon ki egy frissítő ital mellett ebben a csendesebb tengerparti bárban, amely tökéletes a délután laza eltöltéséhez.",
+            "ro": "Relaxați-vă cu o băutură răcoritoare la acest bar de pe plajă mai liniștit, locul perfect pentru a încheia după-amiaza într-o atmosferă calmă.",
+            "en": "Unwind with a refreshing drink at this quieter beach bar, providing the perfect setting to slowly wind down your afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bar Bagno Serena",
+            "hu": "Bar Bagno Serena",
+            "ro": "Bar Bagno Serena",
+            "en": "Bar Bagno Serena"
+          },
+          "coords": [
+            12.240845,
+            44.717101
+          ],
+          "category": "recreational",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie einen unvergesslichen Sonnenuntergang an diesem familienfreundlichen Strandabschnitt, wo flaches Wasser ideale Bedingungen für einen späten Spaziergang bietet.",
+            "hu": "Tapasztalja meg a felejthetetlen naplementét ezen a családbarát partszakaszon, ahol a sekély víz ideális körülményeket biztosít egy késő délutáni sétához.",
+            "ro": "Experimentați un apus de neuitat pe această plajă potrivită pentru familii, unde apele puțin adânci oferă condiții ideale pentru o plimbare târzie.",
+            "en": "Experience an unforgettable sunset at this family-friendly stretch of beach, where the shallow waters offer ideal conditions for a late afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt leicht landeinwärts bei Motoera, wo Sie in die Motorradgeschichte eintauchen, bevor es an die Adria geht. Gegen Mittag spazieren Sie entlang der Küste und wechseln zwischen Bagno Clodia 55 und Bagno Delfinus 52, um die unberührten Strände zu genießen. Am Nachmittag führt der Weg weiter nach Norden vorbei an gemütlichen Strandbars wie Bagno Bar Nettuno, die perfekten Schatten bieten. Der Abend endet stilvoll in der Bar Bagno Serena, wo Sie mit einem kühlen Getränk den Sonnenuntergang über dem Meer beobachten können.",
+        "hu": "Gyalogos túrája kicsit beljebb, a Motoera-nál kezdődik, ahol elmerülhet a motorkerékpárok történetében, mielőtt az Adria hullámai felé venné az irányt. Délben a part mentén sétálva a Bagno Clodia 55 és a Bagno Delfinus 52 között élvezheti a homokos strandokat. Délután az út észak felé folytatódik olyan hangulatos tengerparti bárok mellett, mint a Bagno Bar Nettuno, melyek tökéletes árnyékot nyújtanak. Az este elegánsan zárul a Bar Bagno Serena-ban, ahol egy frissítő itallal a kezében nézheti a tengeri naplementét.",
+        "ro": "Turul pietonal începe puțin în interior la Motoera, explorând istoria motocicletelor înainte de a vă îndrepta spre valurile Adriaticii. La amiază, vă veți plimba de-a lungul coastei, oprindu-vă la Bagno Clodia 55 și Bagno Delfinus 52 pentru a vă bucura de plajele cu nisip. După-amiaza, plimbarea continuă spre nord pe lângă baruri confortabile precum Bagno Bar Nettuno, oferind locuri perfecte de relaxare la umbră. Seara se încheie elegant la Bar Bagno Serena, unde puteți admira apusul pe mare cu o băutură răcoritoare.",
+        "en": "Your walking tour begins slightly inland at Motoera, diving into local motorcycle history before you head toward the gentle waves of the Adriatic. By mid-day, you will stroll along the coastline, hopping between Bagno Clodia 55 and Bagno Delfinus 52 to enjoy the pristine sandy beaches. In the afternoon, the walk continues north past cozy beach bars like Bagno Bar Nettuno, offering perfect spots to relax under an umbrella. The evening concludes gracefully at Bar Bagno Serena, where you can watch the sunset over the sea with a refreshing drink in hand."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:07",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vascello D'oro",
+            "hu": "Vascello D'oro",
+            "ro": "Vascello D'oro",
+            "en": "Vascello D'oro"
+          },
+          "coords": [
+            12.239533,
+            44.697962
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag in diesem charmanten südlichen Strandbad, das mit seinem goldenen Sand und ruhigen Morgenstunden zum frühen Schwimmen einlädt.",
+            "hu": "Kezdje a napot ebben a bájos déli strandfürdőben, amely aranyhomokkal és csendes reggeli órákkal csábít egy korai úszásra.",
+            "ro": "Începeți ziua la acest lido fermecător din sud, care atrage cu nisipul său auriu și diminețile liniștite, perfecte pentru un înot matinal.",
+            "en": "Start your day at this charming southern beach establishment, which beckons with its golden sand and quiet morning hours perfect for an early swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Le dune",
+            "hu": "Le dune",
+            "ro": "Le dune",
+            "en": "Le dune"
+          },
+          "coords": [
+            12.240222,
+            44.70225
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürliche Schönheit dieses weniger bebauten Strandabschnitts, bringen Sie jedoch eigenes Wasser mit, da die Einrichtungen hier etwas spartanischer sind.",
+            "hu": "Csodálja meg e kevésbé beépített partszakasz természetes szépségét, de hozzon magával saját vizet, mivel az itteni felszereltség némileg egyszerűbb.",
+            "ro": "Admirați frumusețea naturală a acestei porțiuni de plajă mai puțin amenajate, dar aduceți-vă apă, deoarece facilitățile de aici sunt destul de rustice.",
+            "en": "Admire the natural beauty of this less developed stretch of beach, but be sure to bring your own water as the facilities here are somewhat more rustic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Alfiere",
+            "hu": "Bagno Alfiere",
+            "ro": "Bagno Alfiere",
+            "en": "Bagno Alfiere"
+          },
+          "coords": [
+            12.24016,
+            44.706486
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter die Einheimischen an diesem traditionellen Strandabschnitt, wo Sie ausgezeichnete kleine Snacks für die Mittagspause finden können.",
+            "hu": "Vegyüljön el a helyiek között ezen a hagyományos partszakaszon, ahol kiváló kis rágcsálnivalókat találhat az ebédszünethez.",
+            "ro": "Amestecați-vă printre localnici pe această porțiune tradițională de plajă, unde puteți găsi gustări excelente pentru pauza de prânz.",
+            "en": "Mingle with the locals at this traditional stretch of beach, where you can easily find excellent small snacks for your midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Motoera",
+            "hu": "Motoera",
+            "ro": "Motoera",
+            "en": "Motoera"
+          },
+          "coords": [
+            12.237965,
+            44.706936
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der motorisierten Zweiräder in diesem charmanten kleinen Museum, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a motorizált kétkerekűek lenyűgöző történetét ebben a bájos kis múzeumban, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a vehiculelor cu două roți în acest mic muzeu fermecător, dar verificați programul sezonier înainte de vizită.",
+            "en": "Discover the fascinating history of motorized two-wheelers in this charming little museum, but be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Delfinus 52",
+            "hu": "Bagno Delfinus 52",
+            "ro": "Bagno Delfinus 52",
+            "en": "Bagno Delfinus 52"
+          },
+          "coords": [
+            12.240057,
+            44.709393
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den feinen Sandstränden dieses beliebten Strandbads und mieten Sie sich rechtzeitig eine Liege, um den besten Platz an der Sonne zu sichern.",
+            "hu": "Pihenjen meg a népszerű fürdőhely finom homokos partján, és béreljen időben napágyat, hogy biztosítsa a legjobb helyet a napon.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje populare și închiriați un șezlong din timp pentru a vă asigura cel mai bun loc la soare.",
+            "en": "Relax on the fine sandy beaches of this popular bathing establishment, and make sure to rent a sunbed early to secure the best spot in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Perlati Giochi",
+            "hu": "Perlati Giochi",
+            "ro": "Perlati Giochi",
+            "en": "Perlati Giochi"
+          },
+          "coords": [
+            12.238757,
+            44.718654
+          ],
+          "category": "recreational",
+          "arrive_at": "16:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause vom Strand in diesem kleinen Vergnügungspark, der mit klassischen Arcade-Spielen besonders bei Familien und Kindern punktet.",
+            "hu": "Élvezze a strandolás utáni szünetet ebben a kis vidámparkban, amely klasszikus játéktermi játékaival különösen a családok és a gyerekek körében népszerű.",
+            "ro": "Bucurați-vă de o pauză de la plajă în acest mic parc de distracții, care este deosebit de popular printre familii și copii pentru jocurile sale clasice de arcade.",
+            "en": "Enjoy a break from the beach at this small amusement area, which is particularly popular with families and children for its classic arcade games."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Gallanti Beach",
+            "hu": "Bagno Gallanti Beach",
+            "ro": "Bagno Gallanti Beach",
+            "en": "Bagno Gallanti Beach"
+          },
+          "coords": [
+            12.240928,
+            44.71991
+          ],
+          "category": "recreational",
+          "arrive_at": "17:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem exklusiven Strandclub ausklingen, der mit hervorragenden Cocktails und einer gepflegten Atmosphäre bis in die Abendstunden lockt.",
+            "hu": "Zárja a napot ebben az exkluzív strandklubban, amely kiváló koktélokkal és elegáns hangulattal vonzza a látogatókat egészen az esti órákig.",
+            "ro": "Încheiați ziua la acest club exclusivist de pe plajă, care atrage vizitatorii până seara cu cocktailuri excelente și o atmosferă îngrijită.",
+            "en": "End your day at this exclusive beach club, which tempts visitors well into the evening hours with excellent cocktails and a sophisticated atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am südlichen Rand des Lido degli Scacchi beim Vascello D'oro und atmen Sie die frische Meeresbrise ein. Am Vormittag radeln Sie durch die schönen natürlichen Abschnitte von Le dune und das lebhafte Bagno Alfiere. Nachmittags bringt Sie ein kurzer Abstecher ins Landesinnere zum Motoera-Museum, bevor Sie zum Bagno Delfinus 52 zurückkehren. Der Tag klingt aus, während Sie nach Norden zum Perlati Giochi radeln, um schließlich einen entspannten Abend am Bagno Gallanti Beach zu verbringen.",
+        "hu": "Kezdje kerékpáros kalandját a Lido degli Scacchi déli szélén, a Vascello D'oro-nál, beszívva a friss reggeli tengeri levegőt. A délelőtt folyamán tekerjen át a Le dune gyönyörű természetes szakaszain és a nyüzsgő Bagno Alfiere-n. Délután egy rövid kitérővel a szárazföld belsejébe a Motoera múzeumhoz ér, mielőtt visszatérne a nyüzsgő Bagno Delfinus 52-höz. A nap úgy ér véget, hogy észak felé teker a Perlati Giochi vidámparkhoz, majd a Bagno Gallanti Beach pihentető estéjével zárul.",
+        "ro": "Începeți aventura pe bicicletă la marginea de sud a Lido degli Scacchi la Vascello D'oro, respirând briza proaspătă a dimineții. Pe măsură ce dimineața avansează, pedalați prin porțiunile naturale din Le dune și animatul Bagno Alfiere. După-amiaza, un scurt ocol în interior vă duce la muzeul Motoera înainte de a vă întoarce la Bagno Delfinus 52. Ziua se încheie pedalând spre nord spre Perlati Giochi pentru puțină distracție, culminând cu o seară relaxantă la Bagno Gallanti Beach.",
+        "en": "Start your biking adventure at the southern edge of Lido degli Scacchi at Vascello D'oro, breathing in the fresh morning sea breeze. As the morning progresses, pedal through the beautiful natural stretches of Le dune and the lively Bagno Alfiere. In the afternoon, a short detour inland brings you to the Motoera museum before returning to the bustling Bagno Delfinus 52. The day winds down as you cycle north towards Perlati Giochi for some lighthearted fun, culminating in a relaxing evening at Bagno Gallanti Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le dune",
+            "hu": "Le dune",
+            "ro": "Le dune",
+            "en": "Le dune"
+          },
+          "coords": [
+            12.240222,
+            44.70225
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürliche Schönheit dieses weniger bebauten Strandabschnitts, bringen Sie jedoch eigenes Wasser mit, da die Einrichtungen hier etwas spartanischer sind.",
+            "hu": "Csodálja meg e kevésbé beépített partszakasz természetes szépségét, de hozzon magával saját vizet, mivel az itteni felszereltség némileg egyszerűbb.",
+            "ro": "Admirați frumusețea naturală a acestei porțiuni de plajă mai puțin amenajate, dar aduceți-vă apă, deoarece facilitățile de aici sunt destul de rustice.",
+            "en": "Admire the natural beauty of this less developed stretch of beach, but be sure to bring your own water as the facilities here are somewhat more rustic."
+          }
+        },
+        {
+          "name": {
+            "de": "Motoera",
+            "hu": "Motoera",
+            "ro": "Motoera",
+            "en": "Motoera"
+          },
+          "coords": [
+            12.237965,
+            44.706936
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der motorisierten Zweiräder in diesem charmanten kleinen Museum, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a motorizált kétkerekűek lenyűgöző történetét ebben a bájos kis múzeumban, de előtte feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți istoria fascinantă a vehiculelor cu două roți în acest mic muzeu fermecător, dar verificați programul sezonier înainte de vizită.",
+            "en": "Discover the fascinating history of motorized two-wheelers in this charming little museum, but be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Clodia 55",
+            "hu": "Bagno Clodia 55",
+            "ro": "Bagno Clodia 55",
+            "en": "Bagno Clodia 55"
+          },
+          "coords": [
+            12.240186,
+            44.707821
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Strandatmosphäre und die gut gepflegten Anlagen dieses klassischen Bagno, ideal für einen Vormittagskaffee mit Meerblick.",
+            "hu": "Élvezze a nyugodt tengerparti hangulatot és ennek a klasszikus strandnak a jól karbantartott létesítményeit, amely ideális egy délelőtti tengerre néző kávéhoz.",
+            "ro": "Bucurați-vă de atmosfera relaxantă pe plajă și de facilitățile bine întreținute ale acestui lido clasic, perfect pentru o cafea de dimineață cu vedere la mare.",
+            "en": "Enjoy the relaxing beach atmosphere and the well-maintained facilities of this classic lido, which is perfect for a mid-morning coffee with an ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Bar Bagno Ischia",
+            "hu": "Bar Bagno Ischia",
+            "ro": "Bar Bagno Ischia",
+            "en": "Bar Bagno Ischia"
+          },
+          "coords": [
+            12.240628,
+            44.715602
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie die Seele baumeln bei einem erfrischenden Getränk an dieser ruhigeren Strandbar, ideal um den Nachmittag entspannt ausklingen zu lassen.",
+            "hu": "Kapcsolódjon ki egy frissítő ital mellett ebben a csendesebb tengerparti bárban, amely tökéletes a délután laza eltöltéséhez.",
+            "ro": "Relaxați-vă cu o băutură răcoritoare la acest bar de pe plajă mai liniștit, locul perfect pentru a încheia după-amiaza într-o atmosferă calmă.",
+            "en": "Unwind with a refreshing drink at this quieter beach bar, providing the perfect setting to slowly wind down your afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Perlati Giochi",
+            "hu": "Perlati Giochi",
+            "ro": "Perlati Giochi",
+            "en": "Perlati Giochi"
+          },
+          "coords": [
+            12.238757,
+            44.718654
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause vom Strand in diesem kleinen Vergnügungspark, der mit klassischen Arcade-Spielen besonders bei Familien und Kindern punktet.",
+            "hu": "Élvezze a strandolás utáni szünetet ebben a kis vidámparkban, amely klasszikus játéktermi játékaival különösen a családok és a gyerekek körében népszerű.",
+            "ro": "Bucurați-vă de o pauză de la plajă în acest mic parc de distracții, care este deosebit de popular printre familii și copii pentru jocurile sale clasice de arcade.",
+            "en": "Enjoy a break from the beach at this small amusement area, which is particularly popular with families and children for its classic arcade games."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Gallanti Beach",
+            "hu": "Bagno Gallanti Beach",
+            "ro": "Bagno Gallanti Beach",
+            "en": "Bagno Gallanti Beach"
+          },
+          "coords": [
+            12.240928,
+            44.71991
+          ],
+          "category": "recreational",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem exklusiven Strandclub ausklingen, der mit hervorragenden Cocktails und einer gepflegten Atmosphäre bis in die Abendstunden lockt.",
+            "hu": "Zárja a napot ebben az exkluzív strandklubban, amely kiváló koktélokkal és elegáns hangulattal vonzza a látogatókat egészen az esti órákig.",
+            "ro": "Încheiați ziua la acest club exclusivist de pe plajă, care atrage vizitatorii până seara cu cocktailuri excelente și o atmosferă îngrijită.",
+            "en": "End your day at this exclusive beach club, which tempts visitors well into the evening hours with excellent cocktails and a sophisticated atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an den ruhigen Sandstränden von Le dune und bietet einen friedlichen Start in den Tag am Wasser. Fahren Sie gegen Mittag ins Landesinnere, um die Oldtimer-Sammlungen bei Motoera zu erkunden, bevor es für einen herrlichen Halt im Bagno Clodia 55 zurück an die Küste geht. Der Nachmittag bietet eine malerische, kurze Fahrt die Küste hinauf zur Bar Bagno Ischia. Am Abend können Sie sich im Perlati Giochi amüsieren, bevor Sie ein letztes Abendessen am Meer am Bagno Gallanti Beach genießen.",
+        "hu": "Autós túrája a Le dune csendes homokos partjainál kezdődik, nyugodt napkezdést kínálva a vízparton. Délben vezessen beljebb a szárazföld felé, hogy felfedezze a Motoera veterán gyűjteményeit, majd térjen vissza a tengerparthoz egy kellemes megállóra a Bagno Clodia 55-nél. A délután egy festői, rövid autózást tartogat a part mentén a Bar Bagno Ischia-hoz. Az este közeledtével álljon meg egy kis játékra a Perlati Giochi-nál, mielőtt egy utolsó tengerparti vacsorát fogyasztana a Bagno Gallanti Beach-en.",
+        "ro": "Turul auto începe la întinderile liniștite de nisip de la Le dune, oferind un început de zi pașnic la malul apei. La amiază, conduceți în interior pentru a explora colecțiile de epocă de la Motoera înainte de a vă întoarce pe coastă la Bagno Clodia 55. După-amiaza include o scurtă și pitorească plimbare de-a lungul coastei până la Bar Bagno Ischia. Pe măsură ce se apropie seara, opriți-vă pentru distracție la arcadele Perlati Giochi înainte de a vă bucura de o cină finală pe malul mării la Bagno Gallanti Beach.",
+        "en": "Your driving tour begins at the serene sandy expanses of Le dune, offering a tranquil start to the day by the water. By mid-day, drive inland to explore the vintage collections at Motoera before heading back to the coast for a delightful stop at Bagno Clodia 55. The afternoon features a scenic, short drive up the coast to Bar Bagno Ischia, where the gentle coastal vibes continue. As evening approaches, stop for some arcade fun at Perlati Giochi before enjoying a final seaside dinner and sunset at Bagno Gallanti Beach."
+      }
+    }
+  }
+}

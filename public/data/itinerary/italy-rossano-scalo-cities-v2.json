@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-rossano-scalo-cities-v2",
+  "anchor": {
+    "name": "Rossano Scalo",
+    "coords": [
+      16.63296,
+      39.59954
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            16.637179,
+            39.599982
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieses religiösen Zentrums für einen ruhigen Start, bevor die Stadt richtig erwacht.",
+            "hu": "Csodálja meg e vallási központ egyszerű, de elegáns homlokzatát, amely nyugodt kezdést biztosít, mielőtt a város teljesen felébredne.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestui centru religios, oferind un început liniștit înainte ca orașul să se trezească complet.",
+            "en": "Admire the simple yet elegant facade of this religious center, offering a quiet start to the day before the city wakes up fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Liquirizia",
+            "hu": "Museo della Liquirizia",
+            "ro": "Museo della Liquirizia",
+            "en": "Museo della Liquirizia"
+          },
+          "coords": [
+            16.632904,
+            39.611046
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die süße Geschichte der lokalen Lakritzproduktion in diesem Museum und vergessen Sie nicht, ein leckeres Souvenir zu kaufen.",
+            "hu": "Fedezze fel a helyi édesgyökér-termelés édes történetét ebben a lenyűgöző múzeumban, és ne felejtsen el egy finom szuvenírt vásárolni.",
+            "ro": "Descoperiți istoria dulce a producției locale de lemn dulce în acest muzeu fascinant și nu uitați să cumpărați un suvenir gustos.",
+            "en": "Discover the sweet history of local licorice production in this fascinating museum, and don't forget to buy a tasty souvenir in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Sant'Angelo",
+            "hu": "Torre Sant'Angelo",
+            "ro": "Torre Sant'Angelo",
+            "en": "Torre Sant'Angelo"
+          },
+          "coords": [
+            16.637126,
+            39.618481
+          ],
+          "category": "tower",
+          "arrive_at": "12:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf diesen historischen Wehrturm an der Küste, der sich am besten vom nahegelegenen Sandweg fotografieren lässt.",
+            "hu": "Vessen egy pillantást erre a történelmi védelmi toronyra a parton, amelyet a közeli homokos ösvényről lehet a legjobban lefotózni.",
+            "ro": "Aruncați o privire rapidă la acest turn defensiv istoric de pe coastă, cel mai bine fotografiat de pe aleea de nisip din apropiere.",
+            "en": "Take a quick look at this historical defensive tower that once protected the coast, best photographed from the nearby sandy pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Case dei pescatori",
+            "hu": "Case dei pescatori",
+            "ro": "Case dei pescatori",
+            "en": "Case dei pescatori"
+          },
+          "coords": [
+            16.638781,
+            39.618644
+          ],
+          "category": "historical",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den authentischen Fischerhäusern vorbei, um das maritime Erbe zu spüren, und achten Sie auf die bunten alten Türen.",
+            "hu": "Sétáljon el az autentikus halászházak mellett, hogy átérezze a tengeri örökséget, figyelve a régi, színes ajtókra és hálókra.",
+            "ro": "Plimbați-vă pe lângă casele autentice de pescari pentru a simți moștenirea maritimă, acordând atenție ușilor și plaselor vechi colorate.",
+            "en": "Stroll past the authentic fishermen's houses to sense the area's maritime heritage, paying attention to the colorful old doors and nets."
+          }
+        },
+        {
+          "name": {
+            "de": "La Balera",
+            "hu": "La Balera",
+            "ro": "La Balera",
+            "en": "La Balera"
+          },
+          "coords": [
+            16.640541,
+            39.61924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem Küstenort, wo sich Einheimische nachmittags treffen, und holen Sie sich eine Erfrischung am nahegelegenen Kiosk.",
+            "hu": "Pihenjen ezen a tengerparti szabadidős helyen, ahol a helyiek gyülekeznek délután, és vegyen egy gyors frissítőt a közeli kioszkban.",
+            "ro": "Relaxați-vă în acest loc de recreere de coastă, unde localnicii se adună după-amiaza, luând o băutură răcoritoare de la chioșcul din apropiere.",
+            "en": "Relax at this coastal recreational spot where locals gather for afternoon leisure, grabbing a quick refreshment at the nearby kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der ruhigen religiösen Architektur im Zentrum und bewegen Sie sich in Richtung des Lakritzmuseums. Der Mittag ist perfekt, um das süße industrielle Erbe zu verstehen, bevor Sie zur Küste aufbrechen. Entdecken Sie nachmittags historische Wehrtürme und authentische Fischerhäuser. Lassen Sie den Tag entspannt an den lebhaften Küstenorten ausklingen.",
+        "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
+        "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
+        "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            16.637179,
+            39.599982
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieses religiösen Zentrums für einen ruhigen Start, bevor die Stadt richtig erwacht.",
+            "hu": "Csodálja meg e vallási központ egyszerű, de elegáns homlokzatát, amely nyugodt kezdést biztosít, mielőtt a város teljesen felébredne.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestui centru religios, oferind un început liniștit înainte ca orașul să se trezească complet.",
+            "en": "Admire the simple yet elegant facade of this religious center, offering a quiet start to the day before the city wakes up fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Liquirizia",
+            "hu": "Museo della Liquirizia",
+            "ro": "Museo della Liquirizia",
+            "en": "Museo della Liquirizia"
+          },
+          "coords": [
+            16.632904,
+            39.611046
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die süße Geschichte der lokalen Lakritzproduktion in diesem Museum und vergessen Sie nicht, ein leckeres Souvenir zu kaufen.",
+            "hu": "Fedezze fel a helyi édesgyökér-termelés édes történetét ebben a lenyűgöző múzeumban, és ne felejtsen el egy finom szuvenírt vásárolni.",
+            "ro": "Descoperiți istoria dulce a producției locale de lemn dulce în acest muzeu fascinant și nu uitați să cumpărați un suvenir gustos.",
+            "en": "Discover the sweet history of local licorice production in this fascinating museum, and don't forget to buy a tasty souvenir in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Sant'Angelo",
+            "hu": "Torre Sant'Angelo",
+            "ro": "Torre Sant'Angelo",
+            "en": "Torre Sant'Angelo"
+          },
+          "coords": [
+            16.637126,
+            39.618481
+          ],
+          "category": "tower",
+          "arrive_at": "11:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf diesen historischen Wehrturm an der Küste, der sich am besten vom nahegelegenen Sandweg fotografieren lässt.",
+            "hu": "Vessen egy pillantást erre a történelmi védelmi toronyra a parton, amelyet a közeli homokos ösvényről lehet a legjobban lefotózni.",
+            "ro": "Aruncați o privire rapidă la acest turn defensiv istoric de pe coastă, cel mai bine fotografiat de pe aleea de nisip din apropiere.",
+            "en": "Take a quick look at this historical defensive tower that once protected the coast, best photographed from the nearby sandy pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Case dei pescatori",
+            "hu": "Case dei pescatori",
+            "ro": "Case dei pescatori",
+            "en": "Case dei pescatori"
+          },
+          "coords": [
+            16.638781,
+            39.618644
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den authentischen Fischerhäusern vorbei, um das maritime Erbe zu spüren, und achten Sie auf die bunten alten Türen.",
+            "hu": "Sétáljon el az autentikus halászházak mellett, hogy átérezze a tengeri örökséget, figyelve a régi, színes ajtókra és hálókra.",
+            "ro": "Plimbați-vă pe lângă casele autentice de pescari pentru a simți moștenirea maritimă, acordând atenție ușilor și plaselor vechi colorate.",
+            "en": "Stroll past the authentic fishermen's houses to sense the area's maritime heritage, paying attention to the colorful old doors and nets."
+          }
+        },
+        {
+          "name": {
+            "de": "Lula Paluza",
+            "hu": "Lula Paluza",
+            "ro": "Lula Paluza",
+            "en": "Lula Paluza"
+          },
+          "coords": [
+            16.645381,
+            39.619218
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre an diesem beliebten Strandlokal, perfekt für eine kurze Pause beim beruhigenden Rauschen der Wellen.",
+            "hu": "Élvezze az élénk hangulatot ezen a népszerű tengerparti helyen, amely tökéletes egy rövid pihenőre a hullámok nyugtató hangja mellett.",
+            "ro": "Bucurați-vă de atmosfera plină de viață la acest loc popular de pe plajă, perfect pentru o scurtă pauză ascultând sunetul relaxant al valurilor.",
+            "en": "Enjoy the lively atmosphere at this popular beachfront venue, perfect for a short break while listening to the soothing sound of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Baffo Bianco",
+            "hu": "Baffo Bianco",
+            "ro": "Baffo Bianco",
+            "en": "Baffo Bianco"
+          },
+          "coords": [
+            16.646896,
+            39.619241
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstentour an diesem einladenden Ort direkt am Meer, ideal, um über die historischen und süßen Entdeckungen des Tages nachzudenken.",
+            "hu": "Zárja tengerparti túráját ezen a barátságos, tenger melletti helyen, amely ideális a nap történelmi és édes felfedezéseinek átgondolására.",
+            "ro": "Încheiați-vă turul de coastă în acest loc primitor chiar lângă mare, ideal pentru a reflecta asupra descoperirilor istorice și dulci ale zilei.",
+            "en": "Wrap up your coastal tour at this welcoming spot right by the sea, ideal for reflecting on the day's historical and sweet discoveries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der ruhigen religiösen Architektur im Zentrum und bewegen Sie sich in Richtung des Lakritzmuseums. Der Mittag ist perfekt, um das süße industrielle Erbe zu verstehen, bevor Sie zur Küste aufbrechen. Entdecken Sie nachmittags historische Wehrtürme und authentische Fischerhäuser. Lassen Sie den Tag entspannt an den lebhaften Küstenorten ausklingen.",
+        "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
+        "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
+        "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            16.637179,
+            39.599982
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieses religiösen Zentrums für einen ruhigen Start, bevor die Stadt richtig erwacht.",
+            "hu": "Csodálja meg e vallási központ egyszerű, de elegáns homlokzatát, amely nyugodt kezdést biztosít, mielőtt a város teljesen felébredne.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestui centru religios, oferind un început liniștit înainte ca orașul să se trezească complet.",
+            "en": "Admire the simple yet elegant facade of this religious center, offering a quiet start to the day before the city wakes up fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Liquirizia",
+            "hu": "Museo della Liquirizia",
+            "ro": "Museo della Liquirizia",
+            "en": "Museo della Liquirizia"
+          },
+          "coords": [
+            16.632904,
+            39.611046
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die süße Geschichte der lokalen Lakritzproduktion in diesem Museum und vergessen Sie nicht, ein leckeres Souvenir zu kaufen.",
+            "hu": "Fedezze fel a helyi édesgyökér-termelés édes történetét ebben a lenyűgöző múzeumban, és ne felejtsen el egy finom szuvenírt vásárolni.",
+            "ro": "Descoperiți istoria dulce a producției locale de lemn dulce în acest muzeu fascinant și nu uitați să cumpărați un suvenir gustos.",
+            "en": "Discover the sweet history of local licorice production in this fascinating museum, and don't forget to buy a tasty souvenir in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Sant'Angelo",
+            "hu": "Torre Sant'Angelo",
+            "ro": "Torre Sant'Angelo",
+            "en": "Torre Sant'Angelo"
+          },
+          "coords": [
+            16.637126,
+            39.618481
+          ],
+          "category": "tower",
+          "arrive_at": "11:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen kurzen Blick auf diesen historischen Wehrturm an der Küste, der sich am besten vom nahegelegenen Sandweg fotografieren lässt.",
+            "hu": "Vessen egy pillantást erre a történelmi védelmi toronyra a parton, amelyet a közeli homokos ösvényről lehet a legjobban lefotózni.",
+            "ro": "Aruncați o privire rapidă la acest turn defensiv istoric de pe coastă, cel mai bine fotografiat de pe aleea de nisip din apropiere.",
+            "en": "Take a quick look at this historical defensive tower that once protected the coast, best photographed from the nearby sandy pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Case dei pescatori",
+            "hu": "Case dei pescatori",
+            "ro": "Case dei pescatori",
+            "en": "Case dei pescatori"
+          },
+          "coords": [
+            16.638781,
+            39.618644
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den authentischen Fischerhäusern vorbei, um das maritime Erbe zu spüren, und achten Sie auf die bunten alten Türen.",
+            "hu": "Sétáljon el az autentikus halászházak mellett, hogy átérezze a tengeri örökséget, figyelve a régi, színes ajtókra és hálókra.",
+            "ro": "Plimbați-vă pe lângă casele autentice de pescari pentru a simți moștenirea maritimă, acordând atenție ușilor și plaselor vechi colorate.",
+            "en": "Stroll past the authentic fishermen's houses to sense the area's maritime heritage, paying attention to the colorful old doors and nets."
+          }
+        },
+        {
+          "name": {
+            "de": "Gipsy",
+            "hu": "Gipsy",
+            "ro": "Gipsy",
+            "en": "Gipsy"
+          },
+          "coords": [
+            16.643654,
+            39.619191
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die besondere Küstenstimmung in diesem Freizeitzentrum, einem hervorragenden Ort zum Verweilen, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Tapasztalja meg a különleges tengerparti hangulatot ebben a szabadidőközpontban, amely kiváló hely egy pillanatnyi pihenésre a séta során.",
+            "ro": "Experimentați atmosfera distinctă de coastă la acest centru de recreere, un loc excelent pentru a vă așeza puțin înainte de a continua.",
+            "en": "Experience the distinct coastal vibe at this recreational center, an excellent place to sit down for a moment before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Baffo Bianco",
+            "hu": "Baffo Bianco",
+            "ro": "Baffo Bianco",
+            "en": "Baffo Bianco"
+          },
+          "coords": [
+            16.646896,
+            39.619241
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstentour an diesem einladenden Ort direkt am Meer, ideal, um über die historischen und süßen Entdeckungen des Tages nachzudenken.",
+            "hu": "Zárja tengerparti túráját ezen a barátságos, tenger melletti helyen, amely ideális a nap történelmi és édes felfedezéseinek átgondolására.",
+            "ro": "Încheiați-vă turul de coastă în acest loc primitor chiar lângă mare, ideal pentru a reflecta asupra descoperirilor istorice și dulci ale zilei.",
+            "en": "Wrap up your coastal tour at this welcoming spot right by the sea, ideal for reflecting on the day's historical and sweet discoveries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der ruhigen religiösen Architektur im Zentrum und bewegen Sie sich in Richtung des Lakritzmuseums. Der Mittag ist perfekt, um das süße industrielle Erbe zu verstehen, bevor Sie zur Küste aufbrechen. Entdecken Sie nachmittags historische Wehrtürme und authentische Fischerhäuser. Lassen Sie den Tag entspannt an den lebhaften Küstenorten ausklingen.",
+        "hu": "Kezdje a reggelt a városközpont békés vallási építészetének felfedezésével, majd haladjon a világhírű édesgyökér-múzeum felé. A dél tökéletes az ipari örökség megismerésére, mielőtt a partra indulna. Délután fedezze fel a történelmi védőtornyokat és az autentikus halászházakat. Zárja a napot a tengerparti helyszínek egyikén, élvezve a nyüzsgő, mégis pihentető hangulatot.",
+        "ro": "Începeți dimineața explorând arhitectura religioasă liniștită din centrul orașului, mergând apoi spre celebrul muzeu al lemnului dulce. Prânzul este perfect pentru a înțelege moștenirea industrială dulce înainte de a vă îndrepta spre coastă. După-amiaza, descoperiți turnuri defensive istorice și case autentice de pescari. Încheiați ziua relaxându-vă în locurile vibrante de pe coastă.",
+        "en": "Start your morning exploring the serene religious architecture in the town center, gradually moving towards the world-famous licorice museum. Midday is perfect for understanding the sweet industrial heritage before heading towards the coastline. In the afternoon, discover historical defensive towers and authentic fishermen's dwellings. Conclude your day relaxing by the vibrant coastal spots."
+      }
+    }
+  }
+}

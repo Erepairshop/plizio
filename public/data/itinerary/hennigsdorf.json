@@ -1,0 +1,428 @@
+{
+  "city_id": "hennigsdorf",
+  "anchor": {
+    "name": "Hennigsdorf",
+    "coords": [
+      13.2036,
+      52.6378
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hennigsdorfer Rathaus",
+            "hu": "Hennigsdorfi Városháza",
+            "ro": "Primăria Veche Hennigsdorf",
+            "en": "Hennigsdorf Old Town Hall"
+          },
+          "coords": [
+            13.206077,
+            52.637408
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das das Herz der Stadt bildet, und starten Sie Ihre Tour am besten mit einem frisch gebrühten Kaffee vom nahegelegenen Marktplatz.",
+            "hu": "Csodálja meg a város szívét alkotó történelmi városházát, és kezdje a napot egy frissen főzött kávéval a közeli piactér valamelyik hangulatos kávézójában.",
+            "ro": "Admirați primăria istorică ce reprezintă inima orașului și începeți-vă turul cu o cafea proaspătă de la una dintre cafenelele aflate în piața centrală din apropiere.",
+            "en": "Admire the historic town hall forming the heart of the city, and start your tour ideally with a freshly brewed coffee from the nearby central market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturbadestelle",
+            "hu": "Természetes fürdőhely",
+            "ro": "Loc de scăldat natural",
+            "en": "Naturbadestelle"
+          },
+          "coords": [
+            13.206247,
+            52.614525
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur an dieser idyllischen Badestelle, die perfekt für eine kleine Erfrischung ist, bringen Sie jedoch Ihr eigenes Handtuch und Snacks mit.",
+            "hu": "Élvezze az érintetlen természetet ezen az idilli fürdőhelyen, amely tökéletes egy kis felfrissülésre, de ne felejtsen el saját törölközőt és rágcsálnivalót hozni magával.",
+            "ro": "Bucurați-vă de natura neatinsă la acest loc idilic de scăldat, perfect pentru o scurtă răcorire, dar asigurați-vă că aduceți propriul prosop și câteva gustări.",
+            "en": "Enjoy the untouched nature at this idyllic bathing spot which is perfect for a quick refreshment, but make sure to bring your own towel and some snacks for the break."
+          }
+        },
+        {
+          "name": {
+            "de": "Nieder Neuendorfer See",
+            "hu": "Nieder Neuendorfer See",
+            "ro": "Lacul Nieder Neuendorf",
+            "en": "Nieder Neuendorfer See"
+          },
+          "coords": [
+            13.212442,
+            52.617557
+          ],
+          "category": "natural",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blicken Sie über das weite Wasser dieses malerischen Sees, der einst die Grenze markierte, und nutzen Sie den gut ausgebauten Uferweg für einen entspannten Spaziergang.",
+            "hu": "Tekintsen végig e festői tó széles vizén, amely egykor a határt jelezte, és használja ki a jól kiépített parti sétányt egy pihentető, békés séta erejéig.",
+            "ro": "Priviți peste apele întinse ale acestui lac pitoresc ce odinioară marca granița și profitați de promenada bine amenajată pe mal pentru o plimbare relaxantă.",
+            "en": "Look across the expansive waters of this picturesque lake that once marked the border, and take advantage of the well-paved waterfront path for a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfkirche Nieder Neuendorf",
+            "hu": "Nieder Neuendorf falusi temploma",
+            "ro": "Biserica din Nieder Neuendorf",
+            "en": "Nieder Neuendorf Village Church"
+          },
+          "coords": [
+            13.199722,
+            52.608611
+          ],
+          "category": "Churches & monasteries",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die schlichte Schönheit dieser charmanten Dorfkirche, ein Ort der Ruhe, bei dem es sich lohnt, auf die historischen Details des Altars zu achten.",
+            "hu": "Fedezze fel ennek a bájos falusi templomnak az egyszerű szépségét, amely a béke szigete, és ahol érdemes külön figyelmet szentelni az oltár történelmi részleteinek.",
+            "ro": "Descoperiți frumusețea simplă a acestei fermecătoare biserici de sat, o oază de liniște unde merită să acordați atenție detaliilor istorice ale altarului.",
+            "en": "Discover the simple beauty of this charming village church, a peaceful oasis where it is well worth paying close attention to the historical details of the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenzturm Nieder Neuendorf",
+            "hu": "Nieder Neuendorf határtornya",
+            "ro": "Turnul de frontieră Nieder Neuendorf",
+            "en": "Nieder Neuendorf Border Tower"
+          },
+          "coords": [
+            13.19972,
+            52.60515
+          ],
+          "category": "Museums",
+          "arrive_at": "13:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der deutschen Teilung an diesem erhaltenen Wachturm ein, in dem eine Ausstellung die lokale Grenzvergangenheit eindrucksvoll dokumentiert.",
+            "hu": "Merüljön el a német megosztottság történelmében ennél a megőrzött őrtoronynál, ahol egy lenyűgöző kiállítás dokumentálja a helyi határ múltját a látogatók számára.",
+            "ro": "Cufundați-vă în istoria divizării germane la acest turn de veghe păstrat, unde o expoziție interioară documentează impresionant trecutul graniței locale.",
+            "en": "Immerse yourself in the history of German division at this preserved watchtower, where an informative exhibition impressively documents the local border past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am historischen Rathaus von Hennigsdorf. Gegen Mittag lockt die Natur an der Naturbadestelle und dem Nieder Neuendorfer See. Am Nachmittag tauchen Sie an der charmanten Dorfkirche in die lokale Geschichte ein. Den Abend beschließen Sie nachdenklich am erhaltenen Grenzturm Nieder Neuendorf.",
+        "hu": "Kezdje a napot a történelmi városházánál Hennigsdorfban. Délben a természet vonzza a fürdőhelyhez és a Nieder Neuendorfer See-hez. Délután elmerülhet a helyi történelemben a bájos falusi templomnál. Az estét elgondolkodva zárja a Nieder Neuendorf megőrzött határtornyánál, amely a múltra emlékeztet.",
+        "ro": "Începeți ziua la primăria istorică din Hennigsdorf. La amiază, natura vă atrage la locul de scăldat și la lacul Nieder Neuendorfer. După-amiaza vă scufundați în istoria locală la biserica de sat. Seara se încheie reflexiv la turnul de frontieră Nieder Neuendorf, perfect conservat ca mărturie.",
+        "en": "Start your day at the historic town hall of Hennigsdorf. Around midday, nature calls you to the natural bathing spot and the Nieder Neuendorfer lake. In the afternoon, dive into local history at the charming village church. Conclude the evening thoughtfully at the preserved Nieder Neuendorf border tower."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hennigsdorfer Rathaus",
+            "hu": "Hennigsdorfi Városháza",
+            "ro": "Primăria Veche Hennigsdorf",
+            "en": "Hennigsdorf Old Town Hall"
+          },
+          "coords": [
+            13.206077,
+            52.637408
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das das Herz der Stadt bildet, und starten Sie Ihre Tour am besten mit einem frisch gebrühten Kaffee vom nahegelegenen Marktplatz.",
+            "hu": "Csodálja meg a város szívét alkotó történelmi városházát, és kezdje a napot egy frissen főzött kávéval a közeli piactér valamelyik hangulatos kávézójában.",
+            "ro": "Admirați primăria istorică ce reprezintă inima orașului și începeți-vă turul cu o cafea proaspătă de la una dintre cafenelele aflate în piața centrală din apropiere.",
+            "en": "Admire the historic town hall forming the heart of the city, and start your tour ideally with a freshly brewed coffee from the nearby central market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz, Basketball, Tischtennis",
+            "hu": "Játszótér sportpályákkal",
+            "ro": "Teren de joacă și sport",
+            "en": "Spielplatz, Basketball, Tischtennis"
+          },
+          "coords": [
+            13.229064,
+            52.629364
+          ],
+          "category": "family",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem vielseitigen Spielplatz toben oder spielen Sie eine Runde Tischtennis, packen Sie dafür aber unbedingt Ihre eigenen Schläger ein.",
+            "hu": "Hagyja, hogy a gyerekek ezen a sokoldalú játszótéren tomboljanak, vagy játsszon egy kört pingpongozni, de ehhez mindenképpen hozzon magával saját ütőket.",
+            "ro": "Lăsați copiii să se joace la acest loc de joacă versatil sau jucați o partidă de tenis de masă, dar asigurați-vă că vă aduceți propriile palete și mingi.",
+            "en": "Let the children run wild at this versatile playground or play a game of table tennis, but make absolutely sure to pack your own paddles and balls for the game."
+          }
+        },
+        {
+          "name": {
+            "de": "Nieder Neuendorfer See",
+            "hu": "Nieder Neuendorfer See",
+            "ro": "Lacul Nieder Neuendorf",
+            "en": "Nieder Neuendorfer See"
+          },
+          "coords": [
+            13.212442,
+            52.617557
+          ],
+          "category": "natural",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blicken Sie über das weite Wasser dieses malerischen Sees, der einst die Grenze markierte, und nutzen Sie den gut ausgebauten Uferweg für einen entspannten Spaziergang.",
+            "hu": "Tekintsen végig e festői tó széles vizén, amely egykor a határt jelezte, és használja ki a jól kiépített parti sétányt egy pihentető, békés séta erejéig.",
+            "ro": "Priviți peste apele întinse ale acestui lac pitoresc ce odinioară marca granița și profitați de promenada bine amenajată pe mal pentru o plimbare relaxantă.",
+            "en": "Look across the expansive waters of this picturesque lake that once marked the border, and take advantage of the well-paved waterfront path for a relaxing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenzturm Nieder Neuendorf",
+            "hu": "Nieder Neuendorf határtornya",
+            "ro": "Turnul de frontieră Nieder Neuendorf",
+            "en": "Nieder Neuendorf Border Tower"
+          },
+          "coords": [
+            13.19972,
+            52.60515
+          ],
+          "category": "Museums",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der deutschen Teilung an diesem erhaltenen Wachturm ein, in dem eine Ausstellung die lokale Grenzvergangenheit eindrucksvoll dokumentiert.",
+            "hu": "Merüljön el a német megosztottság történelmében ennél a megőrzött őrtoronynál, ahol egy lenyűgöző kiállítás dokumentálja a helyi határ múltját a látogatók számára.",
+            "ro": "Cufundați-vă în istoria divizării germane la acest turn de veghe păstrat, unde o expoziție interioară documentează impresionant trecutul graniței locale.",
+            "en": "Immerse yourself in the history of German division at this preserved watchtower, where an informative exhibition impressively documents the local border past."
+          }
+        },
+        {
+          "name": {
+            "de": "Havel",
+            "hu": "Havel folyó",
+            "ro": "Râul Havel",
+            "en": "Havel River"
+          },
+          "coords": [
+            13.206877,
+            52.60214
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am Ufer der Havel entlang und beobachten Sie die vorbeiziehenden Boote, ein idealer Ort, um bei schönem Wetter unvergessliche Naturfotos zu schießen.",
+            "hu": "Sétáljon a Havel partján és figyelje az elhaladó csónakokat, hiszen ez egy ideális hely arra, hogy szép időben felejthetetlen természetfotókat készítsen.",
+            "ro": "Plimbați-vă de-a lungul malurilor râului Havel și urmăriți bărcile trecătoare, acesta fiind un loc ideal pentru a face fotografii de neuitat în natură pe vreme bună.",
+            "en": "Stroll along the banks of the Havel river and watch the passing boats, making it an ideal spot to capture unforgettable nature photos during beautiful weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligensee",
+            "hu": "Heiligensee",
+            "ro": "Lacul Heiligensee",
+            "en": "Heiligensee"
+          },
+          "coords": [
+            13.214954,
+            52.604594
+          ],
+          "category": "natural",
+          "arrive_at": "15:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem idyllischen Gewässer, das von grünen Bäumen gesäumt ist, und suchen Sie sich ein ruhiges Plätzchen am Ufer für ein gemütliches Picknick.",
+            "hu": "Pihenjen ezen az idilli, zöld fákkal szegélyezett tavon, és keressen egy csendes kis helyet a parton, ahol zavartalanul élvezheti a hangulatos piknikezést.",
+            "ro": "Relaxați-vă la această apă idilică înconjurată de copaci verzi și găsiți un loc liniștit pe mal pentru un picnic confortabil în aer liber alături de cei dragi.",
+            "en": "Relax by this idyllic body of water lined with green trees, and find a quiet spot on the shore to enjoy a cozy outdoor picnic with your family and friends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens sportlich am Rathaus und radeln Sie dann zum Freizeitpark für eine Runde Tischtennis. Mittags entspannen Sie am Ufer des weitläufigen Nieder Neuendorfer Sees. Der Nachmittag steht im Zeichen der Geschichte am Grenzturm und entlang der Havel. Abends finden Sie Ruhe am malerischen Heiligensee.",
+        "hu": "Induljon sportosan reggel a városházától, majd tekerjen a szabadidőparkba egy kis játékra. Délben pihenjen a kiterjedt Nieder Neuendorfer See partján. A délután a történelemről szól a határtoronynál és a Havel folyó mentén. Este csendes nyugalmat talál a festői szépségű Heiligensee partjainál.",
+        "ro": "Începeți dimineața sportiv la primărie, apoi pedalați spre parc pentru un joc de tenis. La prânz, relaxați-vă pe malurile lacului Nieder Neuendorfer. După-amiaza este dedicată istoriei la turnul de frontieră și de-a lungul râului Havel. Seara, găsiți liniște la pitorescul lac Heiligensee.",
+        "en": "Start your morning sportily at the town hall, then cycle to the leisure park for some table tennis. At noon, relax on the shores of the expansive Nieder Neuendorfer lake. The afternoon is dedicated to history at the border tower and along the Havel. In the evening, find peace at the picturesque Heiligensee."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 20.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hennigsdorfer Rathaus",
+            "hu": "Hennigsdorfi Városháza",
+            "ro": "Primăria Veche Hennigsdorf",
+            "en": "Hennigsdorf Old Town Hall"
+          },
+          "coords": [
+            13.206077,
+            52.637408
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das das Herz der Stadt bildet, und starten Sie Ihre Tour am besten mit einem frisch gebrühten Kaffee vom nahegelegenen Marktplatz.",
+            "hu": "Csodálja meg a város szívét alkotó történelmi városházát, és kezdje a napot egy frissen főzött kávéval a közeli piactér valamelyik hangulatos kávézójában.",
+            "ro": "Admirați primăria istorică ce reprezintă inima orașului și începeți-vă turul cu o cafea proaspătă de la una dintre cafenelele aflate în piața centrală din apropiere.",
+            "en": "Admire the historic town hall forming the heart of the city, and start your tour ideally with a freshly brewed coffee from the nearby central market square."
+          }
+        },
+        {
+          "name": {
+            "de": "Hubertussee",
+            "hu": "Hubertussee",
+            "ro": "Lacul Hubertus",
+            "en": "Hubertussee"
+          },
+          "coords": [
+            13.307216,
+            52.657767
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die Stille am Hubertussee, einem versteckten Juwel abseits des Trubels, und nutzen Sie die Morgenstunden für die beste Chance, heimische Vögel zu sichten.",
+            "hu": "Tapasztalja meg a Hubertussee nyugalmát, amely egy rejtett gyöngyszem a nyüzsgéstől távol, és használja ki a reggeli órákat a helyi madárvilág megfigyelésére.",
+            "ro": "Experimentați liniștea la Hubertussee, o bijuterie ascunsă departe de agitație, și folosiți orele dimineții pentru cea mai bună șansă de a observa păsările locale.",
+            "en": "Experience the tranquility at Hubertussee, a hidden gem away from the hustle, and use the early morning hours for the best chance to spot native bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Malchsee",
+            "hu": "Großer Malchsee",
+            "ro": "Lacul Großer Malchsee",
+            "en": "Großer Malchsee"
+          },
+          "coords": [
+            13.263618,
+            52.590867
+          ],
+          "category": "natural",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit des Großen Malchsees, der sich perfekt für ausgedehnte Wanderungen anbietet, festes Schuhwerk ist hier jedoch absolut empfehlenswert.",
+            "hu": "Élvezze a Großer Malchsee tágasságát, amely tökéletes helyszín a hosszú túrákhoz, de ide mindenképpen ajánlott strapabíró, kényelmes túracipőt felvenni.",
+            "ro": "Bucurați-vă de spațiul vast al lacului Großer Malchsee, perfect pentru drumeții lungi, dar pentru care se recomandă purtarea unor încălțări de drumeție rezistente.",
+            "en": "Enjoy the vastness of Großer Malchsee which is perfectly suited for extensive hikes, though sturdy footwear is highly recommended to navigate the natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Badestelle Sandhauser Straße",
+            "hu": "Sandhauser Straße fürdőhely",
+            "ro": "Plaja Sandhauser Straße",
+            "en": "Sandhauser Straße Bathing Spot"
+          },
+          "coords": [
+            13.220892,
+            52.594534
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine Abkühlung an dieser beliebten Badestelle, die besonders an heißen Sommertagen floriert, kommen Sie aber früh, um noch einen Parkplatz zu finden.",
+            "hu": "Hűtse le magát ezen a népszerű fürdőhelyen, amely különösen a forró nyári napokon virágzik, de érkezzen korán, hogy biztosan találjon magának parkolóhelyet.",
+            "ro": "Răcoriți-vă la acest loc de scăldat popular care este foarte aglomerat în zilele fierbinți de vară, așa că veniți devreme pentru a vă asigura un loc de parcare.",
+            "en": "Cool off at this popular bathing spot which thrives especially on hot summer days, but make sure to arrive early to secure a parking spot near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenzturm Nieder Neuendorf",
+            "hu": "Nieder Neuendorf határtornya",
+            "ro": "Turnul de frontieră Nieder Neuendorf",
+            "en": "Nieder Neuendorf Border Tower"
+          },
+          "coords": [
+            13.19972,
+            52.60515
+          ],
+          "category": "Museums",
+          "arrive_at": "14:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der deutschen Teilung an diesem erhaltenen Wachturm ein, in dem eine Ausstellung die lokale Grenzvergangenheit eindrucksvoll dokumentiert.",
+            "hu": "Merüljön el a német megosztottság történelmében ennél a megőrzött őrtoronynál, ahol egy lenyűgöző kiállítás dokumentálja a helyi határ múltját a látogatók számára.",
+            "ro": "Cufundați-vă în istoria divizării germane la acest turn de veghe păstrat, unde o expoziție interioară documentează impresionant trecutul graniței locale.",
+            "en": "Immerse yourself in the history of German division at this preserved watchtower, where an informative exhibition impressively documents the local border past."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am Rathaus und führt Sie schnell zum idyllischen Hubertussee im Norden. Mittags erkunden Sie die weite Landschaft rund um den Großen Malchsee im Osten. Am Nachmittag bietet die Sandhauser Straße eine erfrischende Badepause an. Der historische Grenzturm rundet den abwechslungsreichen Tag am Abend ab.",
+        "hu": "Utazása a városházánál kezdődik, és gyorsan az idilli északi Hubertussee-hez vezet. Délben felfedezi a keleti Großer Malchsee körüli tágas tájat. Délután a Sandhauser Straße kínál egy frissítő fürdőzési szünetet. A történelmi határtorony tökéletesen megkoronázza ezt a nagyon változatos napot.",
+        "ro": "Călătoria începe la primărie și vă duce rapid la idilicul Hubertussee din nord. La prânz explorați peisajul vast din jurul lacului Großer Malchsee din est. După-amiaza, strada Sandhauser oferă o pauză răcoritoare de scăldat. Turnul istoric de frontieră completează perfect ziua variată seara.",
+        "en": "Your drive begins at the town hall and quickly leads you to the idyllic Hubertussee in the north. At noon, explore the vast landscape around the Großer Malchsee in the east. In the afternoon, the Sandhauser street offers a refreshing swimming break. The historic border tower rounds off the varied day."
+      }
+    }
+  }
+}

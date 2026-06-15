@@ -1,0 +1,474 @@
+{
+  "city_id": "haguenau",
+  "anchor": {
+    "name": "Haguenau",
+    "coords": [
+      7.7878,
+      48.8167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 1.51,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ritterturm",
+            "hu": "Lovagok tornya",
+            "ro": "Turnul Cavalerilor",
+            "en": "Knight's Tower"
+          },
+          "coords": [
+            7.7875,
+            48.818111
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
+            "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Hopfenhalle",
+            "hu": "Komlócsarnok",
+            "ro": "Hala Hameiului",
+            "en": "Halle aux Houblons"
+          },
+          "coords": [
+            7.790959,
+            48.816405
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
+            "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
+            "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Elsässisches Museum",
+            "hu": "Elzászi Múzeum",
+            "ro": "Muzeul Alsacian",
+            "en": "Alsatian Museum"
+          },
+          "coords": [
+            7.789714,
+            48.814968
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Traditionen, Trachten und Handwerkskunst in diesem Museum und planen Sie mindestens eine Stunde für den Besuch ein.",
+            "hu": "Fedezze fel a lenyűgöző helyi hagyományokat, jelmezeket és kézműves termékeket, és szánjon legalább egy órát a kiállítások alapos megtekintésére.",
+            "ro": "Descoperiți tradiții, costume și meșteșuguri locale fascinante în acest muzeu autentic, alocând cel puțin o oră pentru a aprecia pe deplin expozițiile.",
+            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "Municipal Theater"
+          },
+          "coords": [
+            7.788884,
+            48.812681
+          ],
+          "category": "cultural",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses kulturellen Zentrums aus dem 19. Jahrhundert und buchen Sie im Voraus, um eine Abendvorstellung zu erleben.",
+            "hu": "Csodálja meg ennek a tizenkilencedik századi kulturális központnak az elegáns homlokzatát, és foglaljon előre jegyet, ha esti előadást szeretne látni.",
+            "ro": "Admirați fațada elegantă a acestui centru cultural din secolul al XIX-lea și încercați să rezervați bilete din timp pentru un spectacol de seară.",
+            "en": "Marvel at the elegant facade of this 19th-century cultural hub, and try to book tickets in advance if you want to enjoy an evening performance here."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            7.79162,
+            48.813
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
+            "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
+            "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Gyermekjátszótér",
+            "ro": "Loc de joacă pentru copii",
+            "en": "Children's Playground"
+          },
+          "coords": [
+            7.784108,
+            48.811898
+          ],
+          "category": "family",
+          "arrive_at": "16:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz im Zentrum toben, der viele sichere Aktivitäten und bequeme Sitzgelegenheiten bietet.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt játszótéren, amely sok biztonságos játékot és ülőhelyet kínál a szülőknek.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă bine echipat din centru, care oferă numeroase activități sigure și bănci pentru părinți.",
+            "en": "Let the kids burn off some energy at this well-equipped playground in the city center, which offers plenty of safe activities and seating for parents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang beginnt mit einem tiefen Einblick in Hagenaus Geschichte am beeindruckenden Ritterturm. Danach schlendern wir zur ikonischen Hopfenhalle, wo wir die landwirtschaftlichen Wurzeln und die lebhafte Marktatmosphäre entdecken.\n\nAm Mittag besuchen wir das faszinierende Elsässische Museum, in dem die regionale Kultur lebendig wird. Anschließend bewundern wir die schöne Fassade des Stadttheaters, ein stolzes Symbol für die Eleganz und darstellende Kunst des 19. Jahrhunderts.\n\nAm Nachmittag tauchen wir im Historischen Museum in die lokalen Artefakte ein. Der kurze Fußweg zwischen diesen zentralen Sehenswürdigkeiten ermöglicht uns ein sehr entspanntes und gemütliches Tempo im historischen Stadtkern.\n\nWir beenden unseren Tag an einem lebhaften Spielplatz, ein großartiger Ort zum Entspannen. Wenn die Sonne über Haguenau untergeht, können Sie einen gelungenen Tag im kulturellen Herzen dieser charmanten Stadt in Ruhe ausklingen lassen.",
+        "hu": "Sétánk Haguenau történelmének mélyreható felfedezésével kezdődik a lenyűgöző Lovagok tornyánál. Ezután a híres Komlócsarnokhoz sétálunk, ahol megismerjük a város mezőgazdasági gyökereit és nyüzsgő piaci hangulatát a reggeli órákban.\n\nDélben az Elzászi Múzeumba látogatunk, ahol életre kel a regionális kultúra. Később megcsodáljuk a Városi Színház gyönyörű homlokzatát, amely a tizenkilencedik századi elegancia és az előadóművészetek büszke szimbólumaként áll a központban.\n\nDélután a Történeti Múzeumban merülünk el a helyi leletekben, bőséges időt töltve a kiállítások között. A központi látnivalók közötti rövid séta tökéletes egy kényelmes tempójú, fáradságmentes történelmi barangoláshoz.\n\nA napot egy nyüzsgő helyi játszótéren zárjuk, ami nagyszerű hely a kikapcsolódásra. Ahogy lemenőben van a nap Haguenau felett, visszatekinthetünk a bájos város kulturális szívében eltöltött gazdag és emlékezetes napunkra.",
+        "ro": "Turul nostru pietonal începe cu o incursiune în istoria orașului Haguenau la impresionantul Turn al Cavalerilor. Apoi, ne plimbăm spre iconica Hală a Hameiului, descoperind rădăcinile agricole și atmosfera vibrantă a pieței.\n\nLa prânz ajungem la fascinantul Muzeu Alsacian, unde cultura regională prinde viață. După aceea, vom admira fațada frumoasă a Teatrului Municipal, un simbol mândru al eleganței și artelor spectacolului din secolul al XIX-lea.\n\nDupă-amiaza, ne cufundăm în artefactele locale la Muzeul de Istorie. Distanța scurtă dintre aceste repere centrale face din această plimbare o experiență relaxantă, perfectă pentru un ritm lejer și descoperiri culturale profunde.\n\nNe încheiem ziua la un loc de joacă local animat, excelent pentru relaxare. Pe măsură ce soarele apune peste Haguenau, puteți reflecta la o zi minunată petrecută explorând inima istorică a acestui oraș fermecător.",
+        "en": "Our walking tour starts with a deep dive into Haguenau's history at the impressive Knight's Tower. Then, we stroll down to the iconic Halle aux Houblons, discovering the city's rich agricultural roots and vibrant market atmosphere.\n\nMidday brings us to the fascinating Alsatian Museum, where regional culture comes alive. Afterward, we will admire the beautiful facade of the Municipal Theater, standing as a proud symbol of 19th-century elegance and performing arts.\n\nIn the afternoon, we immerse ourselves in local artifacts at the Historical Museum, spending ample time wandering through the exhibits. The walk between these central landmarks is short, making it perfect for a leisurely pace.\n\nWe conclude our day at a lively local playground, a great spot to relax or let children play. As the sun sets over Haguenau, you can reflect on a day well spent exploring the historic and cultural heart of this charming city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 6.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ritterturm",
+            "hu": "Lovagok tornya",
+            "ro": "Turnul Cavalerilor",
+            "en": "Knight's Tower"
+          },
+          "coords": [
+            7.7875,
+            48.818111
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
+            "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Hopfenhalle",
+            "hu": "Komlócsarnok",
+            "ro": "Hala Hameiului",
+            "en": "Halle aux Houblons"
+          },
+          "coords": [
+            7.790959,
+            48.816405
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
+            "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
+            "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Elsässisches Museum",
+            "hu": "Elzászi Múzeum",
+            "ro": "Muzeul Alsacian",
+            "en": "Alsatian Museum"
+          },
+          "coords": [
+            7.789714,
+            48.814968
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Traditionen, Trachten und Handwerkskunst in diesem Museum und planen Sie mindestens eine Stunde für den Besuch ein.",
+            "hu": "Fedezze fel a lenyűgöző helyi hagyományokat, jelmezeket és kézműves termékeket, és szánjon legalább egy órát a kiállítások alapos megtekintésére.",
+            "ro": "Descoperiți tradiții, costume și meșteșuguri locale fascinante în acest muzeu autentic, alocând cel puțin o oră pentru a aprecia pe deplin expozițiile.",
+            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            7.79162,
+            48.813
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
+            "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
+            "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Nonnenhof",
+            "hu": "Étang du Nonnenhof",
+            "ro": "Iazul Nonnenhof",
+            "en": "Étang du Nonnenhof"
+          },
+          "coords": [
+            7.826991,
+            48.81509
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.59,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Teich, der eine perfekte Flucht aus der Stadt bietet, und bringen Sie ein Mittagessen für ein Picknick in der Natur mit.",
+            "hu": "Pihenjen ennél a nyugodt tónál, amely tökéletes természetes menedéket nyújt a városból, és hozzon magával csomagolt ebédet egy piknikhez.",
+            "ro": "Relaxați-vă lângă acest iaz liniștit care oferă o evadare naturală perfectă din oraș și aduceți un prânz la pachet pentru a face un picnic pitoresc.",
+            "en": "Relax by this tranquil pond that provides a perfect natural escape from the city, and bring a packed lunch to enjoy at one of the scenic picnic spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Regenrückhaltebecken",
+            "hu": "Viharvíz-tározó",
+            "ro": "Bazinul de retenție",
+            "en": "Stormwater Basin"
+          },
+          "coords": [
+            7.789826,
+            48.798786
+          ],
+          "category": "natural",
+          "arrive_at": "17:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.26,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang um dieses Becken, das zu einem Zufluchtsort für Tiere geworden ist, und halten Sie Ausschau nach Wasservögeln.",
+            "hu": "Tegyen egy békés sétát ezen a viharvíz-tározón, amely mára vadvilági menedékké vált, és figyelje meg a vízparton pihenő helyi madárfajokat.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui bazin care a devenit un refugiu pentru fauna sălbatică și priviți după păsările locale care se odihnesc aici.",
+            "en": "Take a peaceful stroll around this stormwater basin that has become a wildlife haven, and keep your eyes peeled for local birds resting by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unser Fahrradabenteuer am historischen Ritterturm im Stadtzentrum. Ein kurzes Stück führt uns zur Hopfenhalle, wo wir die lokale Marktatmosphäre aufsaugen können, bevor wir wieder in die Pedale treten.\n\nBis zum Mittag erkunden wir zwei unglaubliche Kulturstätten: das Elsässische Museum und das Historische Museum. Wenn wir unsere Fahrräder sicher abstellen, können wir vollständig in das reiche Erbe von Haguenau eintauchen.\n\nAm Nachmittag fahren wir hinaus zum Étang du Nonnenhof. Diese malerische Fahrt weg vom städtischen Zentrum belohnt uns mit einem friedlichen Naturrückzugsort, der sich perfekt für eine erfrischende Pause eignet.\n\nUnser letztes Stück führt zum Bassin d'orage, einem weiteren ruhigen Ort in der Natur. Die Rückfahrt bei Anbruch des Abends bietet einen sanften, luftigen Abschluss eines Tages, der Stadtgeschichte und Landschaften perfekt in Einklang bringt.",
+        "hu": "Kerékpáros kalandunkat a városközpontban található történelmi Lovagok tornyánál kezdjük. Egy rövid tekerés a Komlócsarnokhoz vezet, ahol magunkba szívhatjuk a helyi piac hangulatát, mielőtt újra útnak indulnánk a városban.\n\nDélben két hihetetlen kulturális helyszínt fedezünk fel: az Elzászi Múzeumot és a Történeti Múzeumot. Kerékpárjainkat biztonságban letéve teljesen elmerülhetünk Haguenau gazdag örökségében és lenyűgöző kiállításaiban.\n\nA délután folyamán a természet felé vesszük az irányt, és az Étang du Nonnenhofhoz kerekezünk. Ez a festői, várostól távolabbi útvonal egy békés természetközeli élménnyel jutalmaz minket a frissítő szünet során.\n\nUtolsó szakaszunk a Bassin d'orage-hoz vezet, egy újabb csendes helyhez a természetben. Az esti kerékpározás hazafelé kellemes, szellős lezárása lesz ennek a napnak, amely tökéletesen egyensúlyozta a várost és a tájat.",
+        "ro": "Ne începem aventura pe bicicletă la istoricul Turn al Cavalerilor din centru. O pedalare scurtă ne duce la Hala Hameiului, unde ne putem bucura de atmosfera pieței locale înainte de a porni din nou la drum prin oraș.\n\nPână la prânz, explorăm două situri culturale incredibile: Muzeul Alsacian și Muzeul de Istorie. Lăsându-ne bicicletele parcate în siguranță, ne putem cufunda complet în moștenirea bogată a orașului Haguenau și în expoziții.\n\nDupă-amiaza schimbăm decorul și pedalăm spre Étang du Nonnenhof. Această plimbare pitorească departe de centrul urban ne recompensează cu un refugiu natural pașnic, perfect pentru o pauză reconfortantă.\n\nUltima porțiune ne conduce la Bassin d'orage, un alt loc liniștit pentru a ne conecta cu natura. Întoarcerea pe bicicletă odată cu lăsarea serii oferă o încheiere plăcută și răcoroasă a unei zile echilibrate perfect.",
+        "en": "We kick off our cycling adventure at the historic Knight's Tower in the city center. A short pedal takes us to the Halle aux Houblons, where we can soak in the local market vibes before hitting the road again.\n\nBy midday, we explore two incredible cultural sites: the Alsatian Museum and the Historical Museum. Leaving our bikes safely parked, we can fully immerse ourselves in Haguenau's rich heritage and fascinating exhibits.\n\nThe afternoon shifts gears as we cycle out to the Étang du Nonnenhof. This scenic ride away from the urban center rewards us with a peaceful natural retreat, perfect for a refreshing break and some wildlife spotting.\n\nOur final stretch leads to the Bassin d'orage, another quiet spot to connect with nature. Cycling back as the evening approaches offers a gentle, breezy conclusion to a day that perfectly balanced city history and green landscapes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 23.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Georgskirche",
+            "hu": "Szent György-templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            7.699234,
+            48.79162
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser Kirche und denken Sie daran, sich angemessen zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg ennek a nagyszerű templomnak a lenyűgöző ólomüvegeit és román stílusú elemeit, és ne feledjen visszafogottan öltözni a látogatás során.",
+            "ro": "Admirați vitraliile uimitoare și elementele romanice ale acestei biserici grandioase și amintiți-vă să vă îmbrăcați modest și să vorbiți încet.",
+            "en": "Admire the stunning stained glass and Romanesque elements of this grand church, and remember to dress modestly and speak softly during your visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ritterturm",
+            "hu": "Lovagok tornya",
+            "ro": "Turnul Cavalerilor",
+            "en": "Knight's Tower"
+          },
+          "coords": [
+            7.7875,
+            48.818111
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
+            "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Hopfenhalle",
+            "hu": "Komlócsarnok",
+            "ro": "Hala Hameiului",
+            "en": "Halle aux Houblons"
+          },
+          "coords": [
+            7.790959,
+            48.816405
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
+            "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
+            "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum",
+            "hu": "Történeti Múzeum",
+            "ro": "Muzeul de Istorie",
+            "en": "Historical Museum"
+          },
+          "coords": [
+            7.79162,
+            48.813
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
+            "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
+            "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+          }
+        },
+        {
+          "name": {
+            "de": "Haguenauer Wald",
+            "hu": "Haguenau-i erdő",
+            "ro": "Pădurea Haguenau",
+            "en": "Haguenau Forest"
+          },
+          "coords": [
+            7.883333,
+            48.85
+          ],
+          "category": "natural",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.84,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weiten, bezaubernden Pfade dieses monumentalen Waldes und tragen Sie dabei unbedingt feste Wanderschuhe und ausreichend Wasser.",
+            "hu": "Fedezze fel a régiót borító hatalmas, varázslatos erdő ösvényeit, és viseljen kényelmes túracipőt, miközben bőséges ivóvizet is visz magával.",
+            "ro": "Explorați traseele vaste și încântătoare ale acestei păduri monumentale și purtați încălțăminte de drumeție robustă, aducând cu voi multă apă potabilă.",
+            "en": "Explore the vast, enchanting trails of this monumental forest covering the region, and wear sturdy walking shoes while carrying plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Gruendel",
+            "hu": "Étang de Gruendel",
+            "ro": "Iazul Gruendel",
+            "en": "Étang de Gruendel"
+          },
+          "coords": [
+            7.785632,
+            48.871168
+          ],
+          "category": "natural",
+          "arrive_at": "16:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Nachmittag an diesem ruhigen Gewässer und bleiben Sie bis zur Dämmerung, um atemberaubende Sonnenuntergänge zu fotografieren.",
+            "hu": "Élvezze a pihentető késő délutánt ezen a békés vízparton, és maradjon sötétedésig, hogy lenyűgöző fotókat készíthessen a vízen tükröződő naplementéről.",
+            "ro": "Bucurați-vă de o după-amiază relaxantă lângă acest corp de apă senin și rămâneți până la amurg pentru a surprinde fotografii uimitoare cu apusul soarelui.",
+            "en": "Enjoy a relaxing late afternoon near this serene body of water, and stay until dusk to capture stunning photographs of the sunset reflecting beautifully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour beginnt etwas außerhalb des Zentrums an der prächtigen Georgskirche. Nachdem wir die Architektur bewundert haben, fahren wir ins Herz von Haguenau, um den alten Ritterturm hoch aufragen zu sehen.\n\nAm Mittag parken wir zentral, um die berühmte Hopfenhalle und das Historische Museum zu Fuß zu erkunden. Diese Ansammlung von Sehenswürdigkeiten vermittelt ein tiefes Verständnis für die Entwicklung der Region.\n\nDer Nachmittag führt uns auf einer malerischen Fahrt zum Haguenauer Wald. Diese riesige Naturfläche eignet sich perfekt für einen flotten Waldspaziergang, wobei wir mit dem Auto die besten Wanderwege erreichen.\n\nWir beenden unseren Tagesausflug, indem wir zum Étang de Gruendel fahren, um einen ruhigen Abend am Wasser zu verbringen. Die Bequemlichkeit eines Autos macht diese abwechslungsreiche Tour völlig mühelos und entspannt.",
+        "hu": "Autós túránk kissé a központon kívül, a nagyszerű Szent György-templomnál kezdődik. Miután megcsodáltuk építészetét, Haguenau szívébe hajtunk, hogy megnézzük a magasan tornyosuló ősi Lovagok tornyát.\n\nDélben a központban parkolunk le, hogy gyalogosan fedezzük fel a híres Komlócsarnokot és a Történeti Múzeumot. Ezek a látnivalók gazdag betekintést nyújtanak a régió kereskedelmi és kulturális fejlődésébe.\n\nA délután egy festői utazásra visz minket a Haguenaui erdőbe. Ez a hatalmas természeti terület tökéletes egy frissítő erdei sétához, kihasználva az autó előnyeit a távolabbi ösvények eléréséhez.\n\nNapunkat úgy zárjuk, hogy az Étang de Gruendelhez vezetünk egy békés esti vízparti pihenésre. Az autó nyújtotta kényelem ezt a széleskörű, városi és természeti szépségeket bemutató túrát teljesen erőfeszítésmentessé teszi.",
+        "ro": "Traseul nostru auto începe puțin în afara centrului, la grandioasa Biserică Saint-Georges. După ce admirăm arhitectura sa, conducem în inima orașului Haguenau pentru a vedea vechiul Turn al Cavalerilor.\n\nLa prânz, parcăm central pentru a explora faimoasa Hală a Hameiului și Muzeul de Istorie pe jos. Acest grup de atracții oferă o înțelegere profundă a evoluției comerciale și culturale din regiunea Alsaciei.\n\nDupă-amiaza ne poartă într-o plimbare pitorească cu mașina până la Pădurea Haguenau. Această vastă întindere naturală este perfectă pentru o plimbare revigorantă, profitând de mașină pentru a ajunge departe.\n\nNe încheiem excursia de o zi conducând până la Étang de Gruendel pentru o seară senină lângă apă. Confortul unei mașini face ca acest tur amplu al atracțiilor urbane și naturale să fie complet lipsit de efort.",
+        "en": "Our driving itinerary begins slightly outside the center at the grand Saint-Georges Church. After admiring its architecture, we drive into the heart of Haguenau to see the ancient Knight's Tower standing tall.\n\nAt midday, we park centrally to explore the famous Halle aux Houblons and the Historical Museum on foot. This cluster of sights provides a rich understanding of the region's commercial and cultural evolution.\n\nThe afternoon takes us on a scenic drive to the Haguenau Forest. This vast natural expanse is perfect for a brisk woodland walk, taking advantage of our car to reach the best and most remote trailheads.\n\nWe finish our day trip by driving up to the Étang de Gruendel for a serene evening by the water. The convenience of a car makes this wide-ranging tour of Haguenau's urban and natural highlights completely effortless."
+      }
+    }
+  }
+}

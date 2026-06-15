@@ -1,0 +1,474 @@
+{
+  "city_id": "ueckermunde",
+  "anchor": {
+    "name": "Ueckermünde",
+    "coords": [
+      14.0333,
+      53.7333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ueckermünde",
+            "hu": "Ueckermünde Kastély",
+            "ro": "Castelul Ueckermünde",
+            "en": "Ueckermünde Castle"
+          },
+          "coords": [
+            14.048645,
+            53.735858
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
+            "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
+            "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturspeicher",
+            "hu": "Kulturspeicher Magtár",
+            "ro": "Grânarul Cultural",
+            "en": "Kulturspeicher"
+          },
+          "coords": [
+            14.046846,
+            53.735386
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie maritime Geschichte und wechselnde Kunstausstellungen in diesem liebevoll restaurierten Getreidespeicher, wobei Sie im Erdgeschoss oft lokale Souvenirs finden.",
+            "hu": "Fedezze fel a tengerészeti történelmet és a művészeti kiállításokat ebben a szépen felújított magtárban, a földszinten pedig helyi kézműves szuveníreket is találhat.",
+            "ro": "Descoperiți istoria maritimă și expozițiile de artă în acest grânar frumos restaurat, iar la parter veți găsi adesea suveniruri locale autentice foarte atractive.",
+            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadthafen",
+            "hu": "Városi Kikötő",
+            "ro": "Portul Orașului",
+            "en": "City Harbor"
+          },
+          "coords": [
+            14.050547,
+            53.736528
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie am idyllischen Stadthafen entlang, um die traditionellen Zeesenboote zu beobachten, und sichern Sie sich am besten frühzeitig einen Platz auf einer Bank am Wasser.",
+            "hu": "Sétáljon végig az idilli városi kikötőn, figyelje meg a hagyományos halászhajókat, és foglaljon helyet egy vízparti padon a tökéletes kilátásért és a pihenésért.",
+            "ro": "Plimbați-vă de-a lungul portului idilic al orașului pentru a observa bărcile tradiționale de pescuit și asigurați-vă că prindeți repede o bancă pe malul apei.",
+            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Ueckermünde",
+            "hu": "Ueckermündei Állatkert",
+            "ro": "Zoo Ueckermünde",
+            "en": "Ueckermünde Zoo"
+          },
+          "coords": [
+            14.028,
+            53.7313
+          ],
+          "category": "park",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
+            "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
+            "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kattas",
+            "hu": "Gyűrűsfarkú makik",
+            "ro": "Lemuri",
+            "en": "Ring-tailed Lemurs"
+          },
+          "coords": [
+            14.026725,
+            53.730286
+          ],
+          "category": "family",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lebhaften Lemuren aus Madagaskar in ihrem gut gestalteten Gehege, das besonders für Kinder ein absolutes Highlight des Zoobesuchs darstellt.",
+            "hu": "Figyelje meg a Madagaszkárról származó élénk makikat a szépen kialakított kifutójukban, amely különösen a gyerekek számára jelent hatalmas élményt a látogatás során.",
+            "ro": "Observați lemurii plini de viață din Madagascar în incinta lor bine amenajată, care este un punct de atracție absolut al grădinii zoologice, mai ales pentru copii.",
+            "en": "Observe the lively lemurs from Madagascar in their well-designed enclosure, which is an absolute highlight of the zoo visit, especially for young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Ziegen",
+            "hu": "Kecskék",
+            "ro": "Capre",
+            "en": "Goats"
+          },
+          "coords": [
+            14.02859,
+            53.730043
+          ],
+          "category": "family",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Streichelgehege, um auf Tuchfühlung mit den zahmen Ziegen zu gehen, und kaufen Sie unbedingt das spezielle Futter am Zooeingang für dieses Erlebnis.",
+            "hu": "Látogasson el az állatsimogatóba, hogy testközelből találkozzon a szelíd kecskékkel, és ehhez ne felejtsen el speciális eledelt venni a bejáratnál a legnagyobb mókáért.",
+            "ro": "Vizitați padocul pentru mângâieri pentru a interacționa cu caprele blânde și nu uitați să cumpărați hrana specială de la intrare pentru a vă bucura de această experiență.",
+            "en": "Visit the petting enclosure to get up close with the tame goats, and make sure to buy the special animal feed at the zoo entrance to fully enjoy this experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt historisch im charmanten Schloss Ueckermünde und dem faszinierenden Kulturspeicher. Am Mittag schlendern wir gemütlich zum Stadthafen und atmen maritimes Flair. Der Nachmittag gehört der Natur im beliebten Ueckermünder Zoo. Den Abend lassen wir entspannt bei den Ziegen und Kattas im Tierpark ausklingen.",
+        "hu": "A nap történelmileg kezdődik a bájos Ueckermünde kastélyban és a lenyűgöző magtárban. Délben kényelmesen elsétálunk a városi kikötőbe, hogy élvezzük a tengeri hangulatot. A délután a természeté a népszerű állatkertben. Az estét lazán, a makik és kecskék társaságában zárjuk a vadasparkban.",
+        "ro": "Ziua începe istoric în fermecătorul castel Ueckermünde și în fascinantul grânar. La prânz, ne plimbăm pe îndelete spre portul orașului pentru atmosfera maritimă. După-amiaza aparține naturii la populara grădină zoologică. Seara se încheie relaxant alături de lemuri și capre în parc.",
+        "en": "The day begins historically in the charming Ueckermünde Castle and the fascinating granary. At noon, we stroll leisurely to the city harbor to absorb the maritime flair. The afternoon belongs to nature in the popular Ueckermünde Zoo. We end the evening relaxed with the lemurs and goats in the wildlife park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 6.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ueckermünde",
+            "hu": "Ueckermünde Kastély",
+            "ro": "Castelul Ueckermünde",
+            "en": "Ueckermünde Castle"
+          },
+          "coords": [
+            14.048645,
+            53.735858
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
+            "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
+            "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadthafen",
+            "hu": "Városi Kikötő",
+            "ro": "Portul Orașului",
+            "en": "City Harbor"
+          },
+          "coords": [
+            14.050547,
+            53.736528
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie am idyllischen Stadthafen entlang, um die traditionellen Zeesenboote zu beobachten, und sichern Sie sich am besten frühzeitig einen Platz auf einer Bank am Wasser.",
+            "hu": "Sétáljon végig az idilli városi kikötőn, figyelje meg a hagyományos halászhajókat, és foglaljon helyet egy vízparti padon a tökéletes kilátásért és a pihenésért.",
+            "ro": "Plimbați-vă de-a lungul portului idilic al orașului pentru a observa bărcile tradiționale de pescuit și asigurați-vă că prindeți repede o bancă pe malul apei.",
+            "en": "Stroll along the idyllic city harbor to observe the traditional fishing boats, and make sure to grab a waterfront bench early for the best and most relaxing views."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Ueckermünde",
+            "hu": "Ueckermünde Strandfürdő",
+            "ro": "Ștrandul Ueckermünde",
+            "en": "Ueckermünde Beach"
+          },
+          "coords": [
+            14.074732,
+            53.748317
+          ],
+          "category": "recreational",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand des Stettiner Haffs mit seinem flachen Wasser, ideal für Familien, und mieten Sie sich einen Strandkorb für den perfekten Komfort.",
+            "hu": "Pihenjen a Stettini-öböl finom homokos strandján, amelynek sekély vize ideális családoknak, és béreljen egy tipikus strandkosarat a tökéletes kényelemért a tengerparton.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin, cu apele sale puțin adânci, ideală pentru familii, și închiriați un coș de plajă tipic pentru confort maxim pe parcursul șederii dumneavoastră.",
+            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Ueckermünde",
+            "hu": "Ueckermündei Állatkert",
+            "ro": "Zoo Ueckermünde",
+            "en": "Ueckermünde Zoo"
+          },
+          "coords": [
+            14.028,
+            53.7313
+          ],
+          "category": "park",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
+            "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
+            "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Wölfe",
+            "hu": "Farkasok",
+            "ro": "Lupi",
+            "en": "Wolves"
+          },
+          "coords": [
+            14.027089,
+            53.726946
+          ],
+          "category": "family",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das faszinierende europäische Wolfsrudel in seinem weitläufigen Waldgehege, und nehmen Sie sich Zeit für die Schautafeln, um mehr über ihr Sozialverhalten zu lernen.",
+            "hu": "Figyelje meg a lenyűgöző európai farkasfalkát a tágas erdei kifutójukban, és szánjon időt a táblák elolvasására, hogy megismerje összetett társadalmi viselkedésüket.",
+            "ro": "Urmăriți fascinanta haită de lupi europeni în incinta lor spațioasă din pădure și faceți-vă timp să citiți panourile pentru a învăța despre comportamentul lor social complex.",
+            "en": "Watch the fascinating European wolf pack in their spacious forest enclosure, and take time to read the display boards to learn all about their complex social behavior."
+          }
+        },
+        {
+          "name": {
+            "de": "Esel",
+            "hu": "Szamarak",
+            "ro": "Măgari",
+            "en": "Donkeys"
+          },
+          "coords": [
+            14.028755,
+            53.729093
+          ],
+          "category": "family",
+          "arrive_at": "14:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treffen Sie die gutmütigen Esel, deren ruhiges Gemüt eine entspannende Wirkung hat, und achten Sie darauf, sie nur mit dem offiziellen Zoofutter zu belohnen.",
+            "hu": "Találkozzon a jóindulatú szamarakkal, akiknek nyugodt természete pihentető hatású, és ügyeljen arra, hogy csak a hivatalos állatkerti eledellel jutalmazza meg őket.",
+            "ro": "Întâlniți măgarii blânzi, a căror natură calmă are un efect relaxant și asigurați-vă că îi recompensați doar cu hrana oficială a grădinii zoologice aprobată pentru ei.",
+            "en": "Meet the gentle donkeys, whose calm nature has a relaxing effect, and ensure you only reward them with the official feed provided by the zoo to keep them healthy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten aktiv am historischen Schloss Ueckermünde und rollen kurz zum idyllischen Hafen. Gegen Mittag radeln wir zum Strandbad, wo eine frische Haff-Brise weht. Der Nachmittag führt uns auf zwei Rädern direkt in den Ueckermünder Zoo. Abends genießen wir die Ruhe bei den Wölfen und sanftmütigen Eseln im weitläufigen Park.",
+        "hu": "Aktívan kezdünk az ueckermündei kastélynál, és röviden átgurulunk az idilli kikötőhöz. Dél körül a strandra kerekezünk, ahol friss tengeri szellő fúj. A délután két keréken egyenesen az állatkertbe vezet minket. Este a farkasok és a szelíd szamarak nyugalmát élvezzük a tágas parkban.",
+        "ro": "Începem activ la castelul istoric și trecem scurt pe la portul idilic. În jurul prânzului pedalăm spre plaja unde suflă o briză proaspătă de lagună. După-amiaza ne duce pe două roți direct la grădina zoologică. Seara ne bucurăm de liniștea lupilor și a măgarilor blânzi în parcul spațios.",
+        "en": "We start actively at the historic castle and roll briefly to the idyllic harbor. Around noon we cycle to the beach, where a fresh lagoon breeze blows. The afternoon takes us on two wheels directly into the Ueckermünde Zoo. In the evening we enjoy the peace with the wolves and gentle donkeys in the spacious park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 12.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ueckermünde",
+            "hu": "Ueckermünde Kastély",
+            "ro": "Castelul Ueckermünde",
+            "en": "Ueckermünde Castle"
+          },
+          "coords": [
+            14.048645,
+            53.735858
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das letzte erhaltene Pommernschloss auf deutschem Boden, dessen Museum spannende Regionalgeschichte bietet, und achten Sie auf den historischen Schlossturm für tolle Fotos.",
+            "hu": "Csodálja meg a német területen fennmaradt utolsó pomerániai kastélyt és annak helytörténeti múzeumát, és ne hagyja ki a történelmi torony fotózását sem a látogatás során.",
+            "ro": "Admirați ultimul castel pomeranian păstrat pe teritoriul german, al cărui muzeu oferă o istorie regională fascinantă, și asigurați-vă că fotografiați turnul său istoric.",
+            "en": "Admire the last surviving Pomeranian castle on German soil, whose museum offers fascinating regional history, and make sure to photograph its historic tower for great memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturspeicher",
+            "hu": "Kulturspeicher Magtár",
+            "ro": "Grânarul Cultural",
+            "en": "Kulturspeicher"
+          },
+          "coords": [
+            14.046846,
+            53.735386
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie maritime Geschichte und wechselnde Kunstausstellungen in diesem liebevoll restaurierten Getreidespeicher, wobei Sie im Erdgeschoss oft lokale Souvenirs finden.",
+            "hu": "Fedezze fel a tengerészeti történelmet és a művészeti kiállításokat ebben a szépen felújított magtárban, a földszinten pedig helyi kézműves szuveníreket is találhat.",
+            "ro": "Descoperiți istoria maritimă și expozițiile de artă în acest grânar frumos restaurat, iar la parter veți găsi adesea suveniruri locale autentice foarte atractive.",
+            "en": "Discover maritime history and changing art exhibitions in this beautifully restored granary, and be sure to check out the ground floor for unique local souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatstube Liepgarten",
+            "hu": "Liepgarten Helytörténeti Múzeum",
+            "ro": "Muzeul Local Liepgarten",
+            "en": "Liepgarten Local History Museum"
+          },
+          "coords": [
+            14.028142,
+            53.714344
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem liebevoll eingerichteten Museum in das historische Schulwesen und Dorfleben ein, wobei die alte Schulbankkulisse ein perfektes Fotomotiv bietet.",
+            "hu": "Merüljön el a történelmi iskolai és falusi életben ebben a szeretettel berendezett múzeumban, ahol a régi iskolapadok tökéletes fotótémát nyújtanak emlékbe.",
+            "ro": "Cufundați-vă în viața istorică școlară și rurală în acest muzeu amenajat cu dragoste, unde vechile bănci școlare oferă un motiv foto perfect și deosebit.",
+            "en": "Immerse yourself in historic school and village life in this lovingly furnished museum, where the old school desk setting offers a perfect opportunity for great photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark Ueckermünde",
+            "hu": "Ueckermündei Állatkert",
+            "ro": "Zoo Ueckermünde",
+            "en": "Ueckermünde Zoo"
+          },
+          "coords": [
+            14.028,
+            53.7313
+          ],
+          "category": "park",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie über 400 heimische und exotische Tiere in diesem weitläufigen Naturzoo, und nutzen Sie die Fütterungszeiten für ein besonders nahes Tiererlebnis.",
+            "hu": "Tapasztalja meg a több mint 400 hazai és egzotikus állat közelségét ebben a tágas vadasparkban, és használja ki az etetési időket a legélvezetesebb látványért.",
+            "ro": "Experimentați peste 400 de animale autohtone și exotice în această grădină zoologică spațioasă și profitați de orele de hrănire pentru o interacțiune optimă.",
+            "en": "Experience over 400 native and exotic animals in this spacious nature zoo, and be sure to check the daily feeding schedule for the most interactive viewing sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandbad Ueckermünde",
+            "hu": "Ueckermünde Strandfürdő",
+            "ro": "Ștrandul Ueckermünde",
+            "en": "Ueckermünde Beach"
+          },
+          "coords": [
+            14.074732,
+            53.748317
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand des Stettiner Haffs mit seinem flachen Wasser, ideal für Familien, und mieten Sie sich einen Strandkorb für den perfekten Komfort.",
+            "hu": "Pihenjen a Stettini-öböl finom homokos strandján, amelynek sekély vize ideális családoknak, és béreljen egy tipikus strandkosarat a tökéletes kényelemért a tengerparton.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin, cu apele sale puțin adânci, ideală pentru familii, și închiriați un coș de plajă tipic pentru confort maxim pe parcursul șederii dumneavoastră.",
+            "en": "Relax on the fine sandy beach of the Szczecin Lagoon with its shallow water, ideal for families, and rent a traditional beach chair for maximum comfort during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Oderhaff",
+            "hu": "Oderhaff",
+            "ro": "Laguna Oderhaff",
+            "en": "Oderhaff Lagoon"
+          },
+          "coords": [
+            14.068638,
+            53.784437
+          ],
+          "category": "natural",
+          "arrive_at": "16:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden weiten Blick über das Oderhaff, ein unberührtes Naturparadies, und kommen Sie am späten Nachmittag hierher, um fantastische Lichtspiele zu fotografieren.",
+            "hu": "Élvezze a lélegzetelállító kilátást az Oderhaff érintetlen természeti paradicsomára, és érkezzen késő délután a fantasztikus fényjátékok drámai fotózásához.",
+            "ro": "Bucurați-vă de priveliștea vastă asupra lagunei Oderhaff, un paradis natural neatins, și veniți aici după-amiaza târziu pentru a fotografia jocurile fantastice de lumini de pe apă.",
+            "en": "Enjoy the breathtaking wide view over the Oderhaff, an untouched natural paradise, and come here in the late afternoon to photograph the fantastic light displays on the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour beginnt im Stadtzentrum am Schloss und dem detailreichen Kulturspeicher. Danach fahren wir zur Heimatstube nach Liepgarten für eine Reise in die dörfliche Vergangenheit. Der Nachmittag lockt uns mit Exoten in den Ueckermünder Zoo und zur Entspannung ans Strandbad. Den perfekten Abschluss bildet der weite Blick über das Oderhaff.",
+        "hu": "Autós túránk a városközpontban kezdődik a kastélynál és a magtárnál. Ezután Liepgartenbe hajtunk a falusi múltba tett utazáshoz. A délután az állatkert egzotikus lakóival és a stranddal csábít. A tökéletes befejezést az Oderhaffra nyíló széles, lélegzetelállító kilátás jelenti.",
+        "ro": "Turul nostru auto începe în centrul orașului, la castel și grânar. Apoi conducem la Liepgarten pentru o călătorie în trecutul satului. După-amiaza ne atrage cu exotism la grădina zoologică și relaxare la plajă. Finalul perfect este vederea vastă, uluitoare, asupra lagunei Oderhaff.",
+        "en": "Our car tour starts in the city center at the castle and the granary. Then we drive to Liepgarten for a journey into the village's past. The afternoon tempts us with exotics at the zoo and relaxation at the beach. The perfect finale is the wide, breathtaking view over the beautiful Oderhaff lagoon."
+      }
+    }
+  }
+}

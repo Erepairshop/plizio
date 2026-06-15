@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-brunico-cities-v2",
+  "anchor": {
+    "name": "Brunico",
+    "coords": [
+      11.935512,
+      46.796319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Nikolaus - San Nicolò",
+            "hu": "St. Nikolaus - San Nicolò",
+            "ro": "St. Nikolaus - San Nicolò",
+            "en": "St. Nikolaus - San Nicolò"
+          },
+          "coords": [
+            11.923464,
+            46.797065
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser historischen Kirche, einem friedlichen Zufluchtsort in der Stadt, aber achten Sie auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű freskóit, amely a város békés menedéke, de látogatásakor legyen tekintettel a zajló helyi istentiszteletekre.",
+            "ro": "Admirați frescele frumoase din această biserică istorică, un sanctuar liniștit al orașului, dar amintiți-vă să respectați slujbele locale în timpul vizitei.",
+            "en": "Admire the beautiful frescoes in this historic church, a peaceful sanctuary in the city, but remember to respect ongoing local services during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Jugend- und Kulturzentrum UFO",
+            "hu": "Jugend- und Kulturzentrum UFO",
+            "ro": "Jugend- und Kulturzentrum UFO",
+            "en": "Jugend- und Kulturzentrum UFO"
+          },
+          "coords": [
+            11.932938,
+            46.791176
+          ],
+          "category": "cultural",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige Jugendkultur in diesem Zentrum voller kreativer Veranstaltungen, also prüfen Sie vorab das Programm für ein Live-Konzert.",
+            "hu": "Tapasztalja meg a pezsgő ifjúsági kultúrát ebben a kreatív eseményekkel teli dinamikus központban, ezért előzetesen ellenőrizze az online programjukat.",
+            "ro": "Experimentați cultura vibrantă a tinerilor în acest centru plin de evenimente creative, așa că verificați programul online pentru un concert live.",
+            "en": "Experience the vibrant youth culture at this dynamic center full of creative events, so check their online schedule beforehand to catch a live music show."
+          }
+        },
+        {
+          "name": {
+            "de": "Kühbergl - Monte Spalliera",
+            "hu": "Kühbergl - Monte Spalliera",
+            "ro": "Kühbergl - Monte Spalliera",
+            "en": "Kühbergl - Monte Spalliera"
+          },
+          "coords": [
+            11.936986,
+            46.788057
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses malerische Naturgebiet mit spektakulärem Blick über das Tal, und tragen Sie unbedingt festes Schuhwerk für die unebenen Wege.",
+            "hu": "Túrázzon ezen a festői természeti területen, amely látványos kilátást nyújt a völgyre, és mindenképpen viseljen masszív cipőt az egyenetlen ösvényeken.",
+            "ro": "Faceți drumeții în această zonă pitorească ce oferă vederi spectaculoase asupra văii, asigurându-vă că purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Hike through this scenic natural area offering spectacular views over the valley, making sure to wear sturdy shoes for the sometimes uneven dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Biotop Moarberger Weiher",
+            "hu": "Biotop Moarberger Weiher",
+            "ro": "Biotop Moarberger Weiher",
+            "en": "Biotop Moarberger Weiher"
+          },
+          "coords": [
+            11.935824,
+            46.782246
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Wasser dieses idyllischen Biotops, einem Paradies für Vögel, und bringen Sie ein Fernglas mit, um seltene Arten zu beobachten.",
+            "hu": "Pihenjen ezen az idilli biotópon a csendes vizek mellett, amely a helyi madárvilág menedéke, és hozzon magával távcsövet a ritka madárfajok megfigyeléséhez.",
+            "ro": "Relaxați-vă pe malul apelor calme ale acestui biotop, un refugiu pentru păsări, și aduceți un binoclu dacă doriți să observați specii aviare rare.",
+            "en": "Relax by the calm waters of this idyllic biotope, a haven for local birdlife, and bring a pair of binoculars if you want to spot rare avian species."
+          }
+        },
+        {
+          "name": {
+            "de": "Cron4",
+            "hu": "Cron4",
+            "ro": "Cron4",
+            "en": "Cron4"
+          },
+          "coords": [
+            11.937189,
+            46.779452
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Becken und Saunalandschaften dieser Anlage und bringen Sie eigene Handtücher mit, um die Leihgebühren zu sparen.",
+            "hu": "Kapcsolódjon ki e népszerű rekreációs létesítmény kiterjedt medence- és szaunavilágában, de hozzon saját törölközőt, hogy megspórolja a bérleti díjat.",
+            "ro": "Relaxați-vă în piscinele extinse și saunele acestei facilități de agrement populare, aducând propriile prosoape pentru a economisi taxele de închiriere.",
+            "en": "Unwind in the extensive pools and sauna landscapes of this popular recreational facility, bringing your own towels to save on the rental fees inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Besuch von St. Nikolaus.\nMittags tauchen Sie im UFO-Jugendzentrum in die lebendige Kultur ein.\nAm Nachmittag genießen Sie einen Naturspaziergang über den Kühbergl und zum idyllischen Biotop Moarberger Weiher.\nLassen Sie den Abend entspannt in den Thermalbecken des Cron4 ausklingen.",
+        "hu": "Kezdje a reggelt a Szent Miklós-templom csendes látogatásával.\nDélben merüljön el a helyi kultúrában az UFO ifjúsági központban.\nDélután élvezze a természetjárást a Kühbergl hegyen és a békés Moarberger Weiher biotópban.\nZárja az estét a Cron4 pihentető termálmedencéiben lazítva.",
+        "ro": "Începeți dimineața cu o vizită liniștită la Sfântul Nicolae.\nLa prânz, pătrundeți în cultura locală vibrantă la centrul de tineret UFO.\nDupă-amiaza, bucurați-vă de o plimbare în natură traversând Kühbergl și serena rezervație Moarberger Weiher.\nÎncheiați seara relaxându-vă în piscinele termale de la Cron4.",
+        "en": "Start your morning with a quiet visit to St. Nikolaus, admiring its art.\nBy midday, dive into the vibrant local culture at the UFO youth center.\nIn the afternoon, enjoy a nature walk traversing Kühbergl and the serene Moarberger Weiher biotope.\nConclude your evening unwinding in the relaxing thermal pools of Cron4."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Biotop Kramoos",
+            "hu": "Biotop Kramoos",
+            "ro": "Biotop Kramoos",
+            "en": "Biotop Kramoos"
+          },
+          "coords": [
+            11.903461,
+            46.799006
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das einzigartige Feuchtgebietsökosystem dieses Naturschutzgebietes und bleiben Sie auf den markierten Holzstegen, um die Flora zu schützen.",
+            "hu": "Fedezze fel e védett természetvédelmi terület egyedülálló vizes élőhelyét, de óvatosan lépkedjen a kijelölt fapallókon, hogy elkerülje a növényzet károsítását.",
+            "ro": "Explorați ecosistemul umed unic al acestei rezervații naturale, pășind cu grijă pe podețele de lemn marcate pentru a nu deteriora flora delicată.",
+            "en": "Explore the unique wetland ecosystem of this protected nature reserve, treading carefully on the marked wooden boardwalks to avoid damaging the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeo",
+            "hu": "Archeo",
+            "ro": "Archeo",
+            "en": "Archeo"
+          },
+          "coords": [
+            11.905077,
+            46.789361
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit der Region ein, indem Sie faszinierende Überreste betrachten, und lesen Sie die zweisprachigen Schilder dazu.",
+            "hu": "Merüljön el a régió ősi múltjában e lenyűgöző régészeti maradványok megtekintésével, és keresse a részletes kétnyelvű táblákat a kontextus megértéséhez.",
+            "ro": "Pătrundeți în trecutul antic al regiunii vizualizând aici rămășițe arheologice fascinante și căutați panourile bilingve pentru a înțelege contextul.",
+            "en": "Delve into the region's ancient past by viewing fascinating archaeological remains here, and look for the detailed bilingual signs to understand the context."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Rustica",
+            "hu": "Villa Rustica",
+            "ro": "Villa Rustica",
+            "en": "Villa Rustica"
+          },
+          "coords": [
+            11.910182,
+            46.78496
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen Fundamente dieses römischen Landgutes für einen seltenen Einblick in die Geschichte, idealerweise mit einer Audiotour.",
+            "hu": "Fedezze fel e római mezőgazdasági birtok jól megőrzött alapjait, amely ritka bepillantást nyújt a vidéki történelembe, ideális esetben egy audiótúrával.",
+            "ro": "Descoperiți fundațiile bine conservate ale acestei moșii agricole romane, o privire rară asupra istoriei rurale, ideal alături de un tur audio ghidat.",
+            "en": "Discover the well-preserved foundations of this Roman agricultural estate, offering a rare glimpse into rural history, ideally with a guided audio tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Hl. Kreuz",
+            "hu": "Hl. Kreuz",
+            "ro": "Hl. Kreuz",
+            "en": "Hl. Kreuz"
+          },
+          "coords": [
+            11.910312,
+            46.786489
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Stille in dieser charmanten kleinen Kirche, und fotografieren Sie die schlichte Architektur am besten im Morgenlicht.",
+            "hu": "Szánjon egy pillanatot a csendes elmélkedésre ebben a bájos, építészeti egyszerűségéről ismert kis templomban, és fotózza le külsejét a reggeli fényben.",
+            "ro": "Luați-vă un moment de reflecție în această bisericuță fermecătoare, notabilă pentru simplitatea sa arhitecturală, și fotografiați exteriorul dimineața.",
+            "en": "Take a moment for quiet reflection in this charming little church, notable for its architectural simplicity, and photograph the exterior in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Biotop Reipertingermoos",
+            "hu": "Biotop Reipertingermoos",
+            "ro": "Biotop Reipertingermoos",
+            "en": "Biotop Reipertingermoos"
+          },
+          "coords": [
+            11.933526,
+            46.775561
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den ruhigen Pfaden rund um dieses friedliche Moorhabitat und sprechen Sie leise, um kleine Waldtiere in der Natur besser zu entdecken.",
+            "hu": "Sétáljon a békés lápvidéki élőhelyet körülvevő nyugodt ösvényeken, és beszéljen halkan, hogy növelje a kis erdei állatok megfigyelésének esélyét.",
+            "ro": "Plimbați-vă pe traseele senine din jurul acestui habitat de mlaștină liniștit, vorbind încet pentru a crește șansele de a observa animale mici de pădure.",
+            "en": "Walk the serene trails surrounding this peaceful moorland habitat, keeping your voice low to increase your chances of spotting small woodland animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kappler Stöckl",
+            "hu": "Kappler Stöckl",
+            "ro": "Kappler Stöckl",
+            "en": "Kappler Stöckl"
+          },
+          "coords": [
+            11.953626,
+            46.782079
+          ],
+          "category": "religious",
+          "arrive_at": "15:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen malerischen Bildstock, der tief verwurzelte Tiroler Traditionen verkörpert, und nutzen Sie ihn als landschaftlich schöne Raststätte.",
+            "hu": "Látogasson el ehhez a festői útszéli szentélyhez, amely a mélyen gyökerező tiroli hagyományokat testesíti meg, és használja pihenőhelyként a túrán.",
+            "ro": "Vizitați acest altar pitoresc de pe marginea drumului, care întruchipează tradițiile tiroleze adânci, folosindu-l ca un popas perfect în timpul călătoriei.",
+            "en": "Visit this picturesque roadside shrine that embodies deep-rooted Tyrolean traditions, and use it as a perfectly scenic rest stop during your bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in der frischen Morgenluft los, um das Biotop Kramoos zu erkunden.\nGegen Mittag tauchen Sie im Archeo und der Villa Rustica in die Geschichte ein.\nVerbringen Sie den Nachmittag mit einer Fahrt zum Hl. Kreuz und dem Biotop Reipertingermoos.\nWenn der Abend naht, finden Sie am Kappler Stöckl einen ruhigen Moment.",
+        "hu": "Tekerjen a friss reggeli levegőn az egyedülálló Kramoos biotóp felfedezéséhez.\nDél körül merüljön el a történelemben az Archeo és a Villa Rustica területén.\nDélután kerékpározzon a békés Szent Kereszt és a festői Reipertingermoos biotóp felé.\nEste találjon nyugalomra a festői Kappler Stöckl útszéli szentélynél.",
+        "ro": "Pedalați în aerul proaspăt al dimineții pentru a explora unicul Biotop Kramoos.\nÎn jurul prânzului, scufundați-vă în istorie la Archeo și la apropiata Villa Rustica.\nPetreceți după-amiaza mergând spre pașnicul Hl. Kreuz și Biotopul Reipertingermoos.\nSpre seară, găsiți un moment de liniște la altarul Kappler Stöckl.",
+        "en": "Pedal out in the fresh morning air to explore the unique Biotop Kramoos.\nAround noon, immerse yourself in local history at Archeo and the nearby Villa Rustica.\nSpend the afternoon cycling to the peaceful Hl. Kreuz and the scenic Biotop Reipertingermoos.\nAs evening falls, find a quiet moment at the Kappler Stöckl shrine."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 9.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Baggalocke",
+            "hu": "Baggalocke",
+            "ro": "Baggalocke",
+            "en": "Baggalocke"
+          },
+          "coords": [
+            11.948845,
+            46.839703
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein tolles Picknick an diesem beliebten Erholungsort für Familien, und bringen Sie eine Decke mit, um sich bequem ins grüne Gras zu legen.",
+            "hu": "Élvezze a fantasztikus szabadtéri pikniket ezen a népszerű családi pihenőhelyen, és hozzon magával egy takarót, hogy kényelmesen elnyúljon a zöld fűben.",
+            "ro": "Bucurați-vă de un picnic fantastic la acest loc popular de recreere pentru familii, aducând o pătură pentru a vă întinde confortabil pe iarba verde și deasă.",
+            "en": "Enjoy a fantastic outdoor picnic and playtime at this popular family recreation spot, bringing a blanket to stretch out comfortably on the lush green grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+            "hu": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+            "ro": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+            "en": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio"
+          },
+          "coords": [
+            11.92002,
+            46.811387
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Ruhe dieses üppigen Sumpfökosystems ein, einem wichtigen Schutzgebiet für die Artenvielfalt, und nutzen Sie stets Mückenschutzmittel.",
+            "hu": "Merüljön el ennek a buja mocsári ökoszisztémának a nyugalmában, amely a biológiai sokféleség fontos menedéke, és melegben használjon szúnyogriasztót.",
+            "ro": "Cufundați-vă în liniștea acestui ecosistem de mlaștină exuberant, un sanctuar vital pentru biodiversitate, și aplicați spray contra țânțarilor vara.",
+            "en": "Immerse yourself in the tranquility of this lush marshland ecosystem, a vital sanctuary for biodiversity, and wear mosquito repellent during warm seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus - San Nicolò",
+            "hu": "St. Nikolaus - San Nicolò",
+            "ro": "St. Nikolaus - San Nicolò",
+            "en": "St. Nikolaus - San Nicolò"
+          },
+          "coords": [
+            11.923464,
+            46.797065
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser historischen Kirche, einem friedlichen Zufluchtsort in der Stadt, aber achten Sie auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű freskóit, amely a város békés menedéke, de látogatásakor legyen tekintettel a zajló helyi istentiszteletekre.",
+            "ro": "Admirați frescele frumoase din această biserică istorică, un sanctuar liniștit al orașului, dar amintiți-vă să respectați slujbele locale în timpul vizitei.",
+            "en": "Admire the beautiful frescoes in this historic church, a peaceful sanctuary in the city, but remember to respect ongoing local services during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter und Paul",
+            "hu": "St. Peter und Paul",
+            "ro": "St. Peter und Paul",
+            "en": "St. Peter und Paul"
+          },
+          "coords": [
+            11.950378,
+            46.776963
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die verzierten Details und den Altar dieser Pfarrkirche, und treten Sie leise ein, um die ehrfürchtige und hallende Akustik zu genießen.",
+            "hu": "Csodálja meg e gyönyörű plébániatemplom díszes részleteit és lenyűgöző oltárát, majd lépjen be csendben, hogy értékelje annak tiszteletteljes akusztikáját.",
+            "ro": "Minunați-vă de detaliile ornamentale ale acestei frumoase biserici parohiale, pășind înăuntru în liniște pentru a aprecia acustica sa reverentă și clară.",
+            "en": "Marvel at the ornate details and impressive altar of this beautiful parish church, stepping inside quietly to appreciate its reverent, echoing acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Cron4",
+            "hu": "Cron4",
+            "ro": "Cron4",
+            "en": "Cron4"
+          },
+          "coords": [
+            11.937189,
+            46.779452
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Becken und Saunalandschaften dieser Anlage und bringen Sie eigene Handtücher mit, um die Leihgebühren zu sparen.",
+            "hu": "Kapcsolódjon ki e népszerű rekreációs létesítmény kiterjedt medence- és szaunavilágában, de hozzon saját törölközőt, hogy megspórolja a bérleti díjat.",
+            "ro": "Relaxați-vă în piscinele extinse și saunele acestei facilități de agrement populare, aducând propriile prosoape pentru a economisi taxele de închiriere.",
+            "en": "Unwind in the extensive pools and sauna landscapes of this popular recreational facility, bringing your own towels to save on the rental fees inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Erholungsgebiet Baggalocke für einen erfrischenden Morgen im Freien.\nEntdecken Sie mittags die vielfältige Flora im Biotop Georgener Möser.\nAm Nachmittag besuchen Sie St. Nikolaus und die majestätische Kirche St. Peter und Paul.\nBeenden Sie den Tag mit einem langen, beruhigenden Abend im Cron4-Wellnesscenter.",
+        "hu": "Vezessen a Baggalocke rekreációs területre egy frissítő szabadtéri reggelért.\nEbédidőben fedezze fel a Georgener Möser biotóp változatos növényvilágát.\nDélután látogasson el a Szent Miklós és a fenséges Szent Péter és Pál templomhoz.\nZárja a napot egy hosszú, megnyugtató estével a Cron4 wellness központban.",
+        "ro": "Conduceți spre zona de agrement Baggalocke pentru o dimineață răcoroasă în aer liber.\nLa prânz, descoperiți flora diversă de la Biotopul Georgener Möser.\nDupă-amiaza, vizitați istoricul Sf. Nicolae și biserica maiestuoasă Sf. Petru și Pavel.\nÎncheiați-vă ziua cu o seară lungă și relaxantă la centrul de wellness Cron4.",
+        "en": "Drive to the Baggalocke recreation area for a refreshing morning outdoors.\nBy lunchtime, discover the diverse flora at the Biotop Georgener Möser.\nIn the afternoon, visit the historic St. Nikolaus and the majestic St. Peter und Paul church.\nFinish your day with a long, soothing evening at the Cron4 wellness center."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "pekanbaru-cities-v2",
+  "anchor": {
+    "name": "Pekanbaru",
+    "coords": [
+      101.4478,
+      0.5071
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Keris",
+            "hu": "Tugu Keris",
+            "ro": "Tugu Keris",
+            "en": "Tugu Keris"
+          },
+          "coords": [
+            101.452118,
+            0.510272
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Keris-Dolch-Denkmal des malaiischen Erbes und machen Sie ein schnelles Foto von der Fußgängerinsel, bevor der Verkehr zunimmt.",
+            "hu": "Csodálja meg a maláj örökséget képviselő ikonikus tőremlékművet, és készítsen egy gyors fotót a gyalogos szigetről, mielőtt túl nagy lenne itt a forgalom.",
+            "ro": "Admirați monumentul emblematic al pumnalului keris reprezentând moștenirea malaieziană și faceți o fotografie de pe insula pietonală înainte de aglomerație.",
+            "en": "Admire the iconic keris dagger monument representing Malay heritage, and snap a quick photo from the pedestrian island before the traffic gets too heavy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Daerah Riau Sang Nila Utama",
+            "hu": "Museum Daerah Riau Sang Nila Utama",
+            "ro": "Museum Daerah Riau Sang Nila Utama",
+            "en": "Museum Daerah Riau Sang Nila Utama"
+          },
+          "coords": [
+            101.454278,
+            0.494239
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie umfassende Ausstellungen zur reichen Kulturgeschichte Riaus, aber kommen Sie früh, um großen Schulgruppen in den Haupthallen zu entgehen.",
+            "hu": "Fedezze fel Riau gazdag kultúrtörténetét bemutató átfogó kiállításokat, de érkezzen korán, hogy elkerülje a nagy iskolai csoportokat a főbb termekben.",
+            "ro": "Descoperiți expoziții detaliate despre istoria culturală a regiunii Riau, dar sosiți devreme pentru a evita grupurile școlare mari din sălile principale.",
+            "en": "Discover comprehensive exhibits detailing Riau's rich cultural history, but make sure to arrive early to avoid large school groups in the main exhibit halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Payung",
+            "hu": "Monumen Payung",
+            "ro": "Monumen Payung",
+            "en": "Monumen Payung"
+          },
+          "coords": [
+            101.454118,
+            0.470876
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem einzigartigen, schirmförmigen Denkmal, das Schutz symbolisiert, und holen Sie sich ein kaltes Getränk von den Straßenverkäufern hier.",
+            "hu": "Álljon meg ennél a védelmet szimbolizáló, egyedi esernyő alakú emlékműnél, és vegyen egy hideg italt az utcai árusoktól, miközben élvezi a délutáni szellőt.",
+            "ro": "Opriți-vă la acest monument unic în formă de umbrelă ce simbolizează protecția și luați o băutură rece de la vânzătorii ambulanți în adierea după-amiezii.",
+            "en": "Pause at this unique umbrella-shaped monument symbolizing protection, and grab a cold drink from nearby street vendors while enjoying the afternoon breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Pesawat A - 4E Skyhawk",
+            "hu": "Monumen Pesawat A - 4E Skyhawk",
+            "ro": "Monumen Pesawat A - 4E Skyhawk",
+            "en": "Monumen Pesawat A - 4E Skyhawk"
+          },
+          "coords": [
+            101.448095,
+            0.471447
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses authentisch erhaltene historische Militärflugzeug und gehen Sie um den gepflegten Zaun herum, um den besten Winkel zum Fotografieren zu finden.",
+            "hu": "Csodálja meg ezt a hitelesen megőrzött történelmi katonai repülőgépet, és sétáljon körbe a szépen karbantartott kerítés mentén a legjobb fotós szögért.",
+            "ro": "Minunați-vă de această aeronavă militară istorică autentic conservată și plimbați-vă în jurul gardului bine întreținut pentru a obține cel mai bun unghi.",
+            "en": "Marvel at this authentically preserved historic military aircraft, and walk around the well-maintained perimeter fence to get the best angle for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonblok Ekosistem",
+            "hu": "Nonblok Ekosistem",
+            "ro": "Nonblok Ekosistem",
+            "en": "Nonblok Ekosistem"
+          },
+          "coords": [
+            101.456739,
+            0.466406
+          ],
+          "category": "cultural",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem modernen kulturellen Raum, der der Nachhaltigkeit gewidmet ist, und lesen Sie die im Park verteilten Informationstafeln in Ruhe.",
+            "hu": "Pihenjen ebben a fenntarthatóságnak szentelt modern kulturális és ökológiai térben, és szánjon egy percet a parkban elszórt információs táblák elolvasására.",
+            "ro": "Relaxați-vă în acest spațiu cultural și ecologic modern dedicat sustenabilității și acordați-vă un moment pentru a citi plăcile informative din întregul parc.",
+            "en": "Relax in this modern cultural and ecological space dedicated to sustainability, and take a moment to read the informational plaques scattered around the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Tugu Keris, einem Symbol malaiischen Stolzes. Der Morgenluft folgend, spazieren Sie zum Riau Museum, um tief in die reiche Geschichte einzutauchen. Am Mittag führt der Weg zum charmanten Monumen Payung. Nachmittags bestaunen Sie das historische Militärflugzeug. Der Tag endet entspannt im grünen Nonblok Ekosistem.",
+        "hu": "Kezdje a napot a Tugu Keris emlékműnél, a maláj büszkeség szimbólumánál. A reggeli levegőt követve sétáljon el a Riau Múzeumba, hogy elmerüljön a gazdag történelemben. Délben az út a bájos Monumen Payung felé vezet. Délután csodálja meg a történelmi katonai repülőgépet, majd zárja a napot a zöld Nonblok Ekosistem parkban pihenve.",
+        "ro": "Începeți-vă ziua la Tugu Keris, un simbol al mândriei malaieziene. Urmând aerul dimineții, faceți o plimbare până la Muzeul Riau pentru o incursiune istorică. La prânz, drumul vă duce la fermecătorul Monumen Payung. După-amiaza admirați o aeronavă militară istorică. Ziua se încheie cu o relaxare în parcul verde Nonblok Ekosistem.",
+        "en": "Start your day at Tugu Keris, a proud symbol of Malay heritage. Following the morning breeze, stroll to the Riau Museum to dive deep into regional history. Midday brings you to the uniquely shaped Monumen Payung. Spend your afternoon marveling at a preserved military aircraft before ending the day relaxing at the green Nonblok Ekosistem."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tugu Keris",
+            "hu": "Tugu Keris",
+            "ro": "Tugu Keris",
+            "en": "Tugu Keris"
+          },
+          "coords": [
+            101.452118,
+            0.510272
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Keris-Dolch-Denkmal des malaiischen Erbes und machen Sie ein schnelles Foto von der Fußgängerinsel, bevor der Verkehr zunimmt.",
+            "hu": "Csodálja meg a maláj örökséget képviselő ikonikus tőremlékművet, és készítsen egy gyors fotót a gyalogos szigetről, mielőtt túl nagy lenne itt a forgalom.",
+            "ro": "Admirați monumentul emblematic al pumnalului keris reprezentând moștenirea malaieziană și faceți o fotografie de pe insula pietonală înainte de aglomerație.",
+            "en": "Admire the iconic keris dagger monument representing Malay heritage, and snap a quick photo from the pedestrian island before the traffic gets too heavy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Daerah Riau Sang Nila Utama",
+            "hu": "Museum Daerah Riau Sang Nila Utama",
+            "ro": "Museum Daerah Riau Sang Nila Utama",
+            "en": "Museum Daerah Riau Sang Nila Utama"
+          },
+          "coords": [
+            101.454278,
+            0.494239
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie umfassende Ausstellungen zur reichen Kulturgeschichte Riaus, aber kommen Sie früh, um großen Schulgruppen in den Haupthallen zu entgehen.",
+            "hu": "Fedezze fel Riau gazdag kultúrtörténetét bemutató átfogó kiállításokat, de érkezzen korán, hogy elkerülje a nagy iskolai csoportokat a főbb termekben.",
+            "ro": "Descoperiți expoziții detaliate despre istoria culturală a regiunii Riau, dar sosiți devreme pentru a evita grupurile școlare mari din sălile principale.",
+            "en": "Discover comprehensive exhibits detailing Riau's rich cultural history, but make sure to arrive early to avoid large school groups in the main exhibit halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Riau Abdurrab Malay Heritage",
+            "hu": "Riau Abdurrab Malay Heritage",
+            "ro": "Riau Abdurrab Malay Heritage",
+            "en": "Riau Abdurrab Malay Heritage"
+          },
+          "coords": [
+            101.42484,
+            0.482288
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Museum, das authentische malaiische Architektur bewahrt, und bitten Sie das Personal, die traditionellen Webwerkzeuge zu zeigen.",
+            "hu": "Fedezze fel ezt az autentikus maláj építészetet megőrző elegáns múzeumot, és kérje meg a barátságos személyzetet, hogy mutassák be a hagyományos eszközöket.",
+            "ro": "Explorați acest muzeu elegant care conservă arhitectura malaieziană autentică și rugați personalul prietenos să demonstreze folosirea uneltelor tradiționale.",
+            "en": "Explore this elegant museum preserving the authentic Malay architecture and customs, and ask the friendly staff to demonstrate the traditional weaving tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Riau Creative Hub",
+            "hu": "Riau Creative Hub",
+            "ro": "Riau Creative Hub",
+            "en": "Riau Creative Hub"
+          },
+          "coords": [
+            101.431634,
+            0.478983
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stöbern Sie hier durch lokale zeitgenössische Kunst und checken Sie den Pop-up-Souvenir-Stand auf einzigartige Geschenke von einheimischen Schöpfern aus.",
+            "hu": "Böngésszen a helyi kortárs művészeti és innovatív digitális projektek között, és nézze meg a pop-up szuvenírstandot a helyi alkotók egyedi ajándékaiért.",
+            "ro": "Răsfoiți arta contemporană locală și proiectele digitale inovatoare de aici și vizitați standul de suveniruri pentru cadouri unice de la creatorii locali.",
+            "en": "Browse through local contemporary art and innovative digital projects here, and check out the pop-up souvenir stall for unique gifts made by local creators."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Pesawat A - 4E Skyhawk",
+            "hu": "Monumen Pesawat A - 4E Skyhawk",
+            "ro": "Monumen Pesawat A - 4E Skyhawk",
+            "en": "Monumen Pesawat A - 4E Skyhawk"
+          },
+          "coords": [
+            101.448095,
+            0.471447
+          ],
+          "category": "historical",
+          "arrive_at": "15:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses authentisch erhaltene historische Militärflugzeug und gehen Sie um den gepflegten Zaun herum, um den besten Winkel zum Fotografieren zu finden.",
+            "hu": "Csodálja meg ezt a hitelesen megőrzött történelmi katonai repülőgépet, és sétáljon körbe a szépen karbantartott kerítés mentén a legjobb fotós szögért.",
+            "ro": "Minunați-vă de această aeronavă militară istorică autentic conservată și plimbați-vă în jurul gardului bine întreținut pentru a obține cel mai bun unghi.",
+            "en": "Marvel at this authentically preserved historic military aircraft, and walk around the well-maintained perimeter fence to get the best angle for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonblok Ekosistem",
+            "hu": "Nonblok Ekosistem",
+            "ro": "Nonblok Ekosistem",
+            "en": "Nonblok Ekosistem"
+          },
+          "coords": [
+            101.456739,
+            0.466406
+          ],
+          "category": "cultural",
+          "arrive_at": "17:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem modernen kulturellen Raum, der der Nachhaltigkeit gewidmet ist, und lesen Sie die im Park verteilten Informationstafeln in Ruhe.",
+            "hu": "Pihenjen ebben a fenntarthatóságnak szentelt modern kulturális és ökológiai térben, és szánjon egy percet a parkban elszórt információs táblák elolvasására.",
+            "ro": "Relaxați-vă în acest spațiu cultural și ecologic modern dedicat sustenabilității și acordați-vă un moment pentru a citi plăcile informative din întregul parc.",
+            "en": "Relax in this modern cultural and ecological space dedicated to sustainability, and take a moment to read the informational plaques scattered around the park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom zentralen Tugu Keris zum faszinierenden Riau Museum. Nach einer Dosis Geschichte fahren Sie zum Riau Abdurrab Malay Heritage. Mittags erkunden Sie den Riau Creative Hub mit lokaler Kunst. Am Nachmittag rollen Sie zum Monumen Pesawat. Den perfekten Abschluss bildet das friedliche Nonblok Ekosistem in der Abenddämmerung.",
+        "hu": "Kerékpározzon a központi Tugu Keris emlékműtől a lenyűgöző Riau Múzeumig. Egy adag történelem után tekerjen a Riau Abdurrab Malay Heritage felé. Délben fedezze fel a helyi művészeteket a Riau Creative Hubban. Délután guruljon a Monumen Pesawat repülőgéphez. A napot a békés Nonblok Ekosistem zárja a gyönyörű alkonyati fényekben.",
+        "ro": "Porniți de la Tugu Keris către fascinantul Muzeu Riau. După o doză de istorie, pedalați către Riau Abdurrab Malay Heritage. La prânz, explorați arta locală din Riau Creative Hub. După-amiaza, plimbați-vă până la monumentul aviatic Pesawat. Ziua se încheie perfect la Nonblok Ekosistem în lumina liniștită a amurgului.",
+        "en": "Cycle from the iconic Tugu Keris monument to the fascinating Riau Museum. After absorbing some history, ride out to the Riau Abdurrab Malay Heritage. Midday is perfect for exploring local art at the Riau Creative Hub. In the afternoon, pedal down to the historic aircraft monument before enjoying a peaceful twilight at Nonblok Ekosistem."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:51",
+      "total_km": 23.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "RUMAH MOMON SEKELUARGA",
+            "hu": "RUMAH MOMON SEKELUARGA",
+            "ro": "RUMAH MOMON SEKELUARGA",
+            "en": "RUMAH MOMON SEKELUARGA"
+          },
+          "coords": [
+            101.515676,
+            0.477981
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen traditionellen Haushalt, der Einblicke in das lokale Leben bietet, aber vergessen Sie nicht, vor dem Betreten des Wohnbereichs die Schuhe auszuziehen.",
+            "hu": "Látogasson el ebbe a hagyományos háztartásba, amely bepillantást enged a helyi életbe, de ne felejtse el levenni a cipőjét, mielőtt belépne a nappaliba.",
+            "ro": "Vizitați această gospodărie tradițională ce oferă o privire în viața locală de zi cu zi, dar amintiți-vă să vă descălțați înainte de a intra în zona de living.",
+            "en": "Visit this preserved traditional household offering a glimpse into daily local life, but remember to take off your shoes before entering the main living area."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Keris",
+            "hu": "Tugu Keris",
+            "ro": "Tugu Keris",
+            "en": "Tugu Keris"
+          },
+          "coords": [
+            101.452118,
+            0.510272
+          ],
+          "category": "historical",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ikonische Keris-Dolch-Denkmal des malaiischen Erbes und machen Sie ein schnelles Foto von der Fußgängerinsel, bevor der Verkehr zunimmt.",
+            "hu": "Csodálja meg a maláj örökséget képviselő ikonikus tőremlékművet, és készítsen egy gyors fotót a gyalogos szigetről, mielőtt túl nagy lenne itt a forgalom.",
+            "ro": "Admirați monumentul emblematic al pumnalului keris reprezentând moștenirea malaieziană și faceți o fotografie de pe insula pietonală înainte de aglomerație.",
+            "en": "Admire the iconic keris dagger monument representing Malay heritage, and snap a quick photo from the pedestrian island before the traffic gets too heavy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Daerah Riau Sang Nila Utama",
+            "hu": "Museum Daerah Riau Sang Nila Utama",
+            "ro": "Museum Daerah Riau Sang Nila Utama",
+            "en": "Museum Daerah Riau Sang Nila Utama"
+          },
+          "coords": [
+            101.454278,
+            0.494239
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie umfassende Ausstellungen zur reichen Kulturgeschichte Riaus, aber kommen Sie früh, um großen Schulgruppen in den Haupthallen zu entgehen.",
+            "hu": "Fedezze fel Riau gazdag kultúrtörténetét bemutató átfogó kiállításokat, de érkezzen korán, hogy elkerülje a nagy iskolai csoportokat a főbb termekben.",
+            "ro": "Descoperiți expoziții detaliate despre istoria culturală a regiunii Riau, dar sosiți devreme pentru a evita grupurile școlare mari din sălile principale.",
+            "en": "Discover comprehensive exhibits detailing Riau's rich cultural history, but make sure to arrive early to avoid large school groups in the main exhibit halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Riau Abdurrab Malay Heritage",
+            "hu": "Riau Abdurrab Malay Heritage",
+            "ro": "Riau Abdurrab Malay Heritage",
+            "en": "Riau Abdurrab Malay Heritage"
+          },
+          "coords": [
+            101.42484,
+            0.482288
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Museum, das authentische malaiische Architektur bewahrt, und bitten Sie das Personal, die traditionellen Webwerkzeuge zu zeigen.",
+            "hu": "Fedezze fel ezt az autentikus maláj építészetet megőrző elegáns múzeumot, és kérje meg a barátságos személyzetet, hogy mutassák be a hagyományos eszközöket.",
+            "ro": "Explorați acest muzeu elegant care conservă arhitectura malaieziană autentică și rugați personalul prietenos să demonstreze folosirea uneltelor tradiționale.",
+            "en": "Explore this elegant museum preserving the authentic Malay architecture and customs, and ask the friendly staff to demonstrate the traditional weaving tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Bundaran Tiang",
+            "hu": "Bundaran Tiang",
+            "ro": "Bundaran Tiang",
+            "en": "Bundaran Tiang"
+          },
+          "coords": [
+            101.425955,
+            0.466301
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das hoch aufragende Säulendenkmal an dieser belebten Kreuzung und nutzen Sie die Fußgängerampeln, um den geschäftigen Kreisverkehr sicher zu überqueren.",
+            "hu": "Figyelje meg a tornyosuló oszlopemlékművet ezen a forgalmas kereszteződésen, és használja a kijelölt zebrát, hogy biztonságosan átkeljen a nyüzsgő körforgalmon.",
+            "ro": "Observați monumentul pilon impozant din această intersecție aglomerată și folosiți trecerile de pietoni semnalizate pentru a naviga în siguranță sensul giratoriu.",
+            "en": "Observe the towering pillar monument at this busy intersection, and use the designated pedestrian crossing signals to safely navigate the bustling roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Patung Dua Gajah",
+            "hu": "Patung Dua Gajah",
+            "ro": "Patung Dua Gajah",
+            "en": "Patung Dua Gajah"
+          },
+          "coords": [
+            101.430052,
+            0.429247
+          ],
+          "category": "historical",
+          "arrive_at": "17:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos mit den wunderschönen Doppel-Elefantenstatuen und besuchen Sie sie am späten Nachmittag, wenn das Licht hier am weichsten zum Fotografieren ist.",
+            "hu": "Készítsen fényképeket a Szumátra vadvilágát ünneplő gyönyörű iker elefántszobrokkal, és látogasson el késő délután, amikor a leglágyabbak a fényviszonyok.",
+            "ro": "Faceți poze cu frumoasele statui cu doi elefanți ce celebrează viața sălbatică din Sumatra și vizitați-le după-amiaza târziu când lumina este cea mai blândă.",
+            "en": "Take pictures with the beautiful dual elephant statues celebrating Sumatra's wildlife, and visit during the late afternoon when the lighting is softest here."
+          }
+        },
+        {
+          "name": {
+            "de": "KUA Air Dingin",
+            "hu": "KUA Air Dingin",
+            "ro": "KUA Air Dingin",
+            "en": "KUA Air Dingin"
+          },
+          "coords": [
+            101.463391,
+            0.44882
+          ],
+          "category": "museum",
+          "arrive_at": "18:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Archive, die in diesem Gebäude untergebracht sind, und überprüfen Sie die Öffnungszeiten unbedingt vorab online.",
+            "hu": "Fedezze fel az ebben az épületben található lenyűgöző történelmi archívumokat és leleteket, és mindenképpen ellenőrizze a nyitvatartást az interneten.",
+            "ro": "Descoperiți fascinantele arhive și artefacte istorice găzduite în această clădire și asigurați-vă că verificați programul online deoarece se poate modifica.",
+            "en": "Discover the fascinating historical archives and artifacts housed in this building, and be sure to verify their opening hours online as they often change unannounced."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der RUMAH MOMON SEKELUARGA. Fahren Sie dann bequem zum ikonischen Tugu Keris und Riau Museum. Nachmittags tauchen Sie im Riau Abdurrab Malay Heritage in die Tradition ein. Anschließend fahren Sie am markanten Bundaran Tiang vorbei zu den berühmten Elefantenstatuen. Der Abend endet tief in der Geschichte am KUA Air Dingin.",
+        "hu": "Autós túrája a RUMAH MOMON SEKELUARGA épületénél kezdődik. Utazzon kényelmesen a Tugu Kerishez és a Riau Múzeumhoz. Délután merüljön el a hagyományokban a Riau Abdurrab Heritage területén. Ezután a feltűnő Bundaran Tiang mellett elhaladva elérheti az elefántszobrokat. Az este a KUA Air Dingin gazdag történelemével zárul nyugodtan.",
+        "ro": "Turul auto începe cu o vizită la RUMAH MOMON SEKELUARGA. Conduceți confortabil către Tugu Keris și Muzeul Riau. După-amiaza, descoperiți tradițiile la Riau Abdurrab Malay Heritage. Treceți apoi de impresionantul Bundaran Tiang pentru a vedea statuile elefanților. Seara se încheie profund istoric la muzeul KUA Air Dingin.",
+        "en": "Your driving tour starts with a visit to RUMAH MOMON SEKELUARGA. Drive comfortably to the iconic Tugu Keris and the comprehensive Riau Museum. Spend the afternoon exploring deep traditions at the Riau Abdurrab Heritage. Later, navigate past the towering Bundaran Tiang to reach the elephant statues, concluding your historical day at KUA Air Dingin."
+      }
+    }
+  }
+}

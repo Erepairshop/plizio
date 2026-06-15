@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-vouliagmeni-cities-v2",
+  "anchor": {
+    "name": "Vouliagmeni",
+    "coords": [
+      23.785556,
+      37.8075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaz Limnes",
+            "hu": "Plaz Limnes",
+            "ro": "Plaz Limnes",
+            "en": "Plaz limnes"
+          },
+          "coords": [
+            23.785662,
+            37.80719
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
+            "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
+            "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagitsa e Dutissa",
+            "hu": "Panagitsa e Dutissa",
+            "ro": "Panagitsa e Dutissa",
+            "en": "Panagitsa e Dutissa"
+          },
+          "coords": [
+            23.78656,
+            37.802605
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ruhige Erholungsgebiet, das tolle Einblicke in die griechische Freizeit bietet, also bringen Sie bequeme Schuhe für einen Küstenspaziergang mit.",
+            "hu": "Fedezze fel ezt a békés helyi pihenőövezetet, amely bepillantást enged a görög mindennapokba, ezért hozzon kényelmes cipőt egy kellemes parti sétához.",
+            "ro": "Descoperiți această zonă de recreere pașnică, care oferă o privire minunată asupra timpului liber grecesc, așa că aduceți încălțăminte comodă pentru o plimbare de coastă.",
+            "en": "Discover this peaceful local recreational area, which offers a great glimpse into daily Greek leisure, so bring comfortable shoes for a pleasant coastal stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Vouliagmeni",
+            "hu": "Vouliagmeni-öböl",
+            "ro": "Golful Vouliagmeni",
+            "en": "Vouliagmeni Bay"
+          },
+          "coords": [
+            23.779475,
+            37.805785
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
+            "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel des Apollon Zoster",
+            "hu": "Apollón Zosztér temploma",
+            "ro": "Templul lui Apollo Zoster",
+            "en": "Temple of Apollo Zoster"
+          },
+          "coords": [
+            23.77373,
+            37.810009
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
+            "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
+            "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+          }
+        },
+        {
+          "name": {
+            "de": "Vouliagmeni Fort",
+            "hu": "Vouliagmeni erőd",
+            "ro": "Fortul Vouliagmeni",
+            "en": "Vouliagmeni fort (Attica)"
+          },
+          "coords": [
+            23.77482,
+            37.807974
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie um das historische Vouliagmeni-Fort, um die Küstenverteidigung zu verstehen, und tragen Sie festes Schuhwerk, da das alte Gelände steinig ist.",
+            "hu": "Sétáljon körbe a történelmi Vouliagmeni erődön, hogy megértse a régió partvédelmi múltját, és viseljen masszív lábbelit, mivel a terep meglehetősen sziklás lehet.",
+            "ro": "Plimbați-vă prin istoricul fort Vouliagmeni pentru a înțelege apărarea de coastă a regiunii și purtați încălțăminte rezistentă, deoarece terenul antic este stâncos.",
+            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem ruhigen Rückzugsort am Plaz Limnes, wo Sie die frische Meeresbrise genießen. Ein kurzer Spaziergang bringt Sie zu den Freizeitanlagen von Panagitsa e Dutissa.\n\nDer Mittag ist von den atemberaubenden Ausblicken auf die Bucht von Vouliagmeni geprägt. Sie werden die majestätische Küstenlinie der Athener Riviera bewundern und die Sonne genießen.\n\nDer Nachmittag geht in eine historische Reise über. Entdecken Sie antike Geheimnisse am Tempel des Apollon Zoster nahe dem Sandstrand, gefolgt von der Erkundung des alten Forts.\n\nWenn der Abend naht, verblassen die Echos der Geschichte in der friedlichen Küstenatmosphäre. Lassen Sie Ihren faszinierenden Spaziergang Revue passieren, während die Sonne untergeht.",
+        "hu": "Reggele egy békés visszavonulással indul a Plaz Limnesnél, ahol élvezheti a friss tengeri szellőt. Egy rövid sétával a Panagitsa e Dutissa helyi pihenőparkjába érkezik.\n\nA delet a Vouliagmeni-öböl lenyűgöző kilátása koronázza meg. Megcsodálhatja az athéni riviéra fenséges partvonalát, és egy látványos környezetben szívhatja magába a görög napfényt.\n\nA délután egy történelmi utazásba csap át. Fedezze fel Apollón Zosztér templomának ősi titkait közvetlenül a homokos part közelében, majd fedezze fel a régi Vouliagmeni erődöt.\n\nAz este közeledtével a történelem visszhangjai beleolvadnak a békés partvidéki hangulatba. Gondoljon vissza erre a lenyűgöző sétára, miközben figyeli a naplementét az Égei-tenger felett.",
+        "ro": "Dimineața dvs. începe cu un refugiu liniștit la Plaz Limnes, bucurându-vă de briza proaspătă a mării. O scurtă plimbare vă aduce la terenurile de recreere din Panagitsa e Dutissa.\n\nMijlocul zilei este marcat de priveliștile uimitoare ale Golfului Vouliagmeni. Vă veți minuna de coasta maiestuoasă a Rivierei Ateniene, bucurându-vă de soarele grecesc.\n\nDupă-amiaza se transformă într-o călătorie istorică. Descoperiți secretele antice la Templul lui Apollo Zoster chiar lângă nisip, urmată de o explorare a vechiului fort Vouliagmeni.\n\nPe măsură ce se apropie seara, ecourile istoriei se estompează în ambianța pașnică a coastei. Reflectați la plimbarea captivantă în timp ce priviți soarele apunând ușor peste Marea Egee.",
+        "en": "Your morning starts with a tranquil retreat at Plaz Limnes, enjoying the fresh sea breeze. A short stroll brings you to the local recreational grounds of Panagitsa e Dutissa.\n\nMidday is marked by the stunning vistas of Vouliagmeni Bay. You will marvel at the majestic coastline of the Athenian Riviera, soaking up the Greek sun in a spectacular setting.\n\nThe afternoon transitions into a historical journey. Uncover ancient secrets at the Temple of Apollo Zoster right near the sand, followed by an exploration of the old Vouliagmeni fort.\n\nAs evening approaches, the echoes of history fade into the peaceful coastal ambiance. Reflect on your captivating walking tour as you watch the sun gently set over the Aegean Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kserokhabos",
+            "hu": "Kserokhabos",
+            "ro": "Kserokhabos",
+            "en": "Kserokhabos"
+          },
+          "coords": [
+            23.78892,
+            37.81813
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur von Kserokhabos, die eine Flucht vor den belebten Stränden bietet, und bringen Sie ausreichend Wasser mit, da es kaum Anlagen gibt.",
+            "hu": "Élvezze Kserokhabos érintetlen természeti környezetét, amely menedéket nyújt a nyüzsgő strandok elől, és hozzon sok vizet, mivel a szolgáltatások nagyon ritkák.",
+            "ro": "Bucurați-vă de natura virgină din Kserokhabos, oferind o evadare pitorească de pe plajele aglomerate, și aduceți multă apă, deoarece facilitățile sunt foarte rare.",
+            "en": "Enjoy the pristine natural environment of Kserokhabos, offering a rugged escape from the bustling beaches, and bring plenty of water as facilities are very scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaz Limnes",
+            "hu": "Plaz Limnes",
+            "ro": "Plaz Limnes",
+            "en": "Plaz limnes"
+          },
+          "coords": [
+            23.785662,
+            37.80719
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
+            "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
+            "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Vouliagmeni",
+            "hu": "Vouliagmeni-öböl",
+            "ro": "Golful Vouliagmeni",
+            "en": "Vouliagmeni Bay"
+          },
+          "coords": [
+            23.779475,
+            37.805785
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
+            "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel des Apollon Zoster",
+            "hu": "Apollón Zosztér temploma",
+            "ro": "Templul lui Apollo Zoster",
+            "en": "Temple of Apollo Zoster"
+          },
+          "coords": [
+            23.77373,
+            37.810009
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
+            "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
+            "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+          }
+        },
+        {
+          "name": {
+            "de": "Megalo Kabouri",
+            "hu": "Megalo Kabouri",
+            "ro": "Megalo Kabouri",
+            "en": "Megalo Kabouri"
+          },
+          "coords": [
+            23.76819,
+            37.81868
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schwimmen Sie am Megalo Kabouri, einem weitläufigen und einladenden Strand für Familien, und kommen Sie am späten Nachmittag, um dem großen Trubel zu entgehen.",
+            "hu": "Fürödjön a Megalo Kabouri tágas és hívogató strandján, amely tökéletes családok számára, és látogasson el késő délután a kisebb tömeg és a lágyabb fények miatt.",
+            "ro": "Înotați la Megalo Kabouri, o plajă spațioasă și primitoare perfectă pentru familii, și încercați să vizitați la sfârșitul după-amiezii pentru mai puțină aglomerație.",
+            "en": "Swim at Megalo Kabouri, a spacious and inviting recreational beach perfect for families, and try to visit during late afternoon for fewer crowds and softer light."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Varkiza",
+            "hu": "Varkiza strand",
+            "ro": "Plaja Varkiza",
+            "en": "Beach of Varkiza"
+          },
+          "coords": [
+            23.808884,
+            37.820219
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise am lebhaften Strand von Varkiza, bekannt für Wassersport und tolle Atmosphäre, und bleiben Sie zum Sonnenuntergang mit einem lokalen Snack.",
+            "hu": "Zárja kirándulását a nyüzsgő Varkiza strandon, amely élénk hangulatáról és vízi sportjairól híres, és maradjon naplementéig, miközben helyi tengerparti falatokat kóstol.",
+            "ro": "Încheiați călătoria la animata plajă Varkiza, renumită pentru atmosfera sa vibrantă și sporturile nautice, și rămâneți la apus, savurând o gustare locală pe litoral.",
+            "en": "Conclude your trip at the lively Beach of Varkiza, famous for its vibrant atmosphere and water sports, and stay for the sunset while enjoying a local seaside snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer inmitten der rauen Natur von Kserokhabos, bevor Sie in Richtung der ruhigen Gewässer des Plaz Limnes für eine erfrischende Pause am Morgen radeln.\n\nRadeln Sie mittags entlang der atemberaubenden Bucht von Vouliagmeni. Pausieren Sie für die herrliche Aussicht auf die Riviera und entdecken Sie dann die Antike am Apollon-Tempel.\n\nIhre Nachmittagsfahrt führt Sie weiter an der Küste entlang zu den einladenden Ufern von Megalo Kabouri. Entspannen Sie sich am Sandstrand und genießen Sie die mediterrane Umgebung.\n\nBeenden Sie Ihre Radtour am belebten Strand von Varkiza. Die lebhafte Abendenergie ist die perfekte Kulisse, um den Tag bei einem unvergesslichen Sonnenuntergang ausklingen zu lassen.",
+        "hu": "Kezdje kerékpáros kalandját Kserokhabos zord természete közepette, majd tekerjen a Plaz Limnes nyugodt, családbarát vizei felé egy frissítő reggeli szünetre.\n\nDélben tekerjen a lélegzetelállító Vouliagmeni-öböl mentén. Tartson egy kis szünetet, majd fedezze fel a klasszikus ókort Apollón Zosztér csodálatos templománál.\n\nDélutáni útja tovább viszi a partvonal mentén Megalo Kabouri hívogató partjaihoz. Pihenjen a homokos tengerparton, fürödjön egyet, és élvezze a napsütötte mediterrán környezetet.\n\nFejezze be kerékpártúráját a nyüzsgő Varkiza strandon. Az élénk esti energia tökéletes hátteret biztosít ahhoz, hogy biztonságosan leparkolja kerékpárját, és élvezze a naplementét.",
+        "ro": "Începeți aventura cu bicicleta în mijlocul naturii aspre din Kserokhabos înainte de a pedala spre apele calme ale Plaz Limnes pentru o pauză de dimineață răcoritoare.\n\nLa prânz, mergeți cu bicicleta de-a lungul impresionantului Golf Vouliagmeni. Faceți o pauză pentru a aprecia priveliștile, apoi descoperiți antichitatea la Templul lui Apollo Zoster.\n\nPlimbarea de după-amiază vă duce mai departe de-a lungul coastei către țărmurile primitoare din Megalo Kabouri. Relaxați-vă pe plaja cu nisip și bucurați-vă de cadrul mediteranean.\n\nTerminați turul cu bicicleta la aglomerata plajă Varkiza. Energia vibrantă a serii este fundalul perfect pentru a vă parca bicicleta și a vă bucura de un apus memorabil pe litoral.",
+        "en": "Begin your cycling adventure amidst the rugged nature of Kserokhabos before pedaling towards the calm, family-friendly waters of Plaz Limnes for a refreshing morning break.\n\nAt midday, cycle along the breathtaking Vouliagmeni Bay. Pause to appreciate the striking Riviera views, then discover classical antiquity at the magnificent Temple of Apollo Zoster.\n\nYour afternoon ride takes you further along the coastline to the inviting shores of Megalo Kabouri. Relax on the sandy beach, swim, and enjoy the sun-drenched Mediterranean setting.\n\nFinish your cycling tour at the bustling Beach of Varkiza. The vibrant evening energy is the perfect backdrop to safely park your bike and enjoy a memorable seaside sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Yabanaki",
+            "hu": "Yabanaki",
+            "ro": "Yabanaki",
+            "en": "Yabanaki"
+          },
+          "coords": [
+            23.804606,
+            37.82057
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am lebhaften Yabanaki-Komplex, der hervorragende Annehmlichkeiten für alle bietet, und buchen Sie Ihre Sonnenliege in den Sommermonaten unbedingt im Voraus.",
+            "hu": "Kezdje a nyüzsgő Yabanaki komplexumban, amely kiváló kényelmi szolgáltatásokat kínál, és a nyári csúcsidőszakban mindenképpen foglalja le előre a napozóágyát.",
+            "ro": "Începeți la complexul de agrement Yabanaki, care oferă facilități excelente pentru toate vârstele, și rezervați-vă șezlongul în avans în timpul lunilor de vară de vârf.",
+            "en": "Start at the lively Yabanaki recreational complex, which features excellent amenities for all ages, and book your sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Vari",
+            "hu": "Vari-öböl",
+            "ro": "Golful Vari",
+            "en": "Vari Bay"
+          },
+          "coords": [
+            23.81107,
+            37.811271
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an der Bucht von Vari, um die ruhige maritime Landschaft und die weite Aussicht zu genießen, ein perfekter Fotostopp vor Ihrem nächsten Ziel.",
+            "hu": "Álljon meg röviden a Vari-öbölnél, hogy megcsodálja a nyugodt tengeri tájat és a pazar kilátást, ami tökéletes gyors fotómegálló a következő úti cél előtt.",
+            "ro": "Opriți-vă scurt la Golful Vari pentru a aprecia peisajul maritim senin și vederile panoramice, fiind un popas foto rapid perfect înainte de a merge mai departe.",
+            "en": "Stop briefly at Vari Bay to appreciate the serene maritime landscape and sweeping views, making it a perfect quick photo stop before heading to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaz Limnes",
+            "hu": "Plaz Limnes",
+            "ro": "Plaz Limnes",
+            "en": "Plaz limnes"
+          },
+          "coords": [
+            23.785662,
+            37.80719
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern von Plaz Limnes, einem idealen Ort unweit des Zentrums, und kommen Sie früh, um sich einen Schattenplatz zu sichern.",
+            "hu": "Pihenjen a Plaz Limnes nyugodt vizénél, amely tökéletes menedék a város közelében, és érkezzen korán, hogy biztosítson egy természetes árnyékos helyet.",
+            "ro": "Relaxați-vă la apele calme ale Plaz Limnes, un refugiu ideal lângă oraș, și sosiți devreme pentru a vă asigura un loc excelent cu umbră naturală.",
+            "en": "Relax by the calm waters of Plaz Limnes, an ideal spot for unwinding near the city center, and arrive early to secure a prime spot with natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Vouliagmeni",
+            "hu": "Vouliagmeni-öböl",
+            "ro": "Golful Vouliagmeni",
+            "en": "Vouliagmeni Bay"
+          },
+          "coords": [
+            23.779475,
+            37.805785
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Aussicht auf die Vouliagmeni-Bucht, ein Wahrzeichen der Riviera, und halten Sie Ihre Kamera für das azurblaue Wasser bereit.",
+            "hu": "Csodálja meg a Vouliagmeni-öböl lélegzetelállító panorámáját, az athéni riviéra meghatározó pontját, és tartsa készenlétben a fényképezőgépét az azúrkék vízhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale Golfului Vouliagmeni, un reper al Rivierei Ateniene, și țineți camera pregătită pentru apele de un albastru azuriu.",
+            "en": "Admire the breathtaking panoramic views of Vouliagmeni Bay, a defining landmark of the Athenian Riviera, and keep your camera ready for the stunning azure waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel des Apollon Zoster",
+            "hu": "Apollón Zosztér temploma",
+            "ro": "Templul lui Apollo Zoster",
+            "en": "Temple of Apollo Zoster"
+          },
+          "coords": [
+            23.77373,
+            37.810009
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken Tempel des Apollon Zoster, einen faszinierenden archäologischen Schatz am Strand, und achten Sie auf die gut erhaltenen Marmorsockel.",
+            "hu": "Fedezze fel Apollón Zosztér ősi templomát, a strand közelében rejtőző régészeti kincset, és figyelje meg a figyelemre méltóan jó állapotban fennmaradt márványtalapzatokat.",
+            "ro": "Explorați vechiul Templu al lui Apollo Zoster, o comoară arheologică fascinantă ascunsă lângă plajă, și căutați bazele de marmură remarcabil de bine conservate.",
+            "en": "Explore the ancient Temple of Apollo Zoster, a fascinating archaeological treasure hidden near the beach, and look out for the remarkably preserved marble bases."
+          }
+        },
+        {
+          "name": {
+            "de": "Vouliagmeni Fort",
+            "hu": "Vouliagmeni erőd",
+            "ro": "Fortul Vouliagmeni",
+            "en": "Vouliagmeni fort (Attica)"
+          },
+          "coords": [
+            23.77482,
+            37.807974
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie um das historische Vouliagmeni-Fort, um die Küstenverteidigung zu verstehen, und tragen Sie festes Schuhwerk, da das alte Gelände steinig ist.",
+            "hu": "Sétáljon körbe a történelmi Vouliagmeni erődön, hogy megértse a régió partvédelmi múltját, és viseljen masszív lábbelit, mivel a terep meglehetősen sziklás lehet.",
+            "ro": "Plimbați-vă prin istoricul fort Vouliagmeni pentru a înțelege apărarea de coastă a regiunii și purtați încălțăminte rezistentă, deoarece terenul antic este stâncos.",
+            "en": "Wander around the historic Vouliagmeni fort to understand the region's coastal defense history, and wear sturdy footwear as the ancient terrain can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Nereides",
+            "hu": "Nereides",
+            "ro": "Nereides",
+            "en": "Nereides"
+          },
+          "coords": [
+            23.769241,
+            37.813858
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in Nereides, einem bezaubernden Küstenort mit kristallklarem Wasser und ruhiger Umgebung, und bringen Sie eigene Schnorchelausrüstung zur Erkundung mit.",
+            "hu": "Pihenjen a Nereidesnél, egy bájos tengerparti helyszínen, kristálytiszta vízzel, és hozzon magával saját búvárfelszerelést a tengeri élőlények felfedezéséhez.",
+            "ro": "Relaxați-vă la Nereides, un loc de coastă fermecător, cu ape cristaline și un mediu liniștit, și aduceți-vă propriul echipament de snorkeling pentru a explora.",
+            "en": "Relax at Nereides, a charming coastal spot offering crystal-clear waters and peaceful surroundings, and bring your own snorkeling gear to explore the marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Roadtrip am lebhaften Yabanaki-Komplex für morgendliche Freizeit, gefolgt von einer malerischen Fahrt zur Bucht von Vari, um die herrliche Meereslandschaft zu bewundern.\n\nParken Sie mittags in der Nähe von Plaz Limnes für eine kurze Pause und fahren Sie dann entlang der ikonischen Bucht von Vouliagmeni. Danach können Sie die antiken Ruinen erkunden.\n\nIhre Nachmittagsroute beinhaltet die Erkundung der historischen Überreste des Vouliagmeni-Forts. Fahren Sie kurz darauf zum wunderschönen Strand Nereides, um sich herrlich zu entspannen.\n\nBeenden Sie Ihre Küstenfahrt, während die Dämmerung einsetzt. Das beruhigende Rauschen der Wellen markiert den perfekten Abschluss eines bereichernden und schönen Tages an der Riviera.",
+        "hu": "Indítsa autós kirándulását a nyüzsgő Yabanaki komplexumban egy kis reggeli kikapcsolódással, majd tegyen egy festői utazást a Vari-öbölbe, és csodálja meg a csodás tengeri kilátást.\n\nDél körül parkoljon le a Plaz Limnes közelében egy rövid pihenőre, majd autózzon végig az ikonikus Vouliagmeni-öböl mentén. Ezután utazzon vissza az időben az ókori romoknál.\n\nA délutáni útiterv tartalmazza a Vouliagmeni erőd történelmi maradványainak felfedezését. Nem sokkal ezután vezessen le a gyönyörű Nereides strandra egy kis jól megérdemelt pihenésre.\n\nZárja tengerparti autózását a szürkület beálltával. A hullámok nyugtató hangja tökéletesen jelzi az athéni riviérát felfedező, élményekben gazdag és zökkenőmentes nap végét.",
+        "ro": "Începeți călătoria rutieră la complexul vibrant Yabanaki pentru o dimineață de agrement, urmată de o plimbare pitorească până la Golful Vari pentru a admira priveliștile sale maritime.\n\nPână la prânz, parcați lângă Plaz Limnes pentru o scurtă pauză, apoi navigați de-a lungul emblematicului Golf Vouliagmeni. Apoi, pășiți înapoi în timp la ruinele antice.\n\nItinerariul dvs. de după-amiază include explorarea rămășițelor istorice ale fortului Vouliagmeni. La scurt timp, conduceți spre frumoasa plajă Nereides pentru relaxare.\n\nÎncheiați-vă plimbarea pe coastă odată cu lăsarea amurgului. Sunetul liniștitor al valurilor marchează perfect sfârșitul unei zile pline de satisfacții explorând Riviera.",
+        "en": "Kick off your road trip at the vibrant Yabanaki complex for morning leisure, followed by a scenic drive to Vari Bay to admire its sweeping, picturesque maritime views.\n\nBy midday, park near Plaz Limnes for a short break, then cruise along the iconic Vouliagmeni Bay. Afterwards, step back in time at the ancient ruins of the Temple of Apollo Zoster.\n\nYour afternoon itinerary includes exploring the historic remnants of the Vouliagmeni fort. Soon after, drive down to the beautiful Nereides beach for some much-needed relaxation.\n\nWrap up your coastal drive as twilight sets in. The calming sound of the waves at the Nereides coast perfectly marks the end of an enriching and seamless day exploring the Riviera."
+      }
+    }
+  }
+}

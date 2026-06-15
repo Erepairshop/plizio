@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-sada-cities-v2",
+  "anchor": {
+    "name": "Sada",
+    "coords": [
+      -8.28205,
+      43.35376
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 1.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "A Terraza",
+            "hu": "A Terraza",
+            "ro": "A Terraza",
+            "en": "A Terraza"
+          },
+          "coords": [
+            -8.252746,
+            43.350836
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen modernistischen Kiosk aus den 1920er Jahren mit seinen bunten Glasfenstern, der die Freizeitarchitektur jener Zeit zeigt, und bestellen Sie einen schnellen Kaffee.",
+            "hu": "Csodálja meg az 1920-as évekből származó, színes ólomüvegekkel díszített, egyedülálló modernista pavilont, és kérjen egy gyors kávét, mielőtt megkezdené a városnézést.",
+            "ro": "Admirați acest chioșc modernist unic din anii 1920, cu vitralii vibrante ce reprezintă arhitectura de agrement, și comandați o cafea rapidă la pachet înainte de a pleca.",
+            "en": "Admire this unique modernist kiosk built in the 1920s with vibrant stained glass, representing early 20th-century leisure architecture, and order a quick coffee before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Nova",
+            "hu": "Praia Nova",
+            "ro": "Praia Nova",
+            "en": "Praia Nova"
+          },
+          "coords": [
+            -8.252092,
+            43.352311
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang an diesem ruhigen Stadtstrand, dessen sanfte Wellen ideal für Familien sind, und bringen Sie ein Handtuch für ein Fußbad mit.",
+            "hu": "Tegyen egy frissítő sétát ezen a nyugodt városi strandon, melynek lágy hullámai ideálisak a családok számára, és hozzon magával egy kis törölközőt a lábáztatáshoz.",
+            "ro": "Faceți o plimbare răcoritoare pe această plajă urbană liniștită, ale cărei valuri blânde sunt perfecte pentru familii, și aduceți un prosop mic dacă vreți să vă udați picioarele.",
+            "en": "Take a refreshing walk along this tranquil urban beach, noting the gentle waves that make it perfect for families, and bring a small towel if you want to dip your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cultura Pintor Llorens",
+            "hu": "Casa da Cultura Pintor Llorens",
+            "ro": "Casa da Cultura Pintor Llorens",
+            "en": "Casa da Cultura Pintor Llorens"
+          },
+          "coords": [
+            -8.252066,
+            43.355741
+          ],
+          "category": "cultural",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lokalen Kunstausstellungen in diesem dem Maler Llorens gewidmeten Kulturzentrum, das galizische Kreativität zeigt, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel a Llorens festőnek szentelt kulturális központ helyi művészeti kiállításait, de az indulás előtt mindenképpen ellenőrizze a pontos nyitvatartási időt.",
+            "ro": "Explorați expozițiile de artă locală din acest centru cultural dedicat pictorului Llorens, ce oferă o perspectivă asupra creativității galiciene, dar verificați orarul în prealabil.",
+            "en": "Explore the local art exhibitions housed in this cultural center dedicated to the painter Llorens, offering insight into Galician creativity, but check opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Oreiro",
+            "hu": "Pazo de Oreiro",
+            "ro": "Pazo de Oreiro",
+            "en": "Pazo de Oreiro"
+          },
+          "coords": [
+            -8.25631,
+            43.354366
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle galizische Herrenhausarchitektur dieses historischen Pazo, der die aristokratische Vergangenheit der Region widerspiegelt, am besten vom Haupttor aus.",
+            "hu": "Figyelje meg ennek a történelmi pazonak a hagyományos galíciai kúriaépítészetét, amely a régió arisztokrata múltját tükrözi, és fotózza le a főkapu felől a legjobb szögből.",
+            "ro": "Observați arhitectura tradițională galiciană a acestui pazo istoric, care reflectă trecutul aristocratic al regiunii, și vizualizați-l de la poarta principală pentru fotografii optime.",
+            "en": "Observe the traditional Galician manor architecture of this historic pazo, which reflects the region's aristocratic past, and view it from the main gate for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro do Tarabelo",
+            "hu": "Castro do Tarabelo",
+            "ro": "Castro do Tarabelo",
+            "en": "Castro do Tarabelo"
+          },
+          "coords": [
+            -8.258744,
+            43.35366
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Wandern Sie um die Überreste dieser alten eisenzeitlichen Siedlung mit Blick auf die Bucht, die vorrömische Strategie offenbart, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon körbe ennek az öbölre néző, ősi vaskori településnek a maradványai között, amely a rómaiak előtti időket idézi, és viseljen erős cipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă printre rămășițele acestei vechi așezări din Epoca Fierului cu vedere la golf, ce dezvăluie strategia preromană, și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Wander around the remnants of this ancient Iron Age settlement that overlooks the bay, revealing pre-Roman strategic planning, and wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "ENIL Brañas de Sada",
+            "hu": "ENIL Brañas de Sada",
+            "ro": "ENIL Brañas de Sada",
+            "en": "ENIL Brañas de Sada"
+          },
+          "coords": [
+            -8.260965,
+            43.349126
+          ],
+          "category": "natural",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieses geschützte Feuchtgebiet ein, ein wichtiger Lebensraum für lokale Vogelarten, und bringen Sie ein Fernglas mit, um die Tierwelt ungestört zu beobachten.",
+            "hu": "Merüljön el ebben a védett természeti vizes élőhelyben, amely a helyi madárfajok létfontosságú élőhelye, és hozzon magával távcsövet a vadon élő állatok megfigyeléséhez.",
+            "ro": "Scufundați-vă în această zonă umedă naturală protejată, un habitat crucial pentru speciile locale de păsări, și aduceți binoclu pentru a observa fauna fără a o deranja.",
+            "en": "Immerse yourself in this protected natural wetland, a crucial habitat for local bird species and amphibians, and bring binoculars to observe the wildlife without disturbing it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Wasser, bewundert das ikonische A Terraza und spaziert an der Praia Nova. Mittags geht es in das kulturelle Herz von Sada. Der Nachmittag ist historischen Herrenhäusern und antiken Castros gewidmet. Der Abend bringt einen friedlichen Spaziergang durch die geschützten Feuchtgebiete der Brañas de Sada.",
+        "hu": "A reggel a vízparton kezdődik, megcsodálva az ikonikus A Terazát. A dél felé közeledve Sada kulturális szívében találjuk magunkat, a helyi művészeteket felfedezve. A délutánt a történelmi kúriáknak és a tengerre néző ősi castróknak szenteljük. Az este egy békés sétát hoz a védett vizes élőhelyeken.",
+        "ro": "Dimineața începe lângă apă, admirând emblematica A Terraza. La prânz, vizitați inima culturală a orașului Sada, explorând artele locale la Pintor Llorens. După-amiaza este dedicată conacelor istorice și vechilor castre. Seara aduce o plimbare pașnică prin zonele umede protejate de la Brañas de Sada.",
+        "en": "Morning begins by the water, admiring the iconic A Terraza and walking along Praia Nova. Midday takes you into the cultural heart of Sada, exploring local arts at Pintor Llorens. Afternoon is dedicated to historic manors and ancient castros overlooking the sea. Evening brings a peaceful stroll through the protected wetlands of Brañas de Sada."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 4.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "ENIL Brañas de Sada",
+            "hu": "ENIL Brañas de Sada",
+            "ro": "ENIL Brañas de Sada",
+            "en": "ENIL Brañas de Sada"
+          },
+          "coords": [
+            -8.260965,
+            43.349126
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieses geschützte Feuchtgebiet ein, ein wichtiger Lebensraum für lokale Vogelarten, und bringen Sie ein Fernglas mit, um die Tierwelt ungestört zu beobachten.",
+            "hu": "Merüljön el ebben a védett természeti vizes élőhelyben, amely a helyi madárfajok létfontosságú élőhelye, és hozzon magával távcsövet a vadon élő állatok megfigyeléséhez.",
+            "ro": "Scufundați-vă în această zonă umedă naturală protejată, un habitat crucial pentru speciile locale de păsări, și aduceți binoclu pentru a observa fauna fără a o deranja.",
+            "en": "Immerse yourself in this protected natural wetland, a crucial habitat for local bird species and amphibians, and bring binoculars to observe the wildlife without disturbing it."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Samoedo",
+            "hu": "Castro de Samoedo",
+            "ro": "Castro de Samoedo",
+            "en": "Castro de Samoedo"
+          },
+          "coords": [
+            -8.271512,
+            43.340138
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die runden Steinfundamente dieser in der Landschaft verborgenen historischen keltischen Hügelfestung, die frühes indigenes Leben zeigt, und nähern Sie sich langsam.",
+            "hu": "Fedezze fel a tájba simuló történelmi kelta domberőd kör alakú kőalapjait, amely a korai őslakosok életét mutatja be, és lassan közelítsen, hogy tiszteletben tartsa az ősi helyet.",
+            "ro": "Descoperiți fundațiile circulare de piatră ale acestei cetăți celtice ascunse în peisaj, ce prezintă viața indigenă timpurie, și apropiați-vă încet pentru a respecta situl antic.",
+            "en": "Discover the circular stone foundations of this historic Celtic hillfort hidden in the landscape, showcasing early indigenous life, and approach slowly to respect the ancient site."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Barrié de la Maza",
+            "hu": "Casa Barrié de la Maza",
+            "ro": "Casa Barrié de la Maza",
+            "en": "Casa Barrié de la Maza"
+          },
+          "coords": [
+            -8.271885,
+            43.352611
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.39,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses bedeutende architektonische Wahrzeichen, das mit einer prominenten Bankierfamilie verbunden ist, wobei Sie seine Eleganz strikt von außen betrachten müssen.",
+            "hu": "Csodálja meg ezt a jelentős építészeti nevezetességet, amely Galícia egyik legkiemelkedőbb bankárcsaládjához kötődik, de az elegáns épületet csak kívülről tudja megtekinteni.",
+            "ro": "Minunați-vă de acest punct de reper arhitectural legat de una dintre cele mai proeminente familii de bancheri din Galicia, deși trebuie să-i admirați eleganța doar de la exterior.",
+            "en": "Marvel at this significant architectural landmark tied to one of Galicia's most prominent banking families, noting its grandeur, though you must view its elegance strictly from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Riovao",
+            "hu": "Castro de Riovao",
+            "ro": "Castro de Riovao",
+            "en": "Castro de Riovao"
+          },
+          "coords": [
+            -8.268125,
+            43.354721
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses weniger bekannte archäologische Castro, das subtile Hinweise auf eisenzeitliche Wohnanlagen bietet, und achten Sie genau auf die von der Vegetation verdeckten Erdhügel.",
+            "hu": "Vizsgálja meg ezt a kevésbé ismert régészeti castro lelőhelyet, amely finom utalásokat ad a vaskori településre, és nézze meg alaposan a növényzet által gyakran eltakart földhalmokat.",
+            "ro": "Investigați acest sit arheologic castro mai puțin cunoscut, ce oferă indicii subtile despre locuințele din Epoca Fierului, și priviți cu atenție movilele de pământ ascunse de vegetație.",
+            "en": "Investigate this lesser-known archaeological castro site offering subtle clues to Iron Age domestic layouts, and look closely at the earthen mounds as vegetation often obscures them."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Oreiro",
+            "hu": "Pazo de Oreiro",
+            "ro": "Pazo de Oreiro",
+            "en": "Pazo de Oreiro"
+          },
+          "coords": [
+            -8.25631,
+            43.354366
+          ],
+          "category": "historical",
+          "arrive_at": "14:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle galizische Herrenhausarchitektur dieses historischen Pazo, der die aristokratische Vergangenheit der Region widerspiegelt, am besten vom Haupttor aus.",
+            "hu": "Figyelje meg ennek a történelmi pazonak a hagyományos galíciai kúriaépítészetét, amely a régió arisztokrata múltját tükrözi, és fotózza le a főkapu felől a legjobb szögből.",
+            "ro": "Observați arhitectura tradițională galiciană a acestui pazo istoric, care reflectă trecutul aristocratic al regiunii, și vizualizați-l de la poarta principală pentru fotografii optime.",
+            "en": "Observe the traditional Galician manor architecture of this historic pazo, which reflects the region's aristocratic past, and view it from the main gate for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Nova",
+            "hu": "Praia Nova",
+            "ro": "Praia Nova",
+            "en": "Praia Nova"
+          },
+          "coords": [
+            -8.252092,
+            43.352311
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang an diesem ruhigen Stadtstrand, dessen sanfte Wellen ideal für Familien sind, und bringen Sie ein Handtuch für ein Fußbad mit.",
+            "hu": "Tegyen egy frissítő sétát ezen a nyugodt városi strandon, melynek lágy hullámai ideálisak a családok számára, és hozzon magával egy kis törölközőt a lábáztatáshoz.",
+            "ro": "Faceți o plimbare răcoritoare pe această plajă urbană liniștită, ale cărei valuri blânde sunt perfecte pentru familii, și aduceți un prosop mic dacă vreți să vă udați picioarele.",
+            "en": "Take a refreshing walk along this tranquil urban beach, noting the gentle waves that make it perfect for families, and bring a small towel if you want to dip your feet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt in der lebhaften Flora von Brañas de Sada, bevor Sie zur alten Siedlung Samoedo radeln. Der Mittag ist perfekt, um die Casa Barrié zu bewundern. Am Nachmittag radeln Sie zum versteckten Castro von Riovao und zum Pazo de Oreiro. Der Abend lädt zum Entspannen an den Wellen der Praia Nova ein.",
+        "hu": "Kezdje a tekerést a Brañas de Sada élénk növényzete között, mielőtt a Samoedo településre kerékpározna. A dél ideális a Casa Barrié megcsodálására. A délutáni pedálozás a rejtett Riovao castróhoz és az Oreiro pazóhoz vezet. Az este meghívja Önt, hogy pihenjen a Praia Nova lágy hullámainál.",
+        "ro": "Începeți plimbarea printre flora de la Brañas de Sada înainte de a pedala spre așezarea Samoedo. Prânzul este perfect pentru a admira Casa Barrié. După-amiaza, pedalatul vă duce la castrul ascuns Riovao și la Pazo de Oreiro. Seara vă invită să vă relaxați lângă valurile blânde de la Praia Nova.",
+        "en": "Start your ride amidst the lively flora of Brañas de Sada before cycling to the ancient Samoedo settlement. Midday is perfect for admiring the grandeur of Casa Barrié. Afternoon pedaling leads you to the hidden Riovao castro and the historic Pazo de Oreiro. Evening invites you to relax by the gentle waves of Praia Nova."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 7.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "A Terraza",
+            "hu": "A Terraza",
+            "ro": "A Terraza",
+            "en": "A Terraza"
+          },
+          "coords": [
+            -8.252746,
+            43.350836
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen modernistischen Kiosk aus den 1920er Jahren mit seinen bunten Glasfenstern, der die Freizeitarchitektur jener Zeit zeigt, und bestellen Sie einen schnellen Kaffee.",
+            "hu": "Csodálja meg az 1920-as évekből származó, színes ólomüvegekkel díszített, egyedülálló modernista pavilont, és kérjen egy gyors kávét, mielőtt megkezdené a városnézést.",
+            "ro": "Admirați acest chioșc modernist unic din anii 1920, cu vitralii vibrante ce reprezintă arhitectura de agrement, și comandați o cafea rapidă la pachet înainte de a pleca.",
+            "en": "Admire this unique modernist kiosk built in the 1920s with vibrant stained glass, representing early 20th-century leisure architecture, and order a quick coffee before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Riovao",
+            "hu": "Castro de Riovao",
+            "ro": "Castro de Riovao",
+            "en": "Castro de Riovao"
+          },
+          "coords": [
+            -8.268125,
+            43.354721
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses weniger bekannte archäologische Castro, das subtile Hinweise auf eisenzeitliche Wohnanlagen bietet, und achten Sie genau auf die von der Vegetation verdeckten Erdhügel.",
+            "hu": "Vizsgálja meg ezt a kevésbé ismert régészeti castro lelőhelyet, amely finom utalásokat ad a vaskori településre, és nézze meg alaposan a növényzet által gyakran eltakart földhalmokat.",
+            "ro": "Investigați acest sit arheologic castro mai puțin cunoscut, ce oferă indicii subtile despre locuințele din Epoca Fierului, și priviți cu atenție movilele de pământ ascunse de vegetație.",
+            "en": "Investigate this lesser-known archaeological castro site offering subtle clues to Iron Age domestic layouts, and look closely at the earthen mounds as vegetation often obscures them."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Meirás",
+            "hu": "Pazo de Meirás",
+            "ro": "Pazo de Meirás",
+            "en": "Pazo de Meirás"
+          },
+          "coords": [
+            -8.295802,
+            43.357593
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses sehr umstrittene und visuell beeindruckende palastartige Anwesen mit romantischer Architektur, und buchen Sie Ihre Führung rechtzeitig, um Zugang zu erhalten.",
+            "hu": "Látogassa meg ezt az erősen vitatott és vizuálisan lenyűgöző, romantikus építészetet ötvöző palotabirtokot, és időben foglalja le a vezetett belépőt a bejutás biztosítása érdekében.",
+            "ro": "Vizitați acest domeniu palat contoversat și izbitor vizual, ce îmbină arhitectura romantică, și rezervați-vă intrarea ghidată cu mult timp înainte pentru a asigura accesul.",
+            "en": "Visit this highly controversial and visually striking palatial estate blending romantic and historicist architecture, and book your guided entry well in advance to ensure access."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Meirás",
+            "hu": "Castro de Meirás",
+            "ro": "Castro de Meirás",
+            "en": "Castro de Meirás"
+          },
+          "coords": [
+            -8.297213,
+            43.362877
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die Überreste einer weiteren alten Siedlung in der Nähe des berühmten Pazo, die die dichte vorrömische Besiedlung dieser Zone unterstreicht, und gehen Sie vorsichtig.",
+            "hu": "Kövesse nyomon a híres Pazo közelében megbúvó másik ősi település maradványait, amely a rómaiak előtti korszakot idézi, miközben óvatosan lépked a burkolatlan ösvényeken.",
+            "ro": "Urmăriți rămășițele unei alte așezări antice situate lângă celebrul Pazo, subliniind ocupația preromană densă, în timp ce pășiți cu grijă pe cărările neasfaltate din împrejurimi.",
+            "en": "Trace the remains of another ancient settlement nestled near the famous Pazo, highlighting the dense pre-Roman occupation of this zone, while treading carefully on the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grande de Meirás",
+            "hu": "Casa Grande de Meirás",
+            "ro": "Casa Grande de Meirás",
+            "en": "Casa Grande de Meirás"
+          },
+          "coords": [
+            -8.301103,
+            43.357058
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Beachten Sie das Mauerwerk dieses großen Landhauses, das beispielhaft für galizische ländliche Elite-Wohnungen ist, obwohl es Privateigentum bleibt, das am besten von der Straße aus bewundert wird.",
+            "hu": "Vegye észre ennek a nagy vidéki háznak a lenyűgöző kőművesmunkáját, amely a múlt mezőgazdasági elitjének építészetét példázza, bár magántulajdon lévén az útról a legszebb.",
+            "ro": "Observați zidăria impresionantă a acestei mari case rurale, un exemplu al locuințelor elitei agrare galiciene, deși rămâne o proprietate privată ce trebuie admirată doar din drum.",
+            "en": "Notice the impressive stonework of this grand rural house which exemplifies Galician agrarian elite dwellings of the past, though it remains a private property best admired from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro do Castelo",
+            "hu": "Castro do Castelo",
+            "ro": "Castro do Castelo",
+            "en": "Castro do Castelo"
+          },
+          "coords": [
+            -8.303269,
+            43.338051
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.12,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Überresten dieses erhöhten Castros hinauf, das einst immense Verteidigungsvorteile bot und Ihre körperliche Anstrengung mit einem Panoramablick belohnt.",
+            "hu": "Másszon fel a magaslati castro maradványaihoz, amely egykor óriási védelmi előnyöket biztosított, és a fizikai erőfeszítésért cserébe lenyűgöző panorámát nyújt a tengerparti tájra.",
+            "ro": "Urcați spre rămășițele acestui castro ridicat ce oferea odată avantaje defensive imense, răsplătindu-vă efortul fizic cu o priveliște panoramică amplă asupra terenului de coastă.",
+            "en": "Climb up to the remnants of this elevated castro which once provided immense defensive advantages, rewarding your physical effort with sweeping panoramic views of the coastal terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem Kaffee in der Nähe des atemberaubenden Pavillons A Terraza, bevor Sie zum ruhigen Riovao-Gelände fahren. Der Mittag konzentriert sich auf die dramatische Meirás-Region. Der Nachmittag schlängelt sich durch benachbarte historische Steine und große Landgüter. Schließen Sie mit einer Fahrt zum Castro do Castelo ab.",
+        "hu": "Kezdje egy kávéval a lenyűgöző A Terraza pavilon közelében, mielőtt a csendes Riovao terület felé venné az irányt. A dél a Meirás régióra összpontosít, a híres palotás pazo köré. A délután szomszédos történelmi köveken és vidéki birtokokon ível át. Fejezze be egy festői utazással a magasan fekvő Castro do Castelóhoz.",
+        "ro": "Începeți cu o cafea lângă impresionantul pavilion A Terraza înainte de a conduce spre situl liniștit Riovao. Prânzul se concentrează pe regiunea dramatică Meirás, în jurul celebrului pazo palatial. După-amiaza străbate pietre istorice vecine și moșii rurale grandioase. Încheiați cu o conducere scenică spre Castro do Castelo.",
+        "en": "Kick off with coffee near the stunning A Terraza pavilion before driving towards the quiet Riovao site. Midday focuses deeply on the dramatic Meirás region, centered on its famous palatial pazo. Afternoon weaves through neighboring historic stones and grand rural estates. Conclude with a scenic drive down to the elevated Castro do Castelo."
+      }
+    }
+  }
+}

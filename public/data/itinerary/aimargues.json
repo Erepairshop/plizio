@@ -1,0 +1,497 @@
+{
+  "city_id": "aimargues",
+  "anchor": {
+    "name": "Aimargues",
+    "coords": [
+      4.2086,
+      43.6847
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:58",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Aimargues",
+            "hu": "Aimargues Városháza",
+            "ro": "Primăria Aimargues",
+            "en": "Aimargues Town Hall"
+          },
+          "coords": [
+            4.209301,
+            43.684696
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem eleganten Rathaus, um das lokale Verwaltungserbe zu schätzen, und achten Sie auf die klassischen französischen Details.",
+            "hu": "Kezdje a napot ennél az elegáns városházánál, hogy megcsodálja a helyi közigazgatási örökséget, figyelve a klasszikus építészeti részletekre.",
+            "ro": "Începeți ziua la această clădire civică elegantă pentru a aprecia moștenirea administrativă locală, observând detaliile arhitecturale franceze clasice.",
+            "en": "Start your day at this elegant civic building to appreciate local administrative heritage, taking time to notice the classic French architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Saint-Saturnin Templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "St. Saturnin Church"
+          },
+          "coords": [
+            4.208784,
+            43.685117
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und die friedliche Atmosphäre dieser zentralen Kirche, indem Sie leise eintreten, um ihre Spiritualität zu spüren.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés hangulatát; lépjen be csendben, hogy megtapasztalja a spirituális rezonanciát.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici centrale, intrând în liniște pentru a experimenta rezonanța sa spirituală istorică.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this central church, ensuring you step quietly inside to experience its spiritual resonance."
+          }
+        },
+        {
+          "name": {
+            "de": "Vereinigte Protestantische Kirche",
+            "hu": "Egyesült Protestáns Templom",
+            "ro": "Biserica Protestantă Unită",
+            "en": "Temple de l'Église Protestante Unie"
+          },
+          "coords": [
+            4.211875,
+            43.684987
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem schlichten Tempel das protestantische Erbe der Region und achten Sie auf das einfache, aber tiefgründige Innendesign.",
+            "hu": "Fedezze fel a régió protestáns örökségét ennél a visszafogott templomnál, figyelve az egyszerű, mégis mélyreható belsőépítészeti megoldásokra.",
+            "ro": "Descoperiți moștenirea protestantă a regiunii la acest templu discret, observând designul interior simplu, dar profund, care îi reflectă istoria.",
+            "en": "Discover the distinct Protestant heritage of the region at this understated temple, looking out for the simple yet profound interior design inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Grabstelen",
+            "hu": "Ősi Sírkövek",
+            "ro": "Stele Funerare Antice",
+            "en": "Stèles funéraires antiques"
+          },
+          "coords": [
+            4.214928,
+            43.686602
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit bei diesen antiken Grabstelen, die Einblicke in das gallorömische Leben bieten, am besten im Morgenlicht.",
+            "hu": "Lépjen vissza az időben ezen ősi sírkövek vizsgálatával, amelyek ritka bepillantást engednek a gall-római életbe, melyeket reggel érdemes fotózni.",
+            "ro": "Întoarceți-vă în timp examinând aceste stele funerare antice care oferă o privire rară asupra vieții galo-romane, excelente de fotografiat la amiază.",
+            "en": "Step back in time examining these ancient funerary steles that offer a rare glimpse into Gallo-Roman life, best photographed in the natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Camargue Einst",
+            "hu": "Egykori Camargue",
+            "ro": "Camargue de Odinioară",
+            "en": "Camargue Autrefois"
+          },
+          "coords": [
+            4.228421,
+            43.66737
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem Wahrzeichen in die Camargue-Kultur ein und nehmen Sie sich Zeit für die Ausstellungen über die Stier- und Pferdetraditionen.",
+            "hu": "Merüljön el a Camargue kultúrában ennél a lenyűgöző nevezetességnél, szánva egy percet a helyi bika- és lóhagyományokat bemutató kiállításokra.",
+            "ro": "Scufundați-vă în cultura tradițională Camargue la acest obiectiv fascinant, explorând cu atenție expozițiile despre tradițiile locale cu tauri și cai.",
+            "en": "Immerse yourself in traditional Camargue culture at this fascinating landmark, taking time to engage with displays about local bull and horse customs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden wir das Herz von Aimargues, beginnend am Rathaus und den nahegelegenen Kirchen. Mittags tauchen wir bei den antiken Stelen tief in die römische Geschichte ein. Am Nachmittag spazieren wir in Richtung Süden, um im Camargue Autrefois die ländlichen Traditionen kennenzulernen. Der Abend bleibt frei für eine entspannte Pause in der südfranzösischen Atmosphäre.",
+        "hu": "Reggel Aimargues szívét fedezzük fel, a városházától kezdve a közeli templomokig. Délben elmerülünk a római történelemben az ősi sírköveknél. Délután dél felé sétálunk, hogy a Camargue Autrefois-ban megismerjük a vidéki hagyományokat. Az este szabadon választható egy pihentető sétára a dél-francia hangulatban.",
+        "ro": "Dimineața explorăm inima localității Aimargues, de la primărie la bisericile din apropiere. La prânz ne scufundăm în istoria romană la stelele antice. După-amiaza ne îndreptăm spre sud pentru a descoperi tradițiile rurale la Camargue Autrefois. Seara rămâne liberă pentru a vă bucura de atmosfera relaxantă din sudul Franței.",
+        "en": "Morning brings an exploration of central Aimargues, walking between its historic civic and religious buildings. Midday shifts focus to the ancient Roman steles that reveal the region's deep past. The afternoon concludes with a walk towards the Camargue boundaries to celebrate local traditions. Evening allows for peaceful reflection in town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Saint-Saturnin Templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "St. Saturnin Church"
+          },
+          "coords": [
+            4.208784,
+            43.685117
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und die friedliche Atmosphäre dieser zentralen Kirche, indem Sie leise eintreten, um ihre Spiritualität zu spüren.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés hangulatát; lépjen be csendben, hogy megtapasztalja a spirituális rezonanciát.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici centrale, intrând în liniște pentru a experimenta rezonanța sa spirituală istorică.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this central church, ensuring you step quietly inside to experience its spiritual resonance."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Grabstelen",
+            "hu": "Ősi Sírkövek",
+            "ro": "Stele Funerare Antice",
+            "en": "Stèles funéraires antiques"
+          },
+          "coords": [
+            4.214928,
+            43.686602
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit bei diesen antiken Grabstelen, die Einblicke in das gallorömische Leben bieten, am besten im Morgenlicht.",
+            "hu": "Lépjen vissza az időben ezen ősi sírkövek vizsgálatával, amelyek ritka bepillantást engednek a gall-római életbe, melyeket reggel érdemes fotózni.",
+            "ro": "Întoarceți-vă în timp examinând aceste stele funerare antice care oferă o privire rară asupra vieții galo-romane, excelente de fotografiat la amiază.",
+            "en": "Step back in time examining these ancient funerary steles that offer a rare glimpse into Gallo-Roman life, best photographed in the natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Camargue Einst",
+            "hu": "Egykori Camargue",
+            "ro": "Camargue de Odinioară",
+            "en": "Camargue Autrefois"
+          },
+          "coords": [
+            4.228421,
+            43.66737
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem Wahrzeichen in die Camargue-Kultur ein und nehmen Sie sich Zeit für die Ausstellungen über die Stier- und Pferdetraditionen.",
+            "hu": "Merüljön el a Camargue kultúrában ennél a lenyűgöző nevezetességnél, szánva egy percet a helyi bika- és lóhagyományokat bemutató kiállításokra.",
+            "ro": "Scufundați-vă în cultura tradițională Camargue la acest obiectiv fascinant, explorând cu atenție expozițiile despre tradițiile locale cu tauri și cai.",
+            "en": "Immerse yourself in traditional Camargue culture at this fascinating landmark, taking time to engage with displays about local bull and horse customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena von Le Cailar",
+            "hu": "Le Cailar Aréna",
+            "ro": "Arenele din Le Cailar",
+            "en": "Arènes du Cailar"
+          },
+          "coords": [
+            4.234901,
+            43.673814
+          ],
+          "category": "landmark",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das Herz der Course Camarguaise in dieser Stierkampfarena und stellen Sie sich die lebhaften lokalen Feste vor, während Sie sich ausruhen.",
+            "hu": "Tapasztalja meg a Course Camarguaise szívét ebben a történelmi arénában, elképzelve a nyüzsgő fesztiválokat, miközben az árnyékos lelátókon ül.",
+            "ro": "Experimentați inima Course Camarguaise la această arenă istorică, vizualizând festivalurile locale vibrante de pe tribunele umbrite din piatră.",
+            "en": "Experience the heart of Course Camarguaise at this historic bullring, visualizing vibrant local festivals while sitting on the shaded stone bleachers."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            4.237335,
+            43.674201
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Dorftour an dieser charmanten Kirche, achten Sie auf den klassischen Glockenturm und genießen Sie den ruhigen Platz vor Ort.",
+            "hu": "Zárja a falusi túrát ennél a bájos templomnál, megfigyelve a klasszikus harangtorony építészetét, és élvezve a nyugodt teret a továbbutazás előtt.",
+            "ro": "Încheiați turul satului la această biserică fermecătoare, remarcând arhitectura clasică a turnului și bucurându-vă de piațeta liniștită din jur.",
+            "en": "Conclude your village tour at this charming church, noting the classic bell tower architecture and enjoying the tranquil square before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Missignac",
+            "hu": "Missignac Romjai",
+            "ro": "Ruinele Missignac",
+            "en": "Missignac"
+          },
+          "coords": [
+            4.193489,
+            43.70458
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die tiefen historischen Wurzeln an dieser antiken Stätte; tragen Sie feste Schuhe, da das Gelände um die Ruinen recht uneben sein kann.",
+            "hu": "Fedezze fel a történelmi gyökereket ezen az ősi helyszínen; viseljen kényelmes cipőt, mivel a lenyűgöző romok körüli terep meglehetősen egyenetlen.",
+            "ro": "Explorați rădăcinile istorice adânci ale zonei la acest sit antic, purtând încălțăminte solidă, deoarece terenul din jurul ruinelor poate fi neregulat.",
+            "en": "Explore the deep historical roots of the area at this ancient site, wearing sturdy walking shoes as the terrain around these ruins can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt im Herzen von Aimargues an den zentralen Kirchen und Grabsteinen. Gegen Mittag radeln wir in Richtung Le Cailar, um die Traditionen der Stierkampfarena kennenzulernen. Am Nachmittag fahren wir hinaus in die Landschaft zu den antiken Ruinen von Missignac. Die Rückfahrt durch die Natur bildet den perfekten Ausklang des Tages.",
+        "hu": "Kerékpártúránk Aimargues szívében indul, a központi templomoknál és sírköveknél. Dél körül Le Cailar felé tekerünk, hogy megismerjük a bikaviadal-aréna hagyományait. Délután a vidékre kerekezünk Missignac ősi romjaihoz. A természeten keresztüli visszaút tökéletes befejezése a napnak.",
+        "ro": "Turul nostru cu bicicleta începe în inima orașului Aimargues, la bisericile centrale. În jurul prânzului pedalăm spre Le Cailar pentru a experimenta tradițiile arenei. După-amiaza ieșim în mediul rural către ruinele antice din Missignac. Plimbarea de întoarcere prin natură este o încheiere perfectă.",
+        "en": "Our cycling journey kicks off in central Aimargues among its spiritual and ancient stones. By midday, we roll towards Le Cailar to witness the iconic Camargue bullring heritage. The afternoon involves a longer, scenic ride out to the remote historical site of Missignac. The ride back serves as a pleasant evening wind-down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 11.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Aimargues",
+            "hu": "Aimargues Városháza",
+            "ro": "Primăria Aimargues",
+            "en": "Aimargues Town Hall"
+          },
+          "coords": [
+            4.209301,
+            43.684696
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem eleganten Rathaus, um das lokale Verwaltungserbe zu schätzen, und achten Sie auf die klassischen französischen Details.",
+            "hu": "Kezdje a napot ennél az elegáns városházánál, hogy megcsodálja a helyi közigazgatási örökséget, figyelve a klasszikus építészeti részletekre.",
+            "ro": "Începeți ziua la această clădire civică elegantă pentru a aprecia moștenirea administrativă locală, observând detaliile arhitecturale franceze clasice.",
+            "en": "Start your day at this elegant civic building to appreciate local administrative heritage, taking time to notice the classic French architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Grabstelen",
+            "hu": "Ősi Sírkövek",
+            "ro": "Stele Funerare Antice",
+            "en": "Stèles funéraires antiques"
+          },
+          "coords": [
+            4.214928,
+            43.686602
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit bei diesen antiken Grabstelen, die Einblicke in das gallorömische Leben bieten, am besten im Morgenlicht.",
+            "hu": "Lépjen vissza az időben ezen ősi sírkövek vizsgálatával, amelyek ritka bepillantást engednek a gall-római életbe, melyeket reggel érdemes fotózni.",
+            "ro": "Întoarceți-vă în timp examinând aceste stele funerare antice care oferă o privire rară asupra vieții galo-romane, excelente de fotografiat la amiază.",
+            "en": "Step back in time examining these ancient funerary steles that offer a rare glimpse into Gallo-Roman life, best photographed in the natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Missignac",
+            "hu": "Missignac Romjai",
+            "ro": "Ruinele Missignac",
+            "en": "Missignac"
+          },
+          "coords": [
+            4.193489,
+            43.70458
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die tiefen historischen Wurzeln an dieser antiken Stätte; tragen Sie feste Schuhe, da das Gelände um die Ruinen recht uneben sein kann.",
+            "hu": "Fedezze fel a történelmi gyökereket ezen az ősi helyszínen; viseljen kényelmes cipőt, mivel a lenyűgöző romok körüli terep meglehetősen egyenetlen.",
+            "ro": "Explorați rădăcinile istorice adânci ale zonei la acest sit antic, purtând încălțăminte solidă, deoarece terenul din jurul ruinelor poate fi neregulat.",
+            "en": "Explore the deep historical roots of the area at this ancient site, wearing sturdy walking shoes as the terrain around these ruins can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Alt-Saint-Gilles",
+            "hu": "Régi Saint-Gilles",
+            "ro": "Vechiul Saint-Gilles",
+            "en": "Saint-Gilles-le-Vieux"
+          },
+          "coords": [
+            4.191971,
+            43.70449
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das mittelalterliche Flüstern dieses ehrwürdigen historischen Ortes und bringen Sie ein Weitwinkelobjektiv mit, um Fragmente einzufangen.",
+            "hu": "Fedezze fel e tiszteletre méltó helyszín középkori suttogásait; hozzon magával nagylátószögű lencsét a fennmaradt építészeti töredékekhez.",
+            "ro": "Descoperiți șoaptele medievale ale acestei venerabile locații istorice, aducând o lentilă superangulară pentru a surprinde fragmentelor rămase.",
+            "en": "Uncover the medieval whispers of this venerable historical location, bringing a wide-angle lens to capture the impressive expanse of the fragments."
+          }
+        },
+        {
+          "name": {
+            "de": "Camargue Einst",
+            "hu": "Egykori Camargue",
+            "ro": "Camargue de Odinioară",
+            "en": "Camargue Autrefois"
+          },
+          "coords": [
+            4.228421,
+            43.66737
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem Wahrzeichen in die Camargue-Kultur ein und nehmen Sie sich Zeit für die Ausstellungen über die Stier- und Pferdetraditionen.",
+            "hu": "Merüljön el a Camargue kultúrában ennél a lenyűgöző nevezetességnél, szánva egy percet a helyi bika- és lóhagyományokat bemutató kiállításokra.",
+            "ro": "Scufundați-vă în cultura tradițională Camargue la acest obiectiv fascinant, explorând cu atenție expozițiile despre tradițiile locale cu tauri și cai.",
+            "en": "Immerse yourself in traditional Camargue culture at this fascinating landmark, taking time to engage with displays about local bull and horse customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena von Le Cailar",
+            "hu": "Le Cailar Aréna",
+            "ro": "Arenele din Le Cailar",
+            "en": "Arènes du Cailar"
+          },
+          "coords": [
+            4.234901,
+            43.673814
+          ],
+          "category": "landmark",
+          "arrive_at": "14:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das Herz der Course Camarguaise in dieser Stierkampfarena und stellen Sie sich die lebhaften lokalen Feste vor, während Sie sich ausruhen.",
+            "hu": "Tapasztalja meg a Course Camarguaise szívét ebben a történelmi arénában, elképzelve a nyüzsgő fesztiválokat, miközben az árnyékos lelátókon ül.",
+            "ro": "Experimentați inima Course Camarguaise la această arenă istorică, vizualizând festivalurile locale vibrante de pe tribunele umbrite din piatră.",
+            "en": "Experience the heart of Course Camarguaise at this historic bullring, visualizing vibrant local festivals while sitting on the shaded stone bleachers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf-Tempel",
+            "hu": "Falusi Templom",
+            "ro": "Templul Satului",
+            "en": "Temple"
+          },
+          "coords": [
+            4.236297,
+            43.673225
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schätzen Sie die ruhige Würde dieses Dorftempels, der ein Zeugnis der Religionsgeschichte ist, und betrachten Sie sein massives Mauerwerk genau.",
+            "hu": "Értékelje e falusi templom csendes méltóságát, amely a vallástörténet bizonyítéka; figyelje meg masszív kőfalait a tiszta dél-franciaországi égbolt alatt.",
+            "ro": "Apreciați demnitatea tăcută a acestui templu, o mărturie a istoriei religioase, observând zidăria sa solidă pe fundalul cerului sudic francez.",
+            "en": "Appreciate the quiet dignity of this village temple which stands as a testament to religious history, observing its solid stonework against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            4.237335,
+            43.674201
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Dorftour an dieser charmanten Kirche, achten Sie auf den klassischen Glockenturm und genießen Sie den ruhigen Platz vor Ort.",
+            "hu": "Zárja a falusi túrát ennél a bájos templomnál, megfigyelve a klasszikus harangtorony építészetét, és élvezve a nyugodt teret a továbbutazás előtt.",
+            "ro": "Încheiați turul satului la această biserică fermecătoare, remarcând arhitectura clasică a turnului și bucurându-vă de piațeta liniștită din jur.",
+            "en": "Conclude your village tour at this charming church, noting the classic bell tower architecture and enjoying the tranquil square before moving on."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen von Aimargues, wo das Rathaus und antike Monumente warten. Gegen Mittag fahren wir hinaus zu den bedeutenden Ruinen von Missignac, um die ferne Vergangenheit zu spüren. Der Nachmittag widmet sich den Traditionen im Camargue Autrefois und der imposanten Arena in Le Cailar. Den ruhigen Abschluss finden wir an den alten Dorfkirchen.",
+        "hu": "A nap Aimargues központjában indul, ahol a városháza és az ősi műemlékek várnak ránk. Délben kocsival Missignac lenyűgöző romjaihoz hajtunk, hogy átéljük a távoli múltat. A délutánt a Camargue hagyományainak és a Le Cailar-i arénának szenteljük. A békés befejezést a régi falusi templomok csendjében találjuk meg.",
+        "ro": "Ziua începe în inima orașului Aimargues cu primăria și monumentele antice. La prânz conducem spre ruinele din Missignac pentru a simți trecutul îndepărtat. După-amiaza este dedicată tradițiilor de la Camargue Autrefois și impunătoarei arene din Le Cailar. Încheiem liniștit vizitând vechile biserici din satele învecinate.",
+        "en": "The drive starts in central Aimargues, briefly touching on civic and ancient history. Midday involves a short trip to the sprawling ruins of Missignac and Saint-Gilles-le-Vieux. In the afternoon, we immerse ourselves in the vibrant traditions of the Camargue and its famous arenas. Evening approaches with quiet moments by old village churches."
+      }
+    }
+  }
+}

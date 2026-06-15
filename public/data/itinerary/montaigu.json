@@ -1,0 +1,474 @@
+{
+  "city_id": "montaigu",
+  "anchor": {
+    "name": "Montaigu",
+    "coords": [
+      -1.31,
+      46.9728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Caillauderie",
+            "hu": "Château de la Caillauderie",
+            "ro": "Château de la Caillauderie",
+            "en": "Château de la Caillauderie"
+          },
+          "coords": [
+            -1.311565,
+            46.973464
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
+            "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Brücke",
+            "hu": "Saint-Nicolas híd",
+            "ro": "Podul Saint-Nicolas",
+            "en": "Saint-Nicolas Bridge"
+          },
+          "coords": [
+            -1.318114,
+            46.974654
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
+            "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
+            "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Rochettes",
+            "hu": "Parc des Rochettes",
+            "ro": "Parcul Rochettes",
+            "en": "Parc des Rochettes"
+          },
+          "coords": [
+            -1.318321,
+            46.979881
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
+            "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Barillière",
+            "hu": "La Barillière",
+            "ro": "La Barillière",
+            "en": "La Barillière"
+          },
+          "coords": [
+            -1.298056,
+            46.976699
+          ],
+          "category": "castle",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den zeitlosen Charme dieses beeindruckenden Anwesens in der Landschaft und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu erkunden.",
+            "hu": "Fedezze fel e lenyűgöző birtok időtlen varázsát a táj szívében, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a körülötte lévő egyenetlen terepet.",
+            "ro": "Descoperiți farmecul atemporal al acestui domeniu impresionant și purtați încălțăminte confortabilă pentru a explora în siguranță terenul accidentat din jur.",
+            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Mühle",
+            "hu": "A Malom",
+            "ro": "Moara",
+            "en": "Moulin"
+          },
+          "coords": [
+            -1.290597,
+            46.972867
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Schönheit dieser historischen Mühle, und werfen Sie einen Blick auf die alten Wassermechanismen, die vom nahen Weg noch sichtbar sind.",
+            "hu": "Csodálja meg e történelmi malom rusztikus szépségét, amely egykor a helyi gazdaságot hajtotta, és figyelje meg a közeli ösvényről még látható régi vízimechanizmusokat.",
+            "ro": "Admirați frumusețea rustică a acestei mori istorice care alimenta economia locală odată și examinați vechile mecanisme de apă vizibile încă de pe cărarea din apropiere.",
+            "en": "Admire the rustic beauty of this historical mill that powered the local economy long ago, and check out the ancient water mechanisms still visible from the nearby path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang nahe dem Stadtkern und besuchen Sie das historische Château de la Caillauderie. \n\nÜberqueren Sie anschließend die alte Saint-Nicolas-Brücke, ein stummer Zeuge vergangener Jahrhunderte. \n\nVerbringen Sie den Nachmittag an der frischen Luft im Parc des Rochettes und erkunden Sie danach das Gelände von La Barillière. \n\nBeenden Sie Ihre Wanderung am frühen Abend bei der alten Mühle und lassen Sie die lokalen Eindrücke des Tages auf sich wirken.",
+        "hu": "Kezdje a reggelt egy laza sétával a városközpont közelében, meglátogatva a történelmi Château de la Caillauderie-t. \n\nFolytassa útját a vízparton, átkelve az ősi Saint-Nicolas hídon, amely évszázadok néma tanúja. \n\nTöltse a délutánt a friss levegőn, a Parc des Rochettes nyugalmában, majd fedezze fel a La Barillière rusztikus területét. \n\nZárja gyalogtúráját az esti órák közeledtével a régi Malomnál, elgondolkodva a helyi történelemmel teli, csodálatos napon.",
+        "ro": "Începeți dimineața cu o plimbare relaxată aproape de centrul orașului, vizitând istoricul Château de la Caillauderie. \n\nContinuați de-a lungul apei, traversând vechiul pod Saint-Nicolas, care stă ca un martor tăcut al secolelor trecute. \n\nPetreceți după-amiaza bucurându-vă de aer proaspăt în Parc des Rochettes, urmat de explorarea domeniului La Barillière. \n\nÎncheiați turul de mers pe jos spre seară la vechea Moară, reflectând la o zi petrecută complet în inima istoriei locale.",
+        "en": "Start your morning with a relaxed stroll near the town's core, visiting the historic Château de la Caillauderie. \n\nContinue by the water, crossing the ancient Saint-Nicolas Bridge which stands as a silent witness to centuries past. \n\nSpend your afternoon enjoying the fresh air and tranquility at Parc des Rochettes, followed by exploring the rustic grounds of La Barillière. \n\nConclude your walking tour as evening approaches at the old Moulin, reflecting on a day spent fully immersed in local history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Montaigu",
+            "hu": "Montaigu kastélya",
+            "ro": "Castelul Montaigu",
+            "en": "Castle of Montaigu"
+          },
+          "coords": [
+            -1.341538,
+            46.960681
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die imposanten Festungsruinen, die einst die Region verteidigten, und erklimmen Sie die verbleajhenden Zinnen für einen atemberaubenden Panoramablick.",
+            "hu": "Sétáljon végig az egykor a régiót védő lenyűgöző erődromokon, és másszon fel a megmaradt bástyákra, hogy lélegzetelállító panorámát fotózzon a völgyre.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale fortăreței care apărau cândva regiunea și urcați pe meterezele rămase pentru o panoramă uimitoare asupra văii.",
+            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Caillauderie",
+            "hu": "Château de la Caillauderie",
+            "ro": "Château de la Caillauderie",
+            "en": "Château de la Caillauderie"
+          },
+          "coords": [
+            -1.311565,
+            46.973464
+          ],
+          "category": "castle",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
+            "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Brücke",
+            "hu": "Saint-Nicolas híd",
+            "ro": "Podul Saint-Nicolas",
+            "en": "Saint-Nicolas Bridge"
+          },
+          "coords": [
+            -1.318114,
+            46.974654
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
+            "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
+            "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Rochettes",
+            "hu": "Parc des Rochettes",
+            "ro": "Parcul Rochettes",
+            "en": "Parc des Rochettes"
+          },
+          "coords": [
+            -1.318321,
+            46.979881
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
+            "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bois-Corbeau",
+            "hu": "Château de Bois-Corbeau",
+            "ro": "Château de Bois-Corbeau",
+            "en": "Château de Bois-Corbeau"
+          },
+          "coords": [
+            -1.291206,
+            46.990196
+          ],
+          "category": "castle",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses großen Schlosses inmitten weitläufiger Wälder und spazieren Sie den gesamten Umfang ab, um seine Größe zu erfassen.",
+            "hu": "Fedezze fel e hatalmas, erdőkkel körülvett kastély lenyűgöző történetét, és sétálja körbe a kerületét, hogy teljes mértékben értékelni tudja építészeti léptékét.",
+            "ro": "Descoperiți istoria fascinantă a acestui castel măreț înconjurat de păduri vaste și faceți o plimbare liniștită în jurul său pentru a-i aprecia dimensiunea arhitecturală.",
+            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale."
+          }
+        },
+        {
+          "name": {
+            "de": "La Barillière",
+            "hu": "La Barillière",
+            "ro": "La Barillière",
+            "en": "La Barillière"
+          },
+          "coords": [
+            -1.298056,
+            46.976699
+          ],
+          "category": "castle",
+          "arrive_at": "16:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den zeitlosen Charme dieses beeindruckenden Anwesens in der Landschaft und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu erkunden.",
+            "hu": "Fedezze fel e lenyűgöző birtok időtlen varázsát a táj szívében, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a körülötte lévő egyenetlen terepet.",
+            "ro": "Descoperiți farmecul atemporal al acestui domeniu impresionant și purtați încălțăminte confortabilă pentru a explora în siguranță terenul accidentat din jur.",
+            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum beeindruckenden Castle of Montaigu und spüren Sie die Morgenbrise bei den Festungsruinen. \n\nFahren Sie zurück ins Zentrum, um das Château de la Caillauderie zu bewundern, bevor Sie die malerische Saint-Nicolas-Brücke überqueren. \n\nGenießen Sie nachmittags die Natur im Parc des Rochettes und radeln Sie nach Norden zum Waldgut Château de Bois-Corbeau. \n\nLassen Sie das Radabenteuer mit einer gemütlichen Fahrt zur La Barillière ausklingen und beenden Sie einen aktiven Tag.",
+        "hu": "Tekerjen ki korán a lenyűgöző Montaigu kastélyhoz, és érezze a reggeli szellőt az ősi erődromok felfedezése közben. \n\nKerékpározzon vissza a központba, hogy megcsodálja a Château de la Caillauderie-t, majd keljen át a festői Saint-Nicolas hídon. \n\nDélután élvezze a természetet a Parc des Rochettes-ben, majd tekerjen északra a Château de Bois-Corbeau hatalmas erdei birtokához. \n\nZárja kerékpáros kalandját egy egyenletes úttal a La Barillière felé, befejezve egy aktív és élményekkel teli napot.",
+        "ro": "Pedalați devreme spre impresionantul Castel Montaigu, simțind briza dimineții în timp ce explorați ruinele antice. \n\nÎntoarceți-vă spre centru pentru a admira Château de la Caillauderie înainte de a traversa pitorescul pod Saint-Nicolas. \n\nDupă-amiaza, faceți o pauză în natură la Parc des Rochettes, apoi pedalați spre nord pentru a descoperi Château de Bois-Corbeau. \n\nÎncheiați aventura pe două roți cu o cursă liniștită spre La Barillière, finalizând o zi activă și satisfăcătoare.",
+        "en": "Pedal out early to the impressive Castle of Montaigu, feeling the morning breeze as you explore the ancient defensive ruins. \n\nRide back toward the center to marvel at Château de la Caillauderie before crossing the picturesque Saint-Nicolas Bridge. \n\nIn the afternoon, enjoy a nature break at Parc des Rochettes and then cycle north to uncover the vast woodland estate of Château de Bois-Corbeau. \n\nWind down your biking adventure with a steady ride to La Barillière, wrapping up an active and fulfilling day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus des Flusses",
+            "hu": "A Folyó Háza",
+            "ro": "Casa Râului",
+            "en": "Maison de la Rivière"
+          },
+          "coords": [
+            -1.293792,
+            46.948581
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Lernen Sie das lebendige Flussökosystem an diesem faszinierenden Wahrzeichen kennen, und mieten Sie ein kleines Boot oder nehmen Sie an einer geführten Tour teil.",
+            "hu": "Ismerje meg a nyüzsgő folyami ökoszisztémát ezen az érdekes helyszínen, és próbáljon meg bérelni egy kis csónakot, ha az évszakos kínálat lehetővé teszi.",
+            "ro": "Aflați despre ecosistemul vibrant al râului la acest obiectiv captivant și încercați să închiriați o barcă mică dacă programul sezonier o permite.",
+            "en": "Learn about the vibrant river ecosystem at this engaging landmark site, and try to rent a small boat or join a guided aquatic tour if the seasonal schedule permits."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Saint-Georges",
+            "hu": "Saint-Georges-de-Montaigu Városháza",
+            "ro": "Primăria din Saint-Georges",
+            "en": "Saint-Georges Town Hall"
+          },
+          "coords": [
+            -1.297098,
+            46.947522
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses wichtigen lokalen Verwaltungsgebäudes und achten Sie auf die aufwendigen Details der Fassade, die das Erbe der Region widerspiegeln.",
+            "hu": "Csodálja meg e fontos helyi közigazgatási épület civil építészetét, és figyelje meg a homlokzat bonyolult részleteit, amelyek a régió büszke örökségét tükrözik.",
+            "ro": "Admirați arhitectura civică a acestui important punct de reper administrativ local și observați detaliile complicate de pe fațadă care reflectă moștenirea regiunii.",
+            "en": "Admire the civic architecture of this important local administrative landmark, and notice the intricate detailing on the facade that reflects the region's proud heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Montaigu",
+            "hu": "Montaigu kastélya",
+            "ro": "Castelul Montaigu",
+            "en": "Castle of Montaigu"
+          },
+          "coords": [
+            -1.341538,
+            46.960681
+          ],
+          "category": "fortress",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die imposanten Festungsruinen, die einst die Region verteidigten, und erklimmen Sie die verbleibenden Zinnen für einen atemberaubenden Panoramablick.",
+            "hu": "Sétáljon végig az egykor a régiót védő lenyűgöző erődromokon, és másszon fel a megmaradt bástyákra, hogy lélegzetelállító panorámát fotózzon a völgyre.",
+            "ro": "Plimbați-vă prin ruinele impunătoare ale fortăreței care apărau cândva regiunea și urcați pe meterezele rămase pentru o panoramă uimitoare asupra văii.",
+            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Brücke",
+            "hu": "Saint-Nicolas híd",
+            "ro": "Podul Saint-Nicolas",
+            "en": "Saint-Nicolas Bridge"
+          },
+          "coords": [
+            -1.318114,
+            46.974654
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
+            "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
+            "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Rochettes",
+            "hu": "Parc des Rochettes",
+            "ro": "Parcul Rochettes",
+            "en": "Parc des Rochettes"
+          },
+          "coords": [
+            -1.318321,
+            46.979881
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
+            "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bois-Corbeau",
+            "hu": "Château de Bois-Corbeau",
+            "ro": "Château de Bois-Corbeau",
+            "en": "Château de Bois-Corbeau"
+          },
+          "coords": [
+            -1.291206,
+            46.990196
+          ],
+          "category": "castle",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses großen Schlosses inmitten weitläufiger Wälder und spazieren Sie den gesamten Umfang ab, um seine Größe zu erfassen.",
+            "hu": "Fedezze fel e hatalmas, erdőkkel körülvett kastély lenyűgöző történetét, és sétálja körbe a kerületét, hogy teljes mértékben értékelni tudja építészeti léptékét.",
+            "ro": "Descoperiți istoria fascinantă a acestui castel măreț înconjurat de păduri vaste și faceți o plimbare liniștită în jurul său pentru a-i aprecia dimensiunea arhitecturală.",
+            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Caillauderie",
+            "hu": "Château de la Caillauderie",
+            "ro": "Château de la Caillauderie",
+            "en": "Château de la Caillauderie"
+          },
+          "coords": [
+            -1.311565,
+            46.973464
+          ],
+          "category": "castle",
+          "arrive_at": "17:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
+            "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Süden, um den Tag im Maison de la Rivière zu beginnen und die aquatische Schönheit der Region aufzusaugen. \n\nBesuchen Sie kurz die Mairie déléguée de Saint-Georges, bevor Sie nach Westen zum formidablen Castle of Montaigu fahren. \n\nFahren Sie am Nachmittag ins Zentrum zur Saint-Nicolas-Brücke und entspannen Sie sich im Parc des Rochettes. \n\nBeenden Sie Ihre Fahrt mit späten Nachmittagsbesuchen des majestätischen Château de Bois-Corbeau und des ruhigen Château de la Caillauderie.",
+        "hu": "Vezessen délre, és kezdje a napot a Maison de la Rivière-nél, hogy magába szívja a régió vízi szépségeit. \n\nUgorjon át a Mairie déléguée de Saint-Georges-hoz, mielőtt nyugatra hajtana a félelmetes Montaigu kastélyhoz egy déli felfedezésre. \n\nDélután induljon a központba a Saint-Nicolas híd felé, és pihenjen meg a Parc des Rochettes buja tájain. \n\nFejezze be autós körútját egy késő délutáni látogatással a fenséges Château de Bois-Corbeau-nál és a békés Château de la Caillauderie-nél.",
+        "ro": "Conduceți spre sud pentru a începe ziua la Maison de la Rivière, bucurându-vă de frumusețea acvatică a regiunii. \n\nFaceți o scurtă oprire la Mairie déléguée de Saint-Georges, apoi mergeți spre vest pentru a explora formidabilul Castel Montaigu. \n\nDupă-amiaza, conduceți spre centru pentru a traversa podul Saint-Nicolas și a vă relaxa în Parcul des Rochettes. \n\nÎncheiați turul cu mașina vizitând maiestuosul Château de Bois-Corbeau și, în final, seninul Château de la Caillauderie la sfârșitul zilei.",
+        "en": "Drive down south to start your day at the Maison de la Rivière, soaking in the aquatic beauty of the region. \n\nQuickly hop over to the Mairie déléguée de Saint-Georges before cruising west to the formidable Castle of Montaigu for some midday exploration. \n\nDrive centrally in the afternoon to traverse Saint-Nicolas Bridge and relax at Parc des Rochettes, catching your breath amid lush scenery. \n\nFinish your driving loop with late afternoon visits to the majestic Château de Bois-Corbeau and finally the serene Château de la Caillauderie."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "france-larvor-cities-v2",
+  "anchor": {
+    "name": "Larvor",
+    "coords": [
+      -4.18389,
+      47.80432
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Poulluen",
+            "hu": "Plage de Poulluen",
+            "ro": "Plage de Poulluen",
+            "en": "Plage de Poulluen"
+          },
+          "coords": [
+            -4.178541,
+            47.804143
+          ],
+          "category": "recreational",
+          "arrive_at": "09:06",
+          "stay_min": 85,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen morgendlichen Wellen an diesem versteckten Sandstrand, der perfekte Stille bietet, wenn Sie früh mit einem Handtuch anreisen.",
+            "hu": "Élvezze a csendes reggeli hullámokat ezen a rejtett homokos partszakaszon, amely tökéletes nyugalmat kínál, ha korán érkezik és hoz saját törölközőt.",
+            "ro": "Bucurați-vă de valurile dimineții pe această plajă de nisip ascunsă, care oferă o liniște perfectă dacă ajungeți devreme cu propriul prosop.",
+            "en": "Enjoy the serene morning waves at this hidden sandy stretch, which offers perfect tranquility if you arrive early and bring your own beach towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Quido",
+            "hu": "Chapelle Saint-Quido",
+            "ro": "Chapelle Saint-Quido",
+            "en": "Chapelle Saint-Quido"
+          },
+          "coords": [
+            -4.188878,
+            47.802688
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Steinarchitektur dieser bretonischen Kapelle, ein Symbol des lokalen Glaubens, aber prüfen Sie das Schild für Öffnungszeiten.",
+            "hu": "Csodálja meg e történelmi breton kápolna rusztikus kőépítészetét, a helyi hit szimbólumát, de feltétlenül ellenőrizze az információs táblán a nyitvatartást.",
+            "ro": "Admirați arhitectura rustică din piatră a acestei capele bretone, un simbol al credinței locale, dar asigurați-vă că verificați panoul pentru program.",
+            "en": "Admire the rustic stone architecture of this historic Breton chapel, a true symbol of local faith, but be sure to check the small notice board for opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Larvor",
+            "hu": "Plage de Larvor",
+            "ro": "Plage de Larvor",
+            "en": "Plage de Larvor"
+          },
+          "coords": [
+            -4.183756,
+            47.800626
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses beliebten Strandes, bekannt für seine sanfte Brise, und packen Sie Sonnencreme ein, da der Schatten begrenzt ist.",
+            "hu": "Pihenjen e népszerű helyi strand aranyhomokján, amely lágy parti szellőiről ismert, és ne felejtsen el naptejet csomagolni, mivel az árnyék korlátozott.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, cunoscută pentru briza sa blândă, și nu uitați să luați cremă de soare, deoarece umbra este rară.",
+            "en": "Relax on the golden sands of this popular local beach, known for its gentle coastal breeze, and remember to pack some sunscreen as shade is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Blancs",
+            "hu": "Plage des Sables Blancs",
+            "ro": "Plage des Sables Blancs",
+            "en": "Plage des Sables Blancs"
+          },
+          "coords": [
+            -4.204539,
+            47.798999
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des weißen Sandes, der dieser Bucht ihren Namen gibt, und tragen Sie Wasserschuhe, um die felsigen Gezeitentümpel leicht zu erkunden.",
+            "hu": "Sétáljon végig a ragyogó fehér homokon, amelyről a lenyűgöző öböl a nevét kapta, és viseljen vízicipőt a sziklás árapály-medencék felfedezéséhez.",
+            "ro": "Plimbați-vă pe nisipul alb strălucitor care dă numele acestui golf spectaculos și purtați încălțăminte de apă pentru a explora ușor bazinele stâncoase.",
+            "en": "Stroll along the brilliant white sands that give this spectacular bay its name, and wear comfortable water shoes to easily explore the rocky tide pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Men ar Groas",
+            "hu": "Menhir de Men ar Groas",
+            "ro": "Menhir de Men ar Groas",
+            "en": "Menhir de Men ar Groas"
+          },
+          "coords": [
+            -4.212158,
+            47.796695
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der seit Jahrtausenden über die Landschaft wacht, und besuchen Sie ihn zur goldenen Stunde für dramatische Fotos.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta őrzi a tájat, és próbáljon meg az aranyórában érkezni, hogy igazán drámai fényképeket készíthessen.",
+            "ro": "Minunați-vă de această piatră antică ce veghează peisajul de milenii și încercați să o vizitați la ora de aur pentru fotografii cu adevărat dramatice.",
+            "en": "Marvel at this ancient standing stone that has watched over the landscape for millennia, and try visiting during golden hour for truly dramatic photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der frischen Küstenbrise von Larvor. Spazieren Sie gemütlich an den östlichen Stränden entlang und genießen Sie die ruhige Aussicht auf den Ozean, bevor Sie die bretonische Architektur lokaler Kapellen erkunden.\n\nWenn der Mittag naht, folgen Sie der rauen Küste weiter nach Westen. Genießen Sie die weiten Sandbuchten, die die Sonne perfekt einfangen, und entspannen Sie sich neben der atemberaubenden Brandung des Atlantiks.\n\nDer Nachmittag wird historisch, wenn Sie ins Landesinnere gehen, um alte Menhire zu entdecken. Diese prähistorischen Monolithen stehen als stumme Wächter über der Landschaft und bieten ein tiefes Gefühl antiker Mystik.\n\nBeenden Sie Ihre Reise im schwindenden Licht und reflektieren Sie über die Mischung aus natürlicher Küstenschönheit und neolithischen Wundern. Die friedliche Dämmerung in der Bretagne rundet den Tag perfekt ab.",
+        "hu": "Kezdje a reggelt a friss tengerparti szellőben Larvorban. Sétáljon kényelmesen a keleti strandok mentén, élvezve a nyugodt óceáni kilátást, mielőtt felfedezné a helyi kápolnák bájos, hagyományos breton építészetét.\n\nAhogy közeledik a dél, kövesse tovább a zord partvonalat nyugat felé. Élvezze a hatalmas homokos öblöket, amelyek tökéletesen fogják be a napfényt, és pihenjen az Atlanti-óceán lenyűgöző hullámai mellett.\n\nA délután történelmi fordulatot vesz, amikor a szárazföld belsejében ősi állóköveket fedez fel. Ezek a történelem előtti monolitok néma őrszemként állnak a táj felett, és az ősi rejtélyek mély érzését nyújtják.\n\nFejezze be utazását a halványuló fényben, átgondolva a természeti szépség és a neolitikus csodák egyedülálló keverékét. A békés bretagne-i szürkület tökéletesen zárja le ezt az emlékezetes kirándulást.",
+        "ro": "Începeți dimineața în briza proaspătă de coastă din Larvor. Plimbați-vă ușor pe plajele estice, admirând vederea liniștită a oceanului, înainte de a explora arhitectura bretonă fermecătoare a capelelor locale.\n\nOdată cu apropierea prânzului, continuați pe coasta stâncoasă spre vest. Bucurați-vă de golfurile largi de nisip care captează perfect soarele, permițând momente relaxante alături de valurile Oceanului Atlantic.\n\nDupă-amiaza ia o turnură istorică, mergând spre interior pentru a descoperi pietre antice ridicate. Acești monoliți preistorici stau ca niște santinele tăcute peste peisaj, oferind un sentiment profund de mister.\n\nÎncheiați-vă călătoria sub lumina blândă a amurgului, reflectând la amestecul zilei de frumusețe de coastă și minuni neolitice. Crepusculul pașnic din Bretania încheie perfect o excursie de neuitat.",
+        "en": "Begin your morning immersing yourself in the fresh coastal breeze of Larvor. Stroll gently along the eastern beaches, taking in the tranquil ocean views before exploring the charming Breton architecture of local chapels.\n\nAs midday approaches, continue tracing the rugged coastline westwards. Enjoy the expansive sandy bays that perfectly capture the sun, allowing for some relaxing moments beside the Atlantic surf.\n\nThe afternoon takes a historical turn as you step inland to discover ancient standing stones. These prehistoric monoliths stand as silent sentinels over the landscape, offering a profound sense of ancient mystery.\n\nConclude your journey under the fading light, reflecting on the day's mix of natural coastal beauty and Neolithic wonders. The peaceful twilight in Brittany perfectly caps off a memorable day trip."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Quido",
+            "hu": "Chapelle Saint-Quido",
+            "ro": "Chapelle Saint-Quido",
+            "en": "Chapelle Saint-Quido"
+          },
+          "coords": [
+            -4.188878,
+            47.802688
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Steinarchitektur dieser bretonischen Kapelle, ein Symbol des lokalen Glaubens, aber prüfen Sie das Schild für Öffnungszeiten.",
+            "hu": "Csodálja meg e történelmi breton kápolna rusztikus kőépítészetét, a helyi hit szimbólumát, de feltétlenül ellenőrizze az információs táblán a nyitvatartást.",
+            "ro": "Admirați arhitectura rustică din piatră a acestei capele bretone, un simbol al credinței locale, dar asigurați-vă că verificați panoul pentru program.",
+            "en": "Admire the rustic stone architecture of this historic Breton chapel, a true symbol of local faith, but be sure to check the small notice board for opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Larvor",
+            "hu": "Plage de Larvor",
+            "ro": "Plage de Larvor",
+            "en": "Plage de Larvor"
+          },
+          "coords": [
+            -4.183756,
+            47.800626
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses beliebten Strandes, bekannt für seine sanfte Brise, und packen Sie Sonnencreme ein, da der Schatten begrenzt ist.",
+            "hu": "Pihenjen e népszerű helyi strand aranyhomokján, amely lágy parti szellőiről ismert, és ne felejtsen el naptejet csomagolni, mivel az árnyék korlátozott.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, cunoscută pentru briza sa blândă, și nu uitați să luați cremă de soare, deoarece umbra este rară.",
+            "en": "Relax on the golden sands of this popular local beach, known for its gentle coastal breeze, and remember to pack some sunscreen as shade is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Blancs",
+            "hu": "Plage des Sables Blancs",
+            "ro": "Plage des Sables Blancs",
+            "en": "Plage des Sables Blancs"
+          },
+          "coords": [
+            -4.204539,
+            47.798999
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des weißen Sandes, der dieser Bucht ihren Namen gibt, und tragen Sie Wasserschuhe, um die felsigen Gezeitentümpel leicht zu erkunden.",
+            "hu": "Sétáljon végig a ragyogó fehér homokon, amelyről a lenyűgöző öböl a nevét kapta, és viseljen vízicipőt a sziklás árapály-medencék felfedezéséhez.",
+            "ro": "Plimbați-vă pe nisipul alb strălucitor care dă numele acestui golf spectaculos și purtați încălțăminte de apă pentru a explora ușor bazinele stâncoase.",
+            "en": "Stroll along the brilliant white sands that give this spectacular bay its name, and wear comfortable water shoes to easily explore the rocky tide pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Men ar Groas",
+            "hu": "Menhir de Men ar Groas",
+            "ro": "Menhir de Men ar Groas",
+            "en": "Menhir de Men ar Groas"
+          },
+          "coords": [
+            -4.212158,
+            47.796695
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der seit Jahrtausenden über die Landschaft wacht, und besuchen Sie ihn zur goldenen Stunde für dramatische Fotos.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta őrzi a tájat, és próbáljon meg az aranyórában érkezni, hogy igazán drámai fényképeket készíthessen.",
+            "ro": "Minunați-vă de această piatră antică ce veghează peisajul de milenii și încercați să o vizitați la ora de aur pentru fotografii cu adevărat dramatice.",
+            "en": "Marvel at this ancient standing stone that has watched over the landscape for millennia, and try visiting during golden hour for truly dramatic photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Quatre Vents",
+            "hu": "Plage des Quatre Vents",
+            "ro": "Plage des Quatre Vents",
+            "en": "Plage des Quatre Vents"
+          },
+          "coords": [
+            -4.21237,
+            47.798912
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die erfrischenden Küstenwinde an dieser rauen, wunderschönen Küste, wo eine robuste Windjacke Sie während Ihres Spaziergangs warm hält.",
+            "hu": "Tapasztalja meg a frissítő parti szeleket ezen a zordul szép partszakaszon, ahol egy masszív széldzseki kényelmesen tartja Önt a sétája során.",
+            "ro": "Experimentați vânturile de coastă revigorante pe acest țărm de o frumusețe sălbatică, unde o jachetă de vânt vă va menține confortabil în timpul plimbării.",
+            "en": "Experience the refreshing coastal winds at this ruggedly beautiful shoreline, where a sturdy windbreaker will keep you comfortable during your coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Steir-Nibilic",
+            "hu": "Menhir Steir-Nibilic",
+            "ro": "Menhir Steir-Nibilic",
+            "en": "Menhir Steir-Nibilic"
+          },
+          "coords": [
+            -4.214286,
+            47.800118
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende prähistorische Denkmal inmitten der bretonischen Vegetation und tragen Sie lange Hosen, um den Weg leicht zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti emlékművet a breton növényzetben, és viseljen hosszú nadrágot, hogy kényelmesen navigálhasson az ösvényen.",
+            "ro": "Descoperiți acest fascinant monument preistoric ascuns printre vegetația bretonă și purtați pantaloni lungi pentru a naviga confortabil pe cărarea îngustă.",
+            "en": "Discover this fascinating prehistoric monument hidden amid the Breton vegetation, and wear long trousers to comfortably navigate the slightly overgrown path."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Menez-Veil (B)",
+            "hu": "Dolmen de Menez-Veil (B)",
+            "ro": "Dolmen de Menez-Veil (B)",
+            "en": "Dolmen de Menez-Veil (B)"
+          },
+          "coords": [
+            -4.213869,
+            47.801339
+          ],
+          "category": "historical",
+          "arrive_at": "16:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem beeindruckenden Steingrab in die Jungsteinzeit zurück und betrachten Sie den massiven Deckstein, der antike Ingenieurskunst zeigt.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző kősírvölgy-kamránál, és feltétlenül vizsgálja meg a hatalmas fedőkövet, amely az ősi mérnöki munkát dicséri.",
+            "ro": "Pășiți în era neolitică la această impresionantă cameră funerară din piatră și asigurați-vă că inspectați lespedea masivă ce evidențiază ingineria antică.",
+            "en": "Step back into the Neolithic era at this impressive stone burial chamber, and be sure to inspect the massive capstone which highlights incredible ancient engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der frischen Küstenbrise von Larvor. Spazieren Sie gemütlich an den östlichen Stränden entlang und genießen Sie die ruhige Aussicht auf den Ozean, bevor Sie die bretonische Architektur lokaler Kapellen erkunden.\n\nWenn der Mittag naht, folgen Sie der rauen Küste weiter nach Westen. Genießen Sie die weiten Sandbuchten, die die Sonne perfekt einfangen, und entspannen Sie sich neben der atemberaubenden Brandung des Atlantiks.\n\nDer Nachmittag wird historisch, wenn Sie ins Landesinnere gehen, um alte Menhire zu entdecken. Diese prähistorischen Monolithen stehen als stumme Wächter über der Landschaft und bieten ein tiefes Gefühl antiker Mystik.\n\nBeenden Sie Ihre Reise im schwindenden Licht und reflektieren Sie über die Mischung aus natürlicher Küstenschönheit und neolithischen Wundern. Die friedliche Dämmerung in der Bretagne rundet den Tag perfekt ab.",
+        "hu": "Kezdje a reggelt a friss tengerparti szellőben Larvorban. Sétáljon kényelmesen a keleti strandok mentén, élvezve a nyugodt óceáni kilátást, mielőtt felfedezné a helyi kápolnák bájos, hagyományos breton építészetét.\n\nAhogy közeledik a dél, kövesse tovább a zord partvonalat nyugat felé. Élvezze a hatalmas homokos öblöket, amelyek tökéletesen fogják be a napfényt, és pihenjen az Atlanti-óceán lenyűgöző hullámai mellett.\n\nA délután történelmi fordulatot vesz, amikor a szárazföld belsejében ősi állóköveket fedez fel. Ezek a történelem előtti monolitok néma őrszemként állnak a táj felett, és az ősi rejtélyek mély érzését nyújtják.\n\nFejezze be utazását a halványuló fényben, átgondolva a természeti szépség és a neolitikus csodák egyedülálló keverékét. A békés bretagne-i szürkület tökéletesen zárja le ezt az emlékezetes kirándulást.",
+        "ro": "Începeți dimineața în briza proaspătă de coastă din Larvor. Plimbați-vă ușor pe plajele estice, admirând vederea liniștită a oceanului, înainte de a explora arhitectura bretonă fermecătoare a capelelor locale.\n\nOdată cu apropierea prânzului, continuați pe coasta stâncoasă spre vest. Bucurați-vă de golfurile largi de nisip care captează perfect soarele, permițând momente relaxante alături de valurile Oceanului Atlantic.\n\nDupă-amiaza ia o turnură istorică, mergând spre interior pentru a descoperi pietre antice ridicate. Acești monoliți preistorici stau ca niște santinele tăcute peste peisaj, oferind un sentiment profund de mister.\n\nÎncheiați-vă călătoria sub lumina blândă a amurgului, reflectând la amestecul zilei de frumusețe de coastă și minuni neolitice. Crepusculul pașnic din Bretania încheie perfect o excursie de neuitat.",
+        "en": "Begin your morning immersing yourself in the fresh coastal breeze of Larvor. Stroll gently along the eastern beaches, taking in the tranquil ocean views before exploring the charming Breton architecture of local chapels.\n\nAs midday approaches, continue tracing the rugged coastline westwards. Enjoy the expansive sandy bays that perfectly capture the sun, allowing for some relaxing moments beside the Atlantic surf.\n\nThe afternoon takes a historical turn as you step inland to discover ancient standing stones. These prehistoric monoliths stand as silent sentinels over the landscape, offering a profound sense of ancient mystery.\n\nConclude your journey under the fading light, reflecting on the day's mix of natural coastal beauty and Neolithic wonders. The peaceful twilight in Brittany perfectly caps off a memorable day trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:07",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Quido",
+            "hu": "Chapelle Saint-Quido",
+            "ro": "Chapelle Saint-Quido",
+            "en": "Chapelle Saint-Quido"
+          },
+          "coords": [
+            -4.188878,
+            47.802688
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Steinarchitektur dieser bretonischen Kapelle, ein Symbol des lokalen Glaubens, aber prüfen Sie das Schild für Öffnungszeiten.",
+            "hu": "Csodálja meg e történelmi breton kápolna rusztikus kőépítészetét, a helyi hit szimbólumát, de feltétlenül ellenőrizze az információs táblán a nyitvatartást.",
+            "ro": "Admirați arhitectura rustică din piatră a acestei capele bretone, un simbol al credinței locale, dar asigurați-vă că verificați panoul pentru program.",
+            "en": "Admire the rustic stone architecture of this historic Breton chapel, a true symbol of local faith, but be sure to check the small notice board for opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Brieuc de Plonivel",
+            "hu": "Chapelle Saint-Brieuc de Plonivel",
+            "ro": "Chapelle Saint-Brieuc de Plonivel",
+            "en": "Chapelle Saint-Brieuc de Plonivel"
+          },
+          "coords": [
+            -4.212552,
+            47.814929
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Einsamkeit in dieser wunderschön erhaltenen Landkapelle und achten Sie auf das feine Mauerwerk, während Sie respektvoll schweigen.",
+            "hu": "Élvezze a békés magányt ebben a gyönyörűen megőrzött vidéki kápolnában, megfigyelve annak finom kőmunkáját, miközben tiszteletteljes csendet tart.",
+            "ro": "Bucurați-vă de singurătatea pașnică la această capelă de țară frumos conservată, observând detaliile din piatră în timp ce păstrați o tăcere respectuoasă.",
+            "en": "Enjoy the peaceful solitude at this beautifully preserved countryside chapel, noting its delicate stonework while maintaining a respectful silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "menhir couché de Kerdalaë-Plonivel",
+            "hu": "menhir couché de Kerdalaë-Plonivel",
+            "ro": "menhir couché de Kerdalaë-Plonivel",
+            "en": "menhir couché de Kerdalaë-Plonivel"
+          },
+          "coords": [
+            -4.200799,
+            47.81489
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen einzigartigen gefallenen stehenden Stein, der ruhig in der Landschaft ruht, und schätzen Sie seine massive Größe aus der Nähe.",
+            "hu": "Vizsgálja meg ezt az egyedülálló, fekvő állókövet, amely csendesen pihen a tájon, kiváló lehetőséget adva arra, hogy közelről értékelje hatalmas méretét.",
+            "ro": "Examinați acest menhir căzut unic care se odihnește liniștit în peisaj, oferind o oportunitate excelentă de a-i aprecia scara masivă de aproape.",
+            "en": "Examine this unique fallen standing stone resting quietly in the landscape, providing a great opportunity to appreciate its massive scale up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Menez-Veil (B)",
+            "hu": "Dolmen de Menez-Veil (B)",
+            "ro": "Dolmen de Menez-Veil (B)",
+            "en": "Dolmen de Menez-Veil (B)"
+          },
+          "coords": [
+            -4.213869,
+            47.801339
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem beeindruckenden Steingrab in die Jungsteinzeit zurück und betrachten Sie den massiven Deckstein, der antike Ingenieurskunst zeigt.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző kősírvölgy-kamránál, és feltétlenül vizsgálja meg a hatalmas fedőkövet, amely az ősi mérnöki munkát dicséri.",
+            "ro": "Pășiți în era neolitică la această impresionantă cameră funerară din piatră și asigurați-vă că inspectați lespedea masivă ce evidențiază ingineria antică.",
+            "en": "Step back into the Neolithic era at this impressive stone burial chamber, and be sure to inspect the massive capstone which highlights incredible ancient engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Steir-Nibilic",
+            "hu": "Menhir Steir-Nibilic",
+            "ro": "Menhir Steir-Nibilic",
+            "en": "Menhir Steir-Nibilic"
+          },
+          "coords": [
+            -4.214286,
+            47.800118
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende prähistorische Denkmal inmitten der bretonischen Vegetation und tragen Sie lange Hosen, um den Weg leicht zu bewältigen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelem előtti emlékművet a breton növényzetben, és viseljen hosszú nadrágot, hogy kényelmesen navigálhasson az ösvényen.",
+            "ro": "Descoperiți acest fascinant monument preistoric ascuns printre vegetația bretonă și purtați pantaloni lungi pentru a naviga confortabil pe cărarea îngustă.",
+            "en": "Discover this fascinating prehistoric monument hidden amid the Breton vegetation, and wear long trousers to comfortably navigate the slightly overgrown path."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Quatre Vents",
+            "hu": "Plage des Quatre Vents",
+            "ro": "Plage des Quatre Vents",
+            "en": "Plage des Quatre Vents"
+          },
+          "coords": [
+            -4.21237,
+            47.798912
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die erfrischenden Küstenwinde an dieser rauen, wunderschönen Küste, wo eine robuste Windjacke Sie während Ihres Spaziergangs warm hält.",
+            "hu": "Tapasztalja meg a frissítő parti szeleket ezen a zordul szép partszakaszon, ahol egy masszív széldzseki kényelmesen tartja Önt a sétája során.",
+            "ro": "Experimentați vânturile de coastă revigorante pe acest țărm de o frumusețe sălbatică, unde o jachetă de vânt vă va menține confortabil în timpul plimbării.",
+            "en": "Experience the refreshing coastal winds at this ruggedly beautiful shoreline, where a sturdy windbreaker will keep you comfortable during your coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Men ar Groas",
+            "hu": "Menhir de Men ar Groas",
+            "ro": "Menhir de Men ar Groas",
+            "en": "Menhir de Men ar Groas"
+          },
+          "coords": [
+            -4.212158,
+            47.796695
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der seit Jahrtausenden über die Landschaft wacht, und besuchen Sie ihn zur goldenen Stunde für dramatische Fotos.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta őrzi a tájat, és próbáljon meg az aranyórában érkezni, hogy igazán drámai fényképeket készíthessen.",
+            "ro": "Minunați-vă de această piatră antică ce veghează peisajul de milenii și încercați să o vizitați la ora de aur pentru fotografii cu adevărat dramatice.",
+            "en": "Marvel at this ancient standing stone that has watched over the landscape for millennia, and try visiting during golden hour for truly dramatic photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Sables Blancs",
+            "hu": "Plage des Sables Blancs",
+            "ro": "Plage des Sables Blancs",
+            "en": "Plage des Sables Blancs"
+          },
+          "coords": [
+            -4.204539,
+            47.798999
+          ],
+          "category": "recreational",
+          "arrive_at": "17:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des weißen Sandes, der dieser Bucht ihren Namen gibt, und tragen Sie Wasserschuhe, um die felsigen Gezeitentümpel leicht zu erkunden.",
+            "hu": "Sétáljon végig a ragyogó fehér homokon, amelyről a lenyűgöző öböl a nevét kapta, és viseljen vízicipőt a sziklás árapály-medencék felfedezéséhez.",
+            "ro": "Plimbați-vă pe nisipul alb strălucitor care dă numele acestui golf spectaculos și purtați încălțăminte de apă pentru a explora ușor bazinele stâncoase.",
+            "en": "Stroll along the brilliant white sands that give this spectacular bay its name, and wear comfortable water shoes to easily explore the rocky tide pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der frischen Küstenbrise von Larvor. Spazieren Sie gemütlich an den östlichen Stränden entlang und genießen Sie die ruhige Aussicht auf den Ozean, bevor Sie die bretonische Architektur lokaler Kapellen erkunden.\n\nWenn der Mittag naht, folgen Sie der rauen Küste weiter nach Westen. Genießen Sie die weiten Sandbuchten, die die Sonne perfekt einfangen, und entspannen Sie sich neben der atemberaubenden Brandung des Atlantiks.\n\nDer Nachmittag wird historisch, wenn Sie ins Landesinnere gehen, um alte Menhire zu entdecken. Diese prähistorischen Monolithen stehen als stumme Wächter über der Landschaft und bieten ein tiefes Gefühl antiker Mystik.\n\nBeenden Sie Ihre Reise im schwindenden Licht und reflektieren Sie über die Mischung aus natürlicher Küstenschönheit und neolithischen Wundern. Die friedliche Dämmerung in der Bretagne rundet den Tag perfekt ab.",
+        "hu": "Kezdje a reggelt a friss tengerparti szellőben Larvorban. Sétáljon kényelmesen a keleti strandok mentén, élvezve a nyugodt óceáni kilátást, mielőtt felfedezné a helyi kápolnák bájos, hagyományos breton építészetét.\n\nAhogy közeledik a dél, kövesse tovább a zord partvonalat nyugat felé. Élvezze a hatalmas homokos öblöket, amelyek tökéletesen fogják be a napfényt, és pihenjen az Atlanti-óceán lenyűgöző hullámai mellett.\n\nA délután történelmi fordulatot vesz, amikor a szárazföld belsejében ősi állóköveket fedez fel. Ezek a történelem előtti monolitok néma őrszemként állnak a táj felett, és az ősi rejtélyek mély érzését nyújtják.\n\nFejezze be utazását a halványuló fényben, átgondolva a természeti szépség és a neolitikus csodák egyedülálló keverékét. A békés bretagne-i szürkület tökéletesen zárja le ezt az emlékezetes kirándulást.",
+        "ro": "Începeți dimineața în briza proaspătă de coastă din Larvor. Plimbați-vă ușor pe plajele estice, admirând vederea liniștită a oceanului, înainte de a explora arhitectura bretonă fermecătoare a capelelor locale.\n\nOdată cu apropierea prânzului, continuați pe coasta stâncoasă spre vest. Bucurați-vă de golfurile largi de nisip care captează perfect soarele, permițând momente relaxante alături de valurile Oceanului Atlantic.\n\nDupă-amiaza ia o turnură istorică, mergând spre interior pentru a descoperi pietre antice ridicate. Acești monoliți preistorici stau ca niște santinele tăcute peste peisaj, oferind un sentiment profund de mister.\n\nÎncheiați-vă călătoria sub lumina blândă a amurgului, reflectând la amestecul zilei de frumusețe de coastă și minuni neolitice. Crepusculul pașnic din Bretania încheie perfect o excursie de neuitat.",
+        "en": "Begin your morning immersing yourself in the fresh coastal breeze of Larvor. Stroll gently along the eastern beaches, taking in the tranquil ocean views before exploring the charming Breton architecture of local chapels.\n\nAs midday approaches, continue tracing the rugged coastline westwards. Enjoy the expansive sandy bays that perfectly capture the sun, allowing for some relaxing moments beside the Atlantic surf.\n\nThe afternoon takes a historical turn as you step inland to discover ancient standing stones. These prehistoric monoliths stand as silent sentinels over the landscape, offering a profound sense of ancient mystery.\n\nConclude your journey under the fading light, reflecting on the day's mix of natural coastal beauty and Neolithic wonders. The peaceful twilight in Brittany perfectly caps off a memorable day trip."
+      }
+    }
+  }
+}

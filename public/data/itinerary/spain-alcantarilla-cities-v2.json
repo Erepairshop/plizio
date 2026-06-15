@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-alcantarilla-cities-v2",
+  "anchor": {
+    "name": "Alcantarilla",
+    "coords": [
+      -1.21714,
+      37.96939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 2.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción",
+            "ro": "Nuestra Señora de la Asunción",
+            "en": "Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.220524,
+            37.968
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
+            "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
+            "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural Infanta Elena",
+            "hu": "Centro Cultural Infanta Elena",
+            "ro": "Centro Cultural Infanta Elena",
+            "en": "Centro Cultural Infanta Elena"
+          },
+          "coords": [
+            -1.212132,
+            37.969732
+          ],
+          "category": "cultural",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
+            "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
+            "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cayitas",
+            "hu": "Casa de Cayitas",
+            "ro": "Casa de Cayitas",
+            "en": "Casa de Cayitas"
+          },
+          "coords": [
+            -1.210716,
+            37.969169
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
+            "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de modernismo de la region de Murcia",
+            "hu": "Museo de modernismo de la region de Murcia",
+            "ro": "Museo de modernismo de la region de Murcia",
+            "en": "Museo de modernismo de la region de Murcia"
+          },
+          "coords": [
+            -1.208611,
+            37.972752
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
+            "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
+            "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de los Mínimos",
+            "hu": "Convento de los Mínimos",
+            "ro": "Convento de los Mínimos",
+            "en": "Convento de los Mínimos"
+          },
+          "coords": [
+            -1.212977,
+            37.97444
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätischen Überreste dieses alten Klosters, das durch seine schlichte Schönheit und ruhige Atmosphäre zur Kontemplation einlädt.",
+            "hu": "Látogassa meg ennek a régi kolostornak a fenséges maradványait, amely egyszerű szépségével és nyugodt légkörével elmélkedésre csábítja a látogatókat.",
+            "ro": "Vizitați rămășițele maiestuoase ale acestei vechi mănăstiri, care invită la contemplare prin frumusețea sa simplă și atmosfera de o pace deplină.",
+            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnológico de la Huerta",
+            "hu": "Museo Etnológico de la Huerta",
+            "ro": "Museo Etnológico de la Huerta",
+            "en": "Museo Etnológico de la Huerta"
+          },
+          "coords": [
+            -1.211382,
+            37.976831
+          ],
+          "category": "museum",
+          "arrive_at": "15:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
+            "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
+            "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt an der Kirche.\n\nMittags locken Zentrum und Casa de Cayitas.\n\nNachmittags geht es ins Modernismus- und Ethnologiemuseum.\n\nAbends entspannen Sie in den Gassen.",
+        "hu": "A nap a főtemplomnál indul.\n\nDélben a központ és a Casa de Cayitas várja.\n\nDélután a Modernizmus és a Néprajzi Múzeum következik.\n\nEste a kis utcákon sétálva pihenhet.",
+        "ro": "Ziua începe la biserica principală.\n\nLa prânz explorați centrul și Casa de Cayitas.\n\nDupă-amiaza vizitați muzeele locale.\n\nSeara vă relaxați pe străzile pitorești.",
+        "en": "The day begins at the main church.\n\nAt midday, explore the center and Casa de Cayitas.\n\nIn the afternoon, visit the local museums.\n\nIn the evening, relax in the scenic streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:43",
+      "total_km": 4.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción",
+            "ro": "Nuestra Señora de la Asunción",
+            "en": "Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.220524,
+            37.968
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
+            "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
+            "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cayitas",
+            "hu": "Casa de Cayitas",
+            "ro": "Casa de Cayitas",
+            "en": "Casa de Cayitas"
+          },
+          "coords": [
+            -1.210716,
+            37.969169
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
+            "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural Infanta Elena",
+            "hu": "Centro Cultural Infanta Elena",
+            "ro": "Centro Cultural Infanta Elena",
+            "en": "Centro Cultural Infanta Elena"
+          },
+          "coords": [
+            -1.212132,
+            37.969732
+          ],
+          "category": "cultural",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
+            "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
+            "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnológico de la Huerta",
+            "hu": "Museo Etnológico de la Huerta",
+            "ro": "Museo Etnológico de la Huerta",
+            "en": "Museo Etnológico de la Huerta"
+          },
+          "coords": [
+            -1.211382,
+            37.976831
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
+            "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
+            "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de los Mínimos",
+            "hu": "Convento de los Mínimos",
+            "ro": "Convento de los Mínimos",
+            "en": "Convento de los Mínimos"
+          },
+          "coords": [
+            -1.212977,
+            37.97444
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die majestätischen Überreste dieses alten Klosters, das durch seine schlichte Schönheit und ruhige Atmosphäre zur Kontemplation einlädt.",
+            "hu": "Látogassa meg ennek a régi kolostornak a fenséges maradványait, amely egyszerű szépségével és nyugodt légkörével elmélkedésre csábítja a látogatókat.",
+            "ro": "Vizitați rămășițele maiestuoase ale acestei vechi mănăstiri, care invită la contemplare prin frumusețea sa simplă și atmosfera de o pace deplină.",
+            "en": "Visit the majestic remains of this old convent, which invites deep contemplation through its simple architectural beauty and perfectly tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de modernismo de la region de Murcia",
+            "hu": "Museo de modernismo de la region de Murcia",
+            "ro": "Museo de modernismo de la region de Murcia",
+            "en": "Museo de modernismo de la region de Murcia"
+          },
+          "coords": [
+            -1.208611,
+            37.972752
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
+            "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
+            "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Olmeda del Riacho",
+            "hu": "Olmeda del Riacho",
+            "ro": "Olmeda del Riacho",
+            "en": "Olmeda del Riacho"
+          },
+          "coords": [
+            -1.190612,
+            37.967917
+          ],
+          "category": "landmark",
+          "arrive_at": "16:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Moment an diesem natürlichen Wahrzeichen, bringen Sie eine Kamera mit und fangen Sie das goldene Licht des späten Nachmittags ein.",
+            "hu": "Élvezze a pihentető pillanatokat ennél a természeti látványosságnál, hozzon magával fényképezőgépet, és örökítse meg a késő délutáni aranyló fényeket.",
+            "ro": "Bucurați-vă de un moment de relaxare la acest reper natural, aduceți un aparat foto și asigurați-vă că surprindeți lumina aurie a după-amiezii târzii.",
+            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens radelnd zur Kirche.\n\nMittags tauchen Sie im Kulturzentrum tief ein.\n\nNachmittags geht es zum Konvent und Museum.\n\nAbends radeln Sie zur Olmeda del Riacho.",
+        "hu": "Reggel kerékpározzon a templomhoz.\n\nDélben a kulturális központban ismerkedhet a helyi élettel.\n\nDélután tekerjen a múzeumhoz.\n\nEste az Olmeda del Riacho felé vezet az út.",
+        "ro": "Dimineața pedalați spre biserică.\n\nLa prânz pătrundeți în identitatea locală la centru.\n\nDupă-amiaza vă îndreptați spre mănăstire.\n\nSeara, traseul duce spre Olmeda del Riacho.",
+        "en": "Start your morning cycling to the church.\n\nAround noon, dive deep into local identity.\n\nIn the afternoon, pedal to the museum.\n\nThe evening route leads to Olmeda del Riacho."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 8.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuestra Señora de la Asunción",
+            "hu": "Nuestra Señora de la Asunción",
+            "ro": "Nuestra Señora de la Asunción",
+            "en": "Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -1.220524,
+            37.968
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade dieser Hauptkirche und achten Sie besonders auf die detaillierten Holzschnitzereien im ruhigen Innenraum.",
+            "hu": "Csodálja meg ennek a főtemplomnak a lenyűgöző homlokzatát, és figyelje meg a részletes fafaragásokat a csendes, békés belső térben.",
+            "ro": "Admirați fațada impresionantă a acestei biserici principale și acordați o atenție deosebită sculpturilor detaliate în lemn din interiorul liniștit.",
+            "en": "Admire the impressive facade of this main church and pay special attention to the detailed wooden carvings found within its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural Infanta Elena",
+            "hu": "Centro Cultural Infanta Elena",
+            "ro": "Centro Cultural Infanta Elena",
+            "en": "Centro Cultural Infanta Elena"
+          },
+          "coords": [
+            -1.212132,
+            37.969732
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem dynamischen Kulturzentrum, wo Sie am besten gleich morgens das wechselnde Programm studieren.",
+            "hu": "Fedezze fel a kortárs kiállításokat ebben a dinamikus kulturális központban, ahol érdemes már reggel áttanulmányozni a változatos programot.",
+            "ro": "Descoperiți expozițiile contemporane din acest centru cultural dinamic, unde cel mai bine este să verificați programul variat încă de dimineață.",
+            "en": "Discover contemporary exhibitions in this dynamic cultural center, where it is best to check out the varied program first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cayitas",
+            "hu": "Casa de Cayitas",
+            "ro": "Casa de Cayitas",
+            "en": "Casa de Cayitas"
+          },
+          "coords": [
+            -1.210716,
+            37.969169
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Gebäude, das einst als Inquisitionstribunal diente, und werfen Sie einen Blick auf die erhaltene traditionelle Architektur.",
+            "hu": "Fedezze fel ezt a történelmi épületet, amely egykor inkvizíciós bíróságként szolgált, és vessen egy pillantást a megőrzött hagyományos építészetre.",
+            "ro": "Explorați această clădire istorică care a servit cândva drept tribunal al Inchiziției și aruncați o privire la arhitectura tradițională bine conservată.",
+            "en": "Explore this historic building that once served as an Inquisition tribunal, and take a close look at the beautifully preserved traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de modernismo de la region de Murcia",
+            "hu": "Museo de modernismo de la region de Murcia",
+            "ro": "Museo de modernismo de la region de Murcia",
+            "en": "Museo de modernismo de la region de Murcia"
+          },
+          "coords": [
+            -1.208611,
+            37.972752
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Modernismus ein und betrachten Sie die einzigartigen regionalen Kunstwerke bei einem gemütlichen Rundgang.",
+            "hu": "Merüljön el a modernizmus lenyűgöző világában, és tekintse meg az egyedülálló regionális műalkotásokat egy kényelmes és inspiráló séta során.",
+            "ro": "Pătrundeți în lumea fascinantă a modernismului și admirați operele de artă regionale unice în timpul unui tur relaxant prin galeriile muzeului.",
+            "en": "Delve into the fascinating world of modernism and view unique regional artworks during a leisurely stroll through the well-curated museum galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnológico de la Huerta",
+            "hu": "Museo Etnológico de la Huerta",
+            "ro": "Museo Etnológico de la Huerta",
+            "en": "Museo Etnológico de la Huerta"
+          },
+          "coords": [
+            -1.211382,
+            37.976831
+          ],
+          "category": "museum",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die traditionellen Bewässerungssysteme und landwirtschaftlichen Werkzeuge der Region, ideal für einen informativen Nachmittag.",
+            "hu": "Tudjon meg mindent a régió hagyományos öntözőrendszereiről és mezőgazdasági eszközeiről, amely tökéletes program egy informatív délutáni látogatáshoz.",
+            "ro": "Aflați totul despre sistemele tradiționale de irigații și uneltele agricole ale regiunii, o vizită ideală pentru o după-amiază cu adevărat informativă.",
+            "en": "Learn all about the region's traditional irrigation systems and agricultural tools, making it an absolutely ideal stop for a highly informative afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Olmeda del Riacho",
+            "hu": "Olmeda del Riacho",
+            "ro": "Olmeda del Riacho",
+            "en": "Olmeda del Riacho"
+          },
+          "coords": [
+            -1.190612,
+            37.967917
+          ],
+          "category": "landmark",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Moment an diesem natürlichen Wahrzeichen, bringen Sie eine Kamera mit und fangen Sie das goldene Licht des späten Nachmittags ein.",
+            "hu": "Élvezze a pihentető pillanatokat ennél a természeti látványosságnál, hozzon magával fényképezőgépet, és örökítse meg a késő délutáni aranyló fényeket.",
+            "ro": "Bucurați-vă de un moment de relaxare la acest reper natural, aduceți un aparat foto și asigurați-vă că surprindeți lumina aurie a după-amiezii târzii.",
+            "en": "Enjoy a relaxing moment at this prominent natural landmark, bring a camera, and be entirely sure to capture the glorious golden light of the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Municipal",
+            "hu": "Piscina Municipal",
+            "ro": "Piscina Municipal",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -1.2061,
+            37.927315
+          ],
+          "category": "recreational",
+          "arrive_at": "17:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach einem langen Tag voller Besichtigungen im städtischen Schwimmbad ab, wo Sie entspannt schwimmen und den Abend ausklingen lassen können.",
+            "hu": "Hűtse le magát egy hosszú városnéző nap után a városi medencében, ahol egy pihentető úszással tökéletesen zárhatja le ezt a tartalmas és élménydús napot.",
+            "ro": "Răcoriți-vă după o zi lungă de vizite la piscina municipală, unde puteți înota relaxat și puteți încheia seara într-un mod cât se poate de plăcut.",
+            "en": "Cool off after a long day of sightseeing at the municipal pool, where you can enjoy a relaxing swim and wind down the evening in total and utter comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Kirche.\n\nMittags besuchen Sie die historische Casa de Cayitas.\n\nDer Nachmittag ist geprägt vom Ethnologischen Museum.\n\nDen Abend verbringen Sie im Schwimmbad.",
+        "hu": "Autós túrája a templomnál kezdődik.\n\nDélben látogassa meg a lenyűgöző Casa de Cayitas-t.\n\nA délutánt a Néprajzi Múzeum történelme tölti ki.\n\nAz estét a városi uszodában töltheti el.",
+        "ro": "Turul cu mașina începe la biserică.\n\nLa prânz vizitați fascinanta Casa de Cayitas.\n\nDupă-amiaza este marcată de istoria bogată.\n\nSeara v-o petreceți revigorant la piscina municipală.",
+        "en": "Your driving tour begins at the church.\n\nAt midday, visit the fascinating Casa de Cayitas.\n\nThe afternoon is characterized by rich history.\n\nYou spend a refreshing evening at the pool."
+      }
+    }
+  }
+}

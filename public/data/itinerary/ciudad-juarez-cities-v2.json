@@ -1,0 +1,405 @@
+{
+  "city_id": "ciudad-juarez-cities-v2",
+  "anchor": {
+    "name": "Ciudad Juárez",
+    "coords": [
+      -106.485,
+      31.7393
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Municipal de las Artes",
+            "hu": "Centro Municipal de las Artes",
+            "ro": "Centro Municipal de las Artes",
+            "en": "Centro Municipal de las Artes"
+          },
+          "coords": [
+            -106.487962,
+            31.73865
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Handwerkskunst in diesem historischen Gebäude und kommen Sie früh, um die ungestörte Architektur zu fotografieren.",
+            "hu": "Csodálja meg a gazdag helyi kézművességet ebben a történelmi épületben, és érkezzen korán a zavartalan fotózás érdekében.",
+            "ro": "Descoperiți bogăția meșteșugurilor locale în această clădire istorică și veniți devreme pentru a face fotografii nestingherite.",
+            "en": "Discover the rich local craftsmanship housed in this historic building, and arrive early to take undisturbed architectural photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferrocarril Central 1884",
+            "hu": "Ferrocarril Central 1884",
+            "ro": "Ferrocarril Central 1884",
+            "en": "Ferrocarril Central 1884"
+          },
+          "coords": [
+            -106.483099,
+            31.737593
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die alten Lokomotiven, die die industrielle Geschichte der Region prägen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Csodálja meg a régi mozdonyokat, amelyek a régió ipari történelmét alakították, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Admirați locomotivele vechi care au conturat istoria industrială a regiunii și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Marvel at the old locomotives that shaped the region's industrial history, and wear comfortable shoes for walking on the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "General Vicente Guerrero",
+            "hu": "General Vicente Guerrero",
+            "ro": "General Vicente Guerrero",
+            "en": "General Vicente Guerrero"
+          },
+          "coords": [
+            -106.482585,
+            31.736436
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Ehren Sie diesen mexikanischen Nationalhelden an seinem imposanten Denkmal und nutzen Sie das morgendliche Licht für Porträts.",
+            "hu": "Tisztelegjen a mexikói nemzeti hős előtt ezen az impozáns emlékművön, és használja ki a reggeli fényeket a portrék készítéséhez.",
+            "ro": "Onorați acest erou național mexican la monumentul său impunător și profitați de lumina dimineții pentru fotografii reușite.",
+            "en": "Honor this Mexican national hero at his imposing monument, and take advantage of the morning light for stunning portrait photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Benito Juárez",
+            "hu": "Monumento a Benito Juárez",
+            "ro": "Monumento a Benito Juárez",
+            "en": "Monumento a Benito Juárez"
+          },
+          "coords": [
+            -106.479045,
+            31.735409
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Wahrzeichen von Juárez, das dem berühmten Präsidenten gewidmet ist, und bleiben Sie für die Straßenkünstler auf dem Platz.",
+            "hu": "Csodálja meg Juárez eme ikonikus nevezetességét, amelyet a híres elnöknek szenteltek, és figyelje meg a téren fellépő utcai művészeket.",
+            "ro": "Admirați acest reper iconic dedicat faimosului președinte și zăboviți puțin pentru a urmări artiștii stradali din piață.",
+            "en": "Admire this iconic Juárez landmark dedicated to the famous president, and linger in the plaza to watch the vibrant street performers."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Germán Valdéz Tin Tan",
+            "hu": "Museo Germán Valdéz Tin Tan",
+            "ro": "Museo Germán Valdéz Tin Tan",
+            "en": "Museo Germán Valdéz Tin Tan"
+          },
+          "coords": [
+            -106.485958,
+            31.74299
+          ],
+          "category": "museum",
+          "arrive_at": "15:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Lachen Sie über das Erbe des berühmten mexikanischen Komikers Tin Tan und kaufen Sie ein Souvenir im kleinen Museumsshop nebenan.",
+            "hu": "Nevessen a híres mexikói komikus, Tin Tan örökségén, és vásároljon egy emléktárgyat a szomszédos kis múzeumi boltban.",
+            "ro": "Râdeți descoperind moștenirea faimosului comic mexican Tin Tan și cumpărați un suvenir de la micul magazin al muzeului.",
+            "en": "Laugh at the legacy of the famous Mexican comedian Tin Tan, and pick up a unique souvenir at the small museum gift shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem reichen kulturellen Erbe im Centro Municipal de las Artes und entdecken Sie die alte Eisenbahnstation. Am Mittag ehren Sie Mexikos legendäre Figuren an den Denkmälern von Guerrero und Benito Juárez. Ihr Nachmittag bringt Lachen und Nostalgie im Tin Tan Museum. Der Abend lädt dazu ein, durch die lebhaften Straßen der Innenstadt zu schlendern.",
+        "hu": "Kezdje a reggelt a Centro Municipal de las Artes kulturális örökségével, majd fedezze fel a régi vasútállomást. Délben tisztelegjen Mexikó legendás alakjai előtt Guerrero és Benito Juárez emlékműveinél. A délután nevetést és nosztalgiát hoz a Tin Tan Múzeumban. Az este sétára csábít a nyüzsgő belvárosi utcákon, ahol élvezheti a helyi atmoszférát.",
+        "ro": "Începeți dimineața explorând patrimoniul cultural bogat la Centro Municipal de las Artes înainte de a descoperi vechea gară. La prânz, onorați figurile legendare ale Mexicului la monumentele lui Guerrero și Benito Juárez. După-amiaza aduce râsete și nostalgie la Muzeul Tin Tan. Seara vă invită să vă plimbați pe străzile pline de viață ale centrului, savurând atmosfera locală.",
+        "en": "Start your morning exploring the rich cultural heritage at the Centro Municipal de las Artes before discovering the industrial past at the old railway station. By midday, honor Mexico's legendary figures at the monuments of General Guerrero and Benito Juárez. Your afternoon brings laughter and nostalgia at the Tin Tan Museum. The evening invites you to stroll through the lively downtown streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 5.43,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Germán Valdéz Tin Tan",
+            "hu": "Museo Germán Valdéz Tin Tan",
+            "ro": "Museo Germán Valdéz Tin Tan",
+            "en": "Museo Germán Valdéz Tin Tan"
+          },
+          "coords": [
+            -106.485958,
+            31.74299
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das goldene Zeitalter des mexikanischen Kinos um Tin Tan ein und sichern Sie Ihr Fahrrad am Haupteingang.",
+            "hu": "Merüljön el a mexikói mozi aranykorában Tin Tan révén, és rögzítse kerékpárját biztonságosan a főbejárat közelében.",
+            "ro": "Pătrundeți în epoca de aur a cinematografiei mexicane cu Tin Tan și asigurați-vă bicicleta aproape de intrarea principală.",
+            "en": "Dive into the golden age of Mexican cinema focusing on Tin Tan, and secure your bike near the main entrance to avoid any hassle."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Benito Juárez",
+            "hu": "Monumento a Benito Juárez",
+            "ro": "Monumento a Benito Juárez",
+            "en": "Monumento a Benito Juárez"
+          },
+          "coords": [
+            -106.479045,
+            31.735409
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Sehen Sie die hoch aufragende Hommage an den Präsidenten und machen Sie eine kurze Wasserpause in den schattigen Bereichen am Kreisverkehr.",
+            "hu": "Nézze meg a szeretett elnöknek állított magasztos emlékművet, és tartson egy rövid vízszünetet az árnyékos területeken.",
+            "ro": "Vedeți omagiul impunător adus iubitului președinte și luați o scurtă pauză de apă în zonele umbrite din jurul sensului giratoriu.",
+            "en": "See the towering tribute to the beloved president, and take a quick water break in the shaded areas around the busy roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Cívico Municipal Lic. Benito Juárez",
+            "hu": "Auditorio Cívico Municipal Lic. Benito Juárez",
+            "ro": "Auditorio Cívico Municipal Lic. Benito Juárez",
+            "en": "Auditorio Cívico Municipal Lic. Benito Juárez"
+          },
+          "coords": [
+            -106.46005,
+            31.735068
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die städtische Architektur dieses Bürgerzentrums und prüfen Sie die Anschlagtafeln auf anstehende lokale Aufführungen.",
+            "hu": "Csodálja meg ezen polgári központ századközepi építészetét, és ellenőrizze a hirdetőtáblákat a közelgő helyi előadásokért.",
+            "ro": "Apreciați arhitectura municipală a acestui centru civic și verificați panourile informative pentru viitoarele spectacole locale.",
+            "en": "Appreciate the mid-century municipal architecture of this civic center, and check the notice boards for upcoming local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Ciudad Juárez",
+            "hu": "Museo de Arte de Ciudad Juárez",
+            "ro": "Museo de Arte de Ciudad Juárez",
+            "en": "Museo de Arte de Ciudad Juárez"
+          },
+          "coords": [
+            -106.454381,
+            31.741197
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die zeitgenössische Kunst in diesem markanten Rundbau ein und bewahren Sie kleine Rucksäcke in den kostenlosen Schließfächern auf.",
+            "hu": "Merüljön el a kortárs mexikói művészetben ebben a feltűnő, kör alakú épületben, és tegye le hátizsákját az ingyenes szekrényekbe.",
+            "ro": "Cufundați-vă în arta mexicană contemporană în această clădire circulară izbitoare și lăsați rucsacurile în dulapurile gratuite.",
+            "en": "Immerse yourself in contemporary Mexican art within this striking circular building, and store small backpacks in the free lockers provided."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Público Federal El Chamizal",
+            "hu": "Parque Público Federal El Chamizal",
+            "ro": "Parque Público Federal El Chamizal",
+            "en": "Parque Público Federal El Chamizal"
+          },
+          "coords": [
+            -106.457962,
+            31.756542
+          ],
+          "category": "park",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.73,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem großen Park, der an Mexiko zurückgegeben wurde, und nutzen Sie die speziellen Radwege für eine sichere Erkundung.",
+            "hu": "Pihenjen ebben a hatalmas parkban, amelyet az USA visszaadott Mexikónak, és használja a kijelölt kerékpárutakat a biztonságos felfedezéshez.",
+            "ro": "Relaxați-vă în acest vast parc returnat Mexicului de către SUA și folosiți pistele speciale de biciclete pentru a explora în siguranță.",
+            "en": "Relax in this vast park returned to Mexico by the USA, and use the dedicated cycling paths to safely explore its expansive green spaces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie mit dem ansteckenden Humor von Tin Tan in den Tag, bevor Sie zum Benito Juárez Denkmal fahren. Mittags führt Sie Ihre Route zum Bürgerzentrum und seinem besonderen Design. Entdecken Sie am Nachmittag die modernen Ausstellungen im Kunstmuseum. Beenden Sie Ihre Fahrt mit einer friedlichen Runde durch die grünen Weiten des Parks El Chamizal.",
+        "hu": "Indítsa a napot Tin Tan ragadós humorával, mielőtt eltekerne a lenyűgöző Benito Juárez emlékműhöz. Délben az útvonal a polgári központhoz és annak különleges dizájnjához vezet. Délután fedezze fel a kortárs Művészeti Múzeum modern kiállításait. Fejezze be az utazást egy békés kerékpározással az El Chamizal park zöldellő területein.",
+        "ro": "Începeți ziua pedalând cu umorul molipsitor al lui Tin Tan, înainte de a merge la impresionantul monument Benito Juárez. La prânz, traseul vă duce la centrul civic. După-amiaza, descoperiți expozițiile de ultimă oră de la Muzeul de Artă Contemporană. Încheiați cursa cu o plimbare liniștită prin întinderile verzi ale parcului El Chamizal.",
+        "en": "Pedal into your day with the infectious humor of Tin Tan before cycling to the grand Benito Juárez Monument. Around midday, your route takes you to the civic center and its distinct mid-century design. In the afternoon, discover cutting-edge exhibits at the contemporary Art Museum. Conclude your ride with a peaceful cycle through the green expanses of El Chamizal park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 3.76,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Público Federal El Chamizal",
+            "hu": "Parque Público Federal El Chamizal",
+            "ro": "Parque Público Federal El Chamizal",
+            "en": "Parque Público Federal El Chamizal"
+          },
+          "coords": [
+            -106.457962,
+            31.756542
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Grenzabenteuer in diesem kulturell bedeutsamen Park und parken Sie Ihr Auto in der Nähe der Denkmäler.",
+            "hu": "Kezdje határmenti kalandját ebben a kulturálisan jelentős parkban, és parkoljon a fő emlékművek közelében, hogy időt takarítson meg.",
+            "ro": "Începeți-vă aventura de graniță în acest parc cu semnificație culturală și parcați mașina aproape de memoriale pentru a câștiga timp.",
+            "en": "Start your border adventure in this culturally significant park, and park your car near the main memorials to save time walking."
+          }
+        },
+        {
+          "name": {
+            "de": "Salón de la fama del deportista juarense",
+            "hu": "Salón de la fama del deportista juarense",
+            "ro": "Salón de la fama del deportista juarense",
+            "en": "Salón de la fama del deportista juarense"
+          },
+          "coords": [
+            -106.469655,
+            31.752017
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Feiern Sie hier die größten sportlichen Erfolge der Region und sehen Sie sich die interaktiven Ausstellungen der legendären Boxer an.",
+            "hu": "Ünnepelje itt a régió legnagyobb sporteredményeit, és tekintse meg a legendás helyi bokszolókat bemutató interaktív kiállításokat.",
+            "ro": "Sărbătoriți aici cele mai mari realizări sportive ale regiunii și explorați expozițiile interactive dedicate boxerilor legendari locali.",
+            "en": "Celebrate the region's greatest athletic achievements here, and check out the interactive displays showcasing legendary local boxers."
+          }
+        },
+        {
+          "name": {
+            "de": "El Paso Museum of Art",
+            "hu": "El Paso Museum of Art",
+            "ro": "El Paso Museum of Art",
+            "en": "El Paso Museum of Art"
+          },
+          "coords": [
+            -106.49034,
+            31.758577
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.09,
+          "tip_5lang": {
+            "de": "Fahren Sie nach El Paso, um beeindruckende Kunst aus dem Südwesten zu sehen, und nutzen Sie das nahegelegene Parkhaus des Kongresszentrums.",
+            "hu": "Lépje át a határt El Pasóba a lenyűgöző délnyugati művészeti gyűjteményért, és használja a közeli kongresszusi központ parkolóházát.",
+            "ro": "Treceți granița în El Paso pentru a vedea colecția impresionantă de artă din Sud-Vest și folosiți parcarea centrului de convenții din apropiere.",
+            "en": "Cross into El Paso to view an impressive collection of Southwestern art, and use the nearby convention center parking garage."
+          }
+        },
+        {
+          "name": {
+            "de": "El Paso Museum of History",
+            "hu": "El Paso Museum of History",
+            "ro": "El Paso Museum of History",
+            "en": "El Paso Museum of History"
+          },
+          "coords": [
+            -106.491575,
+            31.760197
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die binationale Geschichte der Region ein und interagieren Sie mit der digitalen Touch-Wand, um verborgene Geschichten zu entdecken.",
+            "hu": "Merüljön el a régió összetett kétnemzetiségű történelmében, és használja a hatalmas digitális érintőfalat a rejtett történetek felfedezéséhez.",
+            "ro": "Aprofundați istoria binațională complexă a regiunii și interacționați cu peretele digital tactil uriaș pentru a descoperi povești ascunse.",
+            "en": "Delve deep into the complex binational history of the region, and interact with the huge digital touch-wall to uncover hidden stories."
+          }
+        },
+        {
+          "name": {
+            "de": "El Paso Holocaust Museum",
+            "hu": "El Paso Holocaust Museum",
+            "ro": "El Paso Holocaust Museum",
+            "en": "El Paso Holocaust Museum"
+          },
+          "coords": [
+            -106.491964,
+            31.762325
+          ],
+          "category": "museum",
+          "arrive_at": "15:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Reflektieren Sie die bewegenden Ausstellungen zur Geschichte des Zweiten Weltkriegs und beachten Sie, dass der Eintritt völlig kostenlos ist.",
+            "hu": "Csendesen gondolkodjon el a második világháború történelmét bemutató megrázó kiállításokon, és vegye figyelembe az ingyenes belépést.",
+            "ro": "Reflectați în liniște asupra expozițiilor emoționante care detaliază istoria celui de-al Doilea Război Mondial, intrarea fiind complet gratuită.",
+            "en": "Reflect quietly on the powerful and moving exhibits detailing WWII history, and note that admission is completely free for all visitors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre grenzüberschreitende Fahrt im historischen Park El Chamizal auf der Juárez-Seite, bevor Sie die lokale Ruhmeshalle des Sports besuchen. Mittags überqueren Sie die Grenze nach El Paso, um Meisterwerke im Kunstmuseum zu bewundern. Der Nachmittag ist der Entdeckung des lokalen Erbes im Geschichtsmuseum gewidmet. Beenden Sie den Tag im Holocaust-Museum.",
+        "hu": "Kezdje a határon átnyúló autós túrát a történelmi El Chamizal parkban a Juárez oldalon, majd látogassa meg a helyi sport dicsőségcsarnokot. Délben lépje át a határt El Pasóba, és csodálja meg a Művészeti Múzeum remekműveit. A délutánt a helyi örökség felfedezésére szánjuk a Történeti Múzeumban. Zárja ezt a mélyreható napot a Holokauszt Múzeumban.",
+        "ro": "Începeți turul transfrontalier la istoricul parc El Chamizal din Juárez, înainte de a vizita panteonul sportului local. La prânz, treceți granița în El Paso pentru a admira capodoperele de la Muzeul de Artă. După-amiaza este rezervată descoperirii patrimoniului local la Muzeul de Istorie. Încheiați această zi profundă cu o reflecție la Muzeul Holocaustului.",
+        "en": "Begin your cross-border driving tour at the historic El Chamizal park on the Juárez side before visiting the local sports hall of fame. By midday, safely cross the border into downtown El Paso to admire remarkable Southwestern masterpieces at the Art Museum. The afternoon is reserved for uncovering local heritage at the History Museum. Conclude your profound day with moving reflection at the Holocaust Museum."
+      }
+    }
+  }
+}

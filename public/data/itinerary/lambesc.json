@@ -1,0 +1,405 @@
+{
+  "city_id": "lambesc",
+  "anchor": {
+    "name": "Lambesc",
+    "coords": [
+      5.2619,
+      43.6539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour du Jacquemard",
+            "hu": "Tour du Jacquemard",
+            "ro": "Tour du Jacquemard",
+            "en": "Tour du Jacquemard"
+          },
+          "coords": [
+            5.261794,
+            43.653893
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mechanische Uhr auf diesem historischen Turm, einem wahren Symbol der Stadt, und kommen Sie pünktlich zum Mittagessen, um die Glocken zu hören.",
+            "hu": "Csodálja meg a történelmi torony mechanikus óráját, amely a város szimbóluma, és érkezzen pontosan délben, hogy hallhassa a hagyományos harangjátékot.",
+            "ro": "Admirați ceasul mecanic de pe acest turn istoric, un adevărat simbol al orașului, și veniți exact la prânz pentru a asculta sunetul clopotelor.",
+            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            5.261312,
+            43.655041
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
+            "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
+            "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            5.261465,
+            43.656804
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese alte Kapelle, um gut erhaltene religiöse Artefakte zu sehen, und denken Sie daran, dass das Licht schwach ist, weshalb eine Taschenlampe hilft.",
+            "hu": "Lépjen be ebbe az ősi kápolnába a jó állapotban fennmaradt ereklyékért, de tartsa szem előtt, hogy a gyenge világítás miatt jól jöhet a telefonja zseblámpája.",
+            "ro": "Pășiți în această capelă veche pentru a vedea artefacte religioase bine conservate, având în vedere că lumina este slabă, așa că lanterna telefonului este utilă.",
+            "en": "Step inside this ancient chapel to see well-preserved religious artifacts, keeping in mind that lighting is dim so your phone flashlight might help."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents blancs",
+            "hu": "Chapelle des Pénitents blancs",
+            "ro": "Chapelle des Pénitents blancs",
+            "en": "Chapelle des Pénitents blancs"
+          },
+          "coords": [
+            5.260528,
+            43.652876
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betrachten Sie das makellose weiße Äußere dieser historischen Büßerkapelle und suchen Sie nach der kleinen Informationstafel in der Nähe des Eingangs.",
+            "hu": "Figyelje meg ennek a történelmi kápolnának a hófehér külsejét, és keresse a bejárat melletti kis információs táblát a mélyebb történelmi kontextusért.",
+            "ro": "Observați exteriorul alb impecabil al acestei capele istorice și căutați mica placă informativă de lângă intrare pentru un context istoric detaliat.",
+            "en": "Observe the pristine white exterior of this historic penitent chapel, and look for the small informational plaque near the entrance for deep historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Museum Lambesc",
+            "hu": "Régi Lambesc Múzeum",
+            "ro": "Vechiul Muzeu Lambesc",
+            "en": "Old Lambesc Museum"
+          },
+          "coords": [
+            5.261751,
+            43.651854
+          ],
+          "category": "museum",
+          "arrive_at": "13:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
+            "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
+            "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
+        "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 6.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jacquemart-Turm",
+            "hu": "Jacquemart Torony",
+            "ro": "Turnul Jacquemart",
+            "en": "Jacquemart Tower"
+          },
+          "coords": [
+            5.263578,
+            43.654475
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen genauen Blick auf diesen ikonischen Uhrturm, der das Dorfleben regelte, und machen Sie Fotos vom kleinen Platz gegenüber für den besten Winkel.",
+            "hu": "Nézze meg közelről ezt az ikonikus óratornyot, amely a falusi életet szabályozta, és fotózzon a szemközti kis térről a legjobb szögből.",
+            "ro": "Bucurați-vă de o privire de aproape asupra acestui turn cu ceas care regla viața satului și faceți fotografii din mica piață opusă pentru cel mai bun unghi.",
+            "en": "Enjoy a close-up look at this iconic clockwork structure that regulated village life, and take photos from the small square opposite for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            5.261312,
+            43.655041
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
+            "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
+            "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Museum Lambesc",
+            "hu": "Régi Lambesc Múzeum",
+            "ro": "Vechiul Muzeu Lambesc",
+            "en": "Old Lambesc Museum"
+          },
+          "coords": [
+            5.261751,
+            43.651854
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
+            "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
+            "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine d'Aiguebelle",
+            "hu": "Domaine d'Aiguebelle",
+            "ro": "Domeniul Aiguebelle",
+            "en": "Domaine d'Aiguebelle"
+          },
+          "coords": [
+            5.281548,
+            43.657991
+          ],
+          "category": "castle",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie über das beeindruckende Gelände dieses großen Anwesens und nehmen Sie sich Zeit für einen Spaziergang durch die Weinberge.",
+            "hu": "Sétáljon végig a birtok lenyűgöző területein, és szánjon időt a környező szőlőültetvényekre is, amelyek ősszel a legszebbek.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestei mari moșii și faceți-vă timp pentru o plimbare prin podgoriile din jur, care sunt superbe toamna.",
+            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Anna",
+            "hu": "Szent Anna Kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "Saint Anne Chapel"
+          },
+          "coords": [
+            5.276781,
+            43.696431
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erreichen Sie diese abgelegene Kapelle für atemberaubende Panoramablicke auf die Landschaft und bringen Sie eine Flasche Wasser mit, da es keine Geschäfte gibt.",
+            "hu": "Érje el ezt a távoli, békés dombtetőn lévő kápolnát a lenyűgöző panorámáért, és hozzon magával vizet, mivel nincsenek boltok a közelben.",
+            "ro": "Ajungeți la această capelă izolată de pe deal pentru vederi panoramice uimitoare și aduceți o sticlă de apă, deoarece nu există magazine în apropiere.",
+            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
+        "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Museum Lambesc",
+            "hu": "Régi Lambesc Múzeum",
+            "ro": "Vechiul Muzeu Lambesc",
+            "en": "Old Lambesc Museum"
+          },
+          "coords": [
+            5.261751,
+            43.651854
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
+            "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
+            "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour du Jacquemard",
+            "hu": "Tour du Jacquemard",
+            "ro": "Tour du Jacquemard",
+            "en": "Tour du Jacquemard"
+          },
+          "coords": [
+            5.261794,
+            43.653893
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mechanische Uhr auf diesem historischen Turm, einem wahren Symbol der Stadt, und kommen Sie pünktlich zum Mittagessen, um die Glocken zu hören.",
+            "hu": "Csodálja meg a történelmi torony mechanikus óráját, amely a város szimbóluma, és érkezzen pontosan délben, hogy hallhassa a hagyományos harangjátékot.",
+            "ro": "Admirați ceasul mecanic de pe acest turn istoric, un adevărat simbol al orașului, și veniți exact la prânz pentru a asculta sunetul clopotelor.",
+            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            5.261312,
+            43.655041
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
+            "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
+            "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine d'Aiguebelle",
+            "hu": "Domaine d'Aiguebelle",
+            "ro": "Domeniul Aiguebelle",
+            "en": "Domaine d'Aiguebelle"
+          },
+          "coords": [
+            5.281548,
+            43.657991
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie über das beeindruckende Gelände dieses großen Anwesens und nehmen Sie sich Zeit für einen Spaziergang durch die Weinberge.",
+            "hu": "Sétáljon végig a birtok lenyűgöző területein, és szánjon időt a környező szőlőültetvényekre is, amelyek ősszel a legszebbek.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestei mari moșii și faceți-vă timp pentru o plimbare prin podgoriile din jur, care sunt superbe toamna.",
+            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Anna",
+            "hu": "Szent Anna Kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "Saint Anne Chapel"
+          },
+          "coords": [
+            5.276781,
+            43.696431
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erreichen Sie diese abgelegene Kapelle für atemberaubende Panoramablicke auf die Landschaft und bringen Sie eine Flasche Wasser mit, da es keine Geschäfte gibt.",
+            "hu": "Érje el ezt a távoli, békés dombtetőn lévő kápolnát a lenyűgöző panorámáért, és hozzon magával vizet, mivel nincsenek boltok a közelben.",
+            "ro": "Ajungeți la această capelă izolată de pe deal pentru vederi panoramice uimitoare și aduceți o sticlă de apă, deoarece nu există magazine în apropiere.",
+            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
+        "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+      }
+    }
+  }
+}

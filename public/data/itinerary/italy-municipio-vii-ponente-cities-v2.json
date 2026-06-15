@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-municipio-vii-ponente-cities-v2",
+  "anchor": {
+    "name": "Municipio VII Ponente",
+    "coords": [
+      8.76348,
+      44.44533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Giovanni Lerda",
+            "hu": "Giovanni Lerda-emlékmű",
+            "ro": "Monumentul lui Giovanni Lerda",
+            "en": "Monument to Giovanni Lerda"
+          },
+          "coords": [
+            8.754004,
+            44.428488
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das bewegende Monumento a Giovanni Lerda, das an lokale Opfer erinnert, und nehmen Sie sich einen Moment Zeit, bevor Sie den Küstenpark erkunden.",
+            "hu": "Tekintse meg a megható Giovanni Lerda-emlékművet, amely a helyi áldozatokra emlékeztet, és álljon meg egy pillanatra, mielőtt felfedezné a közeli parti parkot.",
+            "ro": "Observați emoționantul Monumento a Giovanni Lerda, care amintește de sacrificiile locale, și reflectați un moment înainte de a explora parcul de coastă înconjurător.",
+            "en": "Observe the poignant Monumento a Giovanni Lerda, remembering local sacrifices, and take a moment to reflect before exploring the surrounding coastal park."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefallenendenkmal 1915-18",
+            "hu": "1915-18-as háborús emlékmű",
+            "ro": "Monumentul Eroilor 1915-18",
+            "en": "Monument to the Fallen 1915-18"
+          },
+          "coords": [
+            8.751501,
+            44.428156
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Monumento ai caduti 1915-18, um die Gefallenen des Ersten Weltkriegs zu ehren, und bewundern Sie die gepflegten Gärten um diese historische Stätte.",
+            "hu": "Látogasson el a Monumento ai caduti 1915-18 emlékműhöz, hogy tisztelegjen az I. világháború hősei előtt, és csodálja meg a történelmi emlékhely körüli gondozott kerteket.",
+            "ro": "Vizitați Monumento ai caduti 1915-18 pentru a onora eroii din Primul Război Mondial și admirați grădinile bine îngrijite din jurul acestui tribut istoric.",
+            "en": "Visit the Monumento ai caduti 1915-18 to honor the fallen of the First World War while admiring the serene, well-kept gardens around this historical tribute."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del Ponente",
+            "hu": "Teatro del Ponente",
+            "ro": "Teatro del Ponente",
+            "en": "Teatro del Ponente"
+          },
+          "coords": [
+            8.748877,
+            44.427988
+          ],
+          "category": "cultural",
+          "arrive_at": "09:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Zentrum Teatro del Ponente, wo die lokalen Künste florieren, und überprüfen Sie den täglichen Spielplan auf unerwartete Abendvorstellungen.",
+            "hu": "Csodálja meg a Teatro del Ponente vibráló kulturális központját, ahol a helyi művészetek virágoznak, és nézze meg a napi műsort az esetleges esti előadásokért.",
+            "ro": "Admirați hub-ul cultural vibrant Teatro del Ponente, unde artele locale înfloresc, și verificați programul zilnic pentru posibile spectacole neașteptate de seară.",
+            "en": "Admire the vibrant cultural hub of Teatro del Ponente, where local arts thrive, and check the daily schedule on the doors for unexpected evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Theater der Villa Duchessa di Galliera",
+            "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+            "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+            "en": "Historic Theater of Villa Duchessa di Galliera"
+          },
+          "coords": [
+            8.750021,
+            44.430707
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie das majestätische Teatro Storico di Villa Duchessa di Galliera, um das opulente Design zu bewundern, aber buchen Sie Führungen unbedingt weit im Voraus.",
+            "hu": "Lépjen be a fenséges Teatro Storico di Villa Duchessa di Galliera épületébe, csodálja meg pazar dizájnját, de ne felejtse el jó előre lefoglalni a belső vezetett túrákat.",
+            "ro": "Pășiți în maiestuosul Teatro Storico di Villa Duchessa di Galliera pentru a-i admira designul opulent, dar nu uitați să rezervați din timp tururile interioare ghidate.",
+            "en": "Step into the majestic Teatro Storico di Villa Duchessa di Galliera to marvel at its opulent design, but remember to book guided interior tours well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrasse der Burg von Belvedere",
+            "hu": "Belvedere Kastély Terasza",
+            "ro": "Terasa Castelului Belvedere",
+            "en": "Terrace of Belvedere Castle"
+          },
+          "coords": [
+            8.748275,
+            44.430997
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Terrazza del Castello del Belvedere für weite Panoramen des Ligurischen Meeres und halten Sie wegen der frischen Küstenbrise eine leichte Jacke bereit.",
+            "hu": "Álljon ki a Terrazza del Castello del Belvedere teraszára a Ligur-tenger lenyűgöző panorámájáért, és tartson kéznél egy könnyű kabátot a hűvös parti szellők ellen.",
+            "ro": "Stați pe Terrazza del Castello del Belvedere pentru a savura panorame ample asupra Mării Ligurice și păstrați o jachetă ușoară la îndemână pentru brizele de coastă.",
+            "en": "Stand on the Terrazza del Castello del Belvedere to enjoy sweeping panoramas of the Ligurian Sea, keeping a light jacket handy against the brisk coastal breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Porta dei Givi",
+            "hu": "Belvedere Porta dei Givi",
+            "ro": "Belvedere Porta dei Givi",
+            "en": "Belvedere Porta dei Givi"
+          },
+          "coords": [
+            8.744915,
+            44.431579
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Belvedere Porta dei Givi, einem herrlichen Aussichtspunkt für stille Kontemplation, und bringen Sie ein Picknick mit, um es in der Flora zu genießen.",
+            "hu": "Pihenjen meg a Belvedere Porta dei Givi csodálatos természetes kilátópontján, amely tökéletes a csendes elmélkedéshez, és hozzon egy kis pikniket a buja növényzet közé.",
+            "ro": "Relaxați-vă la Belvedere Porta dei Givi, un punct de belvedere natural uimitor, perfect pentru contemplație liniștită, și aduceți un mic picnic de savurat în natură.",
+            "en": "Relax at Belvedere Porta dei Givi, a stunning natural viewpoint perfect for quiet contemplation, and bring a small picnic to enjoy amidst the lush Mediterranean flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum unserer Lieben Frau der Gnaden",
+            "hu": "Kegyelmek Miasszonyunk Szentélye",
+            "ro": "Sanctuarul Maicii Domnului a Harurilor",
+            "en": "Sanctuary of Our Lady of Graces"
+          },
+          "coords": [
+            8.741819,
+            44.434643
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Santuario di Nostra Signora delle Grazie mit seiner sakralen Kunst und achten Sie darauf, sich bescheiden zu kleiden, wenn Sie eintreten.",
+            "hu": "Fedezze fel a békés Santuario di Nostra Signora delle Grazie szentélyt, csodálja meg szakrális művészetét, és ügyeljen a szerény öltözködésre, amikor belép e szent helyre.",
+            "ro": "Explorați liniștitul Santuario di Nostra Signora delle Grazie pentru arta sa sacră și asigurați-vă că vă îmbrăcați modest când pășiți în acest refugiu spiritual.",
+            "en": "Explore the tranquil Santuario di Nostra Signora delle Grazie to appreciate its sacred art, being mindful to dress modestly when stepping into this peaceful spiritual haven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Ponente mit der Erkundung feierlicher historischer Denkmäler. Bis zum Mittag werden Sie durch die kulturelle Lebendigkeit der Theater schlendern. Der Nachmittag bietet von den majestätischen Terrassen am Hang einen herrlichen Blick auf das Meer. Die Reise endet in friedlicher Besinnung im anmutigen Heiligtum unserer Lieben Frau der Gnaden.",
+        "hu": "A napja Ponente szívében kezdődik, felfedezve az elmúlt idők történeteit suttogó ünnepélyes történelmi emlékműveket. Délre a színházak vibráló kulturális központjában sétál. A délután lenyűgöző tengeri kilátást hoz a fenséges domboldali teraszokról. Az utazás békés elmélkedéssel zárul a Kegyelmek Miasszonyunk kecses szentélyében.",
+        "ro": "Ziua dvs. începe în inima Ponente, explorând monumente istorice solemne care șoptesc povești din trecut. Până la amiază, veți rătăci prin vibrația culturală a teatrelor. După-amiaza aduce vederi ample asupra mării de pe terasele maiestuoase de pe deal. Călătoria se încheie cu o contemplație pașnică la grațiosul Sanctuar al Maicii Domnului a Harurilor.",
+        "en": "Your day begins in the heart of Ponente, exploring solemn historical monuments that whisper tales of the past. By midday, you'll wander through the cultural vibrancy of the theaters, setting a dramatic tone. Afternoon brings sweeping views of the sea from majestic hillside terraces. The journey ends in peaceful contemplation at the graceful Sanctuary of Our Lady of Graces."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 2.66,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilikumpark von Pra'",
+            "hu": "Pra' Bazsalikom Parkja",
+            "ro": "Parcul Busuiocului din Pra'",
+            "en": "Basil Park of Pra'"
+          },
+          "coords": [
+            8.765161,
+            44.428382
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den aromatischen Parco del Basilico di Pra', wo Genuas berühmtes Kraut gefeiert wird, und kaufen Sie frisches Pesto direkt von lokalen handwerklichen Anbietern.",
+            "hu": "Fedezze fel az illatos Parco del Basilico di Pra' parkot, ahol Genova híres gyógynövényét ünneplik, és fontolja meg, hogy friss pestót vásárol a helyi kézművesektől.",
+            "ro": "Descoperiți aromatului Parco del Basilico di Pra', unde este celebrată faimoasa plantă genoveză, și luați în calcul cumpărarea de pesto proaspăt de la artizanii locali.",
+            "en": "Discover the aromatic Parco del Basilico di Pra', where Genova's famous herb is celebrated, and consider purchasing fresh pesto directly from local artisanal vendors here."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Giovanni Lerda",
+            "hu": "Giovanni Lerda-emlékmű",
+            "ro": "Monumentul lui Giovanni Lerda",
+            "en": "Monument to Giovanni Lerda"
+          },
+          "coords": [
+            8.754004,
+            44.428488
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Betrachten Sie das bewegende Monumento a Giovanni Lerda, das an lokale Opfer erinnert, und nehmen Sie sich einen Moment Zeit, bevor Sie den Küstenpark erkunden.",
+            "hu": "Tekintse meg a megható Giovanni Lerda-emlékművet, amely a helyi áldozatokra emlékeztet, és álljon meg egy pillanatra, mielőtt felfedezné a közeli parti parkot.",
+            "ro": "Observați emoționantul Monumento a Giovanni Lerda, care amintește de sacrificiile locale, și reflectați un moment înainte de a explora parcul de coastă înconjurător.",
+            "en": "Observe the poignant Monumento a Giovanni Lerda, remembering local sacrifices, and take a moment to reflect before exploring the surrounding coastal park."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del Ponente",
+            "hu": "Teatro del Ponente",
+            "ro": "Teatro del Ponente",
+            "en": "Teatro del Ponente"
+          },
+          "coords": [
+            8.748877,
+            44.427988
+          ],
+          "category": "cultural",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Zentrum Teatro del Ponente, wo die lokalen Künste florieren, und überprüfen Sie den täglichen Spielplan auf unerwartete Abendvorstellungen.",
+            "hu": "Csodálja meg a Teatro del Ponente vibráló kulturális központját, ahol a helyi művészetek virágoznak, és nézze meg a napi műsort az esetleges esti előadásokért.",
+            "ro": "Admirați hub-ul cultural vibrant Teatro del Ponente, unde artele locale înfloresc, și verificați programul zilnic pentru posibile spectacole neașteptate de seară.",
+            "en": "Admire the vibrant cultural hub of Teatro del Ponente, where local arts thrive, and check the daily schedule on the doors for unexpected evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Theater der Villa Duchessa di Galliera",
+            "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+            "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+            "en": "Historic Theater of Villa Duchessa di Galliera"
+          },
+          "coords": [
+            8.750021,
+            44.430707
+          ],
+          "category": "cultural",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie das majestätische Teatro Storico di Villa Duchessa di Galliera, um das opulente Design zu bewundern, aber buchen Sie Führungen unbedingt weit im Voraus.",
+            "hu": "Lépjen be a fenséges Teatro Storico di Villa Duchessa di Galliera épületébe, csodálja meg pazar dizájnját, de ne felejtse el jó előre lefoglalni a belső vezetett túrákat.",
+            "ro": "Pășiți în maiestuosul Teatro Storico di Villa Duchessa di Galliera pentru a-i admira designul opulent, dar nu uitați să rezervați din timp tururile interioare ghidate.",
+            "en": "Step into the majestic Teatro Storico di Villa Duchessa di Galliera to marvel at its opulent design, but remember to book guided interior tours well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrasse der Burg von Belvedere",
+            "hu": "Belvedere Kastély Terasza",
+            "ro": "Terasa Castelului Belvedere",
+            "en": "Terrace of Belvedere Castle"
+          },
+          "coords": [
+            8.748275,
+            44.430997
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Terrazza del Castello del Belvedere für weite Panoramen des Ligurischen Meeres und halten Sie wegen der frischen Küstenbrise eine leichte Jacke bereit.",
+            "hu": "Álljon ki a Terrazza del Castello del Belvedere teraszára a Ligur-tenger lenyűgöző panorámájáért, és tartson kéznél egy könnyű kabátot a hűvös parti szellők ellen.",
+            "ro": "Stați pe Terrazza del Castello del Belvedere pentru a savura panorame ample asupra Mării Ligurice și păstrați o jachetă ușoară la îndemână pentru brizele de coastă.",
+            "en": "Stand on the Terrazza del Castello del Belvedere to enjoy sweeping panoramas of the Ligurian Sea, keeping a light jacket handy against the brisk coastal breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Porta dei Givi",
+            "hu": "Belvedere Porta dei Givi",
+            "ro": "Belvedere Porta dei Givi",
+            "en": "Belvedere Porta dei Givi"
+          },
+          "coords": [
+            8.744915,
+            44.431579
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Belvedere Porta dei Givi, einem herrlichen Aussichtspunkt für stille Kontemplation, und bringen Sie ein Picknick mit, um es in der Flora zu genießen.",
+            "hu": "Pihenjen meg a Belvedere Porta dei Givi csodálatos természetes kilátópontján, amely tökéletes a csendes elmélkedéshez, és hozzon egy kis pikniket a buja növényzet közé.",
+            "ro": "Relaxați-vă la Belvedere Porta dei Givi, un punct de belvedere natural uimitor, perfect pentru contemplație liniștită, și aduceți un mic picnic de savurat în natură.",
+            "en": "Relax at Belvedere Porta dei Givi, a stunning natural viewpoint perfect for quiet contemplation, and bring a small picnic to enjoy amidst the lush Mediterranean flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum unserer Lieben Frau der Gnaden",
+            "hu": "Kegyelmek Miasszonyunk Szentélye",
+            "ro": "Sanctuarul Maicii Domnului a Harurilor",
+            "en": "Sanctuary of Our Lady of Graces"
+          },
+          "coords": [
+            8.741819,
+            44.434643
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Santuario di Nostra Signora delle Grazie mit seiner sakralen Kunst und achten Sie darauf, sich bescheiden zu kleiden, wenn Sie eintreten.",
+            "hu": "Fedezze fel a békés Santuario di Nostra Signora delle Grazie szentélyt, csodálja meg szakrális művészetét, és ügyeljen a szerény öltözködésre, amikor belép e szent helyre.",
+            "ro": "Explorați liniștitul Santuario di Nostra Signora delle Grazie pentru arta sa sacră și asigurați-vă că vă îmbrăcați modest când pășiți în acest refugiu spiritual.",
+            "en": "Explore the tranquil Santuario di Nostra Signora delle Grazie to appreciate its sacred art, being mindful to dress modestly when stepping into this peaceful spiritual haven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour eingehüllt in das süße Aroma des genuesischen Basilikums im weitläufigen Park. Gegen Mittag gleiten Sie an historischen Denkmälern vorbei in das Herz der Theaterszene. Der Nachmittag ist gefüllt mit atemberaubenden Meerespanoramen von großen Villen. Ihre Fahrt endet anmutig im ruhigen Heiligtum.",
+        "hu": "Indítsa kerékpártúráját a genovai bazsalikom édes illatával körbevéve a hatalmas parkban. Dél közeledtével siklik el a történelmi emlékművek mellett a helyi színházkultúra szívébe. A délután lélegzetelállító tengerparti panorámákkal telik a nagyszerű villákból. Az utazás méltóságteljesen ér véget a csendes parti szentélynél.",
+        "ro": "Începeți turul cu bicicleta învăluit în aroma dulce a busuiocului genovez în parcul întins. Pe măsură ce se apropie amiaza, pedalați pe lângă monumente istorice către inima culturii teatrale. După-amiaza este plină de panorame marine din vile mărețe. Plimbarea se încheie cu grație la sanctuarul de coastă liniștit.",
+        "en": "Kick off your cycling tour enveloped in the sweet aroma of Genoese basil in the sprawling park. As noon approaches, glide past historical monuments toward the heart of local theater culture. The afternoon is filled with breathtaking seaside panoramas from grand villas and scenic belvederes. Your ride concludes gracefully at the tranquil coastal sanctuary."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "I Delfini - Aquacenter Pra'",
+            "hu": "I Delfini - Aquacenter Pra'",
+            "ro": "I Delfini - Aquacenter Pra'",
+            "en": "I Delfini - Aquacenter Pra'"
+          },
+          "coords": [
+            8.783156,
+            44.426777
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie energiegeladen in den Tag im I Delfini - Aquacenter Pra', aber bringen Sie unbedingt eine eigene Badekappe mit, da diese für den Eintritt zwingend erforderlich ist.",
+            "hu": "Kezdje a reggelt lendületesen az I Delfini - Aquacenter Pra' csodás medencéiben, de hozzon magával úszósapkát, mivel a belépéshez az itt szigorúan kötelező.",
+            "ro": "Energizați-vă dimineața la I Delfini - Aquacenter Pra', o facilitate minunată de bazine, dar aduceți propria cască de înot, deoarece este strict necesară pentru intrare.",
+            "en": "Energize your morning at I Delfini - Aquacenter Pra', a fantastic recreational pool facility, but bring your own swim cap as they are strictly required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilikumpark von Pra'",
+            "hu": "Pra' Bazsalikom Parkja",
+            "ro": "Parcul Busuiocului din Pra'",
+            "en": "Basil Park of Pra'"
+          },
+          "coords": [
+            8.765161,
+            44.428382
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den aromatischen Parco del Basilico di Pra', wo Genuas berühmtes Kraut gefeiert wird, und kaufen Sie frisches Pesto direkt von lokalen handwerklichen Anbietern.",
+            "hu": "Fedezze fel az illatos Parco del Basilico di Pra' parkot, ahol Genova híres gyógynövényét ünneplik, és fontolja meg, hogy friss pestót vásárol a helyi kézművesektől.",
+            "ro": "Descoperiți aromatului Parco del Basilico di Pra', unde este celebrată faimoasa plantă genoveză, și luați în calcul cumpărarea de pesto proaspăt de la artizanii locali.",
+            "en": "Discover the aromatic Parco del Basilico di Pra', where Genova's famous herb is celebrated, and consider purchasing fresh pesto directly from local artisanal vendors here."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Theater der Villa Duchessa di Galliera",
+            "hu": "A Villa Duchessa di Galliera Történelmi Színháza",
+            "ro": "Teatrul Istoric al Vilei Ducesei de Galliera",
+            "en": "Historic Theater of Villa Duchessa di Galliera"
+          },
+          "coords": [
+            8.750021,
+            44.430707
+          ],
+          "category": "cultural",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie das majestätische Teatro Storico di Villa Duchessa di Galliera, um das opulente Design zu bewundern, aber buchen Sie Führungen unbedingt weit im Voraus.",
+            "hu": "Lépjen be a fenséges Teatro Storico di Villa Duchessa di Galliera épületébe, csodálja meg pazar dizájnját, de ne felejtse el jó előre lefoglalni a belső vezetett túrákat.",
+            "ro": "Pășiți în maiestuosul Teatro Storico di Villa Duchessa di Galliera pentru a-i admira designul opulent, dar nu uitați să rezervați din timp tururile interioare ghidate.",
+            "en": "Step into the majestic Teatro Storico di Villa Duchessa di Galliera to marvel at its opulent design, but remember to book guided interior tours well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt Gorsexio",
+            "hu": "Gorsexio Völgyhíd",
+            "ro": "Viaductul Gorsexio",
+            "en": "Gorsexio Viaduct"
+          },
+          "coords": [
+            8.741927,
+            44.451452
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossale Ingenieurskunst des Viadotto Gorsexio, der das Tal überspannt, und machen Sie beeindruckende Fotos der über den grünen Hügeln schwebenden Autobahn.",
+            "hu": "Csodálja meg a völgyet átívelő Viadotto Gorsexio mérnöki csodáját, és készítsen lenyűgöző fotókat a zöld dombok felett drámaian lebegő hatalmas autópályáról.",
+            "ro": "Minunați-vă de ingineria colosală a Viadotto Gorsexio care traversează valea, capturând fotografii uimitoare cu autostrada suspendată dramatic deasupra dealurilor verzi.",
+            "en": "Marvel at the colossal engineering of Viadotto Gorsexio spanning the valley, capturing striking photographs of the highway suspended dramatically above the green hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum unserer Lieben Frau von Acquasanta",
+            "hu": "Acquasanta Miasszonyunk Szentélye",
+            "ro": "Sanctuarul Maicii Domnului din Acquasanta",
+            "en": "Sanctuary of Our Lady of Acquasanta"
+          },
+          "coords": [
+            8.769759,
+            44.458794
+          ],
+          "category": "religious",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das ehrwürdige Santuario Nostra Signora dell'Acquasanta und bringen Sie eine leere Flasche mit, um Wasser aus den nahegelegenen heiligen Quellen zu sammeln.",
+            "hu": "Látogasson el a tiszteletre méltó Santuario Nostra Signora dell'Acquasanta szentélybe, és hozzon magával egy üres üveget, hogy vizet gyűjtsön a közeli szent forrásokból.",
+            "ro": "Vizitați venerabilul Santuario Nostra Signora dell'Acquasanta, cu o istorie termală profundă, și aduceți o sticlă pentru a colecta apă din izvoarele sacre din apropiere.",
+            "en": "Visit the revered Santuario Nostra Signora dell'Acquasanta, deeply rooted in local thermal history, and bring an empty bottle to collect water from the nearby sacred springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermuseum",
+            "hu": "Papírmúzeum",
+            "ro": "Muzeul Hârtiei",
+            "en": "Paper Museum"
+          },
+          "coords": [
+            8.768829,
+            44.45713
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Museo della Carta in das industrielle Erbe der traditionellen Papierherstellung ein und informieren Sie sich über interaktive, familienfreundliche Workshops.",
+            "hu": "Merüljön el az ipari örökségben a Museo della Carta épületében, hogy megismerje a papírkészítés technikáit, és keresse a családbarát interaktív workshopokat a programban.",
+            "ro": "Cufundați-vă în moștenirea industrială de la Museo della Carta pentru a învăța tehnici de fabricare a hârtiei și verificați programul pentru ateliere interactive de familie.",
+            "en": "Immerse yourself in the industrial heritage at Museo della Carta to learn traditional papermaking techniques, checking their schedule for interactive family-friendly workshops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem erfrischenden Energieschub im Aquacenter, bevor Sie das berühmte Basilikum-Erbe erkunden. Mittags fahren Sie durch elegante Kulturgüter und vorbei an modernen Ingenieurswundern. Am Nachmittag fahren Sie tief ins Hinterland zu heiligen Thermalsanktuarien. Sie beenden den Tag mit den Geheimnissen der alten Papierherstellung.",
+        "hu": "Kezdje a reggelt egy frissítő energiabombával a helyi víziközpontban, mielőtt felfedezné a híres bazsalikom örökséget. Délben elegáns kulturális birtokokon és modern mérnöki csodákon keresztül vezet az út. Délután utazzon mélyen a hátországba a szent termál szentélyek felé. A napot az ősi papírkészítés hagyományos titkainak felfedezésével zárja.",
+        "ro": "Începeți dimineața cu un plus de energie la centrul acvatic local înainte de a explora moștenirea celebrului busuioc. La amiază, conduceți prin proprietăți culturale elegante și pe lângă minuni inginerești moderne. După-amiaza, călătoriți adânc în hinterland pentru sanctuare termale sacre. Terminați ziua descoperind secretele tradiționale ale fabricării antice a hârtiei.",
+        "en": "Start the morning with a refreshing burst of energy at the local aquacenter before exploring the region's famous basil heritage. Midday drives you through elegant cultural estates and past awe-inspiring modern engineering marvels. In the afternoon, journey deep into the hinterland for sacred thermal sanctuaries. You finish the day uncovering the traditional secrets of ancient papermaking."
+      }
+    }
+  }
+}

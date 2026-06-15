@@ -1,0 +1,543 @@
+{
+  "city_id": "orvanne",
+  "anchor": {
+    "name": "Orvanne",
+    "coords": [
+      2.8142,
+      48.3736
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 1.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thalia",
+            "hu": "Thalia",
+            "ro": "Thalia",
+            "en": "Thalia"
+          },
+          "coords": [
+            2.812354,
+            48.373864
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kulturelle Ausstellung in diesem charmanten lokalen Veranstaltungsort für zeitgenössische Kunst und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Élvezze a kulturális kiállítást ezen a bájos helyi helyszínen, amely a kortárs művészetet emeli ki, és időt takaríthat meg, ha online foglalja le jegyét.",
+            "ro": "Bucurați-vă de o expoziție culturală la această locație fermecătoare ce evidențiază arta contemporană, rezervând biletele online pentru a economisi timp.",
+            "en": "Enjoy a cultural exhibition or performance at this charming local venue that highlights contemporary art, booking your tickets online beforehand to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal",
+            "hu": "Musée Municipal",
+            "ro": "Muzeul Municipal",
+            "en": "Musée Municipal"
+          },
+          "coords": [
+            2.81491,
+            48.373796
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Artefakte und das künstlerische Erbe in diesen Mauern, um die Geschichte zu verstehen, und beginnen Sie im oberen Galeriegewölbe.",
+            "hu": "Fedezze fel a falakon belül megőrzött helyi tárgyakat és művészeti örökséget a régió megértéséhez, kezdve a túrát a felső galéria szintjéről.",
+            "ro": "Explorați artefactele locale și moștenirea artistică conservate în aceste ziduri pentru a înțelege istoria, începând turul de la etajul galeriei.",
+            "en": "Explore local artifacts and artistic heritage preserved within these walls to understand regional history, starting your tour from the upper gallery floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Façade François 1er",
+            "hu": "Façade François 1er",
+            "ro": "Fațada François 1er",
+            "en": "Façade François 1er"
+          },
+          "coords": [
+            2.816442,
+            48.372848
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Renaissance-Details dieser historischen Fassade, die königliche Eleganz repräsentiert, und bringen Sie ein Fernglas mit.",
+            "hu": "Csodálja meg a királyi eleganciát képviselő történelmi homlokzatba faragott gyönyörű reneszánsz részleteket, és hozzon távcsövet a magas szobrokhoz.",
+            "ro": "Admirați detaliile renascentiste sculptate în această fațadă istorică ce reprezintă eleganța regală și aduceți un binoclu pentru sculpturile înalte.",
+            "en": "Admire the exquisite Renaissance details carved into this historic facade representing royal elegance, and bring binoculars to see the highest sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Waschhaus",
+            "hu": "Történelmi Mosóház",
+            "ro": "Spălătoria istorică",
+            "en": "Historical Wash house"
+          },
+          "coords": [
+            2.817578,
+            48.371912
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die stabilen Holzrahmen dieses alten Waschhauses, das den historischen Alltag offenbart, und achten Sie auf die gut erhaltenen Steine.",
+            "hu": "Vizsgálja meg ennek a régi mosóháznak a masszív favázát, amely bemutatja a történelmi mindennapokat, és nézze meg a jól megőrzött köveket is.",
+            "ro": "Examinați cadrele robuste din lemn ale acestei vechi spălătorii care dezvăluie viața zilnică istorică și nu uitați să priviți atent pietrele conservate.",
+            "en": "Examine the sturdy timber frames of this old washhouse that reveals daily historical life, and remember to look closely at the well-preserved stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Verlies",
+            "hu": "Öregtorony",
+            "ro": "Temnița",
+            "en": "Dungeon"
+          },
+          "coords": [
+            2.818912,
+            48.370805
+          ],
+          "category": "castle",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Steinmauern dieser mittelalterlichen Festung, die einst die Stadt verteidigte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a középkori erődítménynek az impozáns kőfalait, amely egykor védte a várost, és érkezzen korán a legjobb reggeli fényekért.",
+            "ro": "Minunați-vă de zidurile de piatră ale acestei fortărețe medievale care apăra orașul, ajungând devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Marvel at the imposing stone walls of this medieval stronghold that once defended the town, arriving early to catch the best morning light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Loing Canal"
+          },
+          "coords": [
+            2.825356,
+            48.371692
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Kanal entlang, um die beruhigenden Reflexionen zu genießen, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon a festői csatorna mentén, hogy élvezze a megnyugtató tükröződéseket, de viseljen kényelmes cipőt az egyenetlen vontatóutak miatt.",
+            "ro": "Plimbați-vă de-a lungul canalului pitoresc pentru a aprecia reflexiile calmante și natura vibrantă, dar purtați pantofi comozi pentru potecile inegale.",
+            "en": "Stroll along the picturesque canal to appreciate the calming reflections and vibrant nature, but wear comfortable shoes for the uneven towpaths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag in der ruhigen Atmosphäre und dem reichen architektonischen Erbe. Die kühle Morgenluft ist perfekt, um die jahrhundertealten Steinmauern zu bewundern.\nMidday: Am Mittag geht es zum künstlerischen Herzen der Stadt. Die lokalen Museen und detaillierten Fassaden erzählen Geschichten von königlicher Vergangenheit und kulturellem Stolz.\nAfternoon: Das gemächliche Nachmittagstempo erlaubt eine ruhige Erkundung des historischen Alltags. Entdecken Sie die robusten Holzkonstruktionen und die alten Verteidigungsanlagen.\nEvening: Beenden Sie Ihre Reise entlang der Wasserwege. Die goldene Stunde wirft magische Reflexionen auf den Kanal und bietet einen perfekten, entspannenden Abschluss Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
+        "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
+        "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 2.61,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Veneux-les-Sablons",
+            "hu": "Mairie déléguée de Veneux-les-Sablons",
+            "ro": "Primăria Veneux-les-Sablons",
+            "en": "Mairie déléguée de Veneux-les-Sablons"
+          },
+          "coords": [
+            2.794777,
+            48.378203
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die klassische republikanische Architektur dieses Rathauses als Herzstück der Gemeinde und lesen Sie die lokalen Informationstafeln draußen.",
+            "hu": "Figyelje meg a helyi városháza klasszikus köztársasági építészetét, amely a közösség szíve, és szánjon egy percet a kinti hirdetőtáblák elolvasására.",
+            "ro": "Observați arhitectura republicană clasică a acestei primării locale, inima comunității, și faceți-vă timp să citiți avizierele locale din exterior.",
+            "en": "Notice the classic republican architecture of this local town hall acting as the community heart, taking a moment to read the local noticeboards outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Institut Gandèn Ling",
+            "hu": "Institut Gandèn Ling",
+            "ro": "Institutul Gandèn Ling",
+            "en": "Institut Gandèn Ling"
+          },
+          "coords": [
+            2.796339,
+            48.37845
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche buddhistische Institut, das einen unerwarteten spirituellen Rückzugsort in Frankreich bietet, und bewahren Sie Ruhe.",
+            "hu": "Fedezze fel ezt a békés buddhista intézetet, amely váratlan spirituális menedéket kínál, ügyelve arra, hogy látogatása során tiszteletteljes csendben maradjon.",
+            "ro": "Descoperiți acest institut budist liniștit care oferă o retragere spirituală neașteptată în Franța, asigurându-vă că păstrați o tăcere respectuoasă.",
+            "en": "Discover this peaceful Buddhist institute that offers an unexpected spiritual retreat in France, making sure to maintain respectful silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Thalia",
+            "hu": "Thalia",
+            "ro": "Thalia",
+            "en": "Thalia"
+          },
+          "coords": [
+            2.812354,
+            48.373864
+          ],
+          "category": "cultural",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kulturelle Ausstellung in diesem charmanten lokalen Veranstaltungsort für zeitgenössische Kunst und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Élvezze a kulturális kiállítást ezen a bájos helyi helyszínen, amely a kortárs művészetet emeli ki, és időt takaríthat meg, ha online foglalja le jegyét.",
+            "ro": "Bucurați-vă de o expoziție culturală la această locație fermecătoare ce evidențiază arta contemporană, rezervând biletele online pentru a economisi timp.",
+            "en": "Enjoy a cultural exhibition or performance at this charming local venue that highlights contemporary art, booking your tickets online beforehand to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal",
+            "hu": "Musée Municipal",
+            "ro": "Muzeul Municipal",
+            "en": "Musée Municipal"
+          },
+          "coords": [
+            2.81491,
+            48.373796
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Artefakte und das künstlerische Erbe in diesen Mauern, um die Geschichte zu verstehen, und beginnen Sie im oberen Galeriegewölbe.",
+            "hu": "Fedezze fel a falakon belül megőrzött helyi tárgyakat és művészeti örökséget a régió megértéséhez, kezdve a túrát a felső galéria szintjéről.",
+            "ro": "Explorați artefactele locale și moștenirea artistică conservate în aceste ziduri pentru a înțelege istoria, începând turul de la etajul galeriei.",
+            "en": "Explore local artifacts and artistic heritage preserved within these walls to understand regional history, starting your tour from the upper gallery floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Façade François 1er",
+            "hu": "Façade François 1er",
+            "ro": "Fațada François 1er",
+            "en": "Façade François 1er"
+          },
+          "coords": [
+            2.816442,
+            48.372848
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Renaissance-Details dieser historischen Fassade, die königliche Eleganz repräsentiert, und bringen Sie ein Fernglas mit.",
+            "hu": "Csodálja meg a királyi eleganciát képviselő történelmi homlokzatba faragott gyönyörű reneszánsz részleteket, és hozzon távcsövet a magas szobrokhoz.",
+            "ro": "Admirați detaliile renascentiste sculptate în această fațadă istorică ce reprezintă eleganța regală și aduceți un binoclu pentru sculpturile înalte.",
+            "en": "Admire the exquisite Renaissance details carved into this historic facade representing royal elegance, and bring binoculars to see the highest sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Verlies",
+            "hu": "Öregtorony",
+            "ro": "Temnița",
+            "en": "Dungeon"
+          },
+          "coords": [
+            2.818912,
+            48.370805
+          ],
+          "category": "castle",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Steinmauern dieser mittelalterlichen Festung, die einst die Stadt verteidigte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a középkori erődítménynek az impozáns kőfalait, amely egykor védte a várost, és érkezzen korán a legjobb reggeli fényekért.",
+            "ro": "Minunați-vă de zidurile de piatră ale acestei fortărețe medievale care apăra orașul, ajungând devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Marvel at the imposing stone walls of this medieval stronghold that once defended the town, arriving early to catch the best morning light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Loing Canal"
+          },
+          "coords": [
+            2.825356,
+            48.371692
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Kanal entlang, um die beruhigenden Reflexionen zu genießen, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon a festői csatorna mentén, hogy élvezze a megnyugtató tükröződéseket, de viseljen kényelmes cipőt az egyenetlen vontatóutak miatt.",
+            "ro": "Plimbați-vă de-a lungul canalului pitoresc pentru a aprecia reflexiile calmante și natura vibrantă, dar purtați pantofi comozi pentru potecile inegale.",
+            "en": "Stroll along the picturesque canal to appreciate the calming reflections and vibrant nature, but wear comfortable shoes for the uneven towpaths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag in der ruhigen Atmosphäre und dem reichen architektonischen Erbe. Die kühle Morgenluft ist perfekt, um die jahrhundertealten Steinmauern zu bewundern.\nMidday: Am Mittag geht es zum künstlerischen Herzen der Stadt. Die lokalen Museen und detaillierten Fassaden erzählen Geschichten von königlicher Vergangenheit und kulturellem Stolz.\nAfternoon: Das gemächliche Nachmittagstempo erlaubt eine ruhige Erkundung des historischen Alltags. Entdecken Sie die robusten Holzkonstruktionen und die alten Verteidigungsanlagen.\nEvening: Beenden Sie Ihre Reise entlang der Wasserwege. Die goldene Stunde wirft magische Reflexionen auf den Kanal und bietet einen perfekten, entspannenden Abschluss Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
+        "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
+        "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 2.61,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Institut Gandèn Ling",
+            "hu": "Institut Gandèn Ling",
+            "ro": "Institutul Gandèn Ling",
+            "en": "Institut Gandèn Ling"
+          },
+          "coords": [
+            2.796339,
+            48.37845
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche buddhistische Institut, das einen unerwarteten spirituellen Rückzugsort in Frankreich bietet, und bewahren Sie Ruhe.",
+            "hu": "Fedezze fel ezt a békés buddhista intézetet, amely váratlan spirituális menedéket kínál, ügyelve arra, hogy látogatása során tiszteletteljes csendben maradjon.",
+            "ro": "Descoperiți acest institut budist liniștit care oferă o retragere spirituală neașteptată în Franța, asigurându-vă că păstrați o tăcere respectuoasă.",
+            "en": "Discover this peaceful Buddhist institute that offers an unexpected spiritual retreat in France, making sure to maintain respectful silence during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie déléguée de Veneux-les-Sablons",
+            "hu": "Mairie déléguée de Veneux-les-Sablons",
+            "ro": "Primăria Veneux-les-Sablons",
+            "en": "Mairie déléguée de Veneux-les-Sablons"
+          },
+          "coords": [
+            2.794777,
+            48.378203
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Beachten Sie die klassische republikanische Architektur dieses Rathauses als Herzstück der Gemeinde und lesen Sie die lokalen Informationstafeln draußen.",
+            "hu": "Figyelje meg a helyi városháza klasszikus köztársasági építészetét, amely a közösség szíve, és szánjon egy percet a kinti hirdetőtáblák elolvasására.",
+            "ro": "Observați arhitectura republicană clasică a acestei primării locale, inima comunității, și faceți-vă timp să citiți avizierele locale din exterior.",
+            "en": "Notice the classic republican architecture of this local town hall acting as the community heart, taking a moment to read the local noticeboards outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal",
+            "hu": "Musée Municipal",
+            "ro": "Muzeul Municipal",
+            "en": "Musée Municipal"
+          },
+          "coords": [
+            2.81491,
+            48.373796
+          ],
+          "category": "museum",
+          "arrive_at": "10:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Artefakte und das künstlerische Erbe in diesen Mauern, um die Geschichte zu verstehen, und beginnen Sie im oberen Galeriegewölbe.",
+            "hu": "Fedezze fel a falakon belül megőrzött helyi tárgyakat és művészeti örökséget a régió megértéséhez, kezdve a túrát a felső galéria szintjéről.",
+            "ro": "Explorați artefactele locale și moștenirea artistică conservate în aceste ziduri pentru a înțelege istoria, începând turul de la etajul galeriei.",
+            "en": "Explore local artifacts and artistic heritage preserved within these walls to understand regional history, starting your tour from the upper gallery floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Thalia",
+            "hu": "Thalia",
+            "ro": "Thalia",
+            "en": "Thalia"
+          },
+          "coords": [
+            2.812354,
+            48.373864
+          ],
+          "category": "cultural",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine kulturelle Ausstellung in diesem charmanten lokalen Veranstaltungsort für zeitgenössische Kunst und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Élvezze a kulturális kiállítást ezen a bájos helyi helyszínen, amely a kortárs művészetet emeli ki, és időt takaríthat meg, ha online foglalja le jegyét.",
+            "ro": "Bucurați-vă de o expoziție culturală la această locație fermecătoare ce evidențiază arta contemporană, rezervând biletele online pentru a economisi timp.",
+            "en": "Enjoy a cultural exhibition or performance at this charming local venue that highlights contemporary art, booking your tickets online beforehand to save time."
+          }
+        },
+        {
+          "name": {
+            "de": "Façade François 1er",
+            "hu": "Façade François 1er",
+            "ro": "Fațada François 1er",
+            "en": "Façade François 1er"
+          },
+          "coords": [
+            2.816442,
+            48.372848
+          ],
+          "category": "landmark",
+          "arrive_at": "13:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Renaissance-Details dieser historischen Fassade, die königliche Eleganz repräsentiert, und bringen Sie ein Fernglas mit.",
+            "hu": "Csodálja meg a királyi eleganciát képviselő történelmi homlokzatba faragott gyönyörű reneszánsz részleteket, és hozzon távcsövet a magas szobrokhoz.",
+            "ro": "Admirați detaliile renascentiste sculptate în această fațadă istorică ce reprezintă eleganța regală și aduceți un binoclu pentru sculpturile înalte.",
+            "en": "Admire the exquisite Renaissance details carved into this historic facade representing royal elegance, and bring binoculars to see the highest sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Waschhaus",
+            "hu": "Történelmi Mosóház",
+            "ro": "Spălătoria istorică",
+            "en": "Historical Wash house"
+          },
+          "coords": [
+            2.817578,
+            48.371912
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die stabilen Holzrahmen dieses alten Waschhauses, das den historischen Alltag offenbart, und achten Sie auf die gut erhaltenen Steine.",
+            "hu": "Vizsgálja meg ennek a régi mosóháznak a masszív favázát, amely bemutatja a történelmi mindennapokat, és nézze meg a jól megőrzött köveket is.",
+            "ro": "Examinați cadrele robuste din lemn ale acestei vechi spălătorii care dezvăluie viața zilnică istorică și nu uitați să priviți atent pietrele conservate.",
+            "en": "Examine the sturdy timber frames of this old washhouse that reveals daily historical life, and remember to look closely at the well-preserved stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Verlies",
+            "hu": "Öregtorony",
+            "ro": "Temnița",
+            "en": "Dungeon"
+          },
+          "coords": [
+            2.818912,
+            48.370805
+          ],
+          "category": "castle",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Steinmauern dieser mittelalterlichen Festung, die einst die Stadt verteidigte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a középkori erődítménynek az impozáns kőfalait, amely egykor védte a várost, és érkezzen korán a legjobb reggeli fényekért.",
+            "ro": "Minunați-vă de zidurile de piatră ale acestei fortărețe medievale care apăra orașul, ajungând devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Marvel at the imposing stone walls of this medieval stronghold that once defended the town, arriving early to catch the best morning light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Loing-Kanal",
+            "hu": "Loing-csatorna",
+            "ro": "Canalul Loing",
+            "en": "Loing Canal"
+          },
+          "coords": [
+            2.825356,
+            48.371692
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den malerischen Kanal entlang, um die beruhigenden Reflexionen zu genießen, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon a festői csatorna mentén, hogy élvezze a megnyugtató tükröződéseket, de viseljen kényelmes cipőt az egyenetlen vontatóutak miatt.",
+            "ro": "Plimbați-vă de-a lungul canalului pitoresc pentru a aprecia reflexiile calmante și natura vibrantă, dar purtați pantofi comozi pentru potecile inegale.",
+            "en": "Stroll along the picturesque canal to appreciate the calming reflections and vibrant nature, but wear comfortable shoes for the uneven towpaths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag in der ruhigen Atmosphäre und dem reichen architektonischen Erbe. Die kühle Morgenluft ist perfekt, um die jahrhundertealten Steinmauern zu bewundern.\nMidday: Am Mittag geht es zum künstlerischen Herzen der Stadt. Die lokalen Museen und detaillierten Fassaden erzählen Geschichten von königlicher Vergangenheit und kulturellem Stolz.\nAfternoon: Das gemächliche Nachmittagstempo erlaubt eine ruhige Erkundung des historischen Alltags. Entdecken Sie die robusten Holzkonstruktionen und die alten Verteidigungsanlagen.\nEvening: Beenden Sie Ihre Reise entlang der Wasserwege. Die goldene Stunde wirft magische Reflexionen auf den Kanal und bietet einen perfekten, entspannenden Abschluss Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a nyugodt légkör és a gazdag építészeti örökség befogadásával. A hűvös reggeli levegő tökéletes hátteret biztosít az évszázados kőfalak megcsodálásához.\nMidday: Ahogy a nap eléri a zenitet, térjen át a város művészeti szívére. A helyi múzeumok és a részletgazdag homlokzatok a királyi múltról és a tartós kulturális büszkeségről mesélnek.\nAfternoon: A kényelmes délutáni tempó lehetővé teszi a történelmi mindennapok nyugodt felfedezését. Fedezze fel a hátrahagyott masszív faszerkezeteket és védelmi építményeket.\nEvening: Zárja utazását a nyugodt vízi utakon. Az aranyóra varázslatos tükröződéseket vet a csatornára, így tökéletes és pihentető befejezést kínál a kalandnak.",
+        "ro": "Morning: Începeți ziua îmbrățișând atmosfera liniștită și bogata moștenire arhitecturală. Aerul răcoros al dimineții oferă fundalul perfect pentru a admira zidurile seculare de piatră.\nMidday: Pe măsură ce soarele ajunge la apogeu, îndreptați-vă spre inima artistică. Muzeele locale și fațadele detaliate spun povești despre trecutul regal și mândria culturală.\nAfternoon: Ritmul relaxat de după-amiază permite o explorare tihnită a vieții istorice zilnice. Descoperiți construcțiile robuste din lemn și structurile defensive lăsate în urmă.\nEvening: Încheiați-vă călătoria pe căile navigabile senine. Ora de aur aruncă reflexii magice pe canal, oferind un final perfect și relaxant pentru aventura dumneavoastră.",
+        "en": "Morning: Start your day embracing the tranquil atmosphere and rich architectural heritage. The cool morning air provides the perfect backdrop to marvel at the centuries-old stone walls.\nMidday: As the sun reaches its peak, transition towards the town's artistic heart. The local museums and detailed facades tell stories of royal pasts and enduring cultural pride.\nAfternoon: The leisurely afternoon pace allows for an unhurried exploration of historic daily life. Uncover the sturdy timber constructions and defensive structures left behind.\nEvening: Conclude your journey tracing the serene waterways. The golden hour casts magical reflections on the canal, offering a picture-perfect and relaxing end to your adventure."
+      }
+    }
+  }
+}

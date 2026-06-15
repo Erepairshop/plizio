@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-torredembarra-cities-v2",
+  "anchor": {
+    "name": "Torredembarra",
+    "coords": [
+      1.39595,
+      41.14616
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ethnografisches Museum Altafulla",
+            "hu": "Altafulla Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic din Altafulla",
+            "en": "Ethnographic Museum of Altafulla"
+          },
+          "coords": [
+            1.37512,
+            41.14395
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale ländliche Geschichte in diesem faszinierenden Museum in Altafulla, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Fedezze fel a helyi vidéki történelmet ebben a lenyűgöző altafullai múzeumban, de látogatás előtt ellenőrizze az online nyitvatartást.",
+            "ro": "Explorați istoria rurală locală în acest fascinant muzeu din Altafulla, dar verificați online programul limitat înainte de a vă planifica vizita.",
+            "en": "Explore local rural history in this fascinating Altafulla museum, but check their limited opening hours online before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Montserrat",
+            "hu": "Montserrat Kastély",
+            "ro": "Castelul Montserrat",
+            "en": "Montserrat Castle"
+          },
+          "coords": [
+            1.375775,
+            41.142683
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser gut erhaltenen privaten Burg und finden Sie den besten Fotopunkt in den ruhigen umliegenden Straßen.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött magánkastélynak az impozáns külsejét, és találja meg a legjobb fotópontot a csendes utcákról.",
+            "ro": "Admirați exteriorul impunător al acestui castel privat frumos conservat și găsiți cel mai bun loc pentru fotografii de pe străzile liniștite.",
+            "en": "Admire the imposing exterior of this beautifully preserved private castle, and find the best photo spot from the surrounding quiet streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Els Munts",
+            "hu": "Els Munts Római Villa",
+            "ro": "Vila Romană Els Munts",
+            "en": "Roman Villa of Els Munts"
+          },
+          "coords": [
+            1.385414,
+            41.135737
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen weitläufigen römischen Ruinen an der Küste, und bringen Sie einen Hut mit, da die Stätte wenig Schatten bietet.",
+            "hu": "Utazzon vissza az időben ezeknél a kiterjedt tengerparti római romoknál, és hozzon magával kalapot, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Întoarceți-vă în timp la aceste extinse ruine romane de pe coastă și aduceți o pălărie, deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Step back in time at these extensive coastal Roman ruins, and bring a wide-brimmed hat as the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Munts",
+            "hu": "Munts Kilátó",
+            "ro": "Punct de Belvedere Munts",
+            "en": "Munts Viewpoint"
+          },
+          "coords": [
+            1.389581,
+            41.135889
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke über das Mittelmeer von diesem natürlichen Aussichtspunkt, ideal für schnelle Landschaftsfotografie.",
+            "hu": "Élvezze a lélegzetelállító panorámát a Földközi-tengerre erről a természetes kilátópontról, amely tökéletes egy gyors tájképfotózáshoz.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra Mării Mediterane de la acest punct de belvedere natural, perfect pentru fotografii de peisaj.",
+            "en": "Enjoy breathtaking panoramic views over the Mediterranean Sea from this natural viewpoint, making it the perfect quick stop for landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Punta de la Galera",
+            "hu": "Punta de la Galera Világítótorony",
+            "ro": "Farul Punta de la Galera",
+            "en": "Punta de la Galera Lighthouse"
+          },
+          "coords": [
+            1.394804,
+            41.13224
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den höchsten Leuchtturm Kataloniens auf den Klippen und spazieren Sie den angrenzenden Felsenweg für die besten Meerblicke entlang.",
+            "hu": "Csodálja meg Katalónia legmagasabb világítótornyát a sziklákon, és sétáljon végig a szomszédos sziklás ösvényen a legjobb tengeri kilátásért.",
+            "ro": "Admirați cel mai înalt far din Catalonia situat pe stânci și plimbați-vă pe cărarea stâncoasă adiacentă pentru cele mai bune priveliști marine.",
+            "en": "Marvel at the highest lighthouse in Catalonia standing proudly on the cliffs, and stroll along the adjacent rocky path for the best sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Capellans und Canyadell",
+            "hu": "Capellans és Canyadell Strand",
+            "ro": "Plaja Capellans și Canyadell",
+            "en": "Capellans and Canyadell Beach"
+          },
+          "coords": [
+            1.390469,
+            41.132532
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen und malerischen kleinen Bucht, die von goldenen Klippen umgeben ist; kommen Sie im Sommer am besten früh.",
+            "hu": "Pihenjen meg ezen a nyugodt, arany sziklákkal körülvett festői kis öbölben, és érkezzen korán, hogy biztosítson magának helyet a nyári hónapokban.",
+            "ro": "Relaxați-vă în acest golfuleț liniștit și pitoresc, înconjurat de stânci aurii, și ajungeți devreme pentru un loc bun în lunile de vară aglomerate.",
+            "en": "Relax at this tranquil and picturesque small cove surrounded by golden cliffs, and arrive early to secure a spot during the busy summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung von Altafullas ethnografischem Museum und dem Castell de Montserrat. Gegen Mittag wandern Sie nach Süden zu den römischen Ruinen von Els Munts. Am Nachmittag genießen Sie vom Mirador atemberaubende Küstenpanoramen und bewundern den hohen Leuchtturm. Beenden Sie Ihren Tag an den goldenen Sandstränden der Bucht von Capellans, während der Abend naht.",
+        "hu": "Kezdje a reggelt az altafullai néprajzi múzeum és a Castell de Montserrat felfedezésével. Délben sétáljon délre, hogy megnézze Els Munts lenyűgöző római romjait. A délután a Miradorhoz vezet a lenyűgöző tengerparti panorámáért és a világítótoronyhoz. Fejezze be a napot a Capellans-öböl aranyhomokos partján pihenve, miközben közeledik az este.",
+        "ro": "Începeți dimineața explorând muzeul etnografic din Altafulla și marele Castell de Montserrat. La prânz, mergeți spre sud pentru a descoperi ruinele romane Els Munts. După-amiaza vă duce la Mirador pentru panorame uluitoare ale coastei și la falnicul far. Încheiați-vă ziua relaxându-vă pe nisipurile aurii ale golfului Capellans, odată cu lăsarea serii.",
+        "en": "Start the morning exploring Altafulla's ethnographic museum and the grand Castell de Montserrat. By midday, wander south to uncover the impressive Roman ruins of Els Munts, a fascinating glimpse into ancient coastal life. The afternoon takes you to the Mirador for stunning coastal panoramas and the towering lighthouse. End your day relaxing on the golden sands of Capellans cove as the evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Montserrat",
+            "hu": "Montserrat Kastély",
+            "ro": "Castelul Montserrat",
+            "en": "Montserrat Castle"
+          },
+          "coords": [
+            1.375775,
+            41.142683
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser gut erhaltenen privaten Burg und finden Sie den besten Fotopunkt in den ruhigen umliegenden Straßen.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött magánkastélynak az impozáns külsejét, és találja meg a legjobb fotópontot a csendes utcákról.",
+            "ro": "Admirați exteriorul impunător al acestui castel privat frumos conservat și găsiți cel mai bun loc pentru fotografii de pe străzile liniștite.",
+            "en": "Admire the imposing exterior of this beautifully preserved private castle, and find the best photo spot from the surrounding quiet streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreschplatz Era d'en Gatell",
+            "hu": "Era d'en Gatell Szérű",
+            "ro": "Aria de Treierat Era d'en Gatell",
+            "en": "Era d'en Gatell Threshing Floor"
+          },
+          "coords": [
+            1.376405,
+            41.144747
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Dreschplatz, der die landwirtschaftliche Vergangenheit zeigt, perfekt kombiniert mit einem kurzen Altstadtbummel.",
+            "hu": "Fedezze fel ezt a történelmi szérűt, amely bemutatja a régió mezőgazdasági múltját, tökéletesen kombinálva egy rövid sétával az óvárosban.",
+            "ro": "Descoperiți această arie istorică de treierat care dezvăluie trecutul agricol al regiunii, perfect combinată cu o scurtă plimbare prin orașul vechi.",
+            "en": "Discover this historic threshing floor that reveals the region's agricultural past, perfectly combined with a quick stroll through the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Altafulla",
+            "hu": "Altafulla Strand",
+            "ro": "Plaja Altafulla",
+            "en": "Altafulla Beach"
+          },
+          "coords": [
+            1.375194,
+            41.133119
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der angenehmen Promenade dieses weitläufigen Sandstrandes und kühlen Sie Ihre Füße nahe der historischen alten Fischerhäuser.",
+            "hu": "Sétáljon végig ennek a kiterjedt homokos strandnak a kellemes sétányán, és mártsa lábát a tiszta vízbe a történelmi tengerparti házak közelében.",
+            "ro": "Plimbați-vă pe promenada plăcută a acestei plaje cu nisip fin și relaxați-vă în apa limpede lângă casele pescărești istorice de la malul mării.",
+            "en": "Walk along the pleasant promenade of this expansive sandy beach, and dip your toes in the clear water near the historic seaside botigues."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Els Munts",
+            "hu": "Els Munts Római Villa",
+            "ro": "Vila Romană Els Munts",
+            "en": "Roman Villa of Els Munts"
+          },
+          "coords": [
+            1.385414,
+            41.135737
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen weitläufigen römischen Ruinen an der Küste, und bringen Sie einen Hut mit, da die Stätte wenig Schatten bietet.",
+            "hu": "Utazzon vissza az időben ezeknél a kiterjedt tengerparti római romoknál, és hozzon magával kalapot, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Întoarceți-vă în timp la aceste extinse ruine romane de pe coastă și aduceți o pălărie, deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Step back in time at these extensive coastal Roman ruins, and bring a wide-brimmed hat as the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Punta de la Galera",
+            "hu": "Punta de la Galera Világítótorony",
+            "ro": "Farul Punta de la Galera",
+            "en": "Punta de la Galera Lighthouse"
+          },
+          "coords": [
+            1.394804,
+            41.13224
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den höchsten Leuchtturm Kataloniens auf den Klippen und spazieren Sie den angrenzenden Felsenweg für die besten Meerblicke entlang.",
+            "hu": "Csodálja meg Katalónia legmagasabb világítótornyát a sziklákon, és sétáljon végig a szomszédos sziklás ösvényen a legjobb tengeri kilátásért.",
+            "ro": "Admirați cel mai înalt far din Catalonia situat pe stânci și plimbați-vă pe cărarea stâncoasă adiacentă pentru cele mai bune priveliști marine.",
+            "en": "Marvel at the highest lighthouse in Catalonia standing proudly on the cliffs, and stroll along the adjacent rocky path for the best sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand Benamocarra",
+            "hu": "Benamocarra Naturista Strand",
+            "ro": "Plaja Nudiștilor Benamocarra",
+            "en": "Benamocarra Naturist Beach"
+          },
+          "coords": [
+            1.425101,
+            41.14901
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur an diesem schönen, abgelegenen FKK-Strand, wo Sie unbedingt eigenes Wasser und Snacks mitbringen sollten.",
+            "hu": "Élvezze a természetet ezen a gyönyörű, eldugott naturista strandon, ahová mindenképpen vigyen magával vizet és nassolnivalót, mert nincsenek büfék.",
+            "ro": "Bucurați-vă de natură la această frumoasă plajă nudiștilor izolată, unde este esențial să vă aduceți propria apă și gustări, lipsind facilitățile.",
+            "en": "Embrace nature at this beautiful and secluded naturist beach, where bringing your own water and snacks is essential as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am majestätischen Castell de Montserrat, bevor Sie sich die historische Era d'en Gatell ansehen. Vor dem Mittag radeln Sie zur weitläufigen Platja d'Altafulla für eine Pause. Der Nachmittag geht weiter mit einer Fahrt zu den römischen Ruinen von Els Munts und dem Leuchtturm Punta de la Galera. Beenden Sie den Tag an der ruhigen Platja Naturista Benamocarra.",
+        "hu": "Indítsa kerékpártúráját a fenséges Castell de Montserratnál, majd nézze meg a történelmi Era d'en Gatellt. Dél előtt tekerjen le a tágas Platja d'Altafulla strandra egy kis pihenésre. A délután az Els Munts római romjaihoz és a Punta de la Galera világítótoronyhoz vezető úttal folytatódik. Zárja aktív napját a békés Platja Naturista Benamocarra strandon.",
+        "ro": "Începeți turul cu bicicleta la maiestuosul Castell de Montserrat înainte de a vedea istorica Era d'en Gatell. Înainte de prânz, pedalați până la întinsa Platja d'Altafulla pentru o pauză. După-amiaza continuă cu o plimbare spre ruinele romane Els Munts și impresionantul far Punta de la Galera. Încheiați-vă ziua activă la liniștita Platja Naturista Benamocarra.",
+        "en": "Kick off your cycling tour at the majestic Castell de Montserrat before checking out the historic Era d'en Gatell. Before noon, pedal down to the expansive Platja d'Altafulla for a refreshing coastal break. The afternoon continues with a ride to the Roman ruins of Els Munts and the dramatic Punta de la Galera lighthouse. Finish your active day at the peaceful Platja Naturista Benamocarra."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 6.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ethnografisches Museum Altafulla",
+            "hu": "Altafulla Néprajzi Múzeum",
+            "ro": "Muzeul Etnografic din Altafulla",
+            "en": "Ethnographic Museum of Altafulla"
+          },
+          "coords": [
+            1.37512,
+            41.14395
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale ländliche Geschichte in diesem faszinierenden Museum in Altafulla, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Fedezze fel a helyi vidéki történelmet ebben a lenyűgöző altafullai múzeumban, de látogatás előtt ellenőrizze az online nyitvatartást.",
+            "ro": "Explorați istoria rurală locală în acest fascinant muzeu din Altafulla, dar verificați online programul limitat înainte de a vă planifica vizita.",
+            "en": "Explore local rural history in this fascinating Altafulla museum, but check their limited opening hours online before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Montserrat",
+            "hu": "Montserrat Kastély",
+            "ro": "Castelul Montserrat",
+            "en": "Montserrat Castle"
+          },
+          "coords": [
+            1.375775,
+            41.142683
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser gut erhaltenen privaten Burg und finden Sie den besten Fotopunkt in den ruhigen umliegenden Straßen.",
+            "hu": "Csodálja meg ennek a gyönyörűen megőrzött magánkastélynak az impozáns külsejét, és találja meg a legjobb fotópontot a csendes utcákról.",
+            "ro": "Admirați exteriorul impunător al acestui castel privat frumos conservat și găsiți cel mai bun loc pentru fotografii de pe străzile liniștite.",
+            "en": "Admire the imposing exterior of this beautifully preserved private castle, and find the best photo spot from the surrounding quiet streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa Els Munts",
+            "hu": "Els Munts Római Villa",
+            "ro": "Vila Romană Els Munts",
+            "en": "Roman Villa of Els Munts"
+          },
+          "coords": [
+            1.385414,
+            41.135737
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen weitläufigen römischen Ruinen an der Küste, und bringen Sie einen Hut mit, da die Stätte wenig Schatten bietet.",
+            "hu": "Utazzon vissza az időben ezeknél a kiterjedt tengerparti római romoknál, és hozzon magával kalapot, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Întoarceți-vă în timp la aceste extinse ruine romane de pe coastă și aduceți o pălărie, deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Step back in time at these extensive coastal Roman ruins, and bring a wide-brimmed hat as the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Punta de la Galera",
+            "hu": "Punta de la Galera Világítótorony",
+            "ro": "Farul Punta de la Galera",
+            "en": "Punta de la Galera Lighthouse"
+          },
+          "coords": [
+            1.394804,
+            41.13224
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den höchsten Leuchtturm Kataloniens auf den Klippen und spazieren Sie den angrenzenden Felsenweg für die besten Meerblicke entlang.",
+            "hu": "Csodálja meg Katalónia legmagasabb világítótornyát a sziklákon, és sétáljon végig a szomszédos sziklás ösvényen a legjobb tengeri kilátásért.",
+            "ro": "Admirați cel mai înalt far din Catalonia situat pe stânci și plimbați-vă pe cărarea stâncoasă adiacentă pentru cele mai bune priveliști marine.",
+            "en": "Marvel at the highest lighthouse in Catalonia standing proudly on the cliffs, and stroll along the adjacent rocky path for the best sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand Benamocarra",
+            "hu": "Benamocarra Naturista Strand",
+            "ro": "Plaja Nudiștilor Benamocarra",
+            "en": "Benamocarra Naturist Beach"
+          },
+          "coords": [
+            1.425101,
+            41.14901
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur an diesem schönen, abgelegenen FKK-Strand, wo Sie unbedingt eigenes Wasser und Snacks mitbringen sollten.",
+            "hu": "Élvezze a természetet ezen a gyönyörű, eldugott naturista strandon, ahová mindenképpen vigyen magával vizet és nassolnivalót, mert nincsenek büfék.",
+            "ro": "Bucurați-vă de natură la această frumoasă plajă nudiștilor izolată, unde este esențial să vă aduceți propria apă și gustări, lipsind facilitățile.",
+            "en": "Embrace nature at this beautiful and secluded naturist beach, where bringing your own water and snacks is essential as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im kulturellen Herzen von Altafulla mit dem ethnografischen Museum und dem schönen privaten Schloss. Mittags bietet sich ein kurzer Ausflug nach Süden zu den römischen Ruinen von Els Munts an. Parken Sie am Nachmittag in der Nähe des majestätischen Leuchtturms, um die Klippen zu bewundern. Schließen Sie Ihre Küstenreise am abgelegenen Strand von Benamocarra ab.",
+        "hu": "Kezdje festői autózását Altafulla kulturális szívében, a néprajzi múzeum és a gyönyörű magánkastély meglátogatásával. Délben tegyen egy rövid utat délre Els Munts hatalmas római romjaihoz. Délután parkoljon le a fenséges világítótorony közelében, hogy megcsodálja a sziklás partokat. Fejezze be tengerparti utazását a félreeső Benamocarra strand nyugalmában.",
+        "ro": "Începeți plimbarea cu mașina în inima culturală a Altafullei, vizitând muzeul etnografic și frumosul castel privat. La prânz, faceți o scurtă excursie spre sud, la vastele ruine romane Els Munts. După-amiaza, parcați lângă farul maiestuos pentru a admira stâncile abrupte. Încheiați-vă călătoria pe coastă relaxându-vă la plaja izolată Benamocarra.",
+        "en": "Begin your scenic drive in the cultural heart of Altafulla, visiting the ethnographic museum and the beautiful private castle nearby. Midday offers a short trip south to the extensive Roman ruins of Els Munts, where ancient history comes alive. In the afternoon, park near the majestic lighthouse to admire the rugged cliffs and the endless Mediterranean horizon. Conclude your coastal journey unwinding at the secluded Benamocarra beach."
+      }
+    }
+  }
+}

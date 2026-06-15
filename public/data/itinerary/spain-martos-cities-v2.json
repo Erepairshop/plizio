@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-martos-cities-v2",
+  "anchor": {
+    "name": "Martos",
+    "coords": [
+      -3.97264,
+      37.72107
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 0.87,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barockes Portal des San Francisco",
+            "hu": "San Francisco kolostor barokk kapuja",
+            "ro": "Poarta barocă San Francisco",
+            "en": "Baroque Portal of San Francisco"
+          },
+          "coords": [
+            -3.970119,
+            37.722076
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Details dieses franziskanischen Tores, das die lokale Geschichte bewahrt, und fotografieren Sie es im sanften Morgenlicht.",
+            "hu": "Csodálja meg e tizenhatodik századi ferences kapu barokk részleteit, mely gyönyörűen őrzi a helyi történelmet, és fotózza le a lágy reggeli fényekben.",
+            "ro": "Admirați detaliile baroce ale acestei porți franciscane din secolul al XVI-lea, care păstrează istoria locală, și fotografiați-o în lumina dimineții.",
+            "en": "Admire the intricate Baroque details of this 16th-century Franciscan gateway, which beautifully preserves local history, and photograph it in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt",
+            "hu": "Kilátó",
+            "ro": "Punct de belvedere",
+            "en": "Viewpoint"
+          },
+          "coords": [
+            -3.969082,
+            37.723499
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die umliegenden Olivenhaine von diesem Aussichtspunkt, aber bringen Sie eine leichte Jacke für den Wind mit.",
+            "hu": "Élvezze a környező végtelen olajfaligetekre nyíló panorámát erről a természetes kilátóról, de hozzon magával egy könnyű dzsekit a hűvös szellő miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice asupra livezilor de măslini de la acest punct de belvedere natural, dar aduceți o jachetă pentru briza ușoară.",
+            "en": "Enjoy sweeping panoramic views of the vast surrounding olive groves from this natural vantage point, but be sure to bring a light jacket as it can get breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgturm der Villa",
+            "hu": "A villa öregtornya",
+            "ro": "Turnul Castelului",
+            "en": "Tower of Homage"
+          },
+          "coords": [
+            -3.967222,
+            37.723688
+          ],
+          "category": "castle",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Festungsturm, der von der mittelalterlichen Vergangenheit zeugt, und tragen Sie feste Schuhe für die steilen Aufstiege.",
+            "hu": "Fedezze fel ezt az impozáns erődítményt, amely Martos középkori múltjáról tanúskodik, és viseljen kényelmes cipőt a meredek feljárók biztonságos leküzdéséhez.",
+            "ro": "Explorați acest turn impunător care stă mărturie trecutului medieval al orașului Martos și purtați încălțăminte confortabilă pentru urcușurile abrupte.",
+            "en": "Explore this imposing fortress keep that stands as a testament to Martos' medieval past, and wear sturdy walking shoes to safely navigate the steep ascents."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Marta Kirche",
+            "hu": "Santa Marta templom",
+            "ro": "Biserica Santa Marta",
+            "en": "Church of Santa Marta"
+          },
+          "coords": [
+            -3.965069,
+            37.722776
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die elegante Architektur und ruhige Atmosphäre dieser Kirche, und prüfen Sie den Aushang auf abendliche Chorauftritte.",
+            "hu": "Szánjon időt e templom elegáns építészetének és nyugodt légkörének megcsodálására, és ellenőrizze a hirdetőtáblát az esetleges esti kórusfellépések miatt.",
+            "ro": "Acordați-vă timp pentru arhitectura elegantă și ambianța liniștită a acestei biserici și verificați panoul informativ pentru concertele corale de seară.",
+            "en": "Take time to appreciate the elegant religious architecture and tranquil ambiance of this church, and check the notice board for any evening choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum San Juan de Dios",
+            "hu": "San Juan de Dios kulturális terem",
+            "ro": "Sala culturală San Juan de Dios",
+            "en": "San Juan de Dios Cultural Hall"
+          },
+          "coords": [
+            -3.964993,
+            37.723753
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem wunderschön restaurierten Gebäude in kulturelle Ausstellungen ein und fragen Sie am Empfang nach temporären lokalen Kunstsammlungen.",
+            "hu": "Merüljön el a dinamikus kulturális kiállításokban ebben a szépen felújított épületben, és érdeklődjön a recepción az időszakos helyi művészeti tárlatokról.",
+            "ro": "Imersați-vă în expozițiile culturale din această clădire frumos restaurată și întrebați la recepție despre colecțiile temporare de artă locală.",
+            "en": "Immerse yourself in dynamic cultural exhibitions within this beautifully restored building, and ask the front desk about any temporary local art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa-Brunnen",
+            "hu": "A Villa kútja",
+            "ro": "Fântâna Vilei",
+            "en": "Fountain of the Villa"
+          },
+          "coords": [
+            -3.96255,
+            37.724828
+          ],
+          "category": "landmark",
+          "arrive_at": "14:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen jahrhundertealten Brunnen, der einst die Lebensader der Stadt war, und setzen Sie sich auf eine Bank, um dem Wasser zu lauschen.",
+            "hu": "Csodálja meg ezt az ikonikus, évszázados kutat, amely egykor a város éltető eleme volt, és üljön le egy közeli padra hallgatni a víz nyugtató csobogását.",
+            "ro": "Minunați-vă de această fântână veche de secole care a fost odată sursa de viață a orașului și așezați-vă pe o bancă pentru a asculta sunetul apei.",
+            "en": "Marvel at this iconic, centuries-old fountain that once served as the town's lifeblood, and sit on a nearby bench to listen to the soothing sound of water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Martos am Tor des alten Franziskanerklosters. Steigen Sie am Mittag zum Mirador hinauf, um die Aussicht auf die Olivenhaine zu genießen. Verbringen Sie den Nachmittag damit, die Architektur der Santa Marta Kirche aufzusaugen. Beenden Sie Ihren Abend entspannt an der ikonischen Fuente de la Villa.",
+        "hu": "Kezdje a reggelt Martos történelmi szívében, a régi ferences kolostor tizenhatodik századi kapujánál. Délben kapaszkodjon fel a Miradorhoz a csodás kilátásért, majd fedezze fel a várat. A délutánt a Santa Marta templom lenyűgöző építészetének szentelje. Zárja az estét az ikonikus Fuente de la Villa kútnál, élvezve a nyugodt andalúz hangulatot.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Martos, la poarta vechii mănăstiri franciscane. La amiază, urcați spre Mirador pentru a admira livezile de măslini și castelul. Petreceți după-amiaza admirând arhitectura bisericii Santa Marta și absorbind cultura locală. Încheiați seara relaxant la faimoasa fântână Fuente de la Villa.",
+        "en": "Begin your morning exploring the historic heart of Martos, focusing on the 16th-century Franciscan gateway. By midday, climb up towards the Mirador to enjoy sweeping views of the olive groves before discovering the majestic castle keep. Spend your afternoon admiring the intricate architecture of the Santa Marta church. Conclude your evening at the Fuente de la Villa."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 1.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pilar de la Fuente Nueva",
+            "hu": "Pilar de la Fuente Nueva",
+            "ro": "Pilar de la Fuente Nueva",
+            "en": "Pilar de la Fuente Nueva"
+          },
+          "coords": [
+            -3.974225,
+            37.716134
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen monumentalen Renaissance-Brunnen mit kunstvollen Steinmetzarbeiten und besuchen Sie ihn früh morgens, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel ezt a bonyolult kőfaragásokkal díszített, monumentális reneszánsz kutat, és látogassa meg kora reggel, hogy elkerülje a tikkasztó déli hőséget.",
+            "ro": "Descoperiți această fântână renascentistă monumentală decorată cu sculpturi elaborate și vizitați-o dimineața devreme pentru a evita căldura de la amiază.",
+            "en": "Discover this monumental Renaissance fountain decorated with elaborate stonework, and visit during the early morning hours to avoid the harsh midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Regionalistisches Haus",
+            "hu": "Regionalista ház",
+            "ro": "Casă regionalistă",
+            "en": "Regionalist House"
+          },
+          "coords": [
+            -3.972781,
+            37.718302
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante Fassade dieses Gebäudes, das die einzigartige regionale Architektur zeigt, und gehen Sie für das beste Foto über die Straße.",
+            "hu": "Figyelje meg ennek a különleges regionális építészetet bemutató épületnek a feltűnő homlokzatát, és menjen át az utca túloldalára a legjobb fotószögért.",
+            "ro": "Observați fațada uimitoare a acestei clădiri care prezintă arhitectura regională unică și traversați strada pentru a obține cel mai bun unghi de fotografiere.",
+            "en": "Observe the striking facade of this landmark building that showcases unique regional architecture, and step back across the street for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            -3.972227,
+            37.722004
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit der Region ein und beginnen Sie im obersten Stockwerk, um der chronologischen Zeitleiste zu folgen.",
+            "hu": "Merüljön el a régió ősi múltjában a lenyűgöző ibériai leletek felfedezésével, és kezdje a legfelső emeleten, hogy kövesse a történelmi idővonalat.",
+            "ro": "Pătrundeți în trecutul antic al regiunii explorând o colecție fascinantă de artefacte iberice și începeți la ultimul etaj pentru a urmări cronologia.",
+            "en": "Delve deep into the region's ancient past by exploring a fascinating collection of Iberian artifacts, and start on the top floor to follow the timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Barockes Portal des San Francisco",
+            "hu": "San Francisco kolostor barokk kapuja",
+            "ro": "Poarta barocă San Francisco",
+            "en": "Baroque Portal of San Francisco"
+          },
+          "coords": [
+            -3.970119,
+            37.722076
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Details dieses franziskanischen Tores, das die lokale Geschichte bewahrt, und fotografieren Sie es im sanften Licht.",
+            "hu": "Csodálja meg e tizenhatodik századi ferences kapu barokk részleteit, mely gyönyörűen őrzi a helyi történelmet, és fotózza le a fények játékát.",
+            "ro": "Admirați detaliile baroce ale acestei porți franciscane din secolul al XVI-lea, care păstrează istoria locală, și fotografiați-o din cel mai bun unghi.",
+            "en": "Admire the intricate Baroque details of this 16th-century Franciscan gateway, which beautifully preserves local history, and photograph it closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Marta Kirche",
+            "hu": "Santa Marta templom",
+            "ro": "Biserica Santa Marta",
+            "en": "Church of Santa Marta"
+          },
+          "coords": [
+            -3.965069,
+            37.722776
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die elegante Architektur und ruhige Atmosphäre dieser Kirche, und prüfen Sie den Aushang auf abendliche Chorauftritte.",
+            "hu": "Szánjon időt e templom elegáns építészetének és nyugodt légkörének megcsodálására, és ellenőrizze a hirdetőtáblát az esetleges esti kórusfellépések miatt.",
+            "ro": "Acordați-vă timp pentru arhitectura elegantă și ambianța liniștită a acestei biserici și verificați panoul informativ pentru concertele corale de seară.",
+            "en": "Take time to appreciate the elegant religious architecture and tranquil ambiance of this church, and check the notice board for any evening choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgturm der Villa",
+            "hu": "A villa öregtornya",
+            "ro": "Turnul Castelului",
+            "en": "Tower of Homage"
+          },
+          "coords": [
+            -3.967222,
+            37.723688
+          ],
+          "category": "castle",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Festungsturm, der von der mittelalterlichen Vergangenheit zeugt, und tragen Sie feste Schuhe für die steilen Aufstiege.",
+            "hu": "Fedezze fel ezt az impozáns erődítményt, amely Martos középkori múltjáról tanúskodik, és viseljen kényelmes cipőt a meredek feljárók biztonságos leküzdéséhez.",
+            "ro": "Explorați acest turn impunător care stă mărturie trecutului medieval al orașului Martos și purtați încălțăminte confortabilă pentru urcușurile abrupte.",
+            "en": "Explore this imposing fortress keep that stands as a testament to Martos' medieval past, and wear sturdy walking shoes to safely navigate the steep ascents."
+          }
+        },
+        {
+          "name": {
+            "de": "San Amador Kirche",
+            "hu": "San Amador templom",
+            "ro": "Biserica San Amador",
+            "en": "Church of San Amador"
+          },
+          "coords": [
+            -3.963782,
+            37.724606
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieser bezaubernden Pfarrkirche in der Altstadt und achten Sie besonders auf die detailreichen hölzernen Altaraufsätze im Inneren.",
+            "hu": "Tapasztalja meg a mély nyugalmat ebben a bájos óvárosi plébániatemplomban, és szenteljen különös figyelmet a részletgazdag fából készült oltárképeknek.",
+            "ro": "Experimentați liniștea profundă a acestei fermecătoare biserici parohiale din orașul vechi și acordați o atenție deosebită altarelor detaliate din lemn.",
+            "en": "Experience the profound tranquility of this charming parish church nestled in the old town, and pay special attention to the detailed wooden altarpieces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Fahrradmorgen am majestätischen Pilar de la Fuente Nueva. Mittags fahren Sie vorbei an schönen Herrenhäusern zum Archäologischen Museum. Am Nachmittag radeln Sie hoch zur Burg und zur eleganten Santa Marta Kirche für atemberaubende Ausblicke. Wenn der Abend hereinbricht, rollen Sie zur San Amador Kirche, um das Licht zu genießen.",
+        "hu": "Kezdje a biciklis reggelt a fenséges Pilar de la Fuente Nueva emlékművénél. Délben tekerjen el a szép regionalista kúriák mellett a Régészeti Múzeumig. Délután kapaszkodjon fel a várhoz és az elegáns Santa Marta templomhoz a lenyűgöző látványért. Ahogy közeledik az este, guruljon le a San Amador templomhoz a fények megcsodálásához.",
+        "ro": "Începeți dimineața pe bicicletă la maiestuosul Pilar de la Fuente Nueva. La amiază, treceți pe lângă frumoasele conace regionaliste spre Muzeul de Arheologie. După-amiaza, pedalați spre castel și biserica Santa Marta pentru priveliști uimitoare. Odată cu lăsarea serii, coborâți la biserica San Amador pentru a vă bucura de asfințitul andaluz.",
+        "en": "Start your cycling morning at the majestic Pilar de la Fuente Nueva monument. Midday brings you past beautiful regionalist mansions to the Archaeological Museum for ancient history. In the afternoon, pedal up toward the castle and the elegant Santa Marta church for breathtaking sights. As evening falls, roll down to San Amador church to soak in the fading light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Frühchristliche Kirche",
+            "hu": "Ókeresztény templom",
+            "ro": "Biserica Paleocreștină",
+            "en": "Paleochristian Church"
+          },
+          "coords": [
+            -3.979416,
+            37.721524
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die frühesten Tage des Christentums zurück, während Sie diese antiken Ruinen inspizieren, und lesen Sie die Schautafeln, um den Grundriss zu verstehen.",
+            "hu": "Lépjen vissza a kereszténység legkorábbi napjaiba, miközben megvizsgálja ezeket az ősi romokat, és olvassa el a táblákat a pontos elrendezés megértéséhez.",
+            "ro": "Întoarceți-vă în primele zile ale creștinismului inspectând aceste ruine antice fascinante și citiți plăcile informative pentru a înțelege structura lor.",
+            "en": "Step back into the earliest days of Christianity as you inspect these fascinating ancient ruins, and read the informational plaques to understand their layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilar de la Fuente Nueva",
+            "hu": "Pilar de la Fuente Nueva",
+            "ro": "Pilar de la Fuente Nueva",
+            "en": "Pilar de la Fuente Nueva"
+          },
+          "coords": [
+            -3.974225,
+            37.716134
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen monumentalen Renaissance-Brunnen mit kunstvollen Steinmetzarbeiten und besuchen Sie ihn früh morgens, um der Mittagshitze zu entgehen.",
+            "hu": "Fedezze fel ezt a bonyolult kőfaragásokkal díszített, monumentális reneszánsz kutat, és látogassa meg kora reggel, hogy elkerülje a tikkasztó déli hőséget.",
+            "ro": "Descoperiți această fântână renascentistă monumentală decorată cu sculpturi elaborate și vizitați-o dimineața devreme pentru a evita căldura de la amiază.",
+            "en": "Discover this monumental Renaissance fountain decorated with elaborate stonework, and visit during the early morning hours to avoid the harsh midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Theater",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "Municipal Theater"
+          },
+          "coords": [
+            -3.975533,
+            37.71831
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erleben Sie den modernen kulturellen Herzschlag von Martos in diesem Theater und prüfen Sie vorher den Online-Spielplan, um Tickets für eine Abendshow zu buchen.",
+            "hu": "Értékelje Martos modern kulturális lüktetését ebben a jól felszerelt helyi színházban, és nézze meg online a műsort, hogy jegyet foglalhasson egy esti előadásra.",
+            "ro": "Apreciați inima culturală modernă din Martos la acest teatru local bine echipat și verificați programul online din timp pentru a rezerva bilete pentru o seară de spectacol.",
+            "en": "Appreciate the modern cultural heartbeat of Martos at this well-equipped local theater, and check their online schedule beforehand to book tickets for an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            -3.972227,
+            37.722004
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die antike Vergangenheit der Region ein und beginnen Sie im obersten Stockwerk, um der chronologischen Zeitleiste zu folgen.",
+            "hu": "Merüljön el a régió ősi múltjában a lenyűgöző ibériai leletek felfedezésével, és kezdje a legfelső emeleten, hogy kövesse a történelmi idővonalat.",
+            "ro": "Pătrundeți în trecutul antic al regiunii explorând o colecție fascinantă de artefacte iberice și începeți la ultimul etaj pentru a urmări cronologia.",
+            "en": "Delve deep into the region's ancient past by exploring a fascinating collection of Iberian artifacts, and start on the top floor to follow the timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt",
+            "hu": "Kilátó",
+            "ro": "Punct de belvedere",
+            "en": "Viewpoint"
+          },
+          "coords": [
+            -3.969082,
+            37.723499
+          ],
+          "category": "natural",
+          "arrive_at": "14:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die umliegenden Olivenhaine von diesem Aussichtspunkt, aber bringen Sie eine leichte Jacke für den Wind mit.",
+            "hu": "Élvezze a környező végtelen olajfaligetekre nyíló panorámát erről a természetes kilátóról, de hozzon magával egy könnyű dzsekit a hűvös szellő miatt.",
+            "ro": "Bucurați-vă de priveliști panoramice asupra livezilor de măslini de la acest punct de belvedere natural, dar aduceți o jachetă pentru briza ușoară.",
+            "en": "Enjoy sweeping panoramic views of the vast surrounding olive groves from this natural vantage point, but be sure to bring a light jacket as it can get breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgturm der Villa",
+            "hu": "A villa öregtornya",
+            "ro": "Turnul Castelului",
+            "en": "Tower of Homage"
+          },
+          "coords": [
+            -3.967222,
+            37.723688
+          ],
+          "category": "castle",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Festungsturm, der von der mittelalterlichen Vergangenheit zeugt, und tragen Sie feste Schuhe für die steilen Aufstiege.",
+            "hu": "Fedezze fel ezt az impozáns erődítményt, amely Martos középkori múltjáról tanúskodik, és viseljen kényelmes cipőt a meredek feljárók biztonságos leküzdéséhez.",
+            "ro": "Explorați acest turn impunător care stă mărturie trecutului medieval al orașului Martos și purtați încălțăminte confortabilă pentru urcușurile abrupte.",
+            "en": "Explore this imposing fortress keep that stands as a testament to Martos' medieval past, and wear sturdy walking shoes to safely navigate the steep ascents."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum San Juan de Dios",
+            "hu": "San Juan de Dios kulturális terem",
+            "ro": "Sala culturală San Juan de Dios",
+            "en": "San Juan de Dios Cultural Hall"
+          },
+          "coords": [
+            -3.964993,
+            37.723753
+          ],
+          "category": "cultural",
+          "arrive_at": "16:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem wunderschön restaurierten Gebäude in kulturelle Ausstellungen ein und fragen Sie am Empfang nach temporären lokalen Kunstsammlungen.",
+            "hu": "Merüljön el a dinamikus kulturális kiállításokban ebben a szépen felújított épületben, és érdeklődjön a recepción az időszakos helyi művészeti tárlatokról.",
+            "ro": "Imersați-vă în expozițiile culturale din această clădire frumos restaurată și întrebați la recepție despre colecțiile temporare de artă locală.",
+            "en": "Immerse yourself in dynamic cultural exhibitions within this beautifully restored building, and ask the front desk about any temporary local art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa-Brunnen",
+            "hu": "A Villa kútja",
+            "ro": "Fântâna Vilei",
+            "en": "Fountain of the Villa"
+          },
+          "coords": [
+            -3.96255,
+            37.724828
+          ],
+          "category": "landmark",
+          "arrive_at": "17:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen jahrhundertealten Brunnen, der einst die Lebensader der Stadt war, und setzen Sie sich auf eine Bank, um dem Wasser zu lauschen.",
+            "hu": "Csodálja meg ezt az ikonikus, évszázados kutat, amely egykor a város éltető eleme volt, és üljön le egy közeli padra hallgatni a víz nyugtató csobogását.",
+            "ro": "Minunați-vă de această fântână veche de secole care a fost odată sursa de viață a orașului și așezați-vă pe o bancă pentru a asculta sunetul apei.",
+            "en": "Marvel at this iconic, centuries-old fountain that once served as the town's lifeblood, and sit on a nearby bench to listen to the soothing sound of water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt an der frühchristlichen Kirche, bevor Sie zum Pilar de la Fuente Nueva fahren. Mittags können Sie das lokale Theater besuchen und im Museum in die Geschichte eintauchen. Der Nachmittag ist für die Oberstadt reserviert, wo Sie den Burgturm und den Mirador erkunden. Der Abend endet perfekt an der historischen Fuente de la Villa.",
+        "hu": "A reggeli autózás az ókeresztény templomnál indul, mielőtt a Pilar de la Fuente Nueva felé venné az irányt. Délben látogassa meg a színházat és a Régészeti Múzeum kiállításait. A délután a felsővárosé, ahol felfedezheti az öregtornyot és a kilátót. Az este tökéletesen zárul a történelmi Fuente de la Villa kútnál, a hangulatos utcák ölelésében.",
+        "ro": "Călătoria de dimineață începe la Biserica Paleocreștină, înainte de a vă îndrepta spre grandiosul Pilar de la Fuente Nueva. La amiază vizitați teatrul local și Muzeul de Arheologie. După-amiaza este rezervată orașului de sus, unde explorați turnul castelului și admirați priveliștile de la Mirador. Seara se încheie perfect la istorica fântână Fuente de la Villa.",
+        "en": "Your morning drive begins at the fascinating Paleochristian Church before heading to the grand Pilar de la Fuente Nueva. Midday allows you to visit the local theater and immerse yourself in artifacts at the Archaeological Museum. The afternoon is reserved for the spectacular upper town, exploring the castle keep and admiring the views from the Mirador. Evening concludes at the Fuente de la Villa."
+      }
+    }
+  }
+}

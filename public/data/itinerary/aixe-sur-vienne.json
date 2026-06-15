@@ -1,0 +1,474 @@
+{
+  "city_id": "aixe-sur-vienne",
+  "anchor": {
+    "name": "Aixe-sur-Vienne",
+    "coords": [
+      1.1361,
+      45.7964
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Croix",
+            "hu": "Église Sainte-Croix",
+            "ro": "Église Sainte-Croix",
+            "en": "Église Sainte-Croix"
+          },
+          "coords": [
+            1.136414,
+            45.795599
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser zentralen Kirche, wobei die detaillierten Schnitzereien im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés hangulatát, figyelembe véve a reggeli fényben legjobban látható részletes faragásokat.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici centrale, observând sculpturile detaliate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this central church, noting the detailed carvings best seen in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeanne d'Albret Turm",
+            "hu": "Jeanne d'Albret Torony",
+            "ro": "Turnul Jeanne d'Albret",
+            "en": "Jeanne d'Albret Tower"
+          },
+          "coords": [
+            1.14167,
+            45.79708
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten historischen Turm hinauf, der ein mächtiges Symbol der Stadtgeschichte bleibt, aber vergessen Sie nicht Ihr Weitwinkelobjektiv für das perfekte Foto.",
+            "hu": "Tekintsen fel erre a lenyűgöző történelmi toronyra, amely a város múltjának erőteljes szimbóluma maradt, és hozzon magával nagylátószögű objektívet a teljes magasság megörökítéséhez.",
+            "ro": "Priviți în sus la acest turn istoric impresionant, care rămâne un simbol puternic al trecutului orașului, dar amintiți-vă să aduceți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Look up at this striking historical tower which remains a powerful symbol of the town's past, but remember to bring a wide-angle lens to capture its full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont romain",
+            "hu": "Pont romain",
+            "ro": "Pont romain",
+            "en": "Pont romain"
+          },
+          "coords": [
+            1.13888,
+            45.793538
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese antike römische Brücke, um die beständige Geschichte unter Ihren Füßen zu spüren, und nehmen Sie sich Zeit für ein Foto der spiegelnden Wasseroberfläche.",
+            "hu": "Sétáljon át ezen az ősi római hídon, hogy érezze a lába alatt a történelmet, miközben szakít egy kis időt a tükröződő víztükör lefotózására is.",
+            "ro": "Plimbați-vă pe acest vechi pod roman pentru a simți istoria durabilă sub picioarele dumneavoastră, făcând o clipă pentru a fotografia apele reflectorizante de dedesubt.",
+            "en": "Walk across this ancient Roman bridge to feel the enduring history beneath your feet, while taking a moment to photograph the reflective waters below."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux Jacques Prévert",
+            "hu": "Aire de Jeux Jacques Prévert",
+            "ro": "Aire de Jeux Jacques Prévert",
+            "en": "Aire de Jeux Jacques Prévert"
+          },
+          "coords": [
+            1.128874,
+            45.79354
+          ],
+          "category": "family",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem charmanten Park am Flussufer Energie abbauen, der auch gepflegte Bänke für Erwachsene bietet, um sich bei einem Snack zu entspannen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a folyóparti parkban, amely karbantartott padokat is kínál a felnőttek számára egy gyors uzsonna elfogyasztásához.",
+            "ro": "Lăsați copiii să-și consume energia în acest parc încântător de pe malul râului, care oferă și bănci bine întreținute pentru ca adulții să se relaxeze cu o gustare rapidă.",
+            "en": "Let the kids burn off energy in this delightful riverside park, which also offers well-maintained benches for adults to relax with a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Vierge et Saint-Jean",
+            "hu": "Chapelle de la Vierge et Saint-Jean",
+            "ro": "Chapelle de la Vierge et Saint-Jean",
+            "en": "Chapelle de la Vierge et Saint-Jean"
+          },
+          "coords": [
+            1.123441,
+            45.794423
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber zutiefst spirituelle Kapelle, um echte lokale Ruhe zu erleben, auch wenn die Öffnungszeiten manchmal variieren können.",
+            "hu": "Látogasson el ebbe a szerény, mégis mélyen spirituális kápolnába, hogy megtapasztalja az igazi helyi nyugalmat, bár vegye figyelembe, hogy a nyitvatartás esetenként változhat.",
+            "ro": "Vizitați această capelă modestă, dar profund spirituală pentru a experimenta o liniște locală autentică, deși aveți grijă că orele de deschidere pot varia uneori.",
+            "en": "Visit this modest yet deeply spiritual chapel to experience genuine local tranquility, though be aware that opening hours can occasionally vary so check the door sign."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Aixe-sur-Vienne und bewundern Sie die mittelalterliche Architektur. Mittags erwartet Sie ein entspannter Spaziergang zur alten römischen Brücke mit malerischem Flussblick. Genießen Sie am Nachmittag die familienfreundlichen Grünflächen direkt am Wasser. Der Nachmittag klingt bei der ruhigen westlichen Kapelle friedlich aus.",
+        "hu": "Kezdje a reggelt Aixe-sur-Vienne történelmi szívének felfedezésével és a középkori építészet megcsodálásával. Délben egy pihentető séta várja az ősi római hídhoz, ahonnan festői folyóparti kilátás nyílik. Délután élvezze a családbarát zöldterületeket közvetlenül a vízparton. A napot a nyugati kápolna csendes és meghitt meglátogatása zárja tökéletesen.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Aixe-sur-Vienne, admirând arhitectura medievală. La prânz, faceți o plimbare relaxantă spre vechiul pod roman, oferind vederi pitorești spre râu. După-amiaza, bucurați-vă de spațiile verzi prietenoase cu familia, chiar pe malul apei. Turul se încheie perfect cu o vizită liniștită la capela vestică.",
+        "en": "Start your morning exploring the historic heart of Aixe-sur-Vienne, marveling at the medieval architecture. Midday brings a relaxing stroll towards the ancient Roman bridge, offering picturesque river views. In the afternoon, enjoy family-friendly green spaces by the water. The walk wraps up perfectly with a quiet visit to the western chapel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Croix",
+            "hu": "Église Sainte-Croix",
+            "ro": "Église Sainte-Croix",
+            "en": "Église Sainte-Croix"
+          },
+          "coords": [
+            1.136414,
+            45.795599
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser zentralen Kirche, wobei die detaillierten Schnitzereien im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés hangulatát, figyelembe véve a reggeli fényben legjobban látható részletes faragásokat.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici centrale, observând sculpturile detaliate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this central church, noting the detailed carvings best seen in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeanne d'Albret Turm",
+            "hu": "Jeanne d'Albret Torony",
+            "ro": "Turnul Jeanne d'Albret",
+            "en": "Jeanne d'Albret Tower"
+          },
+          "coords": [
+            1.14167,
+            45.79708
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten historischen Turm hinauf, der ein mächtiges Symbol der Stadtgeschichte bleibt, aber vergessen Sie nicht Ihr Weitwinkelobjektiv für das perfekte Foto.",
+            "hu": "Tekintsen fel erre a lenyűgöző történelmi toronyra, amely a város múltjának erőteljes szimbóluma maradt, és hozzon magával nagylátószögű objektívet a teljes magasság megörökítéséhez.",
+            "ro": "Priviți în sus la acest turn istoric impresionant, care rămâne un simbol puternic al trecutului orașului, dar amintiți-vă să aduceți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Look up at this striking historical tower which remains a powerful symbol of the town's past, but remember to bring a wide-angle lens to capture its full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame d'Arliquet Chapel",
+            "hu": "Notre-Dame d'Arliquet Kápolna",
+            "ro": "Capela Notre-Dame d'Arliquet",
+            "en": "Notre-Dame d'Arliquet Chapel"
+          },
+          "coords": [
+            1.154345,
+            45.79957
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel in einem ruhigen Park am Fluss, der perfekte Ort, um sich auszuruhen und das lokale religiöse Erbe zu würdigen.",
+            "hu": "Fedezze fel ezt a rejtett gyöngyszemet egy nyugodt folyóparti parkban, amely tökéletes hely a pihenésre és a helyi vallási örökség megismerésére.",
+            "ro": "Descoperiți această bijuterie ascunsă într-un parc senin de-a lungul râului, fiind locul perfect pentru a vă odihni și a aprecia moștenirea religioasă locală.",
+            "en": "Discover this hidden gem set in a serene park along the river, making it the perfect spot to rest and appreciate the local religious heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont romain",
+            "hu": "Pont romain",
+            "ro": "Pont romain",
+            "en": "Pont romain"
+          },
+          "coords": [
+            1.13888,
+            45.793538
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese antike römische Brücke, um die beständige Geschichte unter Ihren Füßen zu spüren, und nehmen Sie sich Zeit für ein Foto der spiegelnden Wasseroberfläche.",
+            "hu": "Sétáljon át ezen az ősi római hídon, hogy érezze a lába alatt a történelmet, miközben szakít egy kis időt a tükröződő víztükör lefotózására is.",
+            "ro": "Plimbați-vă pe acest vechi pod roman pentru a simți istoria durabilă sub picioarele dumneavoastră, făcând o clipă pentru a fotografia apele reflectorizante de dedesubt.",
+            "en": "Walk across this ancient Roman bridge to feel the enduring history beneath your feet, while taking a moment to photograph the reflective waters below."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Vierge et Saint-Jean",
+            "hu": "Chapelle de la Vierge et Saint-Jean",
+            "ro": "Chapelle de la Vierge et Saint-Jean",
+            "en": "Chapelle de la Vierge et Saint-Jean"
+          },
+          "coords": [
+            1.123441,
+            45.794423
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber zutiefst spirituelle Kapelle, um echte lokale Ruhe zu erleben, auch wenn die Öffnungszeiten manchmal variieren können.",
+            "hu": "Látogasson el ebbe a szerény, mégis mélyen spirituális kápolnába, hogy megtapasztalja az igazi helyi nyugalmat, bár vegye figyelembe, hogy a nyitvatartás esetenként változhat.",
+            "ro": "Vizitați această capelă modestă, dar profund spirituală pentru a experimenta o liniște locală autentică, deși aveți grijă că orele de deschidere pot varia uneori.",
+            "en": "Visit this modest yet deeply spiritual chapel to experience genuine local tranquility, though be aware that opening hours can occasionally vary so check the door sign."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Losmonerie",
+            "hu": "Château de Losmonerie",
+            "ro": "Château de Losmonerie",
+            "en": "Château de Losmonerie"
+          },
+          "coords": [
+            1.118847,
+            45.820497
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das atemberaubende Gelände und die Architektur dieses prächtigen Schlosses und nutzen Sie eine Führung, um seine regionale Bedeutung voll zu erfassen.",
+            "hu": "Fedezze fel e fenséges kastély lenyűgöző parkját és történelmi építészetét, és vegyen részt a vezetett túrán a gazdag regionális jelentőségének teljes megértéséhez.",
+            "ro": "Explorați terenurile uimitoare și arhitectura istorică a acestui castel magnific, participând la un tur ghidat pentru a aprecia pe deplin semnificația sa regională bogată.",
+            "en": "Explore the stunning grounds and historical architecture of this magnificent château, taking the guided tour to fully appreciate its rich regional significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im lebhaften Zentrum, bevor Sie zum markanten Turm radeln. Gegen Mittag fahren Sie ostwärts entlang der Vienne zu einem verborgenen Uferheiligtum. Der Nachmittag lädt zu einer malerischen Route über die alte Brücke in den westlichen Teil der Stadt ein. Ihr Tag endet mit einer lohnenden Fahrt nach Norden zu einem prächtigen Landsitz.",
+        "hu": "Kezdje kerékpártúráját a nyüzsgő központban, mielőtt a fenséges toronyhoz tekerne. Délben haladjon kelet felé a Vienne folyó mentén egy rejtett parti szentélyhez. A délután egy festői útvonalra invitál a régi híd érintésével a város nyugati szélei felé. A napot egy északi irányú, jutalomszámba menő tekerés zárja egy csodálatos vidéki birtoknál.",
+        "ro": "Începeți turul cu bicicleta în centrul plin de viață înainte de a pedala spre turnul emblematic. La prânz, mergeți spre est de-a lungul râului Vienne pentru a descoperi un sanctuar ascuns pe mal. După-amiaza vă invită la un traseu pitoresc pe lângă vechiul pod spre marginile vestice ale orașului. Ziua se încheie cu o plimbare plină de satisfacții spre o moșie magnifică din nord.",
+        "en": "Kick off your cycling tour in the bustling center before pedaling to the iconic tower. By noon, ride eastward along the Vienne to discover a hidden riverside sanctuary. The afternoon invites a scenic route past the old bridge towards the town's charming western edges. Your day concludes with a rewarding ride north to a magnificent country estate."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jeanne d'Albret Turm",
+            "hu": "Jeanne d'Albret Torony",
+            "ro": "Turnul Jeanne d'Albret",
+            "en": "Jeanne d'Albret Tower"
+          },
+          "coords": [
+            1.14167,
+            45.79708
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten historischen Turm hinauf, der ein mächtiges Symbol der Stadtgeschichte bleibt, aber vergessen Sie nicht Ihr Weitwinkelobjektiv für das perfekte Foto.",
+            "hu": "Tekintsen fel erre a lenyűgöző történelmi toronyra, amely a város múltjának erőteljes szimbóluma maradt, és hozzon magával nagylátószögű objektívet a teljes magasság megörökítéséhez.",
+            "ro": "Priviți în sus la acest turn istoric impresionant, care rămâne un simbol puternic al trecutului orașului, dar amintiți-vă să aduceți un obiectiv cu unghi larg pentru a-i surprinde înălțimea completă.",
+            "en": "Look up at this striking historical tower which remains a powerful symbol of the town's past, but remember to bring a wide-angle lens to capture its full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Croix",
+            "hu": "Église Sainte-Croix",
+            "ro": "Église Sainte-Croix",
+            "en": "Église Sainte-Croix"
+          },
+          "coords": [
+            1.136414,
+            45.795599
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser zentralen Kirche, wobei die detaillierten Schnitzereien im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés hangulatát, figyelembe véve a reggeli fényben legjobban látható részletes faragásokat.",
+            "ro": "Admirați vitraliile frumoase și atmosfera pașnică a acestei biserici centrale, observând sculpturile detaliate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the beautiful stained glass and peaceful atmosphere of this central church, noting the detailed carvings best seen in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame d'Arliquet Chapel",
+            "hu": "Notre-Dame d'Arliquet Kápolna",
+            "ro": "Capela Notre-Dame d'Arliquet",
+            "en": "Notre-Dame d'Arliquet Chapel"
+          },
+          "coords": [
+            1.154345,
+            45.79957
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel in einem ruhigen Park am Fluss, der perfekte Ort, um sich auszuruhen und das lokale religiöse Erbe zu würdigen.",
+            "hu": "Fedezze fel ezt a rejtett gyöngyszemet egy nyugodt folyóparti parkban, amely tökéletes hely a pihenésre és a helyi vallási örökség megismerésére.",
+            "ro": "Descoperiți această bijuterie ascunsă într-un parc senin de-a lungul râului, fiind locul perfect pentru a vă odihni și a aprecia moștenirea religioasă locală.",
+            "en": "Discover this hidden gem set in a serene park along the river, making it the perfect spot to rest and appreciate the local religious heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Marillaux",
+            "hu": "Château Marillaux",
+            "ro": "Château Marillaux",
+            "en": "Château Marillaux"
+          },
+          "coords": [
+            1.16781,
+            45.787006
+          ],
+          "category": "castle",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei der Betrachtung der Fassade dieses robusten Schlosses und suchen Sie sich die besten Aussichtspunkte an der nahen Straße für Ihre Fotos.",
+            "hu": "Lépjen vissza az időben, miközben megtekinti ennek az erős kastélynak a külsejét, és keresse meg a közeli útról a legjobb kilátópontokat a fényképezéshez.",
+            "ro": "Faceți un pas înapoi în timp în timp ce vizualizați exteriorul acestui castel robust și căutați cele mai bune puncte de observație de pe drumul din apropiere pentru fotografii.",
+            "en": "Step back in time as you view the exterior of this robust castle, and look for the best vantage points from the nearby road for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont romain",
+            "hu": "Pont romain",
+            "ro": "Pont romain",
+            "en": "Pont romain"
+          },
+          "coords": [
+            1.13888,
+            45.793538
+          ],
+          "category": "landmark",
+          "arrive_at": "13:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Gehen Sie über diese antike römische Brücke, um die beständige Geschichte unter Ihren Füßen zu spüren, und nehmen Sie sich Zeit für ein Foto der spiegelnden Wasseroberfläche.",
+            "hu": "Sétáljon át ezen az ősi római hídon, hogy érezze a lába alatt a történelmet, miközben szakít egy kis időt a tükröződő víztükör lefotózására is.",
+            "ro": "Plimbați-vă pe acest vechi pod roman pentru a simți istoria durabilă sub picioarele dumneavoastră, făcând o clipă pentru a fotografia apele reflectorizante de dedesubt.",
+            "en": "Walk across this ancient Roman bridge to feel the enduring history beneath your feet, while taking a moment to photograph the reflective waters below."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Vierge et Saint-Jean",
+            "hu": "Chapelle de la Vierge et Saint-Jean",
+            "ro": "Chapelle de la Vierge et Saint-Jean",
+            "en": "Chapelle de la Vierge et Saint-Jean"
+          },
+          "coords": [
+            1.123441,
+            45.794423
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber zutiefst spirituelle Kapelle, um echte lokale Ruhe zu erleben, auch wenn die Öffnungszeiten manchmal variieren können.",
+            "hu": "Látogasson el ebbe a szerény, mégis mélyen spirituális kápolnába, hogy megtapasztalja az igazi helyi nyugalmat, bár vegye figyelembe, hogy a nyitvatartás esetenként változhat.",
+            "ro": "Vizitați această capelă modestă, dar profund spirituală pentru a experimenta o liniște locală autentică, deși aveți grijă că orele de deschidere pot varia uneori.",
+            "en": "Visit this modest yet deeply spiritual chapel to experience genuine local tranquility, though be aware that opening hours can occasionally vary so check the door sign."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Losmonerie",
+            "hu": "Château de Losmonerie",
+            "ro": "Château de Losmonerie",
+            "en": "Château de Losmonerie"
+          },
+          "coords": [
+            1.118847,
+            45.820497
+          ],
+          "category": "landmark",
+          "arrive_at": "15:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das atemberaubende Gelände und die Architektur dieses prächtigen Schlosses und nutzen Sie eine Führung, um seine regionale Bedeutung voll zu erfassen.",
+            "hu": "Fedezze fel e fenséges kastély lenyűgöző parkját és történelmi építészetét, és vegyen részt a vezetett túrán a gazdag regionális jelentőségének teljes megértéséhez.",
+            "ro": "Explorați terenurile uimitoare și arhitectura istorică a acestui castel magnific, participând la un tur ghidat pentru a aprecia pe deplin semnificația sa regională bogată.",
+            "en": "Explore the stunning grounds and historical architecture of this magnificent château, taking the guided tour to fully appreciate its rich regional significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am historischen Turm, bevor Sie in das spirituelle Herz der Stadt eintauchen. Mittags fahren Sie weiter nach Osten und Süden, um majestätische lokale Schlösser zu entdecken. Das Fahren am Nachmittag bietet schnelle Wechsel zwischen antiken Sehenswürdigkeiten wie der römischen Brücke. Beenden Sie Ihre umfassende Tour mit der Erkundung des großen nördlichen Schlosses vor Sonnenuntergang.",
+        "hu": "Az autózás a történelmi toronynál indul, majd a város spirituális szívében folytatódik. Délben kelet és dél felé haladva fenséges helyi kastélyokat és kápolnákat fedezhet fel. A délutáni vezetés gyors átmeneteket kínál az olyan ókori műemlékek között, mint a római híd. Ezt az átfogó túrát az északi nagy kastély naplemente előtti felfedezésével zárja.",
+        "ro": "Plimbarea cu mașina începe la turnul istoric înainte de a pătrunde în inima spirituală a orașului. La prânz, mergeți mai spre est și sud pentru a descoperi castele locale maiestuoase. Conducerea de după-amiază oferă tranziții rapide între reperele antice, cum ar fi podul roman. Încheiați turul dumneavoastră cuprinzător explorând marele castel nordic înainte de apus.",
+        "en": "Your drive starts at the historical tower before dipping into the spiritual heart of the town. Midday takes you further east and south to uncover majestic local castles and historic riverside chapels. Afternoon driving offers swift transitions between ancient landmarks like the Roman bridge. Conclude your comprehensive tour exploring the grand northern château before sunset."
+      }
+    }
+  }
+}

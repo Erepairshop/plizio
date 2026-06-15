@@ -1,0 +1,451 @@
+{
+  "city_id": "france-audierne-cities-v2",
+  "anchor": {
+    "name": "Audierne",
+    "coords": [
+      -4.53977,
+      48.02312
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:41",
+      "total_km": 2.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Coz Fornic",
+            "hu": "Coz Fornic",
+            "ro": "Coz Fornic",
+            "en": "Coz Fornic"
+          },
+          "coords": [
+            -4.538488,
+            48.014844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Wahrzeichen Coz Fornic, das Audiernes maritime Seele widerspiegelt, und fotografieren Sie die traditionellen Boote.",
+            "hu": "Csodálja meg a történelmi Coz Fornic nevezetességet, amely Audierne tengerészeti lelkét tükrözi, és fotózza le a közeli hagyományos csónakokat.",
+            "ro": "Admirați reperul istoric Coz Fornic, care reflectă sufletul maritim al orașului Audierne, și fotografiați bărcile tradiționale din apropierea apei.",
+            "en": "Admire the historic Coz Fornic landmark reflecting the maritime soul of Audierne, and take a moment to snap photos of the traditional boats nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mât FENOUX",
+            "hu": "Mât FENOUX",
+            "ro": "Mât FENOUX",
+            "en": "Mât FENOUX"
+          },
+          "coords": [
+            -4.54119,
+            48.011031
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Mât FENOUX, eine für Seeleute wichtige alte Navigationshilfe, die am besten während der morgendlichen Ebbe zu sehen ist.",
+            "hu": "Fedezze fel a feltűnő Mât FENOUX-t, egy régi navigációs segédeszközt a tengerészek számára, amelyet a reggeli apály idején a legjobb megtekinteni.",
+            "ro": "Descoperiți impresionantul Mât FENOUX, un vechi ajutor de navigație pentru marinari, pe care este ideal să îl vizitați în timpul refluxului de dimineață.",
+            "en": "Discover the striking Mât FENOUX, an old navigational aid crucial for sailors navigating the channel, ideally viewed during the morning low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Raoulic",
+            "hu": "Phare du Raoulic",
+            "ro": "Phare du Raoulic",
+            "en": "Phare du Raoulic"
+          },
+          "coords": [
+            -4.540827,
+            48.009203
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den malerischen Leuchtturm Phare du Raoulic, der Schiffe in die Mündung leitet, und spazieren Sie für weite Blicke auf dem Wellenbrecher.",
+            "hu": "Fedezze fel a festői Phare du Raoulic világítótornyot, amely a torkolatba vezeti a hajókat, és sétáljon végig a mólón a tengeri kilátásért.",
+            "ro": "Explorați pitorescul far Phare du Raoulic ce ghidează navele în estuar și plimbați-vă pe digul robust pentru a vă bucura de o priveliște vastă.",
+            "en": "Explore the picturesque Phare du Raoulic lighthouse guiding ships into the estuary, and walk along the sturdy breakwater for expansive ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Goemons",
+            "hu": "Four à Goemons",
+            "ro": "Four à Goemons",
+            "en": "Four à Goemons"
+          },
+          "coords": [
+            -4.536285,
+            48.013174
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Betrachten Sie den alten Four à Goemons zum Verbrennen von Seetang für die Jodgewinnung und tragen Sie festes Schuhwerk auf den unebenen Felsen.",
+            "hu": "Tekintse meg az ősi Four à Goemons hínárégetőt, amelyet jód kinyerésére használtak, és viseljen masszív cipőt az egyenetlen tengerparti sziklák miatt.",
+            "ro": "Observați cuptorul antic Four à Goemons folosit pentru arderea algelor și purtați încălțăminte robustă pentru a păși în siguranță pe stânci.",
+            "en": "Observe the ancient Four à Goemons used for burning seaweed to extract iodine, and wear sturdy shoes to safely navigate the uneven coastal rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Trescadec",
+            "hu": "Trescadec",
+            "ro": "Trescadec",
+            "en": "Trescadec"
+          },
+          "coords": [
+            -4.546784,
+            48.012615
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Strand von Trescadec mit seinem feinen weißen Sand, dem perfekten Ort für einen erfrischenden Nachmittagsspaziergang.",
+            "hu": "Pihenjen a finom fehér homokjáról és hullámairól ismert festői Trescadec strandon, amely tökéletes helyszín egy frissítő délutáni tengerparti sétához.",
+            "ro": "Relaxați-vă pe plaja pitorească Trescadec, cunoscută pentru nisipul fin și valurile sale, fiind locul perfect pentru o plimbare revigorantă de după-amiază.",
+            "en": "Relax at the scenic Trescadec beach known for its fine white sand and rolling waves, making it the perfect spot for a refreshing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Kergadec",
+            "hu": "Phare de Kergadec",
+            "ro": "Phare de Kergadec",
+            "en": "Phare de Kergadec"
+          },
+          "coords": [
+            -4.546295,
+            48.01592
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Stehen Sie neben dem legendären Phare de Kergadec, um seine historische Rolle zu würdigen, und bleiben Sie bis zur Dämmerung für die Lichtstrahlen.",
+            "hu": "Álljon meg az ikonikus Phare de Kergadec mellett, hogy értékelje történelmi szerepét, és maradjon szürkületig, hogy láthassa a felgyulladó fényeket.",
+            "ro": "Opriți-vă lângă emblematicul Phare de Kergadec pentru a aprecia rolul său istoric și rămâneți până la amurg pentru a vedea fasciculele de lumină.",
+            "en": "Stand beside the iconic Phare de Kergadec to appreciate its historical role in coastal safety, and stay until dusk to watch the light beams activate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des malerischen Zentrums von Audierne und genießen Sie die maritimen Denkmäler am Hafen. Gegen Mittag folgen Sie der Küste, um die historischen Markierungen und Leuchttürme zu entdecken. Am Nachmittag erkunden Sie die alten Algenöfen und Sandstrände der Region. Beenden Sie Ihren Tag und genießen Sie die Aussicht auf den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Audierne festői központjának felfedezésével, megtekintve a nyüzsgő kikötő mentén található tengerészeti műemlékeket. Dél közeledtével kövesse a partvonalat, hogy felfedezze a történelmi jelzőfényeket. Délután fedezze fel a régi hínárkemencéket és az egyedülálló homokos strandokat. Zárja a napot a világítótornyok és a gyönyörű naplemente látványával a tengerparton.",
+        "ro": "Începeți dimineața explorând centrul pitoresc din Audierne, admirând monumentele maritime locale de-a lungul portului vibrant. Pe măsură ce se apropie prânzul, urmați coasta pentru a descoperi farurile istorice ce protejau marinarii. După-amiaza, explorați vechile cuptoare de alge și plajele cu nisip ce definesc zona. Încheiați ziua admirând priveliștile apusului de soare la ocean.",
+        "en": "Start your morning exploring the picturesque center of Audierne, taking in the local maritime monuments along the vibrant harbor. As midday approaches, follow the coastline to discover the historical markers and lighthouses that protected sailors. In the afternoon, explore the old seaweed kilns and sandy beaches that define the area. End your day soaking in the sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.63,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Théâtre Georges Madec",
+            "hu": "Théâtre Georges Madec",
+            "ro": "Théâtre Georges Madec",
+            "en": "Théâtre Georges Madec"
+          },
+          "coords": [
+            -4.563451,
+            48.024473
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur im Théâtre Georges Madec, einem eleganten Veranstaltungsort, und informieren Sie sich an der Kasse über aktuelle Shows.",
+            "hu": "Tapasztalja meg a helyi kultúrát az elegáns Théâtre Georges Madec színházban, és nézze meg a jegypénztárban a közelgő érdekes előadásokat.",
+            "ro": "Experimentați cultura locală la Théâtre Georges Madec, o locație elegantă, și verificați la casa de bilete programul viitoarelor spectacole.",
+            "en": "Experience local culture at the Théâtre Georges Madec, an elegant venue hosting diverse performances, and check the box office for upcoming shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc botanique Ar Paeron",
+            "hu": "Parc botanique Ar Paeron",
+            "ro": "Parc botanique Ar Paeron",
+            "en": "Parc botanique Ar Paeron"
+          },
+          "coords": [
+            -4.563061,
+            48.014047
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den üppigen Parc botanique Ar Paeron mit seiner exotischen Flora und bringen Sie ein kleines Picknick für die schattigen Bänke mit.",
+            "hu": "Sétáljon végig a buja Parc botanique Ar Paeron botanikus kerten, és hozzon magával egy kis pikniket, amelyet az árnyékos padokon fogyaszthat el.",
+            "ro": "Plimbați-vă prin parcul botanic luxuriant Ar Paeron pentru a descoperi flora exotică și aduceți un mic picnic pentru a-l savura pe băncile umbrite.",
+            "en": "Stroll through the lush Parc botanique Ar Paeron to discover a rare collection of exotic flora, and bring a small picnic to enjoy on the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoirs",
+            "hu": "Lavoirs",
+            "ro": "Lavoirs",
+            "en": "Lavoirs"
+          },
+          "coords": [
+            -4.560187,
+            48.007489
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich an den traditionellen Lavoirs in die Vergangenheit versetzt und beachten Sie das raffinierte Mauerwerk, das die Quelle kanalisiert.",
+            "hu": "Lépjen vissza az időben a hagyományos Lavoirs mosóházaknál, és figyelje meg a forrást elvezető zseniális, gondosan megépített kőművesmunkát.",
+            "ro": "Pășiți în trecut la tradiționalele spălătorii Lavoirs și observați zidăria ingenioasă de piatră care canalizează elegant apa proaspătă a izvorului.",
+            "en": "Step back in time at the traditional Lavoirs where villagers once gathered to wash clothes, and notice the ingenious stonework channeling the spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à goémonds",
+            "hu": "Four à goémonds",
+            "ro": "Four à goémonds",
+            "en": "Four à goémonds"
+          },
+          "coords": [
+            -4.556167,
+            48.008523
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Inspizieren Sie einen weiteren gut erhaltenen Algenofen Four à goémonds am felsigen Ufer und lesen Sie die Tafeln über dieses verlorene Handwerk.",
+            "hu": "Vizsgáljon meg egy újabb kiválóan megőrzött Four à goémonds hínárkemencét a sziklás parton, és olvassa el a táblákat erről az elveszett mesterségről.",
+            "ro": "Inspectați un alt cuptor de alge Four à goémonds bine conservat pe malul stâncos și citiți plăcuțele din apropiere despre această meserie pierdută.",
+            "en": "Inspect another remarkably preserved Four à goémonds seaweed kiln along the rocky shore, and read the nearby plaques for insight into this lost trade."
+          }
+        },
+        {
+          "name": {
+            "de": "Trescadec",
+            "hu": "Trescadec",
+            "ro": "Trescadec",
+            "en": "Trescadec"
+          },
+          "coords": [
+            -4.546784,
+            48.012615
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Strand von Trescadec mit seinem feinen weißen Sand, dem perfekten Ort für einen erfrischenden Nachmittagsspaziergang.",
+            "hu": "Pihenjen a finom fehér homokjáról és hullámairól ismert festői Trescadec strandon, amely tökéletes helyszín egy frissítő délutáni tengerparti sétához.",
+            "ro": "Relaxați-vă pe plaja pitorească Trescadec, cunoscută pentru nisipul fin și valurile sale, fiind locul perfect pentru o plimbare revigorantă de după-amiază.",
+            "en": "Relax at the scenic Trescadec beach known for its fine white sand and rolling waves, making it the perfect spot for a refreshing afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Raoulic",
+            "hu": "Phare du Raoulic",
+            "ro": "Phare du Raoulic",
+            "en": "Phare du Raoulic"
+          },
+          "coords": [
+            -4.540827,
+            48.009203
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie den malerischen Leuchtturm Phare du Raoulic, der Schiffe in die Mündung leitet, und spazieren Sie für weite Blicke auf dem Wellenbrecher.",
+            "hu": "Fedezze fel a festői Phare du Raoulic világítótornyot, amely a torkolatba vezeti a hajókat, és sétáljon végig a mólón a tengeri kilátásért.",
+            "ro": "Explorați pitorescul far Phare du Raoulic ce ghidează navele în estuar și plimbați-vă pe digul robust pentru a vă bucura de o priveliște vastă.",
+            "en": "Explore the picturesque Phare du Raoulic lighthouse guiding ships into the estuary, and walk along the sturdy breakwater for expansive ocean views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im kulturellen Herzen der Stadt, bevor Sie zum üppigen botanischen Park radeln. Mittags bietet sich eine ruhige Fahrt zu den historischen Waschhäusern und dramatischen Algenöfen an der rauen Küste an. Den Nachmittag verbringen Sie an unberührten Stränden mit weitem Meerespanorama. Wenn der Abend hereinbricht, entspannen Sie sich am Hauptleuchtturm.",
+        "hu": "Kezdje kerékpáros útját a város kulturális központjában, mielőtt a buja helyi botanikus park felé tekerne. A délidő békés utazást kínál a történelmi mosóházakhoz és a zord tengerpart mentén található drámai hínárkemencékhez. A délutánt a lenyűgöző óceáni panorámával rendelkező érintetlen strandok mentén töltheti el. Estefelé pihenjen meg a világítótoronynál, és figyelje a dagályt.",
+        "ro": "Începeți călătoria cu bicicleta în inima culturală a orașului înainte de a pedala spre parcul botanic luxuriant. La prânz, bucurați-vă de o plimbare liniștită spre spălătoriile istorice și cuptoarele de alge dramatice de pe coasta accidentată. După-amiaza este petrecută trecând pe lângă plaje cu panorame ample. Seara, relaxați-vă la farul principal pentru a privi mareea spectaculoasă.",
+        "en": "Kick off your cycling journey in the town's cultural heart before pedaling towards the lush local botanical park. Midday offers a peaceful ride out to the historic washhouses and dramatic seaweed kilns scattered along the rugged coast. Your afternoon is spent breezing past pristine beaches with sweeping ocean panoramas. As evening falls, relax by the main lighthouse to watch the tide."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Brigitte de Laduguentel",
+            "hu": "Chapelle Sainte-Brigitte de Laduguentel",
+            "ro": "Chapelle Sainte-Brigitte de Laduguentel",
+            "en": "Chapelle Sainte-Brigitte de Laduguentel"
+          },
+          "coords": [
+            -4.55066,
+            48.03755
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Chapelle Sainte-Brigitte de Laduguentel mit ihrer bretonischen Architektur und respektieren Sie die ruhige Atmosphäre.",
+            "hu": "Csodálja meg a békés Chapelle Sainte-Brigitte de Laduguentel kápolnát a bájos breton építészetével, és tartsa tiszteletben a hely csendes légkörét.",
+            "ro": "Admirați liniștita capelă Chapelle Sainte-Brigitte de Laduguentel cu arhitectura sa bretonă și respectați atmosfera tăcută în timpul vizitei.",
+            "en": "Admire the peaceful Chapelle Sainte-Brigitte de Laduguentel with its charming Breton architecture, and respect the quiet atmosphere during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Menez-Bras",
+            "hu": "Manoir de Menez-Bras",
+            "ro": "Manoir de Menez-Bras",
+            "en": "Manoir de Menez-Bras"
+          },
+          "coords": [
+            -4.556918,
+            48.033415
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Betrachten Sie das majestätische Anwesen Manoir de Menez-Bras aus der regionalen Adelsgeschichte und bleiben Sie stets auf den öffentlichen Wegen.",
+            "hu": "Tekintse meg a nemesi történelmet képviselő fenséges Manoir de Menez-Bras birtokot, és maradjon a nyilvános utakon, mivel az magánrezidencia.",
+            "ro": "Priviți maiestuosul conac Manoir de Menez-Bras ce reprezintă istoria nobilă regională și rămâneți pe drumurile publice, fiind o reședință privată.",
+            "en": "View the majestic Manoir de Menez-Bras estate representing regional noble history, and stick to the public pathways as it remains a private residence."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide Blanche du Compas",
+            "hu": "Pyramide Blanche du Compas",
+            "ro": "Pyramide Blanche du Compas",
+            "en": "Pyramide Blanche du Compas"
+          },
+          "coords": [
+            -4.517616,
+            48.014151
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Finden Sie die Pyramide Blanche du Compas, die Schiffen bei der Ausrichtung half, und nutzen Sie ein Teleobjektiv, um ihre Geometrie einzufangen.",
+            "hu": "Keresse meg a Pyramide Blanche du Compas jelzőt, amely segített a hajóknak a megközelítésben, és használjon zoom objektívet a megörökítéséhez.",
+            "ro": "Localizați Pyramide Blanche du Compas, un marcaj ce ajuta navele la navigare, și folosiți un obiectiv cu zoom pentru a-i surprinde geometria albă.",
+            "en": "Locate the intriguing Pyramide Blanche du Compas marker that helped ships align their approach, and use a zoom lens to capture its stark white geometry."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide blanche de la Pierre du Chenal",
+            "hu": "Pyramide blanche de la Pierre du Chenal",
+            "ro": "Pyramide blanche de la Pierre du Chenal",
+            "en": "Pyramide blanche de la Pierre du Chenal"
+          },
+          "coords": [
+            -4.524474,
+            48.006033
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die passenden Pyramide blanche de la Pierre du Chenal an der zerklüfteten Küste und packen Sie eine Windjacke für die starke Brise ein.",
+            "hu": "Fedezze fel a Pyramide blanche de la Pierre du Chenal jelzőfényt a zord parton, és vigyen magával széldzsekit, mivel a tengeri szellő itt igen erős.",
+            "ro": "Descoperiți farul Pyramide blanche de la Pierre du Chenal de pe coasta accidentată și luați o jachetă de vânt, deoarece briza mării este puternică.",
+            "en": "Discover the matching Pyramide blanche de la Pierre du Chenal beacon along the rugged coast, and pack a windbreaker as the sea breezes here are strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Raoulic",
+            "hu": "Phare du Raoulic",
+            "ro": "Phare du Raoulic",
+            "en": "Phare du Raoulic"
+          },
+          "coords": [
+            -4.540827,
+            48.009203
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie den malerischen Leuchtturm Phare du Raoulic, der Schiffe in die Mündung leitet, und spazieren Sie für weite Blicke auf dem Wellenbrecher.",
+            "hu": "Fedezze fel a festői Phare du Raoulic világítótornyot, amely a torkolatba vezeti a hajókat, és sétáljon végig a mólón a tengeri kilátásért.",
+            "ro": "Explorați pitorescul far Phare du Raoulic ce ghidează navele în estuar și plimbați-vă pe digul robust pentru a vă bucura de o priveliște vastă.",
+            "en": "Explore the picturesque Phare du Raoulic lighthouse guiding ships into the estuary, and walk along the sturdy breakwater for expansive ocean views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen durch die malerischen nördlichen Außenbezirke von Audierne und erkunden Sie eine ruhige Kapelle und ein historisches Herrenhaus. Zur Mittagszeit navigieren Sie auf den gewundenen Küstenstraßen zu den ikonischen weißen Pyramiden. Der Nachmittag ist für dramatische Leuchtturm-Aussichtspunkte reserviert. Beenden Sie Ihren Roadtrip bei Einbruch der Dunkelheit am Hafen.",
+        "hu": "Autózzon át Audierne festői északi külvárosain ezen a reggelen, és fedezzen fel egy nyugodt kápolnát, valamint egy nagyszerű történelmi udvarházat. Ebédidőben navigáljon a kanyargós parti utakon, hogy felfedezze az ikonikus fehér piramisokat. A délutánt az Atlanti-óceánra néző drámai világítótorony-kilátópontoknak tarthatja fenn. Fejezze be autós kirándulását a kikötőben alkonyatkor.",
+        "ro": "Conduceți în această dimineață prin periferiile pitorești din nordul Audierne, explorând o capelă liniștită și un conac istoric grandios. La ora prânzului, navigați pe drumurile de coastă pentru a descoperi piramidele albe iconice care ghidau odinioară navele. După-amiaza este rezervată farurilor dramatice cu vedere spre ocean. Terminați călătoria la port odată cu lăsarea întunericului.",
+        "en": "Drive through the scenic northern outskirts of Audierne this morning, exploring a tranquil chapel and a grand historic manor. By lunchtime, navigate the winding coastal roads to discover the iconic white pyramids that once guided ships to safety. The afternoon is reserved for dramatic lighthouse viewpoints overlooking the vast Atlantic. Finish your road trip at the harbor as dusk sets in."
+      }
+    }
+  }
+}

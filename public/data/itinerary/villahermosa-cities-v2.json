@@ -1,0 +1,451 @@
+{
+  "city_id": "villahermosa-cities-v2",
+  "anchor": {
+    "name": "Villahermosa",
+    "coords": [
+      -92.93,
+      17.9869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 2.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reloj de las Tres Caras",
+            "hu": "Reloj de las Tres Caras",
+            "ro": "Reloj de las Tres Caras",
+            "en": "Reloj de las Tres Caras"
+          },
+          "coords": [
+            -92.930177,
+            17.986282
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische dreiseitige Uhr, die den Herzschlag der Stadt markiert, und kommen Sie früh, um ihre Architektur in Ruhe zu fotografieren.",
+            "hu": "Csodálja meg ezt az ikonikus, háromarcú órát, amely a város szívverését jelzi, és érkezzen korán, hogy még a tömeg előtt lefotózhassa elegáns építészetét.",
+            "ro": "Admirați acest ceas emblematic cu trei fețe care marchează bătăile inimii orașului și ajungeți devreme pentru a-i fotografia arhitectura elegantă fără aglomerație.",
+            "en": "Admire this iconic three-faced clock that marks the city's heartbeat in the plaza, and arrive early to photograph its elegant architecture before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuauhtémoc",
+            "hu": "Cuauhtémoc",
+            "ro": "Cuauhtémoc",
+            "en": "Cuauhtémoc"
+          },
+          "coords": [
+            -92.930208,
+            17.994973
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 20,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese markante Statue des Aztekenherrschers, die das indigene Erbe ehrt, und ruhen Sie sich kurz auf den schattigen Bänken in der Nähe aus.",
+            "hu": "Tekintse meg az azték uralkodó lenyűgöző szobrát, amely az őslakosok öröksége előtt tiszteleg, és pihenjen meg egy pillanatra a közeli árnyékos padokon.",
+            "ro": "Observați această statuie impresionantă a conducătorului aztec care onorează moștenirea indigenă și odihniți-vă puțin pe băncile umbrite din apropiere.",
+            "en": "Observe this striking statue of the Aztec ruler that honors indigenous heritage, and take a moment to rest on the nearby shaded benches during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Mujer Ceiba",
+            "hu": "Monumento a la Mujer Ceiba",
+            "ro": "Monumento a la Mujer Ceiba",
+            "en": "Monumento a la Mujer Ceiba"
+          },
+          "coords": [
+            -92.937719,
+            17.994006
+          ],
+          "category": "historical",
+          "arrive_at": "10:17",
+          "stay_min": 20,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wunderschöne Denkmal, das den Frauen von Tabasco gewidmet ist, und umrunden Sie es, um alle feinen skulpturalen Details zu sehen.",
+            "hu": "Fedezze fel a tabascói nőknek és a szent ceiba fának szentelt gyönyörű emlékművet, és járja körbe, hogy minden bonyolult szobrászati részletet megfigyelhessen.",
+            "ro": "Descoperiți acest monument frumos dedicat femeilor din Tabasco și copacului sacru ceiba, ocolindu-l pentru a vedea toate detaliile sculpturale complexe.",
+            "en": "Discover this beautiful monument dedicated to Tabasco's women interwoven with the sacred ceiba tree, and walk around it to see all the intricate sculptural details."
+          }
+        },
+        {
+          "name": {
+            "de": "MUSEVI Museo Elevado de Villahermosa",
+            "hu": "MUSEVI Museo Elevado de Villahermosa",
+            "ro": "MUSEVI Museo Elevado de Villahermosa",
+            "en": "MUSEVI Museo Elevado de Villahermosa"
+          },
+          "coords": [
+            -92.937637,
+            17.995279
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses erhöhte Museum mit Panoramablick und zeitgenössischer Kunst, und nutzen Sie den Aufzug, wenn Sie die steilen Fußgängerrampen meiden möchten.",
+            "hu": "Fedezze fel ezt a megemelt múzeumot, amely panorámás kilátást és kortárs kiállításokat kínál, és használja a liftet, ha elkerülné a meredek gyalogos rámpákat.",
+            "ro": "Explorați acest muzeu suspendat cu vederi panoramice și artă contemporană, folosind liftul dacă preferați să evitați rampele pietonale abrupte.",
+            "en": "Explore this elevated museum offering panoramic views alongside contemporary art exhibits, and use the elevator if you prefer avoiding the steep pedestrian ramps."
+          }
+        },
+        {
+          "name": {
+            "de": "Colossal Head (Monument 1)",
+            "hu": "Colossal Head (Monument 1)",
+            "ro": "Colossal Head (Monument 1)",
+            "en": "Colossal Head (Monument 1)"
+          },
+          "coords": [
+            -92.935056,
+            17.999854
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem massiven authentischen Olmekenkopf aus Stein, und bringen Sie Mückenschutz mit, da er sich in einem tropischen Garten befindet.",
+            "hu": "Álljon meg a hatalmas, eredeti olmék kőfej előtt, amely az ősi mezoamerikai művészetet mutatja be, és hozzon szúnyogriasztót, mivel egy trópusi kertben található.",
+            "ro": "Stați în fața acestui cap colosal autentic din piatră olmecă, aducând cu voi spray împotriva țânțarilor deoarece monumentul se află într-o grădină tropicală.",
+            "en": "Stand before this massive authentic Olmec stone head that showcases ancient Mesoamerican artistry, and bring mosquito repellent since it sits in a tropical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque museo La Venta",
+            "hu": "Parque museo La Venta",
+            "ro": "Parque museo La Venta",
+            "en": "Parque museo La Venta"
+          },
+          "coords": [
+            -92.934014,
+            18.001636
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen Freilichtpark mit spektakulären archäologischen Ruinen inmitten lokaler Wildtiere, und tragen Sie bequeme Schuhe für die Dschungelpfade.",
+            "hu": "Sétáljon végig ezen a szabadtéri parkon, amely lenyűgöző régészeti romokat rejt a helyi vadvilág között, és viseljen kényelmes cipőt az egyenetlen dzsungelösvényeken.",
+            "ro": "Plimbați-vă prin acest parc în aer liber care adăpostește ruine arheologice spectaculoase și purtați pantofi comozi pentru potecile neregulate din junglă.",
+            "en": "Wander through this open-air park housing spectacular archaeological ruins among local wildlife, and wear comfortable walking shoes for the uneven jungle paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie in der historischen Altstadt und spazieren Sie von der markanten Uhr zu den Statuen, die Mexikos Wurzeln feiern. Das milde Morgenlicht ist ideal für Fotos.\n\nMittag: Wenn es wärmer wird, besuchen Sie das moderne MUSEVI. Genießen Sie den weiten Blick über die Lagune und die frische Brise bei zeitgenössischer Kunst.\n\nNachmittag: Tauchen Sie in die alte Geschichte ein und bestaunen Sie die monumentalen Olmeken-Köpfe im üppigen tropischen Park La Venta. Die Schatten spendenden Bäume sind eine Wohltat.\n\nAbend: Beenden Sie Ihren Rundgang entspannt am Rande des Parks und lassen Sie den Tag ausklingen, der die moderne Stadt mit ihrem prähistorischen Erbe verbunden hat.",
+        "hu": "Reggel: Kezdje a napot a történelmi központban, sétáljon az ikonikus órától a mexikói gyökereket ünneplő szobrokig. A lágy reggeli fény tökéletes ezen városi emlékművek fotózásához.\n\nDél: Ahogy melegszik az idő, fedezze fel a modern MUSEVI-t. Élvezze a városképre és a lagúnára nyíló panorámát, miközben a kortárs művészetben gyönyörködik.\n\nDélután: Merüljön el az ókori történelemben, és fedezze fel a hatalmas olmék fejeket a La Venta park buja trópusi környezetében. Az árnyékos ösvények kellemes menedéket nyújtanak.\n\nEste: Fejezze be sétáját a park kijáratánál megpihenve, átgondolva a napot, amely összekötötte a város modern ritmusát a mély történelem előtti örökséggel.",
+        "ro": "Dimineață: Începeți ziua în centrul istoric, plimbându-vă de la ceasul emblematic la statuile care celebrează rădăcinile Mexicului. Lumina blândă a dimineții este perfectă pentru fotografii.\n\nAmiază: Pe măsură ce se încălzește, vizitați MUSEVI, un muzeu modern și aerisit. Bucurați-vă de priveliștile asupra orașului și a lagunei, admirând arta contemporană.\n\nDupă-amiază: Pătrundeți în istoria antică explorând monumentalele capete olmece din peisajul tropical luxuriant al parcului La Venta. Cărările umbrite oferă un refugiu plăcut.\n\nSeară: Încheiați-vă turul relaxându-vă lângă ieșirea din parc, reflectând la o călătorie care a conectat ritmul modern al orașului cu patrimoniul său preistoric profund.",
+        "en": "Morning: Start your day near the historic core, walking from the iconic three-faced clock to the impressive statues celebrating Mexican roots. The gentle morning light is perfect for admiring these urban monuments.\n\nMidday: As the day warms up, head towards the modern and airy MUSEVI to enjoy elevated views of the cityscape and lagoon, taking in contemporary art while enjoying a cool breeze.\n\nAfternoon: Dive deep into ancient history by exploring the monumental Olmec heads nestled in the lush tropical setting of Parque museo La Venta. The shaded paths offer a welcome respite from the sun.\n\nEvening: Conclude your walking tour by relaxing near the park's exit, reflecting on a journey that connected the city's modern rhythm with its profound prehistoric heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:31",
+      "total_km": 4.68,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Estatua del atleta",
+            "hu": "Estatua del atleta",
+            "ro": "Estatua del atleta",
+            "en": "Estatua del atleta"
+          },
+          "coords": [
+            -92.94109,
+            17.982863
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese dynamische Bronzestatue an, die den lokalen Sportgeist feiert, und parken Sie Ihr Fahrrad vorsichtig am breiten Gehweg für ein schnelles Foto.",
+            "hu": "Tekintse meg ezt a dinamikus bronz sportolószobrot, amely a helyi sportszellemet ünnepli, és parkolja le biztonságosan kerékpárját a széles járdánál egy fotó erejéig.",
+            "ro": "Admirați această statuie dinamică din bronz care celebrează spiritul sportiv local și parcați-vă cu grijă bicicleta lângă trotuarul larg pentru o fotografie rapidă.",
+            "en": "Check out this dynamic bronze athlete statue that celebrates local sportsmanship, and carefully park your bike near the wide sidewalk to snap a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Sánchez Magallanes",
+            "hu": "Monumento a Sánchez Magallanes",
+            "ro": "Monumento a Sánchez Magallanes",
+            "en": "Monumento a Sánchez Magallanes"
+          },
+          "coords": [
+            -92.945197,
+            17.992178
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Denkmal, das an einen wichtigen General erinnert, und nutzen Sie die weitläufige Kreuzung, um die architektonischen Details zu bewundern.",
+            "hu": "Álljon meg ennél a történelmi emlékműnél, amely egy fontos tábornoknak állít emléket, és használja ki a tágas kereszteződést az építészeti részletek megfigyelésére.",
+            "ro": "Opriți-vă la acest monument istoric dedicat unui general important și profitați de intersecția spațioasă pentru a admira detaliile sale arhitecturale.",
+            "en": "Stop by this historical monument commemorating a key general, and take advantage of the spacious intersection to fully appreciate its architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "VAMOS a RODAR / VAR",
+            "hu": "VAMOS a RODAR / VAR",
+            "ro": "VAMOS a RODAR / VAR",
+            "en": "VAMOS a RODAR / VAR"
+          },
+          "coords": [
+            -92.939799,
+            17.997024
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Genießen Sie dieses moderne Wahrzeichen, das speziell der Fahrradkultur gewidmet ist, und machen Sie hier eine perfekte Pause, um Ihre Wasserflasche aufzufüllen.",
+            "hu": "Élvezze ezt a modern tájékozódási pontot, amelyet kifejezetten a kerékpáros kultúrának szenteltek, és tartson itt egy tökéletes pihenőt a kulacsa feltöltéséhez.",
+            "ro": "Bucurați-vă de acest reper modern dedicat în special culturii ciclismului și faceți o pauză perfectă aici pentru a vă reumple sticla cu apă.",
+            "en": "Enjoy this modern landmark dedicated specifically to cycling culture, making it the perfect thematic rest stop to hydrate and refill your water bottle."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Tierra",
+            "hu": "Casa de la Tierra",
+            "ro": "Casa de la Tierra",
+            "en": "Casa de la Tierra"
+          },
+          "coords": [
+            -92.937944,
+            17.997178
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in dieses ökologische Bildungszentrum über unseren Planeten und nutzen Sie die bereitgestellten Fahrradständer, um sicher nach drinnen zu gehen.",
+            "hu": "Merüljön el bolygónk ezen ökológiai oktatóközpontjában, és használja a kihelyezett kerékpártárolókat, mielőtt biztonságosan besétálna az épületbe.",
+            "ro": "Pătrundeți în acest centru educațional ecologic despre planeta noastră și folosiți parcarea pentru biciclete pentru a intra în siguranță în clădire.",
+            "en": "Immerse yourself in this ecological education center about our planet, and utilize the designated bike racks outside before safely stepping indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "The Old Warrior (Monument 4)",
+            "hu": "The Old Warrior (Monument 4)",
+            "ro": "The Old Warrior (Monument 4)",
+            "en": "The Old Warrior (Monument 4)"
+          },
+          "coords": [
+            -92.935782,
+            18.000887
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verwitterte antike Olmeken-Denkmal am Wegesrand und schieben Sie Ihr Fahrrad in diesem ruhigen Abschnitt, um die Gravuren zu studieren.",
+            "hu": "Fedezze fel ezt az út menti, viharvert ősi olmék emlékművet, és tolja kerékpárját ezen a csendes szakaszon, hogy alaposan tanulmányozhassa a gravírozásokat.",
+            "ro": "Descoperiți acest vechi monument olmec de pe marginea drumului și mergeți pe lângă bicicletă în această zonă liniștită pentru a-i studia gravurile.",
+            "en": "Discover this weathered ancient Olmec monument along the path, and walk your bike through this quiet section to closely study its fascinating engravings."
+          }
+        },
+        {
+          "name": {
+            "de": "Diana Cazadora",
+            "hu": "Diana Cazadora",
+            "ro": "Diana Cazadora",
+            "en": "Diana Cazadora"
+          },
+          "coords": [
+            -92.956284,
+            18.000107
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem eleganten Brunnen der Jagdgöttin, achten Sie auf den Kreisverkehr und genießen Sie die kühle Gischt nach dem Radfahren.",
+            "hu": "Fejezze be az utat a vadászat istennőjének elegáns szökőkútjánál, ügyeljen a körforgalom forgalmára, és élvezze a hűsítő permetet a kerékpározás után.",
+            "ro": "Încheiați-vă plimbarea la această fântână elegantă a zeiței vânătorii, atenție la sensul giratoriu, și bucurați-vă de stropii răcoroși după ce ați pedalat.",
+            "en": "Finish your ride at this elegant fountain of the hunting goddess, navigating the roundabout carefully to enjoy the refreshing cool mist after cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch die ruhigen Straßen zur Athletenstatue, um sich aufzuwärmen, bevor Sie zum historischen Denkmal von Sánchez Magallanes weiterfahren.\n\nMittag: Setzen Sie Ihre Fahrt zum inspirierenden Wahrzeichen VAMOS a RODAR fort, einer perfekten Hommage an den Radsport, bevor Sie die Ausstellungen im Casa de la Tierra erkunden.\n\nNachmittag: Gleiten Sie zum faszinierenden Denkmal des Alten Kriegers, wo die antike Vergangenheit in einer ruhigen, grünen Umgebung auf Ihr Abenteuer trifft.\n\nAbend: Lassen Sie den Tag mit einer letzten Etappe zum Kreisverkehr der Diana Cazadora ausklingen, wo Sie Ihr Fahrrad nach einer lohnenden Fahrt sicher abstellen können.",
+        "hu": "Reggel: Tekerjen a csendes utcákon a sportoló szobrához bemelegítésként, mielőtt átbiciklizne Sánchez Magallanes történelmi emlékművéhez.\n\nDél: Folytassa útját az inspiráló VAMOS a RODAR tájékozódási ponthoz, amely tökéletes tisztelgés a kerékpározás előtt, majd fedezze fel a Casa de la Tierra kiállításait.\n\nDélután: Guruljon el a lenyűgöző Öreg Harcos emlékművéhez, ahol a csendes, lombos környezetben az ősi múlt találkozik az Ön kétkerekű kalandjával.\n\nEste: Zárja a napot egy utolsó szakasszal a Diana Cazadora körforgalomhoz, és gyönyörködjön a lemenő napfényben, miután biztonságosan lezárta kerékpárját.",
+        "ro": "Dimineață: Pedalați pe străzile liniștite spre statuia atletului, încălzindu-vă înainte de a merge cu bicicleta către monumentul istoric al lui Sánchez Magallanes.\n\nAmiază: Continuați-vă plimbarea spre reperul inspirațional VAMOS a RODAR, un omagiu perfect pentru ciclism, înainte de a explora Casa de la Tierra.\n\nDupă-amiază: Alunecați spre intrigantul monument al Bătrânului Războinic, unde trecutul antic se întâlnește cu aventura pe două roți într-un mediu liniștit și verde.\n\nSeară: Încheiați cu un ultim traseu către sensul giratoriu Diana Cazadora, bucurându-vă de apus în timp ce vă parcați bicicleta pentru o odihnă bine meritată.",
+        "en": "Morning: Pedal off through the quiet streets to the athlete's statue, warming up before cycling over to the historic monument of Sánchez Magallanes.\n\nMidday: Continue your ride to the inspiring VAMOS a RODAR landmark, a perfect nod to cycling, before immersing yourself in the ecological exhibits at Casa de la Tierra.\n\nAfternoon: Glide towards the intriguing Old Warrior monument, where the ancient past meets your two-wheeled adventure in a serene, leafy environment.\n\nEvening: Wind down with a final stretch to the Diana Cazadora roundabout, appreciating the glowing sunset as you safely lock up your bike for a well-deserved rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:12",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Reloj de las Tres Caras",
+            "hu": "Reloj de las Tres Caras",
+            "ro": "Reloj de las Tres Caras",
+            "en": "Reloj de las Tres Caras"
+          },
+          "coords": [
+            -92.930177,
+            17.986282
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische dreiseitige Uhr, die den Herzschlag der Stadt markiert, und kommen Sie früh, um ihre Architektur in Ruhe zu fotografieren.",
+            "hu": "Csodálja meg ezt az ikonikus, háromarcú órát, amely a város szívverését jelzi, és érkezzen korán, hogy még a tömeg előtt lefotózhassa elegáns építészetét.",
+            "ro": "Admirați acest ceas emblematic cu trei fețe care marchează bătăile inimii orașului și ajungeți devreme pentru a-i fotografia arhitectura elegantă fără aglomerație.",
+            "en": "Admire this iconic three-faced clock that marks the city's heartbeat in the plaza, and arrive early to photograph its elegant architecture before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuauhtémoc",
+            "hu": "Cuauhtémoc",
+            "ro": "Cuauhtémoc",
+            "en": "Cuauhtémoc"
+          },
+          "coords": [
+            -92.930208,
+            17.994973
+          ],
+          "category": "historical",
+          "arrive_at": "09:32",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese markante Statue des Aztekenherrschers, die das indigene Erbe ehrt, und ruhen Sie sich kurz auf den schattigen Bänken in der Nähe aus.",
+            "hu": "Tekintse meg az azték uralkodó lenyűgöző szobrát, amely az őslakosok öröksége előtt tiszteleg, és pihenjen meg egy pillanatra a közeli árnyékos padokon.",
+            "ro": "Observați această statuie impresionantă a conducătorului aztec care onorează moștenirea indigenă și odihniți-vă puțin pe băncile umbrite din apropiere.",
+            "en": "Observe this striking statue of the Aztec ruler that honors indigenous heritage, and take a moment to rest on the nearby shaded benches during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque museo La Venta",
+            "hu": "Parque museo La Venta",
+            "ro": "Parque museo La Venta",
+            "en": "Parque museo La Venta"
+          },
+          "coords": [
+            -92.934014,
+            18.001636
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen Freilichtpark mit spektakulären archäologischen Ruinen inmitten lokaler Wildtiere, und tragen Sie bequeme Schuhe für die Dschungelpfade.",
+            "hu": "Sétáljon végig ezen a szabadtéri parkon, amely lenyűgöző régészeti romokat rejt a helyi vadvilág között, és viseljen kényelmes cipőt az egyenetlen dzsungelösvényeken.",
+            "ro": "Plimbați-vă prin acest parc în aer liber care adăpostește ruine arheologice spectaculoase și purtați pantofi comozi pentru potecile neregulate din junglă.",
+            "en": "Wander through this open-air park housing spectacular archaeological ruins among local wildlife, and wear comfortable walking shoes for the uneven jungle paths."
+          }
+        },
+        {
+          "name": {
+            "de": "The Governor (Monument 77)",
+            "hu": "The Governor (Monument 77)",
+            "ro": "The Governor (Monument 77)",
+            "en": "The Governor (Monument 77)"
+          },
+          "coords": [
+            -92.936177,
+            17.999827
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie dieses kunstvoll geschnitzte Denkmal alter Hierarchien und halten Sie Ihre Kamera bereit, um die verwitterten Steinstrukturen aus der Nähe einzufangen.",
+            "hu": "Figyelje meg az ősi hierarchiákat részletező, bonyolult faragású emlékművet, és töltse fel a fényképezőgépét, hogy testközelből is megörökíthesse a kő textúráját.",
+            "ro": "Observați acest monument complex sculptat care detaliază ierarhiile antice și asigurați-vă că aparatul foto este încărcat pentru a surprinde texturile de piatră.",
+            "en": "Observe this intricately carved monument detailing ancient hierarchies, and make sure your camera is charged to capture the weathered stone textures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Interactivo Papagayo",
+            "hu": "Museo Interactivo Papagayo",
+            "ro": "Museo Interactivo Papagayo",
+            "en": "Museo Interactivo Papagayo"
+          },
+          "coords": [
+            -92.965984,
+            18.006015
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die faszinierenden interaktiven Ausstellungen für alle Altersgruppen und nutzen Sie den großen Parkplatz direkt vor der Tür für ein entspanntes Ende.",
+            "hu": "Vegyen részt a minden korosztály számára tökéletes, lenyűgöző interaktív kiállításokon, és használja a tágas külső parkolót az autós nap stresszmentes lezárásához.",
+            "ro": "Interacționați cu expozițiile fascinante perfecte pentru toate vârstele și folosiți parcarea mare din față pentru un final relaxant al zilei dumneavoastră.",
+            "en": "Engage with the fascinating interactive exhibits perfect for all ages, and utilize the large parking lot right outside for a stress-free end to your driving day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie bequem zum zentralen Platz der Stadt, um die klassische Tres Caras Uhr zu bewundern, bevor Sie eine kurze, landschaftlich reizvolle Fahrt zur Statue unternehmen.\n\nMittag: Navigieren Sie reibungslos zum berühmten Parque museo La Venta, wo das Parken bequem ist und Sie den weitläufigen archäologischen Park komfortabel erkunden können.\n\nNachmittag: Machen Sie eine sehr kurze Fahrt zum Denkmal des Gouverneurs, einem verborgenen antiken Juwel, um die Geschichte der Olmeken schnell und eindrucksvoll zu würdigen.\n\nAbend: Beenden Sie Ihre Autotour am interaktiven Papagayo-Museum, wo ausreichend Parkplätze und spannende Nachmittagsaktivitäten Ihren Tagesausflug perfekt abrunden.",
+        "hu": "Reggel: Autózzon könnyedén a város központi terére, hogy megcsodálja a klasszikus Tres Caras órát, majd tegyen egy rövid, festői utat a monumentális Cuauhtémoc szoborhoz.\n\nDél: Navigáljon zökkenőmentesen a híres La Venta park felé, ahol kényelmes a parkolás, és nyugodtan felfedezheti a kiterjedt régészeti szabadtéri parkot.\n\nDélután: Tegyen egy nagyon rövid utat a Kormányzó emlékművéhez, egy rejtett ősi gyöngyszemhez, amely lehetővé teszi, hogy gyorsan megismerje az olmék történelmet.\n\nEste: Fejezze be autós útitervét az interaktív Papagayo Múzeumban, ahol a tágas parkoló és az izgalmas késő délutáni tevékenységek tökéletesen lezárják a kirándulást.",
+        "ro": "Dimineață: Conduceți ușor până în piața centrală pentru a admira ceasul clasic Tres Caras înainte de a face o scurtă călătorie pitorească spre statuia monumentală Cuauhtémoc.\n\nAmiază: Navigați fără probleme către renumitul Parque museo La Venta, unde parcarea este convenabilă și puteți explora confortabil întinsul parc arheologic.\n\nDupă-amiază: Faceți un drum foarte scurt pentru a vedea monumentul Guvernatorului, o bijuterie antică ascunsă, apreciind rapid istoria olmecă fără a pierde ritmul.\n\nSeară: Încheiați-vă itinerariul auto la Muzeul Interactiv Papagayo, unde parcarea amplă și activitățile captivante de după-amiază completează perfect excursia de o zi.",
+        "en": "Morning: Drive easily to the city's central square to admire the classic Tres Caras clock before taking a short, scenic ride over to the monumental Cuauhtémoc statue.\n\nMidday: Navigate smoothly towards the renowned Parque museo La Venta, where parking is convenient and you can comfortably explore the sprawling archaeological park.\n\nAfternoon: Take a very short drive to see The Governor monument, a hidden ancient gem, allowing you to quickly appreciate Olmec history without missing a beat.\n\nEvening: Finish your driving itinerary at the interactive Papagayo Museum, where ample parking and engaging late-afternoon activities perfectly cap off your day trip."
+      }
+    }
+  }
+}

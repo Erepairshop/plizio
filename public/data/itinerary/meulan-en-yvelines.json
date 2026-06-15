@@ -1,0 +1,520 @@
+{
+  "city_id": "meulan-en-yvelines",
+  "anchor": {
+    "name": "Meulan-en-Yvelines",
+    "coords": [
+      1.9064,
+      49.0061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:01",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.908217,
+            49.006275
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Kirche, die das lokale Erbe widerspiegelt, und besuchen Sie sie früh, um das Morgenlicht in den Buntglasfenstern zu genießen.",
+            "hu": "Csodálja meg e központi történelmi templom gótikus részleteit, mely a helyi örökséget tükrözi, és érkezzen korán, hogy élvezhesse a festett üvegablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați detaliile gotice ale acestei biserici centrale istorice care reflectă patrimoniul local și vizitați-o devreme pentru a vă bucura de lumina dimineții prin vitraliile sale.",
+            "en": "Admire the intricate Gothic details of this historic central church which reflects local heritage, and visit early to enjoy the morning light streaming through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Rhin et Danube",
+            "hu": "Pont Rhin et Danube",
+            "ro": "Pont Rhin et Danube",
+            "en": "Pont Rhin et Danube"
+          },
+          "coords": [
+            1.906605,
+            49.003139
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese moderne Brücke, um die weite Aussicht auf die Seine zu genießen, und stellen Sie sich auf den Fußgängerweg, um die besten Panoramafotos zu machen.",
+            "hu": "Sétáljon át a folyópartokat összekötő modern hídon a Szajnára nyíló széles kilátásért, és álljon meg a gyalogos sétányon a legjobb panorámaképek és tájképek elkészítéséhez.",
+            "ro": "Plimbați-vă pe acest pod modern care leagă malurile pentru a aprecia vederea amplă asupra Senei și stați pe aleea pietonală pentru a realiza cele mai bune fotografii panoramice.",
+            "en": "Stroll across this prominent modern bridge connecting the riverbanks to appreciate wide views of the Seine, and stand on the pedestrian walkway for the best panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Saint-Côme",
+            "hu": "Pont Saint-Côme",
+            "ro": "Pont Saint-Côme",
+            "en": "Pont Saint-Côme"
+          },
+          "coords": [
+            1.907884,
+            49.00175
+          ],
+          "category": "landmark",
+          "arrive_at": "10:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Charme dieser historischen Brücke zur malerischen Île Belle und gehen Sie vorsichtig am Rand entlang, um Wasservögel an den Ufern der Seine zu entdecken.",
+            "hu": "Figyelje meg a festői Île Belle-t összekötő történelmi átkelő építészeti varázsát, és sétáljon óvatosan a szélén, hogy megfigyelhesse a partokon pihenő helyi vízimadarakat.",
+            "ro": "Observați farmecul arhitectural al acestei treceri istorice spre pitoreasca Île Belle și mergeți cu atenție pe margine pentru a observa păsările de apă care se odihnesc pe maluri.",
+            "en": "Observe the architectural charm of this historic crossing that links to the picturesque Île Belle, and walk carefully along its edge to spot local waterbirds resting on the shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont aux Perches",
+            "hu": "Pont aux Perches",
+            "ro": "Pont aux Perches",
+            "en": "Pont aux Perches"
+          },
+          "coords": [
+            1.90999,
+            49.00379
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steinbögen dieser mittelalterlichen Brücke, die einst als Handelsweg diente, und tragen Sie bequeme Schuhe, um das unebene historische Pflaster zu meistern.",
+            "hu": "Fedezze fel az egykor fontos kereskedelmi útvonalként szolgáló középkori híd ősi kőárkádjait, és viseljen kényelmes cipőt, hogy biztonságosan sétálhasson az egyenetlen burkolaton.",
+            "ro": "Descoperiți arcadele de piatră ale acestui pod medieval care a servit ca rută comercială și purtați încălțăminte confortabilă pentru a naviga în siguranță pe pavajul său istoric.",
+            "en": "Discover the ancient stone arches of this medieval bridge which once served as a major trade route, and wear comfortable shoes to safely navigate its somewhat uneven historic paving."
+          }
+        },
+        {
+          "name": {
+            "de": "square Taufkirchen",
+            "hu": "square Taufkirchen",
+            "ro": "square Taufkirchen",
+            "en": "square Taufkirchen"
+          },
+          "coords": [
+            1.91097,
+            49.003856
+          ],
+          "category": "park",
+          "arrive_at": "12:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Grünfläche, die den Städtepartnerschaften gewidmet ist, und holen Sie sich ein frisches Gebäck, um es auf einer der schattigen Bänke zu essen.",
+            "hu": "Pihenjen meg ebben a testvérvárosokat ünneplő békés zöld parkban, amely tökéletes déli szünetet biztosít, és vegyen egy friss péksüteményt, hogy az árnyékos padok egyikén elfogyassza.",
+            "ro": "Relaxați-vă în acest spațiu verde liniștit care onorează înfrățirile orașului și cumpărați un produs de patiserie proaspăt din apropiere pentru a-l savura pe o bancă la umbră.",
+            "en": "Relax in this peaceful green space honoring town twinnings which provides a perfect mid-day break, and grab a fresh pastry from a nearby bakery to enjoy on one of the shaded benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des zentralen historischen Viertels und der Kirche. Schlendern Sie mittags zu den Flussufern, um die Brücken zu bewundern. Verbringen Sie den Nachmittag damit, mittelalterliche Passagen zu überqueren und den Inselcharme zu entdecken. Beenden Sie den Tag entspannt auf einem ruhigen grünen Platz im Zentrum.",
+        "hu": "Kezdje a reggelt a központi történelmi negyed és nagyszerű templomának felfedezésével. Délben sétáljon a folyópart felé, hogy megcsodálja az ikonikus hidakat. A délutánt a középkori átkelőkön áthaladva és a sziget varázsának felfedezésével töltse. Zárja a napot egy békés zöld téren pihenve, elmélkedve a folyóparti szépségen és hangulaton.",
+        "ro": "Începeți dimineața explorând cartierul istoric central și biserica sa măreață. La prânz, plimbați-vă spre malurile râului pentru a admira podurile iconice. Petreceți după-amiaza traversând pasajele medievale și descoperind farmecul insulei locale. Încheiați ziua relaxându-vă într-o piață verde liniștită, reflectând asupra frumuseții râului.",
+        "en": "Start your morning exploring the central historic district and its grand church. By midday, wander towards the riverbanks to admire the iconic bridges linking the mainland. Spend the afternoon crossing the medieval passages and discovering local island charm. Conclude the day relaxing in a peaceful green square, reflecting on the riverside beauty."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.908217,
+            49.006275
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Kirche, die das lokale Erbe widerspiegelt, und besuchen Sie sie früh, um das Morgenlicht in den Buntglasfenstern zu genießen.",
+            "hu": "Csodálja meg e központi történelmi templom gótikus részleteit, mely a helyi örökséget tükrözi, és érkezzen korán, hogy élvezhesse a festett üvegablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați detaliile gotice ale acestei biserici centrale istorice care reflectă patrimoniul local și vizitați-o devreme pentru a vă bucura de lumina dimineții prin vitraliile sale.",
+            "en": "Admire the intricate Gothic details of this historic central church which reflects local heritage, and visit early to enjoy the morning light streaming through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "square Taufkirchen",
+            "hu": "square Taufkirchen",
+            "ro": "square Taufkirchen",
+            "en": "square Taufkirchen"
+          },
+          "coords": [
+            1.91097,
+            49.003856
+          ],
+          "category": "park",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Grünfläche, die den Städtepartnerschaften gewidmet ist, und holen Sie sich ein frisches Gebäck, um es auf einer der schattigen Bänke zu essen.",
+            "hu": "Pihenjen meg ebben a testvérvárosokat ünneplő békés zöld parkban, amely tökéletes déli szünetet biztosít, és vegyen egy friss péksüteményt, hogy az árnyékos padok egyikén elfogyassza.",
+            "ro": "Relaxați-vă în acest spațiu verde liniștit care onorează înfrățirile orașului și cumpărați un produs de patiserie proaspăt din apropiere pentru a-l savura pe o bancă la umbră.",
+            "en": "Relax in this peaceful green space honoring town twinnings which provides a perfect mid-day break, and grab a fresh pastry from a nearby bakery to enjoy on one of the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont aux Perches",
+            "hu": "Pont aux Perches",
+            "ro": "Pont aux Perches",
+            "en": "Pont aux Perches"
+          },
+          "coords": [
+            1.90999,
+            49.00379
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steinbögen dieser mittelalterlichen Brücke, die einst als Handelsweg diente, und tragen Sie bequeme Schuhe, um das unebene historische Pflaster zu meistern.",
+            "hu": "Fedezze fel az egykor fontos kereskedelmi útvonalként szolgáló középkori híd ősi kőárkádjait, és viseljen kényelmes cipőt, hogy biztonságosan sétálhasson az egyenetlen burkolaton.",
+            "ro": "Descoperiți arcadele de piatră ale acestui pod medieval care a servit ca rută comercială și purtați încălțăminte confortabilă pentru a naviga în siguranță pe pavajul său istoric.",
+            "en": "Discover the ancient stone arches of this medieval bridge which once served as a major trade route, and wear comfortable shoes to safely navigate its somewhat uneven historic paving."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Saint-Côme",
+            "hu": "Pont Saint-Côme",
+            "ro": "Pont Saint-Côme",
+            "en": "Pont Saint-Côme"
+          },
+          "coords": [
+            1.907884,
+            49.00175
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Charme dieser historischen Brücke zur malerischen Île Belle und gehen Sie vorsichtig am Rand entlang, um Wasservögel an den Ufern der Seine zu entdecken.",
+            "hu": "Figyelje meg a festői Île Belle-t összekötő történelmi átkelő építészeti varázsát, és sétáljon óvatosan a szélén, hogy megfigyelhesse a partokon pihenő helyi vízimadarakat.",
+            "ro": "Observați farmecul arhitectural al acestei treceri istorice spre pitoreasca Île Belle și mergeți cu atenție pe margine pentru a observa păsările de apă care se odihnesc pe maluri.",
+            "en": "Observe the architectural charm of this historic crossing that links to the picturesque Île Belle, and walk carefully along its edge to spot local waterbirds resting on the shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Rhin et Danube",
+            "hu": "Pont Rhin et Danube",
+            "ro": "Pont Rhin et Danube",
+            "en": "Pont Rhin et Danube"
+          },
+          "coords": [
+            1.906605,
+            49.003139
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese moderne Brücke, um die weite Aussicht auf die Seine zu genießen, und stellen Sie sich auf den Fußgängerweg, um die besten Panoramafotos zu machen.",
+            "hu": "Sétáljon át a folyópartokat összekötő modern hídon a Szajnára nyíló széles kilátásért, és álljon meg a gyalogos sétányon a legjobb panorámaképek és tájképek elkészítéséhez.",
+            "ro": "Plimbați-vă pe acest pod modern care leagă malurile pentru a aprecia vederea amplă asupra Senei și stați pe aleea pietonală pentru a realiza cele mai bune fotografii panoramice.",
+            "en": "Stroll across this prominent modern bridge connecting the riverbanks to appreciate wide views of the Seine, and stand on the pedestrian walkway for the best panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain-de-Paris",
+            "hu": "Église Saint-Germain-de-Paris",
+            "ro": "Église Saint-Germain-de-Paris",
+            "en": "Église Saint-Germain-de-Paris"
+          },
+          "coords": [
+            1.894552,
+            49.008009
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene Sakralbauwerk, das bemerkenswerte Steinmetzarbeiten aus vergangenen Epochen zeigt, und nehmen Sie sich Zeit im ruhigen Kirchenschiff für die Akustik.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött vallási épületet, amely letűnt korok kőművesmunkáit mutatja be, és töltsön el egy percet a csendes hajóban, hogy élvezze a nyugodt akusztikát.",
+            "ro": "Explorați acest edificiu religios frumos conservat care prezintă lucrări remarcabile din piatră din epocile trecute și luați-vă un moment în naosul liniștit pentru acustica senină.",
+            "en": "Explore this beautifully preserved religious edifice that showcases remarkable stonework from bygone eras, and take a moment in the quiet nave to fully appreciate the serene acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            1.881647,
+            48.99911
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese malerische Dorfkirche ein, die für ihre intime Atmosphäre und ländliche Architektur bekannt ist, und prüfen Sie das Schwarze Brett auf Auftritte des Gemeindechors.",
+            "hu": "Lépjen be ebbe az intim hangulatáról és elegáns vidéki építészetéről ismert falusi templomba, és nézze meg a kinti hirdetőtáblát az esetleges közösségi kóruselőadások időpontjaiért.",
+            "ro": "Pășiți în această biserică pitorească de sat, remarcată pentru atmosfera sa intimă și arhitectura rurală elegantă, și verificați avizierul pentru spectacolele corului comunitar local.",
+            "en": "Step inside this quaint village church noted for its intimate atmosphere and elegant rural architecture, and check the notice board outside for occasional community choir performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh los, um die ruhige Morgenluft nahe der zentralen Pfarrei zu genießen. Fahren Sie gemütlich um die grünen Parks und alten Steinbrücken. Fahren Sie am Nachmittag gen Westen und besuchen Sie ruhige Dorfkirchen in der Nähe. Beenden Sie Ihr Radabenteuer und genießen Sie die ländliche Ruhe der umliegenden Gemeinden auf Ihrer Fahrt.",
+        "hu": "Tekerjen korán, hogy beszívja a nyugodt reggeli levegőt a központi plébánia közelében. Navigáljon a zöld parkok és ősi kőhidak körül. Délután kerekezzen nyugat felé, és látogassa meg a közelben megbúvó csendes falusi templomokat. Fejezze be kerékpáros kalandját, élvezve a környező települések jellegzetes vidéki nyugalmát és szépségét.",
+        "ro": "Pedalați devreme pentru a respira aerul dimineții lângă parohia centrală. Navigați lin în jurul parcurilor verzi și a podurilor antice de piatră. Mergeți spre vest după-amiaza, vizitând biserici liniștite de sat ascunse în apropiere. Terminați aventura cu bicicleta bucurându-vă de liniștea rurală distinctă a comunităților din împrejurimi.",
+        "en": "Pedal out early to take in the serene morning air near the central parish. Navigate smoothly around the green parks and ancient stone bridges as the sun climbs higher. Ride westwards in the afternoon, visiting quiet village churches nestled nearby. Finish your cycling adventure enjoying the distinct rural tranquility of the surrounding communities."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            1.893126,
+            49.02443
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser markanten historischen Bergkirche mit großartigen architektonischen Proportionen und gehen Sie um das Gebäude herum, um den herrlichen Talblick zu sehen.",
+            "hu": "Kezdje a magaslati túrát ennél a lenyűgöző történelmi hegyteti templomnál, mely nagyszerű építészeti arányokkal bír, és sétáljon körbe az épület külső részén a völgyi kilátásért.",
+            "ro": "Începeți turul la această biserică istorică uimitoare din vârful dealului cu proporții arhitecturale mărețe și mergeți în jurul perimetrului său exterior pentru a admira valea superbă.",
+            "en": "Begin your elevated tour at this striking historic hilltop church offering grand architectural proportions, and walk around its exterior perimeter to capture the magnificent valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain-de-Paris",
+            "hu": "Église Saint-Germain-de-Paris",
+            "ro": "Église Saint-Germain-de-Paris",
+            "en": "Église Saint-Germain-de-Paris"
+          },
+          "coords": [
+            1.894552,
+            49.008009
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene Sakralbauwerk, das bemerkenswerte Steinmetzarbeiten aus vergangenen Epochen zeigt, und nehmen Sie sich Zeit im ruhigen Kirchenschiff für die Akustik.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött vallási épületet, amely letűnt korok kőművesmunkáit mutatja be, és töltsön el egy percet a csendes hajóban, hogy élvezze a nyugodt akusztikát.",
+            "ro": "Explorați acest edificiu religios frumos conservat care prezintă lucrări remarcabile din piatră din epocile trecute și luați-vă un moment în naosul liniștit pentru acustica senină.",
+            "en": "Explore this beautifully preserved religious edifice that showcases remarkable stonework from bygone eras, and take a moment in the quiet nave to fully appreciate the serene acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.908217,
+            49.006275
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Kirche, die das lokale Erbe widerspiegelt, und besuchen Sie sie früh, um das Morgenlicht in den Buntglasfenstern zu genießen.",
+            "hu": "Csodálja meg e központi történelmi templom gótikus részleteit, mely a helyi örökséget tükrözi, és érkezzen korán, hogy élvezhesse a festett üvegablakokon átszűrődő reggeli fényeket.",
+            "ro": "Admirați detaliile gotice ale acestei biserici centrale istorice care reflectă patrimoniul local și vizitați-o devreme pentru a vă bucura de lumina dimineții prin vitraliile sale.",
+            "en": "Admire the intricate Gothic details of this historic central church which reflects local heritage, and visit early to enjoy the morning light streaming through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "square Taufkirchen",
+            "hu": "square Taufkirchen",
+            "ro": "square Taufkirchen",
+            "en": "square Taufkirchen"
+          },
+          "coords": [
+            1.91097,
+            49.003856
+          ],
+          "category": "park",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser ruhigen Grünfläche, die den Städtepartnerschaften gewidmet ist, und holen Sie sich ein frisches Gebäck, um es auf einer der schattigen Bänke zu essen.",
+            "hu": "Pihenjen meg ebben a testvérvárosokat ünneplő békés zöld parkban, amely tökéletes déli szünetet biztosít, és vegyen egy friss péksüteményt, hogy az árnyékos padok egyikén elfogyassza.",
+            "ro": "Relaxați-vă în acest spațiu verde liniștit care onorează înfrățirile orașului și cumpărați un produs de patiserie proaspăt din apropiere pentru a-l savura pe o bancă la umbră.",
+            "en": "Relax in this peaceful green space honoring town twinnings which provides a perfect mid-day break, and grab a fresh pastry from a nearby bakery to enjoy on one of the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont aux Perches",
+            "hu": "Pont aux Perches",
+            "ro": "Pont aux Perches",
+            "en": "Pont aux Perches"
+          },
+          "coords": [
+            1.90999,
+            49.00379
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steinbögen dieser mittelalterlichen Brücke, die einst als Handelsweg diente, und tragen Sie bequeme Schuhe, um das unebene historische Pflaster zu meistern.",
+            "hu": "Fedezze fel az egykor fontos kereskedelmi útvonalként szolgáló középkori híd ősi kőárkádjait, és viseljen kényelmes cipőt, hogy biztonságosan sétálhasson az egyenetlen burkolaton.",
+            "ro": "Descoperiți arcadele de piatră ale acestui pod medieval care a servit ca rută comercială și purtați încălțăminte confortabilă pentru a naviga în siguranță pe pavajul său istoric.",
+            "en": "Discover the ancient stone arches of this medieval bridge which once served as a major trade route, and wear comfortable shoes to safely navigate its somewhat uneven historic paving."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Saint-Côme",
+            "hu": "Pont Saint-Côme",
+            "ro": "Pont Saint-Côme",
+            "en": "Pont Saint-Côme"
+          },
+          "coords": [
+            1.907884,
+            49.00175
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Charme dieser historischen Brücke zur malerischen Île Belle und gehen Sie vorsichtig am Rand entlang, um Wasservögel an den Ufern der Seine zu entdecken.",
+            "hu": "Figyelje meg a festői Île Belle-t összekötő történelmi átkelő építészeti varázsát, és sétáljon óvatosan a szélén, hogy megfigyelhesse a partokon pihenő helyi vízimadarakat.",
+            "ro": "Observați farmecul arhitectural al acestei treceri istorice spre pitoreasca Île Belle și mergeți cu atenție pe margine pentru a observa păsările de apă care se odihnesc pe maluri.",
+            "en": "Observe the architectural charm of this historic crossing that links to the picturesque Île Belle, and walk carefully along its edge to spot local waterbirds resting on the shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            1.881647,
+            48.99911
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese malerische Dorfkirche ein, die für ihre intime Atmosphäre und ländliche Architektur bekannt ist, und prüfen Sie das Schwarze Brett auf Auftritte des Gemeindechors.",
+            "hu": "Lépjen be ebbe az intim hangulatáról és elegáns vidéki építészetéről ismert falusi templomba, és nézze meg a kinti hirdetőtáblát az esetleges közösségi kóruselőadások időpontjaiért.",
+            "ro": "Pășiți în această biserică pitorească de sat, remarcată pentru atmosfera sa intimă și arhitectura rurală elegantă, și verificați avizierul pentru spectacolele corului comunitar local.",
+            "en": "Step inside this quaint village church noted for its intimate atmosphere and elegant rural architecture, and check the notice board outside for occasional community choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de la villa Paul Poiret",
+            "hu": "Piscine de la villa Paul Poiret",
+            "ro": "Piscine de la villa Paul Poiret",
+            "en": "Piscine de la villa Paul Poiret"
+          },
+          "coords": [
+            1.870082,
+            48.998793
+          ],
+          "category": "family",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die strengen geometrischen Linien dieses von Mallet-Stevens entworfenen modernistischen Schwimmbads und planen Sie Ihren Besuch an Tagen des offenen Denkmals für Zugang.",
+            "hu": "Csodálja meg a Mallet-Stevens által tervezett ikonikus modernista medenceépület szigorú geometriai vonalait, és próbálja meg a látogatását a ritka örökségnapokra időzíteni a bejutásért.",
+            "ro": "Minunați-vă de liniile geometrice ale acestei piscine moderniste iconice proiectate de Mallet-Stevens și încercați să vă programați vizita în zilele de patrimoniu pentru acces intern.",
+            "en": "Marvel at the stark geometric lines of this iconic modernist pool facility designed by Mallet-Stevens, and try to schedule your visit during rare heritage open days for internal access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie im Morgengrauen in die nördlichen Hügel, um eine weite Aussicht zu genießen. Fahren Sie ins Stadtzentrum für einen Spaziergang zwischen historischen Brücken. Fahren Sie nach dem Mittagessen weiter nach Westen, um malerische spirituelle Stätten zu entdecken. Beenden Sie Ihre umfassende Tour und bewundern Sie modernistische Architektur.",
+        "hu": "Hajtson fel hajnalban az északi dombokra, hogy a klasszikus templomból széles kilátást élvezzen. Ereszkedjen le a nyüzsgő városközpontba egy kellemes sétára a kőhidak között. Ebéd után induljon nyugatra, hogy felfedezze a festői spirituális helyeket. Zárja átfogó túráját a lenyűgöző modernista építészet és a merész formák megcsodálásával.",
+        "ro": "Conduceți spre dealurile nordice în zori pentru vederi panoramice de la o biserică clasică. Coborâți în centrul orașului pentru o plimbare plăcută printre podurile istorice. Mergeți spre vest după prânz pentru a descoperi locuri spirituale pitorești. Încheiați turul cuprinzător admirând arhitectura modernistă izbitoare și formele sale îndrăznețe.",
+        "en": "Drive up the northern hills at dawn for sweeping views from a classic church. Descend to the bustling town center for a pleasant walk among historical stone bridges. Head further west after lunch to discover quaint spiritual sites in neighboring hamlets. Wrap up your comprehensive tour admiring striking modernist architecture and its bold forms."
+      }
+    }
+  }
+}

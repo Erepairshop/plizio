@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-vourvourou-cities-v2",
+  "anchor": {
+    "name": "Vourvourou",
+    "coords": [
+      23.8,
+      40.183333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vourvourou",
+            "hu": "Vourvourou",
+            "ro": "Vourvourou",
+            "en": "Vourvourou"
+          },
+          "coords": [
+            23.800676,
+            40.189825
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
+            "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
+            "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Karidi Strand",
+            "hu": "Karidi strand",
+            "ro": "Plaja Karidi",
+            "en": "Karidi Beach"
+          },
+          "coords": [
+            23.808193,
+            40.193223
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
+            "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
+            "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Karydi Strand",
+            "hu": "Kis Karydi strand",
+            "ro": "Plaja Mică Karydi",
+            "en": "Small Karydi Beach"
+          },
+          "coords": [
+            23.810305,
+            40.191745
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigere, felsigere Alternative zum Hauptstrand, ideal zum Schnorcheln, also vergessen Sie Ihre Ausrüstung nicht.",
+            "hu": "Fedezze fel a fő strand csendesebb, sziklásabb alternatíváját, amely tökéletes sznorkelezéshez, így ne hagyja otthon a búvárszemüveget.",
+            "ro": "Descoperiți această alternativă mai liniștită și stâncoasă a plajei principale, perfectă pentru snorkeling, așa că aduceți-vă echipamentul.",
+            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Brounou Strand",
+            "hu": "Brounou strand",
+            "ro": "Plaja Brounou",
+            "en": "Brounou Beach"
+          },
+          "coords": [
+            23.818174,
+            40.187144
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem abgelegenen Sandstrand, wo das Wasser schnell tiefer wird, ideal für sichere Schwimmer abseits der Massen.",
+            "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon, ahol a víz gyorsan mélyül, így ideális a tömeget kerülő úszók számára.",
+            "ro": "Relaxați-vă pe această plajă frumoasă și retrasă, unde apa se adâncește rapid, fiind ideală pentru înotătorii încrezători și evitând aglomerația.",
+            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fava Strand",
+            "hu": "Fava strand",
+            "ro": "Plaja Fava",
+            "en": "Fava beach"
+          },
+          "coords": [
+            23.819527,
+            40.184657
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
+            "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie den charmanten Küstenflair des Dorfes Vourvourou aufsaugen. Die ruhige Atmosphäre ist perfekt für einen gemütlichen Spaziergang.\n\nGegen Mittag erreichen Sie den berühmten Karidi Strand. Das helltürkisfarbene, flache Wasser und die glatten weißen Felsen bieten eine idyllische Kulisse.\n\nAm Nachmittag entdecken Sie den ruhigeren Charme von Small Karydi und Brounou Beach. Diese Orte bieten hervorragende Möglichkeiten zum Schwimmen und Schnorcheln.\n\nBeenden Sie Ihren Tag am Fava Strand, umrahmt von dramatischen Felsformationen. Das Licht der goldenen Stunde ist hier magisch und ideal für den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Vourvourou falu hangulatos tengerparti légkörének felfedezésével. A nyugodt környezet tökéletes egy kényelmes sétához, ahogy a nap felkel.\n\nDél körül eléri a híres Karidi strandot. A világos türkizkék, sekély víz és a sima fehér sziklák idilli környezetet biztosítanak a pihenéshez.\n\nDélután fedezze fel a Kis Karydi és a Brounou strand csendesebb varázsát. Ezek a helyek kiváló lehetőséget kínálnak úszásra és sznorkelezésre a tömegtől távol.\n\nZárja a napot a drámai sziklaalakzatokkal övezett Fava strandon. Az aranyóra fénye itt varázslatos, tökéletes helyszín a naplemente megtekintéséhez.",
+        "ro": "Începeți dimineața absorbind vibrația fermecătoare de coastă a satului Vourvourou. Atmosfera senină este perfectă pentru o plimbare pe îndelete.\n\nLa amiază, veți ajunge la faimoasa plajă Karidi. Apele turcoaz strălucitoare, puțin adânci și stâncile albe netede oferă un cadru idilic pentru relaxare.\n\nDupă-amiaza, descoperiți farmecul mai liniștit de la Small Karydi și plaja Brounou. Aceste locuri oferă oportunități excelente pentru înot și snorkeling.\n\nÎncheiați-vă ziua la plaja Fava, încadrată de formațiuni stâncoase dramatice. Lumina orei de aur aici este magică, perfectă pentru un apus de soare de neuitat.",
+        "en": "Start your morning absorbing the charming coastal vibe of Vourvourou village. The serene atmosphere is perfect for a leisurely walk as the sun rises.\n\nBy midday, you will reach the famous Karidi Beach. The bright turquoise, shallow waters and smooth white rocks offer an idyllic setting for relaxation.\n\nIn the afternoon, discover the quieter charm of Small Karydi and Brounou Beach. These spots provide excellent opportunities for swimming and snorkeling away from the main crowd.\n\nEnd your day at Fava beach, framed by dramatic rock formations. The golden hour light here is magical, making it a perfect spot to watch the sun set over the Aegean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vourvourou Strand",
+            "hu": "Vourvourou strand",
+            "ro": "Plaja Vourvourou",
+            "en": "Vourvourou Beach"
+          },
+          "coords": [
+            23.77406,
+            40.193323
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie den ausgedehnten, von kleinen Booten gesäumten Sandstrand entlang, ideal für einen morgendlichen Spaziergang vor der Hitze.",
+            "hu": "Sétáljon végig a kis csónakokkal szegélyezett kiterjedt homokos parton, amely tökéletes egy békés reggeli sétához a déli hőség előtt.",
+            "ro": "Plimbați-vă de-a lungul coastei de nisip pline de bărci mici, perfectă pentru o plimbare liniștită dimineața înainte de căldura amiezii.",
+            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Vourvourou",
+            "hu": "Vourvourou",
+            "ro": "Vourvourou",
+            "en": "Vourvourou"
+          },
+          "coords": [
+            23.800676,
+            40.189825
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
+            "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
+            "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Karidi Strand",
+            "hu": "Karidi strand",
+            "ro": "Plaja Karidi",
+            "en": "Karidi Beach"
+          },
+          "coords": [
+            23.808193,
+            40.193223
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
+            "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
+            "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Brounou Strand",
+            "hu": "Brounou strand",
+            "ro": "Plaja Brounou",
+            "en": "Brounou Beach"
+          },
+          "coords": [
+            23.818174,
+            40.187144
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem abgelegenen Sandstrand, wo das Wasser schnell tiefer wird, ideal für sichere Schwimmer abseits der Massen.",
+            "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon, ahol a víz gyorsan mélyül, így ideális a tömeget kerülő úszók számára.",
+            "ro": "Relaxați-vă pe această plajă frumoasă și retrasă, unde apa se adâncește rapid, fiind ideală pentru înotătorii încrezători și evitând aglomerația.",
+            "en": "Relax on this beautiful, secluded stretch of sand where the water deepens quickly, making it ideal for confident swimmers avoiding crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Manos Strand",
+            "hu": "Manos strand",
+            "ro": "Plaja Manos",
+            "en": "Manos Beach"
+          },
+          "coords": [
+            23.819407,
+            40.185558
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entfliehen Sie zu diesem versteckten Juwel, wo Sie in völliger Ruhe den Wellen lauschen können, aber gehen Sie vorsichtig den Pfad hinab.",
+            "hu": "Meneküljön erre az apró, rejtett gyöngyszemre, ahol teljes nyugalomban hallgathatja a hullámokat, de óvatosan ereszkedjen le az ösvényen.",
+            "ro": "Evadați în această mică bijuterie ascunsă unde puteți asculta valurile în liniște totală, dar coborâți cu atenție pe cărarea neasfaltată.",
+            "en": "Escape to this tiny, hidden gem where you can listen to the waves in total tranquility, so walk carefully down the unpaved access path."
+          }
+        },
+        {
+          "name": {
+            "de": "Fava Strand",
+            "hu": "Fava strand",
+            "ro": "Plaja Fava",
+            "en": "Fava beach"
+          },
+          "coords": [
+            23.819527,
+            40.184657
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
+            "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entlang des langen Strandes von Vourvourou, spüren Sie die Meeresbrise, bevor Sie ins entspannte Dorfzentrum fahren.\n\nIhr Mittagsstopp ist der legendäre Karidi Strand, wo Sie Ihr Rad parken und ins faszinierende, von Kiefern beschattete türkisfarbene Wasser eintauchen können.\n\nSetzen Sie Ihre Nachmittagsfahrt nach Süden zum Brounou und Manos Strand fort. Die malerischen Küstenwege bieten wunderschöne Aussichtspunkte.\n\nBeenden Sie Ihr Abenteuer am Fava Strand. Nach einem lohnenden Radtag können Sie sich auf dem Kieselstrand entspannen und die Felsen bewundern.",
+        "hu": "Kezdje a kerékpártúrát a hosszú Vourvourou strand mentén, érezve a friss tengeri szellőt, mielőtt a falu nyugodt központjába indulna.\n\nA déli megálló az ikonikus Karidi strand, ahol leparkolhatja kerékpárját, és megmártózhat a fenyőfákkal árnyékolt türkizkék vízben.\n\nFolytassa a délutáni utat dél felé a Brounou és az eldugott Manos strandokhoz. A festői tengerparti ösvények gyönyörű kilátást nyújtanak a tengerre.\n\nFejezze be a kalandot a Fava strandon. Egy fárasztó kerékpáros nap után pihenjen a kavicsos homokon, és csodálja meg a lenyűgöző sziklás tájat.",
+        "ro": "Începeți turul cu bicicleta de-a lungul plajei Vourvourou, simțind briza proaspătă a mării înainte de a vă îndrepta spre centrul satului.\n\nOprirea de la amiază este plaja Karidi, unde vă puteți parca bicicleta și vă puteți scufunda în apele turcoaz fascinante, umbrite de pini.\n\nContinuați plimbarea de după-amiază spre sud către plajele Brounou și Manos. Cărările de coastă pitorești oferă puncte de belvedere superbe.\n\nÎncheiați aventura la plaja Fava. După o zi plină de ciclism, relaxați-vă pe nisipul cu pietriș și admirați peisajul stâncos impresionant.",
+        "en": "Kick off your cycling tour along the lengthy Vourvourou Beach, feeling the fresh sea breeze before heading into the relaxed village center.\n\nYour midday stop is the iconic Karidi Beach, where you can park your bike and dip into the mesmerizing, pine-shaded turquoise waters.\n\nContinue your afternoon ride south to Brounou Beach and the hidden Manos Beach. The scenic coastal paths offer beautiful vantage points of the sea.\n\nConclude your adventure at Fava beach. After a rewarding day of cycling, relax on the pebbly sand and admire the impressive rocky landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 5.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Livari Strand",
+            "hu": "Livari strand",
+            "ro": "Plaja Livari",
+            "en": "Livari Beach"
+          },
+          "coords": [
+            23.769193,
+            40.201086
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die einzigartige Sandlagune, die ein natürliches Becken bildet, am besten bei Ebbe für die atemberaubendsten Aussichten.",
+            "hu": "Fotózza le az egyedülálló homoklagúnát, amely egy természetes medencét alkot, és látogasson el apály idején a legszebb kilátásért.",
+            "ro": "Fotografiați laguna unică de nisip care creează o piscină naturală, cel mai bine vizitată în timpul refluxului pentru cele mai uimitoare priveliști.",
+            "en": "Photograph the unique sand lagoon formation that creates a striking natural pool, best visited during low tide for the most stunning views."
+          }
+        },
+        {
+          "name": {
+            "de": "Vourvourou Strand",
+            "hu": "Vourvourou strand",
+            "ro": "Plaja Vourvourou",
+            "en": "Vourvourou Beach"
+          },
+          "coords": [
+            23.77406,
+            40.193323
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Spazieren Sie den ausgedehnten, von kleinen Booten gesäumten Sandstrand entlang, ideal für einen morgendlichen Spaziergang vor der Hitze.",
+            "hu": "Sétáljon végig a kis csónakokkal szegélyezett kiterjedt homokos parton, amely tökéletes egy békés reggeli sétához a déli hőség előtt.",
+            "ro": "Plimbați-vă de-a lungul coastei de nisip pline de bărci mici, perfectă pentru o plimbare liniștită dimineața înainte de căldura amiezii.",
+            "en": "Walk along the extensive sandy shoreline lined with small boats, perfect for a peaceful morning stroll before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Vourvourou",
+            "hu": "Vourvourou",
+            "ro": "Vourvourou",
+            "en": "Vourvourou"
+          },
+          "coords": [
+            23.800676,
+            40.189825
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die entspannte Atmosphäre dieses Küstendorfes und holen Sie sich einen Snack in einer lokalen Bäckerei für den Weg.",
+            "hu": "Fedezze fel a tengerparti falu nyugodt hangulatát, és szerezzen be egy friss péksüteményt a közeli öblök felfedezése előtt.",
+            "ro": "Explorați atmosfera relaxată a acestui sat de coastă, luând o gustare de la o brutărie locală înainte de a merge la plajă.",
+            "en": "Explore the relaxed vibe of this coastal village, grabbing a quick snack at a local bakery before heading to the nearby sandy coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Karidi Strand",
+            "hu": "Karidi strand",
+            "ro": "Plaja Karidi",
+            "en": "Karidi Beach"
+          },
+          "coords": [
+            23.808193,
+            40.193223
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache, türkisfarbene Wasser dieser von Kiefern gesäumten Bucht, aber kommen Sie früh, um einen Schattenplatz zu finden.",
+            "hu": "Élvezze a fenyőkkel övezett öböl sekély, kristálytiszta türkizkék vizét, de érkezzen korán, hogy biztosítson egy jó árnyékos helyet.",
+            "ro": "Bucurați-vă de apele turcoaz și puțin adânci ale acestui golf mărginit de pini, dar ajungeți devreme pentru a prinde un loc la umbră.",
+            "en": "Enjoy the shallow, crystal-clear turquoise waters of this iconic pine-fringed bay, but arrive early in the morning to secure a good spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleiner Karydi Strand",
+            "hu": "Kis Karydi strand",
+            "ro": "Plaja Mică Karydi",
+            "en": "Small Karydi Beach"
+          },
+          "coords": [
+            23.810305,
+            40.191745
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigere, felsigere Alternative zum Hauptstrand, ideal zum Schnorcheln, also vergessen Sie Ihre Ausrüstung nicht.",
+            "hu": "Fedezze fel a fő strand csendesebb, sziklásabb alternatíváját, amely tökéletes sznorkelezéshez, így ne hagyja otthon a búvárszemüveget.",
+            "ro": "Descoperiți această alternativă mai liniștită și stâncoasă a plajei principale, perfectă pentru snorkeling, așa că aduceți-vă echipamentul.",
+            "en": "Discover this quieter, rockier alternative to the main beach, perfect for snorkeling, so don't forget to pack your underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Fava Strand",
+            "hu": "Fava strand",
+            "ro": "Plaja Fava",
+            "en": "Fava beach"
+          },
+          "coords": [
+            23.819527,
+            40.184657
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen dieser Bucht und bringen Sie Wasser und Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Csodálja meg az érintetlen öblöt keretező drámai sziklaalakzatokat, és hozzon magával vizet és nasit, mert itt nincsenek szolgáltatások.",
+            "ro": "Admirați formațiunile stâncoase dramatice care încadrează acest golf pitoresc și aduceți-vă apă și gustări, deoarece nu există facilități.",
+            "en": "Marvel at the dramatic rock formations framing this pristine cove, and bring your own water and snacks as there are no facilities here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Livari Strand, bewundern Sie die Sandlagune, bevor Sie zum Hauptstrand von Vourvourou weiterfahren.\n\nFahren Sie zum Dorf und mittags zum Karidi Strand. Mit dem Auto maximieren Sie Ihre Entspannungszeit auf dem weißen Sand.\n\nAm Nachmittag wechseln Sie einfach zum Kleinen Karydi, um den Massen zu entfliehen, und holen Ihre Schnorchelausrüstung aus dem Kofferraum.\n\nBeenden Sie den Ausflug mit einer Fahrt zum abgelegenen Fava Strand. Genießen Sie die raue Naturschönheit und das Rauschen der Wellen am Abend.",
+        "hu": "Kezdje az utat a lenyűgöző Livari strandon, megcsodálva a különleges homoklagúnát, mielőtt a fő Vourvourou strandhoz hajtana.\n\nKocsikázzon le a faluba, majd délben a Karidi strandhoz. Az autó nyújtotta kényelem lehetővé teszi, hogy maximalizálja a pihenőidőt a homokon.\n\nDélután ugorjon át a Kis Karydi strandhoz, elkerülve a tömeget, és vegye elő a búvárfelszerelést a csomagtartóból egy gyors víz alatti felfedezéshez.\n\nZárja az egynapos kirándulást az eldugott Fava strandon. Élvezze a zord természeti szépséget és a hullámok morajlását az este közeledtével.",
+        "ro": "Începeți traseul cu mașina la impresionanta plajă Livari, admirând laguna unică înainte de o scurtă deplasare spre plaja principală Vourvourou.\n\nConduceți spre sat și apoi la plaja Karidi la amiază. Confortul mașinii vă permite să vă maximizați timpul de relaxare pe nisipul alb.\n\nDupă-amiaza, treceți ușor la Small Karydi pentru a scăpa de aglomerație, luând echipamentul de snorkeling din portbagaj pentru o explorare.\n\nTerminați excursia conducând spre plaja izolată Fava. Bucurați-vă de frumusețea naturală aspră și de sunetul valurilor pe măsură ce se apropie seara.",
+        "en": "Start your driving route at the stunning Livari Beach, admiring the unique sand lagoon before a quick drive to the main Vourvourou Beach.\n\nDrive down to the village and then on to Karidi Beach for midday. The convenience of the car lets you maximize your relaxation time on the white sand.\n\nIn the afternoon, easily hop over to Small Karydi to escape the crowds, grabbing your snorkel gear from the trunk for a quick underwater exploration.\n\nFinish the day trip driving to the secluded Fava beach. Enjoy the rugged natural beauty and the sound of crashing waves as evening approaches."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "france-agay-cities-v2",
+  "anchor": {
+    "name": "Agay",
+    "coords": [
+      6.86319,
+      43.43476
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage d'Agay",
+            "hu": "Plage d'Agay",
+            "ro": "Plage d'Agay",
+            "en": "Plage d'Agay"
+          },
+          "coords": [
+            6.860897,
+            43.433554
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, geschützte Wasser dieser wunderschönen zentralen Bucht, die perfekt für ein morgendliches Bad ist, und kommen Sie früh für einen guten Platz.",
+            "hu": "Élvezze a gyönyörű központi öböl nyugodt, védett vizét, amely tökéletes egy pihentető reggeli úszáshoz, de érkezzen korán, hogy biztosan jó helyet találjon.",
+            "ro": "Bucurați-vă de apele calme și adăpostite ale acestui golf central superb, ideal pentru o înot de dimineață, și asigurați-vă că sosiți devreme pentru a prinde un loc bun.",
+            "en": "Enjoy the calm, sheltered waters of this beautiful central bay, which is perfect for a relaxing morning swim, and remember to arrive early to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt entlang der Straße",
+            "hu": "Éjszakai piac az utca mentén",
+            "ro": "Piața de noapte de-a lungul străzii",
+            "en": "Night market along the street"
+          },
+          "coords": [
+            6.862295,
+            43.434211
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften Straßenmarkt, um lokales Kunsthandwerk zu entdecken, aber bringen Sie unbedingt Kleingeld mit, um bei den freundlichen Händlern zu bezahlen.",
+            "hu": "Fedezze fel ezt a nyüzsgő utcai piacot, ahol helyi kézműves termékeket és finomságokat talál, de hozzon magával aprópénzt, hogy könnyebben fizethessen a barátságos árusoknál.",
+            "ro": "Explorați această piață stradală animată pentru a descoperi artizanat local și delicatese regionale, dar aduceți bani mărunți pentru tranzacții mai ușoare cu vânzătorii.",
+            "en": "Explore this lively street market to discover vibrant local crafts and regional delicacies, but be sure to bring small cash for easier transactions with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle du Togo",
+            "hu": "Salle du Togo",
+            "ro": "Salle du Togo",
+            "en": "Salle du Togo"
+          },
+          "coords": [
+            6.856655,
+            43.43438
+          ],
+          "category": "cultural",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen lokalen Kultursaal, um durch spannende Ausstellungen das Erbe der Gemeinde zu verstehen, und achten Sie auf das schwarze Brett für kommende Sonderveranstaltungen.",
+            "hu": "Látogasson el ebbe a helyi kulturális csarnokba, hogy megismerje a közösség örökségét a regionális kiállításokon, és nézze meg a kinti hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Vizitați această sală culturală locală pentru a înțelege patrimoniul comunității prin expoziții regionale și verificați panoul exterior pentru evenimente speciale viitoare.",
+            "en": "Visit this local cultural hall to understand the community's rich heritage through engaging regional exhibitions, and check the notice board outside for upcoming special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Beaumette",
+            "hu": "Plage de la Beaumette",
+            "ro": "Plage de la Beaumette",
+            "en": "Plage de la Beaumette"
+          },
+          "coords": [
+            6.870082,
+            43.429289
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem atemberaubenden roten Sand dieses malerischen Küstenabschnitts mit toller Aussicht, und packen Sie Wasserschuhe ein, um die felsigen Ränder zu meistern.",
+            "hu": "Pihenjen a festői partszakasz lenyűgöző vörös homokján, ahonnan fantasztikus kilátás nyílik az Esterelre, és vigyen magával vízicipőt a sziklás széleken való sétához.",
+            "ro": "Relaxați-vă pe nisipul roșu uimitor al acestei porțiuni de coastă pitorești cu vederi fantastice spre Esterel și luați pantofi de apă pentru a naviga confortabil pe margini.",
+            "en": "Relax on the stunning red sands of this picturesque coastal stretch, offering fantastic views of the Esterel, and pack water shoes to comfortably navigate the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque Robinson Crusoë",
+            "hu": "Calanque Robinson Crusoë",
+            "ro": "Calanque Robinson Crusoë",
+            "en": "Calanque Robinson Crusoë"
+          },
+          "coords": [
+            6.876365,
+            43.426622
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte, unberührte Bucht, die absolute Ruhe abseits der Touristenmassen verspricht, aber gehen Sie vorsichtig den steilen Weg zum kristallklaren Wasser hinab.",
+            "hu": "Fedezze fel ezt az eldugott, érintetlen öblöt, amely teljes nyugalmat ígér a turisták elől, de ne feledjen óvatosan leereszkedni a kristálytiszta vízhez vezető meredek ösvényen.",
+            "ro": "Descoperiți acest golf ascuns și imaculat care promite liniște totală departe de mulțimea de turiști, dar coborâți cu grijă poteca abruptă care duce spre apa de cleștar.",
+            "en": "Discover this hidden, pristine cove that promises total tranquility away from the main tourist crowds, but remember to carefully tread the steep path down to the crystal water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Mittelmeerbrise am Plage d'Agay. Mittags laden die lokalen Aromen auf dem lebhaften Straßenmarkt ein, gefolgt von kulturellen Einblicken im Salle du Togo. Am Nachmittag können Sie am markanten roten Sandstrand Plage de la Beaumette entspannen. Lassen Sie den Tag in der friedlichen Abgeschiedenheit der Calanque Robinson Crusoë ausklingen.",
+        "hu": "Kezdje a reggelt a friss mediterrán szellővel a Plage d'Agay-n. A dél a nyüzsgő utcai piac helyi ízeinek felfedezésére csábít, amit a Salle du Togo kulturális élményei követnek. Délután pihenjen meg a Plage de la Beaumette lenyűgöző vörös homokján. Fejezze be a napot a Calanque Robinson Crusoë békés és festői elzártságában, hallgatva a tenger lágy morajlását.",
+        "ro": "Începeți dimineața respirând briza proaspătă a Mediteranei la Plage d'Agay. La prânz, explorați aromele locale la piața stradală plină de viață, urmată de perspective culturale la Salle du Togo. După-amiaza, relaxați-vă pe nisipul roșu impresionant de la Plage de la Beaumette. Încheiați-vă ziua în izolarea senină a Calanque Robinson Crusoë, admirând apusul.",
+        "en": "Begin your morning breathing in the fresh Mediterranean breeze at Plage d'Agay, preparing for a relaxed stroll. Midday invites you to explore local flavors at the bustling street market, followed by enriching cultural insights at the nearby Salle du Togo. In the afternoon, unwind on the striking red sands of Plage de la Beaumette. Conclude your day in the serene seclusion of Calanque Robinson Crusoë."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "PASSION ESTEREL",
+            "hu": "PASSION ESTEREL",
+            "ro": "PASSION ESTEREL",
+            "en": "PASSION ESTEREL"
+          },
+          "coords": [
+            6.850599,
+            43.443946
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Fahrradabenteuer an diesem markanten lokalen Wahrzeichen als Tor zu den roten Klippen, und füllen Sie Ihre Wasserflaschen auf, bevor Sie die Wege in Angriff nehmen.",
+            "hu": "Kezdje kerékpáros kalandját ennél a kiemelkedő helyi nevezetességnél, amely a hatalmas vörös sziklák kapuja, és töltse fel kulacsait, mielőtt nekivágna az emelkedő ösvényeknek.",
+            "ro": "Începeți aventura pe bicicletă la acest reper local proeminent, poarta de acces către stâncile roșii masive, și umpleți-vă sticlele cu apă înainte de a urca pe trasee.",
+            "en": "Start your cycling adventure at this prominent local landmark serving as the gateway to the massive red cliffs, and fill up your water bottles before tackling the rising trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir dit Pierre Levée",
+            "hu": "Menhir dit Pierre Levée",
+            "ro": "Menhir dit Pierre Levée",
+            "en": "Menhir dit Pierre Levée"
+          },
+          "coords": [
+            6.83534,
+            43.43342
+          ],
+          "category": "historical",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der die prähistorischen Wurzeln der Region Var offenbart, und gehen Sie langsam um ihn herum, um seine verwitterte Textur zu schätzen.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a Var régió történelem előtti gyökereit tárja fel, és sétálja körbe lassan, hogy teljes mértékben értékelje az időjárás rágta textúráját.",
+            "ro": "Admirați această piatră antică ce dezvăluie rădăcinile preistorice profunde ale regiunii Var și plimbați-vă încet în jurul ei pentru a-i aprecia textura erodată de timp.",
+            "en": "Marvel at this ancient standing stone that reveals the profound prehistoric roots of the Var region, and walk around it slowly to fully appreciate its weathered, timeless texture."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle du Togo",
+            "hu": "Salle du Togo",
+            "ro": "Salle du Togo",
+            "en": "Salle du Togo"
+          },
+          "coords": [
+            6.856655,
+            43.43438
+          ],
+          "category": "cultural",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.72,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen lokalen Kultursaal, um durch spannende Ausstellungen das Erbe der Gemeinde zu verstehen, und achten Sie auf das schwarze Brett für kommende Sonderveranstaltungen.",
+            "hu": "Látogasson el ebbe a helyi kulturális csarnokba, hogy megismerje a közösség örökségét a regionális kiállításokon, és nézze meg a kinti hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Vizitați această sală culturală locală pentru a înțelege patrimoniul comunității prin expoziții regionale și verificați panoul exterior pentru evenimente speciale viitoare.",
+            "en": "Visit this local cultural hall to understand the community's rich heritage through engaging regional exhibitions, and check the notice board outside for upcoming special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Théatre de Verdure",
+            "hu": "Théatre de Verdure",
+            "ro": "Théatre de Verdure",
+            "en": "Théatre de Verdure"
+          },
+          "coords": [
+            6.852676,
+            43.426744
+          ],
+          "category": "cultural",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Erleben Sie den einzigartigen akustischen Charme dieses Freilicht-Amphitheaters inmitten üppiger grüner Umgebung, und nehmen Sie sich einen Moment Zeit für eine Pause auf den Stufen.",
+            "hu": "Tapasztalja meg ennek a buja zöld környezetben fekvő szabadtéri amfiteátrumnak az egyedi akusztikai varázsát, és üljön le egy pillanatra a kősorokra egy békés, festői pihenőre.",
+            "ro": "Experimentați farmecul acustic unic al acestui amfiteatru în aer liber situat în mijlocul verdeții și luați un moment pentru a vă odihni pe treptele de piatră pitorești.",
+            "en": "Experience the unique acoustic charm of this open-air amphitheater nestled amidst lush green surroundings, and take a moment to sit on the stone tiers for a peaceful scenic rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Beaumette",
+            "hu": "Plage de la Beaumette",
+            "ro": "Plage de la Beaumette",
+            "en": "Plage de la Beaumette"
+          },
+          "coords": [
+            6.870082,
+            43.429289
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem atemberaubenden roten Sand dieses malerischen Küstenabschnitts mit toller Aussicht, und packen Sie Wasserschuhe ein, um die felsigen Ränder zu meistern.",
+            "hu": "Pihenjen a festői partszakasz lenyűgöző vörös homokján, ahonnan fantasztikus kilátás nyílik az Esterelre, és vigyen magával vízicipőt a sziklás széleken való sétához.",
+            "ro": "Relaxați-vă pe nisipul roșu uimitor al acestei porțiuni de coastă pitorești cu vederi fantastice spre Esterel și luați pantofi de apă pentru a naviga confortabil pe margini.",
+            "en": "Relax on the stunning red sands of this picturesque coastal stretch, offering fantastic views of the Esterel, and pack water shoes to comfortably navigate the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque des Anglais",
+            "hu": "Calanque des Anglais",
+            "ro": "Calanque des Anglais",
+            "en": "Calanque des Anglais"
+          },
+          "coords": [
+            6.878233,
+            43.427637
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast zwischen den zerklüfteten karmesinroten Vulkanfelsen und dem tiefen türkisfarbenen Mittelmeer, und bringen Sie eine Schnorchelmaske mit.",
+            "hu": "Csodálja meg a csipkézett karmazsinvörös vulkáni sziklák és a mély türkizkék Földközi-tenger közötti feltűnő kontrasztot, és hozzon magával búvármaszkot az itteni tengeri élethez.",
+            "ro": "Admirați contrastul izbitor dintre rocile vulcanice purpurii și Marea Mediterană turcoaz și aduceți o mască de snorkeling pentru a observa viața marină vibrantă de aici.",
+            "en": "Admire the striking contrast between the jagged crimson volcanic rocks and the deep turquoise Mediterranean sea, and bring a snorkeling mask to observe the vibrant marine life here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am PASSION ESTEREL, dem Tor zu den Klippen. Mittags radeln Sie zum alten Menhir dit Pierre Levée und tauchen in die Vorgeschichte ein, bevor Sie das kulturelle Herzstück Salle du Togo besuchen. Der Nachmittag ist perfekt für eine malerische Pause im Théatre de Verdure und zum Schwimmen in Beaumette. Ihr Abend endet an der zerklüfteten Calanque des Anglais.",
+        "hu": "Kezdje kerékpáros utazását a PASSION ESTEREL-nél, a hatalmas sziklák kapujánál. Délben tekerjen az ősi Menhir dit Pierre Levée felé, magába szívva a történelmet, majd irány a Salle du Togo kulturális központja. A délután tökéletes egy festői pihenőre a Théatre de Verdure-ben és fürdésre a Beaumette-nél. Az este a Calanque des Anglais lenyűgöző látványával zárul.",
+        "ro": "Începeți călătoria cu bicicleta la PASSION ESTEREL, poarta stâncilor roșii. La prânz, pedalați spre anticul Menhir dit Pierre Levée pentru o incursiune istorică, apoi vizitați inima culturală la Salle du Togo. După-amiaza este perfectă pentru o odihnă pitorească la Théatre de Verdure și înot la Beaumette. Seara se încheie admirând peisajul accidentat de la Calanque des Anglais.",
+        "en": "Kick off your cycling journey at PASSION ESTEREL, the gateway to the massive red cliffs. By midday, pedal towards the ancient Menhir dit Pierre Levée, soaking in the profound prehistoric history, then head to the cultural heart at Salle du Togo. The afternoon is perfect for a scenic rest at the Théatre de Verdure and swimming at Beaumette. Your evening ends admiring the rugged Calanque des Anglais."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rastel d'Agay",
+            "hu": "Rastel d'Agay",
+            "ro": "Rastel d'Agay",
+            "en": "Rastel d'Agay"
+          },
+          "coords": [
+            6.864876,
+            43.443775
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser imposanten roten Felsformation hinauf, um einen atemberaubenden Panoramablick über die glitzernde Bucht zu genießen, und tragen Sie festes Schuhwerk.",
+            "hu": "Autózzon fel ehhez az impozáns vörös sziklaképződményhez, ahonnan lélegzetelállító panoráma nyílik az egész csillogó öbölre, és viseljen erős lábbelit a csúcsra vezető túrához.",
+            "ro": "Conduceți până la această formațiune impunătoare de rocă roșie pentru o vedere panoramică uluitoare asupra golfului și purtați încălțăminte robustă pentru drumeția spre vârf.",
+            "en": "Drive up to this imposing red rock formation for breathtaking panoramic views over the entire glittering bay, and wear sturdy footwear for the short but rugged hike to the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir dit Pierre Levée",
+            "hu": "Menhir dit Pierre Levée",
+            "ro": "Menhir dit Pierre Levée",
+            "en": "Menhir dit Pierre Levée"
+          },
+          "coords": [
+            6.83534,
+            43.43342
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.64,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der die prähistorischen Wurzeln der Region Var offenbart, und gehen Sie langsam um ihn herum, um seine verwitterte Textur zu schätzen.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a Var régió történelem előtti gyökereit tárja fel, és sétálja körbe lassan, hogy teljes mértékben értékelje az időjárás rágta textúráját.",
+            "ro": "Admirați această piatră antică ce dezvăluie rădăcinile preistorice profunde ale regiunii Var și plimbați-vă încet în jurul ei pentru a-i aprecia textura erodată de timp.",
+            "en": "Marvel at this ancient standing stone that reveals the profound prehistoric roots of the Var region, and walk around it slowly to fully appreciate its weathered, timeless texture."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            6.846936,
+            43.417817
+          ],
+          "category": "religious",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese charmant bescheidene Kapelle, die als stilles Zeugnis des lokalen maritimen Glaubens steht, und fotografieren Sie ihre einfache, traditionelle Fassade.",
+            "hu": "Lépjen be ebbe a bájos, szerény kápolnába, amely a helyi tengerészeti hit csendes bizonyítéka, és fényképezze le az egyszerű, de gyönyörűen megőrzött hagyományos homlokzatát.",
+            "ro": "Intrați în această capelă fermecătoare și modestă, o mărturie tăcută a credinței maritime locale, și fotografiați fațada sa tradițională simplă, dar frumos conservată.",
+            "en": "Step inside this charmingly modest chapel that stands as a quiet testament to local maritime faith and history, and photograph its simple but beautifully preserved traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Landungsdenkmal (1944)",
+            "hu": "Partraszállási emlékmű (1944)",
+            "ro": "Monumentul debarcărilor (1944)",
+            "en": "Landings monument (1944)"
+          },
+          "coords": [
+            6.845427,
+            43.417343
+          ],
+          "category": "landmark",
+          "arrive_at": "12:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal am Meer für die mutigen Landungen der Alliierten im Zweiten Weltkrieg Ihren Respekt und lesen Sie die informativen Gedenktafeln durch.",
+            "hu": "Rója le tiszteletét ennél az ünnepélyes tengerparti emlékműnél, amelyet a második világháború bátor szövetséges partraszállásainak szenteltek, és olvassa el az információs táblákat.",
+            "ro": "Prezentați-vă omagiile la acest memorial solemn de pe litoral dedicat curajoaselor debarcări aliate din Al Doilea Război Mondial și citiți plăcile informative cu atenție.",
+            "en": "Pay your respects at this solemn seaside memorial dedicated to the courageous Allied landings of World War II, and read the informative plaques to truly grasp the historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de la Batterie",
+            "hu": "Belvédère de la Batterie",
+            "ro": "Belvédère de la Batterie",
+            "en": "Belvédère de la Batterie"
+          },
+          "coords": [
+            6.85658,
+            43.415902
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem außergewöhnlichen Aussichtspunkt an der Küste mit freiem Blick auf das dramatische Esterel-Gebirge, und verwenden Sie ein polarisiertes Objektiv für Fotos.",
+            "hu": "Álljon meg ennél a kivételes tengerparti kilátónál, ahonnan zavartalan kilátás nyílik a tengerrel találkozó drámai Esterel-hegységre, és használjon polarizált lencsét a fotókhoz.",
+            "ro": "Opriți-vă la acest punct de belvedere excepțional, cu vederi neîntrerupte asupra munților Esterel întâlnind marea, și folosiți o lentilă polarizată pentru cele mai bune fotografii.",
+            "en": "Stop at this exceptional coastal viewpoint offering uninterrupted vistas of the dramatic Esterel mountain range meeting the sea, and use a polarized lens for the best landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Anglais",
+            "hu": "Plage des Anglais",
+            "ro": "Plage des Anglais",
+            "en": "Plage des Anglais"
+          },
+          "coords": [
+            6.880695,
+            43.428085
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.36,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre landschaftlich reizvolle Fahrt an diesem herrlichen Kieselstrand, der für sein klares Wasser bekannt ist, und legen Sie ein dickes Handtuch auf die glatten Steine.",
+            "hu": "Fejezze be a festői utazást ezen a csodálatos kavicsos strandon, amely kivételesen tiszta, égszínkék vizéről híres, és terítsen le egy vastag törölközőt a sima tengerparti köveken.",
+            "ro": "Încheiați călătoria panoramică la această plajă magnifică cu pietriș, renumită pentru apele sale de un azur excepțional, și întindeți un prosop gros pentru a vă relaxa confortabil.",
+            "en": "Conclude your scenic drive at this magnificent pebble beach renowned for its exceptionally clear azure waters, and lay out a thick towel to comfortably relax on the smooth coastal stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre spektakuläre Fahrt beginnt mit atemberaubenden Panoramablicken von den Höhen des Rastel d'Agay. Mittags besuchen Sie den antiken Menhir dit Pierre Levée und die traditionelle Chapelle Saint-Roch. Am Nachmittag zollen Sie am Landungsdenkmal von 1944 Tribut und machen Fotos vom Belvédère de la Batterie. Der Abend bricht sanft über den glatten Kieseln des Plage des Anglais herein.",
+        "hu": "Látványos autózása a Rastel d'Agay magasságából nyíló lélegzetelállító panorámával kezdődik. A dél történelmi váltást hoz az ősi Menhir dit Pierre Levée és a hagyományos Chapelle Saint-Roch meglátogatásával. Délután tisztelegjen az 1944-es partraszállási emlékműnél, és készítsen fotókat a Belvédère de la Batterie-től. Az este lágyan érkezik a Plage des Anglais sima kavicsaira.",
+        "ro": "Călătoria dvs. spectaculoasă începe cu vederi panoramice uluitoare de pe înălțimile Rastel d'Agay. Prânzul aduce o schimbare istorică, vizitând anticul Menhir dit Pierre Levée și tradiționala Chapelle Saint-Roch. După-amiaza, aduceți un omagiu la monumentul Debarcărilor din 1944 și faceți fotografii de la Belvédère de la Batterie. Seara sosește pe pietricelele de la Plage des Anglais.",
+        "en": "Your spectacular drive starts with breathtaking panoramic views from the heights of Rastel d'Agay. Midday brings a historic shift as you visit the ancient Menhir dit Pierre Levée and the quiet, traditional Chapelle Saint-Roch. In the afternoon, pay tribute at the 1944 Landings monument and capture photos from Belvédère de la Batterie. Evening gently arrives on the smooth pebbles of Plage des Anglais."
+      }
+    }
+  }
+}

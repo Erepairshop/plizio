@@ -1,0 +1,497 @@
+{
+  "city_id": "campeche-city-cities-v2",
+  "anchor": {
+    "name": "San Francisco de Campeche",
+    "coords": [
+      -90.5349,
+      19.8301
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 1.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bastion San Juan",
+            "hu": "San Juan bástya",
+            "ro": "Bastionul San Juan",
+            "en": "Baluarte de San Juan"
+          },
+          "coords": [
+            -90.537853,
+            19.840273
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang an dieser gut erhaltenen Bastion, die die Südflanke schützte, aber achten Sie auf die unebenen Stufen nach oben.",
+            "hu": "Kezdje a városfali sétát ezen a jó állapotú, déli szárnyat védő bástyán, de vigyázzon a felvezető meredek és egyenetlen lépcsőfokokkal.",
+            "ro": "Începeți plimbarea pe ziduri la acest bastion bine conservat care proteja flancul sudic, dar atenție la treptele abrupte și inegale spre vârf.",
+            "en": "Start your wall walk at this well-preserved bastion that protected the city's southern flank, but beware of the steep uneven steps to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion Santa Rosa",
+            "hu": "Santa Rosa bástya",
+            "ro": "Bastionul Santa Rosa",
+            "en": "Baluarte de Santa Rosa"
+          },
+          "coords": [
+            -90.540507,
+            19.841441
+          ],
+          "category": "castle",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses der ersten weiblichen Heiligen gewidmete Fort und bringen Sie einen Hut mit, da die Festungswälle überhaupt keinen Schatten bieten.",
+            "hu": "Fedezze fel az első női szentnek szentelt védőerődöt, ahová érdemes széles karimájú kalapot hozni, mivel a bástyákon egyáltalán nincs árnyék.",
+            "ro": "Explorați acest fort defensiv dedicat primei sfinte feminine a orașului, unde e bine să aduceți o pălărie deoarece meterezele nu au deloc umbră.",
+            "en": "Explore this defensive fort dedicated to the city's first female saint, where you should bring a wide-brimmed hat as the ramparts lack any shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion San Carlos",
+            "hu": "San Carlos bástya",
+            "ro": "Bastionul San Carlos",
+            "en": "Baluarte de San Carlos"
+          },
+          "coords": [
+            -90.540575,
+            19.844582
+          ],
+          "category": "castle",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Steigen Sie in den Keller hinab, um die originalen Kerker der ältesten Bastion zu sehen, wobei Klaustrophobiker vielleicht lieber auf dem Dach bleiben.",
+            "hu": "Ereszkedjen le az alagsorba, hogy megnézze a legősibb bástya eredeti várbörtönét, bár a klausztrofóbiásoknak jobb lehet a tetőn maradni.",
+            "ro": "Coborâți la subsol pentru a vedea temnițele originale ale celui mai vechi bastion, deși vizitatorii claustrofobi ar prefera să rămână pe acoperiș.",
+            "en": "Descend into the basement to see the original city dungeons of the oldest bastion, though claustrophobic visitors might want to stay on the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Maya-Architektur",
+            "hu": "Maja Építészeti Múzeum",
+            "ro": "Muzeul de Arhitectură Maya",
+            "en": "Maya Architecture Museum"
+          },
+          "coords": [
+            -90.537604,
+            19.846532
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Jademasken und kunstvoll geschnitzten Stelen aus Calakmul, und geben Sie Ihre Tasche am Eingang ab für einen schnellen Besuch.",
+            "hu": "Csodálja meg a calakmuli csodás jádemaszkokat és faragott sztéléket, és ne felejtse el letenni a táskáját a bejáratnál a gyorsabb bejutás érdekében.",
+            "ro": "Admirați măștile de jad rafinate și stelele sculptate din Calakmul, și amintiți-vă să lăsați geanta la intrare pentru o vizită mult mai rapidă.",
+            "en": "Admire the exquisite jade masks and intricately carved stelae from Calakmul, and remember to check your bag at the entrance for a quicker visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Imaculatei Concepții",
+            "en": "Cathedral of Our Lady of the Immaculate Conception"
+          },
+          "coords": [
+            -90.536154,
+            19.846171
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majestätische Barockfassade und den ruhigen Innenhof, aber kleiden Sie sich dezent und bedecken Sie Ihre Schultern vor dem Eintreten.",
+            "hu": "Csodálja meg a fenséges barokk homlokzatot és a békés belső udvart, de emlékezzen a szerény öltözködésre és takarja el a vállát belépés előtt.",
+            "ro": "Minunați-vă de fațada barocă maiestuoasă și curtea interioară liniștită, dar amintiți-vă să vă îmbrăcați modest, acoperindu-vă umerii la intrare.",
+            "en": "Marvel at the majestic baroque facade and the peaceful interior courtyard, but remember to dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa 6",
+            "hu": "Casa 6",
+            "ro": "Casa 6",
+            "en": "Casa 6"
+          },
+          "coords": [
+            -90.537495,
+            19.845563
+          ],
+          "category": "museum",
+          "arrive_at": "15:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem restaurierten Herrenhaus in den kolonialen Elite-Lebensstil ein, am besten direkt nach dem Mittagessen für eine ruhige Tour.",
+            "hu": "Lépjen vissza az időben a 19. századi gyarmati elit életmódjába ebben a kúriában, érdemes az ebédet követő időszakra időzíteni a nyugodt sétát.",
+            "ro": "Pășiți în stilul de viață al elitei coloniale din secolul 19 în acest conac, programându-vă vizita imediat după prânz pentru un tur mai liniștit.",
+            "en": "Step back in time to the 19th-century colonial elite lifestyle in this restored mansion, making sure to time your visit right after lunch for a quiet tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten X’much haltún",
+            "hu": "X’much haltún Botanikus Kert",
+            "ro": "Grădina Botanică X’much haltún",
+            "en": "Jardín Botánico X’much haltún"
+          },
+          "coords": [
+            -90.534985,
+            19.847891
+          ],
+          "category": "castle",
+          "arrive_at": "17:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie zwischen über zweihundert lokalen Pflanzenarten in dieser historischen Bastion, und nutzen Sie Mückenspray wegen des dichten Laubs.",
+            "hu": "Pihenjen több mint kétszáz helyi növényfaj között e történelmi bástyában, és viseljen szúnyogriasztót, mert a sűrű növényzet vonzza a rovarokat.",
+            "ro": "Relaxați-vă printre cele peste două sute de specii de plante locale din acest bastion, și folosiți loțiune anti-țânțari deoarece frunzișul atrage insecte.",
+            "en": "Relax among over two hundred local plant species housed within this historic bastion, and wear mosquito repellent since the dense foliage attracts insects."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie den Tag entlang der historischen Stadtmauern. Sie besuchen eine Reihe von Bastionen, die Campeche einst vor Piratenangriffen schützten.\nMittags: Wenn die Sonne am höchsten steht, tauchen Sie im Museum für Maya-Architektur in das reiche Erbe ein, bevor Sie die wunderschöne Hauptkathedrale besichtigen.\nNachmittags: Schlendern Sie durch das farbenfrohe koloniale Zentrum und besuchen Sie Casa 6, um den opulenten Lebensstil der Elite des 19. Jahrhunderts zu erleben.\nAbends: Beenden Sie Ihre Tour im üppigen Grün des Botanischen Gartens innerhalb einer historischen Bastion und genießen Sie die kühle Abendbrise.",
+        "hu": "Reggel: Kezdje a napot a történelmi városfalak mentén. Olyan bástyákat fog meglátogatni, amelyek egykor megvédték Campechét a könyörtelen kalóztámadásoktól.\nDélben: Amikor a nap a legmagasabban jár, merüljön el a régió gazdag örökségében a Maja Építészeti Múzeumban, majd látogasson el a lenyűgöző fő katedrálishoz.\nDélután: Sétáljon át a város színes gyarmati központján, és álljon meg a Casa 6-nál, hogy megtapasztalja a 19. századi elit fényűző életmódját.\nEste: Zárja a gyalogos túrát egy történelmi bástyában található botanikus kert buja növényzete között, élvezve a hűvös alkonyati szellőt.",
+        "ro": "Dimineața: Începeți ziua urmărind zidurile istorice. Veți vizita o serie de bastioane care au protejat cândva orașul Campeche de atacurile necruțătoare ale piraților.\nPrânz: Când soarele arde tare, aprofundați moștenirea la Muzeul de Arhitectură Maya, înainte de a vizita superba catedrală principală.\nDupă-amiaza: Plimbați-vă prin inima colonială colorată a orașului, oprindu-vă la Casa 6 pentru a experimenta stilul de viață opulent al elitei din secolul 19.\nSeara: Încheiați turul pietonal printre verdeața luxuriantă a Grădinii Botanice aflate într-un bastion istoric, bucurându-vă de briza răcoroasă de seară.",
+        "en": "Morning: Start your day tracing the historic city walls. You will visit a series of bastions that once protected Campeche from relentless pirate attacks.\nMidday: As the sun peaks, delve into the rich heritage of the region at the Maya Architecture Museum, marveling at artifacts before visiting the Cathedral.\nAfternoon: Wander through the colorful colonial heart of the city, stopping at Casa 6 to experience the opulent lifestyle of the 19th-century elite.\nEvening: Conclude your walking tour amid the lush greenery of the Jardín Botánico inside a historic bastion, enjoying the cool twilight ocean breeze."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumentale Flagge",
+            "hu": "Monumentális Zászló",
+            "ro": "Steagul Monumental",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -90.545885,
+            19.841918
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Meeresbrise unter der riesigen mexikanischen Flagge an der Küstenpromenade, ein perfekter Ort, um Ihr Mietfahrrad sicher zu testen.",
+            "hu": "Érezze a tengeri szellőt az óriási mexikói zászló alatt a parti sétányon, amely tökéletes tágas hely a bérelt kerékpár biztonságos kipróbálására.",
+            "ro": "Simțiți briza oceanului sub steagul mexican masiv ce marchează promenada, fiind locul larg perfect pentru a testa în siguranță bicicleta închiriată.",
+            "en": "Feel the ocean breeze beneath the massive Mexican flag marking the coastal promenade, which is the perfect wide spot to safely test out your rental bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion San Carlos",
+            "hu": "San Carlos bástya",
+            "ro": "Bastionul San Carlos",
+            "en": "Baluarte de San Carlos"
+          },
+          "coords": [
+            -90.540575,
+            19.844582
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Rad am Eingang stehen und steigen Sie auf das Dach dieser massiven Verteidigungsanlage, um die atemberaubende Aussicht aufs Meer zu genießen.",
+            "hu": "Hagyja a biciklit a bejáratnál, és másszon fel ennek a hatalmas védműnek a tetejére, hogy élvezhesse a tengerre nyíló lélegzetelállító kilátást.",
+            "ro": "Lăsați bicicleta la intrare și urcați pe acoperișul acestei structuri masive de apărare pentru a vă bucura de o priveliște uimitoare asupra mării.",
+            "en": "Leave your bike at the entrance and climb to the roof of this massive defensive structure to enjoy a breathtaking vantage point over the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Imaculatei Concepții",
+            "en": "Cathedral of Our Lady of the Immaculate Conception"
+          },
+          "coords": [
+            -90.536154,
+            19.846171
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad sanft über den Hauptplatz zu dieser Barockkirche, und achten Sie beim Parken auf den regen Fußgängerverkehr rundum.",
+            "hu": "Tolja át kerékpárját a főtéren ehhez a barokk templomhoz, és a parkoláskor ügyeljen a környéken zajló élénk gyalogosforgalomra.",
+            "ro": "Împingeți bicicleta prin piața principală către această biserică barocă, și aveți grijă la traficul pietonal intens din zonă atunci când o parcați.",
+            "en": "Walk your bike gently across the main square to this baroque church, and be mindful of the heavy pedestrian traffic around you when parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion San Pedro",
+            "hu": "San Pedro bástya",
+            "ro": "Bastionul San Pedro",
+            "en": "Baluarte de San Pedro"
+          },
+          "coords": [
+            -90.532641,
+            19.84314
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie hier den östlichsten Verteidigungspunkt gegen Piratenangriffe, aber schließen Sie Ihr Fahrrad zuerst sicher am angrenzenden Platz ab.",
+            "hu": "Nézze meg a legkeletibb védelmi pontot, ahonnan visszaverték a kalóztámadásokat, de előbb zárja le biztonságosan a kerékpárját a szomszédos téren.",
+            "ro": "Vedeți cel mai estic punct defensiv de unde au respins atacurile piraților, dar asigurați-vă că legați bine bicicleta în piața adiacentă mai întâi.",
+            "en": "See where the Spanish successfully repelled pirate attacks from this easternmost defense point, but lock your bike securely at the adjacent square first."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion San Juan",
+            "hu": "San Juan bástya",
+            "ro": "Bastionul San Juan",
+            "en": "Baluarte de San Juan"
+          },
+          "coords": [
+            -90.537853,
+            19.840273
+          ],
+          "category": "castle",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blicken Sie von dieser südlichen Bastion über die Stadtmauern, eine großartige Gelegenheit für Fotos, bevor Sie sich auf die lange Fahrt begeben.",
+            "hu": "Tekintsen át a városfalakon erről a déli bástyáról, ami nagyszerű fotózási lehetőség, mielőtt elindulna a hosszú és fárasztó hegyi kerékpározásra.",
+            "ro": "Priviți peste zidurile orașului din acest bastion sudic, o oportunitate excelentă pentru fotografii înainte de a porni în lunga călătorie spre fort.",
+            "en": "Look out over the city walls from this southern bastion, making it a great photo opportunity before you set out on the long scenic ride ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort San Miguel",
+            "hu": "San Miguel Erőd",
+            "ro": "Fortul San Miguel",
+            "en": "Fuerte de San Miguel"
+          },
+          "coords": [
+            -90.568649,
+            19.824715
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Radeln Sie den malerischen Hügel hinauf zu erstklassigen Maya-Artefakten und Golfblick, aber teilen Sie sich Ihre Kräfte für den steilen Endaufstieg ein.",
+            "hu": "Tekerjen fel a festői dombra a maja műkincsekért és a lenyűgöző öbölbeli kilátásért, és ossza be az erejét az utolsó meredek emelkedőhöz.",
+            "ro": "Pedalați pe dealul pitoresc pentru a descoperi artefacte Maya și o priveliște uimitoare asupra golfului, dar drămuiți-vă energia la urcușul final.",
+            "en": "Cycle up the sweeping scenic hill to discover world-class Mayan artifacts and breathtaking Gulf views, pacing yourself on the steep final climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fangen Sie frisch an mit einer entspannten Radtour entlang der malerischen Uferpromenade und genießen Sie den weiten Blick auf den Golf.\nMittags: Radeln Sie tief ins koloniale Herz der Stadt, wo Sie die beeindruckendsten Bastionen und historischen Kirchen im Zentrum erkunden.\nNachmittags: Besuchen Sie die historischen Wehranlagen entlang der östlichen Grenze, wo die Piratenabwehr am stärksten war.\nAbends: Meistern Sie den malerischen Anstieg zum Fort San Miguel und belohnen Sie sich mit faszinierender Maya-Geschichte und dem Sonnenuntergang.",
+        "hu": "Reggel: Kezdjen frissen egy pihentető kerékpározással a festői vízparti sétányon, miközben élvezi a Mexikói-öbölre nyíló pazar és széles kilátást.\nDélben: Tekerjen be a város gyarmati szívébe, ahol felfedezheti a központ leglenyűgözőbb bástyáit és legjelentősebb történelmi templomait.\nDélután: Látogasson el a keleti határ mentén található történelmi védművekhez, ahol egykor a legkeményebb kalózellenes védelem összpontosult.\nEste: Küzdje le a San Miguel erődhöz vezető emelkedőt, és jutalmazza magát lenyűgöző maja történelemmel, valamint egy csodás naplementével.",
+        "ro": "Dimineața: Începeți plin de energie cu o plimbare relaxantă cu bicicleta de-a lungul promenadei pitorești, bucurându-vă de vederea la Golf.\nPrânz: Pedalați adânc în inima colonială a orașului, unde veți explora cele mai impresionante bastioane și biserici istorice din centru.\nDupă-amiaza: Vizitați sistemele defensive istorice de-a lungul graniței estice, acolo unde apărarea împotriva piraților era odinioară cea mai acerbă.\nSeara: Cuceriti urcușul pitoresc spre Fortul San Miguel și recompensați-vă cu istoria fascinantă a mayașilor și cu un apus de soare de neuitat.",
+        "en": "Morning: Start fresh with a relaxing bike ride along the picturesque waterfront promenade, taking in the sweeping views of the Gulf of Mexico.\nMidday: Cycle deep into the colonial heart of the city, where you will explore the most impressive bastions and historical churches in the center.\nAfternoon: Visit the historic defensive systems along the eastern border, where the anti-pirate defense was once at its fiercest.\nEvening: Conquer the scenic climb to Fuerte San Miguel and reward yourself with fascinating Mayan history and an unforgettable coastal sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 7.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Fort San José El Alto",
+            "hu": "San José El Alto Erődmúzeum",
+            "ro": "Muzeul Fortului San José El Alto",
+            "en": "Museo Fuerte de San José El Alto"
+          },
+          "coords": [
+            -90.5105,
+            19.860516
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser nördlichen Festung, um die Sammlung zur Marinegeschichte zu betrachten, und nutzen Sie den kostenlosen Parkplatz vor Ort.",
+            "hu": "Vezessen fel ehhez az északi hegyi erődhöz, hogy megtekintse a lenyűgöző tengerészeti gyűjteményt, kihasználva az ingyenes helyszíni parkolót.",
+            "ro": "Conduceți până la această fortăreață nordică pentru a inspecta colecția sa impresionantă de istorie navală, folosind parcarea gratuită de la fața locului.",
+            "en": "Drive up to this northern hilltop fortress to inspect its impressive collection of naval history and weaponry, utilizing the free on-site parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten X’much haltún",
+            "hu": "X’much haltún Botanikus Kert",
+            "ro": "Grădina Botanică X’much haltún",
+            "en": "Jardín Botánico X’much haltún"
+          },
+          "coords": [
+            -90.534985,
+            19.847891
+          ],
+          "category": "castle",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande der Altstadt und entfliehen Sie der Hitze in dieser wunderschönen Festung, die in eine tropische Pflanzenoase verwandelt wurde.",
+            "hu": "Parkoljon le az óváros szélén, és meneküljön a hőség elől ebbe a gyönyörű erődbe, amelyet csodás trópusi növényoázissá alakítottak át.",
+            "ro": "Parcați la marginea orașului vechi și scăpați de căldură în această fortăreață frumoasă care a fost transformată într-o oază cu plante tropicale.",
+            "en": "Park near the edge of the old city and escape the heat inside this beautiful fortress that has been transformed into a tropical plant oasis."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás Katedrális",
+            "ro": "Catedrala Imaculatei Concepții",
+            "en": "Cathedral of Our Lady of the Immaculate Conception"
+          },
+          "coords": [
+            -90.536154,
+            19.846171
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und laufen Sie das kurze Stück zum Hauptplatz, um die majestätischen Zwillingstürme dieser barocken Kirche zu bewundern.",
+            "hu": "Hagyja hátra az autót, és sétáljon egy rövid távot a főtérig, hogy megcsodálhassa ennek a barokk templomnak a fenséges ikertornyait.",
+            "ro": "Lăsați mașina și mergeți scurt pe jos până în piața principală pentru a admira turnurile gemene maiestuoase ale acestei biserici baroce.",
+            "en": "Leave the car parked and walk the short distance to the main plaza to admire the majestic twin towers of this iconic baroque church."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Maya-Architektur",
+            "hu": "Maja Építészeti Múzeum",
+            "ro": "Muzeul de Arhitectură Maya",
+            "en": "Maya Architecture Museum"
+          },
+          "coords": [
+            -90.537604,
+            19.846532
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gehen Sie hinüber zu diesem ausgezeichneten Museum voller Maya-Stelen, aber beachten Sie das strenge Fotoverbot für den Einsatz von Blitzlicht.",
+            "hu": "Sétáljon át ehhez a kiváló, maja sztélékkel teli múzeumhoz, de ügyeljen a vakuhasználatot szigorúan tiltó fényképezési szabályokra.",
+            "ro": "Mergeți spre acest muzeu excelent plin de stele Maya, dar acordați atenție politicii stricte de interzicere a blițului la fotografiere.",
+            "en": "Walk over to this excellent museum filled with Mayan stelae, but pay close attention to the strict no-flash photography policy inside the halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa 6",
+            "hu": "Casa 6",
+            "ro": "Casa 6",
+            "en": "Casa 6"
+          },
+          "coords": [
+            -90.537495,
+            19.845563
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Altstadtbummel in diesem Herrenhaus ab, um elegante Möbel zu bewundern, bevor Sie zurück zu Ihrem geparkten Auto gehen.",
+            "hu": "Zárja az óvárosi sétát ebben a kúriában az elegáns bútorok megcsodálásával, mielőtt visszatérne a biztonságosan leparkolt autójához.",
+            "ro": "Încheiați plimbarea prin orașul vechi la acest conac pentru a admira mobilierul elegant înainte de a vă întoarce la mașina parcată.",
+            "en": "Conclude your old city walk inside this mansion to admire the elegant period furniture before heading back to retrieve your parked car."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort San Miguel",
+            "hu": "San Miguel Erőd",
+            "ro": "Fortul San Miguel",
+            "en": "Fuerte de San Miguel"
+          },
+          "coords": [
+            -90.568649,
+            19.824715
+          ],
+          "category": "museum",
+          "arrive_at": "16:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fahren Sie in den Süden zu dieser imposanten Festung mit Wassergraben; die Fahrt lohnt sich allein schon für die fantastischen archäologischen Stücke.",
+            "hu": "Vezessen délre ehhez az impozáns, vizesárokkal övezett erődhöz; a festői út már csak a fantasztikus régészeti leletek miatt is megéri.",
+            "ro": "Conduceți spre sud către această fortăreață impunătoare cu șanț de apă; drumul merită pe deplin doar pentru a vedea piesele arheologice uimitoare.",
+            "en": "Drive south to this imposing moated fortress; the quick scenic trip is completely worth it just for the fantastic archaeological pieces inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Genießen Sie die Freiheit Ihres Autos und fahren Sie zunächst zur majestätischen Festung San José El Alto, um die Marineausstellung zu sehen.\nMittags: Parken Sie am Rande des historischen Zentrums und erkunden Sie zu Fuß die friedliche Kathedrale und eine historische Bastion voller Pflanzen.\nNachmittags: Entdecken Sie die reiche Kultur im Museum für Maya-Architektur und in der Casa 6, während Sie gemütlich durch die Fußgängerzonen flanieren.\nAbends: Fahren Sie bei tief stehender Sonne zur Festung San Miguel im Süden und lassen Sie den Tag mit grandiosen Ausblicken auf das Meer ausklingen.",
+        "hu": "Reggel: Élvezze az autó nyújtotta szabadságot, és elsőként vezessen el a San José El Alto fenséges erődjéhez a különleges tengerészeti kiállításért.\nDélben: Parkoljon le a történelmi központ szélén, majd gyalogosan fedezze fel a békés katedrálist és a növényekkel teli, történelmi szépségű bástyát.\nDélután: Ismerkedjen a gazdag kultúrával a Maja Építészeti Múzeumban és a Casa 6-ban, miközben kényelmesen végigsétál az óváros sétálóutcáin.\nEste: A lemenő nap fényében vezessen el a déli San Miguel erődhöz, és zárja a napot a nyílt tengerre nyíló lélegzetelállító kilátással.",
+        "ro": "Dimineața: Bucurați-vă de libertatea mașinii și conduceți mai întâi la maiestuosul fort San José El Alto pentru a vedea colecția de istorie navală.\nPrânz: Parcați la marginea centrului istoric și explorați pe jos catedrala liniștită, precum și un bastion antic care acum găzduiește o grădină superbă.\nDupă-amiaza: Descoperiți cultura la Muzeul de Arhitectură Maya și Casa 6, plimbându-vă relaxat pe străduțele pietonale pitorești din orașul vechi.\nSeara: Conduceți la apus spre sud la impresionantul Fort San Miguel și încheiați-vă ziua admirând priveliștile grandioase asupra mării.",
+        "en": "Morning: Take advantage of your car to easily access the majestic northern fortress of San José El Alto and explore its fascinating naval history exhibits.\nMidday: Park securely near the historical center and switch to walking mode to visit the peaceful cathedral and a bastion transformed into a botanical garden.\nAfternoon: Dive into regional history at the Maya Architecture Museum and Casa 6 while enjoying a leisurely stroll through the colorful pedestrian streets.\nEvening: Drive down to the imposing Fuerte San Miguel as the afternoon wanes, wrapping up your day with spectacular panoramic views across the open sea."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-val-cannuta-cities-v2",
+  "anchor": {
+    "name": "Val Cannuta",
+    "coords": [
+      12.411322,
+      41.897777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di Nostra Signora di Guadalupe",
+            "hu": "Basilica di Nostra Signora di Guadalupe",
+            "ro": "Basilica di Nostra Signora di Guadalupe",
+            "en": "Basilica di Nostra Signora di Guadalupe"
+          },
+          "coords": [
+            12.416746,
+            41.89388
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mexikanisch inspirierte Architektur dieser Pfarrei und achten Sie auf die auffälligen Fliesenarbeiten, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a plébánia mexikói ihletésű, lenyűgöző modern építészetét és csempéit, majd induljon el a közeli hangulatos sétányon a következő célpont felé.",
+            "ro": "Admirați arhitectura modernă de inspirație mexicană a acestei parohii importante, observând faianța impresionantă înainte de a vă continua drumul pe jos.",
+            "en": "Admire the beautiful Mexican-inspired modern architecture of this important parish, noting the striking tilework before heading to the nearby bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria del Riposo",
+            "hu": "Chiesa di Santa Maria del Riposo",
+            "ro": "Chiesa di Santa Maria del Riposo",
+            "en": "Chiesa di Santa Maria del Riposo"
+          },
+          "coords": [
+            12.434985,
+            41.897305
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre ruhige Atmosphäre zu genießen, und sprechen Sie leise, da sie einer sehr aktiven lokalen Gemeinde dient.",
+            "hu": "Lépjen be ebbe a történelmi templomba, és élvezze a békés légkört, de beszéljen halkan, mivel ez egy rendkívül aktív helyi közösség imahelye.",
+            "ro": "Intrați în această biserică istorică pentru a aprecia atmosfera liniștită, păstrând liniștea deoarece deservește o congregație locală foarte activă.",
+            "en": "Step inside this historic church to appreciate its tranquil atmosphere and classical artwork, keeping your voice low as it serves a very active local congregation."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pio V",
+            "hu": "Chiesa di San Pio V",
+            "ro": "Chiesa di San Pio V",
+            "en": "Chiesa di San Pio V"
+          },
+          "coords": [
+            12.431375,
+            41.896502
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Design dieser römischen Nachkriegskirche und achten Sie besonders auf die Buntglasfenster, die im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Fedezze fel e háború utáni római templom építészeti elemeit, és figyelje meg az üvegablakokat, amelyek a kora délelőtti fényben mutatnak a legjobban.",
+            "ro": "Explorați designul de la mijlocul secolului al acestei biserici postbelice, acordând o atenție deosebită vitraliilor care se văd cel mai bine dimineața.",
+            "en": "Explore the mid-century design elements of this post-war Roman church, paying special attention to the stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Leone",
+            "hu": "Chiesa di San Leone",
+            "ro": "Chiesa di San Leone",
+            "en": "Chiesa di San Leone"
+          },
+          "coords": [
+            12.428498,
+            41.900606
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie das minimalistische Innere dieser markanten Kirche, die die moderne römische Architektur widerspiegelt, und prüfen Sie das schwarze Brett auf Events.",
+            "hu": "Tekintse meg a modern római liturgikus építészetet tükröző plébániatemplom minimalista belső terét, és nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Observați interiorul minimalist al acestei biserici de cartier, care reflectă perfect arhitectura liturgică modernă, și verificați panoul pentru evenimente locale.",
+            "en": "Observe the minimalist interior of this striking neighborhood church, which perfectly reflects modern Roman liturgical architecture, and check the notice board for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Immacolata di Lourdes",
+            "hu": "Chiesa di Santa Maria Immacolata di Lourdes",
+            "ro": "Chiesa di Santa Maria Immacolata di Lourdes",
+            "en": "Chiesa di Santa Maria Immacolata di Lourdes"
+          },
+          "coords": [
+            12.427682,
+            41.902832
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung an diesem Marienheiligtum und beachten Sie die schöne Nachbildung der Grotte, die in der Nähe des Seiteneingangs liegt.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel a lourdes-i jelenéseket tisztelő szentélyben, és keresse meg az oldalbejárat közelében lévő gyönyörű barlangmásolatot.",
+            "ro": "Alocați un moment de reflecție liniștită la acest altar marian, observând frumoasa replică a grotei ascunsă în apropierea intrării laterale pentru credincioși.",
+            "en": "Take a moment of quiet reflection at this Marian shrine that honors the Lourdes apparitions, noting the beautiful grotto replica hidden near the side entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex 51",
+            "hu": "Ex 51",
+            "ro": "Ex 51",
+            "en": "Ex 51"
+          },
+          "coords": [
+            12.436488,
+            41.902706
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem dynamischen Kulturraum für lokale Ausstellungen und prüfen Sie vorab das Online-Programm, um eine Show zu sehen.",
+            "hu": "Fejezze be a sétát ebben a dinamikus kulturális térben, ahol helyi kiállításokat tartanak, de előtte feltétlenül ellenőrizze az online programjukat a nyitvatartásért.",
+            "ro": "Încheiați plimbarea la acest spațiu cultural dinamic care găzduiește expoziții locale, asigurându-vă că verificați programul online pentru a prinde un eveniment inedit.",
+            "en": "End your walk at this dynamic cultural space which hosts local exhibitions and community projects, ensuring you check their online schedule beforehand to catch a show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung des Viertels rund um die beeindruckende Guadalupe-Basilika, die den architektonischen Ton angibt. Gegen Mittag wandern Sie in Richtung Osten und entdecken eine Reihe unverwechselbarer moderner römischer Pfarrkirchen. Der Nachmittag ist der fußläufigen Verbindung dieser spirituellen Zufluchtsorte gewidmet, wobei Sie die echte Atmosphäre des römischen Alltags genießen. Am Abend erreichen Sie Ex 51, ein kulturelles Zentrum, in dem lokale Kunst und Gemeinschaftsgeist den Tag abrunden.",
+        "hu": "A reggel a lenyűgöző Guadalupe-bazilika körüli nyüzsgő negyed felfedezésével kezdődik, amely nyugodt építészeti alaphangot ad. Délben keletebbre sétál, és különleges modern római plébániatemplomokat fedez fel a lakóutcákban. A délutánt e szellemi szentélyek gyalogos összekötésének szenteli, elmerülve a mindennapi római élet valódi atmoszférájában. Az este az Ex 51-be, egy nyüzsgő kulturális központba vezeti, ahol a helyi művészet és a közösségi szellem tökéletesen zárja a sétát.",
+        "ro": "Dimineața începe cu explorarea cartierului din jurul impresionantei bazilici Guadalupe, stabilind un ton arhitectural calm. La prânz, vă veți plimba spre est, descoperind o serie de biserici parohiale romane moderne, ascunse pe străzile rezidențiale. După-amiaza este dedicată conectării acestor sanctuare spirituale pe jos, absorbind atmosfera autentică a vieții romane de zi cu zi. Seara vă aduce la Ex 51, un centru cultural vibrant unde artele locale și comunitatea încheie perfect plimbarea.",
+        "en": "Morning starts with exploring the lively neighborhood around the impressive Guadalupe basilica, setting a calm architectural tone. By midday, you'll wander eastward, discovering an array of distinctive modern and post-war Roman parish churches hidden in residential streets. The afternoon is dedicated to connecting these spiritual sanctuaries on foot, soaking in the genuine atmosphere of daily Roman life. Evening brings you to Ex 51, a vibrant cultural hub where community spirit and local arts perfectly conclude your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria Assunta e San Giuseppe a Primavalle",
+            "hu": "Santa Maria Assunta e San Giuseppe a Primavalle",
+            "ro": "Santa Maria Assunta e San Giuseppe a Primavalle",
+            "en": "Santa Maria Assunta e San Giuseppe a Primavalle"
+          },
+          "coords": [
+            12.414515,
+            41.913661
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag an dieser Vorstadtkirche, die für ihr riesiges Kirchenschiff und ihre Fresken bekannt ist, und schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "Kezdje a kerékpáros napot ennél a hatalmas hajójáról és freskóiról ismert külvárosi templomnál, de ügyeljen arra, hogy biztonságosan zárja le a kerékpárt a téren.",
+            "ro": "Începeți ziua de ciclism la această biserică suburbană cunoscută pentru naosul său vast și frescele moderne, asigurându-vă că legați bicicleta în siguranță.",
+            "en": "Start your cycling day at this prominent suburban church known for its vast nave and modern frescoes, making sure to secure your bike safely at the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Braschi",
+            "hu": "Forte Braschi",
+            "ro": "Forte Braschi",
+            "en": "Forte Braschi"
+          },
+          "coords": [
+            12.424695,
+            41.915252
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Geheimdienstmuseum in diesem historischen Militärfort aus dem 19. Jahrhundert, aber buchen Sie Führungen unbedingt im Voraus.",
+            "hu": "Fedezze fel e 19. századi katonai erődítményben helyet kapott lenyűgöző hírszerzési múzeumot, de ne feledje, hogy a tárlatvezetésekhez előzetes foglalás szükséges.",
+            "ro": "Descoperiți intrigantul muzeu de informații găzduit în acest fort militar istoric din secolul al XIX-lea, dar rețineți că tururile ghidate necesită adesea rezervare prealabilă.",
+            "en": "Discover the intriguing intelligence museum housed inside this historic 19th-century military fort, but remember that guided tours often require advance booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Church of Saint Philip Neri 'alla Pineta Sacchetti",
+            "hu": "Church of Saint Philip Neri 'alla Pineta Sacchetti",
+            "ro": "Church of Saint Philip Neri 'alla Pineta Sacchetti",
+            "en": "Church of Saint Philip Neri 'alla Pineta Sacchetti"
+          },
+          "coords": [
+            12.421767,
+            41.905932
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Pausieren Sie an diesem ruhigen Heiligtum, das dem Apostel Roms gewidmet ist, und nutzen Sie den kleinen Innenhof für eine kurze und erfrischende Wasserpause.",
+            "hu": "Tartson pihenőt e békés szentélynél, amelyet Róma apostolának szenteltek, és használja ki az apró belső udvart egy gyors frissítő vízfogyasztásra a tekerés közben.",
+            "ro": "Faceți o pauză la acest sanctuar pașnic dedicat „Apostolului Romei”, cu o curte mică, perfectă pentru o pauză de apă înainte de a continua traseul pe bicicletă.",
+            "en": "Pause at this peaceful sanctuary dedicated to the 'Apostle of Rome', offering a serene contrast to your ride, with a small courtyard perfect for a water break."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Boccea",
+            "hu": "Forte Boccea",
+            "ro": "Forte Boccea",
+            "en": "Forte Boccea"
+          },
+          "coords": [
+            12.417448,
+            41.902143
+          ],
+          "category": "fortress",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die robusten Außenmauern dieser ehemaligen Militäranlage, die sich am besten vom direkt vorbeiführenden Radweg aus betrachten lassen.",
+            "hu": "Fedezze fel ennek az egykori, szomszédságba integrált katonai létesítménynek az erős külső falait, amelyeket a mellette haladó kerékpárútról lehet a legjobban látni.",
+            "ro": "Explorați zidurile exterioare robuste ale acestei foste instalații militare, care pot fi admirate cel mai bine de pe pista de biciclete ce trece chiar pe lângă ele.",
+            "en": "Explore the robust outer walls of this former military installation integrated into the neighborhood fabric, best viewed from the cycle path running alongside it."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giuseppe all'Aurelio",
+            "hu": "San Giuseppe all'Aurelio",
+            "ro": "San Giuseppe all'Aurelio",
+            "en": "San Giuseppe all'Aurelio"
+          },
+          "coords": [
+            12.412872,
+            41.903241
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante geometrische Backsteinstruktur und holen Sie sich noch schnell einen Espresso im nahe gelegenen Café, bevor Sie weiterfahren.",
+            "hu": "Tekintse meg ezt a geometrikus téglaszerkezetet, a modern olasz szakrális építészet remekét, és igyon egy gyors eszpresszót a közeli kávézóban az indulás előtt.",
+            "ro": "Vizitați această structură geometrică impresionantă din cărămidă, reprezentând arhitectura sacră italiană modernă, și luați un espresso de la cafeneaua din apropiere.",
+            "en": "Visit this striking geometric brick structure representing modern Italian sacred architecture, grabbing a quick espresso from the nearby cafe before rolling on."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Aurelia Antica",
+            "hu": "Forte Aurelia Antica",
+            "ro": "Forte Aurelia Antica",
+            "en": "Forte Aurelia Antica"
+          },
+          "coords": [
+            12.422764,
+            41.887227
+          ],
+          "category": "fortress",
+          "arrive_at": "14:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer an dieser Festung nahe der alten Via Aurelia und nehmen Sie sich Zeit, um bei Sonnenuntergang durch die Grünanlagen zu schlendern.",
+            "hu": "Zárja a kerékpáros kalandot az ősi Via Aurelia melletti rejtett erődítménynél, és szakítson időt arra, hogy naplemente közben bebarangolja a környező zöldterületeket.",
+            "ro": "Încheiați aventura la această fortăreață ascunsă de lângă vechea Cale Aureliană, făcându-vă timp să vă plimbați prin spațiile verzi perimetrale la apusul soarelui.",
+            "en": "Conclude your cycling adventure at this hidden fortress near the ancient Aurelian Way, taking time to wander the perimeter green spaces as the sun goes down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt in der nördlichen Vorstadt Primavalle, besucht die große Kirche Assunta und führt dann zum historischen Forte Braschi. Mittags radeln Sie gemütlich hinunter zur Pineta Sacchetti und halten an bemerkenswerten religiösen Denkmälern der lokalen Geschichte. Am Nachmittag wird in die Pedale getreten, um die militärische Vergangenheit Roms zu erkunden, entlang des Forte Boccea. Der Abend lässt die Reise im Süden in der Nähe der Festung Aurelia Antica bei einem wunderschönen historischen Sonnenuntergang ausklingen.",
+        "hu": "A reggeli kerékpározás Primavalle északi részén kezdődik a nagy Assunta templom meglátogatásával, majd a történelmi Forte Braschi felé veszi az irányt. Délben a kerékpárutakon gurul lefelé a Pineta Sacchetti felé, és jelentős, a helyi történelmet őrző egyházi műemlékeknél áll meg. A délutánt Róma katonai múltja uralja, követve a Forte Boccea körvonalait és a környező negyedet. Az estét a déli részen, az Aurelia Antica erőd közelében zárja, ahol a lenyűgöző történelmi szürkület várja.",
+        "ro": "Călătoria de dimineață începe în zona nordică Primavalle, vizitând marea biserică Assunta înainte de a vă îndrepta spre istoricul Forte Braschi. La prânz vă puteți orienta pe rutele de ciclism spre Pineta Sacchetti, oprindu-vă la monumente religioase notabile care marchează istoria locală. După-amiaza este dominată de trecutul militar al Romei, pedalând de-a lungul perimetrului Forte Boccea și prin cartierul înconjurător. Seara încheie lin călătoria în sud, lângă fortul Aurelia Antica, oferind priveliști istorice spectaculoase.",
+        "en": "Morning riding starts in the northern suburban expanse of Primavalle, visiting the grand Assunta church before heading to the historical Forte Braschi. Midday invites you to smoothly navigate the cycling routes down towards Pineta Sacchetti, stopping at notable religious monuments that map local history. Afternoon pedaling is dominated by Rome's military past, tracing the perimeter of Forte Boccea and its surrounding neighborhood. Evening gently wraps up the journey in the south near the grand Aurelia Antica fort, rewarding you with historical twilight views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria della Presentazione",
+            "hu": "Santa Maria della Presentazione",
+            "ro": "Santa Maria della Presentazione",
+            "en": "Santa Maria della Presentazione"
+          },
+          "coords": [
+            12.400893,
+            41.91227
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser modernen Kirche am nordwestlichen Rand der Stadt, wo es ausreichend Parkplätze auf der Straße gibt, was sie zu einem perfekten ersten Halt macht.",
+            "hu": "Autózzon el ehhez az északnyugati szélén fekvő modern templomhoz, ahol bőséges utcai parkoló várja, így ez egy könnyű és pihentető első megálló a túrán.",
+            "ro": "Conduceți până la această biserică modernă de la periferia de nord-vest, observând parcarea stradală amplă care o face o primă oprire ușoară și relaxantă.",
+            "en": "Drive out to this modern church on the north-western edge, noting the ample street parking which makes it an easy and relaxing first stop for your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Lino",
+            "hu": "Chiesa di San Lino",
+            "ro": "Chiesa di San Lino",
+            "en": "Chiesa di San Lino"
+          },
+          "coords": [
+            12.422569,
+            41.912933
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ikonischen Linien dieser faszinierenden modernen Pfarrei und nutzen Sie den speziellen Parkplatz direkt hinter dem Hauptgebäude.",
+            "hu": "Csodálja meg ennek a lenyűgöző kortárs plébániának az ikonikus kerek vonalait, és vegye igénybe a főépület mögötti külön parkolóterületet a gyors megállóhoz.",
+            "ro": "Admirați liniile rotunjite iconice ale acestei fascinante parohii contemporane, profitând de zona de parcare dedicată situată chiar în spatele clădirii principale.",
+            "en": "Admire the iconic rounded lines of this fascinating contemporary parish, taking advantage of the dedicated parking area just behind the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Braschi",
+            "hu": "Forte Braschi",
+            "ro": "Forte Braschi",
+            "en": "Forte Braschi"
+          },
+          "coords": [
+            12.424695,
+            41.915252
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie sicher in der Nähe dieser Festung aus dem 19. Jahrhundert, um das Geheimdienstmuseum zu erkunden, und bringen Sie Ihren Ausweis mit.",
+            "hu": "Parkoljon biztonságosan a 19. századi erőd közelében a hírszerző múzeum felfedezéséhez, de ne felejtse el magával vinni az igazolványát a biztonságiak miatt.",
+            "ro": "Parcați în siguranță lângă acest fort din secolul al XIX-lea pentru a explora muzeul de inteligență, aducând un act de identitate deoarece este o locație guvernamentală.",
+            "en": "Park securely near this imposing 19th-century fort to explore the intelligence agency museum, remembering to bring ID as it operates as an active government site."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Boccea",
+            "hu": "Forte Boccea",
+            "ro": "Forte Boccea",
+            "en": "Forte Boccea"
+          },
+          "coords": [
+            12.417448,
+            41.902143
+          ],
+          "category": "fortress",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie kurz das Äußere dieses historischen Verteidigungsbaus und parken Sie in den angrenzenden Seitenstraßen, um den Hauptverkehr zu vermeiden.",
+            "hu": "Röviden tekintse meg e történelmi védelmi építmény külsejét, és parkoljon a szomszédos mellékutcákban, hogy elkerülje a főutak sűrű forgalmát ezen a szakaszon.",
+            "ro": "Vizitați scurt exteriorul acestei structuri istorice de apărare, parcând pe străzile laterale adiacente pentru a evita aglomerația rutieră de pe drumul principal.",
+            "en": "Briefly visit the exterior of this historical defense structure integrated into residential Rome, parking on adjacent lateral streets to avoid main road traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Nostra Signora di Guadalupe",
+            "hu": "Basilica di Nostra Signora di Guadalupe",
+            "ro": "Basilica di Nostra Signora di Guadalupe",
+            "en": "Basilica di Nostra Signora di Guadalupe"
+          },
+          "coords": [
+            12.416746,
+            41.89388
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser beeindruckenden Kirche, die der Schutzpatronin Amerikas gewidmet ist, und nutzen Sie den großen Platz davor für ein schnelles Foto.",
+            "hu": "Álljon meg ennél az Amerika védőszentjének szentelt lenyűgöző templomnál, és használja az előtte lévő nagy teret egy könnyű leálláshoz és gyors fotózáshoz.",
+            "ro": "Opriți la această biserică impresionantă dedicată patroanei Americilor, folosind piața mare din față pentru o scurtă pauză și o fotografie spectaculoasă.",
+            "en": "Stop by this impressive church dedicated to the patroness of the Americas, using the large plaza in front for an easy pull-up and a quick photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Aurelia Antica",
+            "hu": "Forte Aurelia Antica",
+            "ro": "Forte Aurelia Antica",
+            "en": "Forte Aurelia Antica"
+          },
+          "coords": [
+            12.422764,
+            41.887227
+          ],
+          "category": "fortress",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige militärische Relikt an der historischen Via Aurelia; da das Parken knapp ist, suchen Sie am besten in der Nähe des Parks.",
+            "hu": "Fedezze fel a történelmi Via Aurelia mentén található kiterjedt katonai emléket, bár a parkolás szűkös lehet, ezért keressen helyet a szomszédos park közelében.",
+            "ro": "Explorați această relicvă militară situată de-a lungul istoricei Via Aurelia, însă parcarea poate fi strâmtă, așa că căutați locuri lângă parcul din apropiere.",
+            "en": "Explore this sprawling military relic located along the historic Via Aurelia, though parking can be tight so look for spots near the adjacent park area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex 51",
+            "hu": "Ex 51",
+            "ro": "Ex 51",
+            "en": "Ex 51"
+          },
+          "coords": [
+            12.436488,
+            41.902706
+          ],
+          "category": "cultural",
+          "arrive_at": "15:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an diesem kulturellen Zentrum im östlichen Sektor und genießen Sie die guten Parkmöglichkeiten am Abend, um sich zu entspannen.",
+            "hu": "Fejezze be autós túráját ebben a keleti szektorban található kulturális központban, ahol este könnyedén leparkolhat, hogy kipihenje a nap fáradalmait a városban.",
+            "ro": "Încheiați-vă turul auto la acest hub cultural din sectorul estic, bucurându-vă de locurile de parcare ușor de găsit seara pentru a vă relaxa după o zi de condus.",
+            "en": "End your driving tour at this cultural hub in the eastern sector, enjoying the easy evening parking availability to relax and reflect on the day's urban journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt mit einer Fahrt durch die ruhigen nordwestlichen Ränder Roms, wo Sie große moderne Kirchen bewundern können. Mittags verlagert sich der Schwerpunkt auf die große Militärgeschichte der Region, wobei Sie mit Ihrem Auto bequem zwischen den weitläufigen Festungen pendeln. Am Nachmittag fahren Sie gemütlich über die alte Via Aurelia, die religiöses Erbe mit monumentaler Architektur verbindet. Der Abend lädt Sie ein, an einem lokalen Kulturzentrum zu parken und den Tag entspannt ausklingen zu lassen.",
+        "hu": "Az autós nap Róma csendes északnyugati peremvidékein kezdődik, hatalmas, 20. században épült modern templomokat vizsgálva. A déli órákban a régió katonai történelme kerül a középpontba, és az autóval könnyedén ugrálhat a távol fekvő erődítmények között. A délután egy kellemes autózást kínál az ősi Aurelia útvonalon, amely a vallási örökséget ötvözi a lenyűgöző történelmi építészettel. Az este parkolásra és kikapcsolódásra hív egy helyi kulturális központban, méltó befejezésként.",
+        "ro": "Ziua de condus începe prin explorarea marginilor de nord-vest ale Romei, examinând bisericile moderne vaste construite în secolul XX. La prânz, atenția se îndreaptă spre marea istorie militară a regiunii, folosind mașina pentru a sări cu ușurință între fortărețele distanțate. După-amiaza permite o croazieră plăcută pe ruta antică Aureliana, îmbinând moștenirea religioasă cu arhitectura istorică monumentală. Seara vă invită să parcați și să vă relaxați la un centru cultural local, încheind perfect explorarea.",
+        "en": "Your driving day begins by sweeping through the quiet north-western fringes of Rome, examining vast modern churches built in the 20th century. Midday shifts focus to the grand military history of the region, utilizing your car to easily hop between widely spaced fortresses like Braschi and Boccea. The afternoon allows a pleasant cruise down the ancient Aurelian route, blending religious heritage with monumental historical architecture. Evening invites you to park and unwind at a local cultural center, seamlessly concluding a broad exploration of Val Cannuta."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "tezcoco-cities-v2",
+  "anchor": {
+    "name": "Texcoco",
+    "coords": [
+      -98.8833,
+      19.5167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 1.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Templo Mayor de Texcoco",
+            "hu": "Templo Mayor de Texcoco",
+            "ro": "Templo Mayor de Texcoco",
+            "en": "Templo Mayor de Texcoco"
+          },
+          "coords": [
+            -98.881447,
+            19.510851
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Herz des prähispanischen Texcoco anhand der Ruinen und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu bewältigen.",
+            "hu": "Fedezze fel a prehispán Texcoco ősi szívét a réteges kőromoknál, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Descoperiți inima vechiului Texcoco pre-hispanic observând ruinele de piatră și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Discover the ancient heart of pre-Hispanic Texcoco by observing the layered stone ruins, and be sure to wear comfortable shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica de Los Melones",
+            "hu": "Zona Arqueológica de Los Melones",
+            "ro": "Zona Arqueológica de Los Melones",
+            "en": "Zona Arqueológica de Los Melones"
+          },
+          "coords": [
+            -98.881784,
+            19.509396
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die massiven Lehmstrukturen der alten Paläste und bringen Sie einen breitkrempigen Hut mit, da die archäologische Stätte kaum Schatten bietet.",
+            "hu": "Vizsgálja meg az ősi palotákat alkotó hatalmas vályogépítményeket, és hozzon magával széles karimájú kalapot, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Examinați structurile masive de chirpici care formau palate antice și aduceți o pălărie cu boruri largi, deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Examine the massive adobe structures that formed ancient palaces, and bring a wide-brimmed hat since the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Juárez",
+            "hu": "Monumento a Juárez",
+            "ro": "Monumento a Juárez",
+            "en": "Monumento a Juárez"
+          },
+          "coords": [
+            -98.88035,
+            19.509639
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese zivile Hommage an Benito Juárez im Stadtzentrum, ein großartiger Ort für eine Pause und einen schnellen lokalen Snack.",
+            "hu": "Csodálja meg a Benito Juáreznek szentelt polgári emlékművet a központban, amely remek helyszín egy kis pihenésre és egy helyi harapnivaló elfogyasztására.",
+            "ro": "Admirați acest omagiu civic dedicat lui Benito Juárez în centrul orașului, un loc minunat pentru o pauză și o gustare locală rapidă de la vânzători.",
+            "en": "Admire this civic tribute dedicated to Benito Juárez in the city center, which is a great spot to pause and grab a quick local snack from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa del Constituyente",
+            "hu": "La Casa del Constituyente",
+            "ro": "La Casa del Constituyente",
+            "en": "La Casa del Constituyente"
+          },
+          "coords": [
+            -98.879792,
+            19.513735
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Gesetzgebungsgeschichte des Bundesstaates Mexiko in diesem eleganten Gebäude und nehmen Sie an einer Führung teil, um mehr zu erfahren.",
+            "hu": "Fedezze fel Mexikó állam gazdag jogalkotási történetét ebben az elegáns gyarmati épületben, és érdemes vezetett túrát tenni a kiállítások megértéséhez.",
+            "ro": "Explorați bogata istorie legislativă a statului Mexic în această clădire colonială elegantă și luați în considerare un tur ghidat pentru a înțelege exponatele.",
+            "en": "Explore the rich legislative history of the State of Mexico housed within this elegant colonial building, and consider taking a guided tour to understand the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de la Tierra",
+            "hu": "Museo Casa de la Tierra",
+            "ro": "Museo Casa de la Tierra",
+            "en": "Museo Casa de la Tierra"
+          },
+          "coords": [
+            -98.878505,
+            19.512454
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven ökologischen Ausstellungen zum Klimabewusstsein, wo Sie gleich beim Eintritt den Vorführplan überprüfen sollten.",
+            "hu": "Ismerkedjen meg az éghajlati tudatosságot tanító interaktív ökológiai kiállításokkal, és belépéskor feltétlenül ellenőrizze a vetítések pontos menetrendjét.",
+            "ro": "Interacționați cu expoziții ecologice care promovează conștientizarea climatică, o oprire educativă unde ar trebui să verificați programul proiecțiilor la intrare.",
+            "en": "Engage with interactive ecological exhibits that teach climate awareness, making it an excellent educational stop where you should check the screening schedule upon entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona arquelogica de Zillan",
+            "hu": "Zona arquelogica de Zillan",
+            "ro": "Zona arquelogica de Zillan",
+            "en": "Zona arquelogica de Zillan"
+          },
+          "coords": [
+            -98.870503,
+            19.513724
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese weniger bekannten archäologischen Überreste und besuchen Sie den Ort am späten Nachmittag, um das beste natürliche Licht zum Fotografieren zu nutzen.",
+            "hu": "Sétáljon végig ezeken a kevésbé ismert régészeti maradványokon, és látogasson el késő délután, hogy a legjobb természetes fényben fotózhasson.",
+            "ro": "Plimbați-vă printre aceste vestigii arheologice mai puțin cunoscute care oferă liniște și vizitați-le după-amiaza târziu pentru a surprinde cea mai bună lumină.",
+            "en": "Walk through these lesser-known archaeological remnants that offer quiet reflection, and visit during the late afternoon to capture the best natural light for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des Templo Mayor und der Ruinen von Los Melones. Mittags gibt es eine kurze Pause am Juárez-Denkmal, bevor Sie im La Casa del Constituyente in die reiche Geschichte eintauchen. Am Nachmittag widmen Sie sich der Ökologie im Museo Casa de la Tierra. Beenden Sie Ihren Spaziergang in den ruhigen Überresten von Zillan, wenn die Sonne tiefer steht.",
+        "hu": "Kezdje a reggelt a Templo Mayor és a Los Melones romjainak felfedezésével. Délben tartson egy rövid szünetet a Juárez-emlékműnél, mielőtt elmerül a La Casa del Constituyente történelmében. Délután az ökológia kerül előtérbe a Museo Casa de la Tierra interaktív kiállításaival. Zárja történelmi sétáját Zillan csendes maradványai között, ahogy a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața explorând ruinele antice Templo Mayor și Los Melones. La prânz, faceți o scurtă pauză la Monumentul Juárez înainte de a pătrunde în istoria legislativă la La Casa del Constituyente. După-amiaza, treceți la ecologie cu expozițiile interactive de la Museo Casa de la Tierra. Încheiați-vă plimbarea istorică rătăcind prin vestigiile liniștite din Zillan.",
+        "en": "Start your morning exploring the ancient Templo Mayor and Los Melones ruins, imagining the pre-Hispanic grandeur. Midday brings a short pause at the Juárez Monument before diving into the rich legislative history at La Casa del Constituyente. In the afternoon, shift to ecology with interactive displays at Museo Casa de la Tierra. Conclude your historical walk wandering through the quiet remnants of Zillan as the sun begins to lower."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 2.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zona Arqueológica de Los Melones",
+            "hu": "Zona Arqueológica de Los Melones",
+            "ro": "Zona Arqueológica de Los Melones",
+            "en": "Zona Arqueológica de Los Melones"
+          },
+          "coords": [
+            -98.881784,
+            19.509396
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die massiven Lehmstrukturen der alten Paläste und bringen Sie einen breitkrempigen Hut mit, da die archäologische Stätte kaum Schatten bietet.",
+            "hu": "Vizsgálja meg az ősi palotákat alkotó hatalmas vályogépítményeket, és hozzon magával széles karimájú kalapot, mivel a régészeti területen kevés az árnyék.",
+            "ro": "Examinați structurile masive de chirpici care formau palate antice și aduceți o pălărie cu boruri largi, deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Examine the massive adobe structures that formed ancient palaces, and bring a wide-brimmed hat since the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Miguel Hidalgo",
+            "hu": "Monumento a Miguel Hidalgo",
+            "ro": "Monumento a Miguel Hidalgo",
+            "en": "Monumento a Miguel Hidalgo"
+          },
+          "coords": [
+            -98.880606,
+            19.50617
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem Denkmal zu Ehren des Vaters der mexikanischen Unabhängigkeit Ihren Respekt, ideal für einen kurzen Fotostopp entlang der Hauptstraße.",
+            "hu": "Tisztelegjen a mexikói függetlenség atyjának emlékműve előtt, amely tökéletes egy rövid fotózási megállóra a főútvonal mentén sétálva.",
+            "ro": "Prezentați-vă respectul la monumentul care onorează tatăl independenței Mexicului, perfect pentru o scurtă oprire foto în timp ce mergeți pe bulevard.",
+            "en": "Pay your respects at the monument honoring the father of Mexican independence, perfect for a brief photo stop while walking along the main avenue."
+          }
+        },
+        {
+          "name": {
+            "de": "El Sembrador",
+            "hu": "El Sembrador",
+            "ro": "El Sembrador",
+            "en": "El Sembrador"
+          },
+          "coords": [
+            -98.88712,
+            19.494738
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese landwirtschaftliche Statue, die die bäuerlichen Wurzeln der Region feiert, und ruhen Sie sich auf den nahe gelegenen Bänken aus.",
+            "hu": "Figyelje meg ezt a régió mezőgazdasági gyökereit ünneplő ikonikus szobrot, és szánjon egy percet a közeli padokon való pihenésre.",
+            "ro": "Observați această statuie agricolă iconică ce celebrează rădăcinile agricole ale regiunii și luați-vă un moment pentru a vă odihni pe băncile din apropiere.",
+            "en": "Observe this iconic agricultural statue celebrating the region's farming roots, and take a moment to rest on the nearby benches to enjoy the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nacional de agricultura",
+            "hu": "Museo Nacional de agricultura",
+            "ro": "Museo Nacional de agricultura",
+            "en": "Museo Nacional de agricultura"
+          },
+          "coords": [
+            -98.888951,
+            19.492311
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf dem Chapingo-Campus in die Geschichte der mexikanischen Landwirtschaft ein, wo Sie die atemberaubenden Wandgemälde von Diego Rivera nicht verpassen dürfen.",
+            "hu": "Merüljön el a mexikói mezőgazdaság átfogó történetében a lenyűgöző Chapingo kampuszon, ahol semmiképpen se hagyja ki Diego Rivera csodálatos falfestményeit.",
+            "ro": "Pătrundeți în istoria agriculturii mexicane în campusul Chapingo, unde nu trebuie să ratați picturile murale uimitoare realizate de Diego Rivera.",
+            "en": "Delve into the comprehensive history of Mexican agriculture set within the impressive Chapingo campus, where you must not miss the stunning murals by Diego Rivera."
+          }
+        },
+        {
+          "name": {
+            "de": "Partenon",
+            "hu": "Partenon",
+            "ro": "Partenon",
+            "en": "Partenon"
+          },
+          "coords": [
+            -98.890925,
+            19.491613
+          ],
+          "category": "museum",
+          "arrive_at": "12:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante neoklassizistische Bauwerk, das einen Kontrast zur Umgebung bildet, und prüfen Sie vorab, ob es temporäre Kunstausstellungen gibt.",
+            "hu": "Csodálja meg ezt a lenyűgöző neoklasszikus építményt, amely elüt a környező tájtól, és érdeklődjön előre a bent található időszaki művészeti kiállításokról.",
+            "ro": "Admirați această structură neoclasică impresionantă care contrastează cu peisajul din jur și verificați în avans dacă există expoziții de artă temporare.",
+            "en": "Marvel at this striking neoclassical structure that contrasts with the surrounding landscape, and check in advance if there are any temporary art exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Álvaro Carrillo",
+            "hu": "Auditorio Álvaro Carrillo",
+            "ro": "Auditorio Álvaro Carrillo",
+            "en": "Auditorio Álvaro Carrillo"
+          },
+          "coords": [
+            -98.889829,
+            19.490552
+          ],
+          "category": "cultural",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Universität, indem Sie den Veranstaltungsplan überprüfen, da hier oft fantastische studentische Aufführungen stattfinden.",
+            "hu": "Tapasztalja meg az egyetem kulturális lüktetését a nézőtér műsorfüzetének áttekintésével, mivel gyakran ad otthont fantasztikus diák előadásoknak és rendezvényeknek.",
+            "ro": "Experimentați ritmul cultural al universității verificând programul sălii, deoarece găzduiește frecvent spectacole fantastice ale studenților și evenimente.",
+            "en": "Experience the cultural heartbeat of the university by checking out the auditorium's schedule, as it frequently hosts fantastic student performances and regional events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an den historischen Los Melones, bevor Sie am Hidalgo-Denkmal und der Statue El Sembrador vorbeifahren. Der Mittag ist perfekt, um das riesige Museo Nacional de agricultura zu erkunden. Bestaunen Sie anschließend die einzigartige Architektur des neoklassizistischen Partenon. Beenden Sie Ihre Radtour, indem Sie die kreative Atmosphäre im Auditorio Álvaro Carrillo genießen.",
+        "hu": "Induljon a történelmi Los Melones-től, majd tekerjen el a Hidalgo-emlékmű és az ikonikus El Sembrador szobor mellett. A dél tökéletes a hatalmas Museo Nacional de agricultura felfedezésére. Ezután csodálja meg a neoklasszikus Partenon egyedi építészetét. Fejezze be kerékpáros túráját az Auditorio Álvaro Carrillo kreatív atmoszférájának magába szívásával.",
+        "ro": "Începeți traseul la istoricul Los Melones, înainte de a pedala pe lângă Monumentul Hidalgo și statuia El Sembrador. Prânzul este perfect pentru a explora masivul Museo Nacional de agricultura. Ulterior, admirați arhitectura unică a Partenonului neoclasic. Încheiați călătoria cu bicicleta bucurându-vă de atmosfera creativă de la Auditorio Álvaro Carrillo.",
+        "en": "Kick off your ride at the historical Los Melones before cruising past the Hidalgo Monument and the iconic El Sembrador statue. Midday is perfect for diving deep into the massive Museo Nacional de agricultura and exploring its incredible murals. Afterwards, marvel at the neoclassical Partenon's unique architecture. End your cycling journey soaking up the creative atmosphere at the Auditorio Álvaro Carrillo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Nacional de agricultura",
+            "hu": "Museo Nacional de agricultura",
+            "ro": "Museo Nacional de agricultura",
+            "en": "Museo Nacional de agricultura"
+          },
+          "coords": [
+            -98.888951,
+            19.492311
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf dem Chapingo-Campus in die Geschichte der mexikanischen Landwirtschaft ein, wo Sie die atemberaubenden Wandgemälde von Diego Rivera nicht verpassen dürfen.",
+            "hu": "Merüljön el a mexikói mezőgazdaság átfogó történetében a lenyűgöző Chapingo kampuszon, ahol semmiképpen se hagyja ki Diego Rivera csodálatos falfestményeit.",
+            "ro": "Pătrundeți în istoria agriculturii mexicane în campusul Chapingo, unde nu trebuie să ratați picturile murale uimitoare realizate de Diego Rivera.",
+            "en": "Delve into the comprehensive history of Mexican agriculture set within the impressive Chapingo campus, where you must not miss the stunning murals by Diego Rivera."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Álvaro Carrillo",
+            "hu": "Auditorio Álvaro Carrillo",
+            "ro": "Auditorio Álvaro Carrillo",
+            "en": "Auditorio Álvaro Carrillo"
+          },
+          "coords": [
+            -98.889829,
+            19.490552
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Universität, indem Sie den Veranstaltungsplan überprüfen, da hier oft fantastische studentische Aufführungen stattfinden.",
+            "hu": "Tapasztalja meg az egyetem kulturális lüktetését a nézőtér műsorfüzetének áttekintésével, mivel gyakran ad otthont fantasztikus diák előadásoknak és rendezvényeknek.",
+            "ro": "Experimentați ritmul cultural al universității verificând programul sălii, deoarece găzduiește frecvent spectacole fantastice ale studenților și evenimente.",
+            "en": "Experience the cultural heartbeat of the university by checking out the auditorium's schedule, as it frequently hosts fantastic student performances and regional events."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo Mayor de Texcoco",
+            "hu": "Templo Mayor de Texcoco",
+            "ro": "Templo Mayor de Texcoco",
+            "en": "Templo Mayor de Texcoco"
+          },
+          "coords": [
+            -98.881447,
+            19.510851
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.42,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte Herz des prähispanischen Texcoco anhand der Ruinen und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu bewältigen.",
+            "hu": "Fedezze fel a prehispán Texcoco ősi szívét a réteges kőromoknál, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Descoperiți inima vechiului Texcoco pre-hispanic observând ruinele de piatră și asigurați-vă că purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Discover the ancient heart of pre-Hispanic Texcoco by observing the layered stone ruins, and be sure to wear comfortable shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa del Constituyente",
+            "hu": "La Casa del Constituyente",
+            "ro": "La Casa del Constituyente",
+            "en": "La Casa del Constituyente"
+          },
+          "coords": [
+            -98.879792,
+            19.513735
+          ],
+          "category": "museum",
+          "arrive_at": "13:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Gesetzgebungsgeschichte des Bundesstaates Mexiko in diesem eleganten Gebäude und nehmen Sie an einer Führung teil, um mehr zu erfahren.",
+            "hu": "Fedezze fel Mexikó állam gazdag jogalkotási történetét ebben az elegáns gyarmati épületben, és érdemes vezetett túrát tenni a kiállítások megértéséhez.",
+            "ro": "Explorați bogata istorie legislativă a statului Mexic în această clădire colonială elegantă și luați în considerare un tur ghidat pentru a înțelege exponatele.",
+            "en": "Explore the rich legislative history of the State of Mexico housed within this elegant colonial building, and consider taking a guided tour to understand the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Embarcadero de Texcoco",
+            "hu": "Embarcadero de Texcoco",
+            "ro": "Embarcadero de Texcoco",
+            "en": "Embarcadero de Texcoco"
+          },
+          "coords": [
+            -98.90561,
+            19.511837
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Denken Sie an dieser ehemaligen Anlegestelle an die alte Seegeschichte der Gegend zurück, die man am besten bei Sonnenuntergang besucht.",
+            "hu": "Gondoljon vissza a terület ősi tóparti történelmére ezen az egykori kikötőhelyen, amelyet a legjobb naplementekor meglátogatni, hogy elképzelje az azték birodalmat.",
+            "ro": "Reflectați asupra istoriei antice a lacului în acest fost doc, care este cel mai bine vizitat la apus pentru a vă imagina canoelor aglomerate ale imperiului aztec.",
+            "en": "Reflect on the area's ancient lakeside history at this former dock site, which is now best visited at sunset to imagine the bustling canoes of the Aztec empire."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de toros Silverio Perez",
+            "hu": "Plaza de toros Silverio Perez",
+            "ro": "Plaza de toros Silverio Perez",
+            "en": "Plaza de toros Silverio Perez"
+          },
+          "coords": [
+            -98.890186,
+            19.534392
+          ],
+          "category": "cultural",
+          "arrive_at": "16:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.98,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf diese traditionelle Stierkampfarena, die ein wichtiges kulturelles Wahrzeichen bleibt, auch wenn ein Besuch während einer Veranstaltung empfohlen wird.",
+            "hu": "Vessen egy pillantást erre a hagyományos bikaviadal-arénára, amely fontos kulturális mérföldkő maradt, bár a pezsgő energia átéléséhez érdemes egy esemény alatt idelátogatni.",
+            "ro": "Aruncați o privire la această arenă tradițională care rămâne un punct de reper cultural important, deși este recomandat să o vizitați în timpul unui eveniment.",
+            "en": "Take a look at this traditional bullring that remains an important cultural landmark, though it is recommended to visit during an event to truly feel its vibrant energy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt auf dem Chapingo-Campus, um das Nationale Landwirtschaftsmuseum und das Auditorio Álvaro Carrillo zu erkunden. Mittags fahren Sie nach Norden in das Herz der Stadt, um den Templo Mayor zu sehen. Am Nachmittag besuchen Sie La Casa del Constituyente und den legendären Embarcadero. Beenden Sie Ihren Tag an der traditionellen Plaza de toros.",
+        "hu": "Kezdje autós túráját a Chapingo kampuszon a Nemzeti Mezőgazdasági Múzeum és az Auditorio Álvaro Carrillo felfedezésével. Délben északra, a város szívébe utazik, hogy megnézze a Templo Mayor-t. Délután ismerje meg a helyi történelmet a La Casa del Constituyente-ben, mielőtt meglátogatja a legendás Embarcaderót. Zárja a napot a hagyományos Plaza de toros megcsodálásával.",
+        "ro": "Începeți turul cu mașina în campusul Chapingo pentru a explora Muzeul Național de Agricultură și Auditorio Álvaro Carrillo. Prânzul vă duce spre nord, în inima orașului, pentru a vedea Templo Mayor. După-amiaza, aflați istoria locală la La Casa del Constituyente înainte de a vizita legendarul Embarcadero. Terminați ziua admirând tradiționala Plaza de toros.",
+        "en": "Begin your driving tour at the expansive Chapingo campus to explore the National Agriculture Museum, followed by the nearby Auditorio Álvaro Carrillo. Midday takes you north to the very heart of the city to see the ancient Templo Mayor. In the afternoon, learn local state history at La Casa del Constituyente before visiting the legendary Embarcadero. Finish your day marveling at the traditional Plaza de toros."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "celaya-cities-v2",
+  "anchor": {
+    "name": "Celaya",
+    "coords": [
+      -100.8122,
+      20.5213
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la cultura de Celaya",
+            "hu": "Casa de la cultura de Celaya",
+            "ro": "Casa de la cultura de Celaya",
+            "en": "Casa de la cultura de Celaya"
+          },
+          "coords": [
+            -100.813218,
+            20.520547
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Kunstszene in diesem historischen Gebäude und achten Sie auf die Tafel für kostenlose Workshops.",
+            "hu": "Csodálja meg a pezsgő helyi művészeti életet ebben a történelmi épületben, és keresse az ingyenes délutáni foglalkozásokat a hirdetőtáblán.",
+            "ro": "Admirați scena artistică locală vibrantă găzduită în această clădire istorică și verificați avizierul pentru ateliere gratuite după-amiaza.",
+            "en": "Admire the vibrant local arts scene hosted in this historic building, and check the entrance board for free afternoon workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Celaya Historia Regional",
+            "hu": "Museo de Celaya Historia Regional",
+            "ro": "Museo de Celaya Historia Regional",
+            "en": "Museo de Celaya Historia Regional"
+          },
+          "coords": [
+            -100.812671,
+            20.521683
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die entscheidenden Ereignisse der mexikanischen Revolution und verpassen Sie nicht die faszinierenden Artefakte im Obergeschoss.",
+            "hu": "Fedezze fel a mexikói forradalom sorsdöntő eseményeit, melyek a régiót formálták, és ne hagyja ki a lenyűgöző leleteket az emeleten.",
+            "ro": "Descoperiți evenimentele cruciale ale Revoluției Mexicane care au modelat regiunea și nu ratați artefactele fascinante de la etaj.",
+            "en": "Discover the pivotal events of the Mexican Revolution that shaped this region, and don't miss the fascinating artifacts on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Hidalgo",
+            "hu": "Monumento a Hidalgo",
+            "ro": "Monumento a Hidalgo",
+            "en": "Monumento a Hidalgo"
+          },
+          "coords": [
+            -100.812216,
+            20.52284
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Anführer der mexikanischen Unabhängigkeit zu ehren, und machen Sie ein Foto vom südlichen Winkel.",
+            "hu": "Szánjon egy percet a mexikói függetlenség vezetőjének tiszteletére a városközpontban, és készítsen egy gyors fotót a déli sarokból.",
+            "ro": "Luați un moment pentru a onora liderul independenței mexicane chiar în centrul orașului și faceți o fotografie rapidă din unghiul sudic.",
+            "en": "Take a brief moment to honor the leader of Mexican independence right in the city center, and snap a quick photo from the southern angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte Octavio Ocampo",
+            "hu": "Museo de Arte Octavio Ocampo",
+            "ro": "Museo de Arte Octavio Ocampo",
+            "en": "Museo de Arte Octavio Ocampo"
+          },
+          "coords": [
+            -100.813433,
+            20.523321
+          ],
+          "category": "museum",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die optischen Täuschungen des berühmten lokalen Surrealisten und halten Sie etwas Abstand zu den Gemälden, um die versteckten Gesichter zu sehen.",
+            "hu": "Fedezze fel a híres helyi szürrealista mester elképesztő optikai csalódásait, de lépjen hátrébb a festményektől, hogy láthassa a rejtett arcokat.",
+            "ro": "Explorați iluziile optice uluitoare create de faimosul suprarealist local, păstrând distanța față de picturi pentru a vedea fețele ascunse.",
+            "en": "Explore the mind-bending optical illusions crafted by the famous local surrealist, keeping your distance from the paintings to see the hidden faces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mumeia",
+            "hu": "Mumeia",
+            "ro": "Mumeia",
+            "en": "Mumeia"
+          },
+          "coords": [
+            -100.81949,
+            20.534114
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang in diesem einzigartigen und leicht unheimlichen Mumienmuseum, und bringen Sie eine leichte Jacke mit, da die Räume kühl sind.",
+            "hu": "Zárja sétáját ebben az egyedülálló és kissé hátborzongató múmiamúzeumban, és hozzon magával egy vékony kabátot, mert a kiállítótermek elég hűvösek.",
+            "ro": "Încheiați-vă plimbarea la acest muzeu unic și ușor înfricoșător al mumiilor, și asigurați-vă că aveți o jachetă, deoarece sălile expoziționale sunt răcoroase.",
+            "en": "Conclude your walk at this unique and slightly eerie museum of mummies, and make sure to bring a light jacket as the exhibition rooms are quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt inmitten der lokalen Kultur und Geschichte im Herzen der Stadt. Mittags geht es weiter zu tiefgründiger Kunst und optischen Täuschungen. Der Nachmittag endet mit einem längeren Spaziergang zu den Geheimnissen erhaltener Mumien. Der Abend lädt zu einem langsamen Rückweg zu den belebten Plätzen und einem gemütlichen Abendessen ein.",
+        "hu": "A reggel a helyi kultúrában és történelemben merülve indul a város szívében. A délidő a mélyreható művészet és az optikai csalódások jegyében telik. A délután egy hosszabb sétával zárul, melynek során feltárjuk a megőrzött múmiák rejtélyeit. Az este kellemes visszatérésre hív a nyüzsgő központi terekhez egy meghitt vacsorára.",
+        "ro": "Dimineața începe scufundată în cultura și istoria locală din inima orașului. Prânzul trece la artă profundă și iluzii optice la doar câțiva pași distanță. După-amiaza se încheie cu o plimbare mai lungă pentru a descoperi misterele mumiilor conservate. Seara invită la o plimbare lentă înapoi spre piețele centrale pentru o cină confortabilă.",
+        "en": "Morning begins immersed in local culture and history in the heart of the city. Midday shifts toward profound art and optical illusions just a few steps away. Afternoon concludes with a longer stroll to uncover the mysteries of preserved mummies. Evening invites a slow walk back to the bustling central plazas to find a cozy dinner spot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Hidalgo",
+            "hu": "Monumento a Hidalgo",
+            "ro": "Monumento a Hidalgo",
+            "en": "Monumento a Hidalgo"
+          },
+          "coords": [
+            -100.812216,
+            20.52284
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um den Anführer der mexikanischen Unabhängigkeit zu ehren, und machen Sie ein Foto vom südlichen Winkel.",
+            "hu": "Szánjon egy percet a mexikói függetlenség vezetőjének tiszteletére a városközpontban, és készítsen egy gyors fotót a déli sarokból.",
+            "ro": "Luați un moment pentru a onora liderul independenței mexicane chiar în centrul orașului și faceți o fotografie rapidă din unghiul sudic.",
+            "en": "Take a brief moment to honor the leader of Mexican independence right in the city center, and snap a quick photo from the southern angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Celaya Historia Regional",
+            "hu": "Museo de Celaya Historia Regional",
+            "ro": "Museo de Celaya Historia Regional",
+            "en": "Museo de Celaya Historia Regional"
+          },
+          "coords": [
+            -100.812671,
+            20.521683
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die entscheidenden Ereignisse der mexikanischen Revolution und verpassen Sie nicht die faszinierenden Artefakte im Obergeschoss.",
+            "hu": "Fedezze fel a mexikói forradalom sorsdöntő eseményeit, melyek a régiót formálták, és ne hagyja ki a lenyűgöző leleteket az emeleten.",
+            "ro": "Descoperiți evenimentele cruciale ale Revoluției Mexicane care au modelat regiunea și nu ratați artefactele fascinante de la etaj.",
+            "en": "Discover the pivotal events of the Mexican Revolution that shaped this region, and don't miss the fascinating artifacts on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mumeia",
+            "hu": "Mumeia",
+            "ro": "Mumeia",
+            "en": "Mumeia"
+          },
+          "coords": [
+            -100.81949,
+            20.534114
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige und leicht unheimliche Mumienmuseum und bringen Sie eine leichte Jacke mit, da die Räume kühl sind.",
+            "hu": "Látogasson el ebbe az egyedülálló és kissé hátborzongató múmiamúzeumba, és hozzon magával egy vékony kabátot, mert a kiállítótermek hűvösek.",
+            "ro": "Vizitați acest muzeu unic și ușor înfricoșător al mumiilor și asigurați-vă că aveți o jachetă, deoarece sălile expoziționale sunt răcoroase.",
+            "en": "Visit this unique and slightly eerie museum of mummies, and make sure to bring a light jacket as the exhibition rooms are quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumental Flag",
+            "hu": "Monumental Flag",
+            "ro": "Monumental Flag",
+            "en": "Monumental Flag"
+          },
+          "coords": [
+            -100.82559,
+            20.534998
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Halten Sie inne, um die riesige Flagge zu bewundern, die stolz über der Stadt weht – ein perfekter Zwischenstopp, um kurz durchzuatmen.",
+            "hu": "Álljon meg egy pillanatra, hogy megcsodálja a város felett büszkén lobogó hatalmas zászlót, amely tökéletes pihenőhely a kerékpározás közben.",
+            "ro": "Faceți o pauză pentru a aprecia steagul masiv care flutură mândru deasupra orașului, o oprire perfectă pentru a vă trage sufletul în timpul plimbării.",
+            "en": "Pause to appreciate the massive flag waving proudly over the city, a perfect mid-ride stop to catch your breath and enjoy the open plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Tresguerras",
+            "hu": "Auditorio Tresguerras",
+            "ro": "Auditorio Tresguerras",
+            "en": "Auditorio Tresguerras"
+          },
+          "coords": [
+            -100.828752,
+            20.536251
+          ],
+          "category": "cultural",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie die modernistische Architektur dieses bedeutenden Kulturzentrums und erkundigen Sie sich an der Kasse nach bevorstehenden Abendvorstellungen.",
+            "hu": "Csodálja meg ennek a kiemelkedő kulturális helyszínnek a modernista építészetét, és érdeklődjön a jegypénztárnál a közelgő esti előadásokról.",
+            "ro": "Admirați arhitectura modernistă a acestui important centru cultural și verificați la casa de bilete dacă există spectacole programate seara.",
+            "en": "Take in the modernist architecture of this prominent cultural venue, and check the box office for any upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Imaginate la Bola",
+            "hu": "Museo Imaginate la Bola",
+            "ro": "Museo Imaginate la Bola",
+            "en": "Museo Imaginate la Bola"
+          },
+          "coords": [
+            -100.829585,
+            20.537175
+          ],
+          "category": "museum",
+          "arrive_at": "14:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die interaktiven Ausstellungen zu Wissenschaft und Technik in diesem ikonischen, kugelförmigen Gebäude, perfekt zum Abkühlen nach dem Radfahren.",
+            "hu": "Fedezze fel az interaktív tudományos és technológiai kiállításokat ebben az ikonikus, gömb alakú épületben, amely tökéletes felfrissülés a kerékpározás után.",
+            "ro": "Explorați expozițiile interactive de știință și tehnologie din această clădire sferică emblematică, locul perfect pentru a vă răcori după pedalat.",
+            "en": "Engage with the interactive science and technology exhibits inside this iconic spherical building, perfect for cooling down after biking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt führt Sie zu den wichtigsten historischen Denkmälern. Gegen Mittag radeln Sie nach Norden, um ungewöhnliche Artefakte und Wahrzeichen zu entdecken. Der Nachmittag bietet eine reibungslose Fahrt zu einem modernen Kulturzentrum und einem Wissenschaftsmuseum. Der Abend kühlt angenehm ab für eine entspannte Fahrt durch die beleuchteten Straßen.",
+        "hu": "Reggeli utazása kulcsfontosságú történelmi emlékműveket és a régió történelmét fedi le. Délre észak felé pedálozva különleges múzeumi leleteket fedezhet fel. A délután egy kellemes tekerést kínál egy modern kulturális központhoz és egy interaktív tudományos múzeumhoz. Az este tökéletesen lehűl egy kivilágított utcákon tett laza bringázáshoz.",
+        "ro": "Plimbarea de dimineață acoperă monumente istorice cheie și istoria regională esențială. Până la prânz, veți pedala spre nord pentru a descoperi artefacte neobișnuite. După-amiaza oferă o cursă lină spre un centru cultural modern și un muzeu interactiv de știință. Seara se răcorește perfect pentru o plimbare relaxată prin străzile iluminate.",
+        "en": "Your morning ride covers key historical monuments and essential regional history. By midday, you'll pedal north to uncover unusual museum artifacts and iconic city landmarks. The afternoon offers a smooth cruise to a modern cultural hub and an interactive science center. The evening cools down perfectly for a relaxed ride through the illuminated streets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 19.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Benito Juarez",
+            "hu": "Monumento Benito Juarez",
+            "ro": "Monumento Benito Juarez",
+            "en": "Monumento Benito Juarez"
+          },
+          "coords": [
+            -100.789376,
+            20.517554
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit einem Gruß an dieses historische Denkmal für den reformistischen Präsidenten und nutzen Sie die nahegelegenen Parkplätze.",
+            "hu": "Kezdje autós túráját a reformer elnököt ünneplő történelmi emlékműnél, és használja a közeli utcai parkolót az indulás előtt.",
+            "ro": "Începeți turul cu mașina salutând acest monument istoric dedicat președintelui reformator, folosind parcarea stradală din apropiere înainte de a pleca.",
+            "en": "Start your driving tour by saluting this historic monument honoring the reformist president, using the nearby street parking before heading off."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Nieto Piña",
+            "hu": "Teatro Nieto Piña",
+            "ro": "Teatro Nieto Piña",
+            "en": "Teatro Nieto Piña"
+          },
+          "coords": [
+            -100.783882,
+            20.518437
+          ],
+          "category": "cultural",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Innere dieses lokalen Theaters, das für seine hervorragende Akustik bekannt ist, und fotografieren Sie die markante Fassade.",
+            "hu": "Fedezze fel a kiváló akusztikájáról ismert helyi színház elegáns belső terét, és készítsen néhány fényképet a lenyűgöző homlokzatról.",
+            "ro": "Explorați interiorul elegant al acestui teatru local cunoscut pentru acustica sa excelentă și faceți câteva fotografii ale fațadei sale impresionante.",
+            "en": "Explore the elegant interior of this local theater known for its excellent acoustics, and snap some pictures of its striking facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Celaya Historia Regional",
+            "hu": "Museo de Celaya Historia Regional",
+            "ro": "Museo de Celaya Historia Regional",
+            "en": "Museo de Celaya Historia Regional"
+          },
+          "coords": [
+            -100.812671,
+            20.521683
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, um die entscheidenden Ereignisse der mexikanischen Revolution zu entdecken, und verpassen Sie nicht die Artefakte im Obergeschoss.",
+            "hu": "Vezessen a központba, hogy felfedezze a mexikói forradalom sorsdöntő eseményeit, és ne hagyja ki a lenyűgöző leleteket az emeleten.",
+            "ro": "Conduceți spre centru pentru a descoperi evenimentele cruciale ale Revoluției Mexicane și nu ratați artefactele fascinante de la etaj.",
+            "en": "Drive into the center to discover the pivotal events of the Mexican Revolution, and don't miss the fascinating artifacts on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Francisco Villa",
+            "hu": "Francisco Villa",
+            "ro": "Francisco Villa",
+            "en": "Francisco Villa"
+          },
+          "coords": [
+            -100.839305,
+            20.519336
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Reflektieren Sie über die turbulente Geschichte der Revolution an dieser Statue des berühmten Generals, die in einem ruhigen, gut zugänglichen Kreisverkehr liegt.",
+            "hu": "Gondolkodjon el a forradalom viharos történelmén a híres tábornoknak szentelt szobornál, amely egy csendes, de könnyen megközelíthető körforgalomban található.",
+            "ro": "Reflectați asupra istoriei turbulente a revoluției la această statuie dedicată faimosului general, situată într-un sens giratoriu liniștit, dar accesibil.",
+            "en": "Reflect on the turbulent history of the revolution at this statue dedicated to the famous general, situated in a quiet but accessible roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Imaginate la Bola",
+            "hu": "Museo Imaginate la Bola",
+            "ro": "Museo Imaginate la Bola",
+            "en": "Museo Imaginate la Bola"
+          },
+          "coords": [
+            -100.829585,
+            20.537175
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die interaktiven Ausstellungen zu Wissenschaft und Technik in diesem ikonischen, kugelförmigen Gebäude, mit praktischen Parkmöglichkeiten.",
+            "hu": "Fedezze fel az interaktív tudományos és technológiai kiállításokat ebben az ikonikus, gömb alakú épületben, kényelmes parkolási lehetőséggel.",
+            "ro": "Explorați expozițiile interactive de știință și tehnologie din această clădire sferică emblematică, care oferă o parcare convenabilă.",
+            "en": "Engage with the interactive science and technology exhibits inside this iconic spherical building, featuring convenient nearby parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro para las Artes",
+            "hu": "Centro para las Artes",
+            "ro": "Centro para las Artes",
+            "en": "Centro para las Artes"
+          },
+          "coords": [
+            -100.811649,
+            20.541071
+          ],
+          "category": "cultural",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das wunderschön restaurierte Kloster, das heute ein Kunstzentrum ist, und achten Sie besonders auf die Wandmalereien im Innenhof.",
+            "hu": "Sétáljon végig a gyönyörűen felújított, művészeti központtá alakított kolostoron, és fordítson különös figyelmet a belső udvart díszítő élénk falfestményekre.",
+            "ro": "Plimbați-vă prin mănăstirea frumos restaurată, transformată în centru de arte, acordând o atenție deosebită picturilor murale vibrante din curtea interioară.",
+            "en": "Wander through the beautifully restored cloister turned arts center, paying special attention to the vibrant murals decorating the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuatico Agua Caliente",
+            "hu": "Parque Acuatico Agua Caliente",
+            "ro": "Parque Acuatico Agua Caliente",
+            "en": "Parque Acuatico Agua Caliente"
+          },
+          "coords": [
+            -100.806078,
+            20.463918
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag entspannt in den Thermalbecken dieses weitläufigen Wasserparks und bringen Sie ein eigenes Handtuch mit, da der Verleih begrenzt ist.",
+            "hu": "Zárja a napot a hatalmas vízipark nyugtató termálmedencéiben pihenve, de mindenképpen vigyen magával saját törölközőt, mert a bérlési lehetőség korlátozott.",
+            "ro": "Încheiați ziua relaxându-vă în piscinele termale liniștitoare ale acestui parc acvatic expansiv, asigurându-vă că aveți un prosop propriu, deoarece închirierile sunt rare.",
+            "en": "End your day relaxing in the soothing thermal pools of this expansive water park, making sure to bring your own towel as rentals can be scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendlichen Fahrten führen Sie zu markanten Denkmälern und eleganten Theatern etwas außerhalb des Zentrums. Der Mittag ist den tiefen historischen Wurzeln der Stadt und monumentalen Verkehrsknotenpunkten gewidmet. Der Nachmittag bringt einen Wechsel zu zeitgenössischer Kunst. Der Abend endet mit einer landschaftlich reizvollen Fahrt zu einem entspannenden Wasserpark.",
+        "hu": "A reggeli autózás a központon kívüli kiemelkedő műemlékekhez és elegáns színházakhoz vezet. A délidőt a városközpont mély történelmi gyökereinek és hatalmas körforgalmainak szenteljük. A délután áttérést hoz a kortárs művészetekre és interaktív tudományos kiállításokra. Az este egy festői utazással zárul a pihentető termálvízi parkba.",
+        "ro": "Plimbările de dimineață vă duc la monumente proeminente și teatre elegante puțin în afara centrului. Prânzul este dedicat rădăcinilor istorice profunde din centrul orașului. După-amiaza aduce o schimbare către artele contemporane și expozițiile interactive de știință din oraș. Seara se încheie cu o plimbare pitorească spre un parc acvatic termal relaxant.",
+        "en": "Morning drives take you to prominent monuments and elegant theaters slightly outside the immediate core. Midday is dedicated to deep historical roots in the city center and monumental roundabouts. Afternoon brings a shift to contemporary arts and interactive science exhibits across town. Evening concludes with a scenic drive out to a relaxing thermal water park."
+      }
+    }
+  }
+}

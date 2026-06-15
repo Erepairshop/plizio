@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-corcubion-cities-v2",
+  "anchor": {
+    "name": "Corcubión",
+    "coords": [
+      -9.19818,
+      42.93159
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa da Cultura de Corcubión",
+            "hu": "Casa da Cultura de Corcubión",
+            "ro": "Casa da Cultura de Corcubión",
+            "en": "Casa da Cultura de Corcubión"
+          },
+          "coords": [
+            -9.195703,
+            42.945083
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige Kulturzentrum des galicischen Erbes und prüfen Sie die Anschlagtafel auf abendliche Folkmusikveranstaltungen.",
+            "hu": "Fedezze fel a helyi galíciai örökséget tükröző kulturális központot, és a bejáratnál tájékozódjon az esti népzenei eseményekről.",
+            "ro": "Explorați acest centru cultural vibrant ce reflectă moștenirea galiciană și verificați panoul de la intrare pentru evenimente de muzică folk.",
+            "en": "Explore this vibrant cultural hub reflecting local Galician heritage, and check the entrance board for evening folk music events or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo dos Traba",
+            "hu": "Pazo dos Traba",
+            "ro": "Pazo dos Traba",
+            "en": "Pazo dos Traba"
+          },
+          "coords": [
+            -9.192002,
+            42.942706
+          ],
+          "category": "historical",
+          "arrive_at": "10:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Herrenhauses, aber betrachten Sie die steinernen Wappen am besten von der Seitenstraße.",
+            "hu": "Csodálja meg a történelmi nemesi udvarház építészetét, és figyelje meg a kőből faragott címereket a csendes szomszédos utcáról.",
+            "ro": "Admirați arhitectura impresionantă a acestui conac nobiliar istoric și asigurați-vă că priviți blazoanele de piatră din strada liniștită alăturată.",
+            "en": "Admire the striking architecture of this historic noble manor, but remember to view the intricate stone crests from the quiet adjacent street."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Marcos de Corcubión",
+            "hu": "Igrexa de San Marcos de Corcubión",
+            "ro": "Igrexa de San Marcos de Corcubión",
+            "en": "Igrexa de San Marcos de Corcubión"
+          },
+          "coords": [
+            -9.191457,
+            42.944282
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gotische Seefahrerkirche, um die verehrte Markusstatue zu sehen, und kommen Sie zur Morgenmesse für das beste Licht.",
+            "hu": "Lépjen be a gótikus tengerészeti templomba, ahol Szent Márk szobrát őrzik, és látogasson el a reggeli mise idején a legjobb fényviszonyokért.",
+            "ro": "Pășiți în această biserică maritimă gotică pentru a vedea statuia venerată a Sfântului Marcu și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Step inside this Gothic maritime church to see the venerated statue of Saint Mark, and visit during morning mass for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Marítimo Seno de Corcubión",
+            "hu": "Museo Marítimo Seno de Corcubión",
+            "ro": "Museo Marítimo Seno de Corcubión",
+            "en": "Museo Marítimo Seno de Corcubión"
+          },
+          "coords": [
+            -9.190555,
+            42.93985
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte der Costa da Morte ein und planen Sie zusätzliche Zeit für die faszinierende Schiffswrack-Ausstellung ein.",
+            "hu": "Merüljön el a Costa da Morte tengerészeti történelmében a hatalmas gyűjteményeken keresztül, és szánjon extra időt a hajóroncs-kiállításra.",
+            "ro": "Descoperiți istoria maritimă a Costa da Morte prin colecțiile vaste de artefacte și alocați timp suplimentar pentru expoziția de epave.",
+            "en": "Delve into the rich seafaring history of the Costa da Morte through vast artifact collections, and allocate extra time for the shipwreck exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Quenxe",
+            "hu": "Praia de Quenxe",
+            "ro": "Praia de Quenxe",
+            "en": "Praia de Quenxe"
+          },
+          "coords": [
+            -9.190461,
+            42.938277
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen, geschützten Sandstrand dieser Bucht und packen Sie ein leichtes Picknick ein, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Pihenjen ennek a gyönyörű, védett öbölnek a nyugodt homokján, és hozzon magával egy könnyű pikniket, hogy élvezhesse a tömegmentes légkört.",
+            "ro": "Relaxați-vă pe nisipul adăpostit al acestui frumos golf local și aduceți un picnic ușor pentru a vă bucura de atmosfera liniștită, departe de mulțimi.",
+            "en": "Relax on the calm, sheltered sands of this beautiful local bay, and pack a light picnic to enjoy the tranquil atmosphere away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Quenxe",
+            "hu": "Castro de Quenxe",
+            "ro": "Castro de Quenxe",
+            "en": "Castro de Quenxe"
+          },
+          "coords": [
+            -9.190882,
+            42.932812
+          ],
+          "category": "historical",
+          "arrive_at": "15:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen eisenzeitlichen Ruinen, um prähistorisches Küstenleben zu entdecken, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel a vaskori romokhoz a történelem előtti partvidéki életért, és viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați la aceste ruine din Epoca Fierului pentru o privire în viața preistorică și purtați încălțăminte rezistentă, deoarece traseele sunt accidentate.",
+            "en": "Hike up to these ancient Iron Age ruins for a glimpse into prehistoric coastal life, and wear sturdy shoes as the trails can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im kulturellen Herzen von Corcubión mit lokaler Kunst und majestätischen Herrenhäusern. Mittags schlendern Sie an der Kirche vorbei und entdecken die Seefahrtsgeschichte im Museum. Der Nachmittag wird ruhiger mit einem entspannenden Aufenthalt am geschützten Sandstrand von Quenxe. Gegen Abend bietet eine Wanderung zur alten keltischen Siedlung herrliche Ausblicke auf die Bucht.",
+        "hu": "A nap Corcubión kulturális szívében indul, ahol a helyi művészetet és a fenséges kúriákat fedezheti fel. Délben a plébániatemplom mellett elsétálva a tengerészeti múzeumban merülhet el a történelemben. A délután nyugodtabb tempót hoz a Quenxe strand védett homokján pihenve. Végül, ahogy közeledik az este, a vaskori romokhoz tett túra lenyűgöző kilátást nyújt az öbölre.",
+        "ro": "Ziua începe în inima culturală din Corcubión, explorând arta locală și conacele istorice maiestuoase. La prânz, veți trece pe lângă biserica parohială și veți descoperi istoria maritimă la muzeu. După-amiaza încetinește ritmul cu o oprire relaxantă pe nisipul protejat de la plaja Quenxe. Spre seară, o drumeție la vechea așezare celtică oferă priveliști uimitoare asupra golfului.",
+        "en": "Your day begins in the cultural heart of Corcubión, exploring the local arts scene and majestic historic manors. By midday, you will wander past the iconic parish church and delve into rich maritime history at the local museum. The afternoon slows down with a relaxing stop at the protected sands of Quenxe beach to soak in the sun. Finally, a rewarding hike offers stunning twilight views over the bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Redonda",
+            "hu": "Castro de Redonda",
+            "ro": "Castro de Redonda",
+            "en": "Castro de Redonda"
+          },
+          "coords": [
+            -9.20653,
+            42.920439
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser keltischen Siedlung mit Meerblick und kommen Sie früh, um die grelle Mittagssonne zu meiden.",
+            "hu": "Fedezze fel ennek az ősi kelta településnek a tengerre néző lenyűgöző régészeti maradványait, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Descoperiți rămășițele arheologice ale acestei așezări celtice cu vedere la mare și vizitați devreme pentru a evita soarele puternic de la amiază.",
+            "en": "Discover the fascinating archaeological remains of this ancient Celtic settlement overlooking the sea, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Pedro de Redonda",
+            "hu": "Igrexa de San Pedro de Redonda",
+            "ro": "Igrexa de San Pedro de Redonda",
+            "en": "Igrexa de San Pedro de Redonda"
+          },
+          "coords": [
+            -9.203731,
+            42.921787
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die romanischen Details dieser bescheidenen Dorfkirche und nehmen Sie sich Zeit für das jahrhundertealte Mauerwerk im Innenhof.",
+            "hu": "Csodálja meg ennek a szerény falusi plébániának a román kori részleteit, és szánjon egy percet az évszázados kőművesmunka értékelésére az udvaron.",
+            "ro": "Admirați detaliile romanice ale acestei modeste parohii de sat și luați-vă un moment pentru a aprecia zidăria seculară din curtea liniștită.",
+            "en": "Marvel at the Romanesque details of this modest village parish, and take a moment to appreciate the centuries-old stonework in the quiet courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Quenxe",
+            "hu": "Praia de Quenxe",
+            "ro": "Praia de Quenxe",
+            "en": "Praia de Quenxe"
+          },
+          "coords": [
+            -9.190461,
+            42.938277
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen, geschützten Sandstrand dieser Bucht und packen Sie ein leichtes Picknick ein, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Pihenjen ennek a gyönyörű, védett öbölnek a nyugodt homokján, és hozzon magával egy könnyű pikniket, hogy élvezhesse a tömegmentes légkört.",
+            "ro": "Relaxați-vă pe nisipul adăpostit al acestui frumos golf local și aduceți un picnic ușor pentru a vă bucura de atmosfera liniștită, departe de mulțimi.",
+            "en": "Relax on the calm, sheltered sands of this beautiful local bay, and pack a light picnic to enjoy the tranquil atmosphere away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Marítimo Seno de Corcubión",
+            "hu": "Museo Marítimo Seno de Corcubión",
+            "ro": "Museo Marítimo Seno de Corcubión",
+            "en": "Museo Marítimo Seno de Corcubión"
+          },
+          "coords": [
+            -9.190555,
+            42.93985
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Seefahrtsgeschichte der Costa da Morte ein und planen Sie zusätzliche Zeit für die faszinierende Schiffswrack-Ausstellung ein.",
+            "hu": "Merüljön el a Costa da Morte tengerészeti történelmében a hatalmas gyűjteményeken keresztül, és szánjon extra időt a hajóroncs-kiállításra.",
+            "ro": "Descoperiți istoria maritimă a Costa da Morte prin colecțiile vaste de artefacte și alocați timp suplimentar pentru expoziția de epave.",
+            "en": "Delve into the rich seafaring history of the Costa da Morte through vast artifact collections, and allocate extra time for the shipwreck exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de José Sendón",
+            "hu": "Casa de José Sendón",
+            "ro": "Casa de José Sendón",
+            "en": "Casa de José Sendón"
+          },
+          "coords": [
+            -9.193123,
+            42.943716
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade dieses historisch bedeutsamen Hauses und bringen Sie Ihre Kamera mit, um die kolonialen Details festzuhalten.",
+            "hu": "Tekintse meg ennek a történelmileg jelentős helyi rezidenciának az elegáns homlokzatát, és hozza magával fényképezőgépét a gyarmati vonások megörökítéséhez.",
+            "ro": "Priviți fațada elegantă a acestei reședințe cu importanță istorică și aduceți camera pentru a surprinde detaliile coloniale frumos restaurate.",
+            "en": "View the elegant facade of this historically significant local residence, and bring your camera to capture its beautifully restored colonial features."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cultura de Corcubión",
+            "hu": "Casa da Cultura de Corcubión",
+            "ro": "Casa da Cultura de Corcubión",
+            "en": "Casa da Cultura de Corcubión"
+          },
+          "coords": [
+            -9.195703,
+            42.945083
+          ],
+          "category": "cultural",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige Kulturzentrum des galicischen Erbes und prüfen Sie die Anschlagtafel auf abendliche Folkmusikveranstaltungen.",
+            "hu": "Fedezze fel a helyi galíciai örökséget tükröző kulturális központot, és a bejáratnál tájékozódjon az esti népzenei eseményekről.",
+            "ro": "Explorați acest centru cultural vibrant ce reflectă moștenirea galiciană și verificați panoul de la intrare pentru evenimente de muzică folk.",
+            "en": "Explore this vibrant cultural hub reflecting local Galician heritage, and check the entrance board for evening folk music events or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Estorde",
+            "hu": "Praia de Estorde",
+            "ro": "Praia de Estorde",
+            "en": "Praia de Estorde"
+          },
+          "coords": [
+            -9.21962,
+            42.942918
+          ],
+          "category": "recreational",
+          "arrive_at": "16:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses weiten weißen Sandstrandes und kommen Sie am späten Nachmittag, um den perfekten Sonnenuntergang zu erleben.",
+            "hu": "Ússzon ennek a kiterjedt fehér homokos strandnak a kristálytiszta vizében, és érkezzen késő délután, hogy tökéletes helyet találjon a naplementéhez.",
+            "ro": "Înotați în apele cristaline ale acestei plaje întinse cu nisip alb și ajungeți spre sfârșitul după-amiezii pentru un loc perfect la apus.",
+            "en": "Swim in the crystal-clear waters of this expansive white sand beach, and arrive in the late afternoon to secure a perfect spot for the spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in der frischen Morgenluft zu alten keltischen Wurzeln und ruhigen Kapellen am Rande von Redonda. Mittags erreichen Sie die Bucht für eine Strandpause und tauchen in das nautische Erbe ein. Am Nachmittag offenbaren die historischen Fassaden und Kulturzentren den architektonischen Charme der Stadt. Die Fahrt endet an den weiten weißen Sandstränden von Estorde im Sonnenuntergang.",
+        "hu": "Tekerjen a friss reggeli levegőn a kelta gyökerek és a csendes vidéki kápolnák felé Redonda szélén. Délidőben elérve az öblöt, tartson strandpihenőt és ismerje meg a tengerészeti örökséget. A délután folyamán a történelmi lakóépületek és kulturális központok felfedik a város építészeti báját. Az utazás a tengerparti szellővel ér véget Estorde fehér homokján egy tökéletes naplementéhez.",
+        "ro": "Pedalați în aerul proaspăt al dimineții spre rădăcinile celtice antice și capelele rurale liniștite din Redonda. La prânz, ajungeți în golf pentru o pauză la plajă și explorarea moștenirii maritime. După-amiaza, fațadele istorice și centrele culturale din centru dezvăluie farmecul arhitectural. Plimbarea culminează cu briza de coastă la plaja Estorde pentru un apus perfect.",
+        "en": "Pedal through the crisp morning air to uncover ancient Celtic roots and quiet rural chapels on the outskirts of Redonda. Moving towards the midday sun, you will reach the bay for a quick beach break and a deep dive into Corcubión's seafaring heritage. As the afternoon unfolds, the historic residential facades and cultural centers reveal the town's refined architectural charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 12.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Die blaue Bank",
+            "hu": "A kék pad",
+            "ro": "Banca albastră",
+            "en": "The blue bench"
+          },
+          "coords": [
+            -9.208607,
+            42.917061
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lehnen Sie sich zurück und genießen Sie den atemberaubenden Panoramablick auf den Atlantik, und bringen Sie eine Windjacke für die steife Brise mit.",
+            "hu": "Dőljön hátra, és élvezze az Atlanti-óceánra nyíló lélegzetelállító panorámát erről az ikonikus pontról, de hozzon széldzsekit, mert nagyon szeles.",
+            "ro": "Așezați-vă și absorbiți priveliștile panoramice uluitoare ale Atlanticului din acest loc iconic și aduceți o jachetă de vânt, deoarece este briza puternică.",
+            "en": "Sit back and absorb the breathtaking panoramic views of the Atlantic from this iconic scenic spot, and bring a windbreaker as it gets very breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Redonda",
+            "hu": "Castro de Redonda",
+            "ro": "Castro de Redonda",
+            "en": "Castro de Redonda"
+          },
+          "coords": [
+            -9.20653,
+            42.920439
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser keltischen Siedlung mit Meerblick und kommen Sie früh, um die grelle Mittagssonne zu meiden.",
+            "hu": "Fedezze fel ennek az ősi kelta településnek a tengerre néző lenyűgöző régészeti maradványait, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Descoperiți rămășițele arheologice ale acestei așezări celtice cu vedere la mare și vizitați devreme pentru a evita soarele puternic de la amiază.",
+            "en": "Discover the fascinating archaeological remains of this ancient Celtic settlement overlooking the sea, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Marcos de Corcubión",
+            "hu": "Igrexa de San Marcos de Corcubión",
+            "ro": "Igrexa de San Marcos de Corcubión",
+            "en": "Igrexa de San Marcos de Corcubión"
+          },
+          "coords": [
+            -9.191457,
+            42.944282
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gotische Seefahrerkirche, um die verehrte Markusstatue zu sehen, und kommen Sie zur Morgenmesse für das beste Licht.",
+            "hu": "Lépjen be a gótikus tengerészeti templomba, ahol Szent Márk szobrát őrzik, és látogasson el a reggeli mise idején a legjobb fényviszonyokért.",
+            "ro": "Pășiți în această biserică maritimă gotică pentru a vedea statuia venerată a Sfântului Marcu și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Step inside this Gothic maritime church to see the venerated statue of Saint Mark, and visit during morning mass for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo dos Traba",
+            "hu": "Pazo dos Traba",
+            "ro": "Pazo dos Traba",
+            "en": "Pazo dos Traba"
+          },
+          "coords": [
+            -9.192002,
+            42.942706
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen Herrenhauses, aber betrachten Sie die steinernen Wappen am besten von der Seitenstraße.",
+            "hu": "Csodálja meg a történelmi nemesi udvarház építészetét, és figyelje meg a kőből faragott címereket a csendes szomszédos utcáról.",
+            "ro": "Admirați arhitectura impresionantă a acestui conac nobiliar istoric și asigurați-vă că priviți blazoanele de piatră din strada liniștită alăturată.",
+            "en": "Admire the striking architecture of this historic noble manor, but remember to view the intricate stone crests from the quiet adjacent street."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala de Exposición Municipal",
+            "hu": "Sala de Exposición Municipal",
+            "ro": "Sala de Exposición Municipal",
+            "en": "Sala de Exposición Municipal"
+          },
+          "coords": [
+            -9.193706,
+            42.944942
+          ],
+          "category": "cultural",
+          "arrive_at": "13:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stöbern Sie in den zeitgenössischen Kunstwerken dieser modernen Galerie und fragen Sie den Kurator nach temporären Ausstellungen aufstrebender Künstler.",
+            "hu": "Böngésszen a kortárs helyi műalkotások között ebben a modern galériában, és kérdezze meg a kurátort a feltörekvő művészeket bemutató kiállításokról.",
+            "ro": "Explorați operele de artă contemporană locală din această galerie modernă și întrebați curatorul despre expozițiile temporare ale artiștilor emergenți.",
+            "en": "Browse contemporary local artworks housed in this modern gallery space, and ask the curator about temporary exhibitions featuring emerging artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Estorde",
+            "hu": "Praia de Estorde",
+            "ro": "Praia de Estorde",
+            "en": "Praia de Estorde"
+          },
+          "coords": [
+            -9.21962,
+            42.942918
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses weiten weißen Sandstrandes und kommen Sie am späten Nachmittag, um den perfekten Sonnenuntergang zu erleben.",
+            "hu": "Ússzon ennek a kiterjedt fehér homokos strandnak a kristálytiszta vizében, és érkezzen késő délután, hogy tökéletes helyet találjon a naplementéhez.",
+            "ro": "Înotați în apele cristaline ale acestei plaje întinse cu nisip alb și ajungeți spre sfârșitul după-amiezii pentru un loc perfect la apus.",
+            "en": "Swim in the crystal-clear waters of this expansive white sand beach, and arrive in the late afternoon to secure a perfect spot for the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Castelo",
+            "hu": "Praia do Castelo",
+            "ro": "Praia do Castelo",
+            "en": "Praia do Castelo"
+          },
+          "coords": [
+            -9.169034,
+            42.928239
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang an diesem weniger besuchten Küstenstreifen mit herrlichem Blick und achten Sie auf die verstreuten Felsen.",
+            "hu": "Élvezze a békés sétát ezen a kevésbé látogatott partvidéken, amely lenyűgöző kilátást nyújt, és ügyeljen a lépéseire a szétszórt sziklás részeken.",
+            "ro": "Bucurați-vă de o plimbare senină pe această coastă mai puțin frecventată cu vederi magnifice și fiți atenți la pași pe aflorimentele stâncoase.",
+            "en": "Enjoy a serene stroll along this less-frequented coastal stretch offering magnificent bay views, and watch your step on the scattered rocky outcrops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Motor für epische Atlantikpanoramen und prähistorische Erkundungen an den wilden Klippen. Mittags parken Sie im historischen Kern, um die gotische Kirche und die prächtigen Steingüter zu bewundern. Der Nachmittag lädt zu zeitgenössischer Kultur ein, bevor Sie an der Küste entlang zu einem Sandstrand fahren. Die Tour endet am ruhigen Felsstrand mit einem Abschied von der Sonne.",
+        "hu": "Indítsa be a motort a lenyűgöző atlanti panorámákért és az őskori felfedezésekért a déli sziklákon. Ebédidőben parkoljon le a történelmi központban a gótikus templom és a nagyszerű kőkúriák megcsodálásához. A késő délután kortárs kultúrára hív, mielőtt a part mentén egy érintetlen homokos menedékhez vezetne. Az autós túra az öböl túloldalán ér véget, nyugodt búcsút véve a naptól.",
+        "ro": "Porniți motorul pentru dimineți cu panorame atlantice epice și explorări preistorice pe stâncile sudice. La prânz, parcați în centrul istoric pentru a admira biserica gotică și conacele de piatră grandioase. După-amiaza invită la cultură contemporană înainte de a merge de-a lungul coastei spre un paradis de nisip. Turul se încheie superb peste golf, cu țărmuri stâncoase izolate.",
+        "en": "Start your engine for a morning of epic Atlantic panoramas and prehistoric explorations along the wild southern cliffs. By lunch time, park in the historic core to marvel at the Gothic maritime church and grand stone manors steeped in legend. Mid-afternoon invites a touch of contemporary culture before cruising to a pristine haven. Your driving tour ends beautifully across the bay."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "albania-ksamil-cities-v2",
+  "anchor": {
+    "name": "Ksamil",
+    "coords": [
+      20,
+      39.76667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 1.62,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lori Beach",
+            "hu": "Lori Beach",
+            "ro": "Lori Beach",
+            "en": "Lori Beach"
+          },
+          "coords": [
+            19.994496,
+            39.766247
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den weichen, weißen Sand des Lori Beach, einer idealen Bucht für Familien, und kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Süllyessze lábujjait a Lori Beach puha, fehér homokjába, amely egy ideális öböl családok számára, és érkezzen korán, hogy napágyat foglalhasson.",
+            "ro": "Afundați-vă degetele în nisipul alb și fin de la Lori Beach, un golfuleț curat ideal pentru familii, și ajungeți devreme pentru a prinde un șezlong.",
+            "en": "Sink your toes into the soft white sand of Lori Beach, a pristine cove ideal for families, and arrive early to secure a sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kostenloser öffentlicher Strand",
+            "hu": "Ingyenes strand",
+            "ro": "Plaja publică gratuită",
+            "en": "Free public beach"
+          },
+          "coords": [
+            19.995921,
+            39.765964
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Genießen Sie ein authentischeres und günstigeres Küstenerlebnis am kostenlosen öffentlichen Strand, aber denken Sie daran, Ihren eigenen Schirm mitzubringen.",
+            "hu": "Élvezze a hitelesebb és pénztárcabarátabb tengerparti élményt az ingyenes strandon, de ne felejtsen el saját napernyőt hozni a megfelelő árnyék miatt.",
+            "ro": "Bucurați-vă de o experiență de coastă autentică și prietenoasă cu bugetul la plaja publică, dar nu uitați să vă aduceți propria umbrelă pentru umbră.",
+            "en": "Enjoy a more authentic and budget-friendly coastal experience at the free public beach, but remember to bring your own umbrella for adequate shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Beach",
+            "hu": "Castle Beach",
+            "ro": "Castle Beach",
+            "en": "Castle Beach"
+          },
+          "coords": [
+            19.998297,
+            39.767909
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das kristallklare, türkisfarbene Wasser des Castle Beach, perfekt für ein erfrischendes morgendliches Schwimmen, und bringen Sie Badeschuhe mit.",
+            "hu": "Csodálja meg a Castle Beach kristálytiszta türkizkék vizét, amely tökéletes egy frissítő úszáshoz, és érdemes vízicipőt hozni a sziklásabb részek miatt.",
+            "ro": "Admirați apele turcoaz cristaline de la Castle Beach, perfecte pentru o înotare înviorătoare de dimineață, și luați în considerare aducerea unor încălțări de apă.",
+            "en": "Marvel at the crystal-clear turquoise waters of Castle Beach, perfect for a refreshing mid-morning swim, and consider bringing water shoes for the rocky patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bora Bora-Beach",
+            "hu": "Bora Bora-Beach",
+            "ro": "Bora Bora-Beach",
+            "en": "Bora Bora-Beach"
+          },
+          "coords": [
+            19.998155,
+            39.769447
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Bora Bora-Beach, bekannt für seine Strandbars, und probieren Sie die lokalen Meeresfrüchte in einer nahegelegenen Taverne.",
+            "hu": "Szívja magába a Bora Bora-Beach élénk atmoszféráját, amely híres nyüzsgő bárjairól, és kóstolja meg a helyi tengeri herkentyűket egy közeli tavernában.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Bora Bora-Beach, cunoscută pentru barurile sale vibrante, și gustați fructele de mare la o tavernă din apropiere.",
+            "en": "Soak up the lively atmosphere at Bora Bora-Beach, known for its vibrant beach bars and island views, and try the local seafood at a nearby taverna."
+          }
+        },
+        {
+          "name": {
+            "de": "Dea Center",
+            "hu": "Dea Center",
+            "ro": "Dea Center",
+            "en": "Dea Center"
+          },
+          "coords": [
+            20.000441,
+            39.77187
+          ],
+          "category": "cultural",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale kulturelle Nuancen und Veranstaltungen im Dea Center, einem wichtigen Treffpunkt, und prüfen Sie das schwarze Brett auf Abendaktivitäten.",
+            "hu": "Fedezze fel a helyi kulturális árnyalatokat a Dea Center közösségi terében, és feltétlenül ellenőrizze a faliújságot az esti programok lehetőségei miatt.",
+            "ro": "Descoperiți nuanțele culturale locale și evenimentele la Dea Center, un spațiu important de adunare, și verificați avizierul pentru activitățile de seară.",
+            "en": "Discover local cultural nuances and community events at the Dea Center, an important local gathering space, and check their notice board for evening activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Apollonia",
+            "hu": "Apollonia",
+            "ro": "Apollonia",
+            "en": "Apollonia"
+          },
+          "coords": [
+            19.997558,
+            39.772347
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich bei Apollonia, das eine ruhigere Freizeitumgebung abseits der Massen bietet, und holen Sie sich ein kaltes Getränk am kleinen Kiosk.",
+            "hu": "Pihenjen meg az Apollonia területén, amely csendesebb rekreációs környezetet kínál távol a tömegtől, és vegyen egy hideg italt a bejárat melletti kioszkban.",
+            "ro": "Relaxați-vă la Apollonia, oferind un cadru de recreere mai liniștit departe de mulțimi, și luați o băutură rece de la micul chioșc de lângă intrare.",
+            "en": "Unwind at Apollonia, offering a quieter recreational setting away from the main crowds, and grab a cold drink from the small kiosk near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der südlichen Küste von Ksamil und erkunden Sie unberührte Sandstrände. Mittags genießen Sie die lebhafte Atmosphäre der zentralen Bucht, von Castle Beach bis Bora Bora. Nachmittags entdecken Sie die lokale Kultur im Dea Center und der Gegend um Apollonia. Lassen Sie Ihre Tour am Abend entspannt mit Blick auf das kristallklare Ionische Meer ausklingen.",
+        "hu": "Kezdje a sétát Ksamil gyönyörű déli partvidékén, felfedezve az érintetlen homokos szakaszokat. Délben élvezze a központi öböl élénk hangulatát, a Castle Beachtől a híres Bora Boráig. Délután fedezze fel a helyi kultúrát a Dea Centerben és a közeli Apollonia területén. Zárja a sétát az est közeledtével, gyönyörködve a kristálytiszta Jón-tenger látványában.",
+        "ro": "Începeți plimbarea pe coasta de sud din Ksamil, explorând întinderile de nisip imaculate. La amiază, bucurați-vă de atmosfera vibrantă a golfului central, trecând de la Castle Beach la faimoasa Bora Bora. După-amiaza, descoperiți cultura locală la Dea Center și în zona Apollonia. Încheiați-vă turul seara, reflectând asupra apelor cristaline ale Mării Ionice.",
+        "en": "Start your walk along the beautiful southern coast of Ksamil, exploring pristine sandy stretches. At midday, enjoy the vibrant atmosphere of the central bay, from Castle Beach to the famous Bora Bora. In the afternoon, discover local culture at the Dea Center and the nearby Apollonia area. Conclude your walking tour in the evening, reflecting on the crystal clear Ionian waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 3.11,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Inseln von Ksamil",
+            "hu": "Ksamil szigetei",
+            "ro": "Insulele Ksamil",
+            "en": "Islets of Ksamil"
+          },
+          "coords": [
+            19.994295,
+            39.774595
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmten Inseln von Ksamil, ein absolutes Muss an der Küste, und mieten Sie ein Tretboot oder Kajak, um sie aus der Nähe zu erkunden.",
+            "hu": "Csodálja meg Ksamil ikonikus szigeteit, a partvonalat meghatározó természeti látványosságot, és béreljen egy vízibiciklit vagy kajakot, hogy közelről is megnézze őket.",
+            "ro": "Admirați faimoasele insulițe din Ksamil, un reper natural de neratat, și luați în considerare închirierea unei hidrobiciclete pentru a le explora îndeaproape.",
+            "en": "Admire the iconic Islets of Ksamil, a must-see natural landmark shaping the coastline, and consider renting a small paddleboat or kayak to explore them up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Bora Bora-Beach",
+            "hu": "Bora Bora-Beach",
+            "ro": "Bora Bora-Beach",
+            "en": "Bora Bora-Beach"
+          },
+          "coords": [
+            19.998155,
+            39.769447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Bora Bora-Beach, bekannt für seine Strandbars, und probieren Sie die lokalen Meeresfrüchte in einer nahegelegenen Taverne.",
+            "hu": "Szívja magába a Bora Bora-Beach élénk atmoszféráját, amely híres nyüzsgő bárjairól, és kóstolja meg a helyi tengeri herkentyűket egy közeli tavernában.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Bora Bora-Beach, cunoscută pentru barurile sale vibrante, și gustați fructele de mare la o tavernă din apropiere.",
+            "en": "Soak up the lively atmosphere at Bora Bora-Beach, known for its vibrant beach bars and island views, and try the local seafood at a nearby taverna."
+          }
+        },
+        {
+          "name": {
+            "de": "King beach",
+            "hu": "King beach",
+            "ro": "King beach",
+            "en": "King beach"
+          },
+          "coords": [
+            20.002361,
+            39.772857
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den feinen Kieseln des King Beach, einem elegant gelegenen Ort mit fantastischer Wasserklarheit, und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Pihenjen a King beach finom kavicsain, amely egy elegánsan elhelyezkedő partszakasz fantasztikus víztisztasággal, és ne felejtse el a búvárfelszerelését sem.",
+            "ro": "Relaxați-vă pe pietrișul fin de la King Beach, un loc poziționat elegant cu apă extrem de clară, și nu uitați echipamentul de snorkeling pentru a vedea peștișorii.",
+            "en": "Relax on the fine pebbles of King beach, an elegantly positioned spot with fantastic water clarity, and don't forget your snorkeling gear to spot small fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Coco Beach",
+            "hu": "Coco Beach",
+            "ro": "Coco Beach",
+            "en": "Coco Beach"
+          },
+          "coords": [
+            20.001169,
+            39.775894
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erleben Sie die schicke Atmosphäre von Coco Beach, beliebt bei jungen Reisenden und Paaren, und probieren Sie einen ihrer alkoholfreien Cocktails in der Sonne.",
+            "hu": "Tapasztalja meg a Coco Beach elegáns hangulatát, amely nagyon népszerű a fiatal utazók körében, és kóstoljon meg egy különleges koktélt napozás közben.",
+            "ro": "Experimentați atmosfera șic de la Coco Beach, populară printre tinerii călători, și încercați unul dintre cocktailurile lor fără alcool în timp ce stați la soare.",
+            "en": "Experience the chic vibe of Coco Beach, popular among young travelers and couples, and try one of their signature mocktails while lounging in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Beach",
+            "hu": "Sunset Beach",
+            "ro": "Sunset Beach",
+            "en": "Sunset Beach"
+          },
+          "coords": [
+            20.007152,
+            39.779364
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Sunset Beach, der wohl die atemberaubendsten Abendpanoramen der Stadt bietet, und sichern Sie sich eine Stunde vor Einbruch der Dunkelheit einen Platz.",
+            "hu": "Zárja a napot a Sunset Beach-en, amely a város leglélegzetelállítóbb esti panorámáit kínálja, és foglaljon helyet a teraszon egy órával sötétedés előtt.",
+            "ro": "Încheiați-vă ziua la Sunset Beach, care oferă probabil cele mai uluitoare panorame de seară din oraș, și asigurați-vă un loc pe terasă cu o oră înainte de amurg.",
+            "en": "Conclude your day at Sunset Beach, offering arguably the most breathtaking evening panoramas in town, and secure a spot on the terrace an hour before dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zu den berühmten Inseln von Ksamil und fangen Sie das frühe Licht über dem Wasser ein. Mittags fahren Sie die Küste entlang zu den Stränden Bora Bora und King Beach für ein erfrischendes Bad. Nachmittags geht es in Richtung Coco Beach, wo Sie die Meeresbrise genießen können. Abends kommen Sie genau rechtzeitig am Sunset Beach an, um den Sonnenuntergang zu beobachten.",
+        "hu": "Reggel tekerjen el a híres Ksamil-szigetekhez, hogy megcsodálja a türkizkék vizeken megcsillanó kora reggeli fényeket. Délben guruljon végig a part mentén a Bora Bora és a King Beach strandokhoz egy frissítő fürdőzésre. Délután induljon észak felé a Coco Beach irányába, élvezve a hűsítő tengeri szellőt. Este pedig érkezzen meg a Sunset Beach-re, hogy végignézze a csodás naplementét.",
+        "ro": "Pedalați dimineața către insulele emblematice din Ksamil, surprinzând lumina dimineții peste ape. La amiază, mergeți de-a lungul coastei oprindu-vă la plajele Bora Bora și King Beach pentru o baie răcoritoare. După-amiaza, îndreptați-vă spre nord către Coco Beach, profitând de briza mării. Seara, ajungeți la Sunset Beach exact la timp pentru a privi apusul soarelui.",
+        "en": "Pedal in the morning to the iconic Islets of Ksamil, catching the early light over the turquoise waters. At midday, cruise along the coastline stopping at Bora Bora and King Beach for a refreshing swim. In the afternoon, head north towards Coco Beach, taking advantage of the sea breeze. Arrive at Sunset Beach in the evening right in time to watch the spectacular sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 5.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Militärbunker 1",
+            "hu": "1-es katonai bunker",
+            "ro": "Buncărul militar 1",
+            "en": "Military bunker 1"
+          },
+          "coords": [
+            20.011251,
+            39.747332
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Untersuchen Sie Militärbunker 1, ein strenges Betonrelikt aus Albaniens kommunistischer Vergangenheit, und tragen Sie feste Schuhe, da der Weg uneben ist.",
+            "hu": "Vizsgálja meg az 1-es katonai bunkert, Albánia kommunista múltjának egy zord beton emlékművét, és viseljen masszív sétálócipőt az egyenetlen ösvények miatt.",
+            "ro": "Investigați Buncărul militar 1, o relicvă de beton din trecutul comunist al Albaniei, și purtați pantofi de mers pe jos rezistenți deoarece calea este destul de accidentată.",
+            "en": "Investigate Military bunker 1, a stark concrete relic from Albania's communist past, and wear sturdy walking shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Militärbunker 5",
+            "hu": "5-ös katonai bunker",
+            "ro": "Buncărul militar 5",
+            "en": "Military bunker 5"
+          },
+          "coords": [
+            20.012769,
+            39.747397
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Vergleichen Sie die Struktur von Militärbunker 5 mit anderen an der Küste, um das Ausmaß des Verteidigungsnetzwerks zu verstehen, und passen Sie auf Ihren Kopf auf.",
+            "hu": "Hasonlítsa össze az 5-ös bunker szerkezetét a part menti többivel, hogy megértse a védelmi hálózat kiterjedését, és vigyázzon a fejére, ha benéz.",
+            "ro": "Comparați structura Buncărului militar 5 cu altele de pe coastă pentru a înțelege amploarea rețelei de apărare, și aveți grijă la cap când vă uitați înăuntru.",
+            "en": "Compare the structure of Military bunker 5 to others along the coast to understand the scale of the defense network, and watch your head when peering inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Dea Center",
+            "hu": "Dea Center",
+            "ro": "Dea Center",
+            "en": "Dea Center"
+          },
+          "coords": [
+            20.000441,
+            39.77187
+          ],
+          "category": "cultural",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale kulturelle Nuancen und Veranstaltungen im Dea Center, einem wichtigen Treffpunkt, und prüfen Sie das schwarze Brett auf Abendaktivitäten.",
+            "hu": "Fedezze fel a helyi kulturális árnyalatokat a Dea Center közösségi terében, és feltétlenül ellenőrizze a faliújságot az esti programok miatt.",
+            "ro": "Descoperiți nuanțele culturale locale și evenimentele la Dea Center, un spațiu important de adunare, și verificați avizierul pentru activitățile de seară.",
+            "en": "Discover local cultural nuances and community events at the Dea Center, an important local gathering space, and check their notice board for evening activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Apollonia",
+            "hu": "Apollonia",
+            "ro": "Apollonia",
+            "en": "Apollonia"
+          },
+          "coords": [
+            19.997558,
+            39.772347
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich bei Apollonia, das eine ruhigere Freizeitumgebung abseits der Massen bietet, und holen Sie sich ein kaltes Getränk am kleinen Kiosk.",
+            "hu": "Pihenjen meg az Apollonia területén, amely csendesebb rekreációs környezetet kínál távol a tömegtől, és vegyen egy hideg italt a bejárat melletti kioszkban.",
+            "ro": "Relaxați-vă la Apollonia, oferind un cadru de recreere mai liniștit departe de mulțimi, și luați o băutură rece de la micul chioșc de lângă intrare.",
+            "en": "Unwind at Apollonia, offering a quieter recreational setting away from the main crowds, and grab a cold drink from the small kiosk near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Inseln von Ksamil",
+            "hu": "Ksamil szigetei",
+            "ro": "Insulele Ksamil",
+            "en": "Islets of Ksamil"
+          },
+          "coords": [
+            19.994295,
+            39.774595
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmten Inseln von Ksamil, ein absolutes Muss an der Küste, und mieten Sie ein Tretboot oder Kajak, um sie aus der Nähe zu erkunden.",
+            "hu": "Csodálja meg Ksamil ikonikus szigeteit, a partvonalat meghatározó természeti látványosságot, és béreljen egy vízibiciklit vagy kajakot, hogy közelről is megnézze őket.",
+            "ro": "Admirați faimoasele insulițe din Ksamil, un reper natural de neratat, și luați în considerare închirierea unei hidrobiciclete pentru a le explora îndeaproape.",
+            "en": "Admire the iconic Islets of Ksamil, a must-see natural landmark shaping the coastline, and consider renting a small paddleboat or kayak to explore them up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens nach Süden, um die faszinierende Geschichte Albaniens bei den alten Militärbunkern zu entdecken. Kehren Sie mittags ins Stadtzentrum zurück, um im Dea Center in das lokale Erbe einzutauchen. Nachmittags machen Sie eine kurze Fahrt zur Freizeitanlage Apollonia für entspannte Stunden. Beenden Sie Ihre Tour abends, indem Sie die berühmten Inseln vom Ufer aus bestaunen.",
+        "hu": "Reggel vezessen délre, hogy felfedezze Albánia lenyűgöző történelmét az elhagyatott partmenti katonai bunkerek között. Délben térjen vissza a városközpontba, és ismerkedjen meg a helyi örökséggel a Dea Centerben. Délután tegyen egy rövid utat az Apollonia rekreációs területéhez egy kis pihenésre. Zárja autós túráját este, a híres szigetek partmenti megcsodálásával.",
+        "ro": "Conduceți dimineața spre sud pentru a descoperi istoria fascinantă a Albaniei explorând buncărele militare abandonate. La amiază, întoarceți-vă în centrul orașului pentru a vă cufunda în patrimoniul local la Dea Center. După-amiaza, faceți o scurtă plimbare până la zona de recreere Apollonia. Încheiați turul seara minunându-vă de celebrele insule de pe țărm.",
+        "en": "Drive south in the morning to discover the intriguing history of Albania by exploring the abandoned coastal military bunkers. At midday, return to the town center to immerse yourself in the local heritage at the Dea Center. In the afternoon, take a short drive to the Apollonia recreational area for some relaxed downtime. Finish your driving tour in the evening by marveling at the famous Islets."
+      }
+    }
+  }
+}

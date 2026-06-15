@@ -1,0 +1,428 @@
+{
+  "city_id": "bandung-cities-v2",
+  "anchor": {
+    "name": "Bandung",
+    "coords": [
+      107.6191,
+      -6.9175
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Große Moschee von Bandung",
+            "hu": "Bandungi Nagymecset",
+            "ro": "Marea Moschee din Bandung",
+            "en": "Grand Mosque of Bandung"
+          },
+          "coords": [
+            107.606285,
+            -6.921728
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Grünflächen und die beeindruckenden Zwillingstürme dieser zentralen Moschee, aber kleiden Sie sich respektvoll und meiden Sie die Freitagsgebetszeiten.",
+            "hu": "Csodálja meg ennek a központi mecsetnek a tágas zöldterületeit és ikertornyait, de öltözzön tisztelettudóan, és kerülje a pénteki imaidőket a tömeg miatt.",
+            "ro": "Admirați spațiile verzi vaste și turnurile gemene ale acestei moschei centrale, dar îmbrăcați-vă respectuos și evitați orele de rugăciune de vineri.",
+            "en": "Admire the vast green spaces and impressive twin minarets of this central mosque, but be sure to dress respectfully and avoid Friday prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Imtizaj Moschee",
+            "hu": "Al-Imtizaj Mecset",
+            "ro": "Moscheea Al-Imtizaj",
+            "en": "Al-Imtizaj Mosque"
+          },
+          "coords": [
+            107.607904,
+            -6.919323
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese einzigartige Moschee im chinesischen Stil mit ihren roten und goldenen Details, und achten Sie auf die friedliche Atmosphäre mitten im Stadtzentrum.",
+            "hu": "Fedezze fel ezt az egyedülálló, kínai stílusú mecsetet piros és arany részleteivel, és élvezze a békés hangulatot közvetlenül a városközpontban.",
+            "ro": "Descoperiți această moschee unică în stil chinezesc, cu detalii roșii și aurii, și observați atmosfera liniștită chiar în centrul aglomerat al orașului.",
+            "en": "Discover this unique Chinese-style mosque featuring distinct red and gold architectural details, and enjoy its surprisingly peaceful atmosphere downtown."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Pusat Kebudayaan",
+            "hu": "Galeri Pusat Kebudayaan",
+            "ro": "Galeri Pusat Kebudayaan",
+            "en": "Galeri Pusat Kebudayaan"
+          },
+          "coords": [
+            107.61031,
+            -6.919648
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kunstszene in diesem historischen Kulturzentrum ein, wo wechselnde Ausstellungen oft zeitgenössische sundanesische Künstler in den Fokus rücken.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a történelmi kulturális központban, ahol az időszaki kiállítások gyakran kortárs szundanéz alkotókat mutatnak be.",
+            "ro": "Scufundați-vă în scena artistică locală la acest centru cultural istoric, unde expozițiile temporare evidențiază adesea artiști contemporani sundanezi.",
+            "en": "Dive into the local art scene at this historic cultural center, where rotating exhibitions frequently highlight the work of contemporary Sundanese artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Wolff Schoemaker",
+            "hu": "Wolff Schoemaker Múzeum",
+            "ro": "Muzeul Wolff Schoemaker",
+            "en": "Museum Wolff Schoemaker (Preanger)"
+          },
+          "coords": [
+            107.611743,
+            -6.920957
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den berühmten niederländischen Architekten, der Bandung prägte; verbinden Sie den Besuch am besten mit einem Kaffee im Grand Hotel Preanger.",
+            "hu": "Ismerje meg a híres holland építészt, aki megformálta Bandungot; a látogatást érdemes egy kávéval összekötni a szomszédos Grand Hotel Preangerben.",
+            "ro": "Aflați despre faimosul arhitect olandez care a modelat orașul Bandung; combinați vizita cu o cafea la Grand Hotel Preanger din apropiere.",
+            "en": "Learn about the renowned Dutch architect who profoundly shaped Bandung; pair your visit with a relaxing coffee at the adjacent Grand Hotel Preanger."
+          }
+        },
+        {
+          "name": {
+            "de": "Lautze 2 Moschee",
+            "hu": "Lautze 2 Mecset",
+            "ro": "Moscheea Lautze 2",
+            "en": "Lautze 2 Mosque"
+          },
+          "coords": [
+            107.612274,
+            -6.917954
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, kulturell bedeutsame Moschee, die chinesische und islamische Elemente vereint, und achten Sie auf die leuchtenden, laternenartigen Details.",
+            "hu": "Látogasson el ebbe a kis, de kulturálisan jelentős mecsetbe, amely ötvözi a kínai és iszlám elemeket, és figyelje meg az élénk, lampionra emlékeztető részleteket.",
+            "ro": "Vizitați această moschee mică, dar semnificativă cultural, care combină elemente chinezești și islamice, și acordați atenție detaliilor strălucitoare asemănătoare felinarelor.",
+            "en": "Visit this small but culturally significant mosque that beautifully blends Chinese and Islamic elements, and look out for the vibrant lantern-like details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Mandala Wangsit Siliwangi",
+            "hu": "Mandala Wangsit Siliwangi Múzeum",
+            "ro": "Muzeul Mandala Wangsit Siliwangi",
+            "en": "Museum Mandala Wangsit Siliwangi"
+          },
+          "coords": [
+            107.611093,
+            -6.917311
+          ],
+          "category": "museum",
+          "arrive_at": "14:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie faszinierende militärische Artefakte in diesem historischen Gebäude, aber überprüfen Sie vorab die Öffnungszeiten, da diese oft variieren können.",
+            "hu": "Tekintse meg a lenyűgöző katonai leleteket ebben a történelmi épületben, de érdemes előre ellenőrizni a nyitvatartást, mivel az gyakran és váratlanul változhat.",
+            "ro": "Examinați artefactele militare fascinante în această clădire istorică, dar asigurați-vă că verificați programul înainte, deoarece se poate schimba destul de des.",
+            "en": "Examine fascinating military artifacts housed in this historic building, but be sure to verify the opening hours in advance as they can change unexpectedly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig an der großen Zentralmoschee, bevor wir die chinesisch inspirierte Al-Imtizaj Moschee erkunden. Gegen Mittag tauchen wir in der Galeri Pusat Kebudayaan in die lebhafte sundanesische Kunstszene ein. Am Nachmittag widmen wir uns dem architektonischen Erbe von Wolff Schoemaker und der einzigartigen Lautze 2 Moschee. Der Tag endet mit militärgeschichtlichen Einblicken im Mandala Wangsit Siliwangi Museum.",
+        "hu": "A reggel békésen indul a nagymecsetnél, majd a kínai ihletésű Al-Imtizaj mecset következik. Kora délután a Galeri Pusat Kebudayaan szundanéz művészeti kiállításait csodálhatjuk meg. Délután Wolff Schoemaker építészeti örökségét és a különleges Lautze 2 mecsetet fedezzük fel. A napot a Mandala Wangsit Siliwangi Múzeum hadtörténeti tárlataival zárjuk a városközpontban.",
+        "ro": "Dimineața începe liniștit la marea moschee centrală, urmată de o vizită la moscheea Al-Imtizaj de inspirație chineză. La prânz, ne cufundăm în arta sundaneză la Galeri Pusat Kebudayaan. După-amiaza explorăm moștenirea arhitecturală a lui Wolff Schoemaker și unicitatea moscheii Lautze 2. Ziua se încheie cu istoria militară locală la Muzeul Mandala Wangsit Siliwangi.",
+        "en": "The morning starts peacefully at the grand central mosque before taking in the Chinese-inspired Al-Imtizaj Mosque. Midday is reserved for immersing ourselves in Sundanese art at Galeri Pusat Kebudayaan. The afternoon uncovers the architectural legacy of Wolff Schoemaker alongside the unique Lautze 2 Mosque. The journey concludes with military history at the Mandala Wangsit Siliwangi Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Große Moschee von Bandung",
+            "hu": "Bandungi Nagymecset",
+            "ro": "Marea Moschee din Bandung",
+            "en": "Grand Mosque of Bandung"
+          },
+          "coords": [
+            107.606285,
+            -6.921728
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von den Minaretten dieser ikonischen Moschee und verstauen Sie Ihr Fahrrad sicher, bevor Sie den künstlichen Rasenplatz betreten.",
+            "hu": "Élvezze a panorámát az ikonikus mecset minaretjeiből, és zárja le biztonságosan a kerékpárját, mielőtt rálépne a tágas műfüves térre.",
+            "ro": "Bucurați-vă de vederea panoramică din minaretele acestei moschei iconice și asigurați-vă că parcați bicicleta în siguranță înainte de a intra pe peluză.",
+            "en": "Enjoy the panoramic views from the minarets of this iconic mosque, and be sure to securely park your bike before stepping onto the expansive artificial lawn."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Mandala Wangsit Siliwangi",
+            "hu": "Mandala Wangsit Siliwangi Múzeum",
+            "ro": "Muzeul Mandala Wangsit Siliwangi",
+            "en": "Museum Mandala Wangsit Siliwangi"
+          },
+          "coords": [
+            107.611093,
+            -6.917311
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Waffen und Dokumente aus dem indonesischen Unabhängigkeitskrieg; der schattige Innenhof eignet sich gut für eine kurze Pause vom Radfahren.",
+            "hu": "Fedezze fel az indonéz függetlenségi háború fegyvereit és dokumentumait; az árnyékos belső udvar tökéletes egy rövid pihenőre a kerékpározás után.",
+            "ro": "Descoperiți armele și documentele din războiul de independență indonezian; curtea umbrită este perfectă pentru o scurtă pauză de la pedalat.",
+            "en": "Discover the weapons and documents from the Indonesian war of independence; the shaded courtyard provides a perfect spot to rest after cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kota Bandung",
+            "hu": "Bandung Várostörténeti Múzeum",
+            "ro": "Muzeul Orașului Bandung",
+            "en": "Museum Kota Bandung"
+          },
+          "coords": [
+            107.609572,
+            -6.909972
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Diese moderne Ausstellung beleuchtet die Stadtgeschichte hervorragend; nutzen Sie die interaktiven Displays, um die Entwicklung von Bandung zu verstehen.",
+            "hu": "Ez a modern kiállítás kiválóan bemutatja a város történetét; használja az interaktív kijelzőket, hogy megértse Bandung dinamikus fejlődését.",
+            "ro": "Această expoziție modernă ilustrează excelent istoria orașului; folosiți ecranele interactive pentru a înțelege pe deplin dezvoltarea dinamică a Bandungului.",
+            "en": "This modern exhibition excellently highlights the city's history; take advantage of the interactive displays to fully understand Bandung's dynamic development."
+          }
+        },
+        {
+          "name": {
+            "de": "Indonesisches Postmuseum",
+            "hu": "Indonéz Postamúzeum",
+            "ro": "Muzeul Poștal Indonezian",
+            "en": "Indonesia Postal Museum"
+          },
+          "coords": [
+            107.619801,
+            -6.902092
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Sammlung historischer Briefmarken aus aller Welt; der Eintritt ist oft frei, aber eine kleine Spende wird stets geschätzt.",
+            "hu": "Csodálja meg a világ minden tájáról származó történelmi bélyegek hatalmas gyűjteményét; a belépés gyakran ingyenes, de egy kisebb adományt mindig szívesen fogadnak.",
+            "ro": "Admirați vasta colecție de timbre istorice din întreaga lume; intrarea este adesea gratuită, dar o mică donație este întotdeauna apreciată.",
+            "en": "Admire the vast collection of historical stamps from around the globe; entry is often free, but a small donation to maintain the exhibits is always appreciated."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Geologi",
+            "hu": "Geológiai Múzeum",
+            "ro": "Muzeul Geologic",
+            "en": "Museum Geologi"
+          },
+          "coords": [
+            107.621448,
+            -6.90052
+          ],
+          "category": "museum",
+          "arrive_at": "15:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Staunen Sie über die Dinosaurierskelette und geologischen Funde; kommen Sie am besten nachmittags, wenn die Schulklassen das Gebäude bereits verlassen haben.",
+            "hu": "Ámuljon el a dinoszaurusz csontvázakon és geológiai leleteken; a legérdemesebb délután érkezni, amikor az iskolai csoportok már elhagyták az épületet.",
+            "ro": "Minunați-vă de scheletele de dinozauri și descoperirile geologice; cel mai bine este să vizitați după-amiaza, când grupurile școlare au părăsit deja clădirea.",
+            "en": "Marvel at the impressive dinosaur skeletons and geological finds; it is best to visit in the late afternoon when the large school groups have already left."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten mit den Minaretten der Großen Moschee und radeln dann entspannt zum Militärmuseum. Gegen Mittag erkunden wir die moderne Präsentation im Museum Kota Bandung. Nach einer erfrischenden Radtour in den nördlichen Teil der Stadt erwartet uns am Nachmittag das faszinierende Postmuseum. Den krönenden Abschluss bilden die Dinosaurierfossilien und Meteoriten im beliebten Geologischen Museum.",
+        "hu": "A Nagymecset minaretjeivel kezdünk, majd a Hadtörténeti Múzeumhoz tekerünk. Kora délután a Museum Kota Bandung modern, interaktív várostörténeti kiállítását fedezzük fel. Egy frissítő kerékpározás után észak felé az Indonéz Postamúzeum lenyűgöző bélyeggyűjteménye vár ránk. A napot a Geológiai Múzeum dinoszaurusz fosszíliáival és ritka meteoritjaival zárjuk.",
+        "ro": "Începem cu minaretele Marii Moschei, apoi pedalăm spre muzeul militar. La prânz, explorăm prezentarea modernă a istoriei locale la Muzeul Kota Bandung. După o cursă revigorantă cu bicicleta spre partea de nord a orașului, ne așteaptă fascinantul Muzeu Poștal. Ziua se încheie cu fosilele de dinozauri și meteoriții rari din popularul Muzeu Geologic.",
+        "en": "We start at the majestic minarets of the Grand Mosque before cycling over to the military museum. Midday is spent exploring the modern city history exhibits at Museum Kota Bandung. Following a refreshing ride to the northern part of the city, the fascinating Postal Museum awaits in the afternoon. The tour finishes perfectly among the dinosaur fossils at the Geological Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 15.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Sri Baduga",
+            "hu": "Sri Baduga Múzeum",
+            "ro": "Muzeul Sri Baduga",
+            "en": "Museum Sri Baduga"
+          },
+          "coords": [
+            107.603573,
+            -6.937742
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die faszinierende Kultur und Geschichte Westjavas kennenzulernen, und planen Sie ausreichend Zeit für die traditionellen javanischen Kostüme ein.",
+            "hu": "Kezdje itt a nyugat-jávai kultúra és történelem megismerését, és szánjon elegendő időt a lenyűgöző hagyományos jávai viseletek alapos megtekintésére.",
+            "ro": "Începeți aici pentru a afla despre cultura fascinantă a Java de Vest și alocați suficient timp pentru a admira frumoasele costume tradiționale javaneze.",
+            "en": "Start here to learn about the fascinating culture and history of West Java, making sure to allocate enough time to admire the traditional Javanese costumes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kebudayaan Tionghoa",
+            "hu": "Kínai Kulturális Múzeum",
+            "ro": "Muzeul Culturii Chineze",
+            "en": "Museum Kebudayaan Tionghoa"
+          },
+          "coords": [
+            107.577381,
+            -6.921709
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über den chinesischen Einfluss auf die indonesische Kultur; der Ort ist klein, bietet aber detaillierte Tafeln, die man in Ruhe lesen sollte.",
+            "hu": "Tudjon meg mindent a kínai befolyásról az indonéz kultúrában; a hely bár kicsi, részletes információs táblákkal rendelkezik, amelyeket érdemes elolvasni.",
+            "ro": "Aflați totul despre influența chineză asupra culturii indoneziene; locul este mic, dar oferă panouri detaliate care merită citite cu atenție pe îndelete.",
+            "en": "Learn all about the deep Chinese influence on Indonesian culture; the venue is small but offers highly detailed informational panels that are worth reading closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Bandung",
+            "hu": "Bandungi Nagymecset",
+            "ro": "Marea Moschee din Bandung",
+            "en": "Grand Mosque of Bandung"
+          },
+          "coords": [
+            107.606285,
+            -6.921728
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das architektonische Meisterwerk im Zentrum; nutzen Sie die Tiefgarage unter dem Platz, um Parkprobleme im dichten Verkehr zu vermeiden.",
+            "hu": "Tapasztalja meg a központi építészeti remekművet; a sűrű forgalom és a parkolási gondok elkerülése érdekében használja a tér alatti tágas mélygarázst.",
+            "ro": "Experimentați capodopera arhitecturală din centru; folosiți parcarea subterană de sub piață pentru a evita problemele de parcare în traficul aglomerat.",
+            "en": "Experience this architectural masterpiece right in the center; be sure to use the underground parking beneath the square to avoid traffic and parking hassles."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Geologi",
+            "hu": "Geológiai Múzeum",
+            "ro": "Muzeul Geologic",
+            "en": "Museum Geologi"
+          },
+          "coords": [
+            107.621448,
+            -6.90052
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem ausgewiesenen Gelände und tauchen Sie ein in die Erdgeschichte; besonders die Meteoritensammlung im ersten Stock ist einen Besuch wert.",
+            "hu": "Parkoljon a kijelölt területen, és merüljön el a Föld történetében; különösen az első emeleten található meteoritgyűjteményt érdemes alaposan szemügyre venni.",
+            "ro": "Parcați în zona desemnată și cufundați-vă în istoria pământului; colecția de meteoriți de la primul etaj merită cu siguranță o vizită detaliată.",
+            "en": "Park in the designated lot and immerse yourself in the Earth's history; the extensive meteorite collection on the first floor is particularly worth a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "NuArt Sculpture Park",
+            "hu": "NuArt Szoborpark",
+            "ro": "Parcul de Sculptură NuArt",
+            "en": "NuArt Sculpture Park"
+          },
+          "coords": [
+            107.572627,
+            -6.877182
+          ],
+          "category": "museum",
+          "arrive_at": "15:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen Kunstpark am späten Nachmittag, wenn das Licht sanft auf die massiven, ausdrucksstarken Kupferskulpturen fällt.",
+            "hu": "Sétáljon végig ezen a hatalmas művészeti parkon késő délután, amikor a lemenő nap fénye lágyan megvilágítja a masszív, kifejező rézszobrokat a fák között.",
+            "ro": "Plimbați-vă prin acest vast parc de artă la sfârșitul după-amiezii, când lumina cade blând pe sculpturile masive și expresive realizate din cupru.",
+            "en": "Stroll through this expansive art park in the late afternoon, when the fading sunlight casts a soft, dramatic glow on the massive, expressive copper sculptures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrt beginnt im Süden im Museum Sri Baduga mit tiefen Einblicken in die javanische Kultur, bevor wir die chinesische Geschichte im Westen erkunden. Mittags fahren wir in das lebhafte Zentrum, um die Erhabenheit der Großen Moschee von Bandung auf uns wirken zu lassen. Am Nachmittag widmen wir uns den geologischen Wundern im Museum Geologi. Die Tour endet entspannt im malerischen NuArt Sculpture Park fernab des Trubels.",
+        "hu": "Autós túránkat délen, a Sri Baduga Múzeumban kezdjük, majd a kínai történelem nyugati emlékeit kutatjuk fel. Délben a nyüzsgő központba hajtunk, hogy átéljük a bandungi Nagymecset lenyűgöző monumentalitását. A délután folyamán a Föld kialakulásának csodáival ismerkedünk meg a népszerű Geológiai Múzeumban. A napot a csendes, különleges hangulatú NuArt Szoborparkban zárjuk, távol a zajtól.",
+        "ro": "Plimbarea noastră începe în sud la Muzeul Sri Baduga, cu o perspectivă asupra culturii javaneze, înainte de a explora istoria chineză. La prânz, conducem în centrul plin de viață pentru a absorbi grandoarea Marii Moschei din Bandung. După-amiaza este dedicată minunilor geologice de la Muzeul Geologic, situat puțin mai la nord. Turul se încheie relaxant în pitorescul NuArt Sculpture Park, departe de agitație.",
+        "en": "Our drive begins in the south at the Museum Sri Baduga for Javanese cultural insights before exploring the Chinese history exhibits out west. At midday, we navigate to the vibrant center to absorb the true grandeur of the Grand Mosque of Bandung. The afternoon is dedicated to discovering the natural wonders housed at the Geological Museum. The tour smoothly concludes in the picturesque NuArt Sculpture Park, away from the hustle."
+      }
+    }
+  }
+}

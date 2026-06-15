@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-alzira-cities-v2",
+  "anchor": {
+    "name": "Alzira",
+    "coords": [
+      -0.435,
+      39.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Kiosk auf dem Hauptplatz",
+            "hu": "A Főtér Kioszkja",
+            "ro": "Chioșcul din Piața Centrală",
+            "en": "Main Square Kiosk"
+          },
+          "coords": [
+            -0.436765,
+            39.150695
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit der Bewunderung dieses charmanten Kiosks, ein perfekter Ort für einen frühen Kaffee und die authentische lokale Atmosphäre.",
+            "hu": "Indítsa a reggelt ennek a bájos főtéri kioszknak a megcsodálásával, amely tökéletes hely egy korai kávéhoz és a helyi atmoszféra befogadásához Alzirában.",
+            "ro": "Începeți dimineața admirând acest chioșc fermecător din piața principală, un loc perfect pentru a savura o cafea devreme și a simți atmosfera locală.",
+            "en": "Start your morning admiring this charming main square kiosk, a perfect spot to grab an early coffee and soak in the authentic local atmosphere of Alzira."
+          }
+        },
+        {
+          "name": {
+            "de": "Casalicis der Brücke Sant Bernat",
+            "hu": "Sant Bernat-híd Casalicis",
+            "ro": "Casalicis de pe Podul Sant Bernat",
+            "en": "Casalicis of Sant Bernat Bridge"
+          },
+          "coords": [
+            -0.437902,
+            39.151061
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die gotischen Schreine der Schutzheiligen der Stadt auf dieser Brücke; besuchen Sie sie früh, um dem nahen Verkehr zu entgehen.",
+            "hu": "Csodálja meg a város védőszentjeinek szentelt gótikus szentélyeket ezen a történelmi hídon; érkezzen korán, hogy elkerülje a közeli forgalmat.",
+            "ro": "Minunați-vă de altarele gotice dedicate sfinților patroni ai orașului; vizitați-le devreme dimineața pentru a evita aglomerația și traficul din zonă.",
+            "en": "Marvel at the gothic shrines dedicated to the city's patron saints on this historic bridge structure; visit early to avoid the bustling traffic nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Eingang zum alten Judenviertel",
+            "hu": "Az egykori zsidónegyed bejárata",
+            "ro": "Intrarea în Vechiul Cartier Evreiesc",
+            "en": "Entrance to the Old Jewish Quarter"
+          },
+          "coords": [
+            -0.440619,
+            39.151192
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Treten Sie durch dieses alte Portal in das ehemalige Judenviertel ein und nehmen Sie sich Zeit, die erhaltenen architektonischen Details zu betrachten.",
+            "hu": "Lépjen át ezen az ősi portálon, hogy elképzelje a középkori zsidónegyedet, és szánjon egy percet a fennmaradt kőépítészeti részletek megfigyelésére.",
+            "ro": "Pășiți prin acest portal antic pentru a vă imagina vechiul cartier evreiesc, observând cu atenție detaliile arhitecturale care au supraviețuit în piatră.",
+            "en": "Step through this ancient portal to imagine medieval Alzira's Jewish quarter, taking a moment to notice the surviving architectural details in the stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von Casassús",
+            "hu": "Casassús Palota",
+            "ro": "Palatul Casassús",
+            "en": "Palace of Casassús"
+          },
+          "coords": [
+            -0.440584,
+            39.152402
+          ],
+          "category": "castle",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses Adelspalastes im Zentrum und fotografieren Sie unbedingt die aufwendigen Wappen direkt über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a központi nemesi palotának a lenyűgöző homlokzatát, és mindenképpen fotózza le a bejárat felett található kidolgozott címereket.",
+            "ro": "Admirați fațada impresionantă a acestui palat nobiliar central, asigurându-vă că fotografiați blazoanele elaborate situate chiar deasupra intrării.",
+            "en": "Admire the striking facade of this noble palace located in the center, making sure to photograph the elaborate coats of arms directly above the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Alzira",
+            "hu": "Alzira Városi Múzeuma",
+            "ro": "Muzeul Municipal din Alzira",
+            "en": "Municipal Museum of Alzira"
+          },
+          "coords": [
+            -0.441911,
+            39.152249
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie hier die reichen archäologischen Exponate von Alzira; beginnen Sie im Erdgeschoss, um dem faszinierenden chronologischen Pfad zu folgen.",
+            "hu": "Fedezze fel Alzira gazdag régészeti és történelmi kiállításait, a földszinten kezdve, hogy logikusan követhesse a lenyűgöző kronológiai útvonalat.",
+            "ro": "Explorați bogatele exponate arheologice și istorice ale orașului, începând de la parter pentru a urmări logic traseul cronologic fascinant de aici.",
+            "en": "Explore the rich archaeological and historical exhibits of Alzira here, starting on the ground floor to logically follow the fascinating chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Fallas-Museum von Alzira",
+            "hu": "Alzira Fallas Múzeuma",
+            "ro": "Muzeul Fallas din Alzira",
+            "en": "Fallas Museum of Alzira"
+          },
+          "coords": [
+            -0.442873,
+            39.152478
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die farbenfrohe Tradition der Fallas in diesem Museum; fragen Sie das Personal nach dem komplexen Entstehungsprozess der riesigen Figuren.",
+            "hu": "Tapasztalja meg a Las Fallas színes hagyományát egész évben ebben a múzeumban; kérdezze a személyzetet az óriási figurák bonyolult készítési folyamatáról.",
+            "ro": "Experimentați tradiția plină de culoare Las Fallas în acest muzeu; întrebați personalul despre procesul complex de creare a figurinelor uriașe.",
+            "en": "Experience the colorful tradition of Las Fallas year-round in this museum; ask the friendly staff about the complex creation process of the giant figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Saudi-Arabien-Park",
+            "hu": "Szaúd-Arábia Park",
+            "ro": "Parcul Arabia Saudită",
+            "en": "Saudi Arabia Park"
+          },
+          "coords": [
+            -0.443982,
+            39.15246
+          ],
+          "category": "park",
+          "arrive_at": "17:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im großzügigen Schatten alter Bäume in diesem friedlichen Park, ein perfekter Ort, um sich nach einem langen Tag auszuruhen.",
+            "hu": "Pihenjen meg a hatalmas fák árnyékában ebben a békés parkban, amely tökéletes hely a lábak pihentetésére egy egész napos városi séta után.",
+            "ro": "Relaxați-vă la umbra generoasă a copacilor bătrâni din acest parc liniștit, un loc perfect pentru a vă odihni picioarele după o zi de plimbare urbană.",
+            "en": "Unwind under the generous shade of mature trees in this peaceful park, a perfect spot to rest your feet and reflect after a full day of urban walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am lebhaften Plaça Major, bevor Sie die historischen Casalicis-Schreine und das alte Judenviertel erkunden.\n\nMittag: Entdecken Sie den großen Palau de Casassús und die Geschichte im Stadtmuseum.\n\nNachmittag: Tauchen Sie im speziellen Museum in die pulsierende Welt des berühmten Falles-Festivals ein.\n\nAbend: Beenden Sie den Tag mit einem Spaziergang im Saudi-Arabien-Park.",
+        "hu": "Reggel: Kezdje a napot a nyüzsgő Plaça Majoron, mielőtt felfedezné a történelmi Casalicis szentélyeket és a zsidónegyedet.\n\nDélben: Fedezze fel a fenséges Casassús Palotát és a helyi történelmet a Városi Múzeumban.\n\nDélután: Merüljön el a híres Falles fesztivál vibráló világában a dedikált múzeumban.\n\nEste: Zárja a napot egy pihentető sétával a békés Szaúd-Arábia Park árnyékos fái alatt.",
+        "ro": "Dimineața: Începeți ziua în animata Plaça Major înainte de a explora altarele istorice Casalicis și vechiul Cartier Evreiesc.\n\nPrânz: Descoperiți grandiosul Palau de Casassús și istoria locală la Muzeul Municipal.\n\nDupă-amiaza: Pătrundeți în lumea vibrantă a faimosului festival Falles la muzeul dedicat.\n\nSeara: Încheiați cu o plimbare relaxantă și liniștită prin frumosul Parc Arabia Saudită.",
+        "en": "Morning: Start your day at the lively Plaça Major before exploring the historic Casalicis shrines and the Jewish Quarter.\n\nMidday: Discover the grand Palau de Casassús and step into local history at the Municipal Museum.\n\nAfternoon: Dive into the vibrant world of the famous Falles festival at the dedicated museum.\n\nEvening: Conclude with a relaxing stroll through the Saudi Arabia Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreisverkehr der Schutzheiligen",
+            "hu": "Védőszentek Körforgalma",
+            "ro": "Sensul Giratoriu al Sfinților Patroni",
+            "en": "Patron Saints Roundabout"
+          },
+          "coords": [
+            -0.439821,
+            39.15671
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Umrunden Sie diesen historischen Kreisverkehr mit lokalen Figuren; behalten Sie beim Radfahren auf dieser belebten Kreuzung den Verkehr im Auge.",
+            "hu": "Kerülje meg ezt a helyi alakokat bemutató történelmi körforgalmat; kerékpározás közben nagyon figyeljen a környező forgalomra ezen a forgalmas csomóponton.",
+            "ro": "Ocoliți acest sens giratoriu istoric care prezintă figuri locale; fiți foarte atenți la traficul din jur în timp ce pedalați prin această intersecție.",
+            "en": "Circle this major historical roundabout showcasing local figures; keep a close eye on the surrounding traffic while cycling around this busy intersection."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum von Alzira",
+            "hu": "Alzira Városi Múzeuma",
+            "ro": "Muzeul Municipal din Alzira",
+            "en": "Municipal Museum of Alzira"
+          },
+          "coords": [
+            -0.441911,
+            39.152249
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen sicher ab und tauchen Sie in die Vergangenheit Alziras ein, wobei Sie sich auf die maurischen Artefakte konzentrieren sollten.",
+            "hu": "Zárja le kerékpárját biztonságosan kint, és merüljön el Alzira múltjában, különös figyelmet fordítva a lenyűgöző mór leletekre a kiállításon.",
+            "ro": "Asigurați-vă bicicleta afară și pătrundeți în trecutul orașului Alzira, concentrându-vă în special asupra artefactelor maure impresionante expuse.",
+            "en": "Secure your bike safely outside and dive straight into Alzira's past, focusing particularly on the impressive Moorish artifacts permanently on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für Trommel und Pauke",
+            "hu": "Dob és Nagydob Emlékmű",
+            "ro": "Monumentul Tobelor",
+            "en": "Drum and Bass Drum Monument"
+          },
+          "coords": [
+            -0.446018,
+            39.153135
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese markante Hommage an die lokale Ostertrommeltradition an, ein hervorragender und schneller Fotostopp auf Ihrer Radtour.",
+            "hu": "Tekintse meg ezt a helyi húsvéti dobolási hagyomány fémes emlékművét, amely egy kiváló és gyors fotómegálló a városon átívelő kerékpáros útvonalon.",
+            "ro": "Vedeți acest tribut metalic dedicat tradiției locale a tobelor de Paște, o oprire excelentă și rapidă pentru fotografii pe traseul dumneavoastră.",
+            "en": "See this striking metallic tribute to the local Easter drumming tradition, an excellent and quick photo stop on your cycling route through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Theater von Alzira",
+            "hu": "Alzira Nagy Színháza",
+            "ro": "Marele Teatru din Alzira",
+            "en": "Grand Theater of Alzira"
+          },
+          "coords": [
+            -0.439036,
+            39.148605
+          ],
+          "category": "cultural",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das majestätische Äußere dieses kulturellen Zentrums; prüfen Sie den Spielplan im Voraus, wenn Sie eine Abendvorstellung besuchen möchten.",
+            "hu": "Csodálja meg ennek a nagyszerű kulturális központnak a fenséges külsejét; ellenőrizze előre a műsort, ha szeretne elcsípni egy esti előadást.",
+            "ro": "Apreciați exteriorul majestuos al acestui mare centru cultural; verificați programul în avans online dacă doriți să prindeți un spectacol de seară aici.",
+            "en": "Appreciate the majestic exterior of this grand cultural hub; check the schedule in advance online if you want to catch an entertaining evening show here."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Menschwerdung",
+            "hu": "Megtestesülés Temploma",
+            "ro": "Biserica Întrupării",
+            "en": "Church of the Incarnation"
+          },
+          "coords": [
+            -0.439317,
+            39.146715
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie leise dieses friedliche religiöse Gebäude, um die klassischen Linien zu bewundern; denken Sie daran, Ihren Fahrradhelm vorher abzunehmen.",
+            "hu": "Lépjen be csendben ebbe a békés templomba, hogy megcsodálja klasszikus vonalait, és ne felejtse el levenni a kerékpáros sisakot a küszöb átlépése előtt.",
+            "ro": "Pășiți în liniște în această clădire religioasă pașnică pentru a-i admira liniile clasice, amintindu-vă să vă scoateți casca de ciclism la intrare.",
+            "en": "Step quietly inside this peaceful religious building to admire its classic lines, remembering to take off your cycling helmet before crossing the threshold."
+          }
+        },
+        {
+          "name": {
+            "de": "Fus-Mühle",
+            "hu": "Fus Malom",
+            "ro": "Moara Fus",
+            "en": "Fus Mill"
+          },
+          "coords": [
+            -0.443659,
+            39.143514
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende historische Mühle am alten Wasserkanal, ein malerischer und ruhiger Ort, um Ihre aktive Radtour glücklich zu beenden.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi malmot a régi vízcsatorna mentén, amely festői és csendes helyszínt biztosít az aktív kerékpártúra lezárásához.",
+            "ro": "Descoperiți această moară istorică fascinantă de-a lungul vechiului canal, oferind un loc pitoresc și liniștit pentru a încheia turul dumneavoastră.",
+            "en": "Discover this fascinating historical mill along the old water channel, providing a picturesque and quiet spot to happily conclude your active biking tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zum Kreisverkehr der Schutzheiligen, bevor Sie für etwas Kultur zum Stadtmuseum fahren.\n\nMittag: Sehen Sie sich das Trommeldenkmal auf zwei Rädern an und fahren Sie zum beeindruckenden Großtheater.\n\nNachmittag: Besuchen Sie die historische Kirche der Menschwerdung und bewundern Sie ihre Architektur.\n\nAbend: Beenden Sie Ihre Fahrt an der alten Mühle Molí de Fus bei Dämmerung.",
+        "hu": "Reggel: Tekerjen el a Védőszentek Körforgalmához, mielőtt a Városi Múzeumba látogatna egy kis helyi kultúráért.\n\nDélben: Nézze meg a Dob Emlékművet két keréken, majd biztonságosan guruljon a Nagy Színházhoz.\n\nDélután: Látogasson el a történelmi Megtestesülés Templomába, megcsodálva annak építészetét.\n\nEste: Fejezze be az utat a régi Fus Malomnál, amely tökéletes alkonyati fotózáshoz.",
+        "ro": "Dimineața: Bicicliți până la Sensul Giratoriu al Sfinților Patroni înainte de a pedala spre Muzeul Municipal.\n\nPrânz: Vedeți Monumentul Tobelor pe două roți, apoi mergeți spre impresionantul Mare Teatru.\n\nDupă-amiaza: Vizitați biserica istorică a Întrupării, admirând arhitectura sa clasică.\n\nSeara: Încheiați cursa la vechea moară Molí de Fus, perfectă pentru fotografia de la amurg.",
+        "en": "Morning: Cycle to the grand Patron Saints Roundabout before pedaling to the Municipal Museum for a dose of local culture.\n\nMidday: Check out the Drum Monument on two wheels, then ride safely to the impressive Grand Theater.\n\nAfternoon: Visit the historic Church of the Incarnation, admiring its architecture.\n\nEvening: End your ride at the old Molí de Fus, perfect for twilight photography."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Schwimmbad",
+            "hu": "Városi Uszoda",
+            "ro": "Piscina Municipală",
+            "en": "Municipal Pool"
+          },
+          "coords": [
+            -0.44232,
+            39.192768
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Freizeiteinrichtungen hier für einen aktiven Tag; kommen Sie früh, um sich den besten Parkplatz in der Nähe des Haupteingangs zu sichern.",
+            "hu": "Élvezze az itteni rekreációs létesítményeket az aktív nap kezdéséhez; érkezzen korán, hogy könnyedén biztosítsa a legjobb parkolóhelyet a bejáratnál.",
+            "ro": "Bucurați-vă de facilitățile de agrement de aici; ajungeți devreme pentru a vă asigura cu ușurință cel mai bun loc de parcare aproape de intrarea principală.",
+            "en": "Enjoy the recreational facilities here to start your active day; arrive early to easily secure the best parking spot directly near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreisverkehr der Schutzheiligen",
+            "hu": "Védőszentek Körforgalma",
+            "ro": "Sensul Giratoriu al Sfinților Patroni",
+            "en": "Patron Saints Roundabout"
+          },
+          "coords": [
+            -0.439821,
+            39.15671
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Befahren Sie diesen monumentalen Kreisverkehr vorsichtig, da er ein wichtiger Verkehrsknotenpunkt ist, der die verehrten Heiligen der Stadt ehrt.",
+            "hu": "Nagyon óvatosan navigáljon ezen a monumentális körforgalomon, mivel ez egy nagy forgalmi csomópont, amely az egész város tisztelt védőszentjeit tiszteli.",
+            "ro": "Navigați cu mare atenție prin acest sens giratoriu monumental, deoarece este un nod de trafic major care onorează sfinții și protectorii orașului.",
+            "en": "Navigate this monumental roundabout very carefully, as it functions as a major traffic hub honoring the revered protectors and saints of the entire city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fallas-Museum von Alzira",
+            "hu": "Alzira Fallas Múzeuma",
+            "ro": "Muzeul Fallas din Alzira",
+            "en": "Fallas Museum of Alzira"
+          },
+          "coords": [
+            -0.442873,
+            39.152478
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie die nahe gelegenen öffentlichen Parkplätze, um dieses lebendige Museum mit der unglaublichen Kunstfertigkeit der Fallas-Figuren zu erkunden.",
+            "hu": "Használja a kényelmes közeli nyilvános parkolót, hogy felfedezze ezt a nyüzsgő múzeumot, amely bemutatja az óriási Fallas figurák hihetetlen művészetét.",
+            "ro": "Folosiți parcarea publică din apropiere pentru a explora acest muzeu vibrant care prezintă măiestria incredibilă și scara figurinelor uriașe Fallas.",
+            "en": "Use the convenient nearby public parking to properly explore this vibrant museum showcasing the incredible artistry and scale of the giant Fallas figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Kiosk auf dem Hauptplatz",
+            "hu": "A Főtér Kioszkja",
+            "ro": "Chioșcul din Piața Centrală",
+            "en": "Main Square Kiosk"
+          },
+          "coords": [
+            -0.436765,
+            39.150695
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause im Herzen der Stadt, um diesen ikonischen Kiosk zu sehen, ein sehr beliebter lokaler Treffpunkt, umgeben von belebten Cafés.",
+            "hu": "Tartson egy rövid szünetet a város szívében, hogy megnézze ezt az ikonikus kioszkot, amely egy nagyon népszerű helyi találkozóhely nyüzsgő kávézókkal.",
+            "ro": "Faceți o scurtă pauză în inima orașului pentru a vedea acest chioșc emblematic, un punct de întâlnire local foarte popular, înconjurat de cafenele.",
+            "en": "Take a brief scheduled break right in the heart of the city to see this iconic kiosk, a very popular local meeting point surrounded by bustling cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Großes Theater von Alzira",
+            "hu": "Alzira Nagy Színháza",
+            "ro": "Marele Teatru din Alzira",
+            "en": "Grand Theater of Alzira"
+          },
+          "coords": [
+            -0.439036,
+            39.148605
+          ],
+          "category": "cultural",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem Wahrzeichen vorbei oder parken Sie in einer Seitenstraße, um die elegante Fassade und die lebendige Atmosphäre zu schätzen.",
+            "hu": "Hajtson el ezen jelentős kulturális nevezetesség mellett, vagy parkoljon le a közelben, hogy megfelelően értékelje elegáns homlokzatát és atmoszféráját.",
+            "ro": "Conduceți pe lângă acest reper cultural major sau parcați pe o stradă din apropiere pentru a aprecia fațada sa elegantă și atmosfera artistică plină de viață.",
+            "en": "Drive by this major cultural landmark or park on a nearby street to properly appreciate its elegant exterior facade and the lively artistic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Eiserne Eisenbahnbrücke",
+            "hu": "Vasúti Vashíd",
+            "ro": "Podul de Fier Feroviar",
+            "en": "Iron Railway Bridge"
+          },
+          "coords": [
+            -0.451822,
+            39.135384
+          ],
+          "category": "landmark",
+          "arrive_at": "15:28",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie sicher abseits des Verkehrs und gehen Sie zu dieser eisernen Brücke, einem Meisterwerk der Industriearchitektur, ideal für den Sonnenuntergang.",
+            "hu": "Parkoljon le biztonságosan a forgalomtól távol, és sétáljon fel ehhez a vashídhoz, amely az ipari építészet igazi remekműve és tökéletes naplementekor.",
+            "ro": "Parcați în siguranță departe de trafic și mergeți la acest pod de fier impresionant, o capodoperă a arhitecturii industriale, perfectă pentru apus.",
+            "en": "Park safely away from traffic and walk up to this striking iron bridge, a true masterpiece of industrial architecture that is absolutely perfect for sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie für einen erfrischenden Start zum städtischen Schwimmbad und dann zum ikonischen Kreisverkehr zurück.\n\nMittag: Parken Sie im Zentrum, um das Faller-Museum zu besuchen und einen Happen an der Plaça Major zu essen.\n\nNachmittag: Fahren Sie am eleganten Gran Teatro vorbei.\n\nAbend: Beenden Sie die Tour an der eisernen Eisenbahnbrücke für einen industriellen Sonnenuntergang.",
+        "hu": "Reggel: Vezessen a városi uszodához egy frissítő kezdésért, majd induljon vissza a város ikonikus körforgalma felé.\n\nDélben: Parkoljon a központ közelében a Faller Múzeum megtekintéséhez, és egyen a Plaça Majoron.\n\nDélután: Hajtson el az elegáns Nagy Színház mellett, hogy értékelje klasszikus megjelenését.\n\nEste: Zárja a napot a vasúti vashídnál az egyedülálló ipari naplemente látványával.",
+        "ro": "Dimineața: Conduceți la piscina municipală pentru un început revigorant, apoi întoarceți-vă la sensul giratoriu iconic.\n\nPrânz: Parcați în centru pentru a vizita Muzeul Faller și luați o gustare rapidă în Plaça Major.\n\nDupă-amiaza: Treceți pe lângă elegantul Gran Teatro pentru a-i aprecia aspectul clasic.\n\nSeara: Încheiați la podul de fier feroviar pentru un apus industrial spectaculos.",
+        "en": "Morning: Drive to the municipal pool area for a refreshing start, then head back towards the city's iconic roundabout.\n\nMidday: Park near the center to visit the renowned Faller Museum and grab a quick bite at Plaça Major.\n\nAfternoon: Drive smoothly past the elegant Gran Teatro to fully appreciate its classic look.\n\nEvening: Finish at the iron railway bridge for unique industrial sunset views."
+      }
+    }
+  }
+}

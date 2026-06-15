@@ -1,0 +1,451 @@
+{
+  "city_id": "villennes-sur-seine",
+  "anchor": {
+    "name": "Villennes-sur-Seine",
+    "coords": [
+      1.9978,
+      48.9392
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villennes Station",
+            "hu": "Villennes Station",
+            "ro": "Villennes Station",
+            "en": "Villennes Station"
+          },
+          "coords": [
+            1.999705,
+            48.937851
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante regionale Architektur dieses historischen Bahnhofs, bevor Sie beginnen, und holen Sie sich am besten eine Karte am Kiosk.",
+            "hu": "Csodálja meg a történelmi állomás bájos regionális építészetét, és ne felejtsen el felvenni egy helyi térképet a közeli kioszkból az indulás előtt.",
+            "ro": "Admirați arhitectura regională fermecătoare a acestei gări istorice înainte de a începe și nu uitați să luați o hartă locală de la chioșcul din apropiere.",
+            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.998903,
+            48.939065
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
+            "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
+            "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Marolles Park",
+            "hu": "Marolles Park",
+            "ro": "Marolles Park",
+            "en": "Marolles Park"
+          },
+          "coords": [
+            1.994203,
+            48.93774
+          ],
+          "category": "natural",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang unter den alten Bäumen dieser Grünanlage und nutzen Sie die schattigen Bänke am Teich für eine entspannte Vormittagspause.",
+            "hu": "Sétáljon egyet a buja zöldterület ősfái között, és használja a tó melletti árnyékos padokat egy pihentető délelőtti szünethez a természet lágy ölén.",
+            "ro": "Faceți o plimbare printre copacii bătrâni din acest spațiu verde luxuriant și folosiți băncile umbrite de lângă iaz pentru o pauză relaxantă de dimineață.",
+            "en": "Take a peaceful stroll among the ancient trees of this lush green space, and use the shaded benches near the pond for a relaxing mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin Alfred Dreyfus",
+            "hu": "Jardin Alfred Dreyfus",
+            "ro": "Jardin Alfred Dreyfus",
+            "en": "Jardin Alfred Dreyfus"
+          },
+          "coords": [
+            2.016779,
+            48.937776
+          ],
+          "category": "family",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Gedenkgarten, der eine ruhige Atmosphäre bietet, und bringen Sie ein kleines Picknick mit, das Sie auf dem gepflegten Rasen genießen können.",
+            "hu": "Fedezze fel ezt az emlékkertet, amely csendes légkört kínál a gondolkodáshoz, és hozzon magával egy kis pikniket a gondozott pázsiton való falatozáshoz.",
+            "ro": "Explorați acest grădină comemorativă care oferă o atmosferă liniștită pentru reflecție și aduceți un mic picnic pentru a-l savura pe peluza bine întreținută.",
+            "en": "Explore this commemorative garden offering a quiet atmosphere for reflection, and bring a small picnic to enjoy on the well-maintained lawns with your family."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Église Saint-Louis",
+            "ro": "Église Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            2.017324,
+            48.939197
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante Turmspitze dieser klassischen Kirche des lokalen Erbes und besuchen Sie sie am späten Nachmittag, um das beste Innenlicht zu haben.",
+            "hu": "Vegye észre a helyi vallási örökséget képviselő templom jellegzetes tornyát, és látogasson el késő délután, hogy a legjobb belső fényeket élvezhesse.",
+            "ro": "Observați turla distinctivă a acestei biserici clasice ce reprezintă moștenirea locală și vizitați-o spre seară pentru cea mai bună lumină interioară.",
+            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Tour am historischen Bahnhof, bevor Sie die mittelalterliche Kirche Saint-Nicolas erreichen. Genießen Sie die grüne Ruhe des Marolles-Parks.",
+        "hu": "Kezdje gyalogtúráját a történelmi állomáson, majd érje el a középkori Saint-Nicolas templomot. Élvezze a Marolles park zöldellő nyugalmát.",
+        "ro": "Începeți turul pietonal la gara istorică, apoi ajungeți la biserica medievală Saint-Nicolas. Bucurați-vă de liniștea verde a parcului Marolles.",
+        "en": "Start your walking tour at the historic Villennes Station, then quickly reach the medieval Saint-Nicolas Church. Take your time enjoying the green tranquility of Marolles Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villennes Station",
+            "hu": "Villennes Station",
+            "ro": "Villennes Station",
+            "en": "Villennes Station"
+          },
+          "coords": [
+            1.999705,
+            48.937851
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante regionale Architektur dieses historischen Bahnhofs, bevor Sie beginnen, und holen Sie sich am besten eine Karte am Kiosk.",
+            "hu": "Csodálja meg a történelmi állomás bájos regionális építészetét, és ne felejtsen el felvenni egy helyi térképet a közeli kioszkból az indulás előtt.",
+            "ro": "Admirați arhitectura regională fermecătoare a acestei gări istorice înainte de a începe și nu uitați să luați o hartă locală de la chioșcul din apropiere.",
+            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.998903,
+            48.939065
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
+            "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
+            "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Médan",
+            "hu": "Château de Médan",
+            "ro": "Château de Médan",
+            "en": "Château de Médan"
+          },
+          "coords": [
+            1.994344,
+            48.952576
+          ],
+          "category": "castle",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das mit Maurice Maeterlinck verbunden ist, und buchen Sie die Führung im Voraus, da die Plätze täglich begrenzt sind.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely Maurice Maeterlinckhez kötődik, és foglalja le a túrát előre, mivel a napi belépők száma szigorúan korlátozott.",
+            "ro": "Descoperiți acest castel elegant legat de Maurice Maeterlinck și rezervați-vă turul ghidat în avans, deoarece numărul de intrări este strict limitat zilnic.",
+            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Émile Zola",
+            "hu": "Maison d'Émile Zola",
+            "ro": "Maison d'Émile Zola",
+            "en": "Maison d'Émile Zola"
+          },
+          "coords": [
+            1.995614,
+            48.955687
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie das erhaltene Haus, in dem der Autor seine Meisterwerke schrieb, und verpassen Sie nicht das Museum, das die Dreyfus-Affäre detailliert zeigt.",
+            "hu": "Lépjen be a megőrzött házba, ahol a szerző a remekműveit írta, és ne hagyja ki a szomszédos, a Dreyfus-ügyet bemutató lenyűgöző irodalmi múzeumot sem.",
+            "ro": "Pășiți în casa în care autorul și-a scris capodoperele și nu ratați muzeul alăturat fascinant care detaliază cu lux de amănunte celebra afacere Dreyfus.",
+            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne propriété d'Émile Zola",
+            "hu": "Ancienne propriété d'Émile Zola",
+            "ro": "Ancienne propriété d'Émile Zola",
+            "en": "Ancienne propriété d'Émile Zola"
+          },
+          "coords": [
+            1.995591,
+            48.9566
+          ],
+          "category": "park",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das weitläufige Gelände, das einst Zola gehörte, um seine Gärten zu sehen, und tragen Sie festes Schuhwerk für die unebenen Wege hier.",
+            "hu": "Barangoljon a Zola tulajdonában lévő hatalmas birtokon, hogy lássa kísérleti kertjeit, és viseljen kényelmes cipőt a kissé egyenetlen sétautak miatt.",
+            "ro": "Plimbați-vă prin terenurile extinse deținute de Zola pentru a vedea grădinile sale și purtați pantofi rezistenți pentru aleile ușor denivelate de aici.",
+            "en": "Wander through the extensive grounds once owned by Zola to see his agricultural experiments, and wear sturdy walking shoes for the uneven pathways here."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Peuple de l'herbe",
+            "hu": "Parc du Peuple de l'herbe",
+            "ro": "Parc du Peuple de l'herbe",
+            "en": "Parc du Peuple de l'herbe"
+          },
+          "coords": [
+            2.018901,
+            48.935573
+          ],
+          "category": "park",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Artenvielfalt in diesem ökologischen Park am Fluss und bringen Sie ein Fernglas mit, um die seltenen Vogelarten zu entdecken.",
+            "hu": "Figyelje meg a gazdag biodiverzitást ebben a hatalmas folyóparti parkban, és hozzon magával távcsövet, hogy kiszúrja a víz közelében fészkelő ritka madarakat.",
+            "ro": "Observați biodiversitatea bogată în acest parc ecologic de pe malul râului și aduceți binoclul pentru a vedea speciile rare de păsări care cuibăresc aici.",
+            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer am Bahnhof, bewundern Sie die Kirche und radeln Sie gen Norden zum majestätischen Château de Médan.",
+        "hu": "Kezdje kerékpáros kalandját az állomásról, csodálja meg a templomot, majd tekerjen észak felé a folyó mentén a fenséges Château de Médanhoz.",
+        "ro": "Începeți aventura cu bicicleta de la gară, admirând scurt biserica înainte de a pedala spre nord de-a lungul râului către maiestuosul Château de Médan.",
+        "en": "Kick off your bike adventure from the station, briefly admiring the local church before pedaling north along the river towards the majestic Château de Médan."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle du château d'Acqueville",
+            "hu": "Chapelle du château d'Acqueville",
+            "ro": "Chapelle du château d'Acqueville",
+            "en": "Chapelle du château d'Acqueville"
+          },
+          "coords": [
+            2.010174,
+            48.928587
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das malerische Äußere dieser historischen Privatkapelle in der Natur und fotografieren Sie von der Straße aus, da der Zugang beschränkt ist.",
+            "hu": "Tekintse meg a természetben megbúvó történelmi magánkápolna külsejét, és készítsen fotókat az útról, mivel a belső terekhez való hozzáférés korlátozott.",
+            "ro": "Priviți exteriorul pitoresc al acestei capele istorice private din natură și faceți fotografii de pe drumul public, deoarece accesul interior este restricționat.",
+            "en": "View the quaint exterior of this private historical chapel nestled in nature, and capture photos from the public road as interior access is usually restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Peuple de l'herbe",
+            "hu": "Parc du Peuple de l'herbe",
+            "ro": "Parc du Peuple de l'herbe",
+            "en": "Parc du Peuple de l'herbe"
+          },
+          "coords": [
+            2.018901,
+            48.935573
+          ],
+          "category": "park",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Artenvielfalt in diesem ökologischen Park am Fluss und bringen Sie ein Fernglas mit, um die seltenen Vogelarten zu entdecken.",
+            "hu": "Figyelje meg a gazdag biodiverzitást ebben a hatalmas folyóparti parkban, és hozzon magával távcsövet, hogy kiszúrja a víz közelében fészkelő ritka madarakat.",
+            "ro": "Observați biodiversitatea bogată în acest parc ecologic de pe malul râului și aduceți binoclul pentru a vedea speciile rare de păsări care cuibăresc aici.",
+            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Église Saint-Louis",
+            "ro": "Église Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            2.017324,
+            48.939197
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante Turmspitze dieser klassischen Kirche des lokalen Erbes und besuchen Sie sie am späten Nachmittag, um das beste Innenlicht zu haben.",
+            "hu": "Vegye észre a helyi vallási örökséget képviselő templom jellegzetes tornyát, és látogasson el késő délután, hogy a legjobb belső fényeket élvezhesse.",
+            "ro": "Observați turla distinctivă a acestei biserici clasice ce reprezintă moștenirea locală și vizitați-o spre seară pentru cea mai bună lumină interioară.",
+            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Church",
+            "hu": "Saint-Nicolas Church",
+            "ro": "Saint-Nicolas Church",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            1.998903,
+            48.939065
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
+            "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
+            "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Médan",
+            "hu": "Château de Médan",
+            "ro": "Château de Médan",
+            "en": "Château de Médan"
+          },
+          "coords": [
+            1.994344,
+            48.952576
+          ],
+          "category": "castle",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Schloss, das mit Maurice Maeterlinck verbunden ist, und buchen Sie die Führung im Voraus, da die Plätze täglich begrenzt sind.",
+            "hu": "Fedezze fel ezt az elegáns kastélyt, amely Maurice Maeterlinckhez kötődik, és foglalja le a túrát előre, mivel a napi belépők száma szigorúan korlátozott.",
+            "ro": "Descoperiți acest castel elegant legat de Maurice Maeterlinck și rezervați-vă turul ghidat în avans, deoarece numărul de intrări este strict limitat zilnic.",
+            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Émile Zola",
+            "hu": "Maison d'Émile Zola",
+            "ro": "Maison d'Émile Zola",
+            "en": "Maison d'Émile Zola"
+          },
+          "coords": [
+            1.995614,
+            48.955687
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie das erhaltene Haus, in dem der Autor seine Meisterwerke schrieb, und verpassen Sie nicht das Museum, das die Dreyfus-Affäre detailliert zeigt.",
+            "hu": "Lépjen be a megőrzött házba, ahol a szerző a remekműveit írta, és ne hagyja ki a szomszédos, a Dreyfus-ügyet bemutató lenyűgöző irodalmi múzeumot sem.",
+            "ro": "Pășiți în casa în care autorul și-a scris capodoperele și nu ratați muzeul alăturat fascinant care detaliază cu lux de amănunte celebra afacere Dreyfus.",
+            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Chapelle du château d'Acqueville und parken Sie am Parc du Peuple de l'herbe für einen erfrischenden Morgenspaziergang.",
+        "hu": "Vezessen a déli peremre, hogy lássa az Acqueville kápolnát, majd parkoljon le a Parc du Peuple de l'herbe-nél egy frissítő reggeli sétára.",
+        "ro": "Conduceți spre sud pentru a vedea capela Acqueville, apoi parcați cu ușurință la Parc du Peuple de l'herbe pentru o plimbare răcoritoare.",
+        "en": "Drive to the southern edge to see the Chapelle du château d'Acqueville, then easily park at Parc du Peuple de l'herbe for a long, refreshing morning walk."
+      }
+    }
+  }
+}

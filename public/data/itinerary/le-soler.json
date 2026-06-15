@@ -1,0 +1,497 @@
+{
+  "city_id": "le-soler",
+  "anchor": {
+    "name": "Le Soler",
+    "coords": [
+      2.7933,
+      42.6819
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:04",
+      "total_km": 2.94,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Le Soler",
+            "hu": "Le Soler Városháza",
+            "ro": "Primăria Le Soler",
+            "en": "Le Soler Town Hall"
+          },
+          "coords": [
+            2.782471,
+            42.677853
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Le Soler, das als bürgerliches Zentrum dient, und informieren Sie sich am Schaukasten über lokale Veranstaltungen.",
+            "hu": "Csodálja meg Le Soler városházájának klasszikus építészetét, amely a polgári élet központja, és vessen egy pillantást a helyi programokat hirdető faliújságra.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Le Soler, inima civică a orașului, și verificați avizierul pentru a fi la curent cu evenimentele locale viitoare.",
+            "en": "Admire the classic architecture of Le Soler Town Hall, the civic heart of the community, and be sure to check the public notice board for upcoming local events."
+          }
+        },
+        {
+          "name": {
+            "de": "François Calvet Kulturzentrum",
+            "hu": "François Calvet Kulturális Központ",
+            "ro": "Centrul Cultural François Calvet",
+            "en": "François Calvet Cultural Center"
+          },
+          "coords": [
+            2.794665,
+            42.679758
+          ],
+          "category": "cultural",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Entdecken Sie im François Calvet Kulturzentrum wechselnde Ausstellungen zur regionalen Kunstgeschichte, wobei Sie sich vorab online über die Öffnungszeiten informieren sollten.",
+            "hu": "Fedezze fel a François Calvet Kulturális Központ időszaki kiállításait, amelyek a régió művészetét mutatják be, de érkezés előtt feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați expozițiile captivante de artă regională de la Centrul Cultural François Calvet, însă este recomandat să verificați online programul de vizitare în prealabil.",
+            "en": "Explore captivating exhibitions of regional art and history at the François Calvet Cultural Center, but remember to verify their opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Julien et Sainte-Baselisse",
+            "hu": "Saint-Julien et Sainte-Baselisse templom",
+            "ro": "Biserica Saint-Julien et Sainte-Baselisse",
+            "en": "Église Saint-Julien et Sainte-Baselisse"
+          },
+          "coords": [
+            2.794221,
+            42.683428
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende romanische Portal dieser historischen Kirche, ein wahres architektonisches Juwel, und besuchen Sie sie am besten während der ruhigen Morgenstunden.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző román kori portálját, amely egy igazi építészeti gyöngyszem, és próbálja meg a csendesebb délelőtti órákban meglátogatni.",
+            "ro": "Contemplați portalul romanic impresionant al acestei biserici istorice, o adevărată bijuterie arhitecturală, și planificați-vă vizita dimineața pentru a evita aglomerația.",
+            "en": "Contemplate the impressive Romanesque portal of this historic church, a true architectural gem, and try to visit during the quieter morning hours for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Soler See",
+            "hu": "Le Soler-tó",
+            "ro": "Lacul Le Soler",
+            "en": "Le Soler Lake"
+          },
+          "coords": [
+            2.794691,
+            42.68244
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern des Le Soler Sees, einem perfekten Ort für Naturbeobachtungen, und bringen Sie ein kleines Picknick für eine entspannte Mittagspause mit.",
+            "hu": "Pihenjen meg a Le Soler-tó csendes partján, amely ideális helyszín a természet megfigyelésére, és hozzon magával egy kis pikniket egy kellemes ebédszünethez.",
+            "ro": "Relaxați-vă pe malurile liniștite ale Lacului Le Soler, un loc excelent pentru observarea naturii, și aduceți cu dumneavoastră un coș de picnic pentru un prânz în aer liber.",
+            "en": "Relax along the peaceful shores of Le Soler Lake, an excellent spot for nature observation, and consider packing a small picnic basket to enjoy a delightful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-l'Évangéliste",
+            "hu": "Saint-Jean-l'Évangéliste templom",
+            "ro": "Biserica Saint-Jean-l'Évangéliste",
+            "en": "Église Saint-Jean-l'Évangéliste"
+          },
+          "coords": [
+            2.803115,
+            42.693805
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.42,
+          "tip_5lang": {
+            "de": "Lassen Sie die spirituelle Atmosphäre der Église Saint-Jean-l'Évangéliste auf sich wirken, die für ihre feinen Details bekannt ist, und achten Sie auf respektvolle Kleidung beim Eintreten.",
+            "hu": "Szívja magába az Église Saint-Jean-l'Évangéliste spirituális atmoszféráját, amely finom részleteiről ismert, és ügyeljen a megfelelő, tiszteletteljes öltözködésre a belépéskor.",
+            "ro": "Simțiți atmosfera spirituală a Bisericii Saint-Jean-l'Évangéliste, faimoasă pentru detaliile sale rafinate, și asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Absorb the deeply spiritual atmosphere of Église Saint-Jean-l'Évangéliste, renowned for its delicate detailing, and make sure to wear respectful attire when entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Le Soler am historischen Rathaus, bevor Sie in die regionale Kunst im Kulturzentrum eintauchen. Gegen Mittag schlendern Sie zur romanischen Kirche Saint-Julien. Der Nachmittag bietet eine erholsame Auszeit am malerischen Le Soler See. Zum Abschluss Ihres Spaziergangs besuchen Sie die elegante Église Saint-Jean-l'Évangéliste für ruhige Momente.",
+        "hu": "Kezdje a napot Le Soler szívében, a történelmi városházánál, majd merüljön el a regionális művészetekben a kulturális központban. Délben tegyen egy sétát a román stílusú Saint-Julien templomhoz. A délután egy frissítő pihenőt kínál a festői Le Soler-tó partján. Sétáját az elegáns Église Saint-Jean-l'Évangéliste megtekintésével zárja, ahol csendes pillanatokat élhet át.",
+        "ro": "Începeți ziua în inima orașului Le Soler la primăria istorică, înainte de a explora arta regională la centrul cultural. La prânz, plimbați-vă până la biserica romanică Saint-Julien. După-amiaza oferă o pauză reconfortantă pe malul pitorescului Lac Le Soler. Încheiați traseul pietonal cu o vizită liniștită la eleganta biserică Saint-Jean-l'Évangéliste.",
+        "en": "Start your day in the heart of Le Soler at the historic town hall before diving into regional art at the cultural center. By midday, stroll over to the Romanesque Saint-Julien church. The afternoon brings a refreshing break at the picturesque Le Soler Lake. Conclude your gentle walking tour with a peaceful visit to the elegant Église Saint-Jean-l'Évangéliste."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 6.72,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Le Soler",
+            "hu": "Le Soler Városháza",
+            "ro": "Primăria Le Soler",
+            "en": "Le Soler Town Hall"
+          },
+          "coords": [
+            2.782471,
+            42.677853
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Le Soler, das als bürgerliches Zentrum dient, und informieren Sie sich am Schaukasten über lokale Veranstaltungen.",
+            "hu": "Csodálja meg Le Soler városházájának klasszikus építészetét, amely a polgári élet központja, és vessen egy pillantást a helyi programokat hirdető faliújságra.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Le Soler, inima civică a orașului, și verificați avizierul pentru a fi la curent cu evenimentele locale viitoare.",
+            "en": "Admire the classic architecture of Le Soler Town Hall, the civic heart of the community, and be sure to check the public notice board for upcoming local events."
+          }
+        },
+        {
+          "name": {
+            "de": "François Calvet Kulturzentrum",
+            "hu": "François Calvet Kulturális Központ",
+            "ro": "Centrul Cultural François Calvet",
+            "en": "François Calvet Cultural Center"
+          },
+          "coords": [
+            2.794665,
+            42.679758
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Entdecken Sie im François Calvet Kulturzentrum wechselnde Ausstellungen zur regionalen Kunstgeschichte, wobei Sie sich vorab online über die Öffnungszeiten informieren sollten.",
+            "hu": "Fedezze fel a François Calvet Kulturális Központ időszaki kiállításait, amelyek a régió művészetét mutatják be, de érkezés előtt feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați expozițiile captivante de artă regională de la Centrul Cultural François Calvet, însă este recomandat să verificați online programul de vizitare în prealabil.",
+            "en": "Explore captivating exhibitions of regional art and history at the François Calvet Cultural Center, but remember to verify their opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Julien et Sainte-Baselisse",
+            "hu": "Saint-Julien et Sainte-Baselisse templom",
+            "ro": "Biserica Saint-Julien et Sainte-Baselisse",
+            "en": "Église Saint-Julien et Sainte-Baselisse"
+          },
+          "coords": [
+            2.794221,
+            42.683428
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende romanische Portal dieser historischen Kirche, ein wahres architektonisches Juwel, und besuchen Sie sie am besten während der ruhigen Morgenstunden.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző román kori portálját, amely egy igazi építészeti gyöngyszem, és próbálja meg a csendesebb délelőtti órákban meglátogatni.",
+            "ro": "Contemplați portalul romanic impresionant al acestei biserici istorice, o adevărată bijuterie arhitecturală, și planificați-vă vizita dimineața pentru a evita aglomerația.",
+            "en": "Contemplate the impressive Romanesque portal of this historic church, a true architectural gem, and try to visit during the quieter morning hours for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Soler See",
+            "hu": "Le Soler-tó",
+            "ro": "Lacul Le Soler",
+            "en": "Le Soler Lake"
+          },
+          "coords": [
+            2.794691,
+            42.68244
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern des Le Soler Sees, einem perfekten Ort für Naturbeobachtungen, und bringen Sie ein kleines Picknick für eine entspannte Mittagspause mit.",
+            "hu": "Pihenjen meg a Le Soler-tó csendes partján, amely ideális helyszín a természet megfigyelésére, és hozzon magával egy kis pikniket egy kellemes ebédszünethez.",
+            "ro": "Relaxați-vă pe malurile liniștite ale Lacului Le Soler, un loc excelent pentru observarea naturii, și aduceți cu dumneavoastră un coș de picnic pentru un prânz în aer liber.",
+            "en": "Relax along the peaceful shores of Le Soler Lake, an excellent spot for nature observation, and consider packing a small picnic basket to enjoy a delightful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sant-Sadurni",
+            "hu": "Sant-Sadurni kápolna",
+            "ro": "Capela Sant-Sadurni",
+            "en": "Chapelle Sant-Sadurni"
+          },
+          "coords": [
+            2.774356,
+            42.69424
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die charmante Chapelle Sant-Sadurni, die tief in der lokalen religiösen Tradition verwurzelt ist, und nehmen Sie sich Zeit, die historischen Inschriften zu lesen.",
+            "hu": "Látogasson el a bájos Sant-Sadurni kápolnához, amely mélyen gyökerezik a helyi vallási hagyományokban, és szánjon időt a történelmi feliratok gondos elolvasására.",
+            "ro": "Vizitați fermecătoarea Capelă Sant-Sadurni, adânc înrădăcinată în tradiția religioasă locală, și alocați-vă câteva momente pentru a citi cu atenție inscripțiile istorice.",
+            "en": "Visit the charming Chapelle Sant-Sadurni, which is deeply rooted in local religious traditions, and take a moment to carefully read the fascinating historical inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der heiligen Hostien",
+            "hu": "Szent Ostyák temploma",
+            "ro": "Biserica Sfintelor Ostii",
+            "en": "Église des Saintes Hosties"
+          },
+          "coords": [
+            2.769625,
+            42.694175
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Legende der heiligen Hostien in dieser einzigartigen Kirche, einem wichtigen Pilgerort, und achten Sie auf die kunstvollen Fenster, die das Licht wunderbar brechen.",
+            "hu": "Ismerje meg a szent ostyák legendáját ebben az egyedülálló templomban, amely fontos zarándokhely, és figyelje meg a csodálatos fényeket teremtő, díszes ablakokat.",
+            "ro": "Descoperiți legenda sfintelor ostii în această biserică unică, un important loc de pelerinaj, și observați ferestrele ornate care creează un joc de lumini spectaculos.",
+            "en": "Discover the legend of the holy hosts in this unique church, an important local pilgrimage site, and notice the ornate windows that scatter the incoming light beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-l'Évangéliste",
+            "hu": "Saint-Jean-l'Évangéliste templom",
+            "ro": "Biserica Saint-Jean-l'Évangéliste",
+            "en": "Église Saint-Jean-l'Évangéliste"
+          },
+          "coords": [
+            2.803115,
+            42.693805
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Lassen Sie die spirituelle Atmosphäre der Église Saint-Jean-l'Évangéliste auf sich wirken, die für ihre feinen Details bekannt ist, und achten Sie auf respektvolle Kleidung beim Eintreten.",
+            "hu": "Szívja magába az Église Saint-Jean-l'Évangéliste spirituális atmoszféráját, amely finom részleteiről ismert, és ügyeljen a megfelelő, tiszteletteljes öltözködésre a belépéskor.",
+            "ro": "Simțiți atmosfera spirituală a Bisericii Saint-Jean-l'Évangéliste, faimoasă pentru detaliile sale rafinate, și asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Absorb the deeply spiritual atmosphere of Église Saint-Jean-l'Évangéliste, renowned for its delicate detailing, and make sure to wear respectful attire when entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Rathausplatz und führt Sie zügig zum Kulturzentrum François Calvet. Am späten Vormittag bewundern Sie die Architektur von Saint-Julien und radeln zum idyllischen See. Der Nachmittag ist geprägt von einer Fahrt zu den versteckten Kapellen Sant-Sadurni und Saintes Hosties. Der Tag endet friedlich an der Église Saint-Jean-l'Évangéliste im Norden.",
+        "hu": "Kerékpártúrája a városházától indul, és gyorsan eléri a François Calvet Kulturális Központot. Késő délelőtt megcsodálhatja a Saint-Julien építészetét, majd az idillikus tóhoz tekerhet. A délután folyamán rejtett kápolnákat fedezhet fel, mint a Sant-Sadurni és a Saintes Hosties. A nap az északi Église Saint-Jean-l'Évangéliste nyugodt környezetében ér véget.",
+        "ro": "Turul dumneavoastră cu bicicleta începe de la primărie și vă duce rapid la centrul cultural François Calvet. Spre prânz, admirați arhitectura bisericii Saint-Julien și pedalați către lacul idilic. După-amiaza este dedicată explorării capelelor ascunse Sant-Sadurni și Saintes Hosties. Ziua se încheie liniștit la biserica Saint-Jean-l'Évangéliste din partea de nord a orașului.",
+        "en": "Your cycling adventure kicks off at the town hall and quickly brings you to the François Calvet Cultural Center. Late morning involves admiring Saint-Julien's architecture and pedaling to the idyllic lake. The afternoon features a ride out to discover the hidden Chapelle Sant-Sadurni and Saintes Hosties. The day ends peacefully at the northern Église Saint-Jean-l'Évangéliste."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 12.12,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Le Soler",
+            "hu": "Le Soler Városháza",
+            "ro": "Primăria Le Soler",
+            "en": "Le Soler Town Hall"
+          },
+          "coords": [
+            2.782471,
+            42.677853
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Le Soler, das als bürgerliches Zentrum dient, und informieren Sie sich am Schaukasten über lokale Veranstaltungen.",
+            "hu": "Csodálja meg Le Soler városházájának klasszikus építészetét, amely a polgári élet központja, és vessen egy pillantást a helyi programokat hirdető faliújságra.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Le Soler, inima civică a orașului, și verificați avizierul pentru a fi la curent cu evenimentele locale viitoare.",
+            "en": "Admire the classic architecture of Le Soler Town Hall, the civic heart of the community, and be sure to check the public notice board for upcoming local events."
+          }
+        },
+        {
+          "name": {
+            "de": "François Calvet Kulturzentrum",
+            "hu": "François Calvet Kulturális Központ",
+            "ro": "Centrul Cultural François Calvet",
+            "en": "François Calvet Cultural Center"
+          },
+          "coords": [
+            2.794665,
+            42.679758
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Entdecken Sie im François Calvet Kulturzentrum wechselnde Ausstellungen zur regionalen Kunstgeschichte, wobei Sie sich vorab online über die Öffnungszeiten informieren sollten.",
+            "hu": "Fedezze fel a François Calvet Kulturális Központ időszaki kiállításait, amelyek a régió művészetét mutatják be, de érkezés előtt feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați expozițiile captivante de artă regională de la Centrul Cultural François Calvet, însă este recomandat să verificați online programul de vizitare în prealabil.",
+            "en": "Explore captivating exhibitions of regional art and history at the François Calvet Cultural Center, but remember to verify their opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Julien et Sainte-Baselisse",
+            "hu": "Saint-Julien et Sainte-Baselisse templom",
+            "ro": "Biserica Saint-Julien et Sainte-Baselisse",
+            "en": "Église Saint-Julien et Sainte-Baselisse"
+          },
+          "coords": [
+            2.794221,
+            42.683428
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende romanische Portal dieser historischen Kirche, ein wahres architektonisches Juwel, und besuchen Sie sie am besten während der ruhigen Morgenstunden.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző román kori portálját, amely egy igazi építészeti gyöngyszem, és próbálja meg a csendesebb délelőtti órákban meglátogatni.",
+            "ro": "Contemplați portalul romanic impresionant al acestei biserici istorice, o adevărată bijuterie arhitecturală, și planificați-vă vizita dimineața pentru a evita aglomerația.",
+            "en": "Contemplate the impressive Romanesque portal of this historic church, a true architectural gem, and try to visit during the quieter morning hours for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Soler See",
+            "hu": "Le Soler-tó",
+            "ro": "Lacul Le Soler",
+            "en": "Le Soler Lake"
+          },
+          "coords": [
+            2.794691,
+            42.68244
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern des Le Soler Sees, einem perfekten Ort für Naturbeobachtungen, und bringen Sie ein kleines Picknick für eine entspannte Mittagspause mit.",
+            "hu": "Pihenjen meg a Le Soler-tó csendes partján, amely ideális helyszín a természet megfigyelésére, és hozzon magával egy kis pikniket egy kellemes ebédszünethez.",
+            "ro": "Relaxați-vă pe malurile liniștite ale Lacului Le Soler, un loc excelent pentru observarea naturii, și aduceți cu dumneavoastră un coș de picnic pentru un prânz în aer liber.",
+            "en": "Relax along the peaceful shores of Le Soler Lake, an excellent spot for nature observation, and consider packing a small picnic basket to enjoy a delightful outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sant-Sadurni",
+            "hu": "Sant-Sadurni kápolna",
+            "ro": "Capela Sant-Sadurni",
+            "en": "Chapelle Sant-Sadurni"
+          },
+          "coords": [
+            2.774356,
+            42.69424
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die charmante Chapelle Sant-Sadurni, die tief in der lokalen religiösen Tradition verwurzelt ist, und nehmen Sie sich Zeit, die historischen Inschriften zu lesen.",
+            "hu": "Látogasson el a bájos Sant-Sadurni kápolnához, amely mélyen gyökerezik a helyi vallási hagyományokban, és szánjon időt a történelmi feliratok gondos elolvasására.",
+            "ro": "Vizitați fermecătoarea Capelă Sant-Sadurni, adânc înrădăcinată în tradiția religioasă locală, și alocați-vă câteva momente pentru a citi cu atenție inscripțiile istorice.",
+            "en": "Visit the charming Chapelle Sant-Sadurni, which is deeply rooted in local religious traditions, and take a moment to carefully read the fascinating historical inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der heiligen Hostien",
+            "hu": "Szent Ostyák temploma",
+            "ro": "Biserica Sfintelor Ostii",
+            "en": "Église des Saintes Hosties"
+          },
+          "coords": [
+            2.769625,
+            42.694175
+          ],
+          "category": "religious",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Legende der heiligen Hostien in dieser einzigartigen Kirche, einem wichtigen Pilgerort, und achten Sie auf die kunstvollen Fenster, die das Licht wunderbar brechen.",
+            "hu": "Ismerje meg a szent ostyák legendáját ebben az egyedülálló templomban, amely fontos zarándokhely, és figyelje meg a csodálatos fényeket teremtő, díszes ablakokat.",
+            "ro": "Descoperiți legenda sfintelor ostii în această biserică unică, un important loc de pelerinaj, și observați ferestrele ornate care creează un joc de lumini spectaculos.",
+            "en": "Discover the legend of the holy hosts in this unique church, an important local pilgrimage site, and notice the ornate windows that scatter the incoming light beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderinsel",
+            "hu": "Gyerekek Szigete",
+            "ro": "Insula Copiilor",
+            "en": "Children's Island"
+          },
+          "coords": [
+            2.869245,
+            42.694698
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.12,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag auf der Kinderinsel ausklingen, einem weitläufigen Freizeitpark für Familien, und nutzen Sie die gut ausgebauten Spazierwege für einen letzten entspannten Rundgang.",
+            "hu": "Zárja a napot a Gyerekek Szigetén, amely egy hatalmas családi szabadidőpark, és használja ki a kiválóan kiépített sétányokat egy utolsó, pihentető délutáni sétára.",
+            "ro": "Încheiați-vă ziua pe Insula Copiilor, un parc de agrement vast pentru familii, și profitați de aleile bine amenajate pentru o ultimă plimbare relaxantă la apus.",
+            "en": "Conclude your day at Children's Island, a sprawling recreational park perfect for families, and take advantage of the well-paved walking trails for a final relaxing stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zunächst die zentralen Sehenswürdigkeiten rund um das Rathaus und das Kulturzentrum. Gegen Mittag bewundern Sie die Saint-Julien Kirche und machen eine Pause am wunderschönen See. Der Nachmittag führt Sie zu historischen Kapellen am Stadtrand, darunter die berühmte Église des Saintes Hosties. Zum krönenden Abschluss entspannen Sie auf der weitläufigen Kinderinsel.",
+        "hu": "Autóval először a városháza és a kulturális központ körüli központi látnivalókat fedezi fel. Dél körül megtekinti a Saint-Julien templomot, és pihen egyet a gyönyörű tónál. A délután folyamán a város szélén található történelmi kápolnákhoz utazik, köztük a híres Église des Saintes Hosties-hez. A napot a tágas Gyerekek Szigetén zárja egy pihentető sétával.",
+        "ro": "Cu mașina, explorați mai întâi atracțiile centrale din jurul primăriei și al centrului cultural. La prânz, vizitați biserica Saint-Julien și luați o pauză la lacul superb. După-amiaza vă conduce spre capelele istorice de la periferie, inclusiv faimoasa Église des Saintes Hosties. Încheiați ziua relaxându-vă pe vasta Insulă a Copiilor, perfectă pentru destindere.",
+        "en": "By car, you first explore the central landmarks around the town hall and cultural center. Around midday, you visit the Saint-Julien church and take a break by the beautiful lake. The afternoon drive takes you to historic chapels on the outskirts, including the famous Église des Saintes Hosties. Finish your comprehensive tour by unwinding at the expansive Children's Island."
+      }
+    }
+  }
+}

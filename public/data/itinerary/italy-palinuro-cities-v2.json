@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-palinuro-cities-v2",
+  "anchor": {
+    "name": "Palinuro",
+    "coords": [
+      15.28726,
+      40.0346
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 2.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiquarium",
+            "hu": "Antiquarium",
+            "ro": "Antiquarium",
+            "en": "Antiquarium"
+          },
+          "coords": [
+            15.285536,
+            40.034413
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kleinen Museum die maritime Geschichte anhand gut erhaltener Artefakte, aber kommen Sie früh, um der Hitze des Vormittags zu entgehen.",
+            "hu": "Fedezze fel az ősi tengeri történelmet a múzeum jól megőrzött helyi leletein keresztül, de érkezzen korán, hogy elkerülje a délelőtti nagy hőséget.",
+            "ro": "Explorați istoria maritimă antică prin artefacte locale bine conservate în acest mic muzeu, dar sosiți devreme pentru a evita căldura dimineții.",
+            "en": "Explore ancient maritime history through well-preserved local artifacts in this small museum, but arrive early to avoid the hottest part of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Punto panoramico",
+            "hu": "Panoráma pont",
+            "ro": "Punct panoramic",
+            "en": "Panoramic Point"
+          },
+          "coords": [
+            15.283157,
+            40.032691
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht auf die Küste von diesem erhöhten Aussichtspunkt, der perfekte Fotomotive bietet, wenn Sie einen Polfilter mitbringen.",
+            "hu": "Élvezze a tengerpartra nyíló lenyűgöző panorámát ebből a magaslati pontból, amely tökéletes fotózási lehetőségeket kínál egy polárszűrős lencsével.",
+            "ro": "Admirați priveliștile de coastă panoramice din acest punct de observare ridicat, care oferă oportunități foto perfecte dacă aduceți un obiectiv de polarizare.",
+            "en": "Take in the sweeping coastal views from this elevated vantage point, which provides perfect photo opportunities if you bring a polarizing lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Porto",
+            "hu": "Spiaggia del Porto",
+            "ro": "Spiaggia del Porto",
+            "en": "Spiaggia del Porto"
+          },
+          "coords": [
+            15.27843,
+            40.029643
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem belebten Hafenstrand, dessen klares Wasser zu einem erfrischenden Bad nur wenige Schritte von den Meeresfrüchteständen einlädt.",
+            "hu": "Pihenjen ennek a nyüzsgő kikötői strandnak a homokos partján, ahol a kristálytiszta víz frissítő úszásra csábít a helyi tengeri herkentyűs bódék közelében.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje aglomerate din port, unde apele clare vă invită la o baie răcoroasă la doar câțiva pași de tarabele cu fructe de mare.",
+            "en": "Relax on the sandy shores of this bustling harbor beach, where clear waters invite you for a refreshing swim just steps from local seafood stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Fortino e Batteria del Prodese",
+            "hu": "Torre del Fortino",
+            "ro": "Torre del Fortino",
+            "en": "Torre del Fortino"
+          },
+          "coords": [
+            15.27285,
+            40.032125
+          ],
+          "category": "fortress",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die robusten Küstenverteidigungsanlagen dieses historischen Festungskomplexes und tragen Sie feste Schuhe, um die unebenen Steinwege sicher zu meistern.",
+            "hu": "Csodálja meg ennek a történelmi erődítménynek a masszív partvédelmi rendszereit, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson az egyenetlen kőutakon.",
+            "ro": "Admirați apărarea de coastă robustă a acestui complex de fortărețe istorice și purtați încălțăminte de drumeție pentru a naviga în siguranță pe cărările pietruite inegale.",
+            "en": "Marvel at the sturdy coastal defenses of this historical fortress complex, and wear sturdy walking shoes to navigate the uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino di Monte d'Oro",
+            "hu": "Fortino di Monte d'Oro",
+            "ro": "Fortino di Monte d'Oro",
+            "en": "Fortino di Monte d'Oro"
+          },
+          "coords": [
+            15.283773,
+            40.02644
+          ],
+          "category": "fortress",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die militärische Architektur dieses goldenen Hügelforts und halten Sie Wasser bereit, da der Weg nach oben ziemlich steil und unbeschattet sein kann.",
+            "hu": "Fedezze fel ennek az aranyhegyi erődnek a stratégiai katonai építészetét, és tartson magánál vizet, mivel a felfelé vezető út meredek és árnyékmentes lehet.",
+            "ro": "Descoperiți arhitectura militară strategică a acestui fort de pe dealul de aur, păstrând o sticlă cu apă la îndemână, deoarece drumul în sus poate fi destul de abrupt și neumbrit.",
+            "en": "Discover the strategic military architecture of this golden hill fort, keeping a bottle of water handy as the path up can be quite steep and unshaded."
+          }
+        },
+        {
+          "name": {
+            "de": "Architiello",
+            "hu": "Architiello",
+            "ro": "Architiello",
+            "en": "Architiello"
+          },
+          "coords": [
+            15.283063,
+            40.023312
+          ],
+          "category": "landmark",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen atemberaubenden, vom Meer geformten natürlichen Felsbogen und planen Sie Ihren Besuch für den späten Nachmittag für das beste goldene Licht.",
+            "hu": "Csodálja meg a tenger által faragott lenyűgöző természetes sziklaívet, és időzítse látogatását a késő délutáni órákra, amikor az aranyló fény kiemeli a formákat.",
+            "ro": "Admirați acest arc de stâncă natural uimitor sculptat de mare, programându-vă vizita pentru după-amiaza târziu, când lumina aurie îi îmbunătățește texturile.",
+            "en": "Admire this stunning natural rock arch formation sculpted by the sea, timing your visit for the late afternoon when the golden light enhances its textures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang mit antiken Geschichten im Antiquarium und genießen Sie den weiten Blick vom Panorama-Punkt. Der Mittag lädt zu einer entspannten Pause am Sandstrand Spiaggia del Porto ein. Der Nachmittag ist geprägt von der Geschichte, wenn Sie die massiven Festungen Torre del Fortino und Monte d'Oro erkunden. Beenden Sie den Abend, indem Sie die Farben am Architiello bewundern.",
+        "hu": "Kezdje sétáját az ókori történetekkel az Antiquariumban, majd élvezze a lélegzetelállító kilátást a panorámaponton. A délidő egy pihentető szünetre hív a Spiaggia del Porto homokos partján. A délutánt a történelem tölti ki a Torre del Fortino és a Monte d'Oro erődjeinek felfedezésével. Végül koronázza meg az estét a látványos Architiello sziklaívnél táncoló naplemente színeivel.",
+        "ro": "Începeți plimbarea aprofundând poveștile antice la Antiquarium, apoi admirați priveliștile uimitoare de la punctul panoramic. Amiaza vă invită la o pauză pe plaja Spiaggia del Porto. După-amiaza este plină de istorie, explorând fortărețele Torre del Fortino și Monte d'Oro. Încheiați seara admirând nuanțele apusului de soare dansând pe spectaculosul arc natural Architiello.",
+        "en": "Begin your walk delving into ancient stories at the Antiquarium, then catch breathtaking views at the panoramic point. Midday invites a relaxing break along the sandy curve of Spiaggia del Porto. The afternoon is filled with history as you explore the strongholds of Torre del Fortino and Monte d'Oro. Finally, cap off your evening admiring the sunset hues dancing across the spectacular Architiello."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 4.28,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiquarium",
+            "hu": "Antiquarium",
+            "ro": "Antiquarium",
+            "en": "Antiquarium"
+          },
+          "coords": [
+            15.285536,
+            40.034413
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kleinen Museum die maritime Geschichte anhand gut erhaltener Artefakte, aber kommen Sie früh, um der Hitze des Vormittags zu entgehen.",
+            "hu": "Fedezze fel az ősi tengeri történelmet a múzeum jól megőrzött helyi leletein keresztül, de érkezzen korán, hogy elkerülje a délelőtti nagy hőséget.",
+            "ro": "Explorați istoria maritimă antică prin artefacte locale bine conservate în acest mic muzeu, dar sosiți devreme pentru a evita căldura dimineții.",
+            "en": "Explore ancient maritime history through well-preserved local artifacts in this small museum, but arrive early to avoid the hottest part of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Porto",
+            "hu": "Spiaggia del Porto",
+            "ro": "Spiaggia del Porto",
+            "en": "Spiaggia del Porto"
+          },
+          "coords": [
+            15.27843,
+            40.029643
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem belebten Hafenstrand, dessen klares Wasser zu einem erfrischenden Bad nur wenige Schritte von den Meeresfrüchteständen einlädt.",
+            "hu": "Pihenjen ennek a nyüzsgő kikötői strandnak a homokos partján, ahol a kristálytiszta víz frissítő úszásra csábít a helyi tengeri herkentyűs bódék közelében.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje aglomerate din port, unde apele clare vă invită la o baie răcoroasă la doar câțiva pași de tarabele cu fructe de mare.",
+            "en": "Relax on the sandy shores of this bustling harbor beach, where clear waters invite you for a refreshing swim just steps from local seafood stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Sito Architettura rurale",
+            "hu": "Vidéki építészeti helyszín",
+            "ro": "Sit de arhitectură rurală",
+            "en": "Rural Architecture Site"
+          },
+          "coords": [
+            15.26837,
+            40.030844
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen diesen traditionellen ländlichen Bauernhöfen und beachten Sie das lokale Mauerwerk bei einer Pause in ruhiger Umgebung.",
+            "hu": "Lépjen vissza az időben ezek között a hagyományos vidéki tanyaépületek között, megfigyelve a helyi kőművesmunkát egy rövid kerékpáros pihenő során.",
+            "ro": "Întoarceți-vă în timp printre aceste structuri agricole rurale tradiționale, observând zidăria locală din piatră în timp ce faceți o pauză în împrejurimile liniștite.",
+            "en": "Step back in time among these traditional rural farm structures, noticing the local stone masonry while pausing your bike ride in the peaceful surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Capo Palinuro",
+            "hu": "Capo Palinuro világítótorony",
+            "ro": "Farul Capo Palinuro",
+            "en": "Capo Palinuro Lighthouse"
+          },
+          "coords": [
+            15.273608,
+            40.02462
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem ikonischen Leuchtturm über das endlose Mittelmeer und bringen Sie eine leichte Windjacke mit, da hier oft starke Küstenbrisen wehen.",
+            "hu": "Tekintsen ki a végtelen Földközi-tengerre erről az ikonikus világítótoronytól, de hozzon magával egy könnyű széldzsekit az erős part menti szellő miatt.",
+            "ro": "Priviți peste Marea Mediterană din acest punct iconic cu far, aducând o jachetă subțire, deoarece brizele de coastă sunt adesea puternice aici.",
+            "en": "Look out over the endless Mediterranean from this iconic lighthouse point, bringing a light windbreaker as coastal breezes are often strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Pinta Iacco",
+            "hu": "Torre Pinta Iacco",
+            "ro": "Torre Pinta Iacco",
+            "en": "Torre Pinta Iacco"
+          },
+          "coords": [
+            15.267812,
+            40.024985
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Küstenwache und stellen Sie Ihr Fahrrad sicher ab, bevor Sie den kurzen Weg zum Rand der Klippe hinaufwandern.",
+            "hu": "Vizsgálja meg ennek az ősi part menti őrtoronynak a romjait, és győződjön meg róla, hogy biztonságosan lezárta kerékpárját a szikla széléhez vezető séta előtt.",
+            "ro": "Investigați ruinele acestui vechi turn de pază de coastă, asigurându-vă că ați încuiat bicicleta corect înainte de a parcurge scurtul traseu spre marginea stâncii.",
+            "en": "Investigate the ruins of this ancient coastal watchtower, making sure to secure your bicycle properly before hiking the short trail to the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Architiello",
+            "hu": "Architiello",
+            "ro": "Architiello",
+            "en": "Architiello"
+          },
+          "coords": [
+            15.283063,
+            40.023312
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen atemberaubenden, vom Meer geformten natürlichen Felsbogen und planen Sie Ihren Besuch für den späten Nachmittag für das beste goldene Licht.",
+            "hu": "Csodálja meg a tenger által faragott lenyűgöző természetes sziklaívet, és időzítse látogatását a késő délutáni órákra, amikor az aranyló fény kiemeli a formákat.",
+            "ro": "Admirați acest arc de stâncă natural uimitor sculptat de mare, programându-vă vizita pentru după-amiaza târziu, când lumina aurie îi îmbunătățește texturile.",
+            "en": "Admire this stunning natural rock arch formation sculpted by the sea, timing your visit for the late afternoon when the golden light enhances its textures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zum Antiquarium für eine Dosis regionalen Erbes, bevor Sie zur erfrischenden Spiaggia del Porto rollen. Ihre Mittagsfahrt führt Sie ein wenig ins Landesinnere zur traditionellen ländlichen Architektur. Verbringen Sie den Nachmittag damit, zur Küste zu radeln und den Leuchtturm sowie alte Wachtürme zu betrachten. Lassen Sie sich gegen Abend vom Architiello begeistern.",
+        "hu": "Tekerjen először az Antiquariumhoz egy adag helyi örökségért, majd guruljon le a frissítő Spiaggia del Porto partjára. A déli kerékpározás kissé a szárazföld belsejébe visz a hagyományos vidéki építészethez. Töltse a délutánt a drámai tengerparton, megcsodálva a világítótornyot és az ősi őrtornyokat. Ahogy közeledik az este, hagyja, hogy az Architiello természeti szépsége elvarázsolja.",
+        "ro": "Pedalați mai întâi spre Antiquarium pentru o doză de patrimoniu regional înainte de a coborî spre revigoranta Spiaggia del Porto. Plimbarea de la prânz vă duce ușor spre interior pentru a observa arhitectura rurală tradițională. Petreceți după-amiaza pedalând spre coasta dramatică, admirând farul și vechile turnuri. Seara, lăsați frumusețea naturală a arcului Architiello să vă uimească.",
+        "en": "Pedal first to the Antiquarium for a dose of regional heritage before freewheeling down to the refreshing Spiaggia del Porto. Your midday ride takes you inland slightly to observe traditional rural architecture. Spend the afternoon cycling toward the dramatic coastline, taking in the lighthouse and ancient watchtowers. As evening approaches, let the natural beauty of Architiello leave you in awe."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sunset Beach Club Palinuro",
+            "hu": "Sunset Beach Club Palinuro",
+            "ro": "Sunset Beach Club Palinuro",
+            "en": "Sunset Beach Club Palinuro"
+          },
+          "coords": [
+            15.282615,
+            40.054141
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Morgenkaffee am Meer in diesem modernen Strandclub und genießen Sie die frühe Ruhe vor dem großen Andrang und der lauten Musik.",
+            "hu": "Kezdje a napot egy reggeli kávéval a tengerparton ebben a modern strandklubban, kiélvezve a korai nyugalmat a nappali tömeg és a hangos zene kezdete előtt.",
+            "ro": "Începeți-vă ziua cu o cafea de dimineață la mare la acest club modern de pe plajă, bucurându-vă de calmul matinal înainte să apară aglomerația și muzica tare.",
+            "en": "Start your day with a morning coffee by the sea at this modern beach club, enjoying the early calm before the daytime crowds and loud music begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium",
+            "hu": "Antiquarium",
+            "ro": "Antiquarium",
+            "en": "Antiquarium"
+          },
+          "coords": [
+            15.285536,
+            40.034413
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kleinen Museum die maritime Geschichte anhand gut erhaltener Artefakte, aber kommen Sie früh, um der Hitze des Vormittags zu entgehen.",
+            "hu": "Fedezze fel az ősi tengeri történelmet a múzeum jól megőrzött helyi leletein keresztül, de érkezzen korán, hogy elkerülje a délelőtti nagy hőséget.",
+            "ro": "Explorați istoria maritimă antică prin artefacte locale bine conservate în acest mic muzeu, dar sosiți devreme pentru a evita căldura dimineții.",
+            "en": "Explore ancient maritime history through well-preserved local artifacts in this small museum, but arrive early to avoid the hottest part of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Capo Palinuro",
+            "hu": "Capo Palinuro világítótorony",
+            "ro": "Farul Capo Palinuro",
+            "en": "Capo Palinuro Lighthouse"
+          },
+          "coords": [
+            15.273608,
+            40.02462
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem ikonischen Leuchtturm über das endlose Mittelmeer und bringen Sie eine leichte Windjacke mit, da hier oft starke Küstenbrisen wehen.",
+            "hu": "Tekintsen ki a végtelen Földközi-tengerre erről az ikonikus világítótoronytól, de hozzon magával egy könnyű széldzsekit az erős part menti szellő miatt.",
+            "ro": "Priviți peste Marea Mediterană din acest punct iconic cu far, aducând o jachetă subțire, deoarece brizele de coastă sunt adesea puternice aici.",
+            "en": "Look out over the endless Mediterranean from this iconic lighthouse point, bringing a light windbreaker as coastal breezes are often strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Buondormire di terra",
+            "hu": "Buondormire di terra",
+            "ro": "Buondormire di terra",
+            "en": "Buondormire di terra"
+          },
+          "coords": [
+            15.292137,
+            40.027294
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das türkisfarbene Wasser dieses abgelegenen Strandes vom Land aus und tragen Sie Wasserschuhe, um die felsigen Abschnitte am Ufer leicht zu meistern.",
+            "hu": "Tapasztalja meg ennek az eldugott strandnak a varázslatos türkizkék vizét a szárazföldről, vízi cipőt viselve, hogy könnyedén áthaladhasson a sziklás részeken.",
+            "ro": "Experimentați apele turcoaz magice ale acestei plaje izolate de pe uscat, purtând încălțăminte de apă pentru a naviga ușor pe secțiunile stâncoase de lângă țărm.",
+            "en": "Experience the magical turquoise waters of this secluded beach area from land, wearing water shoes to easily navigate the rocky sections near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Naturale",
+            "hu": "Arco Naturale",
+            "ro": "Arco Naturale",
+            "en": "Arco Naturale"
+          },
+          "coords": [
+            15.308354,
+            40.030868
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen massiven Steinbogen, der die Mündung des Flusses in das Meer einrahmt, und meiden Sie Stoßzeiten, um einen Parkplatz zu finden.",
+            "hu": "Sétáljon át ezen a hatalmas természetes kőíven, amely a tengerbe ömlő folyót keretezi, és érkezzen a csúcsidőn kívül, hogy könnyen találjon parkolóhelyet.",
+            "ro": "Plimbați-vă prin acest arc masiv de piatră naturală care încadrează râul întâlnind marea, sosind în afara orelor de vârf pentru a găsi o parcare convenabilă.",
+            "en": "Walk through this massive natural stone archway that frames the river meeting the sea, arriving outside peak hours to find a convenient parking spot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "SIC Mingardo",
+            "hu": "SIC Mingardo",
+            "ro": "SIC Mingardo",
+            "en": "SIC Mingardo"
+          },
+          "coords": [
+            15.310521,
+            40.032432
+          ],
+          "category": "natural",
+          "arrive_at": "14:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Artenvielfalt in diesem Naturschutzgebiet und sprechen Sie leise, um die einheimischen Vogelarten im Laub nicht zu stören.",
+            "hu": "Figyelje meg a gazdag helyi biodiverzitást ezen a védett természeti területen, és halkan beszéljen, hogy ne zavarja meg a lombok között pihenő őshonos madárfajokat.",
+            "ro": "Observați bogata biodiversitate locală în acest sit natural protejat, menținând vocea scăzută pentru a nu deranja speciile de păsări native care se odihnesc.",
+            "en": "Observe the rich local biodiversity in this protected natural site, keeping your voice low to avoid disturbing the native bird species resting in the foliage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um einen ruhigen Kaffee im Sunset Beach Club zu genießen, bevor Sie zum Antiquarium aufbrechen. Der Mittag bietet spektakuläre Küstenblicke vom ikonischen Leuchtturm und eine ruhige Pause nahe dem Wasser von Buondormire. Bestaunen Sie am Nachmittag den massiven natürlichen Steinbogen. Beenden Sie Ihre Tour mit einem Abendspaziergang durch das Mingardo-Reservat.",
+        "hu": "Induljon korán egy békés kávéra a Sunset Beach Clubba, majd irány a történelmi Antiquarium. A dél drámai tengerparti kilátást nyújt az ikonikus világítótoronytól, és egy nyugodt pihenőt a Buondormire türkizkék vizénél. Délután csodálja meg a lenyűgöző természetes sziklaívet. Zárja autós túráját egy békés esti sétával a Mingardo természetvédelmi területén.",
+        "ro": "Conduceți devreme pentru a savura o cafea liniștită la Sunset Beach Club, înainte de a vă îndrepta spre Antiquarium. Amiaza oferă vederi dramatice de la farul iconic și o pauză senină lângă apele turcoaz de la Buondormire. După-amiaza, admirați impresionantul arc natural din piatră. Încheiați-vă turul auto cu o plimbare liniștită de seară prin rezervația naturală Mingardo.",
+        "en": "Drive out early to enjoy a peaceful coffee at the Sunset Beach Club, setting a relaxed tone before heading to the Antiquarium. Midday offers dramatic coastal views from the iconic lighthouse point and a serene break near the turquoise waters of Buondormire. In the afternoon, marvel at the imposing natural archway. Conclude your driving tour with a tranquil evening walk through the Mingardo reserve."
+      }
+    }
+  }
+}

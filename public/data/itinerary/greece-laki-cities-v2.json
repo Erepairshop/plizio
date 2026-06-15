@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-laki-cities-v2",
+  "anchor": {
+    "name": "Laki",
+    "coords": [
+      25.97827,
+      36.90686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 2.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lebrosos",
+            "hu": "Lebrosos",
+            "ro": "Lebrosos",
+            "en": "Lebrosos"
+          },
+          "coords": [
+            25.971676,
+            36.908325
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser an diesem ruhigen Strandabschnitt, der sich ideal zum Schwimmen eignet, und bringen Sie Wasserschuhe für die Kiesstrände mit.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a békés partszakaszon, amely ideális egy frissítő úszáshoz, de érdemes vízicipőt hozni a kavicsos part miatt.",
+            "ro": "Bucurați-vă de apa cristalină a acestei plaje liniștite, perfectă pentru înot, și aduceți încălțăminte de apă pentru porțiunile cu pietriș.",
+            "en": "Enjoy the crystal-clear water at this peaceful stretch of beach that is ideal for a refreshing swim, and bring water shoes for the pebbly sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Psile Ammos",
+            "hu": "Psile Ammos",
+            "ro": "Psile Ammos",
+            "en": "Psile Ammos"
+          },
+          "coords": [
+            25.966557,
+            36.908112
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weichen Sandstrand mit flachem, türkisfarbenem Wasser, der sich perfekt für Familien eignet, und kommen Sie früh, um Schatten zu finden.",
+            "hu": "Pihenjen ezen a finom homokos, sekély és türkizkék vizű strandon, amely tökéletes családoknak, de érkezzen korán, hogy biztosan találjon árnyékot.",
+            "ro": "Relaxați-vă pe această plajă cu nisip fin și ape turcoaz puțin adânci, perfectă pentru familii, și ajungeți devreme pentru a prinde un loc la umbră.",
+            "en": "Relax on this soft sandy beach with shallow, turquoise waters perfectly suited for families, and be sure to arrive early to secure a spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Khokhlakas",
+            "hu": "Khokhlakas",
+            "ro": "Khokhlakas",
+            "en": "Khokhlakas"
+          },
+          "coords": [
+            25.964136,
+            36.908097
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Küste an dieser versteckten Bucht, die für ihre raue Schönheit bekannt ist, und achten Sie auf die Strömungen beim Schwimmen.",
+            "hu": "Csodálja meg a drámai partvonalat ebben az eldugott, vad szépségéről ismert öbölben, és fürdőzés közben mindenképp ügyeljen az erős áramlatokra.",
+            "ro": "Admirați coasta dramatică a acestui golf ascuns, renumit pentru frumusețea sa sălbatică, și aveți grijă la curenții puternici dacă alegeți să înotați.",
+            "en": "Admire the dramatic coastline at this secluded cove known for its rugged beauty, and always pay close attention to the strong currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            25.974838,
+            36.915118
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Windmühle, die von der landwirtschaftlichen Vergangenheit der Insel zeugt, und klettern Sie den Hügel für fantastische Fotos hinauf.",
+            "hu": "Fedezze fel ezt a történelmi szélmalmot, amely a sziget mezőgazdasági múltjáról tanúskodik, és másszon fel a dombra a lenyűgöző fényképekért.",
+            "ro": "Descoperiți această moară de vânt istorică ce mărturisește trecutul agricol al insulei și urcați pe deal pentru a face cele mai bune fotografii panoramice.",
+            "en": "Discover this historic windmill that bears witness to the island's rich agricultural past, and climb up the adjacent hill for spectacular panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aigiale",
+            "hu": "Aigiale",
+            "ro": "Aigiale",
+            "en": "Aigiale"
+          },
+          "coords": [
+            25.980373,
+            36.918522
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken Stätte, die einen Einblick in die Geschichte bietet, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi helyszínnek a lenyűgöző maradványait, amelyek bepillantást engednek a történelembe, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele fascinante ale acestui sit antic care oferă o fereastră către istorie și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remnants of this ancient site that offers a window into early history, and remember to wear comfortable shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem erfrischenden Spaziergang zum Strand von Lebrosos, wo das klare Wasser lockt. Gegen Mittag führt der Weg zum weichen Sand von Psile Ammos, ideal für eine Pause. Am Nachmittag entdecken Sie das raue Ufer von Khokhlakas und die faszinierende historische Windmühle. Der Abend endet bei den Ruinen von Aigiale, wo Sie den Tag gemütlich bei Sonnenuntergang ausklingen lassen.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Lebrosos strandra, ahol a kristálytiszta víz csábít. Délben az út a Psile Ammos finom homokjához vezet, amely ideális egy kis pihenésre. Délután fedezze fel a Khokhlakas vad partját és egy lenyűgöző történelmi szélmalmot. Az este az Aigiale romjainál ér véget, ahol naplementekor kényelmesen lezárhatja a tartalmas napot.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă către plaja Lebrosos, unde apele clare vă așteaptă. La prânz, traseul vă duce spre nisipul fin de la Psile Ammos, ideal pentru relaxare. După-amiaza explorați țărmul sălbatic de la Khokhlakas și impresionanta moară de vânt istorică. Seara se încheie la ruinele din Aigiale, unde vă puteți bucura de un apus liniștit.",
+        "en": "Begin your morning with a refreshing stroll to Lebrosos beach, where the crystal-clear waters invite you in. Around midday, the path leads to the soft sands of Psile Ammos, perfect for a relaxing break. In the afternoon, explore the rugged shoreline of Khokhlakas and discover a fascinating historic windmill. The evening concludes at the ancient ruins of Aigiale, enjoying a peaceful sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 5.71,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Windmühlen",
+            "hu": "Szélmalmok",
+            "ro": "Morile de vânt",
+            "en": "Windmills"
+          },
+          "coords": [
+            26.002467,
+            36.900024
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser malerischen Reihe traditioneller Windmühlen, die das Landschaftsbild prägen, und genießen Sie den atemberaubenden Blick bei Sonnenuntergang.",
+            "hu": "Sétáljon el a hagyományos szélmalmok ezen festői sora mellett, amelyek meghatározzák a tájat, és élvezze a lélegzetelállító kilátást a lemenő nap fényében.",
+            "ro": "Plimbați-vă pe lângă acest șir pitoresc de mori de vânt tradiționale care definesc peisajul și bucurați-vă de priveliștea uimitoare la apusul soarelui.",
+            "en": "Stroll past this picturesque row of traditional windmills that define the island's landscape, and enjoy the breathtaking panoramic views at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Siedlung",
+            "hu": "Település",
+            "ro": "Așezare",
+            "en": "Settlement"
+          },
+          "coords": [
+            25.999756,
+            36.909903
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser alten Siedlung, um die traditionelle Architektur zu bewundern, und nehmen Sie ausreichend Wasser für den sonnigen Weg mit.",
+            "hu": "Sétáljon át ennek a régi településnek a romjain, hogy megcsodálja a hagyományos építészetet, és vigyen magával elegendő vizet a napsütötte ösvényekre.",
+            "ro": "Plimbați-vă prin ruinele acestei așezări vechi pentru a admira arhitectura tradițională și asigurați-vă că aveți suficientă apă pentru traseul însorit.",
+            "en": "Wander through the ruins of this old settlement to admire the remains of traditional architecture, and carry plenty of water for the sunny, exposed pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebrosos",
+            "hu": "Lebrosos",
+            "ro": "Lebrosos",
+            "en": "Lebrosos"
+          },
+          "coords": [
+            25.971676,
+            36.908325
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser an diesem ruhigen Strandabschnitt, der sich ideal zum Schwimmen eignet, und bringen Sie Wasserschuhe für die Kiesstrände mit.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a békés partszakaszon, amely ideális egy frissítő úszáshoz, de érdemes vízicipőt hozni a kavicsos part miatt.",
+            "ro": "Bucurați-vă de apa cristalină a acestei plaje liniștite, perfectă pentru înot, și aduceți încălțăminte de apă pentru porțiunile cu pietriș.",
+            "en": "Enjoy the crystal-clear water at this peaceful stretch of beach that is ideal for a refreshing swim, and bring water shoes for the pebbly sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Psile Ammos",
+            "hu": "Psile Ammos",
+            "ro": "Psile Ammos",
+            "en": "Psile Ammos"
+          },
+          "coords": [
+            25.966557,
+            36.908112
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weichen Sandstrand mit flachem, türkisfarbenem Wasser, der sich perfekt für Familien eignet, und kommen Sie früh, um Schatten zu finden.",
+            "hu": "Pihenjen ezen a finom homokos, sekély és türkizkék vizű strandon, amely tökéletes családoknak, de érkezzen korán, hogy biztosan találjon árnyékot.",
+            "ro": "Relaxați-vă pe această plajă cu nisip fin și ape turcoaz puțin adânci, perfectă pentru familii, și ajungeți devreme pentru a prinde un loc la umbră.",
+            "en": "Relax on this soft sandy beach with shallow, turquoise waters perfectly suited for families, and be sure to arrive early to secure a spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            25.974838,
+            36.915118
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Windmühle, die von der landwirtschaftlichen Vergangenheit der Insel zeugt, und klettern Sie den Hügel für fantastische Fotos hinauf.",
+            "hu": "Fedezze fel ezt a történelmi szélmalmot, amely a sziget mezőgazdasági múltjáról tanúskodik, és másszon fel a dombra a lenyűgöző fényképekért.",
+            "ro": "Descoperiți această moară de vânt istorică ce mărturisește trecutul agricol al insulei și urcați pe deal pentru a face cele mai bune fotografii panoramice.",
+            "en": "Discover this historic windmill that bears witness to the island's rich agricultural past, and climb up the adjacent hill for spectacular panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aigiale",
+            "hu": "Aigiale",
+            "ro": "Aigiale",
+            "en": "Aigiale"
+          },
+          "coords": [
+            25.980373,
+            36.918522
+          ],
+          "category": "historical",
+          "arrive_at": "16:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken Stätte, die einen Einblick in die Geschichte bietet, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi helyszínnek a lenyűgöző maradványait, amelyek bepillantást engednek a történelembe, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele fascinante ale acestui sit antic care oferă o fereastră către istorie și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remnants of this ancient site that offers a window into early history, and remember to wear comfortable shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei den malerischen Windmühlen und fahren Sie dann zur alten Siedlung weiter. Mittags erreichen Sie die Küste bei Lebrosos, wo Sie sich im Wasser abkühlen können. Der Nachmittag bringt Sie zu den herrlichen Stränden von Psile Ammos und zu einer weiteren historischen Windmühle. Beenden Sie die Tour am frühen Abend bei den faszinierenden Ruinen von Aigiale.",
+        "hu": "Kezdje a kerékpártúrát a festői szélmalmoknál, majd tekerjen tovább az ősi település felé. Délben érje el a partot a Lebrosos közelében, ahol felfrissülhet a vízben. A délután a Psile Ammos csodálatos strandjaihoz és egy újabb történelmi szélmalomhoz vezet. Zárja a túrát kora este az Aigiale lenyűgöző romjainál egy kellemes tengerparti szellő kíséretében.",
+        "ro": "Începeți turul cu bicicleta la morile de vânt pitorești, apoi pedalați spre așezarea veche. La prânz ajungeți pe coastă la Lebrosos, unde vă puteți răcori în apă. După-amiaza vă duce la plajele minunate din Psile Ammos și la o altă moară de vânt istorică. Încheiați traseul seara devreme la ruinele fascinante de la Aigiale, însoțiți de briza mării.",
+        "en": "Start your cycling tour at the picturesque row of windmills before pedaling toward the ancient settlement. By midday, reach the coastline near Lebrosos, where you can cool off in the refreshing water. The afternoon takes you to the wonderful beaches of Psile Ammos and another historic windmill. Finish your tour in the early evening at the captivating ruins of Aigiale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 6.77,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Windmühlen",
+            "hu": "Szélmalmok",
+            "ro": "Morile de vânt",
+            "en": "Windmills"
+          },
+          "coords": [
+            26.002467,
+            36.900024
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser malerischen Reihe traditioneller Windmühlen, die das Landschaftsbild prägen, und genießen Sie den atemberaubenden Blick bei Sonnenuntergang.",
+            "hu": "Sétáljon el a hagyományos szélmalmok ezen festői sora mellett, amelyek meghatározzák a tájat, és élvezze a lélegzetelállító kilátást a lemenő nap fényében.",
+            "ro": "Plimbați-vă pe lângă acest șir pitoresc de mori de vânt tradiționale care definesc peisajul și bucurați-vă de priveliștea uimitoare la apusul soarelui.",
+            "en": "Stroll past this picturesque row of traditional windmills that define the island's landscape, and enjoy the breathtaking panoramic views at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Siedlung",
+            "hu": "Település",
+            "ro": "Așezare",
+            "en": "Settlement"
+          },
+          "coords": [
+            25.999756,
+            36.909903
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser alten Siedlung, um die traditionelle Architektur zu bewundern, und nehmen Sie ausreichend Wasser für den sonnigen Weg mit.",
+            "hu": "Sétáljon át ennek a régi településnek a romjain, hogy megcsodálja a hagyományos építészetet, és vigyen magával elegendő vizet a napsütötte ösvényekre.",
+            "ro": "Plimbați-vă prin ruinele acestei așezări vechi pentru a admira arhitectura tradițională și asigurați-vă că aveți suficientă apă pentru traseul însorit.",
+            "en": "Wander through the ruins of this old settlement to admire the remains of traditional architecture, and carry plenty of water for the sunny, exposed pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lebrosos",
+            "hu": "Lebrosos",
+            "ro": "Lebrosos",
+            "en": "Lebrosos"
+          },
+          "coords": [
+            25.971676,
+            36.908325
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser an diesem ruhigen Strandabschnitt, der sich ideal zum Schwimmen eignet, und bringen Sie Wasserschuhe für die Kiesstrände mit.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a békés partszakaszon, amely ideális egy frissítő úszáshoz, de érdemes vízicipőt hozni a kavicsos part miatt.",
+            "ro": "Bucurați-vă de apa cristalină a acestei plaje liniștite, perfectă pentru înot, și aduceți încălțăminte de apă pentru porțiunile cu pietriș.",
+            "en": "Enjoy the crystal-clear water at this peaceful stretch of beach that is ideal for a refreshing swim, and bring water shoes for the pebbly sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Khokhlakas",
+            "hu": "Khokhlakas",
+            "ro": "Khokhlakas",
+            "en": "Khokhlakas"
+          },
+          "coords": [
+            25.964136,
+            36.908097
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Küste an dieser versteckten Bucht, die für ihre raue Schönheit bekannt ist, und achten Sie auf die Strömungen beim Schwimmen.",
+            "hu": "Csodálja meg a drámai partvonalat ebben az eldugott, vad szépségéről ismert öbölben, és fürdőzés közben mindenképp ügyeljen az erős áramlatokra.",
+            "ro": "Admirați coasta dramatică a acestui golf ascuns, renumit pentru frumusețea sa sălbatică, și aveți grijă la curenții puternici dacă alegeți să înotați.",
+            "en": "Admire the dramatic coastline at this secluded cove known for its rugged beauty, and always pay close attention to the strong currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            25.974838,
+            36.915118
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Windmühle, die von der landwirtschaftlichen Vergangenheit der Insel zeugt, und klettern Sie den Hügel für fantastische Fotos hinauf.",
+            "hu": "Fedezze fel ezt a történelmi szélmalmot, amely a sziget mezőgazdasági múltjáról tanúskodik, és másszon fel a dombra a lenyűgöző fényképekért.",
+            "ro": "Descoperiți această moară de vânt istorică ce mărturisește trecutul agricol al insulei și urcați pe deal pentru a face cele mai bune fotografii panoramice.",
+            "en": "Discover this historic windmill that bears witness to the island's rich agricultural past, and climb up the adjacent hill for spectacular panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aigiale",
+            "hu": "Aigiale",
+            "ro": "Aigiale",
+            "en": "Aigiale"
+          },
+          "coords": [
+            25.980373,
+            36.918522
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken Stätte, die einen Einblick in die Geschichte bietet, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi helyszínnek a lenyűgöző maradványait, amelyek bepillantást engednek a történelembe, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele fascinante ale acestui sit antic care oferă o fereastră către istorie și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remnants of this ancient site that offers a window into early history, and remember to wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ormos Mikri Vichlada",
+            "hu": "Ormos Mikri Vichlada",
+            "ro": "Ormos Mikri Vichlada",
+            "en": "Ormos Mikri Vichlada"
+          },
+          "coords": [
+            25.977446,
+            36.924219
+          ],
+          "category": "recreational",
+          "arrive_at": "17:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an dieser friedlichen, kleinen Bucht, die abseits der großen Touristenströme liegt, und packen Sie ein Picknick für einen ungestörten Nachmittag ein.",
+            "hu": "Töltődjön fel ebben a békés, apró öbölben, amely távol esik a nagy turistatömegektől, és csomagoljon pikniket egy zavartalan, pihentető délutánhoz.",
+            "ro": "Relaxați-vă în acest golfuleț liniștit, aflat departe de aglomerația turistică, și pregătiți un coș de picnic pentru o după-amiază complet netulburată.",
+            "en": "Recharge at this peaceful, tiny bay located far away from the major tourist crowds, and pack a small picnic basket to enjoy an entirely undisturbed afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem herrlichen Ausblick bei den alten Windmühlen und führt Sie zur historischen Siedlung. Mittags locken die Strände von Lebrosos und Khokhlakas zu einer sonnigen Pause am Wasser. Der Nachmittag steht im Zeichen der Geschichte mit der einzelnen Windmühle und den beeindruckenden Ruinen von Aigiale. Lassen Sie den Tag schließlich entspannt an der ruhigen Bucht Ormos Mikri Vichlada ausklingen.",
+        "hu": "Az utazás csodálatos kilátással kezdődik a régi szélmalmoknál, majd a történelmi településhez vezet. Délben a Lebrosos és a Khokhlakas strandok hívogatnak egy napos vízparti pihenőre. A délután a történelem jegyében telik a magányos szélmalommal és az Aigiale romjaival. Végül a napot az Ormos Mikri Vichlada békés öblében zárhatja le egy kellemes sétával.",
+        "ro": "Călătoria începe cu o priveliște magnifică la vechile mori de vânt și vă duce spre așezarea istorică. La prânz, plajele Lebrosos și Khokhlakas vă atrag pentru o pauză însorită la marginea apei. După-amiaza este dedicată istoriei, vizitând moara de vânt singuratică și ruinele din Aigiale. La final, încheiați ziua relaxându-vă în golful liniștit Ormos Mikri Vichlada.",
+        "en": "Your drive begins with magnificent views at the old windmills and takes you to the historic settlement. At midday, the beaches of Lebrosos and Khokhlakas beckon for a sunny waterside break. The afternoon is dedicated to history, featuring the solitary windmill and the impressive ruins of Aigiale. Finally, end your day relaxing peacefully at the quiet bay of Ormos Mikri Vichlada."
+      }
+    }
+  }
+}

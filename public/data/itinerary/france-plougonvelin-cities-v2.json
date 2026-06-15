@@ -1,0 +1,566 @@
+{
+  "city_id": "france-plougonvelin-cities-v2",
+  "anchor": {
+    "name": "Plougonvelin",
+    "coords": [
+      -4.71924,
+      48.34151
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Gwenael",
+            "hu": "Église Saint-Gwenael",
+            "ro": "Église Saint-Gwenael",
+            "en": "Église Saint-Gwenael"
+          },
+          "coords": [
+            -4.719516,
+            48.34014
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der Architektur dieser zentralen Kirche, bevor Sie sich einen Kaffee in der Nähe holen.",
+            "hu": "Kezdje a napot a központi templom építészetének megcsodálásával, mielőtt egy kávét fogyasztana a közeli hangulatos kávézók egyikében.",
+            "ro": "Începeți ziua admirând arhitectura acestei biserici centrale, acordând atenție vitraliilor înainte de a bea o cafea în apropiere.",
+            "en": "Start your day admiring the architecture of this central church, paying attention to its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Nécropole néolithique",
+            "hu": "Nécropole néolithique",
+            "ro": "Nécropole néolithique",
+            "en": "Nécropole néolithique"
+          },
+          "coords": [
+            -4.709854,
+            48.337912
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Grabstätten, um die tiefe Geschichte der Bretagne zu spüren; tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezeket az ősi temetkezési helyeket, hogy átérezze Bretagne mély történelmét; viseljen kényelmes cipőt a kavicsos talajon.",
+            "ro": "Explorați aceste vechi locuri de înmormântare pentru a simți istoria Bretaniei; purtați încălțăminte robustă, deoarece terenul este accidentat.",
+            "en": "Explore these ancient burial grounds to feel the deep history of Brittany; wear sturdy shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie haute de 270mm",
+            "hu": "Batterie haute de 270mm",
+            "ro": "Batterie haute de 270mm",
+            "en": "Batterie haute de 270mm"
+          },
+          "coords": [
+            -4.707697,
+            48.337327
+          ],
+          "category": "fortress",
+          "arrive_at": "11:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese Küstenverteidigungsanlage mit herrlichem Meerblick; bringen Sie eine Windjacke mit, da die Brise oft stark ist.",
+            "hu": "Fedezze fel ezt a parti védelmi építményt, ahonnan csodálatos kilátás nyílik a tengerre; hozzon széldzsekit az erős szél miatt.",
+            "ro": "Investigați această structură de apărare cu vederi remarcabile la mare; luați o jachetă de vânt, deoarece briza de coastă este puternică.",
+            "en": "Investigate this coastal defense structure which offers remarkable sea views; bring a windbreaker as the coastal breeze is often strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Bertheaume",
+            "hu": "Fort de Bertheaume",
+            "ro": "Fort de Bertheaume",
+            "en": "Fort de Bertheaume"
+          },
+          "coords": [
+            -4.697581,
+            48.336941
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke zu dieser beeindruckenden Inselfestung; buchen Sie Tickets online, um die Warteschlangen zu überspringen.",
+            "hu": "Keljen át a gyaloghídon, hogy elérje ezt a lenyűgöző szigeti erődöt; foglaljon jegyet előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Traversați pasarela pentru a ajunge la această fortăreață impresionantă; rezervați bilete online pentru a evita cozile în lunile de vară.",
+            "en": "Cross the footbridge to reach this impressive island fortress; book tickets online in advance to skip the lines during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Perzel ou de Bertheaume",
+            "hu": "Plage du Perzel ou de Bertheaume",
+            "ro": "Plage du Perzel ou de Bertheaume",
+            "en": "Plage du Perzel ou de Bertheaume"
+          },
+          "coords": [
+            -4.701423,
+            48.339513
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses geschützten Strandes; packen Sie ein Handtuch und Wasser für eine erfrischende Nachmittagspause ein.",
+            "hu": "Pihenjen ezen a védett strand aranyló homokján az erőd közelében; hozzon magával törölközőt és vizet egy frissítő délutáni pihenéshez.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje adăpostite de lângă fort; luați un prosop și apă pentru o pauză răcoritoare de după-amiază.",
+            "en": "Relax on the golden sands of this sheltered beach perfectly nestled near the fort; pack a towel and some water for a refreshing afternoon rest."
+          }
+        },
+        {
+          "name": {
+            "de": "plage des trois curés",
+            "hu": "plage des trois curés",
+            "ro": "plage des trois curés",
+            "en": "plage des trois curés"
+          },
+          "coords": [
+            -4.701282,
+            48.342892
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische Bucht mit kristallklarem Wasser, ideal für ein Bad; kommen Sie am frühen Nachmittag für einen guten Platz.",
+            "hu": "Fedezze fel ezt a csendesebb, kristálytiszta vizű, festői öblöt; érkezzen kora délután, hogy jó helyet biztosítson magának a parton.",
+            "ro": "Descoperiți acest golf liniștit, pitoresc, cu ape cristaline, ideal pentru o baie rapidă; sosiți la începutul după-amiezii pentru un loc bun.",
+            "en": "Discover this quieter, picturesque cove with crystal-clear waters ideal for a quick dip; arrive early in the afternoon to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Trez-Hir",
+            "hu": "Plage du Trez-Hir",
+            "ro": "Plage du Trez-Hir",
+            "en": "Plage du Trez-Hir"
+          },
+          "coords": [
+            -4.700529,
+            48.34932
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem weitläufigen Strand mit vielen Einrichtungen; gönnen Sie sich ein Eis von einem Kiosk an der Uferpromenade.",
+            "hu": "Zárja sétáját ezen a népszerű, széles strandon, ahol sok szolgáltatás elérhető; kényeztesse magát egy fagylalttal a vízparti sétányon.",
+            "ro": "Încheiați turul la această plajă populară și extinsă cu multe facilități; răsfățați-vă cu o înghețată de la un chioșc de pe faleză.",
+            "en": "End your walking tour at this expansive, popular beach with plenty of nearby facilities; treat yourself to an ice cream from a waterfront kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie im Herzen von Plougonvelin mit der eleganten Église Saint-Gwenael und spazieren Sie zur Küste. Die Morgenbrise führt Sie zur alten Nécropole néolithique und taucht Sie in die reiche Geschichte der Bretagne ein.\nMidday: Setzen Sie Ihren Küstenweg zur Batterie haute de 270mm fort. Das Highlight ist das Fort de Bertheaume, eine Inselfestung mit atemberaubender Aussicht und maritimen Geschichten für Ihre mittägliche Erkundung.\nAfternoon: Entspannen Sie Ihr Tempo am Plage du Perzel für eine wohlverdiente Pause. Ein kurzer Spaziergang führt zur ruhigeren plage des trois curés, wo die Wellen einen ruhigen Soundtrack für den Nachmittag bieten.\nEvening: Beenden Sie Ihre Wanderung am weitläufigen Plage du Trez-Hir. Genießen Sie das schwindende Licht über dem Ozean und gönnen Sie sich einen Snack am Meer, während die Sonne an der wunderschönen bretonischen Küste untergeht.",
+        "hu": "Morning: Kezdje a napot Plougonvelin szívében az elegáns Église Saint-Gwenael megcsodálásával, majd sétáljon a part felé. A reggeli szellő az ősi Nécropole néolithique-hez vezeti, elmerülve Bretagne gazdag történelmében.\nMidday: Folytassa parti sétáját a Batterie haute de 270mm felé. A fénypont a Fort de Bertheaume szigeti erődje, amely lélegzetelállító kilátást és tengerészeti történeteket kínál a déli felfedezéshez.\nAfternoon: Lassítson a tempón a Plage du Perzel homokján egy jól megérdemelt pihenőre. Egy rövid séta elvezeti a csendesebb plage des trois curés-hez, ahol a hullámok nyugodt aláfestést nyújtanak a délutánhoz.\nEvening: Zárja a sétát a tágas Plage du Trez-Hir-en. Élvezze a halványuló fényt az óceán felett, talán egy tengerparti finomsággal kísérve, miközben a nap lenyugszik a gyönyörű breton tengerparton.",
+        "ro": "Morning: Începeți în inima orașului Plougonvelin cu biserica Église Saint-Gwenael, apoi mergeți spre coastă. Briza dimineții vă ghidează către Nécropole néolithique, scufundându-vă în istoria bogată a Bretaniei.\nMidday: Continuați plimbarea de coastă spre Batterie haute de 270mm. Atracția principală este Fort de Bertheaume, o fortăreață insulară ce oferă vederi uluitoare și povești maritime pentru explorarea de la prânz.\nAfternoon: Relaxați-vă ritmul la Plage du Perzel pentru o pauză binemeritată. O scurtă plimbare vă duce la liniștita plage des trois curés, unde valurile ritmice oferă o coloană sonoră senină pentru după-amiază.\nEvening: Încheiați-vă călătoria pe jos la Plage du Trez-Hir. Bucurați-vă de lumina slabă de peste ocean, poate savurând o gustare pe malul mării în timp ce soarele apune pe frumoasa coastă bretonă.",
+        "en": "Morning: Start in the heart of Plougonvelin, admiring the elegant Église Saint-Gwenael before walking towards the coastline. The morning breeze guides you to the ancient Nécropole néolithique, immersing you in Brittany's rich, layered history.\nMidday: Continue your coastal walk to discover the formidable Batterie haute de 270mm. The highlight awaits at the Fort de Bertheaume, an island fortress offering breathtaking views and fascinating maritime tales to fuel your midday exploration.\nAfternoon: Relax your pace as you descend to the Plage du Perzel for a well-deserved rest. A short stroll leads to the quieter plage des trois curés, where the rhythmic waves provide a serene soundtrack for a peaceful afternoon by the sea.\nEvening: Conclude your walking journey at the expansive Plage du Trez-Hir. Enjoy the fading light over the ocean, perhaps grabbing a seaside treat as the sun sets, wrapping up a perfect day of exploration on the beautiful Breton coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre Kéraudy",
+            "hu": "Centre Kéraudy",
+            "ro": "Centre Kéraudy",
+            "en": "Centre Kéraudy"
+          },
+          "coords": [
+            -4.722139,
+            48.343484
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das Programm dieses modernen Kulturzentrums an; parken Sie Ihr Fahrrad sicher an den dafür vorgesehenen Fahrradständern.",
+            "hu": "Nézze meg ennek a modern kulturális központnak a programját; parkolja le kerékpárját biztonságosan a bejárat melletti kijelölt tárolóknál.",
+            "ro": "Verificați programul acestui centru cultural modern care oferă artă; parcați bicicleta în siguranță la suporturile desemnate de la intrare.",
+            "en": "Check out the schedule of this modern cultural center offering art and shows; park your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gwenael",
+            "hu": "Église Saint-Gwenael",
+            "ro": "Église Saint-Gwenael",
+            "en": "Église Saint-Gwenael"
+          },
+          "coords": [
+            -4.719516,
+            48.34014
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der Architektur dieser zentralen Kirche, bevor Sie sich einen Kaffee in der Nähe holen.",
+            "hu": "Kezdje a napot a központi templom építészetének megcsodálásával, mielőtt egy kávét fogyasztana a közeli hangulatos kávézók egyikében.",
+            "ro": "Începeți ziua admirând arhitectura acestei biserici centrale, acordând atenție vitraliilor înainte de a bea o cafea în apropiere.",
+            "en": "Start your day admiring the architecture of this central church, paying attention to its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieil Amer Balise Nord",
+            "hu": "Vieil Amer Balise Nord",
+            "ro": "Vieil Amer Balise Nord",
+            "en": "Vieil Amer Balise Nord"
+          },
+          "coords": [
+            -4.711108,
+            48.336861
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem historischen Seezeichen, das Seeleute führte; es ist ein großartiger Ort für ein schnelles Foto gegen den Meereshorizont.",
+            "hu": "Álljon meg egy pillanatra ennél a történelmi tengeri jelképnél; kiváló helyszín egy gyors fényképre a tengeri horizonttal a háttérben.",
+            "ro": "Opriți-vă la acest reper istoric de navigație care a ghidat marinarii; este un loc minunat pentru o fotografie rapidă cu orizontul mării.",
+            "en": "Pause briefly at this historic navigational landmark that guided sailors for decades; it’s a great spot for a quick photo against the sea horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie Basse de 95mm",
+            "hu": "Batterie Basse de 95mm",
+            "ro": "Batterie Basse de 95mm",
+            "en": "Batterie Basse de 95mm"
+          },
+          "coords": [
+            -4.702194,
+            48.337182
+          ],
+          "category": "fortress",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die untere Küstenbatterie, um mehr über die Militärgeschichte zu erfahren; achten Sie auf Ihre Schritte auf den rauen Betonresten.",
+            "hu": "Fedezze fel az alsó parti üteget a helyi hadtörténet megismeréséhez; ügyeljen a lépteire a hullámokra néző durva betonmaradványokon.",
+            "ro": "Explorați bateria de coastă inferioară pentru a afla istoria militară; aveți grijă pe unde călcați pe rămășițele aspre de beton spre valuri.",
+            "en": "Explore the lower coastal battery to learn about local military history; watch your step on the rough concrete remnants overlooking the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Bertheaume",
+            "hu": "Fort de Bertheaume",
+            "ro": "Fort de Bertheaume",
+            "en": "Fort de Bertheaume"
+          },
+          "coords": [
+            -4.697581,
+            48.336941
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke zu dieser beeindruckenden Inselfestung; buchen Sie Tickets online, um die Warteschlangen zu überspringen.",
+            "hu": "Keljen át a gyaloghídon, hogy elérje ezt a lenyűgöző szigeti erődöt; foglaljon jegyet előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Traversați pasarela pentru a ajunge la această fortăreață impresionantă; rezervați bilete online pentru a evita cozile în lunile de vară.",
+            "en": "Cross the footbridge to reach this impressive island fortress; book tickets online in advance to skip the lines during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Perzel ou de Bertheaume",
+            "hu": "Plage du Perzel ou de Bertheaume",
+            "ro": "Plage du Perzel ou de Bertheaume",
+            "en": "Plage du Perzel ou de Bertheaume"
+          },
+          "coords": [
+            -4.701423,
+            48.339513
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses geschützten Strandes; packen Sie ein Handtuch und Wasser für eine erfrischende Nachmittagspause ein.",
+            "hu": "Pihenjen ezen a védett strand aranyló homokján az erőd közelében; hozzon magával törölközőt és vizet egy frissítő délutáni pihenéshez.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje adăpostite de lângă fort; luați un prosop și apă pentru o pauză răcoritoare de după-amiază.",
+            "en": "Relax on the golden sands of this sheltered beach perfectly nestled near the fort; pack a towel and some water for a refreshing afternoon rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Trez-Hir",
+            "hu": "Plage du Trez-Hir",
+            "ro": "Plage du Trez-Hir",
+            "en": "Plage du Trez-Hir"
+          },
+          "coords": [
+            -4.700529,
+            48.34932
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem weitläufigen Strand mit vielen Einrichtungen; gönnen Sie sich ein Eis von einem Kiosk an der Uferpromenade.",
+            "hu": "Zárja sétáját ezen a népszerű, széles strandon, ahol sok szolgáltatás elérhető; kényeztesse magát egy fagylalttal a vízparti sétányon.",
+            "ro": "Încheiați turul la această plajă populară și extinsă cu multe facilități; răsfățați-vă cu o înghețată de la un chioșc de pe faleză.",
+            "en": "End your walking tour at this expansive, popular beach with plenty of nearby facilities; treat yourself to an ice cream from a waterfront kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Vaéré",
+            "hu": "Jardin du Vaéré",
+            "ro": "Jardin du Vaéré",
+            "en": "Jardin du Vaéré"
+          },
+          "coords": [
+            -4.750948,
+            48.335278
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem wunderschönen historischen Garten; schließen Sie Ihr Fahrrad an und genießen Sie einen ruhigen Spaziergang.",
+            "hu": "Fejezze be túráját ebben a gyönyörű történelmi kertben; kösse le a biciklijét kint, és élvezze a csendes sétát a vibráló helyi növényzetben.",
+            "ro": "Terminați plimbarea în această frumoasă grădină istorică; legați-vă bicicleta afară și bucurați-vă de o plimbare liniștită printre flori.",
+            "en": "Finish your ride in this beautifully landscaped historic garden; tie your bike outside and enjoy a tranquil stroll among the vibrant local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie am Centre Kéraudy und radeln Sie vorbei an der Église Saint-Gwenael. Fahren Sie zur Küste, um die Vieil Amer Balise Nord vor dem Morgenhimmel zu entdecken.\nMidday: Radeln Sie an der Küste entlang zur Batterie Basse. Schließen Sie Ihr Rad ab, um das Fort de Bertheaume zu Fuß zu erkunden und die weite Aussicht auf die raue Landschaft zu genießen.\nAfternoon: Fahren Sie zum Plage du Perzel für eine Pause und kreuzen Sie auf den Küstenwegen zum Plage du Trez-Hir. Die erfrischende Meeresbrise macht die Fahrt am Nachmittag wirklich belebend.\nEvening: Beenden Sie den Tag mit einer malerischen Fahrt ins Landesinnere zum Jardin du Vaéré. Spazieren Sie bei Sonnenuntergang durch die historischen Gärten und blicken Sie auf Ihre Radtour zurück.",
+        "hu": "Morning: Kezdje a kerékpáros kalandot a Centre Kéraudy-nál, majd tekerjen el az Église Saint-Gwenael mellett. Irány a part, ahol megcsodálhatja a Vieil Amer Balise Nord-ot a reggeli égbolt hátterében.\nMidday: Kerékpározzon a drámai partvonal mentén a Batterie Basse felé. Zárja le a biciklit, és fedezze fel gyalog a Fort de Bertheaume-ot, élvezve a zord breton táj panorámáját.\nAfternoon: Tekerjen a Plage du Perzel-hez egy pihentető szünetre, majd guruljon a parti ösvényeken a nyüzsgő Plage du Trez-Hir-ig. A frissítő tengeri szellő igazán élénkítővé teszi a délutánt.\nEvening: Zárja a napot egy festői túrával a szárazföld belseje felé, a Jardin du Vaéré-hez. Sétáljon a történelmi kertekben naplementekor, felidézve a dinamikus kerékpáros túra emlékeit.",
+        "ro": "Morning: Începeți aventura cu bicicleta la Centre Kéraudy, apoi mergeți pe lângă Église Saint-Gwenael. Pedalați spre coastă pentru a vedea Vieil Amer Balise Nord pe cerul dimineții.\nMidday: Pedalați de-a lungul coastei dramatice spre Batterie Basse. Blocați-vă bicicleta pentru a descoperi impresionantul Fort de Bertheaume pe jos, bucurându-vă de priveliștile peisajului aspru.\nAfternoon: Mergeți spre Plage du Perzel pentru o pauză relaxantă, apoi coborâți pe potecile de coastă spre Plage du Trez-Hir. Briza mării face ca plimbarea de după-amiază să fie revigorantă.\nEvening: Încheiați ziua cu o plimbare pitorească spre interiorul orașului, spre Jardin du Vaéré. Plimbați-vă prin grădinile istorice la apus, reflectând la un tur dinamic prin Plougonvelin.",
+        "en": "Morning: Kick off your biking adventure at the Centre Kéraudy, then ride through town past the historic Église Saint-Gwenael. Pedal towards the coast to spot the Vieil Amer Balise Nord against the morning sky.\nMidday: Cycle along the dramatic shoreline to explore the Batterie Basse de 95mm. Lock your bike to discover the impressive Fort de Bertheaume on foot, enjoying sweeping views of the rugged Breton landscape.\nAfternoon: Saddle up and ride to the Plage du Perzel for a relaxing break, then cruise along the coastal paths to the lively Plage du Trez-Hir. The refreshing sea breeze makes the afternoon ride truly invigorating.\nEvening: Conclude your day with a scenic inland ride to the lush Jardin du Vaéré. Stroll through the historic gardens as the sun sets, reflecting on a dynamic and fulfilling biking tour around Plougonvelin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin du Vaéré",
+            "hu": "Jardin du Vaéré",
+            "ro": "Jardin du Vaéré",
+            "en": "Jardin du Vaéré"
+          },
+          "coords": [
+            -4.750948,
+            48.335278
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem wunderschönen historischen Garten; schließen Sie Ihr Fahrrad an und genießen Sie einen ruhigen Spaziergang.",
+            "hu": "Fejezze be túráját ebben a gyönyörű történelmi kertben; kösse le a biciklijét kint, és élvezze a csendes sétát a vibráló helyi növényzetben.",
+            "ro": "Terminați plimbarea în această frumoasă grădină istorică; legați-vă bicicleta afară și bucurați-vă de o plimbare liniștită printre flori.",
+            "en": "Finish your ride in this beautifully landscaped historic garden; tie your bike outside and enjoy a tranquil stroll among the vibrant local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Kéraudy",
+            "hu": "Centre Kéraudy",
+            "ro": "Centre Kéraudy",
+            "en": "Centre Kéraudy"
+          },
+          "coords": [
+            -4.722139,
+            48.343484
+          ],
+          "category": "cultural",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das Programm dieses modernen Kulturzentrums an; parken Sie Ihr Fahrrad sicher an den dafür vorgesehenen Fahrradständern.",
+            "hu": "Nézze meg ennek a modern kulturális központnak a programját; parkolja le kerékpárját biztonságosan a bejárat melletti kijelölt tárolóknál.",
+            "ro": "Verificați programul acestui centru cultural modern care oferă artă; parcați bicicleta în siguranță la suporturile desemnate de la intrare.",
+            "en": "Check out the schedule of this modern cultural center offering art and shows; park your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gwenael",
+            "hu": "Église Saint-Gwenael",
+            "ro": "Église Saint-Gwenael",
+            "en": "Église Saint-Gwenael"
+          },
+          "coords": [
+            -4.719516,
+            48.34014
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der Architektur dieser zentralen Kirche, bevor Sie sich einen Kaffee in der Nähe holen.",
+            "hu": "Kezdje a napot a központi templom építészetének megcsodálásával, mielőtt egy kávét fogyasztana a közeli hangulatos kávézók egyikében.",
+            "ro": "Începeți ziua admirând arhitectura acestei biserici centrale, acordând atenție vitraliilor înainte de a bea o cafea în apropiere.",
+            "en": "Start your day admiring the architecture of this central church, paying attention to its stained glass before grabbing a coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieil Amer Balise Sud",
+            "hu": "Vieil Amer Balise Sud",
+            "ro": "Vieil Amer Balise Sud",
+            "en": "Vieil Amer Balise Sud"
+          },
+          "coords": [
+            -4.708736,
+            48.332608
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie an der südlichen Navigationsbake für einen Panoramablick; fahren Sie mit dem Auto in die kleine Bucht, um sicher Fotos zu machen.",
+            "hu": "Álljon meg a déli navigációs jeladónál a panorámás kilátásért; parkoljon le a közeli kis öbölben, hogy biztonságosan készíthessen fotókat.",
+            "ro": "Opriți-vă la baliza sudică pentru vederi panoramice ale oceanului; trageți mașina în mica parcare din apropiere pentru fotografii sigure.",
+            "en": "Stop by the southern navigational beacon for panoramic ocean views; pull your car into the small layby nearby to safely capture some coastal photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie haute de 270mm",
+            "hu": "Batterie haute de 270mm",
+            "ro": "Batterie haute de 270mm",
+            "en": "Batterie haute de 270mm"
+          },
+          "coords": [
+            -4.707697,
+            48.337327
+          ],
+          "category": "fortress",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese Küstenverteidigungsanlage mit herrlichem Meerblick; bringen Sie eine Windjacke mit, da die Brise oft stark ist.",
+            "hu": "Fedezze fel ezt a parti védelmi építményt, ahonnan csodálatos kilátás nyílik a tengerre; hozzon széldzsekit az erős szél miatt.",
+            "ro": "Investigați această structură de apărare cu vederi remarcabile la mare; luați o jachetă de vânt, deoarece briza de coastă este puternică.",
+            "en": "Investigate this coastal defense structure which offers remarkable sea views; bring a windbreaker as the coastal breeze is often strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Bertheaume",
+            "hu": "Fort de Bertheaume",
+            "ro": "Fort de Bertheaume",
+            "en": "Fort de Bertheaume"
+          },
+          "coords": [
+            -4.697581,
+            48.336941
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie die Fußgängerbrücke zu dieser beeindruckenden Inselfestung; buchen Sie Tickets online, um die Warteschlangen zu überspringen.",
+            "hu": "Keljen át a gyaloghídon, hogy elérje ezt a lenyűgöző szigeti erődöt; foglaljon jegyet előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Traversați pasarela pentru a ajunge la această fortăreață impresionantă; rezervați bilete online pentru a evita cozile în lunile de vară.",
+            "en": "Cross the footbridge to reach this impressive island fortress; book tickets online in advance to skip the lines during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Trez-Hir",
+            "hu": "Plage du Trez-Hir",
+            "ro": "Plage du Trez-Hir",
+            "en": "Plage du Trez-Hir"
+          },
+          "coords": [
+            -4.700529,
+            48.34932
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem weitläufigen Strand mit vielen Einrichtungen; gönnen Sie sich ein Eis von einem Kiosk an der Uferpromenade.",
+            "hu": "Zárja sétáját ezen a népszerű, széles strandon, ahol sok szolgáltatás elérhető; kényeztesse magát egy fagylalttal a vízparti sétányon.",
+            "ro": "Încheiați turul la această plajă populară și extinsă cu multe facilități; răsfățați-vă cu o înghețată de la un chioșc de pe faleză.",
+            "en": "End your walking tour at this expansive, popular beach with plenty of nearby facilities; treat yourself to an ice cream from a waterfront kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie im ruhigen Jardin du Vaéré mit einem friedlichen Spaziergang. Fahren Sie dann ins Herz von Plougonvelin, um die Kultur im Centre Kéraudy und der Église Saint-Gwenael zu erleben.\nMidday: Fahren Sie zur rauen Küste und halten Sie für Fotos an der Vieil Amer Balise Sud. Die Fahrt führt weiter zur Batterie haute de 270mm, um die Militärgeschichte dieses Ufers aufzunehmen.\nAfternoon: Parken Sie beim Fort de Bertheaume und verbringen Sie den Nachmittag mit der Erkundung der Inselfestung. Die Klippen und Wellen schaffen eine unvergessliche Atmosphäre bretonischer Widerstandskraft.\nEvening: Fahren Sie für einen entspannten Abend zum Plage du Trez-Hir. Spazieren Sie bei Sonnenuntergang über die Promenade und runden Sie diesen wunderschönen Roadtrip durch Plougonvelin ab.",
+        "hu": "Morning: Kezdje a festői autózást a Jardin du Vaéré-nél egy békés sétával. Ezután vezessen Plougonvelin szívébe, és ismerje meg a helyi kultúrát a Centre Kéraudy-ban és az Église Saint-Gwenael-nél.\nMidday: Navigáljon a zord tengerpart felé, megállva a Vieil Amer Balise Sud-nál fotózni. Folytassa a partmenti utat a Batterie haute de 270mm-hez, elmélyedve a stratégiai partvonal katonai történelmében.\nAfternoon: Parkoljon le a lenyűgöző Fort de Bertheaume közelében, és töltse a kora délutánt a szigeti erődítmények felfedezésével. A drámai sziklák és a hullámok felejthetetlen hangulatot teremtenek.\nEvening: Vezessen el a népszerű Plage du Trez-Hir-hez egy pihentető estéért. Sétáljon a nyüzsgő sétányon, miközben a nap lenyugszik az óceán felett, megkoronázva ezt a csodálatos autós túrát.",
+        "ro": "Morning: Începeți la Jardin du Vaéré cu o plimbare liniștită dimineața. Apoi, conduceți în inima orașului Plougonvelin pentru a experimenta cultura la Centre Kéraudy și biserica Église Saint-Gwenael.\nMidday: Navigați spre coasta aspră, oprindu-vă la Vieil Amer Balise Sud pentru fotografii. Continuați drumul spre Batterie haute de 270mm, absorbind istoria militară profundă a acestui țărm.\nAfternoon: Parcați lângă Fort de Bertheaume și petreceți după-amiaza explorând fortificațiile insulei. Stâncile dramatice și valurile creează o atmosferă de neuitat a rezistenței bretone.\nEvening: Conduceți spre Plage du Trez-Hir pentru o seară relaxată. Plimbați-vă pe faleza vibrantă în timp ce soarele apune peste ocean, încheind o excursie frumoasă pe coastă.",
+        "en": "Morning: Start your scenic drive at the tranquil Jardin du Vaéré, enjoying a peaceful morning walk. Then, drive into the heart of Plougonvelin to experience the local culture at Centre Kéraudy and Église Saint-Gwenael.\nMidday: Navigate toward the rugged coast, pausing at the Vieil Amer Balise Sud for photos. Continue your coastal drive to the Batterie haute de 270mm, absorbing the deep military history of this strategic shoreline.\nAfternoon: Park near the magnificent Fort de Bertheaume and spend the early afternoon exploring its island fortifications. The dramatic cliffs and crashing waves create an unforgettable atmosphere of Breton resilience.\nEvening: Drive over to the popular Plage du Trez-Hir for a relaxed evening. Stroll along the vibrant promenade as the sun sets over the ocean, capping off a beautifully seamless road trip across Plougonvelin."
+      }
+    }
+  }
+}

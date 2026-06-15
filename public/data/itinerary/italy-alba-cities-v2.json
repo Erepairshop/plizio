@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-alba-cities-v2",
+  "anchor": {
+    "name": "Alba",
+    "coords": [
+      8.025636,
+      44.691542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Tartufo",
+            "hu": "Museo del Tartufo",
+            "ro": "Museo del Tartufo",
+            "en": "Museo del Tartufo"
+          },
+          "coords": [
+            8.034632,
+            44.69887
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die Geschichte und kulinarische Bedeutung von Albas berühmten weißen Trüffeln, aber prüfen Sie vorab unbedingt die saisonalen Verkostungszeiten.",
+            "hu": "Fedezze fel Alba híres fehér szarvasgombájának történetét és kulináris jelentőségét itt, de látogatás előtt mindenképpen ellenőrizze a szezonális kóstolók időpontjait.",
+            "ro": "Descoperiți aici istoria și importanța culinară a celebrelor trufe albe din Alba, dar nu uitați să verificați programul degustărilor de sezon înainte de vizită.",
+            "en": "Discover the history and culinary significance of Alba's famous white truffle here, and remember to check the seasonal tasting schedules before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Medioevale Abbassata",
+            "hu": "Torre Medioevale Abbassata",
+            "ro": "Torre Medioevale Abbassata",
+            "en": "Torre Medioevale Abbassata"
+          },
+          "coords": [
+            8.035058,
+            44.699826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten, abgesenkten mittelalterlichen Turm der alten aristokratischen Rivalitäten, den Sie am besten von der nahen Ecke im perfekten Licht fotografieren.",
+            "hu": "Csodálja meg ezt a lenyűgöző, ősi arisztokrata rivalizálást tükröző középkori csonkatornyot, amelyet a közeli sarokról érdemes a legjobb fényviszonyok mellett fotózni.",
+            "ro": "Admirați acest turn medieval parțial coborât care reflectă vechile rivalități aristocratice, cel mai bine de fotografiat de la colțul din apropiere pentru o lumină ideală.",
+            "en": "Admire this striking lowered medieval tower that reflects the city's ancient aristocratic rivalries, best photographed from the nearby corner for ideal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Alba",
+            "hu": "Municipio di Alba",
+            "ro": "Municipio di Alba",
+            "en": "Municipio di Alba"
+          },
+          "coords": [
+            8.03568,
+            44.700961
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Rathaus mit seinen wunderschönen Fresken und nehmen Sie sich Zeit für die faszinierenden römischen Ruinen im zentralen Innenhof.",
+            "hu": "Fedezze fel a történelmi városháza gyönyörű freskóit és örökségét, és szánjon egy kis időt a központi udvaron kiállított lenyűgöző római romok megtekintésére.",
+            "ro": "Explorați primăria istorică ce prezintă fresce frumoase și patrimoniul civic, alocând un moment pentru a vedea ruinele romane fascinante expuse în curtea sa centrală.",
+            "en": "Explore the historic town hall showcasing beautiful frescoes and civic heritage, taking a moment to view the fascinating Roman ruins displayed in its central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+          },
+          "coords": [
+            8.036881,
+            44.700835
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie unter der Kathedrale in archäologische Schätze und sakrale Kunst ein, und tragen Sie bequeme Schuhe, da die unterirdischen Wege recht uneben sein können.",
+            "hu": "Merüljön el a katedrális alatti régészeti kincsekben és szakrális művészetben, de viseljen kényelmes cipőt, mivel a földalatti ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Pătrundeți în comorile arheologice subterane și arta sacră de sub catedrală și purtați încălțăminte confortabilă, deoarece potecile subterane pot fi destul de denivelate.",
+            "en": "Dive into underground archaeological treasures and sacred art beneath the cathedral, and wear comfortable walking shoes as the subterranean pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-torre Riva",
+            "hu": "Casa-torre Riva",
+            "ro": "Casa-torre Riva",
+            "en": "Casa-torre Riva"
+          },
+          "coords": [
+            8.034206,
+            44.701288
+          ],
+          "category": "landmark",
+          "arrive_at": "14:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses erhaltene mittelalterliche Turmhaus der Stadt der hundert Türme und trinken Sie in der Nähe einen schnellen Espresso, um die Atmosphäre zu genießen.",
+            "hu": "Tekintsen fel erre a fennmaradt középkori lakótoronyra, amely Alba száz tornyának legendáját hirdeti, és álljon meg egy közeli kávézóban egy gyors eszpresszóra.",
+            "ro": "Priviți această casă-turn medievală conservată care subliniază faima Albei ca oraș al o sută de turnuri, oprindu-vă la o cafenea din apropiere pentru un espresso rapid.",
+            "en": "Gaze up at this preserved medieval tower-house that highlights Alba's nickname as the city of a hundred towers, stopping nearby for a quick espresso to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+            "hu": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+            "ro": "Museo Archeologico e Scienze Naturali Federico Eusebio",
+            "en": "Museo Archeologico e Scienze Naturali Federico Eusebio"
+          },
+          "coords": [
+            8.035672,
+            44.698613
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische und römische Vergangenheit der Region und fragen Sie das Personal nach der interaktiven Karte, um den großen naturwissenschaftlichen Flügel zu navigieren.",
+            "hu": "Fedezze fel a régió történelem előtti és római múltját a gazdag leletanyagon keresztül, és kérjen interaktív térképet a személyzettől a nagy természettudományi szárnyhoz.",
+            "ro": "Descoperiți trecutul preistoric și roman al regiunii prin numeroase artefacte, asigurându-vă că cereți personalului harta interactivă pentru a naviga ușor aripa de științe naturale.",
+            "en": "Uncover the region's prehistoric and Roman past through extensive artifacts, making sure to ask the staff for the interactive map to easily navigate the large natural science wing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im gastronomischen Herzen von Alba im Trüffelmuseum, gefolgt von einem Spaziergang zum legendären mittelalterlichen Turm. Mittags besuchen Sie das wunderschön mit Fresken bemalte Rathaus und tauchen in die unterirdischen Geheimnisse der Kathedrale ein. Der Nachmittag ist der Casa-torre Riva und dem Federico Eusebio Museum gewidmet, wo Sie die antike Vergangenheit der Region entdecken. Der Abend endet mit einem entspannten Bummel durch die Gassen.",
+        "hu": "A reggelt Alba gasztronómiai szívében, a Szarvasgomba Múzeumban kezdi, majd átsétál az ikonikus középkori csonkatoronyhoz. Délben megcsodálja a gyönyörű freskókkal díszített Városházát, és leereszkedik a katedrális földalatti titkai közé. A délutánt a Casa-torre Riva megtekintésével tölti, majd a Federico Eusebio Múzeumban merül el a régió ősi múltjában. Az estét egy pihentető séta zárja a történelmi sikátorokban.",
+        "ro": "Dimineața dumneavoastră începe direct în inima gastronomică a Albei, la Muzeul Trufelor, urmată de o plimbare spre turnul medieval iconic. La amiază vizitați Primăria cu fresce superbe și coborâți în secretele subterane ale catedralei. După-amiaza o petreceți admirând Casa-torre Riva înainte de o explorare profundă a trecutului antic al regiunii la Muzeul Federico Eusebio. Seara se încheie cu o plimbare relaxantă prin aleile istorice.",
+        "en": "Your morning begins by diving straight into the gastronomic heart of Alba at the Truffle Museum, followed by a stroll to the iconic medieval lowered tower. Midday features a visit to the beautifully frescoed Town Hall and descending into the cathedral's underground secrets. The afternoon is spent admiring the Casa-torre Riva before a deep dive into the region's ancient past at the Federico Eusebio Museum. The evening concludes with a relaxed wander through the historic alleyways."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa parrocchiale di Cristo Re",
+            "hu": "Chiesa parrocchiale di Cristo Re",
+            "ro": "Chiesa parrocchiale di Cristo Re",
+            "en": "Chiesa parrocchiale di Cristo Re"
+          },
+          "coords": [
+            8.031322,
+            44.69377
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante moderne Backsteinarchitektur und das ruhige Innere dieser Pfarrkirche, wobei Sie am besten kurz vor den Messen kommen sollten.",
+            "hu": "Figyelje meg a plébániatemplom lenyűgöző modern téglaépítészetét és békés belső terét, és érkezzen kicsivel a misék előtt, hogy élvezhesse a csendes légkört.",
+            "ro": "Remarcați arhitectura modernă impresionantă din cărămidă și interiorul pașnic al acestei biserici, ajungând puțin înainte de orele de slujbă pentru a aprecia ambianța liniștită.",
+            "en": "Notice the striking modern brick architecture and peaceful interior of this parish church, arriving slightly before mass times to fully appreciate the quiet ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento agli Aviatori",
+            "hu": "Monumento agli Aviatori",
+            "ro": "Monumento agli Aviatori",
+            "en": "Monumento agli Aviatori"
+          },
+          "coords": [
+            8.029522,
+            44.698087
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für gefallene Flieger Ihren Respekt, das sich auf einem schönen Platz befindet, der sich ideal für eine kurze Pause eignet.",
+            "hu": "Rójja le tiszteletét a hősi halott repülősöknek szentelt emlékműnél, amely egy kellemes nyitott téren található, és tökéletes helyszín egy rövid pihenőhöz a városnézés során.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn dedicat aviatorilor căzuți, situat într-un spațiu deschis plăcut, perfect pentru o scurtă odihnă înainte de a continua.",
+            "en": "Pay your respects at this solemn monument dedicated to fallen aviators, which is set in a pleasant open space perfect for a brief rest before continuing your city exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Tartufo",
+            "hu": "Museo del Tartufo",
+            "ro": "Museo del Tartufo",
+            "en": "Museo del Tartufo"
+          },
+          "coords": [
+            8.034632,
+            44.69887
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die Geschichte und kulinarische Bedeutung von Albas berühmten weißen Trüffeln, aber prüfen Sie vorab unbedingt die saisonalen Verkostungszeiten.",
+            "hu": "Fedezze fel Alba híres fehér szarvasgombájának történetét és kulináris jelentőségét itt, de látogatás előtt mindenképpen ellenőrizze a szezonális kóstolók időpontjait.",
+            "ro": "Descoperiți aici istoria și importanța culinară a celebrelor trufe albe din Alba, dar nu uitați să verificați programul degustărilor de sezon înainte de vizită.",
+            "en": "Discover the history and culinary significance of Alba's famous white truffle here, and remember to check the seasonal tasting schedules before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sociale Giorgio Busca",
+            "hu": "Teatro Sociale Giorgio Busca",
+            "ro": "Teatro Sociale Giorgio Busca",
+            "en": "Teatro Sociale Giorgio Busca"
+          },
+          "coords": [
+            8.037289,
+            44.699404
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Doppelbühnenstruktur dieses historischen Theaters und schauen Sie frühzeitig an der Kasse vorbei, um Restkarten für den Abend zu ergattern.",
+            "hu": "Csodálja meg ennek a történelmi színháznak a lenyűgöző kettős színpadszerkezetét, és nézzen be korán a jegypénztárba, hogy utolsó pillanatos jegyeket szerezzen az esti előadásra.",
+            "ro": "Admirați structura magnifică cu scenă dublă a acestui teatru istoric și verificați casa de bilete devreme pentru a prinde bilete de ultim moment pentru un spectacol de seară.",
+            "en": "Admire the magnificent double stage structure of this historic theater, and check the box office early in the day to score last-minute tickets for an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeo Parco",
+            "hu": "Archeo Parco",
+            "ro": "Archeo Parco",
+            "en": "Archeo Parco"
+          },
+          "coords": [
+            8.03829,
+            44.702895
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen faszinierenden archäologischen Park mit alten neolithischen Siedlungen und bringen Sie einen Hut mit, da die Wege im Freien kaum Schatten bieten.",
+            "hu": "Sétáljon végig ezen a lenyűgöző régészeti parkon, amely ősi neolitikus településeket tár fel, de hozzon magával széles karimájú kalapot, mivel a szabadtéri ösvényeken kevés az árnyék.",
+            "ro": "Plimbați-vă prin acest parc arheologic fascinant ce dezvăluie așezări neolitice și romane antice, aducând o pălărie cu boruri largi deoarece aleile exterioare oferă puțină umbră.",
+            "en": "Stroll through this fascinating archaeological park revealing ancient Neolithic and Roman settlements, bringing a wide-brimmed hat as the outdoor pathways offer very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Margherita",
+            "hu": "Chiesa di Santa Margherita",
+            "ro": "Chiesa di Santa Margherita",
+            "en": "Chiesa di Santa Margherita"
+          },
+          "coords": [
+            8.03651,
+            44.690566
+          ],
+          "category": "religious",
+          "arrive_at": "15:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die exquisiten Fresken und die ruhige Atmosphäre dieser schönen Kirche zu bewundern, und denken Sie daran, Schultern und Knie bedeckt zu halten.",
+            "hu": "Lépjen be, hogy megtekintse ennek a gyönyörű templomnak a kiváló freskóit és békés hangulatát, de a tisztelet jeléül ügyeljen a vállak és térdek eltakarására.",
+            "ro": "Intrați pentru a vedea frescele rafinate și atmosfera senină a acestei biserici frumoase, amintindu-vă să aveți umerii și genunchii acoperiți în semn de respect.",
+            "en": "Step inside to view the exquisite frescoes and serene atmosphere of this beautiful church, remembering to keep your shoulders and knees covered out of respect."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der markanten Architektur von Cristo Re und erweisen Sie danach am Fliegerdenkmal Ihren Respekt. Mittags radeln Sie ins Stadtzentrum, um in das Trüffelmuseum einzutauchen und die beeindruckende Fassade des Teatro Sociale zu betrachten. Der Nachmittag vergeht wie im Flug mit einem Stopp im archäologischen Park und endet mit den ruhigen Fresken in Santa Margherita. Der Abend lädt zu einer malerischen Fahrt am Stadtrand ein.",
+        "hu": "Kezdje a kerékpáros napot a Cristo Re lenyűgöző építészetével, majd rója le tiszteletét a Repülősök Emlékművénél. Délben tekerjen be a belvárosba, hogy elmerüljön a Szarvasgomba Múzeumban és megcsodálja a Teatro Sociale homlokzatát. A délután egy pillanat alatt eltelik a szabadtéri Archeo Parco felfedezésével, majd a Santa Margherita békés freskói zárják a sort. Az este egy utolsó festői kerekezést kínál a külvárosban.",
+        "ro": "Începeți ziua de ciclism cu arhitectura impresionantă de la Cristo Re, urmată de un omagiu la Monumentul Aviatorilor. La amiază pedalați spre centrul orașului pentru a vă scufunda în Muzeul Trufelor și a vedea fațada teatrului. După-amiaza trece rapid cu o oprire plină de informații la parcul arheologic în aer liber, încheindu-se cu frescele senine de la Santa Margherita. Seara permite o ultimă plimbare pitorească pe la periferie.",
+        "en": "Start your cycling day with the striking architecture of Cristo Re, followed by paying respects at the Aviators Monument. Midday rolls along as you pedal into the city center to immerse yourself in the Truffle Museum and view the impressive facade of the Teatro Sociale. The afternoon breezes by with an insightful stop at the open-air Archeo Parco, concluding with the serene frescoes at Santa Margherita. The evening allows for a final scenic ride through the outskirts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Rosalia",
+            "hu": "Santa Rosalia",
+            "ro": "Santa Rosalia",
+            "en": "Santa Rosalia"
+          },
+          "coords": [
+            8.012915,
+            44.673447
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Andacht in diesem bezaubernden, von Natur umgebenen Heiligtum und stellen Sie sicher, dass Sie Ihr Auto sicher auf dem nahen Schotterplatz parken.",
+            "hu": "Élje át a természet ölelésében fekvő, hangulatos vidéki szentély csendes áhítatát, de feltétlenül biztonságosan parkolja le autóját a közeli kis kavicsos parkolóban.",
+            "ro": "Experimentați devotamentul liniștit al acestui fermecător sanctuar de la țară înconjurat de natură, asigurându-vă că parcați mașina în siguranță în mica parcare cu pietriș.",
+            "en": "Experience the quiet devotion of this charming countryside sanctuary surrounded by nature, making sure to park your car securely in the small gravel lot nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Oratorio Nostra Signora della Moretta",
+            "hu": "Parrocchia Oratorio Nostra Signora della Moretta",
+            "ro": "Parrocchia Oratorio Nostra Signora della Moretta",
+            "en": "Parrocchia Oratorio Nostra Signora della Moretta"
+          },
+          "coords": [
+            8.034091,
+            44.68589
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese aktive Pfarrei, die als lebendiges Gemeindezentrum mit schönen Marienkunstwerken dient, und respektieren Sie lokale Aktivitäten durch leises Sprechen.",
+            "hu": "Látogasson el ebbe az aktív plébániára, amely élénk közösségi központként és gyönyörű Mária-művészeti alkotások otthonaként szolgál, és beszéljen halkan a belső terekben.",
+            "ro": "Vizitați această parohie activă ce servește ca un centru comunitar vibrant cu opere de artă mariane minunate, respectând activitățile locale vorbind încet în interior.",
+            "en": "Visit this active parish that serves as a vibrant community hub with lovely Marian artwork, respecting the local activities by speaking softly while exploring the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa parrocchiale di Cristo Re",
+            "hu": "Chiesa parrocchiale di Cristo Re",
+            "ro": "Chiesa parrocchiale di Cristo Re",
+            "en": "Chiesa parrocchiale di Cristo Re"
+          },
+          "coords": [
+            8.031322,
+            44.69377
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante moderne Backsteinarchitektur und das ruhige Innere dieser Pfarrkirche, wobei Sie am besten kurz vor den Messen kommen sollten.",
+            "hu": "Figyelje meg a plébániatemplom lenyűgöző modern téglaépítészetét és békés belső terét, és érkezzen kicsivel a misék előtt, hogy élvezhesse a csendes légkört.",
+            "ro": "Remarcați arhitectura modernă impresionantă din cărămidă și interiorul pașnic al acestei biserici, ajungând puțin înainte de orele de slujbă pentru a aprecia ambianța liniștită.",
+            "en": "Notice the striking modern brick architecture and peaceful interior of this parish church, arriving slightly before mass times to fully appreciate the quiet ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento agli Aviatori",
+            "hu": "Monumento agli Aviatori",
+            "ro": "Monumento agli Aviatori",
+            "en": "Monumento agli Aviatori"
+          },
+          "coords": [
+            8.029522,
+            44.698087
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für gefallene Flieger Ihren Respekt, das sich auf einem schönen Platz befindet, der sich ideal für eine kurze Pause eignet.",
+            "hu": "Rójja le tiszteletét a hősi halott repülősöknek szentelt emlékműnél, amely egy kellemes nyitott téren található, és tökéletes helyszín egy rövid pihenőhöz a városnézés során.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn dedicat aviatorilor căzuți, situat într-un spațiu deschis plăcut, perfect pentru o scurtă odihnă înainte de a continua.",
+            "en": "Pay your respects at this solemn monument dedicated to fallen aviators, which is set in a pleasant open space perfect for a brief rest before continuing your city exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "hu": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "ro": "Museo Diocesano di Alba e Museo della Cattedrale",
+            "en": "Museo Diocesano di Alba e Museo della Cattedrale"
+          },
+          "coords": [
+            8.036881,
+            44.700835
+          ],
+          "category": "museum",
+          "arrive_at": "12:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie unter der Kathedrale in archäologische Schätze und sakrale Kunst ein, und tragen Sie bequeme Schuhe, da die unterirdischen Wege recht uneben sein können.",
+            "hu": "Merüljön el a katedrális alatti régészeti kincsekben és szakrális művészetben, de viseljen kényelmes cipőt, mivel a földalatti ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Pătrundeți în comorile arheologice subterane și arta sacră de sub catedrală și purtați încălțăminte confortabilă, deoarece potecile subterane pot fi destul de denivelate.",
+            "en": "Dive into underground archaeological treasures and sacred art beneath the cathedral, and wear comfortable walking shoes as the subterranean pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archeo Parco",
+            "hu": "Archeo Parco",
+            "ro": "Archeo Parco",
+            "en": "Archeo Parco"
+          },
+          "coords": [
+            8.03829,
+            44.702895
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen faszinierenden archäologischen Park mit alten neolithischen Siedlungen und bringen Sie einen Hut mit, da die Wege im Freien kaum Schatten bieten.",
+            "hu": "Sétáljon végig ezen a lenyűgöző régészeti parkon, amely ősi neolitikus településeket tár fel, de hozzon magával széles karimájú kalapot, mivel a szabadtéri ösvényeken kevés az árnyék.",
+            "ro": "Plimbați-vă prin acest parc arheologic fascinant ce dezvăluie așezări neolitice și romane antice, aducând o pălărie cu boruri largi deoarece aleile exterioare oferă puțină umbră.",
+            "en": "Stroll through this fascinating archaeological park revealing ancient Neolithic and Roman settlements, bringing a wide-brimmed hat as the outdoor pathways offer very little shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst an den ruhigen Stadtrand, um die charmante Santa Rosalia und das aktive Gemeindezentrum Nostra Signora della Moretta zu entdecken. Mittags bringt Sie das Auto näher an den urbanen Puls mit Stopps bei Cristo Re und dem Fliegerdenkmal. Der Nachmittag ist Albas tiefem Erbe gewidmet, mit der Erkundung des Diözesanmuseums und den neolithischen Anlagen des Archeo Parco. Genießen Sie einen gemütlichen Abend in einer lokalen Osteria.",
+        "hu": "Először vezessen a csendes külvárosba, hogy felfedezze a bájos Santa Rosaliát és a Nostra Signora della Moretta élénk közösségi terét. Délben közelebb kerül a város pulzusához a Cristo Re és a Repülősök Emlékművének meglátogatásával. A délutánt Alba mély örökségének szenteli, felfedezve az Egyházmegyei Múzeumot és az Archeo Parco neolitikus területét. Élvezze a kényelmes estébe nyúló vacsorát egy helyi osteriában.",
+        "ro": "Conduceți mai întâi spre periferia liniștită pentru a descoperi fermecătoarea Santa Rosalia și centrul comunitar de la Nostra Signora della Moretta. Amiaza vă aduce mai aproape de pulsul urban cu opriri la Cristo Re și Monumentul Aviatorilor. După-amiaza este dedicată patrimoniului profund al Albei, explorând Muzeul Diecezan și mergând pe terenurile neolitice de la Archeo Parco. Bucurați-vă de o seară relaxantă luând cina la o osterie locală.",
+        "en": "Drive to the tranquil outskirts first to discover the charming Santa Rosalia and the active community hub at Nostra Signora della Moretta. Midday brings you closer to the urban pulse with stops at Cristo Re and the solemn Aviators Monument before parking near the historic center. The afternoon is dedicated to Alba’s deep heritage, exploring the Diocesan Museum and walking the Neolithic grounds of Archeo Parco. Enjoy a leisurely evening dining at a local osteria."
+      }
+    }
+  }
+}

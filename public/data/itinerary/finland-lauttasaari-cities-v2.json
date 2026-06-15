@@ -1,0 +1,497 @@
+{
+  "city_id": "finland-lauttasaari-cities-v2",
+  "anchor": {
+    "name": "Lauttasaari",
+    "coords": [
+      24.87,
+      60.16
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:49",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lauttasaaren kirkko",
+            "hu": "Lauttasaaren kirkko",
+            "ro": "Lauttasaaren kirkko",
+            "en": "Lauttasaaren kirkko"
+          },
+          "coords": [
+            24.869304,
+            60.158726
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser modernen Kirche, die das spirituelle Zentrum der Insel bildet, und achten Sie auf das besondere Licht durch die großen Fenster am Vormittag.",
+            "hu": "Csodálja meg a sziget spirituális központjaként szolgáló modern templom letisztult eleganciáját, és figyelje meg a délelőtti fények játékát a hatalmas üvegablakokon keresztül.",
+            "ro": "Admirați eleganța simplă a acestei biserici moderne care servește drept centru spiritual al insulei și fiți atenți la lumina dimineții care pătrunde prin ferestrele mari de sticlă.",
+            "en": "Admire the simple elegance of this modern church that serves as the island's spiritual center, and pay attention to the morning light pouring in through the large glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Lauttasaaren kartano",
+            "hu": "Lauttasaaren kartano",
+            "ro": "Lauttasaaren kartano",
+            "en": "Lauttasaaren kartano"
+          },
+          "coords": [
+            24.879125,
+            60.159055
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte in diesem historischen Herrenhaus, das die edle Vergangenheit der Region widerspiegelt, und nutzen Sie die Gelegenheit für Fotos im schönen Garten.",
+            "hu": "Fedezze fel a régió nemesi múltját tükröző történelmi kúria gazdag történelmét, és használja ki a lehetőséget néhány remek fotó elkészítésére a gyönyörű, gondozott kertben.",
+            "ro": "Descoperiți istoria bogată a acestui conac istoric care reflectă trecutul nobil al regiunii și profitați de ocazie pentru a face fotografii superbe în grădina sa frumos amenajată.",
+            "en": "Discover the rich history inside this historical manor that reflects the region's noble past, and take the opportunity to snap some gorgeous photos in the beautifully maintained garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Fogga",
+            "hu": "Galleria Fogga",
+            "ro": "Galleria Fogga",
+            "en": "Galleria Fogga"
+          },
+          "coords": [
+            24.888968,
+            60.160195
+          ],
+          "category": "museum",
+          "arrive_at": "11:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der finnischen Kunst ein, um die lokale kreative Szene zu verstehen, und nehmen Sie sich Zeit für die oft wechselnden, intimen Ausstellungen.",
+            "hu": "Merüljön el a finn kortárs művészet lenyűgöző világában, hogy megértse a helyi kreatív szcénát, és szánjon elég időt a gyakran cserélődő, meghitt hangulatú kiállításokra.",
+            "ro": "Cufundați-vă în lumea fascinantă a artei finlandeze pentru a înțelege scena creativă locală și acordați-vă timp pentru a explora expozițiile intime care se schimbă destul de des.",
+            "en": "Immerse yourself in the fascinating world of Finnish art to truly understand the local creative scene, and allow plenty of time to explore the frequently changing, intimate exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Aimo Tukiaisen puisto",
+            "hu": "Aimo Tukiaisen puisto",
+            "ro": "Aimo Tukiaisen puisto",
+            "en": "Aimo Tukiaisen puisto"
+          },
+          "coords": [
+            24.889109,
+            60.152051
+          ],
+          "category": "park",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem friedlichen Park, der dem berühmten finnischen Bildhauer gewidmet ist, und bringen Sie ein kleines Picknick mit, um die Ruhe abseits des Trubels zu genießen.",
+            "hu": "Pihenjen meg ebben a híres finn szobrásznak szentelt békés parkban, és hozzon magával egy kis pikniket, hogy távol a város zajától élvezhesse a természet nyugalmát.",
+            "ro": "Relaxați-vă în acest parc pașnic dedicat faimosului sculptor finlandez și aduceți cu dumneavoastră un mic picnic pentru a vă bucura de liniște departe de agitația orașului.",
+            "en": "Relax in this peaceful park dedicated to the famous Finnish sculptor, and bring along a small picnic lunch to fully enjoy the tranquility away from the busy city streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Taidesalonki Piirto",
+            "hu": "Taidesalonki Piirto",
+            "ro": "Taidesalonki Piirto",
+            "en": "Taidesalonki Piirto"
+          },
+          "coords": [
+            24.876481,
+            60.151551
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Kunstmuseum, das eine exzellente Auswahl an Meisterwerken beherbergt, und prüfen Sie vorab die Öffnungszeiten, da diese oft saisonal variieren.",
+            "hu": "Látogasson el ebbe az elegáns művészeti múzeumba, amely mesterművek kiváló válogatásának ad otthont, és előzetesen ellenőrizze a nyitvatartást, mivel az szezonálisan változhat.",
+            "ro": "Vizitați acest muzeu de artă elegant care găzduiește o selecție excelentă de capodopere și verificați în prealabil programul de funcționare, deoarece acesta variază adesea sezonier.",
+            "en": "Visit this elegant art museum that houses an excellent selection of local masterpieces, and be sure to check the opening hours in advance as they frequently vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Merikylpylänpuisto",
+            "hu": "Merikylpylänpuisto",
+            "ro": "Merikylpylänpuisto",
+            "en": "Merikylpylänpuisto"
+          },
+          "coords": [
+            24.874059,
+            60.154109
+          ],
+          "category": "park",
+          "arrive_at": "16:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Küstenpark, der an die alte Badekultur Helsinkis erinnert, und setzen Sie sich auf eine der Bänke am Wasser für einen herrlichen Meerblick.",
+            "hu": "Sétáljon végig ezen a festői tengerparti parkon, amely Helsinki régi fürdőkultúráját idézi, és üljön le az egyik vízparti padra, hogy élvezze a csodálatos tengeri kilátást.",
+            "ro": "Plimbați-vă prin acest parc pitoresc de coastă care amintește de vechea cultură a băilor din Helsinki și așezați-vă pe o bancă lângă apă pentru o vedere magnifică la mare.",
+            "en": "Stroll through this picturesque coastal park that recalls Helsinki's old bathing culture, and take a seat on one of the waterfront benches to enjoy the magnificent sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Veijarivuorenpuisto",
+            "hu": "Veijarivuorenpuisto",
+            "ro": "Veijarivuorenpuisto",
+            "en": "Veijarivuorenpuisto"
+          },
+          "coords": [
+            24.886682,
+            60.146433
+          ],
+          "category": "park",
+          "arrive_at": "18:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Naturschönheit dieses südlichen Inselparks, der für seine alten Festungsanlagen bekannt ist, und tragen Sie bequeme Schuhe für die unebenen Küstenpfade.",
+            "hu": "Fedezze fel a déli szigetpark nyers természeti szépségét, amely régi erődítményeiről ismert, és viseljen kényelmes cipőt az egyenetlen part menti ösvények bejárásához.",
+            "ro": "Explorați frumusețea naturală brută a acestui parc sudic de pe insulă, cunoscut pentru vechile sale fortificații, și purtați încălțăminte confortabilă pentru potecile de coastă inegale.",
+            "en": "Explore the raw natural beauty of this southern island park known for its old fortifications, and wear comfortable walking shoes to navigate the uneven, rocky coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt spirituell und historisch. Sie spazieren von der modernen Kirche zum eleganten Gutshof.\nMittags tauchen Sie in die lokale Kunstszene ein. Die Galerien und kleinen Museen bieten reichlich Inspiration.\nAm Nachmittag genießen Sie die Ruhe in den gepflegten Parks. Das Grün der Insel bildet einen schönen Kontrast zur Stadt.\nDer Abend klingt am Meer aus. Im südlichen Park spazieren Sie an alten Befestigungen vorbei und lauschen den Wellen.",
+        "hu": "A nap spirituális és történelmi jegyben indul. A modern templomtól az elegáns kúriáig sétálhat.\nDélben elmerül a helyi művészeti életben. A galériák és kis múzeumok bőséges inspirációt kínálnak a folytatáshoz.\nDélután a gondozott parkok nyugalmát élvezheti. A sziget buja növényzete éles kontrasztot alkot a várossal.\nAz este a tengerparton ér véget. A déli parkban régi erődítmények mellett sétálva hallgathatja a hullámokat.",
+        "ro": "Ziua începe spiritual și istoric. Veți merge de la biserica modernă până la conacul elegant al insulei.\nLa prânz vă scufundați în scena artistică. Galeriile și muzeele mici vă oferă o abundență de inspirație creativă.\nDupă-amiaza vă bucurați de liniște în parcuri. Verdeața bogată formează un contrast minunat cu agitația urbană.\nSeara se încheie la malul mării. În parcul sudic vă veți plimba pe lângă fortificații vechi ascultând valurile.",
+        "en": "The day begins with a blend of spirit and history. You will walk from the modern church to the elegant manor.\nBy midday, you immerse yourself in the local art scene. The galleries and small museums offer plenty of inspiration.\nIn the afternoon, enjoy the tranquility of the lush parks. The island's greenery is a lovely contrast to city life.\nYour evening concludes by the sea. In the southern park, you will stroll past old fortifications while listening to the waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lapinlahti",
+            "hu": "Lapinlahti",
+            "ro": "Lapinlahti",
+            "en": "Lapinlahti"
+          },
+          "coords": [
+            24.906064,
+            60.169232
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das historische Lapinlahti-Areal, einst das erste psychiatrische Krankenhaus Finnlands und heute ein Kulturzentrum, und probieren Sie den Kaffee im gemütlichen Café.",
+            "hu": "Csodálja meg a történelmi Lapinlahti negyedet, amely egykor Finnország első pszichiátriai kórháza volt, és feltétlenül kóstolja meg a kávét a helyi, barátságos kávézóban.",
+            "ro": "Minunați-vă de zona istorică Lapinlahti, odată primul spital psihiatric din Finlanda, iar acum un centru cultural, și asigurați-vă că gustați cafeaua la cafeneaua confortabilă.",
+            "en": "Marvel at the historical Lapinlahti area, once Finland's first psychiatric hospital and now a cultural hub, and be sure to try the excellent coffee at the cozy local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapinlahden silta",
+            "hu": "Lapinlahden silta",
+            "ro": "Lapinlahden silta",
+            "en": "Lapinlahden silta"
+          },
+          "coords": [
+            24.892986,
+            60.166197
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese architektonisch markante Brücke, die Lauttasaari mit dem Festland verbindet, und halten Sie in der Mitte an, um die beeindruckende Skyline von Helsinki zu fotografieren.",
+            "hu": "Keljen át ezen az építészetileg lenyűgöző hídon, amely összeköti Lauttasaarit a szárazfölddel, és álljon meg a közepén, hogy lefotózza Helsinki lenyűgöző panorámáját.",
+            "ro": "Traversați acest pod impresionant din punct de vedere arhitectural care leagă Lauttasaari de continent și opriți-vă la mijloc pentru a fotografia orizontul impresionant al orașului Helsinki.",
+            "en": "Cross this architecturally striking bridge connecting Lauttasaari to the mainland, and pause in the middle to capture some great photos of Helsinki's impressive skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lauttasaaren kartano",
+            "hu": "Lauttasaaren kartano",
+            "ro": "Lauttasaaren kartano",
+            "en": "Lauttasaaren kartano"
+          },
+          "coords": [
+            24.879125,
+            60.159055
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte in diesem historischen Herrenhaus, das die edle Vergangenheit der Region widerspiegelt, und nutzen Sie die Gelegenheit für Fotos im schönen Garten.",
+            "hu": "Fedezze fel a régió nemesi múltját tükröző történelmi kúria gazdag történelmét, és használja ki a lehetőséget néhány remek fotó elkészítésére a gyönyörű, gondozott kertben.",
+            "ro": "Descoperiți istoria bogată a acestui conac istoric care reflectă trecutul nobil al regiunii și profitați de ocazie pentru a face fotografii superbe în grădina sa frumos amenajată.",
+            "en": "Discover the rich history inside this historical manor that reflects the region's noble past, and take the opportunity to snap some gorgeous photos in the beautifully maintained garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Merikylpylänpuisto",
+            "hu": "Merikylpylänpuisto",
+            "ro": "Merikylpylänpuisto",
+            "en": "Merikylpylänpuisto"
+          },
+          "coords": [
+            24.874059,
+            60.154109
+          ],
+          "category": "park",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Küstenpark, der an die alte Badekultur Helsinkis erinnert, und setzen Sie sich auf eine der Bänke am Wasser für einen herrlichen Meerblick.",
+            "hu": "Sétáljon végig ezen a festői tengerparti parkon, amely Helsinki régi fürdőkultúráját idézi, és üljön le az egyik vízparti padra, hogy élvezze a csodálatos tengeri kilátást.",
+            "ro": "Plimbați-vă prin acest parc pitoresc de coastă care amintește de vechea cultură a băilor din Helsinki și așezați-vă pe o bancă lângă apă pentru o vedere magnifică la mare.",
+            "en": "Stroll through this picturesque coastal park that recalls Helsinki's old bathing culture, and take a seat on one of the waterfront benches to enjoy the magnificent sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Veijarivuorenpuisto",
+            "hu": "Veijarivuorenpuisto",
+            "ro": "Veijarivuorenpuisto",
+            "en": "Veijarivuorenpuisto"
+          },
+          "coords": [
+            24.886682,
+            60.146433
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Naturschönheit dieses südlichen Inselparks, der für seine alten Festungsanlagen bekannt ist, und tragen Sie bequeme Schuhe für die unebenen Küstenpfade.",
+            "hu": "Fedezze fel a déli szigetpark nyers természeti szépségét, amely régi erődítményeiről ismert, és viseljen kényelmes cipőt az egyenetlen part menti ösvények bejárásához.",
+            "ro": "Explorați frumusețea naturală brută a acestui parc sudic de pe insulă, cunoscut pentru vechile sale fortificații, și purtați încălțăminte confortabilă pentru potecile de coastă inegale.",
+            "en": "Explore the raw natural beauty of this southern island park known for its old fortifications, and wear comfortable walking shoes to navigate the uneven, rocky coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Crusellinsilta",
+            "hu": "Crusellinsilta",
+            "ro": "Crusellinsilta",
+            "en": "Crusellinsilta"
+          },
+          "coords": [
+            24.908258,
+            60.16038
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das moderne Design dieser Schrägseilbrücke, die das Ruoholahti-Viertel prägt, und kommen Sie bei Sonnenuntergang zurück, um die spektakuläre abendliche Beleuchtung zu sehen.",
+            "hu": "Tapasztalja meg ennek a modern ferdekábeles hídnak a dizájnját, amely a Ruoholahti negyedet ékesíti, és jöjjön vissza naplementekor, hogy láthassa a látványos esti kivilágítást.",
+            "ro": "Experimentați designul modern al acestui pod hobanat care definește cartierul Ruoholahti și întoarceți-vă la apus pentru a vedea iluminarea de seară absolut spectaculoasă.",
+            "en": "Experience the modern design of this cable-stayed bridge that defines the Ruoholahti district, and return at sunset to see the truly spectacular evening illumination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour am Festland und erkunden Sie die historische Krankenhausanlage. Die frische Morgenluft weckt die Geister.\nGegen Mittag überqueren Sie die markante Brücke auf die Insel. Dort wartet das historische Herrenhaus auf Ihren Besuch.\nAm Nachmittag radeln Sie gemütlich durch die Küstenparks. Der Meerblick und die Brise begleiten Sie auf den gut ausgebauten Wegen.\nAbends führt die Route zu einer weiteren beeindruckenden Brücke. Das urbane Panorama im Sonnenuntergang ist der perfekte Abschluss.",
+        "hu": "Kezdje a túrát a szárazföldön, és fedezze fel a történelmi kórházat. A friss reggeli levegő azonnal felélénkíti.\nDélben a lenyűgöző hídon keresztül éri el a szigetet. Ott az elegáns, történelmi kúria várja, hogy felfedezze titkait.\nDélután kényelmesen tekerhet a parti parkokon át. A tengeri kilátás és a lágy szellő kíséri a kiváló kerékpárutakon.\nEste az útvonal egy másik modern hídhoz vezet. A naplementében pompázó városi panoráma tökéletes befejezése a napnak.",
+        "ro": "Începeți turul pe continent explorând spitalul istoric. Aerul proaspăt al dimineții vă va trezi rapid simțurile.\nLa prânz, traversați podul impresionant spre insulă. Acolo, conacul istoric și elegant abia așteaptă să fie explorat.\nDupă-amiaza, pedalați liniștit prin parcurile de coastă. Priveliștea mării și briza vă vor însoți pe pistele excelente.\nSeara, traseul duce la un alt pod arhitectural. Panorama urbană spectaculoasă la apus este finalul absolut perfect.",
+        "en": "Start your ride on the mainland exploring the historical hospital grounds. The crisp morning air will quickly wake you up.\nAround midday, cross the striking bridge onto the island. The historic, elegant manor awaits your exploration there.\nIn the afternoon, cycle leisurely through the coastal parks. The sea views and gentle breeze accompany you on great paths.\nBy evening, the route leads to another modern bridge. The urban skyline bathed in sunset colors provides a perfect finish."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Biogenesis",
+            "hu": "Biogenesis",
+            "ro": "Biogenesis",
+            "en": "Biogenesis"
+          },
+          "coords": [
+            24.837545,
+            60.175164
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende historische Skulptur, die das Konzept des Lebens feiert, und betrachten Sie die feinen Details der Struktur bei einem ruhigen Vormittagsspaziergang.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi szobrot, amely magát az életet ünnepli, és figyelje meg a szerkezet finom részleteit egy nyugodt kora délelőtti séta során.",
+            "ro": "Descoperiți această sculptură istorică fascinantă care sărbătorește conceptul de viață și observați detaliile fine ale structurii în timpul unei plimbări liniștite de dimineață.",
+            "en": "Discover this fascinating historical sculpture that celebrates the concept of life itself, and closely observe the fine structural details during a quiet morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkkipaadenpuisto",
+            "hu": "Kalkkipaadenpuisto",
+            "ro": "Kalkkipaadenpuisto",
+            "en": "Kalkkipaadenpuisto"
+          },
+          "coords": [
+            24.856035,
+            60.178054
+          ],
+          "category": "park",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen schönen nördlichen Park mit Blick auf das Wasser, um die heimische Flora zu bewundern, und nutzen Sie die gut gepflegten Wege für ein leichtes Fahrradtraining.",
+            "hu": "Sétáljon át ezen a gyönyörű északi parkon, amely a vízre néz, hogy megcsodálja a helyi növényvilágot, és használja ki a jól karbantartott ösvényeket egy kis kerékpározásra.",
+            "ro": "Plimbați-vă prin acest frumos parc nordic cu vedere la apă pentru a admira flora nativă și profitați de potecile bine întreținute pentru o plimbare ușoară sau un antrenament.",
+            "en": "Walk through this beautiful northern park overlooking the water to admire the native flora, and take advantage of the well-maintained paths for an easy and refreshing stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Karhusaaren taidekeskus",
+            "hu": "Karhusaaren taidekeskus",
+            "ro": "Karhusaaren taidekeskus",
+            "en": "Karhusaaren taidekeskus"
+          },
+          "coords": [
+            24.835416,
+            60.167291
+          ],
+          "category": "cultural",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Kulturzentrum am Rande von Espoo, das moderne Kunstausstellungen bietet, und schauen Sie nach dem aktuellen Veranstaltungskalender, bevor Sie anreisen.",
+            "hu": "Látogasson el Espoo szélén található, modern művészeti kiállításokat kínáló élénk kulturális központba, és indulás előtt mindenképp ellenőrizze az aktuális eseménynaptárt.",
+            "ro": "Vizitați acest centru cultural vibrant de la marginea orașului Espoo, care oferă expoziții de artă modernă, și verificați calendarul evenimentelor actuale înainte de a sosi.",
+            "en": "Visit this vibrant cultural center on the edge of Espoo offering contemporary art exhibitions, and make sure to check their current event calendar before planning your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Pluto",
+            "hu": "Pluto",
+            "ro": "Pluto",
+            "en": "Pluto"
+          },
+          "coords": [
+            24.84065,
+            60.167018
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie dieses kleine, aber feine Wahrzeichen, das an die astronomische Geschichte erinnert, und nutzen Sie den Spot als originellen Treffpunkt für den weiteren Ausflug.",
+            "hu": "Keresse meg ezt a kicsi, de jelentős, csillagászati történelemre emlékeztető nevezetességet, és használja a helyet egyedi találkozási pontként a további kiránduláshoz.",
+            "ro": "Găsiți acest punct de reper mic, dar plin de însemnătate, care amintește de istoria astronomică și folosiți locul ca un punct de întâlnire original pentru continuarea excursiei.",
+            "en": "Find this small but significant landmark that commemorates astronomical history, and use the unique spot as a fun meeting point before continuing on your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Lauttasaaren kirkko",
+            "hu": "Lauttasaaren kirkko",
+            "ro": "Lauttasaaren kirkko",
+            "en": "Lauttasaaren kirkko"
+          },
+          "coords": [
+            24.869304,
+            60.158726
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser modernen Kirche, die das spirituelle Zentrum der Insel bildet, und achten Sie auf das besondere Licht durch die großen Fenster am Vormittag.",
+            "hu": "Csodálja meg a sziget spirituális központjaként szolgáló modern templom letisztult eleganciáját, és figyelje meg a délelőtti fények játékát a hatalmas üvegablakokon keresztül.",
+            "ro": "Admirați eleganța simplă a acestei biserici moderne care servește drept centru spiritual al insulei și fiți atenți la lumina dimineții care pătrunde prin ferestrele mari de sticlă.",
+            "en": "Admire the simple elegance of this modern church that serves as the island's spiritual center, and pay attention to the morning light pouring in through the large glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Lauttasaaren kartano",
+            "hu": "Lauttasaaren kartano",
+            "ro": "Lauttasaaren kartano",
+            "en": "Lauttasaaren kartano"
+          },
+          "coords": [
+            24.879125,
+            60.159055
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte in diesem historischen Herrenhaus, das die edle Vergangenheit der Region widerspiegelt, und nutzen Sie die Gelegenheit für Fotos im schönen Garten.",
+            "hu": "Fedezze fel a régió nemesi múltját tükröző történelmi kúria gazdag történelmét, és használja ki a lehetőséget néhány remek fotó elkészítésére a gyönyörű, gondozott kertben.",
+            "ro": "Descoperiți istoria bogată a acestui conac istoric care reflectă trecutul nobil al regiunii și profitați de ocazie pentru a face fotografii superbe în grădina sa frumos amenajată.",
+            "en": "Discover the rich history inside this historical manor that reflects the region's noble past, and take the opportunity to snap some gorgeous photos in the beautifully maintained garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt im Norden. Eine faszinierende Skulptur und ein ruhiger Küstenpark stimmen auf den Tag ein.\nGegen Mittag erreichen Sie die kulturellen Highlights. Ein modernes Kunstzentrum und kleine Wahrzeichen bieten viel Abwechslung.\nAm Nachmittag fahren Sie ins Zentrum der Insel. Die schlichte Kirche zeugt von feiner finnischer Architekturtradition.\nDen Abend verbringen Sie am historischen Gutshof. Die weitläufigen Gärten runden die motorisierte Inselerkundung elegant ab.",
+        "hu": "A reggeli autózás északon kezdődik. Egy lenyűgöző szobor és egy csendes parti park adja meg a nap kellemes alaphangját.\nDélben megérkezik a kulturális látnivalókhoz. A modern művészeti központ és a kis nevezetességek sokszínűséget kínálnak.\nDélután a sziget központjába vezet az útja. A letisztult templom a finn építészeti hagyományok kiváló példája.\nAz estét a történelmi kúriánál töltheti. A hatalmas, gondozott kertek elegánsan zárják le a motoros szigeti túrát.",
+        "ro": "Călătoria de dimineață începe în nord. O sculptură fascinantă și un parc de coastă liniștit dau tonul unei zile perfecte.\nLa prânz, ajungeți la principalele atracții culturale. Un centru de artă modernă și reperele mai mici oferă o mare varietate.\nDupă-amiaza, conduceți spre centrul insulei. Biserica simplă este un exemplu excelent al tradiției arhitecturale finlandeze.\nVeți petrece seara la conacul istoric. Grădinile sale imense completează elegant această explorare motorizată a insulei.",
+        "en": "Your morning drive begins in the north. A fascinating sculpture and a quiet coastal park set a lovely, relaxed tone.\nBy midday, you reach the cultural highlights. A modern art center and smaller landmarks offer plenty of engaging variety.\nIn the afternoon, drive into the center of the island. The simple, elegant church showcases fine Finnish architectural style.\nYou will spend the evening at the historic manor. Its expansive gardens elegantly round out your motorized island tour."
+      }
+    }
+  }
+}

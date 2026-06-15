@@ -1,0 +1,428 @@
+{
+  "city_id": "la-balme-de-sillingy",
+  "anchor": {
+    "name": "La Balme-de-Sillingy",
+    "coords": [
+      6.0419,
+      45.9611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:33",
+      "total_km": 2.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.041436,
+            45.96067
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um die friedliche Atmosphäre vor den Messen zu genießen.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom gyönyörű építészetét, és érkezzen korán, hogy élvezhesse a békés belső teret a reggeli misék előtt.",
+            "ro": "Admirați arhitectura superbă a acestei biserici istorice din inima satului și sosiți devreme pentru a vă bucura de interiorul liniștit înaintea slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and arrive early to enjoy the peaceful interior before morning services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère",
+            "hu": "Belvédère",
+            "ro": "Belvédère",
+            "en": "Belvédère"
+          },
+          "coords": [
+            6.047505,
+            45.960044
+          ],
+          "category": "natural",
+          "arrive_at": "09:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Landschaft der Haute-Savoie von diesem Aussichtspunkt und bringen Sie ein Weitwinkelobjektiv für tolle Fotos mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a környező Haute-Savoie tájra erről a kilátóról, és hozzon magával nagylátószögű objektívet a legjobb tájképekhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare a peisajului înconjurător din Haute-Savoie de la acest punct de belvedere și aduceți un obiectiv cu unghi larg pentru fotografii.",
+            "en": "Take in the breathtaking panoramic views of the surrounding Haute-Savoie landscape from this viewpoint, and bring a wide-angle lens for the best landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "miroir de la faille sismique du Vuache",
+            "hu": "miroir de la faille sismique du Vuache",
+            "ro": "miroir de la faille sismique du Vuache",
+            "en": "miroir de la faille sismique du Vuache"
+          },
+          "coords": [
+            6.048457,
+            45.954006
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese bemerkenswerte geologische Verwerfungslinie im Gestein und tragen Sie feste Schuhe, da der Boden in der Nähe des Spiegels recht uneben sein kann.",
+            "hu": "Vizsgálja meg ezt a figyelemre méltó geológiai törésvonalat a sziklaalakzatokban, és viseljen masszív bakancsot, mivel a talaj a hasadék közelében meglehetősen egyenetlen.",
+            "ro": "Inspectați această falie geologică remarcabilă care taie vizibil formațiunile stâncoase și purtați bocanci solizi, deoarece terenul din apropiere poate fi foarte denivelat.",
+            "en": "Inspect this remarkable geological fault line that visibly slices through the rock formations, and wear sturdy boots as the ground near the fault can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocher du maquis",
+            "hu": "Rocher du maquis",
+            "ro": "Rocher du maquis",
+            "en": "Rocher du maquis"
+          },
+          "coords": [
+            6.055931,
+            45.961967
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historisch bedeutsamen Felsvorsprung, der als lokales Versteck des Widerstands diente, und gehen Sie vorsichtig auf den unmarkierten Pfaden.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős sziklakibúvást, amely a helyi ellenállás rejtekhelyeként szolgált, és lépkedjen óvatosan a jelöletlen ösvényeken a helyszínhez.",
+            "ro": "Descoperiți acest afloriment stâncos cu importanță istorică ce a servit ca ascunzătoare a rezistenței și pășiți cu atenție pe potecile nemarcate pentru a găsi locul.",
+            "en": "Discover this historically significant rock outcropping that served as a local resistance hideout, and step carefully along the unmarked trails to find the exact location."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte du Curé",
+            "hu": "Grotte du Curé",
+            "ro": "Grotte du Curé",
+            "en": "Grotte du Curé"
+          },
+          "coords": [
+            6.055834,
+            45.96474
+          ],
+          "category": "landmark",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Tiefen dieser natürlichen Höhle im Hang und vergessen Sie nicht, eine zuverlässige Stirnlampe einzupacken, um die Kammern sicher zu begehen.",
+            "hu": "Fedezze fel ennek a hegyoldalban megbúvó természetes barlangnak a lenyűgöző mélységeit, és ne felejtsen el megbízható fejlámpát hozni a sötétebb belső termekhez.",
+            "ro": "Explorați adâncimile fascinante ale acestei peșteri naturale ascunse în deal și nu uitați să luați o lanternă frontală fiabilă pentru a naviga în siguranță în interior.",
+            "en": "Explore the fascinating depths of this natural cave hidden in the hillside, and don't forget to pack a reliable headlamp to safely navigate its darker inner chambers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im ruhigen Dorfzentrum an der historischen Église Saint-Martin, gefolgt von einem kurzen Spaziergang zum Belvédère mit herrlicher Aussicht.\nGegen Mittag untersuchen Sie die faszinierende Geologie der seismischen Verwerfungslinie des Vuache, bevor Sie tiefer in die lokale Naturlandschaft eintauchen.\nDer Nachmittag führt Sie durch das unwegsame Gelände, um den historisch bedeutsamen Rocher du maquis zu entdecken, der zwischen den Bäumen versteckt ist.\nBeenden Sie Ihre Wanderung mit einer Erkundung der Grotte du Curé und erleben Sie die stille Mystik der natürlichen Höhlen der Region vor der Abenddämmerung.",
+        "hu": "A reggel a békés faluközpontban kezdődik a történelmi Église Saint-Martin templomnál, majd egy rövid séta következik a Belvédère-hez egy csodálos panorámáért.\nDél körül megvizsgálja a Vuache szeizmikus törésvonalának lenyűgöző geológiáját, mielőtt mélyebbre hatolna a helyi természeti tájban.\nA délután a zord terepen keresztül vezet, hogy felfedezze a fák között megbúvó történelmi jelentőségű Rocher du maquis sziklakibúvást.\nFejezze be gyalogos utazását a Grotte du Curé barlang felfedezésével, megtapasztalva a régió természetes barlangjainak csendes rejtélyét alkonyat előtt.",
+        "ro": "Dimineața începe în centrul pașnic al satului la istorica Église Saint-Martin, urmată de o scurtă plimbare până la Belvédère pentru o panoramă magnifică.\nÎn jurul prânzului, veți investiga geologia fascinantă a faliei seismice Vuache înainte de a vă adânci în peisajul natural pitoresc al zonei locale.\nDupă-amiaza vă poartă prin terenul accidentat pentru a descoperi Rocher du maquis, o stâncă cu semnificație istorică ascunsă printre copaci de pe traseu.\nÎncheiați-vă călătoria pe jos cu o explorare a Grotte du Curé, experimentând misterul liniștit al cavernelor naturale ale regiunii înainte de lăsarea serii.",
+        "en": "Your morning begins in the peaceful village center at the historic Église Saint-Martin, followed by a short walk up to the Belvédère for a magnificent introductory view.\nAround midday, you will investigate the fascinating geology of the Vuache seismic fault line before heading deeper into the local natural landscape.\nThe afternoon takes you through the rugged terrain to discover the historically significant Rocher du maquis hidden among the trees.\nConclude your walking journey with an exploration of the Grotte du Curé, experiencing the quiet mystery of the region's natural caverns before dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.041436,
+            45.96067
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um die friedliche Atmosphäre vor den Messen zu genießen.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom gyönyörű építészetét, és érkezzen korán, hogy élvezhesse a békés belső teret a reggeli misék előtt.",
+            "ro": "Admirați arhitectura superbă a acestei biserici istorice din inima satului și sosiți devreme pentru a vă bucura de interiorul liniștit înaintea slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and arrive early to enjoy the peaceful interior before morning services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of La Balme",
+            "hu": "Lake of La Balme",
+            "ro": "Lake of La Balme",
+            "en": "Lake of La Balme"
+          },
+          "coords": [
+            6.01081,
+            45.944182
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie um das ruhige Wasser dieses malerischen, von viel Grün umgebenen Sees und suchen Sie sich einen Platz am Westufer für ein perfekt gerahmtes Bergfoto.",
+            "hu": "Sétáljon egyet a zöldnövényzettel körülvett festői helyi tó nyugodt vize körül, és foglaljon helyet a nyugati parton egy tökéletesen megkomponált hegyi fotóhoz.",
+            "ro": "Plimbați-vă pe malul apelor liniștite ale acestui pitoresc lac local înconjurat de verdeață și alegeți un loc pe malul vestic pentru o fotografie perfectă cu munții.",
+            "en": "Stroll around the tranquil waters of this picturesque local lake surrounded by greenery, and grab a spot on the western bank for a perfectly framed photo of the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "miroir de la faille sismique du Vuache",
+            "hu": "miroir de la faille sismique du Vuache",
+            "ro": "miroir de la faille sismique du Vuache",
+            "en": "miroir de la faille sismique du Vuache"
+          },
+          "coords": [
+            6.048457,
+            45.954006
+          ],
+          "category": "natural",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese bemerkenswerte geologische Verwerfungslinie im Gestein und tragen Sie feste Schuhe, da der Boden in der Nähe des Spiegels recht uneben sein kann.",
+            "hu": "Vizsgálja meg ezt a figyelemre méltó geológiai törésvonalat a sziklaalakzatokban, és viseljen masszív bakancsot, mivel a talaj a hasadék közelében meglehetősen egyenetlen.",
+            "ro": "Inspectați această falie geologică remarcabilă care taie vizibil formațiunile stâncoase și purtați bocanci solizi, deoarece terenul din apropiere poate fi foarte denivelat.",
+            "en": "Inspect this remarkable geological fault line that visibly slices through the rock formations, and wear sturdy boots as the ground near the fault can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête de la Mandallaz",
+            "hu": "Tête de la Mandallaz",
+            "ro": "Tête de la Mandallaz",
+            "en": "Tête de la Mandallaz"
+          },
+          "coords": [
+            6.05769,
+            45.953032
+          ],
+          "category": "landmark",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zum markanten Gipfel des Mandallaz, um die spektakuläre Aussicht auf das Tal zu genießen, und beginnen Sie den Aufstieg vor Mittag, um die Sonne zu meiden.",
+            "hu": "Túrázzon fel a Mandallaz kiemelkedő csúcsára, ahonnan látványos kilátás nyílik az egész völgyre, és kezdje meg az emelkedést dél előtt, hogy elkerülje a délutáni hőséget.",
+            "ro": "Urcați pe vârful proeminent Mandallaz pentru vederi spectaculoase asupra întregii văi și începeți ascensiunea înainte de prânz pentru a evita soarele intens de după-amiază.",
+            "en": "Hike to the prominent peak of the Mandallaz for spectacular elevated views over the entire valley, and start your ascent before midday to avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte du Curé",
+            "hu": "Grotte du Curé",
+            "ro": "Grotte du Curé",
+            "en": "Grotte du Curé"
+          },
+          "coords": [
+            6.055834,
+            45.96474
+          ],
+          "category": "landmark",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Tiefen dieser natürlichen Höhle im Hang und vergessen Sie nicht, eine zuverlässige Stirnlampe einzupacken, um die Kammern sicher zu begehen.",
+            "hu": "Fedezze fel ennek a hegyoldalban megbúvó természetes barlangnak a lenyűgöző mélységeit, és ne felejtsen el megbízható fejlámpát hozni a sötétebb belső termekhez.",
+            "ro": "Explorați adâncimile fascinante ale acestei peșteri naturale ascunse în deal și nu uitați să luați o lanternă frontală fiabilă pentru a naviga în siguranță în interior.",
+            "en": "Explore the fascinating depths of this natural cave hidden in the hillside, and don't forget to pack a reliable headlamp to safely navigate its darker inner chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "La Mandallaz Ridge",
+            "hu": "La Mandallaz Ridge",
+            "ro": "La Mandallaz Ridge",
+            "en": "La Mandallaz Ridge"
+          },
+          "coords": [
+            6.079928,
+            45.976267
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie diesen atemberaubenden natürlichen Bergrücken, um die alpine Flora zu erleben, und überprüfen Sie den Wetterbericht, um plötzliche Winde zu vermeiden.",
+            "hu": "Szelje át ezt a lenyűgöző természetes hegygerincet, hogy megtapasztalja a terület változatos alpesi flóráját, és mindenképpen ellenőrizze a helyi időjárás-jelentést.",
+            "ro": "Traversați această impresionantă creastă naturală pentru a experimenta flora alpină diversă și asigurați-vă că verificați prognoza meteo pentru a evita vânturile puternice.",
+            "en": "Traverse this stunning natural ridge line to experience the area's diverse alpine flora, and be sure to check the local weather report before heading up to avoid sudden winds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem kulturellen Prüfstein an der örtlichen Kirche, bevor Sie zügig zum ruhigen See von La Balme radeln, um die frische Morgenluft zu genießen.\nRadeln Sie zu den tektonischen Wundern der Gegend und nehmen Sie sich Zeit, die sichtbaren seismischen Verwerfungslinien zu beobachten, die die Topographie prägen.\nTesten Sie Ihre Ausdauer mit einem Aufstieg zur Tête de la Mandallaz und der nahe gelegenen Grotte du Curé und tauchen Sie in die raue Bergwelt ein.\nBeenden Sie Ihr Radabenteuer auf den hohen Pfaden des La Mandallaz Ridge und fangen Sie das dramatische Licht des späten Nachmittags über den weiten Tälern ein.",
+        "hu": "Kezdje egy kulturális élménnyel a helyi templomnál, mielőtt sebesen letekerné a nyugodt La Balme tóhoz, hogy élvezze a friss reggeli levegőt a parton.\nKerékpározzon a környék tektonikus csodái felé, időt szakítva a regionális topográfiát alakító látható szeizmikus törésvonalak alaposabb megfigyelésére.\nTedd próbára állóképességedet a Tête de la Mandallaz és a közeli Grotte du Curé felé vezető emelkedőn, elmerülve a zord hegyi környezet szépségében.\nFejezze be kerékpáros kalandját a La Mandallaz hegygerinc magas ösvényein, megörökítve a drámai késő délutáni napfényt a kiterjedt és gyönyörű völgyek felett.",
+        "ro": "Începeți cu un reper cultural la biserica locală înainte de a pedala rapid spre liniștitul Lac La Balme pentru a vă bucura de aerul proaspăt al dimineții.\nPedalați spre minunile tectonice ale zonei, făcându-vă timp să observați liniile de falie seismică vizibile care au modelat topografia regională deosebită.\nTestați-vă rezistența cu o ascensiune spre Tête de la Mandallaz și Grotte du Curé din apropiere, cufundându-vă în peisajele montane accidentate.\nTerminați aventura pe bicicletă de-a lungul potecilor înalte de pe creasta La Mandallaz, prinzând lumina dramatică a soarelui de după-amiază peste văi.",
+        "en": "Start with a cultural touchstone at the local church before pedaling briskly down to the tranquil Lake of La Balme to enjoy the fresh morning air.\nCycle towards the tectonic wonders of the area, taking time to observe the visible seismic fault lines that shaped the regional topography.\nTest your stamina with an ascent towards the Tête de la Mandallaz and the nearby Grotte du Curé, immersing yourself in the rugged mountain environments.\nFinish your cycling adventure along the high paths of La Mandallaz Ridge, catching the dramatic late afternoon sunlight across the sweeping valleys."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 15.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.041436,
+            45.96067
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um die friedliche Atmosphäre vor den Messen zu genießen.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom gyönyörű építészetét, és érkezzen korán, hogy élvezhesse a békés belső teret a reggeli misék előtt.",
+            "ro": "Admirați arhitectura superbă a acestei biserici istorice din inima satului și sosiți devreme pentru a vă bucura de interiorul liniștit înaintea slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this historic church that anchors the village, and arrive early to enjoy the peaceful interior before morning services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of La Balme",
+            "hu": "Lake of La Balme",
+            "ro": "Lake of La Balme",
+            "en": "Lake of La Balme"
+          },
+          "coords": [
+            6.01081,
+            45.944182
+          ],
+          "category": "natural",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie um das ruhige Wasser dieses malerischen, von viel Grün umgebenen Sees und suchen Sie sich einen Platz am Westufer für ein perfekt gerahmtes Bergfoto.",
+            "hu": "Sétáljon egyet a zöldnövényzettel körülvett festői helyi tó nyugodt vize körül, és foglaljon helyet a nyugati parton egy tökéletesen megkomponált hegyi fotóhoz.",
+            "ro": "Plimbați-vă pe malul apelor liniștite ale acestui pitoresc lac local înconjurat de verdeață și alegeți un loc pe malul vestic pentru o fotografie perfectă cu munții.",
+            "en": "Stroll around the tranquil waters of this picturesque local lake surrounded by greenery, and grab a spot on the western bank for a perfectly framed photo of the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête de la Mandallaz",
+            "hu": "Tête de la Mandallaz",
+            "ro": "Tête de la Mandallaz",
+            "en": "Tête de la Mandallaz"
+          },
+          "coords": [
+            6.05769,
+            45.953032
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zum markanten Gipfel des Mandallaz, um die spektakuläre Aussicht auf das Tal zu genießen, und beginnen Sie den Aufstieg vor Mittag, um die Sonne zu meiden.",
+            "hu": "Túrázzon fel a Mandallaz kiemelkedő csúcsára, ahonnan látványos kilátás nyílik az egész völgyre, és kezdje meg az emelkedést dél előtt, hogy elkerülje a délutáni hőséget.",
+            "ro": "Urcați pe vârful proeminent Mandallaz pentru vederi spectaculoase asupra întregii văi și începeți ascensiunea înainte de prânz pentru a evita soarele intens de după-amiază.",
+            "en": "Hike to the prominent peak of the Mandallaz for spectacular elevated views over the entire valley, and start your ascent before midday to avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "La Mandallaz Ridge",
+            "hu": "La Mandallaz Ridge",
+            "ro": "La Mandallaz Ridge",
+            "en": "La Mandallaz Ridge"
+          },
+          "coords": [
+            6.079928,
+            45.976267
+          ],
+          "category": "natural",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diesen atemberaubenden natürlichen Bergrücken, um die alpine Flora zu erleben, und überprüfen Sie den Wetterbericht, um plötzliche Winde zu vermeiden.",
+            "hu": "Szelje át ezt a lenyűgöző természetes hegygerincet, hogy megtapasztalja a terület változatos alpesi flóráját, és mindenképpen ellenőrizze a helyi időjárás-jelentést.",
+            "ro": "Traversați această impresionantă creastă naturală pentru a experimenta flora alpină diversă și asigurați-vă că verificați prognoza meteo pentru a evita vânturile puternice.",
+            "en": "Traverse this stunning natural ridge line to experience the area's diverse alpine flora, and be sure to check the local weather report before heading up to avoid sudden winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Gardens of Haute-Savoie",
+            "hu": "Gardens of Haute-Savoie",
+            "ro": "Gardens of Haute-Savoie",
+            "en": "Gardens of Haute-Savoie"
+          },
+          "coords": [
+            6.099518,
+            45.922017
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese sorgfältig gepflegten botanischen Anlagen mit regionalen Pflanzen und kommen Sie am späten Nachmittag, wenn das Sonnenlicht magisch wirkt.",
+            "hu": "Barangoljon ezekben a gondosan karbantartott botanikus kertekben, ahol regionális növényeket mutatnak be, és látogasson el késő délután, amikor a napfény varázslatos.",
+            "ro": "Plimbați-vă prin aceste spații botanice meticulos întreținute care prezintă plante regionale și vizitați-le la sfârșitul după-amiezii când lumina creează o dispoziție magică.",
+            "en": "Wander through these meticulously maintained botanical spaces showcasing regional plants, and visit during the late afternoon when the slanting sunlight creates a magical mood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Dorfzentrum an der Kirche, bevor Sie mühelos zu den malerischen Ufern des Sees von La Balme hinunterfahren, um einen Spaziergang zu machen.\nFahren Sie in die Hügel, um die Wanderwege rund um die Tête de la Mandallaz in Angriff zu nehmen, und nutzen Sie Ihr Fahrzeug, um schnell an Höhe zu gewinnen.\nFahren Sie weiter auf den malerischen Bergstraßen zum La Mandallaz Ridge, der weite Ausblicke auf das alpine Ökosystem bietet, ohne steile Anstiege.\nLassen Sie den Tag mit einer gemütlichen Fahrt zu den Gärten der Haute-Savoie ausklingen und spazieren Sie durch die sorgfältig gepflegte Flora.",
+        "hu": "Autóútja a faluközpontban kezdődik a festői templomnál, mielőtt könnyedén legurulna a La Balme tó partjára egy békés és pihentető reggeli sétára.\nHajtson fel a dombok közé, hogy megbirkózzon a Tête de la Mandallaz körüli festői ösvényekkel, kihasználva a járművét, hogy gyorsan elérje a magasabb pontokat.\nFolytassa útját a festői hegyi utakon a La Mandallaz hegygerinc felé, amely lenyűgöző kilátást nyújt a változatos alpesi ökoszisztémára meredek túrázás nélkül.\nZárja a napot egy kellemes autózással a Haute-Savoie gyönyörű kertjeihez, sétálva a gondosan összeválogatott növényvilág között az este közeledtével.",
+        "ro": "Călătoria cu mașina începe în centrul satului la biserică înainte de a coborî fără efort spre țărmurile pitorești ale Lacului La Balme pentru o plimbare.\nConduceți pe dealuri pentru a aborda traseele pitorești din jurul Tête de la Mandallaz, profitând de vehiculul dvs. pentru a ajunge rapid la înălțime.\nContinuați pe traseele montane pitorești până la creasta La Mandallaz, care oferă panorame vaste ale ecosistemului alpin divers fără o drumeție abruptă.\nÎncheiați ziua cu o plimbare ușoară cu mașina până la frumoasele Grădini din Haute-Savoie, relaxându-vă printre plantele atent îngrijite spre seară.",
+        "en": "Your drive begins in the village center to see the quaint church before effortlessly cruising down to the scenic shores of Lake of La Balme for a peaceful stroll.\nDrive up into the hills to tackle the scenic trails surrounding the Tête de la Mandallaz, taking advantage of your vehicle to quickly reach the higher elevations.\nContinue along the scenic mountain routes to La Mandallaz Ridge, offering sweeping vistas of the diverse alpine ecosystem without the steep hike.\nWind down the day with a gentle drive to the beautiful Gardens of Haute-Savoie, walking among carefully curated flora as the evening approaches."
+      }
+    }
+  }
+}

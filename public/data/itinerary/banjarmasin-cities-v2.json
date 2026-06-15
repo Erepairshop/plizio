@@ -1,0 +1,474 @@
+{
+  "city_id": "banjarmasin-cities-v2",
+  "anchor": {
+    "name": "Banjarmasin",
+    "coords": [
+      114.5908,
+      -3.3167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Sabilal Muhtadin Banjarmasin",
+            "hu": "Masjid Sabilal Muhtadin Banjarmasin",
+            "ro": "Masjid Sabilal Muhtadin Banjarmasin",
+            "en": "Masjid Sabilal Muhtadin Banjarmasin"
+          },
+          "coords": [
+            114.591278,
+            -3.318966
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Kupferkuppeln dieser riesigen Moschee, einem Wahrzeichen von Banjarmasin, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg e hatalmas mecset lenyűgöző rézkupoláit, a város szimbólumát, de a látogatáshoz válasszon visszafogott öltözéket.",
+            "ro": "Admirați cupolele impresionante din cupru ale acestei moschei uriașe, un simbol al orașului, dar amintiți-vă să purtați haine modeste la vizită.",
+            "en": "Admire the striking copper domes of this massive mosque, a symbol of Banjarmasin, but remember to dress modestly and avoid prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Vihara Dhammasoka Banjarmasin",
+            "hu": "Vihara Dhammasoka Banjarmasin",
+            "ro": "Vihara Dhammasoka Banjarmasin",
+            "en": "Vihara Dhammasoka Banjarmasin"
+          },
+          "coords": [
+            114.59448,
+            -3.316671
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses buddhistischen Tempels, und ziehen Sie unbedingt Ihre Schuhe aus, bevor Sie die Haupthalle betreten.",
+            "hu": "Fedezze fel e buddhista templom békés hangulatát, amely a város sokszínűségét hirdeti, és ne felejtse el levenni a cipőjét a főcsarnok előtt.",
+            "ro": "Descoperiți atmosfera pașnică a acestui templu budist, o dovadă a diversității locale, și asigurați-vă că vă descălțați înainte de a intra.",
+            "en": "Discover the peaceful atmosphere of this Buddhist temple, a testament to the city's diversity, and take off your shoes before entering the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Katedral Keluarga Kudus Banjarmasin",
+            "hu": "Katedral Keluarga Kudus Banjarmasin",
+            "ro": "Katedral Keluarga Kudus Banjarmasin",
+            "en": "Katedral Keluarga Kudus Banjarmasin"
+          },
+          "coords": [
+            114.590448,
+            -3.324611
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige neugotische Architektur dieser katholischen Kathedrale und kommen Sie an einem Wochentag für eine ruhige Besichtigung.",
+            "hu": "Csodálja meg e katolikus katedrális egyedülálló neogótikus építészetét, és látogasson el hétköznap délelőtt egy csendesebb, nyugodt élményért.",
+            "ro": "Minunați-vă de arhitectura neogotică unică a acestei catedrale catolice, o raritate locală, și vizitați dimineața în timpul săptămânii pentru liniște.",
+            "en": "Marvel at the unique neo-Gothic architecture of this Catholic cathedral, a rare sight in the region, and visit during weekday mornings for a quiet tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Jihad Mosque Banjarmasin",
+            "hu": "Al Jihad Mosque Banjarmasin",
+            "ro": "Al Jihad Mosque Banjarmasin",
+            "en": "Al Jihad Mosque Banjarmasin"
+          },
+          "coords": [
+            114.585722,
+            -3.322686
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie das lokale Leben an dieser lebhaften, modern gestalteten Gemeindemoschee und fotografieren Sie am besten vom Innenhof aus.",
+            "hu": "Figyelje meg a helyiek mindennapjait ebben a modern kialakítású közösségi mecsetben, és fotózzon az udvar felől a legszebb fényekért.",
+            "ro": "Observați viața de zi cu zi a localnicilor la această moschee comunitară modernă și rămâneți aproape de curtea interioară pentru cele mai bune poze.",
+            "en": "Observe the daily life of locals at this bustling community mosque, known for its modern design, and stay near the courtyard for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Muhammadiyah Kelayan",
+            "hu": "Masjid Muhammadiyah Kelayan",
+            "ro": "Masjid Muhammadiyah Kelayan",
+            "en": "Masjid Muhammadiyah Kelayan"
+          },
+          "coords": [
+            114.596037,
+            -3.329679
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Moschee im Flussviertel, die für die Gemeinde wichtig ist, und bringen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Fedezze fel ezt a folyóparti negyedben található történelmi mecsetet, és hozzon magával nagylátószögű objektívet az épület megörökítéséhez.",
+            "ro": "Explorați această moschee istorică dintr-un cartier riveran, importantă pentru comunitate, și aduceți un obiectiv grandangular pentru exterior.",
+            "en": "Explore this historic riverside neighborhood mosque, important to the Muhammadiyah community, and bring a wide-angle lens to capture the exterior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der imposanten Moschee Sabilal Muhtadin, bevor Sie zum ruhigen Vihara Dhammasoka schlendern, um die religiöse Harmonie zu erleben. Mittags entdecken Sie die einzigartigen neugotischen Bögen der Katedral Keluarga Kudus und genießen die friedliche Pause abseits der tropischen Straßen. Am Nachmittag spazieren Sie zur lebhaften Al Jihad Moschee, wo Sie das tägliche Gemeindeleben in einem modernen architektonischen Umfeld beobachten können. Beenden Sie Ihre Tour am späten Nachmittag an der Muhammadiyah Kelayan Moschee am Flussufer und sehen Sie zu, wie sich das Abendlicht auf dem Martapura spiegelt.",
+        "hu": "Kezdje a reggelt az impozáns Sabilal Muhtadin mecsetnél, majd sétáljon át a békés Vihara Dhammasoka szentélyhez, hogy megtapasztalja a vallási harmóniát. Délben fedezze fel a Katedral Keluarga Kudus egyedülálló neogótikus boltíveit, békés menedéket találva Banjarmasin nyüzsgő trópusi utcái elől. Délután sétáljon el a vibráló Al Jihad mecset felé, ahol a helyi közösség mindennapi életét figyelheti meg egy modern építészeti környezetben. Sétáját a folyóparti Muhammadiyah Kelayan mecsetnél zárja, ahol megcsodálhatja, ahogy a lágy esti fények visszatükröződnek a Martapura folyó vizén.",
+        "ro": "Începeți dimineața explorând impunătoarea Moschee Sabilal Muhtadin, înainte de o plimbare spre Vihara Dhammasoka pentru a vedea armonia religioasă a orașului. Până la prânz, descoperiți arcadele neogotice unice ale Catedralei Keluarga Kudus, bucurându-vă de liniște departe de străzile tropicale pline de viață. După-amiaza, mergeți spre vibranta Moschee Al Jihad, unde puteți observa viața de zi cu zi a comunității într-un cadru arhitectural surprinzător de modern. Încheiați turul pietonal spre seară la Moscheea Muhammadiyah Kelayan de pe malul râului, privind cum lumina blândă se reflectă pe apele râului Martapura.",
+        "en": "Start your morning exploring the imposing Sabilal Muhtadin Mosque before taking a short stroll to the tranquil Vihara Dhammasoka to witness the city's religious harmony. By midday, discover the unique neo-Gothic arches of Katedral Keluarga Kudus, enjoying the peaceful respite from the bustling tropical streets of Banjarmasin. In the afternoon, walk towards the vibrant Al Jihad Mosque, where you can observe daily community life unfolding in a strikingly modern architectural setting. Conclude your walking tour in the late afternoon at the riverside Muhammadiyah Kelayan Mosque, watching the soft evening light reflect off the waters of the Martapura River."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Katedral Keluarga Kudus Banjarmasin",
+            "hu": "Katedral Keluarga Kudus Banjarmasin",
+            "ro": "Katedral Keluarga Kudus Banjarmasin",
+            "en": "Katedral Keluarga Kudus Banjarmasin"
+          },
+          "coords": [
+            114.590448,
+            -3.324611
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige neugotische Architektur dieser katholischen Kathedrale und kommen Sie an einem Wochentag für eine ruhige Besichtigung.",
+            "hu": "Csodálja meg e katolikus katedrális egyedülálló neogótikus építészetét, és látogasson el hétköznap délelőtt egy csendesebb, nyugodt élményért.",
+            "ro": "Minunați-vă de arhitectura neogotică unică a acestei catedrale catolice, o raritate locală, și vizitați dimineața în timpul săptămânii pentru liniște.",
+            "en": "Marvel at the unique neo-Gothic architecture of this Catholic cathedral, a rare sight in the region, and visit during weekday mornings for a quiet tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sabilal Muhtadin Banjarmasin",
+            "hu": "Masjid Sabilal Muhtadin Banjarmasin",
+            "ro": "Masjid Sabilal Muhtadin Banjarmasin",
+            "en": "Masjid Sabilal Muhtadin Banjarmasin"
+          },
+          "coords": [
+            114.591278,
+            -3.318966
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Kupferkuppeln dieser riesigen Moschee, einem Wahrzeichen von Banjarmasin, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg e hatalmas mecset lenyűgöző rézkupoláit, a város szimbólumát, de a látogatáshoz válasszon visszafogott öltözéket.",
+            "ro": "Admirați cupolele impresionante din cupru ale acestei moschei uriașe, un simbol al orașului, dar amintiți-vă să purtați haine modeste la vizită.",
+            "en": "Admire the striking copper domes of this massive mosque, a symbol of Banjarmasin, but remember to dress modestly and avoid prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jami Banjarmasin",
+            "hu": "Masjid Jami Banjarmasin",
+            "ro": "Masjid Jami Banjarmasin",
+            "en": "Masjid Jami Banjarmasin"
+          },
+          "coords": [
+            114.595565,
+            -3.306769
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der ältesten Moscheen der Stadt mit traditioneller Pfahlbauweise und kommen Sie früh, um die feinen Holzschnitzereien zu bewundern.",
+            "hu": "Látogasson el a város egyik legrégebbi, hagyományos cölöpépítészetű mecsetébe, és érkezzen korán, hogy megcsodálhassa a fa faragásokat.",
+            "ro": "Vizitați una dintre cele mai vechi moschei, cu arhitectură tradițională pe piloni, și sosiți devreme pentru a aprecia sculpturile complexe în lemn.",
+            "en": "Visit one of the oldest mosques in the city, featuring beautiful traditional stilt architecture, and arrive early to appreciate the intricate wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Seni",
+            "hu": "Galeri Seni",
+            "ro": "Galeri Seni",
+            "en": "Galeri Seni"
+          },
+          "coords": [
+            114.590197,
+            -3.298549
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser lebhaften Galerie in die Kunst Süd-Kalimantans ein und fragen Sie den Kurator nach den Hintergründen der aktuellen Werke.",
+            "hu": "Merüljön el Dél-Kalimantan helyi művészetében ebben a vibráló galériában, és kérdezze meg a kurátort az aktuális kiállítások részleteiről.",
+            "ro": "Lăsați-vă absorbit de arta locală din Kalimantanul de Sud în această galerie vibrantă și întrebați curatorul despre expozițiile curente.",
+            "en": "Immerse yourself in local South Kalimantan art at this vibrant gallery, showcasing traditional motifs, and ask the curator about the current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedung legiun vetran",
+            "hu": "Gedung legiun vetran",
+            "ro": "Gedung legiun vetran",
+            "en": "Gedung legiun vetran"
+          },
+          "coords": [
+            114.590129,
+            -3.288785
+          ],
+          "category": "museum",
+          "arrive_at": "13:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Veteranengebäude voller Artefakte mehr über Indonesiens Unabhängigkeitskampf und nehmen Sie sich Zeit für die historischen Tafeln.",
+            "hu": "Ismerje meg Indonézia függetlenségi harcát ebben a veterán épületben, és szánjon időt a kiállított történelmi emléktáblák elolvasására.",
+            "ro": "Aflați despre lupta pentru independență a Indoneziei în această clădire a veteranilor și acordați-vă timp pentru a citi plăcile istorice expuse.",
+            "en": "Learn about Indonesia's struggle for independence at this veteran's building, filled with artifacts, and take your time reading the historic plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Wasaka",
+            "hu": "Museum Wasaka",
+            "ro": "Museum Wasaka",
+            "en": "Museum Wasaka"
+          },
+          "coords": [
+            114.609087,
+            -3.303851
+          ],
+          "category": "museum",
+          "arrive_at": "15:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Holzbau tief in die antikoloniale Geschichte des Banjar-Volkes ein und engagieren Sie einen lokalen Führer.",
+            "hu": "Merüljön el a banjar nép gyarmatosítás-ellenes történelmében ebben a faház-múzeumban, és fogadjon helyi vezetőt a gazdagabb élményért.",
+            "ro": "Pătrundeți adânc în istoria anticolonială a poporului Banjar la acest muzeu tradițional din lemn și angajați un ghid local pentru o poveste captivantă.",
+            "en": "Dive deep into the anti-colonial history of the Banjar people at this traditional wooden museum, and hire a local guide for richer storytelling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der Katedral Keluarga Kudus, gefolgt von einer Fahrt zu den großen Kuppeln der Masjid Sabilal Muhtadin in der Morgensonne. Mittags radeln Sie nach Norden zur historischen Masjid Jami Banjarmasin und bewundern die Pfahlbauten, bevor Sie zur Galeri Seni für lokale Kunst aufbrechen. Verbringen Sie den Nachmittag damit, im Gedung Legiun Veteran in die militärische Vergangenheit Indonesiens einzutauchen und die ergreifenden Exponate zu studieren. Gegen Abend radeln Sie gemütlich zum Museum Wasaka, einem wunderschönen Holzhaus am Flussufer, das Ihre historische Reise perfekt abrundet.",
+        "hu": "Kerékpáros kalandja a Katedral Keluarga Kudusnál kezdődik, majd a reggeli napsütésben a Masjid Sabilal Muhtadin hatalmas kupolái felé veszi az irányt. Délben tekerjen északra a történelmi Masjid Jami Banjarmasin mecsethez, hogy megcsodálja a cölöpépítészetet, mielőtt a Galeri Seni helyi művészetébe merülne. A délutánt Indonézia katonai múltjának felfedezésével töltheti a Gedung Legiun Veteran épületében, amely a nemzet függetlenségi harcát mutatja be. Ahogy közeledik az este, guruljon el a Wasaka Múzeumhoz, egy kiváló folyóparti faházhoz, amely gyönyörűen megkoronázza ezt a történelmi utazást.",
+        "ro": "Aventura pe bicicletă începe la Catedrala Keluarga Kudus, urmată de o cursă rapidă spre cupolele mărețe ale Masjid Sabilal Muhtadin în soarele dimineții. Până la prânz, pedalați spre nord până la istorica Masjid Jami Banjarmasin, admirând arhitectura sa, înainte de a merge la Galeri Seni pentru artă locală. Petreceți-vă după-amiaza explorând trecutul militar al Indoneziei la Gedung Legiun Veteran, absorbind expozițiile emoționante ale luptei pentru independență. Odată cu lăsarea serii, mergeți pe străzi spre Muzeul Wasaka, o casă tradițională de lemn pe malul râului care încununează perfect călătoria istorică.",
+        "en": "Your cycling adventure begins at the striking Katedral Keluarga Kudus, followed by a quick ride to the grand domes of Masjid Sabilal Muhtadin under the morning sun. By midday, cycle north to the historic Masjid Jami Banjarmasin, admiring its traditional stilt architecture before heading to Galeri Seni for local art. Spend your afternoon delving into Indonesia's military past at the Gedung Legiun Veteran, absorbing the poignant exhibits of the nation's independence struggle. As evening approaches, cruise along the streets towards Museum Wasaka, an excellent riverside wooden house that beautifully caps off your historical journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 13.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pura Agung Jagat Natha Banjarmasin",
+            "hu": "Pura Agung Jagat Natha Banjarmasin",
+            "ro": "Pura Agung Jagat Natha Banjarmasin",
+            "en": "Pura Agung Jagat Natha Banjarmasin"
+          },
+          "coords": [
+            114.618319,
+            -3.32002
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die balinesische Hindu-Architektur dieses Tempels in Kalimantan und tragen Sie unbedingt einen Sarong, bevor Sie den Komplex betreten.",
+            "hu": "Tapasztalja meg e hindu templom derűs balinéz építészetét Kalimantan szívében, és a belépés előtt feltétlenül öltsön magára egy hagyományos szarongot.",
+            "ro": "Experimentați arhitectura hindusă balineză a acestui templu din Kalimantan și asigurați-vă că purtați un sarong înainte de a intra în complex.",
+            "en": "Experience the serene Balinese Hindu architecture of this vibrant temple in Kalimantan, and be sure to wear a sarong before stepping inside the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Wasaka",
+            "hu": "Museum Wasaka",
+            "ro": "Museum Wasaka",
+            "en": "Museum Wasaka"
+          },
+          "coords": [
+            114.609087,
+            -3.303851
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Holzbau tief in die antikoloniale Geschichte des Banjar-Volkes ein und engagieren Sie einen lokalen Führer.",
+            "hu": "Merüljön el a banjar nép gyarmatosítás-ellenes történelmében ebben a faház-múzeumban, és fogadjon helyi vezetőt a gazdagabb élményért.",
+            "ro": "Pătrundeți adânc în istoria anticolonială a poporului Banjar la acest muzeu tradițional din lemn și angajați un ghid local pentru o poveste captivantă.",
+            "en": "Dive deep into the anti-colonial history of the Banjar people at this traditional wooden museum, and hire a local guide for richer storytelling."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jami Banjarmasin",
+            "hu": "Masjid Jami Banjarmasin",
+            "ro": "Masjid Jami Banjarmasin",
+            "en": "Masjid Jami Banjarmasin"
+          },
+          "coords": [
+            114.595565,
+            -3.306769
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der ältesten Moscheen der Stadt mit traditioneller Pfahlbauweise und kommen Sie früh, um die feinen Holzschnitzereien zu bewundern.",
+            "hu": "Látogasson el a város egyik legrégebbi, hagyományos cölöpépítészetű mecsetébe, és érkezzen korán, hogy megcsodálhassa a fa faragásokat.",
+            "ro": "Vizitați una dintre cele mai vechi moschei, cu arhitectură tradițională pe piloni, și sosiți devreme pentru a aprecia sculpturile complexe în lemn.",
+            "en": "Visit one of the oldest mosques in the city, featuring beautiful traditional stilt architecture, and arrive early to appreciate the intricate wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "History Museum of Sultan Suriansyah",
+            "hu": "History Museum of Sultan Suriansyah",
+            "ro": "History Museum of Sultan Suriansyah",
+            "en": "History Museum of Sultan Suriansyah"
+          },
+          "coords": [
+            114.572777,
+            -3.293407
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die Ursprünge des Banjar-Sultanats anhand faszinierender antiker Artefakte, aber prüfen Sie vorab unbedingt die Öffnungszeiten.",
+            "hu": "Kövesse nyomon a Banjar Szultanátus eredetét a lenyűgöző ősi leleteken keresztül, és előzetesen ellenőrizze a gyakran változó nyitvatartási időt.",
+            "ro": "Urmăriți originile Sultanatului Banjar prin artefacte antice fascinante și verificați în prealabil programul de funcționare, deoarece poate varia.",
+            "en": "Trace the origins of the Banjar Sultanate through fascinating ancient artifacts, and check the opening hours beforehand as they can be unpredictable."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sultan Suriansyah",
+            "hu": "Masjid Sultan Suriansyah",
+            "ro": "Masjid Sultan Suriansyah",
+            "en": "Masjid Sultan Suriansyah"
+          },
+          "coords": [
+            114.576192,
+            -3.29436
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die älteste Moschee Süd-Kalimantans, bewundern Sie das majestätische Stufendach und respektieren Sie die Stille während der Gebete.",
+            "hu": "Lépjen be Dél-Kalimantan legrégebbi mecsetébe, csodálja meg a fenséges, többszintes tetőszerkezetet, és tartsa tiszteletben az imák alatti csendet.",
+            "ro": "Pășiți în cea mai veche moschee din zonă pentru a-i admira acoperișul maiestuos în trepte și respectați atmosfera liniștită în timpul rugăciunilor.",
+            "en": "Step inside the oldest mosque in South Kalimantan to admire its majestic tiered roof, and respect the quiet atmosphere during prayer sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pulau Kembang",
+            "hu": "Pulau Kembang",
+            "ro": "Pulau Kembang",
+            "en": "Pulau Kembang"
+          },
+          "coords": [
+            114.560574,
+            -3.306271
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Bootsfahrt zu dieser von Makaken wimmelnden Deltainsel, aber halten Sie Ihre Habseligkeiten vor den frechen Affen gut fest.",
+            "hu": "Tegyen egy rövid hajóutat erre a makákóktól nyüzsgő szigetre, de fogja erősen a holmiját, nehogy a szemtelen majmok elcsenjenek valamit.",
+            "ro": "Faceți o scurtă plimbare cu barca spre această insulă plină de macaci, dar țineți-vă bine lucrurile pentru a preveni furturile maimuțelor îndrăznețe.",
+            "en": "Take a short boat ride to this delta island teeming with long-tailed macaques, but hold tightly to your belongings to prevent cheeky monkeys from stealing."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jami Tuhfaturroghibin",
+            "hu": "Masjid Jami Tuhfaturroghibin",
+            "ro": "Masjid Jami Tuhfaturroghibin",
+            "en": "Masjid Jami Tuhfaturroghibin"
+          },
+          "coords": [
+            114.570113,
+            -3.268658
+          ],
+          "category": "religious",
+          "arrive_at": "16:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser ikonischen Moschee am Flussufer, die für ihre Geschichte und Sonnenuntergänge bekannt ist, mit einem lokalen Snack.",
+            "hu": "Zárja a napot ennél az ikonikus, folyóparti mecsetnél, amely történelméről és naplementéiről ismert, és kóstoljon meg egy helyi harapnivalót.",
+            "ro": "Încheiați ziua la această moschee iconică de pe malul râului, renumită pentru istorie și apusuri, și cumpărați o gustare locală din apropiere.",
+            "en": "End your day at this iconic mosque floating on the riverbanks, known for its history and beautiful sunset views, and grab a local snack nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens vom Pura Agung Jagat Natha Tempel los und bequem zum Museum Wasaka, um das reiche antikoloniale Erbe von Banjarmasin zu entdecken. Mittags fahren Sie zur eleganten Masjid Jami Banjarmasin, gefolgt von einem Besuch im Geschichtsmuseum von Sultan Suriansyah auf den Spuren antiker Könige. Der Nachmittag führt zur historischen Masjid Sultan Suriansyah und von dort per Bootstransfer zu den lebhaften Makaken der Affeninsel Pulau Kembang. Beenden Sie Ihre Autotour an der prächtigen Masjid Jami Tuhfaturroghibin und beobachten Sie den Sonnenuntergang über den Flüssen Süd-Kalimantans.",
+        "hu": "Induljon reggel a vibráló Pura Agung Jagat Natha templomból, és autózzon kényelmesen a Wasaka Múzeumhoz, hogy felfedezze a gazdag antikoloniális örökséget. Délben vezessen az elegáns Masjid Jami Banjarmasin mecsethez, majd a Sultan Suriansyah Történeti Múzeumnál merüljön el az ősi uralkodók múltjában. A délután a történelmi Masjid Sultan Suriansyah mecsethez vezet, ahonnan egy rövid hajóút visz a Pulau Kembang sziget élénk makákómajmaihoz. Zárja autós körútját a csodálatos Masjid Jami Tuhfaturroghibin mecsetnél, ahogy a lemenő nap aranyra festi Dél-Kalimantan kiterjedt folyóhálózatát.",
+        "ro": "Plecați dimineața de la templul Pura Agung Jagat Natha, mergând confortabil spre Muzeul Wasaka pentru a descoperi bogata moștenire anticolonială. La prânz, conduceți spre eleganta Masjid Jami Banjarmasin, urmată de o oprire la Muzeul de Istorie Sultan Suriansyah pentru a urmări vechile regalități. După-amiaza vă duce la istorica Masjid Sultan Suriansyah, iar de acolo un scurt transfer cu barca la macacii jucăuși de pe insula Pulau Kembang. Încheiați turul cu mașina la magnifica Masjid Jami Tuhfaturroghibin, privind cum apusul aruncă nuanțe aurii peste rețelele de râuri din Kalimantanul de Sud.",
+        "en": "Depart in the morning from the vibrant Pura Agung Jagat Natha temple, cruising comfortably to the Museum Wasaka to uncover the rich anti-colonial heritage. By midday, drive to the elegant Masjid Jami Banjarmasin, followed by an insightful stop at the History Museum of Sultan Suriansyah to trace ancient royalties. The afternoon takes you to the historic Masjid Sultan Suriansyah, and from there, a short boat transfer brings you to the lively macaques of Pulau Kembang. Conclude your driving tour at the magnificent Masjid Jami Tuhfaturroghibin, watching the sunset cast golden hues across the river networks of South Kalimantan."
+      }
+    }
+  }
+}

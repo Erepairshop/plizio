@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-mourtero-cities-v2",
+  "anchor": {
+    "name": "Mourtero",
+    "coords": [
+      23.92901,
+      39.21207
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:24",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basile Mpampakies",
+            "hu": "Basile Mpampakies",
+            "ro": "Basile Mpampakies",
+            "en": "Basile Mpampakies"
+          },
+          "coords": [
+            23.931636,
+            39.206635
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang durch Basile Mpampakies, aber besuchen Sie es am frühen Morgen, um der Hitze zu entgehen und die erfrischende Brise zu genießen.",
+            "hu": "Tegyen egy kényelmes sétát a Basile Mpampakies területén, de inkább kora reggel látogasson el ide, hogy elkerülje a hőséget és élvezze a frissítő szellőt.",
+            "ro": "Faceți o plimbare pe îndelete prin Basile Mpampakies pentru verdeața înconjurătoare, dar vizitați mai devreme dimineața pentru a evita căldura și a vă bucura de briza răcoroasă.",
+            "en": "Take a leisurely stroll through Basile Mpampakies to admire the surrounding greenery, but visit earlier in the morning to avoid the heat and enjoy the refreshing breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalubia Alexiou",
+            "hu": "Kalubia Alexiou",
+            "ro": "Kalubia Alexiou",
+            "en": "Kalubia Alexiou"
+          },
+          "coords": [
+            23.931011,
+            39.205681
+          ],
+          "category": "recreational",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den rustikalen Charme von Kalubia Alexiou, um das authentische Leben zu spüren, und tragen Sie feste Schuhe, um die unbefestigten Wege sicher zu begehen.",
+            "hu": "Sétáljon a Kalubia Alexiou rusztikus bájában, hogy megtapasztalja az autentikus helyi életet, és mindenképpen viseljen masszív cipőt a burkolatlan utakon való biztonságos járáshoz.",
+            "ro": "Plimbați-vă prin farmecul rustic din Kalubia Alexiou pentru viața locală autentică și asigurați-vă că purtați pantofi rezistenți pentru a naviga în siguranță pe potecile neasfaltate.",
+            "en": "Wander around the rustic charm of Kalubia Alexiou to experience authentic local life, and make sure to wear sturdy walking shoes to navigate the unpaved paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Vamvakiés",
+            "hu": "Vamvakiés",
+            "ro": "Vamvakiés",
+            "en": "Vamvakiés"
+          },
+          "coords": [
+            23.935988,
+            39.210343
+          ],
+          "category": "recreational",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Landschaft um Vamvakiés, wo die Zeit stillzustehen scheint, was eine perfekte Gelegenheit ist, ein Buch für eine ruhige Pause mitzubringen.",
+            "hu": "Fedezze fel a Vamvakiés körüli hagyományos tájat, ahol mintha lelassulna az idő, ez tökéletes alkalom arra, hogy hozzon egy jó könyvet egy kis csendes olvasáshoz.",
+            "ro": "Descoperiți peisajul tradițional din jurul Vamvakiés unde timpul pare să încetinească, o ocazie perfectă pentru a aduce o carte bună pentru momente de liniște.",
+            "en": "Discover the traditional landscape around Vamvakiés where time seems to slow down, making it the perfect opportunity to bring a sketchpad or a good book for some quiet time."
+          }
+        },
+        {
+          "name": {
+            "de": "Stou Malathrite Mpampakies",
+            "hu": "Stou Malathrite Mpampakies",
+            "ro": "Stou Malathrite Mpampakies",
+            "en": "Stou Malathrite Mpampakies"
+          },
+          "coords": [
+            23.938289,
+            39.212698
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedliche Gegend von Stou Malathrite Mpampakies als ruhigen Rückzugsort und vergessen Sie nicht, in den wärmeren Sommermonaten Insektenschutzmittel mitzunehmen.",
+            "hu": "Fedezze fel a Stou Malathrite Mpampakies békés területét, amely csendes menedéket kínál, és ne felejtsen el rovarriasztót vinni a melegebb nyári hónapok során.",
+            "ro": "Explorați zona pașnică din Stou Malathrite Mpampakies care oferă o evadare senină și nu uitați să luați la voi un repelent împotriva insectelor în lunile calde de vară.",
+            "en": "Explore the peaceful area of Stou Malathrite Mpampakies which offers a serene escape, and don't forget to carry some insect repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Mourtitsa",
+            "hu": "Mourtitsa",
+            "ro": "Mourtitsa",
+            "en": "Mourtitsa"
+          },
+          "coords": [
+            23.946644,
+            39.225014
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in Mourtitsa ein und genießen Sie die weite Aussicht, aber packen Sie ausreichend Trinkwasser ein, da die Versorgung hier sehr begrenzt ist.",
+            "hu": "Szívja magába a friss levegőt Mourtitsában, miközben a görög vidék tágas kilátásában gyönyörködik, és vigyen magával bőséges ivóvizet, mivel a környéken kevés a szolgáltatás.",
+            "ro": "Respirați aerul proaspăt la Mourtitsa în timp ce admirați priveliștile întinse și asigurați-vă că luați suficientă apă de băut deoarece facilitățile sunt limitate aici.",
+            "en": "Breathe in the fresh air at Mourtitsa while taking in the expansive views of the Greek countryside, and pack plenty of drinking water as amenities are limited in this area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang durch das Grün von Basile Mpampakies. Am Mittag erkunden Sie die rustikalen Pfade von Kalubia Alexiou und die Landschaften von Vamvakiés. Entdecken Sie am Nachmittag die Oase von Stou Malathrite Mpampakies. Lassen Sie den Abend in Mourtitsa ausklingen und atmen Sie die frische Luft ein, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Basile Mpampakies zöldjében, amely megadja a nyugodt alaphangot. Délben a Kalubia Alexiou rusztikus ösvényein és Vamvakiés hagyományos tájain haladhat át. Délután fedezze fel a Stou Malathrite Mpampakies nyújtotta csendes menedéket. Fejezze be az estét Mourtitsában, beszívva a friss levegőt, miközben a nap lenyugszik a táj felett.",
+        "ro": "Începeți dimineața cu o plimbare răcoritoare prin verdeața din Basile Mpampakies. La prânz, treceți prin potecile rustice din Kalubia Alexiou și peisajele din Vamvakiés. După-amiaza, explorați refugiul liniștit oferit de Stou Malathrite Mpampakies. Încheiați seara la Mourtitsa, respirând aer proaspăt în timp ce soarele apune peste peisajul rural blând.",
+        "en": "Begin your morning with a refreshing walk through the greenery of Basile Mpampakies, setting a relaxing tone. Midday takes you through the rustic paths of Kalubia Alexiou and the traditional landscapes of Vamvakiés. In the afternoon, explore the tranquil escape offered by Stou Malathrite Mpampakies. Conclude your evening at Mourtitsa, breathing in the fresh air as the sun sets over the countryside."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "12:09",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Glyfa",
+            "hu": "Glyfa",
+            "ro": "Glyfa",
+            "en": "Glyfa"
+          },
+          "coords": [
+            23.92641,
+            39.194693
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Ufern von Glyfa, einem idealen Ort zum Abschalten, weshalb es sich empfiehlt, ein leichtes Picknick und eine Decke einzupacken.",
+            "hu": "Pihenjen meg a Glyfa partjainál, amely ideális hely a kikapcsolódásra és a hullámok hallgatására, így erősen ajánlott egy könnyű piknikkel és kényelmes takaróval készülni.",
+            "ro": "Relaxați-vă pe țărmurile blânde din Glyfa, un loc ideal pentru a asculta valurile, motiv pentru care este foarte recomandat să împachetați un picnic ușor și o pătură.",
+            "en": "Relax by the gentle shores of Glyfa, an ideal spot to unwind and listen to the waves, making it highly recommended to pack a light picnic and a comfortable blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Basile Mpampakies",
+            "hu": "Basile Mpampakies",
+            "ro": "Basile Mpampakies",
+            "en": "Basile Mpampakies"
+          },
+          "coords": [
+            23.931636,
+            39.206635
+          ],
+          "category": "recreational",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang durch Basile Mpampakies, aber besuchen Sie es am frühen Morgen, um der Hitze zu entgehen und die erfrischende Brise zu genießen.",
+            "hu": "Tegyen egy kényelmes sétát a Basile Mpampakies területén, de inkább kora reggel látogasson el ide, hogy elkerülje a hőséget és élvezze a frissítő szellőt.",
+            "ro": "Faceți o plimbare pe îndelete prin Basile Mpampakies pentru verdeața înconjurătoare, dar vizitați mai devreme dimineața pentru a evita căldura și a vă bucura de briza răcoroasă.",
+            "en": "Take a leisurely stroll through Basile Mpampakies to admire the surrounding greenery, but visit earlier in the morning to avoid the heat and enjoy the refreshing breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Vamvakiés",
+            "hu": "Vamvakiés",
+            "ro": "Vamvakiés",
+            "en": "Vamvakiés"
+          },
+          "coords": [
+            23.935988,
+            39.210343
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Landschaft um Vamvakiés, wo die Zeit stillzustehen scheint, was eine perfekte Gelegenheit ist, ein Buch für eine ruhige Pause mitzubringen.",
+            "hu": "Fedezze fel a Vamvakiés körüli hagyományos tájat, ahol mintha lelassulna az idő, ez tökéletes alkalom arra, hogy hozzon egy jó könyvet egy kis csendes olvasáshoz.",
+            "ro": "Descoperiți peisajul tradițional din jurul Vamvakiés unde timpul pare să încetinească, o ocazie perfectă pentru a aduce o carte bună pentru momente de liniște.",
+            "en": "Discover the traditional landscape around Vamvakiés where time seems to slow down, making it the perfect opportunity to bring a sketchpad or a good book for some quiet time."
+          }
+        },
+        {
+          "name": {
+            "de": "Mourtitsa",
+            "hu": "Mourtitsa",
+            "ro": "Mourtitsa",
+            "en": "Mourtitsa"
+          },
+          "coords": [
+            23.946644,
+            39.225014
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in Mourtitsa ein und genießen Sie die weite Aussicht, aber packen Sie ausreichend Trinkwasser ein, da die Versorgung hier sehr begrenzt ist.",
+            "hu": "Szívja magába a friss levegőt Mourtitsában, miközben a görög vidék tágas kilátásában gyönyörködik, és vigyen magával bőséges ivóvizet, mivel a környéken kevés a szolgáltatás.",
+            "ro": "Respirați aerul proaspăt la Mourtitsa în timp ce admirați priveliștile întinse și asigurați-vă că luați suficientă apă de băut deoarece facilitățile sunt limitate aici.",
+            "en": "Breathe in the fresh air at Mourtitsa while taking in the expansive views of the Greek countryside, and pack plenty of drinking water as amenities are limited in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalubia Stamatiou",
+            "hu": "Kalubia Stamatiou",
+            "ro": "Kalubia Stamatiou",
+            "en": "Kalubia Stamatiou"
+          },
+          "coords": [
+            23.949217,
+            39.226532
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die idyllische ländliche Umgebung von Kalubia Stamatiou und versuchen Sie, mit den freundlichen Einheimischen ins Gespräch zu kommen, wenn sich die Chance bietet.",
+            "hu": "Csodálja meg Kalubia Stamatiou idilli, vidéki környezetét, amely bemutatja a régió örökségét, és próbáljon beszélgetésbe elegyedni a barátságos helyiekkel, ha teheti.",
+            "ro": "Admirați cadrul rural idilic din Kalubia Stamatiou care prezintă patrimoniul agricol și încercați să inițiați o conversație cu localnicii prietenoși dacă aveți ocazia.",
+            "en": "Admire the idyllic rural setting of Kalubia Stamatiou which showcases the region's agricultural heritage, and try to strike up a conversation with friendly locals if you can."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an den Ufern von Glyfa und lauschen Sie den sanften Wellen. Bis zum Mittag radeln Sie zu den landwirtschaftlichen Orten Basile Mpampakies und Vamvakiés. Die Nachmittagsfahrt führt Sie zu den malerischen Aussichten rund um Mourtitsa. Beenden Sie den Tag und erkunden Sie das ländliche Erbe von Kalubia Stamatiou im Abendlicht.",
+        "hu": "Kezdje a kerékpártúrát egy szeles reggelen Glyfa partjainál, hallgatva a szelíd hullámokat. Délben tekerjen tovább Basile Mpampakies és Vamvakiés hagyományos mezőgazdasági helyszínei felé. A délutáni út a Mourtitsa körüli tágas, festői kilátásokhoz vezet. Fejezze be a napot Kalubia Stamatiou vidéki örökségének felfedezésével a ragyogó esti fényben.",
+        "ro": "Începeți călătoria cu bicicleta într-o dimineață aerisită pe țărmurile din Glyfa. Până la prânz, pedalați spre locurile agricole tradiționale din Basile Mpampakies și Vamvakiés. Plimbarea de după-amiază vă conduce la priveliștile extinse din jurul Mourtitsa. Încheiați ziua explorând moștenirea rurală a Kalubia Stamatiou în lumina blândă a serii.",
+        "en": "Start your cycling journey with a breezy morning at the shores of Glyfa, listening to the gentle waves. By midday, pedal towards the traditional agricultural spots of Basile Mpampakies and Vamvakiés. The afternoon ride leads you to the expansive, scenic views surrounding Mourtitsa. Finish the day exploring the rural heritage of Kalubia Stamatiou in the glowing evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "12:00",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Geladias",
+            "hu": "Geladias",
+            "ro": "Geladias",
+            "en": "Geladias"
+          },
+          "coords": [
+            23.905894,
+            39.209092
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre der Naturlandschaft von Geladias, die eine perfekte Kulisse bietet, also bringen Sie ein Weitwinkelobjektiv für beste Fotos mit.",
+            "hu": "Élvezze a Geladias természeti tájának nyugodt hangulatát, amely tökéletes hátteret nyújt a fotózáshoz, ezért hozzon magával nagylátószögű objektívet a legjobb képekért.",
+            "ro": "Bucurați-vă de atmosfera liniștită a peisajului natural din Geladias, care oferă un fundal perfect, așa că aduceți un obiectiv cu unghi larg pentru cele mai bune fotografii.",
+            "en": "Enjoy the tranquil atmosphere of Geladias' natural landscape, which offers a perfect backdrop for photography, so bring a wide-angle lens for the best shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Glyfa",
+            "hu": "Glyfa",
+            "ro": "Glyfa",
+            "en": "Glyfa"
+          },
+          "coords": [
+            23.92641,
+            39.194693
+          ],
+          "category": "recreational",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Ufern von Glyfa, einem idealen Ort zum Abschalten, weshalb es sich empfiehlt, ein leichtes Picknick und eine Decke einzupacken.",
+            "hu": "Pihenjen meg a Glyfa partjainál, amely ideális hely a kikapcsolódásra és a hullámok hallgatására, így erősen ajánlott egy könnyű piknikkel és kényelmes takaróval készülni.",
+            "ro": "Relaxați-vă pe țărmurile blânde din Glyfa, un loc ideal pentru a asculta valurile, motiv pentru care este foarte recomandat să împachetați un picnic ușor și o pătură.",
+            "en": "Relax by the gentle shores of Glyfa, an ideal spot to unwind and listen to the waves, making it highly recommended to pack a light picnic and a comfortable blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalubia Alexiou",
+            "hu": "Kalubia Alexiou",
+            "ro": "Kalubia Alexiou",
+            "en": "Kalubia Alexiou"
+          },
+          "coords": [
+            23.931011,
+            39.205681
+          ],
+          "category": "recreational",
+          "arrive_at": "10:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den rustikalen Charme von Kalubia Alexiou, um das authentische Leben zu spüren, und tragen Sie feste Schuhe, um die unbefestigten Wege sicher zu begehen.",
+            "hu": "Sétáljon a Kalubia Alexiou rusztikus bájában, hogy megtapasztalja az autentikus helyi életet, és mindenképpen viseljen masszív cipőt a burkolatlan utakon való biztonságos járáshoz.",
+            "ro": "Plimbați-vă prin farmecul rustic din Kalubia Alexiou pentru viața locală autentică și asigurați-vă că purtați pantofi rezistenți pentru a naviga în siguranță pe potecile neasfaltate.",
+            "en": "Wander around the rustic charm of Kalubia Alexiou to experience authentic local life, and make sure to wear sturdy walking shoes to navigate the unpaved paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Stou Malathrite Mpampakies",
+            "hu": "Stou Malathrite Mpampakies",
+            "ro": "Stou Malathrite Mpampakies",
+            "en": "Stou Malathrite Mpampakies"
+          },
+          "coords": [
+            23.938289,
+            39.212698
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedliche Gegend von Stou Malathrite Mpampakies als ruhigen Rückzugsort und vergessen Sie nicht, in den wärmeren Sommermonaten Insektenschutzmittel mitzunehmen.",
+            "hu": "Fedezze fel a Stou Malathrite Mpampakies békés területét, amely csendes menedéket kínál, és ne felejtsen el rovarriasztót vinni a melegebb nyári hónapok során.",
+            "ro": "Explorați zona pașnică din Stou Malathrite Mpampakies care oferă o evadare senină și nu uitați să luați la voi un repelent împotriva insectelor în lunile calde de vară.",
+            "en": "Explore the peaceful area of Stou Malathrite Mpampakies which offers a serene escape, and don't forget to carry some insect repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalubia Stamatiou",
+            "hu": "Kalubia Stamatiou",
+            "ro": "Kalubia Stamatiou",
+            "en": "Kalubia Stamatiou"
+          },
+          "coords": [
+            23.949217,
+            39.226532
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die idyllische ländliche Umgebung von Kalubia Stamatiou und versuchen Sie, mit den freundlichen Einheimischen ins Gespräch zu kommen, wenn sich die Chance bietet.",
+            "hu": "Csodálja meg Kalubia Stamatiou idilli, vidéki környezetét, amely bemutatja a régió örökségét, és próbáljon beszélgetésbe elegyedni a barátságos helyiekkel, ha teheti.",
+            "ro": "Admirați cadrul rural idilic din Kalubia Stamatiou care prezintă patrimoniul agricol și încercați să inițiați o conversație cu localnicii prietenoși dacă aveți ocazia.",
+            "en": "Admire the idyllic rural setting of Kalubia Stamatiou which showcases the region's agricultural heritage, and try to strike up a conversation with friendly locals if you can."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen zu den Naturlandschaften von Geladias, um entspannt in den Tag zu starten. Mittags geht es in den Süden an die Ufer von Glyfa, bevor Sie den Charme von Kalubia Alexiou entdecken. Nachmittags genießen Sie eine kurze Fahrt zum ruhigen Stou Malathrite Mpampakies. Ihr Abend endet idyllisch in Kalubia Stamatiou, umgeben von lokalem Erbe.",
+        "hu": "Vezessen el Geladias természeti tájaihoz egy békés, természettel körülvett reggeli kezdéshez. Délben délre indulva pihenjen Glyfa partjainál, mielőtt felfedezné Kalubia Alexiou báját. Délután élvezze a rövid autózást a csendes Stou Malathrite Mpampakies felé. Az este gyönyörűen ér véget Kalubia Stamatiou autentikus helyi környezetében.",
+        "ro": "Conduceți spre peisajele naturale din Geladias pentru un început de dimineață liniștit în mijlocul naturii. La prânz mergeți spre sud pentru a vă relaxa la Glyfa înainte de a descoperi Kalubia Alexiou. După-amiaza, bucurați-vă de drumul scurt până la Stou Malathrite Mpampakies. Seara se încheie frumos la Kalubia Stamatiou, scufundați în moștenirea locală.",
+        "en": "Drive to the natural landscapes of Geladias for a peaceful morning start surrounded by nature. Midday takes you south to relax by the shores of Glyfa before discovering the charm of Kalubia Alexiou. In the afternoon, enjoy a short drive to the quiet retreat of Stou Malathrite Mpampakies. Your evening concludes beautifully at Kalubia Stamatiou, immersed in authentic local heritage."
+      }
+    }
+  }
+}

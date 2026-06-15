@@ -1,0 +1,474 @@
+{
+  "city_id": "auxerre",
+  "anchor": {
+    "name": "Auxerre",
+    "coords": [
+      3.5669,
+      47.7975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            3.569873,
+            47.795934
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Astronomische Uhr aus dem 15. Jahrhundert mitten in der Altstadt und achten Sie auf die Mondphasenanzeige, bevor Sie die Fußgängerzone erkunden.",
+            "hu": "Csodálja meg a 15. századi gótikus óratornyot és annak lenyűgöző csillagászati számlapját a történelmi óvárosban, majd sétáljon végig a hangulatos sétálóutcán.",
+            "ro": "Admirați Turnul cu Ceas din secolul al XV-lea, o bijuterie gotică din inima centrului vechi, și priviți cadranele astronomice înainte de a explora zona pietonală.",
+            "en": "Marvel at the 15th-century clock tower dominating the historic old town, and make sure to observe its unique astronomical dials before strolling the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Leblanc-Duvernoy",
+            "hu": "Musée Leblanc-Duvernoy",
+            "ro": "Musée Leblanc-Duvernoy",
+            "en": "Musée Leblanc-Duvernoy"
+          },
+          "coords": [
+            3.56611,
+            47.7953
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Herrenhaus edle Fayencen und beeindruckende Wandteppiche aus dem 18. Jahrhundert, die das reiche Erbe der Region perfekt widerspiegeln.",
+            "hu": "Fedezze fel a 18. századi nemesi kúria lenyűgöző falikárpitjait és helyi kerámia gyűjteményét, amely tökéletes betekintést nyújt Auxerre művészeti örökségébe.",
+            "ro": "Explorați această fermecătoare reședință din secolul al XVIII-lea, renumită pentru tapiseriile sale elegante și ceramica de colecție, care ilustrează istoria artei locale.",
+            "en": "Explore this charming 18th-century mansion housing an exquisite collection of regional faience and tapestries, offering a glimpse into local aristocratic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eusèbe",
+            "hu": "Église Saint-Eusèbe",
+            "ro": "Église Saint-Eusèbe",
+            "en": "Église Saint-Eusèbe"
+          },
+          "coords": [
+            3.56843,
+            47.7943
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Vielfalt dieser Kirche, wo romanische und gotische Stile verschmelzen, und werfen Sie einen Blick auf die wunderschönen Buntglasfenster.",
+            "hu": "Figyelje meg a román és gótikus stílusjegyek harmonikus keveredését ebben a gyönyörű templomban, és ne hagyja ki a szentély 16. századi festett üvegablakait.",
+            "ro": "Observați tranziția fascinantă de la stilul romanic la cel gotic în această biserică impresionantă și nu ratați vitraliile spectaculoase din secolul al XVI-lea.",
+            "en": "Observe the seamless blend of Romanesque and Gothic architecture in this historic church, and be sure to admire the stunning 16th-century stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Cathédrale Saint-Étienne",
+            "ro": "Cathédrale Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            3.572839,
+            47.797848
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese beeindruckende gotische Kathedrale ist berühmt für ihre prächtigen Portale; steigen Sie hinab in die Krypta, um die seltenen Wandmalereien aus dem 11. Jahrhundert zu sehen.",
+            "hu": "Látogasson el a lenyűgöző gótikus katedrálisba, amely híres a faragott portáljairól, és feltétlenül ereszkedjen le a kriptába a ritka, 11. századi freskókért.",
+            "ro": "Vizitați uimitoarea catedrală gotică, renumită pentru portalurile sale sculptate, și coborâți în criptă pentru a vedea frescele rare datând din secolul al XI-lea.",
+            "en": "Visit this stunning Gothic cathedral renowned for its sculpted portals, and make sure to descend into the crypt to view the incredibly rare 11th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle de l'Yonne",
+            "hu": "Passerelle de l'Yonne",
+            "ro": "Passerelle de l'Yonne",
+            "en": "Passerelle de l'Yonne"
+          },
+          "coords": [
+            3.574587,
+            47.797311
+          ],
+          "category": "civic",
+          "arrive_at": "14:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese moderne Fußgängerbrücke, um atemberaubende Panoramafotos der Altstadt und der majestätischen Kathedrale im warmen Sonnenlicht aufzunehmen.",
+            "hu": "Sétáljon át ezen a modern gyalogoshídon, hogy tökéletes panorámaképeket készíthessen a folyóról, az óvárosról és a fenséges katedrálisról a délutáni fényekben.",
+            "ro": "Traversați această pasarelă pietonală deasupra râului Yonne pentru a surprinde cele mai bune fotografii panoramice cu centrul istoric și catedrala majestuoasă.",
+            "en": "Walk across this modern pedestrian bridge to capture breathtaking panoramic photos of the river, the historic old town, and the majestic cathedral skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye Saint-Germain",
+            "hu": "Abbaye Saint-Germain",
+            "ro": "Abbaye Saint-Germain",
+            "en": "Abbaye Saint-Germain"
+          },
+          "coords": [
+            3.573054,
+            47.800423
+          ],
+          "category": "monastic",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieser karolingischen Abtei ein und buchen Sie unbedingt eine Führung, um die ältesten erhaltenen Fresken Frankreichs in den Krypten zu bestaunen.",
+            "hu": "Merüljön el a Karoling-kori apátság történelmében, és vegyen részt egy vezetett túrán a kriptákban, ahol Franciaország legrégebbi fennmaradt freskóit őrzik.",
+            "ro": "Pătrundeți în istoria acestei abații carolingiene și asigurați-vă că rezervați un tur al criptelor pentru a vedea cele mai vechi fresce creștine din Franța.",
+            "en": "Delve into the history of this Carolingian abbey, and book a guided tour of the crypts to witness the oldest surviving Christian frescoes in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Wahrzeichen der Stadt, dem Uhrenturm, bevor Sie die Kunstschätze im Museum bewundern. Mittags erkunden Sie die beeindruckende Kirche Saint-Eusèbe und die majestätische Kathedrale. Am Nachmittag schlendern Sie über die Brücke für tolle Fotos und beenden den Ausflug mit den antiken Fresken der Abtei.",
+        "hu": "Indítsa a napot az ikonikus óratoronynál, majd merüljön el a helyi művészetekben a múzeumban. Délben csodálja meg a Saint-Eusèbe templomot és a fenséges gótikus katedrálist. Délután sétáljon át a folyón a legjobb fotópontokért, végül fedezze fel a történelmi Saint-Germain apátságot.",
+        "ro": "Începeți dimineața la iconicul Turn cu Ceas, apoi descoperiți arta la muzeul local. La prânz, vizitați biserica Saint-Eusèbe și impresionanta catedrală gotică. După-amiaza, traversați pasarela pentru fotografii de neuitat și încheiați ziua explorând abația istorică Saint-Germain.",
+        "en": "Start your morning at the iconic Clock Tower before diving into local art at the museum. Midday is perfect for admiring the Saint-Eusèbe church and the majestic Gothic cathedral. In the afternoon, cross the river bridge for stunning photos, and conclude your walking tour at the historic abbey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abbaye Saint-Germain",
+            "hu": "Abbaye Saint-Germain",
+            "ro": "Abbaye Saint-Germain",
+            "en": "Abbaye Saint-Germain"
+          },
+          "coords": [
+            3.573054,
+            47.800423
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieser karolingischen Abtei ein und buchen Sie unbedingt eine Führung, um die ältesten erhaltenen Fresken Frankreichs in den Krypten zu bestaunen.",
+            "hu": "Merüljön el a Karoling-kori apátság történelmében, és vegyen részt egy vezetett túrán a kriptákban, ahol Franciaország legrégebbi fennmaradt freskóit őrzik.",
+            "ro": "Pătrundeți în istoria acestei abații carolingiene și asigurați-vă că rezervați un tur al criptelor pentru a vedea cele mai vechi fresce creștine din Franța.",
+            "en": "Delve into the history of this Carolingian abbey, and book a guided tour of the crypts to witness the oldest surviving Christian frescoes in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Cathédrale Saint-Étienne",
+            "ro": "Cathédrale Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            3.572839,
+            47.797848
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beeindruckende gotische Kathedrale ist berühmt für ihre prächtigen Portale; steigen Sie hinab in die Krypta, um die seltenen Wandmalereien aus dem 11. Jahrhundert zu sehen.",
+            "hu": "Látogasson el a lenyűgöző gótikus katedrálisba, amely híres a faragott portáljairól, és feltétlenül ereszkedjen le a kriptába a ritka, 11. századi freskókért.",
+            "ro": "Vizitați uimitoarea catedrală gotică, renumită pentru portalurile sale sculptate, și coborâți în criptă pentru a vedea frescele rare datând din secolul al XI-lea.",
+            "en": "Visit this stunning Gothic cathedral renowned for its sculpted portals, and make sure to descend into the crypt to view the incredibly rare 11th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            3.569873,
+            47.795934
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Astronomische Uhr aus dem 15. Jahrhundert mitten in der Altstadt und achten Sie auf die Mondphasenanzeige, bevor Sie die Fußgängerzone erkunden.",
+            "hu": "Csodálja meg a 15. századi gótikus óratornyot és annak lenyűgöző csillagászati számlapját a történelmi óvárosban, majd sétáljon végig a hangulatos sétálóutcán.",
+            "ro": "Admirați Turnul cu Ceas din secolul al XV-lea, o bijuterie gotică din inima centrului vechi, și priviți cadranele astronomice înainte de a explora zona pietonală.",
+            "en": "Marvel at the 15th-century clock tower dominating the historic old town, and make sure to observe its unique astronomical dials before strolling the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eusèbe",
+            "hu": "Église Saint-Eusèbe",
+            "ro": "Église Saint-Eusèbe",
+            "en": "Église Saint-Eusèbe"
+          },
+          "coords": [
+            3.56843,
+            47.7943
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Vielfalt dieser Kirche, wo romanische und gotische Stile verschmelzen, und werfen Sie einen Blick auf die wunderschönen Buntglasfenster.",
+            "hu": "Figyelje meg a román és gótikus stílusjegyek harmonikus keveredését ebben a gyönyörű templomban, és ne hagyja ki a szentély 16. századi festett üvegablakait.",
+            "ro": "Observați tranziția fascinantă de la stilul romanic la cel gotic în această biserică impresionantă și nu ratați vitraliile spectaculoase din secolul al XVI-lea.",
+            "en": "Observe the seamless blend of Romanesque and Gothic architecture in this historic church, and be sure to admire the stunning 16th-century stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle de l'Yonne",
+            "hu": "Passerelle de l'Yonne",
+            "ro": "Passerelle de l'Yonne",
+            "en": "Passerelle de l'Yonne"
+          },
+          "coords": [
+            3.574587,
+            47.797311
+          ],
+          "category": "civic",
+          "arrive_at": "13:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese moderne Fußgängerbrücke, um atemberaubende Panoramafotos der Altstadt und der majestätischen Kathedrale im warmen Sonnenlicht aufzunehmen.",
+            "hu": "Sétáljon át ezen a modern gyalogoshídon, hogy tökéletes panorámaképeket készíthessen a folyóról, az óvárosról és a fenséges katedrálisról a délutáni fényekben.",
+            "ro": "Traversați această pasarelă pietonală deasupra râului Yonne pentru a surprinde cele mai bune fotografii panoramice cu centrul istoric și catedrala majestuoasă.",
+            "en": "Walk across this modern pedestrian bridge to capture breathtaking panoramic photos of the river, the historic old town, and the majestic cathedral skyline."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+          },
+          "coords": [
+            3.587005,
+            47.790712
+          ],
+          "category": "family",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem weitläufigen Spielplatz am Flussufer toben und genießen Sie ein entspanntes Picknick im Grünen als perfekten Abschluss des Tages.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a folyóparti játszótéren, és élvezzen egy kellemes családi pikniket a park árnyas fái alatt a nap végén.",
+            "ro": "Lăsați copiii să se joace în acest parc spațios pe malul râului și bucurați-vă de un picnic relaxant la umbră, perfect pentru a încheia o zi de explorare.",
+            "en": "Let the children burn off some energy at this spacious riverside playground, and enjoy a relaxing family picnic under the trees to perfectly conclude your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet historisch an der Abtei Saint-Germain und führt Sie zur prachtvollen Kathedrale. Mittags radeln Sie gemütlich zum Uhrenturm und zur Kirche Saint-Eusèbe im Zentrum. Nachmittags überqueren Sie die Yonne und genießen den Ausklang im grünen Park L'Arbre-Sec.",
+        "hu": "A kerékpáros túra a történelmi Saint-Germain apátságnál kezdődik, ahonnan a fenséges katedrálishoz pedálozunk. Délben az óváros központjában az óratornyot és a templomot fedezzük fel. Délután átkelünk az Yonne folyón, és a L'Arbre-Sec park zöldjében pihenjük ki a napot.",
+        "ro": "Turul pe bicicletă începe istoric la Abația Saint-Germain, continuând spre magnifica catedrală. La prânz, pedalați spre centrul vechi pentru a vedea Turnul cu Ceas și biserica. După-amiaza, traversați râul Yonne și relaxați-vă în atmosfera verde a parcului L'Arbre-Sec.",
+        "en": "Your cycling adventure begins at the historic abbey and flows naturally toward the magnificent cathedral. Midday, pedal to the iconic Clock Tower and the nearby church. In the afternoon, cross the scenic river bridge to unwind in the expansive greenery of the L'Arbre-Sec park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Corsaires et Pirates",
+            "hu": "Corsaires et Pirates",
+            "ro": "Corsaires et Pirates",
+            "en": "Corsaires et Pirates"
+          },
+          "coords": [
+            3.578071,
+            47.813646
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen spannenden Indoor-Spielpark voller Piratenabenteuer, der sich ideal für regnerische Vormittage eignet und den Kindern eine unvergessliche Zeit bietet.",
+            "hu": "Kezdje a napot ebben az izgalmas, kalózos tematikájú beltéri játszóházban, amely tökéletes szórakozást nyújt a gyerekeknek, különösen esős idő esetén.",
+            "ro": "Începeți dimineața în acest parc de distracții de interior cu tematică de pirați, o alegere excelentă pentru familii, care garantează distracția copiilor.",
+            "en": "Kick off your morning at this exciting pirate-themed indoor playground, which offers fantastic, weather-proof entertainment that younger children will absolutely love."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye Saint-Germain",
+            "hu": "Abbaye Saint-Germain",
+            "ro": "Abbaye Saint-Germain",
+            "en": "Abbaye Saint-Germain"
+          },
+          "coords": [
+            3.573054,
+            47.800423
+          ],
+          "category": "monastic",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieser karolingischen Abtei ein und buchen Sie unbedingt eine Führung, um die ältesten erhaltenen Fresken Frankreichs in den Krypten zu bestaunen.",
+            "hu": "Merüljön el a Karoling-kori apátság történelmében, és vegyen részt egy vezetett túrán a kriptákban, ahol Franciaország legrégebbi fennmaradt freskóit őrzik.",
+            "ro": "Pătrundeți în istoria acestei abații carolingiene și asigurați-vă că rezervați un tur al criptelor pentru a vedea cele mai vechi fresce creștine din Franța.",
+            "en": "Delve into the history of this Carolingian abbey, and book a guided tour of the crypts to witness the oldest surviving Christian frescoes in France."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Saint-Étienne",
+            "hu": "Cathédrale Saint-Étienne",
+            "ro": "Cathédrale Saint-Étienne",
+            "en": "Cathédrale Saint-Étienne"
+          },
+          "coords": [
+            3.572839,
+            47.797848
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese beeindruckende gotische Kathedrale ist berühmt für ihre prächtigen Portale; steigen Sie hinab in die Krypta, um die seltenen Wandmalereien aus dem 11. Jahrhundert zu sehen.",
+            "hu": "Látogasson el a lenyűgöző gótikus katedrálisba, amely híres a faragott portáljairól, és feltétlenül ereszkedjen le a kriptába a ritka, 11. századi freskókért.",
+            "ro": "Vizitați uimitoarea catedrală gotică, renumită pentru portalurile sale sculptate, și coborâți în criptă pentru a vedea frescele rare datând din secolul al XI-lea.",
+            "en": "Visit this stunning Gothic cathedral renowned for its sculpted portals, and make sure to descend into the crypt to view the incredibly rare 11th-century frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            3.569873,
+            47.795934
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Astronomische Uhr aus dem 15. Jahrhundert mitten in der Altstadt und achten Sie auf die Mondphasenanzeige, bevor Sie die Fußgängerzone erkunden.",
+            "hu": "Csodálja meg a 15. századi gótikus óratornyot és annak lenyűgöző csillagászati számlapját a történelmi óvárosban, majd sétáljon végig a hangulatos sétálóutcán.",
+            "ro": "Admirați Turnul cu Ceas din secolul al XV-lea, o bijuterie gotică din inima centrului vechi, și priviți cadranele astronomice înainte de a explora zona pietonală.",
+            "en": "Marvel at the 15th-century clock tower dominating the historic old town, and make sure to observe its unique astronomical dials before strolling the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Leblanc-Duvernoy",
+            "hu": "Musée Leblanc-Duvernoy",
+            "ro": "Musée Leblanc-Duvernoy",
+            "en": "Musée Leblanc-Duvernoy"
+          },
+          "coords": [
+            3.56611,
+            47.7953
+          ],
+          "category": "museum",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Herrenhaus edle Fayencen und beeindruckende Wandteppiche aus dem 18. Jahrhundert, die das reiche Erbe der Region perfekt widerspiegeln.",
+            "hu": "Fedezze fel a 18. századi nemesi kúria lenyűgöző falikárpitjait és helyi kerámia gyűjteményét, amely tökéletes betekintést nyújt Auxerre művészeti örökségébe.",
+            "ro": "Explorați această fermecătoare reședință din secolul al XVIII-lea, renumită pentru tapiseriile sale elegante și ceramica de colecție, care ilustrează istoria artei locale.",
+            "en": "Explore this charming 18th-century mansion housing an exquisite collection of regional faience and tapestries, offering a glimpse into local aristocratic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "hu": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "ro": "Aire de Jeux du stade nautique de l'Arbre-Sec",
+            "en": "Aire de Jeux du stade nautique de l'Arbre-Sec"
+          },
+          "coords": [
+            3.587005,
+            47.790712
+          ],
+          "category": "family",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem weitläufigen Spielplatz am Flussufer toben und genießen Sie ein entspanntes Picknick im Grünen als perfekten Abschluss des Tages.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a folyóparti játszótéren, és élvezzen egy kellemes családi pikniket a park árnyas fái alatt a nap végén.",
+            "ro": "Lăsați copiii să se joace în acest parc spațios pe malul râului și bucurați-vă de un picnic relaxant la umbră, perfect pentru a încheia o zi de explorare.",
+            "en": "Let the children burn off some energy at this spacious riverside playground, and enjoy a relaxing family picnic under the trees to perfectly conclude your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt abenteuerlich im Piratenpark, ideal für Familien. Fahren Sie dann zur Abtei Saint-Germain und der majestätischen Kathedrale. Mittags locken der Uhrenturm und das Leblanc-Duvernoy Museum im Stadtzentrum. Am späten Nachmittag lassen Sie den Tag am Flussufer-Spielplatz entspannt ausklingen.",
+        "hu": "A nap izgalmas kalózkalanddal indul, amely tökéletes a családoknak. Ezt követően vezessen az apátsághoz és a lenyűgöző katedrálishoz. Délben a központ óratornya és a helyi múzeum várja. A késő délutánt a folyóparti játszótéren töltheti, ahol kényelmesen levezetheti az élményeket.",
+        "ro": "Ziua începe cu o aventură cu pirați, ideală pentru familii. Conduceți apoi spre Abația Saint-Germain și măreața catedrală. La prânz, explorați Turnul cu Ceas și muzeul din centrul orașului. După-amiaza târziu este perfectă pentru relaxare la locul de joacă extins de pe malul râului.",
+        "en": "Begin the day with a fun pirate adventure perfect for families, then drive to the historic abbey and cathedral. Midday allows you to explore the Clock Tower and the museum in the city center. Late afternoon provides the perfect opportunity to relax at the large riverside playground."
+      }
+    }
+  }
+}

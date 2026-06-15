@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-bibione-cities-v2",
+  "anchor": {
+    "name": "Bibione",
+    "coords": [
+      13.053889,
+      45.635833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Auriga B",
+            "hu": "Auriga B",
+            "ro": "Auriga B",
+            "en": "Auriga B"
+          },
+          "coords": [
+            13.058984,
+            45.632278
+          ],
+          "category": "recreational",
+          "arrive_at": "09:09",
+          "stay_min": 85,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am breiten Sandstrand von Auriga B, der perfekt für Familien ist, und kommen Sie früh, um sich eine gute Liege am Wasser zu sichern.",
+            "hu": "Pihenjen az Auriga B széles homokos szakaszán, amely tökéletes a biztonságos vizeket kereső családok számára, és érkezzen korán a legjobb napágyakért.",
+            "ro": "Relaxați-vă pe porțiunea largă de nisip de la Auriga B, ideală pentru familiile care caută ape sigure, și ajungeți devreme pentru a prinde un șezlong bun.",
+            "en": "Relax at Auriga B's wide sandy stretch, perfect for families seeking safe waters, and arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso del Sole E",
+            "hu": "Corso del Sole E",
+            "ro": "Corso del Sole E",
+            "en": "Corso del Sole E"
+          },
+          "coords": [
+            13.060099,
+            45.632116
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Corso del Sole E mit tollen Beachvolleyballplätzen, aber bringen Sie Ihren eigenen Ball für die Spiele mit.",
+            "hu": "Fedezze fel a Corso del Sole E nyüzsgő hangulatát, ahol kiváló strandröplabda pályák várják, de hozzon saját labdát a helyi játékokhoz.",
+            "ro": "Explorați atmosfera plină de viață de la Corso del Sole E, cu terenuri excelente de volei, dar aduceți-vă propria minge pentru a juca alături de localnici.",
+            "en": "Explore the lively atmosphere of Corso del Sole E, offering great beach volleyball courts, but remember to bring your own ball to join the local games."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso del Sole C",
+            "hu": "Corso del Sole C",
+            "ro": "Corso del Sole C",
+            "en": "Corso del Sole C"
+          },
+          "coords": [
+            13.062093,
+            45.632323
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des Corso del Sole C, genießen Sie die erfrischende Meeresbrise und mieten Sie ein Tretboot für eine lustige Fahrt auf dem Wasser.",
+            "hu": "Sétáljon végig a Corso del Sole C szakaszon a frissítő tengeri szellőért, és béreljen vízibiciklit egy vidám, part menti tengeri túrához.",
+            "ro": "Plimbați-vă de-a lungul Corso del Sole C pentru briza mării și facilități excelente, fiind locul ideal pentru a închiria o hidrobicicletă pentru distracție.",
+            "en": "Stroll along Corso del Sole C to enjoy refreshing sea breezes and well-maintained facilities, making it ideal to rent a pedalo for a fun offshore ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Zenith E",
+            "hu": "Zenith E",
+            "ro": "Zenith E",
+            "en": "Zenith E"
+          },
+          "coords": [
+            13.063256,
+            45.632444
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne am Zenith E, einem beliebten Ort mit Animationsprogrammen, also prüfen Sie den Zeitplan für die morgendliche Wassergymnastik.",
+            "hu": "Élvezze a napsütést a Zenith E részen, ahol rendszeres animációs programok vannak, így érdemes ellenőrizni a napi táblát a reggeli vízi aerobikhoz.",
+            "ro": "Bucurați-vă de soare la Zenith E, un loc popular cu programe de animație zilnice, deci verificați panoul de program pentru a prinde aerobicul în apă.",
+            "en": "Soak up the sun at Zenith E, a popular spot featuring regular animation programs, so check the daily schedule board to catch the morning water aerobics."
+          }
+        },
+        {
+          "name": {
+            "de": "Zenith C",
+            "hu": "Zenith C",
+            "ro": "Zenith C",
+            "en": "Zenith C"
+          },
+          "coords": [
+            13.064677,
+            45.632594
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im eleganten Sektor Zenith C, der für sein großzügiges Layout bekannt ist, und holen Sie sich ein kaltes Gelato an den nahen Kiosken.",
+            "hu": "Kapcsolódjon ki az elegáns Zenith C szektorban, amely tágas elrendezéséről ismert, és vegyen egy hideg fagylaltot a közeli tengerparti kioszkokból.",
+            "ro": "Relaxați-vă în elegantul sector Zenith C, recunoscut pentru spațiul său generos, și luați o înghețată rece de la chioșcurile de pe plajă din apropiere.",
+            "en": "Unwind at the elegant Zenith C sector, known for its spacious layout and premium services, and grab a cold gelato from the nearby beachfront kiosks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Brise an den goldenen Küsten von Bibione und wachen Sie beim sanften Klang der Adria auf. Mittags können Sie die lebhafte Atmosphäre der zentralen Strandabschnitte genießen, wo Animationsteams für Stimmung sorgen. Am Nachmittag schlendern Sie am Wasser entlang und holen sich ein Gelato an einem Kiosk. Beenden Sie den Tag mit einem wunderschönen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a frissítő szellővel Bibione arany partjain, az Adriai-tenger lágy hangjára ébredve. Délben szívja magába a központi strandszektorok pezsgő hangulatát, ahol az animátorok és a napozók élénk nyüzsgést teremtenek. Délután sétáljon végig a vízparton, és fogyasszon el egy gyors fagylaltot vagy eszpresszót. Zárja a napot, amikor a nap lemenni készül, meleg arany árnyalatot vetve a tengerpartra.",
+        "ro": "Începeți dimineața cu briza răcoroasă de pe țărmurile aurii din Bibione, trezindu-vă la sunetul blând al Mării Adriatice. La prânz, absorbiți atmosfera vibrantă a sectoarelor centrale, unde echipele de animație creează un zumzet plin de viață. După-amiaza, plimbați-vă de-a lungul apei și luați o înghețată sau un espresso de la un chioșc de pe plajă. Încheiați ziua admirând culorile aurii ale apusului pe plajă.",
+        "en": "Start your morning with a refreshing breeze on Bibione's golden shores, waking up to the gentle sound of the Adriatic Sea. By midday, soak up the vibrant atmosphere of the central beach sectors, where animation teams and sun-seekers create a lively buzz. In the afternoon, stroll along the water's edge, grabbing a quick gelato or an espresso from a beachfront kiosk. Conclude your day as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Terme 3 C",
+            "hu": "Terme 3 C",
+            "ro": "Terme 3 C",
+            "en": "Terme 3 C"
+          },
+          "coords": [
+            13.03959,
+            45.630637
+          ],
+          "category": "recreational",
+          "arrive_at": "09:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die therapeutische Atmosphäre nahe den Thermalbädern bei Terme 3 C für einen ruhigen Strandbesuch, und bringen Sie einen Sonnenschirm mit.",
+            "hu": "Tapasztalja meg a terápiás hangulatot a Terme 3 C termálfürdői közelében egy nyugodt strandoláshoz, és hozzon magával egy napernyőt a déli árnyékért.",
+            "ro": "Experimentați vibrația terapeutică lângă băile termale de la Terme 3 C pentru o dimineață liniștită, și aduceți o umbrelă pentru umbră la prânz.",
+            "en": "Experience the therapeutic vibe near the thermal baths at Terme 3 C, offering a serene beach experience, and bring an umbrella for extra midday shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme 1 A",
+            "hu": "Terme 1 A",
+            "ro": "Terme 1 A",
+            "en": "Terme 1 A"
+          },
+          "coords": [
+            13.042418,
+            45.631351
+          ],
+          "category": "recreational",
+          "arrive_at": "10:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme von Terme 1 A, perfekt um ein Buch bei den sanften Wellen zu lesen, aber achten Sie auf die starke Mittagssonne.",
+            "hu": "Fedezze fel a Terme 1 A csendes varázsát, amely tökéletes egy könyv olvasására a lágy hullámok mellett, de vigyázzon az erős déli napsugárzásra.",
+            "ro": "Descoperiți farmecul liniștit de la Terme 1 A, perfect pentru a citi o carte lângă valurile blânde, dar atenție la soarele puternic de la amiază.",
+            "en": "Discover the quiet charm of Terme 1 A, perfectly suited for reading a book by the gentle waves, but beware of the strong midday sun reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Ariete B",
+            "hu": "Ariete B",
+            "ro": "Ariete B",
+            "en": "Ariete B"
+          },
+          "coords": [
+            13.045491,
+            45.631495
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die geschäftige Umgebung von Ariete B, einem fantastischen Ort, um authentische italienische Snacks von den nahen Verkäufern zu probieren.",
+            "hu": "Élvezze az Ariete B nyüzsgő környezetét, amely fantasztikus helyszín arra, hogy kipróbáljon néhány autentikus olasz falatot a közeli árusoktól.",
+            "ro": "Bucurați-vă de mediul animat de la Ariete B, un loc fantastic pentru a gusta câteva gustări italiene autentice de la vânzătorii din apropiere.",
+            "en": "Enjoy the bustling environment of Ariete B where locals love to gather, making it a fantastic spot to try some authentic Italian snacks from nearby vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Auriga D",
+            "hu": "Auriga D",
+            "ro": "Auriga D",
+            "en": "Auriga D"
+          },
+          "coords": [
+            13.058031,
+            45.631905
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine friedliche Pause am Auriga D mit seinem weichen, goldenen Sand für lange Barfußspaziergänge, wobei Sonnencreme hier sehr empfohlen wird.",
+            "hu": "Tartson egy békés szünetet az Auriga D-nél, melynek puha, arany homokja hosszú mezítlábas sétákra csábít, bár a naptej használata erősen ajánlott.",
+            "ro": "Luați o pauză liniștită la Auriga D, cu nisip fin și auriu care invită la plimbări lungi desculț, deși crema de protecție solară este foarte recomandată aici.",
+            "en": "Take a peaceful break at Auriga D, featuring soft, golden sands that invite long barefoot walks, though sunscreen is highly recommended here."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso del Sole D",
+            "hu": "Corso del Sole D",
+            "ro": "Corso del Sole D",
+            "en": "Corso del Sole D"
+          },
+          "coords": [
+            13.061125,
+            45.632132
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter andere Reisende am Corso del Sole D, einem lebhaften Zentrum, wo die Miete einer Liege einen gemütlichen Nachmittag garantiert.",
+            "hu": "Elegyedjen el a többi utazóval a Corso del Sole D élénk központjában, ahol egy napágy bérlése garantálja a kényelmes és pihentető délutánt.",
+            "ro": "Socializați cu alți călători la Corso del Sole D, un centru vibrant de activitate, unde închirierea unui șezlong garantează o după-amiază confortabilă.",
+            "en": "Mingle with fellow travelers at Corso del Sole D, a vibrant hub of summer activity, where renting a lounge chair guarantees a comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Regolo A",
+            "hu": "Regolo A",
+            "ro": "Regolo A",
+            "en": "Regolo A"
+          },
+          "coords": [
+            13.065921,
+            45.632706
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Strand-Hopping am Regolo A, einem unberührten und ruhigeren östlichen Abschnitt, der absolut perfekt für ein Picknick bei Sonnenuntergang ist.",
+            "hu": "Fejezze be a strandolást a Regolo A-nál, egy érintetlen és csendesebb keleti szakaszon, amely tökéletes egy naplemente nézős piknikhez.",
+            "ro": "Terminați-vă turul plajelor la Regolo A, o porțiune estică imaculată și mai liniștită, absolut perfectă pentru a privi apusul cu un picnic.",
+            "en": "Finish your beach hopping at Regolo A, a pristine and slightly quieter eastern stretch, which is absolutely perfect for watching the sunset with a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrradtour entlang der goldenen Küste von Bibione, wo Sie die frische Meeresbrise und das sanfte Rauschen der Adria begleitet. Mittags können Sie die lebhafte Atmosphäre der zentralen Strandabschnitte wie Ariete und Auriga genießen, wo immer etwas los ist. Am Nachmittag radeln Sie entspannt am Wasser entlang und gönnen sich ein kühles Getränk oder ein Eis. Lassen Sie den Tag mit einem herrlichen Blick auf den unberührten östlichen Stränden ausklingen.",
+        "hu": "Kezdje kerékpártúráját Bibione arany partja mentén, ahol a friss tengeri szellő és az Adriai-tenger lágy zúgása kíséri. Délben élvezze a központi strandszektorok pezsgő hangulatát az Ariete és az Auriga közelében. Délután tekerjen kényelmesen a vízparton, és álljon meg egy frissítő italra vagy fagylaltra egy helyi kioszknál. Zárja a napot csodálatos kilátással és békés pihenéssel a csendesebb keleti strandokon.",
+        "ro": "Începeți turul cu bicicleta de-a lungul coastei de aur din Bibione, unde vă va însoți briza proaspătă și sunetul blând al Adriaticii. La prânz, bucurați-vă de atmosfera plină de viață a sectoarelor centrale ale plajei, pline de energie de vară. După-amiaza, pedalați relaxat pe malul apei și opriți-vă pentru o băutură răcoritoare sau o înghețată. Încheiați ziua cu o priveliște magnifică pe plajele estice mai liniștite.",
+        "en": "Start your cycling tour along the golden coast of Bibione, where the fresh sea breeze and the gentle sound of the Adriatic will accompany you. At noon, enjoy the lively atmosphere of the central beach sectors around Ariete and Auriga, buzzing with summer energy. In the afternoon, pedal relaxingly along the waterfront and stop for a refreshing drink or ice cream. End the day with a magnificent view and peaceful relaxation on the quieter eastern beaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Adriatico C",
+            "hu": "Adriatico C",
+            "ro": "Adriatico C",
+            "en": "Adriatico C"
+          },
+          "coords": [
+            13.030964,
+            45.630785
+          ],
+          "category": "recreational",
+          "arrive_at": "09:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer am Adriatico C, dem westlichsten Rand, der für seine ruhige Morgenstimmung bekannt ist, also kommen Sie früh für Meditation.",
+            "hu": "Kezdje kalandját az Adriatico C-nél, a legnyugatibb szélén, amely nyugodt reggeli hangulatáról ismert, így érkezzen korán egy kis meditációhoz.",
+            "ro": "Începeți-vă aventura la Adriatico C, marginea vestică cunoscută pentru atmosfera sa liniștită de dimineață, deci ajungeți devreme pentru meditație.",
+            "en": "Start your adventure at Adriatico C, the westernmost edge known for its tranquil morning atmosphere, so arrive early for a peaceful meditation session."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme 2 B",
+            "hu": "Terme 2 B",
+            "ro": "Terme 2 B",
+            "en": "Terme 2 B"
+          },
+          "coords": [
+            13.041452,
+            45.631142
+          ],
+          "category": "recreational",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfreuen Sie sich am gut organisierten Bereich von Terme 2 B, ideal zum Schwimmen im klaren, flachen Wasser, und nutzen Sie die hervorragenden Duschen.",
+            "hu": "Gyönyörködjön a Terme 2 B jól szervezett terében, amely ideális a tiszta, sekély vízben való úszáshoz, és használja a kiváló zuhanyzókat.",
+            "ro": "Bucurați-vă de spațiul bine organizat de la Terme 2 B, ideal pentru înot în ape limpezi și puțin adânci, și folosiți facilitățile excelente de duș.",
+            "en": "Delight in the well-organized space of Terme 2 B, ideal for swimming in clear, shallow waters, and use the excellent shower facilities available."
+          }
+        },
+        {
+          "name": {
+            "de": "Corso del Sole E",
+            "hu": "Corso del Sole E",
+            "ro": "Corso del Sole E",
+            "en": "Corso del Sole E"
+          },
+          "coords": [
+            13.060099,
+            45.632116
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Corso del Sole E mit tollen Beachvolleyballplätzen, aber bringen Sie Ihren eigenen Ball für die Spiele mit.",
+            "hu": "Fedezze fel a Corso del Sole E nyüzsgő hangulatát, ahol kiváló strandröplabda pályák várják, de hozzon saját labdát a helyi játékokhoz.",
+            "ro": "Explorați atmosfera plină de viață de la Corso del Sole E, cu terenuri excelente de volei, dar aduceți-vă propria minge pentru a juca alături de localnici.",
+            "en": "Explore the lively atmosphere of Corso del Sole E, offering great beach volleyball courts, but remember to bring your own ball to join the local games."
+          }
+        },
+        {
+          "name": {
+            "de": "Zenith C",
+            "hu": "Zenith C",
+            "ro": "Zenith C",
+            "en": "Zenith C"
+          },
+          "coords": [
+            13.064677,
+            45.632594
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie im eleganten Sektor Zenith C, der für sein großzügiges Layout bekannt ist, und holen Sie sich ein kaltes Gelato an den nahen Kiosken.",
+            "hu": "Kapcsolódjon ki az elegáns Zenith C szektorban, amely tágas elrendezéséről ismert, és vegyen egy hideg fagylaltot a közeli tengerparti kioszkokból.",
+            "ro": "Relaxați-vă în elegantul sector Zenith C, recunoscut pentru spațiul său generos, și luați o înghețată rece de la chioșcurile de pe plajă din apropiere.",
+            "en": "Unwind at the elegant Zenith C sector, known for its spacious layout and premium services, and grab a cold gelato from the nearby beachfront kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Regolo A",
+            "hu": "Regolo A",
+            "ro": "Regolo A",
+            "en": "Regolo A"
+          },
+          "coords": [
+            13.065921,
+            45.632706
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Strand-Hopping am Regolo A, einem unberührten und ruhigeren östlichen Abschnitt, der absolut perfekt für ein Picknick bei Sonnenuntergang ist.",
+            "hu": "Fejezze be a strandolást a Regolo A-nál, egy érintetlen és csendesebb keleti szakaszon, amely tökéletes egy naplemente nézős piknikhez.",
+            "ro": "Terminați-vă turul plajelor la Regolo A, o porțiune estică imaculată și mai liniștită, absolut perfectă pentru a privi apusul cu un picnic pe plajă.",
+            "en": "Finish your beach hopping at Regolo A, a pristine and slightly quieter eastern stretch, which is absolutely perfect for watching the sunset with a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die Flexibilität Ihres Autos, um die verschiedenen Gesichter der Küste von Bibione an einem Tag zu erkunden. Starten Sie im ruhigen Westen und arbeiten Sie sich durch die belebten zentralen Zonen, in denen die Sommerenergie am stärksten zu spüren ist. Am Nachmittag können Sie mühelos zu den eleganten östlichen Sektoren wechseln. Beenden Sie Ihren erlebnisreichen Tag mit einem ruhigen Moment und dem atemberaubenden Farbenspiel des Himmels.",
+        "hu": "Használja ki az autója nyújtotta rugalmasságot, hogy egyetlen nap alatt felfedezze Bibione partvidékének különböző arcait. Kezdje a csendes nyugati részen, majd haladjon át a nyüzsgő központi zónákon, ahol a nyári energia a legerősebben érezhető. Délután könnyedén átválthat az elegánsabb keleti szektorokra. Fejezze be élményekkel teli napját egy nyugodt pillanattal és az égbolt lenyűgöző színjátékával a parton.",
+        "ro": "Folosiți flexibilitatea mașinii pentru a explora diferitele fețe ale coastei din Bibione într-o singură zi. Începeți în vestul liniștit și navigați prin zonele centrale animate, unde energia verii se simte cel mai puternic. După-amiaza, puteți trece fără efort la sectoarele estice mai elegante. Încheiați ziua plină de evenimente cu un moment de liniște și jocul uluitor de culori al cerului pe plajă.",
+        "en": "Use the flexibility of your car to explore the different faces of Bibione's coastline in one single day. Start in the quiet west and work your way through the bustling central zones where the summer energy is felt most strongly. In the afternoon, you can effortlessly switch to the more elegant eastern sectors. End your eventful day with a quiet moment and the breathtaking play of colors in the sky over the beach."
+      }
+    }
+  }
+}

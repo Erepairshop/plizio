@@ -1,0 +1,520 @@
+{
+  "city_id": "pont-l-abbe",
+  "anchor": {
+    "name": "Pont-l'Abbé",
+    "coords": [
+      -4.2231,
+      47.8672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg der Barone von Pont",
+            "hu": "Pont báróinak vára",
+            "ro": "Castelul Baronilor de Pont",
+            "en": "Castle of the Barons of Pont"
+          },
+          "coords": [
+            -4.222333,
+            47.866984
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser mittelalterlichen Festung, die heute als Rathaus dient, und schlendern Sie unbedingt durch den malerischen Innenhof.",
+            "hu": "Csodálja meg a ma városházaként működő középkori erődítmény robusztus építészetét, és mindenképpen tegyen egy kellemes sétát a festői, hangulatos belső udvarban.",
+            "ro": "Admirați arhitectura robustă a acestei fortărețe medievale, care servește astăzi drept primărie, și asigurați-vă că faceți o plimbare prin curtea interioară pitorească.",
+            "en": "Admire the robust architecture of this medieval fortress, which serves as the town hall today, and be sure to stroll around the adjacent picturesque inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigouden-Museum",
+            "hu": "Bigouden Múzeum",
+            "ro": "Muzeul Bigouden",
+            "en": "Bigouden Museum"
+          },
+          "coords": [
+            -4.22211,
+            47.86704
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Bigouden-Kultur mit ihren berühmten hohen Hauben und Stickereien und planen Sie extra Zeit für die tollen Sonderausstellungen ein.",
+            "hu": "Fedezze fel a lenyűgöző bigouden kultúrát a híres magas főkötőkön és hímzéseken keresztül, és szánjon extra időt a lenyűgöző időszaki kiállítások megtekintésére is.",
+            "ro": "Explorați fascinanta cultură Bigouden prin celebrele sale coifuri înalte și broderii și alocați timp suplimentar pentru a vizita expozițiile temporare uimitoare.",
+            "en": "Explore the fascinating Bigouden culture through its famous tall headdresses and intricate embroidery, allocating extra time for the stunning temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Bigoudens",
+            "hu": "Bigouden Emlékmű",
+            "ro": "Monumentul Bigoudenilor",
+            "en": "Monument aux Bigoudens"
+          },
+          "coords": [
+            -4.219189,
+            47.867304
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um diese markante Hommage an die einheimischen Frauen von François Bazin zu würdigen, ein perfekter Fotostopp vor der Kirche.",
+            "hu": "Álljon meg egy pillanatra, és csodálja meg François Bazin helyi nők előtt tisztelgő lenyűgöző emlékművét, amely kiváló fotótéma, mielőtt a templomhoz sétálna.",
+            "ro": "Acordați-vă un moment pentru a aprecia acest tribut impresionant adus femeilor locale de François Bazin, fiind o oprire excelentă pentru fotografii lângă biserică.",
+            "en": "Take a brief moment to appreciate this striking tribute to local women by François Bazin, making it an excellent and quick photo stop before heading to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Carmes",
+            "hu": "Notre-Dame des Carmes templom",
+            "ro": "Biserica Notre-Dame des Carmes",
+            "en": "Notre-Dame des Carmes Church"
+          },
+          "coords": [
+            -4.219126,
+            47.866681
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein und bestaunen Sie die prächtigen Buntglasfenster, insbesondere die wunderschöne Fensterrose, und achten Sie auf die historischen Statuen am Altar.",
+            "hu": "Lépjen be, hogy megcsodálja a csodálatos ólomüveg ablakokat, különösen a pompás rózsaablakot, és keresse meg az oltár közelében lévő gyönyörű történelmi szobrokat.",
+            "ro": "Pășiți înăuntru pentru a admira vitraliile magnifice, în special superba rozetă, și căutați frumoasele statui istorice situate în imediata apropiere a altarului.",
+            "en": "Step inside to marvel at the magnificent stained glass windows, particularly the magnificent rose window, and look for the beautiful historical statues near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Pont-l'Abbé",
+            "hu": "Pont-l'Abbé kikötője",
+            "ro": "Portul din Pont-l'Abbé",
+            "en": "Port of Pont-l'Abbé"
+          },
+          "coords": [
+            -4.220846,
+            47.86592
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang am ruhigen Flussufer, und packen Sie ein kleines Picknick ein, um auf den Bänken zu entspannen und die Boote zu beobachten.",
+            "hu": "Tegyen egy békés sétát a csendes torkolat vize mentén, és vigyen magával egy kis pikniket, hogy a padokon pihenve nézhesse a vízen ringatózó apró csónakokat.",
+            "ro": "Bucurați-vă de o plimbare pașnică de-a lungul apelor liniștite ale estuarului și aduceți un mic picnic pentru a vă relaxa pe bănci, urmărind bărcile pe apă.",
+            "en": "Enjoy a peaceful stroll along the tranquil estuary waters, and pack a small picnic to relax on the benches while watching the small boats gently bob on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques de Lambour",
+            "hu": "Saint-Jacques de Lambour templom",
+            "ro": "Biserica Saint-Jacques de Lambour",
+            "en": "Saint-Jacques de Lambour Church"
+          },
+          "coords": [
+            -4.218733,
+            47.868967
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringliche Schönheit dieser dachlosen Kirchenruine und besuchen Sie sie am späten Nachmittag, um das magische Zusammenspiel von Licht zu erleben.",
+            "hu": "Fedezze fel ennek a tető nélküli templomromnak a kísérteties szépségét, és látogasson el késő délután, hogy megtapasztalja a napfény és az ősi kövek varázsát.",
+            "ro": "Descoperiți frumusețea tulburătoare a acestei biserici în ruină, fără acoperiș, și vizitați-o spre seară pentru a experimenta jocul magic al luminii pe piatra veche.",
+            "en": "Discover the haunting beauty of this roofless ruined church, and visit during the late afternoon to experience the magical interplay of sunlight and ancient stone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung durch Pont-l'Abbé beginnt an der imposanten Burg der Barone, dem historischen Herz der Stadt. In ihren Mauern befindet sich das Bigouden-Museum, das tiefe Einblicke in das kulturelle Erbe der Region bietet.\n\nGegen Mittag führt Sie Ihr kurzer Weg zum beeindruckenden Monument aux Bigoudens, das stolz neben den wunderschönen Buntglasfenstern der Kirche Notre-Dame des Carmes steht.\n\nAm Nachmittag spazieren Sie hinunter zum Hafen von Pont-l'Abbé, um einen entspannten Spaziergang entlang der Flussmündung zu genießen. Das ruhige Wasser bildet einen wunderbaren Kontrast zum Zentrum.\n\nIhr Tag endet an der markanten Kirche Saint-Jacques de Lambour. Diese dachlose Ruine bietet einen romantischen Abschluss Ihrer Reise durch die authentische bretonische Geschichte der Stadt.",
+        "hu": "A Pont-l'Abbé-i gyalogtúra a város történelmi központjában, a lenyűgöző Bárók Váránál kezdődik. Falai között található a Bigouden Múzeum, amely mély bepillantást nyújt a régió híres kulturális örökségébe.\n\nDélben egy rövid sétával eléri a lenyűgöző Bigouden Emlékművet, amely büszkén áll a Notre-Dame des Carmes templom gyönyörű ólomüveg ablakainak közelében.\n\nDélután látogasson el Pont-l'Abbé kikötőjébe egy békés sétára a torkolat mentén. A csendes vizek tökéletes kontrasztot nyújtanak a nyüzsgő városközponthoz képest a fákkal szegélyezett ösvényeken.\n\nA nap a lenyűgöző Saint-Jacques de Lambour templomnál ér véget. Ez a tető nélküli rom romantikus, szabadtéri befejezést kínál a város autentikus breton történelmén átívelő utazásának.",
+        "ro": "Turul dumneavoastră pietonal în Pont-l'Abbé începe la impunătorul Castel al Baronilor, ancora istorică a orașului. Între zidurile sale veți găsi Muzeul Bigouden, care oferă o incursiune în patrimoniul local.\n\nLa prânz, o scurtă plimbare vă duce la impresionantul Monument al Bigoudenilor, stând mândru lângă vitraliile superbe ale Bisericii Notre-Dame des Carmes.\n\nDupă-amiaza, coborâți spre Portul din Pont-l'Abbé pentru o plimbare senină de-a lungul estuarului. Apele liniștite oferă un contrast perfect cu centrul plin de viață al orașului.\n\nZiua se încheie la remarcabila Biserică Saint-Jacques de Lambour. Această ruină fără acoperiș oferă un final romantic, în aer liber, călătoriei dumneavoastră prin istoria bretonă autentică a orașului.",
+        "en": "Your walking tour of Pont-l'Abbé begins at the imposing Castle of the Barons, the town's historical anchor. Within its walls, you'll find the Bigouden Museum, offering a deep dive into the region's famous cultural heritage.\n\nBy midday, your short walk leads to the impressive Monument aux Bigoudens, standing proudly near the beautiful stained glass of the Notre-Dame des Carmes Church.\n\nIn the afternoon, head down to the Port of Pont-l'Abbé for a serene walk along the estuary. The tranquil waters provide a perfect contrast to the bustling town center, offering peaceful shaded paths.\n\nYour day concludes at the striking Saint-Jacques de Lambour Church. This roofless ruin offers a romantic, open-air finale to your journey through the authentic Breton history of the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 1.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Pont-l'Abbé",
+            "hu": "Pont-l'Abbé kikötője",
+            "ro": "Portul din Pont-l'Abbé",
+            "en": "Port of Pont-l'Abbé"
+          },
+          "coords": [
+            -4.220846,
+            47.86592
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang am ruhigen Flussufer, und packen Sie ein kleines Picknick ein, um auf den Bänken zu entspannen und die Boote zu beobachten.",
+            "hu": "Tegyen egy békés sétát a csendes torkolat vize mentén, és vigyen magával egy kis pikniket, hogy a padokon pihenve nézhesse a vízen ringatózó apró csónakokat.",
+            "ro": "Bucurați-vă de o plimbare pașnică de-a lungul apelor liniștite ale estuarului și aduceți un mic picnic pentru a vă relaxa pe bănci, urmărind bărcile pe apă.",
+            "en": "Enjoy a peaceful stroll along the tranquil estuary waters, and pack a small picnic to relax on the benches while watching the small boats gently bob on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg der Barone von Pont",
+            "hu": "Pont báróinak vára",
+            "ro": "Castelul Baronilor de Pont",
+            "en": "Castle of the Barons of Pont"
+          },
+          "coords": [
+            -4.222333,
+            47.866984
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser mittelalterlichen Festung, die heute als Rathaus dient, und schlendern Sie unbedingt durch den malerischen Innenhof.",
+            "hu": "Csodálja meg a ma városházaként működő középkori erődítmény robusztus építészetét, és mindenképpen tegyen egy kellemes sétát a festői, hangulatos belső udvarban.",
+            "ro": "Admirați arhitectura robustă a acestei fortărețe medievale, care servește astăzi drept primărie, și asigurați-vă că faceți o plimbare prin curtea interioară pitorească.",
+            "en": "Admire the robust architecture of this medieval fortress, which serves as the town hall today, and be sure to stroll around the adjacent picturesque inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigouden-Museum",
+            "hu": "Bigouden Múzeum",
+            "ro": "Muzeul Bigouden",
+            "en": "Bigouden Museum"
+          },
+          "coords": [
+            -4.22211,
+            47.86704
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Bigouden-Kultur mit ihren berühmten hohen Hauben und Stickereien und planen Sie extra Zeit für die tollen Sonderausstellungen ein.",
+            "hu": "Fedezze fel a lenyűgöző bigouden kultúrát a híres magas főkötőkön és hímzéseken keresztül, és szánjon extra időt a lenyűgöző időszaki kiállítások megtekintésére is.",
+            "ro": "Explorați fascinanta cultură Bigouden prin celebrele sale coifuri înalte și broderii și alocați timp suplimentar pentru a vizita expozițiile temporare uimitoare.",
+            "en": "Explore the fascinating Bigouden culture through its famous tall headdresses and intricate embroidery, allocating extra time for the stunning temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Bigoudens",
+            "hu": "Bigouden Emlékmű",
+            "ro": "Monumentul Bigoudenilor",
+            "en": "Monument aux Bigoudens"
+          },
+          "coords": [
+            -4.219189,
+            47.867304
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um diese markante Hommage an die einheimischen Frauen von François Bazin zu würdigen, ein perfekter Fotostopp vor der Kirche.",
+            "hu": "Álljon meg egy pillanatra, és csodálja meg François Bazin helyi nők előtt tisztelgő lenyűgöző emlékművét, amely kiváló fotótéma, mielőtt a templomhoz sétálna.",
+            "ro": "Acordați-vă un moment pentru a aprecia acest tribut impresionant adus femeilor locale de François Bazin, fiind o oprire excelentă pentru fotografii lângă biserică.",
+            "en": "Take a brief moment to appreciate this striking tribute to local women by François Bazin, making it an excellent and quick photo stop before heading to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Carmes",
+            "hu": "Notre-Dame des Carmes templom",
+            "ro": "Biserica Notre-Dame des Carmes",
+            "en": "Notre-Dame des Carmes Church"
+          },
+          "coords": [
+            -4.219126,
+            47.866681
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein und bestaunen Sie die prächtigen Buntglasfenster, insbesondere die wunderschöne Fensterrose, und achten Sie auf die historischen Statuen am Altar.",
+            "hu": "Lépjen be, hogy megcsodálja a csodálatos ólomüveg ablakokat, különösen a pompás rózsaablakot, és keresse meg az oltár közelében lévő gyönyörű történelmi szobrokat.",
+            "ro": "Pășiți înăuntru pentru a admira vitraliile magnifice, în special superba rozetă, și căutați frumoasele statui istorice situate în imediata apropiere a altarului.",
+            "en": "Step inside to marvel at the magnificent stained glass windows, particularly the magnificent rose window, and look for the beautiful historical statues near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques de Lambour",
+            "hu": "Saint-Jacques de Lambour templom",
+            "ro": "Biserica Saint-Jacques de Lambour",
+            "en": "Saint-Jacques de Lambour Church"
+          },
+          "coords": [
+            -4.218733,
+            47.868967
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringliche Schönheit dieser dachlosen Kirchenruine und besuchen Sie sie am späten Nachmittag, um das magische Zusammenspiel von Licht zu erleben.",
+            "hu": "Fedezze fel ennek a tető nélküli templomromnak a kísérteties szépségét, és látogasson el késő délután, hogy megtapasztalja a napfény és az ősi kövek varázsát.",
+            "ro": "Descoperiți frumusețea tulburătoare a acestei biserici în ruină, fără acoperiș, și vizitați-o spre seară pentru a experimenta jocul magic al luminii pe piatra veche.",
+            "en": "Discover the haunting beauty of this roofless ruined church, and visit during the late afternoon to experience the magical interplay of sunlight and ancient stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqua Sud",
+            "hu": "Aqua Sud",
+            "ro": "Aqua Sud",
+            "en": "Aqua Sud"
+          },
+          "coords": [
+            -4.219041,
+            47.87793
+          ],
+          "category": "family",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem modernen Schwimmbad mit tollen Rutschen und Entspannungsbecken ab – ein perfekter Zwischenstopp für Familien, die mit Kindern reisen.",
+            "hu": "Hűsöljön ebben a modern víziközpontban, ahol szórakoztató csúszdák és pihentető medencék várják, így tökéletes délutáni program a gyerekekkel utazó családoknak.",
+            "ro": "Răcoriți-vă în acest centru acvatic modern, cu tobogane distractive și piscine de relaxare, fiind o oprire perfectă pentru familiile care călătoresc cu copii.",
+            "en": "Cool off in this modern aquatic center featuring fun slides and relaxing pools, making it a perfect energetic afternoon stop for families traveling with children."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Fahrradtag am friedlichen Hafen von Pont-l'Abbé und genießen Sie den morgendlichen Nebel über dem Wasser, bevor Sie zur majestätischen Burg der Barone hinaufradeln.\n\nDie Mittagsstunden sind dem Bigouden-Museum im Burgfried gewidmet, gefolgt von einer kurzen Fahrt zum Monument aux Bigoudens und den nahegelegenen historischen Kirchen im Stadtzentrum.\n\nNach einer erholsamen Pause in der Nähe von Notre-Dame des Carmes radeln Sie zu den faszinierenden Ruinen von Saint-Jacques de Lambour, um wunderschöne Fotos des dachlosen Kirchenschiffs zu machen.\n\nBeenden Sie Ihren aktiven Tag mit einer erfrischenden Fahrt zum Aqua Sud. Dieses moderne Wasserzentrum ist der perfekte Ort, um in den warmen Becken zu entspannen, bevor Sie zurückkehren.",
+        "hu": "Kezdje a biciklis napot a csendes Pont-l'Abbé kikötőjében, élvezve a víz feletti reggeli ködöt, mielőtt feltekerne a fenséges Bárók Várához, hogy felfedezze a helyi erődítményt.\n\nA déli órákat a várban található Bigouden Múzeumnak szenteljük, majd egy gyors tekerés következik, hogy megcsodálja a Bigouden Emlékművet és a közeli történelmi templomokat.\n\nEgy pihentető szünet után a Notre-Dame des Carmes közelében, tekerjen a Saint-Jacques de Lambour lenyűgöző romjaihoz, ahol gyönyörű fotókat készíthet a szabadtéri hajóról.\n\nFejezze be az aktív napot egy frissítő látogatással az Aqua Sudban. Ez a modern víziközpont tökéletes hely a meleg medencékben való kikapcsolódásra a központba való visszatérés előtt.",
+        "ro": "Începeți ziua de ciclism în pașnicul Port din Pont-l'Abbé, bucurându-vă de ceața dimineții deasupra apei, înainte de a urca spre maiestuosul Castel al Baronilor pentru a explora fortăreața.\n\nOrele prânzului sunt dedicate Muzeului Bigouden din incinta castelului, urmate de o pedalare scurtă pentru a admira Monumentul Bigoudenilor și bisericile istorice din apropiere.\n\nDupă o pauză relaxantă lângă Notre-Dame des Carmes, pedalați spre ruinele fascinante ale Saint-Jacques de Lambour, surprinzând fotografii frumoase ale naosului său în aer liber.\n\nÎncheiați-vă ziua activă cu o plimbare revigorantă spre Aqua Sud. Acest centru acvatic modern este locul perfect pentru a vă relaxa în piscinele calde înainte de a vă întoarce în centru.",
+        "en": "Kick off your cycling day at the peaceful Port of Pont-l'Abbé, enjoying the morning mist over the water before riding up to the majestic Castle of the Barons to explore the local fortress.\n\nThe midday hours are dedicated to the Bigouden Museum inside the castle keep, followed by a quick pedal to admire the intricate Monument aux Bigoudens and the nearby historic churches.\n\nAfter a restful break near Notre-Dame des Carmes, cycle towards the fascinating ruins of Saint-Jacques de Lambour, capturing beautiful photos of its open-air nave and intricate stonework.\n\nFinish your active day with a refreshing ride to Aqua Sud. This modern aquatic center is the perfect place to unwind in the warm pools or enjoy the fun slides before returning to the center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques de Lambour",
+            "hu": "Saint-Jacques de Lambour templom",
+            "ro": "Biserica Saint-Jacques de Lambour",
+            "en": "Saint-Jacques de Lambour Church"
+          },
+          "coords": [
+            -4.218733,
+            47.868967
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die eindringliche Schönheit dieser dachlosen Kirchenruine und besuchen Sie sie am späten Nachmittag, um das magische Zusammenspiel von Licht zu erleben.",
+            "hu": "Fedezze fel ennek a tető nélküli templomromnak a kísérteties szépségét, és látogasson el késő délután, hogy megtapasztalja a napfény és az ősi kövek varázsát.",
+            "ro": "Descoperiți frumusețea tulburătoare a acestei biserici în ruină, fără acoperiș, și vizitați-o spre seară pentru a experimenta jocul magic al luminii pe piatra veche.",
+            "en": "Discover the haunting beauty of this roofless ruined church, and visit during the late afternoon to experience the magical interplay of sunlight and ancient stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Carmes",
+            "hu": "Notre-Dame des Carmes templom",
+            "ro": "Biserica Notre-Dame des Carmes",
+            "en": "Notre-Dame des Carmes Church"
+          },
+          "coords": [
+            -4.219126,
+            47.866681
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie ein und bestaunen Sie die prächtigen Buntglasfenster, insbesondere die wunderschöne Fensterrose, und achten Sie auf die historischen Statuen am Altar.",
+            "hu": "Lépjen be, hogy megcsodálja a csodálatos ólomüveg ablakokat, különösen a pompás rózsaablakot, és keresse meg az oltár közelében lévő gyönyörű történelmi szobrokat.",
+            "ro": "Pășiți înăuntru pentru a admira vitraliile magnifice, în special superba rozetă, și căutați frumoasele statui istorice situate în imediata apropiere a altarului.",
+            "en": "Step inside to marvel at the magnificent stained glass windows, particularly the magnificent rose window, and look for the beautiful historical statues near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Bigoudens",
+            "hu": "Bigouden Emlékmű",
+            "ro": "Monumentul Bigoudenilor",
+            "en": "Monument aux Bigoudens"
+          },
+          "coords": [
+            -4.219189,
+            47.867304
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um diese markante Hommage an die einheimischen Frauen von François Bazin zu würdigen, ein perfekter Fotostopp vor der Kirche.",
+            "hu": "Álljon meg egy pillanatra, és csodálja meg François Bazin helyi nők előtt tisztelgő lenyűgöző emlékművét, amely kiváló fotótéma, mielőtt a templomhoz sétálna.",
+            "ro": "Acordați-vă un moment pentru a aprecia acest tribut impresionant adus femeilor locale de François Bazin, fiind o oprire excelentă pentru fotografii lângă biserică.",
+            "en": "Take a brief moment to appreciate this striking tribute to local women by François Bazin, making it an excellent and quick photo stop before heading to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg der Barone von Pont",
+            "hu": "Pont báróinak vára",
+            "ro": "Castelul Baronilor de Pont",
+            "en": "Castle of the Barons of Pont"
+          },
+          "coords": [
+            -4.222333,
+            47.866984
+          ],
+          "category": "historical",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser mittelalterlichen Festung, die heute als Rathaus dient, und schlendern Sie unbedingt durch den malerischen Innenhof.",
+            "hu": "Csodálja meg a ma városházaként működő középkori erődítmény robusztus építészetét, és mindenképpen tegyen egy kellemes sétát a festői, hangulatos belső udvarban.",
+            "ro": "Admirați arhitectura robustă a acestei fortărețe medievale, care servește astăzi drept primărie, și asigurați-vă că faceți o plimbare prin curtea interioară pitorească.",
+            "en": "Admire the robust architecture of this medieval fortress, which serves as the town hall today, and be sure to stroll around the adjacent picturesque inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigouden-Museum",
+            "hu": "Bigouden Múzeum",
+            "ro": "Muzeul Bigouden",
+            "en": "Bigouden Museum"
+          },
+          "coords": [
+            -4.22211,
+            47.86704
+          ],
+          "category": "museum",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Bigouden-Kultur mit ihren berühmten hohen Hauben und Stickereien und planen Sie extra Zeit für die tollen Sonderausstellungen ein.",
+            "hu": "Fedezze fel a lenyűgöző bigouden kultúrát a híres magas főkötőkön és hímzéseken keresztül, és szánjon extra időt a lenyűgöző időszaki kiállítások megtekintésére is.",
+            "ro": "Explorați fascinanta cultură Bigouden prin celebrele sale coifuri înalte și broderii și alocați timp suplimentar pentru a vizita expozițiile temporare uimitoare.",
+            "en": "Explore the fascinating Bigouden culture through its famous tall headdresses and intricate embroidery, allocating extra time for the stunning temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Pont-l'Abbé",
+            "hu": "Pont-l'Abbé kikötője",
+            "ro": "Portul din Pont-l'Abbé",
+            "en": "Port of Pont-l'Abbé"
+          },
+          "coords": [
+            -4.220846,
+            47.86592
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang am ruhigen Flussufer, und packen Sie ein kleines Picknick ein, um auf den Bänken zu entspannen und die Boote zu beobachten.",
+            "hu": "Tegyen egy békés sétát a csendes torkolat vize mentén, és vigyen magával egy kis pikniket, hogy a padokon pihenve nézhesse a vízen ringatózó apró csónakokat.",
+            "ro": "Bucurați-vă de o plimbare pașnică de-a lungul apelor liniștite ale estuarului și aduceți un mic picnic pentru a vă relaxa pe bănci, urmărind bărcile pe apă.",
+            "en": "Enjoy a peaceful stroll along the tranquil estuary waters, and pack a small picnic to relax on the benches while watching the small boats gently bob on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pop Corn Labyrinthe",
+            "hu": "Pop Corn Útvesztő",
+            "ro": "Pop Corn Labyrinthe",
+            "en": "Pop Corn Labyrinthe"
+          },
+          "coords": [
+            -4.201155,
+            47.884793
+          ],
+          "category": "family",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie sich Ihren Weg durch die hoch aufragenden Maispflanzen in diesem riesigen Labyrinth und probieren Sie die Abendrunde für eine einzigartig spannende Herausforderung.",
+            "hu": "Navigáljon a magas kukoricaszárak között ebben a hatalmas útvesztőben, és próbálja ki az esti látogatást egy egyedülállóan izgalmas kihívásért naplemente idején.",
+            "ro": "Croiți-vă drum prin tulpinile înalte de porumb în acest labirint uriaș și încercați sesiunea de seară pentru o provocare unică și palpitantă la apusul soarelui.",
+            "en": "Navigate your way through the towering cornstalks in this massive puzzle, and try the twilight session for a uniquely thrilling challenge as the sun starts setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der historischen Kirche Saint-Jacques de Lambour und genießen Sie die ruhige Morgenatmosphäre rund um dieses atemberaubende dachlose Denkmal.\n\nGegen Mittag parken Sie in der Nähe der Kirche Notre-Dame des Carmes, um die berühmte Fensterrose zu sehen, und spazieren dann zum Monument aux Bigoudens und zur Burg der Barone von Pont.\n\nVerbringen Sie den frühen Nachmittag im Bigouden-Museum mit der lokalen Geschichte. Fahren Sie danach zum Hafen von Pont-l'Abbé für einen entspannenden Spaziergang am Wasser.\n\nWenn der Abend naht, machen Sie eine kurze Fahrt zum Pop Corn Labyrinthe. Dieses riesige Maislabyrinth bietet einen äußerst unterhaltsamen und unbeschwerten Abschluss Ihrer Reise.",
+        "hu": "Kezdje autóstúráját a történelmi Saint-Jacques de Lambour templomnál, és élvezze a csendes reggeli hangulatot e lenyűgöző tető nélküli emlékmű körül, mielőtt a nyüzsgő központba indulna.\n\nDélben parkoljon le a Notre-Dame des Carmes templom közelében, hogy megnézze a híres rózsaablakot, majd tegyen egy rövid sétát a Bigouden Emlékműhöz és a Bárók Várához.\n\nA kora délutánt töltse a helyi történelem megismerésével a Bigouden Múzeumban. Ezután hajtson le Pont-l'Abbé kikötőjébe egy pihentető sétára, hogy megtörje a kulturális barangolást.\n\nAz este közeledtével tegyen egy rövid utat a Pop Corn Labyrinthe-hez. Ez a nagyszabású kukoricaútvesztő rendkívül szórakoztató és vidám befejezést kínál a breton vidéken.",
+        "ro": "Începeți turul cu mașina la istorica Biserică Saint-Jacques de Lambour, bucurându-vă de atmosfera liniștită a dimineții în jurul acestui monument impresionant fără acoperiș.\n\nLa prânz, parcați lângă Biserica Notre-Dame des Carmes pentru a vedea celebra sa rozetă, apoi faceți o scurtă plimbare până la Monumentul Bigoudenilor și Castelul Baronilor din Pont.\n\nPetreceți-vă prima parte a după-amiezii cufundați în istoria locală la Muzeul Bigouden. După aceea, conduceți până la Portul din Pont-l'Abbé pentru o plimbare relaxantă.\n\nOdată cu lăsarea serii, conduceți scurt până la Pop Corn Labyrinthe. Acest labirint masiv din porumb oferă un final extrem de distractiv și plin de viață călătoriei prin peisajul breton.",
+        "en": "Begin your driving tour at the historic Saint-Jacques de Lambour Church, enjoying the quiet morning atmosphere around this stunning roofless monument before heading towards the bustling center.\n\nBy midday, park near Notre-Dame des Carmes Church to see its famed rose window, then take a short stroll to the Monument aux Bigoudens and the impressive Castle of the Barons of Pont.\n\nSpend your early afternoon immersed in local history at the Bigouden Museum. Afterwards, drive down to the Port of Pont-l'Abbé for a relaxing walk to break up the day's cultural explorations.\n\nAs evening approaches, take a short drive to the Pop Corn Labyrinthe. This large-scale corn maze provides a highly entertaining, lighthearted end to your journey through the Breton countryside."
+      }
+    }
+  }
+}

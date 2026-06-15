@@ -1,0 +1,428 @@
+{
+  "city_id": "patzcuaro-cities-v2",
+  "anchor": {
+    "name": "Pátzcuaro",
+    "coords": [
+      -101.6094,
+      19.5133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:43",
+      "total_km": 1.47,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Vasco de Quiroga",
+            "hu": "Monumento a Vasco de Quiroga",
+            "ro": "Monumento a Vasco de Quiroga",
+            "en": "Monumento a Vasco de Quiroga"
+          },
+          "coords": [
+            -101.60917,
+            19.513494
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Denkmal für den beliebten Gründungsbischof der Stadt, um die Geschichte zu verstehen, und holen Sie sich früh einen Kaffee in der Nähe.",
+            "hu": "Csodálja meg a város szeretett alapító püspökének emlékművét, hogy megértse a helyi történelmet, és igyon egy kávét a közelben, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați monumentul central dedicat iubitului episcop fondator al orașului pentru a înțelege istoria și luați o cafea în apropiere înainte de sosirea aglomerației.",
+            "en": "Admire the central monument dedicated to the city's beloved founding bishop to understand local history, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Artes e Industrias Populares",
+            "hu": "Museo de las Artes e Industrias Populares",
+            "ro": "Museo de las Artes e Industrias Populares",
+            "en": "Museo de las Artes e Industrias Populares"
+          },
+          "coords": [
+            -101.606954,
+            19.51369
+          ],
+          "category": "museum",
+          "arrive_at": "09:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Museum in einem historischen Gebäude, um exquisites regionales Kunsthandwerk zu sehen, und bringen Sie Bargeld für authentische Souvenirs mit.",
+            "hu": "Fedezze fel ezt a 16. századi épületben található múzeumot a lenyűgöző regionális kézműves alkotásokért, és hozzon készpénzt az autentikus szuvenírekhez.",
+            "ro": "Explorați acest muzeu vibrant dintr-un colegiu din secolul al XVI-lea pentru a vedea meșteșuguri regionale rafinate și aduceți numerar pentru suveniruri autentice.",
+            "en": "Explore this vibrant museum housed in a 16th-century college to see exquisite regional crafts, and bring cash to purchase authentic souvenirs directly."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica de Nuestra Señora de la Salud",
+            "hu": "Basilica de Nuestra Señora de la Salud",
+            "ro": "Basilica de Nuestra Señora de la Salud",
+            "en": "Basilica de Nuestra Señora de la Salud"
+          },
+          "coords": [
+            -101.605993,
+            19.515043
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige Basilika aus dem 16. Jahrhundert mit ihrer verehrten Jungfrau aus Maispaste, und kleiden Sie sich aus Respekt vor den Gläubigen dezent.",
+            "hu": "Látogassa meg ezt az egyedi, 16. századi bazilikát a kukoricapasztából készült tisztelt szűz miatt, és öltözzön szerényen a helyi hívők tiszteletben tartása érdekében.",
+            "ro": "Vizitați această bazilică unică din secolul al XVI-lea pentru a vedea venerata fecioară din pastă de porumb, asigurându-vă că vă îmbrăcați modest din respect.",
+            "en": "Visit this uniquely designed 16th-century basilica to view the revered virgin made of corn paste, making sure to dress modestly to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Emperador Caltzontzin",
+            "hu": "Teatro Emperador Caltzontzin",
+            "ro": "Teatro Emperador Caltzontzin",
+            "en": "Teatro Emperador Caltzontzin"
+          },
+          "coords": [
+            -101.608573,
+            19.516866
+          ],
+          "category": "cultural",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Theater, das auf einem alten Kloster erbaut wurde, um die Architektur zu bewundern, und prüfen Sie die Anschlagtafel für Abendveranstaltungen.",
+            "hu": "Lépjen be ebbe a régi kolostorra épült történelmi színházba, hogy megcsodálja lenyűgöző építészeti részleteit, és nézze meg a hirdetőtáblát az esti eseményekért.",
+            "ro": "Pășiți în acest teatru istoric construit pe o veche mănăstire pentru a admira detaliile arhitecturale și verificați afișierul de afară pentru evenimente de seară.",
+            "en": "Step into this historic theater built on an old convent to appreciate its magnificent architectural details, and check the billboard outside for evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "salon Robal",
+            "hu": "salon Robal",
+            "ro": "salon Robal",
+            "en": "salon Robal"
+          },
+          "coords": [
+            -101.604346,
+            19.522178
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem ikonischen lokalen Wahrzeichen, um das pulsierende Alltagsleben aufzusaugen, und ruhen Sie sich bei einem erfrischenden Getränk aus.",
+            "hu": "Fejezze be sétáját ennél az ikonikus helyi nevezetességnél, hogy magába szívja a pezsgő mindennapi életet, és pihenjen meg egy hűsítő hagyományos ital társaságában.",
+            "ro": "Încheiați plimbarea la acest punct de reper local emblematic pentru a absorbi viața de zi cu zi vibrantă și faceți o pauză pentru a savura o băutură tradițională.",
+            "en": "End your walk at this iconic local landmark to absorb the vibrant daily life of Pátzcuaro, taking a moment to rest and perhaps enjoy a refreshing traditional drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Herzen mit dem Denkmal von Vasco de Quiroga, das Pátzcuaros kolonialen Charme einleitet. Mittags besuchen Sie das lebhafte Kunsthandwerksmuseum. Der Nachmittag ist für die beeindruckende Basilika und ein nahegelegenes Kulturtheater reserviert. Der Abend klingt an einem beliebten lokalen Wahrzeichen sanft aus und rundet Ihren Spaziergang ab.",
+        "hu": "A reggel a történelmi központban indul Vasco de Quiroga emlékművével, amely megadja Pátzcuaro gyarmati varázsát. Délben a nyüzsgő helyi kézműves múzeumba látogat. A délutánt a lenyűgöző bazilikának és egy közeli kulturális színháznak szenteljük. Az este egy kedvelt helyi nevezetességnél ér véget, tökéletesen lezárva ezt a kellemes városi sétát.",
+        "ro": "Dimineața începe în inima istorică cu monumentul lui Vasco de Quiroga, stabilind farmecul colonial al orașului Pátzcuaro. La amiază vizitați muzeul vibrant de meșteșuguri locale. După-amiaza este rezervată pentru uimitoarea bazilică și un teatru cultural din apropiere. Seara se încheie liniștit la un punct de reper local îndrăgit, terminând perfect plimbarea prin oraș.",
+        "en": "Morning begins at the historic heart with Vasco de Quiroga's monument, setting the stage for Pátzcuaro's colonial charm. Midday brings you to the vibrant local crafts museum, where indigenous artistry shines. Afternoon is reserved for the stunning basilica and a nearby cultural theater. Evening gently wraps up at a beloved local landmark, perfectly ending your stroll through town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 3.02,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Vasco de Quiroga",
+            "hu": "Monumento a Vasco de Quiroga",
+            "ro": "Monumento a Vasco de Quiroga",
+            "en": "Monumento a Vasco de Quiroga"
+          },
+          "coords": [
+            -101.60917,
+            19.513494
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Denkmal für den beliebten Gründungsbischof der Stadt, um die Geschichte zu verstehen, und holen Sie sich früh einen Kaffee in der Nähe.",
+            "hu": "Csodálja meg a város szeretett alapító püspökének emlékművét, hogy megértse a helyi történelmet, és igyon egy kávét a közelben, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați monumentul central dedicat iubitului episcop fondator al orașului pentru a înțelege istoria și luați o cafea în apropiere înainte de sosirea aglomerației.",
+            "en": "Admire the central monument dedicated to the city's beloved founding bishop to understand local history, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Artes e Industrias Populares",
+            "hu": "Museo de las Artes e Industrias Populares",
+            "ro": "Museo de las Artes e Industrias Populares",
+            "en": "Museo de las Artes e Industrias Populares"
+          },
+          "coords": [
+            -101.606954,
+            19.51369
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Museum in einem historischen Gebäude, um exquisites regionales Kunsthandwerk zu sehen, und bringen Sie Bargeld für authentische Souvenirs mit.",
+            "hu": "Fedezze fel ezt a 16. századi épületben található múzeumot a lenyűgöző regionális kézműves alkotásokért, és hozzon készpénzt az autentikus szuvenírekhez.",
+            "ro": "Explorați acest muzeu vibrant dintr-un colegiu din secolul al XVI-lea pentru a vedea meșteșuguri regionale rafinate și aduceți numerar pentru suveniruri autentice.",
+            "en": "Explore this vibrant museum housed in a 16th-century college to see exquisite regional crafts, and bring cash to purchase authentic souvenirs directly."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica de Nuestra Señora de la Salud",
+            "hu": "Basilica de Nuestra Señora de la Salud",
+            "ro": "Basilica de Nuestra Señora de la Salud",
+            "en": "Basilica de Nuestra Señora de la Salud"
+          },
+          "coords": [
+            -101.605993,
+            19.515043
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige Basilika aus dem 16. Jahrhundert mit ihrer verehrten Jungfrau aus Maispaste, und kleiden Sie sich aus Respekt vor den Gläubigen dezent.",
+            "hu": "Látogassa meg ezt az egyedi, 16. századi bazilikát a kukoricapasztából készült tisztelt szűz miatt, és öltözzön szerényen a helyi hívők tiszteletben tartása érdekében.",
+            "ro": "Vizitați această bazilică unică din secolul al XVI-lea pentru a vedea venerata fecioară din pastă de porumb, asigurându-vă că vă îmbrăcați modest din respect.",
+            "en": "Visit this uniquely designed 16th-century basilica to view the revered virgin made of corn paste, making sure to dress modestly to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Emperador Caltzontzin",
+            "hu": "Teatro Emperador Caltzontzin",
+            "ro": "Teatro Emperador Caltzontzin",
+            "en": "Teatro Emperador Caltzontzin"
+          },
+          "coords": [
+            -101.608573,
+            19.516866
+          ],
+          "category": "cultural",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Theater, das auf einem alten Kloster erbaut wurde, um die Architektur zu bewundern, und prüfen Sie die Anschlagtafel für Abendveranstaltungen.",
+            "hu": "Lépjen be ebbe a régi kolostorra épült történelmi színházba, hogy megcsodálja lenyűgöző építészeti részleteit, és nézze meg a hirdetőtáblát az esti eseményekért.",
+            "ro": "Pășiți în acest teatru istoric construit pe o veche mănăstire pentru a admira detaliile arhitecturale și verificați afișierul de afară pentru evenimente de seară.",
+            "en": "Step into this historic theater built on an old convent to appreciate its magnificent architectural details, and check the billboard outside for evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Ruta Don Vasco",
+            "hu": "Centro de Interpretación Ruta Don Vasco",
+            "ro": "Centro de Interpretación Ruta Don Vasco",
+            "en": "Centro de Interpretación Ruta Don Vasco"
+          },
+          "coords": [
+            -101.615643,
+            19.536345
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem interaktiven Museum über das Erbe von Vasco de Quiroga und nutzen Sie die hervorragenden Multimedia-Ausstellungen, um weitere Ausflüge zu planen.",
+            "hu": "Kerékpározzon el ebbe az interaktív múzeumba, amely Vasco de Quiroga örökségét mutatja be, és használja a kiváló multimédiás kiállításokat jövőbeli utazások tervezéséhez.",
+            "ro": "Mergeți cu bicicleta la acest muzeu interactiv care detaliază moștenirea lui Vasco de Quiroga și folosiți expozițiile multimedia pentru a planifica viitoare excursii.",
+            "en": "Cycle slightly out of the center to this interactive museum detailing the legacy of Vasco de Quiroga, and use the excellent multimedia exhibits to plan future trips."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie zum Denkmal von Vasco de Quiroga radeln und die frische Bergluft genießen. Mittags geht es durch das Handwerksmuseum und zur prächtigen Basilika. Der Nachmittag bringt eine etwas längere Fahrt zum faszinierenden Don-Vasco-Interpretationszentrum. Der Abend belohnt Ihren aktiven Tag mit der Dämmerung über dem Erbe dieser magischen Stadt.",
+        "hu": "Kezdje a reggelt a Vasco de Quiroga emlékműhöz tekerve, élvezve a friss hegyi levegőt. Délben a kézműves múzeum és a csodálatos bazilika várja. A délután egy kicsit hosszabb túrát tartogat a lenyűgöző Don Vasco értelmező központba. Az este a varázslatos város örökségének alkonyati fényeivel jutalmazza meg az aktív napot.",
+        "ro": "Începeți dimineața pedalând spre monumentul lui Vasco de Quiroga, bucurându-vă de aerul proaspăt. La amiază treceți prin muzeul meșteșugarilor și prin magnifica Bazilică a Sănătății. După-amiaza aduce o plimbare ceva mai lungă spre fascinantul centru de interpretare Don Vasco. Seara vă răsplătește ziua activă cu reflexiile crepusculare asupra acestei așezări magice.",
+        "en": "Start your morning pedaling to the monument of Vasco de Quiroga, embracing the fresh highland air. Midday leads you through the artisan museum and the magnificent Basilica de Nuestra Señora de la Salud. Afternoon brings a slightly longer ride to the fascinating Don Vasco interpretation center. Evening rewards your active day with twilight reflections on this magical town's legacy."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 8.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica de Nuestra Señora de la Salud",
+            "hu": "Basilica de Nuestra Señora de la Salud",
+            "ro": "Basilica de Nuestra Señora de la Salud",
+            "en": "Basilica de Nuestra Señora de la Salud"
+          },
+          "coords": [
+            -101.605993,
+            19.515043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige Basilika aus dem 16. Jahrhundert mit ihrer verehrten Jungfrau aus Maispaste, und kleiden Sie sich aus Respekt vor den Gläubigen dezent.",
+            "hu": "Látogassa meg ezt az egyedi, 16. századi bazilikát a kukoricapasztából készült tisztelt szűz miatt, és öltözzön szerényen a helyi hívők tiszteletben tartása érdekében.",
+            "ro": "Vizitați această bazilică unică din secolul al XVI-lea pentru a vedea venerata fecioară din pastă de porumb, asigurându-vă că vă îmbrăcați modest din respect.",
+            "en": "Visit this uniquely designed 16th-century basilica to view the revered virgin made of corn paste, making sure to dress modestly to respect the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de las Artes e Industrias Populares",
+            "hu": "Museo de las Artes e Industrias Populares",
+            "ro": "Museo de las Artes e Industrias Populares",
+            "en": "Museo de las Artes e Industrias Populares"
+          },
+          "coords": [
+            -101.606954,
+            19.51369
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebhafte Museum in einem historischen Gebäude, um exquisites regionales Kunsthandwerk zu sehen, und bringen Sie Bargeld für authentische Souvenirs mit.",
+            "hu": "Fedezze fel ezt a 16. századi épületben található múzeumot a lenyűgöző regionális kézműves alkotásokért, és hozzon készpénzt az autentikus szuvenírekhez.",
+            "ro": "Explorați acest muzeu vibrant dintr-un colegiu din secolul al XVI-lea pentru a vedea meșteșuguri regionale rafinate și aduceți numerar pentru suveniruri autentice.",
+            "en": "Explore this vibrant museum housed in a 16th-century college to see exquisite regional crafts, and bring cash to purchase authentic souvenirs directly."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Vasco de Quiroga",
+            "hu": "Monumento a Vasco de Quiroga",
+            "ro": "Monumento a Vasco de Quiroga",
+            "en": "Monumento a Vasco de Quiroga"
+          },
+          "coords": [
+            -101.60917,
+            19.513494
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Denkmal für den beliebten Gründungsbischof der Stadt, um die Geschichte zu verstehen, und holen Sie sich früh einen Kaffee in der Nähe.",
+            "hu": "Csodálja meg a város szeretett alapító püspökének emlékművét, hogy megértse a helyi történelmet, és igyon egy kávét a közelben, mielőtt a tömeg megérkezik.",
+            "ro": "Admirați monumentul central dedicat iubitului episcop fondator al orașului pentru a înțelege istoria și luați o cafea în apropiere înainte de sosirea aglomerației.",
+            "en": "Admire the central monument dedicated to the city's beloved founding bishop to understand local history, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Área Natural Protegida Cerro del Estribo Grande",
+            "hu": "Área Natural Protegida Cerro del Estribo Grande",
+            "ro": "Área Natural Protegida Cerro del Estribo Grande",
+            "en": "Área Natural Protegida Cerro del Estribo Grande"
+          },
+          "coords": [
+            -101.642028,
+            19.512086
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.44,
+          "tip_5lang": {
+            "de": "Fahren Sie auf diesen erloschenen Vulkan für atemberaubende Panoramablicke auf den Pátzcuaro-See und tragen Sie feste Schuhe für die 400 Steinstufen zum Gipfel.",
+            "hu": "Autózzon fel erre a kialudt vulkánra a Pátzcuaro-tóra nyíló lélegzetelállító panorámáért, és viseljen masszív cipőt a 400 kőlépcső megmászásához a kilátóig.",
+            "ro": "Conduceți pe acest vulcan stins pentru vederi panoramice uluitoare asupra lacului Pátzcuaro și purtați încălțăminte robustă pentru a urca cele 400 de trepte de piatră.",
+            "en": "Drive up this dormant volcano for breathtaking panoramic views of Lake Pátzcuaro, and wear sturdy shoes to climb the 400 stone steps to the very top viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Interpretación Ruta Don Vasco",
+            "hu": "Centro de Interpretación Ruta Don Vasco",
+            "ro": "Centro de Interpretación Ruta Don Vasco",
+            "en": "Centro de Interpretación Ruta Don Vasco"
+          },
+          "coords": [
+            -101.615643,
+            19.536345
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.86,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem interaktiven Museum über das Erbe von Vasco de Quiroga und nutzen Sie die hervorragenden Multimedia-Ausstellungen, um weitere Ausflüge zu planen.",
+            "hu": "Kerékpározzon el ebbe az interaktív múzeumba, amely Vasco de Quiroga örökségét mutatja be, és használja a kiváló multimédiás kiállításokat jövőbeli utazások tervezéséhez.",
+            "ro": "Mergeți cu bicicleta la acest muzeu interactiv care detaliază moștenirea lui Vasco de Quiroga și folosiți expozițiile multimedia pentru a planifica viitoare excursii.",
+            "en": "Cycle slightly out of the center to this interactive museum detailing the legacy of Vasco de Quiroga, and use the excellent multimedia exhibits to plan future trips."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+            "hu": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+            "ro": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+            "en": "Zona de Restauración Ambiental Estribito del Cerro Colorado"
+          },
+          "coords": [
+            -101.608761,
+            19.537812
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in dieser wunderschönen ökologischen Restaurierungszone, um die ruhige Waldatmosphäre zu genießen, und halten Sie Ausschau nach einheimischen Vögeln.",
+            "hu": "Zárja az autózást ebben a gyönyörű ökológiai helyreállítási zónában, hogy élvezze a nyugodt erdei atmoszférát, és figyelje a helyi madarakat, mielőtt visszaindulna.",
+            "ro": "Încheiați-vă călătoria cu mașina în această frumoasă zonă de restaurare ecologică pentru a vă bucura de atmosfera senină a pădurii, căutând păsări locale.",
+            "en": "Conclude your drive at this beautiful ecological restoration zone to enjoy the serene forest atmosphere, keeping an eye out for local birds before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt entspannt an der ikonischen Basilika und dem nahegelegenen Handwerksmuseum. Mittags lädt eine malerische Fahrt zum Cerro del Estribo Grande für atemberaubende Panoramablicke ein. Der Nachmittag wird mit der Erkundung des interaktiven Don-Vasco-Zentrums verbracht. Der Abend führt Sie in die ruhige Cerro-Colorado-Zone, ein natürlicher Abschluss Ihrer Fahrt.",
+        "hu": "A reggel zökkenőmentesen indul az ikonikus bazilikánál és a közeli kézműves múzeumnál. Délben egy festői autózás vár a Cerro del Estribo Grande-hoz, ahonnan lélegzetelállító panoráma nyílik. A délutánt az interaktív Don Vasco központ felfedezésével töltjük. Az este a békés Cerro Colorado zónába visz, amely nyugodt természeti lezárást kínál ennek az autós utazásnak.",
+        "ro": "Dimineața începe la bazilica emblematică și la muzeul de meșteșuguri din apropiere. Amiaza vă invită la o plimbare pitorească până la Cerro del Estribo Grande pentru vederi panoramice. După-amiaza este petrecută explorând centrul interactiv Don Vasco. Seara vă duce în zona senină Cerro Colorado, oferind un sfârșit natural liniștit pentru călătoria dumneavoastră.",
+        "en": "Morning starts smoothly at the iconic basilica and the nearby artisan museum. Midday invites a scenic drive out to Cerro del Estribo Grande for breathtaking panoramic views of the lake. Afternoon is spent exploring the interactive Don Vasco center further north. Evening takes you to the serene Cerro Colorado restoration zone, offering a tranquil natural close to your motorized journey."
+      }
+    }
+  }
+}

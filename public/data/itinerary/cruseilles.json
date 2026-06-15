@@ -1,0 +1,520 @@
+{
+  "city_id": "cruseilles",
+  "anchor": {
+    "name": "Cruseilles",
+    "coords": [
+      6.1075,
+      46.0342
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            6.106991,
+            46.034517
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum, um die lokalen religiösen Traditionen zu bewundern, und kommen Sie am frühen Morgen, um das beste Licht am Altar zu genießen.",
+            "hu": "Tekintse meg ezt a bájos központi templomot, amely hűen őrzi a helyi vallási hagyományokat, és érkezzen kora reggel, hogy megcsodálhassa az oltárra eső gyönyörű fényeket.",
+            "ro": "Vizitați această fermecătoare biserică centrală pentru a admira tradițiile religioase locale și ajungeți dimineața devreme pentru a vă bucura de cea mai bună lumină la altar.",
+            "en": "Visit this charming central church to admire the local religious traditions, and make sure to arrive early in the morning to enjoy the beautiful light falling on the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-See",
+            "hu": "Dronières-tó",
+            "ro": "Lacul Dronières",
+            "en": "Lake of Dronières"
+          },
+          "coords": [
+            6.122647,
+            46.039229
+          ],
+          "category": "natural",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der eine wunderschöne natürliche Kulisse bietet, und bringen Sie bequeme Schuhe für einen Spaziergang entlang des Wassers mit.",
+            "hu": "Pihenjen meg ezen a békés tavon, amely gyönyörű természeti környezetet kínál, és hozzon magával kényelmes cipőt egy kellemes, vízparti sétához a friss levegőn.",
+            "ro": "Relaxați-vă la acest lac pașnic, care oferă un cadru natural frumos, și aduceți încălțăminte confortabilă pentru a face o plimbare revigorantă chiar pe malul apei.",
+            "en": "Relax by this peaceful lake which offers a beautifully pristine natural setting, and bring comfortable walking shoes to enjoy a refreshing stroll right along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-Park",
+            "hu": "Dronières park",
+            "ro": "Parcul Dronières",
+            "en": "Dronières Park"
+          },
+          "coords": [
+            6.127122,
+            46.040893
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Park eignet sich perfekt für ein entspanntes Picknick in der Natur, also bringen Sie einige lokale Snacks mit und genießen Sie die friedliche Umgebung.",
+            "hu": "Ez a tágas park tökéletes helyszínt biztosít egy nyugodt, természetközeli piknikhez, ezért érdemes helyi finomságokat hozni és élvezni a békés, zöldellő környezetet.",
+            "ro": "Acest parc spațios este perfect pentru un picnic relaxant în natură, așa că aduceți câteva gustări locale și bucurați-vă de împrejurimile pașnice și pline de verdeață.",
+            "en": "This spacious park is the perfect spot for a relaxing nature picnic, so consider bringing some local snacks with you and enjoy the wonderfully peaceful and leafy surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt der Schlucht",
+            "hu": "Szurdok kilátó",
+            "ro": "Punctul de belvedere al defileului",
+            "en": "Gorges Viewpoint"
+          },
+          "coords": [
+            6.109893,
+            46.013556
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick auf die tiefen Schluchten von diesem Aussichtspunkt, und halten Sie Ihre Kamera bereit, um die dramatische Landschaft einzufangen.",
+            "hu": "Élvezze a mély szurdokokra nyíló lélegzetelállító kilátást erről a magaslati pontról, és mindenképpen tartsa készenlétben a fényképezőgépét a drámai táj megörökítéséhez.",
+            "ro": "Bucurați-vă de priveliștile uluitoare ale defileurilor adânci de la acest punct de belvedere și țineți camera pregătită pentru a surprinde peisajul extrem de dramatic.",
+            "en": "Enjoy breathtaking views of the deep gorges from this magnificent viewpoint, and be sure to keep your camera ready to capture the dramatic landscape unfolding below you."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Caille",
+            "hu": "Pont de la Caille",
+            "ro": "Pont de la Caille",
+            "en": "Pont de la Caille"
+          },
+          "coords": [
+            6.111328,
+            46.011692
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke, ein wahres architektonisches Wunderwerk, und tragen Sie windfeste Kleidung, da es hoch oben oft sehr windig sein kann.",
+            "hu": "Sétáljon át ezen a történelmi függőhídon, amely igazi építészeti csoda, és viseljen szélálló ruházatot, mivel a magasban gyakran fújhatnak kellemetlenül erős szelek.",
+            "ro": "Traversați acest pod suspendat istoric, o adevărată minune arhitecturală, și purtați haine rezistente la vânt, deoarece poate fi destul de vânturos la o asemenea altitudine.",
+            "en": "Walk across this historic suspension bridge which is a true architectural marvel, and wear windproof clothing as it can often get quite breezy at such an impressive height."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Kirche Saint-Maurice, bevor Sie zum ruhigen See von Dronières spazieren. Mittags entspannen Sie im Dronières Park bei einem gemütlichen Picknick. Am Nachmittag wandern Sie in Richtung Süden zu den atemberaubenden Schluchten. Der Abend endet majestätisch an der berühmten Hängebrücke Pont de la Caille.",
+        "hu": "Kezdje a napot a Saint-Maurice templomnál, majd sétáljon el a békés Dronières-tóhoz. Délben pihenjen meg a Dronières parkban egy kellemes piknikkel. Délután túrázzon dél felé a lenyűgöző szurdokok kilátóihoz. Az este fenségesen zárul a híres Pont de la Caille függőhíd lenyűgöző építészeti csodájának megtekintésével.",
+        "ro": "Începeți ziua la Biserica Saint-Maurice înainte de a vă plimba spre liniștitul Lac Dronières. La amiază, relaxați-vă în Parcul Dronières cu un picnic plăcut. După-amiaza, mergeți spre sud pentru a vedea defileurile uluitoare. Seara se încheie maiestuos la faimosul pod suspendat Pont de la Caille, o minune inginerească.",
+        "en": "Start your day at the Saint-Maurice Church before strolling towards the peaceful Lake of Dronières. At midday, relax in Dronières Park with a leisurely picnic. In the afternoon, hike south to experience the breathtaking gorges and viewpoints. Your evening ends majestically at the famous Pont de la Caille suspension bridge."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            6.106991,
+            46.034517
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum, um die lokalen religiösen Traditionen zu bewundern, und kommen Sie am frühen Morgen, um das beste Licht am Altar zu genießen.",
+            "hu": "Tekintse meg ezt a bájos központi templomot, amely hűen őrzi a helyi vallási hagyományokat, és érkezzen kora reggel, hogy megcsodálhassa az oltárra eső gyönyörű fényeket.",
+            "ro": "Vizitați această fermecătoare biserică centrală pentru a admira tradițiile religioase locale și ajungeți dimineața devreme pentru a vă bucura de cea mai bună lumină la altar.",
+            "en": "Visit this charming central church to admire the local religious traditions, and make sure to arrive early in the morning to enjoy the beautiful light falling on the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-See",
+            "hu": "Dronières-tó",
+            "ro": "Lacul Dronières",
+            "en": "Lake of Dronières"
+          },
+          "coords": [
+            6.122647,
+            46.039229
+          ],
+          "category": "natural",
+          "arrive_at": "09:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der eine wunderschöne natürliche Kulisse bietet, und bringen Sie bequeme Schuhe für einen Spaziergang entlang des Wassers mit.",
+            "hu": "Pihenjen meg ezen a békés tavon, amely gyönyörű természeti környezetet kínál, és hozzon magával kényelmes cipőt egy kellemes, vízparti sétához a friss levegőn.",
+            "ro": "Relaxați-vă la acest lac pașnic, care oferă un cadru natural frumos, și aduceți încălțăminte confortabilă pentru a face o plimbare revigorantă chiar pe malul apei.",
+            "en": "Relax by this peaceful lake which offers a beautifully pristine natural setting, and bring comfortable walking shoes to enjoy a refreshing stroll right along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-Park",
+            "hu": "Dronières park",
+            "ro": "Parcul Dronières",
+            "en": "Dronières Park"
+          },
+          "coords": [
+            6.127122,
+            46.040893
+          ],
+          "category": "recreational",
+          "arrive_at": "10:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Park eignet sich perfekt für ein entspanntes Picknick in der Natur, also bringen Sie einige lokale Snacks mit und genießen Sie die friedliche Umgebung.",
+            "hu": "Ez a tágas park tökéletes helyszínt biztosít egy nyugodt, természetközeli piknikhez, ezért érdemes helyi finomságokat hozni és élvezni a békés, zöldellő környezetet.",
+            "ro": "Acest parc spațios este perfect pentru un picnic relaxant în natură, așa că aduceți câteva gustări locale și bucurați-vă de împrejurimile pașnice și pline de verdeață.",
+            "en": "This spacious park is the perfect spot for a relaxing nature picnic, so consider bringing some local snacks with you and enjoy the wonderfully peaceful and leafy surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt der Brücken",
+            "hu": "Hidak kilátója",
+            "ro": "Punctul de belvedere al podurilor",
+            "en": "Bridges Viewpoint"
+          },
+          "coords": [
+            6.110982,
+            46.012786
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beiden Brücken von diesem fantastischen Aussichtspunkt aus, um ihre beeindruckende Größe zu verstehen, und achten Sie besonders auf den Sonnenstand.",
+            "hu": "Tekintse meg a két hidat ebből a fantasztikus kilátóból, hogy megértse lenyűgöző méretüket, és figyeljen a napállásra a legszebb fényképek elkészítése érdekében.",
+            "ro": "Observați cele două poduri din acest punct de belvedere fantastic pentru a le înțelege amploarea și acordați atenție poziției soarelui pentru a face cele mai bune poze.",
+            "en": "Observe the two bridges from this fantastic viewpoint to truly understand their massive scale, and pay attention to the position of the sun to capture the best possible photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Caille",
+            "hu": "Pont de la Caille",
+            "ro": "Pont de la Caille",
+            "en": "Pont de la Caille"
+          },
+          "coords": [
+            6.111328,
+            46.011692
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke, ein wahres architektonisches Wunderwerk, und tragen Sie windfeste Kleidung, da es hoch oben oft sehr windig sein kann.",
+            "hu": "Sétáljon át ezen a történelmi függőhídon, amely igazi építészeti csoda, és viseljen szélálló ruházatot, mivel a magasban gyakran fújhatnak kellemetlenül erős szelek.",
+            "ro": "Traversați acest pod suspendat istoric, o adevărată minune arhitecturală, și purtați haine rezistente la vânt, deoarece poate fi destul de vânturos la o asemenea altitudine.",
+            "en": "Walk across this historic suspension bridge which is a true architectural marvel, and wear windproof clothing as it can often get quite breezy at such an impressive height."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Thermen",
+            "hu": "Régi termálfürdő",
+            "ro": "Vechile băi termale",
+            "en": "Old Thermal Baths"
+          },
+          "coords": [
+            6.105914,
+            46.013391
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses ehemaligen Thermalbads, das von der reichen Geschichte der Region zeugt, und seien Sie beim Gehen auf den unebenen Steinwegen vorsichtig.",
+            "hu": "Fedezze fel az egykori termálfürdő romjait, amelyek a régió gazdag történelméről tanúskodnak, és legyen óvatos a séta során a kissé egyenetlen és kopott kőutakon.",
+            "ro": "Explorați ruinele fostelor băi termale care stau mărturie istoriei bogate a regiunii și aveți grijă când pășiți pe potecile de piatră care pot fi destul de denivelate.",
+            "en": "Explore the ruins of these former thermal baths that testify to the region's rich history, and exercise a bit of caution when walking along the somewhat uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Château-Vieux",
+            "hu": "Château-Vieux",
+            "ro": "Château-Vieux",
+            "en": "Château-Vieux"
+          },
+          "coords": [
+            6.084142,
+            46.016518
+          ],
+          "category": "historical",
+          "arrive_at": "15:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste dieser alten Burg, die einst das strategische Tal überblickte, und nehmen Sie sich Zeit, um die noch erhaltenen historischen Mauern zu studieren.",
+            "hu": "Csodálja meg ezen ősi kastély maradványait, amely egykor a stratégiai völgyre nézett, és szánjon időt a még mindig álló, lenyűgöző történelmi falak alapos tanulmányozására.",
+            "ro": "Admirați rămășițele acestui vechi castel care domina odinioară valea strategică și faceți-vă timp pentru a studia cu atenție zidurile istorice care au mai rămas în picioare.",
+            "en": "Admire the remains of this ancient castle that once overlooked the strategic valley, and take your time to closely study the impressive historical walls that still stand today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Morgen im Stadtzentrum und radeln Sie hinauf zum idyllischen See und Park von Dronières. Mittags geht es zügig bergab zu den Aussichtspunkten der großen Brücken. Am Nachmittag erkunden Sie die historische Pont de la Caille und die alten Thermen. Der Abend führt Sie schließlich zu den faszinierenden Ruinen des Château-Vieux.",
+        "hu": "Induljon a városközpontból, és kerékpározzon fel az idilli Dronières-tóhoz és parkhoz. Délben guruljon le a hatalmas hidak kilátópontjaihoz. Délután fedezze fel a történelmi Pont de la Caille-t és a régi termálfürdőt. Az este folyamán végül elteker a Château-Vieux lenyűgöző, ősi romjaihoz.",
+        "ro": "Porniți dimineața din centrul orașului și pedalați până la lacul și parcul idilic Dronières. La prânz, coborâți spre punctele de belvedere ale marilor poduri. După-amiaza, explorați podul istoric Pont de la Caille și vechile băi termale. Seara vă conduce în cele din urmă spre ruinele fascinante de la Château-Vieux.",
+        "en": "Start your morning in the town center and pedal up to the idyllic lake and park of Dronières. At midday, ride down to the viewpoints overlooking the great bridges. In the afternoon, explore the historic Pont de la Caille and the old thermal baths. The evening finally leads you to the fascinating ruins of Château-Vieux."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 8.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            6.106991,
+            46.034517
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum, um die lokalen religiösen Traditionen zu bewundern, und kommen Sie am frühen Morgen, um das beste Licht am Altar zu genießen.",
+            "hu": "Tekintse meg ezt a bájos központi templomot, amely hűen őrzi a helyi vallási hagyományokat, és érkezzen kora reggel, hogy megcsodálhassa az oltárra eső gyönyörű fényeket.",
+            "ro": "Vizitați această fermecătoare biserică centrală pentru a admira tradițiile religioase locale și ajungeți dimineața devreme pentru a vă bucura de cea mai bună lumină la altar.",
+            "en": "Visit this charming central church to admire the local religious traditions, and make sure to arrive early in the morning to enjoy the beautiful light falling on the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-See",
+            "hu": "Dronières-tó",
+            "ro": "Lacul Dronières",
+            "en": "Lake of Dronières"
+          },
+          "coords": [
+            6.122647,
+            46.039229
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen See, der eine wunderschöne natürliche Kulisse bietet, und bringen Sie bequeme Schuhe für einen Spaziergang entlang des Wassers mit.",
+            "hu": "Pihenjen meg ezen a békés tavon, amely gyönyörű természeti környezetet kínál, és hozzon magával kényelmes cipőt egy kellemes, vízparti sétához a friss levegőn.",
+            "ro": "Relaxați-vă la acest lac pașnic, care oferă un cadru natural frumos, și aduceți încălțăminte confortabilă pentru a face o plimbare revigorantă chiar pe malul apei.",
+            "en": "Relax by this peaceful lake which offers a beautifully pristine natural setting, and bring comfortable walking shoes to enjoy a refreshing stroll right along the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronières-Park",
+            "hu": "Dronières park",
+            "ro": "Parcul Dronières",
+            "en": "Dronières Park"
+          },
+          "coords": [
+            6.127122,
+            46.040893
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Park eignet sich perfekt für ein entspanntes Picknick in der Natur, also bringen Sie einige lokale Snacks mit und genießen Sie die friedliche Umgebung.",
+            "hu": "Ez a tágas park tökéletes helyszínt biztosít egy nyugodt, természetközeli piknikhez, ezért érdemes helyi finomságokat hozni és élvezni a békés, zöldellő környezetet.",
+            "ro": "Acest parc spațios este perfect pentru un picnic relaxant în natură, așa că aduceți câteva gustări locale și bucurați-vă de împrejurimile pașnice și pline de verdeață.",
+            "en": "This spacious park is the perfect spot for a relaxing nature picnic, so consider bringing some local snacks with you and enjoy the wonderfully peaceful and leafy surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Château-Vieux",
+            "hu": "Château-Vieux",
+            "ro": "Château-Vieux",
+            "en": "Château-Vieux"
+          },
+          "coords": [
+            6.084142,
+            46.016518
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste dieser alten Burg, die einst das strategische Tal überblickte, und nehmen Sie sich Zeit, um die noch erhaltenen historischen Mauern zu studieren.",
+            "hu": "Csodálja meg ezen ősi kastély maradványait, amely egykor a stratégiai völgyre nézett, és szánjon időt a még mindig álló, lenyűgöző történelmi falak alapos tanulmányozására.",
+            "ro": "Admirați rămășițele acestui vechi castel care domina odinioară valea strategică și faceți-vă timp pentru a studia cu atenție zidurile istorice care au mai rămas în picioare.",
+            "en": "Admire the remains of this ancient castle that once overlooked the strategic valley, and take your time to closely study the impressive historical walls that still stand today."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Thermen",
+            "hu": "Régi termálfürdő",
+            "ro": "Vechile băi termale",
+            "en": "Old Thermal Baths"
+          },
+          "coords": [
+            6.105914,
+            46.013391
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses ehemaligen Thermalbads, das von der reichen Geschichte der Region zeugt, und seien Sie beim Gehen auf den unebenen Steinwegen vorsichtig.",
+            "hu": "Fedezze fel az egykori termálfürdő romjait, amelyek a régió gazdag történelméről tanúskodnak, és legyen óvatos a séta során a kissé egyenetlen és kopott kőutakon.",
+            "ro": "Explorați ruinele fostelor băi termale care stau mărturie istoriei bogate a regiunii și aveți grijă când pășiți pe potecile de piatră care pot fi destul de denivelate.",
+            "en": "Explore the ruins of these former thermal baths that testify to the region's rich history, and exercise a bit of caution when walking along the somewhat uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt der Schlucht",
+            "hu": "Szurdok kilátó",
+            "ro": "Punctul de belvedere al defileului",
+            "en": "Gorges Viewpoint"
+          },
+          "coords": [
+            6.109893,
+            46.013556
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick auf die tiefen Schluchten von diesem Aussichtspunkt, und halten Sie Ihre Kamera bereit, um die dramatische Landschaft einzufangen.",
+            "hu": "Élvezze a mély szurdokokra nyíló lélegzetelállító kilátást erről a magaslati pontról, és mindenképpen tartsa készenlétben a fényképezőgépét a drámai táj megörökítéséhez.",
+            "ro": "Bucurați-vă de priveliștile uluitoare ale defileurilor adânci de la acest punct de belvedere și țineți camera pregătită pentru a surprinde peisajul extrem de dramatic.",
+            "en": "Enjoy breathtaking views of the deep gorges from this magnificent viewpoint, and be sure to keep your camera ready to capture the dramatic landscape unfolding below you."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt der Brücken",
+            "hu": "Hidak kilátója",
+            "ro": "Punctul de belvedere al podurilor",
+            "en": "Bridges Viewpoint"
+          },
+          "coords": [
+            6.110982,
+            46.012786
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beiden Brücken von diesem fantastischen Aussichtspunkt aus, um ihre beeindruckende Größe zu verstehen, und achten Sie besonders auf den Sonnenstand.",
+            "hu": "Tekintse meg a két hidat ebből a fantasztikus kilátóból, hogy megértse lenyűgöző méretüket, és figyeljen a napállásra a legszebb fényképek elkészítése érdekében.",
+            "ro": "Observați cele două poduri din acest punct de belvedere fantastic pentru a le înțelege amploarea și acordați atenție poziției soarelui pentru a face cele mai bune poze.",
+            "en": "Observe the two bridges from this fantastic viewpoint to truly understand their massive scale, and pay attention to the position of the sun to capture the best possible photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de la Caille",
+            "hu": "Pont de la Caille",
+            "ro": "Pont de la Caille",
+            "en": "Pont de la Caille"
+          },
+          "coords": [
+            6.111328,
+            46.011692
+          ],
+          "category": "historical",
+          "arrive_at": "15:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke, ein wahres architektonisches Wunderwerk, und tragen Sie windfeste Kleidung, da es hoch oben oft sehr windig sein kann.",
+            "hu": "Sétáljon át ezen a történelmi függőhídon, amely igazi építészeti csoda, és viseljen szélálló ruházatot, mivel a magasban gyakran fújhatnak kellemetlenül erős szelek.",
+            "ro": "Traversați acest pod suspendat istoric, o adevărată minune arhitecturală, și purtați haine rezistente la vânt, deoarece poate fi destul de vânturos la o asemenea altitudine.",
+            "en": "Walk across this historic suspension bridge which is a true architectural marvel, and wear windproof clothing as it can often get quite breezy at such an impressive height."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein komfortabler Start führt Sie von der Kirche im Zentrum schnell zu den Erholungsgebieten rund um den Dronières-See. Zur Mittagszeit fahren Sie zum Château-Vieux, um die alten Ruinen zu erkunden. Der Nachmittag ist den beeindruckenden Schluchten und den Ruinen der Thermen gewidmet. Am Abend bestaunen Sie die gigantische Pont de la Caille.",
+        "hu": "Egy kényelmes kezdés a központi templomtól gyorsan eljuttatja a Dronières-tó körüli rekreációs területekre. Délben elvezet a Château-Vieux-hoz, hogy felfedezze az ősi romokat. A délutánt a lenyűgöző szurdokoknak és a termálfürdő romjainak szenteljük. Este megcsodálhatja a gigantikus Pont de la Caille-t.",
+        "ro": "Un început confortabil vă duce rapid de la biserica centrală la zonele de recreere din jurul Lacului Dronières. La amiază, conduceți la Château-Vieux pentru a explora ruinele antice. După-amiaza este dedicată defileurilor impresionante și ruinelor băilor termale. Seara veți admira giganticul Pont de la Caille.",
+        "en": "A comfortable start takes you quickly from the central church to the recreation areas around Lake Dronières. At midday, drive to Château-Vieux to explore the ancient ruins. The afternoon is dedicated to the impressive gorges and the ruins of the old thermal baths. In the evening, you will marvel at the gigantic Pont de la Caille."
+      }
+    }
+  }
+}

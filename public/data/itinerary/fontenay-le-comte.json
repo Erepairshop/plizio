@@ -1,0 +1,474 @@
+{
+  "city_id": "fontenay-le-comte",
+  "anchor": {
+    "name": "Fontenay-le-Comte",
+    "coords": [
+      -0.8064,
+      46.4669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Belliard",
+            "hu": "Place Belliard",
+            "ro": "Place Belliard",
+            "en": "Place Belliard"
+          },
+          "coords": [
+            -0.805771,
+            46.4671
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen charmanten Platz mit seinen schönen Arkadenhäusern; trinken Sie einen Kaffee in einem Eckcafé, um die lebhafte Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig ezen a hangulatos, egyedi árkádos házakkal szegélyezett téren; igyon egy finom kávét egy sarokkávézóban a valódi helyi atmoszféra átéléséért.",
+            "ro": "Plimbați-vă prin această piață fermecătoare, înconjurată de case cu arcade minunate; savurați o cafea la colț pentru a simți cu adevărat atmosfera locală vibrantă.",
+            "en": "Stroll around this charming historic square lined with beautiful arcaded houses; grab a coffee at a corner café to completely soak in the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.807068,
+            46.467289
+          ],
+          "category": "religious",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Turmspitze dieser historischen Kirche und prüfen Sie den Aushang für mögliche informelle und kostenlose Chorauftritte.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus tornyát, és feltétlenül nézze meg a hirdetőtáblát az esetlegesen ingyenes kóruselőadások pontos időpontjaiért.",
+            "ro": "Admirați turla gotică impresionantă a acestei biserici istorice importante și verificați panoul informativ pentru programul recitalurilor ocazionale de cor local.",
+            "en": "Admire the striking Gothic spire of this prominent historic church, and be sure to check the notice board for any casual and completely free choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Fontenay",
+            "hu": "Fontenay Múzeum",
+            "ro": "Muzeul Fontenay",
+            "en": "Fontenay Museum"
+          },
+          "coords": [
+            -0.80681,
+            46.467462
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unglaublich reiche Sammlung regionaler Artefakte und Kunstwerke; lassen Sie Ihre schweren Taschen in den kostenlosen Schließfächern am Haupteingang.",
+            "hu": "Fedezze fel a regionális leletek és műalkotások fantasztikusan gazdag gyűjteményét; hagyja nehéz táskáit a bejárat melletti ingyenes és biztonságos zárható szekrényekben.",
+            "ro": "Explorați colecția absolut remarcabilă de artefacte și opere de artă regionale; lăsați bagajele grele în dulapurile complet gratuite de lângă intrarea principală.",
+            "en": "Explore an incredibly rich collection of fascinating regional artifacts and artworks; leave your heavy bags securely in the free lockers provided near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine des Quatre-Tias",
+            "hu": "Fontaine des Quatre-Tias",
+            "ro": "Fontaine des Quatre-Tias",
+            "en": "Fontaine des Quatre-Tias"
+          },
+          "coords": [
+            -0.804751,
+            46.4682
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen kunstvoll gefertigten historischen Brunnen; er ist ein wirklich fantastischer, wenn auch kurzer Fotostopp direkt im Herzen der wunderschönen Altstadt.",
+            "hu": "Csodálja meg ezt a gyönyörűen kidolgozott, monumentális történelmi szökőkutat; ez egy nagyon gyors, de egyenesen kihagyhatatlan fotópont a festői óváros szívében.",
+            "ro": "Admirați această fântână istorică frumos sculptată cu detalii excepționale; este un loc perfect și rapid pentru fotografii senzaționale chiar în inima orașului vechi.",
+            "en": "Marvel at this beautifully crafted and rather iconic historical fountain; it serves as a quick but absolutely essential photo spot situated right in the heart of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Baron",
+            "hu": "Baron Park",
+            "ro": "Parcul Baron",
+            "en": "Baron Park"
+          },
+          "coords": [
+            -0.805165,
+            46.468873
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entspannen Sie zwischen den wunderschönen alten Ruinen und schattigen Bäumen dieses friedlichen Parks; packen Sie unbedingt regionalen Käse und frisches Baguette für ein Picknick ein.",
+            "hu": "Pihenjen meg a nyugodt park lenyűgöző ősi romjai és hatalmas öreg fái között; csomagoljon egy kis finom helyi sajtot és friss ropogós bagettet egy spontán piknikhez.",
+            "ro": "Relaxați-vă printre ruinele antice superbe și copacii seculari din acest parc liniștit; asigurați-vă că aduceți niște brânză locală și o baghetă proaspătă pentru un picnic.",
+            "en": "Relax among the beautiful ancient ruins and very old trees of this peaceful park; be sure to pack some local artisan cheese and fresh baguette for a delightful spontaneous picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Terre-Neuve",
+            "hu": "Terre-Neuve kastély",
+            "ro": "Castelul Terre-Neuve",
+            "en": "Terre-Neuve Castle"
+          },
+          "coords": [
+            -0.814722,
+            46.4628
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Renaissance-Juwel, das für seine Kamine berühmt ist; kommen Sie unbedingt früh zur ersten Führung, um das absolut beste Erlebnis zu haben.",
+            "hu": "Fedezze fel ezt a lenyűgöző, csodás kandallóiról híres reneszánsz ékszerdobozt; mindenképpen érkezzen korán a legelső tárlatvezetésre a tökéletes kulturális élményért.",
+            "ro": "Descoperiți această minune renascentistă uluitoare, renumită pentru șemineele sale; asigurați-vă că ajungeți devreme pentru primul tur ghidat pentru cea mai bună experiență.",
+            "en": "Discover this stunning Renaissance marvel highly renowned for its beautiful fireplaces; make sure to arrive early to join the very first guided tour for the ultimate experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Place Belliard, bevor Sie die ruhige Atmosphäre der Kirche Notre-Dame genießen.\n\nTauchen Sie mittags im Museum von Fontenay tief in die lokale Geschichte und regionale Kunst ein, und bewundern Sie anschließend die Fontaine des Quatre-Tias.\n\nVerbringen Sie den Nachmittag mit einem friedlichen Spaziergang durch die grüne Oase des Parc Baron, umrahmt von antiken Spuren.\n\nBeenden Sie den herrlichen Tag am prächtigen Schloss Terre-Neuve, einem echten Juwel der Renaissance-Architektur.",
+        "hu": "Kezdje a reggelt a történelmi Place Belliard téren, majd élvezze a Notre-Dame templom rendkívül nyugodt atmoszféráját a város szívében.\n\nDélben merüljön el a helyi történelemben a Fontenay Múzeumban, majd sétáljon el a díszes Fontaine des Quatre-Tias szökőkúthoz fotózni.\n\nDélután tegyen egy pihentető sétát a Baron Park zöldellő, romokkal teli oázisában, gyönyörködve a békés és csendes természetben.\n\nA napot a hihetetlenül lenyűgöző Terre-Neuve kastély reneszánsz pompájával és gazdag díszítéseivel zárja kellemesen.",
+        "ro": "Începeți dimineața în istorica Place Belliard, înainte de a păși în superba Biserică Notre-Dame pentru momente prețioase de liniște și contemplare.\n\nLa prânz, explorați cu atenție Muzeul Fontenay pentru istoria regională, apoi admirați sculpturile fântânii clasice Fontaine des Quatre-Tias.\n\nPetreceți după-amiaza bucurându-vă de o plimbare foarte relaxantă prin oaza verde a Parcului Baron și a ruinelor sale.\n\nÎncheiați ziua explorând în detaliu minunatul Castel Terre-Neuve, o veritabilă bijuterie arhitecturală renascentistă din zonă.",
+        "en": "Start your morning at the historic Place Belliard, admiring its stunning facades before stepping into the serene and majestic Notre-Dame Church.\n\nMidday, dive deep into local history at the Fontenay Museum, then take a moment to marvel at the intricate details of Fontaine des Quatre-Tias.\n\nSpend your afternoon enjoying a peaceful stroll through the green oasis of Baron Park, completely surrounded by charming ancient ruins.\n\nConclude your satisfying day with a visit to the magnificent Terre-Neuve Castle, renowned as a true French Renaissance gem."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Belliard",
+            "hu": "Place Belliard",
+            "ro": "Place Belliard",
+            "en": "Place Belliard"
+          },
+          "coords": [
+            -0.805771,
+            46.4671
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen charmanten Platz mit seinen schönen Arkadenhäusern; trinken Sie einen Kaffee in einem Eckcafé, um die lebhafte Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig ezen a hangulatos, egyedi árkádos házakkal szegélyezett téren; igyon egy finom kávét egy sarokkávézóban a valódi helyi atmoszféra átéléséért.",
+            "ro": "Plimbați-vă prin această piață fermecătoare, înconjurată de case cu arcade minunate; savurați o cafea la colț pentru a simți cu adevărat atmosfera locală vibrantă.",
+            "en": "Stroll around this charming historic square lined with beautiful arcaded houses; grab a coffee at a corner café to completely soak in the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.807068,
+            46.467289
+          ],
+          "category": "religious",
+          "arrive_at": "09:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Turmspitze dieser historischen Kirche und prüfen Sie den Aushang für mögliche informelle und kostenlose Chorauftritte.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus tornyát, és feltétlenül nézze meg a hirdetőtáblát az esetlegesen ingyenes kóruselőadások pontos időpontjaiért.",
+            "ro": "Admirați turla gotică impresionantă a acestei biserici istorice importante și verificați panoul informativ pentru programul recitalurilor ocazionale de cor local.",
+            "en": "Admire the striking Gothic spire of this prominent historic church, and be sure to check the notice board for any casual and completely free choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Fontenay",
+            "hu": "Fontenay Múzeum",
+            "ro": "Muzeul Fontenay",
+            "en": "Fontenay Museum"
+          },
+          "coords": [
+            -0.80681,
+            46.467462
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unglaublich reiche Sammlung regionaler Artefakte und Kunstwerke; lassen Sie Ihre schweren Taschen in den kostenlosen Schließfächern am Haupteingang.",
+            "hu": "Fedezze fel a regionális leletek és műalkotások fantasztikusan gazdag gyűjteményét; hagyja nehéz táskáit a bejárat melletti ingyenes és biztonságos zárható szekrényekben.",
+            "ro": "Explorați colecția absolut remarcabilă de artefacte și opere de artă regionale; lăsați bagajele grele în dulapurile complet gratuite de lângă intrarea principală.",
+            "en": "Explore an incredibly rich collection of fascinating regional artifacts and artworks; leave your heavy bags securely in the free lockers provided near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Baron",
+            "hu": "Baron Park",
+            "ro": "Parcul Baron",
+            "en": "Baron Park"
+          },
+          "coords": [
+            -0.805165,
+            46.468873
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie zwischen den wunderschönen alten Ruinen und schattigen Bäumen dieses friedlichen Parks; packen Sie unbedingt regionalen Käse und frisches Baguette für ein Picknick ein.",
+            "hu": "Pihenjen meg a nyugodt park lenyűgöző ősi romjai és hatalmas öreg fái között; csomagoljon egy kis finom helyi sajtot és friss ropogós bagettet egy spontán piknikhez.",
+            "ro": "Relaxați-vă printre ruinele antice superbe și copacii seculari din acest parc liniștit; asigurați-vă că aduceți niște brânză locală și o baghetă proaspătă pentru un picnic.",
+            "en": "Relax among the beautiful ancient ruins and very old trees of this peaceful park; be sure to pack some local artisan cheese and fresh baguette for a delightful spontaneous picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Terre-Neuve",
+            "hu": "Terre-Neuve kastély",
+            "ro": "Castelul Terre-Neuve",
+            "en": "Terre-Neuve Castle"
+          },
+          "coords": [
+            -0.814722,
+            46.4628
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Renaissance-Juwel, das für seine Kamine berühmt ist; kommen Sie unbedingt früh zur ersten Führung, um das absolut beste Erlebnis zu haben.",
+            "hu": "Fedezze fel ezt a lenyűgöző, csodás kandallóiról híres reneszánsz ékszerdobozt; mindenképpen érkezzen korán a legelső tárlatvezetésre a tökéletes kulturális élményért.",
+            "ro": "Descoperiți această minune renascentistă uluitoare, renumită pentru șemineele sale; asigurați-vă că ajungeți devreme pentru primul tur ghidat pentru cea mai bună experiență.",
+            "en": "Discover this stunning Renaissance marvel highly renowned for its beautiful fireplaces; make sure to arrive early to join the very first guided tour for the ultimate experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Aquatique Océanides",
+            "hu": "Centre Aquatique Océanides",
+            "ro": "Centrul Acvatic Océanides",
+            "en": "Centre Aquatique Océanides"
+          },
+          "coords": [
+            -0.781612,
+            46.460632
+          ],
+          "category": "family",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit Ihrer gesamten Familie in den sehr modernen Schwimmbädern ab; vergessen Sie Ihre Badekappen nicht, da diese hier zwingend und strikt vorgeschrieben sind.",
+            "hu": "Hűsöljön családjával a nagyon modern és tiszta medencékben; semmiképp se felejtsen el úszósapkát hozni, mivel az itteni medencékbe való belépéshez az teljesen kötelező.",
+            "ro": "Răcoriți-vă alături de întreaga familie în aceste piscine moderne și curate; nu uitați să aduceți neapărat căști de înot, deoarece acestea sunt strict obligatorii pentru acces.",
+            "en": "Cool off with your entire family in the very modern and clean swimming pools; please remember to bring swimming caps as they are strictly required for any pool entry here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie gemütlich zum Place Belliard und zur Kirche Notre-Dame, die leicht zugänglich mitten im pulsierenden historischen Herzen der Stadt liegen.\n\nFahren Sie mittags zum Museum von Fontenay, um einen faszinierenden Einblick in das reiche lokale Erbe und die beeindruckende Kunstszene zu erhalten.\n\nTreten Sie am Nachmittag entspannt in die Pedale in Richtung Parc Baron, um sich im kühlen Schatten der sehr alten Bäume wunderbar zu erholen.\n\nBeenden Sie Ihren aktiven Tag am majestätischen Schloss Terre-Neuve und entspannen Sie sich abschließend im beliebten städtischen Aquatic Center.",
+        "hu": "Kerékpározzon el kényelmesen a Place Belliard térre és a Notre-Dame templomhoz, könnyedén navigálva az egész város pezsgő történelmi szívében.\n\nDélben tekerjen át egyenesen a Fontenay Múzeumhoz, hogy sokkal jobban megismerje a rendkívül gazdag helyi és regionális kulturális örökséget.\n\nDélután vegye könnyedén az irányt a zöldellő Baron Park felé, és pihenjen meg kényelmesen a hatalmas, ősi fák megnyugtató és hűsítő árnyékában.\n\nFejezze be ezt az aktív napot a lenyűgöző Terre-Neuve kastélynál, majd frissüljön fel egy igazán jóleső úszással a közeli, modern vízi központban.",
+        "ro": "Pedalați dimineața spre Place Belliard și frumoasa Biserică Notre-Dame, navigând cu ușurință prin centrul istoric absolut vibrant al întregului oraș.\n\nLa prânz, mergeți relaxat cu bicicleta direct la Muzeul Fontenay pentru o incursiune deosebit de fascinantă în istoria locală și arta regională.\n\nDupă-amiaza, îndreptați-vă încet spre Parcul Baron pentru a vă relaxa confortabil la umbra copacilor seculari uriași și a admira vechile ruine de piatră.\n\nÎncheiați ziua activă explorând unicul Castel Terre-Neuve, urmat de o sesiune de înot deosebit de răcoritoare la excelentul centru acvatic local.",
+        "en": "Cycle your way to the bustling Place Belliard and the gorgeous Notre-Dame Church, easily navigating through the truly historic heart of the old town.\n\nRide directly over to the Fontenay Museum by midday for an incredibly engaging and thorough look into the rich local heritage and regional history.\n\nIn the afternoon, gently pedal towards the sprawling Baron Park to fully relax under the comforting shade of massive ancient trees and stone ruins.\n\nFinish your active and fulfilling day at the impressive Terre-Neuve Castle before heading out to the modern aquatic center to swim and fully unwind."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Terre-Neuve",
+            "hu": "Terre-Neuve kastély",
+            "ro": "Castelul Terre-Neuve",
+            "en": "Terre-Neuve Castle"
+          },
+          "coords": [
+            -0.814722,
+            46.4628
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses beeindruckende Renaissance-Juwel, das für seine Kamine berühmt ist; kommen Sie unbedingt früh zur ersten Führung, um das absolut beste Erlebnis zu haben.",
+            "hu": "Fedezze fel ezt a lenyűgöző, csodás kandallóiról híres reneszánsz ékszerdobozt; mindenképpen érkezzen korán a legelső tárlatvezetésre a tökéletes kulturális élményért.",
+            "ro": "Descoperiți această minune renascentistă uluitoare, renumită pentru șemineele sale; asigurați-vă că ajungeți devreme pentru primul tur ghidat pentru cea mai bună experiență.",
+            "en": "Discover this stunning Renaissance marvel highly renowned for its beautiful fireplaces; make sure to arrive early to join the very first guided tour for the ultimate experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Belliard",
+            "hu": "Place Belliard",
+            "ro": "Place Belliard",
+            "en": "Place Belliard"
+          },
+          "coords": [
+            -0.805771,
+            46.4671
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen charmanten Platz mit seinen schönen Arkadenhäusern; trinken Sie einen Kaffee in einem Eckcafé, um die lebhafte Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig ezen a hangulatos, egyedi árkádos házakkal szegélyezett téren; igyon egy finom kávét egy sarokkávézóban a valódi helyi atmoszféra átéléséért.",
+            "ro": "Plimbați-vă prin această piață fermecătoare, înconjurată de case cu arcade minunate; savurați o cafea la colț pentru a simți cu adevărat atmosfera locală vibrantă.",
+            "en": "Stroll around this charming historic square lined with beautiful arcaded houses; grab a coffee at a corner café to completely soak in the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            -0.807068,
+            46.467289
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Turmspitze dieser historischen Kirche und prüfen Sie den Aushang für mögliche informelle und kostenlose Chorauftritte.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus tornyát, és feltétlenül nézze meg a hirdetőtáblát az esetlegesen ingyenes kóruselőadások pontos időpontjaiért.",
+            "ro": "Admirați turla gotică impresionantă a acestei biserici istorice importante și verificați panoul informativ pentru programul recitalurilor ocazionale de cor local.",
+            "en": "Admire the striking Gothic spire of this prominent historic church, and be sure to check the notice board for any casual and completely free choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Baron",
+            "hu": "Baron Park",
+            "ro": "Parcul Baron",
+            "en": "Baron Park"
+          },
+          "coords": [
+            -0.805165,
+            46.468873
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie zwischen den wunderschönen alten Ruinen und schattigen Bäumen dieses friedlichen Parks; packen Sie unbedingt regionalen Käse und frisches Baguette für ein Picknick ein.",
+            "hu": "Pihenjen meg a nyugodt park lenyűgöző ősi romjai és hatalmas öreg fái között; csomagoljon egy kis finom helyi sajtot és friss ropogós bagettet egy spontán piknikhez.",
+            "ro": "Relaxați-vă printre ruinele antice superbe și copacii seculari din acest parc liniștit; asigurați-vă că aduceți niște brânză locală și o baghetă proaspătă pentru un picnic.",
+            "en": "Relax among the beautiful ancient ruins and very old trees of this peaceful park; be sure to pack some local artisan cheese and fresh baguette for a delightful spontaneous picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Aquatique Océanides",
+            "hu": "Centre Aquatique Océanides",
+            "ro": "Centrul Acvatic Océanides",
+            "en": "Centre Aquatique Océanides"
+          },
+          "coords": [
+            -0.781612,
+            46.460632
+          ],
+          "category": "family",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit Ihrer gesamten Familie in den sehr modernen Schwimmbädern ab; vergessen Sie Ihre Badekappen nicht, da diese hier zwingend und strikt vorgeschrieben sind.",
+            "hu": "Hűsöljön családjával a nagyon modern és tiszta medencékben; semmiképp se felejtsen el úszósapkát hozni, mivel az itteni medencékbe való belépéshez az teljesen kötelező.",
+            "ro": "Răcoriți-vă alături de întreaga familie în aceste piscine moderne și curate; nu uitați să aduceți neapărat căști de înot, deoarece acestea sunt strict obligatorii pentru acces.",
+            "en": "Cool off with your entire family in the very modern and clean swimming pools; please remember to bring swimming caps as they are strictly required for any pool entry here."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrière de la Guerre",
+            "hu": "Carrière de la Guerre",
+            "ro": "Carrière de la Guerre",
+            "en": "Carrière de la Guerre"
+          },
+          "coords": [
+            -0.730035,
+            46.510444
+          ],
+          "category": "natural",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wirklich faszinierende historische Naturgebiet, das absolut perfekt zum Wandern ist; tragen Sie unbedingt festes Schuhwerk auf dem oft unebenen Gelände.",
+            "hu": "Fedezze fel ezt a túrázásra egyszerűen tökéletes, hihetetlenül lenyűgöző egykori kőbányát; feltétlenül viseljen strapabíró cipőt, mivel a sziklás terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți această carieră naturală fascinantă și sălbatică, perfectă pentru drumeții lungi; purtați mereu încălțăminte robustă, deoarece terenul stâncos este foarte accidentat.",
+            "en": "Discover this truly fascinating historic natural quarry area that is absolutely perfect for hiking; be sure to wear exceptionally sturdy walking shoes as the rocky terrain is uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am prächtigen Schloss Terre-Neuve und bewundern Sie in der ruhigen Morgenluft in aller Ruhe seine vollkommene und detaillierte Renaissance-Architektur.\n\nFahren Sie gegen Mittag entspannt ins lebhafte Stadtzentrum, um den historischen Place Belliard und die beeindruckende und markante Kirche Notre-Dame gemütlich zu erkunden.\n\nGenießen Sie am Nachmittag eine kurze, malerische Fahrt zum Parc Baron, gefolgt von erfrischendem und absolut vergnüglichem Badespaß im modernen Centre Aquatique Océanides.\n\nBeenden Sie den ereignisreichen Tag mit einer kurzen Fahrt zur rauen Carrière de la Guerre, wo Sie faszinierende und unberührte geologische Naturwunder ausgiebig bestaunen können.",
+        "hu": "Kezdje nagyszerű autós túráját a lenyűgöző Terre-Neuve kastélynál, és csodálja meg annak páratlan reneszánsz építészetét a friss, nyugalmas és békés kora reggeli órákban.\n\nDélben hajtson kényelmesen a nyüzsgő városközpontba, hogy maradéktalanul felfedezze az elegáns Place Belliard-t és a magasba törő, impozáns Notre-Dame templomot.\n\nDélután tegyen egy rövid, de annál festőibb utat a Baron Park hatalmas fáihoz, majd látogasson el a kifejezetten családbarát és rendkívül modern Centre Aquatique Océanides-be.\n\nA hosszú napot a vadregényes és egészen különleges hangulatú Carrière de la Guerre lenyűgöző természeti képződményeinek és régi kőbányájának alapos felfedezésével zárja.",
+        "ro": "Începeți turul cu mașina la impresionantul Castel Terre-Neuve, admirând cu mare atenție superba sa arhitectură renascentistă exact la primele și cele mai liniștite ore ale dimineții.\n\nConduceți spre centrul istoric al orașului la prânz pentru a vedea detaliat atât cocheta Place Belliard, cât și absolut uimitoarea și înalta Biserică Notre-Dame cu turla sa.\n\nBucurați-vă de o după-amiază deosebit de pitorească conducând scurt până la Parcul Baron, urmată de momente incredibil de distractive la excelentul Centru Acvatic Océanides.\n\nÎncheiați călătoria explorând pe îndelete peisajul natural sălbatic și de-a dreptul fascinant de la impresionanta carieră de piatră părăsită cunoscută sub numele de Carrière de la Guerre.",
+        "en": "Start your extensive driving tour directly at the grand Terre-Neuve Castle, taking ample time to deeply appreciate its magnificent and historic Renaissance architecture early in the morning.\n\nDrive effortlessly into the old town center right around midday to comprehensively explore the charming Place Belliard and the incredibly striking and tall Notre-Dame Church.\n\nEnjoy a very scenic and pleasant afternoon drive first to the shady Baron Park, then straight to the highly modern and completely family-friendly aquatic center, Centre Aquatique Océanides.\n\nWrap up your diverse and fulfilling daytrip by venturing out slightly to thoroughly explore the wonderfully rugged, ancient, and highly fascinating natural landscapes of Carrière de la Guerre."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "nuevo-laredo-cities-v2",
+  "anchor": {
+    "name": "Nuevo Laredo",
+    "coords": [
+      -99.5078,
+      27.4865
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Fundadores",
+            "hu": "Monumento a Fundadores",
+            "ro": "Monumento a Fundadores",
+            "en": "Monumento a Fundadores"
+          },
+          "coords": [
+            -99.507363,
+            27.486288
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese hoch aufragende Hommage an die Stadtgründer, um die binationale Geschichte zu verstehen, und kommen Sie früh, um das beste Morgenlicht für Fotos zu nutzen.",
+            "hu": "Csodálja meg a városalapítók előtti tiszteletadást, hogy megértse a büszke kétnemzetiségű történelmet, és érkezzen korán a legjobb reggeli fotózási fényekért.",
+            "ro": "Admirați acest omagiu adus fondatorilor orașului pentru a înțelege istoria mândră binațională și vizitați-l devreme pentru a prinde lumina dimineții pentru fotografii.",
+            "en": "Admire this towering tribute to the city's founders to grasp the proud binational history, and visit early to catch the morning light for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Ilusion Acuatica",
+            "hu": "Alberca Ilusion Acuatica",
+            "ro": "Alberca Ilusion Acuatica",
+            "en": "Alberca Ilusion Acuatica"
+          },
+          "coords": [
+            -99.490026,
+            27.490751
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den großen Becken dieses beliebten Familien-Erlebnisbades ab, wo ein frühes Eintreffen einen erstklassigen Schattenplatz garantiert.",
+            "hu": "Hűsöljön le ennek a kedvelt családi élményfürdőnek a medencéiben, ahol a nyitásra való érkezés garantálja a legjobb árnyékos helyeket.",
+            "ro": "Răcoriți-vă în piscinele întinse ale acestui îndrăgit centru acvatic de familie, unde sosirea la deschidere garantează un loc la umbră.",
+            "en": "Cool off in the expansive pools of this beloved family aquatic center, where arriving right at opening guarantees a prime spot in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro De La Ciudad",
+            "hu": "Teatro De La Ciudad",
+            "ro": "Teatro De La Ciudad",
+            "en": "Teatro De La Ciudad"
+          },
+          "coords": [
+            -99.487412,
+            27.481919
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag von Nuevo Laredo in diesem modernen Theater und prüfen Sie das Tagesprogramm auf spontane lokale Proben oder Ausstellungen.",
+            "hu": "Tapasztalja meg Nuevo Laredo kulturális szívverését ebben a modern színházban, és nézze meg a nappali programot, hogy elcsípjen egy helyi próbát vagy kiállítást.",
+            "ro": "Experimentați pulsul cultural al orașului Nuevo Laredo la acest teatru modern și verificați programul de zi pentru a prinde repetiții sau expoziții locale.",
+            "en": "Experience the cultural heartbeat of Nuevo Laredo at this modern theater, and check their daytime schedule for spontaneous local rehearsals or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Expomex",
+            "hu": "Expomex",
+            "ro": "Expomex",
+            "en": "Expomex"
+          },
+          "coords": [
+            -99.484738,
+            27.481945
+          ],
+          "category": "family",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das weitläufige Gelände der regionalen Messe, um das landwirtschaftliche Erbe der Region zu würdigen, und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Sétáljon végig a regionális vásár kiterjedt területén, hogy megismerje a helyi mezőgazdasági örökséget, és viseljen kényelmes cipőt a nagy távolságok miatt.",
+            "ro": "Plimbați-vă pe terenurile extinse ale târgului regional pentru a aprecia moștenirea agricolă locală, purtând încălțăminte confortabilă pentru zona vastă.",
+            "en": "Stroll through the expansive grounds of the regional fair to appreciate local agricultural heritage, wearing comfortable walking shoes for the vast area."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoológico y Acuario de Nuevo Laredo",
+            "hu": "Zoológico y Acuario de Nuevo Laredo",
+            "ro": "Zoológico y Acuario de Nuevo Laredo",
+            "en": "Zoológico y Acuario de Nuevo Laredo"
+          },
+          "coords": [
+            -99.482903,
+            27.478523
+          ],
+          "category": "family",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kombinierten Zoo und Aquarium vielfältige Wildtiere und Meeresbewohner und planen Sie unbedingt Zeit für die interaktiven Fütterungen ein.",
+            "hu": "Fedezze fel a változatos vadvilágot és tengeri fajokat ebben a kombinált állatkertben és akváriumban, és mindenképpen hagyjon időt az interaktív etetésekre a végén.",
+            "ro": "Descoperiți diverse specii de animale sălbatice și marine la acest zoo și acvariu combinat, asigurându-vă că păstrați timp pentru expozițiile interactive de hrănire de la final.",
+            "en": "Discover diverse wildlife and marine species at this combined zoo and aquarium, ensuring you save time for the interactive feeding exhibits at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Denkmal der Stadtgründer und tauchen Sie in die Geschichte ein. Mittags lockt erfrischender Spaß im Wasserpark und ein Spaziergang zum modernen Theater. Am Nachmittag erkunden Sie das weitläufige Messegelände, das lokale Traditionen feiert. Ihr Abend endet wunderbar mit einem Besuch im Zoo, wo Sie exotische Tiere in der kühleren Abendluft beobachten können.",
+        "hu": "Kezdje a reggelt a városalapítók emlékművénél, elmerülve a helyi történelemben. A dél melegében felfrissülést hoz a nyüzsgő vízi park és a modern színház felfedezése. Délután bejárhatja a helyi hagyományokat éltető kiterjedt vásárterületet. Az estét csodálatosan zárja a városi állatkert meglátogatása, ahol az enyhülő esti levegőben figyelheti meg az egzotikus vadvilágot.",
+        "ro": "Începeți dimineața aducând omagii la monumentul fondatorilor, ancorându-vă în istoria locală. Amiaza aduce distracție răcoritoare la centrul acvatic și o plimbare până la teatrul modern. După-amiaza, explorați vastele terenuri ale târgului care celebrează tradițiile locale. Seara se încheie minunat cu o vizită la zoo, observând fauna exotică pe măsură ce ziua se răcorește.",
+        "en": "Begin your morning paying respects at the founders' monument, anchoring yourself in local history. Midday brings refreshing fun at the vibrant aquatic center and a stroll to the modern city theater. In the afternoon, explore the vast fairgrounds that celebrate local traditions. Your evening wraps up wonderfully with a visit to the city's zoo, observing exotic wildlife as the day cools down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort McIntosh",
+            "hu": "Fort McIntosh",
+            "ro": "Fort McIntosh",
+            "en": "Fort McIntosh"
+          },
+          "coords": [
+            -99.521676,
+            27.507033
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen US-Grenzfestung aus dem 19. Jahrhundert, um in die Grenzgeschichte einzutauchen, und achten Sie auf die informativen Tafeln.",
+            "hu": "Fedezze fel ennek a 19. századi történelmi amerikai határvárnak a maradványait, hogy elmerüljön a határvidék történelmében, és keresse az információs táblákat.",
+            "ro": "Explorați rămășițele acestui fort istoric de frontieră american din secolul al XIX-lea, fiind atenți la plăcile informative de-a lungul fortificațiilor de pământ.",
+            "en": "Explore the remnants of this historic 19th-century US frontier fort to dive into borderland history, keeping an eye out for informative plaques along the earthworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamar Bruni Vergara Environmental Science Center",
+            "hu": "Lamar Bruni Vergara Environmental Science Center",
+            "ro": "Lamar Bruni Vergara Environmental Science Center",
+            "en": "Lamar Bruni Vergara Environmental Science Center"
+          },
+          "coords": [
+            -99.523529,
+            27.509014
+          ],
+          "category": "family",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem interaktiven Wissenschaftszentrum die lokale Ökologie des Rio Grande kennen, was besonders spannend ist, wenn Sie das Personal um eine kurze Führung bitten.",
+            "hu": "Ismerje meg a Rio Grande helyi ökológiáját ebben az interaktív tudományos központban, ami különösen érdekes, ha rögtönzött vezetést kér a személyzettől.",
+            "ro": "Învățați despre ecologia locală a râului Rio Grande la acest centru științific interactiv, cerând personalului un scurt tur ghidat al habitatelor fluviale.",
+            "en": "Learn about local Rio Grande ecology at this interactive science center, which is especially engaging if you ask the staff for a quick guided tour of the river habitats."
+          }
+        },
+        {
+          "name": {
+            "de": "Imaginarium of South Texas",
+            "hu": "Imaginarium of South Texas",
+            "ro": "Imaginarium of South Texas",
+            "en": "Imaginarium of South Texas"
+          },
+          "coords": [
+            -99.519726,
+            27.50863
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wecken Sie Ihre Neugier in diesem Mitmachmuseum für alle Altersgruppen und verpassen Sie nicht die interaktiven Wissenschaftsausstellungen, die Physik greifbar machen.",
+            "hu": "Ébressze fel kíváncsiságát ebben a minden korosztály számára tökéletes interaktív múzeumban, és ne hagyja ki a fizika törvényeit bemutató szórakoztató kiállításokat.",
+            "ro": "Stârniți-vă curiozitatea la acest muzeu interactiv perfect pentru toate vârstele și nu ratați expozițiile științifice care fac învățarea fizicii cu adevărat distractivă.",
+            "en": "Engage your curiosity at this hands-on museum perfect for all ages, and don't miss the interactive science exhibits that make learning about physics genuinely fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Republic of the Rio Grande Museum",
+            "hu": "Republic of the Rio Grande Museum",
+            "ro": "Republic of the Rio Grande Museum",
+            "en": "Republic of the Rio Grande Museum"
+          },
+          "coords": [
+            -99.505956,
+            27.502014
+          ],
+          "category": "museum",
+          "arrive_at": "13:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Gebäude aus den 1830er Jahren, um die Geschichte der kurzlebigen Republik zu entdecken, und bringen Sie eine Kamera für die authentische Architektur mit.",
+            "hu": "Lépjen be ebbe az 1830-as évekbeli történelmi épületbe, hogy felfedezze a rövid életű Köztársaság történetét, és hozzon magával fényképezőgépet az autentikus építészet megörökítéséhez.",
+            "ro": "Pășiți în această clădire istorică din anii 1830 pentru a descoperi povestea Republicii efemere, aducând un aparat foto pentru a surprinde arhitectura de epocă.",
+            "en": "Step inside this historic 1830s building to uncover the short-lived Republic's story, bringing a camera to capture the authentic period architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Antigua Border Heritage Museum",
+            "hu": "Villa Antigua Border Heritage Museum",
+            "ro": "Villa Antigua Border Heritage Museum",
+            "en": "Villa Antigua Border Heritage Museum"
+          },
+          "coords": [
+            -99.504167,
+            27.502338
+          ],
+          "category": "museum",
+          "arrive_at": "15:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Sehen Sie sich wechselnde Ausstellungen zur landwirtschaftlichen und industriellen Entwicklung der Region an und holen Sie sich am Eingang eine kostenlose Karte für das historische Viertel.",
+            "hu": "Tekintse meg a régió mezőgazdasági és ipari fejlődését bemutató időszaki kiállításokat, és kérjen egy ingyenes térképet a bejáratnál a történelmi negyed felfedezéséhez.",
+            "ro": "Vizionați expoziții rotative care detaliază evoluția agricolă și industrială a regiunii, luând o hartă gratuită de la intrare pentru a naviga ulterior prin cartierul istoric.",
+            "en": "View rotating exhibits detailing the region's agricultural and industrial evolution, picking up a free map at the entrance to navigate the historic district afterward."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Fundadores",
+            "hu": "Monumento a Fundadores",
+            "ro": "Monumento a Fundadores",
+            "en": "Monumento a Fundadores"
+          },
+          "coords": [
+            -99.507363,
+            27.486288
+          ],
+          "category": "historical",
+          "arrive_at": "17:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem beeindruckenden Denkmal, wo der abendliche Sonnenuntergang eine dramatische Silhouette schafft, die sich perfekt als Abschluss der Reise eignet.",
+            "hu": "Fejezze be kerékpártúráját ennél a helyi büszkeséget tükröző, lenyűgöző emlékműnél, ahol az esti naplemente drámai sziluettet varázsol a nap lezárásaként.",
+            "ro": "Încheiați-vă plimbarea la acest monument impresionant care reflectă mândria locală, unde apusul serii creează o siluetă dramatică, perfectă pentru finalul călătoriei.",
+            "en": "Conclude your ride at this powerful monument reflecting local pride, where the evening sunset creates a dramatic silhouette perfect for concluding your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an einer historischen Grenzfestung aus dem 19. Jahrhundert und erkunden Sie die lokale Ökologie im Wissenschaftszentrum. Mittags entdecken Sie interaktive Ausstellungen und die Geschichte der Republik Rio Grande. Am Nachmittag bewundern Sie alte Architektur im Heimatmuseum. Beenden Sie Ihre Fahrt am Gründerdenkmal und reflektieren Sie über die Einheit der Grenzregion.",
+        "hu": "Kezdje kerékpártúráját egy 19. századi történelmi határvár felfedezésével, majd merüljön el a helyi ökológiában a tudományos központban. Délben interaktív fizikai kiállítások és a rövid életű Rio Grande-i Köztársaság története várja. Délután csodálja meg a régi építészetet az örökség múzeumban. Fejezze be útját az alapítók emlékművénél, elgondolkodva a határvidék egységén.",
+        "ro": "Începeți călătoria cu bicicleta explorând un fort istoric din secolul al XIX-lea înainte de a studia ecologia locală la centrul științific. Amiaza vă duce la expoziții interactive și la istoria Republicii Rio Grande. Pe măsură ce se lasă după-amiaza, admirați arhitectura de epocă la muzeul de patrimoniu. Încheiați-vă plimbarea la monumentul fondatorilor, reflectând la unitatea frontierei.",
+        "en": "Start your cycling journey exploring a historic 19th-century frontier fort before diving into local ecology at the science center. Midday leads you to engaging physics exhibits and a deep dive into the short-lived Republic of the Rio Grande. As the afternoon unfolds, admire vintage architecture at the heritage museum. End your ride at the founders' monument, reflecting on borderland unity."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:02",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoológico y Acuario de Nuevo Laredo",
+            "hu": "Zoológico y Acuario de Nuevo Laredo",
+            "ro": "Zoológico y Acuario de Nuevo Laredo",
+            "en": "Zoológico y Acuario de Nuevo Laredo"
+          },
+          "coords": [
+            -99.482903,
+            27.478523
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt mit der Bewunderung der Flamingos und exotischen Fische; kommen Sie früh, um die Tiere zu sehen, wenn sie am aktivsten sind.",
+            "hu": "Kezdje útját a ragyogó flamingók és egzotikus halak megcsodálásával; érkezzen korán, hogy elkerülje a tömeget, és akkor lássa az állatokat, amikor a legaktívabbak.",
+            "ro": "Începeți-vă călătoria admirând flamingii vibranți și peștii exotici, ajungând devreme pentru a evita aglomerația și a vă bucura de animale când sunt cele mai active.",
+            "en": "Start your drive by marveling at the vibrant flamingos and exotic fish, arriving early to beat the crowds and enjoy the animals when they are most active."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro De La Ciudad",
+            "hu": "Teatro De La Ciudad",
+            "ro": "Teatro De La Ciudad",
+            "en": "Teatro De La Ciudad"
+          },
+          "coords": [
+            -99.487412,
+            27.481919
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem architektonischen Juwel, das regionale Aufführungen beherbergt, und nehmen Sie sich einen Moment Zeit, um die markante moderne Fassade zu würdigen.",
+            "hu": "Álljon meg ennél a regionális előadásoknak otthont adó építészeti gyöngyszemnél, és szánjon egy percet a lenyűgöző kortárs homlokzat megcsodálására, még ha nincs is előadás.",
+            "ro": "Opriți-vă la această bijuterie arhitecturală care găzduiește spectacole regionale, luându-vă un moment pentru a aprecia fațada contemporană izbitoare, chiar dacă nu este niciun spectacol.",
+            "en": "Pause at this architectural gem hosting regional performances, taking a moment to appreciate the striking contemporary facade even if there isn't a show playing."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Fundadores",
+            "hu": "Monumento a Fundadores",
+            "ro": "Monumento a Fundadores",
+            "en": "Monumento a Fundadores"
+          },
+          "coords": [
+            -99.507363,
+            27.486288
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem Wahrzeichen vorbei, das den ersten Siedlern gewidmet ist, und nutzen Sie die nahe gelegenen Parkplätze, um die historischen Inschriften zu lesen.",
+            "hu": "Hajtson el az első telepeseknek szentelt ikonikus nevezetesség mellett, és használja a közeli utcai parkolókat, hogy kiszállva elolvassa a történelmi feliratokat.",
+            "ro": "Conduceți pe lângă acest punct de reper iconic dedicat primilor coloniști, utilizând parcarea stradală din apropiere pentru a coborî și a citi detaliile istorice înscrise.",
+            "en": "Drive by this iconic landmark dedicated to the first settlers, utilizing the nearby street parking to step out and read the inscribed historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Las Palmas Bird Sanctuary",
+            "hu": "Las Palmas Bird Sanctuary",
+            "ro": "Las Palmas Bird Sanctuary",
+            "en": "Las Palmas Bird Sanctuary"
+          },
+          "coords": [
+            -99.498309,
+            27.499825
+          ],
+          "category": "natural",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang zwischen Zugvögeln in diesem ruhigen Refugium und denken Sie an ein Fernglas sowie Mückenschutz für ein optimales Erlebnis.",
+            "hu": "Élvezze a békés sétát a vándormadarak között ebben a nyugodt menedékhelyen, és ne felejtsen el távcsövet és szúnyogriasztót hozni a kényelmes megfigyeléshez.",
+            "ro": "Bucurați-vă de o plimbare liniștită printre păsările migratoare la acest refugiu, amintindu-vă să aduceți binoclu și repelent împotriva țânțarilor pentru o vizionare confortabilă.",
+            "en": "Enjoy a peaceful walk among migratory birds at this tranquil refuge, remembering to bring binoculars and mosquito repellent for a comfortable viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Antigua Border Heritage Museum",
+            "hu": "Villa Antigua Border Heritage Museum",
+            "ro": "Villa Antigua Border Heritage Museum",
+            "en": "Villa Antigua Border Heritage Museum"
+          },
+          "coords": [
+            -99.504167,
+            27.502338
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem restaurierten historischen Haus in die komplexe kulturelle Vielfalt der Grenzregion ein und bewundern Sie die erhaltenen viktorianischen Details.",
+            "hu": "Merüljön el a határvidék összetett kulturális sokszínűségében ebben a felújított történelmi épületben, és szánjon időt az aprólékosan megőrzött viktoriánus részletek megcsodálására.",
+            "ro": "Pătrundeți în complexa tapiserie culturală a regiunii de frontieră în această casă istorică restaurată, păstrând timp pentru a admira detaliile victoriene meticulos conservate.",
+            "en": "Delve into the complex cultural tapestry of the border region in this restored historic home, saving time to admire the meticulously preserved Victorian details."
+          }
+        },
+        {
+          "name": {
+            "de": "Laredo Theater Guild",
+            "hu": "Laredo Theater Guild",
+            "ro": "Laredo Theater Guild",
+            "en": "Laredo Theater Guild"
+          },
+          "coords": [
+            -99.518312,
+            27.505951
+          ],
+          "category": "cultural",
+          "arrive_at": "16:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schauen Sie vorbei, um die Heimatbasis der lokalen Theaterszene zu würdigen, und prüfen Sie das schwarze Brett auf anstehende kulturelle Veranstaltungen.",
+            "hu": "Álljon meg, hogy megismerje a helyi előadóművészeti közösség otthonát, és nézze meg a faliújságot a közelgő helyi kulturális eseményekért.",
+            "ro": "Opriți-vă pentru a aprecia sediul comunității locale de arte spectacolului, verificând avizierul lor comunitar pentru viitoarele evenimente culturale locale.",
+            "en": "Stop by to appreciate the local performing arts community's home base, checking their community bulletin board for upcoming local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Riverbend Nature Preserve",
+            "hu": "Riverbend Nature Preserve",
+            "ro": "Riverbend Nature Preserve",
+            "en": "Riverbend Nature Preserve"
+          },
+          "coords": [
+            -99.522247,
+            27.499946
+          ],
+          "category": "natural",
+          "arrive_at": "18:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in der rauen, natürlichen Schönheit des Rio-Grande-Beckens und bleiben Sie auf den markierten Wegen, um sicher abendliche Wildtiere zu sichten.",
+            "hu": "Zárja a napot a Rio Grande medence zord természeti szépségével, és maradjon a kijelölt ösvényeken, hogy biztonságosan figyelhesse meg az esti vadvilágot.",
+            "ro": "Încheiați-vă ziua conectându-vă cu frumusețea naturală aspră a bazinului Rio Grande, rămânând pe traseele marcate pentru a observa în siguranță fauna sălbatică de seară.",
+            "en": "Conclude your day connecting with the rugged natural beauty of the Rio Grande basin, staying on the marked trails to safely spot evening wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Machen Sie sich früh auf den Weg in den Zoo, bevor Sie die beeindruckende Fassade des modernen Theaters bewundern. Mittags fahren Sie am ikonischen Gründerdenkmal vorbei und machen einen ruhigen Spaziergang durch ein Vogelschutzgebiet. Nachmittags tauchen Sie in einem restaurierten historischen Haus in die regionale Geschichte ein. Schließen Sie mit einem Naturspaziergang am mächtigen Fluss ab.",
+        "hu": "Induljon korán, hogy üdvözölje a városi állatkert vadvilágát, mielőtt a modern színház lenyűgöző homlokzatához hajtana. Délben elhalad az ikonikus alapítók emlékműve mellett, majd egy madárrezervátumban sétál. Délután elmélyedhet a regionális történelemben egy felújított történelmi házban és a színházi céhnél. Zárja a napot egy természetjáró sétával a hatalmas folyó partján.",
+        "ro": "Porniți la drum devreme pentru a saluta fauna de la zoo înainte de a admira fațada impresionantă a teatrului modern. Amiaza vă poartă pe lângă monumentul fondatorilor și printr-un refugiu liniștit de păsări. După-amiaza, aprofundați istoria regională într-o casă istorică restaurată și la breasla de teatru locală. Încheiați cu o plimbare în natură lângă fluviul măreț.",
+        "en": "Hit the road early to greet the vibrant wildlife at the city zoo before moving to the impressive facade of the modern theater. Midday takes you past the iconic founders' monument and on a tranquil stroll through a beautiful bird sanctuary. In the afternoon, delve into regional history at a restored historic home and the local theater guild. Conclude with a nature walk by the mighty river."
+      }
+    }
+  }
+}

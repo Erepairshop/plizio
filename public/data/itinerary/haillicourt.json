@@ -1,0 +1,589 @@
+{
+  "city_id": "haillicourt",
+  "anchor": {
+    "name": "Haillicourt",
+    "coords": [
+      2.5847,
+      50.4761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.565513,
+            50.48978
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle regionale Architektur dieser historischen Kirche, aber denken Sie daran, die laufenden Gottesdienste zu respektieren, indem Sie leise sprechen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos regionális építészetét, de ne felejtse el tiszteletben tartani a helyi szertartásokat azzal, hogy halkan beszél.",
+            "ro": "Admirați arhitectura regională tradițională a acestei biserici istorice, dar asigurați-vă că respectați slujbele locale în desfășurare vorbind încet în interior.",
+            "en": "Admire the traditional regional architecture of this historical church, but remember to respect ongoing local services by keeping your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Terril n°9 (2 bis de Bruay Ouest)",
+            "hu": "Terril n°9 (2 bis de Bruay Ouest)",
+            "ro": "Terril n°9 (2 bis de Bruay Ouest)",
+            "en": "Terril n°9 (2 bis de Bruay Ouest)"
+          },
+          "coords": [
+            2.580771,
+            50.48103
+          ],
+          "category": "natural",
+          "arrive_at": "10:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ikonische ehemalige Abraumhalde, um das Erbe des Kohlebergbaus hautnah zu erleben, und tragen Sie festes Schuhwerk für die steilen, unebenen Wege.",
+            "hu": "Mássza meg ezt az ikonikus egykori salakhegyet, hogy első kézből tapasztalja meg a szénbányászati örökséget, és viseljen masszív cipőt a meredek ösvényeken való biztonságos haladáshoz.",
+            "ro": "Urcați pe această haldă de steril emblematică pentru a experimenta moștenirea minieră de cărbune și purtați încălțăminte rezistentă pentru a naviga în siguranță pe traseele abrupte.",
+            "en": "Hike up this iconic former slag heap to experience the coal-mining heritage firsthand, and wear sturdy shoes to safely navigate the steep, uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Haillicourt Town Hall",
+            "hu": "Haillicourt Town Hall",
+            "ro": "Haillicourt Town Hall",
+            "en": "Haillicourt Town Hall"
+          },
+          "coords": [
+            2.584272,
+            50.474656
+          ],
+          "category": "civic",
+          "arrive_at": "11:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bürgerliche Herz der Stadt an diesem zentralen Gebäude und nutzen Sie die nahe gelegenen Bänke, um sich kurz vor der Fortsetzung Ihrer Tour auszuruhen.",
+            "hu": "Figyelje meg a város polgári központját ennél a központi épületnél, és használja a közeli padokat egy rövid pihenésre, mielőtt folytatná a helyi túrát.",
+            "ro": "Observați inima civică a orașului oprindu-vă la această clădire centrală și folosiți băncile din apropiere pentru a vă relaxa scurt înainte de a continua turul local.",
+            "en": "Observe the civic heart of the town by stopping at this central building, and use the nearby benches to relax briefly before continuing your local tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maurice",
+            "hu": "Église Saint-Maurice",
+            "ro": "Église Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            2.588085,
+            50.466696
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Buntglasfenster dieser ruhigen Pfarrkirche zu bewundern, und besuchen Sie sie am Vormittag für das beste natürliche Licht.",
+            "hu": "Szánjon egy pillanatot ennek a csendes plébániatemplomnak az ólomüveg ablakainak megcsodálására, és látogasson el a délelőtti órákban a legszebb természetes megvilágításért.",
+            "ro": "Luați-vă un moment pentru a aprecia vitraliile acestei biserici parohiale liniștite și vizitați-o în orele dimineții pentru cea mai impresionantă iluminare naturală.",
+            "en": "Take a moment to appreciate the stained glass windows of this quiet parish church, and visit during morning hours for the most striking natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lampisterie Cultural Space",
+            "hu": "La Lampisterie Cultural Space",
+            "ro": "La Lampisterie Cultural Space",
+            "en": "La Lampisterie Cultural Space"
+          },
+          "coords": [
+            2.565033,
+            50.465896
+          ],
+          "category": "cultural",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturraum, der einst Bergleuten diente, in die reiche industrielle Vergangenheit der Region ein und informieren Sie sich vorab über Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag ipari múltjában ebben a kulturális térben, amely egykor a bányászokat szolgálta, és előzetesen ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii la acest spațiu cultural care odinioară deservea minerii, verificând în prealabil programul pentru expoziții speciale.",
+            "en": "Dive into the region's rich industrial past at this cultural space that once served miners, checking the schedule beforehand for special exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plate-forme panoramique",
+            "hu": "Plate-forme panoramique",
+            "ro": "Plate-forme panoramique",
+            "en": "Plate-forme panoramique"
+          },
+          "coords": [
+            2.570162,
+            50.460752
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform aus einen weiten Blick über das verwandelte Bergbaubecken und bringen Sie eine Windjacke mit, da es oben recht windig sein kann.",
+            "hu": "Élvezze az átalakult bányamedencére nyíló panorámát erről a magaslati kilátóról, és hozzon magával széldzsekit, mivel a tetőn meglehetősen szeles lehet az idő.",
+            "ro": "Bucurați-vă de vederi panoramice asupra bazinului minier transformat de pe această platformă ridicată, aducând o jachetă de vânt deoarece în vârf poate fi destul de răcoare.",
+            "en": "Enjoy sweeping views over the transformed mining basin from this elevated platform, bringing a windbreaker as the top can get quite breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des religiösen Erbes von Haillicourt und besuchen Sie die historischen Kirchen, die die Gemeinde seit Generationen prägen. Die friedliche Atmosphäre bietet ideale Bedingungen für stille Reflexion.\nGegen Mittag verlagert sich der Fokus auf die natürlichen und bürgerlichen Denkmäler, insbesondere die imposanten Abraumhalden. Diese transformierten Hügel erinnern eindrucksvoll an die industrielle Vergangenheit und die heutige Naturrückgewinnung.\nTauchen Sie am Nachmittag tiefer in den kulturellen Wandel des Kohlebeckens ein. Restaurierte Bergbauanlagen dienen heute als lebendige Zentren, die es Ihnen ermöglichen, den harten Alltag der ehemaligen Bergleute nachzuvollziehen.\nBeenden Sie Ihren Tag mit einem herrlichen Panoramablick über die Region. Zu beobachten, wie die Sonne lange Schatten über die ergrünte Industrielandschaft wirft, rundet Ihre Reise durch Nordfrankreich perfekt ab.",
+        "hu": "Kezdje a reggelt Haillicourt vallási örökségének felfedezésével, meglátogatva a történelmi templomokat, amelyek generációk óta a közösség alappillérei. A békés reggeli légkör tökéletes feltételeket biztosít a csendes elmélkedéshez.\nA dél közeledtével fókuszáljon a természeti és polgári műemlékekre, különösen az impozáns meddőhányókra. Ezek az átalakult dombok a terület intenzív ipari múltjára és a jelenlegi természetes visszanyerésre emlékeztetnek.\nDélután merüljön el mélyebben a szénmedence kulturális átalakulásában. A felújított bányászati létesítmények ma nyüzsgő központokként működnek, lehetővé téve, hogy nyomon kövesse az egykori bányászok mindennapjait.\nZárja a napot a régióra nyíló, magaslati panorámával. Ahogy a nap hosszú árnyékokat vet a kizöldült ipari tájra, az tökéletesen megkoronázza észak-franciaországi utazását.",
+        "ro": "Începeți dimineața explorând moștenirea religioasă rezistentă din Haillicourt, vizitând bisericile istorice care au ancorat comunitatea de generații. Atmosfera matinală pașnică oferă condiții perfecte pentru reflecție liniștită.\nOdată cu apropierea prânzului, îndreptați-vă atenția către monumentele naturale și civice, în special haldele impunătoare. Aceste dealuri transformate servesc drept o amintire puternică a trecutului industrial intens și a recuperării naturale.\nDupă-amiaza, scufundați-vă mai adânc în transformarea culturală a bazinului carbonifer. Facilitățile miniere restaurate servesc acum ca centre vibrante, permițându-vă să urmăriți viața de zi cu zi a foștilor mineri.\nÎncheiați ziua admirând priveliștile panoramice ridicate asupra regiunii. Vizionarea soarelui care aruncă umbre lungi peste peisajul industrial înverzit completează perfect călătoria dumneavoastră prin nordul Franței.",
+        "en": "Begin your morning exploring the resilient religious heritage of Haillicourt, visiting the historic local churches that have anchored the community for generations. The peaceful morning atmosphere offers perfect conditions for quiet reflection.\nAs midday approaches, shift your focus to the natural and civic monuments, especially the imposing terrils. These transformed slag heaps serve as a stark reminder of the area's intense industrial past and present natural reclamation.\nIn the afternoon, immerse yourself deeper into the cultural transformation of the coal basin. Restored mining facilities now serve as vibrant hubs, allowing you to trace the daily lives and hardships of former mineworkers.\nConclude your day by taking in elevated panoramic views over the region. Watching the sun cast long shadows across the greened industrial landscape perfectly caps off your journey through the heart of northern France."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Barbe",
+            "hu": "Chapelle Sainte-Barbe",
+            "ro": "Chapelle Sainte-Barbe",
+            "en": "Chapelle Sainte-Barbe"
+          },
+          "coords": [
+            2.547563,
+            50.482566
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante religiöse Stätte, die der Schutzpatronin der Bergleute gewidmet ist, und achten Sie auf kleine Blumengaben der Anwohner.",
+            "hu": "Fedezze fel ezt a bányászok védőszentjének szentelt bájos vallási helyszínt, és figyelje meg a helyi lakosok által hátrahagyott apró virágajándékokat.",
+            "ro": "Descoperiți acest loc religios fermecător dedicat sfântului patron al minerilor, fiind atenți la micile omagii florale lăsate de rezidenții locali.",
+            "en": "Discover this charming religious site dedicated to the patron saint of miners, keeping an eye out for small floral tributes left by the local residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.565513,
+            50.48978
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle regionale Architektur dieser historischen Kirche, aber denken Sie daran, die laufenden Gottesdienste zu respektieren, indem Sie leise sprechen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos regionális építészetét, de ne felejtse el tiszteletben tartani a helyi szertartásokat azzal, hogy halkan beszél.",
+            "ro": "Admirați arhitectura regională tradițională a acestei biserici istorice, dar asigurați-vă că respectați slujbele locale în desfășurare vorbind încet în interior.",
+            "en": "Admire the traditional regional architecture of this historical church, but remember to respect ongoing local services by keeping your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Denis",
+            "hu": "Église Saint-Denis",
+            "ro": "Église Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            2.595866,
+            50.499924
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses friedliche Heiligtum ein, um seinen bescheidenen, aber eleganten Altar zu betrachten, und treten Sie leise auf, da die Holzböden ziemlich knarren können.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megtekintse szerény, mégis elegáns oltárát, és lépkedjen halkan, mivel a fapadló meglehetősen nyikoroghat a csendes térben.",
+            "ro": "Pășiți în acest sanctuar pașnic pentru a vedea altarul său modest, dar elegant, și călcați încet, deoarece podele din lemn pot scârțâi destul de mult în spațiul liniștit.",
+            "en": "Step inside this peaceful sanctuary to view its modest yet elegant altar, and tread softly as the wooden floors can be quite creaky in the quiet space."
+          }
+        },
+        {
+          "name": {
+            "de": "Terril n°9 (2 bis de Bruay Ouest)",
+            "hu": "Terril n°9 (2 bis de Bruay Ouest)",
+            "ro": "Terril n°9 (2 bis de Bruay Ouest)",
+            "en": "Terril n°9 (2 bis de Bruay Ouest)"
+          },
+          "coords": [
+            2.580771,
+            50.48103
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ikonische ehemalige Abraumhalde, um das Erbe des Kohlebergbaus hautnah zu erleben, und tragen Sie festes Schuhwerk für die steilen, unebenen Wege.",
+            "hu": "Mássza meg ezt az ikonikus egykori salakhegyet, hogy első kézből tapasztalja meg a szénbányászati örökséget, és viseljen masszív cipőt a meredek ösvényeken való biztonságos haladáshoz.",
+            "ro": "Urcați pe această haldă de steril emblematică pentru a experimenta moștenirea minieră de cărbune și purtați încălțăminte rezistentă pentru a naviga în siguranță pe traseele abrupte.",
+            "en": "Hike up this iconic former slag heap to experience the coal-mining heritage firsthand, and wear sturdy shoes to safely navigate the steep, uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Haillicourt Town Hall",
+            "hu": "Haillicourt Town Hall",
+            "ro": "Haillicourt Town Hall",
+            "en": "Haillicourt Town Hall"
+          },
+          "coords": [
+            2.584272,
+            50.474656
+          ],
+          "category": "civic",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bürgerliche Herz der Stadt an diesem zentralen Gebäude und nutzen Sie die nahe gelegenen Bänke, um sich kurz vor der Fortsetzung Ihrer Tour auszuruhen.",
+            "hu": "Figyelje meg a város polgári központját ennél a központi épületnél, és használja a közeli padokat egy rövid pihenésre, mielőtt folytatná a helyi túrát.",
+            "ro": "Observați inima civică a orașului oprindu-vă la această clădire centrală și folosiți băncile din apropiere pentru a vă relaxa scurt înainte de a continua turul local.",
+            "en": "Observe the civic heart of the town by stopping at this central building, and use the nearby benches to relax briefly before continuing your local tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maurice",
+            "hu": "Église Saint-Maurice",
+            "ro": "Église Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            2.588085,
+            50.466696
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Buntglasfenster dieser ruhigen Pfarrkirche zu bewundern, und besuchen Sie sie am Vormittag für das beste natürliche Licht.",
+            "hu": "Szánjon egy pillanatot ennek a csendes plébániatemplomnak az ólomüveg ablakainak megcsodálására, és látogasson el a délelőtti órákban a legszebb természetes megvilágításért.",
+            "ro": "Luați-vă un moment pentru a aprecia vitraliile acestei biserici parohiale liniștite și vizitați-o în orele dimineții pentru cea mai impresionantă iluminare naturală.",
+            "en": "Take a moment to appreciate the stained glass windows of this quiet parish church, and visit during morning hours for the most striking natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lampisterie Cultural Space",
+            "hu": "La Lampisterie Cultural Space",
+            "ro": "La Lampisterie Cultural Space",
+            "en": "La Lampisterie Cultural Space"
+          },
+          "coords": [
+            2.565033,
+            50.465896
+          ],
+          "category": "cultural",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturraum, der einst Bergleuten diente, in die reiche industrielle Vergangenheit der Region ein und informieren Sie sich vorab über Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag ipari múltjában ebben a kulturális térben, amely egykor a bányászokat szolgálta, és előzetesen ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii la acest spațiu cultural care odinioară deservea minerii, verificând în prealabil programul pentru expoziții speciale.",
+            "en": "Dive into the region's rich industrial past at this cultural space that once served miners, checking the schedule beforehand for special exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plate-forme panoramique",
+            "hu": "Plate-forme panoramique",
+            "ro": "Plate-forme panoramique",
+            "en": "Plate-forme panoramique"
+          },
+          "coords": [
+            2.570162,
+            50.460752
+          ],
+          "category": "natural",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform aus einen weiten Blick über das verwandelte Bergbaubecken und bringen Sie eine Windjacke mit, da es oben recht windig sein kann.",
+            "hu": "Élvezze az átalakult bányamedencére nyíló panorámát erről a magaslati kilátóról, és hozzon magával széldzsekit, mivel a tetőn meglehetősen szeles lehet az idő.",
+            "ro": "Bucurați-vă de vederi panoramice asupra bazinului minier transformat de pe această platformă ridicată, aducând o jachetă de vânt deoarece în vârf poate fi destul de răcoare.",
+            "en": "Enjoy sweeping views over the transformed mining basin from this elevated platform, bringing a windbreaker as the top can get quite breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des religiösen Erbes von Haillicourt und besuchen Sie die historischen Kirchen, die die Gemeinde seit Generationen prägen. Die friedliche Atmosphäre bietet ideale Bedingungen für stille Reflexion.\nGegen Mittag verlagert sich der Fokus auf die natürlichen und bürgerlichen Denkmäler, insbesondere die imposanten Abraumhalden. Diese transformierten Hügel erinnern eindrucksvoll an die industrielle Vergangenheit und die heutige Naturrückgewinnung.\nTauchen Sie am Nachmittag tiefer in den kulturellen Wandel des Kohlebeckens ein. Restaurierte Bergbauanlagen dienen heute als lebendige Zentren, die es Ihnen ermöglichen, den harten Alltag der ehemaligen Bergleute nachzuvollziehen.\nBeenden Sie Ihren Tag mit einem herrlichen Panoramablick über die Region. Zu beobachten, wie die Sonne lange Schatten über die ergrünte Industrielandschaft wirft, rundet Ihre Reise durch Nordfrankreich perfekt ab.",
+        "hu": "Kezdje a reggelt Haillicourt vallási örökségének felfedezésével, meglátogatva a történelmi templomokat, amelyek generációk óta a közösség alappillérei. A békés reggeli légkör tökéletes feltételeket biztosít a csendes elmélkedéshez.\nA dél közeledtével fókuszáljon a természeti és polgári műemlékekre, különösen az impozáns meddőhányókra. Ezek az átalakult dombok a terület intenzív ipari múltjára és a jelenlegi természetes visszanyerésre emlékeztetnek.\nDélután merüljön el mélyebben a szénmedence kulturális átalakulásában. A felújított bányászati létesítmények ma nyüzsgő központokként működnek, lehetővé téve, hogy nyomon kövesse az egykori bányászok mindennapjait.\nZárja a napot a régióra nyíló, magaslati panorámával. Ahogy a nap hosszú árnyékokat vet a kizöldült ipari tájra, az tökéletesen megkoronázza észak-franciaországi utazását.",
+        "ro": "Începeți dimineața explorând moștenirea religioasă rezistentă din Haillicourt, vizitând bisericile istorice care au ancorat comunitatea de generații. Atmosfera matinală pașnică oferă condiții perfecte pentru reflecție liniștită.\nOdată cu apropierea prânzului, îndreptați-vă atenția către monumentele naturale și civice, în special haldele impunătoare. Aceste dealuri transformate servesc drept o amintire puternică a trecutului industrial intens și a recuperării naturale.\nDupă-amiaza, scufundați-vă mai adânc în transformarea culturală a bazinului carbonifer. Facilitățile miniere restaurate servesc acum ca centre vibrante, permițându-vă să urmăriți viața de zi cu zi a foștilor mineri.\nÎncheiați ziua admirând priveliștile panoramice ridicate asupra regiunii. Vizionarea soarelui care aruncă umbre lungi peste peisajul industrial înverzit completează perfect călătoria dumneavoastră prin nordul Franței.",
+        "en": "Begin your morning exploring the resilient religious heritage of Haillicourt, visiting the historic local churches that have anchored the community for generations. The peaceful morning atmosphere offers perfect conditions for quiet reflection.\nAs midday approaches, shift your focus to the natural and civic monuments, especially the imposing terrils. These transformed slag heaps serve as a stark reminder of the area's intense industrial past and present natural reclamation.\nIn the afternoon, immerse yourself deeper into the cultural transformation of the coal basin. Restored mining facilities now serve as vibrant hubs, allowing you to trace the daily lives and hardships of former mineworkers.\nConclude your day by taking in elevated panoramic views over the region. Watching the sun cast long shadows across the greened industrial landscape perfectly caps off your journey through the heart of northern France."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 11.8,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Denis",
+            "hu": "Église Saint-Denis",
+            "ro": "Église Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            2.595866,
+            50.499924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses friedliche Heiligtum ein, um seinen bescheidenen, aber eleganten Altar zu betrachten, und treten Sie leise auf, da die Holzböden ziemlich knarren können.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megtekintse szerény, mégis elegáns oltárát, és lépkedjen halkan, mivel a fapadló meglehetősen nyikoroghat a csendes térben.",
+            "ro": "Pășiți în acest sanctuar pașnic pentru a vedea altarul său modest, dar elegant, și călcați încet, deoarece podele din lemn pot scârțâi destul de mult în spațiul liniștit.",
+            "en": "Step inside this peaceful sanctuary to view its modest yet elegant altar, and tread softly as the wooden floors can be quite creaky in the quiet space."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Barbe",
+            "hu": "Chapelle Sainte-Barbe",
+            "ro": "Chapelle Sainte-Barbe",
+            "en": "Chapelle Sainte-Barbe"
+          },
+          "coords": [
+            2.547563,
+            50.482566
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante religiöse Stätte, die der Schutzpatronin der Bergleute gewidmet ist, und achten Sie auf kleine Blumengaben der Anwohner.",
+            "hu": "Fedezze fel ezt a bányászok védőszentjének szentelt bájos vallási helyszínt, és figyelje meg a helyi lakosok által hátrahagyott apró virágajándékokat.",
+            "ro": "Descoperiți acest loc religios fermecător dedicat sfântului patron al minerilor, fiind atenți la micile omagii florale lăsate de rezidenții locali.",
+            "en": "Discover this charming religious site dedicated to the patron saint of miners, keeping an eye out for small floral tributes left by the local residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.565513,
+            50.48978
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle regionale Architektur dieser historischen Kirche, aber denken Sie daran, die laufenden Gottesdienste zu respektieren, indem Sie leise sprechen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a hagyományos regionális építészetét, de ne felejtse el tiszteletben tartani a helyi szertartásokat azzal, hogy halkan beszél.",
+            "ro": "Admirați arhitectura regională tradițională a acestei biserici istorice, dar asigurați-vă că respectați slujbele locale în desfășurare vorbind încet în interior.",
+            "en": "Admire the traditional regional architecture of this historical church, but remember to respect ongoing local services by keeping your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Terril n°9 (2 bis de Bruay Ouest)",
+            "hu": "Terril n°9 (2 bis de Bruay Ouest)",
+            "ro": "Terril n°9 (2 bis de Bruay Ouest)",
+            "en": "Terril n°9 (2 bis de Bruay Ouest)"
+          },
+          "coords": [
+            2.580771,
+            50.48103
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ikonische ehemalige Abraumhalde, um das Erbe des Kohlebergbaus hautnah zu erleben, und tragen Sie festes Schuhwerk für die steilen, unebenen Wege.",
+            "hu": "Mássza meg ezt az ikonikus egykori salakhegyet, hogy első kézből tapasztalja meg a szénbányászati örökséget, és viseljen masszív cipőt a meredek ösvényeken való biztonságos haladáshoz.",
+            "ro": "Urcați pe această haldă de steril emblematică pentru a experimenta moștenirea minieră de cărbune și purtați încălțăminte rezistentă pentru a naviga în siguranță pe traseele abrupte.",
+            "en": "Hike up this iconic former slag heap to experience the coal-mining heritage firsthand, and wear sturdy shoes to safely navigate the steep, uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Haillicourt Town Hall",
+            "hu": "Haillicourt Town Hall",
+            "ro": "Haillicourt Town Hall",
+            "en": "Haillicourt Town Hall"
+          },
+          "coords": [
+            2.584272,
+            50.474656
+          ],
+          "category": "civic",
+          "arrive_at": "12:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bürgerliche Herz der Stadt an diesem zentralen Gebäude und nutzen Sie die nahe gelegenen Bänke, um sich kurz vor der Fortsetzung Ihrer Tour auszuruhen.",
+            "hu": "Figyelje meg a város polgári központját ennél a központi épületnél, és használja a közeli padokat egy rövid pihenésre, mielőtt folytatná a helyi túrát.",
+            "ro": "Observați inima civică a orașului oprindu-vă la această clădire centrală și folosiți băncile din apropiere pentru a vă relaxa scurt înainte de a continua turul local.",
+            "en": "Observe the civic heart of the town by stopping at this central building, and use the nearby benches to relax briefly before continuing your local tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maurice",
+            "hu": "Église Saint-Maurice",
+            "ro": "Église Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            2.588085,
+            50.466696
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die Buntglasfenster dieser ruhigen Pfarrkirche zu bewundern, und besuchen Sie sie am Vormittag für das beste natürliche Licht.",
+            "hu": "Szánjon egy pillanatot ennek a csendes plébániatemplomnak az ólomüveg ablakainak megcsodálására, és látogasson el a délelőtti órákban a legszebb természetes megvilágításért.",
+            "ro": "Luați-vă un moment pentru a aprecia vitraliile acestei biserici parohiale liniștite și vizitați-o în orele dimineții pentru cea mai impresionantă iluminare naturală.",
+            "en": "Take a moment to appreciate the stained glass windows of this quiet parish church, and visit during morning hours for the most striking natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Église Saint-Joseph",
+            "ro": "Église Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            2.559395,
+            50.469586
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese wunderschöne Nachbarschaftskirche, die die lokale Gemeinde verankert, und stellen Sie sicher, dass Sie außerhalb der Messezeiten ankommen, um frei umherzuwandern.",
+            "hu": "Fedezze fel ezt a gyönyörű környékbeli templomot, amely a helyi közösség horgonya, és ügyeljen arra, hogy a misék idején kívül érkezzen, hogy szabadon sétálhasson a sorok között.",
+            "ro": "Explorați această frumoasă biserică de cartier care ancorează comunitatea locală, asigurându-vă că ajungeți în afara orelor de slujbă pentru a vă plimba liber pe culoare.",
+            "en": "Explore this beautiful neighborhood church that anchors the local community, ensuring you arrive outside of mass times to freely wander the aisles."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lampisterie Cultural Space",
+            "hu": "La Lampisterie Cultural Space",
+            "ro": "La Lampisterie Cultural Space",
+            "en": "La Lampisterie Cultural Space"
+          },
+          "coords": [
+            2.565033,
+            50.465896
+          ],
+          "category": "cultural",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturraum, der einst Bergleuten diente, in die reiche industrielle Vergangenheit der Region ein und informieren Sie sich vorab über Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag ipari múltjában ebben a kulturális térben, amely egykor a bányászokat szolgálta, és előzetesen ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii la acest spațiu cultural care odinioară deservea minerii, verificând în prealabil programul pentru expoziții speciale.",
+            "en": "Dive into the region's rich industrial past at this cultural space that once served miners, checking the schedule beforehand for special exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plate-forme panoramique",
+            "hu": "Plate-forme panoramique",
+            "ro": "Plate-forme panoramique",
+            "en": "Plate-forme panoramique"
+          },
+          "coords": [
+            2.570162,
+            50.460752
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform aus einen weiten Blick über das verwandelte Bergbaubecken und bringen Sie eine Windjacke mit, da es oben recht windig sein kann.",
+            "hu": "Élvezze az átalakult bányamedencére nyíló panorámát erről a magaslati kilátóról, és hozzon magával széldzsekit, mivel a tetőn meglehetősen szeles lehet az idő.",
+            "ro": "Bucurați-vă de vederi panoramice asupra bazinului minier transformat de pe această platformă ridicată, aducând o jachetă de vânt deoarece în vârf poate fi destul de răcoare.",
+            "en": "Enjoy sweeping views over the transformed mining basin from this elevated platform, bringing a windbreaker as the top can get quite breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des religiösen Erbes von Haillicourt und besuchen Sie die historischen Kirchen, die die Gemeinde seit Generationen prägen. Die friedliche Atmosphäre bietet ideale Bedingungen für stille Reflexion.\nGegen Mittag verlagert sich der Fokus auf die natürlichen und bürgerlichen Denkmäler, insbesondere die imposanten Abraumhalden. Diese transformierten Hügel erinnern eindrucksvoll an die industrielle Vergangenheit und die heutige Naturrückgewinnung.\nTauchen Sie am Nachmittag tiefer in den kulturellen Wandel des Kohlebeckens ein. Restaurierte Bergbauanlagen dienen heute als lebendige Zentren, die es Ihnen ermöglichen, den harten Alltag der ehemaligen Bergleute nachzuvollziehen.\nBeenden Sie Ihren Tag mit einem herrlichen Panoramablick über die Region. Zu beobachten, wie die Sonne lange Schatten über die ergrünte Industrielandschaft wirft, rundet Ihre Reise durch Nordfrankreich perfekt ab.",
+        "hu": "Kezdje a reggelt Haillicourt vallási örökségének felfedezésével, meglátogatva a történelmi templomokat, amelyek generációk óta a közösség alappillérei. A békés reggeli légkör tökéletes feltételeket biztosít a csendes elmélkedéshez.\nA dél közeledtével fókuszáljon a természeti és polgári műemlékekre, különösen az impozáns meddőhányókra. Ezek az átalakult dombok a terület intenzív ipari múltjára és a jelenlegi természetes visszanyerésre emlékeztetnek.\nDélután merüljön el mélyebben a szénmedence kulturális átalakulásában. A felújított bányászati létesítmények ma nyüzsgő központokként működnek, lehetővé téve, hogy nyomon kövesse az egykori bányászok mindennapjait.\nZárja a napot a régióra nyíló, magaslati panorámával. Ahogy a nap hosszú árnyékokat vet a kizöldült ipari tájra, az tökéletesen megkoronázza észak-franciaországi utazását.",
+        "ro": "Începeți dimineața explorând moștenirea religioasă rezistentă din Haillicourt, vizitând bisericile istorice care au ancorat comunitatea de generații. Atmosfera matinală pașnică oferă condiții perfecte pentru reflecție liniștită.\nOdată cu apropierea prânzului, îndreptați-vă atenția către monumentele naturale și civice, în special haldele impunătoare. Aceste dealuri transformate servesc drept o amintire puternică a trecutului industrial intens și a recuperării naturale.\nDupă-amiaza, scufundați-vă mai adânc în transformarea culturală a bazinului carbonifer. Facilitățile miniere restaurate servesc acum ca centre vibrante, permițându-vă să urmăriți viața de zi cu zi a foștilor mineri.\nÎncheiați ziua admirând priveliștile panoramice ridicate asupra regiunii. Vizionarea soarelui care aruncă umbre lungi peste peisajul industrial înverzit completează perfect călătoria dumneavoastră prin nordul Franței.",
+        "en": "Begin your morning exploring the resilient religious heritage of Haillicourt, visiting the historic local churches that have anchored the community for generations. The peaceful morning atmosphere offers perfect conditions for quiet reflection.\nAs midday approaches, shift your focus to the natural and civic monuments, especially the imposing terrils. These transformed slag heaps serve as a stark reminder of the area's intense industrial past and present natural reclamation.\nIn the afternoon, immerse yourself deeper into the cultural transformation of the coal basin. Restored mining facilities now serve as vibrant hubs, allowing you to trace the daily lives and hardships of former mineworkers.\nConclude your day by taking in elevated panoramic views over the region. Watching the sun cast long shadows across the greened industrial landscape perfectly caps off your journey through the heart of northern France."
+      }
+    }
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "city_id": "phitsanulok-cities-v2",
+  "anchor": {
+    "name": "Phitsanulok",
+    "coords": [
+      100.259,
+      16.822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 1.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Phra Si Rattana Mahathat",
+            "hu": "Wat Phra Si Rattana Mahathat",
+            "ro": "Wat Phra Si Rattana Mahathat",
+            "en": "Wat Phra Si Rattana Mahathat"
+          },
+          "coords": [
+            100.261858,
+            16.823574
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung einer der schönsten Buddha-Statuen Thailands und achten Sie auf angemessene Kleidung für diesen verehrten Tempel.",
+            "hu": "Kezdje a napot Thaiföld egyik legszebb Buddha-szobrának megcsodálásával, és ügyeljen a visszafogott öltözködésre ebben a nagy tiszteletben álló templomban.",
+            "ro": "Începeți ziua admirând una dintre cele mai frumoase statui ale lui Buddha din Thailanda, asigurându-vă că purtați haine decente în acest templu venerat.",
+            "en": "Start your day by admiring one of Thailand's most beautiful Buddha images, ensuring you dress modestly to enter this highly revered temple complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Buddha",
+            "hu": "Történelmi Buddha",
+            "ro": "Buddha Istoric",
+            "en": "Historical Buddha"
+          },
+          "coords": [
+            100.262821,
+            16.823722
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die feinen Details dieser historischen Statue zu würdigen, die im sanften Morgenlicht am besten zur Geltung kommt.",
+            "hu": "Szánjon egy percet e történelmi szobor lenyűgöző részleteinek megfigyelésére, amely a lágy reggeli fényben mutatja a legszebb arcát.",
+            "ro": "Faceți-vă timp pentru a aprecia detaliile complicate ale acestei statui istorice, care este cel mai bine fotografiată în lumina blândă a dimineții.",
+            "en": "Take a moment to appreciate the intricate details of this historical statue, which is best photographed in the soft morning light filtering through the halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nang Phaya",
+            "hu": "Wat Nang Phaya",
+            "ro": "Wat Nang Phaya",
+            "en": "Wat Nang Phaya"
+          },
+          "coords": [
+            100.261929,
+            16.8224
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieser ruhigere Tempel ist berühmt für seine heiligen Amulette und bietet eine friedliche Atmosphäre, um traditionelle Opfergaben der Einheimischen zu beobachten.",
+            "hu": "A szent amulettjeiről híres, csendesebb templom békés légkört kínál, ahol megfigyelheti a helyiek hagyományos adományozási rituáléit.",
+            "ro": "Faimos pentru amuletele sale sacre, acest templu mai liniștit oferă o atmosferă senină unde puteți observa localnicii făcând ofrande tradiționale.",
+            "en": "Famous for its sacred amulets, this slightly quieter temple offers a serene atmosphere where you can observe locals making traditional merit offerings."
+          }
+        },
+        {
+          "name": {
+            "de": "Phitsanulok City Pillar Shrine",
+            "hu": "Phitsanulok Városi Oszlopszentély",
+            "ro": "Altarul Pilonului Orașului Phitsanulok",
+            "en": "Phitsanulok City Pillar Shrine"
+          },
+          "coords": [
+            100.259803,
+            16.824354
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie am spirituellen Anker der Stadt an, der leicht an seinen bunten Girlanden zu erkennen ist, und tauchen Sie in den lebendigen lokalen Glauben ein.",
+            "hu": "Álljon meg a város spirituális központjánál, amely könnyen felismerhető színes virágfüzéreiről, és merüljön el a helyi vallási szokásokban.",
+            "ro": "Opriți-vă la ancora spirituală a orașului, ușor de recunoscut după ghirlandele sale colorate, și bucurați-vă de practicile vibrante de credință locală.",
+            "en": "Stop by the city's spiritual anchor, easily recognizable by its colorful garlands, and take a quick moment to soak in the vibrant local faith practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Pho Thong",
+            "hu": "Wat Pho Thong",
+            "ro": "Wat Pho Thong",
+            "en": "Wat Pho Thong"
+          },
+          "coords": [
+            100.259453,
+            16.827845
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ruinen dieses historischen Tempels, aber seien Sie vorsichtig auf den unebenen alten Steinen, die Jahrhunderte der Geschichte atmen.",
+            "hu": "Fedezze fel a történelmi templom békés romjait, de ügyeljen a lépteire az egyenetlen, ősi köveken, amelyek az évszázadok történelmét őrzik.",
+            "ro": "Explorați ruinele liniștite ale acestui templu istoric, având grijă când pășiți pe pietrele antice denivelate care poartă secole de istorie.",
+            "en": "Explore the tranquil ruins of this historical temple, taking care when walking on the uneven ancient stones that still echo with centuries of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Wihan Thong",
+            "hu": "Wat Wihan Thong",
+            "ro": "Wat Wihan Thong",
+            "en": "Wat Wihan Thong"
+          },
+          "coords": [
+            100.260975,
+            16.82765
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Stupa-Basis an dieser Stätte, wo die frühen Nachmittagsschatten hervorragende Kontraste für Fotografie-Enthusiasten bieten.",
+            "hu": "Fedezze fel a lenyűgöző sztúpa alapját ezen a helyszínen, ahol a kora délutáni árnyékok kiváló kontrasztot biztosítanak a fotózás szerelmeseinek.",
+            "ro": "Descoperiți baza impresionantă a stupelei în acest sit, unde umbrele după-amiezii devreme oferă un contrast excelent pentru pasionații de fotografie.",
+            "en": "Discover the impressive stupa base at this site, where early afternoon shadows provide excellent contrast for photography enthusiasts seeking historic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Chan Royal Palace Historical Centre",
+            "hu": "Chan Királyi Palota Történeti Központ",
+            "ro": "Centrul Istoric al Palatului Regal Chan",
+            "en": "Chan Royal Palace Historical Centre"
+          },
+          "coords": [
+            100.261771,
+            16.8286
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die königliche Geschichte ein mit klimatisierten Ausstellungen, die perfekt sind, um der Nachmittagshitze zu entkommen und etwas über König Naresuan zu lernen.",
+            "hu": "Merüljön el a királyi történelemben a légkondicionált kiállításokon, amelyek tökéletes menedéket nyújtanak a délutáni hőség elől, miközben Naresuan királyról tanul.",
+            "ro": "Pătrundeți în istoria regală cu exponate cu aer condiționat, perfecte pentru a scăpa de căldura după-amiezii în timp ce învățați despre regele Naresuan.",
+            "en": "Dive into the royal history with air-conditioned exhibits that are perfect for escaping the afternoon heat while learning about King Naresuan's legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Chan Palace",
+            "hu": "Chan Palota",
+            "ro": "Palatul Chan",
+            "en": "Chan Palace"
+          },
+          "coords": [
+            100.261557,
+            16.830306
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die kürzlich ausgegrabenen königlichen Fundamente, wenn die tiefer stehende Sonne dem alten Mauerwerk einen goldenen Farbton verleiht.",
+            "hu": "Sétáljon végig a nemrégiben feltárt királyi alapok között, amikor a lemenő nap aranyos árnyalatba öltözteti a jelentős helyszín ősi téglafalait.",
+            "ro": "Plimbați-vă printre fundațiile regale recent excavate, pe măsură ce soarele care apune aduce o nuanță aurie zidăriei antice a acestui sit semnificativ.",
+            "en": "Wander through the recently excavated royal foundations as the sun begins to lower, bringing a golden hue to the ancient brickwork of this significant site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im spirituellen Herzen von Phitsanulok und erkunden die beeindruckenden zentralen Tempel und verehrten Buddha-Statuen.\n\nGegen Mittag bewegen wir uns in Richtung der historischen und königlichen Viertel, um tief in das antike Erbe der Region einzutauchen.\n\nDer Nachmittag ist der königlichen Linie des Chan-Palastes gewidmet, wo archäologische Funde das Bild prägen.\n\nWir beenden unseren Spaziergang in der Nähe des historischen Palastgeländes und reflektieren über einen Tag voller Geschichte.",
+        "hu": "Gyalogtúránkat Phitsanulok spirituális szívében kezdjük, felfedezve a csodálatos központi templomokat és a tisztelt Buddha-szobrokat.\n\nDél körül a történelmi és királyi negyedek felé vesszük az irányt, elmélyülve a régió gazdag, ősi örökségében.\n\nA délutánt a Chan Palota királyi vonalának szenteljük, régészeti leleteket és gyönyörű építészeti maradványokat vizsgálva.\n\nSétánkat a történelmi palota területének közelében fejezzük be, felidézve a város múltjával teli nap élményeit.",
+        "ro": "Ne începem turul pietonal în inima spirituală a orașului Phitsanulok, explorând templele centrale magnifice și statuile venerate.\n\nÎn jurul prânzului, ne îndreptăm spre cartierele istorice și regale, aprofundând patrimoniul antic care a modelat regiunea.\n\nDupă-amiaza este dedicată descendenței regale a Palatului Chan, examinând descoperirile arheologice și rămășițele arhitecturale.\n\nNe încheiem plimbarea lângă domeniul istoric al palatului, reflectând asupra unei zile pline de trecutul bogat al orașului.",
+        "en": "We start our walking tour in the spiritual heart of Phitsanulok, exploring the magnificent central temples and the revered local Buddha statues.\n\nAround midday, we transition towards the historical and royal precincts, diving deeper into the ancient heritage that shaped the region.\n\nThe afternoon is dedicated to the royal lineage of the Chan Palace, examining archaeological finds and beautiful architectural remnants.\n\nWe conclude our stroll near the historical palace grounds, reflecting on a day filled with the city's rich past before heading out."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 4.55,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Tha Maprang",
+            "hu": "Wat Tha Maprang",
+            "ro": "Wat Tha Maprang",
+            "en": "Wat Tha Maprang"
+          },
+          "coords": [
+            100.258462,
+            16.810616
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem friedlichen südlichen Tempel, dessen ruhiger Innenhof ideal ist, um Ihr Fahrrad vor der Stadterkundung einzustellen.",
+            "hu": "Kezdje a kerékpártúrát ennél a békés déli templomnál, melynek csendes udvara tökéletes hely a kerékpár beállítására a városnézés előtt.",
+            "ro": "Începeți traseul de ciclism la acest templu liniștit din sud, a cărui curte calmă oferă locul perfect pentru a vă regla bicicleta.",
+            "en": "Start your cycling route at this peaceful southern temple, where the quiet courtyard offers a perfect spot to adjust your bike before heading into the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Zug",
+            "hu": "Régi Vonat",
+            "ro": "Trenul Vechi",
+            "en": "Old Train"
+          },
+          "coords": [
+            100.265124,
+            16.815014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto mit dieser charmanten alten Lokomotive, einem nostalgischen Wahrzeichen inmitten des modernen thailändischen Straßenbildes.",
+            "hu": "Készítsen egy gyors fotót ezzel a bájos régi mozdonnyal, egy nosztalgikus nevezetességgel, amely gyönyörű kontrasztot alkot a modern thai utcaképpel.",
+            "ro": "Faceți o fotografie rapidă cu această locomotivă de epocă fermecătoare, un punct de reper nostalgic ce contrastează cu peisajul urban modern.",
+            "en": "Snap a quick photo with this charming vintage locomotive, a nostalgic landmark that beautifully contrasts with the surrounding modern Thai streetscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nang Phaya",
+            "hu": "Wat Nang Phaya",
+            "ro": "Wat Nang Phaya",
+            "en": "Wat Nang Phaya"
+          },
+          "coords": [
+            100.261929,
+            16.8224
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad vor dieser bedeutenden spirituellen Stätte, die für Schutzamulette berühmt ist, welche auf Reisen Sicherheit bieten sollen.",
+            "hu": "Parkolja le kerékpárját ezen a jelentős spirituális helyszínen kívül, amely olyan védőamulettjeiről híres, amelyek a helyiek szerint biztonságot nyújtanak.",
+            "ro": "Parcați-vă bicicleta afară, la acest sit spiritual semnificativ, faimos pentru amuletele de protecție despre care localnicii cred că oferă siguranță.",
+            "en": "Park your bike outside this significant spiritual site, famous for protective amulets that locals believe offer safety during long journeys and travels."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Si Rattana Mahathat",
+            "hu": "Wat Phra Si Rattana Mahathat",
+            "ro": "Wat Phra Si Rattana Mahathat",
+            "en": "Wat Phra Si Rattana Mahathat"
+          },
+          "coords": [
+            100.261858,
+            16.823574
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Sichern Sie Ihr Fahrrad, um das Kronjuwel von Phitsanulok zu erkunden, und denken Sie daran, dass die Haupthalle um die Mittagszeit recht voll werden kann.",
+            "hu": "Zárja le kerékpárját, és fedezze fel Phitsanulok koronaékszerét, észben tartva, hogy a főcsarnok dél körül meglehetősen zsúfolt lehet zarándokokkal.",
+            "ro": "Asigurați-vă bicicleta pentru a explora bijuteria din Phitsanulok, ținând cont că sala principală poate deveni destul de aglomerată în jurul prânzului.",
+            "en": "Secure your bicycle to explore the crown jewel of Phitsanulok, keeping in mind that the main hall can get quite busy with pilgrims around midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Phitsanulok City Pillar Shrine",
+            "hu": "Phitsanulok Városi Oszlopszentély",
+            "ro": "Altarul Pilonului Orașului Phitsanulok",
+            "en": "Phitsanulok City Pillar Shrine"
+          },
+          "coords": [
+            100.259803,
+            16.824354
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause, um den wunderschön verzierten Schrein zu bewundern, den Einheimische besuchen, um für Wohlstand zu beten.",
+            "hu": "Tartson egy rövid szünetet a túrán, és csodálja meg a gyönyörűen díszített szentélyt, amelyet a helyiek a jólét és a szerencse reményében látogatnak.",
+            "ro": "Faceți o scurtă pauză pe traseu pentru a admira altarul frumos decorat, pe care localnicii îl vizitează pentru a se ruga pentru prosperitate.",
+            "en": "Take a brief pause on your ride to admire the beautifully decorated shrine, which locals visit to pray for prosperity and good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Chan Royal Palace Historical Centre",
+            "hu": "Chan Királyi Palota Történeti Központ",
+            "ro": "Centrul Istoric al Palatului Regal Chan",
+            "en": "Chan Royal Palace Historical Centre"
+          },
+          "coords": [
+            100.261771,
+            16.8286
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Luft im Museum, das einen hervorragenden historischen Kontext zu den bei Ausgrabungen gefundenen königlichen Artefakten bietet.",
+            "hu": "Élvezze a múzeum hűvös levegőjét, amely kiváló történelmi kontextust nyújt a helyi ásatások során talált királyi műtárgyakról.",
+            "ro": "Bucurați-vă de aerul condiționat din muzeu, care oferă un context istoric excelent despre artefactele regale găsite în timpul excavațiilor.",
+            "en": "Enjoy the cool air conditioning inside the museum, which provides excellent historical context about the royal artifacts found during local excavations."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ku Ha Sawan",
+            "hu": "Wat Ku Ha Sawan",
+            "ro": "Wat Ku Ha Sawan",
+            "en": "Wat Ku Ha Sawan"
+          },
+          "coords": [
+            100.254837,
+            16.827528
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem leicht erhöhten Tempel, um eine ruhigere spirituelle Atmosphäre zu genießen und eine erfrischende Wasserpause im Schatten einzulegen.",
+            "hu": "Tekerjen el ehhez a kissé megemelt templomhoz, élvezze a csendesebb spirituális légkört, és tartson egy frissítő vízügyi szünetet az árnyékban.",
+            "ro": "Pedalați până la acest templu ușor ridicat pentru a vă bucura de o atmosferă spirituală liniștită și faceți o pauză răcoritoare la umbră.",
+            "en": "Pedal over to this slightly elevated temple to enjoy a quieter spiritual atmosphere and take a refreshing water break in the shaded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Yang",
+            "hu": "Wat Yang",
+            "ro": "Wat Yang",
+            "en": "Wat Yang"
+          },
+          "coords": [
+            100.251351,
+            16.834568
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Fahrradabenteuer an diesem friedlichen nordwestlichen Tempel, wo das späte Nachmittagslicht eine ruhige Umgebung zur Entspannung schafft.",
+            "hu": "Fejezze be kerékpáros kalandját ennél a békés északnyugati templomnál, ahol a késő délutáni fény nyugodt környezetet teremt a pihenéshez.",
+            "ro": "Încheiați-vă aventura cu bicicleta la acest templu liniștit din nord-vest, unde lumina târzie a după-amiezii creează un cadru calm pentru relaxare.",
+            "en": "Conclude your cycling adventure at this serene northwestern temple, where the late afternoon light creates a tranquil setting for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Radtag beginnt im Süden und bringt uns allmählich in das geschäftige historische Herz von Phitsanulok.\n\nAm späten Vormittag navigieren wir durch die zentralen Wahrzeichen und verbinden die Haupttempel der Stadt mit dem spirituellen Schrein.\n\nNach der Mittagshitze fliehen wir in das kühle Museum, wo wir tief in die königliche Geschichte der Region eintauchen.\n\nDie Tour endet mit einer gemütlichen Fahrt zu den ruhigeren Tempeln im Nordwesten, ein friedlicher Abschluss unseres Nachmittags.",
+        "hu": "Kerékpáros napunk délen kezdődik, és fokozatosan visz minket közelebb Phitsanulok nyüzsgő történelmi szívéhez.\n\nKéső délelőtt a központi nevezetességeken keresztül navigálunk, összekötve a város fő templomait és a spirituális oszlopszentélyt.\n\nA déli hőség elől a hűvös múzeumba menekülünk, ahol a régió gazdag királyi történelmével ismerkedhetünk meg.\n\nA túra egy kellemes utazással zárul a csendesebb északnyugati templomok felé, békés befejezést adva a délutánnak.",
+        "ro": "Ziua noastră cu bicicleta începe în sud, aducându-ne treptat în inima istorică și plină de viață a orașului Phitsanulok.\n\nÎn a doua parte a dimineții, navigăm prin reperele centrale, conectând principalele temple ale orașului de altarul său spiritual.\n\nDupă căldura amiezii, ne refugiem în muzeul răcoros, unde învățăm despre istoria regală bogată a regiunii.\n\nTurul se încheie cu o plimbare relaxantă către templele mai liniștite din nord-vest, oferind un final pașnic după-amiezii noastre.",
+        "en": "Our cycling day starts in the south, gradually bringing us into the bustling historical heart of Phitsanulok.\n\nBy late morning, we navigate through the central landmarks, linking the city's main temples and its spiritual pillar shrine.\n\nAfter the midday heat, we escape into the cool historical center museum to learn about the region's rich royal history.\n\nThe tour wraps up with a leisurely ride toward the quieter northwestern temples, providing a peaceful end to our afternoon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teich mit riesigen Seerosen",
+            "hu": "Tó Óriási Tavirózsákkal",
+            "ro": "Iazul cu Nuferi Uriași",
+            "en": "Pond with giant waterlilies"
+          },
+          "coords": [
+            100.231162,
+            16.820166
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem Naturwunder und bringen Sie ein Weitwinkelobjektiv mit, um die riesigen schwimmenden Blätter im Morgenlicht einzufangen.",
+            "hu": "Kezdje a vezetést ennél a természeti csodánál, és hozzon nagylátószögű objektívet, hogy a reggeli fényben megörökíthesse a hatalmas lebegő leveleket.",
+            "ro": "Începeți traseul auto la această minune naturală, aducând un obiectiv cu unghi larg pentru a surprinde imensele frunze plutitoare în lumina dimineții.",
+            "en": "Begin your drive at this natural marvel, bringing a wide-angle lens to fully capture the massive floating lily pads in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ku Ha Sawan",
+            "hu": "Wat Ku Ha Sawan",
+            "ro": "Wat Ku Ha Sawan",
+            "en": "Wat Ku Ha Sawan"
+          },
+          "coords": [
+            100.254837,
+            16.827528
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den bequemen Parkplatz in der Nähe, um die markante Architektur dieses Tempels zu erkunden, bevor die Mittagshitze zu intensiv wird.",
+            "hu": "Használja ki a templom melletti kényelmes parkolást, hogy felfedezze annak lenyűgöző építészetét, mielőtt a déli hőség túlságosan intenzívvé válna.",
+            "ro": "Utilizați parcarea convenabilă din apropiere pentru a explora arhitectura impresionantă a templului înainte ca razele fierbinți de la prânz să devină prea intense.",
+            "en": "Utilize the convenient parking near this prominent temple to explore its striking architecture before the midday heat becomes too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Chan Royal Palace Historical Centre",
+            "hu": "Chan Királyi Palota Történeti Központ",
+            "ro": "Centrul Istoric al Palatului Regal Chan",
+            "en": "Chan Royal Palace Historical Centre"
+          },
+          "coords": [
+            100.261771,
+            16.8286
+          ],
+          "category": "museum",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie die speziellen Parkplätze, um viel Zeit drinnen zu verbringen und etwas über die faszinierende königliche Geschichte der Region zu lernen.",
+            "hu": "Használja ki a dedikált parkolót, hogy elegendő időt töltsön bent a régió lenyűgöző, Ayutthaya-kori királyi történelmének megismerésével.",
+            "ro": "Profitați de parcarea dedicată pentru a petrece timp în interior, învățând despre fascinanta istorie regală din era Ayutthaya a regiunii.",
+            "en": "Take advantage of the dedicated parking to spend ample time indoors, learning about the fascinating Ayutthaya-era royal history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Si Rattana Mahathat",
+            "hu": "Wat Phra Si Rattana Mahathat",
+            "ro": "Wat Phra Si Rattana Mahathat",
+            "en": "Wat Phra Si Rattana Mahathat"
+          },
+          "coords": [
+            100.261858,
+            16.823574
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um den atemberaubenden goldenen Buddha zu sehen, ein Muss, bei dem respektvolle Kleidung für alle Besucher streng durchgesetzt wird.",
+            "hu": "Parkoljon a közelben, hogy megtekinthesse a lélegzetelállító arany Buddhát, amely kötelező látnivaló, és ahol a tiszteletteljes öltözködést szigorúan veszik.",
+            "ro": "Parcați în apropiere pentru a vedea uluitorul Buddha auriu, un punct de reper unde ținuta respectuoasă este strict aplicată tuturor vizitatorilor.",
+            "en": "Park nearby to witness the breathtaking golden Buddha, a must-see landmark where respectful attire is strictly enforced for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Historischer Buddha",
+            "hu": "Történelmi Buddha",
+            "ro": "Buddha Istoric",
+            "en": "Historical Buddha"
+          },
+          "coords": [
+            100.262821,
+            16.823722
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Haupttempel hinüber, um dieses spezifische historische Artefakt zu bewundern und achten Sie auf die exquisite Handwerkskunst seiner Zeit.",
+            "hu": "Sétáljon át a főtemplomtól, hogy megcsodálja ezt a különleges történelmi műtárgyat, és figyelje meg a korszak kiváló kézműves munkáját.",
+            "ro": "Mergeți pe jos de la templul principal pentru a admira acest artefact istoric, acordând atenție deosebită măiestriei rafinate a epocii sale.",
+            "en": "Walk over from the main temple to admire this specific historical artifact, paying close attention to the exquisite craftsmanship of its era."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Zug",
+            "hu": "Régi Vonat",
+            "ro": "Trenul Vechi",
+            "en": "Old Train"
+          },
+          "coords": [
+            100.265124,
+            16.815014
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um dieses historische Eisenbahnrelikt zu betrachten, das eine großartige und schnelle Fotomöglichkeit bietet, ohne weit gehen zu müssen.",
+            "hu": "Húzódjon félre röviden, hogy megnézze ezt a történelmi vasúti emléket, amely nagyszerű, gyors fotózási lehetőséget kínál, anélkül hogy sokat kellene sétálnia.",
+            "ro": "Trageți pe dreapta scurt pentru a vedea această relicvă istorică a căilor ferate, ce servește drept o oportunitate foto rapidă și minunată.",
+            "en": "Pull over briefly to check out this historical railway relic, which serves as a great, quick photo opportunity without needing to walk far."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Aranyik",
+            "hu": "Wat Aranyik",
+            "ro": "Wat Aranyik",
+            "en": "Wat Aranyik"
+          },
+          "coords": [
+            100.277987,
+            16.826266
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesen faszinierenden Laterittempelruinen im Osten, wo festes Schuhwerk empfohlen wird, um die alten Waldwege zu erkunden.",
+            "hu": "Vezessen el ezekhez a lenyűgöző laterit templomromokhoz keleten, ahol zárt cipő viselése ajánlott az ősi erdei ösvények felfedezéséhez.",
+            "ro": "Conduceți spre aceste fascinante ruine ale templelor de laterit din est, unde se recomandă încălțăminte de drumeție pentru a explora potecile antice.",
+            "en": "Drive out to these fascinating laterite temple ruins in the east, where sturdy walking shoes are recommended to explore the ancient woodland paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unser Fahrabenteuer am Rande der Stadt mit wunderschönen Naturlandschaften, bevor wir uns ins Zentrum begeben.\n\nGegen Mittag parken wir in der Nähe der großen historischen Zentren, was es uns ermöglicht, Museen und Hauptschreine bequem zu erkunden.\n\nAm Nachmittag gibt es eine kurze Fahrt nach Süden, um Industriegeschichte mit einem klassischen Lokomotivenstopp zu erleben.\n\nWir beenden den Tag mit einer entspannten Fahrt in die östlichen Außenbezirke, wo alte Tempelruinen inmitten ruhiger Waldgebiete auf uns warten.",
+        "hu": "Autós kalandunkat a város szélén kezdjük a gyönyörű természeti tájak megcsodálásával, mielőtt a központ felé vennénk az irányt.\n\nDél körül a főbb történelmi központok közelében parkolunk, ami lehetővé teszi a múzeumok és fő szentélyek kényelmes felfedezését.\n\nDélután egy rövid utazást teszünk dél felé, hogy az ipartörténelem egy kis darabkájával ismerkedjünk meg egy klasszikus mozdonynál.\n\nA napot egy kényelmes autózással zárjuk a keleti külvárosokba, ahol az ősi templomromok nyugodt erdei környezetben várnak ránk.",
+        "ro": "Ne începem aventura cu mașina la periferia orașului cu peisaje naturale frumoase, înainte de a ne îndrepta spre centru.\n\nÎn jurul prânzului, parcăm lângă marile centre istorice, ceea ce ne permite să explorăm confortabil muzeele și altarele principale.\n\nDupă-amiaza ne aduce o scurtă călătorie spre sud pentru a absorbi puțină istorie industrială la o locomotivă clasică.\n\nÎncheiem ziua cu un drum relaxant spre periferia estică, unde ruinele templelor antice ne așteaptă în zone împădurite liniștite.",
+        "en": "We kick off our driving adventure on the city outskirts with beautiful natural landscapes before heading into the center.\n\nAround midday, we park near the major historical hubs, allowing us to explore museums and main shrines conveniently.\n\nThe afternoon features a short drive south to absorb some industrial history with a classic locomotive stop.\n\nWe end the day with a relaxed drive into the eastern outskirts, where ancient temple ruins await amidst tranquil woodland areas."
+      }
+    }
+  }
+}

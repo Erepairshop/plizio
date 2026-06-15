@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-meliana-cities-v2",
+  "anchor": {
+    "name": "Meliana",
+    "coords": [
+      -0.348643,
+      39.527612
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Església dels Sants Joans",
+            "hu": "Església dels Sants Joans",
+            "ro": "Església dels Sants Joans",
+            "en": "Església dels Sants Joans"
+          },
+          "coords": [
+            -0.348481,
+            39.527754
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neoklassizistische Fassade dieser zentralen Kirche, ein architektonisches Juwel von Meliana, und besuchen Sie sie am besten zur Morgenmesse.",
+            "hu": "Csodálja meg e központi templom lenyűgöző neoklasszicista homlokzatát, Meliana építészeti gyöngyszemét, és a legjobb fényviszonyokért érkezzen a kora reggeli misére.",
+            "ro": "Admirați fațada neoclasică impresionantă a acestei biserici centrale, o bijuterie arhitecturală a Melianei, și încercați să o vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the striking neoclassical facade of this central church, an architectural gem of Meliana, and try to visit during morning mass for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palauet Nolla",
+            "hu": "Palauet Nolla",
+            "ro": "Palauet Nolla",
+            "en": "Palauet Nolla"
+          },
+          "coords": [
+            -0.343484,
+            39.520554
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, das für seine exquisiten Keramikmosaike bekannt ist, aber vergessen Sie nicht, Ihre Führung rechtzeitig im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt a történelmi kúriát, amely a helyi dizájnt forradalmasító kerámiamozaikjairól híres, de ne felejtse el jó előre lefoglalni a hivatalos idegenvezetést.",
+            "ro": "Explorați acest conac istoric renumit pentru mozaicurile sale ceramice rafinate care au revoluționat designul, dar nu uitați să rezervați turul ghidat din timp.",
+            "en": "Explore this historic mansion known for its exquisite ceramic tile mosaics that revolutionized local design, but remember to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Horta",
+            "hu": "Museu de l'Horta",
+            "ro": "Museu de l'Horta",
+            "en": "Museu de l'Horta"
+          },
+          "coords": [
+            -0.350835,
+            39.512702
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die landwirtschaftliche Geschichte der Region Valencia anhand authentischer Werkzeuge und tragen Sie bequeme Schuhe für die Erkundung der Felder.",
+            "hu": "Ismerje meg a valenciai régió hagyományos mezőgazdasági történetét az autentikus eszközökön keresztül, és viseljen kényelmes cipőt a környező mezők felfedezéséhez.",
+            "ro": "Descoperiți istoria agricolă tradițională a regiunii Valencia prin unelte și exponate autentice și purtați pantofi comozi pentru a explora câmpurile din jur.",
+            "en": "Discover the traditional agricultural history of the Valencia region through authentic tools and exhibits, and wear comfortable shoes to explore the surrounding fields."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Natalícia Germans Lladró",
+            "hu": "Casa Natalícia Germans Lladró",
+            "ro": "Casa Natalícia Germans Lladró",
+            "en": "Casa Natalícia Germans Lladró"
+          },
+          "coords": [
+            -0.355788,
+            39.512923
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie das Geburtshaus der berühmten Lladró-Brüder, um die Ursprünge ihrer Porzellankunst zu sehen, und achten Sie auf die Details ihres frühen Arbeitsplatzes.",
+            "hu": "Lépjen be a híres Lladró fivérek szülőházába, ahol a porcelángyártásuk öröksége kezdődött, és szánjon időt korai munkaterületük apró részleteinek megfigyelésére.",
+            "ro": "Pășiți în casa natală a faimoșilor frați Lladró pentru a vedea unde a început moștenirea lor din porțelan, acordând timp micilor detalii ale primului lor spațiu.",
+            "en": "Step into the birthplace of the famous Lladró brothers to see where their porcelain legacy began, taking time to appreciate the small details of their early workspace."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Pilar",
+            "hu": "Ermita del Pilar",
+            "ro": "Ermita del Pilar",
+            "en": "Ermita del Pilar"
+          },
+          "coords": [
+            -0.360738,
+            39.517794
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen, friedlichen Einsiedelei abseits der belebten Straßen und bringen Sie einen Snack für die schattigen Bänke draußen mit.",
+            "hu": "Pihenjen meg ennél a festői, békés remetelaknál, amely csendes menedéket nyújt a forgalmas utcák elől, és hozzon magával némi harapnivalót az árnyékos padokhoz.",
+            "ro": "Relaxați-vă la acest schit pitoresc și liniștit care oferă un refugiu departe de străzile aglomerate și aduceți o gustare pentru a vă bucura de băncile umbrite.",
+            "en": "Relax by this quaint, peaceful hermitage that offers a quiet retreat from the busy streets, and bring a small snack to enjoy on the shaded benches outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Meliana an der Kirche, bevor ein kurzer Spaziergang zu den Keramikmosaiken des Palauet Nolla führt.\n\nAm Mittag schlendern Sie an den Stadtrand, um die landwirtschaftlichen Traditionen im Museu de l'Horta zu erkunden.\n\nDer Nachmittag bietet die einmalige Gelegenheit, das Geburtshaus der Lladró-Brüder zu besuchen und ihre Porzellangeschichte zu entdecken.\n\nGegen Abend machen Sie einen entspannten Spaziergang zur ruhigen Ermita del Pilar, ein perfekter Ort, um die Entdeckungen des Tages zu reflektieren.",
+        "hu": "A reggel Meliana szívében, a helyi templomnál indul, majd egy rövid sétával a Palauet Nolla kerámiamozaikjait csodálhatja meg.\n\nDélben a város szélére barangol, hogy felfedezze a gazdag mezőgazdasági hagyományokat a Museu de l'Horta kiállításain.\n\nA délután egyedülálló lehetőséget kínál a Lladró fivérek szülőházának meglátogatására, feltárva híres porcelánjuk szerény eredetét.\n\nAhogy közeledik az este, tegyen egy pihentető sétát a csendes Ermita del Pilar felé, amely tökéletes hely a nap felfedezéseinek átgondolására.",
+        "ro": "Dimineața începe în inima Melianei la biserica locală, înainte de o scurtă plimbare pentru a admira mozaicurile ceramice de la Palauet Nolla.\n\nLa amiază, vă veți plimba spre marginea orașului pentru a explora tradițiile agricole bogate expuse la Museu de l'Horta.\n\nDupă-amiaza oferă o oportunitate unică de a vizita casa natală a fraților Lladró, descoperind originile modestului lor porțelan.\n\nPe măsură ce se apropie seara, faceți o plimbare relaxantă până la liniștitul Ermita del Pilar, un loc perfect pentru a reflecta asupra zilei.",
+        "en": "The morning begins in the heart of Meliana at the local church, before taking a short walk to marvel at the intricate ceramic mosaics of Palauet Nolla.\n\nBy midday, you will wander towards the edge of town to explore the rich agricultural traditions showcased at the Museu de l'Horta.\n\nThe afternoon offers a unique opportunity to visit the birthplace of the Lladró brothers, uncovering the humble origins of their famous porcelain.\n\nAs evening approaches, take a relaxing stroll to the quiet Ermita del Pilar, a perfect spot to reflect on the day's cultural discoveries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell d'Albalat dels Sorells",
+            "hu": "Castell d'Albalat dels Sorells",
+            "ro": "Castell d'Albalat dels Sorells",
+            "en": "Castell d'Albalat dels Sorells"
+          },
+          "coords": [
+            -0.347071,
+            39.544294
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhaften Türme dieser mittelalterlichen Burg, die heute das Rathaus beherbergt, und umrunden Sie sie, um ihre gotische Architektur zu erleben.",
+            "hu": "Csodálja meg e középkori vár, a jelenlegi városháza erődített tornyait, és sétálja körbe az épületet, hogy teljes mértékben értékelhesse gótikus építészetét.",
+            "ro": "Admirați turnurile fortificate ale acestui castel medieval, acum sediul primăriei, și plimbați-vă în jurul său pentru a-i aprecia pe deplin arhitectura gotică.",
+            "en": "Marvel at the fortified towers of this medieval castle which now houses the town hall, and walk around the perimeter to fully appreciate its imposing Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Església dels Sants Reis",
+            "hu": "Església dels Sants Reis",
+            "ro": "Església dels Sants Reis",
+            "en": "Església dels Sants Reis"
+          },
+          "coords": [
+            -0.345659,
+            39.543695
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante lokale Kirche direkt neben der Burg und bewundern Sie das wunderschön restaurierte Altarbild, bevor Sie den Platz erkunden.",
+            "hu": "Lépjen be ebbe a vár melletti, bájos helyi templomba, vegye szemügyre a gyönyörűen felújított oltárképet, majd fedezze fel az épületet körülvevő hangulatos teret.",
+            "ro": "Intrați în această fermecătoare biserică locală de lângă castel, remarcând altarul frumos restaurat înainte de a explora piața din imediata sa apropiere.",
+            "en": "Step inside this charming local church situated right next to the castle, taking note of the beautifully restored altarpiece before exploring the surrounding square."
+          }
+        },
+        {
+          "name": {
+            "de": "Església dels Sants Joans",
+            "hu": "Església dels Sants Joans",
+            "ro": "Església dels Sants Joans",
+            "en": "Església dels Sants Joans"
+          },
+          "coords": [
+            -0.348481,
+            39.527754
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neoklassizistische Fassade dieser zentralen Kirche, ein architektonisches Juwel von Meliana, und besuchen Sie sie am besten zur Morgenmesse.",
+            "hu": "Csodálja meg e központi templom lenyűgöző neoklasszicista homlokzatát, Meliana építészeti gyöngyszemét, és a legjobb fényviszonyokért érkezzen a kora reggeli misére.",
+            "ro": "Admirați fațada neoclasică impresionantă a acestei biserici centrale, o bijuterie arhitecturală a Melianei, și încercați să o vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the striking neoclassical facade of this central church, an architectural gem of Meliana, and try to visit during morning mass for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palauet Nolla",
+            "hu": "Palauet Nolla",
+            "ro": "Palauet Nolla",
+            "en": "Palauet Nolla"
+          },
+          "coords": [
+            -0.343484,
+            39.520554
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, das für seine exquisiten Keramikmosaike bekannt ist, aber vergessen Sie nicht, Ihre Führung rechtzeitig im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt a történelmi kúriát, amely a helyi dizájnt forradalmasító kerámiamozaikjairól híres, de ne felejtse el jó előre lefoglalni a hivatalos idegenvezetést.",
+            "ro": "Explorați acest conac istoric renumit pentru mozaicurile sale ceramice rafinate care au revoluționat designul, dar nu uitați să rezervați turul ghidat din timp.",
+            "en": "Explore this historic mansion known for its exquisite ceramic tile mosaics that revolutionized local design, but remember to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Horta",
+            "hu": "Museu de l'Horta",
+            "ro": "Museu de l'Horta",
+            "en": "Museu de l'Horta"
+          },
+          "coords": [
+            -0.350835,
+            39.512702
+          ],
+          "category": "museum",
+          "arrive_at": "13:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die landwirtschaftliche Geschichte der Region Valencia anhand authentischer Werkzeuge und tragen Sie bequeme Schuhe für die Erkundung der Felder.",
+            "hu": "Ismerje meg a valenciai régió hagyományos mezőgazdasági történetét az autentikus eszközökön keresztül, és viseljen kényelmes cipőt a környező mezők felfedezéséhez.",
+            "ro": "Descoperiți istoria agricolă tradițională a regiunii Valencia prin unelte și exponate autentice și purtați pantofi comozi pentru a explora câmpurile din jur.",
+            "en": "Discover the traditional agricultural history of the Valencia region through authentic tools and exhibits, and wear comfortable shoes to explore the surrounding fields."
+          }
+        },
+        {
+          "name": {
+            "de": "La Llar",
+            "hu": "La Llar",
+            "ro": "La Llar",
+            "en": "La Llar"
+          },
+          "coords": [
+            -0.366169,
+            39.517903
+          ],
+          "category": "cultural",
+          "arrive_at": "15:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem lebhaften Gemeindezentrum, das für Veranstaltungen bekannt ist, und prüfen Sie das Programm für eine Live-Vorstellung.",
+            "hu": "Kapcsolódjon be a helyi kultúrába ebben a pezsgő közösségi központban, és ellenőrizze a hirdetőtáblán a napi programot, hátha elcsíp egy élő előadást is.",
+            "ro": "Implicați-vă în cultura locală la acest centru comunitar vibrant cunoscut pentru evenimente și verificați programul zilnic pentru a prinde o reprezentație live.",
+            "en": "Engage with local culture at this vibrant community hub known for hosting various events, and check the daily schedule on their notice board to catch a live performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Norden mit der Bewunderung des mittelalterlichen Castell d'Albalat dels Sorells und seiner Nachbarkirche.\n\nAm Mittag genießen Sie eine angenehme Fahrt nach Süden zum Zentrum von Meliana, um die Hauptkirche und das Palauet Nolla zu sehen.\n\nDer Nachmittag ist der Erkundung der umliegenden Felder und dem Erlernen der lokalen Landwirtschaft im Museu de l'Horta gewidmet.\n\nIhr Tag endet mit einer malerischen Fahrt zu La Llar, einem lebendigen kulturellen Zentrum der lokalen Gemeinschaft.",
+        "hu": "Kezdje kerékpáros kalandját északon a középkori Castell d'Albalat dels Sorells és a szomszédos templom megcsodálásával.\n\nDélben élvezze a kellemes utat délre, Meliana központjába, hogy megnézze a főplébániát és a Palauet Nolla történelmi csempéit.\n\nA délután a környező termőföldek felfedezéséről és a helyi földművelés megismeréséről szól a Museu de l'Horta múzeumban.\n\nA nap egy festői utazással zárul a La Llar nyüzsgő kulturális központjához, ahol magába szívhatja a helyi közösség hangulatát.",
+        "ro": "Începeți aventura pe bicicletă la nord, admirând medievalul Castell d'Albalat dels Sorells și biserica sa învecinată.\n\nLa amiază, bucurați-vă de o plimbare plăcută spre sud, în centrul Melianei, pentru a vedea parohia principală și Palauet Nolla.\n\nDupă-amiaza este dedicată explorării terenurilor agricole din jur și învățării despre cultivarea locală la Museu de l'Horta.\n\nZiua se încheie cu o plimbare pitorească până la La Llar, un centru cultural vibrant unde vă puteți bucura de atmosfera locală.",
+        "en": "Start your cycling adventure up north by admiring the medieval Castell d'Albalat dels Sorells and its neighboring church.\n\nBy midday, enjoy a pleasant ride south to Meliana's center to see the main parish and the stunning historic tiles of Palauet Nolla.\n\nThe afternoon is dedicated to exploring the surrounding farmlands and learning about local cultivation at the Museu de l'Horta.\n\nYour day concludes with a scenic ride to La Llar, a vibrant cultural hub where you can soak up the local community atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell d'Albalat dels Sorells",
+            "hu": "Castell d'Albalat dels Sorells",
+            "ro": "Castell d'Albalat dels Sorells",
+            "en": "Castell d'Albalat dels Sorells"
+          },
+          "coords": [
+            -0.347071,
+            39.544294
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhaften Türme dieser mittelalterlichen Burg, die heute das Rathaus beherbergt, und umrunden Sie sie, um ihre gotische Architektur zu erleben.",
+            "hu": "Csodálja meg e középkori vár, a jelenlegi városháza erődített tornyait, és sétálja körbe az épületet, hogy teljes mértékben értékelhesse gótikus építészetét.",
+            "ro": "Admirați turnurile fortificate ale acestui castel medieval, acum sediul primăriei, și plimbați-vă în jurul său pentru a-i aprecia pe deplin arhitectura gotică.",
+            "en": "Marvel at the fortified towers of this medieval castle which now houses the town hall, and walk around the perimeter to fully appreciate its imposing Gothic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí",
+            "hu": "Molí",
+            "ro": "Molí",
+            "en": "Molí"
+          },
+          "coords": [
+            -0.364749,
+            39.538731
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser historischen Mühle, die die Wasserwirtschaft der Region verdeutlicht, und achten Sie auf die Informationstafeln über ihre Vergangenheit.",
+            "hu": "Látogasson el e történelmi malom romjaihoz, amely a régió vízgazdálkodási kapcsolatait emeli ki, és keresse a múltját részletező, érdekes információs táblákat.",
+            "ro": "Vizitați rămășițele acestei mori istorice care subliniază legăturile regiunii cu gestionarea apei, căutând plăcile informative ce detaliază trecutul său.",
+            "en": "Visit the remnants of this historic mill which highlights the region's strong ties to water management, keeping an eye out for informational plaques detailing its past."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de l'Assumpció de Nostra Senyora",
+            "hu": "Església de l'Assumpció de Nostra Senyora",
+            "ro": "Església de l'Assumpció de Nostra Senyora",
+            "en": "Església de l'Assumpció de Nostra Senyora"
+          },
+          "coords": [
+            -0.356666,
+            39.53796
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie den großen Glockenturm und das majestätische Innere dieser Pfarrkirche in Foios und respektieren Sie die ruhige Atmosphäre während des Gebets.",
+            "hu": "Értékelje a foiosi plébániatemplom hatalmas harangtornyát és fenséges belső terét, ügyelve arra, hogy tiszteletben tartsa a csendet, ha a helyiek éppen imádkoznak.",
+            "ro": "Apreciați turnul mare și interiorul maiestuos al acestei biserici din Foios, asigurându-vă că respectați atmosfera liniștită dacă enoriașii locali se roagă.",
+            "en": "Appreciate the grand bell tower and the majestic interior of this parish church in Foios, ensuring you respect the quiet atmosphere if local parishioners are praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Església dels Sants Joans",
+            "hu": "Església dels Sants Joans",
+            "ro": "Església dels Sants Joans",
+            "en": "Església dels Sants Joans"
+          },
+          "coords": [
+            -0.348481,
+            39.527754
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neoklassizistische Fassade dieser zentralen Kirche, ein architektonisches Juwel von Meliana, und besuchen Sie sie am besten zur Morgenmesse.",
+            "hu": "Csodálja meg e központi templom lenyűgöző neoklasszicista homlokzatát, Meliana építészeti gyöngyszemét, és a legjobb fényviszonyokért érkezzen a kora reggeli misére.",
+            "ro": "Admirați fațada neoclasică impresionantă a acestei biserici centrale, o bijuterie arhitecturală a Melianei, și încercați să o vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire the striking neoclassical facade of this central church, an architectural gem of Meliana, and try to visit during morning mass for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palauet Nolla",
+            "hu": "Palauet Nolla",
+            "ro": "Palauet Nolla",
+            "en": "Palauet Nolla"
+          },
+          "coords": [
+            -0.343484,
+            39.520554
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus, das für seine exquisiten Keramikmosaike bekannt ist, aber vergessen Sie nicht, Ihre Führung rechtzeitig im Voraus zu buchen.",
+            "hu": "Fedezze fel ezt a történelmi kúriát, amely a helyi dizájnt forradalmasító kerámiamozaikjairól híres, de ne felejtse el jó előre lefoglalni a hivatalos idegenvezetést.",
+            "ro": "Explorați acest conac istoric renumit pentru mozaicurile sale ceramice rafinate care au revoluționat designul, dar nu uitați să rezervați turul ghidat din timp.",
+            "en": "Explore this historic mansion known for its exquisite ceramic tile mosaics that revolutionized local design, but remember to book your guided tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Horta",
+            "hu": "Museu de l'Horta",
+            "ro": "Museu de l'Horta",
+            "en": "Museu de l'Horta"
+          },
+          "coords": [
+            -0.350835,
+            39.512702
+          ],
+          "category": "museum",
+          "arrive_at": "14:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die landwirtschaftliche Geschichte der Region Valencia anhand authentischer Werkzeuge und tragen Sie bequeme Schuhe für die Erkundung der Felder.",
+            "hu": "Ismerje meg a valenciai régió hagyományos mezőgazdasági történetét az autentikus eszközökön keresztül, és viseljen kényelmes cipőt a környező mezők felfedezéséhez.",
+            "ro": "Descoperiți istoria agricolă tradițională a regiunii Valencia prin unelte și exponate autentice și purtați pantofi comozi pentru a explora câmpurile din jur.",
+            "en": "Discover the traditional agricultural history of the Valencia region through authentic tools and exhibits, and wear comfortable shoes to explore the surrounding fields."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Natalícia Germans Lladró",
+            "hu": "Casa Natalícia Germans Lladró",
+            "ro": "Casa Natalícia Germans Lladró",
+            "en": "Casa Natalícia Germans Lladró"
+          },
+          "coords": [
+            -0.355788,
+            39.512923
+          ],
+          "category": "museum",
+          "arrive_at": "16:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie das Geburtshaus der berühmten Lladró-Brüder, um die Ursprünge ihrer Porzellankunst zu sehen, und achten Sie auf die Details ihres frühen Arbeitsplatzes.",
+            "hu": "Lépjen be a híres Lladró fivérek szülőházába, ahol a porcelángyártásuk öröksége kezdődött, és szánjon időt korai munkaterületük apró részleteinek megfigyelésére.",
+            "ro": "Pășiți în casa natală a faimoșilor frați Lladró pentru a vedea unde a început moștenirea lor din porțelan, acordând timp micilor detalii ale primului lor spațiu.",
+            "en": "Step into the birthplace of the famous Lladró brothers to see where their porcelain legacy began, taking time to appreciate the small details of their early workspace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit dem Castell d'Albalat dels Sorells und einem kurzen Halt an einer historischen lokalen Mühle.\n\nAm Mittag pendeln Sie zwischen den großen Kirchen von Foios und Meliana und besuchen das wunderschöne Palauet Nolla.\n\nAm Nachmittag machen Sie eine kurze Fahrt, um im Museu de l'Horta in die landwirtschaftlichen Wurzeln der Region Valencia einzutauchen.\n\nBeenden Sie Ihre Reise mit einem inspirierenden abendlichen Besuch der Casa Natalícia Germans Lladró, wo ein Porzellanimperium begann.",
+        "hu": "Autós túrája a Castell d'Albalat dels Sorells-nél kezdődik, majd egy gyors megállóval folytatódik egy történelmi helyi malomnál.\n\nDélben a szomszédos Foios és Meliana lenyűgöző templomai között ingázik, végül pedig ellátogat a gyönyörű Palauet Nolla kúriához.\n\nDélután egy rövid autóúttal elmerülhet a valenciai régió mezőgazdasági gyökereiben az átfogó Museu de l'Horta kiállításain.\n\nZárja utazását egy inspiráló esti látogatással a Casa Natalícia Germans Lladró épületében, ahol a globális porcelánbirodalom indult.",
+        "ro": "Turul cu mașina începe cu Castell d'Albalat dels Sorells și o scurtă oprire la o moară istorică locală.\n\nLa amiază, veți călători între bisericile mărețe din Foios și Meliana, culminând cu o vizită la superbul Palauet Nolla.\n\nDupă-amiaza, faceți o scurtă plimbare pentru a aprofunda rădăcinile agricole ale regiunii Valencia la Museu de l'Horta.\n\nÎncheiați călătoria cu o vizită de seară plină de inspirație la Casa Natalícia Germans Lladró, unde a început un imperiu al porțelanului.",
+        "en": "Your driving tour starts with the imposing Castell d'Albalat dels Sorells and a quick stop at a historic local mill.\n\nBy midday, you will hop between the grand churches of neighboring Foios and Meliana, culminating in a visit to the gorgeous Palauet Nolla.\n\nIn the afternoon, take a short drive to delve into the agricultural roots of the Valencia region at the comprehensive Museu de l'Horta.\n\nWrap up your journey with an inspiring evening visit to the Casa Natalícia Germans Lladró, where a global porcelain empire began."
+      }
+    }
+  }
+}

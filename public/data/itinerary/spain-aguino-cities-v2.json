@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-aguino-cities-v2",
+  "anchor": {
+    "name": "Aguiño",
+    "coords": [
+      -9.01587,
+      42.52577
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:28",
+      "total_km": 1.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "hu": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "ro": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "en": "Igrexa de Nosa Señora do Carme de Aguiño"
+          },
+          "coords": [
+            -9.015941,
+            42.525546
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese den Seefahrern gewidmete Kirche, die das maritime Erbe widerspiegelt; besuchen Sie sie respektvoll außerhalb der Gottesdienstzeiten.",
+            "hu": "Csodálja meg ezt a tengerészek védőszentjének szentelt templomot; látogassa meg tiszteletteljesen a miséken kívüli, csendesebb órákban a fotózáshoz.",
+            "ro": "Admirați această biserică maritimă dedicată sfântului patron al marinarilor, reflectând moștenirea locală; vizitați-o cu respect în afara orelor de slujbă.",
+            "en": "Admire this maritime church dedicated to the patron saint of sailors, which reflects the town's heritage; visit respectfully during non-service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal",
+            "hu": "Auditorio Municipal",
+            "ro": "Auditorio Municipal",
+            "en": "Auditorio Municipal"
+          },
+          "coords": [
+            -9.014069,
+            42.524777
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses moderne Kulturzentrum mit lokaler Kunst, das tiefe Einblicke bietet; prüfen Sie die Anzeigetafel auf kostenlose Veranstaltungen.",
+            "hu": "Fedezze fel a helyi művészeteket és előadásokat bemutató modern kulturális központot; nézze meg a kinti hirdetőtáblát az ingyenes eseményekért.",
+            "ro": "Explorați acest centru cultural care găzduiește artă și spectacole locale; verificați panoul de la intrare pentru evenimentele gratuite ale zilei.",
+            "en": "Explore this modern cultural hub that hosts local art and performances, providing deep community insights; check the schedule board outside for free events."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Robalo",
+            "hu": "Praia do Robalo",
+            "ro": "Praia do Robalo",
+            "en": "Praia do Robalo"
+          },
+          "coords": [
+            -9.015003,
+            42.523011
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem städtischen Strand, der für weichen Sand bekannt ist; packen Sie ein Handtuch ein und genießen Sie einen ruhigen Spaziergang.",
+            "hu": "Pihenjen ezen a finom homokjáról és nyugodt vizéről ismert városi strandon; hozzon magával egy könnyű törölközőt egy békés reggeli sétához.",
+            "ro": "Relaxați-vă pe această plajă urbană cunoscută pentru nisipul fin și apele calme; luați un prosop și bucurați-vă de o plimbare matinală în picioarele goale.",
+            "en": "Relax on this pristine stretch of urban beach known for its soft sand and calm waters; pack a light towel and enjoy a peaceful morning stroll barefoot."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta do Porto de Aguiño",
+            "hu": "Faro da Punta do Porto de Aguiño",
+            "ro": "Faro da Punta do Porto de Aguiño",
+            "en": "Faro da Punta do Porto de Aguiño"
+          },
+          "coords": [
+            -9.015969,
+            42.518674
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Genießen Sie den Atlantikblick von diesem klassischen Leuchtturm; bringen Sie eine Windjacke mit, da die stetige Küstenbrise hier oft recht stark ist.",
+            "hu": "Gyönyörködjön az Atlanti-óceánra nyíló kilátásban a halászhajókat irányító helyi világítótoronyból; hozzon széldzsekit, mert a parti szél igen erős.",
+            "ro": "Bucurați-vă de priveliștile atlantice de la acest far clasic care ghidează bărcile de pescuit; luați o geacă de vânt, deoarece briza este destul de puternică.",
+            "en": "Take in the breathtaking Atlantic views from this classic local lighthouse that guides fishing boats; bring a windbreaker as the coastal breeze is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica da Covasa",
+            "hu": "Fábrica da Covasa",
+            "ro": "Fábrica da Covasa",
+            "en": "Fábrica da Covasa"
+          },
+          "coords": [
+            -9.025665,
+            42.519971
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe in diesen faszinierenden Ruinen einer ehemaligen Salzhütte; tragen Sie feste Schuhe, um den unebenen Boden zu meistern.",
+            "hu": "Fedezze fel a helyi ipari örökséget egykori sózóüzem lenyűgöző romjainál; viseljen túracipőt, hogy biztonságosan mozoghasson az egyenetlen terepen.",
+            "ro": "Descoperiți moștenirea industrială la aceste ruine fascinante ale unei foste fabrici de sărare; purtați încălțăminte solidă pentru a naviga terenul stâncos.",
+            "en": "Discover the industrial heritage at these fascinating ruins of a former salting factory; wear sturdy shoes to safely navigate the uneven, rocky grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung maritimer Wurzeln an der Kirche und im Auditorium. Mittags spazieren Sie am Praia do Robalo entlang zum Leuchtturm. Der Nachmittag führt Sie zu den Ruinen der Fábrica da Covasa. Der Abend lädt dazu ein, den sanften Atlantikwellen entspannt zuzuhören.",
+        "hu": "A reggel a tengerészeti gyökerek felfedezésével indul a főtemplomban és a kulturális központban. Délben sétáljon a Praia do Robalo mentén a világítótorony felé. Délután a Fábrica da Covasa romjait fedezheti fel. Az este békés pihenésre csábít, miközben az óceán hullámait hallgatja.",
+        "ro": "Dimineața începe cu explorarea rădăcinilor maritime la biserica principală și la centrul cultural. La prânz vă plimbați pe Praia do Robalo spre far. După-amiaza vă duce la ruinele fascinante ale Fábrica da Covasa. Seara vă invită la o odihnă liniștită, ascultând valurile blânde ale Atlanticului.",
+        "en": "Morning starts with exploring the maritime roots at the main church and the cultural auditorium. Midday is spent walking along Praia do Robalo before catching views at the lighthouse. Afternoon wanders to the fascinating ruins of Fábrica da Covasa. Evening invites a peaceful rest as you listen to the Atlantic waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro da Punta do Porto de Aguiño",
+            "hu": "Faro da Punta do Porto de Aguiño",
+            "ro": "Faro da Punta do Porto de Aguiño",
+            "en": "Faro da Punta do Porto de Aguiño"
+          },
+          "coords": [
+            -9.015969,
+            42.518674
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Atlantikblick von diesem klassischen Leuchtturm; bringen Sie eine Windjacke mit, da die stetige Küstenbrise hier oft recht stark ist.",
+            "hu": "Gyönyörködjön az Atlanti-óceánra nyíló kilátásban a halászhajókat irányító helyi világítótoronyból; hozzon széldzsekit, mert a parti szél igen erős.",
+            "ro": "Bucurați-vă de priveliștile atlantice de la acest far clasic care ghidează bărcile de pescuit; luați o geacă de vânt, deoarece briza este destul de puternică.",
+            "en": "Take in the breathtaking Atlantic views from this classic local lighthouse that guides fishing boats; bring a windbreaker as the coastal breeze is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica da Covasa",
+            "hu": "Fábrica da Covasa",
+            "ro": "Fábrica da Covasa",
+            "en": "Fábrica da Covasa"
+          },
+          "coords": [
+            -9.025665,
+            42.519971
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe in diesen faszinierenden Ruinen einer ehemaligen Salzhütte; tragen Sie feste Schuhe, um den unebenen Boden zu meistern.",
+            "hu": "Fedezze fel a helyi ipari örökséget egykori sózóüzem lenyűgöző romjainál; viseljen túracipőt, hogy biztonságosan mozoghasson az egyenetlen terepen.",
+            "ro": "Descoperiți moștenirea industrială la aceste ruine fascinante ale unei foste fabrici de sărare; purtați încălțăminte solidă pentru a naviga terenul stâncos.",
+            "en": "Discover the industrial heritage at these fascinating ruins of a former salting factory; wear sturdy shoes to safely navigate the uneven, rocky grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Celeiráns",
+            "hu": "Praia de Celeiráns",
+            "ro": "Praia de Celeiráns",
+            "en": "Praia de Celeiráns"
+          },
+          "coords": [
+            -9.03061,
+            42.520569
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen, geschützten Bucht mit kristallklarem Wasser; kommen Sie früh, um sich einen guten Platz zu sichern, bevor die Sonne ihren Höhepunkt erreicht.",
+            "hu": "Pihenjen ebben a csendes, védett öbölben, amely kristálytiszta vizet kínál; érkezzen korán, hogy biztosítson magának egy jó helyet a sziklás parton.",
+            "ro": "Relaxează-te în acest golf liniștit, care oferă apă cristalină și un fundal stâncos; ajungeți devreme pentru a prinde un loc bun pe nisipul fin.",
+            "en": "Unwind at this quiet, sheltered cove offering crystal-clear water and a rocky backdrop; arrive early to secure a good spot before the afternoon sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Couso",
+            "hu": "Miradoiro do Couso",
+            "ro": "Miradoiro do Couso",
+            "en": "Miradoiro do Couso"
+          },
+          "coords": [
+            -9.034467,
+            42.523514
+          ],
+          "category": "natural",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erleben Sie weite Ozeanpanoramen von diesem erhöhten natürlichen Aussichtspunkt; nehmen Sie Ferngläser mit, um die vielfältigen Seevögel an den Klippen zu beobachten.",
+            "hu": "Tapasztalja meg a lenyűgöző óceáni panorámát erről a megemelt természetes kilátópontról; hozzon távcsövet a sziklák mentén merülő tengeri madarak megfigyeléséhez.",
+            "ro": "Experimentați panorame oceanice de pe acest punct de belvedere natural ridicat; luați binoclul pentru a observa păsările marine pe stâncile abrupte.",
+            "en": "Experience sweeping panoramic ocean vistas from this elevated natural lookout; carry a camera and binoculars to spot seabirds diving along the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Couso",
+            "hu": "Praia de Couso",
+            "ro": "Praia de Couso",
+            "en": "Praia de Couso"
+          },
+          "coords": [
+            -9.040797,
+            42.519022
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem weitläufigen Sandstrand, der von rauer Natur umrahmt wird; packen Sie ein Picknick ein, da es in der Nähe kaum Verkäufer gibt.",
+            "hu": "Szívja magába a napsütést ezen a hatalmas, aranyhomokos strandon; pakoljon piknikkosarat, mivel kevés az árus a közvetlen közelben.",
+            "ro": "Bucurați-vă de soare pe această plajă imensă cu nisip auriu, încadrată de o frumusețe naturală; împachetați un picnic, deoarece nu există vânzători în jur.",
+            "en": "Soak up the sun on this expansive, golden-sand beach framed by rugged natural beauty; pack a picnic as there are few local vendors immediately nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro dos Castelos",
+            "hu": "Miradoiro dos Castelos",
+            "ro": "Miradoiro dos Castelos",
+            "en": "Miradoiro dos Castelos"
+          },
+          "coords": [
+            -9.026515,
+            42.530602
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.73,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen im Kontrast zum tiefblauen Atlantik; treten Sie beim Fotografieren vorsichtig in die Nähe der felsigen Ränder.",
+            "hu": "Csodálja meg a drámai sziklaképződményeket, amelyek kontrasztot alkotnak a kék Atlanti-óceánnal; lépkedjen óvatosan a peremeken a fényképezés során.",
+            "ro": "Minunați-vă de formațiunile stâncoase dramatice care contrastează cu apele albastre ale Atlanticului; pășiți cu atenție pe margini când faceți fotografii.",
+            "en": "Marvel at the dramatic rock formations contrasting with the deep blue Atlantic waters; step carefully near the edges when snapping your memorable photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Leuchtturm, bevor Sie zu den historischen Covasa-Ruinen radeln. Mittags gleiten Sie am ruhigen Praia de Celeiráns vorbei zum Couso-Aussichtspunkt. Der Nachmittag bringt Entspannung am Praia de Couso. Der Abend endet bei den Felsformationen des Miradoiro dos Castelos.",
+        "hu": "A reggel a helyi világítótoronynál indul, mielőtt a történelmi Covasa romokhoz tekerne. Délben elhalad a békés Praia de Celeiráns és a Couso kilátó mellett. Délután lazítson a Praia de Couso homokján. Az este a Miradoiro dos Castelos lélegzetelállító sziklaképződményeinél ér véget.",
+        "ro": "Dimineața începe la far, înainte de a pedala spre ruinele istorice Covasa. La prânz treceți pe lângă Praia de Celeiráns și punctul de belvedere Couso. După-amiaza vă relaxați pe nisipul plajei Couso. Seara se încheie cu formațiunile stâncoase uluitoare de la Miradoiro dos Castelos.",
+        "en": "Morning kicks off at the local lighthouse before pedaling to the historic Covasa ruins. Midday takes you gliding past the serene Praia de Celeiráns and Couso viewpoint. Afternoon involves a relaxing stop at Praia de Couso's sands. Evening ends with breathtaking rock formations at Miradoiro dos Castelos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.15,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "hu": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "ro": "Igrexa de Nosa Señora do Carme de Aguiño",
+            "en": "Igrexa de Nosa Señora do Carme de Aguiño"
+          },
+          "coords": [
+            -9.015941,
+            42.525546
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese den Seefahrern gewidmete Kirche, die das maritime Erbe widerspiegelt; besuchen Sie sie respektvoll außerhalb der Gottesdienstzeiten.",
+            "hu": "Csodálja meg ezt a tengerészek védőszentjének szentelt templomot; látogassa meg tiszteletteljesen a miséken kívüli, csendesebb órákban a fotózáshoz.",
+            "ro": "Admirați această biserică maritimă dedicată sfântului patron al marinarilor, reflectând moștenirea locală; vizitați-o cu respect în afara orelor de slujbă.",
+            "en": "Admire this maritime church dedicated to the patron saint of sailors, which reflects the town's heritage; visit respectfully during non-service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta do Porto de Aguiño",
+            "hu": "Faro da Punta do Porto de Aguiño",
+            "ro": "Faro da Punta do Porto de Aguiño",
+            "en": "Faro da Punta do Porto de Aguiño"
+          },
+          "coords": [
+            -9.015969,
+            42.518674
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Genießen Sie den Atlantikblick von diesem klassischen Leuchtturm; bringen Sie eine Windjacke mit, da die stetige Küstenbrise hier oft recht stark ist.",
+            "hu": "Gyönyörködjön az Atlanti-óceánra nyíló kilátásban a halászhajókat irányító helyi világítótoronyból; hozzon széldzsekit, mert a parti szél igen erős.",
+            "ro": "Bucurați-vă de priveliștile atlantice de la acest far clasic care ghidează bărcile de pescuit; luați o geacă de vânt, deoarece briza este destul de puternică.",
+            "en": "Take in the breathtaking Atlantic views from this classic local lighthouse that guides fishing boats; bring a windbreaker as the coastal breeze is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica da Covasa",
+            "hu": "Fábrica da Covasa",
+            "ro": "Fábrica da Covasa",
+            "en": "Fábrica da Covasa"
+          },
+          "coords": [
+            -9.025665,
+            42.519971
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe in diesen faszinierenden Ruinen einer ehemaligen Salzhütte; tragen Sie feste Schuhe, um den unebenen Boden zu meistern.",
+            "hu": "Fedezze fel a helyi ipari örökséget egykori sózóüzem lenyűgöző romjainál; viseljen túracipőt, hogy biztonságosan mozoghasson az egyenetlen terepen.",
+            "ro": "Descoperiți moștenirea industrială la aceste ruine fascinante ale unei foste fabrici de sărare; purtați încălțăminte solidă pentru a naviga terenul stâncos.",
+            "en": "Discover the industrial heritage at these fascinating ruins of a former salting factory; wear sturdy shoes to safely navigate the uneven, rocky grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Couso",
+            "hu": "Miradoiro do Couso",
+            "ro": "Miradoiro do Couso",
+            "en": "Miradoiro do Couso"
+          },
+          "coords": [
+            -9.034467,
+            42.523514
+          ],
+          "category": "natural",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Erleben Sie weite Ozeanpanoramen von diesem erhöhten natürlichen Aussichtspunkt; nehmen Sie Ferngläser mit, um die vielfältigen Seevögel an den Klippen zu beobachten.",
+            "hu": "Tapasztalja meg a lenyűgöző óceáni panorámát erről a megemelt természetes kilátópontról; hozzon távcsövet a sziklák mentén merülő tengeri madarak megfigyeléséhez.",
+            "ro": "Experimentați panorame oceanice de pe acest punct de belvedere natural ridicat; luați binoclul pentru a observa păsările marine pe stâncile abrupte.",
+            "en": "Experience sweeping panoramic ocean vistas from this elevated natural lookout; carry a camera and binoculars to spot seabirds diving along the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Area Basta",
+            "hu": "Praia da Area Basta",
+            "ro": "Praia da Area Basta",
+            "en": "Praia da Area Basta"
+          },
+          "coords": [
+            -9.041684,
+            42.522986
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Kulisse dieses Strandes, der für exzellente Brandung bekannt ist; bringen Sie einen Neoprenanzug für das kühle galicische Wasser mit.",
+            "hu": "Élvezze ennek az érintetlen, kiváló szörfözési lehetőségeket nyújtó strandnak a látványát; hozzon neoprénruhát, ha úszni szeretne a hűvös galíciai vizekben.",
+            "ro": "Bucurați-vă de peisajul neatins a acestei plaje cunoscute pentru valurile sale; luați un costum de neopren dacă intenționați să înotați în apele galiciene.",
+            "en": "Enjoy the untouched scenery of this slightly hidden beach known for its excellent surf; bring a wetsuit if you plan to swim in the chilly Galician waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Fieitoso",
+            "hu": "Praia de Fieitoso",
+            "ro": "Praia de Fieitoso",
+            "en": "Praia de Fieitoso"
+          },
+          "coords": [
+            -9.039816,
+            42.529384
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigen Küstenabschnitt, umgeben von üppiger Vegetation; ideal zum Lesen, also bringen Sie Ihr Lieblingsbuch mit.",
+            "hu": "Meneküljön el a tömeg elől ezen a dús növényzettel körülvett, nyugodt partszakaszon; ideális hely olvasáshoz, így mindenképp hozza magával a kedvenc könyvét.",
+            "ro": "Evadați de aglomerație pe această coastă senină înconjurată de vegetație luxuriantă; ideal pentru lectură liniștită, așa că aduceți cartea preferată.",
+            "en": "Escape the crowds at this serene stretch of coastline surrounded by lush vegetation; ideal for quiet reading, so bring your favorite book and a sunhat."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro dos Castelos",
+            "hu": "Miradoiro dos Castelos",
+            "ro": "Miradoiro dos Castelos",
+            "en": "Miradoiro dos Castelos"
+          },
+          "coords": [
+            -9.026515,
+            42.530602
+          ],
+          "category": "natural",
+          "arrive_at": "14:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen im Kontrast zum tiefblauen Atlantik; treten Sie beim Fotografieren vorsichtig in die Nähe der felsigen Ränder.",
+            "hu": "Csodálja meg a drámai sziklaképződményeket, amelyek kontrasztot alkotnak a kék Atlanti-óceánnal; lépkedjen óvatosan a peremeken a fényképezés során.",
+            "ro": "Minunați-vă de formațiunile stâncoase dramatice care contrastează cu apele albastre ale Atlanticului; pășiți cu atenție pe margini când faceți fotografii.",
+            "en": "Marvel at the dramatic rock formations contrasting with the deep blue Atlantic waters; step carefully near the edges when snapping your memorable photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Anguieiro",
+            "hu": "Praia do Anguieiro",
+            "ro": "Praia do Anguieiro",
+            "en": "Praia do Anguieiro"
+          },
+          "coords": [
+            -9.032268,
+            42.541682
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an dieser friedlichen Bucht ausklingen, wo sanfte Wellen auf die Küste treffen; bleiben Sie bis zur Dämmerung für einen tollen Sonnenuntergang.",
+            "hu": "Zárja a napot ebben a békés öbölben, ahol a szelíd hullámok találkoznak a parttal; maradjon sötétedésig, hogy megcsodálja a régió lenyűgöző naplementéjét.",
+            "ro": "Încheiați ziua în acest golf pașnic unde valurile blânde întâlnesc țărmul neprihănit; rămâneți până la amurg pentru a surprinde un apus de soare spectaculos.",
+            "en": "Conclude your day at this peaceful bay where gentle waves meet the pristine shore; stick around until dusk to catch one of the region's spectacular sunsets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bietet maritime Geschichte an der Kirche und am Leuchtturm, gefolgt von der alten Salzhütte. Mittags fahren Sie malerisch vom Couso-Aussichtspunkt zum Praia da Area Basta. Nachmittags entspannen Sie am Praia de Fieitoso. Der Abend endet perfekt am Strand von Anguieiro.",
+        "hu": "A reggel a tengerészeti történelmet öleli fel a templomnál és a világítótoronynál, majd a sózóüzemnél. A dél a festői Couso kilátótól a Praia da Area Basta felé vezető utazásé. Délután a Praia de Fieitoso partján pihenhet. Az este az Anguieiro strandon zárul egy sziklás kilátó megtekintése után.",
+        "ro": "Dimineața oferă istorie maritimă la biserică și far, înainte de a explora fosta fabrică de sărare. Prânzul este pentru o plimbare pitorească de la Couso la Praia da Area Basta. După-amiaza vă relaxați la Praia de Fieitoso. Seara se încheie perfect pe plaja Anguieiro după o oprire la Castelos.",
+        "en": "Morning features maritime history at the local church and lighthouse before exploring the old salting factory. Midday is for scenic drives connecting Couso's viewpoint to Praia da Area Basta. Afternoon finds you relaxing at Praia de Fieitoso. Evening concludes perfectly at Anguieiro beach after a stop at Castelos."
+      }
+    }
+  }
+}

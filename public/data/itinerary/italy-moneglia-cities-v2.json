@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-moneglia-cities-v2",
+  "anchor": {
+    "name": "Moneglia",
+    "coords": [
+      9.48998,
+      44.2385
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 1.06,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Monleone",
+            "hu": "Castello di Monleone",
+            "ro": "Castello di Monleone",
+            "en": "Castello di Monleone"
+          },
+          "coords": [
+            9.486654,
+            44.240703
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festung mit atemberaubendem Blick auf die Küste und tragen Sie bequeme Schuhe für die unebenen Wege hinauf.",
+            "hu": "Fedezze fel ezt a történelmi erődítményt a lenyűgöző tengerparti kilátásért, és viseljen kényelmes cipőt az egyenetlen, meredek ösvényeken.",
+            "ro": "Explorați această fortăreață istorică pentru vederi uimitoare la coastă și asigurați-vă că purtați pantofi comozi pentru cărările abrupte.",
+            "en": "Explore this historical fortress to enjoy stunning coastal views, and remember to wear comfortable shoes for the uneven pathways up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giorgio",
+            "hu": "Chiesa di San Giorgio",
+            "ro": "Chiesa di San Giorgio",
+            "en": "Chiesa di San Giorgio"
+          },
+          "coords": [
+            9.487955,
+            44.240675
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die franziskanische Architektur dieser Kirche und versuchen Sie, morgens zu kommen, wenn das Licht die feinen Details hervorhebt.",
+            "hu": "Csodálja meg e békés templom ferences építészetét, és látogasson el a reggeli órákban, amikor a fény gyönyörűen kiemeli a finom részleteket.",
+            "ro": "Admirați arhitectura franciscană a acestei biserici liniștite și vizitați-o dimineața, când lumina scoate în evidență detaliile arhitecturale.",
+            "en": "Admire the beautiful Franciscan architecture of this peaceful church, and try to visit during the morning hours when the lighting highlights the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Letizia",
+            "hu": "Bagni Letizia",
+            "ro": "Bagni Letizia",
+            "en": "Bagni Letizia"
+          },
+          "coords": [
+            9.487259,
+            44.239535
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem gut ausgestatteten Strand, aber reservieren Sie Ihren Sonnenschirm und Ihre Liege in der Hochsaison rechtzeitig.",
+            "hu": "Pihenjen a finom homokon ezen a jól felszerelt strandon, de a nyári csúcsszezonban mindenképpen érdemes előre lefoglalni a napernyőt és az ágyat.",
+            "ro": "Relaxați-vă pe nisipul fin la această plajă bine dotată, dar asigurați-vă că rezervați din timp o umbrelă și un șezlong în sezonul de vârf.",
+            "en": "Relax on the soft sand at this well-equipped beach facility, but make sure to reserve your umbrella and sunbed early during the peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Moneglia Beach",
+            "hu": "Moneglia Beach",
+            "ro": "Moneglia Beach",
+            "en": "Moneglia Beach"
+          },
+          "coords": [
+            9.488654,
+            44.238815
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache, kristallklare Wasser zum Schwimmen und bringen Sie etwas Bargeld für ein Eis von den nahe gelegenen Strandkiosken mit.",
+            "hu": "Élvezze a sekély, kristálytiszta vizet, amely tökéletes úszáshoz, és hozzon magával készpénzt egy fagylaltra a közeli parti árusok egyikétől.",
+            "ro": "Bucurați-vă de apele limpezi și puțin adânci, perfecte pentru înot, și aduceți numerar pentru a cumpăra o înghețată de la chioșcurile din apropiere.",
+            "en": "Enjoy the shallow, crystal-clear waters perfect for swimming, and bring some cash for a quick gelato from the nearby seaside vendor kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Croce",
+            "hu": "Chiesa di Santa Croce",
+            "ro": "Chiesa di Santa Croce",
+            "en": "Chiesa di Santa Croce"
+          },
+          "coords": [
+            9.492797,
+            44.238343
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die byzantinischen Kunstwerke in dieser Pfarrkirche und denken Sie daran, leise zu sprechen, da es sich um einen aktiven Kultort handelt.",
+            "hu": "Csodálja meg a bizánci stílusú műalkotásokat ebben a plébániatemplomban, és ügyeljen a csendre, mivel ez egy aktívan használt imahely a helyiek számára.",
+            "ro": "Minunați-vă de arta în stil bizantin din această biserică parohială și păstrați liniștea, deoarece acesta este un loc activ de închinare zilnică.",
+            "en": "Marvel at the intricate Byzantine-style artwork inside this parish church, and remember to keep your voice low as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Acquarium",
+            "hu": "Bagni Acquarium",
+            "ro": "Bagni Acquarium",
+            "en": "Bagni Acquarium"
+          },
+          "coords": [
+            9.494658,
+            44.235382
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem Ort mit sauberen Einrichtungen und kommen Sie vor dem Mittag, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Sütkérezzen a napon ezen a tiszta létesítményeiről ismert népszerű strandon, és érkezzen dél előtt, hogy a legjobb helyet kapja a vízparton.",
+            "ro": "Bucurați-vă de soare în acest loc popular pentru facilitățile sale curate și veniți înainte de prânz pentru a prinde cel mai bun loc lângă apă.",
+            "en": "Soak in the sun at this popular spot known for clean facilities, and consider arriving before noon to secure the best spot near the gentle waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Moneglia und atmen Sie die frische Meeresbrise ein, während Sie die alten Festungen erkunden, die von der Vergangenheit erzählen.\nGegen Mittag laden die Sandstrände dazu ein, sich unter der ligurischen Sonne zu entspannen und den warmen Sand zwischen den Zehen zu spüren.\nDer Nachmittag wird mit Besuchen historischer Kirchen fortgesetzt, die einen ruhigen Rückzugsort von der lebendigen Energie der Küste bieten.\nBeenden Sie Ihre Reise bei Einbruch der Dunkelheit und beobachten Sie von einem friedlichen Aussichtspunkt aus, wie die Sonne über dem Wasser untergeht.",
+        "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
+        "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
+        "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia La Secca",
+            "hu": "Spiaggia La Secca",
+            "ro": "Spiaggia La Secca",
+            "en": "Spiaggia La Secca"
+          },
+          "coords": [
+            9.482326,
+            44.240626
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigere Bucht mit ihrer rauen Küste und packen Sie Ihre Schnorchelausrüstung ein, um die Meereslebewesen am Felsen zu erkunden.",
+            "hu": "Fedezze fel ezt a csendesebb, vadabb tengerparti öblöt, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás szélek tengeri élővilágát.",
+            "ro": "Descoperiți acest golf mai liniștit care oferă o experiență de coastă pitorească și aduceți echipamentul de snorkeling pentru a explora stâncile.",
+            "en": "Discover this quieter cove offering a more rugged coastal experience, and pack your snorkeling gear to explore the marine life near the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Monleone",
+            "hu": "Castello di Monleone",
+            "ro": "Castello di Monleone",
+            "en": "Castello di Monleone"
+          },
+          "coords": [
+            9.486654,
+            44.240703
+          ],
+          "category": "castle",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festung mit atemberaubendem Blick auf die Küste und tragen Sie bequeme Schuhe für die unebenen Wege hinauf.",
+            "hu": "Fedezze fel ezt a történelmi erődítményt a lenyűgöző tengerparti kilátásért, és viseljen kényelmes cipőt az egyenetlen, meredek ösvényeken.",
+            "ro": "Explorați această fortăreață istorică pentru vederi uimitoare la coastă și asigurați-vă că purtați pantofi comozi pentru cărările abrupte.",
+            "en": "Explore this historical fortress to enjoy stunning coastal views, and remember to wear comfortable shoes for the uneven pathways up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giorgio",
+            "hu": "Chiesa di San Giorgio",
+            "ro": "Chiesa di San Giorgio",
+            "en": "Chiesa di San Giorgio"
+          },
+          "coords": [
+            9.487955,
+            44.240675
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die franziskanische Architektur dieser Kirche und versuchen Sie, morgens zu kommen, wenn das Licht die feinen Details hervorhebt.",
+            "hu": "Csodálja meg e békés templom ferences építészetét, és látogasson el a reggeli órákban, amikor a fény gyönyörűen kiemeli a finom részleteket.",
+            "ro": "Admirați arhitectura franciscană a acestei biserici liniștite și vizitați-o dimineața, când lumina scoate în evidență detaliile arhitecturale.",
+            "en": "Admire the beautiful Franciscan architecture of this peaceful church, and try to visit during the morning hours when the lighting highlights the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Libera Attrezzata Il Volto",
+            "hu": "Spiaggia Libera Attrezzata Il Volto",
+            "ro": "Spiaggia Libera Attrezzata Il Volto",
+            "en": "Spiaggia Libera Attrezzata Il Volto"
+          },
+          "coords": [
+            9.490658,
+            44.237958
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Nutzen Sie den freien Eintritt an diesem schönen öffentlichen Strand, aber kommen Sie früh am Morgen und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Használja ki a gyönyörű szabadstrand ingyenes belépését, de érkezzen kora reggel, és hozzon magával saját törölközőt a legjobb helyekért.",
+            "ro": "Profitați de intrarea gratuită la această plajă publică minunată, dar ajungeți dis-de-dimineață și aduceți-vă propriul prosop pentru a prinde loc.",
+            "en": "Take advantage of the free entry at this lovely public beach, but arrive early in the morning and bring your own towel to claim a spacious spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Croce",
+            "hu": "Chiesa di Santa Croce",
+            "ro": "Chiesa di Santa Croce",
+            "en": "Chiesa di Santa Croce"
+          },
+          "coords": [
+            9.492797,
+            44.238343
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die byzantinischen Kunstwerke in dieser Pfarrkirche und denken Sie daran, leise zu sprechen, da es sich um einen aktiven Kultort handelt.",
+            "hu": "Csodálja meg a bizánci stílusú műalkotásokat ebben a plébániatemplomban, és ügyeljen a csendre, mivel ez egy aktívan használt imahely a helyiek számára.",
+            "ro": "Minunați-vă de arta în stil bizantin din această biserică parohială și păstrați liniștea, deoarece acesta este un loc activ de închinare zilnică.",
+            "en": "Marvel at the intricate Byzantine-style artwork inside this parish church, and remember to keep your voice low as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Cinque",
+            "hu": "Bagni Cinque",
+            "ro": "Bagni Cinque",
+            "en": "Bagni Cinque"
+          },
+          "coords": [
+            9.495981,
+            44.234049
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem perfekten Strand für Familien und probieren Sie mittags die lokalen Meeresfrüchtespezialitäten im angrenzenden Restaurant.",
+            "hu": "Kapcsolódjon ki ezen a családok számára tökéletes, tiszta strandon, és ebédre kóstolja meg a helyi tengeri finomságokat a szomszédos étteremben.",
+            "ro": "Relaxați-vă la această plajă curată, perfectă pentru familii, și gustați delicatesele locale cu fructe de mare la restaurantul alăturat la prânz.",
+            "en": "Unwind at this pristine beach establishment perfect for families, and try the local seafood delicacies at their adjacent restaurant for lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Moneglia und atmen Sie die frische Meeresbrise ein, während Sie die alten Festungen erkunden, die von der Vergangenheit erzählen.\nGegen Mittag laden die Sandstrände dazu ein, sich unter der ligurischen Sonne zu entspannen und den warmen Sand zwischen den Zehen zu spüren.\nDer Nachmittag wird mit Besuchen historischer Kirchen fortgesetzt, die einen ruhigen Rückzugsort von der lebendigen Energie der Küste bieten.\nBeenden Sie Ihre Reise bei Einbruch der Dunkelheit und beobachten Sie von einem friedlichen Aussichtspunkt aus, wie die Sonne über dem Wasser untergeht.",
+        "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
+        "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
+        "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 1.98,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia La Secca",
+            "hu": "Spiaggia La Secca",
+            "ro": "Spiaggia La Secca",
+            "en": "Spiaggia La Secca"
+          },
+          "coords": [
+            9.482326,
+            44.240626
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigere Bucht mit ihrer rauen Küste und packen Sie Ihre Schnorchelausrüstung ein, um die Meereslebewesen am Felsen zu erkunden.",
+            "hu": "Fedezze fel ezt a csendesebb, vadabb tengerparti öblöt, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás szélek tengeri élővilágát.",
+            "ro": "Descoperiți acest golf mai liniștit care oferă o experiență de coastă pitorească și aduceți echipamentul de snorkeling pentru a explora stâncile.",
+            "en": "Discover this quieter cove offering a more rugged coastal experience, and pack your snorkeling gear to explore the marine life near the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Monleone",
+            "hu": "Castello di Monleone",
+            "ro": "Castello di Monleone",
+            "en": "Castello di Monleone"
+          },
+          "coords": [
+            9.486654,
+            44.240703
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Festung mit atemberaubendem Blick auf die Küste und tragen Sie bequeme Schuhe für die unebenen Wege hinauf.",
+            "hu": "Fedezze fel ezt a történelmi erődítményt a lenyűgöző tengerparti kilátásért, és viseljen kényelmes cipőt az egyenetlen, meredek ösvényeken.",
+            "ro": "Explorați această fortăreață istorică pentru vederi uimitoare la coastă și asigurați-vă că purtați pantofi comozi pentru cărările abrupte.",
+            "en": "Explore this historical fortress to enjoy stunning coastal views, and remember to wear comfortable shoes for the uneven pathways up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Moneglia Beach",
+            "hu": "Moneglia Beach",
+            "ro": "Moneglia Beach",
+            "en": "Moneglia Beach"
+          },
+          "coords": [
+            9.488654,
+            44.238815
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache, kristallklare Wasser zum Schwimmen und bringen Sie etwas Bargeld für ein Eis von den nahe gelegenen Strandkiosken mit.",
+            "hu": "Élvezze a sekély, kristálytiszta vizet, amely tökéletes úszáshoz, és hozzon magával készpénzt egy fagylaltra a közeli parti árusok egyikétől.",
+            "ro": "Bucurați-vă de apele limpezi și puțin adânci, perfecte pentru înot, și aduceți numerar pentru a cumpăra o înghețată de la chioșcurile din apropiere.",
+            "en": "Enjoy the shallow, crystal-clear waters perfect for swimming, and bring some cash for a quick gelato from the nearby seaside vendor kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Croce",
+            "hu": "Chiesa di Santa Croce",
+            "ro": "Chiesa di Santa Croce",
+            "en": "Chiesa di Santa Croce"
+          },
+          "coords": [
+            9.492797,
+            44.238343
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die byzantinischen Kunstwerke in dieser Pfarrkirche und denken Sie daran, leise zu sprechen, da es sich um einen aktiven Kultort handelt.",
+            "hu": "Csodálja meg a bizánci stílusú műalkotásokat ebben a plébániatemplomban, és ügyeljen a csendre, mivel ez egy aktívan használt imahely a helyiek számára.",
+            "ro": "Minunați-vă de arta în stil bizantin din această biserică parohială și păstrați liniștea, deoarece acesta este un loc activ de închinare zilnică.",
+            "en": "Marvel at the intricate Byzantine-style artwork inside this parish church, and remember to keep your voice low as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Lemeglio",
+            "hu": "Chiesa di Lemeglio",
+            "ro": "Chiesa di Lemeglio",
+            "en": "Chiesa di Lemeglio"
+          },
+          "coords": [
+            9.502049,
+            44.231713
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick von dieser malerischen Kirche und nehmen Sie sich einen Moment Zeit, um die umliegenden Olivenhaine zu bewundern.",
+            "hu": "Élvezze a lenyűgöző óceáni panorámát e hangulatos templom magaslati fekvéséből, és szánjon egy percet a környező olajfaligetek megcsodálására.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale oceanului de la această biserică pitorească și admirați frumoasele plantații de măslini din jur.",
+            "en": "Enjoy the panoramic ocean vistas from the elevated position of this quaint church, and take a moment to admire the surrounding olive tree groves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Moneglia und atmen Sie die frische Meeresbrise ein, während Sie die alten Festungen erkunden, die von der Vergangenheit erzählen.\nGegen Mittag laden die Sandstrände dazu ein, sich unter der ligurischen Sonne zu entspannen und den warmen Sand zwischen den Zehen zu spüren.\nDer Nachmittag wird mit Besuchen historischer Kirchen fortgesetzt, die einen ruhigen Rückzugsort von der lebendigen Energie der Küste bieten.\nBeenden Sie Ihre Reise bei Einbruch der Dunkelheit und beobachten Sie von einem friedlichen Aussichtspunkt aus, wie die Sonne über dem Wasser untergeht.",
+        "hu": "Kezdje a napot Monegliában a friss tengeri szellővel, miközben bejárja az ősi parti erődöket, amelyek a régió gazdag történelméről mesélnek.\nA dél közeledtével a homokos partok hívogatnak, hogy megpihenjen a liguriai napsütésben, és érezze a meleg homokot a lábujjai között.\nA délután lenyűgöző építészetű, békés történelmi templomok látogatásával folytatódik, melyek csendes menedéket nyújtanak.\nZárja az utazást kora este egy nyugodt tengerparti ponton, ahogy a naplemente arany árnyalatokkal festi meg a kristálytiszta, csillogó víztükröt.",
+        "ro": "Începeți ziua în Moneglia respirând briza proaspătă a mării, în timp ce explorați vechile fortărețe care spun povești despre trecutul regiunii.\nLa amiază, plajele nisipoase vă invită să vă relaxați sub soarele blând, simțind nisipul cald între degetele de la picioare pe țărmul liniștit.\nDupă-amiaza continuă cu vizite la biserici istorice decorate cu arhitectură impresionantă, oferind un refugiu retras din agitația de pe coastă.\nÎncheiați călătoria seara, privind apusul care aruncă nuanțe aurii peste apele cristaline dintr-un punct de belvedere pașnic de la malul mării.",
+        "en": "Start your day in Moneglia by breathing in the fresh sea breeze while wandering around the ancient coastal fortresses that tell tales of the region's rich past.\nAs midday approaches, the sandy shores invite you to relax under the gentle Ligurian sun, feeling the warm sand between your toes.\nThe afternoon continues with visits to serene historical churches adorned with stunning architecture, offering a quiet retreat from the lively coastal energy.\nConclude your journey as the evening sets in, watching the sunset cast golden hues over the crystalline waters from a peaceful seaside viewpoint."
+      }
+    }
+  }
+}

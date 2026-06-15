@@ -1,0 +1,451 @@
+{
+  "city_id": "livron-sur-drome",
+  "anchor": {
+    "name": "Livron-sur-Drôme",
+    "coords": [
+      4.8431,
+      44.7728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:13",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            4.843071,
+            44.773918
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Herz-Jesu-Kirche und achten Sie auf die bunten Glasfenster, wobei Sie morgens das beste Licht für Fotos haben.",
+            "hu": "Csodálja meg a Szent Szív templom elegáns építészetét és színes üvegablakait, amelyek a reggeli fényekben mutatnak a legjobban a fényképeken.",
+            "ro": "Admirați arhitectura elegantă a Bisericii Inimii Sacre și vitraliile sale colorate, profitând de lumina blândă a dimineții pentru fotografii reușite.",
+            "en": "Admire the elegant architecture and colorful stained glass of the Sacred Heart Church, making sure to visit in the morning for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple",
+            "hu": "Temple",
+            "ro": "Temple",
+            "en": "Temple"
+          },
+          "coords": [
+            4.845875,
+            44.773517
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die schlichte, aber faszinierende protestantische Geschichte dieses Tempels und respektieren Sie die Stille während Ihres kurzen Rundgangs.",
+            "hu": "Fedezze fel ennek a templomnak az egyszerű, de lenyűgöző protestáns történelmét, és tartsa tiszteletben a csendet a rövid látogatás során.",
+            "ro": "Descoperiți istoria protestantă simplă, dar fascinantă a acestui templu, păstrând liniștea pentru a vă bucura de atmosfera sa reflexivă în timpul vizitei.",
+            "en": "Discover the simple yet fascinating Protestant history of this temple, remembering to respect the tranquil atmosphere during your brief contemplative visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Anciens remparts - Place du Barry",
+            "hu": "Anciens remparts - Place du Barry",
+            "ro": "Anciens remparts - Place du Barry",
+            "en": "Anciens remparts - Place du Barry"
+          },
+          "coords": [
+            4.84596,
+            44.77246
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Stadtmauern am Place du Barry und stellen Sie sich die mittelalterliche Verteidigung vor, während Sie auf bequemes Schuhwerk achten.",
+            "hu": "Sétáljon végig a Place du Barry régi városfalain, képzelje el a középkori védelmi rendszert, és mindenképpen viseljen kényelmes lábbelit a macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul vechilor metereze din Place du Barry pentru a înțelege apărarea medievală a orașului, purtând încălțăminte comodă pe suprafețele inegale.",
+            "en": "Stroll along the ancient ramparts at Place du Barry to visualize the town's medieval defenses, ensuring you wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Prix Church",
+            "hu": "Saint-Prix Church",
+            "ro": "Saint-Prix Church",
+            "en": "Saint-Prix Church"
+          },
+          "coords": [
+            4.846231,
+            44.771098
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historische Saint-Prix-Kirche, die ein integraler Bestandteil des lokalen Erbes ist, und prüfen Sie vorab die aktuellen Öffnungszeiten.",
+            "hu": "Látogasson el a helyi örökség szerves részét képező, történelmi Saint-Prix templomba, de előtte érdemes ellenőrizni a pontos nyitvatartási időt.",
+            "ro": "Vizitați biserica istorică Saint-Prix, o parte integrantă a patrimoniului local, verificând în prealabil programul de deschidere pentru a nu găsi ușile închise.",
+            "en": "Visit the historical Saint-Prix Church, which stands as an integral part of local heritage, but check the opening hours in advance as they can vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Livron (Vieux Livron)",
+            "hu": "Old Livron (Vieux Livron)",
+            "ro": "Old Livron (Vieux Livron)",
+            "en": "Old Livron (Vieux Livron)"
+          },
+          "coords": [
+            4.84299,
+            44.76993
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen, verwinkelten Gassen von Vieux Livron, um in die Vergangenheit einzutauchen, und nehmen Sie sich Zeit für die vielen kleinen Details.",
+            "hu": "Fedezze fel Vieux Livron festői, kanyargós utcáit, merüljön el a múltban, és szánjon elegendő időt a rejtett építészeti részletek megfigyelésére.",
+            "ro": "Explorați străduțele pitorești și întortocheate din Vieux Livron pentru a păși în trecut, luându-vă suficient timp pentru a admira detaliile ascunse.",
+            "en": "Explore the picturesque, winding streets of Old Livron to truly step back in time, allowing yourself plenty of unhurried moments to notice hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Vierge",
+            "hu": "Chapelle de la Vierge",
+            "ro": "Chapelle de la Vierge",
+            "en": "Chapelle de la Vierge"
+          },
+          "coords": [
+            4.84633,
+            44.769095
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der Marienkapelle am Rande der Altstadt, die einen perfekten Ort für eine ruhige Pause auf Ihrem Spaziergang bietet.",
+            "hu": "Élvezze a Szűzanya-kápolna békés hangulatát az óváros szélén, amely tökéletes helyszínt biztosít egy csendes pihenőhöz a séta vége felé.",
+            "ro": "Bucurați-vă de atmosfera pașnică a Capelei Fecioarei de la marginea orașului vechi, un loc perfect pentru o pauză liniștită după explorare.",
+            "en": "Enjoy the deeply peaceful atmosphere of the Chapel of the Virgin on the edge of the old town, offering a perfect spot for a quiet rest during your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der geistlichen Atmosphäre in der Église du Sacré-Cœur und dem Tempel. Mittags erkunden Sie die historischen Stadtmauern am Place du Barry. Der Nachmittag gehört den charmanten Gassen von Vieux Livron. Den Tag lassen Sie besinnlich an der Chapelle de la Vierge ausklingen.",
+        "hu": "Kezdje a reggelt a Szent Szív templom és a protestáns templom áhítatos hangulatával. Délben fedezze fel a Place du Barry régi városfalait. A délután Vieux Livron bájos utcáinak felfedezésével telik. A napot a Szűzanya-kápolna békés környezetében, csendes pihenővel zárhatja.",
+        "ro": "Începeți dimineața cu atmosfera spirituală de la Biserica Inimii Sacre și Templu. La prânz, descoperiți vechile metereze din Place du Barry. După-amiaza este dedicată străduțelor fermecătoare din Vieux Livron. Încheiați ziua într-o notă contemplativă la Capela Fecioarei.",
+        "en": "Begin the morning with the spiritual atmosphere of the Sacred Heart Church and the Temple. By midday, explore the historic ramparts at Place du Barry. The afternoon is dedicated to wandering the charming streets of Old Livron. End your day peacefully reflecting by the Chapel of the Virgin."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bridge over the Drôme",
+            "hu": "Bridge over the Drôme",
+            "ro": "Bridge over the Drôme",
+            "en": "Bridge over the Drôme"
+          },
+          "coords": [
+            4.84891,
+            44.782732
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke über die Drôme für einen großartigen Flussblick und achten Sie beim Fotografieren auf den vorbeifahrenden Verkehr.",
+            "hu": "Keljen át ezen a történelmi hídon a Drôme felett a nagyszerű folyami kilátásért, de fényképezés közben mindig ügyeljen az elhaladó forgalomra.",
+            "ro": "Traversați acest pod istoric peste râul Drôme pentru priveliști superbe, dar fiți atenți la traficul de pe pod atunci când faceți fotografii.",
+            "en": "Cross this historical bridge over the Drôme River for magnificent water views, keeping a careful eye on passing traffic while taking your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            4.843071,
+            44.773918
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Herz-Jesu-Kirche und achten Sie auf die bunten Glasfenster, wobei Sie morgens das beste Licht für Fotos haben.",
+            "hu": "Csodálja meg a Szent Szív templom elegáns építészetét és színes üvegablakait, amelyek a reggeli fényekben mutatnak a legjobban a fényképeken.",
+            "ro": "Admirați arhitectura elegantă a Bisericii Inimii Sacre și vitraliile sale colorate, profitând de lumina blândă a dimineții pentru fotografii reușite.",
+            "en": "Admire the elegant architecture and colorful stained glass of the Sacred Heart Church, making sure to visit in the morning for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Anciens remparts - Place du Barry",
+            "hu": "Anciens remparts - Place du Barry",
+            "ro": "Anciens remparts - Place du Barry",
+            "en": "Anciens remparts - Place du Barry"
+          },
+          "coords": [
+            4.84596,
+            44.77246
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Stadtmauern am Place du Barry und stellen Sie sich die mittelalterliche Verteidigung vor, während Sie auf bequemes Schuhwerk achten.",
+            "hu": "Sétáljon végig a Place du Barry régi városfalain, képzelje el a középkori védelmi rendszert, és mindenképpen viseljen kényelmes lábbelit a macskaköveken.",
+            "ro": "Plimbați-vă de-a lungul vechilor metereze din Place du Barry pentru a înțelege apărarea medievală a orașului, purtând încălțăminte comodă pe suprafețele inegale.",
+            "en": "Stroll along the ancient ramparts at Place du Barry to visualize the town's medieval defenses, ensuring you wear comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Livron (Vieux Livron)",
+            "hu": "Old Livron (Vieux Livron)",
+            "ro": "Old Livron (Vieux Livron)",
+            "en": "Old Livron (Vieux Livron)"
+          },
+          "coords": [
+            4.84299,
+            44.76993
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen, verwinkelten Gassen von Vieux Livron, um in die Vergangenheit einzutauchen, und nehmen Sie sich Zeit für die vielen kleinen Details.",
+            "hu": "Fedezze fel Vieux Livron festői, kanyargós utcáit, merüljön el a múltban, és szánjon elegendő időt a rejtett építészeti részletek megfigyelésére.",
+            "ro": "Explorați străduțele pitorești și întortocheate din Vieux Livron pentru a păși în trecut, luându-vă suficient timp pentru a admira detaliile ascunse.",
+            "en": "Explore the picturesque, winding streets of Old Livron to truly step back in time, allowing yourself plenty of unhurried moments to notice hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Vierge",
+            "hu": "Chapelle de la Vierge",
+            "ro": "Chapelle de la Vierge",
+            "en": "Chapelle de la Vierge"
+          },
+          "coords": [
+            4.84633,
+            44.769095
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der Marienkapelle am Rande der Altstadt, die einen perfekten Ort für eine ruhige Pause auf Ihrem Spaziergang bietet.",
+            "hu": "Élvezze a Szűzanya-kápolna békés hangulatát az óváros szélén, amely tökéletes helyszínt biztosít egy csendes pihenőhöz a séta vége felé.",
+            "ro": "Bucurați-vă de atmosfera pașnică a Capelei Fecioarei de la marginea orașului vechi, un loc perfect pentru o pauză liniștită după explorare.",
+            "en": "Enjoy the deeply peaceful atmosphere of the Chapel of the Virgin on the edge of the old town, offering a perfect spot for a quiet rest during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château la Rolière",
+            "hu": "Château la Rolière",
+            "ro": "Château la Rolière",
+            "en": "Château la Rolière"
+          },
+          "coords": [
+            4.875751,
+            44.776915
+          ],
+          "category": "castle",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Schloss, das in die lokale Weinbaugeschichte eingebunden ist, und fragen Sie nach einer möglichen Weinverkostung in den Kellern.",
+            "hu": "Látogasson el ebbe az elegáns, a helyi borászat történelméhez kötődő kastélyba, és érdeklődjön a pincészetben elérhető borkóstolási lehetőségekről.",
+            "ro": "Vizitați acest castel elegant, adânc înrădăcinat în istoria viticolă locală, și întrebați de posibilitatea unei degustări de vinuri în cramele domeniului.",
+            "en": "Visit this elegant castle deeply tied to local winemaking history, and don't hesitate to ask about booking a wine tasting experience in their cellars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit einem weiten Blick von der historischen Brücke über die Drôme. Radeln Sie mittags ins Zentrum, um Kirchen und alte Stadtmauern zu besichtigen. Am Nachmittag tauchen Sie in die Gassen von Vieux Livron ein. Beenden Sie die Tour mit einer Fahrt zum eleganten Château la Rolière.",
+        "hu": "A nap a történelmi Drôme-hídról nyíló csodás kilátással indul. Délben a központ felé pedálozva templomokat és régi falakat tekinthet meg. Délután merüljön el Vieux Livron történelmi utcáiban. A kerékpártúrát az elegáns Château la Rolière meglátogatásával fejezheti be.",
+        "ro": "Ziua începe cu o priveliște amplă de pe podul istoric peste Drôme. La prânz, pedalați spre centru pentru biserici și metereze. După-amiaza vă scufundă în istoria din Vieux Livron. Încheiați traseul cu o plimbare plăcută până la elegantul Château la Rolière.",
+        "en": "The day starts with sweeping views from the historical bridge over the Drôme. Midday sees you cycling into the center to explore churches and ramparts. In the afternoon, delve into the historic alleys of Old Livron. Conclude your ride with a journey to the elegant Château la Rolière."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Drôme Delta Nature Reserve",
+            "hu": "Drôme Delta Nature Reserve",
+            "ro": "Drôme Delta Nature Reserve",
+            "en": "Drôme Delta Nature Reserve"
+          },
+          "coords": [
+            4.926568,
+            44.745776
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Vogelwelt und die einzigartige Flora im Drôme-Delta, wofür ein Fernglas und leise Schritte absolut empfehlenswert sind.",
+            "hu": "Figyelje meg a Drôme-delta gazdag madárvilágát és egyedi növényzetét, amihez távcső hozatala és csendes, nyugodt séta kifejezetten ajánlott.",
+            "ro": "Observați bogata viață a păsărilor și flora unică din rezervația Deltei Drôme, fiind foarte recomandat să aduceți binoclu și să pășiți în liniște.",
+            "en": "Observe the rich birdlife and unique flora in the Drôme Delta Nature Reserve, making a pair of binoculars and quiet footsteps absolutely essential."
+          }
+        },
+        {
+          "name": {
+            "de": "Château la Rolière",
+            "hu": "Château la Rolière",
+            "ro": "Château la Rolière",
+            "en": "Château la Rolière"
+          },
+          "coords": [
+            4.875751,
+            44.776915
+          ],
+          "category": "castle",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses elegante Schloss, das in die lokale Weinbaugeschichte eingebunden ist, und fragen Sie nach einer möglichen Weinverkostung in den Kellern.",
+            "hu": "Látogasson el ebbe az elegáns, a helyi borászat történelméhez kötődő kastélyba, és érdeklődjön a pincészetben elérhető borkóstolási lehetőségekről.",
+            "ro": "Vizitați acest castel elegant, adânc înrădăcinat în istoria viticolă locală, și întrebați de posibilitatea unei degustări de vinuri în cramele domeniului.",
+            "en": "Visit this elegant castle deeply tied to local winemaking history, and don't hesitate to ask about booking a wine tasting experience in their cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge over the Drôme",
+            "hu": "Bridge over the Drôme",
+            "ro": "Bridge over the Drôme",
+            "en": "Bridge over the Drôme"
+          },
+          "coords": [
+            4.84891,
+            44.782732
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke über die Drôme für einen großartigen Flussblick und achten Sie beim Fotografieren auf den vorbeifahrenden Verkehr.",
+            "hu": "Keljen át ezen a történelmi hídon a Drôme felett a nagyszerű folyami kilátásért, de fényképezés közben mindig ügyeljen az elhaladó forgalomra.",
+            "ro": "Traversați acest pod istoric peste râul Drôme pentru priveliști superbe, dar fiți atenți la traficul de pe pod atunci când faceți fotografii.",
+            "en": "Cross this historical bridge over the Drôme River for magnificent water views, keeping a careful eye on passing traffic while taking your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            4.843071,
+            44.773918
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur der Herz-Jesu-Kirche und achten Sie auf die bunten Glasfenster, wobei Sie morgens das beste Licht für Fotos haben.",
+            "hu": "Csodálja meg a Szent Szív templom elegáns építészetét és színes üvegablakait, amelyek a reggeli fényekben mutatnak a legjobban a fényképeken.",
+            "ro": "Admirați arhitectura elegantă a Bisericii Inimii Sacre și vitraliile sale colorate, profitând de lumina blândă a dimineții pentru fotografii reușite.",
+            "en": "Admire the elegant architecture and colorful stained glass of the Sacred Heart Church, making sure to visit in the morning for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Livron (Vieux Livron)",
+            "hu": "Old Livron (Vieux Livron)",
+            "ro": "Old Livron (Vieux Livron)",
+            "en": "Old Livron (Vieux Livron)"
+          },
+          "coords": [
+            4.84299,
+            44.76993
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen, verwinkelten Gassen von Vieux Livron, um in die Vergangenheit einzutauchen, und nehmen Sie sich Zeit für die vielen kleinen Details.",
+            "hu": "Fedezze fel Vieux Livron festői, kanyargós utcáit, merüljön el a múltban, és szánjon elegendő időt a rejtett építészeti részletek megfigyelésére.",
+            "ro": "Explorați străduțele pitorești și întortocheate din Vieux Livron pentru a păși în trecut, luându-vă suficient timp pentru a admira detaliile ascunse.",
+            "en": "Explore the picturesque, winding streets of Old Livron to truly step back in time, allowing yourself plenty of unhurried moments to notice hidden architectural details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Ausflug beginnt in der Natur im Drôme-Delta mit seiner reichen Vogelwelt. Fahren Sie mittags zum Château la Rolière, um das Erbe der Region zu erleben. Am Nachmittag überqueren Sie die majestätische Brücke und erreichen das Stadtzentrum. Der Tag endet magisch in den Gassen von Vieux Livron.",
+        "hu": "A kirándulás a Drôme-delta gazdag madárvilágának megfigyelésével indul a természetben. Délben autózzon a Château la Rolière-hez a helyi örökségért. Délután keljen át a fenséges hídon a városközpont felé. A nap varázslatosan ér véget Vieux Livron ódon utcáin sétálva.",
+        "ro": "Excursia dvs. începe în natură, în Delta Drôme, admirând păsările. La prânz, conduceți spre Château la Rolière pentru a gusta din patrimoniul local. După-amiaza traversați podul istoric spre centru. Ziua se încheie magic pe străzile medievale din Vieux Livron.",
+        "en": "Your excursion begins in the natural splendor of the Drôme Delta observing wildlife. By midday, drive to Château la Rolière to experience the local heritage. In the afternoon, cross the majestic bridge into the town center. The day concludes magically in the ancient streets of Old Livron."
+      }
+    }
+  }
+}

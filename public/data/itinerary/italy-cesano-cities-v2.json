@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-cesano-cities-v2",
+  "anchor": {
+    "name": "Cesano",
+    "coords": [
+      13.18097,
+      43.74428
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Buon Consiglio",
+            "hu": "Chiesa della Madonna del Buon Consiglio",
+            "ro": "Chiesa della Madonna del Buon Consiglio",
+            "en": "Chiesa della Madonna del Buon Consiglio"
+          },
+          "coords": [
+            13.178789,
+            43.742346
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche für ruhige Momente; besuchen Sie sie morgens, um das schöne Licht zu bewundern, bevor die Strandbesucher eintreffen.",
+            "hu": "Egy bájos helyi templom, amely tökéletes a csendes elmélkedésre; érdemes kora reggel idelátogatni, mielőtt a tengerparti tömeg megérkezik.",
+            "ro": "O biserică locală fermecătoare, perfectă pentru momente de liniște; vizitați-o dimineața devreme pentru a admira lumina superbă înainte de aglomerație.",
+            "en": "A charming local church perfect for quiet reflection; visit during morning hours to admire the beautiful light before the coastal crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 3 Caraibi",
+            "hu": "Bagni 3 Caraibi",
+            "ro": "Bagni 3 Caraibi",
+            "en": "Bagni 3 Caraibi"
+          },
+          "coords": [
+            13.181666,
+            43.744281
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte italienische Strandkultur am feinen Sand; sichern Sie sich früh eine Sonnenliege, um die erfrischende Meeresbrise zu genießen.",
+            "hu": "Tapasztalja meg a pezsgő olasz strandkultúrát; béreljen egy napágyat korán, hogy egész nap élvezhesse az Adriai-tenger frissítő szellőjét.",
+            "ro": "Experimentați cultura vibrantă a plajelor italiene; rezervați un șezlong devreme pentru a vă bucura de briza răcoroasă a Mării Adriatice toată ziua.",
+            "en": "Experience vibrant Italian beach culture with pristine sands; grab a sunbed early to secure the best view of the Adriatic and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni",
+            "hu": "Bagni",
+            "ro": "Bagni",
+            "en": "Bagni"
+          },
+          "coords": [
+            13.175991,
+            43.747697
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandabschnitt, der viel Entspannung bietet; packen Sie lokale Snacks für ein gemütliches Picknick ein, während Sie den sanften Wellen lauschen.",
+            "hu": "Egy nyugodtabb strand, amely kiváló pihenést kínál; csomagoljon be néhány helyi finomságot egy hangulatos délutáni piknikhez a hullámok hangja mellett.",
+            "ro": "O plajă liniștită care oferă multă relaxare; aduceți cu voi câteva gustări locale pentru un picnic confortabil în timp ce ascultați valurile mării.",
+            "en": "A serene beach spot offering relaxation; pack some local snacks for a cozy afternoon picnic while listening to the soothing waves breaking on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 4 Millebolle Blu",
+            "hu": "Bagni 4 Millebolle Blu",
+            "ro": "Bagni 4 Millebolle Blu",
+            "en": "Bagni 4 Millebolle Blu"
+          },
+          "coords": [
+            13.188821,
+            43.739007
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieser Beachclub ist ideal für Familien und bietet tolle Anlagen; probieren Sie unbedingt die frisch zubereiteten Snacks am nahegelegenen Kiosk.",
+            "hu": "Ez a strandklub ideális családok számára, kiváló felszereltséggel; mindenképpen kóstolja meg a közeli kioszkban frissen készített tengerparti ételeket.",
+            "ro": "Ideal pentru familii, acest club de plajă oferă facilități excelente; nu ratați ocazia de a gusta preparatele proaspete de la chioșcul din apropiere.",
+            "en": "Ideal for families and fun seekers, this beach club provides excellent facilities; don't miss out on trying the freshly prepared snacks at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 5",
+            "hu": "Bagni 5",
+            "ro": "Bagni 5",
+            "en": "Bagni 5"
+          },
+          "coords": [
+            13.192481,
+            43.736576
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die entspannte Küstenatmosphäre macht diesen Ort perfekt für den Mittag; machen Sie einen Spaziergang, aber bringen Sie bequeme Sandalen für den heißen Sand mit.",
+            "hu": "A nyugodt tengerparti hangulat tökéletes déli menedéket nyújt; tegyen egy kellemes sétát a parton, de hozzon magával kényelmes szandált a forró homok miatt.",
+            "ro": "Atmosfera relaxată a coastei face din acest loc o evadare perfectă la prânz; faceți o plimbare pe mal, dar purtați sandale confortabile pentru nisipul cald.",
+            "en": "Relaxed coastal vibes make this a great midday escape; take a leisurely stroll along the shoreline, but be sure to bring comfortable sandals for the warm sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem ruhigen Moment in der Kirche, bevor es direkt an die Sandstrände geht. Mittags wechseln Sie zwischen entspannten Beachclubs und genießen die lebhafte Küstenkultur. Der Nachmittag ist für gemütliche Spaziergänge am Ufer reserviert, bei denen Sie den warmen Sand spüren. Wenn der Abend naht, rundet das sanfte Rauschen der Wellen diese perfekte Strandwanderung friedlich ab.",
+        "hu": "A reggel egy csendes elmélkedéssel kezdődik a helyi templomban, majd egyenesen a homokos partok felé vesszük az irányt. Délben a laza strandklubok között ugrálva élvezheti a tengerparti kultúrát. A délután a part menti kényelmes sétáké, ahol a meleg homokot és az Adriai-tengert érezheti. Ahogy közeledik az este, a lágy hullámok hangja teszi teljessé ezt a tökéletes gyalogos túrát.",
+        "ro": "Dimineața începe cu un moment de reflecție la biserica locală înainte de a vă îndrepta direct spre plajele cu nisip. La prânz, treceți de la un club de plajă la altul, bucurându-vă de cultura vibrantă a coastei. După-amiaza este destinată plimbărilor relaxante, simțind nisipul cald sub picioare. Odată cu lăsarea serii, sunetul blând al valurilor completează perfect acest tur pietonal pe litoral.",
+        "en": "Morning begins with a moment of reflection at the local church before heading straight to the sandy shores. By midday, you are hopping between relaxed beach clubs, enjoying the vibrant seaside culture. The afternoon is meant for leisurely strolls along the coast, feeling the warm sand and dipping your toes in the Adriatic. As evening approaches, the sound of the gentle waves rounds off a perfect coastal walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni",
+            "hu": "Bagni",
+            "ro": "Bagni",
+            "en": "Bagni"
+          },
+          "coords": [
+            13.175991,
+            43.747697
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandabschnitt, der viel Entspannung bietet; packen Sie lokale Snacks für ein gemütliches Picknick ein, während Sie den sanften Wellen lauschen.",
+            "hu": "Egy nyugodtabb strand, amely kiváló pihenést kínál; csomagoljon be néhány helyi finomságot egy hangulatos délutáni piknikhez a hullámok hangja mellett.",
+            "ro": "O plajă liniștită care oferă multă relaxare; aduceți cu voi câteva gustări locale pentru un picnic confortabil în timp ce ascultați valurile mării.",
+            "en": "A serene beach spot offering relaxation; pack some local snacks for a cozy afternoon picnic while listening to the soothing waves breaking on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Buon Consiglio",
+            "hu": "Chiesa della Madonna del Buon Consiglio",
+            "ro": "Chiesa della Madonna del Buon Consiglio",
+            "en": "Chiesa della Madonna del Buon Consiglio"
+          },
+          "coords": [
+            13.178789,
+            43.742346
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche für ruhige Momente; besuchen Sie sie morgens, um das schöne Licht zu bewundern, bevor die Strandbesucher eintreffen.",
+            "hu": "Egy bájos helyi templom, amely tökéletes a csendes elmélkedésre; érdemes kora reggel idelátogatni, mielőtt a tengerparti tömeg megérkezik.",
+            "ro": "O biserică locală fermecătoare, perfectă pentru momente de liniște; vizitați-o dimineața devreme pentru a admira lumina superbă înainte de aglomerație.",
+            "en": "A charming local church perfect for quiet reflection; visit during morning hours to admire the beautiful light before the coastal crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 3 Caraibi",
+            "hu": "Bagni 3 Caraibi",
+            "ro": "Bagni 3 Caraibi",
+            "en": "Bagni 3 Caraibi"
+          },
+          "coords": [
+            13.181666,
+            43.744281
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte italienische Strandkultur am feinen Sand; sichern Sie sich früh eine Sonnenliege, um die erfrischende Meeresbrise zu genießen.",
+            "hu": "Tapasztalja meg a pezsgő olasz strandkultúrát; béreljen egy napágyat korán, hogy egész nap élvezhesse az Adriai-tenger frissítő szellőjét.",
+            "ro": "Experimentați cultura vibrantă a plajelor italiene; rezervați un șezlong devreme pentru a vă bucura de briza răcoroasă a Mării Adriatice toată ziua.",
+            "en": "Experience vibrant Italian beach culture with pristine sands; grab a sunbed early to secure the best view of the Adriatic and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 4 Millebolle Blu",
+            "hu": "Bagni 4 Millebolle Blu",
+            "ro": "Bagni 4 Millebolle Blu",
+            "en": "Bagni 4 Millebolle Blu"
+          },
+          "coords": [
+            13.188821,
+            43.739007
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser Beachclub ist ideal für Familien und bietet tolle Anlagen; probieren Sie unbedingt die frisch zubereiteten Snacks am nahegelegenen Kiosk.",
+            "hu": "Ez a strandklub ideális családok számára, kiváló felszereltséggel; mindenképpen kóstolja meg a közeli kioszkban frissen készített tengerparti ételeket.",
+            "ro": "Ideal pentru familii, acest club de plajă oferă facilități excelente; nu ratați ocazia de a gusta preparatele proaspete de la chioșcul din apropiere.",
+            "en": "Ideal for families and fun seekers, this beach club provides excellent facilities; don't miss out on trying the freshly prepared snacks at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Nuovo Melograno",
+            "hu": "Teatro Nuovo Melograno",
+            "ro": "Teatro Nuovo Melograno",
+            "en": "Teatro Nuovo Melograno"
+          },
+          "coords": [
+            13.19228,
+            43.727788
+          ],
+          "category": "cultural",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Ein kulturelles Juwel, das lokale darstellende Kunst präsentiert; prüfen Sie den Spielplan im Voraus, um eine authentische Abendvorstellung zu erleben.",
+            "hu": "Egy kulturális gyöngyszem, amely a helyi előadóművészetet mutatja be; ellenőrizze előre a műsort, hogy egy autentikus esti színházi élményben lehessen része.",
+            "ro": "O bijuterie culturală care prezintă artele spectacolului local; verificați programul în avans pentru a prinde un spectacol de seară cu adevărat autentic.",
+            "en": "A cultural gem showcasing local performing arts; check their schedule in advance to catch an evening show and immerse yourself in theatrical traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Velluto",
+            "hu": "Spiaggia di Velluto",
+            "ro": "Spiaggia di Velluto",
+            "en": "Spiaggia di Velluto"
+          },
+          "coords": [
+            13.198587,
+            43.733053
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser weite Strand ist berühmt für seinen unglaublich weichen Sand; ziehen Sie die Schuhe aus, um die besondere Textur beim Spaziergang zu spüren.",
+            "hu": "Ez a széles strand a hihetetlenül puha, \"bársonyos\" homokjáról híres; vegye le a cipőjét, hogy sétálás közben érezhesse ezt az egyedülálló textúrát.",
+            "ro": "Faimoasă pentru nisipul său incredibil de fin, această plajă este obligatorie de vizitat; descălțați-vă pentru a aprecia pe deplin textura unică la plimbare.",
+            "en": "Famous for its incredibly soft sand, this expansive beach is a must-visit; take off your shoes to fully appreciate the unique texture while walking by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Entdeckung der ruhigen Strände im Norden und spüren Sie die kühle Morgenbrise. Mittags fahren Sie vorbei an schönen Kirchen und lebhaften Beachclubs direkt an der Küste. Nachmittags stellen Sie Ihr Fahrrad in der Nähe eines Kulturtheaters ab, bevor Sie zum berühmten Samtstrand weiterradeln. Beenden Sie den Tag, während sich der Sonnenuntergang im ruhigen Meer spiegelt.",
+        "hu": "Kezdje a kerékpáros napot az északi csendes strandok felfedezésével, miközben a hűvös reggeli szellő fúj. Délben gyönyörű helyi templomok és nyüzsgő strandklubok mellett halad el a part mentén. Délután parkolja le kerékpárját egy színház közelében, mielőtt a híres bársonyos strand felé indulna. Zárja a napot a nyugodt Adriai-tengeren tükröződő naplemente látványával.",
+        "ro": "Începeți ziua de ciclism descoperind plajele liniștite din nord, simțind briza răcoroasă a dimineții. La prânz, pedalați pe lângă biserici frumoase și cluburi de plajă energice chiar pe coastă. După-amiaza, lăsați bicicleta lângă un teatru cultural înainte de a merge spre faimoasa plajă de catifea. Încheiați ziua admirând apusul care se reflectă în apele liniștite ale Mării Adriatice.",
+        "en": "Start your cycling day by discovering the quiet beaches in the north, feeling the cool morning breeze. Midday takes you past beautiful local churches and energetic beach clubs right along the coast. In the afternoon, park your bike near a cultural theater before riding towards the famous velvet beach. Conclude the day watching the sunset reflecting on the calm Adriatic waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:57",
+      "total_km": 5.4,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni",
+            "hu": "Bagni",
+            "ro": "Bagni",
+            "en": "Bagni"
+          },
+          "coords": [
+            13.175991,
+            43.747697
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandabschnitt, der viel Entspannung bietet; packen Sie lokale Snacks für ein gemütliches Picknick ein, während Sie den sanften Wellen lauschen.",
+            "hu": "Egy nyugodtabb strand, amely kiváló pihenést kínál; csomagoljon be néhány helyi finomságot egy hangulatos délutáni piknikhez a hullámok hangja mellett.",
+            "ro": "O plajă liniștită care oferă multă relaxare; aduceți cu voi câteva gustări locale pentru un picnic confortabil în timp ce ascultați valurile mării.",
+            "en": "A serene beach spot offering relaxation; pack some local snacks for a cozy afternoon picnic while listening to the soothing waves breaking on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Buon Consiglio",
+            "hu": "Chiesa della Madonna del Buon Consiglio",
+            "ro": "Chiesa della Madonna del Buon Consiglio",
+            "en": "Chiesa della Madonna del Buon Consiglio"
+          },
+          "coords": [
+            13.178789,
+            43.742346
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine charmante Kirche für ruhige Momente; besuchen Sie sie morgens, um das schöne Licht zu bewundern, bevor die Strandbesucher eintreffen.",
+            "hu": "Egy bájos helyi templom, amely tökéletes a csendes elmélkedésre; érdemes kora reggel idelátogatni, mielőtt a tengerparti tömeg megérkezik.",
+            "ro": "O biserică locală fermecătoare, perfectă pentru momente de liniște; vizitați-o dimineața devreme pentru a admira lumina superbă înainte de aglomerație.",
+            "en": "A charming local church perfect for quiet reflection; visit during morning hours to admire the beautiful light before the coastal crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 3 Caraibi",
+            "hu": "Bagni 3 Caraibi",
+            "ro": "Bagni 3 Caraibi",
+            "en": "Bagni 3 Caraibi"
+          },
+          "coords": [
+            13.181666,
+            43.744281
+          ],
+          "category": "recreational",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte italienische Strandkultur am feinen Sand; sichern Sie sich früh eine Sonnenliege, um die erfrischende Meeresbrise zu genießen.",
+            "hu": "Tapasztalja meg a pezsgő olasz strandkultúrát; béreljen egy napágyat korán, hogy egész nap élvezhesse az Adriai-tenger frissítő szellőjét.",
+            "ro": "Experimentați cultura vibrantă a plajelor italiene; rezervați un șezlong devreme pentru a vă bucura de briza răcoroasă a Mării Adriatice toată ziua.",
+            "en": "Experience vibrant Italian beach culture with pristine sands; grab a sunbed early to secure the best view of the Adriatic and enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 4 Millebolle Blu",
+            "hu": "Bagni 4 Millebolle Blu",
+            "ro": "Bagni 4 Millebolle Blu",
+            "en": "Bagni 4 Millebolle Blu"
+          },
+          "coords": [
+            13.188821,
+            43.739007
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser Beachclub ist ideal für Familien und bietet tolle Anlagen; probieren Sie unbedingt die frisch zubereiteten Snacks am nahegelegenen Kiosk.",
+            "hu": "Ez a strandklub ideális családok számára, kiváló felszereltséggel; mindenképpen kóstolja meg a közeli kioszkban frissen készített tengerparti ételeket.",
+            "ro": "Ideal pentru familii, acest club de plajă oferă facilități excelente; nu ratați ocazia de a gusta preparatele proaspete de la chioșcul din apropiere.",
+            "en": "Ideal for families and fun seekers, this beach club provides excellent facilities; don't miss out on trying the freshly prepared snacks at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 5",
+            "hu": "Bagni 5",
+            "ro": "Bagni 5",
+            "en": "Bagni 5"
+          },
+          "coords": [
+            13.192481,
+            43.736576
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die entspannte Küstenatmosphäre macht diesen Ort perfekt für den Mittag; machen Sie einen Spaziergang, aber bringen Sie bequeme Sandalen für den heißen Sand mit.",
+            "hu": "A nyugodt tengerparti hangulat tökéletes déli menedéket nyújt; tegyen egy kellemes sétát a parton, de hozzon magával kényelmes szandált a forró homok miatt.",
+            "ro": "Atmosfera relaxată a coastei face din acest loc o evadare perfectă la prânz; faceți o plimbare pe mal, dar purtați sandale confortabile pentru nisipul cald.",
+            "en": "Relaxed coastal vibes make this a great midday escape; take a leisurely stroll along the shoreline, but be sure to bring comfortable sandals for the warm sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 7",
+            "hu": "Bagni 7",
+            "ro": "Bagni 7",
+            "en": "Bagni 7"
+          },
+          "coords": [
+            13.19499,
+            43.734981
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein gut organisierter Strandbereich mit exzellenten Annehmlichkeiten; mieten Sie einen Sonnenschirm und genießen Sie ein kühles italienisches Gelato von nebenan.",
+            "hu": "Egy jól szervezett strand kiváló kényelmi szolgáltatásokkal; béreljen napernyőt a déli nap elől menekülve, és élvezze a hűsítő olasz fagyit.",
+            "ro": "O zonă de plajă bine organizată, cu dotări excelente; închiriați o umbrelă pentru a scăpa de soarele amiezii și bucurați-vă de o înghețată delicioasă.",
+            "en": "A well-organized beach area with excellent amenities; rent a parasol to escape the midday sun and enjoy a cold Italian gelato from a local vendor just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni 8 Kalypso",
+            "hu": "Bagni 8 Kalypso",
+            "ro": "Bagni 8 Kalypso",
+            "en": "Bagni 8 Kalypso"
+          },
+          "coords": [
+            13.200878,
+            43.731044
+          ],
+          "category": "recreational",
+          "arrive_at": "16:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser lebhafte Ort bietet tolle Meerblicke; kommen Sie am späten Nachmittag, um bei einem Aperitif einen atemberaubenden Sonnenuntergang zu erleben.",
+            "hu": "Ez a nyüzsgő tengerparti úti cél fantasztikus kilátást nyújt; érkezzen késő délután, hogy egy aperitif mellett csodálhassa meg a lenyűgöző naplementét.",
+            "ro": "Această destinație plină de viață oferă priveliști fantastice; ajungeți după-amiaza târziu pentru a asista la un apus uimitor în timp ce savurați un aperitiv.",
+            "en": "This lively beach destination offers fantastic ocean views; arrive in the late afternoon to witness a stunning sunset over the water while enjoying an aperitivo."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Velluto",
+            "hu": "Spiaggia di Velluto",
+            "ro": "Spiaggia di Velluto",
+            "en": "Spiaggia di Velluto"
+          },
+          "coords": [
+            13.198587,
+            43.733053
+          ],
+          "category": "recreational",
+          "arrive_at": "17:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser weite Strand ist berühmt für seinen unglaublich weichen Sand; ziehen Sie die Schuhe aus, um die besondere Textur beim Spaziergang zu spüren.",
+            "hu": "Ez a széles strand a hihetetlenül puha, \"bársonyos\" homokjáról híres; vegye le a cipőjét, hogy sétálás közben érezhesse ezt az egyedülálló textúrát.",
+            "ro": "Faimoasă pentru nisipul său incredibil de fin, această plajă este obligatorie de vizitat; descălțați-vă pentru a aprecia pe deplin textura unică la plimbare.",
+            "en": "Famous for its incredibly soft sand, this expansive beach is a must-visit; take off your shoes to fully appreciate the unique texture while walking by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa del Cavallaro",
+            "hu": "chiesa del Cavallaro",
+            "ro": "chiesa del Cavallaro",
+            "en": "chiesa del Cavallaro"
+          },
+          "coords": [
+            13.175167,
+            43.72662
+          ],
+          "category": "religious",
+          "arrive_at": "18:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Eine historische religiöse Stätte abseits der Touristenpfade; bewahren Sie die friedliche Atmosphäre, indem Sie leise sprechen, während Sie die Architektur bewundern.",
+            "hu": "Egy történelmi vallási helyszín, távol a turisták által járt utaktól; tartsa tiszteletben a békés légkört úgy, hogy halkan beszél, miközben csodálja az építészetet.",
+            "ro": "Un sit religios istoric ascuns de traseele turistice principale; respectați atmosfera pașnică păstrând vocea scăzută în timp ce admirați arhitectura sa.",
+            "en": "A quaint and historic religious site tucked away from the main tourist paths; respect the peaceful atmosphere by keeping your voice low as you admire its architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrt an der Küste beginnt an den nördlichen Sandstränden, wo Sie Ihre Strandausrüstung bequem transportieren können. Mittags cruisen Sie nach Süden und halten an verschiedenen Stränden und Kirchen. Der Nachmittag ermöglicht längere Fahrten entlang der malerischen Küste zu den beliebtesten Orten am Meer. Beenden Sie den Tag mit einer Fahrt zu einer abgelegenen historischen Kirche in der Dämmerung.",
+        "hu": "A tengerparti autózás az északi homokos szakaszokon kezdődik, ahová könnyedén elviheti strandfelszerelését. Délben dél felé haladva különböző strandoknál és bájos történelmi templomoknál állhat meg. A délután hosszabb ugrásokat tesz lehetővé a festői partvonal mentén, elérve a legnépszerűbb helyeket. Zárja a napot egy eldugott történelmi templomhoz vezetve, miközben leszáll az est.",
+        "ro": "O plimbare cu mașina începe la plajele din nord, permițându-vă să transportați ușor echipamentul de plajă. La prânz, conduceți spre sud, oprindu-vă la diverse facilități de plajă și biserici istorice fermecătoare. După-amiaza permite opriri mai lungi de-a lungul coastei pitorești, ajungând la cele mai populare locuri. Încheiați ziua conducând spre o biserică istorică retrasă, odată cu lăsarea serii.",
+        "en": "A coastal drive starts at the northern sandy stretches, letting you easily transport all your beach gear. By midday, you're cruising southward, stopping at various beach establishments and charming historical churches. The afternoon allows for longer hops along the scenic shoreline, reaching the most popular seaside spots. Wrap up the day by driving to a secluded historic church as dusk settles over Cesano."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-porto-recanati-cities-v2",
+  "anchor": {
+    "name": "Porto Recanati",
+    "coords": [
+      13.66301,
+      43.43508
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Svevo",
+            "hu": "Castello Svevo",
+            "ro": "Castello Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            13.662141,
+            43.435322
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese mittelalterliche Burg, die einst die Küste vor Piraten schützte; der Innenhof bietet oft tolle Fotomotive am Vormittag.",
+            "hu": "Csodálja meg ezt a középkori várat, amely egykor a kalózoktól védte a partot; a belső udvar délelőtt nagyszerű fotótémákat kínál.",
+            "ro": "Admirați acest castel medieval care proteja cândva coasta de pirați; curtea interioară oferă adesea oportunități foto excelente dimineața.",
+            "en": "Marvel at this medieval castle that once protected the coast from pirates; the inner courtyard offers excellent photo opportunities in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.663166,
+            43.434362
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Diese Kirche besticht durch ihre schlichte Eleganz und lokale Bedeutung; achten Sie auf die kunstvollen Altarbilder im linken Seitenschiff.",
+            "hu": "Ez a templom egyszerű eleganciájával hódít; érdemes megfigyelni a bal oldali hajóban található lenyűgöző és részletgazdag oltárképeket.",
+            "ro": "Această biserică impresionează prin eleganța sa simplă; acordați atenție picturilor detaliate de la altarele din nava laterală stângă.",
+            "en": "This church impresses with its simple elegance and local significance; be sure to notice the intricate altarpieces in the left aisle."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Gallery",
+            "hu": "Beach Gallery",
+            "ro": "Beach Gallery",
+            "en": "Beach Gallery"
+          },
+          "coords": [
+            13.664752,
+            43.435006
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte Strandambiente mit moderner Kunst und Musik; mieten Sie sich hier einen Liegestuhl für eine entspannte Mittagspause.",
+            "hu": "Élvezze a pezsgő tengerparti hangulatot modern művészettel; béreljen egy napágyat itt egy igazán pihentető, kényelmes déli szünethez.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a plajei cu artă modernă; închiriați un șezlong aici pentru o pauză de prânz relaxantă și confortabilă.",
+            "en": "Enjoy the lively beach vibe combined with modern art; rent a sun lounger here to guarantee a relaxing and comfortable midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Nemesio e Carlo",
+            "hu": "Nemesio e Carlo",
+            "ro": "Nemesio e Carlo",
+            "en": "Nemesio e Carlo"
+          },
+          "coords": [
+            13.664063,
+            43.435918
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Diese klassische Badeanstalt bietet familiäre Atmosphäre und feinen Sand; probieren Sie unbedingt ein Gelato am nahen Kiosk.",
+            "hu": "Ez a klasszikus strandolóhely családias légkört és finom homokot kínál; mindenképpen kóstoljon meg egy fagylaltot a közeli kioszkban.",
+            "ro": "Acest stabiliment balnear clasic oferă o atmosferă familială și nisip fin; asigurați-vă că gustați o înghețată la chioșcul din apropiere.",
+            "en": "This classic bathing establishment offers a family atmosphere and fine sand; make sure to try some fresh gelato at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del mare e della pesca",
+            "hu": "Museo del mare e della pesca",
+            "ro": "Museo del mare e della pesca",
+            "en": "Museo del mare e della pesca"
+          },
+          "coords": [
+            13.660697,
+            43.438643
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region anhand alter Fischerboote; buchen Sie das Ticket online, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti múltját a régi halászhajók révén; érdemes online jegyet venni a sorban állás elkerülése végett.",
+            "ro": "Descoperiți bogata istorie maritimă a regiunii prin bărci vechi de pescuit; cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the region's rich maritime history through old fishing boats; be sure to book your ticket online in advance to avoid waiting in line."
+          }
+        },
+        {
+          "name": {
+            "de": "Franco Fontanella",
+            "hu": "Franco Fontanella",
+            "ro": "Franco Fontanella",
+            "en": "Franco Fontanella"
+          },
+          "coords": [
+            13.664099,
+            43.431719
+          ],
+          "category": "museum",
+          "arrive_at": "15:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Sammlungen lokaler Artefakte und Kunstwerke; das Licht in den Ausstellungsräumen ist am späten Nachmittag ideal.",
+            "hu": "Fedezze fel a helyi leletek és művészeti alkotások lenyűgöző gyűjteményét; a kiállítótermek fényviszonyai a késő délutáni órákban a legjobbak.",
+            "ro": "Explorați colecțiile fascinante de artefacte locale și opere de artă; lumina din sălile de expoziție este perfectă spre sfârșitul după-amiezii.",
+            "en": "Explore fascinating collections of local artifacts and artworks; the natural light in the exhibition rooms is ideal during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum am Castello Svevo, wo Sie in die Geschichte von Porto Recanati eintauchen. Gegen Mittag spazieren wir entlang der Küste zu den Freizeitanlagen und genießen die frische Meeresbrise am Beach Gallery. Am Nachmittag widmen wir uns der Fischereitradition im Meeresmuseum. Der Tag endet entspannt im Kunstmuseum Franco Fontanella in malerischer Umgebung.",
+        "hu": "A reggel a történelmi központban indul a Castello Svevo meglátogatásával, amely Porto Recanati múltjába vezet. Délben a part mentén sétálunk, élvezve a Beach Gallery és a Nemesio e Carlo tengerparti hangulatát. Délután a helyi halászati hagyományokat fedezzük fel a tengerészeti múzeumban. A napot a Franco Fontanella múzeum művészeti kincseivel és egy kellemes sétával zárjuk.",
+        "ro": "Dimineața începe în centrul istoric la Castello Svevo, descoperind rădăcinile orașului Porto Recanati. La prânz, ne plimbăm de-a lungul coastei vibrante, oprindu-ne la Beach Gallery și Nemesio e Carlo pentru relaxare. După-amiaza este dedicată tradiției maritime la Muzeul Mării și Pescuitului. Ziua se încheie liniștit explorând colecțiile de artă și istorie de la Franco Fontanella.",
+        "en": "The morning starts in the historic center at Castello Svevo, discovering the roots of Porto Recanati. By midday, we stroll along the lively coast, stopping at Beach Gallery and Nemesio e Carlo for seaside relaxation. The afternoon is dedicated to maritime traditions at the Museum of the Sea and Fishing. We end the day admiring the art and heritage collections at Franco Fontanella."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Svevo",
+            "hu": "Castello Svevo",
+            "ro": "Castello Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            13.662141,
+            43.435322
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese mittelalterliche Burg, die einst die Küste vor Piraten schützte; der Innenhof bietet oft tolle Fotomotive am Vormittag.",
+            "hu": "Csodálja meg ezt a középkori várat, amely egykor a kalózoktól védte a partot; a belső udvar délelőtt nagyszerű fotótémákat kínál.",
+            "ro": "Admirați acest castel medieval care proteja cândva coasta de pirați; curtea interioară oferă adesea oportunități foto excelente dimineața.",
+            "en": "Marvel at this medieval castle that once protected the coast from pirates; the inner courtyard offers excellent photo opportunities in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.663166,
+            43.434362
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Diese Kirche besticht durch ihre schlichte Eleganz und lokale Bedeutung; achten Sie auf die kunstvollen Altarbilder im linken Seitenschiff.",
+            "hu": "Ez a templom egyszerű eleganciájával hódít; érdemes megfigyelni a bal oldali hajóban található lenyűgöző és részletgazdag oltárképeket.",
+            "ro": "Această biserică impresionează prin eleganța sa simplă; acordați atenție picturilor detaliate de la altarele din nava laterală stângă.",
+            "en": "This church impresses with its simple elegance and local significance; be sure to notice the intricate altarpieces in the left aisle."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del mare e della pesca",
+            "hu": "Museo del mare e della pesca",
+            "ro": "Museo del mare e della pesca",
+            "en": "Museo del mare e della pesca"
+          },
+          "coords": [
+            13.660697,
+            43.438643
+          ],
+          "category": "museum",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region anhand alter Fischerboote; buchen Sie das Ticket online, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti múltját a régi halászhajók révén; érdemes online jegyet venni a sorban állás elkerülése végett.",
+            "ro": "Descoperiți bogata istorie maritimă a regiunii prin bărci vechi de pescuit; cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the region's rich maritime history through old fishing boats; be sure to book your ticket online in advance to avoid waiting in line."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Gallery",
+            "hu": "Beach Gallery",
+            "ro": "Beach Gallery",
+            "en": "Beach Gallery"
+          },
+          "coords": [
+            13.664752,
+            43.435006
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte Strandambiente mit moderner Kunst und Musik; mieten Sie sich hier einen Liegestuhl für eine entspannte Mittagspause.",
+            "hu": "Élvezze a pezsgő tengerparti hangulatot modern művészettel; béreljen egy napágyat itt egy igazán pihentető, kényelmes déli szünethez.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a plajei cu artă modernă; închiriați un șezlong aici pentru o pauză de prânz relaxantă și confortabilă.",
+            "en": "Enjoy the lively beach vibe combined with modern art; rent a sun lounger here to guarantee a relaxing and comfortable midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Alaggio Imbarcazioni da Riporto",
+            "hu": "Alaggio Imbarcazioni da Riporto",
+            "ro": "Alaggio Imbarcazioni da Riporto",
+            "en": "Alaggio Imbarcazioni da Riporto"
+          },
+          "coords": [
+            13.670044,
+            43.424929
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Beobachten Sie die ankommenden kleinen Boote in diesem charmanten Hafenbereich; ein perfekter Ort für einen kurzen Spaziergang am Wasser.",
+            "hu": "Figyelje meg az érkező kis hajókat ezen a hangulatos kikötői részen; tökéletes helyszín egy rövid, frissítő sétához a vízparton.",
+            "ro": "Priviți micile bărci sosind în această zonă portuară fermecătoare; este locul perfect pentru o scurtă și relaxantă plimbare pe malul apei.",
+            "en": "Watch the small arriving boats in this charming marina area; it provides the perfect setting for a short, refreshing walk along the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Potentia",
+            "hu": "Area Archeologica di Potentia",
+            "ro": "Area Archeologica di Potentia",
+            "en": "Area Archeologica di Potentia"
+          },
+          "coords": [
+            13.671201,
+            43.414049
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Ruinen einer einstigen römischen Kolonie; tragen Sie bequemes Schuhwerk für das unebene, antike Pflastergelände.",
+            "hu": "Sétáljon végig egy egykori római kolónia lenyűgöző romjai között; viseljen kényelmes cipőt az egyenetlen, ókori macskaköves terep miatt.",
+            "ro": "Plimbați-vă printre ruinele unei foste colonii romane; asigurați-vă că purtați încălțăminte confortabilă pentru terenul antic și denivelat.",
+            "en": "Walk through the impressive ruins of a former Roman colony; make sure to wear comfortable shoes to navigate the uneven, ancient terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln vom beeindruckenden Castello Svevo zur nahen Kirche San Giovanni Battista. Mittags erkunden wir das faszinierende Meeresmuseum, bevor wir an der Beach Gallery eine sonnige Pause einlegen. Am Nachmittag führt die Route weiter nach Süden zum belebten Hafenbereich Alaggio Imbarcazioni da Riporto. Schließlich erreichen wir die antike römische Ausgrabungsstätte Potentia im Abendlicht.",
+        "hu": "Kerékpártúránk a lenyűgöző Castello Svevo-tól a közeli Keresztelő Szent János-templomig vezet. Délben a Tengerészeti Múzeum felfedezése után a Beach Gallery partján pihenünk meg egy kicsit. Délután dél felé tekerünk, ahol a kikötő pezsgő élete vár ránk. A nap fénypontja az ókori Potentia régészeti területének megtekintése, amely különleges történelmi élményt nyújt alkonyatkor.",
+        "ro": "Călătoria pe bicicletă începe de la impunătorul Castello Svevo până la Biserica San Giovanni Battista. La prânz, explorăm Muzeul Mării înainte de a ne relaxa pe plaja însorită de la Beach Gallery. După-amiaza, pedalăm spre sud către zona portuară animată Alaggio Imbarcazioni da Riporto. Ziua culminează cu vizitarea sitului arheologic roman Potentia în lumina blândă a serii.",
+        "en": "Our cycling tour starts from the imposing Castello Svevo to the nearby Church of San Giovanni Battista. At midday, we explore the Museum of the Sea before taking a sunny break at Beach Gallery. In the afternoon, we pedal south toward the lively marina at Alaggio Imbarcazioni da Riporto. The day culminates with a visit to the ancient Roman archaeological site of Potentia in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dei Santi Cuori di Gesù e Maria",
+            "hu": "Chiesa dei Santi Cuori di Gesù e Maria",
+            "ro": "Chiesa dei Santi Cuori di Gesù e Maria",
+            "en": "Chiesa dei Santi Cuori di Gesù e Maria"
+          },
+          "coords": [
+            13.647915,
+            43.44978
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die friedliche Atmosphäre dieser Kirche; kommen Sie früh morgens für einen stillen Moment der Einkehr.",
+            "hu": "Csodálja meg a modern építészetet és a templom békés atmoszféráját; érkezzen kora reggel, ha igazán csendes és elmélyült pillanatokra vágyik.",
+            "ro": "Admirați arhitectura modernă și atmosfera pașnică a acestei biserici; veniți devreme dimineața pentru un moment liniștit de reflecție.",
+            "en": "Admire the modern architecture and peaceful atmosphere of this church; arrive early in the morning to enjoy a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del mare e della pesca",
+            "hu": "Museo del mare e della pesca",
+            "ro": "Museo del mare e della pesca",
+            "en": "Museo del mare e della pesca"
+          },
+          "coords": [
+            13.660697,
+            43.438643
+          ],
+          "category": "museum",
+          "arrive_at": "09:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte der Region anhand alter Fischerboote; buchen Sie das Ticket online, um Wartezeiten zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag tengerészeti múltját a régi halászhajók révén; érdemes online jegyet venni a sorban állás elkerülése végett.",
+            "ro": "Descoperiți bogata istorie maritimă a regiunii prin bărci vechi de pescuit; cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Discover the region's rich maritime history through old fishing boats; be sure to book your ticket online in advance to avoid waiting in line."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Svevo",
+            "hu": "Castello Svevo",
+            "ro": "Castello Svevo",
+            "en": "Castello Svevo"
+          },
+          "coords": [
+            13.662141,
+            43.435322
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese mittelalterliche Burg, die einst die Küste vor Piraten schützte; der Innenhof bietet oft tolle Fotomotive am Vormittag.",
+            "hu": "Csodálja meg ezt a középkori várat, amely egykor a kalózoktól védte a partot; a belső udvar délelőtt nagyszerű fotótémákat kínál.",
+            "ro": "Admirați acest castel medieval care proteja cândva coasta de pirați; curtea interioară oferă adesea oportunități foto excelente dimineața.",
+            "en": "Marvel at this medieval castle that once protected the coast from pirates; the inner courtyard offers excellent photo opportunities in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            13.663166,
+            43.434362
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Diese Kirche besticht durch ihre schlichte Eleganz und lokale Bedeutung; achten Sie auf die kunstvollen Altarbilder im linken Seitenschiff.",
+            "hu": "Ez a templom egyszerű eleganciájával hódít; érdemes megfigyelni a bal oldali hajóban található lenyűgöző és részletgazdag oltárképeket.",
+            "ro": "Această biserică impresionează prin eleganța sa simplă; acordați atenție picturilor detaliate de la altarele din nava laterală stângă.",
+            "en": "This church impresses with its simple elegance and local significance; be sure to notice the intricate altarpieces in the left aisle."
+          }
+        },
+        {
+          "name": {
+            "de": "Franco Fontanella",
+            "hu": "Franco Fontanella",
+            "ro": "Franco Fontanella",
+            "en": "Franco Fontanella"
+          },
+          "coords": [
+            13.664099,
+            43.431719
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende Sammlungen lokaler Artefakte und Kunstwerke; das Licht in den Ausstellungsräumen ist am späten Nachmittag ideal.",
+            "hu": "Fedezze fel a helyi leletek és művészeti alkotások lenyűgöző gyűjteményét; a kiállítótermek fényviszonyai a késő délutáni órákban a legjobbak.",
+            "ro": "Explorați colecțiile fascinante de artefacte locale și opere de artă; lumina din sălile de expoziție este perfectă spre sfârșitul după-amiezii.",
+            "en": "Explore fascinating collections of local artifacts and artworks; the natural light in the exhibition rooms is ideal during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Potentia",
+            "hu": "Area Archeologica di Potentia",
+            "ro": "Area Archeologica di Potentia",
+            "en": "Area Archeologica di Potentia"
+          },
+          "coords": [
+            13.671201,
+            43.414049
+          ],
+          "category": "historical",
+          "arrive_at": "15:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Ruinen einer einstigen römischen Kolonie; tragen Sie bequemes Schuhwerk für das unebene, antike Pflastergelände.",
+            "hu": "Sétáljon végig egy egykori római kolónia lenyűgöző romjai között; viseljen kényelmes cipőt az egyenetlen, ókori macskaköves terep miatt.",
+            "ro": "Plimbați-vă printre ruinele unei foste colonii romane; asigurați-vă că purtați încălțăminte confortabilă pentru terenul antic și denivelat.",
+            "en": "Walk through the impressive ruins of a former Roman colony; make sure to wear comfortable shoes to navigate the uneven, ancient terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt im Nordwesten an der ruhigen Kirche Chiesa dei Santi Cuori. Danach tauchen wir im Meeresmuseum in die nautische Geschichte ein. Mittags besuchen wir das zentrale Castello Svevo und die charmante Kirche San Giovanni Battista. Am Nachmittag bewundern wir die Ausstellungen im Franco Fontanella. Den krönenden Abschluss bildet die antike Stätte Potentia am südlichen Stadtrand.",
+        "hu": "Az utazás északnyugaton indul a csendes Chiesa dei Santi Cuori megtekintésével, majd a Tengerészeti Múzeum következik. Délben a központba hajtunk, ahol a Castello Svevo és a Keresztelő Szent János-templom vár minket. Délután a Franco Fontanella múzeum kiállításait csodáljuk meg. A nap zárásaként a város déli peremén fekvő ókori római település, Potentia romjait fedezzük fel.",
+        "ro": "Traseul auto începe în nord-vest la liniștita Biserică a Sfintelor Inimi, urmată de Muzeul Mării. La prânz, vizităm impresionantul Castello Svevo și Biserica San Giovanni Battista din centrul orașului. După-amiaza o petrecem admirând colecțiile de la Muzeul Franco Fontanella. Finalizăm excursia cu o vizită memorabilă la situl arheologic roman Potentia de la marginea sudică.",
+        "en": "The drive begins in the northwest at the peaceful Church of the Sacred Hearts, followed by the Museum of the Sea. At midday, we visit the impressive Castello Svevo and the charming Church of San Giovanni Battista. We spend the afternoon admiring the exhibits at the Franco Fontanella museum. The trip wraps up with a memorable visit to the Roman archaeological site of Potentia."
+      }
+    }
+  }
+}

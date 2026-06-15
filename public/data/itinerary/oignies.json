@@ -1,0 +1,543 @@
+{
+  "city_id": "oignies",
+  "anchor": {
+    "name": "Oignies",
+    "coords": [
+      2.9936,
+      50.4692
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Oignies",
+            "hu": "Oignies Városháza",
+            "ro": "Primăria Oignies",
+            "en": "Oignies Town Hall"
+          },
+          "coords": [
+            2.991838,
+            50.468553
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Oignies, ein Symbol des lokalen Stolzes, und achten Sie auf die historischen Details der Fassade, während Sie den zentralen Platz erkunden.",
+            "hu": "Csodálja meg Oignies városházájának elegáns építészetét, a helyi büszkeség szimbólumát, és figyelje meg a homlokzat történelmi részleteit, miközben felfedezi a központi teret.",
+            "ro": "Admirați arhitectura elegantă a Primăriei din Oignies, un simbol al mândriei locale, și observați detaliile istorice ale fațadei în timp ce explorați piața centrală liniștită.",
+            "en": "Admire the elegant architecture of the Oignies Town Hall, a symbol of local pride, and look closely at the historic facade details while exploring the quiet central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélemy",
+            "hu": "Saint-Barthélemy templom",
+            "ro": "Biserica Saint-Barthélemy",
+            "en": "Saint-Barthélemy Church"
+          },
+          "coords": [
+            2.993619,
+            50.467177
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende Kirche Saint-Barthélemy mit ihrer ruhigen Atmosphäre, die einen tiefen Einblick in die religiöse Geschichte bietet, und fotografieren Sie die schönen Buntglasfenster.",
+            "hu": "Látogassa meg a lenyűgöző Saint-Barthélemy templomot, melynek nyugodt légköre mély betekintést nyújt a vallástörténetbe, és készítsen gyönyörű fotókat a színes üvegablakokról.",
+            "ro": "Vizitați impresionanta biserică Saint-Barthélemy cu atmosfera sa liniștită, ce oferă o incursiune profundă în istoria religioasă, și fotografiați frumoasele vitralii luminate de soare.",
+            "en": "Visit the impressive Saint-Barthélemy Church with its tranquil atmosphere offering deep insights into religious history, and make sure to photograph the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum CMCF Oignies",
+            "hu": "CMCF Oignies Vasútmúzeum",
+            "ro": "Muzeul Feroviar CMCF Oignies",
+            "en": "CMCF Oignies Railway Museum"
+          },
+          "coords": [
+            2.996554,
+            50.472463
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Modelleisenbahnmuseum CMCF, das die industrielle Blütezeit der Region detailliert nachbildet, und bringen Sie Zeit mit, um die liebevollen Miniaturlandschaften zu studieren.",
+            "hu": "Fedezze fel a lenyűgöző CMCF vasútmodell-múzeumot, amely részletesen bemutatja a régió ipari virágkorát, és szánjon elég időt a szeretettel kidolgozott miniatűr tájak tanulmányozására.",
+            "ro": "Descoperiți fascinantul muzeu de machete feroviare CMCF, care recreează în detaliu apogeul industrial al regiunii, și alocați-vă timp pentru a studia peisajele în miniatură frumos realizate.",
+            "en": "Discover the fascinating CMCF model railway museum, which recreates the region's industrial heyday in detail, and take your time to study the lovingly crafted miniature landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaubergwerk Grube Nr. 2",
+            "hu": "2. számú akna Bányamúzeum",
+            "ro": "Mina-muzeu a puțului nr. 2",
+            "en": "Mine-image of Pit No. 2"
+          },
+          "coords": [
+            2.997032,
+            50.473912
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische Atmosphäre des Kohlebergbaus in der Grube Nr. 2, wo historische Maschinen ausgestellt sind, und tragen Sie bequeme Schuhe für die spannende Führung unter Tage.",
+            "hu": "Élje át a szénbányászat hiteles atmoszféráját a 2-es számú bányában, ahol történelmi gépeket állítanak ki, és viseljen kényelmes cipőt az izgalmas földalatti vezetett túrához.",
+            "ro": "Experimentați atmosfera autentică a mineritului de cărbune la mina nr. 2, unde sunt expuse utilaje istorice, și purtați încălțăminte confortabilă pentru turul ghidat captivant din subteran.",
+            "en": "Experience the authentic atmosphere of coal mining at Pit No. 2, where historic machinery is on display, and be sure to wear comfortable shoes for the exciting underground guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Grube 9-9bis",
+            "hu": "9-9bis bánya",
+            "ro": "Fosse 9-9bis",
+            "en": "Fosse 9-9bis"
+          },
+          "coords": [
+            2.987511,
+            50.462081
+          ],
+          "category": "historical",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ikonische Fosse 9-9bis, ein Meisterwerk der Industriearchitektur und UNESCO-Welterbe, und beginnen Sie Ihren Rundgang am besten früh, um den Besuchermassen zu entgehen.",
+            "hu": "Fedezze fel az ikonikus Fosse 9-9bis-t, az ipari építészet remekművét és UNESCO világörökségi helyszínt, és a tömeg elkerülése érdekében érdemes a túrát korán elkezdeni.",
+            "ro": "Explorați iconica Fosse 9-9bis, o capodoperă a arhitecturii industriale și sit al Patrimoniului Mondial UNESCO, și începeți turul devreme pentru a evita aglomerația.",
+            "en": "Explore the iconic Fosse 9-9bis, a masterpiece of industrial architecture and a UNESCO World Heritage site, and start your walking tour early to fully appreciate the massive scale without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlehalde Terril 110",
+            "hu": "Terril 110 meddőhányó",
+            "ro": "Halda Terril 110",
+            "en": "Slag Heap Terril 110"
+          },
+          "coords": [
+            2.983893,
+            50.459933
+          ],
+          "category": "natural",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Terril 110, eine renaturierte Kohlehalde, die einen atemberaubenden Panoramablick über die Region bietet, und packen Sie eine Flasche Wasser für den steilen Aufstieg ein.",
+            "hu": "Mássza meg a Terril 110-et, a rekultivált meddőhányót, amely lélegzetelállító panorámát nyújt a régióra, és mindenképpen vigyen magával egy üveg vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe Terril 110, o haldă de steril renaturată ce oferă o vedere panoramică uluitoare asupra regiunii, și asigurați-vă că luați o sticlă de apă pentru urcușul abrupt.",
+            "en": "Climb Terril 110, a renatured coal slag heap offering a breathtaking panoramic view of the region, and remember to pack a bottle of water for the steep ascent to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen den Tag im ruhigen Stadtzentrum, wo wir die klassische Architektur des Rathauses und die friedliche Atmosphäre der Saint-Barthélemy-Kirche bewundern.\n\nMittag: Der Spaziergang führt uns weiter zu den faszinierenden Museen der Region, die uns die reiche industrielle und historische Eisenbahn-Vergangenheit von Oignies näher bringen.\n\nNachmittag: Nach dem Mittagessen tauchen wir in das Herz des alten Kohlebergbaus an der Fosse 9-9bis ein, ein monumentales Relikt der harten Arbeit unter Tage.\n\nAbend: Zum Abschluss erklimmen wir den renaturierten Terril 110, wo uns ein herrlicher Panoramablick bei Sonnenuntergang belohnt und die Natur über die Industrie triumphiert.",
+        "hu": "Morgen: A napot a csendes városközpontban kezdjük, ahol megcsodáljuk a városháza klasszikus építészetét és a Saint-Barthélemy templom békés atmoszféráját.\n\nMittag: Sétánk továbbvezet a régió lenyűgöző múzeumaihoz, amelyek közelebb hozzák hozzánk Oignies gazdag ipari és vasúttörténeti múltját.\n\nNachmittag: Ebéd után elmerülünk a régi szénbányászat szívében, a Fosse 9-9bis-nél, amely a kemény földalatti munka monumentális emléke.\n\nAbend: Végül megmásszuk a rekultivált Terril 110-et, ahol a naplementében egy csodálatos panoráma jutalmaz minket, és a természet győzedelmeskedik az ipar felett.",
+        "ro": "Morgen: Începem ziua în centrul liniștit al orașului, unde admirăm arhitectura clasică a primăriei și atmosfera pașnică a bisericii Saint-Barthélemy.\n\nMittag: Plimbarea ne poartă mai departe spre muzeele fascinante ale regiunii, care ne apropie de bogatul trecut industrial și feroviar al orașului Oignies.\n\nNachmittag: După prânz, pătrundem în inima vechii exploatări de cărbune la Fosse 9-9bis, o relicvă monumentală a muncii grele din subteran.\n\nAbend: În final, urcăm pe halda renaturată Terril 110, unde o panoramă magnifică la apus ne răsplătește, iar natura triumfă asupra industriei.",
+        "en": "Morgen: We start the day in the quiet city center, admiring the classic architecture of the Town Hall and the peaceful atmosphere of the Saint-Barthélemy Church.\n\nMittag: Our walk takes us further to the region's fascinating museums, which bring us closer to Oignies' rich industrial and railway history.\n\nNachmittag: After lunch, we dive into the heart of the old coal mining era at Fosse 9-9bis, a monumental relic of hard underground labor.\n\nAbend: Finally, we climb the renatured Terril 110, where a magnificent panoramic view at sunset rewards us, and nature triumphs over industry."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 3.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Joseph",
+            "hu": "Saint-Joseph kápolna",
+            "ro": "Capela Saint-Joseph",
+            "en": "Saint-Joseph Chapel"
+          },
+          "coords": [
+            3.015257,
+            50.468596
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die charmante Kapelle Saint-Joseph, ein stilles architektonisches Juwel am Rande der Stadt, und genießen Sie die friedliche Umgebung am besten bei einem morgendlichen Spaziergang.",
+            "hu": "Tekintse meg a bájos Saint-Joseph kápolnát, egy csendes építészeti gyöngyszemet a város szélén, és élvezze a békés környezetet a leginkább egy kora reggeli séta során.",
+            "ro": "Vizitați fermecătoarea capelă Saint-Joseph, o bijuterie arhitecturală liniștită la marginea orașului, și bucurați-vă de împrejurimile pașnice cel mai bine în timpul unei plimbări matinale.",
+            "en": "Visit the charming Chapelle Saint-Joseph, a quiet architectural gem on the outskirts of town, and enjoy the peaceful surroundings best during a crisp morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaubergwerk Grube Nr. 2",
+            "hu": "2. számú akna Bányamúzeum",
+            "ro": "Mina-muzeu a puțului nr. 2",
+            "en": "Mine-image of Pit No. 2"
+          },
+          "coords": [
+            2.997032,
+            50.473912
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische Atmosphäre des Kohlebergbaus in der Grube Nr. 2, wo historische Maschinen ausgestellt sind, und tragen Sie bequeme Schuhe für die spannende Führung unter Tage.",
+            "hu": "Élje át a szénbányászat hiteles atmoszféráját a 2-es számú bányában, ahol történelmi gépeket állítanak ki, és viseljen kényelmes cipőt az izgalmas földalatti vezetett túrához.",
+            "ro": "Experimentați atmosfera autentică a mineritului de cărbune la mina nr. 2, unde sunt expuse utilaje istorice, și purtați încălțăminte confortabilă pentru turul ghidat captivant din subteran.",
+            "en": "Experience the authentic atmosphere of coal mining at Pit No. 2, where historic machinery is on display, and be sure to wear comfortable shoes for the exciting underground guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum CMCF Oignies",
+            "hu": "CMCF Oignies Vasútmúzeum",
+            "ro": "Muzeul Feroviar CMCF Oignies",
+            "en": "CMCF Oignies Railway Museum"
+          },
+          "coords": [
+            2.996554,
+            50.472463
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Modelleisenbahnmuseum CMCF, das die industrielle Blütezeit der Region detailliert nachbildet, und bringen Sie Zeit mit, um die liebevollen Miniaturlandschaften zu studieren.",
+            "hu": "Fedezze fel a lenyűgöző CMCF vasútmodell-múzeumot, amely részletesen bemutatja a régió ipari virágkorát, és szánjon elég időt a szeretettel kidolgozott miniatűr tájak tanulmányozására.",
+            "ro": "Descoperiți fascinantul muzeu de machete feroviare CMCF, care recreează în detaliu apogeul industrial al regiunii, și alocați-vă timp pentru a studia peisajele în miniatură frumos realizate.",
+            "en": "Discover the fascinating CMCF model railway museum, which recreates the region's industrial heyday in detail, and take your time to study the lovingly crafted miniature landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Oignies",
+            "hu": "Oignies Városháza",
+            "ro": "Primăria Oignies",
+            "en": "Oignies Town Hall"
+          },
+          "coords": [
+            2.991838,
+            50.468553
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Oignies, ein Symbol des lokalen Stolzes, und achten Sie auf die historischen Details der Fassade, während Sie den zentralen Platz erkunden.",
+            "hu": "Csodálja meg Oignies városházájának elegáns építészetét, a helyi büszkeség szimbólumát, és figyelje meg a homlokzat történelmi részleteit, miközben felfedezi a központi teret.",
+            "ro": "Admirați arhitectura elegantă a Primăriei din Oignies, un simbol al mândriei locale, și observați detaliile istorice ale fațadei în timp ce explorați piața centrală liniștită.",
+            "en": "Admire the elegant architecture of the Oignies Town Hall, a symbol of local pride, and look closely at the historic facade details while exploring the quiet central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélemy",
+            "hu": "Saint-Barthélemy templom",
+            "ro": "Biserica Saint-Barthélemy",
+            "en": "Saint-Barthélemy Church"
+          },
+          "coords": [
+            2.993619,
+            50.467177
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende Kirche Saint-Barthélemy mit ihrer ruhigen Atmosphäre, die einen tiefen Einblick in die religiöse Geschichte bietet, und fotografieren Sie die schönen Buntglasfenster.",
+            "hu": "Látogassa meg a lenyűgöző Saint-Barthélemy templomot, melynek nyugodt légköre mély betekintést nyújt a vallástörténetbe, és készítsen gyönyörű fotókat a színes üvegablakokról.",
+            "ro": "Vizitați impresionanta biserică Saint-Barthélemy cu atmosfera sa liniștită, ce oferă o incursiune profundă în istoria religioasă, și fotografiați frumoasele vitralii luminate de soare.",
+            "en": "Visit the impressive Saint-Barthélemy Church with its tranquil atmosphere offering deep insights into religious history, and make sure to photograph the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Grube 9-9bis",
+            "hu": "9-9bis bánya",
+            "ro": "Fosse 9-9bis",
+            "en": "Fosse 9-9bis"
+          },
+          "coords": [
+            2.987511,
+            50.462081
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ikonische Fosse 9-9bis, ein Meisterwerk der Industriearchitektur und UNESCO-Welterbe, und beginnen Sie Ihren Rundgang am besten früh, um den Besuchermassen zu entgehen.",
+            "hu": "Fedezze fel az ikonikus Fosse 9-9bis-t, az ipari építészet remekművét és UNESCO világörökségi helyszínt, és a tömeg elkerülése érdekében érdemes a túrát korán elkezdeni.",
+            "ro": "Explorați iconica Fosse 9-9bis, o capodoperă a arhitecturii industriale și sit al Patrimoniului Mondial UNESCO, și începeți turul devreme pentru a evita aglomerația.",
+            "en": "Explore the iconic Fosse 9-9bis, a masterpiece of industrial architecture and a UNESCO World Heritage site, and start your walking tour early to fully appreciate the massive scale without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Métaphone",
+            "hu": "Le Métaphone",
+            "ro": "Le Métaphone",
+            "en": "Le Métaphone"
+          },
+          "coords": [
+            2.986881,
+            50.461967
+          ],
+          "category": "cultural",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der futuristischen Konzerthalle Le Métaphone begeistern, deren Fassade selbst als gigantisches Musikinstrument dient, und prüfen Sie vorab den Veranstaltungsplan online.",
+            "hu": "Hagyja, hogy lenyűgözze a futurisztikus Le Métaphone koncertterem, amelynek homlokzata egy óriási hangszerként is funkcionál, és látogatás előtt érdemes online ellenőrizni a programot.",
+            "ro": "Lăsați-vă fascinați de sala de concerte futuristă Le Métaphone, a cărei fațadă funcționează ca un instrument muzical gigantic, și verificați programul evenimentelor online în prealabil.",
+            "en": "Be amazed by the futuristic concert hall Le Métaphone, whose facade acts as a gigantic musical instrument itself, and make sure to check the event schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlehalde Terril 110",
+            "hu": "Terril 110 meddőhányó",
+            "ro": "Halda Terril 110",
+            "en": "Slag Heap Terril 110"
+          },
+          "coords": [
+            2.983893,
+            50.459933
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Terril 110, eine renaturierte Kohlehalde, die einen atemberaubenden Panoramablick über die Region bietet, und packen Sie eine Flasche Wasser für den steilen Aufstieg ein.",
+            "hu": "Mássza meg a Terril 110-et, a rekultivált meddőhányót, amely lélegzetelállító panorámát nyújt a régióra, és mindenképpen vigyen magával egy üveg vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe Terril 110, o haldă de steril renaturată ce oferă o vedere panoramică uluitoare asupra regiunii, și asigurați-vă că luați o sticlă de apă pentru urcușul abrupt.",
+            "en": "Climb Terril 110, a renatured coal slag heap offering a breathtaking panoramic view of the region, and remember to pack a bottle of water for the steep ascent to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Eine frische Radtour führt uns zunächst zur abgelegenen Kapelle Saint-Joseph und dann weiter zur tiefgründigen Geschichte der Mine-image.\n\nMittag: Wir radeln durch das städtische Zentrum, passieren die historischen Eisenbahnen im CMCF und bewundern das majestätische Rathaus und die Kirche.\n\nNachmittag: Die Route führt uns zum monumentalen Bergbaukomplex Fosse 9-9bis, wo uns auch die außergewöhnliche Klangarchitektur des Le Métaphone überrascht.\n\nAbend: Der Tag endet mit einer Radfahrt zum Terril 110, wo ein steiler Fußweg uns zu einem unvergesslichen Ausblick über die weite Landschaft führt.",
+        "hu": "Morgen: Egy frissítő kerékpártúra először a távoli Saint-Joseph kápolnához vezet, majd tovább a Mine-image mélyreható történelméhez.\n\nMittag: Átkarikázunk a városközponton, elhaladunk a CMCF történelmi vasútjai mellett, és megcsodáljuk a fenséges városházát, valamint a templomot.\n\nNachmittag: Az útvonal a monumentális Fosse 9-9bis bányakomplexumhoz vezet, ahol a Le Métaphone rendkívüli hangépítészete is meglep minket.\n\nAbend: A nap a Terril 110-hez vezető kerékpározással zárul, ahonnan egy meredek gyalogút felejthetetlen kilátást nyújt a hatalmas tájra.",
+        "ro": "Morgen: O plimbare proaspătă cu bicicleta ne duce mai întâi la îndepărtata Capelă Saint-Joseph și apoi mai departe la istoria profundă a Mine-image.\n\nMittag: Pedalăm prin centrul urban, trecem de căile ferate istorice din CMCF și admirăm maiestuoasa primărie și biserica.\n\nNachmittag: Traseul ne conduce către complexul minier monumental Fosse 9-9bis, unde arhitectura sonoră extraordinară de la Le Métaphone ne surprinde.\n\nAbend: Ziua se încheie cu o plimbare spre Terril 110, unde o potecă abruptă ne oferă o priveliște de neuitat asupra peisajului vast.",
+        "en": "Morgen: A brisk morning bike ride first takes us to the remote Chapelle Saint-Joseph and then onwards to the profound history of the Mine-image.\n\nMittag: We cycle through the urban center, passing the historic railways at the CMCF and admiring the majestic town hall and church.\n\nNachmittag: The route leads us to the monumental Fosse 9-9bis mining complex, where the extraordinary sonic architecture of Le Métaphone surprises us.\n\nAbend: The day ends with a ride to Terril 110, where a steep footpath provides an unforgettable view across the vast landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schaubergwerk Grube Nr. 2",
+            "hu": "2. számú akna Bányamúzeum",
+            "ro": "Mina-muzeu a puțului nr. 2",
+            "en": "Mine-image of Pit No. 2"
+          },
+          "coords": [
+            2.997032,
+            50.473912
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische Atmosphäre des Kohlebergbaus in der Grube Nr. 2, wo historische Maschinen ausgestellt sind, und tragen Sie bequeme Schuhe für die spannende Führung unter Tage.",
+            "hu": "Élje át a szénbányászat hiteles atmoszféráját a 2-es számú bányában, ahol történelmi gépeket állítanak ki, és viseljen kényelmes cipőt az izgalmas földalatti vezetett túrához.",
+            "ro": "Experimentați atmosfera autentică a mineritului de cărbune la mina nr. 2, unde sunt expuse utilaje istorice, și purtați încălțăminte confortabilă pentru turul ghidat captivant din subteran.",
+            "en": "Experience the authentic atmosphere of coal mining at Pit No. 2, where historic machinery is on display, and be sure to wear comfortable shoes for the exciting underground guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum CMCF Oignies",
+            "hu": "CMCF Oignies Vasútmúzeum",
+            "ro": "Muzeul Feroviar CMCF Oignies",
+            "en": "CMCF Oignies Railway Museum"
+          },
+          "coords": [
+            2.996554,
+            50.472463
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Modelleisenbahnmuseum CMCF, das die industrielle Blütezeit der Region detailliert nachbildet, und bringen Sie Zeit mit, um die liebevollen Miniaturlandschaften zu studieren.",
+            "hu": "Fedezze fel a lenyűgöző CMCF vasútmodell-múzeumot, amely részletesen bemutatja a régió ipari virágkorát, és szánjon elég időt a szeretettel kidolgozott miniatűr tájak tanulmányozására.",
+            "ro": "Descoperiți fascinantul muzeu de machete feroviare CMCF, care recreează în detaliu apogeul industrial al regiunii, și alocați-vă timp pentru a studia peisajele în miniatură frumos realizate.",
+            "en": "Discover the fascinating CMCF model railway museum, which recreates the region's industrial heyday in detail, and take your time to study the lovingly crafted miniature landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélemy",
+            "hu": "Saint-Barthélemy templom",
+            "ro": "Biserica Saint-Barthélemy",
+            "en": "Saint-Barthélemy Church"
+          },
+          "coords": [
+            2.993619,
+            50.467177
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die beeindruckende Kirche Saint-Barthélemy mit ihrer ruhigen Atmosphäre, die einen tiefen Einblick in die religiöse Geschichte bietet, und fotografieren Sie die schönen Buntglasfenster.",
+            "hu": "Látogassa meg a lenyűgöző Saint-Barthélemy templomot, melynek nyugodt légköre mély betekintést nyújt a vallástörténetbe, és készítsen gyönyörű fotókat a színes üvegablakokról.",
+            "ro": "Vizitați impresionanta biserică Saint-Barthélemy cu atmosfera sa liniștită, ce oferă o incursiune profundă în istoria religioasă, și fotografiați frumoasele vitralii luminate de soare.",
+            "en": "Visit the impressive Saint-Barthélemy Church with its tranquil atmosphere offering deep insights into religious history, and make sure to photograph the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Grube 9-9bis",
+            "hu": "9-9bis bánya",
+            "ro": "Fosse 9-9bis",
+            "en": "Fosse 9-9bis"
+          },
+          "coords": [
+            2.987511,
+            50.462081
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ikonische Fosse 9-9bis, ein Meisterwerk der Industriearchitektur und UNESCO-Welterbe, und beginnen Sie Ihren Rundgang am besten früh, um den Besuchermassen zu entgehen.",
+            "hu": "Fedezze fel az ikonikus Fosse 9-9bis-t, az ipari építészet remekművét és UNESCO világörökségi helyszínt, és a tömeg elkerülése érdekében érdemes a túrát korán elkezdeni.",
+            "ro": "Explorați iconica Fosse 9-9bis, o capodoperă a arhitecturii industriale și sit al Patrimoniului Mondial UNESCO, și începeți turul devreme pentru a evita aglomerația.",
+            "en": "Explore the iconic Fosse 9-9bis, a masterpiece of industrial architecture and a UNESCO World Heritage site, and start your walking tour early to fully appreciate the massive scale without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbau- und Eisenbahnzentrum",
+            "hu": "Bányászati és Vasúti Központ",
+            "ro": "Centrul Minelor și Căilor Ferate",
+            "en": "Mining and Railway Center"
+          },
+          "coords": [
+            2.987255,
+            50.460968
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die Symbiose von Bergbau und Eisenbahn ein, indem Sie historische Lokomotiven bestaunen, und fragen Sie das Personal nach den faszinierenden Anekdoten der Bergleute.",
+            "hu": "Merüljön el a bányászat és a vasút szimbiózisában a történelmi mozdonyok megcsodálásával, és kérdezze meg a személyzetet a bányászok életéről szóló lenyűgöző anekdotákról.",
+            "ro": "Pătrundeți adânc în simbioza dintre minerit și căile ferate admirând locomotivele istorice și rugați personalul să vă spună anecdote fascinante despre viața minerilor.",
+            "en": "Dive deep into the symbiosis of mining and railways by marveling at historic locomotives, and be sure to ask the passionate staff for fascinating anecdotes about the miners' lives."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Métaphone",
+            "hu": "Le Métaphone",
+            "ro": "Le Métaphone",
+            "en": "Le Métaphone"
+          },
+          "coords": [
+            2.986881,
+            50.461967
+          ],
+          "category": "cultural",
+          "arrive_at": "16:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der futuristischen Konzerthalle Le Métaphone begeistern, deren Fassade selbst als gigantisches Musikinstrument dient, und prüfen Sie vorab den Veranstaltungsplan online.",
+            "hu": "Hagyja, hogy lenyűgözze a futurisztikus Le Métaphone koncertterem, amelynek homlokzata egy óriási hangszerként is funkcionál, és látogatás előtt érdemes online ellenőrizni a programot.",
+            "ro": "Lăsați-vă fascinați de sala de concerte futuristă Le Métaphone, a cărei fațadă funcționează ca un instrument muzical gigantic, și verificați programul evenimentelor online în prealabil.",
+            "en": "Be amazed by the futuristic concert hall Le Métaphone, whose facade acts as a gigantic musical instrument itself, and make sure to check the event schedule online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kohlehalde Terril 110",
+            "hu": "Terril 110 meddőhányó",
+            "ro": "Halda Terril 110",
+            "en": "Slag Heap Terril 110"
+          },
+          "coords": [
+            2.983893,
+            50.459933
+          ],
+          "category": "natural",
+          "arrive_at": "17:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Terril 110, eine renaturierte Kohlehalde, die einen atemberaubenden Panoramablick über die Region bietet, und packen Sie eine Flasche Wasser für den steilen Aufstieg ein.",
+            "hu": "Mássza meg a Terril 110-et, a rekultivált meddőhányót, amely lélegzetelállító panorámát nyújt a régióra, és mindenképpen vigyen magával egy üveg vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe Terril 110, o haldă de steril renaturată ce oferă o vedere panoramică uluitoare asupra regiunii, și asigurați-vă că luați o sticlă de apă pentru urcușul abrupt.",
+            "en": "Climb Terril 110, a renatured coal slag heap offering a breathtaking panoramic view of the region, and remember to pack a bottle of water for the steep ascent to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir starten unsere bequeme Autofahrt bei der Mine-image, wo wir tief in die historische Welt der Bergarbeiter von Oignies eintauchen.\n\nMittag: Wir parken nahe dem Zentrum, um die Modelleisenbahnen des CMCF und die ruhige Pracht der Saint-Barthélemy-Kirche zu erleben.\n\nNachmittag: Eine kurze Fahrt bringt uns zur beeindruckenden Anlage Fosse 9-9bis und dem Museum für Bergbau und Eisenbahn, die das industrielle Erbe feiern.\n\nAbend: Nach einem Blick auf das futuristische Le Métaphone lassen wir den Tag mit dem Aufstieg auf den Terril 110 und seiner herrlichen Aussicht ausklingen.",
+        "hu": "Morgen: Kényelmes autóutunkat a Mine-image-nél kezdjük, ahol mélyen elmerülünk Oignies bányászainak történelmi világában.\n\nMittag: A központ közelében parkolunk, hogy felfedezzük a CMCF modellvasútjait és a Saint-Barthélemy templom nyugodt pompáját.\n\nNachmittag: Egy rövid út elvisz minket a lenyűgöző Fosse 9-9bis létesítményhez és a bányászati múzeumhoz, amelyek az ipari örökséget ünneplik.\n\nAbend: A futurisztikus Le Métaphone megtekintése után a napot a Terril 110 megmászásával és annak csodálatos kilátásával zárjuk.",
+        "ro": "Morgen: Începem călătoria noastră confortabilă cu mașina la Mine-image, unde pătrundem adânc în lumea istorică a minerilor din Oignies.\n\nMittag: Parcăm aproape de centru pentru a experimenta machetele feroviare ale CMCF și splendoarea liniștită a bisericii Saint-Barthélemy.\n\nNachmittag: O scurtă călătorie ne aduce la impresionanta facilitate Fosse 9-9bis și la Muzeul Mineritului, care celebrează moștenirea industrială.\n\nAbend: După o privire asupra futuristului Le Métaphone, încheiem ziua cu ascensiunea pe Terril 110 și cu priveliștea sa magnifică.",
+        "en": "Morgen: We start our comfortable car journey at the Mine-image, where we delve deep into the historic world of the Oignies miners.\n\nMittag: We park near the center to experience the model railways of the CMCF and the quiet splendor of the Saint-Barthélemy Church.\n\nNachmittag: A short drive brings us to the impressive Fosse 9-9bis facility and the mining museum, which celebrate the region's industrial heritage.\n\nAbend: After a look at the futuristic Le Métaphone, we conclude the day with the climb up Terril 110 and its magnificent views."
+      }
+    }
+  }
+}

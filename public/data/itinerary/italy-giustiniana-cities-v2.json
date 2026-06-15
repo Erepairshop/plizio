@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-giustiniana-cities-v2",
+  "anchor": {
+    "name": "Giustiniana",
+    "coords": [
+      12.417909,
+      41.985443
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 2.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Beata Maria Vergine Immacolata",
+            "hu": "Chiesa della Beata Maria Vergine Immacolata",
+            "ro": "Chiesa della Beata Maria Vergine Immacolata",
+            "en": "Chiesa della Beata Maria Vergine Immacolata"
+          },
+          "coords": [
+            12.408774,
+            41.985428
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese moderne Kirche wegen ihrer ruhigen Atmosphäre und der klaren Architektur, und achten Sie besonders auf die schönen Glasfenster bei Morgensonne.",
+            "hu": "Látogasson el ebbe a modern templomba a békés légkör és a letisztult építészet miatt, és figyelje meg a csodálatos ólomüveg ablakokat a reggeli napfényben.",
+            "ro": "Vizitați această biserică modernă pentru atmosfera sa liniștită și arhitectura curată, și admirați vitraliile frumoase luminate de soarele dimineții.",
+            "en": "Visit this modern church for its peaceful atmosphere and clean architecture, and make sure to admire the beautiful stained glass windows in the morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "basolato della Via Cassia",
+            "hu": "basolato della Via Cassia",
+            "ro": "basolato della Via Cassia",
+            "en": "basolato della Via Cassia"
+          },
+          "coords": [
+            12.416537,
+            41.981529
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen originalen Pflastersteine dieser antiken römischen Straße und tragen Sie festes Schuhwerk für einen sicheren Spaziergang auf dem unebenen Untergrund.",
+            "hu": "Fedezze fel az ősi római út kiválóan megőrzött eredeti macskaköveit, de mindenképpen viseljen kényelmes cipőt az egyenetlen talajon való biztonságos sétához.",
+            "ro": "Explorați pavajul original bine conservat al acestui drum roman antic și purtați încălțăminte confortabilă pentru o plimbare sigură pe suprafața denivelată.",
+            "en": "Explore the remarkably preserved original paving stones of this ancient Roman road, and be sure to wear sturdy shoes for a safe walk on the uneven historical surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            12.425737,
+            41.977107
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Ruinen dieser alten römischen Villa, die einen Einblick in das antike Leben bieten, und bringen Sie eine Wasserflasche für den sonnigen Rundgang mit.",
+            "hu": "Csodálja meg ennek az ókori római villának a lenyűgöző romjait, amelyek bepillantást engednek az egykori életbe, és vigyen magával vizet a napos sétához.",
+            "ro": "Admirați ruinele fascinante ale acestei vile romane antice, care oferă o privire în viața de odinioară, și aduceți o sticlă cu apă pentru plimbarea însorită.",
+            "en": "Marvel at the fascinating ruins of this ancient Roman villa offering a glimpse into past daily life, and remember to bring a water bottle for your sunny tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuliano Martire",
+            "hu": "Chiesa di San Giuliano Martire",
+            "ro": "Chiesa di San Giuliano Martire",
+            "en": "Chiesa di San Giuliano Martire"
+          },
+          "coords": [
+            12.427915,
+            41.974942
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese einladende Kirche, um ihre schlichte Eleganz und spirituelle Ruhe zu genießen, und überprüfen Sie die lokalen Messezeiten vor Ihrem Besuch.",
+            "hu": "Lépjen be ebbe a barátságos templomba, hogy élvezze az egyszerű eleganciát és a lelki békét, de látogatás előtt érdemes ellenőrizni a helyi misék időpontját.",
+            "ro": "Intrați în această biserică primitoare pentru a vă bucura de eleganța simplă și de pacea spirituală, și verificați programul slujbelor locale înainte de vizită.",
+            "en": "Step into this welcoming church to enjoy its simple elegance and spiritual peace, but check the local mass schedule before arriving to ensure a quiet viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo romano",
+            "hu": "Mausoleo romano",
+            "ro": "Mausoleo romano",
+            "en": "Mausoleo romano"
+          },
+          "coords": [
+            12.434303,
+            41.974614
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Überreste dieses römischen Mausoleums, das von alten Begräbnisriten erzählt, und bleiben Sie auf den markierten Wegen, um das Denkmal zu schützen.",
+            "hu": "Fedezze fel ennek a római mauzóleumnak a lenyűgöző maradványait, amelyek ősi temetkezési rítusokról mesélnek, és maradjon a kijelölt ösvényeken a műemlék védelme érdekében.",
+            "ro": "Descoperiți rămășițele impresionante ale acestui mausoleu roman, care povestește despre riturile funerare antice, și rămâneți pe potecile marcate pentru a proteja monumentul.",
+            "en": "Discover the impressive remains of this Roman mausoleum that tells of ancient burial rites, and please stay on the marked paths to help preserve the monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang an der modernen Kirche der Unbefleckten Empfängnis, bevor Sie die antiken Pflastersteine der Via Cassia entdecken. Mittags erkunden Sie die faszinierenden Ruinen einer römischen Villa in einer ruhigen Umgebung. Am Nachmittag bietet die Kirche San Giuliano Martire einen friedlichen Rückzugsort zur spirituellen Besinnung. Beenden Sie den Tag am beeindruckenden römischen Mausoleum und spüren Sie die historische Tiefe dieser faszinierenden Region Roms.",
+        "hu": "Kezdje sétáját a Szeplőtelen Fogantatás modern templománál, majd fedezze fel a Via Cassia ősi macskaköveit. Kora délután egy római villa lenyűgöző romjait barangolhatja be egy csendes környezetben. A délután folyamán a San Giuliano Martire templom kínál békés menedéket a lelki elmélyüléshez. Zárja a napot a lenyűgöző római mauzóleumnál, és érezze át Róma e lenyűgöző régiójának történelmi mélységét.",
+        "ro": "Începeți plimbarea la biserica modernă a Imaculatei Concepții, înainte de a descoperi pavajele antice de pe Via Cassia. La amiază, explorați ruinele fascinante ale unei vile romane într-un cadru foarte liniștit. După-amiaza, biserica San Giuliano Martire vă oferă un refugiu pașnic pentru meditație spirituală. Încheiați ziua la impresionantul mausoleu roman și simțiți profunzimea istorică a acestei regiuni fascinante din Roma.",
+        "en": "Begin your walk at the modern Church of the Immaculate Conception before discovering the ancient paving stones of the Via Cassia. At midday, explore the fascinating ruins of a Roman villa set in a quiet environment. In the afternoon, the Church of San Giuliano Martire provides a peaceful retreat for spiritual reflection. End your day at the impressive Roman mausoleum, feeling the historical depth of this fascinating region of Rome."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 3.98,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Beata Maria Vergine Immacolata",
+            "hu": "Chiesa della Beata Maria Vergine Immacolata",
+            "ro": "Chiesa della Beata Maria Vergine Immacolata",
+            "en": "Chiesa della Beata Maria Vergine Immacolata"
+          },
+          "coords": [
+            12.408774,
+            41.985428
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese moderne Kirche wegen ihrer ruhigen Atmosphäre und der klaren Architektur, und achten Sie besonders auf die schönen Glasfenster bei Morgensonne.",
+            "hu": "Látogasson el ebbe a modern templomba a békés légkör és a letisztult építészet miatt, és figyelje meg a csodálatos ólomüveg ablakokat a reggeli napfényben.",
+            "ro": "Vizitați această biserică modernă pentru atmosfera sa liniștită și arhitectura curată, și admirați vitraliile frumoase luminate de soarele dimineții.",
+            "en": "Visit this modern church for its peaceful atmosphere and clean architecture, and make sure to admire the beautiful stained glass windows in the morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "basolato della Via Cassia",
+            "hu": "basolato della Via Cassia",
+            "ro": "basolato della Via Cassia",
+            "en": "basolato della Via Cassia"
+          },
+          "coords": [
+            12.416537,
+            41.981529
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen originalen Pflastersteine dieser antiken römischen Straße und tragen Sie festes Schuhwerk für einen sicheren Spaziergang auf dem unebenen Untergrund.",
+            "hu": "Fedezze fel az ősi római út kiválóan megőrzött eredeti macskaköveit, de mindenképpen viseljen kényelmes cipőt az egyenetlen talajon való biztonságos sétához.",
+            "ro": "Explorați pavajul original bine conservat al acestui drum roman antic și purtați încălțăminte confortabilă pentru o plimbare sigură pe suprafața denivelată.",
+            "en": "Explore the remarkably preserved original paving stones of this ancient Roman road, and be sure to wear sturdy shoes for a safe walk on the uneven historical surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            12.425737,
+            41.977107
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Ruinen dieser alten römischen Villa, die einen Einblick in das antike Leben bieten, und bringen Sie eine Wasserflasche für den sonnigen Rundgang mit.",
+            "hu": "Csodálja meg ennek az ókori római villának a lenyűgöző romjait, amelyek bepillantást engednek az egykori életbe, és vigyen magával vizet a napos sétához.",
+            "ro": "Admirați ruinele fascinante ale acestei vile romane antice, care oferă o privire în viața de odinioară, și aduceți o sticlă cu apă pentru plimbarea însorită.",
+            "en": "Marvel at the fascinating ruins of this ancient Roman villa offering a glimpse into past daily life, and remember to bring a water bottle for your sunny tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Volusia",
+            "hu": "Parco Volusia",
+            "ro": "Parco Volusia",
+            "en": "Parco Volusia"
+          },
+          "coords": [
+            12.437503,
+            41.977153
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen historischen Park, der Natur und Geschichte verbindet, und suchen Sie sich einen schattigen Platz unter den Bäumen für ein kleines Picknick.",
+            "hu": "Pihenjen ebben a tágas történelmi parkban, amely ötvözi a természetet és a történelmet, és keressen egy árnyékos helyet a fák alatt egy kisebb piknikhez.",
+            "ro": "Relaxați-vă în acest parc istoric spațios care combină perfect natura cu istoria și găsiți un loc umbrit sub copaci pentru a vă bucura de un mic picnic.",
+            "en": "Relax in this spacious historical park that beautifully combines nature and history, and find a shaded spot under the trees to enjoy a small midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Casale Ghella",
+            "hu": "Casale Ghella",
+            "ro": "Casale Ghella",
+            "en": "Casale Ghella"
+          },
+          "coords": [
+            12.434608,
+            41.975726
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Architektur dieses historischen Bauernhauses, das von der ländlichen Vergangenheit der Region zeugt, und fotografieren Sie die malerische Fassade im Nachmittagslicht.",
+            "hu": "Csodálja meg ennek a történelmi tanyaháznak a rusztikus építészetét, amely a régió vidékies múltjáról tanúskodik, és fotózza le a festői homlokzatot a délutáni fényben.",
+            "ro": "Admirați arhitectura rustică a acestei ferme istorice care mărturisește trecutul rural al regiunii și fotografiați fațada pitorească în lumina caldă a după-amiezii.",
+            "en": "Admire the rustic architecture of this historical farmhouse that testifies to the region's rural past, and capture the picturesque facade in the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo romano",
+            "hu": "Mausoleo romano",
+            "ro": "Mausoleo romano",
+            "en": "Mausoleo romano"
+          },
+          "coords": [
+            12.434303,
+            41.974614
+          ],
+          "category": "historical",
+          "arrive_at": "15:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Überreste dieses römischen Mausoleums, das von alten Begräbnisriten erzählt, und bleiben Sie auf den markierten Wegen, um das Denkmal zu schützen.",
+            "hu": "Fedezze fel ennek a római mauzóleumnak a lenyűgöző maradványait, amelyek ősi temetkezési rítusokról mesélnek, és maradjon a kijelölt ösvényeken a műemlék védelme érdekében.",
+            "ro": "Descoperiți rămășițele impresionante ale acestui mausoleu roman, care povestește despre riturile funerare antice, și rămâneți pe potecile marcate pentru a proteja monumentul.",
+            "en": "Discover the impressive remains of this Roman mausoleum that tells of ancient burial rites, and please stay on the marked paths to help preserve the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro dei Veienti",
+            "hu": "Sepolcro dei Veienti",
+            "ro": "Sepolcro dei Veienti",
+            "en": "Sepolcro dei Veienti"
+          },
+          "coords": [
+            12.444362,
+            41.974798
+          ],
+          "category": "historical",
+          "arrive_at": "16:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses bedeutende etruskisch-römische Grabmal, das einen tiefen Einblick in die Antike gewährt, und planen Sie genügend Zeit für die Details der Grabstruktur ein.",
+            "hu": "Tekintse meg ezt a jelentős etruszk-római síremléket, amely mély bepillantást enged az ókorba, és szánjon elegendő időt a sírszerkezet finom részleteinek felfedezésére.",
+            "ro": "Vizitați acest important mormânt etrusco-roman care oferă o perspectivă profundă asupra antichității și rezervați-vă suficient timp pentru detaliile structurii funerare.",
+            "en": "Visit this significant Etruscan-Roman tomb that provides a deep insight into antiquity, and allow plenty of time to examine the fascinating details of the burial structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der modernen Gemeindekirche und fahren Sie auf historischen Spuren entlang der alten Via Cassia. Mittags erreichen Sie die Überreste einer römischen Villa, gefolgt von einer erholsamen Pause im weitläufigen Parco Volusia. Am Nachmittag radeln Sie zum historischen Casale Ghella und dem nahegelegenen römischen Mausoleum, die beide reiche Geschichten erzählen. Den Abschluss bildet das imposante Grabmal der Veienter im weichen Abendlicht.",
+        "hu": "Kezdje kerékpártúráját a modern plébániatemplomnál, és tekerjen a történelmi Via Cassia ősi nyomvonalán. Délben elér egy római villa maradványaihoz, majd egy pihentető szünet következik a tágas Parco Volusia területén. Délután a történelmi Casale Ghella és a közeli római mauzóleum felé kerekezik, amelyek gazdag történeteket mesélnek el. A napot a veientiek impozáns síremléke zárja a lágy esti fényben.",
+        "ro": "Începeți turul cu bicicleta la biserica parohială modernă și mergeți pe urmele istorice de-a lungul vechii Via Cassia. La amiază ajungeți la rămășițele unei vile romane, urmate de o pauză relaxantă în spațiosul Parco Volusia. După-amiaza pedalați spre istorica Casale Ghella și mausoleul roman din apropiere, ambele pline de povești. Turul se încheie cu impresionantul mormânt al veienților scăldat în lumina serii.",
+        "en": "Start your bike ride at the modern parish church and ride along historical tracks on the ancient Via Cassia. At midday, you will reach the remains of a Roman villa, followed by a relaxing break in the spacious Parco Volusia. In the afternoon, cycle to the historical Casale Ghella and the nearby Roman mausoleum, both telling rich stories. The tour concludes with the imposing Tomb of the Veientes in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 4.13,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Beata Maria Vergine Immacolata",
+            "hu": "Chiesa della Beata Maria Vergine Immacolata",
+            "ro": "Chiesa della Beata Maria Vergine Immacolata",
+            "en": "Chiesa della Beata Maria Vergine Immacolata"
+          },
+          "coords": [
+            12.408774,
+            41.985428
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese moderne Kirche wegen ihrer ruhigen Atmosphäre und der klaren Architektur, und achten Sie besonders auf die schönen Glasfenster bei Morgensonne.",
+            "hu": "Látogasson el ebbe a modern templomba a békés légkör és a letisztult építészet miatt, és figyelje meg a csodálatos ólomüveg ablakokat a reggeli napfényben.",
+            "ro": "Vizitați această biserică modernă pentru atmosfera sa liniștită și arhitectura curată, și admirați vitraliile frumoase luminate de soarele dimineții.",
+            "en": "Visit this modern church for its peaceful atmosphere and clean architecture, and make sure to admire the beautiful stained glass windows in the morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "basolato della Via Cassia",
+            "hu": "basolato della Via Cassia",
+            "ro": "basolato della Via Cassia",
+            "en": "basolato della Via Cassia"
+          },
+          "coords": [
+            12.416537,
+            41.981529
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen originalen Pflastersteine dieser antiken römischen Straße und tragen Sie festes Schuhwerk für einen sicheren Spaziergang auf dem unebenen Untergrund.",
+            "hu": "Fedezze fel az ősi római út kiválóan megőrzött eredeti macskaköveit, de mindenképpen viseljen kényelmes cipőt az egyenetlen talajon való biztonságos sétához.",
+            "ro": "Explorați pavajul original bine conservat al acestui drum roman antic și purtați încălțăminte confortabilă pentru o plimbare sigură pe suprafața denivelată.",
+            "en": "Explore the remarkably preserved original paving stones of this ancient Roman road, and be sure to wear sturdy shoes for a safe walk on the uneven historical surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            12.425737,
+            41.977107
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die faszinierenden Ruinen dieser alten römischen Villa, die einen Einblick in das antike Leben bieten, und bringen Sie eine Wasserflasche für den sonnigen Rundgang mit.",
+            "hu": "Csodálja meg ennek az ókori római villának a lenyűgöző romjait, amelyek bepillantást engednek az egykori életbe, és vigyen magával vizet a napos sétához.",
+            "ro": "Admirați ruinele fascinante ale acestei vile romane antice, care oferă o privire în viața de odinioară, și aduceți o sticlă cu apă pentru plimbarea însorită.",
+            "en": "Marvel at the fascinating ruins of this ancient Roman villa offering a glimpse into past daily life, and remember to bring a water bottle for your sunny tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuliano Martire",
+            "hu": "Chiesa di San Giuliano Martire",
+            "ro": "Chiesa di San Giuliano Martire",
+            "en": "Chiesa di San Giuliano Martire"
+          },
+          "coords": [
+            12.427915,
+            41.974942
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese einladende Kirche, um ihre schlichte Eleganz und spirituelle Ruhe zu genießen, und überprüfen Sie die lokalen Messezeiten vor Ihrem Besuch.",
+            "hu": "Lépjen be ebbe a barátságos templomba, hogy élvezze az egyszerű eleganciát és a lelki békét, de látogatás előtt érdemes ellenőrizni a helyi misék időpontját.",
+            "ro": "Intrați în această biserică primitoare pentru a vă bucura de eleganța simplă și de pacea spirituală, și verificați programul slujbelor locale înainte de vizită.",
+            "en": "Step into this welcoming church to enjoy its simple elegance and spiritual peace, but check the local mass schedule before arriving to ensure a quiet viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Volusia",
+            "hu": "Parco Volusia",
+            "ro": "Parco Volusia",
+            "en": "Parco Volusia"
+          },
+          "coords": [
+            12.437503,
+            41.977153
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen historischen Park, der Natur und Geschichte verbindet, und suchen Sie sich einen schattigen Platz unter den Bäumen für ein kleines Picknick.",
+            "hu": "Pihenjen ebben a tágas történelmi parkban, amely ötvözi a természetet és a történelmet, és keressen egy árnyékos helyet a fák alatt egy kisebb piknikhez.",
+            "ro": "Relaxați-vă în acest parc istoric spațios care combină perfect natura cu istoria și găsiți un loc umbrit sub copaci pentru a vă bucura de un mic picnic.",
+            "en": "Relax in this spacious historical park that beautifully combines nature and history, and find a shaded spot under the trees to enjoy a small midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Casale Ghella",
+            "hu": "Casale Ghella",
+            "ro": "Casale Ghella",
+            "en": "Casale Ghella"
+          },
+          "coords": [
+            12.434608,
+            41.975726
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Architektur dieses historischen Bauernhauses, das von der ländlichen Vergangenheit der Region zeugt, und fotografieren Sie die malerische Fassade im Nachmittagslicht.",
+            "hu": "Csodálja meg ennek a történelmi tanyaháznak a rusztikus építészetét, amely a régió vidékies múltjáról tanúskodik, és fotózza le a festői homlokzatot a délutáni fényben.",
+            "ro": "Admirați arhitectura rustică a acestei ferme istorice care mărturisește trecutul rural al regiunii și fotografiați fațada pitorească în lumina caldă a după-amiezii.",
+            "en": "Admire the rustic architecture of this historical farmhouse that testifies to the region's rural past, and capture the picturesque facade in the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo romano",
+            "hu": "Mausoleo romano",
+            "ro": "Mausoleo romano",
+            "en": "Mausoleo romano"
+          },
+          "coords": [
+            12.434303,
+            41.974614
+          ],
+          "category": "historical",
+          "arrive_at": "15:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Überreste dieses römischen Mausoleums, das von alten Begräbnisriten erzählt, und bleiben Sie auf den markierten Wegen, um das Denkmal zu schützen.",
+            "hu": "Fedezze fel ennek a római mauzóleumnak a lenyűgöző maradványait, amelyek ősi temetkezési rítusokról mesélnek, és maradjon a kijelölt ösvényeken a műemlék védelme érdekében.",
+            "ro": "Descoperiți rămășițele impresionante ale acestui mausoleu roman, care povestește despre riturile funerare antice, și rămâneți pe potecile marcate pentru a proteja monumentul.",
+            "en": "Discover the impressive remains of this Roman mausoleum that tells of ancient burial rites, and please stay on the marked paths to help preserve the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepolcro dei Veienti",
+            "hu": "Sepolcro dei Veienti",
+            "ro": "Sepolcro dei Veienti",
+            "en": "Sepolcro dei Veienti"
+          },
+          "coords": [
+            12.444362,
+            41.974798
+          ],
+          "category": "historical",
+          "arrive_at": "17:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses bedeutende etruskisch-römische Grabmal, das einen tiefen Einblick in die Antike gewährt, und planen Sie genügend Zeit für die Details der Grabstruktur ein.",
+            "hu": "Tekintse meg ezt a jelentős etruszk-római síremléket, amely mély bepillantást enged az ókorba, és szánjon elegendő időt a sírszerkezet finom részleteinek felfedezésére.",
+            "ro": "Vizitați acest important mormânt etrusco-roman care oferă o perspectivă profundă asupra antichității și rezervați-vă suficient timp pentru detaliile structurii funerare.",
+            "en": "Visit this significant Etruscan-Roman tomb that provides a deep insight into antiquity, and allow plenty of time to examine the fascinating details of the burial structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt an der Kirche der Unbefleckten Empfängnis, bevor Sie die gut erhaltenen Reste der antiken Via Cassia bewundern. Am Mittag besuchen Sie eine alte römische Villa und finden danach Momente der Ruhe in der Kirche San Giuliano. Der Nachmittag bietet entspannte Spaziergänge im Parco Volusia und einen Stopp am rustikalen Casale Ghella sowie am nahegelegenen Mausoleum. Lassen Sie den ereignisreichen Tag am monumentalen Grabmal der Veienter eindrucksvoll ausklingen.",
+        "hu": "Kényelmes autózása a Szeplőtelen Fogantatás templománál kezdődik, mielőtt megcsodálná az ókori Via Cassia jó állapotban fennmaradt részleteit. Délben meglátogat egy ősi római villát, majd a San Giuliano templomban találhat nyugalomra. A délután pihentető sétákat kínál a Parco Volusia parkban, valamint megállókat a rusztikus Casale Ghella és a közeli mauzóleum mellett. Zárja eseménydús napját a veientiek lenyűgöző síremlékénél.",
+        "ro": "Călătoria dumneavoastră confortabilă începe la Biserica Imaculatei Concepții, înainte de a admira rămășițele bine conservate ale anticei Via Cassia. La prânz vizitați o veche vilă romană și apoi găsiți momente de liniște în Biserica San Giuliano. După-amiaza oferă plimbări relaxante în Parco Volusia și opriri la rustica Casale Ghella și la mausoleul din apropiere. Încheiați ziua plină de evenimente la monumentalul mormânt al veienților.",
+        "en": "Your comfortable drive begins at the Church of the Immaculate Conception before you admire the well-preserved remains of the ancient Via Cassia. At midday, visit an ancient Roman villa and then find moments of quiet in the Church of San Giuliano. The afternoon offers relaxing walks in Parco Volusia and stops at the rustic Casale Ghella and the nearby mausoleum. End your eventful day impressively at the monumental Tomb of the Veientes."
+      }
+    }
+  }
+}

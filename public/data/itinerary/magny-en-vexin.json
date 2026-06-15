@@ -1,0 +1,474 @@
+{
+  "city_id": "magny-en-vexin",
+  "anchor": {
+    "name": "Magny-en-Vexin",
+    "coords": [
+      1.7867,
+      49.1544
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:35",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Halle",
+            "hu": "Place de la Halle",
+            "ro": "Place de la Halle",
+            "en": "Place de la Halle"
+          },
+          "coords": [
+            1.787026,
+            49.155294
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem historischen überdachten Marktplatz, um seine Holzarchitektur zu bewundern, während Sie sich frisches lokales Gebäck holen.",
+            "hu": "Kezdje a reggelt ezen a történelmi, fedett piactéren, ahol megcsodálhatja a faépítészetet, miközben egy közeli árustól friss helyi péksüteményt vásárol.",
+            "ro": "Începeți dimineața în această piață istorică acoperită pentru a-i admira arhitectura din lemn, cumpărând totodată o patiserie locală proaspătă de la un vânzător.",
+            "en": "Start your morning at this historic covered market square to admire its wooden architecture while grabbing a fresh local pastry from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Brière",
+            "hu": "Hôtel de Brière",
+            "ro": "Hôtel de Brière",
+            "en": "Hôtel de Brière"
+          },
+          "coords": [
+            1.787775,
+            49.155117
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses herrliche klassische Herrenhaus, um die detaillierten Steinarbeiten zu bewundern, und vergessen Sie nicht, den Innenhof für Fotos zu besuchen.",
+            "hu": "Fedezze fel ezt a csodálatos klasszikus kúriát, hogy értékelje a részletes kőmunkát, és ne felejtse el megnézni a belső udvart a legjobb fotószögek miatt.",
+            "ro": "Explorați acest magnific conac clasic pentru a aprecia zidăria detaliată și nu uitați să verificați curtea interioară pentru cele mai bune unghiuri foto.",
+            "en": "Explore this magnificent classical mansion to appreciate its detailed stonework, and don't forget to check the courtyard for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité de Notre-Dame",
+            "hu": "Église de la Nativité de Notre-Dame",
+            "ro": "Église de la Nativité de Notre-Dame",
+            "en": "Église de la Nativité de Notre-Dame"
+          },
+          "coords": [
+            1.786353,
+            49.156563
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre atemberaubenden Buntglasfenster zu bestaunen, und kommen Sie früh, um das Morgenlicht einzufangen.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, ügyelve arra, hogy korán érkezzen a reggeli fények miatt.",
+            "ro": "Pășiți în această frumoasă biserică pentru a admira vitraliile uimitoare, asigurându-vă că o vizitați devreme pentru a prinde lumina superbă a dimineții.",
+            "en": "Step inside this beautiful church to marvel at its stunning stained glass windows, making sure to visit early to catch the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Deux piliers",
+            "hu": "Deux piliers",
+            "ro": "Deux piliers",
+            "en": "Deux piliers"
+          },
+          "coords": [
+            1.787112,
+            49.153086
+          ],
+          "category": "fortress",
+          "arrive_at": "11:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesen imposanten historischen Säulen, die einst den Stadteingang markierten, und beachten Sie ihr robustes Design.",
+            "hu": "Tartson egy rövid pihenőt ezeknél a lenyűgöző történelmi oszlopoknál, amelyek egykor a város bejáratát jelezték, figyelve a modern utcaképpel való kontrasztot.",
+            "ro": "Faceți o scurtă oprire la acești piloni istorici impunători care marcau cândva intrarea orașului, observând designul lor robust pe fundalul modern.",
+            "en": "Take a quick stop at these imposing historic pillars that once marked the town's entrance, noting their sturdy design against the modern streetscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Marguerite",
+            "hu": "Chapelle Sainte-Marguerite",
+            "ro": "Chapelle Sainte-Marguerite",
+            "en": "Chapelle Sainte-Marguerite"
+          },
+          "coords": [
+            1.768118,
+            49.145377
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Gehen Sie etwas weiter, um diese friedliche Kapelle in einer ruhigen Gegend zu erreichen, die eine ruhige Atmosphäre für eine kurze Rast bietet.",
+            "hu": "Sétáljon kicsit tovább, hogy elérje ezt a csendes környéken fészkelő békés kápolnát, amely tökéletes, nyugodt légkört kínál egy rövid délutáni pihenőhöz.",
+            "ro": "Plimbați-vă puțin mai departe pentru a ajunge la această capelă liniștită situată într-o zonă calmă, oferind o atmosferă senină perfectă pentru odihnă.",
+            "en": "Walk a bit further to reach this peaceful chapel nestled in a quiet area, which offers a serene atmosphere perfect for a brief afternoon rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Magny-en-Vexin und enthüllt seine historischen bürgerlichen und religiösen Wahrzeichen.\nGegen Mittag vertieft sich die Reise in das Erbe der Stadt und bewundert klassische Herrenhäuser und alte Tore.\nDer Nachmittag lädt zu friedlichen Erkundungen ein, sei es zu ruhigen Kapellen oder in die weitere Vexin-Region.\nDer Abend bietet einen sanften Abschluss des Tages und reflektiert den Charme der Region bei einem entspannten Abendessen.",
+        "hu": "A reggel Magny-en-Vexin szívében kezdődik, felfedezve annak történelmi, polgári és vallási nevezetességeit.\nDélre az utazás elmélyül a város örökségében, megcsodálva a klasszikus kúriákat és az ősi kapukat.\nA délután békés felfedezésre hív, legyen szó csendes kápolnákról vagy a tágabb Vexin régió megismeréséről.\nAz este kellemes lezárást nyújt a napnak, elgondolkodva a régió varázsán egy nyugodt vacsora mellett.",
+        "ro": "Dimineața începe în inima orașului Magny-en-Vexin, descoperindu-i reperele istorice civice și religioase.\nLa amiază, călătoria aprofundează patrimoniul orașului, admirând conace clasice și porți antice.\nDupă-amiaza invită la o explorare liniștită, fie plimbându-vă spre capele tăcute, fie descoperind zona mai largă Vexin.\nSeara oferă o încheiere blândă a zilei, reflectând la farmecul regiunii la o cină relaxată.",
+        "en": "Morning starts at the heart of Magny-en-Vexin, uncovering its historical civic and religious landmarks.\nBy midday, the journey deepens into the town's heritage, admiring classical mansions and ancient gateways.\nThe afternoon invites peaceful exploration, either strolling to quiet chapels or discovering the broader Vexin area.\nEvening provides a gentle conclusion to the day, reflecting on the region's charm over a relaxed dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:04",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Gervais-et-Saint-Protais",
+            "hu": "Église Saint-Gervais-et-Saint-Protais",
+            "ro": "Église Saint-Gervais-et-Saint-Protais",
+            "en": "Église Saint-Gervais-et-Saint-Protais"
+          },
+          "coords": [
+            1.768305,
+            49.169273
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante ländliche Kirche, um ihre authentische regionale Architektur zu beobachten, und schlendern Sie um ihr erhaltenes Äußeres.",
+            "hu": "Látogasson el ebbe a feltűnő vidéki templomba, hogy megfigyelje autentikus regionális építészetét, és tegyen egy sétát a jól megőrzött középkori külső körül.",
+            "ro": "Vizitați această impresionantă biserică rurală pentru a-i observa arhitectura regională autentică, făcându-vă timp să vă plimbați pe lângă exteriorul său medieval.",
+            "en": "Visit this striking rural church to observe its authentic regional architecture, taking a moment to wander around its well-preserved medieval exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Halle",
+            "hu": "Place de la Halle",
+            "ro": "Place de la Halle",
+            "en": "Place de la Halle"
+          },
+          "coords": [
+            1.787026,
+            49.155294
+          ],
+          "category": "civic",
+          "arrive_at": "10:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem historischen überdachten Marktplatz, um seine Holzarchitektur zu bewundern, während Sie sich frisches lokales Gebäck holen.",
+            "hu": "Kezdje a reggelt ezen a történelmi, fedett piactéren, ahol megcsodálhatja a faépítészetet, miközben egy közeli árustól friss helyi péksüteményt vásárol.",
+            "ro": "Începeți dimineața în această piață istorică acoperită pentru a-i admira arhitectura din lemn, cumpărând totodată o patiserie locală proaspătă de la un vânzător.",
+            "en": "Start your morning at this historic covered market square to admire its wooden architecture while grabbing a fresh local pastry from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Brière",
+            "hu": "Hôtel de Brière",
+            "ro": "Hôtel de Brière",
+            "en": "Hôtel de Brière"
+          },
+          "coords": [
+            1.787775,
+            49.155117
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses herrliche klassische Herrenhaus, um die detaillierten Steinarbeiten zu bewundern, und vergessen Sie nicht, den Innenhof für Fotos zu besuchen.",
+            "hu": "Fedezze fel ezt a csodálatos klasszikus kúriát, hogy értékelje a részletes kőmunkát, és ne felejtse el megnézni a belső udvart a legjobb fotószögek miatt.",
+            "ro": "Explorați acest magnific conac clasic pentru a aprecia zidăria detaliată și nu uitați să verificați curtea interioară pentru cele mai bune unghiuri foto.",
+            "en": "Explore this magnificent classical mansion to appreciate its detailed stonework, and don't forget to check the courtyard for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité de Notre-Dame",
+            "hu": "Église de la Nativité de Notre-Dame",
+            "ro": "Église de la Nativité de Notre-Dame",
+            "en": "Église de la Nativité de Notre-Dame"
+          },
+          "coords": [
+            1.786353,
+            49.156563
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre atemberaubenden Buntglasfenster zu bestaunen, und kommen Sie früh, um das Morgenlicht einzufangen.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, ügyelve arra, hogy korán érkezzen a reggeli fények miatt.",
+            "ro": "Pășiți în această frumoasă biserică pentru a admira vitraliile uimitoare, asigurându-vă că o vizitați devreme pentru a prinde lumina superbă a dimineții.",
+            "en": "Step inside this beautiful church to marvel at its stunning stained glass windows, making sure to visit early to catch the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Deux piliers",
+            "hu": "Deux piliers",
+            "ro": "Deux piliers",
+            "en": "Deux piliers"
+          },
+          "coords": [
+            1.787112,
+            49.153086
+          ],
+          "category": "fortress",
+          "arrive_at": "12:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesen imposanten historischen Säulen, die einst den Stadteingang markierten, und beachten Sie ihr robustes Design.",
+            "hu": "Tartson egy rövid pihenőt ezeknél a lenyűgöző történelmi oszlopoknál, amelyek egykor a város bejáratát jelezték, figyelve a modern utcaképpel való kontrasztot.",
+            "ro": "Faceți o scurtă oprire la acești piloni istorici impunători care marcau cândva intrarea orașului, observând designul lor robust pe fundalul modern.",
+            "en": "Take a quick stop at these imposing historic pillars that once marked the town's entrance, noting their sturdy design against the modern streetscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Marguerite",
+            "hu": "Chapelle Sainte-Marguerite",
+            "ro": "Chapelle Sainte-Marguerite",
+            "en": "Chapelle Sainte-Marguerite"
+          },
+          "coords": [
+            1.768118,
+            49.145377
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Gehen Sie etwas weiter, um diese friedliche Kapelle in einer ruhigen Gegend zu erreichen, die eine ruhige Atmosphäre für eine kurze Rast bietet.",
+            "hu": "Sétáljon kicsit tovább, hogy elérje ezt a csendes környéken fészkelő békés kápolnát, amely tökéletes, nyugodt légkört kínál egy rövid délutáni pihenőhöz.",
+            "ro": "Plimbați-vă puțin mai departe pentru a ajunge la această capelă liniștită situată într-o zonă calmă, oferind o atmosferă senină perfectă pentru odihnă.",
+            "en": "Walk a bit further to reach this peaceful chapel nestled in a quiet area, which offers a serene atmosphere perfect for a brief afternoon rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Magny-en-Vexin und enthüllt seine historischen bürgerlichen und religiösen Wahrzeichen.\nGegen Mittag vertieft sich die Reise in das Erbe der Stadt und bewundert klassische Herrenhäuser und alte Tore.\nDer Nachmittag lädt zu friedlichen Erkundungen ein, sei es zu ruhigen Kapellen oder in die weitere Vexin-Region.\nDer Abend bietet einen sanften Abschluss des Tages und reflektiert den Charme der Region bei einem entspannten Abendessen.",
+        "hu": "A reggel Magny-en-Vexin szívében kezdődik, felfedezve annak történelmi, polgári és vallási nevezetességeit.\nDélre az utazás elmélyül a város örökségében, megcsodálva a klasszikus kúriákat és az ősi kapukat.\nA délután békés felfedezésre hív, legyen szó csendes kápolnákról vagy a tágabb Vexin régió megismeréséről.\nAz este kellemes lezárást nyújt a napnak, elgondolkodva a régió varázsán egy nyugodt vacsora mellett.",
+        "ro": "Dimineața începe în inima orașului Magny-en-Vexin, descoperindu-i reperele istorice civice și religioase.\nLa amiază, călătoria aprofundează patrimoniul orașului, admirând conace clasice și porți antice.\nDupă-amiaza invită la o explorare liniștită, fie plimbându-vă spre capele tăcute, fie descoperind zona mai largă Vexin.\nSeara oferă o încheiere blândă a zilei, reflectând la farmecul regiunii la o cină relaxată.",
+        "en": "Morning starts at the heart of Magny-en-Vexin, uncovering its historical civic and religious landmarks.\nBy midday, the journey deepens into the town's heritage, admiring classical mansions and ancient gateways.\nThe afternoon invites peaceful exploration, either strolling to quiet chapels or discovering the broader Vexin area.\nEvening provides a gentle conclusion to the day, reflecting on the region's charm over a relaxed dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 15.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Regionaler Naturpark Vexin français",
+            "hu": "Vexin français Natúrpark",
+            "ro": "Parcul Natural Vexin français",
+            "en": "Vexin français Natural Park"
+          },
+          "coords": [
+            1.896389,
+            49.086389
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das weite Grün dieses riesigen Regionalparks und tragen Sie bequeme Wanderschuhe, um die gut gepflegten Wanderwege zu erkunden.",
+            "hu": "Merüljön el ennek a hatalmas regionális parknak a kiterjedt növényzetében, és viseljen kényelmes túracipőt a gyönyörűen karbantartott sétautak felfedezéséhez.",
+            "ro": "Scufundați-vă în verdeața extinsă a acestui vast parc regional, purtând pantofi confortabili de drumeție pentru a explora traseele frumos întreținute.",
+            "en": "Immerse yourself in the expansive greenery of this vast regional park, wearing comfortable hiking shoes to explore the beautifully maintained walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Aventure Land",
+            "hu": "Parc Aventure Land",
+            "ro": "Parc Aventure Land",
+            "en": "Parc Aventure Land"
+          },
+          "coords": [
+            1.804796,
+            49.146958
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Bringen Sie etwas zusätzliche Energie mit, um die lustigen Outdoor-Herausforderungen in diesem Abenteuerpark zu bewältigen, und kommen Sie früh an.",
+            "hu": "Hozzon magával egy kis extra energiát, hogy megbirkózzon a szórakoztató szabadtéri kihívásokkal ebben a kalandparkban, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Aduceți un plus de energie pentru a aborda provocările distractive din acest parc de aventură, ajungând devreme pentru a evita cele mai lungi cozi.",
+            "en": "Bring some extra energy to tackle the fun outdoor challenges at this adventure park, arriving early in the day to beat the longest queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gervais-et-Saint-Protais",
+            "hu": "Église Saint-Gervais-et-Saint-Protais",
+            "ro": "Église Saint-Gervais-et-Saint-Protais",
+            "en": "Église Saint-Gervais-et-Saint-Protais"
+          },
+          "coords": [
+            1.768305,
+            49.169273
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante ländliche Kirche, um ihre authentische regionale Architektur zu beobachten, und schlendern Sie um ihr erhaltenes Äußeres.",
+            "hu": "Látogasson el ebbe a feltűnő vidéki templomba, hogy megfigyelje autentikus regionális építészetét, és tegyen egy sétát a jól megőrzött középkori külső körül.",
+            "ro": "Vizitați această impresionantă biserică rurală pentru a-i observa arhitectura regională autentică, făcându-vă timp să vă plimbați pe lângă exteriorul său medieval.",
+            "en": "Visit this striking rural church to observe its authentic regional architecture, taking a moment to wander around its well-preserved medieval exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité de Notre-Dame",
+            "hu": "Église de la Nativité de Notre-Dame",
+            "ro": "Église de la Nativité de Notre-Dame",
+            "en": "Église de la Nativité de Notre-Dame"
+          },
+          "coords": [
+            1.786353,
+            49.156563
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne Kirche ein, um ihre atemberaubenden Buntglasfenster zu bestaunen, und kommen Sie früh, um das Morgenlicht einzufangen.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, ügyelve arra, hogy korán érkezzen a reggeli fények miatt.",
+            "ro": "Pășiți în această frumoasă biserică pentru a admira vitraliile uimitoare, asigurându-vă că o vizitați devreme pentru a prinde lumina superbă a dimineții.",
+            "en": "Step inside this beautiful church to marvel at its stunning stained glass windows, making sure to visit early to catch the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Brière",
+            "hu": "Hôtel de Brière",
+            "ro": "Hôtel de Brière",
+            "en": "Hôtel de Brière"
+          },
+          "coords": [
+            1.787775,
+            49.155117
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses herrliche klassische Herrenhaus, um die detaillierten Steinarbeiten zu bewundern, und vergessen Sie nicht, den Innenhof für Fotos zu besuchen.",
+            "hu": "Fedezze fel ezt a csodálatos klasszikus kúriát, hogy értékelje a részletes kőmunkát, és ne felejtse el megnézni a belső udvart a legjobb fotószögek miatt.",
+            "ro": "Explorați acest magnific conac clasic pentru a aprecia zidăria detaliată și nu uitați să verificați curtea interioară pentru cele mai bune unghiuri foto.",
+            "en": "Explore this magnificent classical mansion to appreciate its detailed stonework, and don't forget to check the courtyard for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Halle",
+            "hu": "Place de la Halle",
+            "ro": "Place de la Halle",
+            "en": "Place de la Halle"
+          },
+          "coords": [
+            1.787026,
+            49.155294
+          ],
+          "category": "civic",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem historischen überdachten Marktplatz, um seine Holzarchitektur zu bewundern, während Sie sich frisches lokales Gebäck holen.",
+            "hu": "Kezdje a reggelt ezen a történelmi, fedett piactéren, ahol megcsodálhatja a faépítészetet, miközben egy közeli árustól friss helyi péksüteményt vásárol.",
+            "ro": "Începeți dimineața în această piață istorică acoperită pentru a-i admira arhitectura din lemn, cumpărând totodată o patiserie locală proaspătă de la un vânzător.",
+            "en": "Start your morning at this historic covered market square to admire its wooden architecture while grabbing a fresh local pastry from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Deux piliers",
+            "hu": "Deux piliers",
+            "ro": "Deux piliers",
+            "en": "Deux piliers"
+          },
+          "coords": [
+            1.787112,
+            49.153086
+          ],
+          "category": "fortress",
+          "arrive_at": "15:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesen imposanten historischen Säulen, die einst den Stadteingang markierten, und beachten Sie ihr robustes Design.",
+            "hu": "Tartson egy rövid pihenőt ezeknél a lenyűgöző történelmi oszlopoknál, amelyek egykor a város bejáratát jelezték, figyelve a modern utcaképpel való kontrasztot.",
+            "ro": "Faceți o scurtă oprire la acești piloni istorici impunători care marcau cândva intrarea orașului, observând designul lor robust pe fundalul modern.",
+            "en": "Take a quick stop at these imposing historic pillars that once marked the town's entrance, noting their sturdy design against the modern streetscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Magny-en-Vexin und enthüllt seine historischen bürgerlichen und religiösen Wahrzeichen.\nGegen Mittag vertieft sich die Reise in das Erbe der Stadt und bewundert klassische Herrenhäuser und alte Tore.\nDer Nachmittag lädt zu friedlichen Erkundungen ein, sei es zu ruhigen Kapellen oder in die weitere Vexin-Region.\nDer Abend bietet einen sanften Abschluss des Tages und reflektiert den Charme der Region bei einem entspannten Abendessen.",
+        "hu": "A reggel Magny-en-Vexin szívében kezdődik, felfedezve annak történelmi, polgári és vallási nevezetességeit.\nDélre az utazás elmélyül a város örökségében, megcsodálva a klasszikus kúriákat és az ősi kapukat.\nA délután békés felfedezésre hív, legyen szó csendes kápolnákról vagy a tágabb Vexin régió megismeréséről.\nAz este kellemes lezárást nyújt a napnak, elgondolkodva a régió varázsán egy nyugodt vacsora mellett.",
+        "ro": "Dimineața începe în inima orașului Magny-en-Vexin, descoperindu-i reperele istorice civice și religioase.\nLa amiază, călătoria aprofundează patrimoniul orașului, admirând conace clasice și porți antice.\nDupă-amiaza invită la o explorare liniștită, fie plimbându-vă spre capele tăcute, fie descoperind zona mai largă Vexin.\nSeara oferă o încheiere blândă a zilei, reflectând la farmecul regiunii la o cină relaxată.",
+        "en": "Morning starts at the heart of Magny-en-Vexin, uncovering its historical civic and religious landmarks.\nBy midday, the journey deepens into the town's heritage, admiring classical mansions and ancient gateways.\nThe afternoon invites peaceful exploration, either strolling to quiet chapels or discovering the broader Vexin area.\nEvening provides a gentle conclusion to the day, reflecting on the region's charm over a relaxed dinner."
+      }
+    }
+  }
+}

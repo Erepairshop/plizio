@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-heraklion-cities-v2",
+  "anchor": {
+    "name": "Heraklion",
+    "coords": [
+      25.1442,
+      35.3387
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum Heraklion",
+            "hu": "Heraklioni Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Heraklion",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie minoische Fresken und den Diskos von Phaistos in diesem Weltklasse-Museum, und kommen Sie früh, um den Reisegruppen zuvorzukommen.",
+            "hu": "Csodálja meg a mínoszi freskókat és a rejtélyes phaisztoszi korongot ebben a múzeumban, de érkezzen korán, hogy elkerülje a nagy turistacsoportokat.",
+            "ro": "Admirați frescele minoice și misteriosul Disc din Phaistos în acest muzeu de top, sosind devreme pentru a evita marile grupuri de turiști.",
+            "en": "Marvel at Minoan frescoes and the mysterious Phaistos Disc in this world-class museum, arriving early to beat the largest tour group crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Titos Kirche",
+            "hu": "Agios Titos Templom",
+            "ro": "Biserica Agios Titos",
+            "en": "Agios Titos Church"
+          },
+          "coords": [
+            25.134658,
+            35.3401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die Reliquie des Heiligen Titus in dieser Kirche, und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat és Szent Titusz ereklyéjét, de ne feledje eltakarni a vállait a bizánci templom látogatásakor.",
+            "ro": "Admirați vitraliile și relicva Sfântului Tit în această biserică bizantină, amintindu-vă să purtați o ținută decentă care acoperă umerii.",
+            "en": "Admire the exquisite stained glass and the relic of St. Titus in this Byzantine church, remembering to dress modestly covering your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Morosini-Brunnen",
+            "hu": "Morosini Szökőkút",
+            "ro": "Fântâna Morosini",
+            "en": "Morosini Fountain"
+          },
+          "coords": [
+            25.133137,
+            35.339168
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "11:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Steinlöwen dieses venezianischen Meisterwerks, einem perfekten zentralen Ort für einen schnellen Kaffee oder eine Bougatsa.",
+            "hu": "Figyelje meg ennek a velencei remekműnek a négy kőoroszlánját, amely tökéletes központi hely egy gyors kávé vagy bougatsa elfogyasztásához.",
+            "ro": "Observați leii de piatră ai acestei capodopere venețiene, fiind locul central perfect pentru a savura rapid o cafea grecească sau o bougatsa.",
+            "en": "Observe the four stone lions of this Venetian masterpiece at Lions Square, which is a perfect central spot to grab a quick coffee or bougatsa."
+          }
+        },
+        {
+          "name": {
+            "de": "Bembo-Brunnen",
+            "hu": "Bembo Szökőkút",
+            "ro": "Fântâna Bembo",
+            "en": "Bembo Fountain"
+          },
+          "coords": [
+            25.133484,
+            35.336495
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "11:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ältesten venezianischen Brunnen der Stadt mit einer kopflosen römischen Statue, den Sie am besten auf dem Weg zum Markt ansehen.",
+            "hu": "Fedezze fel a város legrégebbi velencei kútját egy fej nélküli római szoborral, amelyet a közeli piac felé sétálva érdemes gyorsan megtekinteni.",
+            "ro": "Descoperiți cea mai veche fântână venețiană cu o statuie romană fără cap, cel mai bine de văzut rapid în drum spre piața aglomerată din apropiere.",
+            "en": "Discover Heraklion's oldest Venetian fountain decorated with a headless Roman statue, best viewed quickly while heading to the nearby market."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Minas Kathedrale",
+            "hu": "Agios Minas Katedrális",
+            "ro": "Catedrala Agios Minas",
+            "en": "Agios Minas Cathedral"
+          },
+          "coords": [
+            25.130833,
+            35.3375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie eine der größten Kathedralen Griechenlands für atemberaubende Fresken, und beachten Sie die entschärfte Weltkriegsbombe draußen.",
+            "hu": "Lépjen be Görögország egyik legnagyobb katedrálisába a lenyűgöző freskókért, és vessen egy pillantást a kint kiállított II. világháborús bombára.",
+            "ro": "Pășiți în una dintre cele mai mari catedrale din Grecia pentru fresce uluitoare, observând și bomba neexplodată din al Doilea Război Mondial de afară.",
+            "en": "Step into one of Greece's largest cathedrals to see its stunning frescoes, taking a moment to notice the unexploded WWII bomb displayed outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum von Kreta",
+            "hu": "Krétai Történeti Múzeum",
+            "ro": "Muzeul Istoric al Cretei",
+            "en": "Historical Museum of Crete"
+          },
+          "coords": [
+            25.131167,
+            35.341806
+          ],
+          "category": "museums",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie Jahrhunderte kretischer Geschichte mit Gemälden von El Greco, und nutzen Sie den Audioguide für die Ausstellungen zum Widerstand.",
+            "hu": "Fedezze fel Kréta történelmét és El Greco festményeit, de mindenképpen használja az audioguide-ot a II. világháborús ellenállás kiállításához.",
+            "ro": "Explorați istoria cretană, inclusiv picturile lui El Greco, asigurându-vă că folosiți ghidul audio pentru expoziția fascinantă a rezistenței.",
+            "en": "Explore centuries of Cretan history including El Greco paintings, making sure to use the audio guide for the fascinating WWII resistance exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Koules",
+            "hu": "Koules Erőd",
+            "ro": "Fortăreața Koules",
+            "en": "Koules Fortress"
+          },
+          "coords": [
+            25.136883,
+            35.344569
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "15:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie für einen Panoramablick auf das Dach dieser massiven Festung, aber tragen Sie feste Schuhe, da die Steinwege rutschig sein können.",
+            "hu": "Másszon fel a hatalmas velencei erőd tetejére a tengeri panorámáért, de viseljen kényelmes cipőt, mert a köves utak nagyon csúszósak lehetnek.",
+            "ro": "Urcați pe acoperișul acestei fortărețe masive pentru vederi panoramice, purtând încălțăminte solidă deoarece cărările de piatră pot fi alunecoase.",
+            "en": "Climb to the roof of this massive Venetian fortress for panoramic sea views, wearing sturdy walking shoes as the stone pathways can be slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in die minoische Antike im Archäologischen Museum, bevor die Kirche Agios Titos erkundet wird. Mittags passieren Sie die Morosini- und Bembo-Brunnen im lebhaften Herzen. Der Nachmittag führt zur majestätischen Agios Minas Kathedrale und zum Historischen Museum von Kreta. Der Abend endet mit einem malerischen Spaziergang zur Festung Koules.",
+        "hu": "A reggel a mínoszi ókorba tett mélyreható utazással indul a Régészeti Múzeumban, majd a békés Agios Titos templomot fedezzük fel. Délben a Morosini és Bembo szökőkutak mellett sétálunk a nyüzsgő városközpontban. Délután a fenséges Agios Minas katedrálist és a Krétai Történeti Múzeumot látogatjuk meg. Az estét a lenyűgöző tengeri kilátást nyújtó Koules erőd megmászásával zárjuk.",
+        "ro": "Dimineața începe cu o incursiune în antichitatea minoică la Muzeul Arheologic, urmată de o vizită la Biserica Agios Titos. La prânz, admirați fântânile Morosini și Bembo în inima vibrantă a orașului. După-amiaza vă aduce la maiestuoasa Catedrală Agios Minas și la Muzeul Istoric al Cretei. Seara se încheie cu o plimbare pitorească până la impunătoarea Fortăreață Koules.",
+        "en": "Morning begins with a deep dive into Minoan antiquity at the renowned Archaeological Museum, before exploring the peaceful Agios Titos Church. Midday takes you past the iconic Morosini and Bembo Fountains in the city's lively heart. Afternoon shifts to the majestic Agios Minas Cathedral and the Historical Museum of Crete. Evening concludes with a scenic walk up the imposing Koules Fortress."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturhistorisches Museum von Kreta",
+            "hu": "Krétai Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală din Creta",
+            "en": "Natural History Museum of Crete"
+          },
+          "coords": [
+            25.12671,
+            35.341907
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Erdbebensimulator und unglaubliche Dinosaurierfossilien, was es zu einem tollen Stopp macht, besonders wenn Sie mit Kindern reisen.",
+            "hu": "Próbálja ki a földrengés-szimulátort és nézze meg a dinoszaurusz-fosszíliákat, amely fantasztikus élményt nyújt, különösen a gyerekekkel utazóknak.",
+            "ro": "Experimentați simulatorul de cutremur și vedeți fosile incredibile, făcând din acest loc o oprire fenomenală, mai ales dacă călătoriți cu copiii.",
+            "en": "Experience the terrifying earthquake simulator and view incredible dinosaur fossils, which makes it a phenomenal stop especially if traveling with kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Minas Kathedrale",
+            "hu": "Agios Minas Katedrális",
+            "ro": "Catedrala Agios Minas",
+            "en": "Agios Minas Cathedral"
+          },
+          "coords": [
+            25.130833,
+            35.3375
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie eine der größten Kathedralen Griechenlands für atemberaubende Fresken, und beachten Sie die entschärfte Weltkriegsbombe draußen.",
+            "hu": "Lépjen be Görögország egyik legnagyobb katedrálisába a lenyűgöző freskókért, és vessen egy pillantást a kint kiállított II. világháborús bombára.",
+            "ro": "Pășiți în una dintre cele mai mari catedrale din Grecia pentru fresce uluitoare, observând și bomba neexplodată din al Doilea Război Mondial de afară.",
+            "en": "Step into one of Greece's largest cathedrals to see its stunning frescoes, taking a moment to notice the unexploded WWII bomb displayed outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Mauern",
+            "hu": "Velencei Falak",
+            "ro": "Zidurile Venețiene",
+            "en": "Venetian Walls"
+          },
+          "coords": [
+            25.130661,
+            35.332707
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der beeindruckenden sternförmigen Befestigungsanlagen und starten Sie früh oder spät, um die harte Mittagssonne zu meiden.",
+            "hu": "Sétáljon végig a várost körülvevő lenyűgöző csillag alakú erődítményen, de induljon kora reggel vagy késő délután, hogy elkerülje az erős napot.",
+            "ro": "Plimbați-vă de-a lungul fortificațiilor impresionante în formă de stea, începând devreme sau târziu pentru a evita soarele puternic de la amiază.",
+            "en": "Walk along the impressive star-shaped fortifications overlooking the city, starting your stroll early or late to avoid the harsh midday sun exposure."
+          }
+        },
+        {
+          "name": {
+            "de": "Morosini-Brunnen",
+            "hu": "Morosini Szökőkút",
+            "ro": "Fântâna Morosini",
+            "en": "Morosini Fountain"
+          },
+          "coords": [
+            25.133137,
+            35.339168
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Steinlöwen dieses venezianischen Meisterwerks, einem perfekten zentralen Ort für einen schnellen Kaffee oder eine Bougatsa.",
+            "hu": "Figyelje meg ennek a velencei remekműnek a négy kőoroszlánját, amely tökéletes központi hely egy gyors kávé vagy bougatsa elfogyasztásához.",
+            "ro": "Observați leii de piatră ai acestei capodopere venețiene, fiind locul central perfect pentru a savura rapid o cafea grecească sau o bougatsa.",
+            "en": "Observe the four stone lions of this Venetian masterpiece at Lions Square, which is a perfect central spot to grab a quick coffee or bougatsa."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Heraklion",
+            "hu": "Heraklioni Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Heraklion",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museums",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie minoische Fresken und den Diskos von Phaistos in diesem Weltklasse-Museum, und kommen Sie früh, um den Reisegruppen zuvorzukommen.",
+            "hu": "Csodálja meg a mínoszi freskókat és a rejtélyes phaisztoszi korongot ebben a múzeumban, de érkezzen korán, hogy elkerülje a nagy turistacsoportokat.",
+            "ro": "Admirați frescele minoice și misteriosul Disc din Phaistos în acest muzeu de top, sosind devreme pentru a evita marile grupuri de turiști.",
+            "en": "Marvel at Minoan frescoes and the mysterious Phaistos Disc in this world-class museum, arriving early to beat the largest tour group crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kotsanas Museum für antike griechische Technologie",
+            "hu": "Kotsanas Ókori Görög Technológiai Múzeum",
+            "ro": "Muzeul Kotsanas al Tehnologiei Greciei Antice",
+            "en": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas"
+          },
+          "coords": [
+            25.135589,
+            35.341411
+          ],
+          "category": "museum",
+          "arrive_at": "15:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Interagieren Sie mit Modellen antiker Erfindungen und nutzen Sie die Führungen, um die Brillanz der Ingenieure der Antike vollständig zu verstehen.",
+            "hu": "Próbálja ki az ókori görög találmányok működő modelljeit, és vegyen részt egy vezetett túrán, hogy megértse az ókori mérnökök zsenialitását.",
+            "ro": "Interacționați cu modelele funcționale ale invențiilor antice, folosind tururile ghidate pentru a înțelege pe deplin geniul inginerilor antichității.",
+            "en": "Interact with remarkable working models of ancient Greek inventions, utilizing the guided tours to fully grasp the brilliance of antiquity's engineers."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Koules",
+            "hu": "Koules Erőd",
+            "ro": "Fortăreața Koules",
+            "en": "Koules Fortress"
+          },
+          "coords": [
+            25.136883,
+            35.344569
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "17:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie für einen Panoramablick auf das Dach dieser massiven Festung, aber tragen Sie feste Schuhe, da die Steinwege rutschig sein können.",
+            "hu": "Másszon fel a hatalmas velencei erőd tetejére a tengeri panorámáért, de viseljen kényelmes cipőt, mert a köves utak nagyon csúszósak lehetnek.",
+            "ro": "Urcați pe acoperișul acestei fortărețe masive pentru vederi panoramice, purtând încălțăminte solidă deoarece cărările de piatră pot fi alunecoase.",
+            "en": "Climb to the roof of this massive Venetian fortress for panoramic sea views, wearing sturdy walking shoes as the stone pathways can be slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den Wundern im Naturhistorischen Museum und der Erkundung der Kathedrale Agios Minas. Mittags radeln Sie entlang der venezianischen Mauern zum belebten Morosini-Brunnen. Der Nachmittag ist für das Archäologische Museum und die Kotsanas-Ausstellung antiker Technik reserviert. Der Abend bricht in der imposanten Festung Koules am malerischen Hafen herein.",
+        "hu": "A reggel a Természettudományi Múzeum lenyűgöző kiállításával és az Agios Minas katedrális felfedezésével indul. Délben a hatalmas velencei falak mentén kerékpározunk a nyüzsgő Morosini szökőkútig. A délután a híres Régészeti Múzeumé és a Kotsanas Múzeum ókori szerkentyűié. Az esti szürkületet a festői kikötőnél álló robusztus Koules erőd falai között élvezhetjük.",
+        "ro": "Dimineața începe cu minunile de la Muzeul de Istorie Naturală și explorarea Catedralei Agios Minas. La prânz pedalați de-a lungul masivelor ziduri venețiene înainte de a opri la Fântâna Morosini. După-amiaza este rezervată faimosului Muzeu Arheologic și ingeniozităților antice de la Muzeul Kotsanas. Amurgul serii se instalează la impresionanta Fortăreață Koules din port.",
+        "en": "Morning starts with engaging natural wonders at the Natural History Museum and exploring the grandeur of Agios Minas Cathedral. Midday involves cycling along the massive Venetian Walls before stopping by the bustling Morosini Fountain. Afternoon is reserved for the world-famous Archaeological Museum and the clever ancient gadgets at Kotsanas Museum. Evening twilight sets in at Koules Fortress."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast von Knossos",
+            "hu": "Knósszoszi Palota",
+            "ro": "Palatul Knossos",
+            "en": "Knossos Palace"
+          },
+          "coords": [
+            25.163144,
+            35.297928
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen des minoischen Zentrums, aber kaufen Sie Ihr Ticket ohne Anstehen im Voraus, um wertvolle Zeit am Morgen zu sparen.",
+            "hu": "Barangoljon a mínoszi civilizáció központjának labirintusszerű romjai között, de vegye meg előre a jegyét, hogy értékes reggeli időt takarítson meg.",
+            "ro": "Rătăciți prin ruinele labirintice ale centrului civilizației minoice, dar cumpărați un bilet cu acces rapid în avans pentru a salva timp dimineața.",
+            "en": "Wander through the labyrinthine ruins of the Minoan civilization's heart, but buy your skip-the-line ticket in advance to save valuable morning time."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern",
+            "hu": "Városfalak",
+            "ro": "Zidurile Orașului",
+            "en": "CITY WALLS"
+          },
+          "coords": [
+            25.13602,
+            35.334811
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Verteidigungsanlage der Venezianer und besuchen Sie die Martinengo-Bastion, wo der berühmte Schriftsteller Kazantzakis ruht.",
+            "hu": "Fedezze fel a velenceiek által épített hatalmas védelmi rendszert, és nézze meg a Martinengo-bástyát, ahol a híres író, Nikos Kazantzakis nyugszik.",
+            "ro": "Descoperiți apărarea imensă construită de venețieni, explorând Bastionul Martinengo unde se odihnește celebrul scriitor Nikos Kazantzakis.",
+            "en": "Discover the immense perimeter defense built by the Venetians, checking out the Martinengo Bastion where the famous writer Nikos Kazantzakis rests."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Heraklion",
+            "hu": "Heraklioni Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Heraklion",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museums",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie minoische Fresken und den Diskos von Phaistos in diesem Weltklasse-Museum, und kommen Sie früh, um den Reisegruppen zuvorzukommen.",
+            "hu": "Csodálja meg a mínoszi freskókat és a rejtélyes phaisztoszi korongot ebben a múzeumban, de érkezzen korán, hogy elkerülje a nagy turistacsoportokat.",
+            "ro": "Admirați frescele minoice și misteriosul Disc din Phaistos în acest muzeu de top, sosind devreme pentru a evita marile grupuri de turiști.",
+            "en": "Marvel at Minoan frescoes and the mysterious Phaistos Disc in this world-class museum, arriving early to beat the largest tour group crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Titos Kirche",
+            "hu": "Agios Titos Templom",
+            "ro": "Biserica Agios Titos",
+            "en": "Agios Titos Church"
+          },
+          "coords": [
+            25.134658,
+            35.3401
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die Reliquie des Heiligen Titus in dieser Kirche, und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat és Szent Titusz ereklyéjét, de ne feledje eltakarni a vállait a bizánci templom látogatásakor.",
+            "ro": "Admirați vitraliile și relicva Sfântului Tit în această biserică bizantină, amintindu-vă să purtați o ținută decentă care acoperă umerii.",
+            "en": "Admire the exquisite stained glass and the relic of St. Titus in this Byzantine church, remembering to dress modestly covering your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Morosini-Brunnen",
+            "hu": "Morosini Szökőkút",
+            "ro": "Fântâna Morosini",
+            "en": "Morosini Fountain"
+          },
+          "coords": [
+            25.133137,
+            35.339168
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "14:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Steinlöwen dieses venezianischen Meisterwerks, einem perfekten zentralen Ort für einen schnellen Kaffee oder eine Bougatsa.",
+            "hu": "Figyelje meg ennek a velencei remekműnek a négy kőoroszlánját, amely tökéletes központi hely egy gyors kávé vagy bougatsa elfogyasztásához.",
+            "ro": "Observați leii de piatră ai acestei capodopere venețiene, fiind locul central perfect pentru a savura rapid o cafea grecească sau o bougatsa.",
+            "en": "Observe the four stone lions of this Venetian masterpiece at Lions Square, which is a perfect central spot to grab a quick coffee or bougatsa."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum von Kreta",
+            "hu": "Krétai Történeti Múzeum",
+            "ro": "Muzeul Istoric al Cretei",
+            "en": "Historical Museum of Crete"
+          },
+          "coords": [
+            25.131167,
+            35.341806
+          ],
+          "category": "museums",
+          "arrive_at": "14:51",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Jahrhunderte kretischer Geschichte mit Gemälden von El Greco, und nutzen Sie den Audioguide für die Ausstellungen zum Widerstand.",
+            "hu": "Fedezze fel Kréta történelmét és El Greco festményeit, de mindenképpen használja az audioguide-ot a II. világháborús ellenállás kiállításához.",
+            "ro": "Explorați istoria cretană, inclusiv picturile lui El Greco, asigurându-vă că folosiți ghidul audio pentru expoziția fascinantă a rezistenței.",
+            "en": "Explore centuries of Cretan history including El Greco paintings, making sure to use the audio guide for the fascinating WWII resistance exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen ist dem legendären Palast von Knossos gewidmet, wo die minoische Zivilisation zum Leben erwacht. Mittags kehren Sie in die Stadt zurück, um auf den venezianischen Mauern zu spazieren und das Archäologische Museum zu besuchen. Der Nachmittag konzentriert sich auf die elegante Kirche Agios Titos und den Morosini-Brunnen. Der Abend endet im Historischen Museum von Kreta.",
+        "hu": "A reggelt a legendás knósszoszi palotának szenteljük, ahol a minószi civilizáció életre kel. Délben visszatérünk a városba, hogy sétáljunk a történelmi velencei falakon és elmerüljünk a Régészeti Múzeum kincseiben. A délután az elegáns Agios Titos templomra és a híres Morosini szökőkútra fókuszál. A nap a Krétai Történeti Múzeum lenyűgöző kiállításainak megtekintésével zárul.",
+        "ro": "Dimineața este dedicată legendarului Palat Knossos, unde prinde viață vechea civilizație minoică. Prânzul vă aduce înapoi pentru a explora zidurile venețiene și a vizita Muzeul Arheologic. După-amiaza se concentrează pe eleganta Biserică Agios Titos și pe emblematica Fântână Morosini. Seara încheie călătoria dumneavoastră explorând detaliat Muzeul Istoric al Cretei.",
+        "en": "Morning is dedicated to the legendary Knossos Palace, where the ancient Minoan civilization comes to life. Midday brings you back to the city to walk the historic Venetian Walls and dive into the brilliant Archaeological Museum. Afternoon focuses on the elegant Agios Titos Church and the iconic Morosini Fountain. Evening wraps up your journey delving into the Historical Museum of Crete."
+      }
+    }
+  }
+}

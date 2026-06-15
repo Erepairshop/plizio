@@ -1,0 +1,543 @@
+{
+  "city_id": "noyelles-godault",
+  "anchor": {
+    "name": "Noyelles-Godault",
+    "coords": [
+      2.9939,
+      50.42
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.994395,
+            50.419892
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses und machen Sie Fotos auf dem charmanten Platz davor, am besten bei ruhigem Morgenlicht.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét, és készítsen nagyszerű fotókat a hangulatos téren, különösen a kora reggeli csendes órákban.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice și faceți poze în piața fermecătoare din față, profitând de lumina blândă a dimineții.",
+            "en": "Admire the elegant architecture of this historic town hall and take great photos in the charming square out front, especially during the quiet morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Henri Barbusse",
+            "hu": "Henri Barbusse Kulturális Központ",
+            "ro": "Centrul Cultural Henri Barbusse",
+            "en": "Henri Barbusse Cultural Center"
+          },
+          "coords": [
+            2.992922,
+            50.420572
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie spannende lokale Kunstausstellungen in diesem lebendigen Kulturzentrum und überprüfen Sie das aktuelle Programm an der Rezeption.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat ebben a nyüzsgő kulturális központban, és mindenképpen ellenőrizze az aktuális programot a recepciónál.",
+            "ro": "Descoperiți expoziții de artă locală în acest centru cultural vibrant și asigurați-vă că verificați programul actual de evenimente la recepție.",
+            "en": "Discover engaging local art exhibitions at this vibrant cultural center, and be sure to check the current schedule of events at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Bernard Giraudeau",
+            "hu": "Espace Bernard Giraudeau",
+            "ro": "Spațiul Bernard Giraudeau",
+            "en": "Bernard Giraudeau Space"
+          },
+          "coords": [
+            2.99601,
+            50.417737
+          ],
+          "category": "cultural",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältigen Aufführungen in diesem modernen Gemeindesaal und buchen Sie Ihre Tickets für Abendveranstaltungen am besten im Voraus.",
+            "hu": "Élvezze a sokszínű előadásokat ebben a modern közösségi térben, és az esti rendezvényekre érdemes jó előre lefoglalni a jegyeket a jobb helyekért.",
+            "ro": "Bucurați-vă de spectacolele diverse din acest spațiu comunitar modern și rezervați-vă biletele în avans pentru evenimentele de seară foarte populare.",
+            "en": "Enjoy a variety of performances at this modern community space, and remember to book your tickets well in advance for the popular evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 87",
+            "hu": "87-es meddőhányó",
+            "ro": "Halda de steril nr. 87",
+            "en": "Slag Heap No. 87"
+          },
+          "coords": [
+            2.979545,
+            50.424043
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ehemalige Bergbauhalde für fantastische Panoramablicke über die Region und tragen Sie dabei unbedingt feste Wanderschuhe.",
+            "hu": "Mássza meg ezt az egykori bányászati meddőhányót a régióra nyíló fantasztikus panorámáért, és mindenképpen viseljen kényelmes, zárt túracipőt.",
+            "ro": "Urcați pe această fostă haldă minieră pentru vederi panoramice fantastice asupra regiunii, purtând neapărat încălțăminte de drumeție robustă și comodă.",
+            "en": "Climb this former mining slag heap for fantastic panoramic views across the region, making sure to wear sturdy hiking shoes for the uneven trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 92",
+            "hu": "92-es meddőhányó",
+            "ro": "Halda de steril nr. 92",
+            "en": "Slag Heap No. 92"
+          },
+          "coords": [
+            2.972955,
+            50.42348
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die renaturierten Pfade dieser beeindruckenden Halde, um die wiederkehrende Flora zu beobachten, und nehmen Sie ein Fernglas mit.",
+            "hu": "Sétáljon végig a lenyűgöző meddőhányó rekultivált ösvényein a visszatérő növényvilág megfigyeléséhez, és ne felejtsen el távcsövet hozni magával.",
+            "ro": "Plimbați-vă pe cărările renaturate ale acestei halde impresionante pentru a observa flora revitalizată și aduceți binoclul pentru a vedea păsările.",
+            "en": "Walk the renatured trails of this impressive heap to observe the returning flora and fauna, and bring binoculars to spot local bird species in the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Aushopping",
+            "hu": "Aushopping központ",
+            "ro": "Centrul Comercial Aushopping",
+            "en": "Aushopping Center"
+          },
+          "coords": [
+            2.974482,
+            50.409626
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses weitläufige Einkaufszentrum für lokale Spezialitäten und Boutiquen, wobei der Nachmittag ideal für einen entspannten Bummel ist.",
+            "hu": "Látogasson el ebbe a tágas bevásárlóközpontba a helyi specialitásokért és butikokért, a délután pedig ideális egy nyugodt, kényelmes nézelődéshez.",
+            "ro": "Vizitați acest centru comercial vast pentru specialități locale și buticuri, după-amiaza fiind momentul ideal pentru o plimbare relaxantă și cumpărături.",
+            "en": "Visit this expansive shopping center to browse local specialties and boutiques, as the afternoon is the perfect time for a relaxed and unhurried stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im bürgerlichen Zentrum am Rathaus und genießen Sie die frühe Ruhe. Das nahe gelegene Kulturzentrum bietet mit seinen Kunstausstellungen einen perfekten Anschluss.\n\nGegen Mittag wechseln Sie von den lokalen Künsten im Espace Bernard Giraudeau zum industriellen Erbe und spazieren in Richtung der berühmten Halden.\n\nDer Nachmittag ist der Natur und Geschichte gewidmet, wenn Sie die Pfade der Terrils Nr. 87 und Nr. 92 erobern und die weite Aussicht genießen.\n\nBeenden Sie Ihre Tour im lebhaften Aushopping-Zentrum, wo Sie sich entspannen, etwas essen und die vielfältigen Entdeckungen des Tages Revue passieren lassen.",
+        "hu": "Kezdje a reggelt a városházánál, elmerülve a korai csendben és a város szívének hangulatában. A közeli kulturális központ kiállításai nagyszerű folytatást kínálnak.\n\nDélben az Espace Bernard Giraudeau helyi művészeti értékeitől a régió ipari öröksége felé veszi az irányt, elindulva a híres bányászati meddőhányók felé.\n\nA délutánt a természet és a történelem uralja: fedezze fel a 87-es és 92-es meddőhányók ösvényeit, miközben lenyűgöző panorámában gyönyörködik.\n\nSétáját a nyüzsgő Aushopping központban zárja, ahol megpihenhet, ehet egy jót, és átgondolhatja a nap izgalmas, változatos felfedezéseit.",
+        "ro": "Începeți dimineața explorând inima civică a orașului la Primărie, absorbind atmosfera liniștită. Centrul cultural din apropiere este o continuare excelentă cu arta sa.\n\nLa prânz, treceți de la artele locale de la Espace Bernard Giraudeau la patrimoniul industrial al regiunii, mergând spre faimoasele halde de steril.\n\nDupă-amiaza este dedicată naturii și istoriei; cuceriți traseele haldelor nr. 87 și nr. 92, bucurându-vă de priveliști spectaculoase.\n\nÎncheiați-vă turul pietonal la centrul Aushopping, unde vă puteți relaxa, lua o gustare și reflecta la descoperirile diverse ale întregii zile.",
+        "en": "Start your morning exploring the civic heart of the town at the Town Hall, soaking in the quiet early atmosphere. The cultural center nearby offers an excellent follow-up with its art displays.\n\nBy midday, transition from local arts at Espace Bernard Giraudeau to the region's industrial heritage, starting your walk towards the famous terrils.\n\nThe afternoon is entirely dedicated to nature and history as you conquer the trails of Terril No. 87 and No. 92, enjoying spectacular views.\n\nConclude your walking tour at the bustling Aushopping center, where you can unwind, grab a bite, and reflect on the day's diverse discoveries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.994395,
+            50.419892
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses und machen Sie Fotos auf dem charmanten Platz davor, am besten bei ruhigem Morgenlicht.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét, és készítsen nagyszerű fotókat a hangulatos téren, különösen a kora reggeli csendes órákban.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice și faceți poze în piața fermecătoare din față, profitând de lumina blândă a dimineții.",
+            "en": "Admire the elegant architecture of this historic town hall and take great photos in the charming square out front, especially during the quiet morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Martin Kirche",
+            "hu": "Szent Márton templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin Church"
+          },
+          "coords": [
+            2.948167,
+            50.420899
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die Buntglasfenster dieser Kirche, die einen perfekten Moment der Stille fernab des städtischen Trubels bietet.",
+            "hu": "Csodálja meg a templom nyugodt atmoszféráját és ólomüveg ablakait, amely tökéletes pillanatot nyújt az elmélyülésre a város zajától távolabb.",
+            "ro": "Admirați atmosfera senină și vitraliile acestei biserici, care oferă un moment perfect de liniște și reflecție departe de agitația cotidiană.",
+            "en": "Admire the serene atmosphere and beautiful stained glass of this church, which offers a perfect moment of quiet reflection away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 92",
+            "hu": "92-es meddőhányó",
+            "ro": "Halda de steril nr. 92",
+            "en": "Slag Heap No. 92"
+          },
+          "coords": [
+            2.972955,
+            50.42348
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die renaturierten Pfade dieser beeindruckenden Halde, um die wiederkehrende Flora zu beobachten, und nehmen Sie ein Fernglas mit.",
+            "hu": "Sétáljon végig a lenyűgöző meddőhányó rekultivált ösvényein a visszatérő növényvilág megfigyeléséhez, és ne felejtsen el távcsövet hozni magával.",
+            "ro": "Plimbați-vă pe cărările renaturate ale acestei halde impresionante pentru a observa flora revitalizată și aduceți binoclul pentru a vedea păsările.",
+            "en": "Walk the renatured trails of this impressive heap to observe the returning flora and fauna, and bring binoculars to spot local bird species in the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 87",
+            "hu": "87-es meddőhányó",
+            "ro": "Halda de steril nr. 87",
+            "en": "Slag Heap No. 87"
+          },
+          "coords": [
+            2.979545,
+            50.424043
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ehemalige Bergbauhalde für fantastische Panoramablicke über die Region und tragen Sie dabei unbedingt feste Wanderschuhe.",
+            "hu": "Mássza meg ezt az egykori bányászati meddőhányót a régióra nyíló fantasztikus panorámáért, és mindenképpen viseljen kényelmes, zárt túracipőt.",
+            "ro": "Urcați pe această fostă haldă minieră pentru vederi panoramice fantastice asupra regiunii, purtând neapărat încălțăminte de drumeție robustă și comodă.",
+            "en": "Climb this former mining slag heap for fantastic panoramic views across the region, making sure to wear sturdy hiking shoes for the uneven trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Henri Barbusse",
+            "hu": "Henri Barbusse Kulturális Központ",
+            "ro": "Centrul Cultural Henri Barbusse",
+            "en": "Henri Barbusse Cultural Center"
+          },
+          "coords": [
+            2.992922,
+            50.420572
+          ],
+          "category": "cultural",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie spannende lokale Kunstausstellungen in diesem lebendigen Kulturzentrum und überprüfen Sie das aktuelle Programm an der Rezeption.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat ebben a nyüzsgő kulturális központban, és mindenképpen ellenőrizze az aktuális programot a recepciónál.",
+            "ro": "Descoperiți expoziții de artă locală în acest centru cultural vibrant și asigurați-vă că verificați programul actual de evenimente la recepție.",
+            "en": "Discover engaging local art exhibitions at this vibrant cultural center, and be sure to check the current schedule of events at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Bernard Giraudeau",
+            "hu": "Espace Bernard Giraudeau",
+            "ro": "Spațiul Bernard Giraudeau",
+            "en": "Bernard Giraudeau Space"
+          },
+          "coords": [
+            2.99601,
+            50.417737
+          ],
+          "category": "cultural",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältigen Aufführungen in diesem modernen Gemeindesaal und buchen Sie Ihre Tickets für Abendveranstaltungen am besten im Voraus.",
+            "hu": "Élvezze a sokszínű előadásokat ebben a modern közösségi térben, és az esti rendezvényekre érdemes jó előre lefoglalni a jegyeket a jobb helyekért.",
+            "ro": "Bucurați-vă de spectacolele diverse din acest spațiu comunitar modern și rezervați-vă biletele în avans pentru evenimentele de seară foarte populare.",
+            "en": "Enjoy a variety of performances at this modern community space, and remember to book your tickets well in advance for the popular evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Aushopping",
+            "hu": "Aushopping központ",
+            "ro": "Centrul Comercial Aushopping",
+            "en": "Aushopping Center"
+          },
+          "coords": [
+            2.974482,
+            50.409626
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses weitläufige Einkaufszentrum für lokale Spezialitäten und Boutiquen, wobei der Nachmittag ideal für einen entspannten Bummel ist.",
+            "hu": "Látogasson el ebbe a tágas bevásárlóközpontba a helyi specialitásokért és butikokért, a délután pedig ideális egy nyugodt, kényelmes nézelődéshez.",
+            "ro": "Vizitați acest centru comercial vast pentru specialități locale și buticuri, după-amiaza fiind momentul ideal pentru o plimbare relaxantă și cumpărături.",
+            "en": "Visit this expansive shopping center to browse local specialties and boutiques, as the afternoon is the perfect time for a relaxed and unhurried stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum Rathaus, bevor Sie durch die ruhigen Straßen zur charmanten St. Martin Kirche fahren.\n\nMittags erkunden Sie die raue Schönheit der renaturierten Bergbaugebiete an der Halde Nr. 92 und 87 und genießen die frische Luft.\n\nAm Nachmittag fahren Sie zurück ins Stadtzentrum, um im Henri Barbusse Kulturzentrum und Espace Bernard Giraudeau ins Gemeindeleben einzutauchen.\n\nGegen Abend radeln Sie zum Aushopping-Zentrum, um durch die Geschäfte zu bummeln und einen gemütlichen Ort für das Abendessen zu finden.",
+        "hu": "Tekerjen el kora reggel a városházához, majd folytassa útját a csendes utcákon át a hangulatos Szent Márton templomhoz.\n\nA déli órákban a 92-es és 87-es meddőhányók újjáéledt ipari tájait fedezi fel, élvezve a friss levegőt és a hatalmas nyílt tereket.\n\nDélután tekerjen vissza a központba, és merüljön el a helyi közösségi életben a kulturális központ és az Espace Bernard Giraudeau révén.\n\nAhogy közeledik az este, guruljon le az Aushopping központba, nézelődjön az üzletekben, és találjon egy remek helyet a megérdemelt vacsorához.",
+        "ro": "Pedalați devreme spre Primărie, înainte de a merge pe străzile liniștite ale dimineții până la fermecătoarea Biserică Sfântul Martin.\n\nLa prânz explorați frumusețea aspră a peisajelor miniere recuperate la haldele nr. 92 și 87, bucurându-vă de aerul proaspăt.\n\nDupă-amiaza, întoarceți-vă spre centrul orașului pentru a vă scufunda în viața comunitară la centrul cultural și Espace Bernard Giraudeau.\n\nSpre seară, mergeți cu bicicleta la centrul comercial Aushopping pentru a vedea magazinele și a găsi un loc primitor pentru cină.",
+        "en": "Pedal out early to the grand Town Hall before cycling through the quiet morning streets to the charming St. Martin Church.\n\nMidday finds you exploring the rugged beauty of the reclaimed mining landscapes at Terril No. 92 and No. 87, enjoying the fresh air and open space.\n\nIn the afternoon, ride back towards the town center to immerse yourself in local community life at the Henri Barbusse Cultural Center and Espace Bernard Giraudeau.\n\nAs evening nears, cruise down to the Aushopping center to browse the shops and find a cozy spot for a well-deserved dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 15.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.994395,
+            50.419892
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Rathauses und machen Sie Fotos auf dem charmanten Platz davor, am besten bei ruhigem Morgenlicht.",
+            "hu": "Csodálja meg a történelmi városháza elegáns építészetét, és készítsen nagyszerű fotókat a hangulatos téren, különösen a kora reggeli csendes órákban.",
+            "ro": "Admirați arhitectura elegantă a acestei primării istorice și faceți poze în piața fermecătoare din față, profitând de lumina blândă a dimineții.",
+            "en": "Admire the elegant architecture of this historic town hall and take great photos in the charming square out front, especially during the quiet morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Henri Barbusse",
+            "hu": "Henri Barbusse Kulturális Központ",
+            "ro": "Centrul Cultural Henri Barbusse",
+            "en": "Henri Barbusse Cultural Center"
+          },
+          "coords": [
+            2.992922,
+            50.420572
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie spannende lokale Kunstausstellungen in diesem lebendigen Kulturzentrum und überprüfen Sie das aktuelle Programm an der Rezeption.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat ebben a nyüzsgő kulturális központban, és mindenképpen ellenőrizze az aktuális programot a recepciónál.",
+            "ro": "Descoperiți expoziții de artă locală în acest centru cultural vibrant și asigurați-vă că verificați programul actual de evenimente la recepție.",
+            "en": "Discover engaging local art exhibitions at this vibrant cultural center, and be sure to check the current schedule of events at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Bernard Giraudeau",
+            "hu": "Espace Bernard Giraudeau",
+            "ro": "Spațiul Bernard Giraudeau",
+            "en": "Bernard Giraudeau Space"
+          },
+          "coords": [
+            2.99601,
+            50.417737
+          ],
+          "category": "cultural",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die vielfältigen Aufführungen in diesem modernen Gemeindesaal und buchen Sie Ihre Tickets für Abendveranstaltungen am besten im Voraus.",
+            "hu": "Élvezze a sokszínű előadásokat ebben a modern közösségi térben, és az esti rendezvényekre érdemes jó előre lefoglalni a jegyeket a jobb helyekért.",
+            "ro": "Bucurați-vă de spectacolele diverse din acest spațiu comunitar modern și rezervați-vă biletele în avans pentru evenimentele de seară foarte populare.",
+            "en": "Enjoy a variety of performances at this modern community space, and remember to book your tickets well in advance for the popular evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Einkaufszentrum Aushopping",
+            "hu": "Aushopping központ",
+            "ro": "Centrul Comercial Aushopping",
+            "en": "Aushopping Center"
+          },
+          "coords": [
+            2.974482,
+            50.409626
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses weitläufige Einkaufszentrum für lokale Spezialitäten und Boutiquen, wobei der Nachmittag ideal für einen entspannten Bummel ist.",
+            "hu": "Látogasson el ebbe a tágas bevásárlóközpontba a helyi specialitásokért és butikokért, a délután pedig ideális egy nyugodt, kényelmes nézelődéshez.",
+            "ro": "Vizitați acest centru comercial vast pentru specialități locale și buticuri, după-amiaza fiind momentul ideal pentru o plimbare relaxantă și cumpărături.",
+            "en": "Visit this expansive shopping center to browse local specialties and boutiques, as the afternoon is the perfect time for a relaxed and unhurried stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            2.905648,
+            50.39203
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Halten Sie inne an diesem bedeutenden Denkmal, das an die lokale Geschichte erinnert, und lesen Sie die Inschriften, um die Vergangenheit zu verstehen.",
+            "hu": "Álljon meg egy percre ennél a helyi történelmet őrző emlékműnél, és olvassa el a feliratokat, hogy mélyebben megértse a régió viharos múltját.",
+            "ro": "Opriți-vă la acest monument important care comemorează istoria locală și citiți inscripțiile pentru a înțelege mai bine sacrificiile trecutului.",
+            "en": "Pause at this significant memorial commemorating local history and take time to read the detailed inscriptions to better understand the region's past."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Martin Kirche",
+            "hu": "Szent Márton templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "St. Martin Church"
+          },
+          "coords": [
+            2.948167,
+            50.420899
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre und die Buntglasfenster dieser Kirche, die einen perfekten Moment der Stille fernab des städtischen Trubels bietet.",
+            "hu": "Csodálja meg a templom nyugodt atmoszféráját és ólomüveg ablakait, amely tökéletes pillanatot nyújt az elmélyülésre a város zajától távolabb.",
+            "ro": "Admirați atmosfera senină și vitraliile acestei biserici, care oferă un moment perfect de liniște și reflecție departe de agitația cotidiană.",
+            "en": "Admire the serene atmosphere and beautiful stained glass of this church, which offers a perfect moment of quiet reflection away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 92",
+            "hu": "92-es meddőhányó",
+            "ro": "Halda de steril nr. 92",
+            "en": "Slag Heap No. 92"
+          },
+          "coords": [
+            2.972955,
+            50.42348
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die renaturierten Pfade dieser beeindruckenden Halde, um die wiederkehrende Flora zu beobachten, und nehmen Sie ein Fernglas mit.",
+            "hu": "Sétáljon végig a lenyűgöző meddőhányó rekultivált ösvényein a visszatérő növényvilág megfigyeléséhez, és ne felejtsen el távcsövet hozni magával.",
+            "ro": "Plimbați-vă pe cărările renaturate ale acestei halde impresionante pentru a observa flora revitalizată și aduceți binoclul pentru a vedea păsările.",
+            "en": "Walk the renatured trails of this impressive heap to observe the returning flora and fauna, and bring binoculars to spot local bird species in the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Nr. 87",
+            "hu": "87-es meddőhányó",
+            "ro": "Halda de steril nr. 87",
+            "en": "Slag Heap No. 87"
+          },
+          "coords": [
+            2.979545,
+            50.424043
+          ],
+          "category": "landmark",
+          "arrive_at": "16:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese ehemalige Bergbauhalde für fantastische Panoramablicke über die Region und tragen Sie dabei unbedingt feste Wanderschuhe.",
+            "hu": "Mássza meg ezt az egykori bányászati meddőhányót a régióra nyíló fantasztikus panorámáért, és mindenképpen viseljen kényelmes, zárt túracipőt.",
+            "ro": "Urcați pe această fostă haldă minieră pentru vederi panoramice fantastice asupra regiunii, purtând neapărat încălțăminte de drumeție robustă și comodă.",
+            "en": "Climb this former mining slag heap for fantastic panoramic views across the region, making sure to wear sturdy hiking shoes for the uneven trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer bequemen Fahrt ins Zentrum, wo Sie das Rathaus und die Kulturzentren besuchen, um die lokale Atmosphäre zu spüren.\n\nMittags nutzen Sie das Auto, um das weitläufige Aushopping-Zentrum für ein Mittagessen zu erreichen, und fahren dann zum Kriegerdenkmal.\n\nDer Nachmittag bietet eine historische Schleife: Halten Sie an der St. Martin Kirche, bevor Sie die beeindruckende Natur der Halden erkunden.\n\nBeenden Sie Ihre Autotour mit einer Wanderung auf die Halden im weichen späten Nachmittagslicht, das atemberaubende Ausblicke bietet.",
+        "hu": "Kezdje a napot egy kényelmes autózással a központba: látogassa meg a városházát és a kulturális tereket, hogy ráhangolódjon a helyi ritmusra.\n\nDélben autózzon el az Aushopping központba egy finom ebédre, majd látogasson el a megindító háborús emlékműhöz a város szélén.\n\nA délután egy történelmi és természeti körút: álljon meg a Szent Márton templomnál, mielőtt elindul a lenyűgöző meddőhányók felé.\n\nAutós túráját a meddőhányók megmászásával zárja a késő délutáni fényekben, amely fantasztikus, messzire nyúló panorámát nyújt.",
+        "ro": "Începeți cu o plimbare ușoară cu mașina spre centru, vizitând Primăria și centrele culturale pentru a simți atmosfera locală.\n\nLa prânz, folosiți mașina pentru a ajunge la vastul centru Aushopping pentru prânz, apoi conduceți spre emoționantul Monument al Eroilor.\n\nDupă-amiaza vă poartă într-o buclă istorică, oprindu-vă la Biserica Sf. Martin înainte de a explora peisajele naturale ale haldelor.\n\nÎncheiați-vă turul urcând pe haldele de steril în lumina caldă a după-amiezii, bucurându-vă de o priveliște impresionantă deasupra regiunii.",
+        "en": "Start with an easy drive to the town center, checking out the Town Hall and the nearby cultural centers to get a feel for the local vibe.\n\nBy midday, use the car's flexibility to reach the vast Aushopping center for lunch, then drive out to the moving War Memorial.\n\nThe afternoon takes you on a historical loop, stopping at St. Martin Church before heading out to the impressive natural landscapes of the terrils.\n\nEnd your driving tour by hiking up the slag heaps as the late afternoon light softens, offering breathtaking views before heading home."
+      }
+    }
+  }
+}

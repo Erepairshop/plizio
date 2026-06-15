@@ -1,0 +1,474 @@
+{
+  "city_id": "caudry",
+  "anchor": {
+    "name": "Caudry",
+    "coords": [
+      3.4117,
+      50.125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Caudry",
+            "hu": "Caudry Városháza",
+            "ro": "Primăria Caudry",
+            "en": "Caudry Town Hall"
+          },
+          "coords": [
+            3.410162,
+            50.124433
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die elegante Fassade des Rathauses zu bewundern, das das bürgerliche Herz von Caudry bildet, und machen Sie ein unvergessliches Foto vom angrenzenden Platz.",
+            "hu": "Szánjon egy percet a városháza elegáns homlokzatának megcsodálására, amely Caudry polgári központjaként szolgál, és készítsen egy emlékezetes fotót a szomszédos térről.",
+            "ro": "Luați un moment pentru a aprecia fațada elegantă a primăriei, care servește drept inima civică a orașului Caudry, și surprindeți o fotografie memorabilă din piața adiacentă.",
+            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Saint Maxellende",
+            "hu": "Saint Maxellende Bazilika",
+            "ro": "Bazilica Saint Maxellende",
+            "en": "Basilica of Saint Maxellende"
+          },
+          "coords": [
+            3.40817,
+            50.12406
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur und die wunderschönen Buntglasfenster dieser der Schutzpatronin der Stadt gewidmeten Basilika, die Sie am besten morgens wegen des tollen Lichts besuchen.",
+            "hu": "Csodálja meg a város védőszentjének szentelt bazilika lenyűgöző neogótikus építészetét és gyönyörű ólomüveg ablakait, de a legjobb fényviszonyok érdekében érdemes délelőtt érkezni.",
+            "ro": "Admirați arhitectura neogotică impresionantă și vitraliile frumoase ale acestei bazilici dedicate sfintei patroane a orașului, preferabil vizitând dimineața pentru cea mai bună lumină.",
+            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Spitze und Stickerei",
+            "hu": "Csipke- és Hímzésmúzeum",
+            "ro": "Muzeul Dantelei și Broderiei",
+            "en": "Museum of Lace and Embroidery"
+          },
+          "coords": [
+            3.41165,
+            50.125197
+          ],
+          "category": "museum",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
+            "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
+            "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantischer Tempel",
+            "hu": "Protestáns Templom",
+            "ro": "Templul Protestant",
+            "en": "Protestant Temple"
+          },
+          "coords": [
+            3.409917,
+            50.120156
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schlichtheit dieses historischen protestantischen Tempels, der einen friedlichen Rückzugsort von den belebten Straßen der Stadt bietet, wenn Sie ihn während der begrenzten Öffnungszeiten besuchen.",
+            "hu": "Fedezze fel ennek a történelmi protestáns templomnak a csendes egyszerűségét, amely békés menedéket kínál a nyüzsgő utcák elől, ha a korlátozott nyitvatartási időben látogat el ide.",
+            "ro": "Descoperiți simplitatea liniștită a acestui templu protestant istoric, care oferă o retragere pașnică de pe străzile pline de viață ale orașului, dacă îl vizitați în timpul orelor sale limitate de funcționare.",
+            "en": "Discover the quiet simplicity of this historic Protestant temple, offering a peaceful retreat from the bustling city streets if you visit during its limited opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Octopus",
+            "hu": "Octopus",
+            "ro": "Octopus",
+            "en": "Octopus"
+          },
+          "coords": [
+            3.424304,
+            50.131645
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihre Familie in dieses attraktive Wasser- und Freizeitzentrum, um sich nach den Erkundungen zu entspannen, aber denken Sie an eine Badekappe, da diese für den Zugang zum Pool obligatorisch ist.",
+            "hu": "Hozza el családját ebbe a magával ragadó vízi és szabadidőközpontba, hogy kikapcsolódjanak a felfedezés után, de ne felejtsen el megfelelő úszósapkát hozni, mivel az a medence használatához kötelező.",
+            "ro": "Aduceți-vă familia la acest centru acvatic și de agrement captivant pentru a vă relaxa după explorare, dar nu uitați să aduceți o cască de înot adecvată, deoarece este strict necesară pentru accesul la piscină.",
+            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
+        "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
+        "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt Templom",
+            "ro": "Biserica Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            3.375181,
+            50.128307
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante örtliche Kirche, um ihr gut erhaltenes traditionelles Design zu bewundern, und machen Sie einen kurzen Spaziergang durch die Umgebung, um das Alltagsleben in Caudry zu erleben.",
+            "hu": "Látogasson el ebbe a bájos helyi templomba, hogy megcsodálja jól megőrzött hagyományos kialakítását, és tegyen egy rövid sétát a környéken, hogy megtapasztalja Caudry mindennapi életét.",
+            "ro": "Opriți-vă la această biserică locală fermecătoare pentru a-i admira designul tradițional bine conservat și faceți o scurtă plimbare prin cartierul înconjurător pentru a experimenta viața de zi cu zi în Caudry.",
+            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna Templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "Church of Saint Anne"
+          },
+          "coords": [
+            3.383191,
+            50.137431
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die subtilen architektonischen Details dieser malerischen religiösen Stätte, die einen perfekten kurzen Halt für Fotografie-Enthusiasten bietet, bevor Sie Ihre Reise durch die Stadt fortsetzen.",
+            "hu": "Figyelje meg ennek a festői vallási helyszínnek a finom építészeti részleteit, amely tökéletes rövid megálló a fotózás szerelmeseinek, mielőtt folytatná útját a városban.",
+            "ro": "Observați detaliile arhitecturale subtile ale acestui sit religios pitoresc, făcându-l o oprire rapidă perfectă pentru pasionații de fotografie înainte de a vă continua călătoria prin oraș.",
+            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Saint Maxellende",
+            "hu": "Saint Maxellende Bazilika",
+            "ro": "Bazilica Saint Maxellende",
+            "en": "Basilica of Saint Maxellende"
+          },
+          "coords": [
+            3.40817,
+            50.12406
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur und die wunderschönen Buntglasfenster dieser der Schutzpatronin der Stadt gewidmeten Basilika, die Sie am besten morgens wegen des tollen Lichts besuchen.",
+            "hu": "Csodálja meg a város védőszentjének szentelt bazilika lenyűgöző neogótikus építészetét és gyönyörű ólomüveg ablakait, de a legjobb fényviszonyok érdekében érdemes délelőtt érkezni.",
+            "ro": "Admirați arhitectura neogotică impresionantă și vitraliile frumoase ale acestei bazilici dedicate sfintei patroane a orașului, preferabil vizitând dimineața pentru cea mai bună lumină.",
+            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Spitze und Stickerei",
+            "hu": "Csipke- és Hímzésmúzeum",
+            "ro": "Muzeul Dantelei și Broderiei",
+            "en": "Museum of Lace and Embroidery"
+          },
+          "coords": [
+            3.41165,
+            50.125197
+          ],
+          "category": "museum",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
+            "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
+            "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            3.432818,
+            50.136683
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihr ruhiges Inneres und den wunderschönen Altaraufsatz zu betrachten und die ruhige Atmosphäre für einen Moment der persönlichen Besinnung zu nutzen.",
+            "hu": "Látogasson el ebbe a történelmi templomba, hogy megfigyelje nyugodt belső terét és gyönyörű oltárképét, kihasználva a csendes légkört egy pillanatnyi személyes elmélkedésre.",
+            "ro": "Vizitați această biserică istorică pentru a-i observa interiorul senin și altarul frumos, profitând de atmosfera liniștită pentru un moment de reflecție personală.",
+            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan Templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Church of Saint Bartholomew"
+          },
+          "coords": [
+            3.440662,
+            50.118485
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den unverwechselbaren Charakter dieser historischen Kirche, die etwas weiter entfernt liegt und ein hervorragendes Ziel ist, um sich bei einer Tour durch die Außenbezirke die Beine zu vertreten.",
+            "hu": "Csodálja meg a kissé távolabb található történelmi templom egyedi karakterét, amely kiváló úti cél ahhoz, hogy kinyújtóztassa a lábát a külvárosi túra során.",
+            "ro": "Minunați-vă de caracterul distinct al acestei biserici istorice situate puțin mai departe, făcând-o o destinație excelentă pentru a vă întinde picioarele în timp ce vizitați periferia.",
+            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
+        "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
+        "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt Templom",
+            "ro": "Biserica Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            3.375181,
+            50.128307
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante örtliche Kirche, um ihr gut erhaltenes traditionelles Design zu bewundern, und machen Sie einen kurzen Spaziergang durch die Umgebung, um das Alltagsleben in Caudry zu erleben.",
+            "hu": "Látogasson el ebbe a bájos helyi templomba, hogy megcsodálja jól megőrzött hagyományos kialakítását, és tegyen egy rövid sétát a környéken, hogy megtapasztalja Caudry mindennapi életét.",
+            "ro": "Opriți-vă la această biserică locală fermecătoare pentru a-i admira designul tradițional bine conservat și faceți o scurtă plimbare prin cartierul înconjurător pentru a experimenta viața de zi cu zi în Caudry.",
+            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kirche",
+            "hu": "Szent Anna Templom",
+            "ro": "Biserica Sfânta Ana",
+            "en": "Church of Saint Anne"
+          },
+          "coords": [
+            3.383191,
+            50.137431
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die subtilen architektonischen Details dieser malerischen religiösen Stätte, die einen perfekten kurzen Halt für Fotografie-Enthusiasten bietet, bevor Sie Ihre Reise durch die Stadt fortsetzen.",
+            "hu": "Figyelje meg ennek a festői vallási helyszínnek a finom építészeti részleteit, amely tökéletes rövid megálló a fotózás szerelmeseinek, mielőtt folytatná útját a városban.",
+            "ro": "Observați detaliile arhitecturale subtile ale acestui sit religios pitoresc, făcându-l o oprire rapidă perfectă pentru pasionații de fotografie înainte de a vă continua călătoria prin oraș.",
+            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Caudry",
+            "hu": "Caudry Városháza",
+            "ro": "Primăria Caudry",
+            "en": "Caudry Town Hall"
+          },
+          "coords": [
+            3.410162,
+            50.124433
+          ],
+          "category": "civic",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die elegante Fassade des Rathauses zu bewundern, das das bürgerliche Herz von Caudry bildet, und machen Sie ein unvergessliches Foto vom angrenzenden Platz.",
+            "hu": "Szánjon egy percet a városháza elegáns homlokzatának megcsodálására, amely Caudry polgári központjaként szolgál, és készítsen egy emlékezetes fotót a szomszédos térről.",
+            "ro": "Luați un moment pentru a aprecia fațada elegantă a primăriei, care servește drept inima civică a orașului Caudry, și surprindeți o fotografie memorabilă din piața adiacentă.",
+            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Spitze und Stickerei",
+            "hu": "Csipke- és Hímzésmúzeum",
+            "ro": "Muzeul Dantelei și Broderiei",
+            "en": "Museum of Lace and Embroidery"
+          },
+          "coords": [
+            3.41165,
+            50.125197
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
+            "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
+            "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Octopus",
+            "hu": "Octopus",
+            "ro": "Octopus",
+            "en": "Octopus"
+          },
+          "coords": [
+            3.424304,
+            50.131645
+          ],
+          "category": "family",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihre Familie in dieses attraktive Wasser- und Freizeitzentrum, um sich nach den Erkundungen zu entspannen, aber denken Sie an eine Badekappe, da diese für den Zugang zum Pool obligatorisch ist.",
+            "hu": "Hozza el családját ebbe a magával ragadó vízi és szabadidőközpontba, hogy kikapcsolódjanak a felfedezés után, de ne felejtsen el megfelelő úszósapkát hozni, mivel az a medence használatához kötelező.",
+            "ro": "Aduceți-vă familia la acest centru acvatic și de agrement captivant pentru a vă relaxa după explorare, dar nu uitați să aduceți o cască de înot adecvată, deoarece este strict necesară pentru accesul la piscină.",
+            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            3.432818,
+            50.136683
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihr ruhiges Inneres und den wunderschönen Altaraufsatz zu betrachten und die ruhige Atmosphäre für einen Moment der persönlichen Besinnung zu nutzen.",
+            "hu": "Látogasson el ebbe a történelmi templomba, hogy megfigyelje nyugodt belső terét és gyönyörű oltárképét, kihasználva a csendes légkört egy pillanatnyi személyes elmélkedésre.",
+            "ro": "Vizitați această biserică istorică pentru a-i observa interiorul senin și altarul frumos, profitând de atmosfera liniștită pentru un moment de reflecție personală.",
+            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Bartholomäus-Kirche",
+            "hu": "Szent Bertalan Templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Church of Saint Bartholomew"
+          },
+          "coords": [
+            3.440662,
+            50.118485
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den unverwechselbaren Charakter dieser historischen Kirche, die etwas weiter entfernt liegt und ein hervorragendes Ziel ist, um sich bei einer Tour durch die Außenbezirke die Beine zu vertreten.",
+            "hu": "Csodálja meg a kissé távolabb található történelmi templom egyedi karakterét, amely kiváló úti cél ahhoz, hogy kinyújtóztassa a lábát a külvárosi túra során.",
+            "ro": "Minunați-vă de caracterul distinct al acestei biserici istorice situate puțin mai departe, făcând-o o destinație excelentă pentru a vă întinde picioarele în timp ce vizitați periferia.",
+            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
+        "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
+        "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+      }
+    }
+  }
+}

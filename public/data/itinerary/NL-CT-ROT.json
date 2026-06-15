@@ -1,0 +1,428 @@
+{
+  "city_id": "NL-CT-ROT",
+  "anchor": {
+    "name": "Rotterdam",
+    "coords": [
+      4.48,
+      51.92
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Boijmans Van Beuningen",
+            "hu": "Museum Boijmans Van Beuningen",
+            "ro": "Museum Boijmans Van Beuningen",
+            "en": "Museum Boijmans Van Beuningen"
+          },
+          "coords": [
+            4.473001,
+            51.914365
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine riesige Sammlung von klassischer bis zeitgenössischer Kunst und buchen Sie Ihre Tickets frühzeitig, da dieses ikonische Gebäude oft die tägliche Besucherzahl begrenzt.",
+            "hu": "Fedezze fel a klasszikustól a kortársig terjedő hatalmas művészeti gyűjteményt, és foglaljon jegyet előre, mivel az ikonikus épület gyakran korlátozza a napi látogatószámot.",
+            "ro": "Descoperiți o vastă colecție de artă, de la cea clasică la cea contemporană, și rezervați-vă biletele din timp deoarece această clădire emblematică limitează adesea intrările zilnice.",
+            "en": "Discover a vast collection of classic to contemporary art, and ensure you reserve tickets early as this architectural icon often limits daily entry to protect the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonneveld House",
+            "hu": "Sonneveld House",
+            "ro": "Sonneveld House",
+            "en": "Sonneveld House"
+          },
+          "coords": [
+            4.472337,
+            51.915611
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese perfekt erhaltene funktionalistische Villa aus dem Jahr 1933 und nutzen Sie den hervorragenden Audioguide, um die innovative Architektur zu verstehen.",
+            "hu": "Lépjen be ebbe a tökéletesen megőrzött, 1933-ból származó funkcionalista villába, és használja a kiváló audioguide-ot a háború előtti innovatív építészet megértéséhez.",
+            "ro": "Pășiți în această vilă funcționalistă din 1933 perfect conservată și folosiți ghidul audio excelent pentru a înțelege arhitectura inovatoare a epocii interbelice.",
+            "en": "Step inside this perfectly preserved functionalist villa from 1933 and use the excellent audio guide to understand the innovative domestic architecture of the pre-war era."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstinstituut Melly",
+            "hu": "Kunstinstituut Melly",
+            "ro": "Kunstinstituut Melly",
+            "en": "Kunstinstituut Melly"
+          },
+          "coords": [
+            4.47708,
+            51.915395
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie in hochmoderne Ausstellungen zeitgenössischer Kunst ein und nehmen Sie sich Zeit für die Buchhandlung, die seltene Publikationen zur globalen visuellen Kultur bietet.",
+            "hu": "Merüljön el a legkorszerűbb kortárs művészeti kiállításokban, és szánjon időt a könyvesboltra is, amely ritka kiadványokat kínál a globális vizuális kultúráról.",
+            "ro": "Cufundați-vă în expozițiile de artă contemporană de avangardă și faceți-vă timp pentru librăria lor care oferă publicații rare despre cultura vizuală globală.",
+            "en": "Immerse yourself in cutting-edge contemporary art exhibitions and take time to browse their specialized bookshop which offers rare publications on global visual culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Havenmuseum",
+            "hu": "Havenmuseum",
+            "ro": "Havenmuseum",
+            "en": "Havenmuseum"
+          },
+          "coords": [
+            4.482486,
+            51.915636
+          ],
+          "category": "museum",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Kräne und Schiffe entlang des Kais und tragen Sie festes Schuhwerk, um die unebenen Docks beim Bewundern des maritimen Erbes sicher zu begehen.",
+            "hu": "Fedezze fel a történelmi daruk és hajók lenyűgöző gyűjteményét a rakpart mentén, és viseljen kényelmes cipőt az egyenetlen dokkokon való biztonságos közlekedéshez.",
+            "ro": "Explorați o colecție fascinantă de macarale și nave istorice de-a lungul cheiului și purtați încălțăminte solidă pentru a naviga în siguranță pe docurile ușor denivelate.",
+            "en": "Explore a fascinating collection of historical cranes and ships along the quay, and wear sturdy shoes to easily navigate the slightly uneven docks while admiring the maritime heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritime Museum",
+            "hu": "Maritime Museum",
+            "ro": "Maritime Museum",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            4.481887,
+            51.917627
+          ],
+          "category": "museum",
+          "arrive_at": "16:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in die reiche Seefahrtsgeschichte der Niederlande ein und verpassen Sie nicht die Simulation des Lebens auf einer Bohrinsel.",
+            "hu": "Merüljön el Hollandia gazdag tengerészeti történelmében az interaktív kiállításokon keresztül, és ne hagyja ki a tengeri olajfúró tornyok életét szimuláló élményt sem.",
+            "ro": "Aprofundați-vă în bogata istorie maritimă a Olandei prin expoziții interactive și nu ratați experiența offshore care simulează viața pe o platformă energetică.",
+            "en": "Dive into the rich seafaring history of the Netherlands through interactive displays, and don't miss the offshore experience which vividly simulates life on an energy rig."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit hochkarätiger Kunst im Museumpark.\n\nMittags verlagert sich der Fokus auf die eleganten modernistischen Linien des Sonneveld-Hauses und zeitgenössische Ausstellungen.\n\nNachmittags geht es an die alte Uferpromenade, um historische Schiffe unter freiem Himmel zu erkunden.\n\nDer Abend endet im weitläufigen Schifffahrtsmuseum und beschließt einen von Kultur geprägten Tag.",
+        "hu": "A reggel a Museumpark világszínvonalú művészetének felfedezésével kezdődik.\n\nA délidő a Sonneveld-ház elegáns modernista vonalait és kortárs kiállításokat helyezi előtérbe.\n\nDélután a régi vízpart felé vesszük az irányt, hogy szabadtéri történelmi hajókat fedezzünk fel.\n\nAz estét a hatalmas Tengerészeti Múzeum zárja, megkoronázva ezt a kultúrával és hajózástörténettel teli napot.",
+        "ro": "Dimineața începe cu o explorare a artei de talie mondială la Museumpark.\n\nLa prânz accentul se mută pe liniile moderniste elegante ale Casei Sonneveld și expozițiile contemporane.\n\nDupă-amiaza vă poartă spre vechea faleză pentru a explora nave istorice în aer liber.\n\nSeara se încheie la vastul Muzeu Maritim, finalizând o zi plină de cultură și istorie nautică profundă.",
+        "en": "Morning begins with a deep dive into world-class art at Museumpark.\n\nMidday shifts to the elegant modernist lines of the Sonneveld House and cutting-edge contemporary exhibits.\n\nAfternoon takes you towards the old waterfront to explore open-air historical ships.\n\nEvening concludes at the expansive Maritime Museum, wrapping up a day steeped in culture and nautical history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:06",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nieuwe Instituut",
+            "hu": "Nieuwe Instituut",
+            "ro": "Nieuwe Instituut",
+            "en": "Nieuwe Instituut"
+          },
+          "coords": [
+            4.471158,
+            51.914708
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kühnen Ausstellungen zu Architektur und digitaler Kultur und prüfen Sie den Zeitplan für Führungen, die spannende Geschichten hinter den Designarchiven enthüllen.",
+            "hu": "Csodálja meg az építészetet és a digitális kultúrát bemutató merész kiállításokat, és keressen vezetett túrákat, amelyek feltárják a nemzeti dizájnarchívumok mögötti történeteket.",
+            "ro": "Admirați expozițiile îndrăznețe despre arhitectură și cultura digitală și verificați programul tururilor ghidate care dezvăluie poveștile fascinante din arhivele de design.",
+            "en": "Marvel at the bold exhibitions covering architecture and digital culture, and check the schedule for guided tours that unveil the fascinating stories behind the national design archives."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritime Museum",
+            "hu": "Maritime Museum",
+            "ro": "Maritime Museum",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            4.481887,
+            51.917627
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in die reiche Seefahrtsgeschichte der Niederlande ein und verpassen Sie nicht die Simulation des Lebens auf einer Bohrinsel.",
+            "hu": "Merüljön el Hollandia gazdag tengerészeti történelmében az interaktív kiállításokon keresztül, és ne hagyja ki a tengeri olajfúró tornyok életét szimuláló élményt sem.",
+            "ro": "Aprofundați-vă în bogata istorie maritimă a Olandei prin expoziții interactive și nu ratați experiența offshore care simulează viața pe o platformă energetică.",
+            "en": "Dive into the rich seafaring history of the Netherlands through interactive displays, and don't miss the offshore experience which vividly simulates life on an energy rig."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariniersmuseum",
+            "hu": "Mariniersmuseum",
+            "ro": "Mariniersmuseum",
+            "en": "Mariniersmuseum"
+          },
+          "coords": [
+            4.491563,
+            51.918716
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch fesselnde persönliche Geschichten mehr über die heldenhafte Geschichte der niederländischen Marineinfanterie und bringen Sie Kopfhörer für die audiovisuellen Shows mit.",
+            "hu": "Ismerje meg a holland tengerészgyalogság hősies történetét lenyűgöző személyes történeteken keresztül, és hozzon fülhallgatót az audiovizuális installációk élvezetéhez.",
+            "ro": "Aflați despre istoria eroică a Corpului Marin Olandez prin povești personale captivante și aduceți căști pentru a aprecia pe deplin instalațiile audiovizuale imersive.",
+            "en": "Learn about the heroic history of the Dutch Marine Corps through compelling personal stories and bring headphones to fully appreciate the immersive audiovisual installations."
+          }
+        },
+        {
+          "name": {
+            "de": "Nederlands Fotomuseum",
+            "hu": "Nederlands Fotomuseum",
+            "ro": "Nederlands Fotomuseum",
+            "en": "Nederlands Fotomuseum"
+          },
+          "coords": [
+            4.495192,
+            51.902691
+          ],
+          "category": "museum",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine beispiellose Sammlung niederländischer Fotografie, die sozialen Wandel widerspiegelt, und nutzen Sie die Schließfächer, um sich frei in den Galerien zu bewegen.",
+            "hu": "Csodálja meg a társadalmi változásokat tükröző páratlan holland fotógyűjteményt, és helyezze a nagyobb táskákat az ingyenes szekrényekbe, hogy szabadon mozoghasson a galériákban.",
+            "ro": "Admirați o colecție inegalabilă de fotografie olandeză care reflectă schimbările sociale și depozitați gențile mari în dulapuri pentru a vă mișca liber prin galeriile delicate.",
+            "en": "Admire an unparalleled collection of Dutch photography reflecting centuries of social change, and store large bags in the lockers provided to move freely through the delicate galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Wereldmuseum Rotterdam",
+            "hu": "Wereldmuseum Rotterdam",
+            "ro": "Wereldmuseum Rotterdam",
+            "en": "Wereldmuseum Rotterdam"
+          },
+          "coords": [
+            4.480495,
+            51.907883
+          ],
+          "category": "museum",
+          "arrive_at": "16:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie atemberaubende kulturelle Artefakte aus aller Welt in diesem wunderschön restaurierten Gebäude und genießen Sie einen Kaffee im eleganten Café am Wasser.",
+            "hu": "Fedezzen fel lenyűgöző kulturális leleteket a világ minden tájáról ebben a gyönyörűen felújított épületben, és igyon egy kávét a múzeum vízparti kávézójában.",
+            "ro": "Descoperiți artefacte culturale uimitoare din întreaga lume în această clădire superb restaurată și savurați o cafea cu priveliște la cafeneaua elegantă de pe malul apei.",
+            "en": "Encounter stunning cultural artifacts from around the globe in this beautifully restored building, and take a moment to enjoy a coffee with a view at the museum's elegant waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Belasting & Douane Museum",
+            "hu": "Belasting & Douane Museum",
+            "ro": "Belasting & Douane Museum",
+            "en": "Belasting & Douane Museum"
+          },
+          "coords": [
+            4.476414,
+            51.907617
+          ],
+          "category": "museum",
+          "arrive_at": "17:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie die überraschend fesselnde Geschichte von Schmuggel und Steuern und testen Sie die interaktiven Scanner, die zeigen, wie Zöllner Schmuggelware abfangen.",
+            "hu": "Fedezze fel a csempészet és az adózás meglepően izgalmas történetét, és próbálja ki az interaktív szkennereket, amelyek megmutatják, hogyan fogják el a vámosok a csempészárut.",
+            "ro": "Descoperiți istoria surprinzător de captivantă a contrabandei și a taxelor și încercați scanerele interactive care arată cum ofițerii vamali interceptează contrabanda.",
+            "en": "Discover the surprisingly gripping history of smuggling and taxation, and try the interactive scanner exhibits that show exactly how modern customs officers intercept contraband."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet nah am kulturellen Herzen der Stadt mit mutigen Architekturausstellungen.\n\nMittags erreichen Sie den lebhaften Leuvehaven und die Heldengeschichten der Marineinfanterie.\n\nNachmittags überqueren Sie den Fluss zum modernen Südufer, um gewaltige Fotoarchive zu entdecken.\n\nDer Abend klingt mit globalen Artefakten und der faszinierenden Geschichte des niederländischen Zolls aus.",
+        "hu": "A reggel a város kulturális központja közelében indul a merész építészeti kiállításokkal.\n\nA délidő a nyüzsgő Leuvehavenbe és a tengerészgyalogság hősies történeteihez vezet.\n\nDélután átkelünk a folyón a modern déli partra, ahol hatalmas fotóarchívumokat fedezünk fel.\n\nAz este globális leletekkel és a holland vámok és adók lenyűgöző történetével csendesedik el.",
+        "ro": "Dimineața pornește pe bicicletă aproape de inima culturală a orașului cu expoziții arhitecturale îndrăznețe.\n\nPrânzul vă aduce la animatul Leuvehaven și la poveștile eroice ale Corpului Marin.\n\nDupă-amiaza traversează râul spre malul sudic modern, descoperind arhive fotografice imense.\n\nSeara se încheie cu artefacte globale și cu istoria fascinantă a vămilor și taxelor olandeze.",
+        "en": "Morning pedals off near the cultural heart of the city with daring architectural displays.\n\nMidday brings you to the lively Leuvehaven and the heroic tales of the Marine Corps.\n\nAfternoon crosses the river to the modern south bank, discovering immense photographic archives.\n\nEvening winds down with global artifacts and the fascinating history of Dutch customs and taxation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rotterdams Openbaar Vervoer Museum",
+            "hu": "Rotterdams Openbaar Vervoer Museum",
+            "ro": "Rotterdams Openbaar Vervoer Museum",
+            "en": "Rotterdams Openbaar Vervoer Museum"
+          },
+          "coords": [
+            4.484064,
+            51.944736
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die historischen Straßenbahnen und Busse der Stadt und prüfen Sie, ob an Ihrem Besuchstag historische Fahrten für eine nostalgische Reise angeboten werden.",
+            "hu": "Lépjen vissza az időben a város történelmi villamosainak és buszainak felfedezésével, és ellenőrizze, hogy a látogatása napján indítanak-e nosztalgiajáratokat egy igazán különleges élményért.",
+            "ro": "Întoarceți-vă în timp explorând tramvaiele și autobuzele istorice ale orașului și verificați dacă organizează plimbări cu tramvaiul de epocă în ziua vizitei pentru o călătorie nostalgică.",
+            "en": "Step back in time by exploring the city's historic trams and buses, and check if they are running vintage tram rides on your specific visiting day for a truly nostalgic journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Radio Museum",
+            "hu": "Radio Museum",
+            "ro": "Radio Museum",
+            "en": "Radio Museum"
+          },
+          "coords": [
+            4.479665,
+            51.942197
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine charmante Sammlung antiker Radios und Rundfunkgeräte und bitten Sie die leidenschaftlichen Freiwilligen um eine kurze Vorführung der ältesten funktionierenden Empfänger.",
+            "hu": "Csodálja meg az antik rádiók és műsorszóró berendezések bájos gyűjteményét, és kérje meg a lelkes önkénteseket, hogy mutassanak be néhányat a legrégebbi működő vevőkészülékek közül.",
+            "ro": "Admirați o colecție fermecătoare de radiouri antice și echipamente de difuzare și cereți personalului voluntar o scurtă demonstrație a unora dintre cele mai vechi receptoare funcționale.",
+            "en": "Admire a charming collection of antique radios and broadcasting equipment, and ask the passionate volunteer staff for a quick demonstration of some of the oldest working receivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Houweling Telecom Museum",
+            "hu": "Houweling Telecom Museum",
+            "ro": "Houweling Telecom Museum",
+            "en": "Houweling Telecom Museum"
+          },
+          "coords": [
+            4.468095,
+            51.932857
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung der Telekommunikation vom Telegrafen bis zum frühen Mobiltelefon und lassen Sie sich die Mechanik der riesigen manuellen Vermittlungsstellen erklären.",
+            "hu": "Fedezze fel a telekommunikáció lenyűgöző fejlődését a távírótól a korai mobiltelefonokig, és hagyja, hogy a hozzáértő vezetők elmagyarázzák a hatalmas kézi kapcsolótáblák működését.",
+            "ro": "Descoperiți evoluția fascinantă a telecomunicațiilor de la telegraf la primele telefoane mobile și lăsați ghizii pricepuți să explice mecanismele din spatele masivelor centrale manuale.",
+            "en": "Uncover the fascinating evolution of telecommunications from telegraphs to early mobile phones, and let the knowledgeable guides explain the mechanics behind the massive manual switchboards."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Boijmans Van Beuningen",
+            "hu": "Museum Boijmans Van Beuningen",
+            "ro": "Museum Boijmans Van Beuningen",
+            "en": "Museum Boijmans Van Beuningen"
+          },
+          "coords": [
+            4.473001,
+            51.914365
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine riesige Sammlung von klassischer bis zeitgenössischer Kunst und buchen Sie Ihre Tickets frühzeitig, da dieses ikonische Gebäude oft die tägliche Besucherzahl begrenzt.",
+            "hu": "Fedezze fel a klasszikustól a kortársig terjedő hatalmas művészeti gyűjteményt, és foglaljon jegyet előre, mivel az ikonikus épület gyakran korlátozza a napi látogatószámot.",
+            "ro": "Descoperiți o vastă colecție de artă, de la cea clasică la cea contemporană, și rezervați-vă biletele din timp deoarece această clădire emblematică limitează adesea intrările zilnice.",
+            "en": "Discover a vast collection of classic to contemporary art, and ensure you reserve tickets early as this architectural icon often limits daily entry to protect the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Nederlands Fotomuseum",
+            "hu": "Nederlands Fotomuseum",
+            "ro": "Nederlands Fotomuseum",
+            "en": "Nederlands Fotomuseum"
+          },
+          "coords": [
+            4.495192,
+            51.902691
+          ],
+          "category": "museum",
+          "arrive_at": "16:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine beispiellose Sammlung niederländischer Fotografie, die sozialen Wandel widerspiegelt, und nutzen Sie die Schließfächer, um sich frei in den Galerien zu bewegen.",
+            "hu": "Csodálja meg a társadalmi változásokat tükröző páratlan holland fotógyűjteményt, és helyezze a nagyobb táskákat az ingyenes szekrényekbe, hogy szabadon mozoghasson a galériákban.",
+            "ro": "Admirați o colecție inegalabilă de fotografie olandeză care reflectă schimbările sociale și depozitați gențile mari în dulapuri pentru a vă mișca liber prin galeriile delicate.",
+            "en": "Admire an unparalleled collection of Dutch photography reflecting centuries of social change, and store large bags in the lockers provided to move freely through the delicate galleries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt in die nördlichen Bezirke der Stadt, um die nostalgische Geschichte des öffentlichen Nahverkehrs zu entdecken.\n\nMittags erwarten Sie charmante Sammlungen alter Radios und die Entwicklung der Telekommunikation.\n\nNachmittags fahren Sie hinunter zum ikonischen Museumpark für eine Portion Kunst.\n\nDer Abend findet im südlichen Bezirk statt, um niederländische Fotografie zu bewundern.",
+        "hu": "A reggel a város északi kerülete felé száguld, hogy felfedezze a tömegközlekedés nosztalgikus történetét.\n\nA délidő a régi rádiók bájos gyűjteményeivel és a távközlés fejlődésével folytatódik.\n\nDélután leereszkedünk az ikonikus Museumparkba egy adag klasszikus és modern művészetért.\n\nAz este a déli kerületben ér véget, ahol elmélyülhetünk a holland vizuális történetmesélésben.",
+        "ro": "Dimineața se îndreaptă rapid spre cartierul nordic al orașului pentru a descoperi istoria nostalgică a transportului public.\n\nPrânzul continuă cu colecții fermecătoare de radiouri de epocă și evoluția telecomunicațiilor.\n\nDupă-amiaza coboară spre emblematicul Museumpark pentru o doză de artă.\n\nSeara se așterne în cartierul sudic pentru o apreciere profundă a fotografiei olandeze.",
+        "en": "Morning speeds towards the city's northern district to uncover the nostalgic history of public transport.\n\nMidday continues with charming collections of vintage radios and the evolution of telecommunications.\n\nAfternoon cruises down to the iconic Museumpark for a dose of classical and modern art.\n\nEvening settles in the southern district for a deep appreciation of Dutch visual storytelling."
+      }
+    }
+  }
+}

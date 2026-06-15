@@ -1,0 +1,474 @@
+{
+  "city_id": "le-val-d-hazey",
+  "anchor": {
+    "name": "Le Val-d'Hazey",
+    "coords": [
+      1.3353,
+      49.1744
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Culturel Marcel Pagnol",
+            "hu": "Espace Culturel Marcel Pagnol",
+            "ro": "Espace Culturel Marcel Pagnol",
+            "en": "Espace Culturel Marcel Pagnol"
+          },
+          "coords": [
+            1.340266,
+            49.173663
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
+            "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Georges Church",
+            "hu": "Saint-Georges Church",
+            "ro": "Saint-Georges Church",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            1.328049,
+            49.16968
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassischen architektonischen Details dieser friedlichen Kirche und achten Sie besonders auf die kunstvollen Glasfenster im Hauptschiff.",
+            "hu": "Csodálja meg a békés templom klasszikus építészeti részleteit, és figyeljen a főhajóban található díszes ólomüveg ablakokra.",
+            "ro": "Admirați detaliile arhitecturale clasice ale acestei biserici pașnice și acordați o atenție deosebită vitraliilor artistice din naosul principal.",
+            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Barbe Church",
+            "hu": "Sainte-Barbe Church",
+            "ro": "Sainte-Barbe Church",
+            "en": "Sainte-Barbe Church"
+          },
+          "coords": [
+            1.321744,
+            49.16727
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieses kleineren Gotteshauses, das sich perfekt für einen Moment der Stille abseits der Hauptwege eignet.",
+            "hu": "Élvezze ennek a kisebb imahelynek az intim hangulatát, amely tökéletes egy pillanatnyi csendre a forgalmasabb utaktól távol.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui lăcaș de cult mai mic, perfect pentru un moment de liniște departe de traseele principale.",
+            "en": "Enjoy the intimate atmosphere of this smaller place of worship, which is perfect for a quiet moment away from the main thoroughfares."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Grosmenil",
+            "hu": "Manoir de Grosmenil",
+            "ro": "Manoir de Grosmenil",
+            "en": "Manoir de Grosmenil"
+          },
+          "coords": [
+            1.329943,
+            49.180217
+          ],
+          "category": "castle",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
+            "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
+            "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tournebut",
+            "hu": "Château de Tournebut",
+            "ro": "Château de Tournebut",
+            "en": "Château de Tournebut"
+          },
+          "coords": [
+            1.329994,
+            49.183328
+          ],
+          "category": "castle",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
+            "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
+            "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Espace Culturel Marcel Pagnol, wo das moderne Herz der Stadt schlägt. Danach spazieren Sie in Richtung Süden zur historischen Saint-Georges-Kirche, um deren ruhige Atmosphäre zu genießen. Am Nachmittag lockt ein gemütlicher Spaziergang zur charmanten Sainte-Barbe-Kirche. Der späte Nachmittag ist den beeindruckenden Anwesen Manoir de Grosmenil und Château de Tournebut gewidmet.",
+        "hu": "Kezdje a napot az Espace Culturel Marcel Pagnol kulturális központban, ahol megismerheti a helyi művészetet. Ezután sétáljon dél felé a történelmi Saint-Georges templomhoz, amelynek nyugodt légköre magával ragadó. Délután egy kellemes séta vár a bájos Sainte-Barbe templomhoz. A késő délutánt a lenyűgöző Manoir de Grosmenil és a fenséges Château de Tournebut kastélyok felfedezésével töltheti.",
+        "ro": "Începeți ziua la Espace Culturel Marcel Pagnol, unde bate inima modernă a orașului. Apoi, plimbați-vă spre sud până la istorica Biserică Saint-Georges, pentru a savura atmosfera sa liniștită. După-amiaza vă invită la o plimbare plăcută către fermecătoarea Biserică Sainte-Barbe. Spre seară, explorați moșiile impresionante Manoir de Grosmenil și Château de Tournebut.",
+        "en": "Start your day at the Espace Culturel Marcel Pagnol, where the modern heart of the town beats. Afterwards, walk south to the historical Saint-Georges Church to soak in its peaceful atmosphere. The afternoon invites you to a pleasant stroll towards the charming Sainte-Barbe Church. The late afternoon is dedicated to exploring the impressive estates of Manoir de Grosmenil and Château de Tournebut."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 5.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc des Acacias",
+            "hu": "Parc des Acacias",
+            "ro": "Parc des Acacias",
+            "en": "Parc des Acacias"
+          },
+          "coords": [
+            1.362363,
+            49.17179
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang unter den schattigen Bäumen dieses Parks, der ideale Ort für ein entspanntes Picknick am Vormittag.",
+            "hu": "Tegyen egy kellemes sétát a park árnyas fái alatt, amely ideális helyszín egy pihentető délelőtti piknikhez.",
+            "ro": "Faceți o plimbare liniștită sub copacii umbroși ai acestui parc, locul ideal pentru un picnic relaxant de dimineață.",
+            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel Marcel Pagnol",
+            "hu": "Espace Culturel Marcel Pagnol",
+            "ro": "Espace Culturel Marcel Pagnol",
+            "en": "Espace Culturel Marcel Pagnol"
+          },
+          "coords": [
+            1.340266,
+            49.173663
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
+            "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Georges Church",
+            "hu": "Saint-Georges Church",
+            "ro": "Saint-Georges Church",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            1.328049,
+            49.16968
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassischen architektonischen Details dieser friedlichen Kirche und achten Sie besonders auf die kunstvollen Glasfenster im Hauptschiff.",
+            "hu": "Csodálja meg a békés templom klasszikus építészeti részleteit, és figyeljen a főhajóban található díszes ólomüveg ablakokra.",
+            "ro": "Admirați detaliile arhitecturale clasice ale acestei biserici pașnice și acordați o atenție deosebită vitraliilor artistice din naosul principal.",
+            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Grosmenil",
+            "hu": "Manoir de Grosmenil",
+            "ro": "Manoir de Grosmenil",
+            "en": "Manoir de Grosmenil"
+          },
+          "coords": [
+            1.329943,
+            49.180217
+          ],
+          "category": "castle",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
+            "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
+            "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tournebut",
+            "hu": "Château de Tournebut",
+            "ro": "Château de Tournebut",
+            "en": "Château de Tournebut"
+          },
+          "coords": [
+            1.329994,
+            49.183328
+          ],
+          "category": "castle",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
+            "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
+            "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Courcelles",
+            "hu": "Pont de Courcelles",
+            "ro": "Pont de Courcelles",
+            "en": "Pont de Courcelles"
+          },
+          "coords": [
+            1.353748,
+            49.179164
+          ],
+          "category": "landmark",
+          "arrive_at": "15:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die tolle Aussicht auf den Fluss von dieser historischen Brücke und besuchen Sie sie am besten am späten Nachmittag für weiches Licht.",
+            "hu": "Élvezze a folyóra nyíló remek kilátást erről a történelmi hídról, amelyet a lágy fények miatt a késő délutáni órákban érdemes felkeresni.",
+            "ro": "Experimentați priveliștea minunată asupra râului de pe acest pod istoric, fiind recomandat să-l vizitați după-amiaza târziu pentru o lumină blândă.",
+            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour im malerischen Parc des Acacias, bevor Sie zur kulturellen Vielfalt des Espace Marcel Pagnol weiterradeln. Zur Mittagszeit besichtigen Sie die altehrwürdige Saint-Georges-Kirche im Zentrum. Der Nachmittag bringt Sie zu den prächtigen historischen Herrenhäusern, dem Manoir de Grosmenil und dem Château de Tournebut. Den Abschluss bildet der Ausblick am Pont de Courcelles.",
+        "hu": "Indítsa kerékpártúráját a festői Parc des Acacias parkban, majd tekerjen tovább a Marcel Pagnol Kulturális Központba. Délben a központban található, nagy múltú Saint-Georges templomot érdemes megtekinteni. A délután folyamán a pompás Manoir de Grosmenil és a Château de Tournebut történelmi kastélyok felé veheti az irányt. A napot a Pont de Courcelles hídnál lévő kilátással zárhatja.",
+        "ro": "Începeți turul cu bicicleta în pitorescul Parc des Acacias, înainte de a pedala spre diversitatea culturală a Espace Marcel Pagnol. La prânz, vizitați vechea Biserică Saint-Georges din centru. După-amiaza vă duce la magnificele conace istorice, Manoir de Grosmenil și Château de Tournebut. Ziua se încheie cu panorama de la Pont de Courcelles.",
+        "en": "Start your bike tour in the picturesque Parc des Acacias before pedaling on to the cultural diversity of the Espace Marcel Pagnol. Around midday, visit the venerable Saint-Georges Church in the center. The afternoon takes you to the magnificent historical manors, the Manoir de Grosmenil and the Château de Tournebut. Conclude your day enjoying the view at the Pont de Courcelles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 6.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Ursin",
+            "hu": "Église Saint-Ursin",
+            "ro": "Église Saint-Ursin",
+            "en": "Église Saint-Ursin"
+          },
+          "coords": [
+            1.314792,
+            49.193976
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Kirche im Norden und nutzen Sie das sanfte Morgenlicht für beeindruckende Außenaufnahmen.",
+            "hu": "Csodálja meg ennek az északi történelmi templomnak a masszív építészetét, és használja ki a lágy reggeli fényeket a lenyűgöző külső fotókhoz.",
+            "ro": "Admirați arhitectura robustă a acestei biserici istorice din nord și profitați de lumina blândă a dimineții pentru fotografii exterioare impresionante.",
+            "en": "Admire the robust architecture of this historic northern church, and take advantage of the soft morning light for stunning exterior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tournebut",
+            "hu": "Château de Tournebut",
+            "ro": "Château de Tournebut",
+            "en": "Château de Tournebut"
+          },
+          "coords": [
+            1.329994,
+            49.183328
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
+            "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
+            "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Grosmenil",
+            "hu": "Manoir de Grosmenil",
+            "ro": "Manoir de Grosmenil",
+            "en": "Manoir de Grosmenil"
+          },
+          "coords": [
+            1.329943,
+            49.180217
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
+            "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
+            "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel Marcel Pagnol",
+            "hu": "Espace Culturel Marcel Pagnol",
+            "ro": "Espace Culturel Marcel Pagnol",
+            "en": "Espace Culturel Marcel Pagnol"
+          },
+          "coords": [
+            1.340266,
+            49.173663
+          ],
+          "category": "cultural",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
+            "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Acacias",
+            "hu": "Parc des Acacias",
+            "ro": "Parc des Acacias",
+            "en": "Parc des Acacias"
+          },
+          "coords": [
+            1.362363,
+            49.17179
+          ],
+          "category": "park",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang unter den schattigen Bäumen dieses Parks, der ideale Ort für ein entspanntes Picknick am Vormittag.",
+            "hu": "Tegyen egy kellemes sétát a park árnyas fái alatt, amely ideális helyszín egy pihentető délelőtti piknikhez.",
+            "ro": "Faceți o plimbare liniștită sub copacii umbroși ai acestui parc, locul ideal pentru un picnic relaxant de dimineață.",
+            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bon-Secours",
+            "hu": "Église Notre-Dame-de-Bon-Secours",
+            "ro": "Église Notre-Dame-de-Bon-Secours",
+            "en": "Église Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            1.359185,
+            49.182399
+          ],
+          "category": "religious",
+          "arrive_at": "15:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche und betrachten Sie die feinen Details des Altars, der eine tiefe spirituelle Atmosphäre ausstrahlt.",
+            "hu": "Látogasson el ebbe a békés templomba, és tekintse meg az oltár finom részleteit, amely mély spirituális atmoszférát áraszt.",
+            "ro": "Vizitați această biserică pașnică și priviți detaliile fine ale altarului, care emană o atmosferă profund spirituală.",
+            "en": "Visit this peaceful church and examine the fine details of the altar, which exudes a deeply spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Courcelles",
+            "hu": "Pont de Courcelles",
+            "ro": "Pont de Courcelles",
+            "en": "Pont de Courcelles"
+          },
+          "coords": [
+            1.353748,
+            49.179164
+          ],
+          "category": "landmark",
+          "arrive_at": "16:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die tolle Aussicht auf den Fluss von dieser historischen Brücke und besuchen Sie sie am besten am späten Nachmittag für weiches Licht.",
+            "hu": "Élvezze a folyóra nyíló remek kilátást erről a történelmi hídról, amelyet a lágy fények miatt a késő délutáni órákban érdemes felkeresni.",
+            "ro": "Experimentați priveliștea minunată asupra râului de pe acest pod istoric, fiind recomandat să-l vizitați după-amiaza târziu pentru o lumină blândă.",
+            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Autofahrt im Norden bei der charmanten Église Saint-Ursin und dem benachbarten Château de Tournebut. Fahren Sie weiter zum eleganten Manoir de Grosmenil, das die reiche Architektur der Region zeigt. Nach einer kulturellen Pause im Espace Marcel Pagnol entspannen Sie im grünen Parc des Acacias. Beenden Sie den Tag bei der Kirche Notre-Dame und dem historischen Pont de Courcelles.",
+        "hu": "Kezdje az autós körutat északon a bájos Saint-Ursin templomnál és a szomszédos Château de Tournebut kastélynál. Utazzon tovább az elegáns Manoir de Grosmenilhez, amely a régió gazdag építészetét mutatja be. A Marcel Pagnol központban tett kulturális szünet után pihenjen meg a zöld Acacias parkban. Zárja a napot a Notre-Dame templomnál és a történelmi Courcelles hídnál.",
+        "ro": "Începeți traseul auto în nord, la fermecătoarea Biserică Saint-Ursin și la Château de Tournebut, aflat în vecinătate. Conduceți spre elegantul Manoir de Grosmenil, care ilustrează bogata arhitectură a regiunii. După o pauză culturală la Espace Marcel Pagnol, relaxați-vă în verdele Parc des Acacias. Încheiați ziua la Biserica Notre-Dame și la istoricul Pont de Courcelles.",
+        "en": "Begin your drive in the north at the charming Église Saint-Ursin and the neighboring Château de Tournebut. Continue to the elegant Manoir de Grosmenil, which showcases the region's rich architecture. After a cultural break at the Espace Marcel Pagnol, relax in the verdant Parc des Acacias. End the day at the Notre-Dame Church and the historical Pont de Courcelles."
+      }
+    }
+  }
+}

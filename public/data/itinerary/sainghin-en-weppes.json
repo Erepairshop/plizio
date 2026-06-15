@@ -1,0 +1,474 @@
+{
+  "city_id": "sainghin-en-weppes",
+  "anchor": {
+    "name": "Sainghin-en-Weppes",
+    "coords": [
+      2.9006,
+      50.5625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches Wegkreuz",
+            "hu": "Történelmi útmenti kereszt",
+            "ro": "Crucea istorică de pe drum",
+            "en": "Historic wayside cross"
+          },
+          "coords": [
+            2.86876,
+            50.5512
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem historischen Wegkreuz, das das lokale Erbe widerspiegelt, und betrachten Sie die abgenutzten Steindetails.",
+            "hu": "Szánjon egy percet erre a helyi örökséget tükröző történelmi útmenti keresztre, és figyelje meg a kopott kőrészleteket a séta előtt.",
+            "ro": "Luați un moment la această cruce istorică ce reflectă patrimoniul local și observați detaliile pietrei uzate înainte de a continua.",
+            "en": "Take a moment at this historic wayside cross reflecting local heritage, and notice the worn stone details before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Genoveva",
+            "hu": "Szent Genovéva-templom",
+            "ro": "Biserica Sfânta Genoveva",
+            "en": "Church of Saint Genevieve"
+          },
+          "coords": [
+            2.869626,
+            50.558436
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur der Kirche St. Genoveva und prüfen Sie im Vorbeigehen das schwarze Brett auf lokale Ereignisse.",
+            "hu": "Csodálja meg a Szent Genovéva-templom békés építészetét, és nézze meg a hirdetőtáblát a helyi eseményekért, miközben áthalad itt.",
+            "ro": "Admirați arhitectura liniștită a Bisericii Sfânta Genoveva și verificați panoul de anunțuri pentru evenimente locale în trecere.",
+            "en": "Admire the serene architecture of the Church of Saint Genevieve and check the notice board for community events as you pass through."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            2.901156,
+            50.561904
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche St. Peter, um ihr regionales Backsteinmauerwerk zu würdigen, und achten Sie auf die bunten Glasfenster.",
+            "hu": "Fedezze fel a Szent Péter-templom masszív, helyi téglafalazatát, és keresse a nap által megvilágított gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați Biserica Sfântul Petru pentru a aprecia zidăria regională din cărămidă și căutați vitraliile frumoase luminate de soare.",
+            "en": "Explore Saint Peter's Church to appreciate its sturdy regional brickwork, and look for the beautiful stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum La Scène",
+            "hu": "La Scène Kulturális Központ",
+            "ro": "Centrul Cultural La Scène",
+            "en": "La Scène Cultural Center"
+          },
+          "coords": [
+            2.903018,
+            50.56274
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Kulturzentrum La Scène lokale Kunst und holen Sie sich in der Lobby ein Programm für die aktuellen Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet a La Scène Kulturális Központban, ahol érdemes elkérni a lobbiban az aktuális kiállítások programját.",
+            "ro": "Descoperiți artele locale la Centrul Cultural La Scène, de unde ar trebui să luați un program din hol pentru a vedea expozițiile.",
+            "en": "Discover local arts at La Scène Cultural Center, where you should grab a current schedule from the lobby to see what exhibitions are on."
+          }
+        },
+        {
+          "name": {
+            "de": "Deûle-Park",
+            "hu": "Deûle Park",
+            "ro": "Parcul Deûle",
+            "en": "Deûle Park"
+          },
+          "coords": [
+            2.939358,
+            50.566481
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weitläufigen Deûle-Park, beobachten Sie einheimische Vögel und bringen Sie ein Picknick für die Wasserkanäle mit.",
+            "hu": "Pihenjen meg a tágas Deûle Parkban, amely tökéletes hely a madarak megfigyelésére, és hozzon magával egy kis pikniket a csatornákhoz.",
+            "ro": "Relaxați-vă în vastul Parc Deûle, un loc perfect pentru a observa păsările native, și aduceți un mic picnic lângă canalele de apă.",
+            "en": "Relax in the expansive Deûle Park, a perfect spot to observe native birds, and bring a small picnic to enjoy near the water channels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Wegkreuz und führt zu einem ruhigen Spaziergang zur Kirche St. Genoveva. Mittags erreichen Sie das lebendige Zentrum der Region mit einem Halt an der Kirche St. Peter. Der Nachmittag ist dem kulturellen Eintauchen im Zentrum La Scène gewidmet. Der Abend bricht wunderbar herein, während Sie sich bei einem Spaziergang im Deûle-Park entspannen.",
+        "hu": "A reggel a történelmi útmenti keresztnél indul, és egy békés sétával folytatódik a Szent Genovéva-templom felé. Délben a környék nyüzsgő szívébe érkezik, és megáll a Szent Péter-templomnál. A délutánt a kulturális elmélyülésnek szenteli a La Scène központban. Az este gyönyörűen ereszkedik le, miközben egy kellemes sétával lazít a Deûle Parkban.",
+        "ro": "Dimineața începe la crucea istorică, conducând la o plimbare senină spre Biserica Sfânta Genoveva. La prânz ajungeți în inima vibrantă a zonei cu o oprire la Biserica Sfântul Petru. După-amiaza este rezervată imersiunii culturale la La Scène, unde artele locale strălucesc. Seara cade frumos, în timp ce vă relaxați printr-o plimbare liniștită în Parcul Deûle.",
+        "en": "Morning begins at the historic wayside cross, leading into a serene walk towards the Church of Saint Genevieve. Midday brings you into the vibrant heart of the area with a stop at Saint Peter's Church. Afternoon is reserved for cultural immersion at La Scène, where local arts shine brightly. Evening falls beautifully as you unwind with a peaceful stroll through the expansive Deûle Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Kisboldogasszony-templom",
+            "ro": "Biserica Nașterii Maicii Domnului",
+            "en": "Church of the Nativity of Our Lady"
+          },
+          "coords": [
+            2.888451,
+            50.58392
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche Mariä Geburt, um ihren markanten Kirchturm zu sehen, und fotografieren Sie ihn am besten vom kleinen Vorplatz.",
+            "hu": "Látogasson el a Kisboldogasszony-templomba, hogy megnézze jellegzetes tornyát, és próbálja meg lefotózni az előtte lévő kis térről.",
+            "ro": "Vizitați Biserica Nașterii Maicii Domnului pentru a vedea clopotnița sa distinctivă și încercați să o fotografiați din mica piațetă.",
+            "en": "Visit the Church of the Nativity of Our Lady to see its distinctive steeple, and try to photograph it from the small square out front."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vaast Kirche",
+            "hu": "Szent Vaast-templom",
+            "ro": "Biserica Sfântul Vaast",
+            "en": "Church of Saint Vaast"
+          },
+          "coords": [
+            2.868226,
+            50.570766
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Treten Sie in die St. Vaast Kirche ein, um ihre ruhige Atmosphäre zu spüren, und beachten Sie die traditionellen Holzbänke im Hauptschiff.",
+            "hu": "Lépjen be a Szent Vaast-templomba, tapasztalja meg annak csendes atmoszféráját, és vegye szemügyre a hagyományos fapadokat a főhajóban.",
+            "ro": "Intrați în Biserica Sfântul Vaast pentru a simți atmosfera liniștită și observați băncile tradiționale din lemn care aliniază nava centrală.",
+            "en": "Step into the Church of Saint Vaast to experience its quiet atmosphere, and note the traditional wooden pews that line the central nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Genoveva",
+            "hu": "Szent Genovéva-templom",
+            "ro": "Biserica Sfânta Genoveva",
+            "en": "Church of Saint Genevieve"
+          },
+          "coords": [
+            2.869626,
+            50.558436
+          ],
+          "category": "religious",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur der Kirche St. Genoveva und prüfen Sie im Vorbeigehen das schwarze Brett auf lokale Ereignisse.",
+            "hu": "Csodálja meg a Szent Genovéva-templom békés építészetét, és nézze meg a hirdetőtáblát a helyi eseményekért, miközben áthalad itt.",
+            "ro": "Admirați arhitectura liniștită a Bisericii Sfânta Genoveva și verificați panoul de anunțuri pentru evenimente locale în trecere.",
+            "en": "Admire the serene architecture of the Church of Saint Genevieve and check the notice board for community events as you pass through."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            2.901156,
+            50.561904
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche St. Peter, um ihr regionales Backsteinmauerwerk zu würdigen, und achten Sie auf die bunten Glasfenster.",
+            "hu": "Fedezze fel a Szent Péter-templom masszív, helyi téglafalazatát, és keresse a nap által megvilágított gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați Biserica Sfântul Petru pentru a aprecia zidăria regională din cărămidă și căutați vitraliile frumoase luminate de soare.",
+            "en": "Explore Saint Peter's Church to appreciate its sturdy regional brickwork, and look for the beautiful stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum La Scène",
+            "hu": "La Scène Kulturális Központ",
+            "ro": "Centrul Cultural La Scène",
+            "en": "La Scène Cultural Center"
+          },
+          "coords": [
+            2.903018,
+            50.56274
+          ],
+          "category": "cultural",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Kulturzentrum La Scène lokale Kunst und holen Sie sich in der Lobby ein Programm für die aktuellen Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet a La Scène Kulturális Központban, ahol érdemes elkérni a lobbiban az aktuális kiállítások programját.",
+            "ro": "Descoperiți artele locale la Centrul Cultural La Scène, de unde ar trebui să luați un program din hol pentru a vedea expozițiile.",
+            "en": "Discover local arts at La Scène Cultural Center, where you should grab a current schedule from the lobby to see what exhibitions are on."
+          }
+        },
+        {
+          "name": {
+            "de": "Deûle-Park",
+            "hu": "Deûle Park",
+            "ro": "Parcul Deûle",
+            "en": "Deûle Park"
+          },
+          "coords": [
+            2.939358,
+            50.566481
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weitläufigen Deûle-Park, beobachten Sie einheimische Vögel und bringen Sie ein Picknick für die Wasserkanäle mit.",
+            "hu": "Pihenjen meg a tágas Deûle Parkban, amely tökéletes hely a madarak megfigyelésére, és hozzon magával egy kis pikniket a csatornákhoz.",
+            "ro": "Relaxați-vă în vastul Parc Deûle, un loc perfect pentru a observa păsările native, și aduceți un mic picnic lângă canalele de apă.",
+            "en": "Relax in the expansive Deûle Park, a perfect spot to observe native birds, and bring a small picnic to enjoy near the water channels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der schönen Kirche Mariä Geburt und genießen Sie die frische Morgenbrise. Mittags radeln Sie durch malerische Straßen vorbei an St. Vaast zur Kirche St. Peter. Der Nachmittag bietet eine wohlverdiente kulturelle Pause im Kulturzentrum La Scène. Ihr Abend endet mit einer malerischen und entspannenden Fahrt durch die üppigen Wege des Deûle-Parks.",
+        "hu": "Indítsa kerékpáros napját a szép Kisboldogasszony-templomnál, élvezve a friss reggeli szellőt. Délre tekerjen át a festői utcákon Szent Vaast mellett a központi Szent Péter-templomig. A délután jól megérdemelt kulturális szünetet hoz a La Scène központban. Az este egy festői és pihentető túrával zárul a Deûle Park buja ösvényein keresztül.",
+        "ro": "Începeți ziua de ciclism la frumoasa Biserică a Nașterii Maicii Domnului, bucurându-vă de briza dimineții. La prânz, pedalați pe străzile pitorești pe lângă Sfântul Vaast spre Biserica Sfântul Petru. După-amiaza aduce o pauză culturală binemeritată la La Scène. Seara se încheie cu o plimbare pitorească și relaxantă pe aleile luxuriante din Parcul Deûle.",
+        "en": "Kick off your cycling day at the lovely Church of the Nativity of Our Lady, enjoying the fresh morning breeze. By midday, pedal your way through the quaint streets past Saint Vaast to the central Saint Peter's Church. The afternoon brings a well-deserved cultural pause at La Scène. Your evening concludes with a scenic and relaxing ride through the lush pathways of Deûle Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 16.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás templom",
+            "ro": "Biserica Imaculata Concepție",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            2.920026,
+            50.548926
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Kirche der Unbefleckten Empfängnis, achten Sie auf ihre Proportionen und kommen Sie früh für das Glockenläuten.",
+            "hu": "Tekintse meg a Szeplőtelen Fogantatás elegáns templomát, figyelembe véve harmonikus arányait, és érkezzen korán a harangszóhoz.",
+            "ro": "Vedeți eleganta Biserică a Imaculatei Concepții, notând proporțiile sale armonioase, și ajungeți devreme pentru a auzi clopotele bătând.",
+            "en": "View the elegant Church of the Immaculate Conception, noting its harmonious proportions, and arrive early to hear the pleasant bell ring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum La Scène",
+            "hu": "La Scène Kulturális Központ",
+            "ro": "Centrul Cultural La Scène",
+            "en": "La Scène Cultural Center"
+          },
+          "coords": [
+            2.903018,
+            50.56274
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Kulturzentrum La Scène lokale Kunst und holen Sie sich in der Lobby ein Programm für die aktuellen Ausstellungen.",
+            "hu": "Fedezze fel a helyi művészetet a La Scène Kulturális Központban, ahol érdemes elkérni a lobbiban az aktuális kiállítások programját.",
+            "ro": "Descoperiți artele locale la Centrul Cultural La Scène, de unde ar trebui să luați un program din hol pentru a vedea expozițiile.",
+            "en": "Discover local arts at La Scène Cultural Center, where you should grab a current schedule from the lobby to see what exhibitions are on."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            2.901156,
+            50.561904
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Kirche St. Peter, um ihr regionales Backsteinmauerwerk zu würdigen, und achten Sie auf die bunten Glasfenster.",
+            "hu": "Fedezze fel a Szent Péter-templom masszív, helyi téglafalazatát, és keresse a nap által megvilágított gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați Biserica Sfântul Petru pentru a aprecia zidăria regională din cărămidă și căutați vitraliile frumoase luminate de soare.",
+            "en": "Explore Saint Peter's Church to appreciate its sturdy regional brickwork, and look for the beautiful stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vaast Kirche",
+            "hu": "Szent Vaast-templom",
+            "ro": "Biserica Sfântul Vaast",
+            "en": "Church of Saint Vaast"
+          },
+          "coords": [
+            2.868226,
+            50.570766
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Treten Sie in die St. Vaast Kirche ein, um ihre ruhige Atmosphäre zu spüren, und beachten Sie die traditionellen Holzbänke im Hauptschiff.",
+            "hu": "Lépjen be a Szent Vaast-templomba, tapasztalja meg annak csendes atmoszféráját, és vegye szemügyre a hagyományos fapadokat a főhajóban.",
+            "ro": "Intrați în Biserica Sfântul Vaast pentru a simți atmosfera liniștită și observați băncile tradiționale din lemn care aliniază nava centrală.",
+            "en": "Step into the Church of Saint Vaast to experience its quiet atmosphere, and note the traditional wooden pews that line the central nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Geburt",
+            "hu": "Kisboldogasszony-templom",
+            "ro": "Biserica Nașterii Maicii Domnului",
+            "en": "Church of the Nativity of Our Lady"
+          },
+          "coords": [
+            2.888451,
+            50.58392
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche Mariä Geburt, um ihren markanten Kirchturm zu sehen, und fotografieren Sie ihn am besten vom kleinen Vorplatz.",
+            "hu": "Látogasson el a Kisboldogasszony-templomba, hogy megnézze jellegzetes tornyát, és próbálja meg lefotózni az előtte lévő kis térről.",
+            "ro": "Vizitați Biserica Nașterii Maicii Domnului pentru a vedea clopotnița sa distinctivă și încercați să o fotografiați din mica piațetă.",
+            "en": "Visit the Church of the Nativity of Our Lady to see its distinctive steeple, and try to photograph it from the small square out front."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Wegkreuz",
+            "hu": "Történelmi útmenti kereszt",
+            "ro": "Crucea istorică de pe drum",
+            "en": "Historic wayside cross"
+          },
+          "coords": [
+            2.86876,
+            50.5512
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem historischen Wegkreuz, das das lokale Erbe widerspiegelt, und betrachten Sie die abgenutzten Steindetails.",
+            "hu": "Szánjon egy percet erre a helyi örökséget tükröző történelmi útmenti keresztre, és figyelje meg a kopott kőrészleteket a séta előtt.",
+            "ro": "Luați un moment la această cruce istorică ce reflectă patrimoniul local și observați detaliile pietrei uzate înainte de a continua.",
+            "en": "Take a moment at this historic wayside cross reflecting local heritage, and notice the worn stone details before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Deûle-Park",
+            "hu": "Deûle Park",
+            "ro": "Parcul Deûle",
+            "en": "Deûle Park"
+          },
+          "coords": [
+            2.939358,
+            50.566481
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weitläufigen Deûle-Park, beobachten Sie einheimische Vögel und bringen Sie ein Picknick für die Wasserkanäle mit.",
+            "hu": "Pihenjen meg a tágas Deûle Parkban, amely tökéletes hely a madarak megfigyelésére, és hozzon magával egy kis pikniket a csatornákhoz.",
+            "ro": "Relaxați-vă în vastul Parc Deûle, un loc perfect pentru a observa păsările native, și aduceți un mic picnic lângă canalele de apă.",
+            "en": "Relax in the expansive Deûle Park, a perfect spot to observe native birds, and bring a small picnic to enjoy near the water channels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur eleganten Kirche der Unbefleckten Empfängnis, um den Morgen mit der Erkundung des Erbes zu beginnen. Mittags führt Sie Ihr Roadtrip ins Herz des Dorfes, um La Scène und St. Peter zu entdecken. Die Nachmittagsroute führt über malerische Nebenstraßen zu St. Vaast und dem historischen Kreuz. Beenden Sie den Abend am Deûle-Park mit einem Spaziergang bei Sonnenuntergang.",
+        "hu": "Vezessen a Szeplőtelen Fogantatás elegáns templomához, hogy megkezdje a regionális örökség felfedezését. Délre az út a falu szívébe visz, hogy felfedezze a La Scène-t és a Szent Péter-templomot. A délutáni út festői hátsó utakon vezet Szent Vaast és a történelmi kereszt felé. Zárja az estét a Deûle Park melletti parkolással egy naplementés sétához.",
+        "ro": "Conduceți la eleganta Biserică a Imaculatei Concepții pentru a începe dimineața explorând patrimoniul regional. La prânz, excursia vă duce în inima satului pentru a descoperi La Scène și Biserica Sfântul Petru. Drumul de după-amiază trece prin rute pitorești, vizitând Sfântul Vaast și crucea istorică. Încheiați seara parcând lângă Parcul Deûle pentru o plimbare la apus.",
+        "en": "Drive to the elegant Church of the Immaculate Conception to start a morning of exploring regional religious heritage. By midday, your road trip takes you to the heart of the village to discover La Scène and Saint Peter's Church. The afternoon road leads through scenic backroutes, visiting Saint Vaast and the historic cross. Wrap up your evening by parking near Deûle Park for a sunset walk."
+      }
+    }
+  }
+}

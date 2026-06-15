@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-celeiro-cities-v2",
+  "anchor": {
+    "name": "Celeiro",
+    "coords": [
+      -7.59332,
+      43.67977
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 0.83,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte da Misericordia",
+            "hu": "Ponte da Misericordia",
+            "ro": "Ponte da Misericordia",
+            "en": "Ponte da Misericordia"
+          },
+          "coords": [
+            -7.597613,
+            43.66278
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterlichen Bögen dieser historischen Steinbrücke über die Flussmündung und kommen Sie am frühen Morgen, um atemberaubende Spiegelungen zu fotografieren.",
+            "hu": "Csodálja meg a torkolatot átívelő történelmi kőhíd középkori íveit, és érkezzen kora reggel, hogy lenyűgöző tükröződéseket örökítsen meg a vízen.",
+            "ro": "Admirați arcadele medievale ale acestui pod istoric de piatră peste estuar și veniți dis-de-dimineață pentru a surprinde reflexii uimitoare pe suprafața apei.",
+            "en": "Admire the medieval arches of this historic stone bridge spanning the estuary, and visit early in the morning to capture stunning reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta de Carlos V",
+            "hu": "Porta de Carlos V",
+            "ro": "Porta de Carlos V",
+            "en": "Porta de Carlos V"
+          },
+          "coords": [
+            -7.596269,
+            43.662312
+          ],
+          "category": "fortress",
+          "arrive_at": "09:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten kaiserlichen Wappen an diesem Renaissance-Tor, das einst die Stadt schützte, und treten Sie einen Schritt zurück, um seine volle Größe zu erfassen.",
+            "hu": "Figyelje meg az egykor a várost védő reneszánsz kapu impozáns császári címereit, és lépjen egyet hátra, hogy teljes pompájában lássa, mielőtt belép az óvárosba.",
+            "ro": "Observați impunătoarele blazoane imperiale pe această poartă renascentistă care proteja cândva orașul și faceți un pas înapoi pentru a-i vedea dimensiunile înainte de a intra.",
+            "en": "Observe the imposing imperial crests on this Renaissance gateway that once protected the city, and step back to view its full scale before entering the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Viveiro",
+            "hu": "Viveiro Városháza",
+            "ro": "Primăria din Viveiro",
+            "en": "Viveiro Town Hall"
+          },
+          "coords": [
+            -7.595217,
+            43.662146
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonischen Details dieses majestätischen bürgerlichen Gebäudes am Hauptplatz und nehmen Sie sich Zeit für einen schnellen Kaffee in einem der angrenzenden Straßencafés.",
+            "hu": "Fedezze fel a főtér szívében álló fenséges középület építészeti részleteit, és szánjon időt egy gyors kávéra a szomszédos teraszos kávézók egyikében.",
+            "ro": "Explorați detaliile arhitecturale ale acestei clădiri civice maiestuoase din inima pieței principale și savurați o cafea rapidă la una dintre cafenelele alăturate în aer liber.",
+            "en": "Explore the architectural details of this majestic civic building in the heart of the main square, taking time to enjoy a quick coffee at one of the adjacent outdoor cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta da Vila",
+            "hu": "Porta da Vila",
+            "ro": "Porta da Vila",
+            "en": "Porta da Vila"
+          },
+          "coords": [
+            -7.595,
+            43.660498
+          ],
+          "category": "fortress",
+          "arrive_at": "11:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses alte Steinportal, das als mittelalterlicher Haupteingang diente, und achten Sie auf die verwitterten Inschriften, die auf die reiche Vergangenheit hinweisen.",
+            "hu": "Haladjon át ezen az ősi kőkapun, amely a középkori főbejáratként szolgált, és nézze meg közelebbről az időjárás koptatta feliratokat, amelyek a város gazdag múltjára utalnak.",
+            "ro": "Treceți prin acest vechi portal de piatră, odinioară intrare principală medievală, și priviți atent inscripțiile erodate care sugerează trecutul istoric bogat al orașului.",
+            "en": "Pass through this ancient stone portal which served as a primary medieval entrance, and look closely at the weathered inscriptions that hint at the town's rich historical past."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta do Valado",
+            "hu": "Porta do Valado",
+            "ro": "Porta do Valado",
+            "en": "Porta do Valado"
+          },
+          "coords": [
+            -7.593091,
+            43.661402
+          ],
+          "category": "fortress",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie den subtilen Charme dieses kleineren, weniger bekannten mittelalterlichen Tores in ruhigen Gassen, ideal für einen friedlichen Fotomoment abseits der Touristenpfade.",
+            "hu": "Fedezze fel e kisebb, kevésbé ismert, csendes utcák között megbúvó középkori kapu finom varázsát, amely tökéletes egy békés fotózáshoz a főbb turistaútvonalaktól távol.",
+            "ro": "Descoperiți farmecul subtil al acestei porți medievale mai mici și mai puțin cunoscute, ascunsă pe străduțe liniștite, perfectă pentru fotografii departe de aglomerația turistică.",
+            "en": "Discover the subtle charm of this smaller, lesser-known medieval gate nestled amongst quiet streets, perfect for a peaceful photographic moment away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Exposición da Semana Santa de Viveiro",
+            "hu": "Exposición da Semana Santa de Viveiro",
+            "ro": "Exposición da Semana Santa de Viveiro",
+            "en": "Exposición da Semana Santa de Viveiro"
+          },
+          "coords": [
+            -7.594345,
+            43.663315
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die intensive religiöse Kunst und lokale Tradition dieses Karwoche-Museums, und prüfen Sie vorab den Zeitplan auf spezielle Führungen oder Erklärungen.",
+            "hu": "Merüljön el az intenzív vallási művészetben és helyi hagyományokban ebben a Nagyhét múzeumban, és érdemes előre ellenőrizni, vannak-e különleges vezetett bemutatók.",
+            "ro": "Cufundați-vă în arta religioasă intensă și tradiția locală expusă în acest muzeu al Săptămânii Mari, verificând în avans programul pentru eventuale explicații ghidate.",
+            "en": "Immerse yourself in the intense religious artistry and local tradition displayed in this Holy Week museum, checking the schedule ahead for any special guided explanations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Nähe der majestätischen Ponte da Misericordia und führt Sie ins Herz des historischen Viveiro. Sie passieren alte Tore wie die Porta de Carlos V und die Porta da Vila. Die Mittagszeit verbringen Sie damit, das Rathaus zu bewundern. Der Nachmittag wird ruhiger, wenn Sie die Porta do Valado erreichen. Ihre Wanderung endet mit einem Einblick in die lokalen Traditionen in der Exposición da Semana Santa, wodurch der Tag in tiefgründiges kulturelles Erbe getaucht wird.",
+        "hu": "A reggel a fenséges Ponte da Misericordia közelében kezdődik, és a történelmi Viveiro szívébe vezet. Olyan ősi kapukon halad át, mint a Porta de Carlos V és a Porta da Vila. A telet a Városháza építészeti részleteinek megcsodálásával tölti. A délután lelassul, ahogy megérkezik a Porta do Valado-hoz, megtapasztalva az óváros csendesebb oldalát. A séta a helyi hagyományokba való mély merüléssel zárul az Exposición da Semana Santa-ban, így a nap kulturális örökségben gazdagon ér véget.",
+        "ro": "Dimineața începe lângă maiestuosul Ponte da Misericordia, conducându-vă spre inima orașului istoric Viveiro. Veți trece prin porți antice precum Porta de Carlos V. Amiaza este petrecută admirând detaliile arhitecturale ale Primăriei. După-amiaza devine mai liniștită pe măsură ce ajungeți la Porta do Valado, experimentând latura calmă a orașului vechi. Turul pietonal se încheie cu o aprofundare a tradițiilor locale la Exposición da Semana Santa, terminând ziua într-o profundă moștenire culturală.",
+        "en": "Morning begins near the majestic Ponte da Misericordia, leading you toward the heart of historic Viveiro. You will pass through ancient gates like Porta de Carlos V and Porta da Vila. Midday is spent admiring the architectural details of the Town Hall and wandering the charming streets. The afternoon slows down as you arrive at Porta do Valado, experiencing the quieter side of the old town. Your walking tour concludes with a deep dive into local traditions at the Exposición da Semana Santa, ending the day immersed in profound cultural heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 4.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Viveiro",
+            "hu": "Viveiro Városháza",
+            "ro": "Primăria din Viveiro",
+            "en": "Viveiro Town Hall"
+          },
+          "coords": [
+            -7.595217,
+            43.662146
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem ikonischen städtischen Wahrzeichen auf dem belebten Hauptplatz und nutzen Sie die weitläufigen Fußgängerzonen, um Ihre Ausrüstung bequem anzupassen.",
+            "hu": "Kezdje kerékpártúráját ennél az ikonikus városi nevezetességnél a nyüzsgő főtéren, kihasználva a tágas sétálóutcákat a felszerelés kényelmes beállításához.",
+            "ro": "Începeți turul cu bicicleta la acest reper municipal emblematic din piața principală vibrantă, profitând de zonele pietonale spațioase pentru a vă ajusta confortabil echipamentul.",
+            "en": "Start your cycling tour at this iconic municipal landmark in the vibrant main square, taking advantage of the spacious pedestrian zones to comfortably adjust your gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte da Misericordia",
+            "hu": "Ponte da Misericordia",
+            "ro": "Ponte da Misericordia",
+            "en": "Ponte da Misericordia"
+          },
+          "coords": [
+            -7.597613,
+            43.66278
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie elegant über dieses robuste mittelalterliche Steinbauwerk mit wunderschönem Panoramablick auf die Flussmündung, aber achten Sie auf den schmalen Brückenabschnitten auf Fußgänger.",
+            "hu": "Tekerjen át ezen a robusztus középkori kőépítményen, amely gyönyörű panorámát nyújt a torkolatra, de ügyeljen a gyalogosokra a keskenyebb hídszakaszokon.",
+            "ro": "Pedalați grațios pe această structură medievală robustă din piatră ce oferă vederi panoramice superbe asupra estuarului, dar fiți atenți la pietoni pe secțiunile înguste ale podului.",
+            "en": "Ride gracefully across this robust medieval stone structure offering beautiful panoramic estuary views, but be mindful of pedestrians when navigating the narrow bridge sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Rol",
+            "hu": "Praia do Rol",
+            "ro": "Praia do Rol",
+            "en": "Praia do Rol"
+          },
+          "coords": [
+            -7.614228,
+            43.680078
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an dieser ruhigen, sandigen Bucht aus, die bei Einheimischen wegen ihres ruhigen Wassers beliebt ist, und packen Sie ein kleines Picknick für eine Pause am Meer ein.",
+            "hu": "Pihentesse meg lábait ezen a csendes, homokos öbölben, amelyet a helyiek is kedvelnek nyugodt vize miatt, és hozzon magával egy kis pikniket, miközben hallgatja a hullámok lágy csobogását.",
+            "ro": "Odihniți-vă picioarele în acest golfuleț liniștit și nisipos, preferat de localnici pentru apele sale calme, și aduceți un mic picnic pentru a-l savura ascultând susurul valurilor.",
+            "en": "Rest your legs at this tranquil, sandy cove favored by locals for its calm waters, and pack a small picnic to enjoy while listening to the gentle lapping of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro das Sirenas",
+            "hu": "Miradoiro das Sirenas",
+            "ro": "Miradoiro das Sirenas",
+            "en": "Miradoiro das Sirenas"
+          },
+          "coords": [
+            -7.613868,
+            43.678015
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Radeln Sie leicht bergauf zu diesem malerischen Aussichtspunkt mit Küstenfelsen und viel Grün, und steigen Sie unbedingt ab, um die spektakulären Klippen sicher zu fotografieren.",
+            "hu": "Tekerjen egy kicsit felfelé ehhez a parti sziklákat és zöldet ötvöző festői kilátóhoz, és feltétlenül szálljon le, hogy biztonságosan megörökíthesse a galíciai partok látványos szikláit.",
+            "ro": "Pedalați ușor la deal pentru a ajunge la acest punct de belvedere pitoresc ce îmbină stâncile de coastă cu verdeața, coborând din șa pentru a fotografia în siguranță stâncile spectaculoase.",
+            "en": "Pedal slightly uphill to reach this scenic overlook blending coastal rocks and greenery, making sure to dismount to safely capture the spectacular cliffs of the Galician coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Concha",
+            "hu": "Praia da Concha",
+            "ro": "Praia da Concha",
+            "en": "Praia da Concha"
+          },
+          "coords": [
+            -7.614185,
+            43.689006
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem breiten, einladenden Strand mit weichem Sand und Meeresbrise, und schließen Sie Ihr Fahrrad an den nahegelegenen Ständern ab, bevor Sie spazieren gehen.",
+            "hu": "Fejezze be a túrát ezen a széles, hívogató strandon, melyet puha homok és tengeri szellő jellemez, és rögzítse kerékpárját a közeli tárolóknál, mielőtt tesz egy frissítő tengerparti sétát.",
+            "ro": "Încheiați-vă plimbarea pe această plajă lată și primitoare, caracterizată de nisipul fin și briza oceanului, asigurându-vă bicicleta la rastelele din apropiere înainte de o plimbare relaxantă.",
+            "en": "Conclude your ride at this broad, inviting beach characterized by its soft sands and ocean breeze, securing your bike at the nearby racks before enjoying a refreshing seaside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer am historischen Rathausplatz. Radeln Sie gemütlich in Richtung Flussmündung, um die Ponte da Misericordia zu überqueren und die frische Küstenbrise zu spüren. Gegen Mittag erreichen Sie den entspannenden Praia do Rol, ideal für eine Pause am Wasser. Am Nachmittag bringt Sie eine kurze Fahrt zum Miradoiro das Sirenas für markante Ausblicke. Lassen Sie Ihren Tag am weitläufigen Praia da Concha ausklingen, wo weicher Sand und Meereswellen für einen ruhigen Abschluss sorgen.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Városháza terén. Tekerjen finoman a torkolat felé, hogy átkeljen a Ponte da Misericordián, és érezze a frissítő parti szellőt. Délre eléri a pihentető Praia do Rol-t, amely tökéletes egy békés vízparti pihenéshez. Délután egy rövid út visz a Miradoiro das Sirenas-hoz a lenyűgöző kilátásért. Fejezze be a napot a kiterjedt Praia da Conchán, ahol a puha homok és az óceán hullámai derűs esti befejezést nyújtanak.",
+        "ro": "Începeți aventura pe bicicletă în piața istorică a Primăriei. Pedalați ușor spre estuar pentru a traversa Ponte da Misericordia, simțind briza proaspătă. La amiază, veți ajunge la relaxanta Praia do Rol, perfectă pentru o pauză liniștită pe malul apei. După-amiaza, o scurtă plimbare vă duce la Miradoiro das Sirenas pentru priveliști izbitoare. Încheiați ziua pe întinsa Praia da Concha, unde nisipul fin și valurile oceanului oferă un final de seară cu adevărat senin.",
+        "en": "Kick off your cycling adventure at the historic Town Hall square, enjoying the brisk morning air. Pedal gently toward the estuary to cross the Ponte da Misericordia, feeling the refreshing coastal breeze. By midday, you'll reach the relaxing Praia do Rol, perfect for a peaceful break by the water. In the afternoon, a short ride takes you to Miradoiro das Sirenas for striking views. Wrap up your day at the expansive Praia da Concha, where the soft sands and ocean waves provide a serene evening finale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradoiro de San Roque",
+            "hu": "Miradoiro de San Roque",
+            "ro": "Miradoiro de San Roque",
+            "en": "Miradoiro de San Roque"
+          },
+          "coords": [
+            -7.579374,
+            43.663488
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie die kurvenreiche Bergstraße hinauf, um einen atemberaubenden Panoramablick auf die gesamte Flussmündung zu genießen, und bringen Sie eine Windjacke für den windigen Gipfel mit.",
+            "hu": "Vezessen fel a kanyargós hegyi úton, hogy megtapasztalja a torkolatra nyíló lélegzetelállító panorámát, és hozzon magával egy széldzsekit, mivel a magaslaton meglehetősen szeles lehet az idő.",
+            "ro": "Conduceți pe drumul montan șerpuit pentru a experimenta o panoramă uluitoare a întregului estuar, aducând o jachetă de vânt, deoarece vârful înalt poate fi destul de răcoros.",
+            "en": "Drive up the winding mountain road to experience breathtaking panoramic views of the entire estuary, bringing a windbreaker as the elevated peak can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Exposición da Semana Santa de Viveiro",
+            "hu": "Exposición da Semana Santa de Viveiro",
+            "ro": "Exposición da Semana Santa de Viveiro",
+            "en": "Exposición da Semana Santa de Viveiro"
+          },
+          "coords": [
+            -7.594345,
+            43.663315
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie sicher im Stadtzentrum, um diese reiche Sammlung historischer religiöser Artefakte zu erkunden, und fragen Sie das Personal nach den faszinierenden Geschichten der Prozessionswagen.",
+            "hu": "Parkoljon le biztonságosan a városközpontban, hogy felfedezze a történelmi vallási tárgyak e gazdag gyűjteményét, és kérdezze a helyi személyzetet a díszes körmeneti kocsik lenyűgöző történetéről.",
+            "ro": "Parcați în siguranță în centrul orașului pentru a explora această bogată colecție de artefacte religioase, și întrebați personalul local despre poveștile fascinante din spatele carelor procesionale ornate.",
+            "en": "Park securely in the town center to explore this rich collection of historic religious artifacts, and ask the local staff about the fascinating stories behind the ornate processional floats."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Grallal",
+            "hu": "Pazo de Grallal",
+            "ro": "Pazo de Grallal",
+            "en": "Pazo de Grallal"
+          },
+          "coords": [
+            -7.612781,
+            43.671975
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Steinarchitektur dieses traditionellen galicischen Herrenhauses und denken Sie daran, die Privatgrenzen zu respektieren, während Sie die historische Fassade fotografieren.",
+            "hu": "Csodálja meg ennek a hagyományos galíciai udvarháznak az impozáns kőépítészetét, és ne felejtse el tiszteletben tartani a magánterület határait, miközben lenyűgöző történelmi homlokzatát fotózza.",
+            "ro": "Minunați-vă de arhitectura impunătoare din piatră a acestui conac tradițional galician, amintindu-vă să respectați limitele proprietății private în timp ce fotografiați fațada sa impresionantă.",
+            "en": "Marvel at the imposing stone architecture of this traditional Galician manor house, remembering to respect the private boundaries while photographing its impressive historical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Seiramar",
+            "hu": "Praia de Seiramar",
+            "ro": "Praia de Seiramar",
+            "en": "Praia de Seiramar"
+          },
+          "coords": [
+            -7.612348,
+            43.674623
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen kurzen Küstenstopp an diesem malerischen, intimen Strand zwischen den Felsen, der perfekt zugänglich ist, um sich kurz die Beine zu vertreten und frische Meeresluft zu schnappen.",
+            "hu": "Élvezze a rövid parti megállót ezen a festői, sziklák között megbúvó intim strandon, amely tökéletesen megközelíthető egy gyors nyújtózkodáshoz és némi frissítő tengeri levegőhöz a továbbutazás előtt.",
+            "ro": "Bucurați-vă de o scurtă oprire la această plajă pitorească și intimă cuibărită printre stânci, perfect accesibilă pentru o scurtă dezmorțire și un aer marin revigorant înainte de a conduce mai departe.",
+            "en": "Enjoy a brief coastal stop at this picturesque, intimate beach nestled among the rocks, which is perfectly accessible for a quick stretch and some refreshing sea air before driving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro das Sirenas",
+            "hu": "Miradoiro das Sirenas",
+            "ro": "Miradoiro das Sirenas",
+            "en": "Miradoiro das Sirenas"
+          },
+          "coords": [
+            -7.613868,
+            43.678015
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie sicher an diesem dramatischen Küstenaussichtspunkt, um zu beobachten, wie die mächtigen Meereswellen gegen die zerklüfteten Formationen krachen, ideal für dynamische Landschaftsfotografie.",
+            "hu": "Álljon félre biztonságosan ennél a drámai parti kilátónál, hogy szemtanúja lehessen az erős tengeri hullámok csapkodásának a sziklákon, ami tökéletes hely a dinamikus tengeri tájképek fotózásához.",
+            "ro": "Trageți pe dreapta în siguranță la acest punct de belvedere dramatic de coastă pentru a vedea valurile oceanice puternice izbindu-se de formațiuni, un loc perfect pentru fotografii dinamice.",
+            "en": "Pull over safely at this dramatic coastal viewpoint to witness the powerful ocean waves crashing against jagged formations, a perfect spot for capturing dynamic seascape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Queimado",
+            "hu": "Praia do Queimado",
+            "ro": "Praia do Queimado",
+            "en": "Praia do Queimado"
+          },
+          "coords": [
+            -7.605894,
+            43.698568
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Küstenfahrt fort, um diesen unberührten Sandstrand mit hervorragenden Sonnenuntergangsmotiven zu entdecken, wobei Sie beachten sollten, dass die Parkplätze im Sommer begrenzt sein können.",
+            "hu": "Folytassa parti autózását, hogy felfedezze ezt az érintetlen homokos szakaszt, amely kiváló naplemente-lehetőségeket kínál, szem előtt tartva, hogy a főszezonban a parkolóhelyek száma korlátozott lehet.",
+            "ro": "Continuați-vă plimbarea pe coastă pentru a descoperi această întindere de nisip virgină ce oferă oportunități excelente la apus, ținând cont că parcarea poate fi limitată în lunile de vârf de vară.",
+            "en": "Continue your coastal drive to discover this pristine sandy stretch offering excellent sunset opportunities, keeping in mind that parking can be limited during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Insua",
+            "hu": "Miradoiro da Insua",
+            "ro": "Miradoiro da Insua",
+            "en": "Miradoiro da Insua"
+          },
+          "coords": [
+            -7.609526,
+            43.692208
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip auf diesem erhöhten natürlichen Balkon mit Blick auf den weiten Atlantik und nehmen Sie sich Zeit, um zu beobachten, wie die Sonne hinter dem Horizont versinkt.",
+            "hu": "Fejezze be autós kirándulását ezen a hatalmas Atlanti-óceánra néző, magaslati természetes erkélyen, elegendő időt hagyva arra, hogy végignézze, ahogy a nap a horizont alá bukik, és megszínezi a partot.",
+            "ro": "Încheiați-vă călătoria cu mașina la acest balcon natural ridicat ce domină vastul Atlantic, alocând suficient timp pentru a privi soarele cum coboară sub orizont și colorează coasta accidentată.",
+            "en": "Finish your road trip at this elevated natural balcony overlooking the vast Atlantic, allowing ample time to watch the sun dip below the horizon and color the rugged coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Fahrt hinauf zum Miradoiro de San Roque, um den Panoramablick auf die Küste einzufangen. Fahren Sie hinab ins historische Zentrum, um die Exposición da Semana Santa zu erkunden. Verlegen Sie Ihre Reise nachmittags an den Rand der Küste und bewundern Sie den herrschaftlichen Pazo de Grallal. Der Nachmittag ist der zerklüfteten Schönheit der Küste gewidmet, mit Buchten wie Seiramar und Queimado. Die Fahrt endet am Miradoiro da Insua bei einem maritimen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt egy lélegzetelállító autózással a Miradoiro de San Roque-hoz, és örökítse meg a tengerparti panorámát. Ereszkedjen le a történelmi központba, és fedezze fel az Exposición da Semana Santát. Dél után folytassa útját a tengerpart peremén, és csodálja meg a fenséges Pazo de Grallal-t. A délutánt a partvonal zord szépségének szenteljük, Seiramar és Queimado öbleivel. Utazása diadalmasan zárul a Miradoiro da Insua-nál, ahonnan lenyűgöző tengeri naplementét figyelhet meg.",
+        "ro": "Începeți dimineața cu o plimbare uluitoare cu mașina până la Miradoiro de San Roque, surprinzând vederi panoramice ale coastei. Coborâți în centrul istoric pentru a explora Exposición da Semana Santa. După prânz, mutați-vă călătoria la periferia de coastă, admirând maiestuosul Pazo de Grallal. După-amiaza este dedicată frumuseții aspre a țărmului, bucurându-vă de golfurile Seiramar și Queimado. Plimbarea se încheie la Miradoiro da Insua, urmărind un apus de soare maritim absolut uimitor.",
+        "en": "Start the morning with a breathtaking drive up to Miradoiro de San Roque, capturing panoramic views of the coast. Descend into the historic center to explore the renowned Exposición da Semana Santa. After midday, shift your journey to the coastal outskirts, pausing to admire the stately Pazo de Grallal. The afternoon is dedicated to the rugged beauty of the shoreline, taking in the coves of Seiramar and Queimado. Your drive concludes triumphantly at Miradoiro da Insua, watching a stunning maritime sunset."
+      }
+    }
+  }
+}

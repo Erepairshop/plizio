@@ -1,0 +1,474 @@
+{
+  "city_id": "san-cristobal-de-las-casas-cities-v2",
+  "anchor": {
+    "name": "San Cristóbal de las Casas",
+    "coords": [
+      -92.6376,
+      16.737
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 1.83,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento al Dr. Manuel Velasco Suárez",
+            "hu": "Monumento al Dr. Manuel Velasco Suárez",
+            "ro": "Monumento al Dr. Manuel Velasco Suárez",
+            "en": "Monumento al Dr. Manuel Velasco Suárez"
+          },
+          "coords": [
+            -92.637912,
+            16.737058
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Denkmal für einen bedeutenden mexikanischen Neurologen und Gouverneur, während Sie Ihre Kamera für den lebendigen Platz bereithalten.",
+            "hu": "Csodálja meg a híres mexikói neurológus és kormányzó emlékművét, és közben tartsa kéznél a fényképezőgépét a nyüzsgő tér megörökítéséhez.",
+            "ro": "Admirați acest tribut adus unui proeminent neurolog și guvernator mexican, observând detaliile sale complexe, în timp ce aveți camera pregătită pentru piața vibrantă.",
+            "en": "Admire this tribute to a prominent Mexican neurologist and governor, noticing its intricate details, while keeping your camera handy for the surrounding vibrant square."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Zebadúa",
+            "hu": "Teatro Zebadúa",
+            "ro": "Teatro Zebadúa",
+            "en": "Teatro Zebadúa"
+          },
+          "coords": [
+            -92.638324,
+            16.738557
+          ],
+          "category": "cultural",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Puls der Stadt in diesem historischen Theater aus dem 19. Jahrhundert, in dem Sie sich frühzeitig nach Abendvorstellungen erkundigen sollten.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a 19. századi történelmi színházban, ahol érdemes korán megnézni az esti előadások plakátjait.",
+            "ro": "Experimentați pulsul cultural al orașului în acest teatru istoric din secolul al XIX-lea, unde ar trebui să verificați din timp programul pentru spectacolele de seară.",
+            "en": "Experience the cultural heartbeat of the city in this historic 19th-century theater, where you should check the local billboard early for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Cafemuseo cafe",
+            "hu": "Cafemuseo cafe",
+            "ro": "Cafemuseo cafe",
+            "en": "Cafemuseo cafe"
+          },
+          "coords": [
+            -92.636008,
+            16.738259
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des Kaffeeanbaus in Chiapas durch duftende Ausstellungen und bestellen Sie unbedingt eine frisch gebrühte Tasse lokaler Bohnen.",
+            "hu": "Fedezze fel a chiapasi kávétermesztés gazdag történetét az illatos kiállításokon, és mindenképpen rendeljen egy frissen főzött csészét a helyi szemek megkóstolásához.",
+            "ro": "Descoperiți istoria bogată a cultivării cafelei din Chiapas prin exponate aromate, asigurându-vă că comandați o ceașcă proaspătă pentru a aprecia boabele locale.",
+            "en": "Discover the rich history of Chiapas coffee cultivation through aromatic exhibits, making sure to order a freshly brewed cup to fully appreciate the local beans."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mesoamericano del Jade",
+            "hu": "Museo Mesoamericano del Jade",
+            "ro": "Museo Mesoamericano del Jade",
+            "en": "Museo Mesoamericano del Jade"
+          },
+          "coords": [
+            -92.635049,
+            16.741284
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie exquisite Repliken antiker mesoamerikanischer Jadeartefakte, die den heiligen Wert des Steins unterstreichen, aber bringen Sie eine Lupe für Details mit.",
+            "hu": "Fedezze fel az ősi mezoamerikai jáde tárgyak gyönyörű másolatait, amelyek a kő szent értékét emelik ki, de ne felejtsen el nagyítót hozni a finomabb részletekhez.",
+            "ro": "Explorați replici rafinate ale artefactelor antice mesoamericane din jad care evidențiază valoarea sacră a pietrei, dar aduceți o lupă pentru detaliile mai fine.",
+            "en": "Explore exquisite replicas of ancient Mesoamerican jade artifacts that highlight the stone's sacred value, but remember to bring a magnifying glass for the finer details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo textiles de mundo maya",
+            "hu": "Museo textiles de mundo maya",
+            "ro": "Museo textiles de mundo maya",
+            "en": "Museo textiles de mundo maya"
+          },
+          "coords": [
+            -92.637475,
+            16.741677
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Welt der Maya-Webtraditionen ein, indem Sie farbenfrohe Gewänder bewundern, und kaufen Sie ein authentisches Souvenir im Kunsthandwerksladen.",
+            "hu": "Merüljön el a maja szövési hagyományok élénk világában a színes ruhadarabok megtekintésével, és fontolja meg egy autentikus szuvenír vásárlását a kézműves boltban.",
+            "ro": "Pătrundeți în lumea vibrantă a tradițiilor mayașe de țesut examinând veșminte colorate și luați în considerare achiziționarea unui suvenir autentic de la magazinul artizanal.",
+            "en": "Delve into the vibrant world of Mayan weaving traditions by examining colorful garments, and consider buying an authentic souvenir directly from the artisan shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Amber",
+            "hu": "Museum of Amber",
+            "ro": "Museum of Amber",
+            "en": "Museum of Amber"
+          },
+          "coords": [
+            -92.642162,
+            16.735843
+          ],
+          "category": "museum",
+          "arrive_at": "16:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie wunderschön gefertigten Bernsteinschmuck und Fossilien in einem ehemaligen Kloster und denken Sie daran, dass echter Bernstein unter UV-Licht leuchtet.",
+            "hu": "Csodálja meg a gyönyörű borostyán ékszereket és fosszíliákat egy egykori kolostorban, szem előtt tartva, hogy a valódi borostyán világít az UV fény alatt.",
+            "ro": "Minunați-vă de bijuteriile din chihlimbar și fosilele găzduite într-o fostă mănăstire, ținând cont că chihlimbarul autentic strălucește sub lumina UV arătată de ghizi.",
+            "en": "Marvel at beautifully crafted amber jewelry and fossil inclusions housed in a former convent, keeping in mind that genuine amber glows under UV light shown by guides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebendigen Herzen der Stadt, wo Sie das historische Denkmal und die elegante Architektur des Zebadúa-Theaters bewundern. Mittags tauchen Sie mit einem aromatischen Besuch im Kaffeemuseum und faszinierenden Jadeartefakten in das lokale Erbe ein. Der Nachmittag ist den leuchtenden Farben und Mustern der Maya-Textilien gewidmet. Am Abend erkunden Sie die leuchtenden, versteinerten Schätze des Bernsteinmuseums in den alten Klostermauern.",
+        "hu": "A reggel a város vibráló szívében kezdődik, ahol megcsodálhatja a történelmi emlékművet és a Zebadúa Színház elegáns építészetét. Délben merüljön el a helyi örökségben a kávémúzeum aromás látogatásával, majd a bonyolult jáde tárgyakkal. A délután a maja textíliák ragyogó színeinek és mintáinak van szentelve. Ahogy leszáll az este, felfedezi a borostyánmúzeum ősi kolostorfalai között rejlő, ragyogó megkövült kincseket.",
+        "ro": "Dimineața începe în inima vibrantă a orașului, admirând monumentul istoric și arhitectura elegantă a Teatrului Zebadúa. La prânz, aprofundați moștenirea locală cu o vizită aromată la muzeul cafelei, urmată de artefacte complexe din jad. După-amiaza este dedicată culorilor și modelelor strălucitoare ale textilelor mayașe. Seara, explorați comorile fosilizate strălucitoare din muzeul chihlimbarului, aflat în interiorul vechilor ziduri ale mănăstirii.",
+        "en": "Morning begins in the vibrant heart of the city, admiring the historic monument and the elegant architecture of the Zebadúa Theater. By midday, delve into local heritage with an aromatic visit to the coffee museum followed by intricate jade artifacts. The afternoon is dedicated to the brilliant colors and patterns of Mayan textiles. As evening falls, you explore the glowing fossilized treasures within the amber museum's ancient convent walls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 2.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Na Bolom",
+            "hu": "Na Bolom",
+            "ro": "Na Bolom",
+            "en": "Na Bolom"
+          },
+          "coords": [
+            -92.629943,
+            16.741687
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das ehemalige Haus eines dänischen Entdeckerpaares, um mehr über die Ureinwohner des Lacandon-Dschungels zu erfahren, und nehmen Sie an der Führung teil.",
+            "hu": "Lépjen be egy dán felfedező házaspár egykori otthonába, hogy megismerje a Lacandon-dzsungel őslakosait, és csatlakozzon a vezetett háznézéshez a mélyebb betekintésért.",
+            "ro": "Pășiți în fosta casă a unui cuplu de exploratori danezi pentru a afla despre populația indigenă din jungla Lacandon și alăturați-vă turului ghidat pentru perspective mai profunde.",
+            "en": "Step into the former home of a Danish explorer couple to learn about the Lacandon jungle's indigenous people, and join the guided house tour for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mesoamericano del Jade",
+            "hu": "Museo Mesoamericano del Jade",
+            "ro": "Museo Mesoamericano del Jade",
+            "en": "Museo Mesoamericano del Jade"
+          },
+          "coords": [
+            -92.635049,
+            16.741284
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie exquisite Repliken antiker mesoamerikanischer Jadeartefakte, die den heiligen Wert des Steins unterstreichen, aber bringen Sie eine Lupe für Details mit.",
+            "hu": "Fedezze fel az ősi mezoamerikai jáde tárgyak gyönyörű másolatait, amelyek a kő szent értékét emelik ki, de ne felejtsen el nagyítót hozni a finomabb részletekhez.",
+            "ro": "Explorați replici rafinate ale artefactelor antice mesoamericane din jad care evidențiază valoarea sacră a pietrei, dar aduceți o lupă pentru detaliile mai fine.",
+            "en": "Explore exquisite replicas of ancient Mesoamerican jade artifacts that highlight the stone's sacred value, but remember to bring a magnifying glass for the finer details."
+          }
+        },
+        {
+          "name": {
+            "de": "Cafemuseo cafe",
+            "hu": "Cafemuseo cafe",
+            "ro": "Cafemuseo cafe",
+            "en": "Cafemuseo cafe"
+          },
+          "coords": [
+            -92.636008,
+            16.738259
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des Kaffeeanbaus in Chiapas durch duftende Ausstellungen und bestellen Sie unbedingt eine frisch gebrühte Tasse lokaler Bohnen.",
+            "hu": "Fedezze fel a chiapasi kávétermesztés gazdag történetét az illatos kiállításokon, és mindenképpen rendeljen egy frissen főzött csészét a helyi szemek megkóstolásához.",
+            "ro": "Descoperiți istoria bogată a cultivării cafelei din Chiapas prin exponate aromate, asigurându-vă că comandați o ceașcă proaspătă pentru a aprecia boabele locale.",
+            "en": "Discover the rich history of Chiapas coffee cultivation through aromatic exhibits, making sure to order a freshly brewed cup to fully appreciate the local beans."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Dr. Manuel Velasco Suárez",
+            "hu": "Monumento al Dr. Manuel Velasco Suárez",
+            "ro": "Monumento al Dr. Manuel Velasco Suárez",
+            "en": "Monumento al Dr. Manuel Velasco Suárez"
+          },
+          "coords": [
+            -92.637912,
+            16.737058
+          ],
+          "category": "historical",
+          "arrive_at": "14:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Denkmal für einen bedeutenden mexikanischen Neurologen und Gouverneur, während Sie Ihre Kamera für den lebendigen Platz bereithalten.",
+            "hu": "Csodálja meg a híres mexikói neurológus és kormányzó emlékművét, és közben tartsa kéznél a fényképezőgépét a nyüzsgő tér megörökítéséhez.",
+            "ro": "Admirați acest tribut adus unui proeminent neurolog și guvernator mexican, observând detaliile sale complexe, în timp ce aveți camera pregătită pentru piața vibrantă.",
+            "en": "Admire this tribute to a prominent Mexican neurologist and governor, noticing its intricate details, while keeping your camera handy for the surrounding vibrant square."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala De Bellas Artes",
+            "hu": "Sala De Bellas Artes",
+            "ro": "Sala De Bellas Artes",
+            "en": "Sala De Bellas Artes"
+          },
+          "coords": [
+            -92.638044,
+            16.734091
+          ],
+          "category": "cultural",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in diesem eleganten Kulturraum und prüfen Sie den Zeitplan vorher, da die Öffnungszeiten je nach Saison stark variieren können.",
+            "hu": "Csodálja meg a helyi kortárs művészeti kiállításokat ebben az elegáns térben, de előtte ellenőrizze a menetrendet, mivel a nyitvatartási idő szezononként változhat.",
+            "ro": "Admirați expozițiile de artă contemporană locală în acest spațiu cultural elegant, verificând programul în prealabil, deoarece orele pot varia semnificativ în funcție de sezon.",
+            "en": "Admire local contemporary art exhibitions in this elegant cultural space, checking the schedule beforehand as opening hours can vary significantly depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Hermanos Dominguez",
+            "hu": "Teatro Hermanos Dominguez",
+            "ro": "Teatro Hermanos Dominguez",
+            "en": "Teatro Hermanos Dominguez"
+          },
+          "coords": [
+            -92.651862,
+            16.732946
+          ],
+          "category": "cultural",
+          "arrive_at": "16:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beeindruckende moderne Auditorium für wichtige regionale Veranstaltungen und bringen Sie eine leichte Jacke mit, da der Innenraum oft recht kühl ist.",
+            "hu": "Látogasson el ebbe a modern előadóterembe, amely jelentős regionális eseményeknek ad otthont, és mindenképpen hozzon egy könnyű kabátot, mert a belső tér gyakran hűvös.",
+            "ro": "Vizitați acest impresionant auditoriu modern care găzduiește evenimente regionale semnificative, asigurându-vă că aduceți o jachetă ușoară, deoarece interiorul este adesea destul de răcoros.",
+            "en": "Visit this impressive modern auditorium that hosts significant regional events, making sure to bring a light jacket as the spacious interior is often quite chilled."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour bei Na Bolom, um faszinierende Geschichten von Dschungelforschern zu entdecken. Am Mittag kehren Sie ins Zentrum zurück, um Geheimnisse der mesoamerikanischen Jade zu lüften und die Kaffeegeschichte zu genießen. Am Nachmittag radeln Sie gemütlich an einem zentralen Denkmal vorbei zur anmutigen Kunsthalle. Die abendliche Fahrt endet an einem großen modernen Theater und rundet einen kulturellen Tag perfekt ab.",
+        "hu": "Kezdje kerékpáros utazását a Na Bolomnál, hogy felfedezze a dzsungelkutatók lenyűgöző történeteit. A délidő visszavezeti a központba, hogy feltárja a mezoamerikai jáde titkait és megízlelje a helyi kávétörténetet. Délután kényelmesen elteker egy központi emlékmű mellett a kecses szépművészeti csarnok felé. Az esti túra egy grandiózus modern színháznál ér véget, tökéletesen lezárva a kulturális látnivalókkal teli napot.",
+        "ro": "Începeți călătoria cu bicicleta la Na Bolom pentru a descoperi povești fascinante ale exploratorilor din junglă. Prânzul vă aduce înapoi în centru pentru a descoperi secretele jadului mesoamerican și istoria cafelei locale. După-amiaza, pedalați ușor pe lângă un monument central spre sala grațioasă de arte frumoase. Plimbarea de seară se încheie la un teatru modern grandios, încununând perfect o zi plină de atracții culturale.",
+        "en": "Start your cycling journey at Na Bolom to discover fascinating tales of jungle explorers. Midday brings you back to the center to unearth Mesoamerican jade secrets and savor local coffee history. In the afternoon, you gently pedal past a central monument towards the graceful fine arts hall. The evening ride concludes at a grand modern theater, perfectly capping off a day filled with cultural highlights."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.73,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reserva Ecológica Moxviquil",
+            "hu": "Reserva Ecológica Moxviquil",
+            "ro": "Reserva Ecológica Moxviquil",
+            "en": "Reserva Ecológica Moxviquil"
+          },
+          "coords": [
+            -92.636559,
+            16.759
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Pfaden dieses ökologischen Reservats durch den üppigen Nebelwald und tragen Sie feste Wanderschuhe, da die Wege nach dem Morgen nebelig rutschig sein können.",
+            "hu": "Túrázzon az ökológiai rezervátum buja felhőerdei ösvényein, hogy felfedezze a helyi növényvilágot, de viseljen erős túracipőt, mert az ösvények csúszósak lehetnek a reggeli köd után.",
+            "ro": "Faceți o drumeție pe traseele din pădurea tropicală ale acestei rezervații ecologice pentru a descoperi flora locală, purtând încălțăminte rezistentă, deoarece potecile pot fi alunecoase.",
+            "en": "Hike through the lush cloud forest trails of this ecological reserve to discover local flora, wearing sturdy walking shoes as the paths can be slippery after morning mist."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Medicina Maya",
+            "hu": "Museo de la Medicina Maya",
+            "ro": "Museo de la Medicina Maya",
+            "en": "Museo de la Medicina Maya"
+          },
+          "coords": [
+            -92.638689,
+            16.750033
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verstehen Sie traditionelle indigene Heilpraktiken durch faszinierende Dioramen und sprechen Sie respektvoll mit den Mitarbeitern über alte Heilmittel der Region.",
+            "hu": "Értse meg a hagyományos őslakos gyógyászati gyakorlatokat a lenyűgöző diorámákon keresztül, és szánjon időt arra, hogy tiszteletteljesen beszélgessen a személyzettel az ősi gyógymódokról.",
+            "ro": "Înțelegeți practicile tradiționale de vindecare indigene prin diorame fascinante și afișaje pe bază de plante, făcându-vă timp să vorbiți respectuos cu personalul.",
+            "en": "Understand traditional indigenous healing practices through fascinating dioramas and herbal displays, taking time to speak respectfully with the staff about ancient remedies."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo textiles de mundo maya",
+            "hu": "Museo textiles de mundo maya",
+            "ro": "Museo textiles de mundo maya",
+            "en": "Museo textiles de mundo maya"
+          },
+          "coords": [
+            -92.637475,
+            16.741677
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die bunte Welt der Maya-Webtraditionen ein, indem Sie farbenfrohe Gewänder bewundern, und kaufen Sie ein authentisches Souvenir im Kunsthandwerksladen.",
+            "hu": "Merüljön el a maja szövési hagyományok élénk világában a színes ruhadarabok megtekintésével, és fontolja meg egy autentikus szuvenír vásárlását a kézműves boltban.",
+            "ro": "Pătrundeți în lumea vibrantă a tradițiilor mayașe de țesut examinând veșminte colorate și luați în considerare achiziționarea unui suvenir autentic de la magazinul artizanal.",
+            "en": "Delve into the vibrant world of Mayan weaving traditions by examining colorful garments, and consider buying an authentic souvenir directly from the artisan shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Amber",
+            "hu": "Museum of Amber",
+            "ro": "Museum of Amber",
+            "en": "Museum of Amber"
+          },
+          "coords": [
+            -92.642162,
+            16.735843
+          ],
+          "category": "museum",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie wunderschön gefertigten Bernsteinschmuck und Fossilien in einem ehemaligen Kloster und denken Sie daran, dass echter Bernstein unter UV-Licht leuchtet.",
+            "hu": "Csodálja meg a gyönyörű borostyán ékszereket és fosszíliákat egy egykori kolostorban, szem előtt tartva, hogy a valódi borostyán világít az UV fény alatt.",
+            "ro": "Minunați-vă de bijuteriile din chihlimbar și fosilele găzduite într-o fostă mănăstire, ținând cont că chihlimbarul autentic strălucește sub lumina UV arătată de ghizi.",
+            "en": "Marvel at beautifully crafted amber jewelry and fossil inclusions housed in a former convent, keeping in mind that genuine amber glows under UV light shown by guides."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala De Bellas Artes",
+            "hu": "Sala De Bellas Artes",
+            "ro": "Sala De Bellas Artes",
+            "en": "Sala De Bellas Artes"
+          },
+          "coords": [
+            -92.638044,
+            16.734091
+          ],
+          "category": "cultural",
+          "arrive_at": "15:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in diesem eleganten Kulturraum und prüfen Sie den Zeitplan vorher, da die Öffnungszeiten je nach Saison stark variieren können.",
+            "hu": "Csodálja meg a helyi kortárs művészeti kiállításokat ebben az elegáns térben, de előtte ellenőrizze a menetrendet, mivel a nyitvatartási idő szezononként változhat.",
+            "ro": "Admirați expozițiile de artă contemporană locală în acest spațiu cultural elegant, verificând programul în prealabil, deoarece orele pot varia semnificativ în funcție de sezon.",
+            "en": "Admire local contemporary art exhibitions in this elegant cultural space, checking the schedule beforehand as opening hours can vary significantly depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+            "hu": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+            "ro": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+            "en": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst"
+          },
+          "coords": [
+            -92.644464,
+            16.721763
+          ],
+          "category": "natural",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Bergfeuchtgebieten, die als wichtiger Lebensraum für endemische Vögel dienen, und bringen Sie ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Pihenjen a csendes hegyi vizenyős területeken, amelyek kulcsfontosságú élőhelyként szolgálnak az endemikus madarak számára, és hozzon távcsövet a naplemente előtti optimális vadvilág megfigyeléshez.",
+            "ro": "Relaxați-vă lângă zonele umede montane liniștite, care servesc drept habitat crucial pentru păsările endemice, aducând binoclul pentru observarea optimă a faunei sălbatice.",
+            "en": "Relax by the serene mountain wetlands that serve as a crucial habitat for endemic birds, bringing binoculars for optimal wildlife viewing just before sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im nördlichen ökologischen Reservat, wo Sie die frische Luft der Nebelwaldpfade einatmen. Mittags können Sie die indigenen Traditionen im Maya-Medizin- und Textilmuseum erkunden. Am Nachmittag fahren Sie hinab ins Stadtzentrum, um die Einschlüsse aus Bernstein und regionale bildende Kunst zu bewundern. Der Tag klingt mit einem ruhigen Abend in den Bergfeuchtgebieten aus, wo Sie einheimische Vogelarten im schwindenden Licht beobachten.",
+        "hu": "Az utazás az északi ökológiai rezervátumban kezdődik, ahol belélegezheti a felhőerdei ösvények friss levegőjét. A délidő arra csábít, hogy felfedezze a mély őslakos hagyományokat a maja orvoslás és textilmúzeumokban. Délután ereszkedjen le a városközpontba, hogy megcsodálja a borostyánba zárt ritkaságokat és a regionális képzőművészetet. A nap egy békés estével zárul a hegyi vizenyős területeken, megfigyelve a helyi madárfajokat a halványuló fényben.",
+        "ro": "Călătoria cu mașina începe în rezervația ecologică de nord, respirând aerul proaspăt al traseelor din pădurea tropicală. Prânzul vă invită să explorați tradițiile indigene la muzeele de medicină și textile mayașe. După-amiaza, coborâți în centrul orașului pentru a admira incluziunile de chihlimbar frumos conservate și artele plastice regionale. Ziua se încheie cu o seară liniștită la zonele umede montane, urmărind păsările locale în lumina difuză.",
+        "en": "Your drive begins in the northern ecological reserve, breathing in the fresh air of the cloud forest trails. Midday invites you to explore profound indigenous traditions at the Mayan medicine and textile museums. In the afternoon, descend to the city center to admire beautifully preserved amber inclusions and regional fine arts. The day winds down with a peaceful evening at the mountain wetlands, watching local bird species in the fading light."
+      }
+    }
+  }
+}

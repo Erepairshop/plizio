@@ -1,0 +1,543 @@
+{
+  "city_id": "indonesia-meunasahbale-cities-v2",
+  "anchor": {
+    "name": "Meunasahbale",
+    "coords": [
+      95.23484,
+      5.49735
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fledermaushöhle",
+            "hu": "Denevérbarlang",
+            "ro": "Peștera Liliecilor",
+            "en": "Bat cave"
+          },
+          "coords": [
+            95.227528,
+            5.497075
+          ],
+          "category": "landmark",
+          "arrive_at": "09:12",
+          "stay_min": 35,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Kalksteinformationen dieser versteckten Fledermaushöhle mit ihrer einzigartigen Geologie, aber bringen Sie unbedingt eine Taschenlampe mit.",
+            "hu": "Fedezze fel ennek a rejtett denevérbarlangnak a lenyűgöző mészkőformációit, és csodálja meg a geológiáját, de a biztonságos felfedezéshez feltétlenül hozzon zseblámpát.",
+            "ro": "Explorați formațiunile fascinante de calcar ale acestei peșteri ascunse pentru a vedea geologia spectaculoasă, dar nu uitați să aduceți o lanternă puternică pentru siguranță.",
+            "en": "Explore the fascinating limestone formations of this hidden bat cave to witness incredible coastal geology, but be sure to bring a reliable flashlight for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Momong Beach",
+            "hu": "Momong strand",
+            "ro": "Plaja Momong",
+            "en": "Momong Beach"
+          },
+          "coords": [
+            95.225379,
+            5.499448
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand von Momong Beach, um atemberaubende Ausblicke zu genießen, und kommen Sie früh, um einen schattigen Platz zu sichern.",
+            "hu": "Pihenjen a Momong Beach érintetlen, fehér homokján, és élvezze a lélegzetelállító óceáni kilátást, de érkezzen kora reggel, hogy árnyékos helyet találjon a fák alatt.",
+            "ro": "Relaxați-vă pe nisipul alb imaculat al plajei Momong pentru a vă bucura de priveliștile oceanului și sosiți devreme pentru a prinde cel mai bun loc la umbra copacilor.",
+            "en": "Relax on the pristine white sands of Momong Beach to enjoy breathtaking ocean vistas, and arrive early in the morning to secure the perfect shaded spot beneath the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Lampuuk",
+            "hu": "Pantai Lampuuk",
+            "ro": "Pantai Lampuuk",
+            "en": "Pantai Lampuuk"
+          },
+          "coords": [
+            95.227883,
+            5.489558
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die dramatische Küstenschönheit und die sanften Wellen von Pantai Lampuuk bei einem Strandspaziergang, wobei Sonnencreme aufgrund des fehlenden Schattens wichtig ist.",
+            "hu": "Tapasztalja meg a Pantai Lampuuk drámai szépségét és hullámait, amely ideális egy hosszú délutáni sétához, de a naptej elengedhetetlen, mivel alig van árnyék errefelé.",
+            "ro": "Bucurați-vă de frumusețea dramatică a coastei și de valurile de la Pantai Lampuuk, ideală pentru o plimbare, deși crema de protecție solară este esențială aici.",
+            "en": "Experience the dramatic coastal beauty and rolling waves of Pantai Lampuuk which is ideal for a long afternoon stroll, though sunscreen is essential as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Gle Bruk",
+            "hu": "Gle Bruk",
+            "ro": "Gle Bruk",
+            "en": "Gle Bruk"
+          },
+          "coords": [
+            95.2308,
+            5.5038
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden von Gle Bruk, um einen Panoramablick auf die üppige Küste zu genießen, und tragen Sie feste Wanderschuhe für das steile Gelände.",
+            "hu": "Túrázzon fel a Gle Bruk festői ösvényein, hogy felfedezze a buja partvonal panorámáját, és viseljen strapabíró túrabakancsot az időnként meredek terep biztonságos leküzdéséhez.",
+            "ro": "Urcați pe traseele pitorești din Gle Bruk pentru a descoperi vederi panoramice ale coastei luxuriante și purtați bocanci de drumeție pentru a naviga în siguranță pe terenul abrupt.",
+            "en": "Hike up the scenic trails of Gle Bruk to discover panoramic views of the entire lush coastline, and wear sturdy hiking boots to safely navigate the occasionally steep terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Mulieng",
+            "hu": "Gunung Mulieng",
+            "ro": "Gunung Mulieng",
+            "en": "Gunung Mulieng"
+          },
+          "coords": [
+            95.2195,
+            5.5057
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie die grünen Hänge des Gunung Mulieng, um in die tropische Artenvielfalt einzutauchen, aber beginnen Sie Ihre Wanderung früh, um die intensive Mittagshitze zu meiden.",
+            "hu": "Mássza meg a Gunung Mulieng zöldellő lejtőit, hogy elmerüljön a gazdag trópusi biodiverzitásban, de a túrát mindenképpen korán kezdje, hogy elkerülje a déli órák intenzív hőségét.",
+            "ro": "Urcați pe pantele înverzite ale Gunung Mulieng pentru a vă bucura de biodiversitatea tropicală bogată, dar amintiți-vă să începeți drumeția devreme pentru a evita căldura de la prânz.",
+            "en": "Ascend the verdant slopes of Gunung Mulieng to immerse yourself in the rich tropical biodiversity, but remember to start your trek early in the day to avoid the intense midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang zur versteckten Fledermaushöhle. Die Mittagszeit lädt zum Entspannen am Sandstrand von Momong Beach ein. Genießen Sie am Nachmittag die dramatischen Wellen am Pantai Lampuuk. Beenden Sie Ihren Tag mit einer malerischen Wanderung zum Gunung Mulieng.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a rejtett denevérbarlanghoz. A dél megidézi a Momong Beach érintetlen homokjának pihentető hangulatát. Délután élvezze a drámai tengerparti hullámokat a Pantai Lampuukon. Zárja a napot egy festői hegymeneti túrával a Gunung Mulieng irányába az alkonyatban.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă către peștera ascunsă a liliecilor. La prânz, relaxați-vă pe nisipurile imaculate de la plaja Momong. După-amiaza, bucurați-vă de valurile dramatice ale coastei la Pantai Lampuuk. Încheiați-vă ziua cu o drumeție pitorească spre Gunung Mulieng spre seară.",
+        "en": "Begin your morning with a refreshing stroll to the hidden bat cave. Midday invites you to relax on the pristine sands of Momong Beach. In the afternoon, enjoy the dramatic coastal waves at Pantai Lampuuk. Conclude your day with a scenic uphill trek to Gunung Mulieng as dusk approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gle Kling",
+            "hu": "Gle Kling",
+            "ro": "Gle Kling",
+            "en": "Gle Kling"
+          },
+          "coords": [
+            95.2175,
+            5.5093
+          ],
+          "category": "landmark",
+          "arrive_at": "09:13",
+          "stay_min": 35,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie atemberaubende Landschaften von den erhöhten Aussichtspunkten des Gle Kling, einem markanten geografischen Wahrzeichen, wofür ein Weitwinkelobjektiv nützlich ist.",
+            "hu": "Készítsen lélegzetelállító tájképeket a Gle Kling magaslati kilátópontjairól, amely egy lenyűgöző földrajzi nevezetesség, így a nagylátószögű objektív itt abszolút elengedhetetlen.",
+            "ro": "Surprindeți fotografii uluitoare cu peisajul de la punctele de belvedere de pe Gle Kling, un reper geografic impresionant, motiv pentru care un obiectiv superangular este esențial.",
+            "en": "Capture breathtaking landscape photographs from the elevated vantage points of Gle Kling, a striking geographical landmark, making a wide-angle lens an absolute necessity here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Mulieng",
+            "hu": "Gunung Mulieng",
+            "ro": "Gunung Mulieng",
+            "en": "Gunung Mulieng"
+          },
+          "coords": [
+            95.2195,
+            5.5057
+          ],
+          "category": "landmark",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie die grünen Hänge des Gunung Mulieng, um in die tropische Artenvielfalt einzutauchen, aber beginnen Sie Ihre Wanderung früh, um die intensive Mittagshitze zu meiden.",
+            "hu": "Mássza meg a Gunung Mulieng zöldellő lejtőit, hogy elmerüljön a gazdag trópusi biodiverzitásban, de a túrát mindenképpen korán kezdje, hogy elkerülje a déli órák intenzív hőségét.",
+            "ro": "Urcați pe pantele înverzite ale Gunung Mulieng pentru a vă bucura de biodiversitatea tropicală bogată, dar amintiți-vă să începeți drumeția devreme pentru a evita căldura de la prânz.",
+            "en": "Ascend the verdant slopes of Gunung Mulieng to immerse yourself in the rich tropical biodiversity, but remember to start your trek early in the day to avoid the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Gle Bruk",
+            "hu": "Gle Bruk",
+            "ro": "Gle Bruk",
+            "en": "Gle Bruk"
+          },
+          "coords": [
+            95.2308,
+            5.5038
+          ],
+          "category": "landmark",
+          "arrive_at": "10:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden von Gle Bruk, um einen Panoramablick auf die üppige Küste zu genießen, und tragen Sie feste Wanderschuhe für das steile Gelände.",
+            "hu": "Túrázzon fel a Gle Bruk festői ösvényein, hogy felfedezze a buja partvonal panorámáját, és viseljen strapabíró túrabakancsot az időnként meredek terep biztonságos leküzdéséhez.",
+            "ro": "Urcați pe traseele pitorești din Gle Bruk pentru a descoperi vederi panoramice ale coastei luxuriante și purtați bocanci de drumeție pentru a naviga în siguranță pe terenul abrupt.",
+            "en": "Hike up the scenic trails of Gle Bruk to discover panoramic views of the entire lush coastline, and wear sturdy hiking boots to safely navigate the occasionally steep terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Momong Beach",
+            "hu": "Momong strand",
+            "ro": "Plaja Momong",
+            "en": "Momong Beach"
+          },
+          "coords": [
+            95.225379,
+            5.499448
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand von Momong Beach, um atemberaubende Ausblicke zu genießen, und kommen Sie früh, um einen schattigen Platz zu sichern.",
+            "hu": "Pihenjen a Momong Beach érintetlen, fehér homokján, és élvezze a lélegzetelállító óceáni kilátást, de érkezzen kora reggel, hogy árnyékos helyet találjon a fák alatt.",
+            "ro": "Relaxați-vă pe nisipul alb imaculat al plajei Momong pentru a vă bucura de priveliștile oceanului și sosiți devreme pentru a prinde cel mai bun loc la umbra copacilor.",
+            "en": "Relax on the pristine white sands of Momong Beach to enjoy breathtaking ocean vistas, and arrive early in the morning to secure the perfect shaded spot beneath the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Fledermaushöhle",
+            "hu": "Denevérbarlang",
+            "ro": "Peștera Liliecilor",
+            "en": "Bat cave"
+          },
+          "coords": [
+            95.227528,
+            5.497075
+          ],
+          "category": "landmark",
+          "arrive_at": "12:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Kalksteinformationen dieser versteckten Fledermaushöhle mit ihrer einzigartigen Geologie, aber bringen Sie unbedingt eine Taschenlampe mit.",
+            "hu": "Fedezze fel ennek a rejtett denevérbarlangnak a lenyűgöző mészkőformációit, és csodálja meg a geológiáját, de a biztonságos felfedezéshez feltétlenül hozzon zseblámpát.",
+            "ro": "Explorați formațiunile fascinante de calcar ale acestei peșteri ascunse pentru a vedea geologia spectaculoasă, dar nu uitați să aduceți o lanternă puternică pentru siguranță.",
+            "en": "Explore the fascinating limestone formations of this hidden bat cave to witness incredible coastal geology, but be sure to bring a reliable flashlight for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Lampuuk",
+            "hu": "Pantai Lampuuk",
+            "ro": "Pantai Lampuuk",
+            "en": "Pantai Lampuuk"
+          },
+          "coords": [
+            95.227883,
+            5.489558
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die dramatische Küstenschönheit und die sanften Wellen von Pantai Lampuuk bei einem Strandspaziergang, wobei Sonnencreme aufgrund des fehlenden Schattens wichtig ist.",
+            "hu": "Tapasztalja meg a Pantai Lampuuk drámai szépségét és hullámait, amely ideális egy hosszú délutáni sétához, de a naptej elengedhetetlen, mivel alig van árnyék errefelé.",
+            "ro": "Bucurați-vă de frumusețea dramatică a coastei și de valurile de la Pantai Lampuuk, ideală pentru o plimbare, deși crema de protecție solară este esențială aici.",
+            "en": "Experience the dramatic coastal beauty and rolling waves of Pantai Lampuuk which is ideal for a long afternoon stroll, though sunscreen is essential as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Lhoknga",
+            "hu": "Pantai Lhoknga",
+            "ro": "Pantai Lhoknga",
+            "en": "Pantai Lhoknga"
+          },
+          "coords": [
+            95.232565,
+            5.47996
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Sonnenuntergänge von Pantai Lhoknga, einem wahren Paradies für Wassersportler, und mieten Sie Ihre Ausrüstung am besten direkt bei den Händlern.",
+            "hu": "Csodálja meg a Pantai Lhoknga látványos naplementéit és aranyhomokját, amely a vízisportok paradicsoma, így érdemes a közeli helyi árusoktól felszerelést bérelnie a nap folyamán.",
+            "ro": "Admirați apusurile spectaculoase și nisipul auriu de la Pantai Lhoknga, un adevărat paradis al sporturilor nautice, așa că închiriați echipament de la vânzătorii locali.",
+            "en": "Marvel at the spectacular sunsets and golden sands of Pantai Lhoknga, a true paradise for water sports enthusiasts, so consider renting equipment from the local vendors nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh los, um die weiten Panoramablicke vom Gle Kling zu genießen. Fahren Sie gegen Mittag an die Küste, um am Momong Beach zu entspannen. Verbringen Sie den Nachmittag damit, zwischen Höhlen und dem Pantai Lampuuk zu pendeln. Beenden Sie Ihr Radabenteuer mit dem Sonnenuntergang in Pantai Lhoknga.",
+        "hu": "Biciklizzen ki korán, hogy megtapasztalhassa a Gle Kling lenyűgöző panorámáját. Délben tekerjen le a partra, hogy kikapcsolódjon a gyönyörű Momong Beachen. Töltse a délutánt a partmenti barlangok és a Pantai Lampuuk közötti kerékpározással. Fejezze be a kalandot egy naplementével a Pantai Lhokngán.",
+        "ro": "Pedalați devreme pentru a admira priveliștile panoramice de la Gle Kling. La prânz, coborâți spre coastă pentru a vă relaxa la frumoasa plajă Momong. Petreceți-vă după-amiaza pedalând între peșterile de coastă și plaja Pantai Lampuuk. Încheiați-vă aventura privind apusul la Pantai Lhoknga.",
+        "en": "Cycle out early to experience the sweeping panoramic views from Gle Kling. By noon, ride down towards the coast to unwind at the beautiful Momong Beach. Spend your afternoon pedaling between coastal caves and the gorgeous shores of Pantai Lampuuk. End your cycling adventure watching the sunset at Pantai Lhoknga."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 9.8,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Gle Gire",
+            "hu": "Gle Gire",
+            "ro": "Gle Gire",
+            "en": "Gle Gire"
+          },
+          "coords": [
+            95.2321,
+            5.5168
+          ],
+          "category": "landmark",
+          "arrive_at": "09:05",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe und unberührte Natur auf dem Gipfel des Gle Gire, und packen Sie ausreichend Trinkwasser ein, da es entlang des Wildnispfades keine Einrichtungen gibt.",
+            "hu": "Tapasztalja meg a mély nyugalmat és az érintetlen természetet a Gle Gire csúcsán, és vigyen magával elegendő ivóvizet, mivel a vadonban vezető ösvény mentén nincsenek létesítmények.",
+            "ro": "Experimentați liniștea profundă și splendoarea naturală neatinsă pe vârful Gle Gire și luați suficientă apă de băut, deoarece nu există facilități de-a lungul traseului sălbatic.",
+            "en": "Experience the profound tranquility and untouched natural splendor at the summit of Gle Gire, and pack sufficient drinking water since there are no facilities along the wilderness trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Gle Kling",
+            "hu": "Gle Kling",
+            "ro": "Gle Kling",
+            "en": "Gle Kling"
+          },
+          "coords": [
+            95.2175,
+            5.5093
+          ],
+          "category": "landmark",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie atemberaubende Landschaften von den erhöhten Aussichtspunkten des Gle Kling, einem markanten geografischen Wahrzeichen, wofür ein Weitwinkelobjektiv nützlich ist.",
+            "hu": "Készítsen lélegzetelállító tájképeket a Gle Kling magaslati kilátópontjairól, amely egy lenyűgöző földrajzi nevezetesség, így a nagylátószögű objektív itt abszolút elengedhetetlen.",
+            "ro": "Surprindeți fotografii uluitoare cu peisajul de la punctele de belvedere de pe Gle Kling, un reper geografic impresionant, motiv pentru care un obiectiv superangular este esențial.",
+            "en": "Capture breathtaking landscape photographs from the elevated vantage points of Gle Kling, a striking geographical landmark, making a wide-angle lens an absolute necessity here."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunung Mulieng",
+            "hu": "Gunung Mulieng",
+            "ro": "Gunung Mulieng",
+            "en": "Gunung Mulieng"
+          },
+          "coords": [
+            95.2195,
+            5.5057
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie die grünen Hänge des Gunung Mulieng, um in die tropische Artenvielfalt einzutauchen, aber beginnen Sie Ihre Wanderung früh, um die intensive Mittagshitze zu meiden.",
+            "hu": "Mássza meg a Gunung Mulieng zöldellő lejtőit, hogy elmerüljön a gazdag trópusi biodiverzitásban, de a túrát mindenképpen korán kezdje, hogy elkerülje a déli órák intenzív hőségét.",
+            "ro": "Urcați pe pantele înverzite ale Gunung Mulieng pentru a vă bucura de biodiversitatea tropicală bogată, dar amintiți-vă să începeți drumeția devreme pentru a evita căldura de la prânz.",
+            "en": "Ascend the verdant slopes of Gunung Mulieng to immerse yourself in the rich tropical biodiversity, but remember to start your trek early in the day to avoid the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Gle Bruk",
+            "hu": "Gle Bruk",
+            "ro": "Gle Bruk",
+            "en": "Gle Bruk"
+          },
+          "coords": [
+            95.2308,
+            5.5038
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den malerischen Pfaden von Gle Bruk, um einen Panoramablick auf die üppige Küste zu genießen, und tragen Sie feste Wanderschuhe für das steile Gelände.",
+            "hu": "Túrázzon fel a Gle Bruk festői ösvényein, hogy felfedezze a buja partvonal panorámáját, és viseljen strapabíró túrabakancsot az időnként meredek terep biztonságos leküzdéséhez.",
+            "ro": "Urcați pe traseele pitorești din Gle Bruk pentru a descoperi vederi panoramice ale coastei luxuriante și purtați bocanci de drumeție pentru a naviga în siguranță pe terenul abrupt.",
+            "en": "Hike up the scenic trails of Gle Bruk to discover panoramic views of the entire lush coastline, and wear sturdy hiking boots to safely navigate the occasionally steep terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Momong Beach",
+            "hu": "Momong strand",
+            "ro": "Plaja Momong",
+            "en": "Momong Beach"
+          },
+          "coords": [
+            95.225379,
+            5.499448
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand von Momong Beach, um atemberaubende Ausblicke zu genießen, und kommen Sie früh, um einen schattigen Platz zu sichern.",
+            "hu": "Pihenjen a Momong Beach érintetlen, fehér homokján, és élvezze a lélegzetelállító óceáni kilátást, de érkezzen kora reggel, hogy árnyékos helyet találjon a fák alatt.",
+            "ro": "Relaxați-vă pe nisipul alb imaculat al plajei Momong pentru a vă bucura de priveliștile oceanului și sosiți devreme pentru a prinde cel mai bun loc la umbra copacilor.",
+            "en": "Relax on the pristine white sands of Momong Beach to enjoy breathtaking ocean vistas, and arrive early in the morning to secure the perfect shaded spot beneath the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Fledermaushöhle",
+            "hu": "Denevérbarlang",
+            "ro": "Peștera Liliecilor",
+            "en": "Bat cave"
+          },
+          "coords": [
+            95.227528,
+            5.497075
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Kalksteinformationen dieser versteckten Fledermaushöhle mit ihrer einzigartigen Geologie, aber bringen Sie unbedingt eine Taschenlampe mit.",
+            "hu": "Fedezze fel ennek a rejtett denevérbarlangnak a lenyűgöző mészkőformációit, és csodálja meg a geológiáját, de a biztonságos felfedezéshez feltétlenül hozzon zseblámpát.",
+            "ro": "Explorați formațiunile fascinante de calcar ale acestei peșteri ascunse pentru a vedea geologia spectaculoasă, dar nu uitați să aduceți o lanternă puternică pentru siguranță.",
+            "en": "Explore the fascinating limestone formations of this hidden bat cave to witness incredible coastal geology, but be sure to bring a reliable flashlight for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Lampuuk",
+            "hu": "Pantai Lampuuk",
+            "ro": "Pantai Lampuuk",
+            "en": "Pantai Lampuuk"
+          },
+          "coords": [
+            95.227883,
+            5.489558
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die dramatische Küstenschönheit und die sanften Wellen von Pantai Lampuuk bei einem Strandspaziergang, wobei Sonnencreme aufgrund des fehlenden Schattens wichtig ist.",
+            "hu": "Tapasztalja meg a Pantai Lampuuk drámai szépségét és hullámait, amely ideális egy hosszú délutáni sétához, de a naptej elengedhetetlen, mivel alig van árnyék errefelé.",
+            "ro": "Bucurați-vă de frumusețea dramatică a coastei și de valurile de la Pantai Lampuuk, ideală pentru o plimbare, deși crema de protecție solară este esențială aici.",
+            "en": "Experience the dramatic coastal beauty and rolling waves of Pantai Lampuuk which is ideal for a long afternoon stroll, though sunscreen is essential as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Lhoknga",
+            "hu": "Pantai Lhoknga",
+            "ro": "Pantai Lhoknga",
+            "en": "Pantai Lhoknga"
+          },
+          "coords": [
+            95.232565,
+            5.47996
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Sonnenuntergänge von Pantai Lhoknga, einem wahren Paradies für Wassersportler, und mieten Sie Ihre Ausrüstung am besten direkt bei den Händlern.",
+            "hu": "Csodálja meg a Pantai Lhoknga látványos naplementéit és aranyhomokját, amely a vízisportok paradicsoma, így érdemes a közeli helyi árusoktól felszerelést bérelnie a nap folyamán.",
+            "ro": "Admirați apusurile spectaculoase și nisipul auriu de la Pantai Lhoknga, un adevărat paradis al sporturilor nautice, așa că închiriați echipament de la vânzătorii locali.",
+            "en": "Marvel at the spectacular sunsets and golden sands of Pantai Lhoknga, a true paradise for water sports enthusiasts, so consider renting equipment from the local vendors nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Surfspots",
+            "hu": "Szörfös szakaszok",
+            "ro": "Locuri de surf",
+            "en": "Surf breaks"
+          },
+          "coords": [
+            95.235758,
+            5.470923
+          ],
+          "category": "landmark",
+          "arrive_at": "15:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie Profisurfer, wie sie die legendären Wellen dieser berühmten Surfspots meistern, und bringen Sie unbedingt ein Teleobjektiv für die besten Action-Aufnahmen mit.",
+            "hu": "Nézze meg, ahogy a profi szörfösök megküzdenek a legendás hullámokkal ezeken a híres szakaszokon, és ne felejtsen el teleobjektívet hozni a legjobb akciófotók készítéséhez.",
+            "ro": "Priviți surferii profesioniști înfruntând valurile legendare ale acestor locuri celebre care oferă o energie incredibilă și aduceți un teleobiectiv pentru cele mai bune fotografii.",
+            "en": "Watch professional surfers tackle the legendary swells of these famous surf breaks that offer incredible ocean energy, and bring a telephoto lens for the best action shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den nördlichen Gipfeln des Gle Gire für einen belebenden Morgen in der Natur. Mittags unternehmen Sie eine malerische Fahrt entlang der Küste zu den Stränden. Verbringen Sie einen entspannten Nachmittag in der Sonne und erkunden Sie die Fledermaushöhle. Beenden Sie den Tag bei den Surfern.",
+        "hu": "Autózzon ki a Gle Gire északi csúcsaihoz egy frissítő, természetben töltött reggelért. Délben egy festői parti autózás köti össze a kilátókat a nyugodt strandokkal. Töltsön el egy pihentető délutánt a napozással és a Denevérbarlang felfedezésével. Zárja a napot a szörfösök esti hullámlovaglásának megtekintésével.",
+        "ro": "Mergeți cu mașina spre vârfurile nordice Gle Gire pentru o dimineață în natură. Prânzul vă aduce într-o plimbare scenică pe coastă, conectând puncte de belvedere și plaje. Petreceți o după-amiază relaxantă explorând celebra peșteră a liliecilor. Terminați-vă călătoria privind surferii pe valurile de seară.",
+        "en": "Drive out to the northern peaks of Gle Gire for an invigorating morning in nature. Midday takes you on a scenic coastal drive connecting lush viewpoints and serene beaches. Spend a relaxing afternoon soaking up the sun and exploring the famous Bat Cave. Finish your road trip watching surfers tackle the evening waves."
+      }
+    }
+  }
+}

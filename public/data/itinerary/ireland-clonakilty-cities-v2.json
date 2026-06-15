@@ -1,0 +1,543 @@
+{
+  "city_id": "ireland-clonakilty-cities-v2",
+  "anchor": {
+    "name": "Clonakilty",
+    "coords": [
+      -8.888395,
+      51.62578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kilgarriffe Church",
+            "hu": "Kilgarriffe Church",
+            "ro": "Kilgarriffe Church",
+            "en": "Kilgarriffe Church"
+          },
+          "coords": [
+            -8.889503,
+            51.623871
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und werfen Sie einen Blick auf das Informationsbrett für lokale Chorveranstaltungen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és mindenképpen pillantson rá a hirdetőtáblára a helyi kórusok eseményeiért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să verificați avizierul pentru evenimente corale locale.",
+            "en": "Admire the striking architecture of this historic church and be sure to check the noticeboard for local choral events or community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Michael Collins Denkmal",
+            "hu": "Michael Collins szobor",
+            "ro": "Statuia lui Michael Collins",
+            "en": "Michael Collins Statue"
+          },
+          "coords": [
+            -8.891519,
+            51.62245
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem beeindruckenden Denkmal für den irischen Anführer die Ehre und kommen Sie früh am Tag, um die besten Fotos ohne Menschenmassen zu machen.",
+            "hu": "Tisztelegjen az ír vezetőnek szentelt lenyűgöző emlékműnél, és próbáljon meg korán érkezni, hogy tömeg nélkül készíthesse a legjobb fotókat.",
+            "ro": "Aduceți un omagiu la acest monument impresionant dedicat liderului irlandez și încercați să ajungeți dimineața devreme pentru cele mai bune fotografii.",
+            "en": "Pay your respects at this impressive monument dedicated to the Irish leader, and try to visit early in the day for the best photos without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Deasys Old Brewery",
+            "hu": "Deasys Old Brewery",
+            "ro": "Deasys Old Brewery",
+            "en": "Deasys Old Brewery"
+          },
+          "coords": [
+            -8.893149,
+            51.622437
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Fassade dieser ehemaligen Brauerei und achten Sie auf die alten Steinarbeiten, die auf Clonakiltys industrielle Vergangenheit hinweisen.",
+            "hu": "Fedezze fel ezen egykori sörfőzde történelmi külsejét, és figyelje meg a régi kőfaragásokat, amelyek Clonakilty ipari múltjára utalnak.",
+            "ro": "Explorați exteriorul istoric al acestei foste fabrici de bere și fiți atenți la detaliile vechii zidării care sugerează trecutul industrial al orașului.",
+            "en": "Explore the historic exterior of this former brewing site and look out for the old stonework details that hint at Clonakilty's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Methodistenkirche Clonakilty",
+            "hu": "Clonakilty-i metodista templom",
+            "ro": "Biserica Metodistă din Clonakilty",
+            "en": "Clonakilty Methodist Church"
+          },
+          "coords": [
+            -8.890074,
+            51.622109
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser wunderschön erhaltenen Kirche und beachten Sie die eleganten Buntglasfenster.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a gyönyörűen megőrzött templomban, és figyelje meg az elegáns ólomüveg ablakokat.",
+            "ro": "Bucurați-vă de un moment de reflecție liniștită în interiorul acestei biserici frumos conservate, observând vitraliile elegante înainte de a continua.",
+            "en": "Take a moment of quiet reflection inside this beautifully preserved church, noting the elegant stained glass windows before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Brennerei",
+            "hu": "Clonakilty Lepárló",
+            "ro": "Distileria Clonakilty",
+            "en": "Clonakilty Distillery"
+          },
+          "coords": [
+            -8.88618,
+            51.621455
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um zu sehen, wie der Premium-Whiskey hergestellt wird, und buchen Sie Ihre Verkostung im Sommer unbedingt im Voraus.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a prémium whisky készítését, és a nyári hónapokban ne felejtse el előre lefoglalni a kóstolót.",
+            "ro": "Alăturați-vă unui tur ghidat pentru a vedea cum se produce acest whiskey premium și nu uitați să rezervați degustarea în avans în timpul verii.",
+            "en": "Join a guided tour to see how their premium whiskey is crafted, and remember to book your tasting session in advance during peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "West Cork Modelleisenbahndorf",
+            "hu": "West Cork Vasútmodell Falu",
+            "ro": "Satul în miniatură West Cork",
+            "en": "West Cork Model Railway Village"
+          },
+          "coords": [
+            -8.881559,
+            51.620408
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Miniaturnachbildungen der Städte von West Cork und steigen Sie in den Straßenzug für einen entspannten Überblick über die Bucht.",
+            "hu": "Fedezze fel Nyugat-Cork városainak bájos miniatűr másolatait, és szálljon fel a kisvonatra, hogy szórakoztató módon áttekintse az öböl környékét.",
+            "ro": "Descoperiți machetele fermecătoare ale orașelor din West Cork și urcați în trenulețul rutier pentru o vedere de ansamblu relaxantă a golfului.",
+            "en": "Discover the charming miniature replicas of West Cork towns and hop on the road train for a fun, relaxed overview of the surrounding bay area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit der Erkundung des spirituellen und historischen Kerns von Clonakilty.\nMittag: Gehen Sie weiter durch die charmanten Straßen, um das industrielle Erbe der alten Brauerei und die Denkmäler zu entdecken.\nNachmittag: Der Nachmittag lädt Sie ein, die reichen Aromen einer lokalen Brennerei zu genießen, bevor Sie zum Wasser aufbrechen.\nAbend: Beenden Sie Ihren Rundgang mit einem staunenden Blick auf das Miniaturdorf und lassen Sie den Tag gemütlich ausklingen.",
+        "hu": "Délelőtt: Kezdje a napot Clonakilty spirituális és történelmi központjának felfedezésével.\nDélben: Sétáljon végig a hangulatos utcákon, és fedezze fel a régi sörfőzde ipari örökségét és a helyi emlékműveket.\nDélután: A délután folyamán élvezze a helyi lepárló gazdag ízeit, mielőtt a vízpart felé venné az irányt.\nEste: Zárja sétáját a bonyolult miniatűr falu megcsodálásával, és gondoljon vissza Nyugat-Cork szépségeire.",
+        "ro": "Dimineața: Începeți ziua explorând nucleul spiritual și istoric al orașului Clonakilty.\nPrânz: Continuați prin străzile fermecătoare pentru a descoperi moștenirea industrială la vechea fabrică de bere și monumentele.\nDupă-amiaza: După-amiaza vă invită să savurați aromele bogate ale unei distilerii locale înainte de a vă îndrepta spre faleză.\nSeara: Încheiați-vă turul pietonal admirând satul în miniatură, reflectând la frumusețea zonei West Cork la lăsarea serii.",
+        "en": "Morning: Start the day exploring the spiritual and historical core of Clonakilty.\nMidday: Continue through the charming streets to uncover the industrial heritage at the old brewery and the vibrant local monuments.\nAfternoon: The afternoon invites you to savor the rich flavors of a local distillery before heading towards the waterfront.\nEvening: End your walking tour marveling at the intricate miniature village, reflecting on the beauty of West Cork as the day winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:04",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinkreis von Templebryan",
+            "hu": "Templebryan kőkör",
+            "ro": "Cercul de pietre Templebryan",
+            "en": "Templebryan Stone Circle"
+          },
+          "coords": [
+            -8.883376,
+            51.643142
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser mysteriösen Megalithanlage in die antike Geschichte ein und tragen Sie festes, wasserdichtes Schuhwerk, da das Feld matschig sein kann.",
+            "hu": "Lépjen vissza a történelembe ezen a titokzatos megalitikus helyszínen, és viseljen vízálló cipőt, mivel a környező mező meglehetősen sáros lehet.",
+            "ro": "Întoarceți-vă în timp la acest sit megalitic misterios și purtați încălțăminte rezistentă la apă, deoarece câmpul înconjurător poate fi destul de noroios.",
+            "en": "Step back into ancient history at this mysterious megalithic site, and wear sturdy waterproof shoes as the surrounding field can get quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kilgarriffe Church",
+            "hu": "Kilgarriffe Church",
+            "ro": "Kilgarriffe Church",
+            "en": "Kilgarriffe Church"
+          },
+          "coords": [
+            -8.889503,
+            51.623871
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und werfen Sie einen Blick auf das Informationsbrett für lokale Chorveranstaltungen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és mindenképpen pillantson rá a hirdetőtáblára a helyi kórusok eseményeiért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să verificați avizierul pentru evenimente corale locale.",
+            "en": "Admire the striking architecture of this historic church and be sure to check the noticeboard for local choral events or community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Michael Collins Denkmal",
+            "hu": "Michael Collins szobor",
+            "ro": "Statuia lui Michael Collins",
+            "en": "Michael Collins Statue"
+          },
+          "coords": [
+            -8.891519,
+            51.62245
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem beeindruckenden Denkmal für den irischen Anführer die Ehre und kommen Sie früh am Tag, um die besten Fotos ohne Menschenmassen zu machen.",
+            "hu": "Tisztelegjen az ír vezetőnek szentelt lenyűgöző emlékműnél, és próbáljon meg korán érkezni, hogy tömeg nélkül készíthesse a legjobb fotókat.",
+            "ro": "Aduceți un omagiu la acest monument impresionant dedicat liderului irlandez și încercați să ajungeți dimineața devreme pentru cele mai bune fotografii.",
+            "en": "Pay your respects at this impressive monument dedicated to the Irish leader, and try to visit early in the day for the best photos without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Methodistenkirche Clonakilty",
+            "hu": "Clonakilty-i metodista templom",
+            "ro": "Biserica Metodistă din Clonakilty",
+            "en": "Clonakilty Methodist Church"
+          },
+          "coords": [
+            -8.890074,
+            51.622109
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser wunderschön erhaltenen Kirche und beachten Sie die eleganten Buntglasfenster.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a gyönyörűen megőrzött templomban, és figyelje meg az elegáns ólomüveg ablakokat.",
+            "ro": "Bucurați-vă de un moment de reflecție liniștită în interiorul acestei biserici frumos conservate, observând vitraliile elegante înainte de a continua.",
+            "en": "Take a moment of quiet reflection inside this beautifully preserved church, noting the elegant stained glass windows before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Brennerei",
+            "hu": "Clonakilty Lepárló",
+            "ro": "Distileria Clonakilty",
+            "en": "Clonakilty Distillery"
+          },
+          "coords": [
+            -8.88618,
+            51.621455
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um zu sehen, wie der Premium-Whiskey hergestellt wird, und buchen Sie Ihre Verkostung im Sommer unbedingt im Voraus.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a prémium whisky készítését, és a nyári hónapokban ne felejtse el előre lefoglalni a kóstolót.",
+            "ro": "Alăturați-vă unui tur ghidat pentru a vedea cum se produce acest whiskey premium și nu uitați să rezervați degustarea în avans în timpul verii.",
+            "en": "Join a guided tour to see how their premium whiskey is crafted, and remember to book your tasting session in advance during peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "West Cork Modelleisenbahndorf",
+            "hu": "West Cork Vasútmodell Falu",
+            "ro": "Satul în miniatură West Cork",
+            "en": "West Cork Model Railway Village"
+          },
+          "coords": [
+            -8.881559,
+            51.620408
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Miniaturnachbildungen der Städte von West Cork und steigen Sie in den Straßenzug für einen entspannten Überblick über die Bucht.",
+            "hu": "Fedezze fel Nyugat-Cork városainak bájos miniatűr másolatait, és szálljon fel a kisvonatra, hogy szórakoztató módon áttekintse az öböl környékét.",
+            "ro": "Descoperiți machetele fermecătoare ale orașelor din West Cork și urcați în trenulețul rutier pentru o vedere de ansamblu relaxantă a golfului.",
+            "en": "Discover the charming miniature replicas of West Cork towns and hop on the road train for a fun, relaxed overview of the surrounding bay area."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Blackpudding Besucherzentrum",
+            "hu": "Clonakilty Blackpudding Látogatóközpont",
+            "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+            "en": "Clonakilty Blackpudding Visitor Centre"
+          },
+          "coords": [
+            -8.904021,
+            51.619753
+          ],
+          "category": "landmark",
+          "arrive_at": "15:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch interaktive Ausstellungen die geheime Geschichte von Irlands berühmtestem Black Pudding und heben Sie sich Ihren Appetit für die Kostproben auf.",
+            "hu": "Ismerje meg Írország leghíresebb véres hurkájának titkos történetét az interaktív kiállításokon, és hagyjon helyet a végén kínált finom kóstolóknak.",
+            "ro": "Aflați istoria secretă a celei mai faimoase budinci negre din Irlanda prin expozițiile lor interactive și păstrați-vă pofta de mâncare pentru degustările delicioase.",
+            "en": "Learn the secret history of Ireland's most famous black pudding through their interactive exhibits, and save your appetite for the delicious samples at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zu den mystischen stehenden Steinen, bevor Sie ins Stadtzentrum zurückkehren, um die religiöse Geschichte zu erleben.\nMittag: Fahren Sie durch das belebte Herz von Clonakilty und würdigen Sie historische Persönlichkeiten und architektonische Juwelen.\nNachmittag: Steigen Sie auf Ihr Fahrrad, um die berühmte lokale Brennerei und das bezaubernde Modelleisenbahndorf an der Bucht zu besuchen.\nAbend: Beenden Sie Ihre Fahrt im Besucherzentrum, um mehr über den kulinarischen Stolz der Region zu erfahren.",
+        "hu": "Délelőtt: Kerékpározzon el a misztikus állókövekhez, mielőtt visszatérne a városközpontba egy kis vallástörténetért.\nDélben: Tekerjen át Clonakilty nyüzsgő szívén, tisztelegve a történelmi alakok és építészeti gyöngyszemek előtt.\nDélután: Pattanjon kerékpárra, és látogassa meg a híres helyi lepárlót és az öböl melletti elragadó vasútmodell-falut.\nEste: Fejezze be az utat a látogatóközpontban, ismerje meg a régió kulináris büszkeségét, és jutalmazza meg magát egy kóstolóval.",
+        "ro": "Dimineața: Mergeți cu bicicleta până la pietrele mistice înainte de a vă întoarce în centrul orașului pentru a-i vedea istoria religioasă.\nPrânz: Pedalați prin inima plină de viață a orașului Clonakilty, aducând un omagiu figurilor istorice și bijuteriilor arhitecturale.\nDupă-amiaza: Urcați pe bicicletă pentru a vizita faimoasa distilerie locală și încântătorul sat în miniatură de pe malul golfului.\nSeara: Încheiați plimbarea la centrul de vizitatori pentru a afla despre mândria culinară a regiunii și răsfățați-vă cu o degustare.",
+        "en": "Morning: Cycle out to the mystical standing stones before returning to the town center for a glimpse into its religious history.\nMidday: Ride through the bustling heart of Clonakilty, paying tribute to historical figures and architectural gems.\nAfternoon: Hop on your bike to visit the famous local distillery and the delightful model railway village by the bay.\nEvening: Finish your ride at the visitor centre to learn about the region's culinary pride and treat yourself to a well-earned tasting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:14",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Steinkreis von Templebryan",
+            "hu": "Templebryan kőkör",
+            "ro": "Cercul de pietre Templebryan",
+            "en": "Templebryan Stone Circle"
+          },
+          "coords": [
+            -8.883376,
+            51.643142
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser mysteriösen Megalithanlage in die antike Geschichte ein und tragen Sie festes, wasserdichtes Schuhwerk, da das Feld matschig sein kann.",
+            "hu": "Lépjen vissza a történelembe ezen a titokzatos megalitikus helyszínen, és viseljen vízálló cipőt, mivel a környező mező meglehetősen sáros lehet.",
+            "ro": "Întoarceți-vă în timp la acest sit megalitic misterios și purtați încălțăminte rezistentă la apă, deoarece câmpul înconjurător poate fi destul de noroios.",
+            "en": "Step back into ancient history at this mysterious megalithic site, and wear sturdy waterproof shoes as the surrounding field can get quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kilgarriffe Church",
+            "hu": "Kilgarriffe Church",
+            "ro": "Kilgarriffe Church",
+            "en": "Kilgarriffe Church"
+          },
+          "coords": [
+            -8.889503,
+            51.623871
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und werfen Sie einen Blick auf das Informationsbrett für lokale Chorveranstaltungen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és mindenképpen pillantson rá a hirdetőtáblára a helyi kórusok eseményeiért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să verificați avizierul pentru evenimente corale locale.",
+            "en": "Admire the striking architecture of this historic church and be sure to check the noticeboard for local choral events or community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Deasys Old Brewery",
+            "hu": "Deasys Old Brewery",
+            "ro": "Deasys Old Brewery",
+            "en": "Deasys Old Brewery"
+          },
+          "coords": [
+            -8.893149,
+            51.622437
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Fassade dieser ehemaligen Brauerei und achten Sie auf die alten Steinarbeiten, die auf Clonakiltys industrielle Vergangenheit hinweisen.",
+            "hu": "Fedezze fel ezen egykori sörfőzde történelmi külsejét, és figyelje meg a régi kőfaragásokat, amelyek Clonakilty ipari múltjára utalnak.",
+            "ro": "Explorați exteriorul istoric al acestei foste fabrici de bere și fiți atenți la detaliile vechii zidării care sugerează trecutul industrial al orașului.",
+            "en": "Explore the historic exterior of this former brewing site and look out for the old stonework details that hint at Clonakilty's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Methodistenkirche Clonakilty",
+            "hu": "Clonakilty-i metodista templom",
+            "ro": "Biserica Metodistă din Clonakilty",
+            "en": "Clonakilty Methodist Church"
+          },
+          "coords": [
+            -8.890074,
+            51.622109
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser wunderschön erhaltenen Kirche und beachten Sie die eleganten Buntglasfenster.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a gyönyörűen megőrzött templomban, és figyelje meg az elegáns ólomüveg ablakokat.",
+            "ro": "Bucurați-vă de un moment de reflecție liniștită în interiorul acestei biserici frumos conservate, observând vitraliile elegante înainte de a continua.",
+            "en": "Take a moment of quiet reflection inside this beautifully preserved church, noting the elegant stained glass windows before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Brennerei",
+            "hu": "Clonakilty Lepárló",
+            "ro": "Distileria Clonakilty",
+            "en": "Clonakilty Distillery"
+          },
+          "coords": [
+            -8.88618,
+            51.621455
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Führung teil, um zu sehen, wie der Premium-Whiskey hergestellt wird, und buchen Sie Ihre Verkostung im Sommer unbedingt im Voraus.",
+            "hu": "Vegyen részt egy vezetett túrán, hogy megnézze a prémium whisky készítését, és a nyári hónapokban ne felejtse el előre lefoglalni a kóstolót.",
+            "ro": "Alăturați-vă unui tur ghidat pentru a vedea cum se produce acest whiskey premium și nu uitați să rezervați degustarea în avans în timpul verii.",
+            "en": "Join a guided tour to see how their premium whiskey is crafted, and remember to book your tasting session in advance during peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "West Cork Modelleisenbahndorf",
+            "hu": "West Cork Vasútmodell Falu",
+            "ro": "Satul în miniatură West Cork",
+            "en": "West Cork Model Railway Village"
+          },
+          "coords": [
+            -8.881559,
+            51.620408
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Miniaturnachbildungen der Städte von West Cork und steigen Sie in den Straßenzug für einen entspannten Überblick über die Bucht.",
+            "hu": "Fedezze fel Nyugat-Cork városainak bájos miniatűr másolatait, és szálljon fel a kisvonatra, hogy szórakoztató módon áttekintse az öböl környékét.",
+            "ro": "Descoperiți machetele fermecătoare ale orașelor din West Cork și urcați în trenulețul rutier pentru o vedere de ansamblu relaxantă a golfului.",
+            "en": "Discover the charming miniature replicas of West Cork towns and hop on the road train for a fun, relaxed overview of the surrounding bay area."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Blackpudding Besucherzentrum",
+            "hu": "Clonakilty Blackpudding Látogatóközpont",
+            "ro": "Centrul de vizitatori Clonakilty Blackpudding",
+            "en": "Clonakilty Blackpudding Visitor Centre"
+          },
+          "coords": [
+            -8.904021,
+            51.619753
+          ],
+          "category": "landmark",
+          "arrive_at": "16:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch interaktive Ausstellungen die geheime Geschichte von Irlands berühmtestem Black Pudding und heben Sie sich Ihren Appetit für die Kostproben auf.",
+            "hu": "Ismerje meg Írország leghíresebb véres hurkájának titkos történetét az interaktív kiállításokon, és hagyjon helyet a végén kínált finom kóstolóknak.",
+            "ro": "Aflați istoria secretă a celei mai faimoase budinci negre din Irlanda prin expozițiile lor interactive și păstrați-vă pofta de mâncare pentru degustările delicioase.",
+            "en": "Learn the secret history of Ireland's most famous black pudding through their interactive exhibits, and save your appetite for the delicious samples at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Clonakilty Park Health & Leisure Club",
+            "hu": "Clonakilty Park Health & Leisure Club",
+            "ro": "Clonakilty Park Health & Leisure Club",
+            "en": "Clonakilty Park Health & Leisure Club"
+          },
+          "coords": [
+            -8.895295,
+            51.616671
+          ],
+          "category": "recreational",
+          "arrive_at": "18:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach einem langen Tag voller Besichtigungen bei einem erfrischenden Bad oder einem Saunagang, aber bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Pihenje ki a hosszú városnézést egy frissítő úszással vagy szaunázással, de ne felejtse el magával hozni saját törölközőjét a bérleti díjak elkerülése végett.",
+            "ro": "Relaxați-vă după o zi lungă de vizitare cu o baie revigorantă sau o sesiune de saună aici, dar amintiți-vă să aduceți propriul prosop pentru a evita taxele.",
+            "en": "Unwind after a long day of sightseeing with a refreshing swim or sauna session here, but remember to bring your own towel to avoid rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie hinauf zum alten Steinkreis, um Ihren Tag mit einem Hauch von Vorgeschichte zu beginnen, bevor Sie in die Stadt hinabfahren.\nMittag: Parken Sie im Zentrum, um bequem zwischen Kirchen, alten Industrieanlagen und modernen Attraktionen hin und her zu wechseln.\nNachmittag: Machen Sie eine kurze Fahrt zum Modelleisenbahndorf und fahren Sie dann nach Westen, um die Geheimnisse des Black Puddings zu entdecken.\nAbend: Beenden Sie Ihre ausgedehnte Autotour mit einer entspannenden und erholsamen Sitzung im örtlichen Gesundheits- und Freizeitclub.",
+        "hu": "Délelőtt: Vezessen fel az ősi kőkörhöz, hogy egy kis őstörténettel indítsa a napot, mielőtt leereszkedne a városba.\nDélben: Parkoljon le a központban, hogy kényelmesen ugrálhasson a templomok, régi ipari helyszínek és modern látványosságok között.\nDélután: Tegyen egy rövid utat a vasútmodell-faluhoz, majd vegye az irányt nyugat felé, hogy felfedezze a híres véres hurka titkait.\nEste: Zárja tartalmas autós túráját egy pihentető és regeneráló kikapcsolódással a helyi egészség- és szabadidőklubban.",
+        "ro": "Dimineața: Conduceți până la cercul de pietre antic pentru a vă începe ziua cu o notă de preistorie înainte de a coborî în oraș.\nPrânz: Parcați în centru pentru a vă deplasa confortabil între biserici, vechi situri industriale și atracții moderne.\nDupă-amiaza: Faceți o scurtă plimbare până la satul în miniatură și apoi mergeți spre vest pentru a descoperi secretele faimoasei budinci negre.\nSeara: Încheiați-vă turul auto plin de forță cu o sesiune relaxantă și revigorantă la clubul local de sănătate și agrement.",
+        "en": "Morning: Drive up to the ancient stone circle to start your day with a touch of prehistory before descending into the town.\nMidday: Park in the center to comfortably hop between churches, old industrial sites, and modern attractions.\nAfternoon: Take a short drive to the model railway village and then head west to uncover the secrets of the famous black pudding.\nEvening: Conclude your robust driving tour with a relaxing and restorative session at the local health and leisure club."
+      }
+    }
+  }
+}

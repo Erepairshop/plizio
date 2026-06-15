@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-petrochori-cities-v2",
+  "anchor": {
+    "name": "Petrochori",
+    "coords": [
+      21.66259,
+      36.98075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Petrochori Strand",
+            "hu": "Petrochori strand",
+            "ro": "Plaja Petrochori",
+            "en": "Petrochori Beach"
+          },
+          "coords": [
+            21.655828,
+            36.978981
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses malerischen lokalen Strandes mit goldenem Sand, wo ein eigener Sonnenschirm am Nachmittag für angenehmen Schatten sorgt.",
+            "hu": "Élvezze a festői helyi strand nyugodt hangulatát és aranyhomokját, ahová érdemes saját napernyőt hozni, hogy kényelmes árnyékot biztosítson magának délutánra.",
+            "ro": "Bucurați-vă de vibrația liniștită a acestei plaje locale pitorești cu nisip auriu, unde aducerea propriei umbrele vă va asigura o umbră confortabilă după-amiaza.",
+            "en": "Enjoy the tranquil vibe of this picturesque local beach featuring golden sands, where bringing your own umbrella will ensure comfortable shade throughout the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            21.657779,
+            36.975875
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die herrliche Küstenaussicht von diesem charmanten Ort aus und nutzen Sie das ruhige Wasser für ein erfrischendes morgendliches Schwimmen.",
+            "hu": "Csodálja meg a festői tengerparti kilátást erről a bájos helyről, és használja ki a nyugodt vizet egy frissítő reggeli úszásra a déli hőség beállta előtt.",
+            "ro": "Admirați priveliștile de coastă pitorești din acest loc fermecător și folosiți apele calme pentru o înotare răcoroasă dimineața înainte ca soarele să ardă.",
+            "en": "Admire the scenic coastal views from this charming spot, and use the calm waters for a refreshing morning swim before the midday sun gets too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Glossa Strand (FKK)",
+            "hu": "Glossa strand (nudista)",
+            "ro": "Plaja Glossa (nudiști)",
+            "en": "Glossa Beach (nudist)"
+          },
+          "coords": [
+            21.658967,
+            36.966577
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die abgeschiedene und befreiende Atmosphäre dieser kleinen Bucht, aber packen Sie ausreichend Trinkwasser ein, da es keine Einrichtungen gibt.",
+            "hu": "Tapasztalja meg ennek a félreeső, ruhátlan fürdőzést is engedélyező öbölnek a felszabadító légkörét, de vigyen magával bőséges ivóvizet a hiányzó infrastruktúra miatt.",
+            "ro": "Experimentați atmosfera retrasă și eliberatoare a acestui golf opțional pentru haine, dar luați multă apă de băut, deoarece nu există facilități disponibile în apropiere.",
+            "en": "Experience the secluded and liberating atmosphere of this clothing-optional cove, but pack plenty of drinking water as there are no facilities available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab des Thrasymedes",
+            "hu": "Thraszimédész sírja",
+            "ro": "Mormântul lui Thrasymedes",
+            "en": "Grave of Thrasimides"
+          },
+          "coords": [
+            21.660352,
+            36.965388
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bedeutenden archäologischen Wahrzeichen der antiken Mythologie und nehmen Sie sich einen Moment Zeit, um den weiten Blick zu fotografieren.",
+            "hu": "Álljon meg ennél az ősi mitológiához kapcsolódó, jelentős régészeti nevezetességnél, és szánjon egy percet a szomszédos öbölre nyíló fenséges kilátás lefotózására.",
+            "ro": "Opriți-vă la acest punct de reper arheologic semnificativ legat de mitologia antică și faceți-vă timp pentru a fotografia priveliștea impunătoare asupra golfului.",
+            "en": "Pause at this significant archaeological landmark connected to ancient mythology, and take a moment to photograph the commanding view over the adjacent bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Voidokilia Strand",
+            "hu": "Voidokilia strand",
+            "ro": "Plaja Voidokilia",
+            "en": "Voidokilia Beach"
+          },
+          "coords": [
+            21.661706,
+            36.963887
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die perfekte halbkreisförmige Bucht und wandern Sie die angrenzenden Dünen hinauf, um das ikonische Panorama einzufangen, bevor Sie schwimmen gehen.",
+            "hu": "Csodálja meg ennek a világhírű öbölnek a tökéletes félkör alakját, és másszon fel a szomszédos dűnékre az ikonikus panoráma megörökítéséhez, mielőtt úszni indulna.",
+            "ro": "Minunați-vă de forma perfect semicirculară a acestui golf de faimă mondială și urcați pe dunele adiacente pentru a surprinde panorama iconică înainte de a înota.",
+            "en": "Marvel at the perfect semicircular shape of this world-famous bay, and hike up the adjacent dunes to capture the iconic panorama before settling down to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Nestorhöhle",
+            "hu": "Nesztór barlangja",
+            "ro": "Peștera lui Nestor",
+            "en": "Nestor's Cave"
+          },
+          "coords": [
+            21.657657,
+            36.959835
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie den steilen Weg hinauf, um diese legendäre mythische Höhle zu betreten, und achten Sie auf Ihre Schritte, da die alten Steinstufen rutschig sein können.",
+            "hu": "Másszon fel a meredek, de hálás ösvényen ebbe a legendás mitikus barlangba, ügyelve a lépéseire, mivel az ősi kőlépcsők meglehetősen csúszósak lehetnek.",
+            "ro": "Urcați pe cărarea abruptă, dar plină de satisfacții, pentru a intra în această legendară peșteră mitică, având grijă la pași, deoarece treptele vechi pot fi alunecoase.",
+            "en": "Climb the steep but rewarding path to enter this legendary mythical cavern, taking care of your footing as the ancient stone steps can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokastro",
+            "hu": "Palaiokastro",
+            "ro": "Palaiokastro",
+            "en": "Palaiokastro"
+          },
+          "coords": [
+            21.657131,
+            36.958873
+          ],
+          "category": "castle",
+          "arrive_at": "13:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erobern Sie die zerfallenden Ruinen dieser mittelalterlichen Festung für atemberaubende Sonnenuntergänge über dem Ionischen Meer und steigen Sie bei Tageslicht sicher ab.",
+            "hu": "Hódítsa meg ennek a középkori erődítménynek az omladozó romjait a lélegzetelállító jón-tengeri naplemente miatt, ügyelve arra, hogy még világosban biztonságosan leérjen.",
+            "ro": "Cuceriți ruinele sfărâmate ale acestei cetăți medievale pentru priveliști uluitoare ale apusului peste Marea Ionică, asigurându-vă că aveți lumina zilei pentru a coborî.",
+            "en": "Conquer the crumbling ruins of this medieval fortress to earn breathtaking sunset views over the Ionian Sea, making sure you have enough daylight to descend safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der frischen Meeresluft entlang der Küstenabschnitte. Das weiche Morgenlicht beleuchtet die Sandstrände und lädt zu einem friedlichen Spaziergang oder einem frühen Bad im kristallklaren Wasser ein, bevor die Massen ankommen.\nMidday: Wenn die Sonne ihren Höhepunkt erreicht, wechseln Sie von den entspannenden Ufern zur Erkundung versteckter Buchten und alter Pfade. Die dramatische Küste bietet unvergleichliche Ausblicke auf den Kontrast zwischen blauem Meer und schroffen Klippen.\nAfternoon: Widmen Sie den späten Nachmittag einer Reise in die Vergangenheit. Wandern Sie auf felsigen Pfaden zu mythologischen Stätten und historischen Ruinen. Eine kühlende Brise bringt Erleichterung, während Sie die Geheimnisse antiker Legenden entdecken.\nEvening: Beenden Sie Ihre Reise auf den höchsten Aussichtspunkten, wenn der Himmel in Farben erstrahlt. Der Panoramablick auf den Sonnenuntergang über dem Ionischen Meer von den mittelalterlichen Festungsruinen bietet ein unvergessliches Finale Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
+        "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
+        "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Romanos Strand",
+            "hu": "Romanos strand",
+            "ro": "Plaja Romanos",
+            "en": "Romanos Beach"
+          },
+          "coords": [
+            21.654093,
+            36.983191
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit kristallklarem Wasser und kommen Sie früh, um einen tollen Platz abseits der belebten Resorts zu sichern.",
+            "hu": "Pihenjen ezen a kristálytiszta vizű, kiterjedt homokos partszakaszon, és érkezzen korán, hogy remek helyet biztosítson magának távol a nyüzsgő üdülőközönségtől.",
+            "ro": "Relaxați-vă pe această întindere vastă de nisip cu ape cristaline și ajungeți devreme pentru a vă asigura un loc grozav departe de aglomerația stațiunilor.",
+            "en": "Relax on this expansive sandy stretch offering crystal-clear waters, and arrive early in the day to secure a great spot away from the bustling resort crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrochori Strand",
+            "hu": "Petrochori strand",
+            "ro": "Plaja Petrochori",
+            "en": "Petrochori Beach"
+          },
+          "coords": [
+            21.655828,
+            36.978981
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses malerischen lokalen Strandes mit goldenem Sand, wo ein eigener Sonnenschirm am Nachmittag für angenehmen Schatten sorgt.",
+            "hu": "Élvezze a festői helyi strand nyugodt hangulatát és aranyhomokját, ahová érdemes saját napernyőt hozni, hogy kényelmes árnyékot biztosítson magának délutánra.",
+            "ro": "Bucurați-vă de vibrația liniștită a acestei plaje locale pitorești cu nisip auriu, unde aducerea propriei umbrele vă va asigura o umbră confortabilă după-amiaza.",
+            "en": "Enjoy the tranquil vibe of this picturesque local beach featuring golden sands, where bringing your own umbrella will ensure comfortable shade throughout the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            21.657779,
+            36.975875
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die herrliche Küstenaussicht von diesem charmanten Ort aus und nutzen Sie das ruhige Wasser für ein erfrischendes morgendliches Schwimmen.",
+            "hu": "Csodálja meg a festői tengerparti kilátást erről a bájos helyről, és használja ki a nyugodt vizet egy frissítő reggeli úszásra a déli hőség beállta előtt.",
+            "ro": "Admirați priveliștile de coastă pitorești din acest loc fermecător și folosiți apele calme pentru o înotare răcoroasă dimineața înainte ca soarele să ardă.",
+            "en": "Admire the scenic coastal views from this charming spot, and use the calm waters for a refreshing morning swim before the midday sun gets too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Voidokilia Strand",
+            "hu": "Voidokilia strand",
+            "ro": "Plaja Voidokilia",
+            "en": "Voidokilia Beach"
+          },
+          "coords": [
+            21.661706,
+            36.963887
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die perfekte halbkreisförmige Bucht und wandern Sie die angrenzenden Dünen hinauf, um das ikonische Panorama einzufangen, bevor Sie schwimmen gehen.",
+            "hu": "Csodálja meg ennek a világhírű öbölnek a tökéletes félkör alakját, és másszon fel a szomszédos dűnékre az ikonikus panoráma megörökítéséhez, mielőtt úszni indulna.",
+            "ro": "Minunați-vă de forma perfect semicirculară a acestui golf de faimă mondială și urcați pe dunele adiacente pentru a surprinde panorama iconică înainte de a înota.",
+            "en": "Marvel at the perfect semicircular shape of this world-famous bay, and hike up the adjacent dunes to capture the iconic panorama before settling down to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Nestorhöhle",
+            "hu": "Nesztór barlangja",
+            "ro": "Peștera lui Nestor",
+            "en": "Nestor's Cave"
+          },
+          "coords": [
+            21.657657,
+            36.959835
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie den steilen Weg hinauf, um diese legendäre mythische Höhle zu betreten, und achten Sie auf Ihre Schritte, da die alten Steinstufen rutschig sein können.",
+            "hu": "Másszon fel a meredek, de hálás ösvényen ebbe a legendás mitikus barlangba, ügyelve a lépéseire, mivel az ősi kőlépcsők meglehetősen csúszósak lehetnek.",
+            "ro": "Urcați pe cărarea abruptă, dar plină de satisfacții, pentru a intra în această legendară peșteră mitică, având grijă la pași, deoarece treptele vechi pot fi alunecoase.",
+            "en": "Climb the steep but rewarding path to enter this legendary mythical cavern, taking care of your footing as the ancient stone steps can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokastro",
+            "hu": "Palaiokastro",
+            "ro": "Palaiokastro",
+            "en": "Palaiokastro"
+          },
+          "coords": [
+            21.657131,
+            36.958873
+          ],
+          "category": "castle",
+          "arrive_at": "13:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erobern Sie die zerfallenden Ruinen dieser mittelalterlichen Festung für atemberaubende Sonnenuntergänge über dem Ionischen Meer und steigen Sie bei Tageslicht sicher ab.",
+            "hu": "Hódítsa meg ennek a középkori erődítménynek az omladozó romjait a lélegzetelállító jón-tengeri naplemente miatt, ügyelve arra, hogy még világosban biztonságosan leérjen.",
+            "ro": "Cuceriți ruinele sfărâmate ale acestei cetăți medievale pentru priveliști uluitoare ale apusului peste Marea Ionică, asigurându-vă că aveți lumina zilei pentru a coborî.",
+            "en": "Conquer the crumbling ruins of this medieval fortress to earn breathtaking sunset views over the Ionian Sea, making sure you have enough daylight to descend safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der frischen Meeresluft entlang der Küstenabschnitte. Das weiche Morgenlicht beleuchtet die Sandstrände und lädt zu einem friedlichen Spaziergang oder einem frühen Bad im kristallklaren Wasser ein, bevor die Massen ankommen.\nMidday: Wenn die Sonne ihren Höhepunkt erreicht, wechseln Sie von den entspannenden Ufern zur Erkundung versteckter Buchten und alter Pfade. Die dramatische Küste bietet unvergleichliche Ausblicke auf den Kontrast zwischen blauem Meer und schroffen Klippen.\nAfternoon: Widmen Sie den späten Nachmittag einer Reise in die Vergangenheit. Wandern Sie auf felsigen Pfaden zu mythologischen Stätten und historischen Ruinen. Eine kühlende Brise bringt Erleichterung, während Sie die Geheimnisse antiker Legenden entdecken.\nEvening: Beenden Sie Ihre Reise auf den höchsten Aussichtspunkten, wenn der Himmel in Farben erstrahlt. Der Panoramablick auf den Sonnenuntergang über dem Ionischen Meer von den mittelalterlichen Festungsruinen bietet ein unvergessliches Finale Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
+        "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
+        "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mykenisches Kuppelgrab",
+            "hu": "Mükénéi kupolasír",
+            "ro": "Mormântul cu Tholos Micenian",
+            "en": "Mycenaean Tholos Tomb"
+          },
+          "coords": [
+            21.678259,
+            36.993951
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende antike Grabstätte der mykenischen Geschichte, aber tragen Sie festes Schuhwerk für das leicht unebene historische Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző ókori mükénéi temetkezési helyet, de ne felejtsen el masszív cipőt húzni a kissé egyenetlen, történelmi terep miatt.",
+            "ro": "Explorați acest loc antic fascinant de înmormântare care dezvăluie istoria miceniană, dar amintiți-vă să purtați încălțăminte robustă pentru terenul istoric accidentat.",
+            "en": "Explore this fascinating ancient burial site that reveals Mycenaean history, but remember to wear sturdy shoes for the slightly uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Romanos Strand",
+            "hu": "Romanos strand",
+            "ro": "Plaja Romanos",
+            "en": "Romanos Beach"
+          },
+          "coords": [
+            21.654093,
+            36.983191
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand mit kristallklarem Wasser und kommen Sie früh, um einen tollen Platz abseits der belebten Resorts zu sichern.",
+            "hu": "Pihenjen ezen a kristálytiszta vizű, kiterjedt homokos partszakaszon, és érkezzen korán, hogy remek helyet biztosítson magának távol a nyüzsgő üdülőközönségtől.",
+            "ro": "Relaxați-vă pe această întindere vastă de nisip cu ape cristaline și ajungeți devreme pentru a vă asigura un loc grozav departe de aglomerația stațiunilor.",
+            "en": "Relax on this expansive sandy stretch offering crystal-clear waters, and arrive early in the day to secure a great spot away from the bustling resort crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Petrochori Strand",
+            "hu": "Petrochori strand",
+            "ro": "Plaja Petrochori",
+            "en": "Petrochori Beach"
+          },
+          "coords": [
+            21.655828,
+            36.978981
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses malerischen lokalen Strandes mit goldenem Sand, wo ein eigener Sonnenschirm am Nachmittag für angenehmen Schatten sorgt.",
+            "hu": "Élvezze a festői helyi strand nyugodt hangulatát és aranyhomokját, ahová érdemes saját napernyőt hozni, hogy kényelmes árnyékot biztosítson magának délutánra.",
+            "ro": "Bucurați-vă de vibrația liniștită a acestei plaje locale pitorești cu nisip auriu, unde aducerea propriei umbrele vă va asigura o umbră confortabilă după-amiaza.",
+            "en": "Enjoy the tranquil vibe of this picturesque local beach featuring golden sands, where bringing your own umbrella will ensure comfortable shade throughout the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Voidokilia Strand",
+            "hu": "Voidokilia strand",
+            "ro": "Plaja Voidokilia",
+            "en": "Voidokilia Beach"
+          },
+          "coords": [
+            21.661706,
+            36.963887
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die perfekte halbkreisförmige Bucht und wandern Sie die angrenzenden Dünen hinauf, um das ikonische Panorama einzufangen, bevor Sie schwimmen gehen.",
+            "hu": "Csodálja meg ennek a világhírű öbölnek a tökéletes félkör alakját, és másszon fel a szomszédos dűnékre az ikonikus panoráma megörökítéséhez, mielőtt úszni indulna.",
+            "ro": "Minunați-vă de forma perfect semicirculară a acestui golf de faimă mondială și urcați pe dunele adiacente pentru a surprinde panorama iconică înainte de a înota.",
+            "en": "Marvel at the perfect semicircular shape of this world-famous bay, and hike up the adjacent dunes to capture the iconic panorama before settling down to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Nestorhöhle",
+            "hu": "Nesztór barlangja",
+            "ro": "Peștera lui Nestor",
+            "en": "Nestor's Cave"
+          },
+          "coords": [
+            21.657657,
+            36.959835
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie den steilen Weg hinauf, um diese legendäre mythische Höhle zu betreten, und achten Sie auf Ihre Schritte, da die alten Steinstufen rutschig sein können.",
+            "hu": "Másszon fel a meredek, de hálás ösvényen ebbe a legendás mitikus barlangba, ügyelve a lépéseire, mivel az ősi kőlépcsők meglehetősen csúszósak lehetnek.",
+            "ro": "Urcați pe cărarea abruptă, dar plină de satisfacții, pentru a intra în această legendară peșteră mitică, având grijă la pași, deoarece treptele vechi pot fi alunecoase.",
+            "en": "Climb the steep but rewarding path to enter this legendary mythical cavern, taking care of your footing as the ancient stone steps can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokastro",
+            "hu": "Palaiokastro",
+            "ro": "Palaiokastro",
+            "en": "Palaiokastro"
+          },
+          "coords": [
+            21.657131,
+            36.958873
+          ],
+          "category": "castle",
+          "arrive_at": "13:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erobern Sie die zerfallenden Ruinen dieser mittelalterlichen Festung für atemberaubende Sonnenuntergänge über dem Ionischen Meer und steigen Sie bei Tageslicht sicher ab.",
+            "hu": "Hódítsa meg ennek a középkori erődítménynek az omladozó romjait a lélegzetelállító jón-tengeri naplemente miatt, ügyelve arra, hogy még világosban biztonságosan leérjen.",
+            "ro": "Cuceriți ruinele sfărâmate ale acestei cetăți medievale pentru priveliști uluitoare ale apusului peste Marea Ionică, asigurându-vă că aveți lumina zilei pentru a coborî.",
+            "en": "Conquer the crumbling ruins of this medieval fortress to earn breathtaking sunset views over the Ionian Sea, making sure you have enough daylight to descend safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der frischen Meeresluft entlang der Küstenabschnitte. Das weiche Morgenlicht beleuchtet die Sandstrände und lädt zu einem friedlichen Spaziergang oder einem frühen Bad im kristallklaren Wasser ein, bevor die Massen ankommen.\nMidday: Wenn die Sonne ihren Höhepunkt erreicht, wechseln Sie von den entspannenden Ufern zur Erkundung versteckter Buchten und alter Pfade. Die dramatische Küste bietet unvergleichliche Ausblicke auf den Kontrast zwischen blauem Meer und schroffen Klippen.\nAfternoon: Widmen Sie den späten Nachmittag einer Reise in die Vergangenheit. Wandern Sie auf felsigen Pfaden zu mythologischen Stätten und historischen Ruinen. Eine kühlende Brise bringt Erleichterung, während Sie die Geheimnisse antiker Legenden entdecken.\nEvening: Beenden Sie Ihre Reise auf den höchsten Aussichtspunkten, wenn der Himmel in Farben erstrahlt. Der Panoramablick auf den Sonnenuntergang über dem Ionischen Meer von den mittelalterlichen Festungsruinen bietet ein unvergessliches Finale Ihres Abenteuers.",
+        "hu": "Morning: Kezdje a napot a friss tengeri levegő beszívásával a part menti szakaszokon. A lágy reggeli fény megvilágítja a homokos strandokat, békés sétára vagy egy korai csobbanásra hívogatva a kristálytiszta vizekben, még a tömeg érkezése előtt.\nMidday: Ahogy a nap eléri a zenitjét, váltson a pihentető partokról a rejtett öblök és ősi ösvények felfedezésére. A drámai partvonal páratlan kilátást kínál, tökéletes alkalmat teremtve a kék tenger és a zord sziklák lenyűgöző kontrasztjának megörökítésére.\nAfternoon: A késő délutánt szentelje az időutazásnak. Merészkedjen fel a sziklás ösvényeken a mitológiai helyszínek és történelmi romok felé. A hűsítő szellő enyhülést nyújt, miközben feltárja a tájba ivódott ősi legendák titkait.\nEvening: Fejezze be utazását a legmagasabb kilátópontokon, ahogy az égbolt színekbe borul. A középkori erőd romjairól a Jón-tenger felett nyíló panorámás naplemente látványos és felejthetetlen finálét kínál tengerparti kalandjának.",
+        "ro": "Morning: Începeți ziua respirând aerul marin proaspăt de-a lungul coastelor. Lumina blândă a dimineții iluminează plajele de nisip, invitându-vă la o plimbare liniștită sau la o baie matinală în apele cristaline, chiar înainte de sosirea mulțimilor.\nMidday: Pe măsură ce soarele ajunge la zenit, treceți de la țărmurile relaxante la explorarea golfurilor ascunse și a potecilor antice. Coasta dramatică oferă priveliști de neegalat, capturând contrastul izbitor dintre marea albastră și stâncile aspre.\nAfternoon: Dedicați după-amiaza târzie unei călătorii înapoi în timp. Aventurați-vă pe cărările stâncoase spre situri mitologice și ruine istorice. Briza răcoroasă vă oferă alinare în timp ce descoperiți secretele legendelor antice gravate în peisaj.\nEvening: Încheiați-vă călătoria pe cele mai înalte puncte de observație, când cerul explodează în culori. Apusul panoramic peste Marea Ionică de pe ruinele fortăreței medievale oferă un final spectaculos și de neuitat aventurii voastre de coastă.",
+        "en": "Morning: Start your day breathing in the fresh maritime air along the coastal stretches. The soft morning light illuminates the sandy beaches, inviting you for a peaceful walk or an early dip in the crystalline waters before the crowds arrive.\nMidday: As the sun reaches its peak, transition from relaxing shores to exploring hidden coves and ancient trails. The dramatic coastline offers unparalleled vistas, making it the perfect time to capture the striking contrast between blue sea and rugged cliffs.\nAfternoon: Dedicate the late afternoon to stepping back in time. Venture up the rocky paths towards mythological sites and historical ruins. The cooling breeze provides relief as you uncover the secrets of ancient legends etched into the landscape.\nEvening: Conclude your journey atop the highest vantage points as the sky bursts into colors. The panoramic sunset over the Ionian Sea from the medieval fortress ruins offers a spectacular and unforgettable finale to your coastal adventure."
+      }
+    }
+  }
+}

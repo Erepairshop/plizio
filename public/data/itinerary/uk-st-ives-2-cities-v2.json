@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-st-ives-2-cities-v2",
+  "anchor": {
+    "name": "St Ives",
+    "coords": [
+      -5.48,
+      50.21
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 1.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Ia-Kirche",
+            "hu": "St Ia-templom",
+            "ro": "Biserica St Ia",
+            "en": "St Ia's Church"
+          },
+          "coords": [
+            -5.47995,
+            50.2126
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser ikonischen Pfarrkirche aus dem 15. Jahrhundert, und achten Sie unbedingt auf die kunstvolle Barbara-Hepworth-Skulptur im Garten.",
+            "hu": "Csodálja meg a 15. századi plébániatemplom lenyűgöző építészetét, amely a város fölé magasodik, és feltétlenül keresse meg Barbara Hepworth bonyolult szobrát a kis kertben.",
+            "ro": "Admirați arhitectura magnifică de secol XV a acestei biserici emblematice care veghează asupra orașului și nu ratați sculptura complexă a lui Barbara Hepworth din grădină.",
+            "en": "Admire the magnificent 15th-century architecture of this iconic parish church that watches over the town, and look out for the intricate Barbara Hepworth sculpture in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Barbara Hepworth Museum",
+            "hu": "Barbara Hepworth Múzeum",
+            "ro": "Muzeul Barbara Hepworth",
+            "en": "Barbara Hepworth Museum"
+          },
+          "coords": [
+            -5.481389,
+            50.213611
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erhaltene Atelier und die üppigen Gärten, in denen eine der wichtigsten Bildhauerinnen Großbritanniens lebte, und buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel a megőrzött műtermet és a buja kerteket, ahol Nagy-Britannia egyik legfontosabb szobrásza élt, és foglalja le a jegyeket online előre, hogy biztosítsa a bejutást.",
+            "ro": "Explorați atelierul și grădinile luxuriante unde a trăit și a lucrat una dintre cele mai importante sculptorițe britanice, rezervând biletele online din timp pentru un interval sigur.",
+            "en": "Explore the preserved studio and lush gardens where one of Britain's most important sculptors lived and worked, and book your tickets online in advance to secure a specific time slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Tate St Ives",
+            "hu": "Tate St Ives",
+            "ro": "Tate St Ives",
+            "en": "Tate St Ives"
+          },
+          "coords": [
+            -5.484722,
+            50.214722
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die modernen Kunstausstellungen mit Blick auf den Atlantik ein und besuchen Sie das Café auf dem Dach für einen atemberaubenden Panoramablick und eine Tasse Tee.",
+            "hu": "Merüljön el az Atlanti-óceánra néző lenyűgöző modern művészeti kiállításokban, és látogasson el a tetőtéri kávézóba egy frissítő teára, ahonnan csodálatos panoráma nyílik.",
+            "ro": "Cufundați-vă în expozițiile spectaculoase de artă modernă cu vedere la Oceanul Atlantic și vizitați cafeneaua de pe acoperiș pentru o panoramă uimitoare alături de un ceai savuros.",
+            "en": "Immerse yourself in the spectacular modern art exhibitions overlooking the Atlantic Ocean, and visit the rooftop café for a stunning panoramic view and a refreshing cup of Cornish tea."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthmeor Strand",
+            "hu": "Porthmeor tengerpart",
+            "ro": "Plaja Porthmeor",
+            "en": "Porthmeor Beach"
+          },
+          "coords": [
+            -5.479151,
+            50.216334
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen weitläufigen goldenen Sandstrand entlang, der für hervorragende Surfbedingungen bekannt ist, und mieten Sie einen Neoprenanzug in der örtlichen Surfschule.",
+            "hu": "Sétáljon végig ezen a hatalmas, aranyszínű homokos tengerparton, amely kiváló szörfözési lehetőségeiről ismert, és béreljen neoprén ruhát a helyi iskolában a hűvös víz miatt.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi de nisip auriu cunoscută pentru condițiile excelente de surf și închiriați un costum de neopren la școala locală dacă intrați în apă.",
+            "en": "Stroll along this expansive stretch of golden sand known for its excellent surfing conditions, and rent a wetsuit at the local surf school if you plan to brave the chilly waters."
+          }
+        },
+        {
+          "name": {
+            "de": "The Sloop Inn",
+            "hu": "The Sloop Inn",
+            "ro": "The Sloop Inn",
+            "en": "The Sloop Inn"
+          },
+          "coords": [
+            -5.479444,
+            50.215278
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Genießen Sie eine herzhafte Mahlzeit in einem der ältesten Pubs Cornwalls aus dem Jahr 1312, und probieren Sie unbedingt die lokale Meeresfrüchteplatte mit einem traditionellen Ale.",
+            "hu": "Fogyasszon el egy kiadós étkezést Cornwall egyik legrégebbi, 1312-ből származó pubjában, és mindenképpen kóstolja meg a helyi tengeri tálat egy hagyományos ale sör kíséretében.",
+            "ro": "Savurați o masă copioasă la unul dintre cele mai vechi pub-uri din Cornwall, fondat la 1312, și încercați platoul de fructe de mare alături de o bere tradițională ale autentică.",
+            "en": "Enjoy a hearty meal at one of Cornwall's oldest pubs dating back to 1312, and be sure to try the local seafood platter paired with a traditional real ale to soak up the historic vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von St. Ives",
+            "hu": "St Ives kikötő",
+            "ro": "Portul St Ives",
+            "en": "St Ives Harbour"
+          },
+          "coords": [
+            -5.47815,
+            50.21423
+          ],
+          "category": "historical",
+          "arrive_at": "16:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Fischerboote im malerischen Hafen, und holen Sie sich eine frisch gebackene Cornish Pasty aus einer Bäckerei, während Sie auf hungrige Möwen achten.",
+            "hu": "Nézze a festői, nyüzsgő kikötő vizén ringatózó színes halászhajókat, és vegyen egy frissen sült Cornish pastyt egy közeli pékségben, de ügyeljen a mindig éhes sirályokra.",
+            "ro": "Priviți bărcile colorate de pescuit în acest port pitoresc și plin de viață, și cumpărați un produs de patiserie tradițional de la brutăria din apropiere, ferindu-vă de pescăruși.",
+            "en": "Watch the colorful fishing boats bobbing on the water in this bustling picturesque harbor, and grab a freshly baked Cornish pasty from a nearby bakery while keeping an eye out for hungry seagulls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang durch die verwinkelten Gassen von St. Ives, bei dem Sie historische Schätze und das ruhige Ambiente der St. Ia-Kirche entdecken. Das künstlerische Erbe erwacht in den Gärten des Hepworth Museums zum Leben.\nMittags tauchen Sie in die zeitgenössischen Werke der Tate Gallery ein, wo der spektakuläre Küstenblick die Kunst perfekt ergänzt. Genießen Sie eine erfrischende Pause mit Blick auf das schimmernde Wasser des Atlantiks.\nAm Nachmittag spüren Sie den weichen Sand am Porthmeor Beach unter den Füßen, während Sie den Surfern auf den Wellen zusehen. Ein kurzer Spaziergang führt Sie zu einem historischen Pub für echte kornische Gastfreundschaft.\nDer Abend bricht am malerischen Hafen von St. Ives an und taucht den Himmel in Pastellfarben. Beobachten Sie das sanfte Schaukeln der Fischerboote, während Sie die Abenddämmerung nach einem perfekten Tag am Meer genießen.",
+        "hu": "A reggel egy kellemes sétával indul St Ives kanyargós utcáin, ahol történelmi kincseket és a St Ia-templom nyugalmát fedezheti fel. A város művészeti öröksége szinte életre kel a Hepworth Múzeum buja kertjeiben barangolva.\nA dél a Tate modern művészeti alkotásainak megcsodálásával telik, ahol a lenyűgöző tengerparti kilátás tökéletesen kiegészíti a művészetet. Tartson egy frissítő szünetet, és gyönyörködjön az Atlanti-óceán csillogó vizében.\nDélután érezze a Porthmeor Beach puha homokját a talpa alatt, miközben figyeli a hullámokat meglovagló szörfösöket. Ezután egy történelmi pubban tapasztalhatja meg az igazi és szívélyes cornwalli vendéglátást.\nAz este a festői kikötőben köszönt ránk, amely pasztellszínekre festi az eget. Figyelje a halászhajók lágy ringatózását a vízen, és gondoljon vissza erre a tökéletesen kiegyensúlyozott, tengerparti napra.",
+        "ro": "Dimineața începe cu o plimbare prin străzile șerpuite din St Ives, descoperind comori istorice și atmosfera liniștită a Bisericii St Ia. Moștenirea artistică prinde viață în timp ce vă plimbați prin grădinile Muzeului Hepworth.\nLa amiază, admirați lucrările contemporane de la Tate, unde priveliștile de coastă completează perfect arta de talie mondială. Savurați o pauză revigorantă, privind apele strălucitoare ale impresionantului Ocean Atlantic.\nDupă-amiază, simțiți nisipul fin de la Porthmeor Beach în timp ce urmăriți surferii pe valuri. Apoi, relaxați-vă într-un pub istoric pentru o gustare tradițională și pentru a simți autentica ospitalitate din regiunea Cornwall.\nSeara coboară peste portul pitoresc din St Ives, colorând cerul în nuanțe pastelate. Priviți legănarea blândă a bărcilor de pescuit în timp ce vă bucurați de amurg, amintindu-vă de o zi perfectă petrecută la malul mării.",
+        "en": "Morning begins with a gentle stroll through the winding streets of St Ives, uncovering historical treasures and the tranquil ambiance of St Ia's Church. The artistic legacy of the town comes alive as you wander through the Hepworth Museum gardens.\nMidday invites you to soak up world-class contemporary works at the Tate, where spectacular coastal views perfectly complement the art. Take your time enjoying a refreshing break overlooking the shimmering waters of the Atlantic.\nIn the afternoon, feel the soft sands of Porthmeor Beach underfoot as you watch the surfers ride the rolling waves. A quick hop brings you to a historic pub for a hearty taste of authentic Cornish hospitality.\nEvening descends on the picturesque St Ives Harbour, painting the sky in pastel hues. Watch the gentle bobbing of the fishing boats as you enjoy the lingering twilight and reflect on a perfectly balanced seaside day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 2.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthminster Strand",
+            "hu": "Porthminster tengerpart",
+            "ro": "Plaja Porthminster",
+            "en": "Porthminster Beach"
+          },
+          "coords": [
+            -5.476053,
+            50.209026
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten weißen Sandstrand unter Palmen für ein mediterranes Flair, und reservieren Sie einen Tisch im preisgekrönten Strandcafé für ein luxuriöses Mittagessen.",
+            "hu": "Pihenjen a pálmafákkal szegélyezett fehér homokon, amely mediterrán hangulatot áraszt, és foglaljon asztalt a díjnyertes tengerparti kávézóban egy luxus ebéddel egybekötve.",
+            "ro": "Relaxați-vă pe nisipul alb și curat mărginit de palmieri pentru o atmosferă mediteraneană și rezervați o masă la cafeneaua premiată de pe plajă pentru un prânz luxos.",
+            "en": "Relax on the pristine white sands framed by palm trees for a Mediterranean feel, and reserve a table at the award-winning Porthminster Beach Cafe for a luxurious lunch with a view."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Ia-Kirche",
+            "hu": "St Ia-templom",
+            "ro": "Biserica St Ia",
+            "en": "St Ia's Church"
+          },
+          "coords": [
+            -5.47995,
+            50.2126
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser ikonischen Pfarrkirche aus dem 15. Jahrhundert, und achten Sie unbedingt auf die kunstvolle Barbara-Hepworth-Skulptur im Garten.",
+            "hu": "Csodálja meg a 15. századi plébániatemplom lenyűgöző építészetét, amely a város fölé magasodik, és feltétlenül keresse meg Barbara Hepworth bonyolult szobrát a kis kertben.",
+            "ro": "Admirați arhitectura magnifică de secol XV a acestei biserici emblematice care veghează asupra orașului și nu ratați sculptura complexă a lui Barbara Hepworth din grădină.",
+            "en": "Admire the magnificent 15th-century architecture of this iconic parish church that watches over the town, and look out for the intricate Barbara Hepworth sculpture in the garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von St. Ives",
+            "hu": "St Ives kikötő",
+            "ro": "Portul St Ives",
+            "en": "St Ives Harbour"
+          },
+          "coords": [
+            -5.47815,
+            50.21423
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Fischerboote im malerischen Hafen, und holen Sie sich eine frisch gebackene Cornish Pasty aus einer Bäckerei, während Sie auf hungrige Möwen achten.",
+            "hu": "Nézze a festői, nyüzsgő kikötő vizén ringatózó színes halászhajókat, és vegyen egy frissen sült Cornish pastyt egy közeli pékségben, de ügyeljen a mindig éhes sirályokra.",
+            "ro": "Priviți bărcile colorate de pescuit în acest port pitoresc și plin de viață, și cumpărați un produs de patiserie tradițional de la brutăria din apropiere, ferindu-vă de pescăruși.",
+            "en": "Watch the colorful fishing boats bobbing on the water in this bustling picturesque harbor, and grab a freshly baked Cornish pasty from a nearby bakery while keeping an eye out for hungry seagulls."
+          }
+        },
+        {
+          "name": {
+            "de": "The Sloop Inn",
+            "hu": "The Sloop Inn",
+            "ro": "The Sloop Inn",
+            "en": "The Sloop Inn"
+          },
+          "coords": [
+            -5.479444,
+            50.215278
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie eine herzhafte Mahlzeit in einem der ältesten Pubs Cornwalls aus dem Jahr 1312, und probieren Sie unbedingt die lokale Meeresfrüchteplatte mit einem traditionellen Ale.",
+            "hu": "Fogyasszon el egy kiadós étkezést Cornwall egyik legrégebbi, 1312-ből származó pubjában, és mindenképpen kóstolja meg a helyi tengeri tálat egy hagyományos ale sör kíséretében.",
+            "ro": "Savurați o masă copioasă la unul dintre cele mai vechi pub-uri din Cornwall, fondat la 1312, și încercați platoul de fructe de mare alături de o bere tradițională ale autentică.",
+            "en": "Enjoy a hearty meal at one of Cornwall's oldest pubs dating back to 1312, and be sure to try the local seafood platter paired with a traditional real ale to soak up the historic vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas Kapelle",
+            "hu": "St Nicholas-kápolna",
+            "ro": "Capela St Nicholas",
+            "en": "St Nicholas Chapel"
+          },
+          "coords": [
+            -5.478441,
+            50.218243
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser winzigen Fischerkapelle auf der Halbinsel hinauf, um ihre Geschichte zu entdecken, und bringen Sie eine Kamera für das atemberaubende 360-Grad-Küstenpanorama mit.",
+            "hu": "Sétáljon fel a szigeten lévő apró, történelmi halászkápolnához, hogy felfedezze lenyűgöző múltját, és mindenképpen vigyen fényképezőgépet a 360 fokos tengerparti panorámához.",
+            "ro": "Urcați spre această capelă minusculă a pescarilor situată pe insulă pentru a-i descoperi istoria și aduceți aparatul foto pentru a surprinde panorama de coastă de 360 de grade.",
+            "en": "Hike up to this tiny, historic fishermen's chapel perched on the island to discover its fascinating history, and bring a camera to capture the breathtaking 360-degree coastal panorama."
+          }
+        },
+        {
+          "name": {
+            "de": "Tate St Ives",
+            "hu": "Tate St Ives",
+            "ro": "Tate St Ives",
+            "en": "Tate St Ives"
+          },
+          "coords": [
+            -5.484722,
+            50.214722
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die modernen Kunstausstellungen mit Blick auf den Atlantik ein und besuchen Sie das Café auf dem Dach für einen atemberaubenden Panoramablick und eine Tasse Tee.",
+            "hu": "Merüljön el az Atlanti-óceánra néző lenyűgöző modern művészeti kiállításokban, és látogasson el a tetőtéri kávézóba egy frissítő teára, ahonnan csodálatos panoráma nyílik.",
+            "ro": "Cufundați-vă în expozițiile spectaculoase de artă modernă cu vedere la Oceanul Atlantic și vizitați cafeneaua de pe acoperiș pentru o panoramă uimitoare alături de un ceai savuros.",
+            "en": "Immerse yourself in the spectacular modern art exhibitions overlooking the Atlantic Ocean, and visit the rooftop café for a stunning panoramic view and a refreshing cup of Cornish tea."
+          }
+        },
+        {
+          "name": {
+            "de": "Leach Pottery",
+            "hu": "Leach Pottery",
+            "ro": "Leach Pottery",
+            "en": "Leach Pottery"
+          },
+          "coords": [
+            -5.492814,
+            50.206934
+          ],
+          "category": "museum",
+          "arrive_at": "16:21",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Geburtsort der britischen Studio-Töpferei, indem Sie geschickten Handwerkern zusehen, und kaufen Sie ein handgefertigtes Keramikstück als wunderschönes Souvenir.",
+            "hu": "Fedezze fel a brit stúdiókerámia szülőhelyét, ahol képzett kézműveseket figyelhet meg munka közben, és vásároljon egy egyedi, kézzel készített kerámiát gyönyörű szuvenírként.",
+            "ro": "Descoperiți locul de naștere a ceramicii de studio britanice, urmărind artizanii pricepuți la lucru, și cumpărați o piesă unică din ceramică făcută manual ca suvenir autentic.",
+            "en": "Discover the birthplace of British studio pottery by watching skilled artisans at work, and purchase a unique handcrafted ceramic piece from the shop to take home as a beautiful souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einer erfrischenden Fahrt zum palmengesäumten Porthminster Beach. Atmen Sie die salzige Meeresluft ein, bevor Sie in das historische Zentrum radeln, um die beeindruckende Architektur der St. Ia-Kirche zu bewundern.\nDie Mittagszeit verbringen Sie am besten am lebhaften Hafen von St. Ives. Parken Sie Ihr Fahrrad am berühmten Sloop Inn, um sich mit einem traditionellen kornischen Mittagessen inmitten jahrhundertelanger lokaler Geschichte zu stärken.\nDer Nachmittag bringt einen malerischen Aufstieg zur kleinen Kapelle St. Nicholas, wo Sie mit einem Panoramablick belohnt werden. Von dort fahren Sie zur Tate Gallery, um brillante zeitgenössische Kunstausstellungen zu genießen.\nDer Abend naht, während Sie zur bekannten Leach Pottery, der Geburtsstätte britischer Studiokeramik, radeln. Das ruhige Summen der Handwerkswerkstatt bietet einen wunderbar besinnlichen Abschluss dieses aktiven Kulturtages.",
+        "hu": "A reggel egy frissítő tekeréssel indul a pálmafákkal övezett Porthminster Beach felé. Szívja magába a sós levegőt, mielőtt a város történelmi központjába kerekezne, hogy megcsodálja a St Ia-templom lenyűgöző építészetét.\nA delet a nyüzsgő kikötő körüli tekeréssel töltheti, figyelve a hajókat. Parkolja le kerékpárját az ikonikus Sloop Inn közelében, és töltődjön fel egy hagyományos cornwalli ebéddel a helyi történelem századai között.\nDélután egy festői emelkedő vár a pici St Nicholas-kápolnához, amely elsöprő tengerparti panorámával jutalmazza meg az erőfeszítést. Innen sima az út a Tate-be, ahol zseniális modern művészeti kiállításokban merülhet el.\nAz este közeledtével a híres Leach Pottery felé veszi az irányt, amely a brit stúdiókerámia szülőhelye. A kézműves műhely csendes zümmögése gyönyörű, elgondolkodtató befejezést nyújt az aktív és kulturális napnak.",
+        "ro": "Dimineața începe cu o cursă revigorantă spre nisipurile mărginite de palmieri ale plajei Porthminster. Respirați aerul sărat înainte de a pedala în inima istorică a orașului pentru a admira arhitectura bisericii St Ia.\nLa amiază, pedalați în jurul portului vibrant din St Ives, privind bărcile. Parcați bicicleta lângă faimosul Sloop Inn pentru a vă reîncărca bateriile cu un prânz tradițional din Cornwall în mijlocul istoriei locale.\nDupă-amiaza aduce o urcare pitorească spre mica capelă St Nicholas, recompensându-vă cu vederi panoramice ample. De acolo, o scurtă coborâre vă duce la Tate pentru a explora minunatele expoziții de artă contemporană.\nSeara se apropie în timp ce pedalați spre faimoasa Leach Pottery, locul de naștere al ceramicii de studio britanice. Zgomotul liniștit al atelierului meșteșugăresc oferă un sfârșit perfect pentru o zi activă și culturală.",
+        "en": "Your morning starts with an invigorating ride to the palm-fringed sands of Porthminster Beach. Take a deep breath of the salty air before pedaling into the historic heart of the town to admire the intricate architecture of St Ia's Church.\nMidday is perfectly spent weaving around the vibrant St Ives Harbour, watching the fishing boats come and go. Park your bike near the iconic Sloop Inn to recharge with a traditional Cornish lunch amidst centuries of local history.\nAfternoon brings a scenic climb to the tiny St Nicholas Chapel, rewarding your effort with sweeping panoramic coastal views. From there, it's a smooth ride down to the Tate to immerse yourself in brilliant contemporary art exhibitions.\nEvening approaches as you cycle out towards the renowned Leach Pottery, the birthplace of British studio ceramics. The quiet hum of the artisan workshop provides a beautifully reflective end to a day of active cultural exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 9.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Carbis Bay Strand",
+            "hu": "Carbis Bay tengerpart",
+            "ro": "Plaja Carbis Bay",
+            "en": "Carbis Bay Beach"
+          },
+          "coords": [
+            -5.462832,
+            50.199304
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen in dieser ruhigen, geschützten Bucht, und mieten Sie frühmorgens ein Stand-Up-Paddleboard, um das ruhige Gewässer bestmöglich zu genießen.",
+            "hu": "Meneküljön el a tömeg elől ebben a nyugodt, védett öbölben, és béreljen paddleboardot kora reggel, hogy a csendes vizet és a békés környezetet a leginkább élvezhesse.",
+            "ro": "Evadați din aglomerație în acest golf liniștit, perfect pentru înot, și închiriați o placă de paddleboard dimineața devreme pentru a vă bucura de apele calme la superlativ.",
+            "en": "Escape the crowds at this tranquil, sheltered bay with calm waters perfect for swimming, and rent a paddleboard early in the morning to enjoy the serene environment at its best."
+          }
+        },
+        {
+          "name": {
+            "de": "Leach Pottery",
+            "hu": "Leach Pottery",
+            "ro": "Leach Pottery",
+            "en": "Leach Pottery"
+          },
+          "coords": [
+            -5.492814,
+            50.206934
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.29,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Geburtsort der britischen Studio-Töpferei, indem Sie geschickten Handwerkern zusehen, und kaufen Sie ein handgefertigtes Keramikstück als wunderschönes Souvenir.",
+            "hu": "Fedezze fel a brit stúdiókerámia szülőhelyét, ahol képzett kézműveseket figyelhet meg munka közben, és vásároljon egy egyedi, kézzel készített kerámiát gyönyörű szuvenírként.",
+            "ro": "Descoperiți locul de naștere a ceramicii de studio britanice, urmărind artizanii pricepuți la lucru, și cumpărați o piesă unică din ceramică făcută manual ca suvenir autentic.",
+            "en": "Discover the birthplace of British studio pottery by watching skilled artisans at work, and purchase a unique handcrafted ceramic piece from the shop to take home as a beautiful souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Bussow-Stausee",
+            "hu": "Bussow-víztározó",
+            "ro": "Rezervorul Bussow",
+            "en": "Bussow Reservoir"
+          },
+          "coords": [
+            -5.502406,
+            50.198963
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine friedliche Wanderung um dieses ruhige, von Natur umgebene Wasserreservoir, und tragen Sie feste Wanderschuhe, da die ländlichen Wege nach dem Regen schlammig sind.",
+            "hu": "Tegyen egy békés túrát a természettel körülvett csendes víztározó festői vizei körül, és viseljen erős túrabakancsot, mivel az ösvények sárgák lehetnek a tipikus esőzések után.",
+            "ro": "Faceți o drumeție pașnică în jurul apelor pitorești ale acestui rezervor liniștit și purtați bocanci solizi, deoarece traseele rurale pot fi noroioase după ploile din Cornwall.",
+            "en": "Take a peaceful hike around the scenic waters of this quiet reservoir surrounded by nature, and wear sturdy walking boots as the rural trails can get muddy after typical Cornish rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Nance-Seen",
+            "hu": "Nance-tavak",
+            "ro": "Lacurile Nance",
+            "en": "Nance Lakes (Bottom Lake)"
+          },
+          "coords": [
+            -5.480545,
+            50.183834
+          ],
+          "category": "natural",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Nachmittag beim Angeln oder bei der Wildtierbeobachtung an diesen gut besetzten Seen, und denken Sie daran, vorab eine Tageskarte vom Angelverein zu kaufen.",
+            "hu": "Töltsön el egy délutánt horgászattal vagy vadleséssel ezeknél a jól halasított tavaknál, de ne felejtsen el előre napijegyet vásárolni a helyi horgászegyesülettől.",
+            "ro": "Bucurați-vă de o după-amiază de pescuit sau pur și simplu de observarea naturii la aceste lacuri bine populate, cumpărând un bilet de o zi în prealabil de la clubul local.",
+            "en": "Enjoy an afternoon of coarse fishing or simply wildlife watching at these well-stocked lakes, and remember to purchase a day ticket in advance from the local angling club."
+          }
+        },
+        {
+          "name": {
+            "de": "Tate St Ives",
+            "hu": "Tate St Ives",
+            "ro": "Tate St Ives",
+            "en": "Tate St Ives"
+          },
+          "coords": [
+            -5.484722,
+            50.214722
+          ],
+          "category": "museum",
+          "arrive_at": "14:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.44,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die modernen Kunstausstellungen mit Blick auf den Atlantik ein und besuchen Sie das Café auf dem Dach für einen atemberaubenden Panoramablick und eine Tasse Tee.",
+            "hu": "Merüljön el az Atlanti-óceánra néző lenyűgöző modern művészeti kiállításokban, és látogasson el a tetőtéri kávézóba egy frissítő teára, ahonnan csodálatos panoráma nyílik.",
+            "ro": "Cufundați-vă în expozițiile spectaculoase de artă modernă cu vedere la Oceanul Atlantic și vizitați cafeneaua de pe acoperiș pentru o panoramă uimitoare alături de un ceai savuros.",
+            "en": "Immerse yourself in the spectacular modern art exhibitions overlooking the Atlantic Ocean, and visit the rooftop café for a stunning panoramic view and a refreshing cup of Cornish tea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den ruhigen Ufern des Carbis Bay Beach, wo das sanfte Wasser zur Entspannung einlädt. Nach der unberührten Küstenschönheit bringt Sie eine kurze Fahrt zu den inspirierenden Öfen der Leach Pottery.\nMittags wechseln Sie von der Küste auf die üppig grünen Pfade rund um das Bussow Reservoir. Machen Sie eine angenehme Wanderung am Wasser entlang und genießen Sie die reiche Naturlandschaft als Abwechslung zum Stadtzentrum.\nDer Nachmittag setzt das Naturthema mit einem entspannten Besuch der Nance Lakes fort. Beobachten Sie die vielfältige lokale Tierwelt in dieser versteckten Oase, eine wahre Freude für jeden echten Naturliebhaber und Fotografen.\nAm Abend zieht es Sie für ein großes Finale an der Tate Gallery zurück an die Küste. Erleben Sie markante moderne Kunst, gepaart mit herrlichen Sonnenuntergängen über dem Atlantik, als Abschluss eines abenteuerlichen Tages.",
+        "hu": "A reggel békésen indul a Carbis Bay Beach védett partjainál, ahol a csendes vizek nyugalmat árasztanak. A lenyűgöző tengerparti szépség után egy rövid autóút a Leach Pottery inspiráló kemencéihez vezet.\nDélben a partról a Bussow-víztározó körüli buja zöld ösvényekre váltunk. Tegyen egy kellemes sétát a víz partján, élvezve a gazdag természeti tájat és a nyüzsgő városközpontból való kellemes kiszakadást.\nA délután a természeti témát folytatja a békés Nance-tavak meglátogatásával. Egyszerűen csak figyelje meg a gazdag helyi vadvilágot ebben a rejtett oázisban, amely igazi öröm a természet szerelmeseinek és a fotósoknak.\nAz este visszavonzza a partra egy nagyszerű fináléra a Tate St Ives-be. Tapasztalja meg a lenyűgöző modern művészetet, párosulva az Atlanti-óceán feletti csodálatos naplementével, így lezárva a változatos autós napot.",
+        "ro": "Dimineața începe pașnic pe țărmurile protejate ale plajei Carbis Bay, unde apele calme invită la relaxare. După ce v-ați bucurat de frumusețea coastei, un scurt drum cu mașina vă duce la cuptoarele inspirate de la Leach Pottery.\nLa amiază, treceți de la coastă la potecile verzi și luxuriante din jurul rezervorului Bussow. Faceți o plimbare plăcută pe malul apei, bucurându-vă de peisajul natural bogat și de evadarea binevenită din aglomerația urbană.\nDupă-amiaza continuă cu o vizită relaxantă la liniștitele lacuri Nance. Observați pur și simplu fauna locală diversă prosperând în această oază ascunsă, o bucurie absolută pentru toți iubitorii de natură și pasionații de fotografie.\nSeara vă readuce pe coastă pentru un final grandios la Tate St Ives. Experimentați arta modernă uimitoare alături de priveliștile magnifice ale apusului peste Oceanul Atlantic, încheind perfect o zi variată cu mașina.",
+        "en": "Morning gets off to a serene start at the sheltered shores of Carbis Bay Beach, where calm waters invite peaceful reflection. After enjoying the pristine coastal beauty, a short drive brings you to the inspiring kilns of Leach Pottery.\nMidday shifts from the coast to the lush green inland paths surrounding Bussow Reservoir. Take a pleasant hike around the water's edge, enjoying the rich natural scenery and the welcome escape from the bustling town center.\nThe afternoon continues the natural theme with a relaxing visit to the tranquil Nance Lakes. Cast a line or simply watch the diverse local wildlife thrive in this hidden oasis, an absolute joy for nature lovers and photographers alike.\nEvening draws you back towards the coast for a grand finale at the Tate St Ives. Experience striking modern art paired with magnificent sunset views over the Atlantic Ocean, rounding off an adventurous and varied driving day."
+      }
+    }
+  }
+}

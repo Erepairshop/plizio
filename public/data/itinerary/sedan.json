@@ -1,0 +1,497 @@
+{
+  "city_id": "sedan",
+  "anchor": {
+    "name": "Sedan",
+    "coords": [
+      4.9403,
+      49.7019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            4.947026,
+            49.700649
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fassaden dieses Platzes, der Sedans Stolz widerspiegelt, und trinken Sie einen Kaffee in einem nahen Café.",
+            "hu": "Csodálja meg a központi tér történelmi homlokzatait, amelyek Sedan polgári büszkeségét tükrözik, és igyon egy kávét a közeli kávézókban.",
+            "ro": "Admirați fațadele istorice ale pieței centrale care reflectă mândria civică a orașului Sedan și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the central square's historical facades reflecting Sedan's civic pride, and grab a coffee at a nearby cafe to enjoy the local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Charles-Borromée",
+            "hu": "Saint-Charles-Borromée templom",
+            "ro": "Biserica Saint-Charles-Borromée",
+            "en": "Saint-Charles-Borromée Church"
+          },
+          "coords": [
+            4.94672,
+            49.70099
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante klassizistische Architektur dieser ehemals protestantischen Kirche und respektieren Sie die Stille während der Messen.",
+            "hu": "Fedezze fel ennek a korábban protestáns, majd katolikussá vált templomnak a klasszicista építészetét, de tartsa tiszteletben a csendet.",
+            "ro": "Descoperiți arhitectura clasică elegantă a acestui fost templu protestant devenit biserică catolică, dar păstrați liniștea în timpul slujbelor.",
+            "en": "Discover the elegant classical architecture of this former Protestant temple turned Catholic church, but respect the silence during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dijonval",
+            "hu": "Le Dijonval",
+            "ro": "Le Dijonval",
+            "en": "Le Dijonval"
+          },
+          "coords": [
+            4.938825,
+            49.705901
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive ehemalige königliche Textilfabrik, ein Meisterwerk der Industriearchitektur, und fotografieren Sie den Innenhof.",
+            "hu": "Fedezze fel ezt a hatalmas egykori királyi textilgyárat, az ipari építészet remekművét, és mindenképpen fotózza le az impozáns udvart.",
+            "ro": "Explorați această fostă fabrică regală de textile, o capodoperă a arhitecturii industriale, și fotografiați curtea sa impresionantă.",
+            "en": "Explore this massive former royal textile factory, a masterpiece of industrial architecture, and be sure to photograph its impressive courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Vincent-de-Paul",
+            "hu": "Saint-Vincent-de-Paul kápolna",
+            "ro": "Capela Saint-Vincent-de-Paul",
+            "en": "Saint-Vincent-de-Paul Chapel"
+          },
+          "coords": [
+            4.939992,
+            49.705329
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, um die bescheidenen, aber wunderschönen Buntglasfenster in einer ruhigen Atmosphäre zu bewundern.",
+            "hu": "Lépjen be ebbe a békés kápolnába, hogy megcsodálja szerény, de gyönyörű ólomüveg ablakait, és pihenjen egy pillanatot csendben.",
+            "ro": "Pășiți în această capelă pașnică pentru a admira vitraliile sale modeste, dar frumoase, și odihniți-vă un moment într-o atmosferă liniștită.",
+            "en": "Step inside this peaceful chapel to admire its modest yet beautiful stained glass windows, and take a moment to rest in the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sedan",
+            "hu": "Sedan vára",
+            "ro": "Castelul Sedan",
+            "en": "Sedan Castle"
+          },
+          "coords": [
+            4.98772,
+            49.709951
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 68,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die größte Festungsanlage Europas, um Militärgeschichte hautnah zu erleben, und tragen Sie bequeme Schuhe für die Steinwege.",
+            "hu": "Látogasson el Európa legnagyobb erődítményébe, hogy testközelből tapasztalja meg a hadtörténetet, és viseljen kényelmes cipőt a köveken.",
+            "ro": "Vizitați cel mai mare castel fortificat din Europa pentru a experimenta istoria militară și purtați încălțăminte comodă pentru cărările de piatră.",
+            "en": "Visit the largest fortified castle in Europe to experience medieval military history firsthand, and wear comfortable shoes for the stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Sedan, wo Sie über klassische Plätze und vorbei an majestätischen Kirchen spazieren. Gegen Mittag verlagert sich der Fokus auf monumentale Architektur, die das industrielle und königliche Erbe der Stadt hervorhebt. Der Nachmittag gipfelt in einer epischen Erkundung von Europas größter Festung, die das Mittelalter zum Leben erweckt. Beenden Sie Ihren Tag mit einem entspannenden Abendspaziergang und genießen Sie die beleuchteten Fassaden.",
+        "hu": "Napja Sedan történelmi szívében kezdődik, klasszikus tereken és fenséges templomokon keresztül sétálva. Közeledve a délhez, a fókusz a monumentális építészetre terelődik, kiemelve a város gazdag ipari és királyi örökségét. A délután Európa legnagyobb erődítményének epikus felfedezésével csúcsosodik ki, életre keltve a középkort. Fejezze be a napot egy pihentető esti sétával, gyönyörködve a kivilágított történelmi homlokzatokban.",
+        "ro": "Ziua dumneavoastră începe în inima istorică a orașului Sedan, plimbându-vă prin piețe clasice și pe lângă biserici maiestuoase pline de istorie. Spre prânz, atenția se îndreaptă către arhitectura monumentală, subliniind bogata moștenire industrială a orașului. După-amiaza culminează cu explorarea celei mai mari fortărețe din Europa, readucând la viață vremurile medievale. Încheiați ziua cu o plimbare relaxantă de seară.",
+        "en": "Your day begins in the historic heart of Sedan, wandering through classic squares and majestic churches that whisper tales of the past. As midday approaches, the focus shifts to monumental architecture, highlighting the city's rich industrial and royal heritage. The afternoon culminates in an epic exploration of Europe's largest fortress, bringing medieval times back to life. Finish your day with a relaxing evening stroll."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            4.947026,
+            49.700649
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fassaden dieses Platzes, der Sedans Stolz widerspiegelt, und trinken Sie einen Kaffee in einem nahen Café.",
+            "hu": "Csodálja meg a központi tér történelmi homlokzatait, amelyek Sedan polgári büszkeségét tükrözik, és igyon egy kávét a közeli kávézókban.",
+            "ro": "Admirați fațadele istorice ale pieței centrale care reflectă mândria civică a orașului Sedan și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the central square's historical facades reflecting Sedan's civic pride, and grab a coffee at a nearby cafe to enjoy the local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Charles-Borromée",
+            "hu": "Saint-Charles-Borromée templom",
+            "ro": "Biserica Saint-Charles-Borromée",
+            "en": "Saint-Charles-Borromée Church"
+          },
+          "coords": [
+            4.94672,
+            49.70099
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante klassizistische Architektur dieser ehemals protestantischen Kirche und respektieren Sie die Stille während der Messen.",
+            "hu": "Fedezze fel ennek a korábban protestáns, majd katolikussá vált templomnak a klasszicista építészetét, de tartsa tiszteletben a csendet.",
+            "ro": "Descoperiți arhitectura clasică elegantă a acestui fost templu protestant devenit biserică catolică, dar păstrați liniștea în timpul slujbelor.",
+            "en": "Discover the elegant classical architecture of this former Protestant temple turned Catholic church, but respect the silence during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Mabillon",
+            "hu": "Mabillon Kápolna",
+            "ro": "Capela Mabillon",
+            "en": "Mabillon Chapel"
+          },
+          "coords": [
+            4.93089,
+            49.700001
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schätzen Sie die feinen Details der Fassade dieser Schulkapelle im Torcy-Viertel und besuchen Sie sie an einem Morgen für das beste Licht.",
+            "hu": "Csodálja meg ezen iskolai kápolna homlokzatának finom részleteit a Torcy negyedben, és látogasson el ide délelőtt a legjobb fényekért.",
+            "ro": "Apreciați detaliile complicate ale fațadei acestei capele școlare din cartierul Torcy și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Appreciate the intricate details of this school chapel's facade, a hidden gem in the Torcy district, and visit on a morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame et Saint-Léger",
+            "hu": "Notre-Dame et Saint-Léger templom",
+            "ro": "Biserica Notre-Dame et Saint-Léger",
+            "en": "Notre-Dame et Saint-Léger Church"
+          },
+          "coords": [
+            4.933369,
+            49.699433
+          ],
+          "category": "religious",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser örtlichen Pfarrkirche mit ihrem massiven Mauerwerk und betrachten Sie die Holzschnitzereien.",
+            "hu": "Élvezze ennek a helyi plébániatemplomnak a nyugodt hangulatát, majd csendben figyelje meg az oltár melletti fafaragásokat.",
+            "ro": "Bucurați-vă de ambianța senină a acestei biserici parohiale locale cu zidăria sa robustă și observați sculpturile complicate din lemn.",
+            "en": "Take in the serene ambiance of this local parish church with its robust stonework, and quietly observe the intricate wooden carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dijonval",
+            "hu": "Le Dijonval",
+            "ro": "Le Dijonval",
+            "en": "Le Dijonval"
+          },
+          "coords": [
+            4.938825,
+            49.705901
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive ehemalige königliche Textilfabrik, ein Meisterwerk der Industriearchitektur, und fotografieren Sie den Innenhof.",
+            "hu": "Fedezze fel ezt a hatalmas egykori királyi textilgyárat, az ipari építészet remekművét, és mindenképpen fotózza le az impozáns udvart.",
+            "ro": "Explorați această fostă fabrică regală de textile, o capodoperă a arhitecturii industriale, și fotografiați curtea sa impresionantă.",
+            "en": "Explore this massive former royal textile factory, a masterpiece of industrial architecture, and be sure to photograph its impressive courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Vincent-de-Paul",
+            "hu": "Saint-Vincent-de-Paul kápolna",
+            "ro": "Capela Saint-Vincent-de-Paul",
+            "en": "Saint-Vincent-de-Paul Chapel"
+          },
+          "coords": [
+            4.939992,
+            49.705329
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, um die bescheidenen, aber wunderschönen Buntglasfenster in einer ruhigen Atmosphäre zu bewundern.",
+            "hu": "Lépjen be ebbe a békés kápolnába, hogy megcsodálja szerény, de gyönyörű ólomüveg ablakait, és pihenjen egy pillanatot csendben.",
+            "ro": "Pășiți în această capelă pașnică pentru a admira vitraliile sale modeste, dar frumoase, și odihniți-vă un moment într-o atmosferă liniștită.",
+            "en": "Step inside this peaceful chapel to admire its modest yet beautiful stained glass windows, and take a moment to rest in the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sedan",
+            "hu": "Sedan vára",
+            "ro": "Castelul Sedan",
+            "en": "Sedan Castle"
+          },
+          "coords": [
+            4.98772,
+            49.709951
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die größte Festungsanlage Europas, um Militärgeschichte hautnah zu erleben, und tragen Sie bequeme Schuhe für die Steinwege.",
+            "hu": "Látogasson el Európa legnagyobb erődítményébe, hogy testközelből tapasztalja meg a hadtörténetet, és viseljen kényelmes cipőt a köveken.",
+            "ro": "Vizitați cel mai mare castel fortificat din Europa pentru a experimenta istoria militară și purtați încălțăminte comodă pentru cărările de piatră.",
+            "en": "Visit the largest fortified castle in Europe to experience medieval military history firsthand, and wear comfortable shoes for the stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Sedan, wo Sie über klassische Plätze und vorbei an majestätischen Kirchen spazieren. Gegen Mittag verlagert sich der Fokus auf monumentale Architektur, die das industrielle und königliche Erbe der Stadt hervorhebt. Der Nachmittag gipfelt in einer epischen Erkundung von Europas größter Festung, die das Mittelalter zum Leben erweckt. Beenden Sie Ihren Tag mit einem entspannenden Abendspaziergang und genießen Sie die beleuchteten Fassaden.",
+        "hu": "Napja Sedan történelmi szívében kezdődik, klasszikus tereken és fenséges templomokon keresztül sétálva. Közeledve a délhez, a fókusz a monumentális építészetre terelődik, kiemelve a város gazdag ipari és királyi örökségét. A délután Európa legnagyobb erődítményének epikus felfedezésével csúcsosodik ki, életre keltve a középkort. Fejezze be a napot egy pihentető esti sétával, gyönyörködve a kivilágított történelmi homlokzatokban.",
+        "ro": "Ziua dumneavoastră începe în inima istorică a orașului Sedan, plimbându-vă prin piețe clasice și pe lângă biserici maiestuoase pline de istorie. Spre prânz, atenția se îndreaptă către arhitectura monumentală, subliniind bogata moștenire industrială a orașului. După-amiaza culminează cu explorarea celei mai mari fortărețe din Europa, readucând la viață vremurile medievale. Încheiați ziua cu o plimbare relaxantă de seară.",
+        "en": "Your day begins in the historic heart of Sedan, wandering through classic squares and majestic churches that whisper tales of the past. As midday approaches, the focus shifts to monumental architecture, highlighting the city's rich industrial and royal heritage. The afternoon culminates in an epic exploration of Europe's largest fortress, bringing medieval times back to life. Finish your day with a relaxing evening stroll."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Bellevue",
+            "hu": "Château de Bellevue",
+            "ro": "Château de Bellevue",
+            "en": "Château de Bellevue"
+          },
+          "coords": [
+            4.902808,
+            49.697041
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das historische Gelände, wo Kaiser Napoleon III. 1870 kapitulierte, und lesen Sie die Tafeln über die Schlacht von Sedan.",
+            "hu": "Sétáljon azon a történelmi helyszínen, ahol III. Napóleon császár 1870-ben megadta magát, és olvassa el a sedani csatát részletező táblákat.",
+            "ro": "Plimbați-vă pe domeniul unde împăratul Napoleon al III-lea a capitulat în 1870 și citiți plăcile informative despre bătălia de la Sedan.",
+            "en": "Wander around the historic grounds where Emperor Napoleon III surrendered in 1870, and read the informative plaques detailing the battle."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vincent-de-Paul",
+            "hu": "Saint-Vincent-de-Paul templom",
+            "ro": "Biserica Saint-Vincent-de-Paul",
+            "en": "Saint-Vincent-de-Paul Church"
+          },
+          "coords": [
+            4.919852,
+            49.697133
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die harmonische Mischung der Architekturstile in dieser charmanten Viertelkirche und bewundern Sie das schlichte Innendesign.",
+            "hu": "Vegye észre az építészeti stílusok harmonikus keveredését ebben a bájos környékbeli templomban, és csodálja meg az egyszerű belső teret.",
+            "ro": "Observați amestecul armonios de stiluri arhitecturale din această biserică de cartier fermecătoare și admirați designul interior elegant.",
+            "en": "Notice the harmonious blend of architectural styles in this charming neighborhood church, and respectfully admire the elegant interior design."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame et Saint-Léger",
+            "hu": "Notre-Dame et Saint-Léger templom",
+            "ro": "Biserica Notre-Dame et Saint-Léger",
+            "en": "Notre-Dame et Saint-Léger Church"
+          },
+          "coords": [
+            4.933369,
+            49.699433
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser örtlichen Pfarrkirche mit ihrem massiven Mauerwerk und betrachten Sie die Holzschnitzereien.",
+            "hu": "Élvezze ennek a helyi plébániatemplomnak a nyugodt hangulatát, majd csendben figyelje meg az oltár melletti fafaragásokat.",
+            "ro": "Bucurați-vă de ambianța senină a acestei biserici parohiale locale cu zidăria sa robustă și observați sculpturile complicate din lemn.",
+            "en": "Take in the serene ambiance of this local parish church with its robust stonework, and quietly observe the intricate wooden carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Place d'Armes",
+            "hu": "Place d'Armes",
+            "ro": "Place d'Armes",
+            "en": "Place d'Armes"
+          },
+          "coords": [
+            4.947026,
+            49.700649
+          ],
+          "category": "square",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Fassaden dieses Platzes, der Sedans Stolz widerspiegelt, und trinken Sie einen Kaffee in einem nahen Café.",
+            "hu": "Csodálja meg a központi tér történelmi homlokzatait, amelyek Sedan polgári büszkeségét tükrözik, és igyon egy kávét a közeli kávézókban.",
+            "ro": "Admirați fațadele istorice ale pieței centrale care reflectă mândria civică a orașului Sedan și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the central square's historical facades reflecting Sedan's civic pride, and grab a coffee at a nearby cafe to enjoy the local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Charles-Borromée",
+            "hu": "Saint-Charles-Borromée templom",
+            "ro": "Biserica Saint-Charles-Borromée",
+            "en": "Saint-Charles-Borromée Church"
+          },
+          "coords": [
+            4.94672,
+            49.70099
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante klassizistische Architektur dieser ehemals protestantischen Kirche und respektieren Sie die Stille während der Messen.",
+            "hu": "Fedezze fel ennek a korábban protestáns, majd katolikussá vált templomnak a klasszicista építészetét, de tartsa tiszteletben a csendet.",
+            "ro": "Descoperiți arhitectura clasică elegantă a acestui fost templu protestant devenit biserică catolică, dar păstrați liniștea în timpul slujbelor.",
+            "en": "Discover the elegant classical architecture of this former Protestant temple turned Catholic church, but respect the silence during services."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dijonval",
+            "hu": "Le Dijonval",
+            "ro": "Le Dijonval",
+            "en": "Le Dijonval"
+          },
+          "coords": [
+            4.938825,
+            49.705901
+          ],
+          "category": "historical",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive ehemalige königliche Textilfabrik, ein Meisterwerk der Industriearchitektur, und fotografieren Sie den Innenhof.",
+            "hu": "Fedezze fel ezt a hatalmas egykori királyi textilgyárat, az ipari építészet remekművét, és mindenképpen fotózza le az impozáns udvart.",
+            "ro": "Explorați această fostă fabrică regală de textile, o capodoperă a arhitecturii industriale, și fotografiați curtea sa impresionantă.",
+            "en": "Explore this massive former royal textile factory, a masterpiece of industrial architecture, and be sure to photograph its impressive courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sedan",
+            "hu": "Sedan vára",
+            "ro": "Castelul Sedan",
+            "en": "Sedan Castle"
+          },
+          "coords": [
+            4.98772,
+            49.709951
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die größte Festungsanlage Europas, um Militärgeschichte hautnah zu erleben, und tragen Sie bequeme Schuhe für die Steinwege.",
+            "hu": "Látogasson el Európa legnagyobb erődítményébe, hogy testközelből tapasztalja meg a hadtörténetet, és viseljen kényelmes cipőt a köveken.",
+            "ro": "Vizitați cel mai mare castel fortificat din Europa pentru a experimenta istoria militară și purtați încălțăminte comodă pentru cărările de piatră.",
+            "en": "Visit the largest fortified castle in Europe to experience medieval military history firsthand, and wear comfortable shoes for the stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Sedan, wo Sie über klassische Plätze und vorbei an majestätischen Kirchen spazieren. Gegen Mittag verlagert sich der Fokus auf monumentale Architektur, die das industrielle und königliche Erbe der Stadt hervorhebt. Der Nachmittag gipfelt in einer epischen Erkundung von Europas größter Festung, die das Mittelalter zum Leben erweckt. Beenden Sie Ihren Tag mit einem entspannenden Abendspaziergang und genießen Sie die beleuchteten Fassaden.",
+        "hu": "Napja Sedan történelmi szívében kezdődik, klasszikus tereken és fenséges templomokon keresztül sétálva. Közeledve a délhez, a fókusz a monumentális építészetre terelődik, kiemelve a város gazdag ipari és királyi örökségét. A délután Európa legnagyobb erődítményének epikus felfedezésével csúcsosodik ki, életre keltve a középkort. Fejezze be a napot egy pihentető esti sétával, gyönyörködve a kivilágított történelmi homlokzatokban.",
+        "ro": "Ziua dumneavoastră începe în inima istorică a orașului Sedan, plimbându-vă prin piețe clasice și pe lângă biserici maiestuoase pline de istorie. Spre prânz, atenția se îndreaptă către arhitectura monumentală, subliniind bogata moștenire industrială a orașului. După-amiaza culminează cu explorarea celei mai mari fortărețe din Europa, readucând la viață vremurile medievale. Încheiați ziua cu o plimbare relaxantă de seară.",
+        "en": "Your day begins in the historic heart of Sedan, wandering through classic squares and majestic churches that whisper tales of the past. As midday approaches, the focus shifts to monumental architecture, highlighting the city's rich industrial and royal heritage. The afternoon culminates in an epic exploration of Europe's largest fortress, bringing medieval times back to life. Finish your day with a relaxing evening stroll."
+      }
+    }
+  }
+}

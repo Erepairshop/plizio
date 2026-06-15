@@ -1,0 +1,543 @@
+{
+  "city_id": "denmark-blokhus-cities-v2",
+  "anchor": {
+    "name": "Blokhus",
+    "coords": [
+      9.5853,
+      57.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Blokhus Strand",
+            "hu": "Blokhus Strand",
+            "ro": "Plaja Blokhus",
+            "en": "Blokhus Strand"
+          },
+          "coords": [
+            9.569276,
+            57.248838
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten, weißen Sandstrände und die Nordseewellen, aber denken Sie an eine Windjacke, da die Küstenbrise hier oft kräftig ist.",
+            "hu": "Élvezze a végtelen fehér homokot és az Északi-tenger hullámait, de hozzon magával széldzsekit, mivel a parti szél itt meglehetősen erős lehet.",
+            "ro": "Bucurați-vă de întinderea vastă de nisip alb și de valurile Mării Nordului, dar aduceți o jachetă de vânt deoarece briza de coastă este puternică.",
+            "en": "Enjoy the vast expanse of white sand and the North Sea waves, but remember to bring a windbreaker as the coastal breeze can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Kanonudsigt (Süd)",
+            "hu": "Blokhus Ágyús Kilátó (Dél)",
+            "ro": "Punctul de Observație cu Tun (Sud)",
+            "en": "Blokhus Kanonudsigt (South)"
+          },
+          "coords": [
+            9.579897,
+            57.254396
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem historischen Kanonenstandpunkt aus und kommen Sie am klaren Morgen für die besten Fotos.",
+            "hu": "Csodálja meg a panorámás tengerparti kilátást ebből a történelmi ágyús kilátóból, és próbáljon meg tiszta reggelen érkezni a legjobb fotókhoz.",
+            "ro": "Admirați vederea panoramică a coastei de la acest punct de observație istoric cu tun și veniți într-o dimineață senină pentru cele mai bune fotografii.",
+            "en": "Take in the panoramic coastal views from this historic cannon vantage point, and try to visit on a clear morning to capture the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Kanonudsigt (Nord)",
+            "hu": "Blokhus Ágyús Kilátó (Észak)",
+            "ro": "Punctul de Observație cu Tun (Nord)",
+            "en": "Blokhus Kanonudsigt (North)"
+          },
+          "coords": [
+            9.580908,
+            57.254741
+          ],
+          "category": "natural",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem nördlichen Kanonenplatz einen weiteren Winkel der dramatischen Küste, der über eine kurze Wanderung die Dünen hinauf erreichbar ist.",
+            "hu": "Fedezze fel a drámai partvonal egy másik szögét ezen az északi ágyús ponton, amely könnyen megközelíthető egy rövid sétával a festői dűnéken fel.",
+            "ro": "Descoperiți un alt unghi al coastei dramatice de la acest punct nordic cu tun, ușor accesibil printr-o scurtă drumeție pe dunele pitorești.",
+            "en": "Discover another angle of the dramatic coastline from this northern cannon spot, which is easily accessible via a short hike up the scenic dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Die größte Sandburg der Welt",
+            "hu": "A Világ Legnagyobb Homokvára",
+            "ro": "Cel mai Mare Castel de Nisip din Lume",
+            "en": "Worlds Biggest Sandcastle"
+          },
+          "coords": [
+            9.613111,
+            57.24816
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Details dieser hoch aufragenden, rekordbrechenden Sandskulptur und informieren Sie sich vor Ihrem Besuch über die saisonalen Öffnungszeiten.",
+            "hu": "Csodálja meg ennek a hatalmas, rekordot döntő homokszobornak a lenyűgöző részleteit, de látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Minunați-vă de detaliile impresionante ale acestei sculpturi masive de nisip care a doborât recorduri și verificați programul sezonier înainte de vizită.",
+            "en": "Marvel at the impressive details of this towering, record-breaking sand sculpture, and be sure to check the seasonal opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Papierkunst",
+            "hu": "Papírművészeti Múzeum",
+            "ro": "Muzeul de Artă a Hârtiei",
+            "en": "Museum for Papirkunst"
+          },
+          "coords": [
+            9.621983,
+            57.247757
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum filigrane Papierkunstwerke und nehmen Sie sich Zeit für die Vorführungen des Papierschnitt-Handwerks.",
+            "hu": "Fedezze fel a finom és bonyolult papírművészeti alkotásokat ebben az egyedi múzeumban, és szánjon időt az aprólékos papírvágó mesterség bemutatóira is.",
+            "ro": "Explorați opere de artă delicate din hârtie în acest muzeu unic, făcându-vă timp pentru a urmări demonstrațiile live ale meșteșugului de tăiere.",
+            "en": "Explore delicate and intricate paper artworks in this unique museum, taking time to watch the live demonstrations of the meticulous paper-cutting craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Anne Justs Gärten",
+            "hu": "Anne Just Kertjei",
+            "ro": "Grădinile Anne Just",
+            "en": "Anne Justs Have"
+          },
+          "coords": [
+            9.616649,
+            57.246758
+          ],
+          "category": "landmark",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschönen und farbenfrohen Blumengärten der Künstlerin Anne Just und legen Sie im gemütlichen Café eine Kaffeepause ein.",
+            "hu": "Sétáljon végig az Anne Just művész által tervezett élénk és változatos virágkerteken, és mindenképpen álljon meg egy kávéra a hangulatos kávézóban.",
+            "ro": "Plimbați-vă prin grădinile cu flori vibrante proiectate de artista Anne Just, asigurându-vă că vă opriți la cafeneaua confortabilă pentru o pauză.",
+            "en": "Stroll through the beautifully vibrant and varied flower gardens designed by artist Anne Just, making sure to stop at the cozy café for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Hune Kirke",
+            "hu": "Hune Templom",
+            "ro": "Biserica Hune",
+            "en": "Hune Kirke"
+          },
+          "coords": [
+            9.618017,
+            57.25094
+          ],
+          "category": "religious",
+          "arrive_at": "15:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber markante Architektur dieser traditionellen dänischen Kirche und treten Sie leise ein, um den friedlichen Innenraum zu schätzen.",
+            "hu": "Csodálja meg e hagyományos dán templom egyszerű, de feltűnő építészetét, és lépjen be csendben, hogy értékelje annak békés, történelmi belső terét.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici daneze tradiționale și pășiți în liniște pentru a aprecia interiorul său pașnic.",
+            "en": "Admire the simple yet striking architecture of this traditional Danish church, and step inside quietly to appreciate its peaceful, historic interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Meeresluft am weitläufigen Blokhus Strand. Erkunden Sie mittags die historischen Dünen und genießen Sie atemberaubende Panoramen von den alten Kanonenstandpunkten. Am Nachmittag wechseln Sie von Natur zu Kultur und besuchen die riesige Sandburg und das exquisite Papiermuseum. Gegen Abend spazieren Sie durch Anne Justs Gärten, bevor der Tag an der Hune Kirke endet.",
+        "hu": "Kezdje a reggelt a friss tengeri levegő belélegzésével a tágas Blokhus Strandon. Délben fedezze fel a történelmi dűnéket, és élvezze a lélegzetelállító panorámát az öreg ágyús kilátókból. Délután a természetről váltson a kultúrára: látogassa meg a hatalmas homokvárat és a lenyűgöző Papírművészeti Múzeumot. Ahogy közeledik az este, tegyen egy békés sétát Anne Just kertjeiben, mielőtt a Hune templomnál zárná a napot.",
+        "ro": "Începeți dimineața respirând aerul proaspăt de mare pe plaja extinsă Blokhus Strand. La prânz, explorați dunele istorice și bucurați-vă de panoramele uluitoare de la vechile puncte de observație cu tunuri. După-amiaza, treceți de la natură la cultură vizitând imensul castel de nisip și Muzeul de Artă a Hârtiei. Pe seară, faceți o plimbare liniștită prin grădinile Anne Just, încheind ziua la Biserica Hune.",
+        "en": "Start your morning breathing in the fresh sea air at the expansive Blokhus Strand. Midday, explore the historic dunes and enjoy breathtaking panoramas from the old cannon vantage points. In the afternoon, shift from nature to culture by visiting the towering sandcastle and the exquisite Museum for Papirkunst. As evening nears, take a peaceful stroll through Anne Just's vibrant gardens before ending your day at the historic Hune Kirke."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hune Kirke",
+            "hu": "Hune Templom",
+            "ro": "Biserica Hune",
+            "en": "Hune Kirke"
+          },
+          "coords": [
+            9.618017,
+            57.25094
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber markante Architektur dieser traditionellen dänischen Kirche und treten Sie leise ein, um den friedlichen Innenraum zu schätzen.",
+            "hu": "Csodálja meg e hagyományos dán templom egyszerű, de feltűnő építészetét, és lépjen be csendben, hogy értékelje annak békés, történelmi belső terét.",
+            "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici daneze tradiționale și pășiți în liniște pentru a aprecia interiorul său pașnic.",
+            "en": "Admire the simple yet striking architecture of this traditional Danish church, and step inside quietly to appreciate its peaceful, historic interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Anne Justs Gärten",
+            "hu": "Anne Just Kertjei",
+            "ro": "Grădinile Anne Just",
+            "en": "Anne Justs Have"
+          },
+          "coords": [
+            9.616649,
+            57.246758
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschönen und farbenfrohen Blumengärten der Künstlerin Anne Just und legen Sie im gemütlichen Café eine Kaffeepause ein.",
+            "hu": "Sétáljon végig az Anne Just művész által tervezett élénk és változatos virágkerteken, és mindenképpen álljon meg egy kávéra a hangulatos kávézóban.",
+            "ro": "Plimbați-vă prin grădinile cu flori vibrante proiectate de artista Anne Just, asigurându-vă că vă opriți la cafeneaua confortabilă pentru o pauză.",
+            "en": "Stroll through the beautifully vibrant and varied flower gardens designed by artist Anne Just, making sure to stop at the cozy café for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Papierkunst",
+            "hu": "Papírművészeti Múzeum",
+            "ro": "Muzeul de Artă a Hârtiei",
+            "en": "Museum for Papirkunst"
+          },
+          "coords": [
+            9.621983,
+            57.247757
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum filigrane Papierkunstwerke und nehmen Sie sich Zeit für die Vorführungen des Papierschnitt-Handwerks.",
+            "hu": "Fedezze fel a finom és bonyolult papírművészeti alkotásokat ebben az egyedi múzeumban, és szánjon időt az aprólékos papírvágó mesterség bemutatóira is.",
+            "ro": "Explorați opere de artă delicate din hârtie în acest muzeu unic, făcându-vă timp pentru a urmări demonstrațiile live ale meșteșugului de tăiere.",
+            "en": "Explore delicate and intricate paper artworks in this unique museum, taking time to watch the live demonstrations of the meticulous paper-cutting craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Die größte Sandburg der Welt",
+            "hu": "A Világ Legnagyobb Homokvára",
+            "ro": "Cel mai Mare Castel de Nisip din Lume",
+            "en": "Worlds Biggest Sandcastle"
+          },
+          "coords": [
+            9.613111,
+            57.24816
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Details dieser hoch aufragenden, rekordbrechenden Sandskulptur und informieren Sie sich vor Ihrem Besuch über die saisonalen Öffnungszeiten.",
+            "hu": "Csodálja meg ennek a hatalmas, rekordot döntő homokszobornak a lenyűgöző részleteit, de látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Minunați-vă de detaliile impresionante ale acestei sculpturi masive de nisip care a doborât recorduri și verificați programul sezonier înainte de vizită.",
+            "en": "Marvel at the impressive details of this towering, record-breaking sand sculpture, and be sure to check the seasonal opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Strand",
+            "hu": "Blokhus Strand",
+            "ro": "Plaja Blokhus",
+            "en": "Blokhus Strand"
+          },
+          "coords": [
+            9.569276,
+            57.248838
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten, weißen Sandstrände und die Nordseewellen, aber denken Sie an eine Windjacke, da die Küstenbrise hier oft kräftig ist.",
+            "hu": "Élvezze a végtelen fehér homokot és az Északi-tenger hullámait, de hozzon magával széldzsekit, mivel a parti szél itt meglehetősen erős lehet.",
+            "ro": "Bucurați-vă de întinderea vastă de nisip alb și de valurile Mării Nordului, dar aduceți o jachetă de vânt deoarece briza de coastă este puternică.",
+            "en": "Enjoy the vast expanse of white sand and the North Sea waves, but remember to bring a windbreaker as the coastal breeze can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Kanonudsigt (Nord)",
+            "hu": "Blokhus Ágyús Kilátó (Észak)",
+            "ro": "Punctul de Observație cu Tun (Nord)",
+            "en": "Blokhus Kanonudsigt (North)"
+          },
+          "coords": [
+            9.580908,
+            57.254741
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem nördlichen Kanonenplatz einen weiteren Winkel der dramatischen Küste, der über eine kurze Wanderung die Dünen hinauf erreichbar ist.",
+            "hu": "Fedezze fel a drámai partvonal egy másik szögét ezen az északi ágyús ponton, amely könnyen megközelíthető egy rövid sétával a festői dűnéken fel.",
+            "ro": "Descoperiți un alt unghi al coastei dramatice de la acest punct nordic cu tun, ușor accesibil printr-o scurtă drumeție pe dunele pitorești.",
+            "en": "Discover another angle of the dramatic coastline from this northern cannon spot, which is easily accessible via a short hike up the scenic dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fårup Sommerland",
+            "hu": "Fårup Sommerland",
+            "ro": "Fårup Sommerland",
+            "en": "Fårup Sommerland"
+          },
+          "coords": [
+            9.649631,
+            57.268756
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Tag voller aufregender Fahrgeschäfte in diesem großen Waldvergnügungspark und kommen Sie früh, um die Schlangen an den Achterbahnen zu umgehen.",
+            "hu": "Élvezze a napot az izgalmas túrákkal ebben a hatalmas erdei vidámparkban, és érkezzen korán, hogy elkerülje a leghosszabb sorokat a népszerű hullámvasutaknál.",
+            "ro": "Bucurați-vă de o zi plină de adrenalină în acest imens parc de distracții din pădure și sosiți devreme pentru a evita cozile la faimoasele montagne rousse.",
+            "en": "Enjoy a day of thrilling rides and family fun in this massive forest amusement park, and arrive early to beat the longest queues at the popular rollercoasters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an der ruhigen Hune Kirke und den Gärten von Anne Just. Tauchen Sie mittags im Papiermuseum in Kunstwunder ein und bestaunen Sie die rekordbrechende Sandburg. Verbringen Sie Ihren Nachmittag damit, zur wunderschönen Küste zu radeln und den breiten Blokhus Strand zu genießen. Radeln Sie schließlich in Richtung Fårup Sommerland für einen aufregenden Abschluss eines aktiven Tages.",
+        "hu": "Kezdje kerékpáros kalandját a békés Hune templomnál és Anne Just csodálatos kertjeiben. Délben merüljön el a Papírművészeti Múzeum csodáiban és a rekordot döntő homokvárban. A délutánt tekeréssel töltse a gyönyörű partvidék felé, élvezve a széles Blokhus Strandot és az északi kilátót. Végül pedálozzon a Fårup Sommerland felé egy aktív nap izgalmas befejezéseként a dán természetben.",
+        "ro": "Începeți aventura pe bicicletă la Biserica Hune și în grădinile vibrante ale Annei Just. La prânz, aprofundați minunile artistice la Muzeul Hârtiei și admirați uriașul castel de nisip. Petreceți-vă după-amiaza pedalând spre coasta frumoasă, bucurându-vă de plaja Blokhus și de punctul de observație nordic. În cele din urmă, mergeți cu bicicleta spre Fårup Sommerland pentru un final captivant.",
+        "en": "Begin your cycling adventure at the serene Hune Kirke and the wonderfully vibrant gardens of Anne Just. By midday, delve into artistic wonders at the Museum for Papirkunst and marvel at the record-breaking sandcastle. Spend your afternoon pedaling to the beautiful coastline, enjoying the wide Blokhus Strand and the nearby northern cannon viewpoint. Finally, cycle towards Fårup Sommerland for a thrilling end to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 10.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Papierkunst",
+            "hu": "Papírművészeti Múzeum",
+            "ro": "Muzeul de Artă a Hârtiei",
+            "en": "Museum for Papirkunst"
+          },
+          "coords": [
+            9.621983,
+            57.247757
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum filigrane Papierkunstwerke und nehmen Sie sich Zeit für die Vorführungen des Papierschnitt-Handwerks.",
+            "hu": "Fedezze fel a finom és bonyolult papírművészeti alkotásokat ebben az egyedi múzeumban, és szánjon időt az aprólékos papírvágó mesterség bemutatóira is.",
+            "ro": "Explorați opere de artă delicate din hârtie în acest muzeu unic, făcându-vă timp pentru a urmări demonstrațiile live ale meșteșugului de tăiere.",
+            "en": "Explore delicate and intricate paper artworks in this unique museum, taking time to watch the live demonstrations of the meticulous paper-cutting craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Anne Justs Gärten",
+            "hu": "Anne Just Kertjei",
+            "ro": "Grădinile Anne Just",
+            "en": "Anne Justs Have"
+          },
+          "coords": [
+            9.616649,
+            57.246758
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die wunderschönen und farbenfrohen Blumengärten der Künstlerin Anne Just und legen Sie im gemütlichen Café eine Kaffeepause ein.",
+            "hu": "Sétáljon végig az Anne Just művész által tervezett élénk és változatos virágkerteken, és mindenképpen álljon meg egy kávéra a hangulatos kávézóban.",
+            "ro": "Plimbați-vă prin grădinile cu flori vibrante proiectate de artista Anne Just, asigurându-vă că vă opriți la cafeneaua confortabilă pentru o pauză.",
+            "en": "Stroll through the beautifully vibrant and varied flower gardens designed by artist Anne Just, making sure to stop at the cozy café for a coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Die größte Sandburg der Welt",
+            "hu": "A Világ Legnagyobb Homokvára",
+            "ro": "Cel mai Mare Castel de Nisip din Lume",
+            "en": "Worlds Biggest Sandcastle"
+          },
+          "coords": [
+            9.613111,
+            57.24816
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Details dieser hoch aufragenden, rekordbrechenden Sandskulptur und informieren Sie sich vor Ihrem Besuch über die saisonalen Öffnungszeiten.",
+            "hu": "Csodálja meg ennek a hatalmas, rekordot döntő homokszobornak a lenyűgöző részleteit, de látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Minunați-vă de detaliile impresionante ale acestei sculpturi masive de nisip care a doborât recorduri și verificați programul sezonier înainte de vizită.",
+            "en": "Marvel at the impressive details of this towering, record-breaking sand sculpture, and be sure to check the seasonal opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Kanonudsigt (Süd)",
+            "hu": "Blokhus Ágyús Kilátó (Dél)",
+            "ro": "Punctul de Observație cu Tun (Sud)",
+            "en": "Blokhus Kanonudsigt (South)"
+          },
+          "coords": [
+            9.579897,
+            57.254396
+          ],
+          "category": "natural",
+          "arrive_at": "12:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem historischen Kanonenstandpunkt aus und kommen Sie am klaren Morgen für die besten Fotos.",
+            "hu": "Csodálja meg a panorámás tengerparti kilátást ebből a történelmi ágyús kilátóból, és próbáljon meg tiszta reggelen érkezni a legjobb fotókhoz.",
+            "ro": "Admirați vederea panoramică a coastei de la acest punct de observație istoric cu tun și veniți într-o dimineață senină pentru cele mai bune fotografii.",
+            "en": "Take in the panoramic coastal views from this historic cannon vantage point, and try to visit on a clear morning to capture the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blokhus Strand",
+            "hu": "Blokhus Strand",
+            "ro": "Plaja Blokhus",
+            "en": "Blokhus Strand"
+          },
+          "coords": [
+            9.569276,
+            57.248838
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten, weißen Sandstrände und die Nordseewellen, aber denken Sie an eine Windjacke, da die Küstenbrise hier oft kräftig ist.",
+            "hu": "Élvezze a végtelen fehér homokot és az Északi-tenger hullámait, de hozzon magával széldzsekit, mivel a parti szél itt meglehetősen erős lehet.",
+            "ro": "Bucurați-vă de întinderea vastă de nisip alb și de valurile Mării Nordului, dar aduceți o jachetă de vânt deoarece briza de coastă este puternică.",
+            "en": "Enjoy the vast expanse of white sand and the North Sea waves, but remember to bring a windbreaker as the coastal breeze can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fårup Sommerland",
+            "hu": "Fårup Sommerland",
+            "ro": "Fårup Sommerland",
+            "en": "Fårup Sommerland"
+          },
+          "coords": [
+            9.649631,
+            57.268756
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 120,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Tag voller aufregender Fahrgeschäfte in diesem großen Waldvergnügungspark und kommen Sie früh, um die Schlangen an den Achterbahnen zu umgehen.",
+            "hu": "Élvezze a napot az izgalmas túrákkal ebben a hatalmas erdei vidámparkban, és érkezzen korán, hogy elkerülje a leghosszabb sorokat a népszerű hullámvasutaknál.",
+            "ro": "Bucurați-vă de o zi plină de adrenalină în acest imens parc de distracții din pădure și sosiți devreme pentru a evita cozile la faimoasele montagne rousse.",
+            "en": "Enjoy a day of thrilling rides and family fun in this massive forest amusement park, and arrive early to beat the longest queues at the popular rollercoasters."
+          }
+        },
+        {
+          "name": {
+            "de": "Fårup Wasserpark",
+            "hu": "Fårup Vízipark",
+            "ro": "Parcul Acvatic Fårup",
+            "en": "Fårup Vandland"
+          },
+          "coords": [
+            9.644511,
+            57.271311
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem großen Wasserpark mit Rutschen für alle Altersgruppen ab, aber mieten Sie früh ein Schließfach, da diese im Sommer schnell weg sind.",
+            "hu": "Hűsöljön a hatalmas szabadtéri víziparkban, és ne felejtsen el korán szekrényt bérelni, mivel a meleg nyári napokon ezek hamar elfogynak a sok látogató miatt.",
+            "ro": "Răcoriți-vă în parcul acvatic imens cu tobogane pentru toate vârstele, dar închiriați un dulap devreme, deoarece acestea se epuizează rapid în zilele calde.",
+            "en": "Cool off in the massive outdoor water park with slides for all ages, but remember to rent a locker early as they tend to sell out quickly on warm summer days."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt direkt ins kulturelle Herz von Hune mit einem Besuch des Papiermuseums. Später schlendern Sie durch die lebhaften Wege von Anne Justs Gärten und fotografieren die größte Sandburg. Nachmittags fahren Sie kurz zur Küste, um die weiten Ausblicke des südlichen Kanonenplatzes und den Blokhus Strand zu erleben. Schließen Sie Ihren Ausflug mit endloser Spannung im Fårup Sommerland und Vandland ab.",
+        "hu": "Kezdje autós utazását egyenesen Hune kulturális szívében, a Papírművészeti Múzeum meglátogatásával. Később sétáljon Anne Just kertjének vibráló ösvényein, és fényképezze le a világ legnagyobb homokvárát. Délután tegyen egy rövid utat a partra, hogy megtapasztalja a déli ágyús pont és a Blokhus Strand lenyűgöző kilátását. Zárja le az utazást a Fårup Sommerland és Vandland végtelen izgalmaival.",
+        "ro": "Începeți plimbarea cu mașina direct în inima culturală din Hune, cu o vizită la Muzeul Hârtiei. Mai târziu, hoinăriți prin grădinile Annei Just și fotografiați cel mai mare castel de nisip. După-amiaza, conduceți scurt spre coastă pentru a experimenta priveliștile ample ale punctului de observație sudic și vasta plajă Blokhus. Încheiați-vă călătoria cu entuziasm continuu la Fårup Sommerland și Vandland.",
+        "en": "Start your drive directly into the cultural heart of Hune with a visit to the Museum for Papirkunst. Later in the morning, wander the vibrant paths of Anne Just's gardens and snap photos at the world's biggest sandcastle. In the afternoon, take a short drive to the coast to experience the sweeping views of the southern cannon spot and the vast Blokhus Strand. Conclude your trip with non-stop excitement at Fårup Sommerland and Vandland."
+      }
+    }
+  }
+}

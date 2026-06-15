@@ -1,0 +1,428 @@
+{
+  "city_id": "city-leipzig",
+  "anchor": {
+    "name": "Leipzig",
+    "coords": [
+      12.3731,
+      51.3397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thomaskirche",
+            "hu": "Tamás-templom",
+            "ro": "Biserica Sf. Toma",
+            "en": "St. Thomas Church"
+          },
+          "coords": [
+            12.372586,
+            51.339292
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Wirkungsstätte von J.S. Bach, um seinen berühmten Chor zu erleben, und kommen Sie früh, um die beste Akustik im Kirchenschiff zu genießen.",
+            "hu": "Látogassa meg J.S. Bach egykori munkahelyét, csodálja meg a híres kórus lenyűgöző előadását, és érkezzen korán a legjobb akusztikai élményért.",
+            "ro": "Vizitați locul unde a lucrat J.S. Bach pentru a asculta faimosul său cor și ajungeți devreme pentru a prinde cel mai bun loc cu acustică perfectă în navă.",
+            "en": "Visit the historical workplace of J.S. Bach to experience his world-famous choir, and arrive early to secure a seat with the best acoustics in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.375313,
+            51.340405
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der schönsten Renaissance-Rathäuser Deutschlands, das heute ein faszinierendes Stadtgeschichtsmuseum beherbergt, und buchen Sie online.",
+            "hu": "Fedezze fel Németország egyik legszebb reneszánsz városházát, amely ma lenyűgöző helytörténeti múzeumnak ad otthont, és foglalja le a jegyét online.",
+            "ro": "Explorați una dintre cele mai frumoase primării renascentiste din Germania, care găzduiește acum un muzeu de istorie locală, și cumpărați bilete online.",
+            "en": "Explore one of Germany's most beautiful Renaissance town halls, which now houses a fascinating local history museum, and book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mädler Passage",
+            "hu": "Mädler Passage",
+            "ro": "Pasajul Mädler",
+            "en": "Mädler Passage"
+          },
+          "coords": [
+            12.375446,
+            51.339371
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese elegante historische Einkaufspassage mit ihrer prächtigen Architektur und reservieren Sie unbedingt einen Tisch im Auerbachs Keller.",
+            "hu": "Sétáljon végig ezen az elegáns, lenyűgöző építészetű történelmi bevásárlóárkádon, és mindenképpen foglaljon asztalt a híres Auerbachs Keller étteremben.",
+            "ro": "Plimbați-vă prin acest pasaj comercial istoric elegant, admirând arhitectura magnifică, și asigurați-vă că rezervați din timp o masă la Auerbachs Keller.",
+            "en": "Stroll through this elegant historical shopping arcade with its magnificent architecture, and be sure to reserve a table at the famous Auerbachs Keller early."
+          }
+        },
+        {
+          "name": {
+            "de": "Nikolaikirche",
+            "hu": "Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicholas Church"
+          },
+          "coords": [
+            12.378564,
+            51.340264
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kirche, die der Ausgangspunkt der Friedlichen Revolution war, und achten Sie auf die markanten, palmbaumartigen Säulen im Innenraum.",
+            "hu": "Fedezze fel a templomot, amely a békés forradalom kiindulópontja volt, és figyelje meg a belső tér jellegzetes, pálmafát formázó lenyűgöző oszlopait.",
+            "ro": "Descoperiți biserica ce a fost punctul de plecare al Revoluției Pașnice și acordați atenție coloanelor impresionante în formă de palmier din interior.",
+            "en": "Discover the historic church that was the starting point of the Peaceful Revolution, and pay special attention to the striking palm-tree columns inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ägyptisches Museum",
+            "hu": "Egyiptomi Múzeum",
+            "ro": "Muzeul Egiptean",
+            "en": "Ägyptisches Museum"
+          },
+          "coords": [
+            12.379961,
+            51.339852
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die faszinierende Welt des alten Ägyptens mit jahrtausendealten Artefakten und nutzen Sie den kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el az ókori Egyiptom lenyűgöző világában a több ezer éves leletek között, és használja az ingyenes audioguide-ot a mélyebb megértés érdekében.",
+            "ro": "Pătrundeți în lumea fascinantă a Egiptului antic cu artefacte vechi de milenii și folosiți ghidul audio gratuit pentru a obține explicații mai detaliate.",
+            "en": "Dive into the fascinating world of ancient Egypt with millennia-old artifacts, and be sure to use the free audio guide to gain much deeper historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "academixer-Keller",
+            "hu": "academixer-Keller",
+            "ro": "academixer-Keller",
+            "en": "academixer-Keller"
+          },
+          "coords": [
+            12.377293,
+            51.337966
+          ],
+          "category": "cultural",
+          "arrive_at": "15:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassiges deutsches Kabarett in diesem historischen Kellergewölbe, aber kaufen Sie Ihre Tickets weit im Voraus, da die Vorstellungen oft ausverkauft sind.",
+            "hu": "Tapasztalja meg az első osztályú német kabarét ebben a történelmi pincében, de jó előre vegye meg a jegyét, mert az előadások gyakran telt házasak.",
+            "ro": "Experimentați cabaretul german de primă clasă în acest subsol istoric, dar cumpărați biletele cu mult timp înainte, deoarece spectacolele sunt adesea epuizate.",
+            "en": "Experience top-class German cabaret in this historic cellar vault, but make sure to buy your tickets well in advance as the performances are often sold out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie in der Thomaskirche, wo Bachs Erbe weiterlebt, bevor Sie die Renaissance-Architektur des Alten Rathauses bewundern.\nMittag: Schlendern Sie durch die Mädler Passage für ein wenig Schaufensterbummel und gedenken Sie der neueren Geschichte in der Nikolaikirche.\nNachmittag: Tauchen Sie im Ägyptischen Museum tief in die Vergangenheit ein und entdecken Sie antike Artefakte.\nAbend: Beenden Sie Ihren Rundgang mit scharfem Witz im academixer-Keller und genießen Sie Kabarett.",
+        "hu": "Reggel: Kezdje a napot a Tamás-templomban, ahol Bach öröksége ma is él, majd csodálja meg a Régi Városháza lenyűgöző reneszánsz építészetét.\nDélben: Sétáljon végig a Mädler Passage árkádjain nézelődve, majd elmélkedjen a modern történelemről a békés Miklós-templom csendes falai között.\nDélután: Merüljön el a régmúltban az Egyiptomi Múzeumban, ahol évezredes, gondosan megőrzött leleteket fedezhet fel.\nEste: Zárja sétáját éles elméjű humorral az academixer-Kellerben, elmerülve a kabarékultúrában.",
+        "ro": "Dimineața: Începeți la Biserica Sf. Toma, unde moștenirea lui Bach trăiește, înainte de a admira arhitectura renascentistă a Vechii Primării.\nPrânz: Plimbați-vă prin Pasajul Mädler pentru a admira vitrinele, apoi reflectați asupra istoriei moderne în interiorul Bisericii Sf. Nicolae.\nDupă-amiaza: Pătrundeți în trecutul îndepărtat la Muzeul Egiptean, descoperind artefacte vechi de milenii.\nSeara: Încheiați-vă turul cu umor ascuțit și râsete la academixer-Keller, cufundându-vă în tradiția cabaretului.",
+        "en": "Morning: Start at the iconic St. Thomas Church, where J.S. Bach's legacy still resonates, before marveling at the Renaissance architecture of the Old Town Hall.\nMidday: Wander through the elegant Mädler Passage for high-end window shopping, then reflect on modern history inside the peaceful walls of St. Nicholas Church.\nAfternoon: Delve into the deep past at the Ägyptisches Museum, discovering millennia-old artifacts meticulously preserved right in the heart of Leipzig.\nEvening: Conclude your walking tour with sharp wit and laughter at academixer-Keller, completely immersing yourself in Germany's beloved cabaret tradition."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.33,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Druckkunst",
+            "hu": "Nyomdaművészeti Múzeum",
+            "ro": "Muzeul Artei Tipografice",
+            "en": "Museum of Printing Arts"
+          },
+          "coords": [
+            12.343659,
+            51.329115
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie voll funktionsfähige historische Druckmaschinen in Aktion und nehmen Sie an einem Workshop teil, um Ihr eigenes kleines Souvenir zu drucken.",
+            "hu": "Csodálja meg a teljesen működőképes történelmi nyomdagépeket működés közben, és vegyen részt egy workshopon, hogy kinyomtathassa saját kis szuvenírjét.",
+            "ro": "Admirați presele de tipar istorice complet funcționale în acțiune și participați la un atelier practic pentru a vă imprima propriul dumneavoastră suvenir mic.",
+            "en": "Admire fully functional historical printing presses in action, and be sure to participate in a hands-on workshop to print your very own unique small souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikalische Komödie",
+            "hu": "Zenés Vígjáték Színház",
+            "ro": "Comedia Muzicală",
+            "en": "Musical Comedy Theatre"
+          },
+          "coords": [
+            12.339108,
+            51.336158
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Genießen Sie bezaubernde Operetten und Musicals in diesem traditionellen Theater, und kleiden Sie sich elegant für einen unvergesslichen Abend voller Kultur.",
+            "hu": "Élvezze a varázslatos operetteket és musicaleket ebben a hagyományos színházban, és öltözzön elegánsan egy felejthetetlen, kultúrával teli kellemes estéhez.",
+            "ro": "Bucurați-vă de operete și musicaluri încântătoare în acest teatru tradițional și îmbrăcați-vă elegant pentru a petrece o seară de neuitat plină de cultură.",
+            "en": "Enjoy enchanting operettas and classic musicals in this traditional theater, and dress elegantly to prepare for an unforgettable evening full of local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Thomaskirche",
+            "hu": "Tamás-templom",
+            "ro": "Biserica Sf. Toma",
+            "en": "St. Thomas Church"
+          },
+          "coords": [
+            12.372586,
+            51.339292
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.33,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Wirkungsstätte von J.S. Bach, um seinen berühmten Chor zu erleben, und kommen Sie früh, um die beste Akustik im Kirchenschiff zu genießen.",
+            "hu": "Látogassa meg J.S. Bach egykori munkahelyét, csodálja meg a híres kórus lenyűgöző előadását, és érkezzen korán a legjobb akusztikai élményért.",
+            "ro": "Vizitați locul unde a lucrat J.S. Bach pentru a asculta faimosul său cor și ajungeți devreme pentru a prinde cel mai bun loc cu acustică perfectă în navă.",
+            "en": "Visit the historical workplace of J.S. Bach to experience his world-famous choir, and arrive early to secure a seat with the best acoustics in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            12.375313,
+            51.340405
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der schönsten Renaissance-Rathäuser Deutschlands, das heute ein faszinierendes Stadtgeschichtsmuseum beherbergt, und buchen Sie online.",
+            "hu": "Fedezze fel Németország egyik legszebb reneszánsz városházát, amely ma lenyűgöző helytörténeti múzeumnak ad otthont, és foglalja le a jegyét online.",
+            "ro": "Explorați una dintre cele mai frumoase primării renascentiste din Germania, care găzduiește acum un muzeu de istorie locală, și cumpărați bilete online.",
+            "en": "Explore one of Germany's most beautiful Renaissance town halls, which now houses a fascinating local history museum, and book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Leipzig",
+            "hu": "Lipcsei Állatkert",
+            "ro": "Grădina Zoologică din Leipzig",
+            "en": "Leipzig Zoo"
+          },
+          "coords": [
+            12.3706,
+            51.34842
+          ],
+          "category": "park",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der modernsten Zoos Europas mit seiner riesigen Tropenhalle Gondwanaland und kommen Sie gleich zur Öffnung, um die Fütterungen zu sehen.",
+            "hu": "Fedezze fel Európa egyik legmodernebb állatkertjét a hatalmas Gondwanaland trópusi csarnokkal, és érkezzen nyitásra, hogy láthassa az állatok etetését.",
+            "ro": "Explorați unul dintre cele mai moderne grădini zoologice din Europa cu uriașa sa sală tropicală Gondwanaland și veniți la deschidere pentru a vedea hrănirile.",
+            "en": "Explore one of Europe's most modern zoos with its massive Gondwanaland tropical hall, and arrive right at opening time to watch the morning animal feedings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Radtour im industriellen Südwesten beim Museum für Druckkunst und erleben Sie die Mechanik historischer Druckpressen.\nMittag: Radeln Sie zur Musikalischen Komödie und fahren Sie dann direkt ins Zentrum zur majestätischen Thomaskirche.\nNachmittag: Fahren Sie weiter zum prachtvollen Alten Rathaus und genießen Sie die historische Atmosphäre des lebhaften Marktplatzes.\nAbend: Beenden Sie Ihre Fahrt am weltberühmten Zoo Leipzig und wandern Sie durch das riesige Gondwanaland, während sich die Tiere zur Ruhe begeben.",
+        "hu": "Reggel: Kezdje a kerékpártúrát az ipari délnyugaton a Nyomdaművészeti Múzeumban, és tapasztalja meg a történelmi nyomdagépek lenyűgöző mechanikáját.\nDélben: Tekerjen a Zenés Vígjáték Színház felé, majd egyenesen a városközpontba, hogy meglátogassa a fenséges Tamás-templomot.\nDélután: Kerékpározzon a lenyűgöző Régi Városházához, és élvezze az élettel teli piactér történelmi hangulatát.\nEste: Fejezze be túráját a világhírű Lipcsei Állatkertben, sétálva a hatalmas Gondwanalandban, miközben az állatok lecsendesednek.",
+        "ro": "Dimineața: Începeți turul cu bicicleta în sud-vestul industrial, la Muzeul Artei Tipografice, experimentând mecanica preselor istorice.\nPrânz: Pedalați spre Comedia Muzicală, apoi mergeți direct în centrul orașului pentru a vizita maiestuoasa Biserică Sf. Toma.\nDupă-amiaza: Mergeți cu bicicleta spre grandioasa Veche Primărie pentru a vă bucura de vibrațiile istorice ale pieței.\nSeara: Terminați-vă plimbarea la faimoasa Grădină Zoologică, rătăcind prin vastul Gondwanaland în timp ce animalele se pregătesc de culcare.",
+        "en": "Morning: Kick off your cycling tour in the industrial southwest at the Museum of Printing Arts, experiencing the fascinating mechanics of historical printing presses.\nMidday: Pedal towards the Musical Comedy Theatre to admire its charm, then ride directly into the city center to visit the majestic St. Thomas Church.\nAfternoon: Cycle over to the grand Old Town Hall to soak in the historical market square vibes, taking a moment to appreciate the lively civic atmosphere.\nEvening: Finish your ride at the world-renowned Leipzig Zoo, wandering through the vast Gondwanaland as the animals settle down for the approaching twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 8.03,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Völkerschlachtdenkmal",
+            "hu": "Népek Csatájának Emlékműve",
+            "ro": "Monumentul Bătăliei Națiunilor",
+            "en": "Monument to the Battle of the Nations"
+          },
+          "coords": [
+            12.413056,
+            51.312222
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie dieses kolossale Denkmal für einen Panoramablick über ganz Leipzig und tragen Sie bequeme Schuhe, da es Hunderte von steilen Stufen hinaufgeht.",
+            "hu": "Mássza meg ezt a kolosszális emlékművet a teljes Lipcsére nyíló panorámáért, és viseljen kényelmes cipőt, mivel több száz meredek lépcsőfok vezet a tetejére.",
+            "ro": "Urcați pe acest monument colosal pentru o vedere panoramică asupra orașului Leipzig și purtați încălțăminte confortabilă, deoarece sunt sute de trepte abrupte.",
+            "en": "Climb this colossal monument for a breathtaking panoramic view of all of Leipzig, and wear comfortable shoes as there are hundreds of steep stairs to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Ägyptisches Museum",
+            "hu": "Egyiptomi Múzeum",
+            "ro": "Muzeul Egiptean",
+            "en": "Ägyptisches Museum"
+          },
+          "coords": [
+            12.379961,
+            51.339852
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.83,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die faszinierende Welt des alten Ägyptens mit jahrtausendealten Artefakten und nutzen Sie den kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el az ókori Egyiptom lenyűgöző világában a több ezer éves leletek között, és használja az ingyenes audioguide-ot a mélyebb megértés érdekében.",
+            "ro": "Pătrundeți în lumea fascinantă a Egiptului antic cu artefacte vechi de milenii și folosiți ghidul audio gratuit pentru a obține explicații mai detaliate.",
+            "en": "Dive into the fascinating world of ancient Egypt with millennia-old artifacts, and be sure to use the free audio guide to gain much deeper historical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mädler Passage",
+            "hu": "Mädler Passage",
+            "ro": "Pasajul Mädler",
+            "en": "Mädler Passage"
+          },
+          "coords": [
+            12.375446,
+            51.339371
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese elegante historische Einkaufspassage mit ihrer prächtigen Architektur und reservieren Sie unbedingt einen Tisch im Auerbachs Keller.",
+            "hu": "Sétáljon végig ezen az elegáns, lenyűgöző építészetű történelmi bevásárlóárkádon, és mindenképpen foglaljon asztalt a híres Auerbachs Keller étteremben.",
+            "ro": "Plimbați-vă prin acest pasaj comercial istoric elegant, admirând arhitectura magnifică, și asigurați-vă că rezervați din timp o masă la Auerbachs Keller.",
+            "en": "Stroll through this elegant historical shopping arcade with its magnificent architecture, and be sure to reserve a table at the famous Auerbachs Keller early."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Leipzig",
+            "hu": "Lipcsei Állatkert",
+            "ro": "Grădina Zoologică din Leipzig",
+            "en": "Leipzig Zoo"
+          },
+          "coords": [
+            12.3706,
+            51.34842
+          ],
+          "category": "park",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen der modernsten Zoos Europas mit seiner riesigen Tropenhalle Gondwanaland und kommen Sie gleich zur Öffnung, um die Fütterungen zu sehen.",
+            "hu": "Fedezze fel Európa egyik legmodernebb állatkertjét a hatalmas Gondwanaland trópusi csarnokkal, és érkezzen nyitásra, hogy láthassa az állatok etetését.",
+            "ro": "Explorați unul dintre cele mai moderne grădini zoologice din Europa cu uriașa sa sală tropicală Gondwanaland și veniți la deschidere pentru a vedea hrănirile.",
+            "en": "Explore one of Europe's most modern zoos with its massive Gondwanaland tropical hall, and arrive right at opening time to watch the morning animal feedings."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater der Jungen Welt",
+            "hu": "Ifjúsági Színház",
+            "ro": "Teatrul Lumii Tinerilor",
+            "en": "Theater der Jungen Welt"
+          },
+          "coords": [
+            12.333334,
+            51.337641
+          ],
+          "category": "cultural",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.84,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von innovativen Inszenierungen des ältesten professionellen Kinder- und Jugendtheaters Deutschlands inspirieren und buchen Sie Sitzplätze früh.",
+            "hu": "Merítsen ihletet Németország legrégebbi professzionális ifjúsági színházának innovatív előadásaiból, és mindenképpen időben foglalja le a legjobb üléseket.",
+            "ro": "Lăsați-vă inspirați de producțiile inovatoare ale celui mai vechi teatru pentru tineret din Germania și rezervați locurile devreme pentru o vizibilitate bună.",
+            "en": "Be inspired by the innovative productions of Germany's oldest professional youth theater, and book your seats early to secure the best view for the whole family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zum imposanten Völkerschlachtdenkmal und erklimmen Sie dessen massive Struktur für spektakuläre Panoramablicke.\nMittag: Fahren Sie zurück ins Zentrum, um alte Schätze im Ägyptischen Museum zu erkunden, gefolgt von einem Stopp an der prachtvollen Mädler Passage.\nNachmittag: Fahren Sie in Richtung Norden zum Zoo Leipzig, wo Sie leicht Stunden damit verbringen können, exotische Tiere zu beobachten.\nAbend: Parken Sie im belebten Westen, um einer innovativen Aufführung im Theater der Jungen Welt beizuwohnen und den Tag inspirierend abzuschließen.",
+        "hu": "Reggel: Vezessen ki az impozáns Népek Csatájának Emlékművéhez, és mássza meg a hatalmas építményt a lenyűgöző panorámáért.\nDélben: Térjen vissza a belvárosba, hogy ókori kincseket fedezzen fel az Egyiptomi Múzeumban, majd álljon meg a lenyűgöző Mädler Passagenál.\nDélután: Vezessen egy kicsit északra a Lipcsei Állatkerthez, ahol órákat tölthet a különféle ökoszisztémák és egzotikus állatok megfigyelésével.\nEste: Parkoljon le a nyüzsgő nyugati oldalon, és vegyen részt egy innovatív előadáson az Ifjúsági Színházban, inspirálóan zárva a napot.",
+        "ro": "Dimineața: Conduceți până la impunătorul Monument al Bătăliei Națiunilor, urcând pe structura sa pentru a admira priveliștile panoramice spectaculoase.\nPrânz: Întoarceți-vă în centru pentru a explora comori la Muzeul Egiptean, urmat de o scurtă oprire la Pasajul Mädler cu arhitectura sa uimitoare.\nDupă-amiaza: Mergeți spre nord până la Grădina Zoologică din Leipzig, unde puteți petrece cu ușurință ore întregi observând animale exotice.\nSeara: Parcați în partea de vest a orașului pentru a participa la o reprezentație inovatoare la Teatrul Lumii Tinerilor, încheind ziua perfect.",
+        "en": "Morning: Drive out to the imposing Monument to the Battle of the Nations, climbing its massive structure to take in spectacular panoramic views of the entire region.\nMidday: Cruise back to the city center to explore ancient treasures at the Ägyptisches Museum, followed by a quick stop at the architecturally stunning Mädler Passage.\nAfternoon: Drive slightly north to the Leipzig Zoo, where you can easily spend hours exploring diverse ecosystems and observing exotic wildlife in modern habitats.\nEvening: Park near the lively west side to attend an innovative performance at the Theater der Jungen Welt, wrapping up your day with inspiring modern theater."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-baza-cities-v2",
+  "anchor": {
+    "name": "Baza",
+    "coords": [
+      -2.774856,
+      37.490778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alcazaba de Baza",
+            "hu": "Alcazaba de Baza",
+            "ro": "Alcazaba de Baza",
+            "en": "Alcazaba de Baza"
+          },
+          "coords": [
+            -2.7755,
+            37.489688
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser maurischen Festung mit Panoramablick, aber tragen Sie festes Schuhwerk für die unebenen historischen Wege zu den oberen Mauern.",
+            "hu": "Fedezze fel e mór erődítmény maradványait, ahonnan panorámás kilátás nyílik, de viseljen masszív cipőt a felső falakhoz vezető egyenetlen történelmi utakon.",
+            "ro": "Explorați rămășițele acestei fortărețe maure ce oferă vederi panoramice, dar purtați încălțăminte rezistentă pentru potecile istorice denivelate.",
+            "en": "Explore the remnants of this Moorish fortress offering panoramic views, but wear sturdy shoes for the uneven historical paths leading to the top walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Baza",
+            "hu": "Baza Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Baza",
+            "en": "Museo Arqueológico de Baza"
+          },
+          "coords": [
+            -2.774397,
+            37.489895
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ikonische Dama de Baza und iberische Artefakte, und besuchen Sie unbedingt das Untergeschoss, wo die feinsten Skulpturen ausgestellt sind.",
+            "hu": "Fedezze fel az ikonikus Baza Hölgyet és az ibériai leleteket, és mindenképpen látogassa meg az alagsort, ahol a legbonyolultabb szobrokat állítják ki.",
+            "ro": "Descoperiți iconica Dama de Baza și artefactele iberice bogate, asigurându-vă că vizitați subsolul unde sunt expuse cele mai complexe sculpturi.",
+            "en": "Discover the iconic Dama de Baza and rich Iberian artifacts, making sure to visit the basement level where the most intricate sculptures are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente de los Caños Dorados",
+            "hu": "Fuente de los Caños Dorados",
+            "ro": "Fuente de los Caños Dorados",
+            "en": "Fuente de los Caños Dorados"
+          },
+          "coords": [
+            -2.774969,
+            37.488645
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen beeindruckenden Brunnen aus dem 16. Jahrhundert, und vergessen Sie nicht, Ihre eigene Flasche mit dem sauberen, fließenden Wasser zu füllen.",
+            "hu": "Csodálja meg ezt a 16. századi szökőkutat, amely egykor felfrissítette az utazókat, és ne felejtse el megtölteni saját üvegét az itt folyó tiszta vízzel.",
+            "ro": "Admirați această fântână impresionantă din secolul al XVI-lea, și nu uitați să vă umpleți propria sticlă cu apa curată și curgătoare de aici.",
+            "en": "Admire this impressive 16th-century water fountain that once refreshed travelers, and don't forget to fill your own bottle with the clean, flowing water here."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguas Carnicerías",
+            "hu": "Antiguas Carnicerías",
+            "ro": "Antiguas Carnicerías",
+            "en": "Antiguas Carnicerías"
+          },
+          "coords": [
+            -2.775022,
+            37.491211
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Mudéjar-Architektur dieser alten Metzgereien, und nehmen Sie sich Zeit, die geschnitzten Holzbalkone von der Straßenseite aus zu fotografieren.",
+            "hu": "Csodálja meg ezeknek az ősi hentesüzleteknek a mudejar építészetét, és szánjon egy percet az egyedi faragású fa erkélyek lefotózására az utca felől.",
+            "ro": "Admirați arhitectura mudéjar a acestor vechi măcelării, luându-vă un moment pentru a fotografia balcoanele din lemn sculptat unic de pe partea străzii.",
+            "en": "Marvel at the Mudéjar architecture of these ancient butcher shops, taking a moment to photograph the uniquely carved wooden balconies from the street side."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Merced",
+            "hu": "Iglesia de la Merced",
+            "ro": "Iglesia de la Merced",
+            "en": "Iglesia de la Merced"
+          },
+          "coords": [
+            -2.775976,
+            37.491449
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um das schöne Altarbild zu sehen, und versuchen Sie, während der Morgenmesse zu kommen, um die lokale Atmosphäre zu erleben.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megnézze a gyönyörű oltárképét, és próbáljon meg a reggeli mise idején látogatni az autentikus helyi hangulatért.",
+            "ro": "Intrați în această biserică liniștită pentru a vedea frumosul său retablu, și încercați să o vizitați în timpul orelor de slujbă de dimineață.",
+            "en": "Step into this peaceful church to see its beautiful altarpiece, and try to visit during the morning mass hours to experience the authentic local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Bäder von Baza",
+            "hu": "Bazai Arab Fürdő",
+            "ro": "Băile Arabe din Baza",
+            "en": "Baza Arab Baths"
+          },
+          "coords": [
+            -2.770059,
+            37.489976
+          ],
+          "category": "museum",
+          "arrive_at": "14:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen gut erhaltenen Thermalbädern aus dem 11. Jahrhundert und achten Sie auf die sternförmigen Oberlichter an der Decke.",
+            "hu": "Lépjen vissza az időben ezekben a jól megőrzett 11. századi termálfürdőkben, és pillantson fel a csillag alakú tetőablakokra, amelyek megvilágítják a termeket.",
+            "ro": "Pășiți înapoi în timp în aceste băi termale bine conservate din secolul al XI-lea, și priviți în sus pentru a observa luminatoarele în formă de stea.",
+            "en": "Step back in time inside these well-preserved 11th-century thermal baths, and look up to notice the star-shaped skylights that beautifully illuminate the rooms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in die Geschichte eingetaucht an der hoch aufragenden Alcazaba, gefolgt von antiken Artefakten im Archäologischen Museum. Mittags besuchen Sie den berühmten Brunnen Caños Dorados und den historischen Fleischmarkt. Verbringen Sie den Nachmittag damit, durch die alten Straßen zur friedlichen Iglesia de la Merced zu schlendern. Abends entspannen Sie in den Arabischen Bädern.",
+        "hu": "Kezdje a reggelt a történelemben elmerülve a magasodó Alcazabánál, majd tekintse meg az ókori ibériai leleteket a régészeti múzeumban. Délben látogasson el az ikonikus Caños Dorados szökőkúthoz és a húspiachoz. A délutánt azzal töltheti, hogy a régi utcákon a békés Iglesia de la Merced felé sétál. Ahogy leszáll az est, pihenjen meg a figyelemre méltóan megőrzött Arab Fürdőben.",
+        "ro": "Începeți dimineața scufundat în istorie la impunătoarea Alcazaba, urmată de o privire fascinantă asupra artefactelor iberice de la muzeul arheologic. La prânz veți vizita fântâna Caños Dorados și vechea măcelărie. Petreceți-vă după-amiaza plimbându-vă pe străzile vechi către pașnica Iglesia de la Merced. Odată cu lăsarea serii, relaxați-vă la Băile Arabe extrem de bine conservate.",
+        "en": "Begin your morning immersed in history at the towering Alcazaba, followed by a fascinating look at ancient Iberian artifacts in the nearby archaeological museum. Midday brings you to the iconic Caños Dorados fountain and the historic meat market. Spend your afternoon wandering the old streets to the peaceful Iglesia de la Merced. As evening falls, relax at the remarkably preserved Arab Baths."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de los Enríquez",
+            "hu": "Palacio de los Enríquez",
+            "ro": "Palacio de los Enríquez",
+            "en": "Palacio de los Enríquez"
+          },
+          "coords": [
+            -2.774283,
+            37.486542
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen Renaissancepalast, aber überprüfen Sie die Öffnungszeiten im Voraus, da Führungen oft auf bestimmte Tage beschränkt sind.",
+            "hu": "Járja be ezt a katolikus uralkodók rokonai által épített reneszánsz palotát, de előre ellenőrizze a nyitvatartást, mivel a tárlatvezetések korlátozottak.",
+            "ro": "Vizitați acest palat renascentist, dar verificați orele de deschidere în avans, deoarece tururile ghidate sunt adesea limitate la anumite zile.",
+            "en": "Tour this Renaissance palace built by the Catholic Monarchs' relatives, but verify opening hours in advance as guided tours are often limited to specific days."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de la Alameda",
+            "hu": "Parque de la Alameda",
+            "ro": "Parque de la Alameda",
+            "en": "Parque de la Alameda"
+          },
+          "coords": [
+            -2.775379,
+            37.486959
+          ],
+          "category": "park",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der grünen Lunge der Stadt mit ihren alten Bäumen und holen Sie sich einen Kaffee, um ihn auf einer der schattigen Parkbänke zu genießen.",
+            "hu": "Pihenjen a város zöld tüdejében, és vegyen egy kávét egy közeli kávézóban, hogy elfogyassza azt az egyik árnyékos, ősi fákkal körülvett parki padon.",
+            "ro": "Relaxați-vă în plămânul verde al orașului plin de copaci seculari, luând o cafea din apropiere pentru a o savura pe una dintre băncile umbrite ale parcului.",
+            "en": "Relax in the city's green lung filled with ancient trees and tranquil pathways, grabbing a coffee from a nearby café to enjoy on one of the shaded park benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba de Baza",
+            "hu": "Alcazaba de Baza",
+            "ro": "Alcazaba de Baza",
+            "en": "Alcazaba de Baza"
+          },
+          "coords": [
+            -2.7755,
+            37.489688
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser maurischen Festung mit Panoramablick, aber tragen Sie festes Schuhwerk für die unebenen historischen Wege zu den oberen Mauern.",
+            "hu": "Fedezze fel e mór erődítmény maradványait, ahonnan panorámás kilátás nyílik, de viseljen masszív cipőt a felső falakhoz vezető egyenetlen történelmi utakon.",
+            "ro": "Explorați rămășițele acestei fortărețe maure ce oferă vederi panoramice, dar purtați încălțăminte rezistentă pentru potecile istorice denivelate.",
+            "en": "Explore the remnants of this Moorish fortress offering panoramic views, but wear sturdy shoes for the uneven historical paths leading to the top walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de las Cinco Esquinas",
+            "hu": "Torre de las Cinco Esquinas",
+            "ro": "Torre de las Cinco Esquinas",
+            "en": "Torre de las Cinco Esquinas"
+          },
+          "coords": [
+            -2.773932,
+            37.491228
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die einzigartige fünf-eckige Struktur dieses Verteidigungsturms, den man am besten vom angrenzenden Platz aus betrachtet, um ihn zu fotografieren.",
+            "hu": "Vegye észre ennek a védelmi toronynak az egyedi ötszögletű szerkezetét, amelyet a szomszédos térről lehet a legjobban megtekinteni a fotózáshoz.",
+            "ro": "Observați structura unică cu cinci colțuri a acestui turn defensiv, care este cel mai bine văzută din piața alăturată pentru a-i surprinde geometria completă.",
+            "en": "Notice the unique five-cornered structure of this defensive tower, which is best viewed from the adjoining plaza to capture its complete architectural geometry."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Páez de Espinosa",
+            "hu": "Palacio de los Páez de Espinosa",
+            "ro": "Palacio de los Páez de Espinosa",
+            "en": "Palacio de los Páez de Espinosa"
+          },
+          "coords": [
+            -2.772809,
+            37.491279
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die aristokratischen Wappen an der Fassade dieses großen Herrenhauses und gehen Sie langsam die Straße entlang, um das Mauerwerk zu schätzen.",
+            "hu": "Figyelje meg az arisztokrata címereket a nemesi kúria homlokzatán, és sétáljon lassan az utcán, hogy értékelje az ajtó bonyolult falazati részleteit.",
+            "ro": "Observați blazoanele aristocratice de pe fațada acestui conac grandios, și plimbați-vă încet de-a lungul străzii pentru a aprecia detaliile zidăriei.",
+            "en": "Observe the aristocratic crests on the facade of this grand manor, and walk slowly along the street to appreciate the intricate masonry details of the doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Real Pósito de Baza",
+            "hu": "Real Pósito de Baza",
+            "ro": "Real Pósito de Baza",
+            "en": "Real Pósito de Baza"
+          },
+          "coords": [
+            -2.772292,
+            37.490333
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Getreidespeicher, der die Stadt jahrhundertelang versorgte und heute als Kulturzentrum für lokale Kunstausstellungen dient.",
+            "hu": "Fedezze fel ezt a történelmi magtárat, amely évszázadokon át fenntartotta a várost, és ma kulturális központként működik, ahol művészeti kiállításokat tartanak.",
+            "ro": "Descoperiți acest depozit istoric de cereale, care acum funcționează ca un centru cultural unde sunt organizate frecvent expoziții de artă locală.",
+            "en": "Discover this historical grain storehouse that sustained the city through centuries, now functioning as a cultural center where local art exhibits are held."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Capel",
+            "hu": "Torre Capel",
+            "ro": "Torre Capel",
+            "en": "Torre Capel"
+          },
+          "coords": [
+            -2.749076,
+            37.489946
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug zu diesem abgelegenen historischen Wachturm und bringen Sie ein Fernglas mit, um die weite ländliche Landschaft zu würdigen.",
+            "hu": "Tegyen egy rövid utat ehhez a mezőgazdasági földeken található eldugott történelmi őrtoronyhoz, és vigyen távcsövet a környező vidék megcsodálásához.",
+            "ro": "Faceți o scurtă călătorie până la acest turn de veghe istoric retras pe câmp, aducând un binoclu pentru a aprecia peisajul rural vast din jurul său.",
+            "en": "Take a short trip out to this secluded historical watchtower in the agricultural fields, bringing binoculars to appreciate the sweeping rural landscape around it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am Palacio de los Enríquez, bevor Sie eine Fahrt durch die grünen Wege des Parque de la Alameda genießen. Mittags radeln Sie zur historischen Festung Alcazaba, um Bazas maurische Vergangenheit zu entdecken. Am Nachmittag gleiten Sie an aristokratischen Palästen vorbei. Beenden Sie den Tag mit einer entspannten Fahrt hinaus zum ländlichen Torre Capel.",
+        "hu": "Kerékpáros kalandja a Palacio de los Enríqueznél kezdődik, mielőtt egy frissítő reggeli túrát tenne a Parque de la Alameda zöld ösvényein. Délben tekerjen fel a történelmi Alcazaba erődbe. Délután guruljon el az ikonikus ötsarkos torony és a történelmi arisztokrata paloták mellett. A napot egy kellemes vidéki kerékpározással zárja a távoli Torre Capelhez a lemenő nap fényében.",
+        "ro": "Aventura pe bicicletă începe la Palacio de los Enríquez înainte de a vă bucura de o plimbare matinală prin Parque de la Alameda. La prânz, pedalați până la fortăreața Alcazaba. După-amiaza, treceți pe lângă iconicul turn cu cinci colțuri și palatele aristocratice istorice. Încheiați ziua mergând pe bicicletă spre zona rurală pentru a vizita și fotografia impunătorul Torre Capel.",
+        "en": "Your cycling adventure starts at the grandiose Palacio de los Enríquez before enjoying a refreshing morning ride through the green pathways of Parque de la Alameda. At midday, pedal up to the historical Alcazaba fortress to uncover Baza's Moorish past. In the afternoon, glide past the iconic five-cornered tower and historic aristocratic palaces. End the day riding out to the rural Torre Capel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Santa Rita",
+            "hu": "Ermita de Santa Rita",
+            "ro": "Ermita de Santa Rita",
+            "en": "Ermita de Santa Rita"
+          },
+          "coords": [
+            -2.779764,
+            37.490159
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Einsiedelei in einem ruhigen Viertel und beobachten Sie die Einheimischen, die am Wochenende frische Blumen hinterlassen.",
+            "hu": "Látogasson el ebbe a bájos kis remetelakba, amely egy csendes negyedben bújik meg, és figyelje meg a hétvégén friss virágot hozó hívő helyieket.",
+            "ro": "Vizitați acest schit fermecător ascuns într-un cartier liniștit, și observați localnicii devotați care lasă flori proaspete la intrare în weekend.",
+            "en": "Visit this charming small hermitage tucked away in a quiet neighborhood, and observe the devout locals leaving fresh flowers at the entrance during the weekend."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazaba de Baza",
+            "hu": "Alcazaba de Baza",
+            "ro": "Alcazaba de Baza",
+            "en": "Alcazaba de Baza"
+          },
+          "coords": [
+            -2.7755,
+            37.489688
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser maurischen Festung mit Panoramablick, aber tragen Sie festes Schuhwerk für die unebenen historischen Wege zu den oberen Mauern.",
+            "hu": "Fedezze fel e mór erődítmény maradványait, ahonnan panorámás kilátás nyílik, de viseljen masszív cipőt a felső falakhoz vezető egyenetlen történelmi utakon.",
+            "ro": "Explorați rămășițele acestei fortărețe maure ce oferă vederi panoramice, dar purtați încălțăminte rezistentă pentru potecile istorice denivelate.",
+            "en": "Explore the remnants of this Moorish fortress offering panoramic views, but wear sturdy shoes for the uneven historical paths leading to the top walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Baza",
+            "hu": "Baza Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Baza",
+            "en": "Museo Arqueológico de Baza"
+          },
+          "coords": [
+            -2.774397,
+            37.489895
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ikonische Dama de Baza und iberische Artefakte, und besuchen Sie unbedingt das Untergeschoss, wo die feinsten Skulpturen ausgestellt sind.",
+            "hu": "Fedezze fel az ikonikus Baza Hölgyet és az ibériai leleteket, és mindenképpen látogassa meg az alagsort, ahol a legbonyolultabb szobrokat állítják ki.",
+            "ro": "Descoperiți iconica Dama de Baza și artefactele iberice bogate, asigurându-vă că vizitați subsolul unde sunt expuse cele mai complexe sculpturi.",
+            "en": "Discover the iconic Dama de Baza and rich Iberian artifacts, making sure to visit the basement level where the most intricate sculptures are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Bäder von Baza",
+            "hu": "Bazai Arab Fürdő",
+            "ro": "Băile Arabe din Baza",
+            "en": "Baza Arab Baths"
+          },
+          "coords": [
+            -2.770059,
+            37.489976
+          ],
+          "category": "museum",
+          "arrive_at": "12:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen gut erhaltenen Thermalbädern aus dem 11. Jahrhundert und achten Sie auf die sternförmigen Oberlichter an der Decke.",
+            "hu": "Lépjen vissza az időben ezekben a jól megőrzett 11. századi termálfürdőkben, és pillantson fel a csillag alakú tetőablakokra, amelyek megvilágítják a termeket.",
+            "ro": "Pășiți înapoi în timp în aceste băi termale bine conservate din secolul al XI-lea, și priviți în sus pentru a observa luminatoarele în formă de stea.",
+            "en": "Step back in time inside these well-preserved 11th-century thermal baths, and look up to notice the star-shaped skylights that beautifully illuminate the rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Manuela",
+            "hu": "Villa Manuela",
+            "ro": "Villa Manuela",
+            "en": "Villa Manuela"
+          },
+          "coords": [
+            -2.771571,
+            37.488362
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernistische Architektur dieser historischen Villa, die in einem schönen Kontrast zu den älteren maurischen Gebäuden der Stadt steht.",
+            "hu": "Csodálja meg ennek az egyedülálló történelmi villának a modernista építészetét, amely gyönyörű kontrasztot alkot a városban elszórtan található mór épületekkel.",
+            "ro": "Admirați arhitectura modernistă a acestei vile istorice unice, care contrastează frumos cu clădirile maure mai vechi împrăștiate prin oraș.",
+            "en": "Marvel at the modernist architecture of this unique historical villa, which contrasts beautifully with the older Moorish buildings scattered around the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Capel",
+            "hu": "Torre Capel",
+            "ro": "Torre Capel",
+            "en": "Torre Capel"
+          },
+          "coords": [
+            -2.749076,
+            37.489946
+          ],
+          "category": "historical",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug zu diesem abgelegenen historischen Wachturm und bringen Sie ein Fernglas mit, um die weite ländliche Landschaft zu würdigen.",
+            "hu": "Tegyen egy rövid utat ehhez a mezőgazdasági földeken található eldugott történelmi őrtoronyhoz, és vigyen távcsövet a környező vidék megcsodálásához.",
+            "ro": "Faceți o scurtă călătorie până la acest turn de veghe istoric retras pe câmp, aducând un binoclu pentru a aprecia peisajul rural vast din jurul său.",
+            "en": "Take a short trip out to this secluded historical watchtower in the agricultural fields, bringing binoculars to appreciate the sweeping rural landscape around it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Ermita de Santa Rita, um Ihren Tag friedlich zu beginnen, und dann zur Festung Alcazaba. Mittags können Sie die faszinierende Dama de Baza im archäologischen Museum erkunden, bevor Sie die alten Arabischen Bäder entdecken. Verbringen Sie den späten Nachmittag in der einzigartigen Villa Manuela und beenden Sie Ihren Roadtrip am malerischen Torre Capel im Abendlicht.",
+        "hu": "Vezessen a csendes Ermita de Santa Ritához, hogy békésen kezdje a napot, majd induljon az impozáns Alcazaba erődbe. A délidő arra csábít, hogy felfedezze a régészeti múzeumot, mielőtt meglátogatná az ősi arab fürdőt. A késő délutánt az egyedi tervezésű Villa Manuelában töltheti, és az autós kirándulást a festői Torre Capelnél zárhatja le, ahonnan gyönyörű a kilátás.",
+        "ro": "Conduceți la Ermita de Santa Rita pentru a începe ziua pașnic, apoi mergeți la fortăreața Alcazaba. Prânzul vă invită să explorați fascinanta Dama de Baza la muzeul arheologic înainte de a descoperi vechile Băi Arabe. Petreceți după-amiaza târziu la Villa Manuela, cu designul său unic, și încheiați-vă excursia cu mașina la pitorescul Torre Capel în lumina blândă a serii.",
+        "en": "Drive to the quiet Ermita de Santa Rita to start your day peacefully, then head to the imposing Alcazaba fortress to delve into local history. Midday invites you to explore the fascinating Dama de Baza at the archaeological museum before discovering the ancient Arab Baths. Spend the late afternoon at the uniquely designed Villa Manuela, and conclude your road trip at the scenic Torre Capel."
+      }
+    }
+  }
+}

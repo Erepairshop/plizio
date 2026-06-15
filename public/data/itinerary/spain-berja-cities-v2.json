@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-berja-cities-v2",
+  "anchor": {
+    "name": "Berja",
+    "coords": [
+      -2.949482,
+      36.847321
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Enciso-Turm",
+            "hu": "Enciso torony",
+            "ro": "Turnul Enciso",
+            "en": "Enciso Tower"
+          },
+          "coords": [
+            -2.949269,
+            36.84611
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen befestigten Turm aus dem 16. Jahrhundert, der für Berjas Geschichte wichtig ist, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel ezt a 16. századi erődített tornyot, amely elengedhetetlen Berja történelméhez, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Explorați acest turn fortificat din secolul al XVI-lea, esențial pentru istoria Berjei, și aduceți un obiectiv superangular pentru a-i prinde înălțimea.",
+            "en": "Explore this fortified 16th-century tower, vital for understanding Berja's history, and bring a wide-angle lens for capturing its impressive height."
+          }
+        },
+        {
+          "name": {
+            "de": "Félix Rodríguez de la Fuente Park",
+            "hu": "Félix Rodríguez de la Fuente Park",
+            "ro": "Parcul Félix Rodríguez de la Fuente",
+            "en": "Félix Rodríguez de la Fuente Park"
+          },
+          "coords": [
+            -2.947006,
+            36.844205
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem dem berühmten Naturforscher gewidmeten Park und ruhen Sie sich auf einer Bank im Schatten aus, um die Ruhe zu genießen.",
+            "hu": "Pihenjen ebben a híres természettudósnak szentelt, bájos zöldterületen, és foglaljon helyet egy árnyékos padon, hogy élvezze a helyi békés hangulatot.",
+            "ro": "Relaxați-vă în acest spațiu verde fermecător dedicat celebrului naturalist, unde ar trebui să vă odihniți pe o bancă umbrită pentru a savura liniștea.",
+            "en": "Relax in this charming green space dedicated to the famous naturalist, where you should take a moment on a shaded bench to enjoy the peaceful local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Park La Alpujarra",
+            "hu": "La Alpujarra Park",
+            "ro": "Parcul La Alpujarra",
+            "en": "La Alpujarra Park"
+          },
+          "coords": [
+            -2.942625,
+            36.842793
+          ],
+          "category": "park",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen weitläufigen Park mit seinen üppigen Gärten und kommen Sie früh, um die Nachmittagssonne auf den Wegen zu vermeiden.",
+            "hu": "Sétáljon végig ezen a hatalmas parkon, amely ötvözi a buja kerteket a helyi építészettel, és érkezzen korán, hogy elkerülje a délutáni erős napsütést.",
+            "ro": "Plimbați-vă prin acest parc vast ce îmbină grădinile luxuriante cu arhitectura locală, vizitând dimineața devreme pentru a evita soarele de după-amiază.",
+            "en": "Stroll through this expansive park blending lush gardens with local architecture, and visit early to avoid the afternoon sun while walking the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kreuz von Humilladero",
+            "hu": "Humilladero keresztje",
+            "ro": "Crucea Humilladero",
+            "en": "Cross of Humilladero"
+          },
+          "coords": [
+            -2.943704,
+            36.850654
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Kreuz, das alte Stadtgrenzen markiert, und betrachten Sie die feinen Details des Steinsockels aus der Nähe.",
+            "hu": "Álljon meg ennél a történelmi kereszt emlékműnél, amely az ősi város határait jelzi, és figyelje meg a kőtalapzat bonyolult részleteit közelről.",
+            "ro": "Opriți-vă la acest monument istoric cu cruce ce marchează vechile granițe, observând îndeaproape detaliile complicate ale piedestalului de piatră.",
+            "en": "Pause at this historic cross monument marking ancient town boundaries, noting the intricate details on the stone pedestal up close before moving onwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de las Mercedes",
+            "hu": "Nuestra Señora de las Mercedes templom",
+            "ro": "Biserica Nuestra Señora de las Mercedes",
+            "en": "Church of Nuestra Señora de las Mercedes"
+          },
+          "coords": [
+            -2.938973,
+            36.85081
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses lokalen Heiligtums und denken Sie an bescheidene Kleidung, während Sie den ruhigen Innenraum erkunden.",
+            "hu": "Csodálja meg e helyi vallási szentély lenyűgöző építészetét, de ne feledjen szerényen öltözködni és halkan beszélni a nyugodt belső tér felfedezésekor.",
+            "ro": "Admirați arhitectura rafinată a acestui sanctuar religios, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timp ce explorați interiorul său.",
+            "en": "Admire the exquisite architecture of this local religious sanctuary, remembering to dress modestly and speak softly while exploring the tranquil interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein gemütlicher Morgenspaziergang führt uns durch die historischen Straßen von Berja, beginnend am ikonischen Torre de los Enciso. Mittags entspannen wir uns in den schattigen Parks und genießen die Ruhe der Natur. Der Nachmittag ist geprägt von architektonischen Wundern und Denkmälern wie dem Cruz del Humilladero. Wir beenden den Tag in der friedlichen Atmosphäre der örtlichen Heiligtümer.",
+        "hu": "Kellemes reggeli sétánk Berja történelmi utcáin vezet keresztül, kezdve az ikonikus Torre de los Enciso-val. Délben a város árnyékos parkjaiban pihenünk, élvezve a természet nyugalmát. A délutánt olyan építészeti csodák és emlékművek jellemzik, mint a Cruz del Humilladero. A napot a helyi vallási szentélyek békés és elmélyült légkörében zárjuk le, egy csendes sétával.",
+        "ro": "O plimbare matinală plăcută ne poartă pe străzile istorice din Berja, începând cu emblematicul Torre de los Enciso. La prânz ne relaxăm în parcurile umbrite ale orașului, bucurându-ne de natură. După-amiaza este marcată de minuni arhitecturale și monumente precum Cruz del Humilladero. Încheiem ziua în atmosfera pașnică și senină a sanctuarelor religioase locale.",
+        "en": "A pleasant morning walk takes us through the historical streets of Berja, starting at the iconic Torre de los Enciso. At midday, we relax in the city's shaded parks, enjoying the tranquility of nature. The afternoon is characterized by architectural wonders and monuments such as the Cruz del Humilladero. We conclude the day in the peaceful atmosphere of the local religious sanctuaries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Enciso-Turm",
+            "hu": "Enciso torony",
+            "ro": "Turnul Enciso",
+            "en": "Enciso Tower"
+          },
+          "coords": [
+            -2.949269,
+            36.84611
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen befestigten Turm aus dem 16. Jahrhundert, der für Berjas Geschichte wichtig ist, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel ezt a 16. századi erődített tornyot, amely elengedhetetlen Berja történelméhez, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Explorați acest turn fortificat din secolul al XVI-lea, esențial pentru istoria Berjei, și aduceți un obiectiv superangular pentru a-i prinde înălțimea.",
+            "en": "Explore this fortified 16th-century tower, vital for understanding Berja's history, and bring a wide-angle lens for capturing its impressive height."
+          }
+        },
+        {
+          "name": {
+            "de": "Park La Alpujarra",
+            "hu": "La Alpujarra Park",
+            "ro": "Parcul La Alpujarra",
+            "en": "La Alpujarra Park"
+          },
+          "coords": [
+            -2.942625,
+            36.842793
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen weitläufigen Park mit seinen üppigen Gärten und kommen Sie früh, um die Nachmittagssonne auf den Wegen zu vermeiden.",
+            "hu": "Sétáljon végig ezen a hatalmas parkon, amely ötvözi a buja kerteket a helyi építészettel, és érkezzen korán, hogy elkerülje a délutáni erős napsütést.",
+            "ro": "Plimbați-vă prin acest parc vast ce îmbină grădinile luxuriante cu arhitectura locală, vizitând dimineața devreme pentru a evita soarele de după-amiază.",
+            "en": "Stroll through this expansive park blending lush gardens with local architecture, and visit early to avoid the afternoon sun while walking the main paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Bäder in Benejí",
+            "hu": "Középkori fürdők Benejíben",
+            "ro": "Băile medievale din Benejí",
+            "en": "Medieval Baths in Benejí"
+          },
+          "coords": [
+            -2.951499,
+            36.834839
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen mittelalterlichen Bäder der islamischen Wasserbaukunst, aber prüfen Sie vorab die Öffnungszeiten für den vollen Zugang.",
+            "hu": "Fedezze fel a jól megőrzött középkori fürdőket, amelyek az iszlám vízépítést mutatják be, de előzetesen ellenőrizze a nyitvatartást a biztos bejutáshoz.",
+            "ro": "Descoperiți băile medievale bine conservate ce prezintă ingineria hidraulică islamică, verificând în prealabil programul pentru a asigura accesul.",
+            "en": "Discover the well-preserved medieval baths that showcase Islamic hydraulic engineering, but check the opening hours in advance to ensure full access."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            -2.954994,
+            36.837004
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser Ruine eines römischen Amphitheaters in die Antike ein, wobei feste Wanderschuhe helfen, das unebene Gelände sicher zu meistern.",
+            "hu": "Lépjen vissza a római korba ennél a lenyűgöző amfiteátrum romnál, ahol a strapabíró túracipő viselése segít a történelmi, egyenetlen terepen való járásban.",
+            "ro": "Întoarceți-vă în epoca romană la această ruină fascinantă de amfiteatru, unde încălțămintea rezistentă vă va ajuta să navigați pe terenul accidentat.",
+            "en": "Step back into the Roman era at this fascinating amphitheater ruin, where wearing sturdy walking shoes will help you navigate the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Villavieja",
+            "hu": "Villavieja",
+            "ro": "Villavieja",
+            "en": "Villavieja"
+          },
+          "coords": [
+            -2.957986,
+            36.837115
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser alten Siedlung mit Panoramablick ins Tal, und packen Sie extra Wasser ein, da der Schatten hier sehr begrenzt ist.",
+            "hu": "Barangoljon az ősi település maradványai között, amely panorámás kilátást nyújt a völgyre, és vigyen plusz vizet, mert az árnyék nagyon korlátozott.",
+            "ro": "Plimbați-vă prin rămășițele acestei așezări străvechi ce oferă vederi panoramice ale văii, aducând apă suplimentară deoarece umbra este limitată.",
+            "en": "Wander through the remnants of this ancient settlement offering panoramic valley views, and pack some extra water as shade is limited among the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Mauer von Villavieja",
+            "hu": "Villavieja arab fala",
+            "ro": "Zidul arab din Villavieja",
+            "en": "Arab Wall of Villavieja"
+          },
+          "coords": [
+            -2.95685,
+            36.836169
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die robusten Reste der arabischen Mauer, die einst die Stadt verteidigte, und nutzen Sie das Abendlicht für markante Silhouetten.",
+            "hu": "Vizsgálja meg az arab fal masszív maradványait, amely egykor a várost védte, és használja ki a kora esti fényt a lenyűgöző sziluettek megörökítéséhez.",
+            "ro": "Examinați resturile robuste ale zidului arab care a apărat odată orașul, folosind lumina de seară pentru a surprinde siluete uimitoare pe cer.",
+            "en": "Examine the sturdy remnants of the Arab wall that once defended the town, using the early evening light to capture striking silhouettes against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwimmbad La Tomillera",
+            "hu": "La Tomillera medence",
+            "ro": "Piscina La Tomillera",
+            "en": "La Tomillera Pool"
+          },
+          "coords": [
+            -2.930496,
+            36.835764
+          ],
+          "category": "recreational",
+          "arrive_at": "17:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem beliebten Schwimmbad inmitten der Natur ab, bringen Sie Ihr eigenes Handtuch mit und sichern Sie sich frühzeitig einen Platz.",
+            "hu": "Hűtse le magát ebben a népszerű, természetközeli medencekomplexumban, feltétlenül hozzon saját törölközőt, és érkezzen korán a jó pihenőhelyért.",
+            "ro": "Răcoriți-vă la acest complex popular de piscine înconjurat de natură, asigurându-vă că aduceți propriul prosop și ajungeți devreme pentru un loc bun.",
+            "en": "Cool off at this popular recreational pool complex surrounded by nature, making sure to bring your own towel and arrive early to secure a good lounge spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten sportlich am Torre de los Enciso und radeln dann zum weitläufigen Parque de La Alpujarra. Mittags erkunden wir die gut erhaltenen mittelalterlichen Bäder und die beeindruckenden Ruinen des römischen Amphitheaters. Am Nachmittag fahren wir weiter zu den Überresten von Villavieja und der arabischen Mauer. Abends entspannen wir uns nach der Radtour an der erfrischenden Piscina.",
+        "hu": "Sportos indulással kezdünk a Torre de los Enciso-nál, majd eltekerünk a kiterjedt Parque de La Alpujarra-hoz. Délben felfedezzük a középkori fürdőket és a lenyűgöző római amfiteátrum romjait. Délután Villavieja és az ősi arab fal maradványai felé vesszük az irányt, élvezve a kilátást. Este a kerékpározás fáradalmait a frissítő Piscina de la Tomillera medencéinél pihenjük ki.",
+        "ro": "Începem sportiv la Torre de los Enciso, apoi pedalăm spre vastul Parque de La Alpujarra. La prânz explorăm băile medievale și ruinele impresionante ale amfiteatrului roman. După-amiaza ne îndreptăm spre rămășițele din Villavieja și vechiul zid arab, bucurându-ne de istorie. Seara ne relaxăm după efortul fizic la răcoroasa piscină La Tomillera, înconjurați de peisajul natural.",
+        "en": "We start sportily at the Torre de los Enciso, then pedal to the extensive Parque de La Alpujarra. At midday, we explore the well-preserved medieval baths and the impressive ruins of the Roman amphitheater. In the afternoon, we head towards the remains of Villavieja and the ancient Arab wall. In the evening, we relax after the bike ride at the refreshing Piscina de la Tomillera."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Felsen von Santa Lucía",
+            "hu": "Santa Lucía sziklája",
+            "ro": "Stânca Sfintei Lucia",
+            "en": "Rock of Santa Lucía"
+          },
+          "coords": [
+            -2.928263,
+            36.854133
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit dem Aufstieg zu diesem felsigen Aussichtspunkt, aber gehen Sie auf den losen Schotterwegen nahe der Spitze besonders vorsichtig.",
+            "hu": "Kezdje a napot ezzel a drámai sziklás kilátóval, amely a városra néz, de lépkedjen óvatosan a laza kavicsos ösvényeken a csúcs felé közeledve.",
+            "ro": "Începeți ziua urcând la acest punct de belvedere stâncos ce domină orașul, pășind cu grijă pe potecile de pietriș fin din apropierea vârfului.",
+            "en": "Start your day climbing to this dramatic rocky viewpoint overlooking the town, but step carefully on the loose gravel paths nearing the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Nuestra Señora de las Mercedes",
+            "hu": "Nuestra Señora de las Mercedes templom",
+            "ro": "Biserica Nuestra Señora de las Mercedes",
+            "en": "Church of Nuestra Señora de las Mercedes"
+          },
+          "coords": [
+            -2.938973,
+            36.85081
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses lokalen Heiligtums und denken Sie an bescheidene Kleidung, während Sie den ruhigen Innenraum erkunden.",
+            "hu": "Csodálja meg e helyi vallási szentély lenyűgöző építészetét, de ne feledjen szerényen öltözködni és halkan beszélni a nyugodt belső tér felfedezésekor.",
+            "ro": "Admirați arhitectura rafinată a acestui sanctuar religios, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timp ce explorați interiorul său.",
+            "en": "Admire the exquisite architecture of this local religious sanctuary, remembering to dress modestly and speak softly while exploring the tranquil interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Enciso-Turm",
+            "hu": "Enciso torony",
+            "ro": "Turnul Enciso",
+            "en": "Enciso Tower"
+          },
+          "coords": [
+            -2.949269,
+            36.84611
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen befestigten Turm aus dem 16. Jahrhundert, der für Berjas Geschichte wichtig ist, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel ezt a 16. századi erődített tornyot, amely elengedhetetlen Berja történelméhez, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Explorați acest turn fortificat din secolul al XVI-lea, esențial pentru istoria Berjei, și aduceți un obiectiv superangular pentru a-i prinde înălțimea.",
+            "en": "Explore this fortified 16th-century tower, vital for understanding Berja's history, and bring a wide-angle lens for capturing its impressive height."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Amphitheater",
+            "hu": "Római amfiteátrum",
+            "ro": "Amfiteatrul Roman",
+            "en": "Roman Amphitheater"
+          },
+          "coords": [
+            -2.954994,
+            36.837004
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser Ruine eines römischen Amphitheaters in die Antike ein, wobei feste Wanderschuhe helfen, das unebene Gelände sicher zu meistern.",
+            "hu": "Lépjen vissza a római korba ennél a lenyűgöző amfiteátrum romnál, ahol a strapabíró túracipő viselése segít a történelmi, egyenetlen terepen való járásban.",
+            "ro": "Întoarceți-vă în epoca romană la această ruină fascinantă de amfiteatru, unde încălțămintea rezistentă vă va ajuta să navigați pe terenul accidentat.",
+            "en": "Step back into the Roman era at this fascinating amphitheater ruin, where wearing sturdy walking shoes will help you navigate the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Villavieja",
+            "hu": "Villavieja",
+            "ro": "Villavieja",
+            "en": "Villavieja"
+          },
+          "coords": [
+            -2.957986,
+            36.837115
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieser alten Siedlung mit Panoramablick ins Tal, und packen Sie extra Wasser ein, da der Schatten hier sehr begrenzt ist.",
+            "hu": "Barangoljon az ősi település maradványai között, amely panorámás kilátást nyújt a völgyre, és vigyen plusz vizet, mert az árnyék nagyon korlátozott.",
+            "ro": "Plimbați-vă prin rămășițele acestei așezări străvechi ce oferă vederi panoramice ale văii, aducând apă suplimentară deoarece umbra este limitată.",
+            "en": "Wander through the remnants of this ancient settlement offering panoramic valley views, and pack some extra water as shade is limited among the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Arabische Mauer von Villavieja",
+            "hu": "Villavieja arab fala",
+            "ro": "Zidul arab din Villavieja",
+            "en": "Arab Wall of Villavieja"
+          },
+          "coords": [
+            -2.95685,
+            36.836169
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die robusten Reste der arabischen Mauer, die einst die Stadt verteidigte, und nutzen Sie das Abendlicht für markante Silhouetten.",
+            "hu": "Vizsgálja meg az arab fal masszív maradványait, amely egykor a várost védte, és használja ki a kora esti fényt a lenyűgöző sziluettek megörökítéséhez.",
+            "ro": "Examinați resturile robuste ale zidului arab care a apărat odată orașul, folosind lumina de seară pentru a surprinde siluete uimitoare pe cer.",
+            "en": "Examine the sturdy remnants of the Arab wall that once defended the town, using the early evening light to capture striking silhouettes against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Bäder in Benejí",
+            "hu": "Középkori fürdők Benejíben",
+            "ro": "Băile medievale din Benejí",
+            "en": "Medieval Baths in Benejí"
+          },
+          "coords": [
+            -2.951499,
+            36.834839
+          ],
+          "category": "historical",
+          "arrive_at": "15:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen mittelalterlichen Bäder der islamischen Wasserbaukunst, aber prüfen Sie vorab die Öffnungszeiten für den vollen Zugang.",
+            "hu": "Fedezze fel a jól megőrzött középkori fürdőket, amelyek az iszlám vízépítést mutatják be, de előzetesen ellenőrizze a nyitvatartást a biztos bejutáshoz.",
+            "ro": "Descoperiți băile medievale bine conservate ce prezintă ingineria hidraulică islamică, verificând în prealabil programul pentru a asigura accesul.",
+            "en": "Discover the well-preserved medieval baths that showcase Islamic hydraulic engineering, but check the opening hours in advance to ensure full access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer spektakulären Fahrt zum Peñón de Santa Lucía, wo uns atemberaubende Ausblicke erwarten. Gegen Mittag tauchen wir an religiösen Stätten und alten Festungstürmen tief in Berjas Geschichte ein. Der Nachmittag bringt uns zu den beeindruckenden Ruinen des römischen Amphitheaters und den archäologischen Schätzen von Villavieja. Wir enden bei den mittelalterlichen Bädern.",
+        "hu": "A nap egy látványos utazással kezdődik a Peñón de Santa Lucía felé, ahol lélegzetelállító kilátás vár ránk. Délben Berja történelmébe merülünk vallási helyszíneken és az ősi erődített tornyoknál. A délután elvisz minket a római amfiteátrum lenyűgöző romjaihoz és Villavieja régészeti kincseihez. A napot a jól megőrzött, nyugalmat árasztó középkori fürdőknél zárjuk.",
+        "ro": "Ziua începe cu o plimbare spectaculoasă până la Peñón de Santa Lucía, unde ne așteaptă priveliști uimitoare. La prânz pătrundem adânc în istoria orașului la siturile religioase și turnurile vechi. După-amiaza ne duce la ruinele impresionante ale amfiteatrului roman și la comorile arheologice din Villavieja. Încheiem ziua vizitând băile medievale, admirând ingineria de odinioară.",
+        "en": "The day begins with a spectacular drive to the Peñón de Santa Lucía, where breathtaking views await us. Around midday, we dive deep into Berja's history at religious sites and ancient fortified towers. The afternoon brings us to the impressive ruins of the Roman amphitheater and the archaeological treasures of Villavieja. We end the day admiring the engineering of the medieval baths."
+      }
+    }
+  }
+}

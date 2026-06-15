@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-brixham-cities-v2",
+  "anchor": {
+    "name": "Brixham",
+    "coords": [
+      -3.5205,
+      50.3849
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brixham Heritage Museum",
+            "hu": "Brixham Helytörténeti Múzeum",
+            "ro": "Muzeul de Patrimoniu Brixham",
+            "en": "Brixham Heritage Museum"
+          },
+          "coords": [
+            -3.516459,
+            50.394277
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier Brixhams reiche maritime Geschichte und Funde, aber prüfen Sie vorab die Öffnungszeiten, da diese je nach Jahreszeit variieren.",
+            "hu": "Fedezze fel Brixham gazdag tengerészeti múltját és régészeti leleteit, de előzetesen ellenőrizze a nyitvatartást, mivel az évszaktól függően változhat.",
+            "ro": "Descoperiți istoria maritimă bogată și descoperirile arheologice, dar verificați programul de funcționare, deoarece acesta variază în funcție de sezon.",
+            "en": "Discover Brixham's rich maritime history and archeological finds here, but check the opening hours beforehand as they can vary depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischmarkt",
+            "hu": "Halpiac",
+            "ro": "Piața de Pește",
+            "en": "Fish Market"
+          },
+          "coords": [
+            -3.512988,
+            50.396866
+          ],
+          "category": "civic",
+          "arrive_at": "10:56",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Auktion frischer Fänge auf einem der größten Fischmärkte Englands, buchen Sie jedoch rechtzeitig eine Führung für den Zugang.",
+            "hu": "Tapasztalja meg a friss fogások árverését Anglia egyik legnagyobb halpiacán, de a belépéshez jó előre foglaljon helyet egy hivatalos vezetett túrára.",
+            "ro": "Experimentați licitația de capturi proaspete la una dintre cele mai mari piețe de pește, deși trebuie să rezervați un tur ghidat din timp pentru a intra.",
+            "en": "Experience the lively auction of fresh catches at one of England's largest fish markets, though you must book a guided tour well in advance to enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue von Wilhelm von Oranien",
+            "hu": "Orániai Vilmos szobra",
+            "ro": "Statuia lui William de Orania",
+            "en": "William of Orange Statue"
+          },
+          "coords": [
+            -3.512723,
+            50.396089
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Denkmal der Landung Wilhelms III. von 1688 und stehen Sie dort, wo Geschichte geschrieben wurde, während Sie einen Kaffee genießen.",
+            "hu": "Csodálja meg III. Vilmos 1688-as partraszállásának emlékművét, és álljon a történelem színpadán, miközben iszik egy gyors kávét a kikötő közelében.",
+            "ro": "Admirați monumentul debarcării lui William al III-lea în 1688 și stați exact unde s-a scris istoria, în timp ce savurați o cafea rapidă lângă port.",
+            "en": "Admire the monument marking the 1688 landing of William III, and stand exactly where history was made while grabbing a quick coffee near the harbour."
+          }
+        },
+        {
+          "name": {
+            "de": "Brixham Harbour",
+            "hu": "Brixhami Kikötő",
+            "ro": "Portul Brixham",
+            "en": "Brixham Harbour"
+          },
+          "coords": [
+            -3.512106,
+            50.396615
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Fischerboote in diesem geschäftigen Hafen und holen Sie sich authentische Fish and Chips für ein Essen am malerischen Kai.",
+            "hu": "Figyelje a színes halászhajókat a nyüzsgő kikötőben, és vegyen egy autentikus helyi fish and chipst, amit a festői rakparton fogyaszthat el kényelmesen.",
+            "ro": "Priviți bărcile de pescuit colorate din acest port plin de viață și luați fish and chips autentic local pentru a mânca pe cheiul cu adevărat pitoresc.",
+            "en": "Watch the colorful fishing boats bobbing in the water at this bustling port, and grab some authentic local fish and chips to eat by the scenic quayside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Golden Hind",
+            "hu": "Golden Hind Múzeumhajó",
+            "ro": "Nava Muzeu Golden Hind",
+            "en": "Golden Hind Museum Ship"
+          },
+          "coords": [
+            -3.512853,
+            50.396434
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Nachbildung von Sir Francis Drakes Galeone in Originalgröße, aber achten Sie auf die steilen Treppen im Unterdeck.",
+            "hu": "Fedezze fel Sir Francis Drake ikonikus gályájának lenyűgöző másolatát, de vigyázzon a meredek fa lépcsőkön, amelyek a hajó alsó fedélzeteit kötik össze.",
+            "ro": "Explorați această replică la scară reală a faimosului galion al lui Francis Drake, dar aveți grijă la scările abrupte care leagă punțile inferioare.",
+            "en": "Explore this fascinating full-sized replica of Sir Francis Drake's iconic galleon, but be careful on the steep wooden stairs connecting the lower decks."
+          }
+        },
+        {
+          "name": {
+            "de": "Battery Gardens",
+            "hu": "Battery Gardens",
+            "ro": "Battery Gardens",
+            "en": "Battery Gardens"
+          },
+          "coords": [
+            -3.519633,
+            50.401972
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über Torbay von dieser historischen Küstenverteidigungsanlage aus dem Zweiten Weltkrieg, und bringen Sie eine Jacke mit.",
+            "hu": "Élvezze a Torbay-re nyíló látványos panorámát ebből a történelmi második világháborús védelmi bázisból, de hozzon széldzsekit az erős tengeri szél miatt.",
+            "ro": "Bucurați-vă de vederi panoramice spectaculoase din această bază de apărare din Al Doilea Război Mondial și luați o jachetă deoarece briza este puternică.",
+            "en": "Enjoy spectacular panoramic views over Torbay from this historic World War II coastal defense site, and bring a windbreaker as the sea breeze is strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Heimatmuseum, bevor Sie die lebhafte Atmosphäre des geschäftigen Fischmarktes genießen. Mittags bewundern Sie die historische Statue von Wilhelm von Oranien und spazieren am Hafen. Der Nachmittag widmet sich der maritimen Geschichte an Bord der Golden Hind. Der Abend endet mit ruhigen Küstenblicken in den malerischen Battery Gardens.",
+        "hu": "A délelőtt a Helytörténeti Múzeumban kezdődik, majd a nyüzsgő Halpiac hangulatát élvezheti. Délben Orániai Vilmos szobránál és a kikötőben teszünk egy kellemes sétát. Délután a tengerészeti történelemé a főszerep a Golden Hind múzeumhajó fedélzetén. Az estét a Battery Gardens nyugodt parti panorámája zárja tökéletes békében.",
+        "ro": "Dimineața începe la Muzeul de Patrimoniu, înainte de a simți atmosfera vibrantă a Pieței de Pește. La prânz admirați statuia lui William de Orania și vă plimbați prin portul plin de viață. După-amiaza trece la istoria maritimă la bordul navei-muzeu Golden Hind. Seara se încheie cu o priveliște de coastă liniștită la frumoasele Battery Gardens.",
+        "en": "Morning begins at the Heritage Museum before taking in the vibrant atmosphere of the bustling Fish Market. Midday is spent admiring the historical William of Orange Statue and strolling the lively Brixham Harbour. Afternoon shifts to maritime history aboard the impressive Golden Hind Museum Ship. Evening concludes with tranquil coastal views at Battery Gardens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brixham Heritage Museum",
+            "hu": "Brixham Helytörténeti Múzeum",
+            "ro": "Muzeul de Patrimoniu Brixham",
+            "en": "Brixham Heritage Museum"
+          },
+          "coords": [
+            -3.516459,
+            50.394277
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier Brixhams reiche maritime Geschichte und Funde, aber prüfen Sie vorab die Öffnungszeiten, da diese je nach Jahreszeit variieren.",
+            "hu": "Fedezze fel Brixham gazdag tengerészeti múltját és régészeti leleteit, de előzetesen ellenőrizze a nyitvatartást, mivel az évszaktól függően változhat.",
+            "ro": "Descoperiți istoria maritimă bogată și descoperirile arheologice, dar verificați programul de funcționare, deoarece acesta variază în funcție de sezon.",
+            "en": "Discover Brixham's rich maritime history and archeological finds here, but check the opening hours beforehand as they can vary depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Golden Hind",
+            "hu": "Golden Hind Múzeumhajó",
+            "ro": "Nava Muzeu Golden Hind",
+            "en": "Golden Hind Museum Ship"
+          },
+          "coords": [
+            -3.512853,
+            50.396434
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Nachbildung von Sir Francis Drakes Galeone in Originalgröße, aber achten Sie auf die steilen Treppen im Unterdeck.",
+            "hu": "Fedezze fel Sir Francis Drake ikonikus gályájának lenyűgöző másolatát, de vigyázzon a meredek fa lépcsőkön, amelyek a hajó alsó fedélzeteit kötik össze.",
+            "ro": "Explorați această replică la scară reală a faimosului galion al lui Francis Drake, dar aveți grijă la scările abrupte care leagă punțile inferioare.",
+            "en": "Explore this fascinating full-sized replica of Sir Francis Drake's iconic galleon, but be careful on the steep wooden stairs connecting the lower decks."
+          }
+        },
+        {
+          "name": {
+            "de": "Brixham Harbour",
+            "hu": "Brixhami Kikötő",
+            "ro": "Portul Brixham",
+            "en": "Brixham Harbour"
+          },
+          "coords": [
+            -3.512106,
+            50.396615
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Fischerboote in diesem geschäftigen Hafen und holen Sie sich authentische Fish and Chips für ein Essen am malerischen Kai.",
+            "hu": "Figyelje a színes halászhajókat a nyüzsgő kikötőben, és vegyen egy autentikus helyi fish and chipst, amit a festői rakparton fogyaszthat el kényelmesen.",
+            "ro": "Priviți bărcile de pescuit colorate din acest port plin de viață și luați fish and chips autentic local pentru a mânca pe cheiul cu adevărat pitoresc.",
+            "en": "Watch the colorful fishing boats bobbing in the water at this bustling port, and grab some authentic local fish and chips to eat by the scenic quayside."
+          }
+        },
+        {
+          "name": {
+            "de": "Breakwater Beach",
+            "hu": "Breakwater Strand",
+            "ro": "Plaja Breakwater",
+            "en": "Breakwater Beach"
+          },
+          "coords": [
+            -3.505175,
+            50.399061
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem sauberen Kieselstrand mit klarem Wasser zum Tauchen, aber tragen Sie feste Wasserschuhe, um das Ufer bequem zu erkunden.",
+            "hu": "Pihenjen ezen a tiszta kavicsos strandon, amely kristálytiszta vizet kínál a búvárkodáshoz, de viseljen erős vizicipőt a sziklás parton való sétához.",
+            "ro": "Relaxați-vă pe această plajă curată cu ape incredibil de limpezi, ideală pentru scufundări, dar purtați încălțăminte de apă pentru pietrișul ascuțit.",
+            "en": "Relax on this clean pebble beach offering incredibly clear waters for scuba diving, but wear sturdy water shoes to comfortably navigate the rocky shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Shoalstone Seawater Pool",
+            "hu": "Shoalstone Tengervizes Medence",
+            "ro": "Piscina cu Apă de Mare Shoalstone",
+            "en": "Shoalstone Seawater Pool"
+          },
+          "coords": [
+            -3.499028,
+            50.401196
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie sicher in diesem klassischen viktorianischen Meerwasserpool mit Blick auf den Ozean, aber hinterlassen Sie eine Spende für den Erhalt.",
+            "hu": "Ússzon biztonságosan ebben a klasszikus viktoriánus tengervizes medencében, de hagyjon egy kis adományt, hogy segítse a helyi közösséget a fenntartásban.",
+            "ro": "Înotați în siguranță în această piscină clasică cu apă de mare, dar lăsați o mică donație pentru a ajuta comunitatea locală să o mențină funcțională.",
+            "en": "Swim safely in this classic Victorian outdoor seawater pool overlooking the ocean, but leave a small donation to help the local community maintain it."
+          }
+        },
+        {
+          "name": {
+            "de": "Berry Head Nature Reserve",
+            "hu": "Berry Head Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Berry Head",
+            "en": "Berry Head Nature Reserve"
+          },
+          "coords": [
+            -3.492136,
+            50.397398
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der dramatischen Kalksteinklippen, um seltene Vögel zu sehen, aber halten Sie sich zu Ihrer Sicherheit von den Rändern fern.",
+            "hu": "Sétáljon a drámai mészkősziklák mentén, hogy ritka madarakat és történelmi erődöket lásson, de a saját biztonsága érdekében maradjon távol a peremtől.",
+            "ro": "Plimbați-vă de-a lungul stâncilor de calcar pentru a vedea păsări rare, dar stați departe de marginile neprotejate pentru propria dumneavoastră siguranță.",
+            "en": "Walk along the dramatic limestone cliffs to spot rare guillemots and historic forts, but stay well clear of the unprotected edges for your own safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit lokaler Geschichte im Heimatmuseum, bevor Sie zum ikonischen Museumsschiff Golden Hind radeln. Mittags erleben Sie die maritime Energie am Brixham Harbour. Die Nachmittagsfahrt führt Sie entlang der Küste zum Breakwater Beach und dem historischen Shoalstone Seawater Pool. Der Abend endet spektakulär im Naturreservat Berry Head.",
+        "hu": "Kezdje a helyi történelemmel a Múzeumban, majd tekerjen az ikonikus Golden Hind múzeumhajóhoz. A dél a nyüzsgő Brixhami Kikötőben éri, ahol magába szívhatja a tengeri energiákat. Délután a part mentén teker a Breakwater strandhoz és a Shoalstone tengervizes medencéhez. Az este a Berry Head Természetvédelmi Terület lenyűgöző panorámájával zárul.",
+        "ro": "Începeți cu istoria locală la Muzeul de Patrimoniu, apoi pedalați spre faimoasa navă Golden Hind. Amiaza vă aduce în portul Brixham pentru a simți energia maritimă. După-amiaza pedalați de-a lungul coastei spre Breakwater Beach și piscina istorică Shoalstone. Seara se termină spectaculos în frumoasa rezervație naturală Berry Head.",
+        "en": "Start with deep local history at the Brixham Heritage Museum before pedaling to the iconic Golden Hind Museum Ship. Midday brings you to the vibrant Brixham Harbour to soak in the maritime energy. Afternoon riding takes you along the coast to Breakwater Beach and the historic Shoalstone Seawater Pool. Evening finishes spectacularly at Berry Head Nature Reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lupton House",
+            "hu": "Lupton House",
+            "ro": "Lupton House",
+            "en": "Lupton House"
+          },
+          "coords": [
+            -3.5449,
+            50.3847
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses majestätische historische Herrenhaus und seine Gärten, aber besuchen Sie unbedingt das von Freiwilligen geführte Café hier.",
+            "hu": "Barangolja be ezt a fenséges történelmi kastélyt és gyönyörű kertjeit, de mindenképpen térjen be az önkéntesek által üzemeltetett kávézóba egy teára.",
+            "ro": "Plimbați-vă prin acest conac istoric maiestuos și grădinile sale frumoase, dar asigurați-vă că vă opriți la cafeneaua voluntarilor pentru un ceai bun.",
+            "en": "Wander around this majestic Grade II listed historic mansion and its beautiful gardens, but make sure to stop by the volunteer-run cafe for a nice tea."
+          }
+        },
+        {
+          "name": {
+            "de": "Elberry Cove",
+            "hu": "Elberry-öböl",
+            "ro": "Golful Elberry",
+            "en": "Elberry Cove"
+          },
+          "coords": [
+            -3.54549,
+            50.402508
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Kieselstrand, der für sein Badehaus bekannt ist, obwohl der Zugang einen kurzen Spaziergang vom Parkplatz erfordert.",
+            "hu": "Kapcsolódjon ki ezen a békés strandon, amely az Agatha Christie-hez fűződő viszonyáról híres, bár a megközelítéshez egy rövid sétát kell tennie idáig.",
+            "ro": "Relaxați-vă pe această plajă liniștită renumită pentru legăturile sale cu Agatha Christie, deși accesul necesită o scurtă plimbare de la parcare.",
+            "en": "Unwind at this peaceful shingle beach famed for its ruined bathhouse and Agatha Christie links, though access requires a short walk from the car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Churston Cove",
+            "hu": "Churston-öböl",
+            "ro": "Golful Churston",
+            "en": "Churston Cove"
+          },
+          "coords": [
+            -3.523774,
+            50.402998
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese geschützte und tief ruhige Bucht inmitten üppiger alter Wälder, was sie zu einem perfekten Ort für ein Picknick in der Natur macht.",
+            "hu": "Fedezze fel ezt a védett és mélyen nyugodt öblöt, amelyet buja ősi erdők vesznek körül, így tökéletes hely egy csendes piknikhez távol a tömegektől.",
+            "ro": "Descoperiți acest golf adăpostit și liniștit, înconjurat de păduri luxuriante, fiind locul perfect pentru un picnic liniștit, departe de aglomerație.",
+            "en": "Discover this sheltered and deeply tranquil cove surrounded by lush ancient woodlands, making it a perfect spot for a quiet picnic away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Brixham Harbour",
+            "hu": "Brixhami Kikötő",
+            "ro": "Portul Brixham",
+            "en": "Brixham Harbour"
+          },
+          "coords": [
+            -3.512106,
+            50.396615
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Fischerboote in diesem geschäftigen Hafen und holen Sie sich authentische Fish and Chips für ein Essen am malerischen Kai.",
+            "hu": "Figyelje a színes halászhajókat a nyüzsgő kikötőben, és vegyen egy autentikus helyi fish and chipst, amit a festői rakparton fogyaszthat el kényelmesen.",
+            "ro": "Priviți bărcile de pescuit colorate din acest port plin de viață și luați fish and chips autentic local pentru a mânca pe cheiul cu adevărat pitoresc.",
+            "en": "Watch the colorful fishing boats bobbing in the water at this bustling port, and grab some authentic local fish and chips to eat by the scenic quayside."
+          }
+        },
+        {
+          "name": {
+            "de": "Berry Head Nature Reserve",
+            "hu": "Berry Head Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Berry Head",
+            "en": "Berry Head Nature Reserve"
+          },
+          "coords": [
+            -3.492136,
+            50.397398
+          ],
+          "category": "natural",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der dramatischen Kalksteinklippen, um seltene Vögel zu sehen, aber halten Sie sich zu Ihrer Sicherheit von den Rändern fern.",
+            "hu": "Sétáljon a drámai mészkősziklák mentén, hogy ritka madarakat és történelmi erődöket lásson, de a saját biztonsága érdekében maradjon távol a peremtől.",
+            "ro": "Plimbați-vă de-a lungul stâncilor de calcar pentru a vedea păsări rare, dar stați departe de marginile neprotejate pentru propria dumneavoastră siguranță.",
+            "en": "Walk along the dramatic limestone cliffs to spot rare guillemots and historic forts, but stay well clear of the unprotected edges for your own safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Sharkham Point",
+            "hu": "Sharkham Point",
+            "ro": "Sharkham Point",
+            "en": "Sharkham Point"
+          },
+          "coords": [
+            -3.4979,
+            50.3817
+          ],
+          "category": "natural",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser Landzunge aus die atemberaubende Aussicht auf die Küste von South Devon, aber tragen Sie feste Stiefel für die schlammigen Wege.",
+            "hu": "Gyönyörködjön a dél-devoni partvidék lélegzetelállító és zord látványában erről a csendes fokról, de a sáros ösvények miatt viseljen erős túracipőt.",
+            "ro": "Bucurați-vă de priveliștile uimitoare ale coastei South Devon din acest punct liniștit, dar asigurați-vă că purtați ghete rezistente pentru trasee.",
+            "en": "Take in the breathtaking rugged views of the South Devon coastline from this quiet headland, but make sure to wear sturdy boots for the muddy trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Lupton House, bevor Sie zur abgelegenen Schönheit der Elberry Cove fahren. Mittags erreichen Sie die malerische Churston Cove und das Zentrum von Brixham Harbour. Der Nachmittag bietet weite Küstenpanoramen im Naturreservat Berry Head. Der Abend endet mit einem Sonnenuntergang an den Klippen von Sharkham Point.",
+        "hu": "A reggel a történelmi Lupton House-ban indul, majd az Elberry-öböl elzárt szépségéhez vezet az út. Délben a festői Churston-öböl és a nyüzsgő Brixhami Kikötő várja. Délután a Berry Head Természetvédelmi Terület lenyűgöző parti panorámája következik. Az estét a Sharkham Point drámai szikláinál tett békés séta zárja a lemenő nap fényében.",
+        "ro": "Dimineața începe la istorica Lupton House înainte de a conduce spre frumusețea retrasă din Elberry Cove. Amiaza vă aduce la pitoreasca Churston Cove și în centrul plin de viață al portului Brixham. După-amiaza trece la panoramele ample de la Berry Head. Seara se încheie cu o plimbare liniștită la apus pe stâncile dramatice de la Sharkham Point.",
+        "en": "Morning begins at the historic Lupton House before driving to the secluded beauty of Elberry Cove. Midday brings you to the picturesque Churston Cove and the bustling center of Brixham Harbour. Afternoon shifts to the sweeping coastal panoramas at Berry Head Nature Reserve. Evening concludes with a peaceful sunset walk at the dramatic cliffs of Sharkham Point."
+      }
+    }
+  }
+}

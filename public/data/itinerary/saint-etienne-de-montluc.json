@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-etienne-de-montluc",
+  "anchor": {
+    "name": "Saint-Étienne-de-Montluc",
+    "coords": [
+      -1.7803,
+      47.2764
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 2.56,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            -1.780458,
+            47.276417
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Pfarrkirche und besuchen Sie sie in den frühen Morgenstunden, um das beste Innenlicht zu genießen.",
+            "hu": "Csodálja meg a központi plébániatemplom gótikus építészeti részleteit, és látogasson el a kora reggeli órákban a legjobb belső fényviszonyok érdekében.",
+            "ro": "Admirați detaliile gotice ale acestei biserici parohiale centrale și vizitați-o în primele ore ale dimineții pentru a beneficia de cea mai bună lumină.",
+            "en": "Admire the intricate Gothic architectural details of this central parish church, and visit during the early morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalvarienberg Saint-Étienne",
+            "hu": "Saint-Étienne Kálvária",
+            "ro": "Calvarul Saint-Étienne",
+            "en": "Saint-Étienne Calvary"
+          },
+          "coords": [
+            -1.780458,
+            47.276417
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem wunderschön geschnitzten Steindenkmal, das die lokale Religionsgeschichte widerspiegelt, und ruhen Sie sich kurz auf den Bänken aus.",
+            "hu": "Tartson pihenőt ennél a helyi vallástörténetet tükröző faragott kőemlékműnél, és üljön le egy pillanatra a közeli padokon, mielőtt tovább indulna.",
+            "ro": "Opriți-vă la acest monument din piatră sculptată care reflectă istoria religioasă locală și odihniți-vă pe băncile din apropiere înainte de a continua.",
+            "en": "Pause at this beautifully carved stone monument reflecting local religious history, and take a moment to rest on the nearby benches before walking onwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Perrorteau",
+            "hu": "Perrorteau Kastély",
+            "ro": "Castelul Perrorteau",
+            "en": "Château du Perrorteau"
+          },
+          "coords": [
+            -1.779449,
+            47.272866
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses historischen Adelssitzes im Grünen und tragen Sie bequeme Schuhe, um die unbefestigten Wege gut zu meistern.",
+            "hu": "Fedezze fel ennek a zöldben megbúvó, történelmi nemesi rezidenciának az elegáns parkját, és viseljen kényelmes cipőt a burkolatlan ösvényeken való sétához.",
+            "ro": "Explorați domeniul elegant al acestei reședințe nobiliare ascunse în verdeață și purtați încălțăminte confortabilă pentru a parcurge aleile neasfaltate.",
+            "en": "Explore the elegant grounds of this historic noble residence hidden in the greenery, and wear comfortable walking shoes to navigate the unpaved pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ker Rado",
+            "hu": "Ker Rado Kastély",
+            "ro": "Castelul Ker Rado",
+            "en": "Château de Ker Rado"
+          },
+          "coords": [
+            -1.768765,
+            47.275809
+          ],
+          "category": "castle",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Schätzen Sie den lokalen Architekturstil dieses großen Anwesens und achten Sie auf die gut erhaltenen Steinarbeiten am östlichen Flügel des Schlosses.",
+            "hu": "Figyelje meg a birtok jellegzetes helyi építészeti stílusát, és keresse meg a keleti szárny gyönyörűen megőrzött kőfaragásos díszítéseit a séta során.",
+            "ro": "Apreciați stilul arhitectural local distinct al acestui domeniu și încercați să observați detaliile din piatră frumos conservate de pe aripa de est.",
+            "en": "Appreciate the distinct local architectural style of this grand estate, and try to spot the beautifully preserved stonework detailing on the eastern wing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellevue",
+            "hu": "Bellevue Kastély",
+            "ro": "Castelul Bellevue",
+            "en": "Château de Bellevue"
+          },
+          "coords": [
+            -1.782952,
+            47.282521
+          ],
+          "category": "castle",
+          "arrive_at": "13:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von diesem treffend benannten Anwesen der regionalen Geschichte und bringen Sie ein Zoomobjektiv für die Dachdetails mit.",
+            "hu": "Élvezze a lenyűgöző kilátást ebből a találóan elnevezett, helyi történelmet bemutató birtokból, és hozzon magával teleobjektívet a tető részleteihez.",
+            "ro": "Bucurați-vă de priveliștile ample de pe acest domeniu istoric sugestiv numit și aduceți o lentilă cu zoom pentru a surprinde detaliile fine ale acoperișului.",
+            "en": "Enjoy the sweeping vistas from this aptly named estate that highlights regional history, and bring a zoom lens to capture the fine details of the roof."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der zentralen Kirche und dem angrenzenden Kalvarienberg, bevor die Menge eintrifft. Mittags schlendern Sie nach Süden zum historischen Château du Perrorteau und erkunden dessen stattliche Anlagen. Der Nachmittag lädt zu einem Spaziergang gen Osten zum Château de Ker Rado ein. Beenden Sie den Tag am Château de Bellevue und genießen Sie das späte Nachmittagslicht auf der Fassade.",
+        "hu": "Kezdje a reggelt a központi templom és a szomszédos kálvária részleteinek megcsodálásával, még a tömeg érkezése előtt. Délben sétáljon dél felé a történelmi Château du Perrorteau felé, felfedezve annak parkját. A délután egy kényelmes keleti sétára csábít a Château de Ker Rado épületéhez. Zárja a napot a Château de Bellevue-nél, megcsodálva az elegáns homlokzatot a késő délutáni fényekben.",
+        "ro": "Începeți dimineața admirând detaliile bisericii centrale și calvarului adiacent înainte de aglomerație. La prânz, plimbați-vă spre sud, către istoricul Château du Perrorteau, explorând domeniul său maiestuos. După-amiaza vă invită la o scurtă plimbare spre est, la Château de Ker Rado, pentru a admira arhitectura nobilă. Încheiați ziua la Château de Bellevue, savurând lumina blândă a serii pe fațada sa elegantă.",
+        "en": "Start your morning admiring the intricate details of the central church and its adjacent calvary before the crowds arrive. By midday, wander south towards the historic Château du Perrorteau, exploring its stately grounds. The afternoon invites a leisurely stroll east to Château de Ker Rado, soaking in the noble architecture. Conclude the day at Château de Bellevue, catching the late afternoon light on its elegant facade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 5.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            -1.780458,
+            47.276417
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Pfarrkirche und besuchen Sie sie in den frühen Morgenstunden, um das beste Innenlicht zu genießen.",
+            "hu": "Csodálja meg a központi plébániatemplom gótikus építészeti részleteit, és látogasson el a kora reggeli órákban a legjobb belső fényviszonyok érdekében.",
+            "ro": "Admirați detaliile gotice ale acestei biserici parohiale centrale și vizitați-o în primele ore ale dimineții pentru a beneficia de cea mai bună lumină.",
+            "en": "Admire the intricate Gothic architectural details of this central parish church, and visit during the early morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Perrorteau",
+            "hu": "Perrorteau Kastély",
+            "ro": "Castelul Perrorteau",
+            "en": "Château du Perrorteau"
+          },
+          "coords": [
+            -1.779449,
+            47.272866
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses historischen Adelssitzes im Grünen und tragen Sie bequeme Schuhe, um die unbefestigten Wege gut zu meistern.",
+            "hu": "Fedezze fel ennek a zöldben megbúvó, történelmi nemesi rezidenciának az elegáns parkját, és viseljen kényelmes cipőt a burkolatlan ösvényeken való sétához.",
+            "ro": "Explorați domeniul elegant al acestei reședințe nobiliare ascunse în verdeață și purtați încălțăminte confortabilă pentru a parcurge aleile neasfaltate.",
+            "en": "Explore the elegant grounds of this historic noble residence hidden in the greenery, and wear comfortable walking shoes to navigate the unpaved pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saint-Thomas",
+            "hu": "Saint-Thomas Kastély",
+            "ro": "Castelul Saint-Thomas",
+            "en": "Château de Saint-Thomas"
+          },
+          "coords": [
+            -1.792862,
+            47.264781
+          ],
+          "category": "castle",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Zeit zurück und betrachten Sie die klassische Architektur dieses südlichen Schlosses, am besten während einer der öffentlichen Gartentouren.",
+            "hu": "Lépjen vissza az időben a déli kastély masszív, klasszikus építészetét szemlélve, és tájékozódjon az időszakos nyilvános parklátogatási lehetőségekről.",
+            "ro": "Întoarceți-vă în timp admirând arhitectura clasică a acestui castel sudic și verificați programele locale pentru eventuale tururi publice ale grădinilor.",
+            "en": "Step back in time while viewing the sturdy classical architecture of this southern castle, and check local listings for occasional public garden tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Montluc",
+            "hu": "Espace Montluc",
+            "ro": "Espace Montluc",
+            "en": "Espace Montluc"
+          },
+          "coords": [
+            -1.788293,
+            47.281987
+          ],
+          "category": "cultural",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebendige zeitgenössische Kunst und Gemeinschaftsevents ein und holen Sie sich am Eingang einen Wochenplan für kostenlose Shows.",
+            "hu": "Merüljön el az itt található élénk kortárs művészeti és közösségi eseményekben, és kérjen egy heti programfüzetet a bejáratnál az ingyenes műsorokhoz.",
+            "ro": "Captivați-vă cu arta contemporană și evenimentele comunitare găzduite aici și luați un program săptămânal de la intrare pentru spectacolele gratuite.",
+            "en": "Immerse yourself in the vibrant contemporary art and community events housed here, and grab a weekly schedule from the entrance desk to catch free shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellevue",
+            "hu": "Bellevue Kastély",
+            "ro": "Castelul Bellevue",
+            "en": "Château de Bellevue"
+          },
+          "coords": [
+            -1.782952,
+            47.282521
+          ],
+          "category": "castle",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von diesem treffend benannten Anwesen der regionalen Geschichte und bringen Sie ein Zoomobjektiv für die Dachdetails mit.",
+            "hu": "Élvezze a lenyűgöző kilátást ebből a találóan elnevezett, helyi történelmet bemutató birtokból, és hozzon magával teleobjektívet a tető részleteihez.",
+            "ro": "Bucurați-vă de priveliștile ample de pe acest domeniu istoric sugestiv numit și aduceți o lentilă cu zoom pentru a surprinde detaliile fine ale acoperișului.",
+            "en": "Enjoy the sweeping vistas from this aptly named estate that highlights regional history, and bring a zoom lens to capture the fine details of the roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss la Biliais",
+            "hu": "la Biliais Kastély",
+            "ro": "Castelul la Biliais",
+            "en": "Château de la Biliais"
+          },
+          "coords": [
+            -1.77899,
+            47.296177
+          ],
+          "category": "castle",
+          "arrive_at": "16:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Fassaden dieses historischen Anwesens in den nördlichen Wäldern und besuchen Sie es am späten Nachmittag für tolle Fotos.",
+            "hu": "Figyelje meg az északi erdőkben megbúvó történelmi birtok impozáns homlokzatát, és látogasson el késő délután a lenyűgöző aranyórai fényképek kedvéért.",
+            "ro": "Observați fațadele impunătoare ale acestui domeniu istoric din pădurile nordice și vizitați-l după-amiaza târziu pentru fotografii superbe în lumina aurie.",
+            "en": "Observe the imposing facades of this prominent historic estate nestled in the northern woods, and visit in late afternoon for stunning golden hour photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Dorfkern an der historischen Pfarrkirche. Radeln Sie mittags nach Süden, um die grandiosen Schlösser Perrorteau und Saint-Thomas zu erkunden. Verbringen Sie den frühen Nachmittag im Espace Montluc für eine Portion lokaler Kultur. Am Abend fahren Sie nach Norden zu den Anwesen Bellevue und Biliais, wo der Sonnenuntergang die Schlossmauern in goldene Töne taucht.",
+        "hu": "Kezdje kerékpártúráját a faluközpontban, a történelmi plébániatemplomnál. Délben tekerjen délre a Perrorteau és a Saint-Thomas kastélyok buja zölddel ölelt birtokaira. A kora délutánt töltse az Espace Montluc kulturális központban. Ahogy közeledik az este, haladjon északra a Bellevue és a Biliais kastélyok felé, ahol a naplemente arany színbe öltözteti az ódon falakat.",
+        "ro": "Începeți turul cu bicicleta în centrul satului, la biserica parohială istorică. Pedalați spre sud la prânz pentru a explora castelele grandioase Perrorteau și Saint-Thomas, înconjurate de verdeață. Petreceți prima parte a după-amiezii la Espace Montluc pentru o doză de cultură locală. Spre seară, mergeți spre nord, la domeniile Bellevue și Biliais, unde apusul colorează zidurile în nuanțe aurii.",
+        "en": "Kick off your cycling tour in the village core at the historic parish church. Pedal south for a midday exploration of the grand Perrorteau and Saint-Thomas châteaux, surrounded by lush greenery. Spend the early afternoon at Espace Montluc for a dose of local culture and art. As evening approaches, ride north to the Bellevue and Biliais estates, where the sunset paints the castle walls in golden hues."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 12.63,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            -1.780458,
+            47.276417
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser zentralen Pfarrkirche und besuchen Sie sie in den frühen Morgenstunden, um das beste Innenlicht zu genießen.",
+            "hu": "Csodálja meg a központi plébániatemplom gótikus építészeti részleteit, és látogasson el a kora reggeli órákban a legjobb belső fényviszonyok érdekében.",
+            "ro": "Admirați detaliile gotice ale acestei biserici parohiale centrale și vizitați-o în primele ore ale dimineții pentru a beneficia de cea mai bună lumină.",
+            "en": "Admire the intricate Gothic architectural details of this central parish church, and visit during the early morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saint-Thomas",
+            "hu": "Saint-Thomas Kastély",
+            "ro": "Castelul Saint-Thomas",
+            "en": "Château de Saint-Thomas"
+          },
+          "coords": [
+            -1.792862,
+            47.264781
+          ],
+          "category": "castle",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Zeit zurück und betrachten Sie die klassische Architektur dieses südlichen Schlosses, am besten während einer der öffentlichen Gartentouren.",
+            "hu": "Lépjen vissza az időben a déli kastély masszív, klasszikus építészetét szemlélve, és tájékozódjon az időszakos nyilvános parklátogatási lehetőségekről.",
+            "ro": "Întoarceți-vă în timp admirând arhitectura clasică a acestui castel sudic și verificați programele locale pentru eventuale tururi publice ale grădinilor.",
+            "en": "Step back in time while viewing the sturdy classical architecture of this southern castle, and check local listings for occasional public garden tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Montluc",
+            "hu": "Espace Montluc",
+            "ro": "Espace Montluc",
+            "en": "Espace Montluc"
+          },
+          "coords": [
+            -1.788293,
+            47.281987
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebendige zeitgenössische Kunst und Gemeinschaftsevents ein und holen Sie sich am Eingang einen Wochenplan für kostenlose Shows.",
+            "hu": "Merüljön el az itt található élénk kortárs művészeti és közösségi eseményekben, és kérjen egy heti programfüzetet a bejáratnál az ingyenes műsorokhoz.",
+            "ro": "Captivați-vă cu arta contemporană și evenimentele comunitare găzduite aici și luați un program săptămânal de la intrare pentru spectacolele gratuite.",
+            "en": "Immerse yourself in the vibrant contemporary art and community events housed here, and grab a weekly schedule from the entrance desk to catch free shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss la Biliais",
+            "hu": "la Biliais Kastély",
+            "ro": "Castelul la Biliais",
+            "en": "Château de la Biliais"
+          },
+          "coords": [
+            -1.77899,
+            47.296177
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Fassaden dieses historischen Anwesens in den nördlichen Wäldern und besuchen Sie es am späten Nachmittag für tolle Fotos.",
+            "hu": "Figyelje meg az északi erdőkben megbúvó történelmi birtok impozáns homlokzatát, és látogasson el késő délután a lenyűgöző aranyórai fényképek kedvéért.",
+            "ro": "Observați fațadele impunătoare ale acestui domeniu istoric din pădurile nordice și vizitați-l după-amiaza târziu pentru fotografii superbe în lumina aurie.",
+            "en": "Observe the imposing facades of this prominent historic estate nestled in the northern woods, and visit in late afternoon for stunning golden hour photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss du chaud",
+            "hu": "du chaud Kastély",
+            "ro": "Castelul du chaud",
+            "en": "Château du chaud"
+          },
+          "coords": [
+            -1.797657,
+            47.297073
+          ],
+          "category": "castle",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Erbe dieses einzigartig benannten Anwesens abseits der Wege und nähern Sie sich leise, um Wildtiere am Rand zu sehen.",
+            "hu": "Fedezze fel ennek az egyedi nevű, eldugott birtoknak az izgalmas örökségét, és közelítsen csendben, hogy megfigyelhesse a környék helyi vadvilágát.",
+            "ro": "Descoperiți moștenirea intrigantă a acestui domeniu retras cu nume unic și apropiați-vă în liniște pentru a observa viața sălbatică de la periferie.",
+            "en": "Discover the intriguing legacy behind this uniquely named estate off the beaten path, and approach quietly to often spot local wildlife near the perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Loire-Sümpfe",
+            "hu": "Loire-mocsarak",
+            "ro": "Mlaștinile Loarei",
+            "en": "Loire Marshes"
+          },
+          "coords": [
+            -1.876733,
+            47.303867
+          ],
+          "category": "natural",
+          "arrive_at": "15:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Schönheit und Artenvielfalt dieser Feuchtgebiete und bringen Sie ein Fernglas mit, um die vielen Zugvögel leicht zu beobachten.",
+            "hu": "Tapasztalja meg ezeknek a kiterjedt vizes élőhelyeknek a békés szépségét és gazdag biodiverzitását, és hozzon távcsövet a vándormadarak megfigyeléséhez.",
+            "ro": "Experimentați frumusețea liniștită și biodiversitatea acestor zone umede vaste și aduceți un binoclu pentru a observa ușor populațiile de păsări migratoare.",
+            "en": "Experience the tranquil beauty and rich biodiversity of these vast wetlands, and bring binoculars to easily spot the diverse migratory bird populations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Autotour an der historischen Dorfkirche und genießen Sie die friedliche Morgenstimmung. Mittags fahren Sie durch die malerischen südlichen Randgebiete zum beeindruckenden Anwesen Saint-Thomas. Der Nachmittag bietet eine Mischung aus Kultur im Espace Montluc und Schlössern im Norden. Beenden Sie den Tag an den weitläufigen Loire-Sümpfen und genießen Sie den atemberaubenden Sonnenuntergang.",
+        "hu": "Kezdje az autós túrát a történelmi falusi templomnál, élvezve a békés reggeli hangulatot. Délben hajtson át a festői déli külvárosokon a lenyűgöző Saint-Thomas birtokra. A délután kulturális élményeket tartogat az Espace Montluc-ban, majd északi kastélynézőbe hív. Zárja a napot nyugatra, a hatalmas Loire-mocsaraknál, és csodálja meg a vizes élőhelyek feletti lenyűgöző naplementét.",
+        "ro": "Începeți turul cu mașina la biserica istorică a satului, bucurându-vă de ambianța liniștită a dimineții. La prânz, conduceți prin peisajele din sud pentru a vizita impresionantul domeniu Saint-Thomas. După-amiaza aduce un mix cultural la Espace Montluc și vizitarea castelelor din nord. Încheiați ziua mergând spre vest, la mlaștinile râului Loara, savurând un apus spectaculos peste întinderile de apă.",
+        "en": "Begin the driving tour at the historic village church, taking in its peaceful morning ambiance. By midday, drive through the scenic southern outskirts to visit the impressive Saint-Thomas estate. The afternoon brings a mix of cultural immersion at Espace Montluc and castle hopping in the north. End the day driving west to the sprawling Loire Marshes, enjoying a stunning natural sunset over the wetlands."
+      }
+    }
+  }
+}

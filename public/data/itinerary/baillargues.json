@@ -1,0 +1,405 @@
+{
+  "city_id": "baillargues",
+  "anchor": {
+    "name": "Baillargues",
+    "coords": [
+      4.0128,
+      43.6611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Baillargues",
+            "hu": "Baillargues Vasútállomás",
+            "ro": "Gara Baillargues",
+            "en": "Baillargues Station"
+          },
+          "coords": [
+            4.016864,
+            43.656244
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem modernen Verkehrsknotenpunkt, der Baillargues mit der Region verbindet, und holen Sie sich einen schnellen Kaffee bei den nahegelegenen Ständen, bevor Sie losziehen.",
+            "hu": "Kezdje útját ezen a modern közlekedési csomóponton, amely összeköti Baillarguest a tágabb régióval, és igyon meg egy gyors kávét a közeli árusoknál, mielőtt útnak indul.",
+            "ro": "Începeți-vă călătoria la acest nod modern de transport care conectează Baillargues de regiunea mai largă și luați o cafea rapidă de la vânzătorii din apropiere înainte de a porni.",
+            "en": "Start your journey at this modern transport hub connecting Baillargues to the wider region, and grab a quick coffee from nearby vendors before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Julien Kirche",
+            "hu": "Saint-Julien Templom",
+            "ro": "Biserica Saint-Julien",
+            "en": "Saint-Julien Church"
+          },
+          "coords": [
+            4.013669,
+            43.660841
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, die das tiefe Erbe der Stadt widerspiegelt, und achten Sie besonders auf die kunstvollen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű román kori építészetét, amely a város mély örökségét tükrözi, és szánjon egy percet a főbejárat feletti bonyolult kőfaragványok megfigyelésére.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice care reflectă patrimoniul profund al orașului și faceți-vă un moment pentru a observa sculpturile complexe în piatră de deasupra intrării principale.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church which reflects the town's deep heritage, and take a moment to notice the intricate stonework above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena von Baillargues",
+            "hu": "Baillargues Aréna",
+            "ro": "Arena Baillargues",
+            "en": "Baillargues Arena"
+          },
+          "coords": [
+            4.013177,
+            43.660457
+          ],
+          "category": "cultural",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokalen Camargue-Stierkampftraditionen an diesem ikonischen Kulturort und versuchen Sie, während eines lokalen Festivals zu kommen, um zu sehen, wie die Arena mit lebendigem Gemeinschaftsgeist erwacht.",
+            "hu": "Tapasztalja meg a helyi camargue-i bikaviadalok hagyományait ezen az ikonikus kulturális helyszínen, és próbáljon meg egy helyi fesztivál idején látogatni, hogy lássa az arénát igazán életre kelni a pezsgő közösségi szellemtől.",
+            "ro": "Experimentați tradițiile locale ale luptelor cu tauri din Camargue în acest loc cultural iconic și încercați să vizitați în timpul unui festival local pentru a vedea cum arena prinde cu adevărat viață cu un spirit comunitar vibrant.",
+            "en": "Experience the local Camargue bullfighting traditions at this iconic cultural venue, and try to visit during a local festival to see the arena truly come alive with vibrant community spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Les Petits Lapins",
+            "hu": "Les Petits Lapins Játszótér",
+            "ro": "Loc de joacă Les Petits Lapins",
+            "en": "Aire de jeux les petits lapins"
+          },
+          "coords": [
+            4.004761,
+            43.657837
+          ],
+          "category": "family",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten lokalen Spielplatz, der sichere und unterhaltsame Strukturen bietet, etwas Energie verbrennen, und bringen Sie Snacks mit, die Sie an den schattigen Sitzbereichen in der Nähe genießen können.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt helyi játszótéren, amely biztonságos és szórakoztató építményeket kínál, és hozzon magával néhány nassolnivalót, hogy a közeli árnyékos ülőhelyeken elfogyaszthassa azokat.",
+            "ro": "Lăsați copiii să-și consume energia în acest loc de joacă local bine echipat, care oferă structuri sigure și distractive, și aduceți câteva gustări pentru a vă bucura de ele în zonele de relaxare umbrite din apropiere.",
+            "en": "Let the children burn off some energy at this well-equipped local playground which offers safe and fun structures, and bring some snacks to enjoy at the nearby shaded seating areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Gérard Bruyère Park",
+            "hu": "Gérard Bruyère Park",
+            "ro": "Parcul Gérard Bruyère",
+            "en": "Gérard Bruyère Park"
+          },
+          "coords": [
+            4.005412,
+            43.655202
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den ruhigen Grünflächen dieses charmanten Parks, der als grüne Lunge des Viertels dient, und packen Sie ein leichtes Picknick ein, um es auf den gepflegten Rasenflächen unter den Bäumen zu genießen.",
+            "hu": "Pihenjen meg ennek a bájos parknak a békés zöldövezeteiben, amely a környék zöld tüdejeként szolgál, és csomagoljon egy könnyű pikniket, amelyet a fák alatti, gondozott pázsiton élvezhet.",
+            "ro": "Relaxați-vă în spațiile verzi și liniștite ale acestui parc fermecător, care servește drept plămânul verde al cartierului, și pregătiți un picnic ușor pentru a-l savura pe peluzele bine întreținute sub copaci.",
+            "en": "Relax in the peaceful green spaces of this charming park which serves as the green lung of the neighborhood, and pack a light picnic to enjoy on the well-maintained lawns under the trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am Bahnhof und erkunden Sie die zentralen religiösen und kulturellen Wahrzeichen. Mittag: Tauchen Sie in die Traditionen der Arena ein. Nachmittag: Verbringen Sie Zeit mit der Familie auf den lokalen Spielplätzen. Abend: Beenden Sie Ihren Rundgang mit einer ruhigen Pause im Gérard Bruyère Park.",
+        "hu": "Reggel: Kezdje az állomáson, felfedezve a központi vallási és kulturális nevezetességeket. Dél: Merüljön el az aréna gazdag hagyományaiban. Délután: Töltsön minőségi családi időt a helyi játszótereken. Este: Zárja a gyalogtúrát egy békés pihenéssel a Gérard Bruyère parkban.",
+        "ro": "Dimineața: Începeți la gară, explorând reperele religioase și culturale centrale. Amiază: Aprofundați tradițiile bogate de la arenă. După-amiaza: Petreceți timp de calitate cu familia la locurile de joacă. Seara: Încheiați-vă turul cu o odihnă liniștită în Parcul Gérard Bruyère.",
+        "en": "Morning: Start at the station, exploring the town's central religious and cultural landmarks. Midday: Delve into the rich traditions at the arena before seeking some green space. Afternoon: Spend quality family time at the local playgrounds. Evening: Conclude your walking tour with a peaceful rest at Gérard Bruyère Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Park am Espace Gare",
+            "hu": "Espace Gare Park",
+            "ro": "Parcul Espace Gare",
+            "en": "Parc de l'Espace Gare"
+          },
+          "coords": [
+            3.989717,
+            43.674474
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Erholungsgebiet, das die alte Bahnhofsumgebung wunderbar zu einem Gemeindezentrum umgestaltet hat, und nutzen Sie die breiten Wege für einen reibungslosen und entspannenden Morgenspaziergang.",
+            "hu": "Fedezze fel ezt a tágas szabadidős területet, amely a régi vasúti környezetet gyönyörűen egy közösségi központtá alakította át, és használja a széles ösvényeket egy sima és pihentető reggeli sétához.",
+            "ro": "Explorați această zonă de recreere spațioasă care transformă frumos vechile împrejurimi ale căii ferate într-un centru comunitar și folosiți aleile largi pentru o plimbare de dimineață liniștită și relaxantă.",
+            "en": "Explore this spacious recreational area which beautifully redevelops the old railway surroundings into a community hub, and use the wide paths for a smooth and relaxing morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Julien Kirche",
+            "hu": "Saint-Julien Templom",
+            "ro": "Biserica Saint-Julien",
+            "en": "Saint-Julien Church"
+          },
+          "coords": [
+            4.013669,
+            43.660841
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, die das tiefe Erbe der Stadt widerspiegelt, und achten Sie besonders auf die kunstvollen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű román kori építészetét, amely a város mély örökségét tükrözi, és szánjon egy percet a főbejárat feletti bonyolult kőfaragványok megfigyelésére.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice care reflectă patrimoniul profund al orașului și faceți-vă un moment pentru a observa sculpturile complexe în piatră de deasupra intrării principale.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church which reflects the town's deep heritage, and take a moment to notice the intricate stonework above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena von Baillargues",
+            "hu": "Baillargues Aréna",
+            "ro": "Arena Baillargues",
+            "en": "Baillargues Arena"
+          },
+          "coords": [
+            4.013177,
+            43.660457
+          ],
+          "category": "cultural",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokalen Camargue-Stierkampftraditionen an diesem ikonischen Kulturort und versuchen Sie, während eines lokalen Festivals zu kommen, um zu sehen, wie die Arena mit lebendigem Gemeinschaftsgeist erwacht.",
+            "hu": "Tapasztalja meg a helyi camargue-i bikaviadalok hagyományait ezen az ikonikus kulturális helyszínen, és próbáljon meg egy helyi fesztivál idején látogatni, hogy lássa az arénát igazán életre kelni a pezsgő közösségi szellemtől.",
+            "ro": "Experimentați tradițiile locale ale luptelor cu tauri din Camargue în acest loc cultural iconic și încercați să vizitați în timpul unui festival local pentru a vedea cum arena prinde cu adevărat viață cu un spirit comunitar vibrant.",
+            "en": "Experience the local Camargue bullfighting traditions at this iconic cultural venue, and try to visit during a local festival to see the arena truly come alive with vibrant community spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Gérard Bruyère Park",
+            "hu": "Gérard Bruyère Park",
+            "ro": "Parcul Gérard Bruyère",
+            "en": "Gérard Bruyère Park"
+          },
+          "coords": [
+            4.005412,
+            43.655202
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den ruhigen Grünflächen dieses charmanten Parks, der als grüne Lunge des Viertels dient, und packen Sie ein leichtes Picknick ein, um es auf den gepflegten Rasenflächen unter den Bäumen zu genießen.",
+            "hu": "Pihenjen meg ennek a bájos parknak a békés zöldövezeteiben, amely a környék zöld tüdejeként szolgál, és csomagoljon egy könnyű pikniket, amelyet a fák alatti, gondozott pázsiton élvezhet.",
+            "ro": "Relaxați-vă în spațiile verzi și liniștite ale acestui parc fermecător, care servește drept plămânul verde al cartierului, și pregătiți un picnic ușor pentru a-l savura pe peluzele bine întreținute sub copaci.",
+            "en": "Relax in the peaceful green spaces of this charming park which serves as the green lung of the neighborhood, and pack a light picnic to enjoy on the well-maintained lawns under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf de Montpellier Massane",
+            "hu": "Montpellier Massane Golfklub",
+            "ro": "Golf de Montpellier Massane",
+            "en": "Golf de Montpellier Massane"
+          },
+          "coords": [
+            4.011563,
+            43.649087
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Üben Sie Ihren Schwung oder genießen Sie einfach die makellose Landschaftsgestaltung dieses erstklassigen Golfresorts, und reservieren Sie einen Tisch im Clubhaus-Restaurant für ein köstliches Essen mit Blick auf die Grüns.",
+            "hu": "Gyakorolja az ütéseit, vagy egyszerűen csak élvezze ennek az elsőrangú golfközpontnak az érintetlen táját, és fontolja meg, hogy asztalt foglal a klubház éttermében egy finom étkezéshez, kilátással a zöld pázsitra.",
+            "ro": "Exersați-vă lovitura sau pur și simplu bucurați-vă de peisajul imaculat al acestei stațiuni de golf de prim rang și luați în considerare rezervarea unei mese la restaurantul clubului pentru o masă delicioasă cu vedere la teren.",
+            "en": "Practice your swing or simply enjoy the pristine landscaping of this premier golf resort, and consider booking a table at the clubhouse restaurant for a delightful meal with views of the greens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch den Park am Bahnhof, bevor Sie ins historische Zentrum fahren. Mittag: Entdecken Sie die lokale Arena und ihre kulturelle Bedeutung. Nachmittag: Fahren Sie zu den üppigen Grünflächen der Parks. Abend: Beenden Sie Ihren aktiven Tag in der Nähe der makellosen Grüns von Massane.",
+        "hu": "Reggel: Kerékpározzon át a vasútállomás parkján, mielőtt a történelmi központba indulna. Dél: Fedezze fel a helyi arénát és annak kulturális jelentőségét. Délután: Tekerjen le a helyi parkok buja zöldjébe. Este: Fejezze be aktív napját a Massane golfpálya érintetlen pázsitjának közelében pihenve.",
+        "ro": "Dimineața: Bicicliți prin parcul gării înainte de a vă îndrepta spre centrul istoric. Amiază: Descoperiți arena locală și semnificația sa culturală. După-amiaza: Pedalați spre verdeața luxuriantă a parcurilor. Seara: Încheiați-vă ziua activă relaxându-vă lângă terenurile impecabile de la Massane.",
+        "en": "Morning: Cycle through the revitalized station park before heading into the historic center. Midday: Discover the local arena and its deep-rooted cultural significance. Afternoon: Pedal down to the lush greenery of the local parks. Evening: End your active day relaxing near the pristine greens of Massane."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Park am Espace Gare",
+            "hu": "Espace Gare Park",
+            "ro": "Parcul Espace Gare",
+            "en": "Parc de l'Espace Gare"
+          },
+          "coords": [
+            3.989717,
+            43.674474
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Erholungsgebiet, das die alte Bahnhofsumgebung wunderbar zu einem Gemeindezentrum umgestaltet hat, und nutzen Sie die breiten Wege für einen reibungslosen und entspannenden Morgenspaziergang.",
+            "hu": "Fedezze fel ezt a tágas szabadidős területet, amely a régi vasúti környezetet gyönyörűen egy közösségi központtá alakította át, és használja a széles ösvényeket egy sima és pihentető reggeli sétához.",
+            "ro": "Explorați această zonă de recreere spațioasă care transformă frumos vechile împrejurimi ale căii ferate într-un centru comunitar și folosiți aleile largi pentru o plimbare de dimineață liniștită și relaxantă.",
+            "en": "Explore this spacious recreational area which beautifully redevelops the old railway surroundings into a community hub, and use the wide paths for a smooth and relaxing morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Julien Kirche",
+            "hu": "Saint-Julien Templom",
+            "ro": "Biserica Saint-Julien",
+            "en": "Saint-Julien Church"
+          },
+          "coords": [
+            4.013669,
+            43.660841
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche, die das tiefe Erbe der Stadt widerspiegelt, und achten Sie besonders auf die kunstvollen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű román kori építészetét, amely a város mély örökségét tükrözi, és szánjon egy percet a főbejárat feletti bonyolult kőfaragványok megfigyelésére.",
+            "ro": "Admirați frumoasa arhitectură romanică a acestei biserici istorice care reflectă patrimoniul profund al orașului și faceți-vă un moment pentru a observa sculpturile complexe în piatră de deasupra intrării principale.",
+            "en": "Admire the beautiful Romanesque architecture of this historic church which reflects the town's deep heritage, and take a moment to notice the intricate stonework above the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena von Baillargues",
+            "hu": "Baillargues Aréna",
+            "ro": "Arena Baillargues",
+            "en": "Baillargues Arena"
+          },
+          "coords": [
+            4.013177,
+            43.660457
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokalen Camargue-Stierkampftraditionen an diesem ikonischen Kulturort und versuchen Sie, während eines lokalen Festivals zu kommen, um zu sehen, wie die Arena mit lebendigem Gemeinschaftsgeist erwacht.",
+            "hu": "Tapasztalja meg a helyi camargue-i bikaviadalok hagyományait ezen az ikonikus kulturális helyszínen, és próbáljon meg egy helyi fesztivál idején látogatni, hogy lássa az arénát igazán életre kelni a pezsgő közösségi szellemtől.",
+            "ro": "Experimentați tradițiile locale ale luptelor cu tauri din Camargue în acest loc cultural iconic și încercați să vizitați în timpul unui festival local pentru a vedea cum arena prinde cu adevărat viață cu un spirit comunitar vibrant.",
+            "en": "Experience the local Camargue bullfighting traditions at this iconic cultural venue, and try to visit during a local festival to see the arena truly come alive with vibrant community spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf de Montpellier Massane",
+            "hu": "Montpellier Massane Golfklub",
+            "ro": "Golf de Montpellier Massane",
+            "en": "Golf de Montpellier Massane"
+          },
+          "coords": [
+            4.011563,
+            43.649087
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Üben Sie Ihren Schwung oder genießen Sie einfach die makellose Landschaftsgestaltung dieses erstklassigen Golfresorts, und reservieren Sie einen Tisch im Clubhaus-Restaurant für ein köstliches Essen mit Blick auf die Grüns.",
+            "hu": "Gyakorolja az ütéseit, vagy egyszerűen csak élvezze ennek az elsőrangú golfközpontnak az érintetlen táját, és fontolja meg, hogy asztalt foglal a klubház éttermében egy finom étkezéshez, kilátással a zöld pázsitra.",
+            "ro": "Exersați-vă lovitura sau pur și simplu bucurați-vă de peisajul imaculat al acestei stațiuni de golf de prim rang și luați în considerare rezervarea unei mese la restaurantul clubului pentru o masă delicioasă cu vedere la teren.",
+            "en": "Practice your swing or simply enjoy the pristine landscaping of this premier golf resort, and consider booking a table at the clubhouse restaurant for a delightful meal with views of the greens."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade Cyril Rouquette",
+            "hu": "Cyril Rouquette Sétány",
+            "ro": "Esplanada Cyril Rouquette",
+            "en": "Esplanade Cyril Rouquette"
+          },
+          "coords": [
+            4.041543,
+            43.644096
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an dieser angenehmen Naturpromenade ausklingen, die einen herrlichen weiten Blick auf die Umgebung bietet, und nehmen Sie sich einen Moment auf den Bänken, um den wunderschönen Abendhimmel über Baillargues zu beobachten.",
+            "hu": "Zárja a napot ezen a kellemes természetes sétányon, amely szép nyitott kilátást nyújt a környékre, és szánjon egy percet a padokon ülve arra, hogy megfigyelje a gyönyörű esti eget Baillargues felett.",
+            "ro": "Încheiați-vă ziua pe această promenadă naturală plăcută, care oferă vederi deschise minunate asupra împrejurimilor, și luați un moment pe bănci pentru a privi frumosul cer de seară deasupra orașului Baillargues.",
+            "en": "Wind down your day at this pleasant natural promenade that offers lovely open views of the surroundings, and take a moment on the benches to watch the beautiful evening sky over Baillargues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zum weitläufigen Espace Gare Park, bevor Sie nahe der historischen Kirche parken. Mittag: Erleben Sie die ikonische Arena, bevor Sie weiter nach Süden fahren. Nachmittag: Genießen Sie die exklusive Atmosphäre im Golfresort. Abend: Fahren Sie zur östlichen Esplanade für einen ruhigen Sonnenuntergang.",
+        "hu": "Reggel: Autózzon ki a tágas Espace Gare parkba, mielőtt a történelmi templom közelében parkolna. Dél: Tapasztalja meg az ikonikus arénát, majd haladjon dél felé. Délután: Élvezze az előkelő hangulatot a golfközpontban. Este: Vezessen a keleti sétányra, hogy egy csendes naplementét élvezzen.",
+        "ro": "Dimineața: Conduceți la parcul Espace Gare înainte de a parca lângă biserica istorică. Amiază: Experimentați arena iconică înainte de a continua spre sud. După-amiaza: Bucurați-vă de atmosfera exclusivistă la complexul de golf. Seara: Conduceți la esplanada estică pentru un apus liniștit.",
+        "en": "Morning: Drive out to the spacious Espace Gare park before parking near the historic church. Midday: Experience the iconic arena before continuing your scenic drive southwards. Afternoon: Enjoy the upscale atmosphere at the local golf resort. Evening: Drive to the eastern esplanade for a quiet sunset."
+      }
+    }
+  }
+}

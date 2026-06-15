@@ -1,0 +1,497 @@
+{
+  "city_id": "turkey-rumelikavag-cities-v2",
+  "anchor": {
+    "name": "Rumelikavağı",
+    "coords": [
+      29.07341,
+      41.18247
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Telli Baba",
+            "hu": "Telli Baba",
+            "ro": "Telli Baba",
+            "en": "Telli Baba"
+          },
+          "coords": [
+            29.071836,
+            41.175269
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Grab von Telli Baba, einem verehrten Ort, und bringen Sie silberne Fäden als Opfergabe für zukünftiges Glück mit.",
+            "hu": "Látogassa meg a történelmi Telli Baba sírt, egy tisztelt helyi zarándokhelyet, és hozzon magával ezüst szálakat áldozatként a jó szerencse érdekében.",
+            "ro": "Vizitați mormântul istoric Telli Baba, un loc venerat, și aduceți fire de argint ca ofrandă pentru a atrage norocul în viața dumneavoastră.",
+            "en": "Visit the historic Telli Baba tomb, a revered site for locals seeking blessings, and bring silver threads to leave as an offering for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Yusuf Ağa Camii",
+            "hu": "Yusuf Ağa Camii",
+            "ro": "Yusuf Ağa Camii",
+            "en": "Yusuf Ağa Camii"
+          },
+          "coords": [
+            29.072195,
+            41.183671
+          ],
+          "category": "religious",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische osmanische Architektur der Yusuf-Ağa-Moschee und besuchen Sie sie außerhalb der Gebetszeiten, um die Details zu genießen.",
+            "hu": "Csodálja meg a Yusuf Ağa mecset klasszikus oszmán építészetét a vízparton, és próbáljon imaidőn kívül érkezni a nyugodt belső tér megtekintéséhez.",
+            "ro": "Admirați arhitectura otomană clasică a moscheii Yusuf Ağa de lângă apă și vizitați-o în afara orelor de rugăciune pentru a-i aprecia detaliile.",
+            "en": "Admire the classical Ottoman architecture of Yusuf Ağa Mosque near the waterfront, and try to visit outside prayer times to appreciate its serene interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumeli Kavağı Tabyaları",
+            "hu": "Rumeli Kavağı Tabyaları",
+            "ro": "Rumeli Kavağı Tabyaları",
+            "en": "Rumeli Kavağı Tabyaları"
+          },
+          "coords": [
+            29.074666,
+            41.182028
+          ],
+          "category": "castle",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Küstenbefestigungen aus dem 19. Jahrhundert und tragen Sie festes Schuhwerk, da die unebenen Ruinen schwer begehbar sind.",
+            "hu": "Fedezze fel ezeket a 19. századi parti erődítményeket, de viseljen masszív cipőt, mivel az egyenetlen romok között meglehetősen nehéz a tájékozódás.",
+            "ro": "Explorați aceste fortificații de coastă robuste din secolul al XIX-lea și purtați încălțăminte solidă, deoarece ruinele denivelate pot fi greu de parcurs.",
+            "en": "Explore these robust 19th-century coastal fortifications that guarded the Bosphorus, but wear sturdy shoes as the uneven ruins can be quite treacherous."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumeli Kavağı Plajı",
+            "hu": "Rumeli Kavağı Plajı",
+            "ro": "Rumeli Kavağı Plajı",
+            "en": "Rumeli Kavağı Plajı"
+          },
+          "coords": [
+            29.07645,
+            41.184575
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Strand mit spektakulärem Blick auf die Meerenge und kommen Sie früh im Sommer, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a hangulatos helyi strandon, amely lenyűgöző kilátást nyújt a szorosra, és érkezzen korán nyáron, hogy biztosítson magának egy jó helyet.",
+            "ro": "Relaxați-vă pe această plajă locală fermecătoare cu vederi spectaculoase și ajungeți devreme vara pentru a vă asigura un loc înainte de aglomerație.",
+            "en": "Relax at this charming local beach offering spectacular views of the strait, and arrive early in the summer to secure a spot before the crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Feneryolu Bird Observation Tower",
+            "hu": "Feneryolu Bird Observation Tower",
+            "ro": "Feneryolu Bird Observation Tower",
+            "en": "Feneryolu Bird Observation Tower"
+          },
+          "coords": [
+            29.073985,
+            41.192425
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen Holzturm, um den unglaublichen Vogelzug über den Bosporus zu beobachten, und halten Sie ein Fernglas für die beste Sicht bereit.",
+            "hu": "Mássza meg ezt a fa megfigyelőtornyot, hogy tanúja legyen a csodálatos madárvonulásnak a Boszporusz felett, és tartson kéznél egy távcsövet.",
+            "ro": "Urcați în acest turn de observație din lemn pentru a vedea migrația păsărilor peste Bosfor și păstrați un binoclu la îndemână pentru cele mai bune priveliști.",
+            "en": "Climb this wooden observation tower to witness the incredible seasonal bird migrations across the Bosphorus, keeping a pair of binoculars handy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag dort, wo sich der Bosporus verengt, und genießen Sie die Küstenatmosphäre. Besuchen Sie die Stätten entlang der europäischen Küste. Wenn die Sonne höher steigt, erkunden Sie die dramatischen Küstenbefestigungen. Das Mauerwerk bietet einen Einblick in die Militärgeschichte. Entspannen Sie sich am Strand oder beobachten Sie Zugvögel. Beenden Sie Ihre Reise mit einem malerischen Sonnenuntergang, der die Burgen golden färbt und den perfekten Abschluss bietet.",
+        "hu": "Kezdje a napot ott, ahol a Boszporusz összeszűkül, magába szívva a tengerparti hangulatot. Látogassa meg az európai partvidék nevezetességeit. Ahogy a nap magasabbra hág, fedezze fel a drámai erődítményeket, amelyek egykor a szorost őrizték. Pihenjen a strandon a csillogó víz mellett, vagy figyelje meg a vándormadarakat. Zárja utazását egy csodálatos naplementével, ahol az aranyfényben fürdő várak látványa tökéletes és emlékezetes befejezést nyújt.",
+        "ro": "Începeți-vă ziua acolo unde Bosforul se îngustează, bucurându-vă de atmosfera de coastă. Vizitați siturile istorice de-a lungul țărmului european. Pe măsură ce soarele urcă, explorați fortificațiile dramatice care păzeau odată strâmtoarea. Relaxați-vă la plaja locală și fiți cu ochii în patru după păsările migratoare. Încheiați-vă călătoria cu un apus uimitor care aruncă o strălucire aurie asupra castelelor, creând un final perfect.",
+        "en": "Begin your day where the Bosphorus winds narrow, soaking in the coastal atmosphere. Visit the sacred and historical sites along the European shoreline. As the sun rises higher, explore the dramatic coastal fortifications that once guarded the strait. Relax near the shimmering waters at the local beach and keep an eye out for migratory birds. Conclude your journey as the sunset casts a golden glow on the castles, creating a perfect ending to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nejat Uygur Sahnesi",
+            "hu": "Nejat Uygur Sahnesi",
+            "ro": "Nejat Uygur Sahnesi",
+            "en": "Nejat Uygur Sahnesi"
+          },
+          "coords": [
+            29.053785,
+            41.170706
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das kulturelle Leben in diesem lebhaften Theater und prüfen Sie die Abendkasse für spannende abendliche Vorstellungspläne.",
+            "hu": "Nyerjen bepillantást a helyi kulturális életbe ebben a nyüzsgő színházban, és ellenőrizze a jegypénztárnál az esti előadások lenyűgöző menetrendjét.",
+            "ro": "Aruncați o privire asupra vieții culturale la acest teatru vibrant numit după un actor faimos și verificați programul pentru spectacolele de seară.",
+            "en": "Catch a glimpse of local cultural life at this vibrant theater named after a famous Turkish actor, and check the box office for evening schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Kethüda Camii",
+            "hu": "Ali Kethüda Camii",
+            "ro": "Ali Kethüda Camii",
+            "en": "Ali Kethüda Camii"
+          },
+          "coords": [
+            29.057864,
+            41.169
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante Flussmoschee aus dem 18. Jahrhundert und bewundern Sie die schöne Holzdecke, bevor Sie Ihre Radfahrt fortsetzen.",
+            "hu": "Fedezze fel ezt az elegáns, 18. században épült folyóparti mecsetet, és szánjon egy percet a gyönyörű fa mennyezet megcsodálására.",
+            "ro": "Descoperiți această moschee elegantă construită în secolul al XVIII-lea și admirați tavanul său frumos din lemn înainte de a vă continua drumul.",
+            "en": "Discover this elegant riverside mosque built in the 18th century, and take a moment to admire its beautiful wooden ceiling before cycling onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Telli Baba",
+            "hu": "Telli Baba",
+            "ro": "Telli Baba",
+            "en": "Telli Baba"
+          },
+          "coords": [
+            29.071836,
+            41.175269
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Grab von Telli Baba, einem verehrten Ort, und bringen Sie silberne Fäden als Opfergabe für zukünftiges Glück mit.",
+            "hu": "Látogassa meg a történelmi Telli Baba sírt, egy tisztelt helyi zarándokhelyet, és hozzon magával ezüst szálakat áldozatként a jó szerencse érdekében.",
+            "ro": "Vizitați mormântul istoric Telli Baba, un loc venerat, și aduceți fire de argint ca ofrandă pentru a atrage norocul în viața dumneavoastră.",
+            "en": "Visit the historic Telli Baba tomb, a revered site for locals seeking blessings, and bring silver threads to leave as an offering for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Yusuf Ağa Camii",
+            "hu": "Yusuf Ağa Camii",
+            "ro": "Yusuf Ağa Camii",
+            "en": "Yusuf Ağa Camii"
+          },
+          "coords": [
+            29.072195,
+            41.183671
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische osmanische Architektur der Yusuf-Ağa-Moschee und besuchen Sie sie außerhalb der Gebetszeiten, um die Details zu genießen.",
+            "hu": "Csodálja meg a Yusuf Ağa mecset klasszikus oszmán építészetét a vízparton, és próbáljon imaidőn kívül érkezni a nyugodt belső tér megtekintéséhez.",
+            "ro": "Admirați arhitectura otomană clasică a moscheii Yusuf Ağa de lângă apă și vizitați-o în afara orelor de rugăciune pentru a-i aprecia detaliile.",
+            "en": "Admire the classical Ottoman architecture of Yusuf Ağa Mosque near the waterfront, and try to visit outside prayer times to appreciate its serene interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumeli Kavağı Tabyaları",
+            "hu": "Rumeli Kavağı Tabyaları",
+            "ro": "Rumeli Kavağı Tabyaları",
+            "en": "Rumeli Kavağı Tabyaları"
+          },
+          "coords": [
+            29.074666,
+            41.182028
+          ],
+          "category": "castle",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Küstenbefestigungen aus dem 19. Jahrhundert und tragen Sie festes Schuhwerk, da die unebenen Ruinen schwer begehbar sind.",
+            "hu": "Fedezze fel ezeket a 19. századi parti erődítményeket, de viseljen masszív cipőt, mivel az egyenetlen romok között meglehetősen nehéz a tájékozódás.",
+            "ro": "Explorați aceste fortificații de coastă robuste din secolul al XIX-lea și purtați încălțăminte solidă, deoarece ruinele denivelate pot fi greu de parcurs.",
+            "en": "Explore these robust 19th-century coastal fortifications that guarded the Bosphorus, but wear sturdy shoes as the uneven ruins can be quite treacherous."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumeli Kavağı Plajı",
+            "hu": "Rumeli Kavağı Plajı",
+            "ro": "Rumeli Kavağı Plajı",
+            "en": "Rumeli Kavağı Plajı"
+          },
+          "coords": [
+            29.07645,
+            41.184575
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem charmanten Strand mit spektakulärem Blick auf die Meerenge und kommen Sie früh im Sommer, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a hangulatos helyi strandon, amely lenyűgöző kilátást nyújt a szorosra, és érkezzen korán nyáron, hogy biztosítson magának egy jó helyet.",
+            "ro": "Relaxați-vă pe această plajă locală fermecătoare cu vederi spectaculoase și ajungeți devreme vara pentru a vă asigura un loc înainte de aglomerație.",
+            "en": "Relax at this charming local beach offering spectacular views of the strait, and arrive early in the summer to secure a spot before the crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Feneryolu Bird Observation Tower",
+            "hu": "Feneryolu Bird Observation Tower",
+            "ro": "Feneryolu Bird Observation Tower",
+            "en": "Feneryolu Bird Observation Tower"
+          },
+          "coords": [
+            29.073985,
+            41.192425
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen Holzturm, um den unglaublichen Vogelzug über den Bosporus zu beobachten, und halten Sie ein Fernglas für die beste Sicht bereit.",
+            "hu": "Mássza meg ezt a fa megfigyelőtornyot, hogy tanúja legyen a csodálatos madárvonulásnak a Boszporusz felett, és tartson kéznél egy távcsövet.",
+            "ro": "Urcați în acest turn de observație din lemn pentru a vedea migrația păsărilor peste Bosfor și păstrați un binoclu la îndemână pentru cele mai bune priveliști.",
+            "en": "Climb this wooden observation tower to witness the incredible seasonal bird migrations across the Bosphorus, keeping a pair of binoculars handy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im lebendigen Sarıyer und tauchen Sie in die lokale Kultur ein, bevor Sie entlang der ruhigen Küste radeln. Entdecken Sie historische Moscheen und Schreine auf dem Weg. Am Mittag erkunden Sie die beeindruckenden osmanischen Befestigungen, die den Bosporus bewachten. Genießen Sie nachmittags eine entspannte Pause am Strand und beobachten Sie die majestätischen Vogelzüge vom hölzernen Aussichtsturm, während der Tag friedlich ausklingt.",
+        "hu": "Kezdje a nyüzsgő Sarıyerben, és merüljön el a helyi kultúrában, mielőtt végigkerekezik a békés parton. Fedezze fel az útjába eső történelmi mecseteket. Délben csodálja meg a lenyűgöző oszmán erődítményeket, amelyek egykor a szorost védték. Délután tartson egy pihentető szünetet a strandon, majd figyelje meg a fenséges madárvonulást a fa kilátótoronyból, miközben a nap békésen véget ér.",
+        "ro": "Începeți în vibrantul Sarıyer, explorând cultura locală înainte de a pedala de-a lungul coastei liniștite. Descoperiți moschei istorice și altare pe drum. La prânz, explorați fortificațiile otomane impresionante care păzeau Bosforul. Bucurați-vă de o pauză relaxantă la plajă după-amiaza și urmăriți migrațiile maiestuoase ale păsărilor din turnul de observație din lemn.",
+        "en": "Start in vibrant Sarıyer, diving into local culture before pedaling along the serene coastline. Discover historic mosques and sacred shrines along the way. By midday, explore the impressive Ottoman fortifications that guarded the Bosphorus. Enjoy a relaxing afternoon break at the local beach, and watch the majestic bird migrations from the wooden observation tower as the day peacefully winds down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 32.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nejat Uygur Sahnesi",
+            "hu": "Nejat Uygur Sahnesi",
+            "ro": "Nejat Uygur Sahnesi",
+            "en": "Nejat Uygur Sahnesi"
+          },
+          "coords": [
+            29.053785,
+            41.170706
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das kulturelle Leben in diesem lebhaften Theater und prüfen Sie die Abendkasse für spannende abendliche Vorstellungspläne.",
+            "hu": "Nyerjen bepillantást a helyi kulturális életbe ebben a nyüzsgő színházban, és ellenőrizze a jegypénztárnál az esti előadások lenyűgöző menetrendjét.",
+            "ro": "Aruncați o privire asupra vieții culturale la acest teatru vibrant numit după un actor faimos și verificați programul pentru spectacolele de seară.",
+            "en": "Catch a glimpse of local cultural life at this vibrant theater named after a famous Turkish actor, and check the box office for evening schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Kethüda Camii",
+            "hu": "Ali Kethüda Camii",
+            "ro": "Ali Kethüda Camii",
+            "en": "Ali Kethüda Camii"
+          },
+          "coords": [
+            29.057864,
+            41.169
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante Flussmoschee aus dem 18. Jahrhundert und bewundern Sie die schöne Holzdecke, bevor Sie weiterfahren.",
+            "hu": "Fedezze fel ezt az elegáns, 18. században épült folyóparti mecsetet, és szánjon egy percet a gyönyörű fa mennyezet megcsodálására.",
+            "ro": "Descoperiți această moschee elegantă construită în secolul al XVIII-lea și admirați tavanul său frumos din lemn înainte de a conduce mai departe.",
+            "en": "Discover this elegant riverside mosque built in the 18th century, and take a moment to admire its beautiful wooden ceiling before driving onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Telli Baba",
+            "hu": "Telli Baba",
+            "ro": "Telli Baba",
+            "en": "Telli Baba"
+          },
+          "coords": [
+            29.071836,
+            41.175269
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Grab von Telli Baba, einem verehrten Ort, und bringen Sie silberne Fäden als Opfergabe für zukünftiges Glück mit.",
+            "hu": "Látogassa meg a történelmi Telli Baba sírt, egy tisztelt helyi zarándokhelyet, és hozzon magával ezüst szálakat áldozatként a jó szerencse érdekében.",
+            "ro": "Vizitați mormântul istoric Telli Baba, un loc venerat, și aduceți fire de argint ca ofrandă pentru a atrage norocul în viața dumneavoastră.",
+            "en": "Visit the historic Telli Baba tomb, a revered site for locals seeking blessings, and bring silver threads to leave as an offering for good fortune."
+          }
+        },
+        {
+          "name": {
+            "de": "Rumeli Kavağı Tabyaları",
+            "hu": "Rumeli Kavağı Tabyaları",
+            "ro": "Rumeli Kavağı Tabyaları",
+            "en": "Rumeli Kavağı Tabyaları"
+          },
+          "coords": [
+            29.074666,
+            41.182028
+          ],
+          "category": "castle",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Küstenbefestigungen aus dem 19. Jahrhundert und tragen Sie festes Schuhwerk, da die unebenen Ruinen schwer begehbar sind.",
+            "hu": "Fedezze fel ezeket a 19. századi parti erődítményeket, de viseljen masszív cipőt, mivel az egyenetlen romok között meglehetősen nehéz a tájékozódás.",
+            "ro": "Explorați aceste fortificații de coastă robuste din secolul al XIX-lea și purtați încălțăminte solidă, deoarece ruinele denivelate pot fi greu de parcurs.",
+            "en": "Explore these robust 19th-century coastal fortifications that guarded the Bosphorus, but wear sturdy shoes as the uneven ruins can be quite treacherous."
+          }
+        },
+        {
+          "name": {
+            "de": "Yoros Castle",
+            "hu": "Yoros Castle",
+            "ro": "Yoros Castle",
+            "en": "Yoros Castle"
+          },
+          "coords": [
+            29.094928,
+            41.17861
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 25.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die dramatischen Ruinen dieser genuesischen Festung und trinken Sie im nahegelegenen Café einen Tee für ein unvergessliches Foto.",
+            "hu": "Sétáljon végig ennek a genovai erődnek a drámai romjain, és igyon meg egy teát a közeli kávézóban egy felejthetetlen panorámás fénykép elkészítéséhez.",
+            "ro": "Plimbați-vă prin ruinele acestei cetăți genoveze care domină nordul Bosforului și savurați un ceai la cafeneaua pentru o fotografie de neuitat.",
+            "en": "Wander through the dramatic ruins of this Genoese fortress commanding the northern Bosphorus, and stay for tea nearby for a panoramic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Midillili Ali Reis Camii",
+            "hu": "Midillili Ali Reis Camii",
+            "ro": "Midillili Ali Reis Camii",
+            "en": "Midillili Ali Reis Camii"
+          },
+          "coords": [
+            29.088699,
+            41.174269
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser malerischen Küstenmoschee, die einem Marinekommandanten gewidmet ist, und beachten Sie die maritimen Motive an ihren Wänden.",
+            "hu": "Álljon meg ennél a híres oszmán haditengerészeti parancsnoknak szentelt tengerparti mecsetnél, és vegye észre a tengeri motívumokat a falakon.",
+            "ro": "Opriți-vă la această moschee de coastă pitorească dedicată unui comandant naval otoman și observați motivele nautice de pe pereți în timp ce explorați.",
+            "en": "Stop by this quaint coastal mosque dedicated to a famous Ottoman naval commander, noticing the nautical motifs on its walls as you explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Hz Yuşa Cami",
+            "hu": "Hz Yuşa Cami",
+            "ro": "Hz Yuşa Cami",
+            "en": "Hz Yuşa Cami"
+          },
+          "coords": [
+            29.08463,
+            41.162287
+          ],
+          "category": "landmark",
+          "arrive_at": "15:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre des Joshua-Hügels mit einem Prophetengrab und kleiden Sie sich aus Respekt bescheiden.",
+            "hu": "Tapasztalja meg a Józsué hegyének mély spirituális atmoszféráját, amely egy próféta sírját rejti, és öltözzön szerényen a kilátás megtekintésekor.",
+            "ro": "Experimentați atmosfera spirituală profundă a Dealului lui Iosua, despre care se crede că adăpostește un profet, și îmbrăcați-vă modest din respect.",
+            "en": "Experience the deep spiritual atmosphere of Joshua's Hill, believed to hold a prophet's tomb, and dress modestly out of respect for the site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren kulturellen Roadtrip in Sarıyer, bevor Sie die Küste hinauf zu historischen Moscheen und Schreinen fahren. Erleben Sie am Mittag die europäischen Befestigungsanlagen, die den Bosporus sicherten. Überqueren Sie am Nachmittag die Meerenge zur asiatischen Seite, wo Sie spektakuläre Burgruinen und weite Ausblicke erwarten. Beenden Sie den Tag an spirituellen Wahrzeichen hoch über dem Wasser, während der Abend eine ruhige Stimmung bringt.",
+        "hu": "Kezdje kulturális autós utazását Sarıyerben, mielőtt a parton történelmi mecsetek és szentélyek felé veszi az irányt. Délben fedezze fel a Boszporuszt védő európai erődítményeket. Délután keljen át a szoroson az ázsiai oldalra, ahol látványos várromok és lenyűgöző kilátás várja. Zárja a napot a víz fölött magasodó spirituális nevezetességeknél, ahogy az este békés hangulatot teremt a fenséges tájban.",
+        "ro": "Începeți-vă excursia culturală cu mașina în Sarıyer, conducând spre moscheile și altarele istorice de coastă. La prânz, experimentați fortificațiile europene care securizau Bosforul. După-amiaza, traversați strâmtoarea spre partea asiatică pentru ruine spectaculoase de castele și priveliști. Încheiați-vă ziua la repere spirituale înalte deasupra apei, pe măsură ce seara aduce o atmosferă liniștită.",
+        "en": "Begin your cultural road trip in Sarıyer before driving up the coast to historical mosques and sacred shrines. By midday, experience the European fortifications that secured the Bosphorus. In the afternoon, cross the strait to the Asian side, where spectacular castle ruins and sweeping vistas await. Conclude your day at deeply spiritual landmarks high above the water as evening brings a peaceful and reflective mood."
+      }
+    }
+  }
+}

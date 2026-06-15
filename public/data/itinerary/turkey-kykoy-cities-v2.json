@@ -1,0 +1,474 @@
+{
+  "city_id": "turkey-kykoy-cities-v2",
+  "anchor": {
+    "name": "Kıyıköy",
+    "coords": [
+      28.09573,
+      41.63475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aya Nikola",
+            "hu": "Aya Nikola",
+            "ro": "Aya Nikola",
+            "en": "Aya Nikola"
+          },
+          "coords": [
+            28.084488,
+            41.634106
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende, von antiken Mönchen direkt in den Felsen gehauene Kloster erfordert festes Schuhwerk für die unebenen historischen Steinwege.",
+            "hu": "A sziklába vájt lenyűgöző ősi kolostor felfedezéséhez mindenképpen viseljen kényelmes és csúszásmentes cipőt az egyenetlen kőpadlózat miatt.",
+            "ro": "Sculptată direct în stâncă de călugării antici, această impresionantă mănăstire istorică necesită încălțăminte robustă pentru potecile interioare denivelate.",
+            "en": "Carved directly into the rock by ancient monks, this impressive historic monastery requires sturdy shoes for the uneven ancient stone paths inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Camii",
+            "hu": "Kıyıköy Camii",
+            "ro": "Moscheea Kıyıköy",
+            "en": "Kıyıköy Mosque"
+          },
+          "coords": [
+            28.094816,
+            41.633698
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Diese einst als byzantinische Kirche errichtete zentrale Moschee besticht durch ihren architektonischen Mix, kleiden Sie sich daher vor dem Eintreten bescheiden.",
+            "hu": "Az egykor bizánci templomként funkcionáló központi mecset lenyűgöző építészeti keveredést mutat be, így belépés előtt ügyeljen a visszafogott öltözködésre.",
+            "ro": "Odinioară biserică bizantină înainte de conversie, această moschee centrală prezintă un amestec arhitectural fascinant, deci îmbrăcați-vă decent la intrare.",
+            "en": "Once a Byzantine church before its conversion, this central mosque showcases a fascinating architectural blend, so dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Liman Hamamı",
+            "hu": "Kıyıköy Liman Hamamı",
+            "ro": "Băile portuare Kıyıköy",
+            "en": "Kıyıköy Port Baths"
+          },
+          "coords": [
+            28.094571,
+            41.63214
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Diese zerfallenen, aber atmosphärischen Ruinen der Hafenbäder bieten einen seltenen Einblick ins osmanische Leben und lassen sich morgens am besten fotografieren.",
+            "hu": "Ezek az omladozó, mégis hangulatos tengerparti fürdőromok ritka bepillantást engednek az oszmán kikötői életbe, amelyeket a délelőtti fényekben a legjobb fotózni.",
+            "ro": "Aceste ruine prăbușite, dar evocatoare ale băilor portuare, oferă o privire rară asupra vieții otomane, fiind cel mai bine fotografiate în lumina blândă a dimineții.",
+            "en": "These crumbling yet evocative coastal bath ruins offer a rare glimpse into Ottoman port life, best photographed during the softer late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaya Kilisesi",
+            "hu": "Kaya Kilisesi",
+            "ro": "Kaya Kilisesi",
+            "en": "Kaya Church"
+          },
+          "coords": [
+            28.097553,
+            41.633172
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Diese versteckte Höhlenkirche offenbart erstaunlich gut erhaltene Schnitzereien tiefer Frömmigkeit, bringen Sie jedoch eine kleine Taschenlampe für Details mit.",
+            "hu": "Ez a rejtett barlangtemplom figyelemre méltóan jó állapotban fennmaradt faragványokat rejt, a részletek megfigyeléséhez azonban érdemes egy kis zseblámpát hozni.",
+            "ro": "Această biserică ascunsă în peșteră dezvăluie sculpturi remarcabil de bine conservate, deși ar trebui să aduceți o mică lanternă pentru a vedea toate detaliile.",
+            "en": "This hidden cave church reveals remarkably well-preserved carvings that reflect deep historical piety, though bring a small flashlight to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Deniz Feneri",
+            "hu": "Deniz Feneri",
+            "ro": "Deniz Feneri",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            28.101293,
+            41.630826
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser historische Leuchtturm thront stolz am Rande der malerischen Küstenklippen und bietet die perfekte Panoramakulisse für ein unvergessliches Nachmittagsfoto.",
+            "hu": "A festői tengerparti sziklák szélén büszkén álló történelmi világítótorony tökéletes panorámás hátteret biztosít egy felejthetetlen délutáni fotó elkészítéséhez.",
+            "ro": "Ridicându-se mândru pe marginea stâncilor de coastă, acest far istoric oferă fundalul panoramic perfect pentru o fotografie de neuitat la sfârșitul după-amiezii.",
+            "en": "Standing proudly on the edge of the scenic coastal cliffs, this historic lighthouse provides the perfect panoramic backdrop for an unforgettable afternoon photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den gemeißelten Geheimnissen von Aya Nikola. Der Mittag führt zum Charme der Kıyıköy Camii und den Ruinen des Liman Hamamı. Entdecken Sie am Nachmittag die verborgenen Geheimnisse in der Kaya Kilisesi. Ihr Abend endet mit einem ruhigen Sonnenuntergang am historischen Leuchtturm Deniz Feneri.",
+        "hu": "Kezdje a reggelt az Aya Nikola faragott rejtélyeinek felfedezésével a friss parti levegőn. A dél a Kıyıköy Camii építészeti varázsával és a Liman Hamamı romjaival folytatódik. Délután fedezze fel a Kaya Kilisesi mélyen rejlő titkait. Az estéje a történelmi Deniz Feneri világítótorony nyugodt naplementéjével zárul.",
+        "ro": "Începeți dimineața descoperind misterele sculptate de la Aya Nikola. Prânzul face trecerea către farmecul arhitectural al Moscheii Kıyıköy și ruinele băilor portuare. După-amiaza, descoperiți secretele ascunse adânc în Kaya Kilisesi. Seara se încheie cu un apus liniștit la farul istoric Deniz Feneri.",
+        "en": "Begin your morning uncovering the carved mysteries of Aya Nikola, breathing in the fresh coastal air. Midday transitions to the architectural charm of Kıyıköy Camii and the evocative ruins of the Liman Hamamı. In the afternoon, discover the deeply hidden secrets inside Kaya Kilisesi. Your evening concludes with a serene sunset at the historic Deniz Feneri."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 3.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vezirtepe F Tümülüsü",
+            "hu": "Vezirtepe F Tümülüsü",
+            "ro": "Tumulul Vezirtepe F",
+            "en": "Vezirtepe F Mound"
+          },
+          "coords": [
+            28.07972,
+            41.633054
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser markante alte thrakische Grabhügel bietet einen weiten Blick auf die ländliche Landschaft. Tragen Sie jedoch Sonnencreme, da es keinen Schatten gibt.",
+            "hu": "Ez a kiemelkedő ókori trák sírhalom pazar kilátást nyújt a vidéki tájra, ezért feltétlenül viseljen kalapot és naptejet, mivel a tetején egyáltalán nincs árnyék.",
+            "ro": "Acest tumul antic tracic oferă vederi panoramice extinse asupra peisajului rural, așa că purtați pălărie și cremă de soare deoarece nu există deloc umbră.",
+            "en": "This prominent ancient Thracian burial mound offers sweeping rural landscape views, so wear a hat and sunscreen as there is no shade at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Aya Nikola",
+            "hu": "Aya Nikola",
+            "ro": "Aya Nikola",
+            "en": "Aya Nikola"
+          },
+          "coords": [
+            28.084488,
+            41.634106
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende, von antiken Mönchen direkt in den Felsen gehauene Kloster erfordert festes Schuhwerk für die unebenen historischen Steinwege.",
+            "hu": "A sziklába vájt lenyűgöző ősi kolostor felfedezéséhez mindenképpen viseljen kényelmes és csúszásmentes cipőt az egyenetlen kőpadlózat miatt.",
+            "ro": "Sculptată direct în stâncă de călugării antici, această impresionantă mănăstire istorică necesită încălțăminte robustă pentru potecile interioare denivelate.",
+            "en": "Carved directly into the rock by ancient monks, this impressive historic monastery requires sturdy shoes for the uneven ancient stone paths inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Camii",
+            "hu": "Kıyıköy Camii",
+            "ro": "Moscheea Kıyıköy",
+            "en": "Kıyıköy Mosque"
+          },
+          "coords": [
+            28.094816,
+            41.633698
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Diese einst als byzantinische Kirche errichtete zentrale Moschee besticht durch ihren architektonischen Mix, kleiden Sie sich daher vor dem Eintreten bescheiden.",
+            "hu": "Az egykor bizánci templomként funkcionáló központi mecset lenyűgöző építészeti keveredést mutat be, így belépés előtt ügyeljen a visszafogott öltözködésre.",
+            "ro": "Odinioară biserică bizantină înainte de conversie, această moschee centrală prezintă un amestec arhitectural fascinant, deci îmbrăcați-vă decent la intrare.",
+            "en": "Once a Byzantine church before its conversion, this central mosque showcases a fascinating architectural blend, so dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Halk Plajı",
+            "hu": "Kıyıköy Halk Plajı",
+            "ro": "Plaja publică Kıyıköy",
+            "en": "Kıyıköy Public Beach"
+          },
+          "coords": [
+            28.093346,
+            41.639174
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Ein beliebter lokaler öffentlicher Strand, an dem weicher Sand auf das kühle Schwarze Meer trifft, perfekt für eine erfrischende Mittagspause mit eigenem Handtuch.",
+            "hu": "A helyiek által is kedvelt nyilvános strand finom homokkal és a hűs Fekete-tengerrel várja, amely tökéletes egy frissítő pihenőhöz, ha hoz magával törölközőt.",
+            "ro": "O plajă publică locală îndrăgită, cu nisip fin și apele răcoroase ale Mării Negre, perfectă pentru o pauză revigorantă de prânz dacă vă aduceți propriul prosop.",
+            "en": "A beloved local public beach featuring soft sands meeting the cool Black Sea waters, perfect for a refreshing midday break if you pack your own soft towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaya Kilisesi",
+            "hu": "Kaya Kilisesi",
+            "ro": "Kaya Kilisesi",
+            "en": "Kaya Church"
+          },
+          "coords": [
+            28.097553,
+            41.633172
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Diese versteckte Höhlenkirche offenbart erstaunlich gut erhaltene Schnitzereien tiefer Frömmigkeit, bringen Sie jedoch eine kleine Taschenlampe für Details mit.",
+            "hu": "Ez a rejtett barlangtemplom figyelemre méltóan jó állapotban fennmaradt faragványokat rejt, a részletek megfigyeléséhez azonban érdemes egy kis zseblámpát hozni.",
+            "ro": "Această biserică ascunsă în peșteră dezvăluie sculpturi remarcabil de bine conservate, deși ar trebui să aduceți o mică lanternă pentru a vedea toate detaliile.",
+            "en": "This hidden cave church reveals remarkably well-preserved carvings that reflect deep historical piety, though bring a small flashlight to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Deniz Feneri",
+            "hu": "Deniz Feneri",
+            "ro": "Deniz Feneri",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            28.101293,
+            41.630826
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser historische Leuchtturm thront stolz am Rande der malerischen Küstenklippen und bietet die perfekte Panoramakulisse für ein unvergessliches Nachmittagsfoto.",
+            "hu": "A festői tengerparti sziklák szélén büszkén álló történelmi világítótorony tökéletes panorámás hátteret biztosít egy felejthetetlen délutáni fotó elkészítéséhez.",
+            "ro": "Ridicându-se mândru pe marginea stâncilor de coastă, acest far istoric oferă fundalul panoramic perfect pentru o fotografie de neuitat la sfârșitul după-amiezii.",
+            "en": "Standing proudly on the edge of the scenic coastal cliffs, this historic lighthouse provides the perfect panoramic backdrop for an unforgettable afternoon photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer Fahrt zum Vezirtepe F Tümülüsü für Panoramablicke. Mittags geht es durch historische Gassen zu Aya Nikola und der Moschee. Verbringen Sie den frühen Nachmittag entspannt an den Wellen des Kıyıköy Halk Plajı. Beenden Sie Ihren Tag nach der Kaya Kilisesi mit Blick auf das Schwarze Meer am Deniz Feneri.",
+        "hu": "Kezdje egy energikus reggeli tekeréssel a Vezirtepe F Tümülüsü panorámájáért. A dél a történelmi sikátorokon át az Aya Nikolához és a mecsethez vezet. Kora délután pihenjen a Kıyıköy Halk Plajı lágy hullámainál, majd tekerjen a Kaya Kilisesihez. A napot a Fekete-tengerre néző Deniz Feneri világítótoronynál zárja.",
+        "ro": "Începeți cu o plimbare matinală către Vezirtepe F Tümülüsü pentru vederi panoramice. La prânz, vizitați Aya Nikola și moscheea centrală. Petreceți-vă prima parte a după-amiezii relaxându-vă la Kıyıköy Halk Plajı înainte de a pedala spre Kaya Kilisesi. Încheiați ziua privindu-vă Marea Neagră la Deniz Feneri.",
+        "en": "Start with an energizing morning ride to Vezirtepe F Tümülüsü for panoramic views. Midday brings you through the historical alleys to Aya Nikola and the town's central mosque. Spend your early afternoon relaxing by the soft waves at Kıyıköy Halk Plajı before pedaling to Kaya Kilisesi. Finish your scenic biking day overlooking the vast Black Sea at Deniz Feneri."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 5.17,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Servez Plajı",
+            "hu": "Servez Plajı",
+            "ro": "Plaja Servez",
+            "en": "Servez Beach"
+          },
+          "coords": [
+            28.08805,
+            41.65451
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Versteckt abseits des geschäftigen Stadtzentrums belohnt dieser unberührte Küstenabschnitt Frühaufsteher mit absoluter Ruhe und unberührter natürlicher Schönheit.",
+            "hu": "A nyüzsgő városközponttól távol eső, érintetlen tengerparti szakasz tökéletes nyugalommal és csodálatos természeti szépséggel jutalmazza meg a korán kelőket.",
+            "ro": "Ascunsă de centrul plin de viață al orașului, această porțiune de coastă imaculată recompensează vizitatorii matinali cu o liniște absolută și frumusețe pură.",
+            "en": "Tucked away from the bustling town center, this secluded pristine stretch of coast rewards early risers with absolute tranquility and untouched natural beauty."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaz Limanı Tümülüsü",
+            "hu": "Kaz Limanı Tümülüsü",
+            "ro": "Tumulul Kaz Limanı",
+            "en": "Kaz Limanı Mound"
+          },
+          "coords": [
+            28.089927,
+            41.64358
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weniger bekannte archäologische Juwel mit Blick auf das ruhige Wasser, ein ruhiger historischer Ort, der festes Schuhwerk erfordert.",
+            "hu": "Fedezze fel ezt a kevésbé ismert, csendes vizekre néző régészeti gyöngyszemet, amelyhez a kissé egyenetlen terep miatt mindenképp masszív túracipőt válasszon.",
+            "ro": "Explorați această bijuterie arheologică mai puțin cunoscută cu vedere la apele liniștite, un punct de reflecție istorică cel mai bine abordat cu bocanci solizi.",
+            "en": "Explore this lesser-known archaeological gem overlooking the tranquil waters, providing a quiet historic reflection point best appreciated with sturdy hiking boots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Vezirtepe Tümülüsü",
+            "hu": "Kıyıköy Vezirtepe Tümülüsü",
+            "ro": "Tumulul Kıyıköy Vezirtepe",
+            "en": "Kıyıköy Vezirtepe Mound"
+          },
+          "coords": [
+            28.078259,
+            41.630131
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.77,
+          "tip_5lang": {
+            "de": "Als größter der lokalen Hügel trägt diese Stätte das Gewicht vergessener antiker Herrscher und bietet sowohl historischen Kontext als auch spektakuläre Ausblicke.",
+            "hu": "A legnagyobb helyi sírhalomként ez a helyszín az elfeledett ókori uralkodók emlékét őrzi, gazdag történelmi kontextust és lenyűgözően széles kilátást kínálva.",
+            "ro": "Cel mai grandios dintre tumulii locali, acest sit poartă greutatea conducătorilor antici uitați, oferind atât context istoric bogat, cât și priveliști spectaculoase.",
+            "en": "As the grandest of the local mounds, this site carries the weight of forgotten ancient rulers, offering both rich historical context and spectacular wide vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Aya Nikola",
+            "hu": "Aya Nikola",
+            "ro": "Aya Nikola",
+            "en": "Aya Nikola"
+          },
+          "coords": [
+            28.084488,
+            41.634106
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende, von antiken Mönchen direkt in den Felsen gehauene Kloster erfordert festes Schuhwerk für die unebenen historischen Steinwege.",
+            "hu": "A sziklába vájt lenyűgöző ősi kolostor felfedezéséhez mindenképpen viseljen kényelmes és csúszásmentes cipőt az egyenetlen kőpadlózat miatt.",
+            "ro": "Sculptată direct în stâncă de călugării antici, această impresionantă mănăstire istorică necesită încălțăminte robustă pentru potecile interioare denivelate.",
+            "en": "Carved directly into the rock by ancient monks, this impressive historic monastery requires sturdy shoes for the uneven ancient stone paths inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kıyıköy Camii",
+            "hu": "Kıyıköy Camii",
+            "ro": "Moscheea Kıyıköy",
+            "en": "Kıyıköy Mosque"
+          },
+          "coords": [
+            28.094816,
+            41.633698
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Diese einst als byzantinische Kirche errichtete zentrale Moschee besticht durch ihren architektonischen Mix, kleiden Sie sich daher vor dem Eintreten bescheiden.",
+            "hu": "Az egykor bizánci templomként funkcionáló központi mecset lenyűgöző építészeti keveredést mutat be, így belépés előtt ügyeljen a visszafogott öltözködésre.",
+            "ro": "Odinioară biserică bizantină înainte de conversie, această moschee centrală prezintă un amestec arhitectural fascinant, deci îmbrăcați-vă decent la intrare.",
+            "en": "Once a Byzantine church before its conversion, this central mosque showcases a fascinating architectural blend, so dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaya Kilisesi",
+            "hu": "Kaya Kilisesi",
+            "ro": "Kaya Kilisesi",
+            "en": "Kaya Church"
+          },
+          "coords": [
+            28.097553,
+            41.633172
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Diese versteckte Höhlenkirche offenbart erstaunlich gut erhaltene Schnitzereien tiefer Frömmigkeit, bringen Sie jedoch eine kleine Taschenlampe für Details mit.",
+            "hu": "Ez a rejtett barlangtemplom figyelemre méltóan jó állapotban fennmaradt faragványokat rejt, a részletek megfigyeléséhez azonban érdemes egy kis zseblámpát hozni.",
+            "ro": "Această biserică ascunsă în peșteră dezvăluie sculpturi remarcabil de bine conservate, deși ar trebui să aduceți o mică lanternă pentru a vedea toate detaliile.",
+            "en": "This hidden cave church reveals remarkably well-preserved carvings that reflect deep historical piety, though bring a small flashlight to see the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Deniz Feneri",
+            "hu": "Deniz Feneri",
+            "ro": "Deniz Feneri",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            28.101293,
+            41.630826
+          ],
+          "category": "landmark",
+          "arrive_at": "15:58",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser historische Leuchtturm thront stolz am Rande der malerischen Küstenklippen und bietet die perfekte Panoramakulisse für ein unvergessliches Nachmittagsfoto.",
+            "hu": "A festői tengerparti sziklák szélén büszkén álló történelmi világítótorony tökéletes panorámás hátteret biztosít egy felejthetetlen délutáni fotó elkészítéséhez.",
+            "ro": "Ridicându-se mândru pe marginea stâncilor de coastă, acest far istoric oferă fundalul panoramic perfect pentru o fotografie de neuitat la sfârșitul după-amiezii.",
+            "en": "Standing proudly on the edge of the scenic coastal cliffs, this historic lighthouse provides the perfect panoramic backdrop for an unforgettable afternoon photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt am einsamen Servez Plajı, bevor Sie zum alten Kaz Limanı Tümülüsü fahren. Erkunden Sie mittags den Kıyıköy Vezirtepe Tümülüsü und die Klösterhöhlen von Aya Nikola. Der Nachmittag ist der zentralen Moschee und der Kaya Kilisesi gewidmet. Beenden Sie den Tag bei Dämmerung am Deniz Feneri.",
+        "hu": "A reggeli autózás a félreeső Servez Plajı strandnál indul, mielőtt az ősi Kaz Limanı Tümülüsü felé venné az irányt. Délben fedezze fel a Vezirtepe Tümülüsüt és az Aya Nikola kolostorát. A délután a helyi mecset és a Kaya Kilisesi központi örökségére fókuszál. Zárja a napot egy lenyűgöző tengerparti alkonnyal a Deniz Fenerinél.",
+        "ro": "Plimbarea cu mașina începe la izolata plajă Servez Plajı înainte de a merge la anticul Kaz Limanı Tümülüsü. La prânz, explorați Vezirtepe Tümülüsü și grotele monahale ale Aya Nikola. După-amiaza se concentrează pe moștenirea centrală, cu moscheea și biserica din piatră. Finalizați la Deniz Feneri sub cerul înstelat.",
+        "en": "Your morning drive begins at the secluded Servez Plajı before cruising to the ancient Kaz Limanı Tümülüsü. By midday, explore the majestic Kıyıköy Vezirtepe Tümülüsü and the fascinating monastic caves of Aya Nikola. The afternoon shifts to the town's central heritage with the local mosque and the historic Kaya Kilisesi. End with a stunning coastal twilight at Deniz Feneri."
+      }
+    }
+  }
+}

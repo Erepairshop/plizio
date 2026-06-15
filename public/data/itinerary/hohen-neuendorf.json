@@ -1,0 +1,497 @@
+{
+  "city_id": "hohen-neuendorf",
+  "anchor": {
+    "name": "Hohen Neuendorf",
+    "coords": [
+      13.2831,
+      52.6667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfkirche",
+            "hu": "Falusi templom",
+            "ro": "Biserica rurală",
+            "en": "Village Church"
+          },
+          "coords": [
+            13.279837,
+            52.670495
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Steinaritektur dieser zentralen Dorfkirche, die die Ursprünge der Stadt widerspiegelt, und bringen Sie ein Weitwinkelobjektiv für Fotos des Turms mit.",
+            "hu": "Csodálja meg a központi falusi templom történelmi kőépítészetét, amely a város eredetét tükrözi, és hozzon nagylátószögű objektívet a hangulatos torony fotózásához.",
+            "ro": "Admirați arhitectura istorică din piatră a acestei biserici rurale, reflectând originile orașului, și luați un obiectiv cu unghi larg pentru a fotografia turla sa fermecătoare.",
+            "en": "Admire the historic stone architecture of this central village church, reflecting the town's origins, and bring a wide-angle lens for capturing the charming spire against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hohen Neuendorf",
+            "hu": "Hohen Neuendorf Városháza",
+            "ro": "Primăria Hohen Neuendorf",
+            "en": "Hohen Neuendorf Town Hall"
+          },
+          "coords": [
+            13.281947,
+            52.673306
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinfassade des Rathauses, ein Symbol des Bürgerstolzes, und besuchen Sie es werktags vormittags, um das Eingangsportal in Ruhe zu betrachten.",
+            "hu": "Csodálja meg a Városháza impozáns tégla homlokzatát, a helyi büszkeség szimbólumát, és látogasson el hétköznap délelőtt, hogy tömeg nélkül nézhesse meg a részletes bejáratot.",
+            "ro": "Minunați-vă de fațada impunătoare din cărămidă a Primăriei, un simbol al mândriei civice locale, și vizitați-o în diminețile din timpul săptămânii pentru a vedea detaliile.",
+            "en": "Marvel at the imposing brick facade of the Town Hall, a symbol of local civic pride, and visit during weekday mornings to appreciate its detailed entrance portal without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            13.27736,
+            52.678006
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum markanten Wasserturm, einem wichtigen Stück regionaler Industriegeschichte, und finden Sie den perfekten Fotostandort in der angrenzenden sonnigen Straße.",
+            "hu": "Nézzen fel a jellegzetes Víztoronyra, a régió ipari örökségének fontos részére, és keressen tökéletes fotózási pontot a szomszédos utcán, ahol a napfény megvilágítja a téglákat.",
+            "ro": "Priviți la distinctivul Turn de Apă, o piesă vitală a patrimoniului industrial regional, și găsiți locul perfect pentru fotografii pe strada adiacentă, la lumina soarelui.",
+            "en": "Look up at the distinctive Water Tower, a vital piece of the region's industrial heritage, and find the perfect photo spot on the adjacent street where the sunlight hits the brickwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Skulpturenboulevard",
+            "hu": "Szobor körút",
+            "ro": "Bulevardul Sculpturilor",
+            "en": "Sculpture Boulevard"
+          },
+          "coords": [
+            13.279454,
+            52.683978
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese Freiluftgalerie mit zeitgenössischen Kunstinstallationen, die kulturelle Einblicke bietet, und tragen Sie bequeme Schuhe für den langen Pflasterweg.",
+            "hu": "Sétáljon ezen a kortárs művészeti installációkat bemutató szabadtéri galérián, amely kulturális betekintést nyújt, és viseljen kényelmes cipőt a hosszú burkolt útvonalhoz.",
+            "ro": "Plimbați-vă pe această galerie în aer liber cu instalații de artă contemporană, ce oferă perspective culturale, și purtați încălțăminte comodă pentru a parcurge calea pavată.",
+            "en": "Stroll along this open-air gallery showcasing contemporary art installations, offering cultural insights, and wear comfortable walking shoes to easily navigate the lengthy paved path."
+          }
+        },
+        {
+          "name": {
+            "de": "Mönchsee",
+            "hu": "Mönchsee",
+            "ro": "Mönchsee",
+            "en": "Mönchsee"
+          },
+          "coords": [
+            13.281828,
+            52.690732
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser des Mönchsees, einem perfekten Rückzugsort für Tierbeobachtungen, und bringen Sie eine Picknickdecke mit, um bequem am Ufer zu sitzen.",
+            "hu": "Pihenjen a Mönchsee nyugodt vizénél, amely tökéletes természetes menedék a helyi vadvilág megfigyelésére, és hozzon magával pikniktakarót, hogy kényelmesen ülhessen a füves parton.",
+            "ro": "Relaxați-vă la apele liniștite ale Mönchsee, un refugiu natural perfect pentru observarea faunei, și aduceți o pătură de picnic pentru a sta confortabil pe malurile înverzite.",
+            "en": "Relax by the tranquil waters of Mönchsee, a perfect natural retreat for local wildlife spotting, and bring a small picnic blanket to sit comfortably on the grassy banks nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Hohen Neuendorf, von der charmanten Dorfkirche bis zum Rathaus.\n\nAm Mittag erreichen Sie den beeindruckenden Wasserturm, gefolgt von einem Spaziergang über den Skulpturenboulevard.\n\nVerbringen Sie den Nachmittag an der frischen Luft und lassen Sie die Kunstwerke auf sich wirken.\n\nGegen Abend finden Sie Ruhe am Mönchsee und beenden den Tag in der stillen Natur.",
+        "hu": "Kezdje a reggelt Hohen Neuendorf történelmi központjának felfedezésével, a bájos falusi templomtól a Városházáig.\n\nDélben elérheti a lenyűgöző Víztornyot, amelyet egy séta követ a kulturális Szobor körúton.\n\nTöltse a délutánt a friss levegőn, és elmélkedjen az út menti szabadtéri műalkotásokon.\n\nEstefelé találjon nyugalmat a Mönchsee-nél, és fejezze be a napot a természet szépségében.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Hohen Neuendorf, de la fermecătoarea Biserică până la Primărie.\n\nLa amiază ajungeți la impresionantul Turn de Apă, urmat de o plimbare pe Bulevardul Sculpturilor.\n\nPetreceți după-amiaza la aer curat, reflectând asupra operelor de artă în aer liber de pe traseu.\n\nSpre seară, găsiți liniștea la Mönchsee, încheind ziua în frumusețea tăcută a naturii.",
+        "en": "Start your morning exploring the historic heart of Hohen Neuendorf, from the charming Village Church to the stately brick architecture of the Town Hall.\n\nMidday takes you to the towering Water Tower, an industrial gem, followed by a leisurely stroll down the cultural Sculpture Boulevard.\n\nSpend your afternoon taking in the fresh air and reflecting on the open-air artworks that line the pathway.\n\nAs evening approaches, find serenity at the Mönchsee, ending your day immersed in the quiet natural beauty of the local landscape."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mauerweg Ausstellung",
+            "hu": "Mauerweg Kiállítás",
+            "ro": "Expoziția Mauerweg",
+            "en": "Berlin Wall Trail Exhibition"
+          },
+          "coords": [
+            13.299509,
+            52.659962
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ergreifende Ausstellung zur Geschichte der Berliner Mauer, die wichtige Zusammenhänge bietet, und nehmen Sie sich Zeit für die gut dokumentierten Infotafeln.",
+            "hu": "Fedezze fel ezt a megrázó kiállítást, amely a berlini fal történetét mutatja be, és szánjon időt a jól dokumentált szabadtéri információs panelek elolvasására.",
+            "ro": "Explorați această expoziție emoționantă despre istoria Zidului Berlinului, care oferă context istoric, și alocați timp pentru a citi panourile informative externe bine documentate.",
+            "en": "Explore this poignant exhibition detailing the history of the Berlin Wall, offering crucial context, and allocate time to read the well-documented outdoor informational panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfkirche",
+            "hu": "Falusi templom",
+            "ro": "Biserica rurală",
+            "en": "Village Church"
+          },
+          "coords": [
+            13.279837,
+            52.670495
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Steinaritektur dieser zentralen Dorfkirche, die die Ursprünge der Stadt widerspiegelt, und bringen Sie ein Weitwinkelobjektiv für Fotos des Turms mit.",
+            "hu": "Csodálja meg a központi falusi templom történelmi kőépítészetét, amely a város eredetét tükrözi, és hozzon nagylátószögű objektívet a hangulatos torony fotózásához.",
+            "ro": "Admirați arhitectura istorică din piatră a acestei biserici rurale, reflectând originile orașului, și luați un obiectiv cu unghi larg pentru a fotografia turla sa fermecătoare.",
+            "en": "Admire the historic stone architecture of this central village church, reflecting the town's origins, and bring a wide-angle lens for capturing the charming spire against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hohen Neuendorf",
+            "hu": "Hohen Neuendorf Városháza",
+            "ro": "Primăria Hohen Neuendorf",
+            "en": "Hohen Neuendorf Town Hall"
+          },
+          "coords": [
+            13.281947,
+            52.673306
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Backsteinfassade des Rathauses, ein Symbol des Bürgerstolzes, und besuchen Sie es werktags vormittags, um das Eingangsportal in Ruhe zu betrachten.",
+            "hu": "Csodálja meg a Városháza impozáns tégla homlokzatát, a helyi büszkeség szimbólumát, és látogasson el hétköznap délelőtt, hogy tömeg nélkül nézhesse meg a részletes bejáratot.",
+            "ro": "Minunați-vă de fațada impunătoare din cărămidă a Primăriei, un simbol al mândriei civice locale, și vizitați-o în diminețile din timpul săptămânii pentru a vedea detaliile.",
+            "en": "Marvel at the imposing brick facade of the Town Hall, a symbol of local civic pride, and visit during weekday mornings to appreciate its detailed entrance portal without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserturm",
+            "hu": "Víztorony",
+            "ro": "Turnul de Apă",
+            "en": "Water Tower"
+          },
+          "coords": [
+            13.27736,
+            52.678006
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum markanten Wasserturm, einem wichtigen Stück regionaler Industriegeschichte, und finden Sie den perfekten Fotostandort in der angrenzenden sonnigen Straße.",
+            "hu": "Nézzen fel a jellegzetes Víztoronyra, a régió ipari örökségének fontos részére, és keressen tökéletes fotózási pontot a szomszédos utcán, ahol a napfény megvilágítja a téglákat.",
+            "ro": "Priviți la distinctivul Turn de Apă, o piesă vitală a patrimoniului industrial regional, și găsiți locul perfect pentru fotografii pe strada adiacentă, la lumina soarelui.",
+            "en": "Look up at the distinctive Water Tower, a vital piece of the region's industrial heritage, and find the perfect photo spot on the adjacent street where the sunlight hits the brickwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Clara-Zetkin-Gedenkstätte",
+            "hu": "Clara-Zetkin Emlékhely",
+            "ro": "Memorialul Clara-Zetkin",
+            "en": "Clara-Zetkin Memorial"
+          },
+          "coords": [
+            13.290923,
+            52.691425
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Gedenkstätte für die berühmte Frauenrechtlerin, die eine Ära politischer Geschichte einfängt, und prüfen Sie vorher die Öffnungszeiten für den Innenbereich.",
+            "hu": "Látogasson el a híres női jogi szószólónak szentelt emlékhelyre, amely egy politikai korszakot örökít meg, és előzetesen ellenőrizze a nyitvatartást a belső tér eléréséhez.",
+            "ro": "Vizitați acest memorial dedicat celebrei militante pentru drepturile femeilor, și verificați programul în prealabil pentru a vă asigura că aveți acces la expoziția interioară.",
+            "en": "Visit this memorial dedicated to the famous women's rights advocate, capturing an era of political history, and check the opening hours beforehand to ensure access to the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Boddensee",
+            "hu": "Boddensee",
+            "ro": "Boddensee",
+            "en": "Boddensee"
+          },
+          "coords": [
+            13.282219,
+            52.696007
+          ],
+          "category": "natural",
+          "arrive_at": "15:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Pausieren Sie am malerischen Boddensee, der für seine beruhigenden Spiegelungen bekannt ist, und schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern am Haupteingang ab.",
+            "hu": "Tartson szünetet a festői Boddenseenél, amely nyugtató tükröződéseiről ismert, és parkolja le kerékpárját biztonságosan a fő tóparti bejárat melletti kijelölt tárolóknál.",
+            "ro": "Faceți o pauză la pitorescul Boddensee, cunoscut pentru reflexiile sale liniștitoare, și parcați-vă bicicleta în siguranță la rafturile desemnate lângă intrarea principală.",
+            "en": "Pause at the picturesque Boddensee, known for its calming reflections and surrounding flora, and park your bike securely at the designated racks near the main lakeside entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Briesesee",
+            "hu": "Briesesee",
+            "ro": "Briesesee",
+            "en": "Briesesee"
+          },
+          "coords": [
+            13.297009,
+            52.705453
+          ],
+          "category": "natural",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Briesesee, der von üppigem Wald umgeben ist, und nutzen Sie die schattigen Uferwege für einen letzten, entspannenden Spaziergang in der Abenddämmerung.",
+            "hu": "Zárja túráját a Brieseseenél, amelyet buja erdő vesz körül, és használja a tóparti árnyékos ösvényeket egy utolsó, pihentető alkonyati sétához a friss levegőn.",
+            "ro": "Încheiați plimbarea la Briesesee, înconjurat de pădure luxuriantă, și utilizați traseele umbrite de-a lungul malului pentru o ultimă plimbare relaxantă la apusul soarelui.",
+            "en": "Conclude your ride at Briesesee, enveloped by lush forest providing a pristine escape, and use the shaded trails along the shore for a final, relaxing twilight walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit der Geschichte des Kalten Krieges in der Mauerweg Ausstellung, bevor Sie ins Zentrum fahren.\n\nMittags radeln Sie vorbei an der klassischen Dorfkirche, dem Rathaus und dem ikonischen Wasserturm.\n\nVerbringen Sie den Nachmittag in der Clara-Zetkin-Gedenkstätte und fahren Sie dann zum ruhigen Boddensee.\n\nAm Abend genießen Sie eine letzte Fahrt zum Briesesee, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje kerékpártúráját a hidegháborús történelemmel a Mauerweg kiállításon, mielőtt a történelmi központ felé indulna.\n\nDélben elteker a klasszikus falusi templom, a Városháza és az ikonikus Víztorony mellett.\n\nTöltse a délutánt a Clara-Zetkin emlékhelyen, majd egy festői tekerés következik a Boddensee felé.\n\nEste élvezze az utolsó békés utat az erdős Briesesee-hez, a tónál befejezve a napot.",
+        "ro": "Începeți turul cu bicicleta cu istoria Războiului Rece la Expoziția Mauerweg, înainte de a merge spre centru.\n\nLa amiază pedalați pe lângă Biserica clasică, Primăria impunătoare și emblematicul Turn de Apă.\n\nPetreceți după-amiaza la memorialul Clara-Zetkin, urmată de o plimbare pitorească spre Boddensee.\n\nSpre seară, bucurați-vă de o ultimă plimbare senină către Briesesee, încheind ziua pe malul lacului.",
+        "en": "Kick off your cycling tour with a dive into Cold War history at the Mauerweg Ausstellung before riding towards the historic town center.\n\nMidday finds you pedaling past the classic Village Church, the imposing Town Hall, and the iconic Water Tower.\n\nSpend the afternoon exploring the Clara-Zetkin memorial, followed by a scenic ride toward the peaceful shores of Boddensee.\n\nAs the evening sets in, enjoy a final serene ride to the deeply forested Briesesee, ending your day with tranquil lake views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:05",
+      "total_km": 23.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mauerweg Ausstellung",
+            "hu": "Mauerweg Kiállítás",
+            "ro": "Expoziția Mauerweg",
+            "en": "Berlin Wall Trail Exhibition"
+          },
+          "coords": [
+            13.299509,
+            52.659962
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ergreifende Ausstellung zur Geschichte der Berliner Mauer, die wichtige Zusammenhänge bietet, und nehmen Sie sich Zeit für die gut dokumentierten Infotafeln.",
+            "hu": "Fedezze fel ezt a megrázó kiállítást, amely a berlini fal történetét mutatja be, és szánjon időt a jól dokumentált szabadtéri információs panelek elolvasására.",
+            "ro": "Explorați această expoziție emoționantă despre istoria Zidului Berlinului, care oferă context istoric, și alocați timp pentru a citi panourile informative externe bine documentate.",
+            "en": "Explore this poignant exhibition detailing the history of the Berlin Wall, offering crucial context, and allocate time to read the well-documented outdoor informational panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Clara-Zetkin-Gedenkstätte",
+            "hu": "Clara-Zetkin Emlékhely",
+            "ro": "Memorialul Clara-Zetkin",
+            "en": "Clara-Zetkin Memorial"
+          },
+          "coords": [
+            13.290923,
+            52.691425
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Gedenkstätte für die berühmte Frauenrechtlerin, die eine Ära politischer Geschichte einfängt, und prüfen Sie vorher die Öffnungszeiten für den Innenbereich.",
+            "hu": "Látogasson el a híres női jogi szószólónak szentelt emlékhelyre, amely egy politikai korszakot örökít meg, és előzetesen ellenőrizze a nyitvatartást a belső tér eléréséhez.",
+            "ro": "Vizitați acest memorial dedicat celebrei militante pentru drepturile femeilor, și verificați programul în prealabil pentru a vă asigura că aveți acces la expoziția interioară.",
+            "en": "Visit this memorial dedicated to the famous women's rights advocate, capturing an era of political history, and check the opening hours beforehand to ensure access to the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Briesesee",
+            "hu": "Briesesee",
+            "ro": "Briesesee",
+            "en": "Briesesee"
+          },
+          "coords": [
+            13.297009,
+            52.705453
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Briesesee, der von üppigem Wald umgeben ist, und nutzen Sie die schattigen Uferwege für einen letzten, entspannenden Spaziergang in der Abenddämmerung.",
+            "hu": "Zárja túráját a Brieseseenél, amelyet buja erdő vesz körül, és használja a tóparti árnyékos ösvényeket egy utolsó, pihentető alkonyati sétához a friss levegőn.",
+            "ro": "Încheiați plimbarea la Briesesee, înconjurat de pădure luxuriantă, și utilizați traseele umbrite de-a lungul malului pentru o ultimă plimbare relaxantă la apusul soarelui.",
+            "en": "Conclude your ride at Briesesee, enveloped by lush forest providing a pristine escape, and use the shaded trails along the shore for a final, relaxing twilight walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenbecker See",
+            "hu": "Mühlenbecker See",
+            "ro": "Mühlenbecker See",
+            "en": "Mühlenbecker See"
+          },
+          "coords": [
+            13.397497,
+            52.689894
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weite Natur des Mühlenbecker Sees, ein idealer Lebensraum für verschiedene Vogelarten, und bringen Sie ein Fernglas mit, um Wasservögel am Nordufer zu beobachten.",
+            "hu": "Fedezze fel a Mühlenbecker See hatalmas természeti kiterjedését, amely különféle madárfajok ideális élőhelye, és hozzon távcsövet a vízimadarak megfigyeléséhez az északi parton.",
+            "ro": "Descoperiți întinderea naturală vastă a lacului Mühlenbecker, un habitat ideal pentru diverse specii de păsări, și aduceți binoclu pentru a observa păsările de apă de pe malul nordic.",
+            "en": "Discover the vast natural expanse of Mühlenbecker See, an ideal habitat for diverse bird species, and bring binoculars to spot the elusive waterfowl from the northern bank."
+          }
+        },
+        {
+          "name": {
+            "de": "Kiessee",
+            "hu": "Kiessee",
+            "ro": "Kiessee",
+            "en": "Kiessee"
+          },
+          "coords": [
+            13.38263,
+            52.653167
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie um den malerischen Kiessee, eine ehemalige Kiesgrube, die in eine Naturoase verwandelt wurde, und tragen Sie feste Schuhe, da die Sandwege oft uneben sind.",
+            "hu": "Sétáljon a festői Kiessee körül, amely egykori kavicsbányából lett gyönyörű természeti oázis, és viseljen masszív csizmát, mivel a homokos ösvények egyenetlenek lehetnek.",
+            "ro": "Plimbați-vă în jurul pitorescului Kiessee, o fostă carieră de pietriș transformată într-o oază naturală, și purtați cizme rezistente, deoarece cărările nisipoase pot fi inegale.",
+            "en": "Walk around the scenic Kiessee, a former gravel pit transformed into a beautiful natural oasis, and wear sturdy boots as the sandy paths can be slightly uneven near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Köppchensee",
+            "hu": "Köppchensee",
+            "ro": "Köppchensee",
+            "en": "Köppchensee"
+          },
+          "coords": [
+            13.370761,
+            52.625557
+          ],
+          "category": "natural",
+          "arrive_at": "16:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die geschützten Feuchtgebiete des Köppchensees, eine Oase der Artenvielfalt, und bleiben Sie unbedingt auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Tapasztalja meg a Köppchensee védett vizes élőhelyeit, a biológiai sokféleség menedékét, és szigorúan ragaszkodjon a kijelölt pallóutakhoz, hogy megvédje az érzékeny növényvilágot.",
+            "ro": "Experimentați zonele umede protejate de la Köppchensee, un refugiu pentru biodiversitate, și rămâneți strict pe potecile de lemn marcate pentru a proteja flora sensibilă.",
+            "en": "Experience the protected wetlands of Köppchensee, a haven for biodiversity just outside the city, and stick strictly to the marked boardwalks to protect the sensitive flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldsee",
+            "hu": "Waldsee",
+            "ro": "Waldsee",
+            "en": "Waldsee"
+          },
+          "coords": [
+            13.317407,
+            52.623964
+          ],
+          "category": "natural",
+          "arrive_at": "18:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Waldsee, einem abgelegenen Waldsee, der unberührte Ruhe abseits des städtischen Lärms bietet, und nutzen Sie den kleinen Parkplatz am Waldrand.",
+            "hu": "Pihenjen a Waldseenél, egy félreeső erdei tónál, amely érintetlen nyugalmat kínál a városi zajtól távol, és használja az erdő szélén lévő kis kijelölt parkolót a bírságok elkerülése érdekében.",
+            "ro": "Relaxați-vă la Waldsee, un lac de pădure retras care oferă o liniște neatinsă, și utilizați mica parcare desemnată la marginea pădurii pentru a evita eventualele amenzi.",
+            "en": "Relax at Waldsee, a secluded forest lake offering pristine quietness away from the urban noise, and use the small designated parking area at the forest edge to avoid fines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der Grenze der Geschichte bei der Mauerweg Ausstellung, gefolgt von der Clara-Zetkin-Gedenkstätte.\n\nGegen Mittag fahren Sie zu den nördlichen Naturschutzgebieten, beginnend am waldgesäumten Briesesee.\n\nDer Nachmittag ist ein Seen-Abenteuer zwischen dem weiten Mühlenbecker See und dem Kiessee.\n\nWenn die Sonne untergeht, erkunden Sie den Köppchensee, bevor Sie am stillen Waldsee ankommen.",
+        "hu": "Autós túrája a történelem határán kezdődik a Mauerweg kiállítással, majd a Clara-Zetkin emlékhely következik.\n\nDélben a zöld északi természetvédelmi területek felé cirkál, az erdővel szegélyezett Briesesee-nél kezdve.\n\nA délután egy tókerülő kaland a hatalmas Mühlenbecker See és a vadregényes Kiessee között.\n\nNaplemente közeledtével fedezze fel a Köppchensee-t, mielőtt útját a Waldsee teljes elszigeteltségében fejezné be.",
+        "ro": "Turul cu mașina începe la marginea istoriei cu Expoziția Mauerweg, urmată de memorialul Clara-Zetkin.\n\nLa amiază, veți conduce spre rezervațiile naturale din nord, începând cu apele lacului Briesesee.\n\nDupă-amiaza este o aventură între lacuri, conducând ușor între Mühlenbecker See și țărmurile Kiessee.\n\nLa apus, explorați zonele umede de la Köppchensee înainte de a încheia în izolarea completă de la Waldsee.",
+        "en": "Your driving tour begins at the edge of history with the Mauerweg Ausstellung, followed by an educational stop at the Clara-Zetkin-Gedenkstätte.\n\nBy midday, you will cruise to the northern nature reserves, starting with the beautiful forest-fringed waters of Briesesee.\n\nThe afternoon is a lake-hopping adventure, driving easily between the vast Mühlenbecker See and the rugged shores of Kiessee.\n\nAs sunset approaches, explore the wetlands of Köppchensee before finishing your journey in the complete seclusion of Waldsee."
+      }
+    }
+  }
+}

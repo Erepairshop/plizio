@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-piso-livadi-cities-v2",
+  "anchor": {
+    "name": "Piso Livadi",
+    "coords": [
+      25.2583,
+      37.03628
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Logaras",
+            "hu": "Logaras",
+            "ro": "Logaras",
+            "en": "Logaras"
+          },
+          "coords": [
+            25.254733,
+            37.031902
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache Wasser und die Schatten spendenden Tamarisken am Logaras, einem ruhigen Strand, der sich ideal für morgendliche Schwimmrunden eignet.",
+            "hu": "Élvezze a Logaras sekély vizét és árnyékos tamariszkusz fáit, ami egy nyugodt strand, így érdemes még a déli tömeg előtt idejönni egy reggeli úszásra.",
+            "ro": "Bucurați-vă de apele puțin adânci și de arborii de tamarix din Logaras, o plajă liniștită, ideală pentru înotul de dimineață înainte de sosirea aglomerației.",
+            "en": "Enjoy the family-friendly shallow waters and tamarisk trees of Logaras, a tranquil beach ideal for morning swims before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Punda Beach",
+            "hu": "Punda Beach",
+            "ro": "Punda Beach",
+            "en": "Punda Beach"
+          },
+          "coords": [
+            25.252407,
+            37.028111
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Punda Beach, der für seine Beachclubs bekannt ist, wo frühes Mieten einer Liege den besten Platz garantiert.",
+            "hu": "Tapasztalja meg a Punda Beach nyüzsgő hangulatát és híres klubjait, ahol egy napágy korai bérlése garantálja a legjobb helyet a kikapcsolódáshoz.",
+            "ro": "Experimentați atmosfera vibrantă a plajei Punda, faimoasă pentru cluburile sale, unde închirierea timpurie a unui șezlong garantează cel mai bun loc.",
+            "en": "Experience the vibrant, energetic atmosphere of Punda Beach, famous for its beach clubs, where renting a sunbed early guarantees the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Folklór Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            25.248191,
+            37.044284
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum, das das traditionelle Inselleben zeigt, das reiche kykladische Erbe und prüfen Sie vorab unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag kükládikus örökséget ebben a múzeumban, amely a hagyományos szigeti életet mutatja be, és mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire cicladică la acest muzeu care prezintă viața tradițională, așa că asigurați-vă că verificați programul sezonier înainte de vizită.",
+            "en": "Discover the rich Cycladic heritage at this museum, showcasing traditional island life, so be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Perantinos Sculpture Museum",
+            "hu": "Perantinos Szobormúzeum",
+            "ro": "Muzeul de Sculptură Perantinos",
+            "en": "Perantinos Sculpture Museum"
+          },
+          "coords": [
+            25.247715,
+            37.045299
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Marmorkreationen von N. Perantinos in diesem wunderschön kuratierten Raum und nehmen Sie sich Zeit für die detaillierten Porträtbüsten.",
+            "hu": "Csodálja meg N. Perantinos gyönyörű márványalkotásait ebben a szépen gondozott térben, és szánjon időt a részletgazdag portré mellszobrok alapos megtekintésére.",
+            "ro": "Admirați creațiile rafinate din marmură ale lui N. Perantinos în acest spațiu frumos curatat și faceți-vă timp pentru a aprecia busturile detaliate expuse.",
+            "en": "Admire the exquisite marble creations of N. Perantinos in this beautifully curated space, and take time to appreciate the detailed portrait busts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Ereipia Enetikou purgou",
+            "hu": "Velencei Torony Romjai",
+            "ro": "Ereipia Enetikou purgou",
+            "en": "Ereipia Enetikou purgou"
+          },
+          "coords": [
+            25.259248,
+            37.04591
+          ],
+          "category": "castle",
+          "arrive_at": "15:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des alten venezianischen Turms auf dem Hügel, die fantastische Panoramablicke aufs Meer bieten, und tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Fedezze fel a régi velencei torony romjait a dombtetőn, ahonnan fantasztikus panoráma nyílik a tengerre, és viseljen masszív cipőt a kissé sziklás emelkedőhöz.",
+            "ro": "Explorați ruinele vechiului turn venețian de pe deal care oferă vederi panoramice fantastice la mare, purtând pantofi rezistenți pentru urcarea ușor stâncoasă.",
+            "en": "Explore the ruins of the old Venetian tower atop the hill, offering fantastic panoramic views of the sea, so wear sturdy shoes for the slightly rocky ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem entspannten Spaziergang am friedlichen Strand von Logaras und lauschen Sie den Wellen. Genießen Sie mittags die lebhafte Strandkultur am Punda Beach. Am Nachmittag wandern Sie nach Marpissa, um in den Museen tief in die kykladische Geschichte einzutauchen. Beenden Sie den Tag bei den venezianischen Ruinen, während die Sonne malerisch über dem Meer untergeht.",
+        "hu": "Kezdje a reggelt egy pihentető sétával a nyugodt Logaras parton, hallgatva a lágy égei hullámokat. Délben adja át magát a Punda Beach nyüzsgő strandkultúrájának és a napsütésnek. Délután túrázzon fel Marpissa falujába, hogy elmerüljön a kükládikus történelemben a múzeumokban. Zárja a napot a velencei romok felfedezésével, miközben a nap lassan lebukik a tenger horizontján.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă de-a lungul coastelor liniștite din Logaras. Până la amiază, bucurați-vă de cultura vibrantă a plajei Punda, scăldându-vă în soare. După-amiază, faceți o drumeție spre Marpissa pentru a aprofunda istoria cicladică la Muzeele de Folclor și Sculptură. Încheiați ziua explorând ruinele venețiene în timp ce soarele apune frumos peste Marea Egee.",
+        "en": "Start your morning with a relaxing stroll along the tranquil shores of Logaras, listening to the gentle Aegean waves. By midday, embrace the vibrant beach culture at nearby Punda Beach, soaking in the sun. In the afternoon, hike up towards Marpissa to delve into Cycladic history at the Folklore and Sculpture Museums. Conclude the day exploring the Venetian ruins as the sun sets over the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tserdakia (New Chryssi Akti)",
+            "hu": "Tserdakia (New Chryssi Akti)",
+            "ro": "Tserdakia",
+            "en": "Tserdakia (New Chryssi Akti)"
+          },
+          "coords": [
+            25.249975,
+            37.01511
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Tserdakia, einem Paradies für Windsurfer mit goldenem Sand, wo es sich empfiehlt, ausreichend Sonnencreme und Wasser einzupacken.",
+            "hu": "Pihenjen a Tserdakia aranyhomokos és kristálytiszta vizű, szörfözők által kedvelt strandján, ahová feltétlenül vigyen magával bőséges naptejet és vizet.",
+            "ro": "Relaxați-vă la Tserdakia, un paradis al windsurfingului cu nisip auriu, fiind foarte recomandat să aveți la voi multă cremă de protecție solară și apă.",
+            "en": "Relax at Tserdakia, a windsurfing paradise with golden sands and crystal-clear waters, making it highly recommended to pack plenty of sunscreen and water."
+          }
+        },
+        {
+          "name": {
+            "de": "Punda Beach",
+            "hu": "Punda Beach",
+            "ro": "Punda Beach",
+            "en": "Punda Beach"
+          },
+          "coords": [
+            25.252407,
+            37.028111
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Punda Beach, der für seine Beachclubs bekannt ist, wo frühes Mieten einer Liege den besten Platz garantiert.",
+            "hu": "Tapasztalja meg a Punda Beach nyüzsgő hangulatát és híres klubjait, ahol egy napágy korai bérlése garantálja a legjobb helyet a kikapcsolódáshoz.",
+            "ro": "Experimentați atmosfera vibrantă a plajei Punda, faimoasă pentru cluburile sale, unde închirierea timpurie a unui șezlong garantează cel mai bun loc.",
+            "en": "Experience the vibrant, energetic atmosphere of Punda Beach, famous for its beach clubs, where renting a sunbed early guarantees the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Logaras",
+            "hu": "Logaras",
+            "ro": "Logaras",
+            "en": "Logaras"
+          },
+          "coords": [
+            25.254733,
+            37.031902
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache Wasser und die Schatten spendenden Tamarisken am Logaras, einem ruhigen Strand, der sich ideal für morgendliche Schwimmrunden eignet.",
+            "hu": "Élvezze a Logaras sekély vizét és árnyékos tamariszkusz fáit, ami egy nyugodt strand, így érdemes még a déli tömeg előtt idejönni egy reggeli úszásra.",
+            "ro": "Bucurați-vă de apele puțin adânci și de arborii de tamarix din Logaras, o plajă liniștită, ideală pentru înotul de dimineață înainte de sosirea aglomerației.",
+            "en": "Enjoy the family-friendly shallow waters and tamarisk trees of Logaras, a tranquil beach ideal for morning swims before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ereipia Enetikou purgou",
+            "hu": "Velencei Torony Romjai",
+            "ro": "Ereipia Enetikou purgou",
+            "en": "Ereipia Enetikou purgou"
+          },
+          "coords": [
+            25.259248,
+            37.04591
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des alten venezianischen Turms auf dem Hügel, die fantastische Panoramablicke aufs Meer bieten, und tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Fedezze fel a régi velencei torony romjait a dombtetőn, ahonnan fantasztikus panoráma nyílik a tengerre, és viseljen masszív cipőt a kissé sziklás emelkedőhöz.",
+            "ro": "Explorați ruinele vechiului turn venețian de pe deal care oferă vederi panoramice fantastice la mare, purtând pantofi rezistenți pentru urcarea ușor stâncoasă.",
+            "en": "Explore the ruins of the old Venetian tower atop the hill, offering fantastic panoramic views of the sea, so wear sturdy shoes for the slightly rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Folklór Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            25.248191,
+            37.044284
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum, das das traditionelle Inselleben zeigt, das reiche kykladische Erbe und prüfen Sie vorab unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag kükládikus örökséget ebben a múzeumban, amely a hagyományos szigeti életet mutatja be, és mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire cicladică la acest muzeu care prezintă viața tradițională, așa că asigurați-vă că verificați programul sezonier înainte de vizită.",
+            "en": "Discover the rich Cycladic heritage at this museum, showcasing traditional island life, so be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Moni Pantokratoras",
+            "hu": "Pantokratoras Kolostor",
+            "ro": "Moni Pantokratoras",
+            "en": "Moni Pantokratoras"
+          },
+          "coords": [
+            25.249131,
+            37.049604
+          ],
+          "category": "historical",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige, festungsartige historische Kloster für einen Einblick in die orthodoxe Spiritualität und denken Sie an angemessene, bedeckende Kleidung.",
+            "hu": "Látogasson el ebbe a békés, erődszerű történelmi kolostorba a helyi ortodox spiritualitás megismeréséhez, ügyelve a vállat és térdet takaró szerény öltözködésre.",
+            "ro": "Vizitați această mănăstire istorică liniștită, asemănătoare unei fortărețe, pentru o privire în spiritualitatea ortodoxă, amintindu-vă să vă îmbrăcați modest.",
+            "en": "Visit this serene, fortress-like historical monastery for a glimpse into local orthodox spirituality, remembering to dress modestly covering shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios Kápolna",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            25.239134,
+            37.051031
+          ],
+          "category": "landmark",
+          "arrive_at": "17:11",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an der charmanten Kapelle Agios Georgios, einem malerischen Wahrzeichen, und kommen Sie kurz vor Einbruch der Dunkelheit für tolle Fotos.",
+            "hu": "Zárja a napot a bájos Agios Georgios kápolnánál, amely a völgyre néz, és érkezzen közvetlenül alkonyat előtt, hogy lélegzetelállító naplementés fotókat készíthessen.",
+            "ro": "Încheiați-vă excursia la fermecătoarea capelă Agios Georgios, un punct de reper pitoresc, ajungând chiar înainte de amurg pentru fotografii de apus uluitoare.",
+            "en": "Conclude your trip at the charming Agios Georgios chapel, a picturesque landmark overlooking the valley, arriving just before dusk for breathtaking sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am Sandstrand von Tserdakia in der morgendlichen Meeresbrise. Mittags radeln Sie die Küste entlang zum lebhaften Punda Beach und den schattigen Ufern von Logaras. Der Nachmittag bringt eine malerische Fahrt bergauf zu den venezianischen Ruinen und Museen in Marpissa. Die abendliche Tour endet friedlich am historischen Kloster und der St.-Georgs-Kapelle.",
+        "hu": "A kerékpáros kaland Tserdakia homokos partszakaszán indul a reggeli tengeri szellőt élvezve. Délben a part mentén tekerhet a nyüzsgő Punda Beachre és a Logaras árnyékos partjaira. Délután egy festői emelkedő várja a velencei romok és Marpissa múzeumainak felfedezéséhez. Az esti tekerés békésen zárul a történelmi kolostornál és a bájos Szent György kápolnánál, a lenyugvó nap fényében.",
+        "ro": "Aventura pe bicicletă începe pe nisipul din Tserdakia, savurând briza mării de dimineață. La amiază pedalați de-a lungul coastei spre plaja Punda și țărmurile umbrite din Logaras. După-amiaza aduce o plimbare pitorească la deal pentru a descoperi ruinele venețiene și muzeele din Marpissa. Plimbarea de seară se termină pașnic la mănăstirea istorică și la capela Sfântul Gheorghe.",
+        "en": "Your cycling adventure begins at the sandy stretch of Tserdakia, enjoying the morning sea breeze. Midday takes you pedaling along the coast to the energetic Punda Beach and the shaded shores of Logaras. Afternoon brings a scenic uphill ride to discover Marpissa's Venetian ruins and heritage museums. The evening ride ends peacefully at the historical monastery and charming chapel of St. George."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:25",
+      "total_km": 6.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tserdakia (New Chryssi Akti)",
+            "hu": "Tserdakia (New Chryssi Akti)",
+            "ro": "Tserdakia",
+            "en": "Tserdakia (New Chryssi Akti)"
+          },
+          "coords": [
+            25.249975,
+            37.01511
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Tserdakia, einem Paradies für Windsurfer mit goldenem Sand, wo es sich empfiehlt, ausreichend Sonnencreme und Wasser einzupacken.",
+            "hu": "Pihenjen a Tserdakia aranyhomokos és kristálytiszta vizű, szörfözők által kedvelt strandján, ahová feltétlenül vigyen magával bőséges naptejet és vizet.",
+            "ro": "Relaxați-vă la Tserdakia, un paradis al windsurfingului cu nisip auriu, fiind foarte recomandat să aveți la voi multă cremă de protecție solară și apă.",
+            "en": "Relax at Tserdakia, a windsurfing paradise with golden sands and crystal-clear waters, making it highly recommended to pack plenty of sunscreen and water."
+          }
+        },
+        {
+          "name": {
+            "de": "Punda Beach",
+            "hu": "Punda Beach",
+            "ro": "Punda Beach",
+            "en": "Punda Beach"
+          },
+          "coords": [
+            25.252407,
+            37.028111
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Punda Beach, der für seine Beachclubs bekannt ist, wo frühes Mieten einer Liege den besten Platz garantiert.",
+            "hu": "Tapasztalja meg a Punda Beach nyüzsgő hangulatát és híres klubjait, ahol egy napágy korai bérlése garantálja a legjobb helyet a kikapcsolódáshoz.",
+            "ro": "Experimentați atmosfera vibrantă a plajei Punda, faimoasă pentru cluburile sale, unde închirierea timpurie a unui șezlong garantează cel mai bun loc.",
+            "en": "Experience the vibrant, energetic atmosphere of Punda Beach, famous for its beach clubs, where renting a sunbed early guarantees the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Logaras",
+            "hu": "Logaras",
+            "ro": "Logaras",
+            "en": "Logaras"
+          },
+          "coords": [
+            25.254733,
+            37.031902
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das flache Wasser und die Schatten spendenden Tamarisken am Logaras, einem ruhigen Strand, der sich ideal für morgendliche Schwimmrunden eignet.",
+            "hu": "Élvezze a Logaras sekély vizét és árnyékos tamariszkusz fáit, ami egy nyugodt strand, így érdemes még a déli tömeg előtt idejönni egy reggeli úszásra.",
+            "ro": "Bucurați-vă de apele puțin adânci și de arborii de tamarix din Logaras, o plajă liniștită, ideală pentru înotul de dimineață înainte de sosirea aglomerației.",
+            "en": "Enjoy the family-friendly shallow waters and tamarisk trees of Logaras, a tranquil beach ideal for morning swims before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Ereipia Enetikou purgou",
+            "hu": "Velencei Torony Romjai",
+            "ro": "Ereipia Enetikou purgou",
+            "en": "Ereipia Enetikou purgou"
+          },
+          "coords": [
+            25.259248,
+            37.04591
+          ],
+          "category": "castle",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des alten venezianischen Turms auf dem Hügel, die fantastische Panoramablicke aufs Meer bieten, und tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Fedezze fel a régi velencei torony romjait a dombtetőn, ahonnan fantasztikus panoráma nyílik a tengerre, és viseljen masszív cipőt a kissé sziklás emelkedőhöz.",
+            "ro": "Explorați ruinele vechiului turn venețian de pe deal care oferă vederi panoramice fantastice la mare, purtând pantofi rezistenți pentru urcarea ușor stâncoasă.",
+            "en": "Explore the ruins of the old Venetian tower atop the hill, offering fantastic panoramic views of the sea, so wear sturdy shoes for the slightly rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Folklore Museum",
+            "hu": "Folklór Múzeum",
+            "ro": "Muzeul de Folclor",
+            "en": "Folklore Museum"
+          },
+          "coords": [
+            25.248191,
+            37.044284
+          ],
+          "category": "museum",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum, das das traditionelle Inselleben zeigt, das reiche kykladische Erbe und prüfen Sie vorab unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel a gazdag kükládikus örökséget ebben a múzeumban, amely a hagyományos szigeti életet mutatja be, és mindenképpen ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire cicladică la acest muzeu care prezintă viața tradițională, așa că asigurați-vă că verificați programul sezonier înainte de vizită.",
+            "en": "Discover the rich Cycladic heritage at this museum, showcasing traditional island life, so be sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Perantinos Sculpture Museum",
+            "hu": "Perantinos Szobormúzeum",
+            "ro": "Muzeul de Sculptură Perantinos",
+            "en": "Perantinos Sculpture Museum"
+          },
+          "coords": [
+            25.247715,
+            37.045299
+          ],
+          "category": "museum",
+          "arrive_at": "16:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Marmorkreationen von N. Perantinos in diesem wunderschön kuratierten Raum und nehmen Sie sich Zeit für die detaillierten Porträtbüsten.",
+            "hu": "Csodálja meg N. Perantinos gyönyörű márványalkotásait ebben a szépen gondozott térben, és szánjon időt a részletgazdag portré mellszobrok alapos megtekintésére.",
+            "ro": "Admirați creațiile rafinate din marmură ale lui N. Perantinos în acest spațiu frumos curatat și faceți-vă timp pentru a aprecia busturile detaliate expuse.",
+            "en": "Admire the exquisite marble creations of N. Perantinos in this beautifully curated space, and take time to appreciate the detailed portrait busts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Moni Pantokratoras",
+            "hu": "Pantokratoras Kolostor",
+            "ro": "Moni Pantokratoras",
+            "en": "Moni Pantokratoras"
+          },
+          "coords": [
+            25.249131,
+            37.049604
+          ],
+          "category": "historical",
+          "arrive_at": "17:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige, festungsartige historische Kloster für einen Einblick in die orthodoxe Spiritualität und denken Sie an angemessene, bedeckende Kleidung.",
+            "hu": "Látogasson el ebbe a békés, erődszerű történelmi kolostorba a helyi ortodox spiritualitás megismeréséhez, ügyelve a vállat és térdet takaró szerény öltözködésre.",
+            "ro": "Vizitați această mănăstire istorică liniștită, asemănătoare unei fortărețe, pentru o privire în spiritualitatea ortodoxă, amintindu-vă să vă îmbrăcați modest.",
+            "en": "Visit this serene, fortress-like historical monastery for a glimpse into local orthodox spirituality, remembering to dress modestly covering shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios Kápolna",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            25.239134,
+            37.051031
+          ],
+          "category": "landmark",
+          "arrive_at": "18:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an der charmanten Kapelle Agios Georgios, einem malerischen Wahrzeichen, und kommen Sie kurz vor Einbruch der Dunkelheit für tolle Fotos.",
+            "hu": "Zárja a napot a bájos Agios Georgios kápolnánál, amely a völgyre néz, és érkezzen közvetlenül alkonyat előtt, hogy lélegzetelállító naplementés fotókat készíthessen.",
+            "ro": "Încheiați-vă excursia la fermecătoarea capelă Agios Georgios, un punct de reper pitoresc, ajungând chiar înainte de amurg pentru fotografii de apus uluitoare.",
+            "en": "Conclude your trip at the charming Agios Georgios chapel, a picturesque landmark overlooking the valley, arriving just before dusk for breathtaking sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Tserdakia für einen sonnigen Morgen an den berühmten Surfgewässern. Gegen Mittag geht es bequem zum lebhaften Punda Beach und zum ruhigen Logaras. Am Nachmittag parken Sie im Dorf Marpissa, um durch die venezianischen Ruinen und die beiden Kulturmuseen zu schlendern. Fahren Sie in der Dämmerung ins Hochland und finden Sie Ruhe am Kloster und bei der Kapelle Agios Georgios.",
+        "hu": "Vezessen le Tserdakiába egy napsütötte reggelre a híres szörfös vizekhez. Délidőben könnyedén ugrálhat a strandok között a nyüzsgő Punda és a nyugodt Logaras partjainál. Délután parkoljon le Marpissa falujában, hogy bejárja a velencei torony romjait és a kulturális múzeumokat. Alkonyatkor autózzon a hegyvidék felé, hogy nyugalmat találjon a kolostornál és az Agios Georgios kápolnánál.",
+        "ro": "Conduceți până la Tserdakia pentru o dimineață însorită lângă apele celebre pentru surfing. La amiază, vizitați plajele Punda și liniștitul Logaras. După-amiaza, parcați în satul Marpissa pentru a vă plimba prin ruinele turnului venețian și cele două muzee culturale ale sale. Conduceți spre zonele înalte la amurg, găsind liniște la mănăstire și la capela Agios Georgios.",
+        "en": "Drive down to Tserdakia for a sun-kissed morning by the famous surfing waters. As midday approaches, beach-hop effortlessly to the lively Punda and tranquil Logaras for a quick dip. In the afternoon, park up in Marpissa village to wander through the Venetian tower ruins and its twin cultural museums. Drive towards the highlands at dusk, finding serenity at the monastery and Agios Georgios."
+      }
+    }
+  }
+}

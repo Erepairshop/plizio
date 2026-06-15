@@ -1,0 +1,543 @@
+{
+  "city_id": "greece-evosmos-cities-v2",
+  "anchor": {
+    "name": "Evosmos",
+    "coords": [
+      22.908333,
+      40.668889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anoikhto theatraki",
+            "hu": "Anoikhto theatraki",
+            "ro": "Anoikhto theatraki",
+            "en": "Anoikhto theatraki"
+          },
+          "coords": [
+            22.89703,
+            40.670202
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem charmanten Freilichttheater, um die lokale Atmosphäre zu genießen, und vergessen Sie Ihre Kamera für tolle Fotos nicht.",
+            "hu": "Kezdje a reggelt ebben a bájos szabadtéri színházban, ahol átélheti a helyi kulturális hangulatot, és mindenképpen hozzon magával egy fényképezőgépet.",
+            "ro": "Începeți dimineața la acest teatru în aer liber fermecător pentru a simți vibrația culturală locală, aducând o cameră pentru arta comunitară frumoasă.",
+            "en": "Start your morning at this charming open-air theater to appreciate its local cultural vibe, making sure to bring a camera for the lovely community art."
+          }
+        },
+        {
+          "name": {
+            "de": "Metamorphose tou Soteros",
+            "hu": "Metamorphose tou Soteros",
+            "ro": "Metamorphose tou Soteros",
+            "en": "Metamorphose tou Soteros"
+          },
+          "coords": [
+            22.895038,
+            40.670955
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser wunderschön geschmückten orthodoxen Kirche und achten Sie besonders auf die lebhaften Fresken.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a gyönyörűen díszített ortodox templomban, különös figyelmet fordítva a főoltár melletti élénk freskókra.",
+            "ro": "Petreceți un moment de liniște în această biserică ortodoxă frumos împodobită, acordând o atenție deosebită frescelor vibrante de lângă altarul principal.",
+            "en": "Take a moment of quiet reflection inside this beautifully adorned Orthodox church, paying special attention to the vibrant frescoes near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+          },
+          "coords": [
+            22.89546,
+            40.664971
+          ],
+          "category": "cultural",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Einrichtungen dieses multifunktionalen Zentrums für lokale Veranstaltungen und fragen Sie das Personal nach kommenden Shows.",
+            "hu": "Tekintse meg ennek a helyi eseményeknek otthont adó többfunkciós központnak a modern felszereltségét, és érdeklődjön a személyzetnél a közelgő műsorokról.",
+            "ro": "Explorați facilitățile moderne ale acestui centru multifuncțional care găzduiește evenimente locale și întrebați personalul despre viitoarele spectacole.",
+            "en": "Check out the modern facilities of this multifunctional center which hosts numerous local events, and consider asking the staff about any upcoming shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            22.897906,
+            40.665323
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den traditionellen byzantinischen Baustil dieses majestätischen Heiligtums und kleiden Sie sich bescheiden, um den Innenraum zu erkunden.",
+            "hu": "Csodálja meg ennek a fenséges szentélynek a hagyományos bizánci építészeti stílusát, ügyelve a szerény öltözködésre a belső tér tiszteletteljes felfedezéséhez.",
+            "ro": "Minunați-vă de stilul arhitectural bizantin al acestui sanctuar majestuos, asigurându-vă că vă îmbrăcați modest pentru a explora interiorul său liniștit.",
+            "en": "Marvel at the traditional Byzantine architectural style of this majestic sanctuary, ensuring you dress modestly to respectfully explore its serene interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasúti Múzeum",
+            "ro": "Muzeul Feroviar",
+            "en": "Railroad Museum"
+          },
+          "coords": [
+            22.892269,
+            40.665774
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und entdecken Sie faszinierende alte Lokomotiven und historische Eisenbahnartefakte, wofür Sie mindestens eine Stunde einplanen sollten.",
+            "hu": "Lépjen vissza az időben, és fedezzen fel lenyűgöző régi mozdonyokat és történelmi vasúti tárgyakat, legalább egy órát szánva a teljes gyűjteményre.",
+            "ro": "Întoarceți-vă în timp descoperind locomotive de epocă și artefacte feroviare istorice fascinante, planificând cel puțin o oră pentru colecția completă.",
+            "en": "Step back in time as you discover fascinating vintage locomotives and historical railway artifacts, planning at least an hour to see the full collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Ieros Naos Upsoseos Timiou Staurou",
+            "hu": "Ieros Naos Upsoseos Timiou Staurou",
+            "ro": "Ieros Naos Upsoseos Timiou Staurou",
+            "en": "Ieros Naos Upsoseos Timiou Staurou"
+          },
+          "coords": [
+            22.885181,
+            40.667317
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser imposanten Kirche mit ihrem friedlichen Innenhof und nehmen Sie sich Zeit, um eine Kerze vor der Rückkehr anzuzünden.",
+            "hu": "Zárja sétáját ennél az impozáns megjelenésű és békés udvarú templomnál, időt szánva egy gyertya meggyújtására, mielőtt visszaindulna a szállásra.",
+            "ro": "Încheiați plimbarea la această biserică impunătoare cunoscută pentru curtea sa liniștită, făcându-vă timp să aprindeți o lumânare înainte de a pleca.",
+            "en": "Conclude your walk at this imposing church known for its towering presence and peaceful courtyard, taking time to light a candle before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch Evosmos und entdecken Sie charmante Theater und die reich verzierte Kirche Metamorphose tou Soteros.\n\nGegen Mittag schlendern Sie am modernen Poluleitourgiko Kentro vorbei zum majestätischen Agios Georgios und tauchen in den ruhigen Vorstadtcharme ein.\n\nDer Nachmittag ist einer faszinierenden Zeitreise im örtlichen Eisenbahnmuseum vorbehalten, wo historische Lokomotiven eine andere Ära Griechenlands zeigen.\n\nBeenden Sie Ihre Wanderung in der Nähe der großen Kirche Ieros Naos Upsoseos Timiou Staurou und lassen Sie den Tag vor einem entspannten Abend Revue passieren.",
+        "hu": "Kezdje a reggelt egy sétával Evosmosban, felfedezve a bájos közösségi színházakat és a gazdagon díszített Metamorphose tou Soteros templomot.\n\nDél közeledtével sétáljon el a modern Poluleitourgiko Kentro mellett a fenséges Agios Georgios felé, elmerülve a csendes külvárosi bájban.\n\nA délután egy lenyűgöző időutazásé a helyi Vasúti Múzeumban, ahol régi mozdonyok mutatják be Görögország egy letűnt korszakát.\n\nFejezze be gyalogos útját a grandiózus Ieros Naos Upsoseos Timiou Staurou közelében, és gondoljon vissza a jól sikerült napra a pihentető este előtt.",
+        "ro": "Începeți dimineața plimbându-vă prin Evosmos, descoperind teatre fermecătoare și biserica decorată complex Metamorphose tou Soteros.\n\nSpre prânz, plimbați-vă pe lângă Poluleitourgiko Kentro spre maiestuosul Agios Georgios, scufundându-vă în farmecul liniștit al suburbiilor.\n\nDupă-amiaza este rezervată unei fascinante călătorii în timp la Muzeul Feroviar, unde locomotivele de epocă prezintă o altă eră a Greciei.\n\nÎncheiați călătoria pe jos lângă grandioasa biserică Ieros Naos Upsoseos Timiou Staurou, reflectând la o zi bine petrecută înainte de cină.",
+        "en": "Begin your morning walking through Evosmos, discovering charming community theaters and the intricately decorated Metamorphose tou Soteros church.\n\nAs midday approaches, wander past the modern Poluleitourgiko Kentro towards the majestic Agios Georgios, immersing yourself in the quiet suburban charm.\n\nThe afternoon is reserved for a fascinating trip back in time at the local Railroad Museum, where vintage locomotives showcase a different era of Greece.\n\nConclude your walking journey near the grand Ieros Naos Upsoseos Timiou Staurou, reflecting on a day well spent before enjoying a relaxed evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anoikhto theatraki",
+            "hu": "Anoikhto theatraki",
+            "ro": "Anoikhto theatraki",
+            "en": "Anoikhto theatraki"
+          },
+          "coords": [
+            22.89703,
+            40.670202
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem charmanten Freilichttheater, um die lokale Atmosphäre zu genießen, und vergessen Sie Ihre Kamera für tolle Fotos nicht.",
+            "hu": "Kezdje a reggelt ebben a bájos szabadtéri színházban, ahol átélheti a helyi kulturális hangulatot, és mindenképpen hozzon magával egy fényképezőgépet.",
+            "ro": "Începeți dimineața la acest teatru în aer liber fermecător pentru a simți vibrația culturală locală, aducând o cameră pentru arta comunitară frumoasă.",
+            "en": "Start your morning at this charming open-air theater to appreciate its local cultural vibe, making sure to bring a camera for the lovely community art."
+          }
+        },
+        {
+          "name": {
+            "de": "Metamorphose tou Soteros",
+            "hu": "Metamorphose tou Soteros",
+            "ro": "Metamorphose tou Soteros",
+            "en": "Metamorphose tou Soteros"
+          },
+          "coords": [
+            22.895038,
+            40.670955
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der stillen Reflexion in dieser wunderschön geschmückten orthodoxen Kirche und achten Sie besonders auf die lebhaften Fresken.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a gyönyörűen díszített ortodox templomban, különös figyelmet fordítva a főoltár melletti élénk freskókra.",
+            "ro": "Petreceți un moment de liniște în această biserică ortodoxă frumos împodobită, acordând o atenție deosebită frescelor vibrante de lângă altarul principal.",
+            "en": "Take a moment of quiet reflection inside this beautifully adorned Orthodox church, paying special attention to the vibrant frescoes near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasúti Múzeum",
+            "ro": "Muzeul Feroviar",
+            "en": "Railroad Museum"
+          },
+          "coords": [
+            22.892269,
+            40.665774
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und entdecken Sie faszinierende alte Lokomotiven und historische Eisenbahnartefakte, wofür Sie mindestens eine Stunde einplanen sollten.",
+            "hu": "Lépjen vissza az időben, és fedezzen fel lenyűgöző régi mozdonyokat és történelmi vasúti tárgyakat, legalább egy órát szánva a teljes gyűjteményre.",
+            "ro": "Întoarceți-vă în timp descoperind locomotive de epocă și artefacte feroviare istorice fascinante, planificând cel puțin o oră pentru colecția completă.",
+            "en": "Step back in time as you discover fascinating vintage locomotives and historical railway artifacts, planning at least an hour to see the full collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nektarios",
+            "hu": "Agios Nektarios",
+            "ro": "Agios Nektarios",
+            "en": "Agios Nektarios"
+          },
+          "coords": [
+            22.899175,
+            40.657318
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Umgebung dieser beliebten Gemeinde, schließen Sie Ihr Fahrrad sicher am Seiteneingang ab und bewundern Sie die Holzarbeiten.",
+            "hu": "Fedezze fel ennek a kedvelt környékbeli plébániának a nyugodt környezetét, kerékpárját biztonságosan a bejárat közelében hagyva, hogy megcsodálja a faragásokat.",
+            "ro": "Descoperiți mediul liniștit al acestei parohii de cartier, parcând bicicleta în siguranță lângă intrarea laterală pentru a admira detaliile din lemn.",
+            "en": "Discover the tranquil environment of this beloved neighborhood parish, parking your bike securely near the side entrance to admire the ornate woodwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Anoikhto theatro",
+            "hu": "Anoikhto theatro",
+            "ro": "Anoikhto theatro",
+            "en": "Anoikhto theatro"
+          },
+          "coords": [
+            22.906023,
+            40.658232
+          ],
+          "category": "cultural",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dem Fahrrad zu diesem zweiten Open-Air-Veranstaltungsort in einer Grünanlage und machen Sie eine kurze Pause auf den umliegenden Bänken.",
+            "hu": "Tekerjen el ehhez a zöldövezetben megbúvó szabadtéri helyszínhez, és tartson egy rövid pihenőt a környező padokon, hogy felfrissüljön és igyon egy keveset.",
+            "ro": "Mergeți cu bicicleta până la acest teatru în aer liber situat într-un spațiu verde, luând o scurtă pauză pe băncile din jur pentru a vă hidrata.",
+            "en": "Ride your bike up to this secondary open-air venue nestled in a green space, taking a short break on the surrounding benches to hydrate and rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Paraskeue",
+            "hu": "Agia Paraskeue",
+            "ro": "Agia Paraskeue",
+            "en": "Agia Paraskeue"
+          },
+          "coords": [
+            22.912781,
+            40.656929
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Radtour an diesem malerischen Heiligtum, um seine schönen Ikonen zu betrachten, und verhalten Sie sich wegen der betenden Anwohner leise.",
+            "hu": "Szakítsa meg kerékpáros útját ennél a festői helyi szentélynél a gyönyörű ikonok megtekintéséhez, csendben maradva, mivel a lakosok aktívan használják.",
+            "ro": "Întrerupeți călătoria cu bicicleta la acest sanctuar pitoresc pentru a vedea icoanele sale frumoase, păstrând liniștea deoarece este folosit activ de localnici.",
+            "en": "Pause your cycling journey at this picturesque local sanctuary to view its beautiful icons, keeping your voice low as it is actively used by residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Ieros Naos Anastaseos tou Kuriou",
+            "hu": "Ieros Naos Anastaseos tou Kuriou",
+            "ro": "Ieros Naos Anastaseos tou Kuriou",
+            "en": "Ieros Naos Anastaseos tou Kuriou"
+          },
+          "coords": [
+            22.91728,
+            40.65712
+          ],
+          "category": "religious",
+          "arrive_at": "14:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem großartigen, der Auferstehung gewidmeten Architekturwunder und fotografieren Sie das Nachmittagslicht auf den Kuppeln.",
+            "hu": "Fejezze be kerékpártúráját ennél a Feltámadásnak szentelt építészeti csodánál, megörökítve a lenyűgöző kupolákat megvilágító késő délutáni fényeket.",
+            "ro": "Încheiați turul cu bicicleta la această minune arhitecturală grandioasă dedicată Învierii, capturând lumina după-amiezii care lovește cupolele sale impresionante.",
+            "en": "End your cycling tour at this grand architectural marvel dedicated to the Resurrection, capturing the late afternoon light hitting its impressive domes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt in den ruhigen Straßen von Evosmos. Sie besuchen lokale Freilichttheater und wunderschöne orthodoxe Kirchen.\n\nGegen Mittag schließen Sie Ihr Fahrrad am Eisenbahnmuseum an, um historische Züge zu erkunden, bevor Sie zum Heiligtum Agios Nektarios fahren.\n\nVerbringen Sie den Nachmittag damit, an Grünanlagen vorbeizugleiten und an einem weiteren Freilichttheater eine wohlverdiente Pause einzulegen.\n\nBeenden Sie Ihre Fahrt in der goldenen Stunde in der Nähe der Kirche Anastaseos tou Kuriou, wo die untergehende Sonne die Kuppeln beleuchtet.",
+        "hu": "Kerékpáros kalandja Evosmos csendes utcáin kezdődik, helyi szabadtéri színházakat és gyönyörű ortodox templomokat látogatva.\n\nDél körül kösse ki kerékpárját a Vasúti Múzeumnál, hogy felfedezze a történelmi vonatokat, majd tekerjen el az Agios Nektarios szentélyéhez.\n\nTöltse a délutánt zöldterületek mellett elhaladva, és tartson egy jól megérdemelt pihenőt egy másik szabadtéri színháznál a friss levegőn.\n\nFejezze be útját az aranyórában a grandiózus Anastaseos tou Kuriou templom közelében, ahol a lemenő nap gyönyörűen megvilágítja a kupolákat.",
+        "ro": "Aventura cu bicicleta începe pe străzile liniștite din Evosmos, vizitând teatre locale în aer liber și biserici ortodoxe frumoase.\n\nPe la prânz, parcați bicicleta la Muzeul Feroviar pentru a explora trenuri istorice, înainte de a merge la sanctuarul pașnic Agios Nektarios.\n\nPetreceți după-amiaza trecând pe lângă spații verzi și faceți o pauză binemeritată la un alt teatru în aer liber pentru a vă bucura de aer curat.\n\nTerminați plimbarea la ora de aur lângă grandioasa biserică Anastaseos tou Kuriou, unde soarele la apus îi luminează frumos cupolele.",
+        "en": "Your cycling adventure starts with easy pedaling through Evosmos's quiet streets, visiting local open-air theaters and beautiful Orthodox churches.\n\nAround midday, chain up your bike at the Railroad Museum to explore historic trains before riding over to the peaceful sanctuary of Agios Nektarios.\n\nSpend the afternoon gliding past greenery and community spaces, taking a well-deserved break at another open-air theater to enjoy the fresh air.\n\nFinish your ride in the golden hour near the grand Anastaseos tou Kuriou church, where the setting sun beautifully illuminates its imposing domes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ieros Naos Upsoseos Timiou Staurou",
+            "hu": "Ieros Naos Upsoseos Timiou Staurou",
+            "ro": "Ieros Naos Upsoseos Timiou Staurou",
+            "en": "Ieros Naos Upsoseos Timiou Staurou"
+          },
+          "coords": [
+            22.885181,
+            40.667317
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser imposanten Kirche mit ihrem friedlichen Innenhof und nehmen Sie sich Zeit, um eine Kerze vor der Rückkehr anzuzünden.",
+            "hu": "Zárja sétáját ennél az impozáns megjelenésű és békés udvarú templomnál, időt szánva egy gyertya meggyújtására, mielőtt visszaindulna a szállásra.",
+            "ro": "Încheiați plimbarea la această biserică impunătoare cunoscută pentru curtea sa liniștită, făcându-vă timp să aprindeți o lumânare înainte de a pleca.",
+            "en": "Conclude your walk at this imposing church known for its towering presence and peaceful courtyard, taking time to light a candle before heading back."
+          }
+        },
+        {
+          "name": {
+            "de": "Eisenbahnmuseum",
+            "hu": "Vasúti Múzeum",
+            "ro": "Muzeul Feroviar",
+            "en": "Railroad Museum"
+          },
+          "coords": [
+            22.892269,
+            40.665774
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und entdecken Sie faszinierende alte Lokomotiven und historische Eisenbahnartefakte, wofür Sie mindestens eine Stunde einplanen sollten.",
+            "hu": "Lépjen vissza az időben, és fedezzen fel lenyűgöző régi mozdonyokat és történelmi vasúti tárgyakat, legalább egy órát szánva a teljes gyűjteményre.",
+            "ro": "Întoarceți-vă în timp descoperind locomotive de epocă și artefacte feroviare istorice fascinante, planificând cel puțin o oră pentru colecția completă.",
+            "en": "Step back in time as you discover fascinating vintage locomotives and historical railway artifacts, planning at least an hour to see the full collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "hu": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "ro": "Theatro Kordeliou - Poluleitourgiko Kentro",
+            "en": "Theatro Kordeliou - Poluleitourgiko Kentro"
+          },
+          "coords": [
+            22.89546,
+            40.664971
+          ],
+          "category": "cultural",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Einrichtungen dieses multifunktionalen Zentrums für lokale Veranstaltungen und fragen Sie das Personal nach kommenden Shows.",
+            "hu": "Tekintse meg ennek a helyi eseményeknek otthont adó többfunkciós központnak a modern felszereltségét, és érdeklődjön a személyzetnél a közelgő műsorokról.",
+            "ro": "Explorați facilitățile moderne ale acestui centru multifuncțional care găzduiește evenimente locale și întrebați personalul despre viitoarele spectacole.",
+            "en": "Check out the modern facilities of this multifunctional center which hosts numerous local events, and consider asking the staff about any upcoming shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nektarios",
+            "hu": "Agios Nektarios",
+            "ro": "Agios Nektarios",
+            "en": "Agios Nektarios"
+          },
+          "coords": [
+            22.899175,
+            40.657318
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Umgebung dieser beliebten Gemeinde, schließen Sie Ihr Fahrrad sicher am Seiteneingang ab und bewundern Sie die Holzarbeiten.",
+            "hu": "Fedezze fel ennek a kedvelt környékbeli plébániának a nyugodt környezetét, kerékpárját biztonságosan a bejárat közelében hagyva, hogy megcsodálja a faragásokat.",
+            "ro": "Descoperiți mediul liniștit al acestei parohii de cartier, parcând bicicleta în siguranță lângă intrarea laterală pentru a admira detaliile din lemn.",
+            "en": "Discover the tranquil environment of this beloved neighborhood parish, parking your bike securely near the side entrance to admire the ornate woodwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der lebensspendenden Quelle",
+            "hu": "Életadó Forrás Temploma",
+            "ro": "Biserica Izvorul Tămăduirii",
+            "en": "Life-giving Spring Church"
+          },
+          "coords": [
+            22.921741,
+            40.651612
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser bedeutenden spirituellen Stätte, die nach der lebensspendenden Quelle benannt ist, und nutzen Sie die nahe gelegenen Straßenparkplätze.",
+            "hu": "Vezessen el ehhez az Életadó Forrásról elnevezett jelentős spirituális helyszínhez, a közeli utcai parkolót használva a szent atmoszféra felfedezéséhez.",
+            "ro": "Conduceți către acest sit spiritual semnificativ numit după Izvorul Tămăduirii, utilizând parcarea stradală din apropiere pentru a explora atmosfera sa sfântă.",
+            "en": "Drive to this significant spiritual site named after the Life-giving Spring, utilizing the nearby street parking to explore its serene and holy atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Anoikhto Theatro Ampelokepon",
+            "hu": "Anoikhto Theatro Ampelokepon",
+            "ro": "Anoikhto Theatro Ampelokepon",
+            "en": "Anoikhto Theatro Ampelokepon"
+          },
+          "coords": [
+            22.92144,
+            40.64957
+          ],
+          "category": "cultural",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz des Viertels Ampelokipi in diesem riesigen Theater und machen Sie einen flotten Spaziergang durch die Amphitheaterreihen.",
+            "hu": "Tapasztalja meg az Ampelokipi negyed kulturális lüktetését ebben a hatalmas színházban, tegyen egy élénk sétát az amfiteátrum soraiban a nagyszerű kilátásért.",
+            "ro": "Experimentați pulsul cultural al cartierului Ampelokipi la acest teatru vast, făcând o plimbare scurtă prin rândurile amfiteatrului pentru o priveliște minunată.",
+            "en": "Experience the cultural heartbeat of the Ampelokipi district at this vast theater, taking a brisk walk around the amphitheater rows for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Alexes Minotes",
+            "hu": "Alexes Minotes",
+            "ro": "Alexes Minotes",
+            "en": "Alexes Minotes"
+          },
+          "coords": [
+            22.925277,
+            40.652655
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante Gemeindezentrum, das dem legendären griechischen Schauspieler gewidmet ist, und prüfen Sie die Tafeln am Eingang auf Kunstausstellungen.",
+            "hu": "Álljon meg ennél a legendás görög színésznek szentelt kiemelkedő közösségi központnál, és ellenőrizze a bejárat melletti hirdetőtáblákat a helyi kiállításokért.",
+            "ro": "Opriți-vă la acest centru comunitar dedicat legendarului actor grec, verificând panourile de la intrare pentru expoziții unice de artă locală.",
+            "en": "Stop by this prominent community hub dedicated to the legendary Greek actor, checking the bulletin boards by the entrance for unique local art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatliches Museum für Zeitgenössische Kunst",
+            "hu": "Állami Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Stat de Artă Contemporană",
+            "en": "Kratiko Mouseio Sugkhrones Tekhnes"
+          },
+          "coords": [
+            22.93161,
+            40.658175
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Staatlichen Museum für Zeitgenössische Kunst, um weltklassige Werke der russischen Avantgarde zu sehen, und nehmen Sie sich viel Zeit.",
+            "hu": "Zárja autós útját az Állami Kortárs Művészeti Múzeumban, ahol világszínvonalú orosz avantgárd műveket tekinthet meg, bőséges időt szánva a hatalmas galériákra.",
+            "ro": "Încheiați călătoria cu mașina la Muzeul de Stat de Artă Contemporană pentru a vedea lucrări avangardiste rusești, dedicând suficient timp pentru galeriile vaste.",
+            "en": "Conclude your drive at the State Museum of Contemporary Art to view world-class Russian avant-garde works, dedicating plenty of time for the vast galleries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im Westen von Evosmos mit historischen Kirchen und tauchen Sie im Eisenbahnmuseum in die Transportgeschichte ein.\n\nFahren Sie am Mittag durch die belebten Straßen in Richtung Agios Nektarios und der Kirche der lebensspendenden Quelle.\n\nDer Nachmittag führt Sie in die Gegend von Ampelokipi, wo weitläufige Kulturzentren und lokale Amphitheater die künstlerische Seele der Gemeinde zeigen.\n\nBeenden Sie Ihren Tag mit einem kulturellen Finale im Staatlichen Museum für Zeitgenössische Kunst und bewundern Sie moderne Meisterwerke.",
+        "hu": "Kezdje autós útját Nyugat-Evosmosban történelmi templomokkal, és merüljön el a régió közlekedéstörténetében a helyi Vasúti Múzeumban.\n\nDélben vezessen a forgalmas utcákon az Agios Nektarios és az Életadó Forrás temploma felé, értékelve a kerületek közötti gyors váltást.\n\nA délután az Ampelokipi területre viszi, ahol hatalmas kulturális központok és helyi amfiteátrumok mutatják be a közösség művészeti lelkét.\n\nZárja a napot egy kulturális fináléval az Állami Kortárs Művészeti Múzeumban, elmerülve a lélegzetelállító modern remekművekben vacsora előtt.",
+        "ro": "Începeți călătoria în vestul Evosmos cu biserici istorice și o scufundare în istoria transporturilor la Muzeul Feroviar local.\n\nPână la prânz, conduceți pe străzile aglomerate spre Agios Nektarios și Biserica Izvorul Tămăduirii, apreciind ușurința de a schimba cartierele.\n\nDupă-amiaza vă duce în zona Ampelokipi, unde centrele culturale vaste și amfiteatrele locale prezintă sufletul artistic al comunității.\n\nÎncheiați ziua cu un final cultural magnific la Muzeul de Stat de Artă Contemporană, pierzându-vă în capodopere moderne înainte de cină.",
+        "en": "Kick off your road trip in western Evosmos with historic churches and a deep dive into the region's transport history at the local Railroad Museum.\n\nBy midday, drive through the bustling streets towards Agios Nektarios and the Life-giving Spring Church, appreciating the ease of hopping between districts.\n\nThe afternoon takes you deep into the Ampelokipi area, where sprawling cultural centers and local amphitheaters showcase the artistic soul of the community.\n\nEnd your day with a magnificent cultural finale at the State Museum of Contemporary Art, losing yourself in breathtaking modern masterpieces before dinner."
+      }
+    }
+  }
+}

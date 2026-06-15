@@ -1,0 +1,612 @@
+{
+  "city_id": "italy-la-storta-cities-v2",
+  "anchor": {
+    "name": "La Storta",
+    "coords": [
+      12.382536,
+      42.002686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+          },
+          "coords": [
+            12.383454,
+            42.001755
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser wichtigen lokalen Kathedrale und denken Sie daran, vor Ihrem Besuch den Messeplan zu überprüfen.",
+            "hu": "Csodálja meg a fontos helyi katedrális modern építészetét, de látogatás előtt mindenképpen ellenőrizze a misék menetrendjét.",
+            "ro": "Admirați arhitectura modernă a acestei catedrale locale importante și nu uitați să verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the modern architecture of this important local cathedral, and remember to check the mass schedule before your visit to avoid disruptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella della visione",
+            "hu": "Cappella della visione",
+            "ro": "Cappella della visione",
+            "en": "Cappella della visione"
+          },
+          "coords": [
+            12.382688,
+            42.00272
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kapelle ein, in der der Heilige Ignatius von Loyola seine berühmte Vision hatte, auch wenn der Platz sehr begrenzt ist.",
+            "hu": "Lépjen be ebbe a történelmi kápolnába, ahol Loyolai Szent Ignác híres látomása történt, de mivel a hely szűkös, érkezzen korán.",
+            "ro": "Pășiți în această capelă istorică unde Sfântul Ignațiu de Loyola a avut faimoasa sa viziune, deși spațiul este limitat, așa că veniți devreme.",
+            "en": "Step into this historic chapel where St. Ignatius of Loyola had his famous vision, though space is very limited so arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Giovanni Calabria",
+            "hu": "Cappella di San Giovanni Calabria",
+            "ro": "Cappella di San Giovanni Calabria",
+            "en": "Cappella di San Giovanni Calabria"
+          },
+          "coords": [
+            12.382959,
+            42.014478
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bescheidene, aber spirituell bedeutsame Kapelle, die San Giovanni Calabria gewidmet ist und einen friedlichen Rückzugsort bietet.",
+            "hu": "Fedezze fel ezt a szerény, de spirituálisan jelentős kápolnát, amely csendes menedéket nyújt az elmélyült elmélkedéshez a forgalmas utakon túl.",
+            "ro": "Explorați această capelă modestă, dar semnificativă spiritual, dedicată lui San Giovanni Calabria, care oferă un refugiu liniștit pentru reflecție.",
+            "en": "Explore this modest yet spiritually significant chapel dedicated to San Giovanni Calabria, which offers a peaceful retreat for silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Farnese",
+            "hu": "Castello Farnese",
+            "ro": "Castello Farnese",
+            "en": "Castello Farnese"
+          },
+          "coords": [
+            12.392166,
+            42.019435
+          ],
+          "category": "landmark",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Außenseite dieser mittelalterlichen Festung, da das Innere größtenteils in Privatbesitz und für die Öffentlichkeit gesperrt ist.",
+            "hu": "Készítsen fényképeket ennek a középkori erődnek a külsejéről, amely Isola Farnese-t koronázza, mivel a belső tér nagyrészt magántulajdonban van.",
+            "ro": "Fotografiați exteriorul acestei fortărețe medievale care încoronează Isola Farnese, deoarece interiorul este în mare parte proprietate privată.",
+            "en": "Capture photographs of the exterior of this medieval fortress that crowns Isola Farnese, as the interior is mostly privately owned and restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pancrazio",
+            "hu": "San Pancrazio",
+            "ro": "San Pancrazio",
+            "en": "San Pancrazio"
+          },
+          "coords": [
+            12.393507,
+            42.019544
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche direkt neben dem Schloss und nehmen Sie sich einen Moment Zeit, um ihre mittelalterlichen Ursprünge zu würdigen.",
+            "hu": "Látogasson el ebbe a bájos plébániatemplomba közvetlenül a kastély mellett, és szánjon egy percet annak középkori eredetének értékelésére.",
+            "ro": "Vizitați această biserică parohială fermecătoare situată chiar lângă castel, acordându-vă un moment pentru a aprecia originile sale medievale.",
+            "en": "Visit this charming parish church located right next to the castle, taking a moment to appreciate its deeply rooted medieval origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario dell'Apollo loc. Portonaccio",
+            "hu": "Santuario dell'Apollo loc. Portonaccio",
+            "ro": "Santuario dell'Apollo loc. Portonaccio",
+            "en": "Santuario dell'Apollo loc. Portonaccio"
+          },
+          "coords": [
+            12.390551,
+            42.021371
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen des antiken etruskischen Apollon-Heiligtums und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Fedezze fel az ősi etruszk Apolló-szentély lenyűgöző romjait, de mindenképpen viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Descoperiți ruinele evocatoare ale anticului sanctuar etrusc al lui Apollo și purtați încălțăminte robustă pentru a naviga pe terenul arheologic.",
+            "en": "Discover the evocative ruins of the ancient Etruscan sanctuary of Apollo, and wear sturdy shoes for navigating the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Area archeologica di Villa Campetti",
+            "hu": "Area archeologica di Villa Campetti",
+            "ro": "Area archeologica di Villa Campetti",
+            "en": "Area archeologica di Villa Campetti"
+          },
+          "coords": [
+            12.389749,
+            42.023401
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die ausgedehnten Überreste dieser römischen Villa und bringen Sie wegen des fehlenden Schattens einen Hut und Wasser mit.",
+            "hu": "Sétáljon végig e római villakomplexum kiterjedt régészeti maradványain, de hozzon magával kalapot és bőséges vizet az árnyék hiánya miatt.",
+            "ro": "Plimbați-vă prin vestigiile extinse ale acestui complex de vile romane, aducând o pălărie și multă apă din cauza lipsei de umbră.",
+            "en": "Wander through the extensive archaeological remains of this Roman villa complex, bringing a hat and plenty of water due to the lack of shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der Kathedrale von La Storta und der historischen Cappella della visione. Mittags führt der Weg nach Norden zu San Giovanni Calabria und dem mittelalterlichen Isola Farnese. Am Nachmittag erkunden Sie das imposante Castello Farnese und die charmante Kirche San Pancrazio. Der Abend endet in den antiken etruskischen Ruinen von Veio am Apollon-Heiligtum.",
+        "hu": "A reggel La Storta katedrálisánál és a történelmi Cappella della visione-nél indul. Délben észak felé tart a San Giovanni Calabria és Isola Farnese középkori faluja felé. Délután fedezze fel a fenséges Castello Farnese-t és a bájos San Pancrazio templomot. Az este Veio ősi etruszk romjai között, az Apolló-szentélynél és a Villa Campettinél ér véget.",
+        "ro": "Dimineața începe la Catedrala din La Storta și istorica Cappella della visione. Prânzul vă poartă spre nord, spre San Giovanni Calabria și satul medieval Isola Farnese. După-amiaza, explorați impunătorul Castello Farnese și fermecătoarea biserică San Pancrazio. Seara se încheie printre ruinele etrusce din Veio, la Sanctuarul lui Apollo și Villa Campetti.",
+        "en": "Morning starts at La Storta's Cathedral and the historic Cappella della visione. Midday takes you north to San Giovanni Calabria and the medieval village of Isola Farnese. In the afternoon, explore the imposing Castello Farnese and the charming San Pancrazio church. Your evening concludes among the ancient Etruscan ruins of Veio at the Sanctuary of Apollo and Villa Campetti."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dei Santi Pietro e Paolo",
+            "hu": "Chiesa dei Santi Pietro e Paolo",
+            "ro": "Chiesa dei Santi Pietro e Paolo",
+            "en": "Chiesa dei Santi Pietro e Paolo"
+          },
+          "coords": [
+            12.368171,
+            42.019481
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an dieser ruhigen lokalen Kirche, die den Heiligen Petrus und Paulus gewidmet ist und abseits der touristischen Hauptpfade liegt.",
+            "hu": "Álljon meg ennél a nyugodt, Péter és Pál apostoloknak szentelt helyi templomnál, amely a turistautaktól távol eső közösségi központként szolgál.",
+            "ro": "Opriți-vă la această biserică locală liniștită, dedicată sfinților Petru și Pavel, care servește ca un centru comunitar departe de rutele turistice.",
+            "en": "Pause at this tranquil local church dedicated to saints Peter and Paul, which serves as a quiet community hub away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Giovanni Calabria",
+            "hu": "Cappella di San Giovanni Calabria",
+            "ro": "Cappella di San Giovanni Calabria",
+            "en": "Cappella di San Giovanni Calabria"
+          },
+          "coords": [
+            12.382959,
+            42.014478
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bescheidene, aber spirituell bedeutsame Kapelle, die San Giovanni Calabria gewidmet ist und einen friedlichen Rückzugsort bietet.",
+            "hu": "Fedezze fel ezt a szerény, de spirituálisan jelentős kápolnát, amely csendes menedéket nyújt az elmélyült elmélkedéshez a forgalmas utakon túl.",
+            "ro": "Explorați această capelă modestă, dar semnificativă spiritual, dedicată lui San Giovanni Calabria, care oferă un refugiu liniștit pentru reflecție.",
+            "en": "Explore this modest yet spiritually significant chapel dedicated to San Giovanni Calabria, which offers a peaceful retreat for silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella della visione",
+            "hu": "Cappella della visione",
+            "ro": "Cappella della visione",
+            "en": "Cappella della visione"
+          },
+          "coords": [
+            12.382688,
+            42.00272
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kapelle ein, in der der Heilige Ignatius von Loyola seine berühmte Vision hatte, auch wenn der Platz sehr begrenzt ist.",
+            "hu": "Lépjen be ebbe a történelmi kápolnába, ahol Loyolai Szent Ignác híres látomása történt, de mivel a hely szűkös, érkezzen korán.",
+            "ro": "Pășiți în această capelă istorică unde Sfântul Ignațiu de Loyola a avut faimoasa sa viziune, deși spațiul este limitat, așa că veniți devreme.",
+            "en": "Step into this historic chapel where St. Ignatius of Loyola had his famous vision, though space is very limited so arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+          },
+          "coords": [
+            12.383454,
+            42.001755
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser wichtigen lokalen Kathedrale und denken Sie daran, vor Ihrem Besuch den Messeplan zu überprüfen.",
+            "hu": "Csodálja meg a fontos helyi katedrális modern építészetét, de látogatás előtt mindenképpen ellenőrizze a misék menetrendjét.",
+            "ro": "Admirați arhitectura modernă a acestei catedrale locale importante și nu uitați să verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the modern architecture of this important local cathedral, and remember to check the mass schedule before your visit to avoid disruptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Farnese",
+            "hu": "Castello Farnese",
+            "ro": "Castello Farnese",
+            "en": "Castello Farnese"
+          },
+          "coords": [
+            12.392166,
+            42.019435
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Außenseite dieser mittelalterlichen Festung, da das Innere größtenteils in Privatbesitz und für die Öffentlichkeit gesperrt ist.",
+            "hu": "Készítsen fényképeket ennek a középkori erődnek a külsejéről, amely Isola Farnese-t koronázza, mivel a belső tér nagyrészt magántulajdonban van.",
+            "ro": "Fotografiați exteriorul acestei fortărețe medievale care încoronează Isola Farnese, deoarece interiorul este în mare parte proprietate privată.",
+            "en": "Capture photographs of the exterior of this medieval fortress that crowns Isola Farnese, as the interior is mostly privately owned and restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario dell'Apollo loc. Portonaccio",
+            "hu": "Santuario dell'Apollo loc. Portonaccio",
+            "ro": "Santuario dell'Apollo loc. Portonaccio",
+            "en": "Santuario dell'Apollo loc. Portonaccio"
+          },
+          "coords": [
+            12.390551,
+            42.021371
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen des antiken etruskischen Apollon-Heiligtums und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Fedezze fel az ősi etruszk Apolló-szentély lenyűgöző romjait, de mindenképpen viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Descoperiți ruinele evocatoare ale anticului sanctuar etrusc al lui Apollo și purtați încălțăminte robustă pentru a naviga pe terenul arheologic.",
+            "en": "Discover the evocative ruins of the ancient Etruscan sanctuary of Apollo, and wear sturdy shoes for navigating the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Area archeologica di Villa Campetti",
+            "hu": "Area archeologica di Villa Campetti",
+            "ro": "Area archeologica di Villa Campetti",
+            "en": "Area archeologica di Villa Campetti"
+          },
+          "coords": [
+            12.389749,
+            42.023401
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die ausgedehnten Überreste dieser römischen Villa und bringen Sie wegen des fehlenden Schattens einen Hut und Wasser mit.",
+            "hu": "Sétáljon végig e római villakomplexum kiterjedt régészeti maradványain, de hozzon magával kalapot és bőséges vizet az árnyék hiánya miatt.",
+            "ro": "Plimbați-vă prin vestigiile extinse ale acestui complex de vile romane, aducând o pălărie și multă apă din cauza lipsei de umbră.",
+            "en": "Wander through the extensive archaeological remains of this Roman villa complex, bringing a hat and plenty of water due to the lack of shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Piazza d'Armi",
+            "hu": "Area Archeologica di Piazza d'Armi",
+            "ro": "Area Archeologica di Piazza d'Armi",
+            "en": "Area Archeologica di Piazza d'Armi"
+          },
+          "coords": [
+            12.40715,
+            42.013627
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den höchsten Punkt der antiken Stadt Veio an der Piazza d'Armi und packen Sie ein Fernglas für die herrliche Aussicht auf das Tal ein.",
+            "hu": "Fedezze fel Veio ősi városának legmagasabb pontját a Piazza d'Armi-n, és vigyen magával távcsövet, hogy élvezhesse a völgyre nyíló kilátást.",
+            "ro": "Explorați cel mai înalt punct al orașului antic Veio la Piazza d'Armi, luând un binoclu pentru a vă bucura de priveliștile asupra văii înconjurătoare.",
+            "en": "Explore the highest point of the ancient city of Veio at Piazza d'Armi, packing binoculars to enjoy the sweeping views over the surrounding valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit dem Rad von der ruhigen Kirche der Heiligen Petrus und Paulus zu den Kapellen der Gegend. Mittags besuchen Sie die Kathedrale, bevor Sie zum mittelalterlichen Isola Farnese radeln. Verbringen Sie den Nachmittag auf den Wegen zu den etruskischen Ruinen von Veio. Abends enden Sie an der Piazza d'Armi mit einem Panoramablick auf das Tal.",
+        "hu": "Kezdje a reggelt a csendes Péter és Pál templomtól a környék kápolnái felé kerekezve. Délben látogassa meg a katedrálist, mielőtt Isola Farnese középkori falujába teker. A délutánt Veio etruszk romjaihoz és az Apolló-szentélyhez vezető ösvényeken töltse. Este a Piazza d'Armi-n fejezze be a túrát, ahonnan panorámás kilátás nyílik a völgyre.",
+        "ro": "Începeți dimineața pedalând de la liniștita biserică Sfinții Petru și Pavel spre capelele istorice. La prânz, vizitați Catedrala modernă înainte de a urca spre farmecul medieval din Isola Farnese. Petreceți după-amiaza pe traseele spre ruinele etrusce din Veio. Seara, încheiați la Piazza d'Armi pentru vederi panoramice uimitoare asupra văii.",
+        "en": "Kick off the morning cycling from the quiet Saints Peter and Paul church toward the area's historic chapels. By midday, visit the modern Cathedral before riding up to the medieval charm of Isola Farnese. Spend your afternoon biking the trails to the breathtaking Etruscan ruins of Veio and the Sanctuary of Apollo. In the evening, end at Piazza d'Armi for panoramic valley views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 7.7,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "hu": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "ro": "Cattedrale dei Sacri Cuori di Gesù e Maria",
+            "en": "Cattedrale dei Sacri Cuori di Gesù e Maria"
+          },
+          "coords": [
+            12.383454,
+            42.001755
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser wichtigen lokalen Kathedrale und denken Sie daran, vor Ihrem Besuch den Messeplan zu überprüfen.",
+            "hu": "Csodálja meg a fontos helyi katedrális modern építészetét, de látogatás előtt mindenképpen ellenőrizze a misék menetrendjét.",
+            "ro": "Admirați arhitectura modernă a acestei catedrale locale importante și nu uitați să verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the modern architecture of this important local cathedral, and remember to check the mass schedule before your visit to avoid disruptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella della visione",
+            "hu": "Cappella della visione",
+            "ro": "Cappella della visione",
+            "en": "Cappella della visione"
+          },
+          "coords": [
+            12.382688,
+            42.00272
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kapelle ein, in der der Heilige Ignatius von Loyola seine berühmte Vision hatte, auch wenn der Platz sehr begrenzt ist.",
+            "hu": "Lépjen be ebbe a történelmi kápolnába, ahol Loyolai Szent Ignác híres látomása történt, de mivel a hely szűkös, érkezzen korán.",
+            "ro": "Pășiți în această capelă istorică unde Sfântul Ignațiu de Loyola a avut faimoasa sa viziune, deși spațiul este limitat, așa că veniți devreme.",
+            "en": "Step into this historic chapel where St. Ignatius of Loyola had his famous vision, though space is very limited so arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Giovanni Calabria",
+            "hu": "Cappella di San Giovanni Calabria",
+            "ro": "Cappella di San Giovanni Calabria",
+            "en": "Cappella di San Giovanni Calabria"
+          },
+          "coords": [
+            12.382959,
+            42.014478
+          ],
+          "category": "religious",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bescheidene, aber spirituell bedeutsame Kapelle, die San Giovanni Calabria gewidmet ist und einen friedlichen Rückzugsort bietet.",
+            "hu": "Fedezze fel ezt a szerény, de spirituálisan jelentős kápolnát, amely csendes menedéket nyújt az elmélyült elmélkedéshez a forgalmas utakon túl.",
+            "ro": "Explorați această capelă modestă, dar semnificativă spiritual, dedicată lui San Giovanni Calabria, care oferă un refugiu liniștit pentru reflecție.",
+            "en": "Explore this modest yet spiritually significant chapel dedicated to San Giovanni Calabria, which offers a peaceful retreat for silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Pietro e Paolo",
+            "hu": "Chiesa dei Santi Pietro e Paolo",
+            "ro": "Chiesa dei Santi Pietro e Paolo",
+            "en": "Chiesa dei Santi Pietro e Paolo"
+          },
+          "coords": [
+            12.368171,
+            42.019481
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verweilen Sie an dieser ruhigen lokalen Kirche, die den Heiligen Petrus und Paulus gewidmet ist und abseits der touristischen Hauptpfade liegt.",
+            "hu": "Álljon meg ennél a nyugodt, Péter és Pál apostoloknak szentelt helyi templomnál, amely a turistautaktól távol eső közösségi központként szolgál.",
+            "ro": "Opriți-vă la această biserică locală liniștită, dedicată sfinților Petru și Pavel, care servește ca un centru comunitar departe de rutele turistice.",
+            "en": "Pause at this tranquil local church dedicated to saints Peter and Paul, which serves as a quiet community hub away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Farnese",
+            "hu": "Castello Farnese",
+            "ro": "Castello Farnese",
+            "en": "Castello Farnese"
+          },
+          "coords": [
+            12.392166,
+            42.019435
+          ],
+          "category": "landmark",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Außenseite dieser mittelalterlichen Festung, da das Innere größtenteils in Privatbesitz und für die Öffentlichkeit gesperrt ist.",
+            "hu": "Készítsen fényképeket ennek a középkori erődnek a külsejéről, amely Isola Farnese-t koronázza, mivel a belső tér nagyrészt magántulajdonban van.",
+            "ro": "Fotografiați exteriorul acestei fortărețe medievale care încoronează Isola Farnese, deoarece interiorul este în mare parte proprietate privată.",
+            "en": "Capture photographs of the exterior of this medieval fortress that crowns Isola Farnese, as the interior is mostly privately owned and restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pancrazio",
+            "hu": "San Pancrazio",
+            "ro": "San Pancrazio",
+            "en": "San Pancrazio"
+          },
+          "coords": [
+            12.393507,
+            42.019544
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche direkt neben dem Schloss und nehmen Sie sich einen Moment Zeit, um ihre mittelalterlichen Ursprünge zu würdigen.",
+            "hu": "Látogasson el ebbe a bájos plébániatemplomba közvetlenül a kastély mellett, és szánjon egy percet annak középkori eredetének értékelésére.",
+            "ro": "Vizitați această biserică parohială fermecătoare situată chiar lângă castel, acordându-vă un moment pentru a aprecia originile sale medievale.",
+            "en": "Visit this charming parish church located right next to the castle, taking a moment to appreciate its deeply rooted medieval origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario dell'Apollo loc. Portonaccio",
+            "hu": "Santuario dell'Apollo loc. Portonaccio",
+            "ro": "Santuario dell'Apollo loc. Portonaccio",
+            "en": "Santuario dell'Apollo loc. Portonaccio"
+          },
+          "coords": [
+            12.390551,
+            42.021371
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen des antiken etruskischen Apollon-Heiligtums und tragen Sie festes Schuhwerk, um das unebene archäologische Gelände zu meistern.",
+            "hu": "Fedezze fel az ősi etruszk Apolló-szentély lenyűgöző romjait, de mindenképpen viseljen masszív cipőt az egyenetlen régészeti terepen.",
+            "ro": "Descoperiți ruinele evocatoare ale anticului sanctuar etrusc al lui Apollo și purtați încălțăminte robustă pentru a naviga pe terenul arheologic.",
+            "en": "Discover the evocative ruins of the ancient Etruscan sanctuary of Apollo, and wear sturdy shoes for navigating the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Area archeologica di Villa Campetti",
+            "hu": "Area archeologica di Villa Campetti",
+            "ro": "Area archeologica di Villa Campetti",
+            "en": "Area archeologica di Villa Campetti"
+          },
+          "coords": [
+            12.389749,
+            42.023401
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die ausgedehnten Überreste dieser römischen Villa und bringen Sie wegen des fehlenden Schattens einen Hut und Wasser mit.",
+            "hu": "Sétáljon végig e római villakomplexum kiterjedt régészeti maradványain, de hozzon magával kalapot és bőséges vizet az árnyék hiánya miatt.",
+            "ro": "Plimbați-vă prin vestigiile extinse ale acestui complex de vile romane, aducând o pălărie și multă apă din cauza lipsei de umbră.",
+            "en": "Wander through the extensive archaeological remains of this Roman villa complex, bringing a hat and plenty of water due to the lack of shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Piazza d'Armi",
+            "hu": "Area Archeologica di Piazza d'Armi",
+            "ro": "Area Archeologica di Piazza d'Armi",
+            "en": "Area Archeologica di Piazza d'Armi"
+          },
+          "coords": [
+            12.40715,
+            42.013627
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den höchsten Punkt der antiken Stadt Veio an der Piazza d'Armi und packen Sie ein Fernglas für die herrliche Aussicht auf das Tal ein.",
+            "hu": "Fedezze fel Veio ősi városának legmagasabb pontját a Piazza d'Armi-n, és vigyen magával távcsövet, hogy élvezhesse a völgyre nyíló kilátást.",
+            "ro": "Explorați cel mai înalt punct al orașului antic Veio la Piazza d'Armi, luând un binoclu pentru a vă bucura de priveliștile asupra văii înconjurătoare.",
+            "en": "Explore the highest point of the ancient city of Veio at Piazza d'Armi, packing binoculars to enjoy the sweeping views over the surrounding valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt deckt die religiösen Stätten von La Storta ab, von der Kathedrale zu den Kapellen. Mittags erreichen Sie Isola Farnese, um das Castello Farnese und benachbarte Kirchen zu sehen. Der Nachmittag bietet eine Fahrt in den Archäologischen Park Veio zum Apollon-Heiligtum. Der Abend endet mit einer malerischen Fahrt zur antiken Piazza d'Armi.",
+        "hu": "A reggeli autózás La Storta vallási helyszíneit fedi le, könnyedén váltva a katedrális és a kápolnák között. Délben Isola Farnesébe érkezik, hogy megnézze a Castello Farnesét és a templomokat. A délután egy rövid utat tartogat a Veio Régészeti Parkba, az Apolló-szentélyhez. Az este egy festői autózással zárul az ősi Piazza d'Armi magaslatára.",
+        "ro": "Conducerea de dimineață acoperă siturile religioase, trecând ușor de la Catedrală la capelele locale. Prânzul vă aduce la Isola Farnese pentru a vedea impunătorul Castello Farnese. După-amiaza include un scurt drum spre Parcul Arheologic Veio pentru a explora Sanctuarul lui Apollo. Seara se încheie cu o plimbare pitorească până la antica Piazza d'Armi.",
+        "en": "Your morning drive covers La Storta's religious sites, easily hopping between the Cathedral and local chapels. Midday brings you to Isola Farnese to see the imposing Castello Farnese and nearby churches. The afternoon features a short drive into the Veio Archaeological Park to explore the Apollo Sanctuary. Evening concludes with a scenic drive up to the ancient Piazza d'Armi."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-giens-cities-v2",
+  "anchor": {
+    "name": "Giens",
+    "coords": [
+      6.13186,
+      43.03822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 0.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            6.132043,
+            43.038239
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser Dorfkirche, die die lokale Seefahrtsgeschichte widerspiegelt, und kommen Sie früh für ruhige Fotos.",
+            "hu": "Csodálja meg a központi templom egyszerű építészetét, amely a tengerészeti történelmet tükrözi, és érkezzen korán a nyugodt fotózáshoz.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria maritimă locală, și ajungeți devreme pentru fotografii liniștite.",
+            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Maire Annexe de Giens",
+            "hu": "Maire Annexe de Giens",
+            "ro": "Maire Annexe de Giens",
+            "en": "Maire Annexe de Giens"
+          },
+          "coords": [
+            6.131037,
+            43.03866
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Verwaltungsgebäude, um das Erbe der Halbinsel zu verstehen, und bringen Sie einen Regenschirm mit, da Schatten selten ist.",
+            "hu": "Fedezze fel ezt a történelmi épületet a polgári örökség megértéséhez, de hozzon napernyőt, mivel a téren az árnyék meglehetősen korlátozott.",
+            "ro": "Explorați această clădire istorică pentru a înțelege moștenirea civică a peninsulei și aduceți o umbrelă, deoarece umbra este destul de limitată.",
+            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Le château de Giens",
+            "hu": "Le château de Giens",
+            "ro": "Le château de Giens",
+            "en": "Le château de Giens"
+          },
+          "coords": [
+            6.130059,
+            43.038101
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
+            "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Port du Niel",
+            "hu": "Plage du Port du Niel",
+            "ro": "Plage du Port du Niel",
+            "en": "Plage du Port du Niel"
+          },
+          "coords": [
+            6.127175,
+            43.036118
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Sand dieses geschützten Strandes mit seinem kristallklaren Wasser, wobei eine Ankunft am Mittag den wärmsten Platz garantiert.",
+            "hu": "Pihenjen ezen a védett, kristálytiszta vizű strandon, amely tökéletes egy megmártózáshoz, bár az időbeni érkezés garantálja a legjobb helyet.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje adăpostite, care oferă ape cristaline perfecte pentru o baie, deși sosirea devreme garantează cel mai bun loc.",
+            "en": "Relax on the intimate sands of this sheltered beach offering crystal-clear waters for a quick dip, though arriving early guarantees the best spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Port du Niel",
+            "hu": "Port du Niel",
+            "ro": "Port du Niel",
+            "en": "Port du Niel"
+          },
+          "coords": [
+            6.127585,
+            43.034926
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
+            "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
+            "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Giens mit einem Spaziergang durch das Zentrum und dem Besuch der Kirche. Mittags entdecken Sie das Erbe und steigen zu den alten Burgruinen hinauf. Der Nachmittag bringt einen sanften Abstieg zur Küste. Der Abend bricht herein, während Sie sich am Port du Niel entspannen und den Booten lauschen.",
+        "hu": "A reggel Giens szívében kezdődik, átsétálva a faluközponton és meglátogatva a templomot. Délben felmászhat a várromokhoz a lenyűgöző kilátásért. A délután lágy ereszkedéssel folytatódik a déli part felé. Az este a festői Port du Nielben éri, ahol a színes halászhajók lágy ringatózását hallgathatja a nyugodt tengerparton.",
+        "ro": "Dimineața începe în inima orașului Giens, rătăcind prin centru și vizitând biserica istorică. Până la prânz, veți urca la ruinele castelului pentru vederi panoramice. După-amiaza face tranziția către o coborâre ușoară spre coastă. Seara cade în timp ce vă relaxați în Port du Niel, ascultând legănarea blândă a bărcilor.",
+        "en": "Morning begins in the heart of Giens, wandering through the village center and visiting its historic church. By midday, you climb up to the ancient castle ruins for sweeping views. The afternoon transitions to a gentle descent toward the southern coast. Evening falls as you relax at Port du Niel, listening to the bobbing boats."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Le château de Giens",
+            "hu": "Le château de Giens",
+            "ro": "Le château de Giens",
+            "en": "Le château de Giens"
+          },
+          "coords": [
+            6.130059,
+            43.038101
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
+            "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            6.132043,
+            43.038239
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser Dorfkirche, die die lokale Seefahrtsgeschichte widerspiegelt, und kommen Sie früh für ruhige Fotos.",
+            "hu": "Csodálja meg a központi templom egyszerű építészetét, amely a tengerészeti történelmet tükrözi, és érkezzen korán a nyugodt fotózáshoz.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria maritimă locală, și ajungeți devreme pentru fotografii liniștite.",
+            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage La Polynésie",
+            "hu": "Plage La Polynésie",
+            "ro": "Plage La Polynésie",
+            "en": "Plage La Polynésie"
+          },
+          "coords": [
+            6.143906,
+            43.028908
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Küstenjuwel, das für unberührte Schönheit bekannt ist, und bringen Sie Schnorchelausrüstung für die Unterwasserwelt mit.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, és hozza magával a sznorkelfelszerelését a víz alatti élővilág kényelmes felfedezéséhez.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, aducând propriul echipament de snorkeling pentru a explora viața marină subacvatică vibrantă.",
+            "en": "Discover this hidden coastal gem known for its pristine beauty, bringing your own snorkeling gear to comfortably explore the vibrant underwater marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort du Pradeau",
+            "hu": "Fort du Pradeau",
+            "ro": "Fort du Pradeau",
+            "en": "Fort du Pradeau"
+          },
+          "coords": [
+            6.15568,
+            43.026373
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem imposanten Küstenfort in die Geschichte der Region ein und prüfen Sie vorher die saisonalen Öffnungszeiten des Museums.",
+            "hu": "Merüljön el a régió katonai történetében ebben a tengerparti erődben, de látogatás előtt ellenőrizze a múzeum szezonális nyitvatartását.",
+            "ro": "Pătrundeți în istoria militară a regiunii la acest fort de coastă, amintindu-vă să verificați orele de deschidere sezoniere ale muzeului înainte.",
+            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pradeau",
+            "hu": "Plage du Pradeau",
+            "ro": "Plage du Pradeau",
+            "en": "Plage du Pradeau"
+          },
+          "coords": [
+            6.150845,
+            43.028085
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Küstenabschnitt in der Nähe des Forts, wo ein leichtes Picknick mit Blick auf die Wellen zu empfehlen ist.",
+            "hu": "Kapcsolódjon ki ezen a partszakaszon a történelmi erőd közelében, ahol egy könnyű piknik ajánlott az óceán nyugtató hullámainak élvezete közben.",
+            "ro": "Relaxați-vă pe această porțiune de țărm lângă fortul istoric, unde un picnic ușor este recomandat în timp ce vă bucurați de valurile oceanului.",
+            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Port du Niel",
+            "hu": "Port du Niel",
+            "ro": "Port du Niel",
+            "en": "Port du Niel"
+          },
+          "coords": [
+            6.127585,
+            43.034926
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
+            "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
+            "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Darboussières",
+            "hu": "Plage des Darboussières",
+            "ro": "Plage des Darboussières",
+            "en": "Plage des Darboussières"
+          },
+          "coords": [
+            6.112469,
+            43.035138
+          ],
+          "category": "recreational",
+          "arrive_at": "16:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie hinunter zu diesem Kieselstrand in wilder Natur, und tragen Sie gute Wanderschuhe, um den leicht schroffen Pfad zu meistern.",
+            "hu": "Túrázzon le erre a vad természettel körülvett kavicsos strandra, és gondoskodjon megfelelő túracipőről a lefelé vezető út kényelmes megtételéhez.",
+            "ro": "Coborâți spre această plajă cu pietriș înconjurată de natură sălbatică, purtând pantofi de mers adecvați pentru traseul ușor accidentat.",
+            "en": "Hike down to this secluded pebble beach surrounded by wild nature, ensuring you wear decent walking shoes to safely navigate the descending trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung des Dorfes und genießen Sie Burgruinen. Mittags rollen Sie ostwärts zu den Küstenfestungen und Stränden. Am Nachmittag radeln Sie zurück nach Westen, erkunden den versteckten Hafen und entspannen an abgelegenen Ufern. Der Abend endet mit einer malerischen Rückfahrt von den westlichen Rändern.",
+        "hu": "Kezdje a kerékpározást a falu magaslatainak felfedezésével és a várromokkal. Délben kelet felé haladva a tengerparti erődök és az érintetlen strandok felé veszi az irányt. Délután visszafelé teker nyugatnak, felfedezve a kikötőt és a félreeső partokat. Az estét egy festői utazás zárja a nyugati peremvidékről visszatérve.",
+        "ro": "Începeți ziua de ciclism explorând înălțimile satului și ruinele castelului. La prânz vă îndreptați spre est către forturile de coastă și plajele curate. După-amiaza, pedalați înapoi spre vest, explorând portul ascuns și relaxându-vă pe țărmuri izolate. Seara se încheie cu o plimbare pitorească înapoi de la marginile vestice.",
+        "en": "Start your cycling day exploring the village heights and taking in the castle ruins. Midday takes you rolling eastward towards the coastal forts and pristine beaches. In the afternoon, you pedal back westwards, exploring the hidden port and relaxing on secluded shorelines. The evening concludes with a scenic ride back from the western edges."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort du Pradeau",
+            "hu": "Fort du Pradeau",
+            "ro": "Fort du Pradeau",
+            "en": "Fort du Pradeau"
+          },
+          "coords": [
+            6.15568,
+            43.026373
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem imposanten Küstenfort in die Geschichte der Region ein und prüfen Sie vorher die saisonalen Öffnungszeiten des Museums.",
+            "hu": "Merüljön el a régió katonai történetében ebben a tengerparti erődben, de látogatás előtt ellenőrizze a múzeum szezonális nyitvatartását.",
+            "ro": "Pătrundeți în istoria militară a regiunii la acest fort de coastă, amintindu-vă să verificați orele de deschidere sezoniere ale muzeului înainte.",
+            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pradeau",
+            "hu": "Plage du Pradeau",
+            "ro": "Plage du Pradeau",
+            "en": "Plage du Pradeau"
+          },
+          "coords": [
+            6.150845,
+            43.028085
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Küstenabschnitt in der Nähe des Forts, wo ein leichtes Picknick mit Blick auf die Wellen zu empfehlen ist.",
+            "hu": "Kapcsolódjon ki ezen a partszakaszon a történelmi erőd közelében, ahol egy könnyű piknik ajánlott az óceán nyugtató hullámainak élvezete közben.",
+            "ro": "Relaxați-vă pe această porțiune de țărm lângă fortul istoric, unde un picnic ușor este recomandat în timp ce vă bucurați de valurile oceanului.",
+            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Maire Annexe de Giens",
+            "hu": "Maire Annexe de Giens",
+            "ro": "Maire Annexe de Giens",
+            "en": "Maire Annexe de Giens"
+          },
+          "coords": [
+            6.131037,
+            43.03866
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Verwaltungsgebäude, um das Erbe der Halbinsel zu verstehen, und bringen Sie einen Regenschirm mit, da Schatten selten ist.",
+            "hu": "Fedezze fel ezt a történelmi épületet a polgári örökség megértéséhez, de hozzon napernyőt, mivel a téren az árnyék meglehetősen korlátozott.",
+            "ro": "Explorați această clădire istorică pentru a înțelege moștenirea civică a peninsulei și aduceți o umbrelă, deoarece umbra este destul de limitată.",
+            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Le château de Giens",
+            "hu": "Le château de Giens",
+            "ro": "Le château de Giens",
+            "en": "Le château de Giens"
+          },
+          "coords": [
+            6.130059,
+            43.038101
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
+            "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Port du Niel",
+            "hu": "Port du Niel",
+            "ro": "Port du Niel",
+            "en": "Port du Niel"
+          },
+          "coords": [
+            6.127585,
+            43.034926
+          ],
+          "category": "landmark",
+          "arrive_at": "14:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
+            "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
+            "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+          }
+        },
+        {
+          "name": {
+            "de": "Presqu'Île de Giens",
+            "hu": "Presqu'Île de Giens",
+            "ro": "Presqu'Île de Giens",
+            "en": "Presqu'Île de Giens"
+          },
+          "coords": [
+            6.103201,
+            43.034762
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Küstenbiodiversität dieses Halbinselstreifens, halten Sie Ausschau nach Vögeln und nehmen Sie ausreichend Trinkwasser mit.",
+            "hu": "Merüljön el ennek a keskeny félszigetnek a biológiai sokféleségében, tartsa szemmel a költöző madarakat, és vigyen magával bőséges ivóvizet.",
+            "ro": "Cufundați-vă în biodiversitatea de coastă a acestei peninsule înguste, fiind cu ochii pe păsările migratoare și luând cu dvs multă apă potabilă.",
+            "en": "Immerse yourself in the breathtaking coastal biodiversity of this narrow peninsula strip, keeping an eye out for birds and carrying plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque du Four à Chaux",
+            "hu": "Calanque du Four à Chaux",
+            "ro": "Calanque du Four à Chaux",
+            "en": "Calanque du Four à Chaux"
+          },
+          "coords": [
+            6.101432,
+            43.040737
+          ],
+          "category": "recreational",
+          "arrive_at": "16:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im türkisfarbenen Wasser dieser Bucht, aber seien Sie vorsichtig, da der Weg rutschig ist und Parkplätze im Sommer knapp sind.",
+            "hu": "Ússzon ennek a sziklás öbölnek a türkizkék vizében, de óvatosan érkezzen, mivel az út csúszós lehet, és a parkolóhelyek száma hihetetlenül kevés.",
+            "ro": "Înotați în apele turcoaz uimitoare ale acestui golf stâncos, dar coborâți cu atenție, deoarece poteca este alunecoasă, iar parcarea este foarte rară.",
+            "en": "Swim in the striking turquoise waters of this dramatic rocky inlet, but arrive carefully as the path can be slippery and parking nearby is incredibly scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der Ostspitze, wo Sie das robuste Küstenfort entdecken. Mittags fahren Sie ins Herz des Dorfes, um das Zentrum und die Burghöhen zu erkunden. Am Nachmittag navigieren Sie hinunter zum Hafen und entlang der atemberaubenden Halbinsel. Der Tag endet perfekt an einer dramatischen, versteckten Calanque.",
+        "hu": "A festői autózás a keleti csücsökben kezdődik, felfedezve az erődöt. Délben a faluközpontba hajt, hogy feltérképezze a közigazgatási központot és a vár magaslatait. Délután lefelé navigál a festői kikötőhöz és a lenyűgöző félsziget gerince mentén. A nap tökéletes befejezést nyer egy drámai, rejtett sziklás öbölben.",
+        "ro": "Conducerea scenică începe est, descoperind fortul robust. Până la prânz, conduceți în inima satului Giens pentru a explora centrul de administrație și castelul. După-amiaza, veți naviga până la portul pitoresc și de-a lungul crestei peninsulei uimitoare. Ziua se termină perfect într-un golf dramatic, ascuns în stânci.",
+        "en": "Your scenic drive starts at the eastern tip, discovering the robust coastal fort and beaches. By midday, you drive into the village heart to explore the civic center and castle heights. During the afternoon, you navigate down to the port and along the stunning peninsula spine. The day ends perfectly at a dramatic, hidden calanque."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "city-portimao",
+  "anchor": {
+    "name": "Portimao",
+    "coords": [
+      -8.5401,
+      37.1367
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Diogo Gonçalves",
+            "hu": "Museu Diogo Gonçalves",
+            "ro": "Museu Diogo Gonçalves",
+            "en": "Museu Diogo Gonçalves"
+          },
+          "coords": [
+            -8.537572,
+            37.139637
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Portimãos in diesem faszinierenden Museum, das lokale Artefakte beherbergt, und kommen Sie früh, um den Besuchertrubel zu vermeiden.",
+            "hu": "Fedezze fel Portimão gazdag történelmét ebben a lenyűgöző múzeumban, amely helyi leleteket őriz, és érkezzen korán, hogy elkerülje a nagyobb látogatói tömegeket.",
+            "ro": "Descoperiți istoria bogată a orașului Portimão în acest muzeu fascinant care găzduiește artefacte locale și ajungeți devreme pentru a evita mulțimile de vizitatori.",
+            "en": "Discover the rich history of Portimão in this fascinating museum housing local artifacts, and be sure to arrive early in the morning to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal de Portimão",
+            "hu": "Teatro Municipal de Portimão",
+            "ro": "Teatro Municipal de Portimão",
+            "en": "Teatro Municipal de Portimão"
+          },
+          "coords": [
+            -8.535963,
+            37.138214
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses kulturellen Zentrums, das erstklassige Aufführungen bietet, und prüfen Sie vorab den Spielplan für tagesaktuelle Events.",
+            "hu": "Csodálja meg e kulturális központ modern építészetét, amely kiváló előadásokat kínál, és látogatás előtt mindenképpen ellenőrizze a napi aktuális műsorfüzetet.",
+            "ro": "Admirați arhitectura modernă a acestui centru cultural care oferă spectacole de primă clasă și verificați programul în prealabil pentru evenimentele din acea zi.",
+            "en": "Admire the modern architecture of this cultural hub offering world-class performances, and always check the schedule in advance to catch a fantastic daytime event."
+          }
+        },
+        {
+          "name": {
+            "de": "Festa Fantástica",
+            "hu": "Festa Fantástica",
+            "ro": "Festa Fantástica",
+            "en": "Festa Fantástica"
+          },
+          "coords": [
+            -8.536394,
+            37.139718
+          ],
+          "category": "cultural",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie lebendige lokale Traditionen und farbenfrohe Kunstwerke an diesem kulturellen Treffpunkt, aber bringen Sie etwas Bargeld für kleine Souvenirs mit.",
+            "hu": "Tapasztalja meg az élő helyi hagyományokat és a színes művészeti alkotásokat ezen a kulturális találkozóhelyen, de hozzon magával némi készpénzt az ajándékokra.",
+            "ro": "Experimentați tradițiile locale vii și operele de artă colorate în acest spațiu cultural, dar aduceți cu dumneavoastră niște numerar pentru a achiziționa suveniruri.",
+            "en": "Experience vibrant local traditions and colorful artworks at this cultural gathering space, but make sure to bring some cash with you for purchasing small souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Portimao Museum",
+            "hu": "Portimao Museum",
+            "ro": "Portimao Museum",
+            "en": "Portimao Museum"
+          },
+          "coords": [
+            -8.534512,
+            37.130669
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Vergangenheit und die Geschichte der Fischkonservenindustrie ein, während Sie die alten Fabrikhallen bei einem geführten Rundgang erkunden.",
+            "hu": "Merüljön el a tengeri múltban és a halkonzervipar történetében, miközben egy vezetett túra keretében felfedezi a régi, gondosan felújított gyárépület termeit.",
+            "ro": "Scufundați-vă în trecutul maritim și în istoria industriei conservelor de pește în timp ce explorați vechile hale ale fabricii în timpul unui tur ghidat detaliat.",
+            "en": "Dive into the maritime past and the history of the fish canning industry while exploring the old factory halls on a detailed guided tour to maximize your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -8.529682,
+            37.116549
+          ],
+          "category": "fortress",
+          "arrive_at": "16:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den Yachthafen von dieser historischen Festung aus und besuchen Sie den Ort bei Sonnenuntergang für die besten Fotos.",
+            "hu": "Élvezze a lélegzetelállító panorámát a kikötőre ebből a történelmi erődből, és mindenképpen naplemente idején látogasson el ide a legszebb fotók elkészítéséhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare asupra portului de agrement din această fortăreață istorică și vizitați locul la apus pentru cele mai bune fotografii.",
+            "en": "Enjoy the breathtaking panoramic view of the marina from this historic fortress, and make sure to time your visit right before sunset for the best photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Morgen in Portimão beginnt im Herzen der Stadt, wo die historischen Ausstellungen des Museu Diogo Gonçalves die ersten kulturellen Eindrücke vermitteln. Danach geht es weiter zum architektonisch reizvollen Teatro Municipal für eine Dosis lokaler Kunst. Am Nachmittag tauchen wir im Portimão Museum in die faszinierende Fischereigeschichte ein. Der Tag endet perfekt an der historischen Festung Santa Catarina.",
+        "hu": "Egy portimãói reggel a város szívében kezdődik, ahol a Museu Diogo Gonçalves történelmi kiállításai adják meg az első kulturális benyomásokat. Ezután az építészetileg vonzó Teatro Municipal felé vesszük az irányt a helyi művészetért. Délután a Portimão Múzeumban elmélyedünk a halászat lenyűgöző történetében. A nap tökéletesen zárul a Santa Catarina történelmi erődítményének felfedezésével.",
+        "ro": "O dimineață în Portimão începe în inima orașului, unde expozițiile istorice ale Muzeului Diogo Gonçalves oferă primele impresii culturale. Apoi mergem la Teatrul Municipal, atractiv din punct de vedere arhitectural, pentru arta locală. După-amiaza ne cufundăm în istoria pescuitului la Muzeul Portimão. Ziua se încheie perfect la cetatea istorică Santa Catarina, bucurându-ne de priveliștile superbe asupra mării.",
+        "en": "A morning in Portimão begins in the very heart of the city, where the historic exhibitions of the Museu Diogo Gonçalves provide your first cultural impressions. Next, we head to the architecturally attractive Teatro Municipal for a dose of local art. In the afternoon, we dive deep into fishing history at the fantastic Portimão Museum. The day ends perfectly exploring the historic Santa Catarina fortress."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portimao Museum",
+            "hu": "Portimao Museum",
+            "ro": "Portimao Museum",
+            "en": "Portimao Museum"
+          },
+          "coords": [
+            -8.534512,
+            37.130669
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Vergangenheit und die Geschichte der Fischkonservenindustrie ein, während Sie die alten Fabrikhallen bei einem geführten Rundgang erkunden.",
+            "hu": "Merüljön el a tengeri múltban és a halkonzervipar történetében, miközben egy vezetett túra keretében felfedezi a régi, gondosan felújított gyárépület termeit.",
+            "ro": "Scufundați-vă în trecutul maritim și în istoria industriei conservelor de pește în timp ce explorați vechile hale ale fabricii în timpul unui tur ghidat detaliat.",
+            "en": "Dive into the maritime past and the history of the fish canning industry while exploring the old factory halls on a detailed guided tour to maximize your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -8.529682,
+            37.116549
+          ],
+          "category": "fortress",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den Yachthafen von dieser historischen Festung aus und besuchen Sie den Ort bei Sonnenuntergang für die besten Fotos.",
+            "hu": "Élvezze a lélegzetelállító panorámát a kikötőre ebből a történelmi erődből, és mindenképpen naplemente idején látogasson el ide a legszebb fotók elkészítéséhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare asupra portului de agrement din această fortăreață istorică și vizitați locul la apus pentru cele mai bune fotografii.",
+            "en": "Enjoy the breathtaking panoramic view of the marina from this historic fortress, and make sure to time your visit right before sunset for the best photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Rocha",
+            "hu": "Praia da Rocha",
+            "ro": "Praia da Rocha",
+            "en": "Praia da Rocha"
+          },
+          "coords": [
+            -8.536273,
+            37.115647
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ikonischen goldenen Sandstrand, der für seine beeindruckenden Felsformationen berühmt ist, und mieten Sie einen Schirm für optimalen Schatten.",
+            "hu": "Pihenjen ezen az ikonikus aranyhomokos strandon, amely lenyűgöző sziklaalakzatairól híres, és béreljen egy napernyőt az optimális árnyék és kényelem érdekében.",
+            "ro": "Relaxați-vă pe această plajă iconică cu nisip auriu, renumită pentru formațiunile sale stâncoase impresionante, și închiriați o umbrelă pentru umbră optimă.",
+            "en": "Relax on this iconic golden sand beach that is famous for its impressive rock formations, and consider renting a comfortable beach umbrella for optimal shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Três Castelos",
+            "hu": "Praia dos Três Castelos",
+            "ro": "Praia dos Três Castelos",
+            "en": "Praia dos Três Castelos"
+          },
+          "coords": [
+            -8.547906,
+            37.117654
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Meereshöhlen und die dramatischen Klippen dieses versteckten Juwels, aber tragen Sie feste Schuhe für den steilen Abstieg zum Strand.",
+            "hu": "Fedezze fel e rejtett gyöngyszem lenyűgöző tengeri barlangjait és drámai szikláit, de feltétlenül viseljen masszív cipőt a partra vezető meredek ereszkedéshez.",
+            "ro": "Explorați peșterile marine fascinante și stâncile dramatice ale acestei bijuterii ascunse, dar purtați încălțăminte rezistentă pentru coborârea abruptă spre plajă.",
+            "en": "Explore the fascinating sea caves and dramatic cliffs of this slightly hidden gem, but make sure to wear sturdy shoes to safely navigate the steep descent down."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Careanos",
+            "hu": "Praia dos Careanos",
+            "ro": "Praia dos Careanos",
+            "en": "Praia dos Careanos"
+          },
+          "coords": [
+            -8.555377,
+            37.119051
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre an dieser malerischen Küste mit fantastischem klarem Wasser, und bringen Sie Ihre eigene Schnorchelausrüstung für Erkundungen mit.",
+            "hu": "Élvezze a nyugodtabb légkört ezen a festői partszakaszon, ahol fantasztikusan tiszta a víz, és hozzon magával saját búvárfelszerelést az aljzat felfedezéséhez.",
+            "ro": "Bucurați-vă de atmosfera mai liniștită de pe această coastă pitorească cu apă fantastic de limpede și aduceți propriul echipament de snorkeling pentru explorare.",
+            "en": "Enjoy the much quieter atmosphere on this picturesque coastline with fantastic clear water, and remember to bring your own snorkeling gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Vau",
+            "hu": "Praia do Vau",
+            "ro": "Praia do Vau",
+            "en": "Praia do Vau"
+          },
+          "coords": [
+            -8.559292,
+            37.119863
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem familienfreundlichen Strand ausklingen, der für seinen heilenden Ton bekannt ist, und probieren Sie ein natürliches Schlammbad aus.",
+            "hu": "Zárja a napot ezen a családbarát strandon, amely gyógyító agyagáról híres, és mindenképpen próbáljon ki egy természetes, frissítő iszapfürdőt a sziklák tövében.",
+            "ro": "Încheiați ziua pe această plajă prietenoasă cu familiile, cunoscută pentru argila sa vindecătoare, și nu ratați ocazia de a încerca o baie naturală cu nămol.",
+            "en": "End your active day at this family-friendly beach that is widely known for its healing clay, and be adventurous enough to try a natural mud bath near the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einer faszinierenden Reise durch die industrielle Vergangenheit der Stadt im preisgekrönten Portimão Museum am Flussufer. Radeln Sie dann zur Festung Santa Catarina für atemberaubende Ausblicke auf die Marina und den Ozean. Der Nachmittag ist ganz den berühmten Klippen und Buchten gewidmet, von der goldenen Praia da Rocha bis zur malerischen Praia dos Careanos. Genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját egy lenyűgöző utazással a város ipari múltjában a díjnyertes, folyóparti Portimão Múzeumban. Ezután tekerjen a Santa Catarina erődhöz, ahonnan lélegzetelállító kilátás nyílik a kikötőre. A délután teljes egészében a híres szikláknak és öblöknek van szentelve, az aranyhomokos Praia da Rocha-tól a festői Praia dos Careanos-ig. Élvezze a varázslatos naplementét a Praia do Vau finom homokján.",
+        "ro": "Începeți turul cu bicicleta cu o călătorie fascinantă prin trecutul industrial al orașului la Muzeul Portimão, premiat și situat pe malul râului. Pedalați apoi spre Fortăreața Santa Catarina pentru vederi uimitoare ale portului. După-amiaza este dedicată în întregime celebrelor stânci și golfuri, de la plaja aurie Praia da Rocha până la pitoreasca Praia dos Careanos. Bucurați-vă de un apus magic la plaja Praia do Vau.",
+        "en": "Begin your bike tour with a fascinating journey through the city's industrial past at the award-winning riverside Portimão Museum. Then, cycle to the Santa Catarina Fortress for breathtaking views of the lovely marina. The afternoon is entirely dedicated to the famous cliffs and coves, from the golden sands of Praia da Rocha to the picturesque Praia dos Careanos. Enjoy a truly magical sunset at Praia do Vau."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 10.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Diogo Gonçalves",
+            "hu": "Museu Diogo Gonçalves",
+            "ro": "Museu Diogo Gonçalves",
+            "en": "Museu Diogo Gonçalves"
+          },
+          "coords": [
+            -8.537572,
+            37.139637
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Portimãos in diesem faszinierenden Museum, das lokale Artefakte beherbergt, und kommen Sie früh, um den Besuchertrubel zu vermeiden.",
+            "hu": "Fedezze fel Portimão gazdag történelmét ebben a lenyűgöző múzeumban, amely helyi leleteket őriz, és érkezzen korán, hogy elkerülje a nagyobb látogatói tömegeket.",
+            "ro": "Descoperiți istoria bogată a orașului Portimão în acest muzeu fascinant care găzduiește artefacte locale și ajungeți devreme pentru a evita mulțimile de vizitatori.",
+            "en": "Discover the rich history of Portimão in this fascinating museum housing local artifacts, and be sure to arrive early in the morning to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Bongard",
+            "hu": "Studio Bongard",
+            "ro": "Studio Bongard",
+            "en": "Studio Bongard"
+          },
+          "coords": [
+            -8.521721,
+            37.126802
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössischen Keramikskulpturen in diesem einzigartigen Gartenatelier, und sprechen Sie mit den anwesenden Künstlern über ihre Inspirationen.",
+            "hu": "Csodálja meg a kortárs kerámiaszobrokat ebben az egyedülálló kerti műteremben, és ha teheti, beszélgessen az ott alkotó művészekkel a különleges inspirációikról.",
+            "ro": "Admirați sculpturile ceramice contemporane din acest studio unic în grădină și asigurați-vă că discutați cu artiștii prezenți despre inspirațiile lor artistice.",
+            "en": "Admire the contemporary ceramic sculptures in this uniquely beautiful garden studio, and take a moment to chat directly with the resident artists about their work."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de São João de Arade",
+            "hu": "Castelo de São João de Arade",
+            "ro": "Castelo de São João de Arade",
+            "en": "Castelo de São João de Arade"
+          },
+          "coords": [
+            -8.52247,
+            37.119599
+          ],
+          "category": "castle",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese imposante Burg aus dem siebzehnten Jahrhundert, die den Fluss bewacht, auch wenn sie privat ist und nur von außen fotografiert werden kann.",
+            "hu": "Csodálja meg ezt az impozáns, tizenhetedik századi folyót őrző várat, és bár magántulajdonban van, kívülről is fantasztikus fényképeket készíthet az épületről.",
+            "ro": "Minunați-vă de acest castel impunător din secolul al șaptesprezecelea care păzește râul, chiar dacă este proprietate privată și poate fi fotografiat doar de afară.",
+            "en": "Marvel at this imposing seventeenth-century castle guarding the lovely river mouth, keeping in mind that it is private property and can only be photographed externally."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Angrinha",
+            "hu": "Praia da Angrinha",
+            "ro": "Praia da Angrinha",
+            "en": "Praia da Angrinha"
+          },
+          "coords": [
+            -8.522726,
+            37.121504
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen, flussseitigen Strand mit Blick auf Portimão entlang, und bringen Sie ein Fernglas mit, um die vorbeifahrenden Boote zu beobachten.",
+            "hu": "Sétáljon végig ezen a csendes, folyóparti strandon, ahonnan remek kilátás nyílik Portimãora, és hozzon távcsövet az elhaladó halászhajók kényelmes megfigyeléséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje liniștite de pe malul râului cu vedere spre Portimão și aduceți binoclu pentru a observa cu atenție bărcile care trec pe apă.",
+            "en": "Stroll along this quiet, riverside beach offering great views right across to Portimão, and bring a pair of binoculars to comfortably watch the passing fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande (Ferragudo)",
+            "hu": "Praia Grande (Ferragudo)",
+            "ro": "Praia Grande (Ferragudo)",
+            "en": "Praia Grande (Ferragudo)"
+          },
+          "coords": [
+            -8.52026,
+            37.116416
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Sandflächen dieses geschützten Strandes, der ideal für ruhiges Schwimmen ist, und besuchen Sie eine der fantastischen Strandbars.",
+            "hu": "Élvezze ennek a védett strandnak a kiterjedt homokos területeit, amely ideális a nyugodt úszáshoz, és látogasson el a környék fantasztikus tengerparti bárjainak egyikébe.",
+            "ro": "Bucurați-vă de întinderile vaste de nisip ale acestei plaje adăpostite, ideală pentru înot liniștit, și vizitați unul dintre barurile fantastice situate pe plajă.",
+            "en": "Enjoy the vast sandy expanses of this sheltered beach that is perfectly ideal for calm swimming, and definitely stop by one of the fantastic beachfront bars for a drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Barranco das Canas",
+            "hu": "Praia do Barranco das Canas",
+            "ro": "Praia do Barranco das Canas",
+            "en": "Praia do Barranco das Canas"
+          },
+          "coords": [
+            -8.564496,
+            37.119214
+          ],
+          "category": "recreational",
+          "arrive_at": "16:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene Bucht, die von majestätischen Klippen umgeben ist, und nehmen Sie sich genug Zeit, um die unberührte Natur abseits der Massen zu genießen.",
+            "hu": "Fedezze fel ezt a fenséges sziklákkal körülvett eldugott öblöt, és szánjon elegendő időt arra, hogy a tömegektől távol élvezze a teljesen érintetlen természetet.",
+            "ro": "Descoperiți acest golf izolat înconjurat de stânci maiestuoase și luați-vă suficient timp pentru a vă bucura de natura absolut neatinsă, departe de aglomerație.",
+            "en": "Discover this incredibly secluded cove surrounded by majestic sandstone cliffs, and take plenty of time to enjoy the completely unspoiled nature away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die städtische Kultur von Portimão mit dem rustikalen Charme der gegenüberliegenden Flussseite in Ferragudo. Wir starten am Museu Diogo Gonçalves und fahren dann über den Fluss, um die kreativen Werke im Studio Bongard zu bewundern. Am Nachmittag erkunden wir das äußere Gelände des majestätischen Castelo de São João und entspannen an den ruhigen Stränden Praia da Angrinha und Praia Grande.",
+        "hu": "Ez az autós túra Portimão városi kultúráját ötvözi a túlparti Ferragudo rusztikus bájával. A Museu Diogo Gonçalves-től indulunk, majd átkelünk a folyón, hogy megcsodáljuk a Studio Bongard kreatív alkotásait. Délután felfedezzük a fenséges Castelo de São João külső területét, és megpihenünk a Praia da Angrinha és a Praia Grande csendes, védett strandjain. A napot a Barranco das Canas lenyűgöző öblében zárjuk.",
+        "ro": "Acest tur auto combină cultura urbană a orașului Portimão cu farmecul rustic al părții opuse a râului în Ferragudo. Începem la Muzeul Diogo Gonçalves și apoi traversăm râul pentru a admira lucrările la Studio Bongard. După-amiaza, explorăm terenurile exterioare ale maiestuosului Castelo de São João și ne relaxăm pe plajele liniștite Praia da Angrinha și Praia Grande. Încheiem ziua la superba plajă Barranco das Canas.",
+        "en": "This car tour perfectly combines the urban culture of Portimão with the rustic charm of the opposite riverside in Ferragudo. We start at the Museu Diogo Gonçalves, then cross the river to admire the creative works at Studio Bongard. In the afternoon, we explore the exterior of the majestic Castelo de São João and relax on the quiet beaches of Praia da Angrinha and Praia Grande. We end at the stunning Barranco das Canas."
+      }
+    }
+  }
+}

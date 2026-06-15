@@ -1,0 +1,497 @@
+{
+  "city_id": "bogor-cities-v2",
+  "anchor": {
+    "name": "Bogor",
+    "coords": [
+      106.798,
+      -6.595
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Nasional Sejarah Alam Indonesia",
+            "hu": "Museum Nasional Sejarah Alam Indonesia",
+            "ro": "Museum Nasional Sejarah Alam Indonesia",
+            "en": "Museum Nasional Sejarah Alam Indonesia"
+          },
+          "coords": [
+            106.793872,
+            -6.598791
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche botanische Geschichte und das landwirtschaftliche Erbe Indonesiens und planen Sie genug Zeit für die Gewürzausstellungen ein.",
+            "hu": "Fedezze fel Indonézia gazdag botanikai történetét és mezőgazdasági örökségét, ügyelve arra, hogy elegendő időt szánjon a lenyűgöző fűszerkiállításokra.",
+            "ro": "Explorați bogata istorie botanică și patrimoniul agricol al Indoneziei, asigurându-vă că alocați suficient timp pentru expozițiile detaliate de condimente.",
+            "en": "Explore the rich botanical history and agricultural heritage of Indonesia here, making sure to allocate enough time for the extensive spice exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kepresidenan Balai Kirti",
+            "hu": "Museum Kepresidenan Balai Kirti",
+            "ro": "Museum Kepresidenan Balai Kirti",
+            "en": "Museum Kepresidenan Balai Kirti"
+          },
+          "coords": [
+            106.795662,
+            -6.598082
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Vermächtnisse vergangener Präsidenten anhand persönlicher Artefakte, aber vergessen Sie nicht Ihren Ausweis, der für den Eintritt erforderlich ist.",
+            "hu": "Ismerje meg a múltbeli indonéz elnökök örökségét személyes tárgyaikon keresztül, de hozzon magával érvényes igazolványt, mivel az a belépéshez kötelező.",
+            "ro": "Descoperiți moștenirile foștilor președinți prin artefacte personale, dar nu uitați să aduceți un act de identitate valabil, necesar pentru intrare.",
+            "en": "Discover the legacies of Indonesia's past presidents through personal artifacts, but remember to bring a valid ID as it is required for entry into the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Devries",
+            "hu": "Pasar Devries",
+            "ro": "Pasar Devries",
+            "en": "Pasar Devries"
+          },
+          "coords": [
+            106.787437,
+            -6.595806
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Markt, um den geschäftigen Handel zu erleben, und probieren Sie unbedingt die traditionellen sundanesischen Snacks.",
+            "hu": "Sétáljon végig ezen a történelmi piacon, hogy megtapasztalja a nyüzsgő helyi kereskedelmet, és mindenképpen kóstolja meg a szundanéz finomságokat.",
+            "ro": "Plimbați-vă prin această piață istorică pentru a simți pulsul comerțului local și nu ratați ocazia de a gusta gustările tradiționale sundaneze.",
+            "en": "Wander through this historic market to experience the bustling local commerce, and be sure to try some traditional Sundanese snacks sold by street vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Perjuangan",
+            "hu": "Museum Perjuangan",
+            "ro": "Museum Perjuangan",
+            "en": "Museum Perjuangan"
+          },
+          "coords": [
+            106.788132,
+            -6.593051
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die ergreifenden Artefakte der lokalen Unabhängigkeitskämpfe ein und nehmen Sie sich Zeit, die handgeschriebenen Briefe der Freiheitskämpfer zu lesen.",
+            "hu": "Merüljön el a helyi függetlenségi küzdelmek megható relikviáiban, és szánjon időt a szabadságharcosok részletes, kézzel írott leveleinek elolvasására.",
+            "ro": "Aprofundați-vă în artefactele emoționante ale luptelor pentru independență, luându-vă timp să citiți scrisorile detaliate scrise de luptătorii pentru libertate.",
+            "en": "Delve into the poignant artifacts of Bogor's local independence struggles, taking a moment to read the detailed, handwritten letters from freedom fighters."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Pantekosta Tabernakel PNIEL",
+            "hu": "Gereja Pantekosta Tabernakel PNIEL",
+            "ro": "Gereja Pantekosta Tabernakel PNIEL",
+            "en": "Gereja Pantekosta Tabernakel PNIEL"
+          },
+          "coords": [
+            106.793367,
+            -6.591143
+          ],
+          "category": "religious",
+          "arrive_at": "15:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser aktiven Pfingstkirche und halten Sie während der Gottesdienste respektvollen Abstand, um nicht zu stören.",
+            "hu": "Csodálja meg ezen aktív pünkösdi templom lenyűgöző építészetét, de istentiszteletek idején tartson tisztes távolságot, hogy ne zavarja a hívőket.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici penticostale active, păstrând o distanță respectuoasă în timpul slujbelor pentru a nu deranja credincioșii.",
+            "en": "Admire the striking mid-century architecture of this active Pentecostal church, keeping a respectful distance during service hours to avoid disrupting worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pembela Tanah Air",
+            "hu": "Museum Pembela Tanah Air",
+            "ro": "Museum Pembela Tanah Air",
+            "en": "Museum Pembela Tanah Air"
+          },
+          "coords": [
+            106.796335,
+            -6.585193
+          ],
+          "category": "museum",
+          "arrive_at": "16:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch spannende Dioramen mehr über die Gründung der indonesischen Nationalarmee und machen Sie Fotos mit den historischen gepanzerten Fahrzeugen im Hof.",
+            "hu": "Ismerje meg az indonéz nemzeti hadsereg megalakulását a lenyűgöző diorámákon keresztül, és fotózkodjon az udvaron kiállított történelmi páncélozott járművekkel.",
+            "ro": "Aflați despre formarea armatei naționale indoneziene prin diorame captivante și faceți fotografii cu vehiculele blindate istorice expuse în curte.",
+            "en": "Learn about the formation of Indonesia's national army through engaging dioramas, and take photos with the historic armored vehicles displayed in the courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem tiefen Einblick in die Natur- und Politikgeschichte Indonesiens in zwei großen Museen im Stadtzentrum. Erleben Sie mittags die lebhafte lokale Kultur auf dem Pasar Devries, bevor Sie zu den Ausstellungen des Unabhängigkeitskampfes übergehen. Der Nachmittag geht in spirituelle und architektonische Sehenswürdigkeiten bei lokalen Kirchen über. Beenden Sie den Tag im PETA-Museum und reflektieren Sie über die Geschichte der Nation.",
+        "hu": "Kezdje a reggelt Indonézia természeti és politikai történelmének felfedezésével két jelentős múzeumban a városközpontban. Délben tapasztalja meg az élénk helyi kultúrát a Pasar Devries piacon, majd tekintse meg a függetlenségi küzdelmek kiállításait. A délután spirituális és építészeti látnivalókkal folytatódik a helyi templomoknál. Zárja a napot a PETA Múzeum katonai történelmének felfedezésével, a nemzet múltjára reflektálva.",
+        "ro": "Începeți dimineața cu o scufundare profundă în istoria naturală și politică a Indoneziei explorând două muzee majore din centrul orașului. La prânz, experimentați cultura locală vibrantă la Pasar Devries înainte de a trece la expozițiile luptei pentru independență. După-amiaza face tranziția către atracții spirituale și arhitecturale la bisericile locale. Încheiați-vă ziua explorând istoria militară la Muzeul PETA, reflectând asupra parcursului națiunii.",
+        "en": "Start your morning with a deep dive into Indonesia's natural and political history by exploring two major museums located right in the city center. By midday, experience the lively local culture at Pasar Devries before moving on to the moving exhibits of the struggle for independence. The afternoon transitions to spiritual and architectural sights as you visit local churches. Conclude your day exploring the military history at the PETA Museum, reflecting on the nation's journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Gunung Batu",
+            "hu": "Pasar Gunung Batu",
+            "ro": "Pasar Gunung Batu",
+            "en": "Pasar Gunung Batu"
+          },
+          "coords": [
+            106.778067,
+            -6.59416
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem traditionellen Markt mit frischen lokalen Produkten, aber kommen Sie früh, um die beste Auswahl an tropischen Früchten zu erhalten.",
+            "hu": "Kezdje túráját ezen a hagyományos piacon, amely friss helyi termékeket kínál, de érkezzen korán, hogy a legjobb trópusi gyümölcsökből válogathasson.",
+            "ro": "Începeți plimbarea la această piață tradițională cu produse locale proaspete, dar ajungeți devreme pentru a obține cea mai bună selecție de fructe tropicale.",
+            "en": "Start your ride at this traditional market offering an array of fresh local produce, but arrive early to get the best selection of exotic tropical fruits."
+          }
+        },
+        {
+          "name": {
+            "de": "Punden Berundak Gunung Batu",
+            "hu": "Punden Berundak Gunung Batu",
+            "ro": "Punden Berundak Gunung Batu",
+            "en": "Punden Berundak Gunung Batu"
+          },
+          "coords": [
+            106.778229,
+            -6.595631
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese alten terrassenförmigen Megalithstrukturen in der Nachbarschaft und tragen Sie griffige Schuhe, um sicher auf den unebenen Steinwegen zu gehen.",
+            "hu": "Csodálja meg a környéken megbúvó ősi, teraszos megalitikus építményeket, és viseljen jó tapadású cipőt, hogy biztonságosan mozogjon az egyenetlen köveken.",
+            "ro": "Minunați-vă de aceste structuri megalitice terasate ascunse în cartier și purtați încălțăminte cu aderență bună pentru a naviga în siguranță pe cărările pietroase.",
+            "en": "Marvel at these ancient terraced megalithic structures tucked away in the neighborhood, and wear shoes with good grip to safely navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tangga Kesuksesan",
+            "hu": "Tangga Kesuksesan",
+            "ro": "Tangga Kesuksesan",
+            "en": "Tangga Kesuksesan"
+          },
+          "coords": [
+            106.78371,
+            -6.5854
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese historischen Stufen, die den Weg zum Erfolg symbolisieren, und machen Sie vorsichtige Schritte, um die Aussicht zu genießen und nicht zu ermüden.",
+            "hu": "Mássza meg a siker útját szimbolizáló történelmi lépcsőket, óvatos és egyenletes lépésekkel haladva, hogy élvezze a kilátást és elkerülje a kimerültséget.",
+            "ro": "Urcați aceste trepte istorice care simbolizează calea spre succes, făcând pași atenți pentru a aprecia pe deplin priveliștile și a evita oboseala rapidă.",
+            "en": "Climb these historic steps symbolizing the path to success in local lore, taking careful, paced steps to fully appreciate the views and avoid quick fatigue."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Perjuangan",
+            "hu": "Museum Perjuangan",
+            "ro": "Museum Perjuangan",
+            "en": "Museum Perjuangan"
+          },
+          "coords": [
+            106.788132,
+            -6.593051
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die Geschichte des erbitterten Widerstands in Bogor und betrachten Sie die faszinierende Sammlung erbeuteter Waffen.",
+            "hu": "Fedezze fel Bogor ádáz ellenállásának történetét ebben a múzeumban, és mindenképpen szemlélje meg a zsákmányolt külföldi fegyverek lenyűgöző gyűjteményét.",
+            "ro": "Descoperiți istoria rezistenței acerbe din Bogor în acest muzeu, asigurându-vă că inspectați colecția fascinantă de armament străin capturat.",
+            "en": "Uncover the fierce resistance history of Bogor in this museum, making sure to inspect the fascinating collection of captured foreign weaponry."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pembela Tanah Air",
+            "hu": "Museum Pembela Tanah Air",
+            "ro": "Museum Pembela Tanah Air",
+            "en": "Museum Pembela Tanah Air"
+          },
+          "coords": [
+            106.796335,
+            -6.585193
+          ],
+          "category": "museum",
+          "arrive_at": "14:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um die Ursprünge der indonesischen Streitkräfte zu erkunden, und konzentrieren Sie sich besonders auf die echten Panzer im Außenbereich.",
+            "hu": "Parkolja le kerékpárját, hogy felfedezze az indonéz katonai erők eredetét, különös figyelmet fordítva a szabadtéri kiállításokra, ahol a valódi tankok állnak.",
+            "ro": "Parcați bicicleta pentru a explora originile forțelor militare indoneziene, concentrându-vă în special pe expozițiile în aer liber unde sunt expuse tancurile autentice.",
+            "en": "Park your bike to explore the origins of the Indonesian military forces, focusing specifically on the outdoor exhibits where the authentic tanks are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Mancur",
+            "hu": "Air Mancur",
+            "ro": "Air Mancur",
+            "en": "Air Mancur"
+          },
+          "coords": [
+            106.796874,
+            -6.580978
+          ],
+          "category": "historical",
+          "arrive_at": "16:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ikonischen Springbrunnen, holen Sie sich ein erfrischendes Getränk von einem Verkäufer und beobachten Sie den Stadtverkehr.",
+            "hu": "Zárja kerékpáros útját ennél az ikonikus központi szökőkútnál, vegyen egy frissítő italt egy közeli árustól, és figyelje a város dinamikus forgalmát.",
+            "ro": "Încheiați-vă călătoria cu bicicleta la acest sens giratoriu cu fântână, luând o băutură răcoritoare de la un vânzător în timp ce priviți traficul dinamic.",
+            "en": "End your cycling journey at this iconic central fountain roundabout, grabbing a refreshing drink from a nearby vendor while watching the dynamic city traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am westlichen Stadtrand, mischen Sie sich auf dem Markt unter die Einheimischen, bevor Sie alte Terrassen entdecken. Mittags radeln Sie zur historischen Tangga Kesuksesan und erhaschen Blicke auf Bogors Landschaften. Am Nachmittag tauchen Sie tief in die heroische Vergangenheit der Stadt ein und besuchen wichtige Militärmuseen. Ihre Tour endet am berühmten Air Mancur, einem perfekten Ort zum Entspannen.",
+        "hu": "Kezdje a kerékpározást a város nyugati szélén, elvegyülve a helyiekkel a piacon, mielőtt felfedezné a rejtett ősi teraszokat. Délben tekerjen a történelmi Tangga Kesuksesan felé, megcsodálva Bogor változó tájait. Délután merüljön el a város hősies múltjában a katonai és függetlenségi múzeumok meglátogatásával. Útja az ikonikus Air Mancur szökőkútnál ér véget, amely tökéletes hely a kikapcsolódásra az este közeledtével.",
+        "ro": "Începeți ziua de ciclism la marginea vestică a orașului, amestecându-vă cu localnicii la piață înainte de a descoperi terase antice ascunse. În jurul prânzului, pedalați spre istoricul Tangga Kesuksesan, surprinzând peisajele schimbătoare din Bogor. După-amiaza, pătrundeți în trecutul eroic al orașului vizitând muzee militare. Călătoria se încheie la fântâna emblematică Air Mancur, locul perfect pentru a vă relaxa seara.",
+        "en": "Kick off your cycling day on the city's western edge, mingling with locals at the vibrant Gunung Batu market before discovering hidden ancient terraces nearby. Around midday, pedal towards the historic Tangga Kesuksesan, catching glimpses of Bogor's changing landscapes. In the afternoon, dive deep into the city's heroic past by visiting pivotal military and independence museums. Your ride concludes at the iconic Air Mancur fountain, a perfect place to relax as evening falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Punden Berundak Gunung Batu",
+            "hu": "Punden Berundak Gunung Batu",
+            "ro": "Punden Berundak Gunung Batu",
+            "en": "Punden Berundak Gunung Batu"
+          },
+          "coords": [
+            106.778229,
+            -6.595631
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese alten terrassenförmigen Megalithstrukturen in der Nachbarschaft und tragen Sie griffige Schuhe, um sicher auf den unebenen Steinwegen zu gehen.",
+            "hu": "Csodálja meg a környéken megbúvó ősi, teraszos megalitikus építményeket, és viseljen jó tapadású cipőt, hogy biztonságosan mozogjon az egyenetlen köveken.",
+            "ro": "Minunați-vă de aceste structuri megalitice terasate ascunse în cartier și purtați încălțăminte cu aderență bună pentru a naviga în siguranță pe cărările pietroase.",
+            "en": "Marvel at these ancient terraced megalithic structures tucked away in the neighborhood, and wear shoes with good grip to safely navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Devries",
+            "hu": "Pasar Devries",
+            "ro": "Pasar Devries",
+            "en": "Pasar Devries"
+          },
+          "coords": [
+            106.787437,
+            -6.595806
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Markt, um den geschäftigen Handel zu erleben, und probieren Sie unbedingt die traditionellen sundanesischen Snacks.",
+            "hu": "Sétáljon végig ezen a történelmi piacon, hogy megtapasztalja a nyüzsgő helyi kereskedelmet, és mindenképpen kóstolja meg a szundanéz finomságokat.",
+            "ro": "Plimbați-vă prin această piață istorică pentru a simți pulsul comerțului local și nu ratați ocazia de a gusta gustările tradiționale sundaneze.",
+            "en": "Wander through this historic market to experience the bustling local commerce, and be sure to try some traditional Sundanese snacks sold by street vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Nasional Sejarah Alam Indonesia",
+            "hu": "Museum Nasional Sejarah Alam Indonesia",
+            "ro": "Museum Nasional Sejarah Alam Indonesia",
+            "en": "Museum Nasional Sejarah Alam Indonesia"
+          },
+          "coords": [
+            106.793872,
+            -6.598791
+          ],
+          "category": "museum",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche botanische Geschichte und das landwirtschaftliche Erbe Indonesiens und planen Sie genug Zeit für die Gewürzausstellungen ein.",
+            "hu": "Fedezze fel Indonézia gazdag botanikai történetét és mezőgazdasági örökségét, ügyelve arra, hogy elegendő időt szánjon a lenyűgöző fűszerkiállításokra.",
+            "ro": "Explorați bogata istorie botanică și patrimoniul agricol al Indoneziei, asigurându-vă că alocați suficient timp pentru expozițiile detaliate de condimente.",
+            "en": "Explore the rich botanical history and agricultural heritage of Indonesia here, making sure to allocate enough time for the extensive spice exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pembela Tanah Air",
+            "hu": "Museum Pembela Tanah Air",
+            "ro": "Museum Pembela Tanah Air",
+            "en": "Museum Pembela Tanah Air"
+          },
+          "coords": [
+            106.796335,
+            -6.585193
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch spannende Dioramen mehr über die Gründung der indonesischen Nationalarmee und machen Sie Fotos mit den historischen gepanzerten Fahrzeugen im Hof.",
+            "hu": "Ismerje meg az indonéz nemzeti hadsereg megalakulását a lenyűgöző diorámákon keresztül, és fotózkodjon az udvaron kiállított történelmi páncélozott járművekkel.",
+            "ro": "Aflați despre formarea armatei naționale indoneziene prin diorame captivante și faceți fotografii cu vehiculele blindate istorice expuse în curte.",
+            "en": "Learn about the formation of Indonesia's national army through engaging dioramas, and take photos with the historic armored vehicles displayed in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Muhajirin",
+            "hu": "Masjid Al Muhajirin",
+            "ro": "Masjid Al Muhajirin",
+            "en": "Masjid Al Muhajirin"
+          },
+          "coords": [
+            106.814111,
+            -6.580088
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser Moschee. Kleiden Sie sich bescheiden und prüfen Sie die Gebetszeiten, um Einschränkungen bei Ihrem Besuch zu vermeiden.",
+            "hu": "Tapasztalja meg e nagyszerű mecset békés légkörét, ügyelve a szerény öltözködésre és az imaidők előzetes ellenőrzésére, hogy a belső tér szabadon látogatható legyen.",
+            "ro": "Experimentați atmosfera senină a acestei mari moschei, asigurându-vă că vă îmbrăcați modest și verificați programul de rugăciune pentru a nu restricționa vizita.",
+            "en": "Experience the serene atmosphere of this grand mosque, ensuring you dress modestly and check the prayer schedule beforehand to avoid restricting your interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Goodyear",
+            "hu": "Goodyear",
+            "ro": "Goodyear",
+            "en": "Goodyear"
+          },
+          "coords": [
+            106.794791,
+            -6.576215
+          ],
+          "category": "cultural",
+          "arrive_at": "15:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beachten Sie beim Vorbeifahren das industrielle Erbe der legendären Goodyear-Anlage, ein starker Kontrast zum botanischen Flair Bogors, der die Entwicklung zeigt.",
+            "hu": "Autózás közben vegye észre az ikonikus Goodyear létesítmény ipari örökségét, amely éles ellentétben áll Bogor botanikus hangulatával, és a város fejlődését emeli ki.",
+            "ro": "Observați moștenirea industrială a facilității Goodyear în timp ce conduceți pe lângă ea, un contrast puternic cu atmosfera botanică ce subliniază dezvoltarea orașului.",
+            "en": "Notice the massive industrial heritage of the iconic Goodyear facility as you drive by, a stark contrast to Bogor's botanical vibe that highlights the city's development."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Mancur",
+            "hu": "Air Mancur",
+            "ro": "Air Mancur",
+            "en": "Air Mancur"
+          },
+          "coords": [
+            106.796874,
+            -6.580978
+          ],
+          "category": "historical",
+          "arrive_at": "16:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ikonischen Springbrunnen, holen Sie sich ein erfrischendes Getränk von einem Verkäufer und beobachten Sie den Stadtverkehr.",
+            "hu": "Zárja kerékpáros útját ennél az ikonikus központi szökőkútnál, vegyen egy frissítő italt egy közeli árustól, és figyelje a város dinamikus forgalmát.",
+            "ro": "Încheiați-vă călătoria cu bicicleta la acest sens giratoriu cu fântână, luând o băutură răcoritoare de la un vânzător în timp ce priviți traficul dinamic.",
+            "en": "End your cycling journey at this iconic central fountain roundabout, grabbing a refreshing drink from a nearby vendor while watching the dynamic city traffic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt in den Außenbezirken und entdeckt alte Megalithen, bevor sie bequem zum belebten Erbe des Pasar Devries führt. Mittags erreichen Sie das Herz der städtischen Naturgeschichte im Nationalmuseum. Der Nachmittag ermöglicht einen einfachen Transfer zu militärischen Stätten und der majestätischen Moschee. Schließlich bringt Sie eine malerische Fahrt vorbei an industriellen Wahrzeichen rechtzeitig zum Sonnenuntergang zum Air Mancur.",
+        "hu": "Autós túrája a külvárosban kezdődik ősi megalitok felfedezésével, majd kényelmesen áttér a nyüzsgő Pasar Devries örökségére. A dél a város természettörténetének szívébe viszi a nemzeti múzeumban. A délután könnyű átjutást tesz lehetővé a katonai helyszínekhez és a fenséges mecsethez. Végül egy festői autózás a történelmi ipari műemlékek mellett naplementekor a nyüzsgő Air Mancurnál ér véget.",
+        "ro": "Turul auto începe la periferie, descoperind megaliți antici înainte de a vă deplasa confortabil spre moștenirea vibrantă de la Pasar Devries. Prânzul vă aduce chiar în inima istoriei naturale a orașului, la muzeul național. După-amiaza permite un tranzit ușor către siturile militare și maiestuoasa moschee. În cele din urmă, o croazieră pitorească pe lângă reperele industriale vă lasă la vibrantul Air Mancur chiar la timp pentru apus.",
+        "en": "Your driving tour begins on the outskirts, uncovering ancient megaliths before moving comfortably to the bustling heritage of Pasar Devries. Midday brings you right to the heart of the city's renowned natural history at the national museum. The afternoon allows for easy transit to monumental military sites and the majestic Masjid Al Muhajirin. Finally, a scenic cruise past historic industrial landmarks drops you at the vibrant Air Mancur just in time for sunset."
+      }
+    }
+  }
+}

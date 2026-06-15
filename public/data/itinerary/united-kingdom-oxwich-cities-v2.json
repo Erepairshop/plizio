@@ -1,0 +1,474 @@
+{
+  "city_id": "united-kingdom-oxwich-cities-v2",
+  "anchor": {
+    "name": "Oxwich",
+    "coords": [
+      -4.16596,
+      51.5584
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell Oxwich",
+            "hu": "Castell Oxwich",
+            "ro": "Castell Oxwich",
+            "en": "Castell Oxwich"
+          },
+          "coords": [
+            -4.168256,
+            51.555515
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses grandiosen Tudor-Herrenhauses voller historischer Eleganz und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu meistern.",
+            "hu": "Fedezze fel e fenséges Tudor-kúria történelmi eleganciát sugárzó romjait, és mindenképpen viseljen masszív cipőt, hogy biztonságosan közlekedjen az egyenetlen terepen.",
+            "ro": "Explorați ruinele acestui grandios conac Tudor ce emană eleganță istorică și asigurați-vă că purtați încălțăminte robustă pentru a parcurge în siguranță terenul accidentat.",
+            "en": "Explore the ruins of this grand Tudor manor house showcasing historical elegance, and be sure to wear sturdy shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Illtyd's",
+            "hu": "St. Illtyd's",
+            "ro": "St. Illtyd's",
+            "en": "St. Illtyd's"
+          },
+          "coords": [
+            -4.159004,
+            51.554051
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Steinarchitektur dieser ruhigen Küstenkirche, die Jahrhunderte des Glaubens widerspiegelt, und besuchen Sie sie morgens für das schönste Licht.",
+            "hu": "Csodálja meg e békés tengerparti templom évszázados hitet tükröző, ősi kőépítészetét, és érkezzen a reggeli órákban, hogy élvezhesse a gyönyörűen beáramló fényeket.",
+            "ro": "Admirați arhitectura veche din piatră a acestei biserici de coastă care reflectă secole de credință și veniți dimineața pentru a vă bucura de lumina frumoasă care pătrunde.",
+            "en": "Admire the ancient stone architecture of this serene coastal church that reflects centuries of faith, and visit during morning hours to enjoy the beautiful light pouring in."
+          }
+        },
+        {
+          "name": {
+            "de": "Oxwich Bay",
+            "hu": "Oxwich Bay",
+            "ro": "Oxwich Bay",
+            "en": "Oxwich Bay"
+          },
+          "coords": [
+            -4.151036,
+            51.561547
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Sandstränden dieser herrlichen Bucht, die für ihre natürliche Pracht bekannt ist, und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
+            "hu": "Pihenjen meg a természeti pompájáról ismert öböl hosszan elnyúló homokos partjain, és csomagoljon egy könnyű pikniket, hogy a lágy hullámokat figyelve ebédelhessen.",
+            "ro": "Relaxați-vă pe malurile nisipoase întinse ale acestui golf recunoscut pentru splendoarea sa naturală și luați un mic picnic pentru un prânz liniștit privind valurile.",
+            "en": "Relax on the sweeping sandy shores of this beautiful bay known for its natural splendor, and pack a light picnic to enjoy a tranquil lunch while watching the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicholaston Beach",
+            "hu": "Nicholaston Beach",
+            "ro": "Nicholaston Beach",
+            "en": "Nicholaston Beach"
+          },
+          "coords": [
+            -4.134241,
+            51.567664
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der friedlichen Dünen dieses einsamen Strandes mit atemberaubendem Meerblick und bringen Sie eine Windjacke mit, da die Brise am Nachmittag frisch wird.",
+            "hu": "Sétáljon végig a lélegzetelállító tengerparti kilátást nyújtó, félreeső strand békés dűnéin, de hozzon magával széldzsekit, mivel a parti szél délután meglehetősen erős lehet.",
+            "ro": "Plimbați-vă de-a lungul dunelor pașnice ale acestei plaje izolate cu priveliști marine uluitoare și aduceți o jachetă de vânt, deoarece briza poate fi destul de rece după-amiaza.",
+            "en": "Stroll along the peaceful dunes of this secluded beach offering breathtaking seaside views, and bring a windbreaker as the coastal breezes can be quite brisk in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Perriswood Archery & Falconry Centre",
+            "hu": "Perriswood Archery & Falconry Centre",
+            "ro": "Perriswood Archery & Falconry Centre",
+            "en": "Perriswood Archery & Falconry Centre"
+          },
+          "coords": [
+            -4.156551,
+            51.577753
+          ],
+          "category": "landmark",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Raubvögel und testen Sie Ihre Zielsicherheit in diesem einzigartigen Zentrum; buchen Sie jedoch im Voraus, um sich Ihren Platz zu sichern.",
+            "hu": "Lépjen kapcsolatba a fenséges ragadozómadarakkal és tegye próbára célzó tudását ebben az egyedülálló íjászközpontban, de mindenképp foglaljon előre időpontot a zsúfolt napokon.",
+            "ro": "Interacționați cu păsări de pradă magnifice și testați-vă precizia la acest centru unic de tir, dar nu uitați să rezervați din timp pentru a vă asigura locul în zilele aglomerate.",
+            "en": "Engage with magnificent birds of prey and test your aim at this unique archery center, but remember to book your sessions in advance to secure your spot during busy times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit den Ruinen von Castell Oxwich, gefolgt von einem kurzen Spaziergang zur alten Kirche St. Illtyd's. Mittags erreichen Sie den weiten Sandstrand von Oxwich Bay, ideal für ein entspanntes Mittagessen am Meer. Am Nachmittag geht es weiter zum Nicholaston Beach, wo friedliche Dünen spektakuläre Küstenpanoramen bieten. Der Abend endet im Perriswood Centre mit einer unvergesslichen Bogenschieß-Session bei Sonnenuntergang.",
+        "hu": "A délelőtt a Castell Oxwich nagyszerű romjainál kezdődik, történelmi hangulatot teremtve, mielőtt a St. Illtyd's templomhoz sétál. Délben az Oxwich-öböl hosszan elnyúló homokja várja, amely tökéletes egy pihentető tengerparti ebédhez. Délután a Nicholaston strand felé veszi az irányt, ahol a békés dűnék lenyűgöző panorámát nyújtanak. Az estét a Perriswood Központban zárja, ahol egy emlékezetes íjászkodás várja a naplementében.",
+        "ro": "Dimineața începe cu ruinele de la Castell Oxwich, stabilind un ton istoric, urmată de o scurtă plimbare până la biserica St. Illtyd's. La prânz ajungeți la nisipurile întinse din Oxwich Bay, perfecte pentru un prânz relaxant pe litoral. După-amiaza continuați spre plaja Nicholaston, unde dunele liniștite oferă panorame spectaculoase. Seara se încheie la Centrul Perriswood, cu o sesiune memorabilă de tir cu arcul la apus.",
+        "en": "Your morning starts with the grand ruins of Castell Oxwich, setting a historical tone for the day before a short walk to the ancient St. Illtyd's church. Midday brings you to the sweeping sands of Oxwich Bay, perfect for a relaxing seaside lunch and a gentle stroll. In the afternoon, you continue to Nicholaston Beach, where serene dunes offer spectacular coastal panoramas. The evening concludes at the Perriswood Centre, allowing for a memorable archery session as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 3.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Penrice Castle",
+            "hu": "Penrice Castle",
+            "ro": "Penrice Castle",
+            "en": "Penrice Castle"
+          },
+          "coords": [
+            -4.170326,
+            51.575245
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Anwesen rund um diese imposanten mittelalterlichen Burgruinen und bleiben Sie auf den markierten Fußwegen, um das Privatgelände zu respektieren.",
+            "hu": "Fedezze fel az impozáns középkori várromokat körülvevő, hatalomról mesélő fenséges birtokot, és maradjon a kijelölt ösvényeken, hogy tiszteletben tartsa a magánterületet.",
+            "ro": "Descoperiți domeniul maiestuos care înconjoară aceste impunătoare ruine medievale pline de istorie și rămâneți pe potecile publice marcate pentru a respecta terenurile private.",
+            "en": "Discover the majestic estate surrounding these imposing medieval castle ruins that tell tales of power, and stick to the marked public footpaths to respect the private grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Andrew",
+            "hu": "St. Andrew",
+            "ro": "St. Andrew",
+            "en": "St. Andrew"
+          },
+          "coords": [
+            -4.175786,
+            51.570151
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Kontemplation in dieser historischen Dorfkirche mit ihren reizvollen Details und nehmen Sie sich Zeit, die alten Grabsteine im Hof zu lesen.",
+            "hu": "Tapasztalja meg a csendes elmélkedést a bájos részletekkel díszített történelmi falusi templomban, és szánjon egy percet az udvaron szétszórt, ősi sírkövek elolvasására.",
+            "ro": "Experimentați contemplarea liniștită în interiorul acestei biserici istorice de sat cu detalii fermecătoare și acordați-vă un moment pentru a citi pietrele funerare antice.",
+            "en": "Experience the quiet contemplation inside this historic village church featuring charming details, and take a moment to read the ancient tombstones scattered in the yard."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Mill",
+            "hu": "Old Mill",
+            "ro": "Old Mill",
+            "en": "Old Mill"
+          },
+          "coords": [
+            -4.176436,
+            51.5726
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser restaurierten Wassermühle in das faszinierende industrielle Erbe ein und fragen Sie die örtlichen Führer nach den komplexen Holzmaschinen im Inneren.",
+            "hu": "Merüljön el a lenyűgöző ipari örökségben ebben a hagyományos őrlést bemutató, felújított vízimalomban, és kérdezze a helyi vezetőket a bonyolult fa gépezetekről.",
+            "ro": "Pătrundeți în fascinanta moștenire industrială la această moară de apă restaurată și întrebați ghizii locali despre mecanismele complexe din lemn aflate în interior.",
+            "en": "Delve into the fascinating industrial heritage at this restored watermill that showcases traditional milling, and ask the local guides about the intricate wooden machinery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Oxwich Towers",
+            "hu": "Oxwich Towers",
+            "ro": "Oxwich Towers",
+            "en": "Oxwich Towers"
+          },
+          "coords": [
+            -4.163663,
+            51.574354
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die mysteriösen architektonischen Merkmale dieser alten Steintürme, die als stille Wächter stehen, und bringen Sie Ihre Kamera für dramatische Schatten mit.",
+            "hu": "Vizsgálja meg e néma őrszemekként álló, régi kőtornyok titokzatos építészeti vonásait, és hozza magával fényképezőgépét, hogy megörökítse a naplemente drámai árnyékait.",
+            "ro": "Examinați caracteristicile arhitecturale misterioase ale acestor vechi turnuri de piatră și aduceți aparatul foto pentru a surprinde umbrele dramatice lăsate la apus.",
+            "en": "Examine the mysterious architectural features of these old stone towers standing as silent sentinels, and bring your camera to capture the dramatic shadows cast during sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicholas's",
+            "hu": "St. Nicholas's",
+            "ro": "St. Nicholas's",
+            "en": "St. Nicholas's"
+          },
+          "coords": [
+            -4.147939,
+            51.575073
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Holzarbeiten und die friedliche Atmosphäre dieses wunderschön erhaltenen Heiligtums und prüfen Sie das schwarze Brett auf Chorproben am Abend.",
+            "hu": "Csodálja meg a gyönyörűen megőrzött szentély bonyolult famunkáit és békés hangulatát, és ellenőrizze a hirdetőtáblán a közelgő esti kóruspróbák időpontjait.",
+            "ro": "Minunați-vă de lemnăria complexă și ambianța pașnică a acestui sanctuar frumos conservat și verificați avizierul pentru orele următoarelor repetiții ale corului.",
+            "en": "Marvel at the intricate woodwork and peaceful ambiance of this beautifully preserved sanctuary, and check the community notice board for timings of upcoming evening choir practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Perriswood Archery & Falconry Centre",
+            "hu": "Perriswood Archery & Falconry Centre",
+            "ro": "Perriswood Archery & Falconry Centre",
+            "en": "Perriswood Archery & Falconry Centre"
+          },
+          "coords": [
+            -4.156551,
+            51.577753
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Raubvögel und testen Sie Ihre Zielsicherheit in diesem einzigartigen Zentrum; buchen Sie jedoch im Voraus, um sich Ihren Platz zu sichern.",
+            "hu": "Lépjen kapcsolatba a fenséges ragadozómadarakkal és tegye próbára célzó tudását ebben az egyedülálló íjászközpontban, de mindenképp foglaljon előre időpontot a zsúfolt napokon.",
+            "ro": "Interacționați cu păsări de pradă magnifice și testați-vă precizia la acest centru unic de tir, dar nu uitați să rezervați din timp pentru a vă asigura locul în zilele aglomerate.",
+            "en": "Engage with magnificent birds of prey and test your aim at this unique archery center, but remember to book your sessions in advance to secure your spot during busy times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des Geländes von Penrice Castle, bevor Sie zur friedlichen Kirche St. Andrew weiterradeln. Mittags entdecken Sie die industrielle Vergangenheit in der wunderschön restaurierten Old Mill, einem faszinierenden Highlight. Ihr Nachmittag führt Sie zu den geheimnisvollen Oxwich Towers und dem erhaltenen Heiligtum St. Nicholas's. Am Abend parken Sie Ihr Rad am Perriswood Centre für spannende Bogenschieß-Aktivitäten.",
+        "hu": "A reggelt a Penrice-kastély lenyűgöző birtokán kezdi, majd a békés St. Andrew templomhoz kerekezik egy kis csendes elmélkedésre. Délben felfedezheti a környék ipari múltját a szépen felújított Öreg Malomnál, amely az útvonal csúcspontja. A délután folyamán a titokzatos Oxwich-tornyokhoz és a csodásan megőrzött St. Nicholas's szentélyhez teker. Az este közeledtével tegye le a kerékpárt a Perriswood Központnál egy vidám íjászat erejéig.",
+        "ro": "Începeți dimineața explorând domeniul impunător al Castelului Penrice, înainte de a pedala spre liniștita biserică St. Andrew. La prânz veți descoperi trecutul industrial al zonei la Moara Veche restaurată cu grijă, un punct de atracție fascinant. După-amiaza continuă cu o plimbare spre misterioasele Turnuri Oxwich și sanctuarul perfect conservat St. Nicholas's. Spre seară, lăsați bicicleta la Centrul Perriswood pentru activități distractive.",
+        "en": "Set off this morning to explore the imposing grounds of Penrice Castle before cycling to the peaceful St. Andrew church for some quiet reflection. By midday, you will discover the area's industrial past at the beautifully restored Old Mill, a fascinating highlight of the route. Your afternoon features a ride to the mysterious Oxwich Towers and the perfectly preserved sanctuary of St. Nicholas's. As evening approaches, park your bike at Perriswood Centre for some fun archery activities."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 9.64,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Slade Bay",
+            "hu": "Slade Bay",
+            "ro": "Slade Bay",
+            "en": "Slade Bay"
+          },
+          "coords": [
+            -4.182763,
+            51.54747
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie über die Felsvorsprünge dieser dramatischen Küstenlinie, um die Kraft der Natur zu erleben, und planen Sie Ihren Besuch bei Ebbe, um die Felsenpools zu sehen.",
+            "hu": "Barangoljon a drámai partvidék sziklás kiszögellésein és rejtett öbleiben, és időzítse látogatását apály idejére, hogy biztonságosan hozzáférjen a legjobb sziklamedencékhez.",
+            "ro": "Plimbați-vă pe stâncile și golfurile ascunse ale acestei coaste dramatice pentru a vedea puterea naturii și planificați vizita la reflux pentru a accesa piscinele naturale.",
+            "en": "Wander across the rocky outcrops and hidden coves of this dramatic coastline to witness nature's power, and plan your visit around low tide to access the best rock pools safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Oxwich",
+            "hu": "Castell Oxwich",
+            "ro": "Castell Oxwich",
+            "en": "Castell Oxwich"
+          },
+          "coords": [
+            -4.168256,
+            51.555515
+          ],
+          "category": "castle",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses grandiosen Tudor-Herrenhauses voller historischer Eleganz und tragen Sie festes Schuhwerk, um das unebene Gelände sicher zu meistern.",
+            "hu": "Fedezze fel e fenséges Tudor-kúria történelmi eleganciát sugárzó romjait, és mindenképpen viseljen masszív cipőt, hogy biztonságosan közlekedjen az egyenetlen terepen.",
+            "ro": "Explorați ruinele acestui grandios conac Tudor ce emană eleganță istorică și asigurați-vă că purtați încălțăminte robustă pentru a parcurge în siguranță terenul accidentat.",
+            "en": "Explore the ruins of this grand Tudor manor house showcasing historical elegance, and be sure to wear sturdy shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Oxwich Bay",
+            "hu": "Oxwich Bay",
+            "ro": "Oxwich Bay",
+            "en": "Oxwich Bay"
+          },
+          "coords": [
+            -4.151036,
+            51.561547
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Sandstränden dieser herrlichen Bucht, die für ihre natürliche Pracht bekannt ist, und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
+            "hu": "Pihenjen meg a természeti pompájáról ismert öböl hosszan elnyúló homokos partjain, és csomagoljon egy könnyű pikniket, hogy a lágy hullámokat figyelve ebédelhessen.",
+            "ro": "Relaxați-vă pe malurile nisipoase întinse ale acestui golf recunoscut pentru splendoarea sa naturală și luați un mic picnic pentru un prânz liniștit privind valurile.",
+            "en": "Relax on the sweeping sandy shores of this beautiful bay known for its natural splendor, and pack a light picnic to enjoy a tranquil lunch while watching the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Illtyd's",
+            "hu": "St. Illtyd's",
+            "ro": "St. Illtyd's",
+            "en": "St. Illtyd's"
+          },
+          "coords": [
+            -4.159004,
+            51.554051
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Steinarchitektur dieser ruhigen Küstenkirche, die Jahrhunderte des Glaubens widerspiegelt, und besuchen Sie sie morgens für das schönste Licht.",
+            "hu": "Csodálja meg e békés tengerparti templom évszázados hitet tükröző, ősi kőépítészetét, és érkezzen a reggeli órákban, hogy élvezhesse a gyönyörűen beáramló fényeket.",
+            "ro": "Admirați arhitectura veche din piatră a acestei biserici de coastă care reflectă secole de credință și veniți dimineața pentru a vă bucura de lumina frumoasă care pătrunde.",
+            "en": "Admire the ancient stone architecture of this serene coastal church that reflects centuries of faith, and visit during morning hours to enjoy the beautiful light pouring in."
+          }
+        },
+        {
+          "name": {
+            "de": "Penrice Castle",
+            "hu": "Penrice Castle",
+            "ro": "Penrice Castle",
+            "en": "Penrice Castle"
+          },
+          "coords": [
+            -4.170326,
+            51.575245
+          ],
+          "category": "castle",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Anwesen rund um diese imposanten mittelalterlichen Burgruinen und bleiben Sie auf den markierten Fußwegen, um das Privatgelände zu respektieren.",
+            "hu": "Fedezze fel az impozáns középkori várromokat körülvevő, hatalomról mesélő fenséges birtokot, és maradjon a kijelölt ösvényeken, hogy tiszteletben tartsa a magánterületet.",
+            "ro": "Descoperiți domeniul maiestuos care înconjoară aceste impunătoare ruine medievale pline de istorie și rămâneți pe potecile publice marcate pentru a respecta terenurile private.",
+            "en": "Discover the majestic estate surrounding these imposing medieval castle ruins that tell tales of power, and stick to the marked public footpaths to respect the private grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Mill",
+            "hu": "Old Mill",
+            "ro": "Old Mill",
+            "en": "Old Mill"
+          },
+          "coords": [
+            -4.176436,
+            51.5726
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser restaurierten Wassermühle in das faszinierende industrielle Erbe ein und fragen Sie die örtlichen Führer nach den komplexen Holzmaschinen im Inneren.",
+            "hu": "Merüljön el a lenyűgöző ipari örökségben ebben a hagyományos őrlést bemutató, felújított vízimalomban, és kérdezze a helyi vezetőket a bonyolult fa gépezetekről.",
+            "ro": "Pătrundeți în fascinanta moștenire industrială la această moară de apă restaurată și întrebați ghizii locali despre mecanismele complexe din lemn aflate în interior.",
+            "en": "Delve into the fascinating industrial heritage at this restored watermill that showcases traditional milling, and ask the local guides about the intricate wooden machinery inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nicholaston Beach",
+            "hu": "Nicholaston Beach",
+            "ro": "Nicholaston Beach",
+            "en": "Nicholaston Beach"
+          },
+          "coords": [
+            -4.134241,
+            51.567664
+          ],
+          "category": "landmark",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.96,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der friedlichen Dünen dieses einsamen Strandes mit atemberaubendem Meerblick und bringen Sie eine Windjacke mit, da die Brise am Nachmittag frisch wird.",
+            "hu": "Sétáljon végig a lélegzetelállító tengerparti kilátást nyújtó, félreeső strand békés dűnéin, de hozzon magával széldzsekit, mivel a parti szél délután meglehetősen erős lehet.",
+            "ro": "Plimbați-vă de-a lungul dunelor pașnice ale acestei plaje izolate cu priveliști marine uluitoare și aduceți o jachetă de vânt, deoarece briza poate fi destul de rece după-amiaza.",
+            "en": "Stroll along the peaceful dunes of this secluded beach offering breathtaking seaside views, and bring a windbreaker as the coastal breezes can be quite brisk in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am Morgen mit den Felsvorsprüngen von Slade Bay, gefolgt von einem Stopp an den Ruinen von Castell Oxwich. Der Mittag ist perfekt, um im Sand von Oxwich Bay zu entspannen und die ruhige Architektur von St. Illtyd's zu bewundern. Die Fahrt am Nachmittag führt Sie zu den weiten Ländereien von Penrice Castle und der Old Mill. Beenden Sie Ihre Reise mit einem malerischen Abendspaziergang an den Dünen von Nicholaston Beach.",
+        "hu": "Kezdje autós utazását a Slade-öböl sziklás partjainál, majd tegyen egy lenyűgöző kitérőt a Castell Oxwich romjainál. A dél tökéletes a pihenésre az Oxwich-öböl homokján és a közeli St. Illtyd's templom nyugodt építészetének megcsodálására. A délutáni autózás a szárazföld belsejébe, a Penrice-kastély hatalmas birtokaira és az Öreg Malomhoz vezet. Zárja utazását egy festői esti sétával a Nicholaston strand lenyűgöző dűnéi mentén.",
+        "ro": "Începeți călătoria cu mașina pe țărmurile stâncoase din Slade Bay, urmată de o oprire fascinantă la ruinele de la Castell Oxwich. Prânzul este perfect pentru a vă relaxa pe nisipul din Oxwich Bay și pentru a admira arhitectura senină a bisericii St. Illtyd's. După-amiaza vă duce spre interior, la domeniul Castelului Penrice și la utilajele istorice ale Morii Vechi. Încheiați călătoria cu o plimbare pitorească de seară pe dunele de la Nicholaston.",
+        "en": "Begin your road trip wandering the rocky outcrops of Slade Bay in the morning, followed by a fascinating stop at the ruins of Castell Oxwich. Midday is perfect for relaxing on the sands of Oxwich Bay and admiring the serene architecture of St. Illtyd's church nearby. The afternoon drive takes you inland to the sweeping estates of Penrice Castle and the historical machinery of the Old Mill. End your journey with a scenic evening stroll along the spectacular dunes of Nicholaston Beach."
+      }
+    }
+  }
+}

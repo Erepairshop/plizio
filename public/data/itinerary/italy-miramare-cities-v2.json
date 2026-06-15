@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-miramare-cities-v2",
+  "anchor": {
+    "name": "Miramare",
+    "coords": [
+      13.71984,
+      45.70527
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scuderie",
+            "hu": "Scuderie",
+            "ro": "Scuderie",
+            "en": "Scuderie"
+          },
+          "coords": [
+            13.717138,
+            45.702408
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Ställe des Schlosses, die heute faszinierende Ausstellungen beherbergen, und trinken Sie einen schnellen Kaffee im nahegelegenen Café.",
+            "hu": "Csodálja meg a kastély történelmi istállóit, amelyek ma lenyűgöző időszaki kiállításoknak adnak otthont, és igyon egy gyors kávét a közeli kávézóban.",
+            "ro": "Admirați grajdurile istorice ale castelului care găzduiesc acum expoziții temporare fascinante și asigurați-vă că beți o cafea rapidă la cafeneaua din apropiere.",
+            "en": "Admire the historic stables of the castle which now host fascinating temporary exhibitions, and make sure to grab a quick coffee at the nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Miramare",
+            "hu": "Miramare-kastély",
+            "ro": "Castelul Miramare",
+            "en": "Miramare Castle"
+          },
+          "coords": [
+            13.71241,
+            45.702529
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige Schloss aus dem 19. Jahrhundert, das für Erzherzog Maximilian erbaut wurde, und kommen Sie früh, um die besten Innenfotos zu machen.",
+            "hu": "Fedezze fel ezt a csodálatos 19. századi kastélyt, amelyet Miksa főherceg számára építettek, és érkezzen korán, hogy elkerülje a tömeget a legjobb belső fotókhoz.",
+            "ro": "Explorați acest magnific castel din secolul al XIX-lea construit pentru Arhiducele Maximilian, unde ar trebui să ajungeți devreme pentru cele mai bune fotografii.",
+            "en": "Explore this magnificent 19th-century castle built for Archduke Maximilian, where you should arrive early to beat the crowds for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere dei Cannoni",
+            "hu": "Belvedere dei Cannoni",
+            "ro": "Belvedere dei Cannoni",
+            "en": "Belvedere dei Cannoni"
+          },
+          "coords": [
+            13.711179,
+            45.704651
+          ],
+          "category": "natural",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Adria von dieser historischen Kanonenbatterie, einem idealen Ort für unvergessliche Landschaftsfotos.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Adriai-tengerre ebből a történelmi ágyúállásból, amely ideális hely felejthetetlen tájképek készítéséhez a környékről.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale Mării Adriatice din acest punct istoric al bateriei de tunuri, care este un loc ideal pentru fotografii de peisaj.",
+            "en": "Enjoy breathtaking panoramic views of the Adriatic Sea from this historic cannon battery point, which is an ideal spot for taking unforgettable landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Duca D'Aosta",
+            "hu": "Monumento al Duca D'Aosta",
+            "ro": "Monumento al Duca D'Aosta",
+            "en": "Monumento al Duca D'Aosta"
+          },
+          "coords": [
+            13.715614,
+            45.704897
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen Bronzemonument, das dem Herzog von Aosta gewidmet ist, Ihren Respekt und beachten Sie die feinen Details der Skulptur im Park.",
+            "hu": "Tisztelegjen az Aosta hercegének szentelt ünnepélyes bronz emlékműnél, és figyelje meg a szobor bonyolult részleteit a festői park zöld háttere előtt.",
+            "ro": "Aduceți un omagiu la acest monument solemn din bronz dedicat Ducelui de Aosta, remarcând detaliile complicate ale sculpturii pe fundalul parcului liniștit.",
+            "en": "Pay your respects at this solemn bronze monument dedicated to the Duke of Aosta, noticing the intricate details of the sculpture against the park backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Centre",
+            "hu": "Tudományos Központ",
+            "ro": "Science Centre",
+            "en": "Science Centre"
+          },
+          "coords": [
+            13.714053,
+            45.707177
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Ausstellungen in diesem modernen Wissenschaftszentrum, einem perfekten Bildungsstopp, wenn Sie mit Kindern reisen.",
+            "hu": "Vegyen részt interaktív kiállításokon ebben a modern tudományos központban, amely tökéletes oktatási megálló, ha gyerekekkel együtt utazik a környéken.",
+            "ro": "Interacționați cu expoziții la acest centru științific modern conceput pentru a inspira curiozitatea, fiind o oprire educațională perfectă dacă călătoriți cu copii.",
+            "en": "Engage with interactive exhibits at this modern scientific hub designed to inspire curiosity, making it a perfect educational stop if you are traveling with kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Sticco",
+            "hu": "Bagno Sticco",
+            "ro": "Bagno Sticco",
+            "en": "Bagno Sticco"
+          },
+          "coords": [
+            13.721433,
+            45.701019
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser historischen, von Natur umgebenen Badeanstalt am Meer und denken Sie an Badeschuhe für den sicheren Zugang zu den felsigen Stränden.",
+            "hu": "Pihenjen ebben a természettel körülvett történelmi tengerparti fürdőhelyen, és ne felejtsen el vízicipőt hozni a sziklás úszóhelyek biztonságos megközelítéséhez.",
+            "ro": "Relaxați-vă la acest complex istoric de baie pe litoral înconjurat de natură și nu uitați să împachetați pantofi de apă pentru acces în zonele stâncoase.",
+            "en": "Relax at this historic seaside bathing establishment surrounded by nature, and remember to pack water shoes for safe access to the beautiful rocky swimming areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den historischen Scuderie und bildet die Bühne für das prächtige Schloss Miramare. Mittags geht es zu den Aussichtspunkten, die spektakuläre Fotomotive bieten. Am Nachmittag tauchen Sie in die faszinierende Welt der Wissenschaft ein, bevor Sie in Richtung Küste gehen. Der Abend lädt zum Entspannen im historischen Bagno Sticco ein, wo Sie die Meeresluft einatmen.",
+        "hu": "A reggel a történelmi Scuderie-nél kezdődik, megalapozva a Miramare-kastély nagyszerűségének felfedezését. A délben a kastély festői kilátóponjaihoz és emlékműveihez érkezünk. Délután merüljön el a tudomány lenyűgöző világában, mielőtt a part felé venné az irányt. Az este a történelmi Bagno Sticco tengerpartján való pihenésre invitálja Önt a sós tengeri levegő élvezetével.",
+        "ro": "Dimineața începe la istoricele Scuderie, pregătind terenul pentru explorarea grandorii Castelului Miramare. Prânzul face tranziția către punctele de belvedere pitorești și monumentele castelului. După-amiaza, pătrundeți în lumea fascinantă a științei înainte de a vă îndrepta spre coastă. Seara vă invită să vă relaxați la istoricul Bagno Sticco, respirând aerul mării.",
+        "en": "Morning begins at the historic Scuderie, setting the stage for exploring the grandeur of Miramare Castle. Midday transitions to the castle's scenic viewpoints and monuments, offering spectacular photo opportunities. In the afternoon, dive into the fascinating world of science before heading towards the coast. Evening invites you to relax at the historic Bagno Sticco, breathing in the sea air."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grignano1",
+            "hu": "Grignano1",
+            "ro": "Grignano1",
+            "en": "Grignano1"
+          },
+          "coords": [
+            13.713361,
+            45.708688
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des malerischen Yachthafens von Grignano, um das sanfte Schaukeln der lokalen Fischerboote zu beobachten und die Atmosphäre zu genießen.",
+            "hu": "Sétáljon végig Grignano festői kikötőjén, hogy megfigyelje a helyi halászhajók lágy ringatózását, amely tökéletesen megragadja a part menti atmoszférát.",
+            "ro": "Plimbați-vă de-a lungul portului de agrement pitoresc din Grignano pentru a privi legănarea blândă a bărcilor de pescuit, surprinzând atmosfera de coastă.",
+            "en": "Stroll along the picturesque marina of Grignano to watch the gentle bobbing of local fishing boats, which perfectly captures the authentic coastal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Centre",
+            "hu": "Tudományos Központ",
+            "ro": "Science Centre",
+            "en": "Science Centre"
+          },
+          "coords": [
+            13.714053,
+            45.707177
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Ausstellungen in diesem modernen Wissenschaftszentrum, einem perfekten Bildungsstopp, wenn Sie mit Kindern reisen.",
+            "hu": "Vegyen részt interaktív kiállításokon ebben a modern tudományos központban, amely tökéletes oktatási megálló, ha gyerekekkel együtt utazik a környéken.",
+            "ro": "Interacționați cu expoziții la acest centru științific modern conceput pentru a inspira curiozitatea, fiind o oprire educațională perfectă dacă călătoriți cu copii.",
+            "en": "Engage with interactive exhibits at this modern scientific hub designed to inspire curiosity, making it a perfect educational stop if you are traveling with kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Miramare",
+            "hu": "Miramare-kastély",
+            "ro": "Castelul Miramare",
+            "en": "Miramare Castle"
+          },
+          "coords": [
+            13.71241,
+            45.702529
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige Schloss aus dem 19. Jahrhundert, das für Erzherzog Maximilian erbaut wurde, und kommen Sie früh, um die besten Innenfotos zu machen.",
+            "hu": "Fedezze fel ezt a csodálatos 19. századi kastélyt, amelyet Miksa főherceg számára építettek, és érkezzen korán, hogy elkerülje a tömeget a legjobb belső fotókhoz.",
+            "ro": "Explorați acest magnific castel din secolul al XIX-lea construit pentru Arhiducele Maximilian, unde ar trebui să ajungeți devreme pentru cele mai bune fotografii.",
+            "en": "Explore this magnificent 19th-century castle built for Archduke Maximilian, where you should arrive early to beat the crowds for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Scuderie",
+            "hu": "Scuderie",
+            "ro": "Scuderie",
+            "en": "Scuderie"
+          },
+          "coords": [
+            13.717138,
+            45.702408
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Ställe des Schlosses, die heute faszinierende Ausstellungen beherbergen, und trinken Sie einen schnellen Kaffee im nahegelegenen Café.",
+            "hu": "Csodálja meg a kastély történelmi istállóit, amelyek ma lenyűgöző időszaki kiállításoknak adnak otthont, és igyon egy gyors kávét a közeli kávézóban.",
+            "ro": "Admirați grajdurile istorice ale castelului care găzduiesc acum expoziții temporare fascinante și asigurați-vă că beți o cafea rapidă la cafeneaua din apropiere.",
+            "en": "Admire the historic stables of the castle which now host fascinating temporary exhibitions, and make sure to grab a quick coffee at the nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Militare",
+            "hu": "Bagno Militare",
+            "ro": "Bagno Militare",
+            "en": "Bagno Militare"
+          },
+          "coords": [
+            13.723025,
+            45.700378
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenrefugium, wo einst Soldaten am klaren blauen Wasser entspannten, und bringen Sie ein Handtuch zum Sonnenbaden mit.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti menedéket, ahol egykor katonák pihentek a tiszta kék víz mellett, és hozzon egy törölközőt a közeli teraszokra.",
+            "ro": "Descoperiți acest refugiu de coastă ascuns unde soldații se relaxau odată lângă apele limpezi și aduceți un prosop pentru a face plajă pe terasele calde.",
+            "en": "Discover this hidden coastal retreat where soldiers once relaxed by the clear blue waters, bringing a towel to sunbathe on the warm concrete terraces nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Topolini",
+            "hu": "Topolini",
+            "ro": "Topolini",
+            "en": "Topolini"
+          },
+          "coords": [
+            13.740034,
+            45.691414
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter die Einheimischen auf diesen für Triest typischen halbkreisförmigen Badeterrassen und versuchen Sie, den atemberaubenden Sonnenuntergang zu sehen.",
+            "hu": "Keveredjen a helyiekkel ezeken a Triesztre jellemző ikonikus félköríves fürdőteraszokon, és próbáljon meg késő délután látogatni a lenyűgöző naplemente miatt.",
+            "ro": "Alăturați-vă localnicilor pe aceste terase de baie semicirculare iconice unice în Trieste, încercând să vizitați după-amiaza pentru a prinde apusul superb.",
+            "en": "Mix with the locals at these iconic semi-circular bathing terraces unique to Trieste, trying to visit in the late afternoon to catch the stunning coastal sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Yachthafen von Grignano und genießen Sie die authentische Küstenatmosphäre. Erkunden Sie mittags das Science Centre und danach das ikonische Schloss Miramare. Die Nachmittagsfahrt führt Sie an den schönen Ställen vorbei zu den historischen Militärbädern. Beenden Sie Ihren aktiven Tag entspannt auf den einzigartigen Topolini-Terrassen der Adria.",
+        "hu": "Tekerjen el reggel a grignanói kikötőbe, magába szívva a tengerparti hangulatot. Délre ismerkedjen meg a Tudományos Központtal, majd fedezze fel az ikonikus Miramare-kastélyt. A délutáni biciklizés a gyönyörű istállók mellett a történelmi katonai fürdők felé vezet. Zárja aktív napját a különleges Topolini teraszokon pihenve, miközben az adriai nap lassan nyugovóra tér.",
+        "ro": "Pedalați dimineața spre portul din Grignano, bucurându-vă de atmosfera de coastă autentică. La prânz, vizitați expozițiile de la Centrul de Știință înainte de a explora Castelul Miramare. Călătoria de după-amiază vă duce pe lângă grajdurile frumoase către băile militare istorice. Încheiați ziua activă relaxându-vă pe terasele unice Topolini, în timp ce soarele apune.",
+        "en": "Pedal out in the morning to Grignano's marina, soaking in the genuine coastal vibe. By midday, engage with the educational exhibits at the Science Centre before exploring the iconic Miramare Castle. Afternoon riding takes you past the beautiful stables to the historic military baths. Wrap up your active day relaxing on the unique Topolini terraces as the Adriatic sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monte San Paolo",
+            "hu": "Monte San Paolo",
+            "ro": "Monte San Paolo",
+            "en": "Monte San Paolo / Pavlji vrh"
+          },
+          "coords": [
+            13.713856,
+            45.716104
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie diesen friedlichen Hügel hinauf, um einen weiten Blick über den Golf von Triest zu genießen, und tragen Sie bequeme Schuhe für die felsigen Wege.",
+            "hu": "Túrázzon fel erre a békés dombra, ahonnan pazar kilátás nyílik a Trieszti-öbölre és a Karszt-fennsíkra, és feltétlenül viseljen kényelmes sétacipőt az úthoz.",
+            "ro": "Urcați pe acest deal liniștit pentru vederi panoramice asupra Golfului Trieste și asigurați-vă că purtați pantofi de mers confortabili pentru cărările stâncoase.",
+            "en": "Hike up this peaceful hill for sweeping views over the Gulf of Trieste and the Karst plateau, ensuring you wear comfortable walking shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Centre",
+            "hu": "Tudományos Központ",
+            "ro": "Science Centre",
+            "en": "Science Centre"
+          },
+          "coords": [
+            13.714053,
+            45.707177
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Ausstellungen in diesem modernen Wissenschaftszentrum, einem perfekten Bildungsstopp, wenn Sie mit Kindern reisen.",
+            "hu": "Vegyen részt interaktív kiállításokon ebben a modern tudományos központban, amely tökéletes oktatási megálló, ha gyerekekkel együtt utazik a környéken.",
+            "ro": "Interacționați cu expoziții la acest centru științific modern conceput pentru a inspira curiozitatea, fiind o oprire educațională perfectă dacă călătoriți cu copii.",
+            "en": "Engage with interactive exhibits at this modern scientific hub designed to inspire curiosity, making it a perfect educational stop if you are traveling with kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Miramare",
+            "hu": "Miramare-kastély",
+            "ro": "Castelul Miramare",
+            "en": "Miramare Castle"
+          },
+          "coords": [
+            13.71241,
+            45.702529
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige Schloss aus dem 19. Jahrhundert, das für Erzherzog Maximilian erbaut wurde, und kommen Sie früh, um die besten Innenfotos zu machen.",
+            "hu": "Fedezze fel ezt a csodálatos 19. századi kastélyt, amelyet Miksa főherceg számára építettek, és érkezzen korán, hogy elkerülje a tömeget a legjobb belső fotókhoz.",
+            "ro": "Explorați acest magnific castel din secolul al XIX-lea construit pentru Arhiducele Maximilian, unde ar trebui să ajungeți devreme pentru cele mai bune fotografii.",
+            "en": "Explore this magnificent 19th-century castle built for Archduke Maximilian, where you should arrive early to beat the crowds for the best interior photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Spomenik padlim",
+            "hu": "Spomenik padlim",
+            "ro": "Spomenik padlim",
+            "en": "Spomenik padlim"
+          },
+          "coords": [
+            13.731035,
+            45.703661
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ruhigen historischen Denkmal für die gefallenen Soldaten inne und lesen Sie die mehrsprachigen Tafeln, um die Geschichte der Region zu verstehen.",
+            "hu": "Tartson egy kis szünetet a reflexióra ennél a csendes történelmi emlékműnél, amely az elesett katonákat tiszteli, és olvassa el a többnyelvű emléktáblákat.",
+            "ro": "Faceți o pauză pentru reflecție la acest memorial istoric liniștit care onorează soldații căzuți, citind plăcile pentru a înțelege istoria complexă a regiunii.",
+            "en": "Pause for reflection at this quiet historical memorial honoring the fallen soldiers, reading the multilingual plaques to understand the region's complex history."
+          }
+        },
+        {
+          "name": {
+            "de": "Vedetta Giubileare Francesco Giuseppe I",
+            "hu": "Vedetta Giubileare Francesco Giuseppe I",
+            "ro": "Vedetta Giubileare Francesco Giuseppe I",
+            "en": "Vedetta Giubileare Francesco Giuseppe I"
+          },
+          "coords": [
+            13.741557,
+            45.697794
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen historischen Aussichtsturm aus der Habsburgerzeit für unvergleichliche Ausblicke und denken Sie an ein Fernglas, um Schiffe zu beobachten.",
+            "hu": "Másszon fel erre a Habsburg-korszakban épült történelmi kilátótoronyra a páratlan kilátásért, és ne felejtsen el távcsövet vinni a távoli hajók megfigyeléséhez.",
+            "ro": "Urcați în acest turn istoric de observație construit în epoca habsburgică pentru priveliști de neegalat, amintindu-vă să purtați binoclu pentru a vedea navele.",
+            "en": "Ascend this historic observation tower built during the Habsburg era for unparalleled vistas, remembering to carry binoculars to spot ships far out in the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Enzo Cozzolino",
+            "hu": "Belvedere Enzo Cozzolino",
+            "ro": "Belvedere Enzo Cozzolino",
+            "en": "Belvedere Enzo Cozzolino"
+          },
+          "coords": [
+            13.743454,
+            45.696327
+          ],
+          "category": "natural",
+          "arrive_at": "15:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem atemberaubenden Aussichtspunkt an den Klippen, um den Sonnenuntergang zu beobachten, dem perfekten romantischen Ort für Fotos.",
+            "hu": "Zárja a napot ezen a lélegzetelállító sziklafalon lévő kilátónál, nézve, ahogy a nap a tenger horizontja alá bukik, ami tökéletes romantikus helyszín estére.",
+            "ro": "Încheiați-vă ziua la acest punct de belvedere uluitor pe stâncă urmărind apusul soarelui sub orizontul mării, fiind un loc romantic perfect pentru fotografii.",
+            "en": "End your day at this breathtaking cliffside viewpoint watching the sun dip below the sea horizon, making it the perfect romantic spot for evening photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt auf dem Monte San Paolo und blicken Sie über den weiten Golf. Mittags erreichen Sie das faszinierende Science Centre und das architektonische Wunder von Schloss Miramare. Der Nachmittag ist der Erkundung ruhiger historischer Denkmäler in den Hügeln gewidmet. Beenden Sie den perfekten Roadtrip und beobachten Sie die leuchtende Dämmerung vom Belvedere Enzo Cozzolino.",
+        "hu": "Kezdje a festői autózást a Monte San Paolo tetején, tekintetével a hatalmas öblön. Délben leereszkedik az érdekes Tudományos Központba és a Miramare-kastély építészeti csodájához. A délutánt a festői belső dombokon elszórtan található csendes történelmi emlékek felfedezésének szentelheti. Zárja a tökéletes utat a ragyogó alkonyat megtekintésével a Belvedere Enzo Cozzolinóból.",
+        "ro": "Începeți plimbarea panoramică pe Monte San Paolo, privind peste vastul golf. Prânzul vă aduce la Centrul de Știință și la minunea arhitecturală a Castelului Miramare. După-amiaza este dedicată explorării monumentelor istorice liniștite răspândite pe dealurile interioare pitorești. Încheiați călătoria perfectă fiind martorii crepusculului de la Belvedere Enzo Cozzolino.",
+        "en": "Start your scenic drive atop Monte San Paolo, gazing out over the vast gulf. Midday brings you down to the engaging Science Centre and the architectural wonder of Miramare Castle. The afternoon is dedicated to exploring quiet historical monuments scattered along the picturesque inland hills. End the perfect road trip witnessing the glowing twilight from Belvedere Enzo Cozzolino."
+      }
+    }
+  }
+}

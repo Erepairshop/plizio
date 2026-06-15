@@ -1,0 +1,451 @@
+{
+  "city_id": "luxor-cities-v2",
+  "anchor": {
+    "name": "Luxor",
+    "coords": [
+      32.6396,
+      25.6872
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Luxor-Tempel",
+            "hu": "Luxori templom",
+            "ro": "Templul din Luxor",
+            "en": "Luxor Temple"
+          },
+          "coords": [
+            32.639362,
+            25.699599
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kolossalen Statuen von Ramses II. in diesem majestätischen Tempel mitten im Stadtzentrum, und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Fedezze fel II. Ramszesz kolosszális szobrait ebben a fenséges, városközponti templomban, és időzítse a látogatást naplemente környékére a legjobb fényekért.",
+            "ro": "Explorați statuile colosale ale lui Ramses al II-lea în acest templu maiestuos din centrul orașului și vizitați-l aproape de apus pentru o lumină spectaculoasă.",
+            "en": "Explore the colossal statues of Ramses II at this majestic temple right in the city center, and visit near sunset for the most atmospheric lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Serapis-Schrein",
+            "hu": "Szérapisz-kápolna",
+            "ro": "Altarul lui Serapis",
+            "en": "Chapel of Serapis"
+          },
+          "coords": [
+            32.639978,
+            25.700804
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die synkretistische Mischung aus ägyptischer und hellenistischer Verehrung in diesem faszinierenden kleinen Schrein innerhalb des Luxor-Tempelkomplexes.",
+            "hu": "Fedezze fel az egyiptomi és hellenisztikus vallás ötvözetét ebben a kicsi, de lenyűgöző szentélyben, amely a luxori templomkomplexum területén található.",
+            "ro": "Descoperiți amestecul sincretic de venerație egipteană și elenistică în acest altar mic, dar fascinant, situat în cadrul complexului Templului din Luxor.",
+            "en": "Discover the syncretic blend of Egyptian and Hellenistic worship at this small but fascinating shrine, located within the Luxor Temple complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokale Fähre zum Westufer",
+            "hu": "Helyi komp a nyugati partra",
+            "ro": "Feribot local spre malul de vest",
+            "en": "local ferry to West Bank"
+          },
+          "coords": [
+            32.638579,
+            25.701444
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter die Einheimischen, während Sie den Nil auf dieser unglaublich günstigen Fähre überqueren, und halten Sie kleine Pfundscheine bereit.",
+            "hu": "Vegüljön el a helyiek között ezen az elképesztően olcsó nílusi kompjáraton, de mindenképpen tartsanak maguknál aprópénzt a jegyvásárláshoz.",
+            "ro": "Amestecați-vă printre localnici traversând Nilul pe acest feribot incredibil de ieftin, dar asigurați-vă că aveți bancnote mici pentru a plăti biletul.",
+            "en": "Mingle with locals while crossing the Nile on this incredibly cheap ferry ride, just make sure to have small Egyptian pounds ready for the fare."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor Gouvernorat Diwan",
+            "hu": "Luxori Kormányzóság Diwanja",
+            "ro": "Diwanul Guvernoratului Luxor",
+            "en": "Luxor Governorate Diwan"
+          },
+          "coords": [
+            32.641717,
+            25.704346
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beobachten Sie den architektonischen Stil der lokalen Verwaltung am Gouverneursdiwan, der moderne Staatsfunktionen und traditionelle Motive verbindet.",
+            "hu": "Figyelje meg a helyi közigazgatás építészeti stílusát a Kormányzói Diwánnál, amely a modern állami funkciókat hagyományos motívumokkal ötvözi.",
+            "ro": "Observați stilul arhitectural al administrației locale la Diwan-ul Guvernoratului, care combină funcțiile statului modern cu motivele tradiționale.",
+            "en": "Observe the architectural style of local administration at the Governorate Diwan, noting the blend of modern state function and traditional motifs."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor-Museum",
+            "hu": "Luxori Múzeum",
+            "ro": "Muzeul Luxor",
+            "en": "Luxor Museum"
+          },
+          "coords": [
+            32.644489,
+            25.707663
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die sorgfältig kuratierten Artefakte aus der thebanischen Region in diesem wunderschön beleuchteten Museum, wo man früh morgens dem Trubel entgeht.",
+            "hu": "Csodálja meg a thébai régió gondosan válogatott leleteit ebben a gyönyörűen kivilágított múzeumban, ahová érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de artefactele atent selecționate din zona tebană în acest muzeu frumos luminat, unde sosirea devreme vă ajută să evitați aglomerația.",
+            "en": "Marvel at the meticulously curated artifacts from the Theban area in this beautifully lit museum, where arriving early helps you beat the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am prächtigen Luxor-Tempel und spüren Sie das Gewicht von Jahrtausenden. Mittags passieren Sie den kleinen, aber feinen Serapis-Schrein, ein Spiegelbild antiker kultureller Mischungen. Am Nachmittag beobachten Sie den Nil an der Fähre und passieren das moderne Gouvernorat. Der Abend fällt, während Sie das erstklassige Luxor-Museum erkunden und in pharaonischen Glanz eintauchen.",
+        "hu": "Kezdje a reggelt a lenyűgöző luxori templomnál, átérezve az évezredek súlyát. Délben elsétál a kis, de fontos Szérapisz-kápolna mellett, amely ősi kultúrák találkozását őrzi. Délután figyelje a Nílus folyását a kompkikötőnél, majd a modern kormányzóság felé veszi az irányt. Este a világszínvonalú Luxori Múzeum kincseiben gyönyörködhet, elmerülve a fáraók korának dicsőségében.",
+        "ro": "Începeți dimineața la magnificul Templu din Luxor, simțind greutatea mileniilor. La prânz, treceți pe lângă micul, dar importantul Altar al lui Serapis, reflectând amestecuri culturale antice. După-amiaza, priviți Nilul curgând la debarcader și treceți de Guvernoratul modern. Seara coboară în timp ce explorați Muzeul Luxor de clasă mondială, încheind ziua cufundați în gloria faraonică.",
+        "en": "Begin your morning at the magnificent Luxor Temple, feeling the weight of millennia. Midday brings you past the small but significant Chapel of Serapis, reflecting ancient cultural blends. In the afternoon, watch the Nile flow by at the ferry dock and pass the modern Governorate. Finally, evening falls as you explore the world-class Luxor Museum, ending your day immersed in pharaonic glory."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Awlad Ragab",
+            "hu": "Awlad Ragab",
+            "ro": "Awlad Ragab",
+            "en": "Awlad Ragab"
+          },
+          "coords": [
+            32.640022,
+            25.693946
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Decken Sie sich in diesem bekannten Supermarkt mit Trinkwasser und lokalen Snacks ein, ein unverzichtbarer Halt vor dem Gang in die heiße ägyptische Sonne.",
+            "hu": "Tárazzon be ivóvízből és helyi rágcsálnivalókból ebben az ismert szupermarketben, ami elengedhetetlen állomás, mielőtt kimegy a forró egyiptomi napra.",
+            "ro": "Aprovizionați-vă cu apă potabilă și gustări locale de la acest supermarket cunoscut, o oprire esențială înainte de a ieși sub soarele fierbinte al Egiptului.",
+            "en": "Stock up on drinking water and local snacks at this well-known supermarket, which is an essential stop before heading out into the hot Egyptian sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor-Tempel",
+            "hu": "Luxori templom",
+            "ro": "Templul din Luxor",
+            "en": "Luxor Temple"
+          },
+          "coords": [
+            32.639362,
+            25.699599
+          ],
+          "category": "historical",
+          "arrive_at": "09:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kolossalen Statuen von Ramses II. in diesem majestätischen Tempel mitten im Stadtzentrum, und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Fedezze fel II. Ramszesz kolosszális szobrait ebben a fenséges, városközponti templomban, és időzítse a látogatást naplemente környékére a legjobb fényekért.",
+            "ro": "Explorați statuile colosale ale lui Ramses al II-lea în acest templu maiestuos din centrul orașului și vizitați-l aproape de apus pentru o lumină spectaculoasă.",
+            "en": "Explore the colossal statues of Ramses II at this majestic temple right in the city center, and visit near sunset for the most atmospheric lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Sphinx-Allee",
+            "hu": "Szfinxek sétánya",
+            "ro": "Aleea Sfinșilor",
+            "en": "Avenue of Sphinxes"
+          },
+          "coords": [
+            32.647222,
+            25.707148
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Gehen Sie ein Stück der kürzlich restaurierten alten Prozessionsstraße mit ihren menschenköpfigen Sphinxen, und tragen Sie bequeme Schuhe für das unebene Pflaster.",
+            "hu": "Sétáljon végig a nemrég felújított, emberfejű szfinxekkel szegélyezett ősi felvonulási útvonal egy szakaszán, és viseljen kényelmes cipőt az egyenetlen burkolat miatt.",
+            "ro": "Plimbați-vă pe un segment al vechiului drum procesional, recent restaurat și străjuit de sfincși cu cap de om, purtând încălțăminte confortabilă pentru pavajul denivelat.",
+            "en": "Walk a segment of the recently restored ancient processional route lined with human-headed sphinxes, and wear comfortable shoes for the uneven pavement."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor-Museum",
+            "hu": "Luxori Múzeum",
+            "ro": "Muzeul Luxor",
+            "en": "Luxor Museum"
+          },
+          "coords": [
+            32.644489,
+            25.707663
+          ],
+          "category": "museum",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die sorgfältig kuratierten Artefakte aus der thebanischen Region in diesem wunderschön beleuchteten Museum, wo man früh morgens dem Trubel entgeht.",
+            "hu": "Csodálja meg a thébai régió gondosan válogatott leleteit ebben a gyönyörűen kivilágított múzeumban, ahová érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de artefactele atent selecționate din zona tebană în acest muzeu frumos luminat, unde sosirea devreme vă ajută să evitați aglomerația.",
+            "en": "Marvel at the meticulously curated artifacts from the Theban area in this beautifully lit museum, where arriving early helps you beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mut-Tempel",
+            "hu": "Mut-templom",
+            "ro": "Templul lui Mut",
+            "en": "Temple of Mut"
+          },
+          "coords": [
+            32.655219,
+            25.711067
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen und erkunden Sie dieses weniger besuchte Heiligtum der Muttergöttin, das einen beeindruckenden halbmondförmigen heiligen See bietet.",
+            "hu": "Meneküljön el a tömeg elől ebbe az anyaistennőnek szentelt, ritkábban látogatott szentélybe, amely egy lenyűgöző, félhold alakú szent tóval büszkélkedhet.",
+            "ro": "Scăpați de mulțimile principale explorând acest sanctuar mai puțin vizitat dedicat zeiței mame, care prezintă un lac sacru impresionant în formă de semilună.",
+            "en": "Escape the main crowds to explore this less-visited sanctuary dedicated to the mother goddess, featuring an impressive crescent-shaped sacred lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Nut Art Store & Kaffee",
+            "hu": "Nut Art Store & Kaffee",
+            "ro": "Nut Art Store & Kaffee",
+            "en": "Nut Art Store & Kaffee"
+          },
+          "coords": [
+            32.632844,
+            25.703915
+          ],
+          "category": "museum",
+          "arrive_at": "15:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie bei einem erfrischenden Hibiskustee und stöbern Sie in dieser charmanten Galerie nach lokalem Kunsthandwerk, ideal für eine schattige Mittagspause.",
+            "hu": "Pihenjen egy frissítő hibiszkusz tea mellett, miközben helyi kézműves termékeket nézeget ebben a bájos galériában, amely tökéletes egy árnyékos déli szünethez.",
+            "ro": "Relaxați-vă cu un ceai răcoritor de hibiscus în timp ce admirați obiecte de artizanat local în această galerie fermecătoare, perfectă pentru o pauză umbrită la prânz.",
+            "en": "Relax with a refreshing hibiscus tea while browsing unique local crafts in this charming gallery, perfectly located for a shaded midday break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour mit Proviant bei Awlad Ragab, bevor Sie zum kolossalen Luxor-Tempel radeln. Der Mittag lädt zu einer malerischen Fahrt entlang der großen Sphinx-Allee ein. Verbringen Sie den Nachmittag damit, die filigranen Statuen im Luxor-Museum und den abgelegenen Mut-Tempel zu bewundern. Beenden Sie das Abenteuer im Nut Art Store & Kaffee und ruhen Sie Ihre Beine bei Kunst und Tee aus.",
+        "hu": "Kezdje a túrát az Awlad Ragabnál való bevásárlással, mielőtt a kolosszális luxori templomhoz teker. Délben egy festői kerékpározás vár a nagy Szfinxek sétányán, amely ősi komplexumokat köt össze. A délutánt a Luxori Múzeum és a félreeső Mut-templom lenyűgöző szobrainak megcsodálásával töltheti. Kalandját a Nut Art Store & Kaffee-ban zárja, ahol művészet és tea mellett pihenhet meg.",
+        "ro": "Începeți plimbarea cu provizii esențiale la Awlad Ragab înainte de a pedala către colosalul Templu din Luxor. Prânzul vă invită la o cursă pitorească de-a lungul Marii Alei a Sfinșilor. Petreceți după-amiaza admirând statuile complicate de la Muzeul Luxor și izolatul Templu al lui Mut. Încheiați aventura la Nut Art Store & Kaffee, odihnindu-vă picioarele cu artă și ceai.",
+        "en": "Kick off your ride with essential supplies at Awlad Ragab before pedaling to the colossal Luxor Temple. Midday invites a scenic cycle along the grand Avenue of Sphinxes, bridging ancient complexes. Spend your afternoon admiring the intricate statues at the Luxor Museum and the secluded Temple of Mut. Conclude your adventure at Nut Art Store & Kaffee, resting your legs with art and tea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mut-Tempel",
+            "hu": "Mut-templom",
+            "ro": "Templul lui Mut",
+            "en": "Temple of Mut"
+          },
+          "coords": [
+            32.655219,
+            25.711067
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen und erkunden Sie dieses weniger besuchte Heiligtum der Muttergöttin, das einen beeindruckenden halbmondförmigen heiligen See bietet.",
+            "hu": "Meneküljön el a tömeg elől ebbe az anyaistennőnek szentelt, ritkábban látogatott szentélybe, amely egy lenyűgöző, félhold alakú szent tóval büszkélkedhet.",
+            "ro": "Scăpați de mulțimile principale explorând acest sanctuar mai puțin vizitat dedicat zeiței mame, care prezintă un lac sacru impresionant în formă de semilună.",
+            "en": "Escape the main crowds to explore this less-visited sanctuary dedicated to the mother goddess, featuring an impressive crescent-shaped sacred lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Sphinx-Allee",
+            "hu": "Szfinxek sétánya",
+            "ro": "Aleea Sfinșilor",
+            "en": "Avenue of Sphinxes"
+          },
+          "coords": [
+            32.647222,
+            25.707148
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Gehen Sie ein Stück der kürzlich restaurierten alten Prozessionsstraße mit ihren menschenköpfigen Sphinxen, und tragen Sie bequeme Schuhe für das unebene Pflaster.",
+            "hu": "Sétáljon végig a nemrég felújított, emberfejű szfinxekkel szegélyezett ősi felvonulási útvonal egy szakaszán, és viseljen kényelmes cipőt az egyenetlen burkolat miatt.",
+            "ro": "Plimbați-vă pe un segment al vechiului drum procesional, recent restaurat și străjuit de sfincși cu cap de om, purtând încălțăminte confortabilă pentru pavajul denivelat.",
+            "en": "Walk a segment of the recently restored ancient processional route lined with human-headed sphinxes, and wear comfortable shoes for the uneven pavement."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor-Museum",
+            "hu": "Luxori Múzeum",
+            "ro": "Muzeul Luxor",
+            "en": "Luxor Museum"
+          },
+          "coords": [
+            32.644489,
+            25.707663
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die sorgfältig kuratierten Artefakte aus der thebanischen Region in diesem wunderschön beleuchteten Museum, wo man früh morgens dem Trubel entgeht.",
+            "hu": "Csodálja meg a thébai régió gondosan válogatott leleteit ebben a gyönyörűen kivilágított múzeumban, ahová érdemes korán érkezni a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de artefactele atent selecționate din zona tebană în acest muzeu frumos luminat, unde sosirea devreme vă ajută să evitați aglomerația.",
+            "en": "Marvel at the meticulously curated artifacts from the Theban area in this beautifully lit museum, where arriving early helps you beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxor-Tempel",
+            "hu": "Luxori templom",
+            "ro": "Templul din Luxor",
+            "en": "Luxor Temple"
+          },
+          "coords": [
+            32.639362,
+            25.699599
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kolossalen Statuen von Ramses II. in diesem majestätischen Tempel mitten im Stadtzentrum, und kommen Sie bei Sonnenuntergang für das beste Licht.",
+            "hu": "Fedezze fel II. Ramszesz kolosszális szobrait ebben a fenséges, városközponti templomban, és időzítse a látogatást naplemente környékére a legjobb fényekért.",
+            "ro": "Explorați statuile colosale ale lui Ramses al II-lea în acest templu maiestuos din centrul orașului și vizitați-l aproape de apus pentru o lumină spectaculoasă.",
+            "en": "Explore the colossal statues of Ramses II at this majestic temple right in the city center, and visit near sunset for the most atmospheric lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bananeninsel",
+            "hu": "Banán-sziget",
+            "ro": "Insula Bananelor",
+            "en": "Banana Island"
+          },
+          "coords": [
+            32.622872,
+            25.683452
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Machen Sie eine ruhige Felukenfahrt zu dieser üppigen, von Obstbäumen gesäumten Insel, wo Sie frische Bananen probieren und die leichte Nilbrise genießen können.",
+            "hu": "Tegyen egy csendes felukka hajóutat erre a gyümölcsfákkal teli, buja szigetre, ahol friss banánt kóstolhat és élvezheti a Nílus lágy szellőjét.",
+            "ro": "Faceți o plimbare liniștită cu feluca spre această insulă luxuriantă plină de pomi fructiferi, unde puteți gusta banane proaspete și savura briza Nilului.",
+            "en": "Take a tranquil felucca boat ride to this lush island filled with fruit trees, where you can sample fresh bananas and enjoy the Nile's gentle breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Thebanische Nekropole",
+            "hu": "Thébai nekropolisz",
+            "ro": "Necropola Tebană",
+            "en": "Theban Necropolis"
+          },
+          "coords": [
+            32.611713,
+            25.705713
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubend bemalten Gräber der alten Pharaonen und Adligen am Westufer, und kaufen Sie den Fotopass, wenn Sie Bilder machen möchten.",
+            "hu": "Fedezze fel a fáraók és nemesek lélegzetelállítóan festett sírjait a nyugati parton, de feltétlenül vegyen fotójegyet, ha fényképezni szeretne.",
+            "ro": "Descoperiți mormintele cu picturi uluitoare ale vechilor faraoni și nobili de pe malul de vest, dar asigurați-vă că achiziționați permisul foto dacă doriți imagini.",
+            "en": "Uncover the breathtakingly painted tombs of ancient pharaohs and nobles on the West Bank, but be sure to buy the photography pass if you want pictures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am ruhigen Mut-Tempel, wo Sie den heiligen See ohne Menschenmassen erkunden. Mittags fahren Sie vorbei an der monumentalen Sphinx-Allee zum spektakulären Luxor-Museum. Zu den Höhepunkten des Nachmittags gehört die Pracht des Luxor-Tempels, bevor Sie für ein tropisches Zwischenspiel zur Bananeninsel übersetzen. Der Abend gipfelt majestätisch in der thebanischen Nekropole.",
+        "hu": "Útja a békés Mut-templomnál kezdődik, ahol tömeg nélkül fedezheti fel a szent tavat. Délre a monumentális Szfinxek sétánya mellett elhaladva a látványos Luxori Múzeumhoz érkezik. A délután fénypontja a luxori templom nagyszerűsége, mielőtt a Banán-szigetre hajózik egy trópusi pihenőre. Az este fenségesen csúcsosodik ki a thébai nekropoliszban, ősi sírok és történelmi emlékek között.",
+        "ro": "Călătoria cu mașina începe la seninul Templu al lui Mut, explorând lacul său sacru fără aglomerație. La prânz, treceți de monumentala Alee a Sfinșilor către spectaculosul Muzeu Luxor. Reperele după-amiezii includ măreția Templului din Luxor înainte de a trece pe Insula Bananelor pentru un interludiu tropical. Seara culminează maiestuos la Necropola Tebană, printre morminte antice.",
+        "en": "Your drive starts at the serene Temple of Mut, exploring its sacred lake without the crowds. By midday, cruise past the monumental Avenue of Sphinxes to the spectacular Luxor Museum. Afternoon highlights include the grandeur of Luxor Temple before crossing to Banana Island for a tropical interlude. The evening culminates majestically at the Theban Necropolis amidst ancient tombs."
+      }
+    }
+  }
+}

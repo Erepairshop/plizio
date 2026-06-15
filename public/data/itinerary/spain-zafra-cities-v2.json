@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-zafra-cities-v2",
+  "anchor": {
+    "name": "Zafra",
+    "coords": [
+      -6.419306,
+      38.426179
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 1.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa-Palacio del Conde de la Corte",
+            "hu": "Casa-Palacio del Conde de la Corte",
+            "ro": "Casa-Palacio del Conde de la Corte",
+            "en": "Casa-Palacio del Conde de la Corte"
+          },
+          "coords": [
+            -6.418128,
+            38.426281
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
+            "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche La Candelaria",
+            "hu": "La Candelaria Társaskáptalani Templom",
+            "ro": "Biserica Colegială La Candelaria",
+            "en": "Collegiate Church of La Candelaria"
+          },
+          "coords": [
+            -6.419303,
+            38.426009
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
+            "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
+            "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Catalina",
+            "hu": "Santa Catalina Kolostor",
+            "ro": "Mănăstirea Santa Catalina",
+            "en": "Convent of Santa Catalina"
+          },
+          "coords": [
+            -6.420158,
+            38.424545
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die friedliche Atmosphäre dieses historischen Klosters ein, um seine Architektur zu bewundern, und bewahren Sie dabei respektvolle Stille.",
+            "hu": "Lépjen be ennek a történelmi kolostornak a békés légkörébe, hogy megcsodálja építészetét, miközben tiszteletteljes csendet tart a látogatás alatt.",
+            "ro": "Pășiți în atmosfera pașnică a acestei mănăstiri istorice pentru a-i admira arhitectura, păstrând o liniște respectuoasă în timpul vizitei dumneavoastră.",
+            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Santa Clara",
+            "hu": "Santa Clara Múzeum",
+            "ro": "Muzeul Santa Clara",
+            "en": "Santa Clara Museum"
+          },
+          "coords": [
+            -6.418582,
+            38.423652
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
+            "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
+            "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Marina",
+            "hu": "Santa Marina Templom",
+            "ro": "Biserica Santa Marina",
+            "en": "Church of Santa Marina"
+          },
+          "coords": [
+            -6.417365,
+            38.423678
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die elegante Fassade dieser bezaubernden Kirche, die im warmen Licht des späten Vormittags besonders schön wirkt.",
+            "hu": "Szánjon egy pillanatot a bájos templom elegáns homlokzatának megcsodálására, amely különösen gyönyörű a késő délelőtti meleg fényben fürödve.",
+            "ro": "Alocați un moment pentru a aprecia fațada elegantă a acestei biserici fermecătoare, care arată deosebit de frumos în lumina caldă a dimineții.",
+            "en": "Take a moment to appreciate the elegant facade of this charming church, which looks especially beautiful when bathed in the warm late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Medizingeschichte der Extremadura",
+            "hu": "Extremadura Orvostörténeti Múzeuma",
+            "ro": "Muzeul de Istorie a Medicinei din Extremadura",
+            "en": "Museum of the History of Medicine of Extremadura"
+          },
+          "coords": [
+            -6.41371,
+            38.420347
+          ],
+          "category": "museum",
+          "arrive_at": "14:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
+            "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
+            "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am beeindruckenden Casa-Palacio del Conde de la Corte, gefolgt von der nahegelegenen majestätischen Colegiata de la Candelaria.\nMittags erwartet Sie ein ruhiger Spaziergang zum Convento de Santa Catalina, bevor Sie die Schätze des faszinierenden Museo Santa Clara erkunden.\nAm Nachmittag halten Sie kurz an der Iglesia de Santa Marina, um danach in die fesselnde Medizingeschichte der Extremadura einzutauchen.\nDer Abend klingt mit einem entspannten Spaziergang durch Zafras Zentrum aus, wo Sie das reiche architektonische Erbe Revue passieren lassen.",
+        "hu": "A reggel a lenyűgöző Casa-Palacio del Conde de la Corte-nál kezdődik, amelyet a közeli, fenséges Colegiata de la Candelaria megtekintése követ.\nA dél egy békés sétára hív a Convento de Santa Catalina felé, mielőtt felfedezné a Museo Santa Clara lenyűgöző kincseit és művészeti alkotásait.\nDélután tegyen egy rövid kitérőt az Iglesia de Santa Marina felé, majd merüljön el Extremadura érdekfeszítő és különleges orvostörténetében.\nAz este egy kellemes sétával zárul Zafra hangulatos központjában, miközben visszagondol a nap során látott gazdag építészeti örökségre.",
+        "ro": "Dimineața începe la impresionantul Casa-Palacio del Conde de la Corte, urmat de o vizită la maiestuoasa Colegiata de la Candelaria din apropiere.\nLa amiază, bucurați-vă de o plimbare liniștită către Convento de Santa Catalina, înainte de a explora comorile fascinante ale Museo Santa Clara.\nDupă-amiaza oferă o scurtă oprire la Iglesia de Santa Marina, urmată de o imersiune în istoria medicală intrigantă a Extremadurei.\nSeara se încheie cu o plimbare relaxantă prin centrul fermecător al Zafrei, reflectând asupra bogatei moșteniri arhitecturale văzute astăzi.",
+        "en": "Morning begins at the impressive Casa-Palacio del Conde de la Corte, where noble history sets the tone, followed by the nearby Colegiata de la Candelaria.\nMidday invites a peaceful stroll to Convento de Santa Catalina, a place of quiet reflection before exploring the treasures of Museo Santa Clara.\nAfternoon offers a brief stop at Iglesia de Santa Marina before immersing yourself in the fascinating medical history of Extremadura.\nEvening winds down with a relaxed walk through Zafra's charming center, reflecting on the rich blend of architecture and heritage seen today."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 2.68,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von San Francisco",
+            "hu": "San Francisco Torony",
+            "ro": "Turnul San Francisco",
+            "en": "Tower of San Francisco"
+          },
+          "coords": [
+            -6.413068,
+            38.43237
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen beeindruckenden historischen Turm, der einst zu einem großen Komplex gehörte, und tragen Sie bequeme Schuhe für die Umgebung.",
+            "hu": "Tekintse meg ezt a lenyűgöző történelmi tornyot, amely egykor egy nagy komplexum része volt, és viseljen kényelmes cipőt a környék felfedezéséhez.",
+            "ro": "Priviți acest impresionant turn istoric care făcea parte dintr-un complex măreț și purtați pantofi confortabili pentru a explora terenurile din jur.",
+            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenkranzkloster",
+            "hu": "Rózsafüzér Kolostor",
+            "ro": "Mănăstirea Rozariului",
+            "en": "Convent of the Rosary"
+          },
+          "coords": [
+            -6.422165,
+            38.42814
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante religiöse Denkmal, um mehr über das lokale Erbe zu erfahren, aber beachten Sie mögliche Einschränkungen an Wochentagen.",
+            "hu": "Látogasson el ehhez a vallási műemlékhez, hogy megismerje a helyi örökséget, de vegye figyelembe, hogy a belső tér korlátozottan látogatható.",
+            "ro": "Vizitați acest monument religios pentru a afla despre bogata sa moștenire locală, dar rețineți că accesul în interior poate fi limitat în unele zile.",
+            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche La Candelaria",
+            "hu": "La Candelaria Társaskáptalani Templom",
+            "ro": "Biserica Colegială La Candelaria",
+            "en": "Collegiate Church of La Candelaria"
+          },
+          "coords": [
+            -6.419303,
+            38.426009
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
+            "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
+            "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Palacio del Conde de la Corte",
+            "hu": "Casa-Palacio del Conde de la Corte",
+            "ro": "Casa-Palacio del Conde de la Corte",
+            "en": "Casa-Palacio del Conde de la Corte"
+          },
+          "coords": [
+            -6.418128,
+            38.426281
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
+            "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Santa Clara",
+            "hu": "Santa Clara Múzeum",
+            "ro": "Muzeul Santa Clara",
+            "en": "Santa Clara Museum"
+          },
+          "coords": [
+            -6.418582,
+            38.423652
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
+            "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
+            "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturkomplex Theater Zafra",
+            "hu": "Zafra Színházi Kulturális Komplexum",
+            "ro": "Complexul Cultural Teatrul Zafra",
+            "en": "Zafra Theater Cultural Complex"
+          },
+          "coords": [
+            -6.421361,
+            38.423434
+          ],
+          "category": "cultural",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag der Stadt in diesem modernen Theaterkomplex und prüfen Sie den Spielplan auf mögliche offene Proben vor Ort.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a modern színházi komplexumban, és ellenőrizze a műsort, hogy vannak-e nyilvános próbák.",
+            "ro": "Experimentați pulsul cultural al orașului la acest complex teatral modern, verificând programul local în avans pentru a vedea dacă există repetiții.",
+            "en": "Experience the cultural heartbeat of the city at this modern theater complex, checking the local schedule in advance to see if any rehearsals are open."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Medizingeschichte der Extremadura",
+            "hu": "Extremadura Orvostörténeti Múzeuma",
+            "ro": "Muzeul de Istorie a Medicinei din Extremadura",
+            "en": "Museum of the History of Medicine of Extremadura"
+          },
+          "coords": [
+            -6.41371,
+            38.420347
+          ],
+          "category": "museum",
+          "arrive_at": "16:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
+            "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
+            "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Torre de San Francisco, von wo aus Sie auf Ihrer Radtour zum ruhigen Convento del Rosario fahren.\nMittags erreichen Sie das Herz von Zafra, um die Colegiata de la Candelaria und das markante Casa-Palacio del Conde de la Corte zu bestaunen.\nDer Nachmittag ist dem kunstvollen Museo Santa Clara und der zeitgenössischen Lebendigkeit des Complejo Cultural Teatro de Zafra gewidmet.\nDer Abend endet am einzigartigen Medizinhistorischen Museum und schließt einen dynamischen Tag voller Entdeckungen auf zwei Rädern ab.",
+        "hu": "A reggel lendületesen indul a történelmi Torre de San Francisco-nál, majd egy kellemes kerékpárút vezet a békés Convento del Rosario felé.\nDélben Zafra szívébe érkezik, ahol megcsodálhatja a Colegiata de la Candelaria-t és a lenyűgöző Casa-Palacio del Conde de la Corte-t.\nA délután a művészeti Museo Santa Clara-nak és a Complejo Cultural Teatro de Zafra modern, lüktető kulturális színterének van szentelve.\nAz este a különleges orvostörténeti múzeumban ér véget, lezárva egy dinamikus napot Zafra változatos nevezetességeinek kétkeréken történő felfedezésével.",
+        "ro": "Dimineața începe alert la istoricul Torre de San Francisco, pornind pe un traseu de ciclism care duce la liniștitul Convento del Rosario.\nAmiaza vă aduce în inima Zafrei pentru a admira Colegiata de la Candelaria și impresionantul Casa-Palacio del Conde de la Corte.\nDupă-amiaza este dedicată artisticului Museo Santa Clara și vibrației contemporane de la Complejo Cultural Teatro de Zafra.\nSeara se încheie la muzeul unic de istorie medicală, finalizând o zi dinamică de explorare a reperelor diverse ale Zafrei pe două roți.",
+        "en": "Morning starts briskly at the historic Torre de San Francisco, setting off on a cycling route that leads to the serene Convento del Rosario.\nMidday brings you to the heart of Zafra to marvel at Colegiata de la Candelaria and the striking Casa-Palacio del Conde de la Corte.\nAfternoon is dedicated to the artistic Museo Santa Clara and the contemporary vibrancy of the Complejo Cultural Teatro de Zafra.\nEvening concludes at the unique medical history museum, wrapping up a dynamic day of exploring Zafra's diverse landmarks on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 2.36,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm von San Francisco",
+            "hu": "San Francisco Torony",
+            "ro": "Turnul San Francisco",
+            "en": "Tower of San Francisco"
+          },
+          "coords": [
+            -6.413068,
+            38.43237
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen beeindruckenden historischen Turm, der einst zu einem großen Komplex gehörte, und tragen Sie bequeme Schuhe für die Umgebung.",
+            "hu": "Tekintse meg ezt a lenyűgöző történelmi tornyot, amely egykor egy nagy komplexum része volt, és viseljen kényelmes cipőt a környék felfedezéséhez.",
+            "ro": "Priviți acest impresionant turn istoric care făcea parte dintr-un complex măreț și purtați pantofi confortabili pentru a explora terenurile din jur.",
+            "en": "View this impressive historical tower that once formed part of a grand complex, and wear comfortable walking shoes to explore the surrounding grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosenkranzkloster",
+            "hu": "Rózsafüzér Kolostor",
+            "ro": "Mănăstirea Rozariului",
+            "en": "Convent of the Rosary"
+          },
+          "coords": [
+            -6.422165,
+            38.42814
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses markante religiöse Denkmal, um mehr über das lokale Erbe zu erfahren, aber beachten Sie mögliche Einschränkungen an Wochentagen.",
+            "hu": "Látogasson el ehhez a vallási műemlékhez, hogy megismerje a helyi örökséget, de vegye figyelembe, hogy a belső tér korlátozottan látogatható.",
+            "ro": "Vizitați acest monument religios pentru a afla despre bogata sa moștenire locală, dar rețineți că accesul în interior poate fi limitat în unele zile.",
+            "en": "Visit this striking religious monument to learn about its rich local heritage, but be aware that interior access might be limited on certain weekdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Palacio del Conde de la Corte",
+            "hu": "Casa-Palacio del Conde de la Corte",
+            "ro": "Casa-Palacio del Conde de la Corte",
+            "en": "Casa-Palacio del Conde de la Corte"
+          },
+          "coords": [
+            -6.418128,
+            38.426281
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen beeindruckenden mittelalterlichen Palast, der Zafras aristokratische Geschichte offenbart, aber prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori palotát, amely Zafra arisztokratikus múltját őrzi, de látogatás előtt ellenőrizze az udvar nyitvatartását.",
+            "ro": "Explorați acest palat medieval uimitor care dezvăluie istoria aristocratică a Zafrei, dar asigurați-vă că verificați orarul curții înainte de vizită.",
+            "en": "Explore this stunning medieval palace that reveals Zafra's aristocratic history, but be sure to check the courtyard opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche La Candelaria",
+            "hu": "La Candelaria Társaskáptalani Templom",
+            "ro": "Biserica Colegială La Candelaria",
+            "en": "Collegiate Church of La Candelaria"
+          },
+          "coords": [
+            -6.419303,
+            38.426009
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Altarbilder in dieser majestätischen Stiftskirche und bringen Sie eine Kamera für die atemberaubende religiöse Kunst mit.",
+            "hu": "Csodálja meg a fenséges társaskáptalani templom gyönyörű oltárképeit, és hozzon magával fényképezőgépet a lenyűgöző vallási művészet megörökítéséhez.",
+            "ro": "Admirați altarele rafinate din această maiestuoasă biserică colegială și aduceți o cameră pentru a surprinde detaliile artei sale religioase.",
+            "en": "Admire the exquisite altarpieces inside this majestic collegiate church, and bring a camera to capture the stunning details of its religious art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Santa Catalina",
+            "hu": "Santa Catalina Kolostor",
+            "ro": "Mănăstirea Santa Catalina",
+            "en": "Convent of Santa Catalina"
+          },
+          "coords": [
+            -6.420158,
+            38.424545
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die friedliche Atmosphäre dieses historischen Klosters ein, um seine Architektur zu bewundern, und bewahren Sie dabei respektvolle Stille.",
+            "hu": "Lépjen be ennek a történelmi kolostornak a békés légkörébe, hogy megcsodálja építészetét, miközben tiszteletteljes csendet tart a látogatás alatt.",
+            "ro": "Pășiți în atmosfera pașnică a acestei mănăstiri istorice pentru a-i admira arhitectura, păstrând o liniște respectuoasă în timpul vizitei dumneavoastră.",
+            "en": "Step into the peaceful atmosphere of this historic convent to admire its beautiful architecture, keeping a respectful silence during your serene visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Santa Clara",
+            "hu": "Santa Clara Múzeum",
+            "ro": "Muzeul Santa Clara",
+            "en": "Santa Clara Museum"
+          },
+          "coords": [
+            -6.418582,
+            38.423652
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Artefakte in diesem Museum innerhalb eines Klosters und fragen Sie die Führer unbedingt nach versteckten Architekturdetails.",
+            "hu": "Fedezze fel a lenyűgöző kolostorban működő múzeum érdekes leleteit, és feltétlenül kérdezze meg az idegenvezetőket a rejtett építészeti részletekről.",
+            "ro": "Descoperiți artefacte fascinante în acest muzeu găzduit într-o mănăstire uimitoare, asigurându-vă că întrebați ghizii despre detaliile arhitecturale.",
+            "en": "Discover fascinating artifacts in this museum housed within a stunning convent, making sure to ask the guides about the hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Medizingeschichte der Extremadura",
+            "hu": "Extremadura Orvostörténeti Múzeuma",
+            "ro": "Muzeul de Istorie a Medicinei din Extremadura",
+            "en": "Museum of the History of Medicine of Extremadura"
+          },
+          "coords": [
+            -6.41371,
+            38.420347
+          ],
+          "category": "museum",
+          "arrive_at": "15:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die medizinische Geschichte der Extremadura ein und nehmen Sie sich Zeit für die historischen Exponate.",
+            "hu": "Merüljön el Extremadura érdekes orvostörténetében ebben az egyedülálló múzeumban, és szánjon elegendő időt a jól összeállított kiállítások elolvasására.",
+            "ro": "Pătrundeți în istoria medicală intrigantă a Extremadurei la acest muzeu unic, alocând suficient timp pentru a citi exponatele istorice bine îngrijite.",
+            "en": "Dive into the intriguing medical history of Extremadura at this unique museum, allowing ample time to read through the well-curated historical exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am großen Torre de San Francisco, bevor eine kurze Fahrt Sie zum friedlichen Gelände des Convento del Rosario führt.\nMittags fahren Sie direkt ins Stadtzentrum, um das edle Casa-Palacio del Conde de la Corte und die exquisite Colegiata de la Candelaria zu erkunden.\nDer Nachmittag bietet entspannte Wechsel zum Convento de Santa Catalina und den wunderbar kuratierten Sammlungen des Museo Santa Clara.\nDer Abend nähert sich beim Besuch des medizinischen Museums der Extremadura und rundet eine komfortable Autotour durch Zafra perfekt ab.",
+        "hu": "A reggel a nagyszerű Torre de San Francisco-nál indul, mielőtt egy rövid autóút a Convento del Rosario békés környezetébe vezetne.\nDélben közvetlenül a városközpontba hajt, hogy felfedezze a nemesi Casa-Palacio del Conde de la Corte-t és a pompás Colegiata de la Candelaria-t.\nA délután könnyedén folytatódik a Convento de Santa Catalina és a Museo Santa Clara gyönyörűen összeállított gyűjteményeinek megtekintésével.\nAz este közeledtével az extremadurai orvostörténeti múzeumot látogatja meg, egy kényelmes és átfogó autós túrára visszatekintve Zafra körül.",
+        "ro": "Dimineața debutează la mărețul Torre de San Francisco, înainte ca o scurtă plimbare cu mașina să vă ducă la liniștitul Convento del Rosario.\nAmiaza vă îndreaptă direct spre centrul orașului pentru a explora nobilul Casa-Palacio del Conde de la Corte și rafinata Colegiata de la Candelaria.\nDupă-amiaza continuă cu tranziții ușoare către Convento de Santa Catalina și colecțiile frumos organizate de la Museo Santa Clara.\nSeara se apropie în timp ce vizitați muzeul de istorie medicală din Extremadura, reflectând asupra unui tur auto confortabil al Zafrei.",
+        "en": "Morning kicks off at the grand Torre de San Francisco before a short drive takes you to the peaceful grounds of Convento del Rosario.\nMidday drives you directly to the city center to explore the noble Casa-Palacio del Conde de la Corte and the exquisite Colegiata de la Candelaria.\nAfternoon continues with easy transitions to Convento de Santa Catalina and the beautifully curated collections of Museo Santa Clara.\nEvening approaches as you visit the Extremadura medical history museum, reflecting on a comfortable and comprehensive driving tour of Zafra."
+      }
+    }
+  }
+}

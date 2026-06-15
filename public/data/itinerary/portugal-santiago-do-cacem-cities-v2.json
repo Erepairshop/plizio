@@ -1,0 +1,405 @@
+{
+  "city_id": "portugal-santiago-do-cacem-cities-v2",
+  "anchor": {
+    "name": "Santiago do Cacém",
+    "coords": [
+      -8.694722,
+      38.016944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho de Santiago do Cacém",
+            "hu": "Pelourinho de Santiago do Cacém",
+            "ro": "Pelourinho de Santiago do Cacém",
+            "en": "Pelourinho de Santiago do Cacém"
+          },
+          "coords": [
+            -8.697109,
+            38.015406
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Pranger, der die städtische Macht am Hauptplatz symbolisiert, und achten Sie in bequemen Schuhen auf die feinen Schnitzereien.",
+            "hu": "Csodálja meg a városi hatalmat jelképező történelmi pellengért a főtéren, és kényelmes cipőben sétálva figyelje meg a finom faragványokat.",
+            "ro": "Admirați stâlpul infamiei istoric ce reprezintă puterea municipală în piața centrală și căutați sculpturile delicate, purtând încălțăminte comodă.",
+            "en": "Admire the historic pillory representing municipal power in the central square, and look for the delicate carvings while wearing comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Santiago do Cacém",
+            "hu": "Igreja Matriz de Santiago do Cacém",
+            "ro": "Igreja Matriz de Santiago do Cacém",
+            "en": "Igreja Matriz de Santiago do Cacém"
+          },
+          "coords": [
+            -8.69788,
+            38.013874
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanisch-gotische Mutterkirche, um ihre sakrale Kunst zu bewundern, und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Lépjen be ebbe a román-gótikus főtemplomba, hogy megcsodálja szakrális művészetét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Intrați în această biserică mamă romanico-gotică pentru a-i admira arta sacră, asigurându-vă că o vizitați devreme pentru a evita căldura amiezii.",
+            "en": "Step inside this Romanesque-Gothic mother church to marvel at its sacred art, making sure to visit early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de São Pedro",
+            "hu": "Capela de São Pedro",
+            "ro": "Capela de São Pedro",
+            "en": "Capela de São Pedro"
+          },
+          "coords": [
+            -8.699634,
+            38.01583
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde Kapelle am Hang für einen ruhigen Moment der Besinnung und bringen Sie eine Kamera für die atemberaubende Aussicht mit.",
+            "hu": "Látogasson el ebbe a bájos hegyoldali kápolnába egy csendes pillanatra, és hozzon fényképezőgépet a környező történelmi sikátorokra nyíló kilátás miatt.",
+            "ro": "Vizitați această capelă fermecătoare de pe deal pentru un moment de liniște și aduceți un aparat foto pentru priveliștile uimitoare ale aleilor istorice.",
+            "en": "Visit this charming hillside chapel for a quiet moment of reflection, and bring a camera for the stunning views of the surrounding historical alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Santiago do Cacém",
+            "hu": "Museu Municipal de Santiago do Cacém",
+            "ro": "Museu Municipal de Santiago do Cacém",
+            "en": "Museu Municipal de Santiago do Cacém"
+          },
+          "coords": [
+            -8.691884,
+            38.01636
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische und ethnografische Geschichte der Region und fragen Sie das Personal nach den faszinierenden Miróbriga-Artefakten.",
+            "hu": "Fedezze fel a régió gazdag régészeti és néprajzi történelmét ebben a múzeumban, és kérdezze a helyi személyzetet a lenyűgöző Miróbriga-leletekről.",
+            "ro": "Explorați bogata istorie arheologică și etnografică a regiunii în acest muzeu și întrebați personalul despre fascinantele artefacte de la Miróbriga.",
+            "en": "Explore the region's rich archaeological and ethnographic history in this museum, and ask the local staff about the fascinating Miróbriga artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Cerro da Inês",
+            "hu": "Miradouro do Cerro da Inês",
+            "ro": "Miradouro do Cerro da Inês",
+            "en": "Miradouro do Cerro da Inês"
+          },
+          "coords": [
+            -8.695618,
+            38.023269
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem spektakulären Aussichtspunkt auf, um einen Panoramablick auf die Alentejo-Ebenen zu genießen, am besten bei gutem Licht für Fotos.",
+            "hu": "Másszon fel ehhez a látványos kilátóhoz, ahonnan panorámás kilátás nyílik az Alentejo-síkságra, és érkezzen világos nappal a legjobb fotókhoz.",
+            "ro": "Urcați la acest punct de belvedere spectaculos pentru vederi panoramice ale câmpiilor Alentejo, ajungând la amiază pentru cele mai vibrante culori foto.",
+            "en": "Climb up to this spectacular viewpoint for panoramic vistas of the Alentejo plains, arriving near sunset or midday for the most vibrant photo colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am historischen Pranger und saugen Sie die Atmosphäre auf. Gegen Mittag tauchen Sie in der Hauptkirche in das spirituelle Erbe ein. Verbringen Sie den frühen Nachmittag damit, im Stadtmuseum die lokale Geschichte zu entdecken. Beenden Sie Ihren gemütlichen Rundgang mit einem Panoramablick vom Aussichtspunkt Cerro da Inês.",
+        "hu": "Kezdje a reggelt a helyi hangulat magába szívásával a történelmi pellengérnél. Délidőben merüljön el a szellemi örökségben a főtemplomnál. Kora délután fedezze fel a helyi történelmet a városi múzeumban. Zárja a kényelmes sétát azzal, hogy gyönyörködik a Cerro da Inês kilátó által nyújtott panorámás kilátásban.",
+        "ro": "Începeți dimineața absorbind atmosfera locală la stâlpul infamiei istoric. Spre amiază, pătrundeți în patrimoniul spiritual la biserica principală. Petreceți prima parte a după-amiezii descoperind istoria locală la muzeul municipal. Încheiați-vă turul relaxant de mers pe jos bucurându-vă de vederile panoramice de la punctul de belvedere.",
+        "en": "Start your morning absorbing the local atmosphere at the historic pillory. As midday approaches, delve into the spiritual heritage at the main church and neighboring chapel. Spend your early afternoon uncovering local history at the municipal museum. Conclude your leisurely walking tour enjoying panoramic sunset views from the elevated Cerro da Inês viewpoint."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:18",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pelourinho de Santiago do Cacém",
+            "hu": "Pelourinho de Santiago do Cacém",
+            "ro": "Pelourinho de Santiago do Cacém",
+            "en": "Pelourinho de Santiago do Cacém"
+          },
+          "coords": [
+            -8.697109,
+            38.015406
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Pranger, der die städtische Macht am Hauptplatz symbolisiert, und achten Sie in bequemen Schuhen auf die feinen Schnitzereien.",
+            "hu": "Csodálja meg a városi hatalmat jelképező történelmi pellengért a főtéren, és kényelmes cipőben sétálva figyelje meg a finom faragványokat.",
+            "ro": "Admirați stâlpul infamiei istoric ce reprezintă puterea municipală în piața centrală și căutați sculpturile delicate, purtând încălțăminte comodă.",
+            "en": "Admire the historic pillory representing municipal power in the central square, and look for the delicate carvings while wearing comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho de Vento das Cumeadas",
+            "hu": "Moinho de Vento das Cumeadas",
+            "ro": "Moinho de Vento das Cumeadas",
+            "en": "Moinho de Vento das Cumeadas"
+          },
+          "coords": [
+            -8.687204,
+            38.015496
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese traditionelle portugiesische Windmühle auf dem Kamm und beachten Sie die klassischen Segel, die man am besten morgens betrachtet.",
+            "hu": "Fedezze fel ezt a hegygerincen álló hagyományos portugál szélmalmot, és figyelje meg a klasszikus vitorlákat, amelyeket szeles reggeleken érdemes megnézni.",
+            "ro": "Descoperiți această moară de vânt tradițională portugheză situată pe creastă și observați pânzele clasice, vizibile cel mai bine într-o dimineață cu vânt.",
+            "en": "Discover this traditional Portuguese windmill standing proudly on the ridge, and notice the classic canvas sails which are best viewed on a breezy morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de São Brás",
+            "hu": "Capela de São Brás",
+            "ro": "Capela de São Brás",
+            "en": "Capela de São Brás"
+          },
+          "coords": [
+            -8.685456,
+            38.010698
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte, aber elegante Architektur dieser kleinen Landkapelle, die einen ruhigen Rastplatz auf der Fahrradroute vor den antiken Ruinen bietet.",
+            "hu": "Vizsgálja meg ennek a kis vidéki kápolnának az egyszerű, mégis elegáns építészetét, amely békés pihenőhelyet nyújt a kerékpárút mentén a romok előtt.",
+            "ro": "Examinați arhitectura simplă, dar elegantă a acestei mici capele rurale, oferind un loc de odihnă senin pe traseul de biciclete înainte de ruine.",
+            "en": "Examine the simple yet elegant architecture of this small rural chapel, providing a serene rest stop along the bike route before exploring ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Romana de Miróbriga",
+            "hu": "Ponte Romana de Miróbriga",
+            "ro": "Ponte Romana de Miróbriga",
+            "en": "Ponte Romana de Miróbriga"
+          },
+          "coords": [
+            -8.683601,
+            38.009251
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese alte Steinbrücke, die jahrhundertelanger Geschichte standgehalten hat, und treten Sie vorsichtig auf die unebenen originalen Pflastersteine.",
+            "hu": "Keljen át ezen az évszázadokat túlélt ősi kőhídon, és lépkedjen óvatosan az óvárost összekötő, egyenetlen eredeti macskaköveken.",
+            "ro": "Traversați acest pod antic de piatră care a rezistat secolelor de istorie și pășiți cu grijă pe pietrele de pavaj originale inegale ce leagă orașul.",
+            "en": "Cross this ancient stone bridge that has withstood centuries of history, and step carefully on the uneven original paving stones connecting the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Matriz de Santiago do Cacém",
+            "hu": "Igreja Matriz de Santiago do Cacém",
+            "ro": "Igreja Matriz de Santiago do Cacém",
+            "en": "Igreja Matriz de Santiago do Cacém"
+          },
+          "coords": [
+            -8.69788,
+            38.013874
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanisch-gotische Mutterkirche, um ihre sakrale Kunst zu bewundern, und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Lépjen be ebbe a román-gótikus főtemplomba, hogy megcsodálja szakrális művészetét, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Intrați în această biserică mamă romanico-gotică pentru a-i admira arta sacră, asigurându-vă că o vizitați devreme pentru a evita căldura amiezii.",
+            "en": "Step inside this Romanesque-Gothic mother church to marvel at its sacred art, making sure to visit early to avoid the midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom zentralen Pranger in Richtung der malerischen Windmühle. Mittags fahren Sie an einer reizvollen Landkapelle vorbei durch offene Landschaften. Am Nachmittag folgen Sie den Spuren der Römer an der historischen Brücke von Miróbriga. Rollen Sie schließlich für einen besinnlichen Abschluss zur imposanten Hauptkirche zurück.",
+        "hu": "Kerékpározzon ki a friss reggeli levegőn a központi pellengértől a festői dombtetőn lévő szélmalom felé. Délben egy bájos vidéki kápolna mellett halad el. Délután kövesse az ókori rómaiak útját Miróbriga történelmi hídjánál. Végül guruljon vissza a lenyűgöző főtemplomhoz, hogy egy elgondolkodtató estével zárja a túrát.",
+        "ro": "Porniți cu bicicleta în aerul proaspăt al dimineții de la piața centrală spre moara de vânt pitorească. Amiaza vă poartă pe lângă o capelă rurală fermecătoare. După-amiaza, urmați calea romanilor antici la podul istoric din Miróbriga. La final, pedalați înapoi spre marea biserică mamă pentru un final de seară liniștit.",
+        "en": "Pedal out in the fresh morning air from the central pillory towards the scenic hilltop windmill. Midday brings you past a charming rural chapel as you ride through open landscapes. In the afternoon, trace the path of ancient Romans at the historic bridge of Miróbriga. Finally, cruise back to the grand mother church for a reflective evening end to your ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Cerro da Inês",
+            "hu": "Miradouro do Cerro da Inês",
+            "ro": "Miradouro do Cerro da Inês",
+            "en": "Miradouro do Cerro da Inês"
+          },
+          "coords": [
+            -8.695618,
+            38.023269
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem spektakulären Aussichtspunkt auf, um einen Panoramablick auf die Alentejo-Ebenen zu genießen, am besten bei gutem Licht für Fotos.",
+            "hu": "Másszon fel ehhez a látványos kilátóhoz, ahonnan panorámás kilátás nyílik az Alentejo-síkságra, és érkezzen világos nappal a legjobb fotókhoz.",
+            "ro": "Urcați la acest punct de belvedere spectaculos pentru vederi panoramice ale câmpiilor Alentejo, ajungând la amiază pentru cele mai vibrante culori foto.",
+            "en": "Climb up to this spectacular viewpoint for panoramic vistas of the Alentejo plains, arriving near sunset or midday for the most vibrant photo colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Santiago do Cacém",
+            "hu": "Museu Municipal de Santiago do Cacém",
+            "ro": "Museu Municipal de Santiago do Cacém",
+            "en": "Museu Municipal de Santiago do Cacém"
+          },
+          "coords": [
+            -8.691884,
+            38.01636
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische und ethnografische Geschichte der Region und fragen Sie das Personal nach den faszinierenden Miróbriga-Artefakten.",
+            "hu": "Fedezze fel a régió gazdag régészeti és néprajzi történelmét ebben a múzeumban, és kérdezze a helyi személyzetet a lenyűgöző Miróbriga-leletekről.",
+            "ro": "Explorați bogata istorie arheologică și etnografică a regiunii în acest muzeu și întrebați personalul despre fascinantele artefacte de la Miróbriga.",
+            "en": "Explore the region's rich archaeological and ethnographic history in this museum, and ask the local staff about the fascinating Miróbriga artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho da Campa",
+            "hu": "Moinho da Campa",
+            "ro": "Moinho da Campa",
+            "en": "Moinho da Campa"
+          },
+          "coords": [
+            -8.696136,
+            37.997715
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diese bezaubernde historische Mühle vor einer ländlichen Kulisse an und bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+            "hu": "Tekintse meg ezt a bájos történelmi malmot a gyönyörű vidéki környezetben, és maradjon a kijelölt utakon, hogy megvédje a körülötte lévő törékeny flórát.",
+            "ro": "Vizitați această fermecătoare moară istorică situată într-un cadru rural superb și rămâneți pe cărările marcate pentru a proteja flora delicată.",
+            "en": "Check out this charming historic mill structure set against a beautiful rural backdrop, and stay on the marked paths to protect the delicate flora around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruínas do Hipódromo Romano de Miróbriga",
+            "hu": "Ruínas do Hipódromo Romano de Miróbriga",
+            "ro": "Ruínas do Hipódromo Romano de Miróbriga",
+            "en": "Ruínas do Hipódromo Romano de Miróbriga"
+          },
+          "coords": [
+            -8.683704,
+            38.002491
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in Portugals einzigem vollständig sichtbaren römischen Hippodrom und bringen Sie viel Wasser und Sonnenschutz mit.",
+            "hu": "Lépjen vissza az időben Portugália egyetlen teljesen látható római hippodromjában, és hozzon sok vizet, mivel nagyon kevés az árnyék a környéken.",
+            "ro": "Întoarceți-vă în timp la singurul hipodrom roman complet vizibil din Portugalia, aducând multă apă și protecție solară, deoarece umbra este rară.",
+            "en": "Step back in time at Portugal's only fully visible Roman hippodrome, bringing plenty of water and sun protection since there is very little shade around."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Romana de Miróbriga",
+            "hu": "Ponte Romana de Miróbriga",
+            "ro": "Ponte Romana de Miróbriga",
+            "en": "Ponte Romana de Miróbriga"
+          },
+          "coords": [
+            -8.683601,
+            38.009251
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese alte Steinbrücke, die jahrhundertelanger Geschichte standgehalten hat, und treten Sie vorsichtig auf die unebenen originalen Pflastersteine.",
+            "hu": "Keljen át ezen az évszázadokat túlélt ősi kőhídon, és lépkedjen óvatosan az óvárost összekötő, egyenetlen eredeti macskaköveken.",
+            "ro": "Traversați acest pod antic de piatră care a rezistat secolelor de istorie și pășiți cu grijă pe pietrele de pavaj originale inegale ce leagă orașul.",
+            "en": "Cross this ancient stone bridge that has withstood centuries of history, and step carefully on the uneven original paving stones connecting the old town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum Aussichtspunkt, um zu sehen, wie die Stadt von oben erwacht. Verbringen Sie den Mittag damit, in die Exponate des örtlichen Museums einzutauchen. Der Nachmittag ist der Erkundung des weitläufigen römischen Hippodroms von Miróbriga gewidmet. Beenden Sie Ihren Ausflug mit einem Spaziergang über die nahegelegene antike römische Brücke.",
+        "hu": "Reggel először vezessen fel a kilátóhoz, hogy fentről figyelje a város ébredését. A telet töltse a helyi múzeum néprajzi kiállításainak felfedezésével és a malom meglátogatásával. A délutánt a hatalmas miróbrigai római hippodrom felfedezésének szenteljük. Zárja a napot egy békés sétával a közeli ókori római hídnál.",
+        "ro": "Conduceți la prima oră către punctul de belvedere pentru a vedea cum se trezește orașul de sus. Petreceți-vă amiaza scufundându-vă în expozițiile muzeului local și la o moară istorică. După-amiaza este dedicată explorării imensului hipodrom roman din Miróbriga. Încheiați-vă excursia cu o plimbare liniștită pe podul roman din apropiere.",
+        "en": "Drive up to the viewpoint first thing to witness the town awakening from above. Spend your midday diving into rich ethnographic exhibits at the local museum and spotting a historic mill. The afternoon is dedicated to exploring the sprawling Roman hippodrome of Miróbriga. Wrap up your day trip with a peaceful walk across the ancient Roman bridge nearby."
+      }
+    }
+  }
+}

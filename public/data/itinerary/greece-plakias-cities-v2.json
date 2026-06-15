@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-plakias-cities-v2",
+  "anchor": {
+    "name": "Plakias",
+    "coords": [
+      24.391667,
+      35.191667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Skinos Beach",
+            "de": "Strand Skinos",
+            "hu": "Skinos strand",
+            "ro": "Plaja Skinos"
+          },
+          "coords": [
+            24.390256,
+            35.191979
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy the crystal-clear waters and peaceful atmosphere of Skinos Beach, a perfect spot for swimming, but remember to bring water shoes for the rocky shoreline.",
+            "de": "Genießen Sie das kristallklare Wasser und die friedliche Atmosphäre am Skinos Beach, einem perfekten Ort zum Schwimmen, aber denken Sie an Badeschuhe für das felsige Ufer.",
+            "hu": "Élvezze a kristálytiszta vizet és a békés hangulatot a Skinos strandon, amely tökéletes hely az úszáshoz, de ne felejtsen el vizicipőt hozni a sziklás part miatt.",
+            "ro": "Bucurați-vă de apele cristaline și de atmosfera pașnică la plaja Skinos, un loc perfect pentru înot, dar nu uitați să aduceți încălțăminte de apă pentru malul stâncos."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Beach",
+            "de": "Strand Plakias",
+            "hu": "Plakias strand",
+            "ro": "Plaja Plakias"
+          },
+          "coords": [
+            24.393843,
+            35.19044
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Stroll along the expansive golden sands of Plakias Beach, where you can admire the surrounding cliffs, and arriving early guarantees the best spot near the cafes.",
+            "de": "Spazieren Sie über den weiten goldenen Sand des Plakias-Strandes, bewundern Sie die umliegenden Klippen, und ein frühes Erscheinen sichert den besten Platz nahe der Cafés.",
+            "hu": "Sétáljon végig a Plakias strand hatalmas aranyhomokján, ahonnan megcsodálhatja a környező sziklákat, a korai érkezés pedig garantálja a legjobb helyet a kávézók közelében.",
+            "ro": "Plimbați-vă pe nisipul auriu al plajei Plakias, unde puteți admira stâncile din jur, iar sosirea devreme vă garantează cel mai bun loc lângă cafenele."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Koules",
+            "de": "Festung Koules Plakias",
+            "hu": "Plakias Koules erőd",
+            "ro": "Plakias Koules"
+          },
+          "coords": [
+            24.405603,
+            35.190412
+          ],
+          "category": "castle",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Explore the historical ruins of Plakias Koules, an old fortress offering panoramic bay views, and wear sturdy shoes for the slightly uneven uphill path.",
+            "de": "Erkunden Sie die historischen Ruinen von Plakias Koules, einer alten Festung mit Panoramablick auf die Bucht, und tragen Sie festes Schuhwerk für den unebenen Weg bergauf.",
+            "hu": "Fedezze fel a Plakias Koules történelmi romjait, egy régi erődöt panorámás kilátással az öbölre, és viseljen masszív cipőt a kissé egyenetlen, emelkedő ösvényen.",
+            "ro": "Explorați ruinele istorice de la Plakias Koules, o veche fortăreață cu vederi panoramice la golf, și purtați încălțăminte solidă pentru poteca ușor accidentată la deal."
+          }
+        },
+        {
+          "name": {
+            "en": "Paligremnos Beach (Nudist)",
+            "de": "Paligremnos Strand",
+            "hu": "Paligremnos strand",
+            "ro": "Plaja Paligremnos"
+          },
+          "coords": [
+            24.4008,
+            35.180837
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "en": "Relax at Paligremnos Beach, renowned for its dramatic vertical cliff backdrop and clothing-optional vibe, making it ideal to bring plenty of sunscreen for a natural tan.",
+            "de": "Entspannen Sie sich am Paligremnos-Strand, der für seine senkrechten Klippen und die FKK-Kultur bekannt ist, und bringen Sie viel Sonnencreme für nahtlose Bräune mit.",
+            "hu": "Pihenjen a Paligremnos strandon, amely drámai, függőleges szikláiról és nudista jellegéről híres, így érdemes sok naptejet hozni a természetes barnuláshoz.",
+            "ro": "Relaxați-vă pe plaja Paligremnos, faimoasă pentru stâncile sale verticale și atmosfera naturistă, fiind ideal să aduceți multă cremă de soare pentru un bronz natural."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Korifi (Paligremnos)",
+            "de": "Korifi Plakias",
+            "hu": "Plakias Korifi",
+            "ro": "Plakias Korifi"
+          },
+          "coords": [
+            24.398577,
+            35.177372
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Hike up to Plakias Korifi to witness awe-inspiring historical cliffs that tower over the sea, taking care to stay away from the fragile edges while taking photos.",
+            "de": "Wandern Sie zum Plakias Korifi hinauf, um beeindruckende historische Klippen zu sehen, und halten Sie beim Fotografieren aus Sicherheitsgründen Abstand zu den Rändern.",
+            "hu": "Túrázzon fel a Plakias Korifi kilátóhoz, hogy megcsodálja a tenger fölé magasodó történelmi sziklákat, ügyelve arra, hogy fotózáskor távol maradjon a törékeny peremektől.",
+            "ro": "Urcați la Plakias Korifi pentru a admira stâncile istorice uimitoare ce se înalță deasupra mării, având grijă să stați departe de marginile fragile când faceți fotografii."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning absorbing the tranquil beauty of Skinos Beach before walking the long sandy stretch of Plakias. Midday takes you up to the historic ruins of Koules, offering sweeping sea views. Spend your afternoon unwinding at the unique Paligremnos Beach. As evening approaches, marvel at the imposing cliffs of Korifi glowing in the sunset light.",
+        "de": "Beginnen Sie Ihren Morgen mit der ruhigen Schönheit des Strandes von Skinos, bevor Sie den langen Sandstrand von Plakias entlangspazieren. Mittags geht es zu den historischen Ruinen von Koules mit herrlichem Meerblick. Verbringen Sie den Nachmittag am einzigartigen Paligremnos-Strand. Bewundern Sie abends die Klippen von Korifi im Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a Skinos strand nyugodt szépségével, majd sétáljon végig Plakias hosszú homokos partján. Délben látogasson el Koules történelmi romjaihoz, ahonnan csodás kilátás nyílik a tengerre. A délutánt a különleges Paligremnos strandon töltheti. Este csodálja meg a Korifi lenyűgöző szikláit, ahogy a naplemente fényében fürdenek.",
+        "ro": "Începeți dimineața bucurându-vă de frumusețea liniștită a plajei Skinos, înainte de a vă plimba pe întinderea de nisip din Plakias. La amiază vizitați ruinele istorice ale Koules, cu vederi ample. Petreceți după-amiaza relaxându-vă la plaja inedită Paligremnos. Spre seară, admirați stâncile impunătoare de la Korifi strălucind în lumina apusului."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Mill of Chatzis",
+            "de": "Chatzis-Mühle",
+            "hu": "Chatzis malom",
+            "ro": "Moara lui Chatzis"
+          },
+          "coords": [
+            24.396788,
+            35.202991
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Discover the rustic charm of the Mill of Chatzis, a quaint local landmark offering a glimpse into traditional Cretan life, and keep an eye out for local wildlife nearby.",
+            "de": "Entdecken Sie den rustikalen Charme der Chatzis-Mühle, eines idyllischen Wahrzeichens des traditionellen kretischen Lebens, und halten Sie Ausschau nach der lokalen Tierwelt.",
+            "hu": "Fedezze fel a Chatzis malom rusztikus varázsát, amely bepillantást enged a hagyományos krétai életbe, és tartsa nyitva a szemét a környék helyi vadvilágára is.",
+            "ro": "Descoperiți farmecul rustic al Morii lui Chatzis, un reper pitoresc care oferă o privire în viața tradițională cretană, și fiți cu ochii în patru după fauna locală."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Koules",
+            "de": "Festung Koules Plakias",
+            "hu": "Plakias Koules erőd",
+            "ro": "Plakias Koules"
+          },
+          "coords": [
+            24.405603,
+            35.190412
+          ],
+          "category": "castle",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "en": "Explore the historical ruins of Plakias Koules, an old fortress offering panoramic bay views, and wear sturdy shoes for the slightly uneven uphill path.",
+            "de": "Erkunden Sie die historischen Ruinen von Plakias Koules, einer alten Festung mit Panoramablick auf die Bucht, und tragen Sie festes Schuhwerk für den unebenen Weg bergauf.",
+            "hu": "Fedezze fel a Plakias Koules történelmi romjait, egy régi erődöt panorámás kilátással az öbölre, és viseljen masszív cipőt a kissé egyenetlen, emelkedő ösvényen.",
+            "ro": "Explorați ruinele istorice de la Plakias Koules, o veche fortăreață cu vederi panoramice la golf, și purtați încălțăminte solidă pentru poteca ușor accidentată la deal."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Beach",
+            "de": "Strand Plakias",
+            "hu": "Plakias strand",
+            "ro": "Plaja Plakias"
+          },
+          "coords": [
+            24.393843,
+            35.19044
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Stroll along the expansive golden sands of Plakias Beach, where you can admire the surrounding cliffs, and arriving early guarantees the best spot near the cafes.",
+            "de": "Spazieren Sie über den weiten goldenen Sand des Plakias-Strandes, bewundern Sie die umliegenden Klippen, und ein frühes Erscheinen sichert den besten Platz nahe der Cafés.",
+            "hu": "Sétáljon végig a Plakias strand hatalmas aranyhomokján, ahonnan megcsodálhatja a környező sziklákat, a korai érkezés pedig garantálja a legjobb helyet a kávézók közelében.",
+            "ro": "Plimbați-vă pe nisipul auriu al plajei Plakias, unde puteți admira stâncile din jur, iar sosirea devreme vă garantează cel mai bun loc lângă cafenele."
+          }
+        },
+        {
+          "name": {
+            "en": "Skinos Beach",
+            "de": "Strand Skinos",
+            "hu": "Skinos strand",
+            "ro": "Plaja Skinos"
+          },
+          "coords": [
+            24.390256,
+            35.191979
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Enjoy the crystal-clear waters and peaceful atmosphere of Skinos Beach, a perfect spot for swimming, but remember to bring water shoes for the rocky shoreline.",
+            "de": "Genießen Sie das kristallklare Wasser und die friedliche Atmosphäre am Skinos Beach, einem perfekten Ort zum Schwimmen, aber denken Sie an Badeschuhe für das felsige Ufer.",
+            "hu": "Élvezze a kristálytiszta vizet és a békés hangulatot a Skinos strandon, amely tökéletes hely az úszáshoz, de ne felejtsen el vizicipőt hozni a sziklás part miatt.",
+            "ro": "Bucurați-vă de apele cristaline și de atmosfera pașnică la plaja Skinos, un loc perfect pentru înot, dar nu uitați să aduceți încălțăminte de apă pentru malul stâncos."
+          }
+        },
+        {
+          "name": {
+            "en": "Fotinari Beach",
+            "de": "Strand Fotinari",
+            "hu": "Fotinari strand",
+            "ro": "Plaja Fotinari"
+          },
+          "coords": [
+            24.372749,
+            35.192202
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "en": "Escape the crowds at Fotinari Beach, a secluded cove perfect for snorkeling among colorful fish, just be sure to pack your own snacks as amenities are limited.",
+            "de": "Entfliehen Sie den Massen am Fotinari-Strand, einer abgelegenen Bucht, die sich perfekt zum Schnorcheln eignet. Packen Sie Snacks ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Meneküljön el a tömeg elől a Fotinari strandon, amely egy félreeső öböl, kiváló sznorkelezéshez, de vigyen magával saját harapnivalót, mivel a szolgáltatások korlátozottak.",
+            "ro": "Scăpați de aglomerație la plaja Fotinari, un golf izolat perfect pentru snorkeling printre pești colorați, asigurați-vă doar că vă aduceți propriile gustări."
+          }
+        },
+        {
+          "name": {
+            "en": "Souda Beach",
+            "de": "Strand Souda",
+            "hu": "Souda strand",
+            "ro": "Plaja Souda"
+          },
+          "coords": [
+            24.365559,
+            35.192029
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Unwind at Souda Beach, famous for its lush palm trees and refreshing river estuary, offering an excellent opportunity to grab a fresh seafood lunch at the nearby tavernas.",
+            "de": "Entspannen Sie am Souda-Strand, berühmt für üppige Palmen und die erfrischende Flussmündung, was eine hervorragende Gelegenheit für ein frisches Mittagessen bietet.",
+            "hu": "Kapcsolódjon ki a pálmafáiról és a folyótorkolatról híres Souda strandon, amely kiváló lehetőséget kínál arra, hogy a közeli tavernában friss tenger gyümölcseit ebédeljen.",
+            "ro": "Relaxați-vă pe plaja Souda, faimoasă pentru palmierii luxurianți și estuarul răcoros al râului, oferind o oportunitate excelentă de a savura fructe de mare la tavernele din apropiere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Kick off your cycling tour inland at the rustic Mill of Chatzis, enjoying the morning breeze. By midday, pedal to Koules for a touch of history, then roll down to Plakias Beach for a swim. Your afternoon follows the stunning coastline to the serene cove of Fotinari. Finally, end your active day unwinding at the picturesque palm-fringed Souda Beach.",
+        "de": "Beginnen Sie Ihre Radtour im Landesinneren an der rustikalen Chatzis-Mühle und genießen Sie die Morgenbrise. Mittags radeln Sie zum Koules und dann hinunter zum Plakias-Strand. Ihr Nachmittag folgt der atemberaubenden Küste bis zur ruhigen Bucht von Fotinari. Lassen Sie den aktiven Tag am malerischen, von Palmen gesäumten Souda-Strand ausklingen.",
+        "hu": "Kezdje kerékpártúráját a szárazföld belsejében a rusztikus Chatzis malomnál. Délben tekerjen el a Koules romjaihoz egy kis történelemért, majd guruljon le a Plakias strandra fürdeni. A délután a lenyűgöző partvonalat követi a békés Fotinari öbölig. Végül zárja ezt az aktív napot a festői, pálmafákkal övezett Souda strandon pihenve.",
+        "ro": "Începeți turul cu bicicleta la moara rustică a lui Chatzis, bucurându-vă de briza dimineții. La prânz, pedalați spre Koules pentru istorie, apoi coborâți la plaja Plakias. După-amiaza urmează coasta uimitoare până la golful senin Fotinari. La final, încheiați-vă ziua activă relaxându-vă pe pitoreasca plajă Souda, mărginită de palmieri."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Souda Beach",
+            "de": "Strand Souda",
+            "hu": "Souda strand",
+            "ro": "Plaja Souda"
+          },
+          "coords": [
+            24.365559,
+            35.192029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Unwind at Souda Beach, famous for its lush palm trees and refreshing river estuary, offering an excellent opportunity to grab a fresh seafood lunch at the nearby tavernas.",
+            "de": "Entspannen Sie am Souda-Strand, berühmt für üppige Palmen und die erfrischende Flussmündung, was eine hervorragende Gelegenheit für ein frisches Mittagessen bietet.",
+            "hu": "Kapcsolódjon ki a pálmafáiról és a folyótorkolatról híres Souda strandon, amely kiváló lehetőséget kínál arra, hogy a közeli tavernában friss tenger gyümölcseit ebédeljen.",
+            "ro": "Relaxați-vă pe plaja Souda, faimoasă pentru palmierii luxurianți și estuarul răcoros al râului, oferind o oportunitate excelentă de a savura fructe de mare la tavernele din apropiere."
+          }
+        },
+        {
+          "name": {
+            "en": "Fotinari Beach",
+            "de": "Strand Fotinari",
+            "hu": "Fotinari strand",
+            "ro": "Plaja Fotinari"
+          },
+          "coords": [
+            24.372749,
+            35.192202
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Escape the crowds at Fotinari Beach, a secluded cove perfect for snorkeling among colorful fish, just be sure to pack your own snacks as amenities are limited.",
+            "de": "Entfliehen Sie den Massen am Fotinari-Strand, einer abgelegenen Bucht, die sich perfekt zum Schnorcheln eignet. Packen Sie Snacks ein, da die Infrastruktur begrenzt ist.",
+            "hu": "Meneküljön el a tömeg elől a Fotinari strandon, amely egy félreeső öböl, kiváló sznorkelezéshez, de vigyen magával saját harapnivalót, mivel a szolgáltatások korlátozottak.",
+            "ro": "Scăpați de aglomerație la plaja Fotinari, un golf izolat perfect pentru snorkeling printre pești colorați, asigurați-vă doar că vă aduceți propriile gustări."
+          }
+        },
+        {
+          "name": {
+            "en": "Mill of Chatzis",
+            "de": "Chatzis-Mühle",
+            "hu": "Chatzis malom",
+            "ro": "Moara lui Chatzis"
+          },
+          "coords": [
+            24.396788,
+            35.202991
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "en": "Discover the rustic charm of the Mill of Chatzis, a quaint local landmark offering a glimpse into traditional Cretan life, and keep an eye out for local wildlife nearby.",
+            "de": "Entdecken Sie den rustikalen Charme der Chatzis-Mühle, eines idyllischen Wahrzeichens des traditionellen kretischen Lebens, und halten Sie Ausschau nach der lokalen Tierwelt.",
+            "hu": "Fedezze fel a Chatzis malom rusztikus varázsát, amely bepillantást enged a hagyományos krétai életbe, és tartsa nyitva a szemét a környék helyi vadvilágára is.",
+            "ro": "Descoperiți farmecul rustic al Morii lui Chatzis, un reper pitoresc care oferă o privire în viața tradițională cretană, și fiți cu ochii în patru după fauna locală."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Koules",
+            "de": "Festung Koules Plakias",
+            "hu": "Plakias Koules erőd",
+            "ro": "Plakias Koules"
+          },
+          "coords": [
+            24.405603,
+            35.190412
+          ],
+          "category": "castle",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "en": "Explore the historical ruins of Plakias Koules, an old fortress offering panoramic bay views, and wear sturdy shoes for the slightly uneven uphill path.",
+            "de": "Erkunden Sie die historischen Ruinen von Plakias Koules, einer alten Festung mit Panoramablick auf die Bucht, und tragen Sie festes Schuhwerk für den unebenen Weg bergauf.",
+            "hu": "Fedezze fel a Plakias Koules történelmi romjait, egy régi erődöt panorámás kilátással az öbölre, és viseljen masszív cipőt a kissé egyenetlen, emelkedő ösvényen.",
+            "ro": "Explorați ruinele istorice de la Plakias Koules, o veche fortăreață cu vederi panoramice la golf, și purtați încălțăminte solidă pentru poteca ușor accidentată la deal."
+          }
+        },
+        {
+          "name": {
+            "en": "Plakias Korifi (Paligremnos)",
+            "de": "Korifi Plakias",
+            "hu": "Plakias Korifi",
+            "ro": "Plakias Korifi"
+          },
+          "coords": [
+            24.398577,
+            35.177372
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "en": "Hike up to Plakias Korifi to witness awe-inspiring historical cliffs that tower over the sea, taking care to stay away from the fragile edges while taking photos.",
+            "de": "Wandern Sie zum Plakias Korifi hinauf, um beeindruckende historische Klippen zu sehen, und halten Sie beim Fotografieren aus Sicherheitsgründen Abstand zu den Rändern.",
+            "hu": "Túrázzon fel a Plakias Korifi kilátóhoz, hogy megcsodálja a tenger fölé magasodó történelmi sziklákat, ügyelve arra, hogy fotózáskor távol maradjon a törékeny peremektől.",
+            "ro": "Urcați la Plakias Korifi pentru a admira stâncile istorice uimitoare ce se înalță deasupra mării, având grijă să stați departe de marginile fragile când faceți fotografii."
+          }
+        },
+        {
+          "name": {
+            "en": "Kalypso Cretan Village",
+            "de": "Kalypso Cretan Village",
+            "hu": "Kalypso krétai falu",
+            "ro": "Kalypso Cretan Village"
+          },
+          "coords": [
+            24.399264,
+            35.173167
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "End your day at Kalypso Cretan Village, a unique resort built into a rocky fjord perfect for diving, and enjoy a sunset drink at their scenic coastal bar.",
+            "de": "Beenden Sie den Tag im Kalypso Cretan Village, einem in einen felsigen Fjord gebauten Resort, und genießen Sie einen Drink zum Sonnenuntergang in der malerischen Bar.",
+            "hu": "Zárja a napot a Kalypso Cretan Village-ben, egy sziklás fjordba épült egyedi üdülőhelyen, és fogyasszon el egy naplementés italt a festői tengerparti bárban.",
+            "ro": "Încheiați-vă ziua la Kalypso Cretan Village, un complex unic construit într-un fiord stâncos, și bucurați-vă de o băutură la apus la barul lor pitoresc de pe coastă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your coastal drive begins at Souda Beach, perfect for a refreshing morning dip in its crystal waters. Continue to Fotinari before heading slightly inland to see the charming Mill of Chatzis midday. In the afternoon, explore Koules fortress and the towering Paligremnos cliffs. Conclude your adventure at Kalypso, diving into the dramatic rocky fjord.",
+        "de": "Ihre Fahrt entlang der Küste beginnt am Souda-Strand, ideal für ein morgendliches Bad. Fahren Sie weiter nach Fotinari und besuchen Sie mittags die bezaubernde Chatzis-Mühle. Erkunden Sie am Nachmittag die Festung Koules und die hoch aufragenden Paligremnos-Klippen. Beenden Sie Ihr Abenteuer in Kalypso mit einem Sprung in den dramatischen Fjord.",
+        "hu": "Autós utazása a Souda strandon kezdődik, amely tökéletes egy reggeli frissítő csobbanáshoz. Folytassa útját Fotinari felé, majd délben látogasson el a bájos Chatzis malomhoz. Délután fedezze fel a Koules erődöt és a Paligremnos szikláit. Kalandját a Kalypso üdülőhelyen fejezheti be, elmerülve a drámai sziklás fjord szépségében.",
+        "ro": "Călătoria cu mașina începe la plaja Souda, perfectă pentru o baie matinală revigorantă. Continuați spre Fotinari, iar la prânz vizitați fermecătoarea moară Chatzis. După-amiaza, explorați fortăreața Koules și stâncile falnice de la Paligremnos. Încheiați aventura la Kalypso, bucurându-vă de peisajul dramatic al fiordului stâncos la apus."
+      }
+    }
+  }
+}

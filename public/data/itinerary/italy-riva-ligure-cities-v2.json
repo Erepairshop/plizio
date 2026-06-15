@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-riva-ligure-cities-v2",
+  "anchor": {
+    "name": "Riva Ligure",
+    "coords": [
+      7.88267,
+      43.83832
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa parrocchiale di San Maurizio",
+            "hu": "Chiesa parrocchiale di San Maurizio",
+            "ro": "Chiesa parrocchiale di San Maurizio",
+            "en": "Chiesa parrocchiale di San Maurizio"
+          },
+          "coords": [
+            7.883346,
+            43.838008
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Barockfassade dieser zentralen Kirche, bevor Sie Ihren Tag beginnen, und achten Sie auf angemessene Kleidung im Inneren.",
+            "hu": "Csodálja meg a központi templom elegáns barokk homlokzatát a nap indításaként, és ügyeljen a visszafogott öltözködésre a belépéskor.",
+            "ro": "Admirați fațada barocă elegantă a acestei biserici centrale înainte de a începe ziua și asigurați-vă că sunteți îmbrăcați decent la interior.",
+            "en": "Admire the elegant baroque façade of this central church before starting your day, and remember to dress modestly when going inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario di Nostra Signora del Buon Consiglio",
+            "hu": "Santuario di Nostra Signora del Buon Consiglio",
+            "ro": "Santuario di Nostra Signora del Buon Consiglio",
+            "en": "Santuario di Nostra Signora del Buon Consiglio"
+          },
+          "coords": [
+            7.884763,
+            43.839665
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses beliebten Heiligtums nach einem kurzen Spaziergang vom Zentrum, idealerweise in den ruhigen Morgenstunden.",
+            "hu": "Fedezze fel e kedvelt szentély békés hangulatát egy rövid sétával a központból, amelyet a legjobb a csendes reggeli órákban látogatni.",
+            "ro": "Descoperiți atmosfera pașnică a acestui sanctuar iubit printr-o scurtă plimbare din centru, cel mai bine de vizitat în orele liniștite ale dimineții.",
+            "en": "Discover the peaceful atmosphere of this beloved sanctuary by taking a short walk from the center, best visited in the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "SEM Spazio Espositivo Multimediale",
+            "hu": "SEM Spazio Espositivo Multimediale",
+            "ro": "SEM Spazio Espositivo Multimediale",
+            "en": "SEM Spazio Espositivo Multimediale"
+          },
+          "coords": [
+            7.881919,
+            43.837571
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier mit interaktiven Multimedia-Ausstellungen in die lokale Geschichte ein und fragen Sie das Personal nach den englischen Audioguides.",
+            "hu": "Merüljön el a helyi történelemben az interaktív multimédiás kiállításokon, és a jobb élmény érdekében kérjen angol nyelvű audioguide-ot a személyzettől.",
+            "ro": "Pătrundeți în istoria locală cu ajutorul expozițiilor multimedia interactive de aici și solicitați personalului ghidurile audio în engleză pentru o experiență optimă.",
+            "en": "Dive into local history with interactive multimedia exhibits here, and ask the staff for the English audio guides for a better experience."
+          }
+        },
+        {
+          "name": {
+            "de": "La Torre",
+            "hu": "La Torre",
+            "ro": "La Torre",
+            "en": "La Torre"
+          },
+          "coords": [
+            7.879457,
+            43.836125
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von diesem ikonischen Küstenwachturm, der einst vor Piraten schützte, und genießen Sie die erfrischende Meeresbrise von der Promenade.",
+            "hu": "Készítsen fotókat erről az ikonikus tengerparti őrtoronyról, amely egykor kalózok ellen védett, és élvezze a frissítő tengeri szellőt a szomszédos sétányon.",
+            "ro": "Faceți fotografii cu acest turn de veghe de coastă iconic care apăra odată împotriva piraților și bucurați-vă de briza răcoroasă a mării de pe promenadă.",
+            "en": "Snap some photos of this iconic coastal watchtower that once defended against pirates, and enjoy the refreshing sea breeze from the adjacent promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Relitto Romano",
+            "hu": "Museo del Relitto Romano",
+            "ro": "Museo del Relitto Romano",
+            "en": "Museo del Relitto Romano"
+          },
+          "coords": [
+            7.892078,
+            43.83853
+          ],
+          "category": "museum",
+          "arrive_at": "13:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Artefakte, die aus einem römischen Schiffswrack geborgen wurden, und achten Sie auf die am besten erhaltenen Amphoren am Eingang.",
+            "hu": "Csodálja meg a római hajóroncsból megmentett ősi leleteket, és keresse a bejárat melletti vitrinekben a legjobb állapotban fennmaradt amfórákat.",
+            "ro": "Minunați-vă de artefactele antice recuperate dintr-o epavă romană și verificați vitrinele de lângă intrare pentru cele mai bine conservate amfore.",
+            "en": "Marvel at the ancient artifacts recovered from a Roman shipwreck, and check the display cases near the entrance for the best-preserved amphorae."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santo Stefano",
+            "hu": "Chiesa di Santo Stefano",
+            "ro": "Chiesa di Santo Stefano",
+            "en": "Chiesa di Santo Stefano"
+          },
+          "coords": [
+            7.897113,
+            43.837616
+          ],
+          "category": "religious",
+          "arrive_at": "15:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische Gebäude ein, um die wunderschönen religiösen Kunstwerke zu sehen, und achten Sie auf die Details am Hauptaltar.",
+            "hu": "Lépjen be ebbe a történelmi épületbe, hogy megtekinthesse a gyönyörű vallási műalkotásokat, és figyelje meg a főoltár bonyolult részleteit.",
+            "ro": "Pășiți în această clădire istorică pentru a vedea frumoasele sale opere de artă religioasă, asigurându-vă că observați detaliile complicate de pe altarul principal.",
+            "en": "Step inside this historic building to see its beautiful religious artworks, making sure to notice the intricate details on the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Azzurra",
+            "hu": "Baia Azzurra",
+            "ro": "Baia Azzurra",
+            "en": "Baia Azzurra"
+          },
+          "coords": [
+            7.900354,
+            43.836675
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenort, perfekt für eine nachmittägliche Pause, und bringen Sie ein kleines Handtuch mit, falls Sie ans Wasser gehen.",
+            "hu": "Pihenjen ezen a festői tengerparti helyen, amely tökéletes egy délutáni pihenéshez, és hozzon magával egy kis törülközőt, ha a vízbe mártaná a lábát.",
+            "ro": "Relaxați-vă în acest loc pitoresc de coastă perfect pentru odihna de după-amiază și aduceți un prosop mic dacă plănuiți să vă răcoriți picioarele în apă.",
+            "en": "Relax at this scenic coastal spot perfect for an afternoon rest, and bring a small towel if you plan to dip your toes in the clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Riva Ligure mit Besuchen der beliebtesten Kirchen und genießen Sie die friedliche Küstenatmosphäre.\n\nTauchen Sie am Mittag im Multimedia-Museum in die faszinierende Geschichte der Region ein, bevor Sie zu den Küstenbefestigungen aufbrechen.\n\nVerbringen Sie den Nachmittag mit einem Spaziergang entlang der wunderschönen Küste nach Santo Stefano al Mare und entdecken Sie unterwegs römische Antiquitäten.\n\nLassen Sie den Tag entspannt bei den sanften Wellen der Baia Azzurra ausklingen und genießen Sie den ruhigen mediterranen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Riva Ligure szívének felfedezésével és a legkedveltebb templomok meglátogatásával, élvezve a békés tengerparti hangulatot.\n\nDélben merüljön el a régió lenyűgöző történelmében a multimédiás múzeumban, mielőtt a part menti erődítmények felé venné az irányt.\n\nTöltse a délutánt egy sétával a gyönyörű parton Santo Stefano al Mare felé, útközben pedig fedezze fel a római kori régiségeket.\n\nZárja a napot a Baia Azzurra lágy hullámainál pihenve, és gyönyörködjön a csendes mediterrán naplementében.",
+        "ro": "Începeți dimineața explorând inima orașului Riva Ligure cu vizite la cele mai iubite biserici ale sale, bucurându-vă de atmosfera pașnică a coastei.\n\nLa prânz, pătrundeți în istoria fascinantă a regiunii la muzeul multimedia înainte de a vă îndrepta spre fortificațiile de coastă.\n\nPetreceți după-amiaza plimbându-vă de-a lungul coastei frumoase spre Santo Stefano al Mare, descoperind antichități romane pe parcurs.\n\nÎncheiați ziua relaxându-vă la valurile blânde de la Baia Azzurra, admirând apusul senin și liniștit al Mediteranei.",
+        "en": "Begin your morning exploring the heart of Riva Ligure with visits to its most beloved churches, embracing the peaceful coastal atmosphere.\n\nBy midday, dive into the fascinating history of the region at the multimedia museum before heading towards the coastal fortifications.\n\nSpend your afternoon walking along the beautiful shore towards Santo Stefano al Mare, discovering Roman antiquities along the way.\n\nConclude your day relaxing by the gentle waves at Baia Azzurra, taking in the serene Mediterranean sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Torre",
+            "hu": "La Torre",
+            "ro": "La Torre",
+            "en": "La Torre"
+          },
+          "coords": [
+            7.879457,
+            43.836125
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem historischen Turm an der Küste und nutzen Sie den nahegelegenen Weg zur berühmten Pista Ciclabile.",
+            "hu": "Kezdje kerékpártúráját ennél a történelmi tengerparti toronynál, és használja a közeli ösvényt, amely a híres Pista Ciclabile-hez csatlakozik.",
+            "ro": "Începeți plimbarea cu bicicleta de la acest turn istoric de pe coastă, folosind calea din apropiere pentru a vă conecta ușor la faimoasa Pista Ciclabile.",
+            "en": "Start your cycling trip at this historic tower on the coast, using the nearby path to easily connect to the famous Pista Ciclabile."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa parrocchiale di San Maurizio",
+            "hu": "Chiesa parrocchiale di San Maurizio",
+            "ro": "Chiesa parrocchiale di San Maurizio",
+            "en": "Chiesa parrocchiale di San Maurizio"
+          },
+          "coords": [
+            7.883346,
+            43.838008
+          ],
+          "category": "religious",
+          "arrive_at": "10:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad kurz auf dem Stadtplatz, um das verzierte Innere der Kirche zu bewundern, bevor Sie die Inlandsrouten in Angriff nehmen.",
+            "hu": "Parkolja le kerékpárját egy rövid időre a város főterén, hogy megcsodálja a templom díszes belső terét, mielőtt a szárazföldi utakra térne.",
+            "ro": "Parcați bicicleta scurt în piața orașului pentru a admira interiorul ornamentat al bisericii înainte de a aborda rutele din interior.",
+            "en": "Park your bike briefly in the town square to admire the church's ornate interior before tackling the inland routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Rocco",
+            "hu": "Cappella di San Rocco",
+            "ro": "Cappella di San Rocco",
+            "en": "Cappella di San Rocco"
+          },
+          "coords": [
+            7.890819,
+            43.853579
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schalten Sie für die Fahrt bergauf zu dieser malerischen ländlichen Kapelle herunter und füllen Sie Ihre Wasserflasche an einem lokalen Brunnen auf.",
+            "hu": "Váltson kisebb fokozatba a felfelé vezető úton ehhez a festői vidéki kápolnához, és töltsön vizet a kulacsába, ha talál egy helyi kutat.",
+            "ro": "Schimbați într-o treaptă inferioară pentru urcarea spre această capelă rurală pitorească, profitând de moment pentru a vă umple sticla cu apă dacă vedeți o fântână.",
+            "en": "Gear down for the uphill ride to this quaint rural chapel, taking a moment to refill your water bottle if you spot a local fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Relitto Romano",
+            "hu": "Museo del Relitto Romano",
+            "ro": "Museo del Relitto Romano",
+            "en": "Museo del Relitto Romano"
+          },
+          "coords": [
+            7.892078,
+            43.83853
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad draußen sicher ab, während Sie die faszinierenden archäologischen Unterwasserfunde aus der Römerzeit erkunden.",
+            "hu": "Zárja le biztonságosan kerékpárját odakint, amíg felfedezi a lenyűgöző víz alatti régészeti leleteket a római korból.",
+            "ro": "Legați-vă bicicleta în siguranță afară în timp ce explorați fascinantele descoperiri arheologice subacvatice din era romană.",
+            "en": "Lock your bike securely outside while you explore the fascinating underwater archaeological finds from the Roman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Azzurra",
+            "hu": "Baia Azzurra",
+            "ro": "Baia Azzurra",
+            "en": "Baia Azzurra"
+          },
+          "coords": [
+            7.900354,
+            43.836675
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an dieser wunderschönen blauen Bucht aus, die einen großartigen Ort bietet, um nach der Fahrt am Wasser abzukühlen.",
+            "hu": "Pihentesse meg a lábát ebben a gyönyű kék öbölben, amely remek helyszínt kínál, hogy a vízparton hűsöljön a tekerés után.",
+            "ro": "Odihniți-vă picioarele în acest golf albastru superb, care oferă un loc excelent pentru a sta lângă apă și a vă răcori după plimbare.",
+            "en": "Rest your legs at this beautiful blue bay, which offers a great spot to sit by the water and cool down after your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich früh auf den Küstenweg, um den alten Verteidigungsturm zu bewundern, bevor Sie das charmante Zentrum von Riva Ligure erkunden.\n\nFordern Sie sich mit einer kurzen Fahrt ins Landesinnere zu den ruhigeren Hügeln heraus, belohnt durch den malerischen Charme kleiner Kapellen.\n\nFahren Sie zurück auf Meereshöhe, um im Schiffswrack-Museum in die römische maritime Geschichte der Region einzutauchen.\n\nBeenden Sie Ihre Radtour mit einer wohlverdienten Pause in der Baia Azzurra und beobachten Sie die wechselnden Farben des Meeres.",
+        "hu": "Induljon kora reggel a parti ösvényen, hogy megcsodálja az ősi védőtornyot, mielőtt felfedezné Riva Ligure bájos központját.\n\nTegye próbára magát egy rövid szárazföldi tekeréssel a csendesebb vidéki dombok felé, melynek jutalma a kis helyi kápolnák varázsa.\n\nGuruljon vissza a tengerszintre, hogy a hajóroncs-múzeumban elmerüljön a régió római kori tengerészeti történelmében.\n\nFejezze be a kerékpártúrát egy jól megérdemelt pihenéssel a Baia Azzurránál, figyelve a tenger változó színeit.",
+        "ro": "Porniți devreme pe calea de coastă pentru a admira vechiul turn de apărare înainte de a explora inima fermecătoare a orașului Riva Ligure.\n\nProvocați-vă cu o scurtă plimbare spre interior, spre dealurile rurale mai liniștite, fiind răsplătiți de farmecul micilor capele locale.\n\nCoborâți înapoi la nivelul mării pentru a vă scufunda în istoria maritimă romană a regiunii la muzeul epavei.\n\nÎncheiați-vă călătoria cu bicicleta cu o odihnă bine meritată la Baia Azzurra, privind culorile schimbătoare ale mării.",
+        "en": "Hit the coastal path early to admire the ancient defensive tower before exploring the charming heart of Riva Ligure.\n\nChallenge yourself with a short ride inland towards the quieter rural hills, rewarded by the quaint charm of small local chapels.\n\nCoast back down to the sea level to dive into the region's Roman maritime history at the shipwreck museum.\n\nFinish your cycling journey with a well-deserved rest at Baia Azzurra, watching the changing colors of the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Michele Arcangelo",
+            "hu": "Chiesa di San Michele Arcangelo",
+            "ro": "Chiesa di San Michele Arcangelo",
+            "en": "Chiesa di San Michele Arcangelo"
+          },
+          "coords": [
+            7.870442,
+            43.858588
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser malerischen Hügelkirche, um den Panoramablick zu genießen, und suchen Sie nach markierten Parkplätzen an der Hauptstraße.",
+            "hu": "Hajtson fel ehhez a festői domboldali templomhoz a panorámáért, és keressen kijelölt parkolóhelyeket a közeli főút mellett.",
+            "ro": "Conduceți până la această biserică pitorească de pe deal pentru priveliști panoramice și căutați locurile de parcare amenajate chiar pe drumul principal.",
+            "en": "Drive up to this scenic hillside church for panoramic views, and look for designated parking spots just off the main road nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Antonio",
+            "hu": "Sant'Antonio",
+            "ro": "Sant'Antonio",
+            "en": "Sant'Antonio"
+          },
+          "coords": [
+            7.885803,
+            43.855731
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieser erhöhten religiösen Stätte und denken Sie daran, dass die engen Zufahrtsstraßen langsames Fahren erfordern.",
+            "hu": "Élvezze e magasan fekvő vallási helyszín nyugodt környezetét, de ne feledje, hogy a szűk bekötőutakon lassan és óvatosan kell vezetni.",
+            "ro": "Bucurați-vă de mediul senin al acestui sit religios ridicat, amintindu-vă că drumurile înguste de acces necesită o conducere lentă și atentă.",
+            "en": "Enjoy the serene environment of this elevated religious site, remembering that the narrow access roads require slow and careful driving."
+          }
+        },
+        {
+          "name": {
+            "de": "rifugio partigiano",
+            "hu": "rifugio partigiano",
+            "ro": "rifugio partigiano",
+            "en": "rifugio partigiano"
+          },
+          "coords": [
+            7.874786,
+            43.84934
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Partisanen-Zuflucht, um die lokale Geschichte des 2. Weltkriegs zu verstehen, und tragen Sie festes Schuhwerk für unebenes Gelände.",
+            "hu": "Fedezze fel ezt a történelmi partizán menedékhelyet a helyi II. világháborús történelem megismeréséhez, és viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați acest refugiu istoric al partizanilor pentru a înțelege istoria locală a celui de-al Doilea Război Mondial, purtând încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore this historical partisan refuge to understand local WWII history, wearing sturdy shoes as the ground around the site is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte San Giuseppe",
+            "hu": "Monte San Giuseppe",
+            "ro": "Monte San Giuseppe",
+            "en": "Monte San Giuseppe"
+          },
+          "coords": [
+            7.884043,
+            43.850718
+          ],
+          "category": "natural",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Fuß und machen Sie eine kurze Wanderung um diesen natürlichen Aussichtspunkt, bringen Sie Snacks mit, da es oben keine Einrichtungen gibt.",
+            "hu": "Parkoljon le a hegy lábánál, és tegyen egy rövid túrát ezen a természetes kilátóponton, és hozzon magával rágcsálnivalót, mivel a csúcson nincsenek szolgáltatások.",
+            "ro": "Parcați la bază și faceți o scurtă drumeție în jurul acestui punct de belvedere natural, aducând gustări, deoarece nu există facilități în vârf.",
+            "en": "Park at the base and take a short hike around this natural viewpoint, bringing along some snacks as there are no facilities at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "SEM Spazio Espositivo Multimediale",
+            "hu": "SEM Spazio Espositivo Multimediale",
+            "ro": "SEM Spazio Espositivo Multimediale",
+            "en": "SEM Spazio Espositivo Multimediale"
+          },
+          "coords": [
+            7.881919,
+            43.837571
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kehren Sie ins Stadtzentrum zurück, um die Multimedia-Ausstellungen zu besuchen, und nutzen Sie die öffentlichen Parkplätze hinter den Hauptgebäuden der Küste.",
+            "hu": "Térjen vissza a városközpontba a multimédiás kiállítások megtekintéséhez, és használja a parti főépületek mögötti nyilvános parkolókat.",
+            "ro": "Întoarceți-vă în centrul orașului pentru a vizita expozițiile multimedia, utilizând zonele de parcare publică situate în spatele clădirilor principale de pe coastă.",
+            "en": "Return to the town center to visit the multimedia exhibits, utilizing the public parking areas located behind the main coastal buildings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di Sant'Erasmo",
+            "hu": "Cappella di Sant'Erasmo",
+            "ro": "Cappella di Sant'Erasmo",
+            "en": "Cappella di Sant'Erasmo"
+          },
+          "coords": [
+            7.903864,
+            43.836901
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour in der Nähe der Küste an dieser charmanten Kapelle, die im Frühling oft mit wunderschönen lokalen Blumen geschmückt ist.",
+            "hu": "Fejezze be autós túráját a part közelében ennél a bájos kápolnánál, amelynek bejáratát tavasszal gyakran díszítik csodás helyi virágok.",
+            "ro": "Încheiați-vă turul cu mașina lângă coastă la această capelă fermecătoare, care primăvara prezintă adesea flori locale minunate în jurul intrării.",
+            "en": "Conclude your driving tour near the coast at this charming chapel, which often features lovely local flowers around its entrance in spring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Hügel rund um Riva Ligure, um friedliche Kirchen zu entdecken, die atemberaubende Panoramablicke auf die gesamte Küste bieten.\n\nSetzen Sie Ihre Erkundung des rauen Hinterlandes fort, indem Sie die historische Partisanen-Zuflucht besuchen und die Schönheit des Monte San Giuseppe genießen.\n\nFahren Sie zurück ins Küstenstadtzentrum, um durch interaktive moderne Ausstellungen in die lokale Kultur und Geschichte einzutauchen.\n\nBeenden Sie Ihre Reise mit einer malerischen Fahrt entlang der Küste und halten Sie an einer charmanten Strandkapelle, um den Tag Revue passieren zu lassen.",
+        "hu": "Autózzon fel a Riva Liguret körülvevő dombokra, hogy felfedezze a békés templomokat, amelyek lenyűgöző panorámát nyújtanak az egész partvonalra.\n\nFolytassa a zord szárazföld felfedezését a történelmi partizán menedékhely meglátogatásával és a Monte San Giuseppe természeti szépségének élvezetével.\n\nEreszkedjen vissza a tengerparti városközpontba, hogy az interaktív modern kiállításokon keresztül elmerüljön a helyi kultúrában és történelemben.\n\nFejezze be útját egy festői autózással a part mentén, megállva egy bájos tengerparti kápolnánál, hogy visszagondoljon a nap kalandjaira.",
+        "ro": "Conduceți pe dealurile din jurul orașului Riva Ligure pentru a descoperi biserici pașnice care oferă priveliști panoramice uimitoare asupra întregii coaste.\n\nContinuați explorarea interiorului accidentat vizitând refugiul istoric al partizanilor și bucurându-vă de frumusețea naturală a Muntelui San Giuseppe.\n\nCoborâți înapoi în centrul orașului de pe coastă pentru a vă scufunda în cultura și istoria locală prin expoziții moderne interactive.\n\nÎncheiați-vă călătoria cu o plimbare pitorească pe coastă, oprindu-vă la o capelă fermecătoare de la malul mării pentru a reflecta la aventurile zilei.",
+        "en": "Drive up into the hills surrounding Riva Ligure to discover peaceful churches offering stunning panoramic views of the entire coastline.\n\nContinue your exploration of the rugged inland by visiting the historic partisan refuge and embracing the natural beauty of Monte San Giuseppe.\n\nDescend back to the coastal town center to immerse yourself in local culture and history through interactive modern exhibits.\n\nFinish your trip with a scenic drive down the coast, stopping at a charming seaside chapel to reflect on the day's adventures."
+      }
+    }
+  }
+}

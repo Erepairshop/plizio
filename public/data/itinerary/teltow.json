@@ -1,0 +1,428 @@
+{
+  "city_id": "teltow",
+  "anchor": {
+    "name": "Teltow",
+    "coords": [
+      13.2706,
+      52.4022
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Teltow",
+            "hu": "Altstadt Teltow",
+            "ro": "Altstadt Teltow",
+            "en": "Altstadt Teltow"
+          },
+          "coords": [
+            13.241221,
+            52.398079
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die charmanten Gassen der Altstadt, bewundern Sie die Architektur und verpassen Sie nicht die Bäckerei an der Ecke für einen Snack.",
+            "hu": "Sétáljon végig az óváros hangulatos utcáin, csodálja meg a megőrzött építészetet, és térjen be a sarki pékségbe egy gyors és finom helyi harapnivalóért.",
+            "ro": "Plimbați-vă pe străzile fermecătoare ale orașului vechi pentru a admira arhitectura și nu ratați brutăria de la colț pentru o gustare rapidă.",
+            "en": "Stroll through the charming streets of the old town, admiring the preserved architecture, and don't miss the local bakery on the corner for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Nichtschwimmer Becken",
+            "hu": "Nichtschwimmer Becken",
+            "ro": "Nichtschwimmer Becken",
+            "en": "Nichtschwimmer Becken"
+          },
+          "coords": [
+            13.235387,
+            52.400663
+          ],
+          "category": "family",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser familienfreundliche Flachwasserbereich ist ideal, damit Kinder sicher planschen können, also bringen Sie unbedingt Handtücher und Sonnencreme mit.",
+            "hu": "Ez a családbarát sekély medence tökéletes ahhoz, hogy a gyerekek biztonságosan pancsoljanak, ezért mindenképpen hozzon magával törölközőt és naptejet.",
+            "ro": "Această piscină puțin adâncă pentru familii este perfectă pentru copii, așa că asigurați-vă că aduceți prosoape și multă cremă de protecție solară.",
+            "en": "This family-friendly shallow pool area is perfect for letting kids splash around safely, so be sure to bring your towels and plenty of sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Teltow",
+            "hu": "Heimatmuseum Teltow",
+            "ro": "Heimatmuseum Teltow",
+            "en": "Heimatmuseum Teltow"
+          },
+          "coords": [
+            13.261387,
+            52.402271
+          ],
+          "category": "museum",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum durch faszinierende Ausstellungen in die reiche regionale Geschichte ein und fragen Sie am Empfang nach Audioführern.",
+            "hu": "Merüljön el a gazdag regionális történelemben a múzeum lenyűgöző kiállításain keresztül, és kezdés előtt kérjen audioguide-ot a recepciónál.",
+            "ro": "Scufundați-vă în istoria regională bogată prin expoziții fascinante la acest muzeu și cereți un ghid audio la recepție înainte de a începe turul.",
+            "en": "Dive into the rich regional history through fascinating exhibits in this local museum, and check the front desk for English audio guides before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Heinrich-Laehr-Park",
+            "hu": "Heinrich-Laehr-Park",
+            "ro": "Heinrich-Laehr-Park",
+            "en": "Heinrich-Laehr-Park"
+          },
+          "coords": [
+            13.269695,
+            52.41761
+          ],
+          "category": "park",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang unter den alten Bäumen dieses Parks, der eine ruhige Flucht bietet, und halten Sie nach den historischen Gedenksteinen Ausschau.",
+            "hu": "Élvezze a békés sétát a kiterjedt park idős fái között, amely nyugodt kikapcsolódást kínál, és keresse meg a bent elrejtett történelmi emlékköveket.",
+            "ro": "Bucurați-vă de o plimbare liniștită printre copacii maturi ai acestui parc vast și fiți atenți la pietrele memoriale istorice ascunse în interior.",
+            "en": "Enjoy a peaceful walk among the mature trees of this expansive park, which offers a serene escape, and look out for the historic memorial stones hidden inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönower Park",
+            "hu": "Schönower Park",
+            "ro": "Schönower Park",
+            "en": "Schönower Park"
+          },
+          "coords": [
+            13.263396,
+            52.42531
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den grünen Rasenflächen oder folgen Sie den schattigen Wegen dieses Parks, was ihn zu einem idealen Ort für ein Nachmittagspicknick macht.",
+            "hu": "Pihenjen a zöld pázsiton vagy kövesse a jól gondozott park árnyékos ösvényeit, amely ideális helyszín egy kellemes délutáni piknikhez a családdal.",
+            "ro": "Relaxați-vă pe peluzele verzi sau urmați cărările umbrite ale acestei grădini publice, un loc ideal pentru a savura un prânz la pachet după-amiaza.",
+            "en": "Relax on the green lawns or follow the shaded paths of this well-kept public garden, making it an ideal spot to sit down with a packed lunch in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Altstadt von Teltow, wo Sie die historische Atmosphäre in sich aufnehmen können. Das flache Becken bietet danach eine erfrischende Pause.\nMittags tauchen Sie im Heimatmuseum tief in die reiche Geschichte der Region ein. Die Ausstellungen sind sehr informativ.\nDer Nachmittag steht ganz im Zeichen der Natur. Der Heinrich-Laehr-Park lädt zu einem ausgedehnten, entspannten Spaziergang unter großen Bäumen ein.\nZum Abschluss des Tages können Sie im Schönower Park auf den grünen Wiesen verweilen und den Abend gemütlich ausklingen lassen.",
+        "hu": "Kezdje a napot Teltow óvárosában, ahol magába szívhatja a történelmi hangulatot. A sekély medence frissítő szünetet kínál ezután.\nDélben merüljön el a régió gazdag történelmében a helyi múzeumban. A kiállítások rendkívül informatívak és érdekesek.\nA délután a természeté. A Heinrich-Laehr-Park hatalmas fáival és árnyékos ösvényeivel hosszú, pihentető sétára csábít.\nA nap lezárásaként a Schönower Park zöld pázsitján pihenhet, és kényelmesen élvezheti az estét.",
+        "ro": "Începeți ziua în orașul vechi din Teltow, unde puteți absorbi atmosfera istorică. Piscina puțin adâncă oferă apoi o pauză revigorantă.\nLa prânz, aprofundați istoria bogată a regiunii la muzeul local. Expozițiile de aici sunt extrem de informative și captivante.\nDupă-amiaza este dedicată naturii. Parcul Heinrich-Laehr vă invită la o plimbare lungă și relaxantă pe sub copaci uriași.\nPentru a încheia ziua, vă puteți relaxa pe pajiștile verzi din Parcul Schönower și puteți lăsa seara să se stingă confortabil.",
+        "en": "Start your day in the old town of Teltow, where you can soak up the historical atmosphere. The shallow pool nearby offers a refreshing pause.\nAt midday, dive deep into the rich history of the region at the local museum. The exhibitions are informative and engaging.\nThe afternoon is all about nature. The Heinrich-Laehr-Park invites you for an extended, relaxing walk under massive, old trees.\nTo round off the day, relax on the green lawns of Schönower Park, enjoying a peaceful and comforting evening in the fresh air."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 13.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Teltow",
+            "hu": "Altstadt Teltow",
+            "ro": "Altstadt Teltow",
+            "en": "Altstadt Teltow"
+          },
+          "coords": [
+            13.241221,
+            52.398079
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die charmanten Gassen der Altstadt, bewundern Sie die Architektur und verpassen Sie nicht die Bäckerei an der Ecke für einen Snack.",
+            "hu": "Sétáljon végig az óváros hangulatos utcáin, csodálja meg a megőrzött építészetet, és térjen be a sarki pékségbe egy gyors és finom helyi harapnivalóért.",
+            "ro": "Plimbați-vă pe străzile fermecătoare ale orașului vechi pentru a admira arhitectura și nu ratați brutăria de la colț pentru o gustare rapidă.",
+            "en": "Stroll through the charming streets of the old town, admiring the preserved architecture, and don't miss the local bakery on the corner for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Teltow",
+            "hu": "Heimatmuseum Teltow",
+            "ro": "Heimatmuseum Teltow",
+            "en": "Heimatmuseum Teltow"
+          },
+          "coords": [
+            13.261387,
+            52.402271
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum durch faszinierende Ausstellungen in die reiche regionale Geschichte ein und fragen Sie am Empfang nach Audioführern.",
+            "hu": "Merüljön el a gazdag regionális történelemben a múzeum lenyűgöző kiállításain keresztül, és kezdés előtt kérjen audioguide-ot a recepciónál.",
+            "ro": "Scufundați-vă în istoria regională bogată prin expoziții fascinante la acest muzeu și cereți un ghid audio la recepție înainte de a începe turul.",
+            "en": "Dive into the rich regional history through fascinating exhibits in this local museum, and check the front desk for English audio guides before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Teltow",
+            "hu": "Tiergarten Teltow",
+            "ro": "Tiergarten Teltow",
+            "en": "Tiergarten Teltow"
+          },
+          "coords": [
+            13.287006,
+            52.397819
+          ],
+          "category": "family",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Tierpark einheimische Wildtiere und Bauernhoftiere, was bei Kindern ein großer Hit ist, wenn Sie das Futter kaufen.",
+            "hu": "Fedezze fel a helyi vadvilágot és a barátságos haszonállatokat ebben a hangulatos állatkertben, amely hatalmas siker a gyerekek körében az etetés során.",
+            "ro": "Descoperiți animalele sălbatice locale și de fermă în acest zoo comunitar fermecător, care este un mare succes pentru copii dacă cumpărați pelete pentru hrănire.",
+            "en": "Discover local wildlife and friendly farm animals in this charming community zoo, which is a massive hit with children if you buy the approved feeding pellets."
+          }
+        },
+        {
+          "name": {
+            "de": "Heinrich-Laehr-Park",
+            "hu": "Heinrich-Laehr-Park",
+            "ro": "Heinrich-Laehr-Park",
+            "en": "Heinrich-Laehr-Park"
+          },
+          "coords": [
+            13.269695,
+            52.41761
+          ],
+          "category": "park",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang unter den alten Bäumen dieses Parks, der eine ruhige Flucht bietet, und halten Sie nach den historischen Gedenksteinen Ausschau.",
+            "hu": "Élvezze a békés sétát a kiterjedt park idős fái között, amely nyugodt kikapcsolódást kínál, és keresse meg a bent elrejtett történelmi emlékköveket.",
+            "ro": "Bucurați-vă de o plimbare liniștită printre copacii maturi ai acestui parc vast și fiți atenți la pietrele memoriale istorice ascunse în interior.",
+            "en": "Enjoy a peaceful walk among the mature trees of this expansive park, which offers a serene escape, and look out for the historic memorial stones hidden inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönower Park",
+            "hu": "Schönower Park",
+            "ro": "Schönower Park",
+            "en": "Schönower Park"
+          },
+          "coords": [
+            13.263396,
+            52.42531
+          ],
+          "category": "park",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den grünen Rasenflächen oder folgen Sie den schattigen Wegen dieses Parks, was ihn zu einem idealen Ort für ein Nachmittagspicknick macht.",
+            "hu": "Pihenjen a zöld pázsiton vagy kövesse a jól gondozott park árnyékos ösvényeit, amely ideális helyszín egy kellemes délutáni piknikhez a családdal.",
+            "ro": "Relaxați-vă pe peluzele verzi sau urmați cărările umbrite ale acestei grădini publice, un loc ideal pentru a savura un prânz la pachet după-amiaza.",
+            "en": "Relax on the green lawns or follow the shaded paths of this well-kept public garden, making it an ideal spot to sit down with a packed lunch in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Teltowkanal",
+            "hu": "Teltowkanal",
+            "ro": "Teltowkanal",
+            "en": "Teltowkanal"
+          },
+          "coords": [
+            13.362776,
+            52.444424
+          ],
+          "category": "river",
+          "arrive_at": "17:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den Ufern dieser historischen Wasserstraße entlang und versuchen Sie, die vorbeifahrenden Lastkähne von einer der Fußgängerbrücken zu sehen.",
+            "hu": "Sétáljon végig ennek a történelmi, régiót összekötő vízi útnak a partján, és próbálja megfigyelni az elhaladó uszályokat a gyalogoshidak egyikéről.",
+            "ro": "Plimbați-vă pe malurile acestei căi navigabile istorice care conectează regiunea și încercați să zăriți barjele trecătoare de pe podurile pietonale.",
+            "en": "Walk along the bustling banks of this historic waterway that connects the region, and try to spot the passing barges from one of the many pedestrian bridges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen der Altstadt, bevor Sie zum Heimatmuseum radeln, um mehr über die lokale Kultur zu erfahren.\nGegen Mittag erreichen Sie den Tiergarten, wo Sie inmitten der Natur picknicken und die niedlichen einheimischen Tiere beobachten können.\nAm Nachmittag fahren Sie durch die grünen Oasen des Heinrich-Laehr-Parks und des Schönower Parks, die beide herrliche Radwege bieten.\nDie Tour endet am malerischen Teltowkanal. Genießen Sie die Abendstimmung am Wasser und beobachten Sie die vorbeifahrenden Schiffe.",
+        "hu": "Kerékpártúrája az óváros szívében kezdődik, mielőtt a helytörténeti múzeumba pedálozna, hogy megismerje a helyi kultúrát.\nDélben érkezik az állatkertbe, ahol a természet lágy ölén piknikezhet és megfigyelheti a kedves helyi állatokat.\nDélután a Heinrich-Laehr-Park és a Schönower Park zöld oázisain halad keresztül, amelyek mindkettő csodálatos kerékpárutakat kínálnak.\nA túra a festői Teltow-csatornánál ér véget. Élvezze az esti hangulatot a vízparton, és figyelje az elhaladó hajókat.",
+        "ro": "Turul cu bicicleta începe în inima orașului vechi, înainte de a pedala spre muzeul local pentru a afla mai multe despre cultura zonei.\nLa prânz veți ajunge la zoo, unde puteți face un picnic în mijlocul naturii și puteți observa animalele locale drăguțe.\nDupă-amiaza veți pedala prin oazele verzi ale Parcului Heinrich-Laehr și Parcului Schönower, ambele oferind piste de biciclete minunate.\nTurul se termină la pitorescul Canal Teltow. Bucurați-vă de atmosfera de seară pe malul apei și urmăriți bărcile care trec.",
+        "en": "Your bike tour begins in the heart of the old town before pedaling to the local history museum to learn about the area's culture.\nAround midday, you will reach the animal park, where you can picnic surrounded by nature and observe the friendly local animals.\nIn the afternoon, cycle through the green oases of Heinrich-Laehr-Park and Schönower Park, both offering wonderful, flat bike paths.\nThe tour concludes at the scenic Teltow Canal. Enjoy the tranquil evening atmosphere by the water and watch the passing boats."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 13.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt Teltow",
+            "hu": "Altstadt Teltow",
+            "ro": "Altstadt Teltow",
+            "en": "Altstadt Teltow"
+          },
+          "coords": [
+            13.241221,
+            52.398079
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die charmanten Gassen der Altstadt, bewundern Sie die Architektur und verpassen Sie nicht die Bäckerei an der Ecke für einen Snack.",
+            "hu": "Sétáljon végig az óváros hangulatos utcáin, csodálja meg a megőrzött építészetet, és térjen be a sarki pékségbe egy gyors és finom helyi harapnivalóért.",
+            "ro": "Plimbați-vă pe străzile fermecătoare ale orașului vechi pentru a admira arhitectura și nu ratați brutăria de la colț pentru o gustare rapidă.",
+            "en": "Stroll through the charming streets of the old town, admiring the preserved architecture, and don't miss the local bakery on the corner for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Teltow",
+            "hu": "Heimatmuseum Teltow",
+            "ro": "Heimatmuseum Teltow",
+            "en": "Heimatmuseum Teltow"
+          },
+          "coords": [
+            13.261387,
+            52.402271
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum durch faszinierende Ausstellungen in die reiche regionale Geschichte ein und fragen Sie am Empfang nach Audioführern.",
+            "hu": "Merüljön el a gazdag regionális történelemben a múzeum lenyűgöző kiállításain keresztül, és kezdés előtt kérjen audioguide-ot a recepciónál.",
+            "ro": "Scufundați-vă în istoria regională bogată prin expoziții fascinante la acest muzeu și cereți un ghid audio la recepție înainte de a începe turul.",
+            "en": "Dive into the rich regional history through fascinating exhibits in this local museum, and check the front desk for English audio guides before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiergarten Teltow",
+            "hu": "Tiergarten Teltow",
+            "ro": "Tiergarten Teltow",
+            "en": "Tiergarten Teltow"
+          },
+          "coords": [
+            13.287006,
+            52.397819
+          ],
+          "category": "family",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Tierpark einheimische Wildtiere und Bauernhoftiere, was bei Kindern ein großer Hit ist, wenn Sie das Futter kaufen.",
+            "hu": "Fedezze fel a helyi vadvilágot és a barátságos haszonállatokat ebben a hangulatos állatkertben, amely hatalmas siker a gyerekek körében az etetés során.",
+            "ro": "Descoperiți animalele sălbatice locale și de fermă în acest zoo comunitar fermecător, care este un mare succes pentru copii dacă cumpărați pelete pentru hrănire.",
+            "en": "Discover local wildlife and friendly farm animals in this charming community zoo, which is a massive hit with children if you buy the approved feeding pellets."
+          }
+        },
+        {
+          "name": {
+            "de": "Schönower Park",
+            "hu": "Schönower Park",
+            "ro": "Schönower Park",
+            "en": "Schönower Park"
+          },
+          "coords": [
+            13.263396,
+            52.42531
+          ],
+          "category": "park",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den grünen Rasenflächen oder folgen Sie den schattigen Wegen dieses Parks, was ihn zu einem idealen Ort für ein Nachmittagspicknick macht.",
+            "hu": "Pihenjen a zöld pázsiton vagy kövesse a jól gondozott park árnyékos ösvényeit, amely ideális helyszín egy kellemes délutáni piknikhez a családdal.",
+            "ro": "Relaxați-vă pe peluzele verzi sau urmați cărările umbrite ale acestei grădini publice, un loc ideal pentru a savura un prânz la pachet după-amiaza.",
+            "en": "Relax on the green lawns or follow the shaded paths of this well-kept public garden, making it an ideal spot to sit down with a packed lunch in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Teltowkanal",
+            "hu": "Teltowkanal",
+            "ro": "Teltowkanal",
+            "en": "Teltowkanal"
+          },
+          "coords": [
+            13.362776,
+            52.444424
+          ],
+          "category": "river",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den Ufern dieser historischen Wasserstraße entlang und versuchen Sie, die vorbeifahrenden Lastkähne von einer der Fußgängerbrücken zu sehen.",
+            "hu": "Sétáljon végig ennek a történelmi, régiót összekötő vízi útnak a partján, és próbálja megfigyelni az elhaladó uszályokat a gyalogoshidak egyikéről.",
+            "ro": "Plimbați-vă pe malurile acestei căi navigabile istorice care conectează regiunea și încercați să zăriți barjele trecătoare de pe podurile pietonale.",
+            "en": "Walk along the bustling banks of this historic waterway that connects the region, and try to spot the passing barges from one of the many pedestrian bridges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem in der Altstadt von Teltow, wo Sie die Architektur bewundern, bevor Sie zügig zum Heimatmuseum weiterfahren.\nZur Mittagszeit bietet der Tiergarten ein großartiges Erlebnis für die ganze Familie, perfekt für einen entspannten Spaziergang.\nAm Nachmittag fahren Sie zum Schönower Park, der mit seinen weiten Rasenflächen und schattigen Bäumen pure Erholung verspricht.\nDen perfekten Abschluss bildet der Teltowkanal. Hier können Sie den Tag am Ufer ausklingen lassen, während die Sonne langsam untergeht.",
+        "hu": "Kezdje kényelmesen Teltow óvárosában, ahol megcsodálhatja az építészetet, mielőtt gyorsan továbbhajtana a helytörténeti múzeumba.\nDélben az állatkert nagyszerű élményt kínál az egész család számára, amely tökéletes egy nyugodt, közös sétához.\nDélután a Schönower Parkba vezet az útja, amely széles pázsitjával és árnyékos fáival tiszta kikapcsolódást ígér minden látogatónak.\nA tökéletes befejezést a Teltow-csatorna nyújtja. Itt a parton pihenve fejezheti be a napot, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți confortabil în orașul vechi din Teltow pentru a admira arhitectura, înainte de a conduce rapid spre muzeul local de istorie.\nLa prânz, parcul de animale oferă o experiență grozavă pentru întreaga familie, perfectă pentru o plimbare relaxantă și educativă.\nDupă-amiaza veți conduce către Parcul Schönower, care promite o relaxare pură cu peluzele sale largi și copacii umbroși.\nCanalul Teltow oferă finalul perfect. Aici vă puteți încheia ziua relaxându-vă pe mal, în timp ce soarele apune încet.",
+        "en": "Start comfortably in the old town of Teltow to admire the historic architecture before driving quickly to the local history museum.\nAt midday, the animal park offers a great experience for the whole family, providing the perfect setting for a relaxed stroll.\nIn the afternoon, drive over to Schönower Park, which promises pure relaxation with its wide, open lawns and large shady trees.\nThe Teltow Canal provides the perfect finale. Here you can end your day relaxing by the banks as the sun slowly sets over the water."
+      }
+    }
+  }
+}

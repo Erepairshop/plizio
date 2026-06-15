@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-ouranoupoli-cities-v2",
+  "anchor": {
+    "name": "Ouranoupoli",
+    "coords": [
+      23.981944,
+      40.326944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paralia Ouranoupoli",
+            "hu": "Paralia Ouranoupoli",
+            "ro": "Paralia Ouranoupoli",
+            "en": "Paralia Ouranoupoli"
+          },
+          "coords": [
+            23.978033,
+            40.3294
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an dieser lebhaften Promenade, perfekt für einen schnellen Kaffee, bevor die historischen Erkundungen des Tages beginnen.",
+            "hu": "Tegyen egy pihentető reggeli sétát ezen a nyüzsgő sétányon, amely tökéletes helyszín egy gyors kávéra a történelmi felfedezések megkezdése előtt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul acestei promenade vibrante, perfectă pentru o cafea rapidă înainte de a începe explorările istorice.",
+            "en": "Enjoy a relaxing morning stroll along this vibrant promenade, perfect for grabbing a quick coffee before the day's historical explorations begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Prosphorion",
+            "hu": "Prosphorion torony",
+            "ro": "Turnul Prosphorion",
+            "en": "Tower of Prosphorion"
+          },
+          "coords": [
+            23.979855,
+            40.325024
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den byzantinischen Turm an der Grenze zum Berg Athos und steigen Sie früh auf, um den weiten Blick ohne großen Andrang zu genießen.",
+            "hu": "Fedezze fel az Athosz-hegy határát őrző bizánci tornyot, és másszon fel korán a lenyűgöző kilátásért, elkerülve a nagyobb turistatömeget.",
+            "ro": "Explorați acest turn bizantin iconic care păzea granița Muntelui Athos și urcați devreme pentru a vă bucura de priveliști spectaculoase fără aglomerație.",
+            "en": "Explore this iconic Byzantine tower that guarded the Mount Athos border, and climb up early for sweeping views while avoiding the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Ouranoupoli",
+            "hu": "Ouranoupoli strand",
+            "ro": "Plaja Ouranoupoli",
+            "en": "Ouranoupolis Beach"
+          },
+          "coords": [
+            23.981332,
+            40.324548
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad an diesem zentralen Strand, aber bringen Sie unbedingt Wasser und Sonnenschutz mit, da die Ausstattung begrenzt ist.",
+            "hu": "Csobbanjon egyet ezen a könnyen megközelíthető központi strandon, de ne felejtsen el vizet és naptejet hozni, mivel a szolgáltatások korlátozottak.",
+            "ro": "Faceți o baie răcoritoare la această plajă centrală accesibilă, dar nu uitați să aduceți apă și protecție solară, facilitățile fiind destul de rare.",
+            "en": "Take a refreshing dip at this easily accessible central beach, but remember to bring your own water and sun protection as facilities can be sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Postbyzantinisches Aquädukt von Prosfori",
+            "hu": "Poszt-bizánci Prosfori vízvezeték",
+            "ro": "Apeductul post-bizantin din Prosfori",
+            "en": "Post-Byzantine Aqueduct of Prosfori"
+          },
+          "coords": [
+            23.995497,
+            40.32307
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Bögen dieses historischen Wasserkanals, der am besten im Mittagslicht besucht wird, um die Mauerwerkskunst zu schätzen.",
+            "hu": "Csodálja meg ennek a történelmi vízcsatornának a lenyűgöző boltíveit, amelyet a déli fényben érdemes megnézni, hogy értékelje a falazat szépségét.",
+            "ro": "Admirați arcadele impresionante ale acestui canal istoric de apă, cel mai bine de vizitat în lumina amiezii pentru a aprecia detaliile zidăriei.",
+            "en": "Marvel at the impressive arches of this historical water channel, which is best visited during the midday light to fully appreciate its masonry work."
+          }
+        },
+        {
+          "name": {
+            "de": "skites bungalows pool und strand",
+            "hu": "skites bungalows pool und strand",
+            "ro": "skites bungalows pool und strand",
+            "en": "skites bungalows pool und strand"
+          },
+          "coords": [
+            23.993627,
+            40.320244
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser komfortablen Anlage am Meer mit guten Einrichtungen, ein großartiger Zwischenstopp zwischen den historischen Ruinen.",
+            "hu": "Kapcsolódjon ki ebben a kényelmes, jó felszereltségű tengerparti komplexumban, amely remek átmeneti pihenőhely a történelmi romok között.",
+            "ro": "Relaxați-vă la acest complex confortabil la malul mării, cu facilități decente, un excelent loc de tranziție între diferitele ruine istorice antice.",
+            "en": "Unwind at this comfortable seaside complex featuring decent facilities, making it a great transitional spot between the ancient historical ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer frischen Brise entlang der lebhaften Paralia Ouranoupoli. Tauchen Sie mittags in die Geschichte ein und bewundern Sie den imposanten Turm von Prosphorion sowie das postbyzantinische Aquädukt. Verbringen Sie den Nachmittag mit der Erkundung des Strandes und lokaler Einrichtungen. Beenden Sie die Tour mit entspannten Momenten am glitzernden Mittelmeer.",
+        "hu": "Kezdje a reggelt a frissítő tengeri szellővel a nyüzsgő Paralia Ouranoupoli sétányon. Délben merüljön el a környék múltjában a Prosphorion torony és a poszt-bizánci vízvezeték megcsodálásával. Töltse a délutánt a tengerpart és a helyi rekreációs helyszínek felfedezésével. Zárja a túrát megnyugtató pillanatokkal a csillogó Földközi-tenger partján.",
+        "ro": "Începeți dimineața simțind briza răcoroasă de-a lungul vibrantei Paralia Ouranoupoli. La prânz, aprofundați istoria admirând impunătorul Turn Prosphorion și fascinantul apeduct post-bizantin. Petreceți după-amiaza explorând plaja și locurile locale de recreere. Încheiați turul cu momente relaxante pe țărmul strălucitor al Mării Mediterane.",
+        "en": "Start your morning feeling the refreshing breeze along the vibrant Paralia Ouranoupoli. By midday, delve into the area's deep roots by admiring the imposing Tower of Prosphorion and the fascinating Post-Byzantine Aqueduct. Spend the afternoon exploring the local beach areas and seaside recreational spots. End your walk with soothing moments by the sparkling Mediterranean Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kampoudi / Akrathos",
+            "hu": "Kampoudi / Akrathos",
+            "ro": "Kampoudi / Akrathos",
+            "en": "Kampoudi / Akrathos"
+          },
+          "coords": [
+            23.965239,
+            40.3447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der ruhigen Atmosphäre dieses Sandstrandes, wo frühe Besucher die besten Plätze für ungestörte Entspannung finden.",
+            "hu": "Kezdje a napot ennek a homokos partszakasznak a nyugodt légkörében, ahol a korán érkezők biztosíthatják a legjobb helyeket a zavartalan pihenéshez.",
+            "ro": "Începeți ziua în atmosfera liniștită a acestei plaje cu nisip, unde vizitatorii matinali își asigură cele mai bune locuri pentru relaxare netulburată.",
+            "en": "Start your day with the tranquil atmosphere of this sandy stretch, where early arrivals secure the best spots for uninterrupted morning relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Ouranoupoli",
+            "hu": "Paralia Ouranoupoli",
+            "ro": "Paralia Ouranoupoli",
+            "en": "Paralia Ouranoupoli"
+          },
+          "coords": [
+            23.978033,
+            40.3294
+          ],
+          "category": "recreational",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an dieser lebhaften Promenade, perfekt für einen schnellen Kaffee, bevor die historischen Erkundungen des Tages beginnen.",
+            "hu": "Tegyen egy pihentető reggeli sétát ezen a nyüzsgő sétányon, amely tökéletes helyszín egy gyors kávéra a történelmi felfedezések megkezdése előtt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul acestei promenade vibrante, perfectă pentru o cafea rapidă înainte de a începe explorările istorice.",
+            "en": "Enjoy a relaxing morning stroll along this vibrant promenade, perfect for grabbing a quick coffee before the day's historical explorations begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Prosphorion",
+            "hu": "Prosphorion torony",
+            "ro": "Turnul Prosphorion",
+            "en": "Tower of Prosphorion"
+          },
+          "coords": [
+            23.979855,
+            40.325024
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den byzantinischen Turm an der Grenze zum Berg Athos und steigen Sie früh auf, um den weiten Blick ohne großen Andrang zu genießen.",
+            "hu": "Fedezze fel az Athosz-hegy határát őrző bizánci tornyot, és másszon fel korán a lenyűgöző kilátásért, elkerülve a nagyobb turistatömeget.",
+            "ro": "Explorați acest turn bizantin iconic care păzea granița Muntelui Athos și urcați devreme pentru a vă bucura de priveliști spectaculoase fără aglomerație.",
+            "en": "Explore this iconic Byzantine tower that guarded the Mount Athos border, and climb up early for sweeping views while avoiding the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Postbyzantinisches Aquädukt von Prosfori",
+            "hu": "Poszt-bizánci Prosfori vízvezeték",
+            "ro": "Apeductul post-bizantin din Prosfori",
+            "en": "Post-Byzantine Aqueduct of Prosfori"
+          },
+          "coords": [
+            23.995497,
+            40.32307
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Bögen dieses historischen Wasserkanals, der am besten im Mittagslicht besucht wird, um die Mauerwerkskunst zu schätzen.",
+            "hu": "Csodálja meg ennek a történelmi vízcsatornának a lenyűgöző boltíveit, amelyet a déli fényben érdemes megnézni, hogy értékelje a falazat szépségét.",
+            "ro": "Admirați arcadele impresionante ale acestui canal istoric de apă, cel mai bine de vizitat în lumina amiezii pentru a aprecia detaliile zidăriei.",
+            "en": "Marvel at the impressive arches of this historical water channel, which is best visited during the midday light to fully appreciate its masonry work."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Zygos",
+            "hu": "Zygos-kolostor",
+            "ro": "Mănăstirea Zygos",
+            "en": "Monastery of Zygos"
+          },
+          "coords": [
+            24.002723,
+            40.316113
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen eines der ältesten, für alle zugänglichen Athos-Klöster, die einen einzigartigen Einblick in die Architektur bieten.",
+            "hu": "Fedezze fel a mindenki számára látogatható legrégebbi Athosz-kolostor lenyűgöző romjait, amely egyedülálló bepillantást nyújt a szerzetesi építészetbe.",
+            "ro": "Descoperiți ruinele fascinante ale uneia dintre cele mai vechi mănăstiri athonite accesibile tuturor, oferind o privire unică asupra arhitecturii monahale.",
+            "en": "Discover the fascinating ruins of one of the oldest Athos monasteries accessible to all visitors, providing a unique glimpse into monastic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterblick",
+            "hu": "Klosterblick",
+            "ro": "Klosterblick",
+            "en": "Klosterblick"
+          },
+          "coords": [
+            24.002855,
+            40.326482
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie von diesem Aussichtspunkt aus atemberaubende Panoramablicke auf die Mönchsrepublik fest, ideal für Fotos am späten Nachmittag.",
+            "hu": "Örökítse meg a szerzetesi köztársaság lélegzetelállító panorámáját erről a természetes kilátópontról, amely ideális a késő délutáni fotózáshoz.",
+            "ro": "Captați vederi panoramice uluitoare ale republicii monahale din acest punct de observație natural, ideal pentru o sesiune foto spre sfârșitul după-amiezii.",
+            "en": "Capture breathtaking panoramic views of the monastic republic from this natural vantage point, making it an ideal late afternoon photography stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie am Morgen an den Stränden von Kampoudi und Paralia in die Pedale. Fahren Sie zur Mittagszeit weiter, um den beeindruckenden Turm von Prosphorion und das historische Aquädukt zu besichtigen. Der Nachmittag bringt Sie zu den faszinierenden Ruinen des Klosters Zygos tief in der Natur. Beenden Sie Ihr Radabenteuer mit der majestätischen Aussicht vom Klosterblick.",
+        "hu": "Tekerjen végig a Kampoudi és Paralia tengerpartokon a friss reggeli órákban. Délben folytassa útját a lenyűgöző Prosphorion torony és a történelmi vízvezeték felfedezésével. A délután elkalauzol a természet lágy ölén fekvő Zygos-kolostor varázslatos romjaihoz. Fejezze be kerékpáros kalandját a Klosterblick fenséges panorámájával.",
+        "ro": "Pedalați dimineața pe plajele Kampoudi și Paralia. Continuați plimbarea la prânz pentru a explora impresionantul Turn Prosphorion și apeductul istoric. După-amiaza vă aduce la ruinele fascinante ale Mănăstirii Zygos, aflată în mijlocul naturii. Încheiați aventura pe bicicletă admirând priveliștea panoramică majestuoasă de la Klosterblick.",
+        "en": "Pedal your way along the sandy stretches of Kampoudi and Paralia in the fresh morning air. Ride on at midday to explore the impressive Tower of Prosphorion and the historic aqueduct. The afternoon brings you to the fascinating ruins of the Monastery of Zygos nestled in nature. Conclude your cycling adventure by taking in the majestic panoramic vistas from Klosterblick."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kampoudi / Akrathos",
+            "hu": "Kampoudi / Akrathos",
+            "ro": "Kampoudi / Akrathos",
+            "en": "Kampoudi / Akrathos"
+          },
+          "coords": [
+            23.965239,
+            40.3447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in der ruhigen Atmosphäre dieses Sandstrandes, wo frühe Besucher die besten Plätze für ungestörte Entspannung finden.",
+            "hu": "Kezdje a napot ennek a homokos partszakasznak a nyugodt légkörében, ahol a korán érkezők biztosíthatják a legjobb helyeket a zavartalan pihenéshez.",
+            "ro": "Începeți ziua în atmosfera liniștită a acestei plaje cu nisip, unde vizitatorii matinali își asigură cele mai bune locuri pentru relaxare netulburată.",
+            "en": "Start your day with the tranquil atmosphere of this sandy stretch, where early arrivals secure the best spots for uninterrupted morning relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Prosphorion",
+            "hu": "Prosphorion torony",
+            "ro": "Turnul Prosphorion",
+            "en": "Tower of Prosphorion"
+          },
+          "coords": [
+            23.979855,
+            40.325024
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den byzantinischen Turm an der Grenze zum Berg Athos und steigen Sie früh auf, um den weiten Blick ohne großen Andrang zu genießen.",
+            "hu": "Fedezze fel az Athosz-hegy határát őrző bizánci tornyot, és másszon fel korán a lenyűgöző kilátásért, elkerülve a nagyobb turistatömeget.",
+            "ro": "Explorați acest turn bizantin iconic care păzea granița Muntelui Athos și urcați devreme pentru a vă bucura de priveliști spectaculoase fără aglomerație.",
+            "en": "Explore this iconic Byzantine tower that guarded the Mount Athos border, and climb up early for sweeping views while avoiding the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Postbyzantinisches Aquädukt von Prosfori",
+            "hu": "Poszt-bizánci Prosfori vízvezeték",
+            "ro": "Apeductul post-bizantin din Prosfori",
+            "en": "Post-Byzantine Aqueduct of Prosfori"
+          },
+          "coords": [
+            23.995497,
+            40.32307
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden Bögen dieses historischen Wasserkanals, der am besten im Mittagslicht besucht wird, um die Mauerwerkskunst zu schätzen.",
+            "hu": "Csodálja meg ennek a történelmi vízcsatornának a lenyűgöző boltíveit, amelyet a déli fényben érdemes megnézni, hogy értékelje a falazat szépségét.",
+            "ro": "Admirați arcadele impresionante ale acestui canal istoric de apă, cel mai bine de vizitat în lumina amiezii pentru a aprecia detaliile zidăriei.",
+            "en": "Marvel at the impressive arches of this historical water channel, which is best visited during the midday light to fully appreciate its masonry work."
+          }
+        },
+        {
+          "name": {
+            "de": "skites bungalows pool und strand",
+            "hu": "skites bungalows pool und strand",
+            "ro": "skites bungalows pool und strand",
+            "en": "skites bungalows pool und strand"
+          },
+          "coords": [
+            23.993627,
+            40.320244
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser komfortablen Anlage am Meer mit guten Einrichtungen, ein großartiger Zwischenstopp zwischen den historischen Ruinen.",
+            "hu": "Kapcsolódjon ki ebben a kényelmes, jó felszereltségű tengerparti komplexumban, amely remek átmeneti pihenőhely a történelmi romok között.",
+            "ro": "Relaxați-vă la acest complex confortabil la malul mării, cu facilități decente, un excelent loc de tranziție între diferitele ruine istorice antice.",
+            "en": "Unwind at this comfortable seaside complex featuring decent facilities, making it a great transitional spot between the ancient historical ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruine des Wehrturms",
+            "hu": "Védelmi torony romja",
+            "ro": "Ruina turnului de apărare",
+            "en": "Defensive Tower ruin"
+          },
+          "coords": [
+            23.996755,
+            40.317915
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste dieses alten Verteidigungspostens und tragen Sie festes Schuhwerk, um das unebene und felsige Gelände sicher zu bewältigen.",
+            "hu": "Sétáljon végig az ősi védelmi állomás romjai között, és viseljen masszív cipőt, hogy biztonságosan navigálhasson az egyenetlen, sziklás terepen.",
+            "ro": "Plimbați-vă printre ruinele acestui vechi avanpost defensiv, purtând încălțăminte rezistentă pentru a naviga în siguranță pe terenul accidentat și stâncos.",
+            "en": "Wander through the rugged remains of this ancient defensive outpost, wearing sturdy shoes to safely navigate the uneven and rocky surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Zygos",
+            "hu": "Zygos-kolostor",
+            "ro": "Mănăstirea Zygos",
+            "en": "Monastery of Zygos"
+          },
+          "coords": [
+            24.002723,
+            40.316113
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen eines der ältesten, für alle zugänglichen Athos-Klöster, die einen einzigartigen Einblick in die Architektur bieten.",
+            "hu": "Fedezze fel a mindenki számára látogatható legrégebbi Athosz-kolostor lenyűgöző romjait, amely egyedülálló bepillantást nyújt a szerzetesi építészetbe.",
+            "ro": "Descoperiți ruinele fascinante ale uneia dintre cele mai vechi mănăstiri athonite accesibile tuturor, oferind o privire unică asupra arhitecturii monahale.",
+            "en": "Discover the fascinating ruins of one of the oldest Athos monasteries accessible to all visitors, providing a unique glimpse into monastic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Klosterblick",
+            "hu": "Klosterblick",
+            "ro": "Klosterblick",
+            "en": "Klosterblick"
+          },
+          "coords": [
+            24.002855,
+            40.326482
+          ],
+          "category": "natural",
+          "arrive_at": "16:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie von diesem Aussichtspunkt aus atemberaubende Panoramablicke auf die Mönchsrepublik fest, ideal für Fotos am späten Nachmittag.",
+            "hu": "Örökítse meg a szerzetesi köztársaság lélegzetelállító panorámáját erről a természetes kilátópontról, amely ideális a késő délutáni fotózáshoz.",
+            "ro": "Captați vederi panoramice uluitoare ale republicii monahale din acest punct de observație natural, ideal pentru o sesiune foto spre sfârșitul după-amiezii.",
+            "en": "Capture breathtaking panoramic views of the monastic republic from this natural vantage point, making it an ideal late afternoon photography stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Vormittag am Strand leitet den Tag ein, bevor Sie rasch zu den architektonischen Wundern im Zentrum, wie dem Turm von Prosphorion, fahren. Nachmittags reisen Sie komfortabel von den Küstenkomplexen zu den rauen Ruinen des Klosters Zygos und den alten Wachtürmen. Den malerischen Abschluss bildet der Klosterblick mit einem friedlichen Panorama der Region.",
+        "hu": "A tengerparti pihenéssel induló délelőtt után kényelmesen utazhat a központba, hogy megcsodálja a Prosphorion torony építészeti csodáit. Délután könnyedén eljuthat a parti komplexumoktól a Zygos-kolostor és az ősi őrtornyok zord romjaihoz. A nap festői lezárásaként élvezze a Klosterblick panorámáját, amely békés rálátást nyújt a régióra.",
+        "ro": "O dimineață relaxantă la plajă dă tonul zilei, înainte de a conduce rapid spre minunile arhitecturale din centru, cum ar fi Turnul Prosphorion. După-amiaza călătoriți confortabil de la complexele de coastă la ruinele brute ale Mănăstirii Zygos și vechile turnuri de veghe. Finalul pitoresc este oferit de Klosterblick, cu o panoramă pașnică asupra întregii regiuni.",
+        "en": "A relaxing morning on the beach sets the tone before you quickly drive to the central architectural wonders, including the Tower of Prosphorion. In the afternoon, journey comfortably from coastal complexes to the rugged ruins of the Monastery of Zygos and ancient watchtowers. The picturesque finale is provided by Klosterblick, offering a peaceful panorama of the region."
+      }
+    }
+  }
+}

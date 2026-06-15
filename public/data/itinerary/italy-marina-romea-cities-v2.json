@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-romea-cities-v2",
+  "anchor": {
+    "name": "Marina Romea",
+    "coords": [
+      12.27295,
+      44.51399
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia libera accesso cani",
+            "hu": "Spiaggia libera accesso cani",
+            "ro": "Spiaggia libera accesso cani",
+            "en": "Spiaggia libera accesso cani"
+          },
+          "coords": [
+            12.27994,
+            44.53281
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem hundefreundlichen Strand, der sich perfekt für einen Morgenspaziergang eignet, aber denken Sie an eigenes Wasser.",
+            "hu": "Élvezze a nyugodt légkört ezen a kutyabarát strandon, amely tökéletes egy reggeli sétához házi kedvencével, de hozzon magával ivóvizet.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă unde câinii sunt permişi, perfectă pentru o plimbare matinală, dar asigurați-vă că aveți apă la voi.",
+            "en": "Enjoy the relaxed atmosphere at this dog-friendly beach, perfect for a morning stroll with your furry friends while bringing your own water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenotafio di Maria Assunta Novelli",
+            "hu": "Cenotafio di Maria Assunta Novelli",
+            "ro": "Cenotafio di Maria Assunta Novelli",
+            "en": "Cenotafio di Maria Assunta Novelli"
+          },
+          "coords": [
+            12.277607,
+            44.525591
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden historischen Kenotaph für Maria Assunta Novelli die Ehre und beachten Sie die feinen Details auf dem Gedenkstein.",
+            "hu": "Rója le tiszteletét ezen a Maria Assunta Novellinek szentelt megható történelmi kenotáfiumon, és figyelje meg az emlékkő finom részleteit.",
+            "ro": "Prezentați-vă omagiile la acest cenotaf istoric emoționant dedicat Mariei Assunta Novelli și observați detaliile complicate de pe piatra memorială.",
+            "en": "Pay your respects at this poignant historical cenotaph dedicated to Maria Assunta Novelli, and notice the intricate details on the memorial stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Carolina",
+            "hu": "Bagno Carolina",
+            "ro": "Bagno Carolina",
+            "en": "Bagno Carolina"
+          },
+          "coords": [
+            12.279248,
+            44.522722
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter der Sonne in diesem gut ausgestatteten Strandclub, wo Sie bequeme Liegen mieten und frische Meeresfrüchte genießen können.",
+            "hu": "Pihenjen a napon ebben a jól felszerelt strandklubban, ahol kényelmes nyugágyakat bérelhet, és friss tenger gyümölcseit kóstolhat a helyi kioszkban.",
+            "ro": "Relaxați-vă la soare la acest club de plajă bine dotat, unde puteți închiria șezlonguri confortabile și puteți savura fructe de mare proaspete.",
+            "en": "Relax under the sun at this well-equipped beach club, where you can rent comfortable loungers and enjoy fresh seafood at the local kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bella! Bagno 16",
+            "hu": "Bella! Bagno 16",
+            "ro": "Bella! Bagno 16",
+            "en": "Bella! Bagno 16"
+          },
+          "coords": [
+            12.279199,
+            44.520434
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandkultur an diesem fröhlichen Ort, der großartigen Espresso und einen perfekten Blick auf die Adria bietet.",
+            "hu": "Tapasztalja meg a pezsgő tengerparti kultúrát ezen a nyüzsgő helyen, amely nagyszerű eszpresszót és tökéletes kilátást kínál az Adriai-tengerre.",
+            "ro": "Experimentați cultura vibrantă a litoralului în acest loc plin de viață, care oferă un espresso excelent și o vedere perfectă la valurile mării Adriatice.",
+            "en": "Experience the vibrant seaside culture at this lively spot, offering great espresso and a perfect view of the gentle Adriatic waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Azzurro",
+            "hu": "Bagno Azzurro",
+            "ro": "Bagno Azzurro",
+            "en": "Bagno Azzurro"
+          },
+          "coords": [
+            12.279179,
+            44.519287
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das klassische Flair der italienischen Riviera mit hervorragenden Einrichtungen und sauberem Sand, ideal für ein nachmittägliches Bad.",
+            "hu": "Merüljön el a klasszikus olasz riviéra hangulatában a kiváló létesítmények és a tiszta homok révén, amely ideális egy délutáni úszáshoz.",
+            "ro": "Lăsați-vă învăluit de vibrația clasică a rivierei italiene cu facilități excelente și nisip curat, locul ideal pentru o baie de după-amiază.",
+            "en": "Soak in the classic Italian riviera vibe with excellent facilities and clean sands, making it an ideal spot for an afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Nettuno",
+            "hu": "Bagno Nettuno",
+            "ro": "Bagno Nettuno",
+            "en": "Bagno Nettuno"
+          },
+          "coords": [
+            12.279261,
+            44.518071
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandtag hier, wo Sie einen erfrischenden Cocktail bei Sonnenuntergang schlürfen können, während die Kinder im flachen Wasser spielen.",
+            "hu": "Fejezze be itt a strandolást, ahol egy frissítő koktélt kortyolgathat naplementekor, miközben a gyerekek biztonságosan játszanak a sekély vízben.",
+            "ro": "Încheiați ziua de plajă aici, unde puteți savura un cocktail răcoritor la apus, în timp ce copiii se joacă în siguranță în apele puțin adânci.",
+            "en": "End your beach day here, where you can sip a refreshing sunset cocktail while the kids safely play in the shallow coastal waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am ruhigen Hundestrand und atmen Sie die frische Adriabrise ein. Mittags erwartet Sie ein nachdenklicher Moment am lokalen Kenotaph, bevor es zum lebhaften Bagno Carolina geht. Verbringen Sie den Nachmittag in klassischen Strandclubs wie Bella! und Azzurro. Beenden Sie den Tag entspannt am Bagno Nettuno.",
+        "hu": "Kezdje a reggelt a nyugodt kutyás strandon, beszívva a friss adriai levegőt. A dél a helyi kenotáfiumnál kínál elmélyülést, mielőtt a nyüzsgő Bagno Carolinába indulna. A délutánt olyan klasszikus strandklubokban töltheti, mint a Bella! és az Azzurro. Zárja a napot egy pihentető naplementés sétával a Bagno Nettuno közelében.",
+        "ro": "Începeți dimineața pe plaja liniștită pentru câini, respirând aerul proaspăt al Adriaticii. La prânz, aveți un moment de reflecție la cenotaful local, înainte de a vă îndrepta spre vibrantul Bagno Carolina. Petreceți după-amiaza la cluburi clasice precum Bella! și Azzurro. Încheiați ziua cu o plimbare relaxantă lângă Bagno Nettuno.",
+        "en": "Start your morning at the tranquil dog beach, breathing in the fresh Adriatic air. Midday brings a reflective moment at the local cenotaph before heading to the vibrant Bagno Carolina. Spend the afternoon hopping between classic beach clubs like Bella! and Azzurro. Conclude the day with a relaxing sunset walk near Bagno Nettuno."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "CP304",
+            "hu": "CP304",
+            "ro": "CP304",
+            "en": "CP304"
+          },
+          "coords": [
+            12.280462,
+            44.495061
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Stück lokaler Geschichte in der Nähe der Küste und tragen Sie festes Schuhwerk, da das Gelände uneben ist.",
+            "hu": "Fedezze fel a helyi történelem ezen érdekes, partközeli darabkáját, de viseljen masszív cipőt, mivel a környező terep kissé egyenetlen lehet.",
+            "ro": "Descoperiți această bucată intrigantă de istorie locală ascunsă lângă coastă și purtați încălțăminte solidă, deoarece terenul din jur poate fi denivelat.",
+            "en": "Discover this intriguing piece of local history hidden near the coast, and wear sturdy shoes as the surrounding terrain can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna Di Porto Corsini",
+            "hu": "Duna Di Porto Corsini",
+            "ro": "Duna Di Porto Corsini",
+            "en": "Duna Di Porto Corsini"
+          },
+          "coords": [
+            12.281759,
+            44.503026
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser wunderschönen natürlichen Sanddünen, um die Küstenflora zu beobachten, aber bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon végig ezeken a gyönyörű természetes homokdűnéken, hogy megfigyelje a parti növényvilágot, de maradjon a kijelölt utakon a védelem érdekében.",
+            "ro": "Plimbați-vă de-a lungul acestor dune de nisip pentru a observa flora de coastă, dar rămâneți pe cărările marcate pentru a proteja ecosistemul.",
+            "en": "Walk along these beautiful natural sand dunes to observe local coastal flora, but stay on the marked paths to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Nettuno",
+            "hu": "Bagno Nettuno",
+            "ro": "Bagno Nettuno",
+            "en": "Bagno Nettuno"
+          },
+          "coords": [
+            12.279261,
+            44.518071
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandtag hier, wo Sie einen erfrischenden Cocktail bei Sonnenuntergang schlürfen können, während die Kinder im flachen Wasser spielen.",
+            "hu": "Fejezze be itt a strandolást, ahol egy frissítő koktélt kortyolgathat naplementekor, miközben a gyerekek biztonságosan játszanak a sekély vízben.",
+            "ro": "Încheiați ziua de plajă aici, unde puteți savura un cocktail răcoritor la apus, în timp ce copiii se joacă în siguranță în apele puțin adânci.",
+            "en": "End your beach day here, where you can sip a refreshing sunset cocktail while the kids safely play in the shallow coastal waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Carolina",
+            "hu": "Bagno Carolina",
+            "ro": "Bagno Carolina",
+            "en": "Bagno Carolina"
+          },
+          "coords": [
+            12.279248,
+            44.522722
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter der Sonne in diesem gut ausgestatteten Strandclub, wo Sie bequeme Liegen mieten und frische Meeresfrüchte genießen können.",
+            "hu": "Pihenjen a napon ebben a jól felszerelt strandklubban, ahol kényelmes nyugágyakat bérelhet, és friss tenger gyümölcseit kóstolhat a helyi kioszkban.",
+            "ro": "Relaxați-vă la soare la acest club de plajă bine dotat, unde puteți închiria șezlonguri confortabile și puteți savura fructe de mare proaspete.",
+            "en": "Relax under the sun at this well-equipped beach club, where you can rent comfortable loungers and enjoy fresh seafood at the local kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenotafio di Maria Assunta Novelli",
+            "hu": "Cenotafio di Maria Assunta Novelli",
+            "ro": "Cenotafio di Maria Assunta Novelli",
+            "en": "Cenotafio di Maria Assunta Novelli"
+          },
+          "coords": [
+            12.277607,
+            44.525591
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden historischen Kenotaph für Maria Assunta Novelli die Ehre und beachten Sie die feinen Details auf dem Gedenkstein.",
+            "hu": "Rója le tiszteletét ezen a Maria Assunta Novellinek szentelt megható történelmi kenotáfiumon, és figyelje meg az emlékkő finom részleteit.",
+            "ro": "Prezentați-vă omagiile la acest cenotaf istoric emoționant dedicat Mariei Assunta Novelli și observați detaliile complicate de pe piatra memorială.",
+            "en": "Pay your respects at this poignant historical cenotaph dedicated to Maria Assunta Novelli, and notice the intricate details on the memorial stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera accesso cani",
+            "hu": "Spiaggia libera accesso cani",
+            "ro": "Spiaggia libera accesso cani",
+            "en": "Spiaggia libera accesso cani"
+          },
+          "coords": [
+            12.27994,
+            44.53281
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem hundefreundlichen Strand, der sich perfekt für einen Morgenspaziergang eignet, aber denken Sie an eigenes Wasser.",
+            "hu": "Élvezze a nyugodt légkört ezen a kutyabarát strandon, amely tökéletes egy reggeli sétához házi kedvencével, de hozzon magával ivóvizet.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă unde câinii sunt permişi, perfectă pentru o plimbare matinală, dar asigurați-vă că aveți apă la voi.",
+            "en": "Enjoy the relaxed atmosphere at this dog-friendly beach, perfect for a morning stroll with your furry friends while bringing your own water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am frühen Morgen zur historischen Stätte CP304, um die Küstengeheimnisse zu lüften. Fahren Sie vor dem Mittagessen zu den unberührten Dünen von Porto Corsini. Der Nachmittag bietet Entspannung am Meer im Carolina und Geschichte am Novelli-Kenotaph. Beenden Sie die Fahrt am ruhigen nördlichen Hundestrand.",
+        "hu": "Pattanjon nyeregbe, és tekerjen a történelmi CP304 helyszínre, hogy felfedezze a part menti titkokat. Ebéd előtt látogasson el Porto Corsini érintetlen dűnéihez. A délután a Carolina strandon a tengerparti pihenésről és a Novelli kenotáfium történelméről szól. Fejezze be a túrát az északi kutyás strandon.",
+        "ro": "Pedalați până la situl istoric CP304 pentru a descoperi secretele coastei la prima oră a dimineții. Mergeți spre dunele imaculate din Porto Corsini pentru o pauză în natură. După-amiaza se transformă în relaxare la mare la Carolina și istorie la cenotaful Novelli. Încheiați plimbarea la plaja liniștită din nord.",
+        "en": "Pedal your way to the historic CP304 site to uncover coastal secrets first thing in the morning. Ride up to the pristine dunes of Porto Corsini for a nature break before lunch. The afternoon shifts to seaside relaxation at Carolina and a touch of history at the Novelli cenotaph. End the ride at the peaceful northern dog beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Duna Di Porto Corsini",
+            "hu": "Duna Di Porto Corsini",
+            "ro": "Duna Di Porto Corsini",
+            "en": "Duna Di Porto Corsini"
+          },
+          "coords": [
+            12.281759,
+            44.503026
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser wunderschönen natürlichen Sanddünen, um die Küstenflora zu beobachten, aber bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon végig ezeken a gyönyörű természetes homokdűnéken, hogy megfigyelje a parti növényvilágot, de maradjon a kijelölt utakon a védelem érdekében.",
+            "ro": "Plimbați-vă de-a lungul acestor dune de nisip pentru a observa flora de coastă, dar rămâneți pe cărările marcate pentru a proteja ecosistemul.",
+            "en": "Walk along these beautiful natural sand dunes to observe local coastal flora, but stay on the marked paths to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "CP304",
+            "hu": "CP304",
+            "ro": "CP304",
+            "en": "CP304"
+          },
+          "coords": [
+            12.280462,
+            44.495061
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Stück lokaler Geschichte in der Nähe der Küste und tragen Sie festes Schuhwerk, da das Gelände uneben ist.",
+            "hu": "Fedezze fel a helyi történelem ezen érdekes, partközeli darabkáját, de viseljen masszív cipőt, mivel a környező terep kissé egyenetlen lehet.",
+            "ro": "Descoperiți această bucată intrigantă de istorie locală ascunsă lângă coastă și purtați încălțăminte solidă, deoarece terenul din jur poate fi denivelat.",
+            "en": "Discover this intriguing piece of local history hidden near the coast, and wear sturdy shoes as the surrounding terrain can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Azzurro",
+            "hu": "Bagno Azzurro",
+            "ro": "Bagno Azzurro",
+            "en": "Bagno Azzurro"
+          },
+          "coords": [
+            12.279179,
+            44.519287
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das klassische Flair der italienischen Riviera mit hervorragenden Einrichtungen und sauberem Sand, ideal für ein nachmittägliches Bad.",
+            "hu": "Merüljön el a klasszikus olasz riviéra hangulatában a kiváló létesítmények és a tiszta homok révén, amely ideális egy délutáni úszáshoz.",
+            "ro": "Lăsați-vă învăluit de vibrația clasică a rivierei italiene cu facilități excelente și nisip curat, locul ideal pentru o baie de după-amiază.",
+            "en": "Soak in the classic Italian riviera vibe with excellent facilities and clean sands, making it an ideal spot for an afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Carolina",
+            "hu": "Bagno Carolina",
+            "ro": "Bagno Carolina",
+            "en": "Bagno Carolina"
+          },
+          "coords": [
+            12.279248,
+            44.522722
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter der Sonne in diesem gut ausgestatteten Strandclub, wo Sie bequeme Liegen mieten und frische Meeresfrüchte genießen können.",
+            "hu": "Pihenjen a napon ebben a jól felszerelt strandklubban, ahol kényelmes nyugágyakat bérelhet, és friss tenger gyümölcseit kóstolhat a helyi kioszkban.",
+            "ro": "Relaxați-vă la soare la acest club de plajă bine dotat, unde puteți închiria șezlonguri confortabile și puteți savura fructe de mare proaspete.",
+            "en": "Relax under the sun at this well-equipped beach club, where you can rent comfortable loungers and enjoy fresh seafood at the local kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenotafio di Maria Assunta Novelli",
+            "hu": "Cenotafio di Maria Assunta Novelli",
+            "ro": "Cenotafio di Maria Assunta Novelli",
+            "en": "Cenotafio di Maria Assunta Novelli"
+          },
+          "coords": [
+            12.277607,
+            44.525591
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden historischen Kenotaph für Maria Assunta Novelli die Ehre und beachten Sie die feinen Details auf dem Gedenkstein.",
+            "hu": "Rója le tiszteletét ezen a Maria Assunta Novellinek szentelt megható történelmi kenotáfiumon, és figyelje meg az emlékkő finom részleteit.",
+            "ro": "Prezentați-vă omagiile la acest cenotaf istoric emoționant dedicat Mariei Assunta Novelli și observați detaliile complicate de pe piatra memorială.",
+            "en": "Pay your respects at this poignant historical cenotaph dedicated to Maria Assunta Novelli, and notice the intricate details on the memorial stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera accesso cani",
+            "hu": "Spiaggia libera accesso cani",
+            "ro": "Spiaggia libera accesso cani",
+            "en": "Spiaggia libera accesso cani"
+          },
+          "coords": [
+            12.27994,
+            44.53281
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem hundefreundlichen Strand, der sich perfekt für einen Morgenspaziergang eignet, aber denken Sie an eigenes Wasser.",
+            "hu": "Élvezze a nyugodt légkört ezen a kutyabarát strandon, amely tökéletes egy reggeli sétához házi kedvencével, de hozzon magával ivóvizet.",
+            "ro": "Bucurați-vă de atmosfera relaxată pe această plajă unde câinii sunt permişi, perfectă pentru o plimbare matinală, dar asigurați-vă că aveți apă la voi.",
+            "en": "Enjoy the relaxed atmosphere at this dog-friendly beach, perfect for a morning stroll with your furry friends while bringing your own water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den wunderschönen Dünen von Porto Corsini für einen erfrischenden Morgenspaziergang am Meer. Fahren Sie dann kurz zum historischen Wahrzeichen CP304. Genießen Sie ein klassisches italienisches Mittagessen im Bagno Azzurro. Beenden Sie Ihre Küstentour in der Nähe der nördlichen Strände, wenn die Sonne untergeht.",
+        "hu": "Autózzon el Porto Corsini gyönyörű dűnéihez egy frissítő tengerparti reggeli sétára. Ezután gyorsan ugorjon át a történelmi CP304-es nevezetességhez. Élvezze a klasszikus olasz ebédet a Bagno Azzurróban, majd haladjon tovább a Bagno Carolinába. Fejezze be a parti autózást az északi strandoknál naplementekor.",
+        "ro": "Conduceți până la dunele frumoase din Porto Corsini pentru o plimbare matinală răcoritoare la malul mării. Apoi, faceți o oprire la reperul istoric CP304. Bucurați-vă de un prânz clasic italian pe litoral la Bagno Azzurro, înainte de a merge la Carolina. Terminați turul la plajele din nord la apus.",
+        "en": "Drive down to the beautiful dunes of Porto Corsini for a refreshing morning stroll by the sea. Next, quickly hop over to the historical CP304 landmark. Enjoy a classic Italian seaside lunch at Bagno Azzurro before moving on to Bagno Carolina. Finish your coastal driving tour near the northern beaches as the sun sets."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "desvres",
+  "anchor": {
+    "name": "Desvres",
+    "coords": [
+      1.8344,
+      50.6678
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Desvres",
+            "hu": "Desvres Városháza",
+            "ro": "Primăria Desvres",
+            "en": "Desvres Town Hall"
+          },
+          "coords": [
+            1.834132,
+            50.668003
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
+            "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
+            "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Antoine-de-Padoue",
+            "hu": "Saint-Antoine-de-Padoue Kápolna",
+            "ro": "Capela Saint-Antoine-de-Padoue",
+            "en": "Chapelle Saint-Antoine-de-Padoue"
+          },
+          "coords": [
+            1.839286,
+            50.670641
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige katholische Kapelle, um die intime Atmosphäre zu genießen, und denken Sie daran, die für das Gebet vorgesehenen Ruhezeiten zu respektieren.",
+            "hu": "Látogasson el ebbe a békés katolikus kápolnába, hogy megcsodálja meghitt hangulatát, ügyelve arra, hogy tiszteletben tartsa a helyi imádság csendes óráit.",
+            "ro": "Vizitați această capelă catolică senină pentru a-i aprecia atmosfera intimă, amintindu-vă să respectați orele de liniște destinate rugăciunilor locale.",
+            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Omer",
+            "hu": "Saint-Omer Templom",
+            "ro": "Biserica Saint-Omer",
+            "en": "Église Saint-Omer"
+          },
+          "coords": [
+            1.858941,
+            50.674941
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Treten Sie in die Église Saint-Omer ein, um die Buntglasfenster zu bewundern, und achten Sie auf die wunderschön geschnitzten Holzbänke in der Nähe des Altars.",
+            "hu": "Lépjen be az Église Saint-Omer templomba, hogy megcsodálja a hagyományos dizájnt és az ólomüveg ablakokat, különös tekintettel a faragott fapadokra az oltárnál.",
+            "ro": "Pășiți în Biserica Saint-Omer pentru a admira vitraliile și designul tradițional, fiind atenți la băncile din lemn frumos sculptate de lângă altar.",
+            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            1.842068,
+            50.666714
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
+            "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
+            "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Pelé",
+            "hu": "Mont Pelé",
+            "ro": "Mont Pelé",
+            "en": "Mont Pelé"
+          },
+          "coords": [
+            1.847532,
+            50.662081
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Wandern Sie die sanften Hänge des Mont Pelé hinauf, um atemberaubende Panoramablicke zu genießen, und tragen Sie unbedingt festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Túrázzon fel a Mont Pelé lankás lejtőin a lélegzetelállító panorámáért, de a burkolatlan ösvények miatt mindenképpen viseljen masszív túracipőt.",
+            "ro": "Urcați pe pantele blânde ale Mont Pelé pentru a vă bucura de vederi panoramice uluitoare, asigurându-vă că purtați încălțăminte rezistentă pentru poteci.",
+            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Rathaus, bevor Sie zur wunderschönen Chapelle Saint-Antoine-de-Padoue spazieren. Mittags schlendern Sie zur Église Saint-Omer, um die Architektur zu bewundern, gefolgt von einem Besuch im Keramikmuseum. Der Nachmittag endet mit einer malerischen Wanderung auf den Mont Pelé, die großartige Aussichten für einen entspannten Abendausklang bietet.",
+        "hu": "Kezdje a reggelt a történelmi Városházánál, majd tegyen egy rövid sétát a gyönyörű Chapelle Saint-Antoine-de-Padoue kápolnához. Délben sétáljon el az Église Saint-Omer templomhoz, majd merüljön el a helyi örökségben a Kerámia Múzeumban. A délután a Mont Pelé festői hegyoldalán ér véget, ahonnan lenyűgöző kilátás nyílik, majd egy kellemes esti séta vezet vissza a központba.",
+        "ro": "Începeți dimineața la Primăria istorică înainte de o scurtă plimbare spre frumoasa Capelă Saint-Antoine-de-Padoue. La prânz, mergeți la Biserica Saint-Omer pentru a admira arhitectura sa, urmată de o scufundare în patrimoniul local la Muzeul Ceramicii. După-amiaza se încheie cu o drumeție pitorească pe Mont Pelé, oferind priveliști uimitoare înainte de plimbarea de seară.",
+        "en": "Start your morning at the historic Town Hall before taking a short walk to the beautiful Chapelle Saint-Antoine-de-Padoue. By midday, wander towards Église Saint-Omer to admire its architecture, followed by a deep dive into local heritage at the Ceramics Museum. Your afternoon concludes with a scenic hike up Mont Pelé, offering stunning viewpoints before an evening stroll back to the center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 10.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Desvres",
+            "hu": "Desvres Városháza",
+            "ro": "Primăria Desvres",
+            "en": "Desvres Town Hall"
+          },
+          "coords": [
+            1.834132,
+            50.668003
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
+            "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
+            "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            1.842068,
+            50.666714
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
+            "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
+            "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Pelé",
+            "hu": "Mont Pelé",
+            "ro": "Mont Pelé",
+            "en": "Mont Pelé"
+          },
+          "coords": [
+            1.847532,
+            50.662081
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Wandern Sie die sanften Hänge des Mont Pelé hinauf, um atemberaubende Panoramablicke zu genießen, und tragen Sie unbedingt festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Túrázzon fel a Mont Pelé lankás lejtőin a lélegzetelállító panorámáért, de a burkolatlan ösvények miatt mindenképpen viseljen masszív túracipőt.",
+            "ro": "Urcați pe pantele blânde ale Mont Pelé pentru a vă bucura de vederi panoramice uluitoare, asigurându-vă că purtați încălțăminte rezistentă pentru poteci.",
+            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice Templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            1.842768,
+            50.647664
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern der Église Saint-Maurice und versuchen Sie, bei Morgenlicht zu besuchen, um die besten Fotowinkel des alten Gebäudes zu erhalten.",
+            "hu": "Fedezze fel az Église Saint-Maurice történelmi falait, ahol a vallási örökség nyugalommal párosul, és próbálja meg a reggeli fényben látogatni a legjobb fotókért.",
+            "ro": "Explorați zidurile istorice ale Bisericii Saint-Maurice, unde moștenirea religioasă întâlnește liniștea, și vizitați în lumina dimineții pentru cele mai bune poze.",
+            "en": "Explore the historic walls of Église Saint-Maurice where quiet contemplation meets religious heritage, and try to visit during morning light for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            1.811338,
+            50.649203
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das klassische Mauerwerk der Église Saint-Pierre, einem festen Bestandteil der Gemeinde, und beachten Sie die Informationsschilder am Haupteingang.",
+            "hu": "Figyelje meg az Église Saint-Pierre feltűnő klasszikus falazatát, amely a helyi közösség alapköve, és olvassa el a főbejárat melletti kis információs táblákat.",
+            "ro": "Observați zidăria clasică de la Biserica Saint-Pierre, o piatră de temelie a comunității locale, notând micile plăci informative de lângă ușa principală de la intrare.",
+            "en": "Observe the striking classic masonry at Église Saint-Pierre, a staple of the local community, taking note of the small information plaques near the main entrance door."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Antoine-de-Padoue",
+            "hu": "Saint-Antoine-de-Padoue Kápolna",
+            "ro": "Capela Saint-Antoine-de-Padoue",
+            "en": "Chapelle Saint-Antoine-de-Padoue"
+          },
+          "coords": [
+            1.839286,
+            50.670641
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige katholische Kapelle, um die intime Atmosphäre zu genießen, und denken Sie daran, die für das Gebet vorgesehenen Ruhezeiten zu respektieren.",
+            "hu": "Látogasson el ebbe a békés katolikus kápolnába, hogy megcsodálja meghitt hangulatát, ügyelve arra, hogy tiszteletben tartsa a helyi imádság csendes óráit.",
+            "ro": "Vizitați această capelă catolică senină pentru a-i aprecia atmosfera intimă, amintindu-vă să respectați orele de liniște destinate rugăciunilor locale.",
+            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Desvres",
+            "hu": "Desvres Erdő",
+            "ro": "Pădurea Desvres",
+            "en": "Desvres Forest"
+          },
+          "coords": [
+            1.828696,
+            50.690944
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie ins üppige Grün des Waldes von Desvres, um die einheimische Flora kennenzulernen, und packen Sie Snacks sowie Wasser für eine tiefe Erkundung ein.",
+            "hu": "Meneküljön a Desvres erdő buja zöldjébe, hogy kapcsolatba kerüljön a helyi flórával és faunával, és csomagoljon sok vizet, illetve harapnivalót a túrázáshoz.",
+            "ro": "Evadați în verdeața luxuriantă a Pădurii Desvres pentru a vă conecta cu flora nativă, împachetând gustări și multă apă pentru o explorare profundă a pădurii.",
+            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Rathaus direkt zum renommierten Keramikmuseum, um den Tag mit lebendiger Kunst zu beginnen. Fahren Sie hinauf zum Mont Pelé für einen Panoramablick, bevor Sie nach Süden zur friedlichen Église Saint-Maurice cruisen. Genießen Sie eine Nachmittagsfahrt zur Église Saint-Pierre und zur charmanten Kapelle, und beenden Sie den Abend im erholsamen Wald von Desvres.",
+        "hu": "Tekerjen a Városházától egyenesen a híres Kerámia Múzeumba, hogy élénk művészettel kezdje a napot. Bringázzon fel a Mont Pelé hegyre a panorámáért, majd guruljon délre a békés Église Saint-Maurice templomhoz. Élvezze a délutáni kerékpározást az Église Saint-Pierre és a hangulatos Chapelle kápolna érintésével, végül pedig fejezze be az estét egy pihentető erdei tekeréssel Desvres-ben.",
+        "ro": "Porniți cu bicicleta de la Primărie direct către renumitul Muzeu al Ceramicii pentru a începe ziua cu artă. Urcați pe Mont Pelé pentru vederi panoramice înainte de a pedala spre sud către liniștita Biserică Saint-Maurice. Bucurați-vă de o după-amiază cu bicicleta la Biserica Saint-Pierre și la fermecătoarea Capelă, terminând seara cu o plimbare relaxantă prin Pădurea Desvres.",
+        "en": "Pedal away from the Town Hall directly to the renowned Ceramics Museum to start your day with vibrant art. Ride up to Mont Pelé for sweeping panoramic views before cruising southward to the peaceful Église Saint-Maurice. Enjoy an afternoon cycle to Église Saint-Pierre and the charming Chapelle Saint-Antoine-de-Padoue, finishing your evening with a relaxing ride into the Desvres Forest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Desvres",
+            "hu": "Desvres Városháza",
+            "ro": "Primăria Desvres",
+            "en": "Desvres Town Hall"
+          },
+          "coords": [
+            1.834132,
+            50.668003
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
+            "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
+            "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramikmuseum",
+            "hu": "Kerámia Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Ceramics Museum"
+          },
+          "coords": [
+            1.842068,
+            50.666714
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
+            "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
+            "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Omer",
+            "hu": "Saint-Omer Templom",
+            "ro": "Biserica Saint-Omer",
+            "en": "Église Saint-Omer"
+          },
+          "coords": [
+            1.858941,
+            50.674941
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie in die Église Saint-Omer ein, um die Buntglasfenster zu bewundern, und achten Sie auf die wunderschön geschnitzten Holzbänke in der Nähe des Altars.",
+            "hu": "Lépjen be az Église Saint-Omer templomba, hogy megcsodálja a hagyományos dizájnt és az ólomüveg ablakokat, különös tekintettel a faragott fapadokra az oltárnál.",
+            "ro": "Pășiți în Biserica Saint-Omer pentru a admira vitraliile și designul tradițional, fiind atenți la băncile din lemn frumos sculptate de lângă altar.",
+            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Desvres",
+            "hu": "Desvres Erdő",
+            "ro": "Pădurea Desvres",
+            "en": "Desvres Forest"
+          },
+          "coords": [
+            1.828696,
+            50.690944
+          ],
+          "category": "natural",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie ins üppige Grün des Waldes von Desvres, um die einheimische Flora kennenzulernen, und packen Sie Snacks sowie Wasser für eine tiefe Erkundung ein.",
+            "hu": "Meneküljön a Desvres erdő buja zöldjébe, hogy kapcsolatba kerüljön a helyi flórával és faunával, és csomagoljon sok vizet, illetve harapnivalót a túrázáshoz.",
+            "ro": "Evadați în verdeața luxuriantă a Pădurii Desvres pentru a vă conecta cu flora nativă, împachetând gustări și multă apă pentru o explorare profundă a pădurii.",
+            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Biologisches Schutzgebiet Basse Forêt 1",
+            "hu": "Basse Forêt 1 Biológiai Rezervátum",
+            "ro": "Rezervația biologică Basse Forêt 1",
+            "en": "Basse Forêt 1 Biological Reserve"
+          },
+          "coords": [
+            1.804223,
+            50.668181
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses streng geschützte biologische Reservat, um die Artenvielfalt zu erleben, und bleiben Sie unbedingt auf den Wegen, um Tiere nicht zu stören.",
+            "hu": "Sétáljon végig ezen a szigorúan védett biológiai rezervátumon, hogy tanúja legyen a tiszta biológiai sokféleségnek, és maradjon a kijelölt utakon a vadon védelméért.",
+            "ro": "Plimbați-vă prin această rezervație biologică protejată pentru a asista la biodiversitatea imaculată, asigurându-vă că rămâneți pe poteci pentru a proteja animalele.",
+            "en": "Wander through this strictly protected biological reserve to witness pristine regional biodiversity, ensuring you stay completely on the marked paths to avoid disturbing wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Biologisches Schutzgebiet Basse Forêt 2",
+            "hu": "Basse Forêt 2 Biológiai Rezervátum",
+            "ro": "Rezervația biologică Basse Forêt 2",
+            "en": "Basse Forêt 2 Biological Reserve"
+          },
+          "coords": [
+            1.797067,
+            50.670926
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Naturtauchgang im zweiten Teil dieses reichen Reservats und bringen Sie ein Fernglas für hervorragende Vogelbeobachtungen zwischen den Bäumen mit.",
+            "hu": "Zárja a természetjárást a gazdag biológiai rezervátum második szakaszában, és hozzon magával távcsövet a kiváló madármegfigyeléshez az öreg fák között.",
+            "ro": "Încheiați-vă scufundarea în natură în a doua secțiune a acestei rezervații biologice, aducând un binoclu pentru o excelentă observare a păsărilor printre copacii vechi.",
+            "en": "Conclude your deep nature dive in the second section of this rich biological reserve, bringing a pair of binoculars for excellent birdwatching among the old-growth trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom Rathaus zum Keramikmuseum für einen Morgen voller lokaler Geschichte und Kunst. Mittags besuchen Sie die Église Saint-Omer für eine ruhige Pause, bevor Sie in den riesigen Wald von Desvres fahren. Verbringen Sie den Nachmittag damit, die grünen Pfade der beiden biologischen Reservate zu erkunden, und lassen Sie den Abend in der natürlichen Schönheit der Region ausklingen.",
+        "hu": "Vezessen a Városházától a kihagyhatatlan Kerámia Múzeumhoz egy helyi történelemmel teli délelőttért. Délben látogasson el az Église Saint-Omer templomba egy nyugodt szünetre, majd induljon a hatalmas Desvres erdőbe. Töltse a délutánt a két biológiai rezervátum buja ösvényeinek bejárásával, és koronázza meg az estét a régió természeti szépségében való elmélyüléssel.",
+        "ro": "Conduceți de la Primărie spre Muzeul Ceramicii pentru o dimineață de istorie și artă locală. La prânz vizitați Biserica Saint-Omer pentru o pauză liniștită, înainte de a intra în vasta Pădure Desvres. Petreceți după-amiaza traversând potecile luxuriante ale celor două rezervații biologice, încheind seara complet cufundat în frumusețea naturală spectaculoasă a regiunii franceze.",
+        "en": "Drive off from the Town Hall to quickly reach the unmissable Ceramics Museum for a morning of local history and artistry. Midday brings you to Église Saint-Omer for a peaceful architectural pause before heading into the vast Desvres Forest. Spend your afternoon traversing the lush paths of the two biological reserves, capping off the evening deeply immersed in the region's natural beauty."
+      }
+    }
+  }
+}

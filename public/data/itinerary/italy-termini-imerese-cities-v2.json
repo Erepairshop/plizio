@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-termini-imerese-cities-v2",
+  "anchor": {
+    "name": "Termini Imerese",
+    "coords": [
+      13.69555,
+      37.98365
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 0.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Resti dell'anfiteatro romano",
+            "hu": "Resti dell'anfiteatro romano",
+            "ro": "Resti dell'anfiteatro romano",
+            "en": "Resti dell'anfiteatro romano"
+          },
+          "coords": [
+            13.693621,
+            37.987221
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des römischen Amphitheaters, um die reiche Vergangenheit zu spüren, aber tragen Sie dabei festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi római amfiteátrum romjait a város gazdag múltjának megismeréséhez, de a felület miatt viseljen kényelmes és zárt cipőt.",
+            "ro": "Explorați ruinele amfiteatrului roman pentru a simți istoria orașului, dar asigurați-vă că purtați încălțăminte solidă pentru terenul denivelat.",
+            "en": "Explore these ancient Roman amphitheater ruins to grasp the city's rich past, but wear sturdy shoes as the ground can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Caterina d'Alessandria",
+            "hu": "Santa Caterina d'Alessandria",
+            "ro": "Santa Caterina d'Alessandria",
+            "en": "Santa Caterina d'Alessandria"
+          },
+          "coords": [
+            13.694729,
+            37.988238
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade der Santa Caterina, ein Zeugnis des religiösen Erbes, und bedecken Sie drinnen respektvoll Ihre Schultern.",
+            "hu": "Csodálja meg a Santa Caterina lenyűgöző homlokzatát, a város vallási örökségét, és mindenképpen hozzon magával kendőt a vállai eltakarására.",
+            "ro": "Admirați fațada impresionantă a bisericii Santa Caterina, un simbol religios al orașului, și purtați un șal pentru a vă acoperi umerii la interior.",
+            "en": "Admire the striking facade of Santa Caterina, a testament to the town's enduring religious heritage, and wear a shawl to cover your shoulders inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico",
+            "hu": "Museo Civico",
+            "ro": "Museo Civico",
+            "en": "Museo Civico"
+          },
+          "coords": [
+            13.695841,
+            37.986537
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische Schätze und Kunstwerke im Stadtmuseum und fragen Sie das Personal unbedingt nach den verborgenen Kammern.",
+            "hu": "Fedezze fel a helyi régészeti kincseket ebben a múzeumban, és mindenképpen érdeklődjön a személyzetnél az épület titkos földalatti kamráiról.",
+            "ro": "Descoperiți comorile arheologice și de artă din acest muzeu civic, însă nu uitați să întrebați personalul despre încăperile subterane secrete.",
+            "en": "Discover local archaeological treasures and art pieces in this civic museum, and make sure to ask the staff about the secret underground chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo San Nicola di Bari",
+            "hu": "Duomo San Nicola di Bari",
+            "ro": "Duomo San Nicola di Bari",
+            "en": "Duomo San Nicola di Bari"
+          },
+          "coords": [
+            13.697237,
+            37.98739
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Fresken dieser Kathedrale und besuchen Sie sie am besten zur Mittagszeit, wenn die Sonne den Hauptaltar beleuchtet.",
+            "hu": "Csodálja meg a katedrális gyönyörű freskóit és építészetét, és próbáljon dél körül érkezni, amikor a napfény csodásan megvilágítja a főoltárt.",
+            "ro": "Admirați frescele deosebite ale acestei catedrale impunătoare și încercați să o vizitați la prânz, când lumina soarelui scoate în evidență altarul.",
+            "en": "Admire the exquisite frescoes and grand architecture of this cathedral, and try visiting around noon when the sunlight highlights the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            13.698679,
+            37.988367
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das Mittelmeer von dieser Terrasse, die sich als idealer Ort für eindrucksvolle Landschaftsfotos erweist.",
+            "hu": "Élvezze a Földközi-tengerre nyíló lenyűgöző panorámát erről a teraszról, amely tökéletes helyszín a legszebb tájképek és fotók elkészítéséhez.",
+            "ro": "Admirați vederea panoramică superbă asupra Mării Mediterane de pe această terasă, fiind locul perfect pentru fotografii spectaculoase de peisaj.",
+            "en": "Take in the sweeping panoramic views of the Mediterranean Sea from this terrace, which is the perfect spot for capturing wide-angle landscape photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt bei den antiken Ruinen des römischen Amphitheaters und führt schnell zur Architektur der Kirche Santa Caterina.\n\nMittags entdecken Sie die reiche Geschichte der Region im Stadtmuseum.\n\nDer Nachmittag ist dem prachtvollen Dom gewidmet, einem Meisterwerk lokaler Kunst.\n\nDer Abend endet wunderbar am Belvedere, von wo Sie spektakuläre Sonnenuntergänge über der Küste genießen können.",
+        "hu": "A reggel a római amfiteátrum ősi romjainál kezdődik, ahonnan hamar elérheti a Santa Caterina csodás épületét.\n\nDélben a Városi Múzeumban szembesülhet a régió gazdag múltjával és kincseivel.\n\nA délutánt a lenyűgöző dóm megcsodálására érdemes szánni, amely a helyi hit központja.\n\nAz este a Belvedere kilátónál zárul, ahonnan látványos naplementét figyelhet meg a tengerpart felett.",
+        "ro": "Dimineața începe printre ruinele amfiteatrului roman, continuând rapid spre arhitectura frumoasă a bisericii Santa Caterina.\n\nLa amiază descoperiți trecutul bogat al zonei vizitând impresionantul Muzeu Civic.\n\nDupă-amiaza este dedicată admirării maiestuosului Dom, o capodoperă a credinței locale.\n\nSeara se încheie minunat la Belvedere, oferind priveliști spectaculoase cu apusul soarelui peste coastă.",
+        "en": "Morning starts among ancient ruins at the Roman amphitheater, moving quickly to the beautiful architecture of Santa Caterina.\n\nMidday brings you face-to-face with the area's rich past at the Civic Museum.\n\nThe afternoon is reserved for admiring the grand Duomo, a true centerpiece of local faith.\n\nEvening wraps up beautifully at the Belvedere, offering spectacular sunset views over the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Acquedotto Romano Cornelio",
+            "hu": "Acquedotto Romano Cornelio",
+            "ro": "Acquedotto Romano Cornelio",
+            "en": "Acquedotto Romano Cornelio"
+          },
+          "coords": [
+            13.694713,
+            37.97693
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentalen Bögen dieses römischen Aquädukts, das einst die Stadt versorgte, idealerweise von der Ostseite für das beste Licht.",
+            "hu": "Csodálja meg a várost egykor ellátó ősi római vízvezeték monumentális boltíveit, amelyeket a keleti oldalról lehet a legszebb fényben fényképezni.",
+            "ro": "Admirați arcadele monumentale ale acestui apeduct roman antic, văzut cel mai bine de pe partea estică pentru a beneficia de lumina optimă a soarelui.",
+            "en": "Marvel at the monumental arches of this ancient Roman aqueduct that once supplied the city, best viewed from the eastern side for optimal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Gesù",
+            "hu": "Santa Maria Gesù",
+            "ro": "Santa Maria Gesù",
+            "en": "Santa Maria Gesù"
+          },
+          "coords": [
+            13.695351,
+            37.984672
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihre klassische Fassade zu würdigen, und achten Sie besonders auf die kunstvolle Holzdecke im Inneren.",
+            "hu": "Látogasson el ebbe a történelmi templomba a klasszikus homlokzat miatt, és mindenképpen figyelje meg a belső, díszes fa mennyezet apró részleteit.",
+            "ro": "Vizitați această biserică istorică pentru a aprecia ambianța ei spirituală, asigurându-vă că observați detaliile plafonului din lemn din interior.",
+            "en": "Visit this historic church to appreciate its spiritual ambiance and classical facade, making sure to check the wooden ceiling details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa San Carlo Borromeo",
+            "hu": "Chiesa San Carlo Borromeo",
+            "ro": "Chiesa San Carlo Borromeo",
+            "en": "Chiesa San Carlo Borromeo"
+          },
+          "coords": [
+            13.696923,
+            37.983727
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Treten Sie in diese reizvolle Kirche ein, um die wunderschönen Altäre zu betrachten, und genießen Sie einen Moment der Stille abseits des Trubels.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megtekinthesse a gyönyörű oltárképeit, miközben egy csendes pillanatra megpihen a forgalmas utcák zajától.",
+            "ro": "Intrați în această biserică frumoasă pentru a vedea piesele de altar, luându-vă un moment de liniște departe de agitația străzilor exterioare.",
+            "en": "Step inside this lovely church to view its beautiful altar pieces, taking a moment to sit quietly away from the busy streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico",
+            "hu": "Museo Civico",
+            "ro": "Museo Civico",
+            "en": "Museo Civico"
+          },
+          "coords": [
+            13.695841,
+            37.986537
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische Schätze und Kunstwerke im Stadtmuseum und fragen Sie das Personal unbedingt nach den verborgenen Kammern.",
+            "hu": "Fedezze fel a helyi régészeti kincseket ebben a múzeumban, és mindenképpen érdeklődjön a személyzetnél az épület titkos földalatti kamráiról.",
+            "ro": "Descoperiți comorile arheologice și de artă din acest muzeu civic, însă nu uitați să întrebați personalul despre încăperile subterane secrete.",
+            "en": "Discover local archaeological treasures and art pieces in this civic museum, and make sure to ask the staff about the secret underground chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti dell'anfiteatro romano",
+            "hu": "Resti dell'anfiteatro romano",
+            "ro": "Resti dell'anfiteatro romano",
+            "en": "Resti dell'anfiteatro romano"
+          },
+          "coords": [
+            13.693621,
+            37.987221
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des römischen Amphitheaters, um die reiche Vergangenheit zu spüren, aber tragen Sie dabei festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi római amfiteátrum romjait a város gazdag múltjának megismeréséhez, de a felület miatt viseljen kényelmes és zárt cipőt.",
+            "ro": "Explorați ruinele amfiteatrului roman pentru a simți istoria orașului, dar asigurați-vă că purtați încălțăminte solidă pentru terenul denivelat.",
+            "en": "Explore these ancient Roman amphitheater ruins to grasp the city's rich past, but wear sturdy shoes as the ground can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti della basilica romana",
+            "hu": "Resti della basilica romana",
+            "ro": "Resti della basilica romana",
+            "en": "Resti della basilica romana"
+          },
+          "coords": [
+            13.693516,
+            37.988471
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Grundsteine der römischen Basilika, um die antike Stadtstruktur zu verstehen, am besten mit einem kleinen Reiseführer zur Hand.",
+            "hu": "Figyelje meg a római bazilika alapköveit, hogy megértse az ókori város szerkezetét, és érdemes egy útikönyvet is hozni az egyes részek beazonosításához.",
+            "ro": "Observați pietrele de temelie ale bazilicii romane pentru a înțelege planul civic antic, aducând ideal un ghid pentru a identifica secțiunile.",
+            "en": "Observe the foundation stones of the Roman basilica to understand the ancient civic layout, ideally bringing a guidebook to identify the sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            13.698679,
+            37.988367
+          ],
+          "category": "natural",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf das Mittelmeer von dieser Terrasse, die sich als idealer Ort für eindrucksvolle Landschaftsfotos erweist.",
+            "hu": "Élvezze a Földközi-tengerre nyíló lenyűgöző panorámát erről a teraszról, amely tökéletes helyszín a legszebb tájképek és fotók elkészítéséhez.",
+            "ro": "Admirați vederea panoramică superbă asupra Mării Mediterane de pe această terasă, fiind locul perfect pentru fotografii spectaculoase de peisaj.",
+            "en": "Take in the sweeping panoramic views of the Mediterranean Sea from this terrace, which is the perfect spot for capturing wide-angle landscape photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am römischen Aquädukt und führt zur Kirche Santa Maria Gesù.\n\nMittags radeln Sie durch charmante Gassen zu San Carlo Borromeo und den Ausstellungen des Stadtmuseums.\n\nAm Nachmittag erkunden Sie die faszinierenden römischen Ruinen des Amphitheaters und der Basilika.\n\nDie abendliche Fahrt endet am Belvedere mit einem majestätischen Blick auf den Sonnenuntergang.",
+        "hu": "Kerékpáros kalandja a római vízvezetéknél indul, ahonnan a békés Santa Maria Gesù templomhoz teker.\n\nA déli órákban a San Carlo Borromeo templomot és a Városi Múzeum gazdag kiállításait éri el.\n\nDélután felfedezheti a városban található római amfiteátrum és bazilika lenyűgöző romjait.\n\nAz esti tekerés a Belvedere kilátónál ér véget, ahonnan csodás naplementét figyelhet meg.",
+        "ro": "Aventura pe bicicletă începe la apeductul roman, pedalând spre liniștita biserică Santa Maria Gesù.\n\nLa amiază ajungeți pe străzi fermecătoare la San Carlo Borromeo și la Muzeul Civic.\n\nDupă-amiaza o dedicați explorării ruinelor antice ale amfiteatrului și ale bazilicii romane.\n\nPlimbarea de seară se termină la Belvedere, oferind o priveliște magnifică la apus.",
+        "en": "Your cycling adventure kicks off at the Roman Aqueduct, pedaling to Santa Maria Gesù.\n\nMidday riding takes you to San Carlo Borromeo and the extensive Civic Museum.\n\nIn the afternoon, explore the fascinating Roman ruins of the amphitheater and basilica.\n\nThe evening ride concludes at the Belvedere, offering a majestic sunset view."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte San Paolo",
+            "hu": "Ponte San Paolo",
+            "ro": "Ponte San Paolo",
+            "en": "Ponte San Paolo"
+          },
+          "coords": [
+            13.681484,
+            37.990683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie kurz über diese historische Steinbrücke, die das Flussbett überspannt, um früh am Tag einen malerischen Blick ins Tal zu erhaschen.",
+            "hu": "Sétáljon át röviden ezen a folyómedret átívelő történelmi kőhídon, amely egy festői völgyi kilátást kínál, ha a korai órákban látogat ide.",
+            "ro": "Plimbați-vă pe acest pod istoric de piatră care traversează albia râului, oferind o priveliște pitorească asupra văii, mai ales dimineața devreme.",
+            "en": "Walk briefly over this historical stone bridge that spans the riverbed, offering a picturesque look into the valley if you visit early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del motorismo siciliano e della Targa Florio",
+            "hu": "Museo del motorismo siciliano e della Targa Florio",
+            "ro": "Museo del motorismo siciliano e della Targa Florio",
+            "en": "Museo del motorismo siciliano e della Targa Florio"
+          },
+          "coords": [
+            13.685978,
+            37.989284
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die Geschichte der legendären Targa Florio Rennen ein und fragen Sie den Kurator nach den alten Rennhelmen.",
+            "hu": "Merüljön el a legendás Targa Florio versenyek történelmében ebben az autós múzeumban, és kérdezze meg a kurátort a régi, eredeti bukósisakokról.",
+            "ro": "Cufundați-vă în istoria celebrelor curse Targa Florio la acest muzeu auto și nu ezitați să-l întrebați pe curator despre căștile de curse vintage.",
+            "en": "Immerse yourself in the history of the legendary Targa Florio races at this motor museum, and ask the curator about the vintage racing helmets."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti della basilica romana",
+            "hu": "Resti della basilica romana",
+            "ro": "Resti della basilica romana",
+            "en": "Resti della basilica romana"
+          },
+          "coords": [
+            13.693516,
+            37.988471
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Grundsteine der römischen Basilika, um die antike Stadtstruktur zu verstehen, am besten mit einem kleinen Reiseführer zur Hand.",
+            "hu": "Figyelje meg a római bazilika alapköveit, hogy megértse az ókori város szerkezetét, és érdemes egy útikönyvet is hozni az egyes részek beazonosításához.",
+            "ro": "Observați pietrele de temelie ale bazilicii romane pentru a înțelege planul civic antic, aducând ideal un ghid pentru a identifica secțiunile.",
+            "en": "Observe the foundation stones of the Roman basilica to understand the ancient civic layout, ideally bringing a guidebook to identify the sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo San Nicola di Bari",
+            "hu": "Duomo San Nicola di Bari",
+            "ro": "Duomo San Nicola di Bari",
+            "en": "Duomo San Nicola di Bari"
+          },
+          "coords": [
+            13.697237,
+            37.98739
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Fresken dieser Kathedrale und besuchen Sie sie am besten zur Mittagszeit, wenn die Sonne den Hauptaltar beleuchtet.",
+            "hu": "Csodálja meg a katedrális gyönyörű freskóit és építészetét, és próbáljon dél körül érkezni, amikor a napfény csodásan megvilágítja a főoltárt.",
+            "ro": "Admirați frescele deosebite ale acestei catedrale impunătoare și încercați să o vizitați la prânz, când lumina soarelui scoate în evidență altarul.",
+            "en": "Admire the exquisite frescoes and grand architecture of this cathedral, and try visiting around noon when the sunlight highlights the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giuseppe",
+            "hu": "San Giuseppe",
+            "ro": "San Giuseppe",
+            "en": "San Giuseppe"
+          },
+          "coords": [
+            13.699093,
+            37.98309
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Vorstadtkirche, die dem Heiligen Josef gewidmet ist, und achten Sie auf die bunten Fenster im späten Nachmittagslicht.",
+            "hu": "Fedezze fel ezt a Szent Józsefnek szentelt bájos külvárosi templomot, és figyelje meg a színes üvegablakokat, amelyek késő délután a legszebbek.",
+            "ro": "Explorați această biserică fermecătoare din suburbii închinată Sfântului Iosif, observând vitraliile vibrante care arată cel mai bine după-amiaza.",
+            "en": "Explore this charming suburban church dedicated to Saint Joseph, noticing the vibrant stained glass windows that look best in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquedotto Romano Cornelio",
+            "hu": "Acquedotto Romano Cornelio",
+            "ro": "Acquedotto Romano Cornelio",
+            "en": "Acquedotto Romano Cornelio"
+          },
+          "coords": [
+            13.694713,
+            37.97693
+          ],
+          "category": "landmark",
+          "arrive_at": "15:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentalen Bögen dieses römischen Aquädukts, das einst die Stadt versorgte, idealerweise von der Ostseite für das beste Licht.",
+            "hu": "Csodálja meg a várost egykor ellátó ősi római vízvezeték monumentális boltíveit, amelyeket a keleti oldalról lehet a legszebb fényben fényképezni.",
+            "ro": "Admirați arcadele monumentale ale acestui apeduct roman antic, văzut cel mai bine de pe partea estică pentru a beneficia de lumina optimă a soarelui.",
+            "en": "Marvel at the monumental arches of this ancient Roman aqueduct that once supplied the city, best viewed from the eastern side for optimal lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Ponte San Paolo und fahren Sie dann zum faszinierenden Targa Florio Motorenmuseum.\n\nMittags tauchen Sie bei den römischen Basilika-Ruinen in die Geschichte ein, bevor Sie den Dom erreichen.\n\nAm Nachmittag fahren Sie bequem zur historischen Kirche San Giuseppe am Rande der Stadt.\n\nIhr Ausflug klingt im Abendlicht am hoch aufragenden römischen Aquädukt entspannt aus.",
+        "hu": "Autós túrája a történelmi Ponte San Paolo hídnál kezdődik, majd a Targa Florio autós múzeum felé veszi az irányt.\n\nDélben a római bazilika romjainál merülhet el a múltban, mielőtt a gyönyörű dómhoz érne.\n\nDélután kényelmesen elautózhat a város szélén található, nagy múltú San Giuseppe templomhoz.\n\nA napot a római vízvezeték lenyűgöző boltívei alatt zárhatja a lemenő nap fényében.",
+        "ro": "Turul cu mașina începe la podul San Paolo, continuând spre fascinantul muzeu auto Targa Florio.\n\nLa amiază vă scufundați în istoria antică la ruinele bazilicii romane, înainte de a ajunge la Dom.\n\nConducând după-amiaza, ajungeți confortabil la biserica istorică San Giuseppe din suburbii.\n\nExcursia se încheie perfect la impunătorul apeduct roman, luminat superb de apusul soarelui.",
+        "en": "Begin your driving tour at Ponte San Paolo, then head to the exhilarating Targa Florio Motor Museum.\n\nMidday finds you stepping back into history at the Roman Basilica ruins before reaching the Duomo.\n\nAfternoon driving lets you comfortably visit the historic San Giuseppe church.\n\nYour day winds down perfectly at the towering Roman Aqueduct in the gentle evening light."
+      }
+    }
+  }
+}

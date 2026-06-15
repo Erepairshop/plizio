@@ -1,0 +1,497 @@
+{
+  "city_id": "turkey-bozcaada-cities-v2",
+  "anchor": {
+    "name": "Bozcaada",
+    "coords": [
+      26.07019,
+      39.83473
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 1.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rengigül Sanat Galerisi",
+            "hu": "Rengigül Sanat Galerisi",
+            "ro": "Rengigül Sanat Galerisi",
+            "en": "Rengigül Sanat Galerisi"
+          },
+          "coords": [
+            26.069703,
+            39.835464
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige Kunst und traditionelle Architektur in dieser Galerie und nutzen Sie den ruhigen Innenhof für eine kleine, entspannte Pause.",
+            "hu": "Csodálja meg az élénk művészetet és a hagyományos építészetet ebben a galériában, és ne felejtse el megnézni a csendes, pihentető belső udvart is.",
+            "ro": "Admirați arta vibrantă și arhitectura tradițională din interiorul acestei galerii, luându-vă un moment pentru a vă relaxa în curtea sa liniștită.",
+            "en": "Admire the vibrant art and traditional architecture inside this gallery, taking a moment to check the courtyard for a quiet, relaxing atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Alay Bey Moschee",
+            "hu": "Alay Bey Mecset",
+            "ro": "Moscheea Alay Bey",
+            "en": "Alay Bey Cami"
+          },
+          "coords": [
+            26.07069,
+            39.834036
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betrachten Sie das feine Mauerwerk dieser osmanischen Moschee und genießen Sie die friedliche Atmosphäre, bevor Sie Ihren gemütlichen Spaziergang fortsetzen.",
+            "hu": "Figyelje meg ennek az oszmán kori mecsetnek a bonyolult falazatát, és szánjon egy percet a békés hangulat átélésére, mielőtt folytatná a sétát.",
+            "ro": "Observați zidăria complexă a acestei moschei din epoca otomană, acordându-vă un moment pentru a respecta ambianța senină înainte de a continua.",
+            "en": "Observe the intricate masonry of this Ottoman-era mosque, taking a moment to respect the serene ambiance before you continue your leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Köprülü Mehmet Paşa Moschee",
+            "hu": "Köprülü Mehmet Paşa Mecset",
+            "ro": "Moscheea Köprülü Mehmet Paşa",
+            "en": "Köprülü Mehmet Paşa Cami"
+          },
+          "coords": [
+            26.07189,
+            39.833486
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Beachten Sie den unverwechselbaren architektonischen Stil dieser historischen Moschee, wo sich das lokale Inselleben noch immer dezent um den Hof abspielt.",
+            "hu": "Vegye szemügyre ennek a történelmi mecsetnek a jellegzetes építészeti stílusát, ahol a helyi szigeti élet még mindig az udvar körül összpontosul.",
+            "ro": "Observați stilul arhitectural distinct al acestei moschei istorice, unde viața locală a insulei încă gravitează subtil în jurul curții sale.",
+            "en": "Notice the distinct architectural style of this historic 17th-century mosque, where local island life still subtly revolves around its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Bozcaada",
+            "hu": "Bozcaada Erőd",
+            "ro": "Castelul Bozcaada",
+            "en": "Bozcaada Castle"
+          },
+          "coords": [
+            26.072678,
+            39.836088
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die robusten Mauern dieser bemerkenswert erhaltenen Inselfestung für atemberaubende Ausblicke und tragen Sie festes Schuhwerk für die Stufen.",
+            "hu": "Mássza meg ennek a figyelemre méltóan megőrzött szigeti erődnek a falait a lenyűgöző kilátásért, de mindenképpen viseljen masszív cipőt az egyenetlen lépcsőkön.",
+            "ro": "Urcați pe zidurile robuste ale acestei fortărețe insulare bine conservate pentru priveliști uimitoare, asigurându-vă că purtați încălțăminte adecvată.",
+            "en": "Climb the robust walls of this remarkably preserved island fortress for breathtaking Aegean views, ensuring you wear sturdy shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Aburga Ahmet Dede Grabmal",
+            "hu": "Aburga Ahmet Dede Türbéje",
+            "ro": "Mormântul Aburga Ahmet Dede",
+            "en": "Aburga Ahmet Dede Türbesi"
+          },
+          "coords": [
+            26.074533,
+            39.833475
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Pausieren Sie an diesem ruhigen Grabmal, um das spirituelle Erbe der Region zu würdigen und die maritime Bedeutung auf der Informationstafel nachzulesen.",
+            "hu": "Tartson szünetet ennél a nyugodt sírhelynél a helyi spirituális örökség értékeléséhez, és olvassa el a táblát a tengerészeti jelentőségének megértéséhez.",
+            "ro": "Faceți o pauză la acest mormânt liniștit pentru a aprecia moștenirea spirituală locală, citind panoul informativ pentru a înțelege semnificația sa.",
+            "en": "Pause at this tranquil tomb site to appreciate the local spiritual heritage, reading the information board to understand its maritime significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Yıkık Yel Değirmeni",
+            "hu": "Yıkık Yel Değirmeni",
+            "ro": "Yıkık Yel Değirmeni",
+            "en": "Yıkık Yel Değirmeni"
+          },
+          "coords": [
+            26.073615,
+            39.832652
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Sonnenuntergangsfotos bei diesen Mühlenruinen und bringen Sie eine Jacke mit, da die Küstenbrise am späten Nachmittag oft auffrischt.",
+            "hu": "Készítsen lenyűgöző naplementés fotókat ezeknél a romos szélmalom alapoknál, és hozzon egy könnyű kabátot, mivel a part menti szellő gyakran felerősödik.",
+            "ro": "Capturați fotografii uimitoare la apus lângă aceste ruine de mori de vânt, aducând o jachetă subțire deoarece briza de coastă se intensifică des.",
+            "en": "Capture stunning sunset photos near these ruined windmill foundations, bringing a light jacket as the coastal breeze often picks up in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der lokalen Kultur in der lebendigen Kunstgalerie. Mittags schlendern Sie durch die malerischen Straßen, um die historischen Moscheen zu bewundern. Der Nachmittag ist der Erkundung der massiven Inselfestung am Meer gewidmet. Beenden Sie Ihren Tag an den Küstenruinen, um einen herrlichen Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a reggelt a helyi kultúra felfedezésével a nyüzsgő művészeti galériában. Délben sétáljon át a festői utcákon, és csodálja meg a történelmi mecseteket. A délutánt a tengerparti hatalmas szigeti erőd felfedezésének szentelheti. Fejezze be a napot a part menti romoknál, és élvezze a csodálatos égei-tengeri naplementét.",
+        "ro": "Începeți dimineața scufundându-vă în cultura locală la galeria de artă vibrantă. La prânz, plimbați-vă pe străzile pitorești pentru a admira frumoasele moschei istorice. După-amiaza este dedicată explorării fortăreței masive de pe malul mării. Încheiați ziua mergând spre ruinele de coastă pentru a prinde un apus magnific peste Marea Egee.",
+        "en": "Start your morning immersing yourself in local culture at the vibrant art gallery. By midday, wander through the quaint streets to admire the beautiful historic mosques. The afternoon is dedicated to exploring the massive island fortress by the sea. Conclude your day walking towards the coastal ruins to catch a magnificent sunset over the Aegean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg Bozcaada",
+            "hu": "Bozcaada Erőd",
+            "ro": "Castelul Bozcaada",
+            "en": "Bozcaada Castle"
+          },
+          "coords": [
+            26.072678,
+            39.836088
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an der imposanten Festung, um den Menschenmassen zu entgehen, und schließen Sie Ihr Fahrrad vor der Erkundung sicher am Eingang ab.",
+            "hu": "Kezdje a túrát az impozáns erődnél a délutáni tömeg elkerülése érdekében, és biztonságosan zárja le a kerékpárját a bástyák felfedezése előtt.",
+            "ro": "Începeți plimbarea la fortăreața impunătoare pentru a evita aglomerația și asigurați-vă bicicleta la intrare înainte de a explora meterezele sale mari.",
+            "en": "Start your ride at the imposing fortress to avoid the afternoon crowds, locking your bike securely at the entrance before exploring the huge ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Alay Bey Moschee",
+            "hu": "Alay Bey Mecset",
+            "ro": "Moscheea Alay Bey",
+            "en": "Alay Bey Cami"
+          },
+          "coords": [
+            26.07069,
+            39.834036
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause von der Fahrt, um diese historische Moschee zu besuchen, und bewundern Sie den friedlichen Hof und das feine Minarett.",
+            "hu": "Tartson egy rövid szünetet a tekerésben e történelmi mecset meglátogatásához, és csodálja meg a békés udvart, valamint a minaret szép részleteit.",
+            "ro": "Luați o scurtă pauză de la pedalat pentru a vizita această moschee istorică, admirând curtea liniștită și detaliile frumos conservate ale minaretului.",
+            "en": "Take a short break from pedaling to visit this historic mosque, admiring the peaceful courtyard and the beautifully preserved fine minaret details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropol Alanı",
+            "hu": "Nekropolisz",
+            "ro": "Necropola",
+            "en": "Nekropol Alanı"
+          },
+          "coords": [
+            26.066965,
+            39.833205
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grabstätten, um die weite Vergangenheit der Insel zu entdecken, und bewegen Sie sich vorsichtig um die fragilen Ausgrabungen.",
+            "hu": "Fedezze fel az ősi temetkezési helyeket a sziget távoli múltjának megismeréséhez, óvatosan lépkedve a törékeny régészeti ásatások környékén ezen a ritka helyen.",
+            "ro": "Explorați vechile cimitire pentru a descoperi trecutul îndepărtat al insulei, pășind cu grijă în jurul excavațiilor arheologice fragile de pe șantier.",
+            "en": "Explore the ancient burial grounds to uncover Bozcaada's distant past, treading carefully around the fragile archaeological excavations on the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Windmühlen",
+            "hu": "Régi Szélmalmok",
+            "ro": "Vechile Mori de Vânt",
+            "en": "Old Windmills"
+          },
+          "coords": [
+            26.069147,
+            39.839067
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesen ikonischen Strukturen auf dem Hügel für ein klassisches Foto und achten Sie auf die starken Windböen in dieser großen Höhe.",
+            "hu": "Tekerjen fel ezekhez az ikonikus hegytetői építményekhez egy klasszikus fotóért, és ügyeljen a nagy magasságban gyakori, nagyon erős tengeri széllökésekre.",
+            "ro": "Pedalați până la aceste structuri emblematice pentru o fotografie clasică, fiind atenți la rafalele puternice de vânt obișnuite la această altitudine.",
+            "en": "Pedal up to these iconic hilltop structures for a classic island photo, keeping an eye out for the strong gusts of wind common at this high elevation."
+          }
+        },
+        {
+          "name": {
+            "de": "Einzelne Windmühle",
+            "hu": "Magányos Szélmalom",
+            "ro": "Moara de Vânt Solitară",
+            "en": "Windmill"
+          },
+          "coords": [
+            26.068109,
+            39.838983
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die klassische mediterrane Windmühlenarchitektur aus der Nähe und ruhen Sie sich hier aus, bevor Sie die steileren Steigungen in Angriff nehmen.",
+            "hu": "Tekintse meg testközelből a klasszikus mediterrán szélmalom építészetét, és pihenjen egy nagyot, mielőtt nekivágna a sziget meredekebb emelkedőinek.",
+            "ro": "Bucurați-vă de o privire de aproape asupra arhitecturii clasice a morilor de vânt, odihnindu-vă aici înainte de a aborda înclinațiile mai abrupte.",
+            "en": "Enjoy a close-up look at the classic Mediterranean windmill architecture, taking a well-deserved rest here before tackling the steeper island inclines."
+          }
+        },
+        {
+          "name": {
+            "de": "Göztepe Hügel",
+            "hu": "Göztepe Hegy",
+            "ro": "Dealul Göztepe",
+            "en": "Göztepe"
+          },
+          "coords": [
+            26.053088,
+            39.841998
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Rad auf den höchsten Gipfel für ein faszinierendes 360-Grad-Panorama und bringen Sie viel Wasser für den anspruchsvollen Aufstieg mit.",
+            "hu": "Tolja fel kerékpárját a sziget legmagasabb csúcsára a lenyűgöző körpanorámáért, és vigyen magával bőséges vizet ehhez a megerőltető emelkedőhöz.",
+            "ro": "Împingeți bicicleta pe cel mai înalt vârf pentru o panoramă fascinantă, aducând multă apă pentru această ascensiune solicitantă, dar plină de satisfacții.",
+            "en": "Push your bike up the island's highest peak for a mesmerizing 360-degree panorama, bringing plenty of water for the demanding but rewarding ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Yıkık Yel Değirmeni",
+            "hu": "Yıkık Yel Değirmeni",
+            "ro": "Yıkık Yel Değirmeni",
+            "en": "Yıkık Yel Değirmeni"
+          },
+          "coords": [
+            26.073615,
+            39.832652
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an den verfallenen Mühlensteinen, einem perfekten ruhigen Ort, um sich zu entspannen und das schwindende Licht über dem Meer zu beobachten.",
+            "hu": "Fejezze be kerékpáros útját a romos szélmalomköveknél, amely tökéletes, csendes hely a pihenésre és a csillogó tenger feletti naplemente megfigyelésére.",
+            "ro": "Încheiați-vă călătoria la pietrele de moară ruinate, un loc liniștit perfect pentru a vă relaxa și a privi lumina estompându-se peste marea albastră.",
+            "en": "Conclude your cycling journey at the ruined windmill stones, a perfect quiet spot to relax and watch the fading light over the sparkling blue sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer erfrischenden Fahrt an der majestätischen Burg. Mittags radeln Sie hinaus, um die alte Nekropole und die ikonischen Windmühlen zu entdecken. Der Nachmittag fordert Sie mit einem lohnenden Aufstieg auf den höchsten Gipfel der Insel bei Göztepe heraus. Rollen Sie schließlich zu den historischen Mühlenruinen hinab, um sich am Abend zu entspannen.",
+        "hu": "Kezdje a reggelt egy frissítő tekeréssel a fenséges erődnél. Délben kerekezzen ki az ősi nekropolisz és az ikonikus hegytetői szélmalmok felfedezéséhez. A délután egy hálás emelkedővel teszi próbára a sziget legmagasabb csúcsánál, a Göztepénél. Végül guruljon le a történelmi romos szélmalmok felé, hogy megpihenjen, ahogy az este leszáll a látványos tengerparti tájra.",
+        "ro": "Începeți dimineața cu o plimbare răcoritoare, pornind de la castelul maiestuos. La prânz, pedalați pentru a descoperi vechea necropolă și morile de vânt emblematice de pe deal. După-amiaza vă provoacă cu o ascensiune plină de satisfacții spre cel mai înalt vârf al insulei, la Göztepe. În cele din urmă, coborâți spre morile de vânt ruinate istoric pentru a vă relaxa odată cu seara.",
+        "en": "Begin your morning with a refreshing ride starting at the majestic castle. By midday, pedal out to discover the ancient necropolis and iconic hilltop windmills. The afternoon challenges you with a rewarding ascent to the island's highest peak at Göztepe. Finally, roll down towards the historic ruined windmills to relax as the evening descends over the spectacular coastal landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 3.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Göztepe Hügel",
+            "hu": "Göztepe Hegy",
+            "ro": "Dealul Göztepe",
+            "en": "Göztepe"
+          },
+          "coords": [
+            26.053088,
+            39.841998
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig den schmalen Feldweg zum Gipfel hinauf, wo Sie mit einem unvergleichlichen Panoramablick auf die gesamte Insel belohnt werden.",
+            "hu": "Vezessen óvatosan a keskeny földúton a csúcsra, ahol az egész szigetre és a szárazföldre nyíló, páratlan panorámával jutalmazzák meg a fáradozását.",
+            "ro": "Conduceți cu grijă pe drumul îngust de pământ până la vârf, unde veți fi răsplătit cu vederi panoramice de neegalat ale întregii insule și continentului.",
+            "en": "Drive carefully up the narrow dirt road to the summit, where you will be rewarded with unmatched panoramic views of the entire island and mainland."
+          }
+        },
+        {
+          "name": {
+            "de": "Einzelne Windmühle",
+            "hu": "Magányos Szélmalom",
+            "ro": "Moara de Vânt Solitară",
+            "en": "Windmill"
+          },
+          "coords": [
+            26.068109,
+            39.838983
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Parken Sie nahe dieser einsamen Windmühle, um ihren historischen Holzmechanismus zu bewundern, der als malerischer Vordergrund vor dem blauen Meer dient.",
+            "hu": "Parkoljon le az egyedülálló szélmalom közelében, hogy megcsodálhassa történelmi faszerkezetét, amely festői előteret biztosít a mélykék tenger vizének.",
+            "ro": "Parcați lângă această moară de vânt solitară pentru a admira mecanismul ei istoric din lemn, servind ca un prim-plan pitoresc pe fundalul apelor albastre.",
+            "en": "Park near this solitary windmill to admire its historic wooden mechanism, serving as a picturesque foreground against the deep blue waters of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Nekropol Alanı",
+            "hu": "Nekropolisz",
+            "ro": "Necropola",
+            "en": "Nekropol Alanı"
+          },
+          "coords": [
+            26.066965,
+            39.833205
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese faszinierende archäologische Stätte früh, um der Hitze zu entgehen, und tragen Sie einen Hut, da die alten Gräber der Sonne ausgesetzt sind.",
+            "hu": "Látogassa meg ezt a lenyűgöző régészeti lelőhelyet korán, hogy elkerülje a hőséget, és viseljen kalapot, mivel az ősi sírok teljesen ki vannak téve a napnak.",
+            "ro": "Vizitați devreme acest sit arheologic fascinant pentru a evita căldura, purtând o pălărie și cremă de protecție, deoarece mormintele sunt complet expuse.",
+            "en": "Visit this fascinating archaeological site early to beat the heat, wearing a hat and using sunscreen as the ancient tombs are entirely exposed to the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Bozcaada",
+            "hu": "Bozcaada Erőd",
+            "ro": "Castelul Bozcaada",
+            "en": "Bozcaada Castle"
+          },
+          "coords": [
+            26.072678,
+            39.836088
+          ],
+          "category": "castle",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto auf dem nahegelegenen Hafenparkplatz, um diese massive Wasserfestung vollständig zu erkunden und ihren weitläufigen Umfang abzugehen.",
+            "hu": "Hagyja autóját a közeli kikötői parkolóban, hogy teljesen felfedezhesse ezt a hatalmas vízparti erődöt, elegendő időt szánva a kiterjedt történelmi kerületére.",
+            "ro": "Lăsați-vă mașina în parcarea portului din apropiere pentru a explora pe deplin această fortăreață masivă, alocând timp pentru a-i parcurge perimetrul vast.",
+            "en": "Leave your car in the nearby harbor lot to fully explore this massive waterside fortress, allocating enough time to walk its extensive historic perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Aburga Ahmet Dede Grabmal",
+            "hu": "Aburga Ahmet Dede Türbéje",
+            "ro": "Mormântul Aburga Ahmet Dede",
+            "en": "Aburga Ahmet Dede Türbesi"
+          },
+          "coords": [
+            26.074533,
+            39.833475
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem historischen Grab in der Nähe des Wassers, um die einzigartigen Ankermotive zu betrachten, die die maritimen Wurzeln widerspiegeln.",
+            "hu": "Álljon meg röviden ennél a vízhez közeli történelmi sírnál, és figyelje meg az egyedi horgonymotívumokat, amelyek a sziget erős tengerészgyökereit tükrözik.",
+            "ro": "Opriți-vă scurt la acest mormânt istoric din apropierea apei pentru a observa motivele unice cu ancore, care reflectă puternicele rădăcini maritime locale.",
+            "en": "Stop briefly at this historical tomb near the water to pay respects, noting the unique anchor motifs that reflect the island's strong seafaring roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Rengigül Sanat Galerisi",
+            "hu": "Rengigül Sanat Galerisi",
+            "ro": "Rengigül Sanat Galerisi",
+            "en": "Rengigül Sanat Galerisi"
+          },
+          "coords": [
+            26.069703,
+            39.835464
+          ],
+          "category": "cultural",
+          "arrive_at": "13:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser charmanten Galerie und nehmen Sie die lokale Kultur auf, indem Sie vor dem Abendessen ein handgemachtes Souvenir kaufen.",
+            "hu": "Fejezze be a napját a helyi kultúra magába szívásával ebben a bájos galériában, és vásároljon egy egyedi, kézzel készített szuvenírt a vacsora előtt.",
+            "ro": "Încheiați ziua absorbind cultura locală în această galerie fermecătoare, poate cumpărând un suvenir artizanal unic înainte de a vă îndrepta spre cină.",
+            "en": "End your day absorbing local culture in this charming gallery and guesthouse, perhaps purchasing a unique handmade island souvenir before you head to dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer spektakulären Fahrt zum höchsten Punkt der Insel für eine unübertroffene Aussicht. Mittags fahren Sie zur Küste hinab, um einsame Windmühlen und antike Stätten zu bestaunen. Der Nachmittag ist für die imposante Architektur der großen Küstenburg reserviert. Schließen Sie Ihren Roadtrip am Abend mit charmanten Straßen und einer inspirierenden Kunstgalerie ab.",
+        "hu": "Kezdje a reggelt egy látványos autózással a sziget legmagasabb pontjára a páratlan kilátásért. Délben ereszkedjen le a part felé, hogy megcsodálja a magányos szélmalmokat és az ősi régészeti lelőhelyeket. A délutánt a grandiózus tengerparti erőd lenyűgöző építészetének szentelheti. Fejezze be szigeti körútját este a hangulatos utcák és egy inspiráló művészeti galéria felfedezésével.",
+        "ro": "Începeți dimineața cu o plimbare spectaculoasă până la cel mai înalt punct de pe insulă pentru vederi inegalabile. La prânz, coborâți spre coastă pentru a admira morile de vânt solitare și siturile arheologice antice. După-amiaza este rezervată arhitecturii impunătoare a marelui castel de la malul mării. Încheiați călătoria seara, explorând străzile fermecătoare și o galerie de artă.",
+        "en": "Start your morning with a spectacular drive up to the highest point on the island for unmatched views. By midday, descend towards the coast to marvel at solitary windmills and ancient archaeological sites. The afternoon is reserved for the imposing architecture of the grand seaside castle. Wrap up your island road trip exploring charming streets and an inspiring art gallery in the evening."
+      }
+    }
+  }
+}

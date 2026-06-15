@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-iglesias-cities-v2",
+  "anchor": {
+    "name": "Iglesias",
+    "coords": [
+      8.537235,
+      39.310261
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Quintino Sella",
+            "hu": "Monumento a Quintino Sella",
+            "ro": "Monumento a Quintino Sella",
+            "en": "Monumento a Quintino Sella"
+          },
+          "coords": [
+            8.536699,
+            39.312704
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Staatsmannes, der den lokalen Bergbau prägte, und machen Sie ein schnelles Foto vor der Erkundung des Platzes.",
+            "hu": "Csodálja meg a helyi bányászatot formáló olasz államférfi lenyűgöző szobrát, és készítsen egy gyors fotót, mielőtt felfedezné a teret.",
+            "ro": "Admirați statuia impresionantă a omului de stat care a modelat mineritului local și faceți o fotografie rapidă înainte de a explora piața.",
+            "en": "Admire the striking statue of the Italian statesman who shaped local mining, and snap a quick photo before exploring the historic square."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele",
+            "hu": "Chiesa di San Michele",
+            "ro": "Chiesa di San Michele",
+            "en": "Chiesa di San Michele"
+          },
+          "coords": [
+            8.532246,
+            39.313036
+          ],
+          "category": "religious",
+          "arrive_at": "09:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre ruhige architektonische Schönheit zu bewundern, und ruhen Sie sich vor dem Museumsbesuch kurz aus.",
+            "hu": "Lépjen be ebbe a történelmi templomba, figyelje meg építészeti szépségét, és pihenjen egy pillanatot a padokon a múzeumlátogatás előtt.",
+            "ro": "Pășiți în această biserică istorică pentru a-i observa frumusețea arhitecturală și odihniți-vă un moment pe bănci înainte de a merge la muzeu.",
+            "en": "Step inside this historic church to observe its quiet architectural beauty, taking a moment to rest in the pews before heading to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dell'Arte Mineraria",
+            "hu": "Museo dell'Arte Mineraria",
+            "ro": "Museo dell'Arte Mineraria",
+            "en": "Museo dell'Arte Mineraria"
+          },
+          "coords": [
+            8.532032,
+            39.311415
+          ],
+          "category": "museum",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende unterirdische Tunnel des Bergbauerbes von Iglesias, aber bringen Sie eine leichte Jacke mit, da es unten recht kühl wird.",
+            "hu": "Fedezze fel Iglesias gazdag bányászati örökségét bemutató lenyűgöző alagutakat, de hozzon magával egy könnyű kabátot, mivel lent meglehetősen hűvös van.",
+            "ro": "Explorați tunelurile subterane fascinante care detaliază moștenirea minieră, dar nu uitați să luați o jachetă ușoară, deoarece este destul de răcoare jos.",
+            "en": "Explore fascinating underground tunnels detailing Iglesias' rich mining heritage, but remember to bring a light jacket as it gets quite chilly down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Electra",
+            "hu": "Teatro Electra",
+            "ro": "Teatro Electra",
+            "en": "Teatro Electra"
+          },
+          "coords": [
+            8.533271,
+            39.313942
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die elegante Fassade dieses Kulturzentrums und prüfen Sie den Spielplan, falls heute eine kostenlose Tagesausstellung geöffnet ist.",
+            "hu": "Csodálja meg e kulturális központ elegáns homlokzatát a városközpontban, és ellenőrizze a helyi műsort, hátha ma nyitva tart egy nappali kiállítás.",
+            "ro": "Minunați-vă de fațada elegantă a acestui centru cultural și verificați programul local în caz că o expoziție gratuită de zi este deschisă astăzi.",
+            "en": "Marvel at the elegant facade of this cultural hub in the city center, and check the local schedule just in case a free daytime exhibit is open today."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "Chiesa di San Domenico",
+            "ro": "Chiesa di San Domenico",
+            "en": "Chiesa di San Domenico"
+          },
+          "coords": [
+            8.534065,
+            39.315111
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den gotisch-katalanischen Stil dieser alten Kirche und beachten Sie die wunderschön erhaltenen Details an den schlichten Außenwänden.",
+            "hu": "Csodálja meg ezen ősi templom gótikus-katalán stílusát, és figyelje meg az egyszerű, mégis feltűnő külső falak gyönyörűen megőrzött apró részleteit.",
+            "ro": "Admirați stilul gotic-catalan al acestei biserici antice și observați detaliile frumos conservate de pe pereții săi exteriori simpli, dar izbitori.",
+            "en": "Admire the Gothic-Catalan style of this ancient church, and take note of the beautifully preserved details on its simple yet striking exterior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Salvaterra",
+            "hu": "Castello Salvaterra",
+            "ro": "Castello Salvaterra",
+            "en": "Castello Salvaterra"
+          },
+          "coords": [
+            8.535618,
+            39.314856
+          ],
+          "category": "castle",
+          "arrive_at": "13:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Burg hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel e középkori vár romjaihoz, hogy élvezze a városra nyíló panorámát, és viseljen masszív sétacipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval pentru a vă bucura de vederi panoramice ale orașului, purtând pantofi de mers rezistenți pentru poteci.",
+            "en": "Climb up to the ruins of this medieval castle to enjoy sweeping panoramic views of the city, wearing sturdy walking shoes for the uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein gemütlicher Morgenspaziergang führt Sie ins Herz von Iglesias, wo Sie die Statue von Quintino Sella und die nahegelegene Kirche San Michele bewundern können. Die malerischen Gassen sind perfekt zum Flanieren. Mittags tauchen Sie im Museo dell'Arte Mineraria tief in die faszinierende Bergbaugeschichte ein. Später locken das elegante Teatro Electra und die historische San Domenico Kirche. Der Tag endet majestätisch mit einem Aufstieg zum Castello Salvaterra, wo sich Ihnen ein wunderbares Panorama über die Dächer der Stadt im sanften Abendlicht bietet.",
+        "hu": "Kényelmes reggeli sétánk Iglesias szívébe vezet, ahol Quintino Sella szobrát és a San Michele templomot tekinthetjük meg. A festői sikátorok tökéletesek a barangoláshoz. Délben a Museo dell'Arte Mineraria segítségével mélyedünk el a lenyűgöző helyi bányászati történelemben. Később az elegáns Teatro Electra és a történelmi San Domenico templom vár ránk. A nap fenségesen zárul a Castello Salvaterra megmászásával, ahonnan csodálatos panoráma nyílik a város háztetőire a lágy esti fényben.",
+        "ro": "O plimbare matinală relaxantă vă poartă în inima orașului Iglesias, unde veți admira statuia lui Quintino Sella și biserica San Michele. Aleile pitorești sunt perfecte pentru explorare. La prânz, aprofundați istoria minieră la Museo dell'Arte Mineraria. Mai târziu, vă așteaptă elegantul Teatro Electra și biserica istorică San Domenico. Ziua se încheie maiestuos cu o urcare la Castello Salvaterra, care oferă o panoramă minunată asupra acoperișurilor orașului în lumina blândă a serii.",
+        "en": "A leisurely morning walk takes you to the heart of Iglesias, starting with the monument to Quintino Sella and the historic San Michele church. By midday, you will delve deep into the region's fascinating heritage at the Mining Art Museum. The afternoon brings the elegant facade of Teatro Electra and the charming San Domenico church. Your day concludes majestically with a climb to the ruins of Castello Salvaterra, offering sweeping panoramic views over the city rooftops in the soft evening light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio Abate",
+            "hu": "Chiesa di Sant'Antonio Abate",
+            "ro": "Chiesa di Sant'Antonio Abate",
+            "en": "Chiesa di Sant'Antonio Abate"
+          },
+          "coords": [
+            8.532645,
+            39.31955
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der ältesten religiösen Stätten der Gegend, die eine zutiefst friedliche Atmosphäre bietet, die sich perfekt für den Morgen eignet.",
+            "hu": "Fedezze fel a környék egyik legrégebbi vallási helyszínét, amely mélyen békés atmoszférát kínál, és tökéletesen alkalmas egy csendes reggeli elmélkedésre.",
+            "ro": "Descoperiți unul dintre cele mai vechi situri religioase din zonă, oferind o atmosferă profund pașnică, potrivită perfect pentru o reflecție matinală.",
+            "en": "Discover one of the oldest religious sites in the area, offering a deeply peaceful atmosphere perfectly suited for a quiet morning reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario San Giuseppe",
+            "hu": "Santuario San Giuseppe",
+            "ro": "Santuario San Giuseppe",
+            "en": "Santuario San Giuseppe"
+          },
+          "coords": [
+            8.53123,
+            39.313596
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante Heiligtum, das dem Heiligen Josef gewidmet ist, und schätzen Sie den ruhigen Innenhof, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Látogasson el a Szent Józsefnek szentelt bájos szentélybe, és szánjon időt a derűs udvar értékelésére, mielőtt folytatná útját a belvárosban.",
+            "ro": "Vizitați acest sanctuar fermecător dedicat Sfântului Iosif, luându-vă timp pentru a aprecia curtea senină înainte de a vă continua călătoria.",
+            "en": "Visit this charming sanctuary dedicated to Saint Joseph, taking time to appreciate the serene courtyard before continuing your journey through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dell'Arte Mineraria",
+            "hu": "Museo dell'Arte Mineraria",
+            "ro": "Museo dell'Arte Mineraria",
+            "en": "Museo dell'Arte Mineraria"
+          },
+          "coords": [
+            8.532032,
+            39.311415
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende unterirdische Tunnel des Bergbauerbes von Iglesias, aber bringen Sie eine leichte Jacke mit, da es unten recht kühl wird.",
+            "hu": "Fedezze fel Iglesias gazdag bányászati örökségét bemutató lenyűgöző alagutakat, de hozzon magával egy könnyű kabátot, mivel lent meglehetősen hűvös van.",
+            "ro": "Explorați tunelurile subterane fascinante care detaliază moștenirea minieră, dar nu uitați să luați o jachetă ușoară, deoarece este destul de răcoare jos.",
+            "en": "Explore fascinating underground tunnels detailing Iglesias' rich mining heritage, but remember to bring a light jacket as it gets quite chilly down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Quintino Sella",
+            "hu": "Monumento a Quintino Sella",
+            "ro": "Monumento a Quintino Sella",
+            "en": "Monumento a Quintino Sella"
+          },
+          "coords": [
+            8.536699,
+            39.312704
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue des Staatsmannes, der den lokalen Bergbau prägte, und machen Sie ein schnelles Foto vor der Erkundung des Platzes.",
+            "hu": "Csodálja meg a helyi bányászatot formáló olasz államférfi lenyűgöző szobrát, és készítsen egy gyors fotót, mielőtt felfedezné a teret.",
+            "ro": "Admirați statuia impresionantă a omului de stat care a modelat mineritului local și faceți o fotografie rapidă înainte de a explora piața.",
+            "en": "Admire the striking statue of the Italian statesman who shaped local mining, and snap a quick photo before exploring the historic square."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Salvaterra",
+            "hu": "Castello Salvaterra",
+            "ro": "Castello Salvaterra",
+            "en": "Castello Salvaterra"
+          },
+          "coords": [
+            8.535618,
+            39.314856
+          ],
+          "category": "castle",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Burg hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel e középkori vár romjaihoz, hogy élvezze a városra nyíló panorámát, és viseljen masszív sétacipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval pentru a vă bucura de vederi panoramice ale orașului, purtând pantofi de mers rezistenți pentru poteci.",
+            "en": "Climb up to the ruins of this medieval castle to enjoy sweeping panoramic views of the city, wearing sturdy walking shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Nostra Signora di Valverde",
+            "hu": "Chiesa di Nostra Signora di Valverde",
+            "ro": "Chiesa di Nostra Signora di Valverde",
+            "en": "Chiesa di Nostra Signora di Valverde"
+          },
+          "coords": [
+            8.545302,
+            39.310542
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klaren Linien dieser Kirche außerhalb des geschäftigen Zentrums und genießen Sie einen Spaziergang über ihr historisches Gelände.",
+            "hu": "Csodálja meg e templom jellegzetes vonalait a forgalmas központon kívül, és élvezze a békés sétát a lenyűgöző, régi történelmi területén.",
+            "ro": "Minunați-vă de liniile arhitecturale distincte ale acestei biserici situate chiar în afara centrului și bucurați-vă de o plimbare pe terenul ei.",
+            "en": "Marvel at the distinct architectural lines of this church set just outside the busy center, and enjoy a peaceful stroll around its historical grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Kirche Sant'Antonio Abate im Norden der Stadt, bevor Sie zum Santuario San Giuseppe weiterradeln. Die frische Brise begleitet Sie durch die Straßen. Mittags verbringen Sie viel Zeit im Museo dell'Arte Mineraria und legen einen kurzen Stopp am Monumento a Quintino Sella ein. Nachmittags erwartet Sie der herausfordernde Aufstieg zum Castello Salvaterra mit herrlichen Ausblicken. Schließlich rollen Sie entspannt zur Kirche Nostra Signora di Valverde, um den Tag in absoluter Ruhe ausklingen zu lassen.",
+        "hu": "Kezdje kerékpártúráját a város északi részén található nyugodt Sant'Antonio Abate templomnál, mielőtt továbbkerekezik a San Giuseppe szentélyhez. Délben sok időt tölthet a bányászati múzeumban, és tehet egy rövid megállót a Quintino Sella emlékműnél. Délután a Castello Salvaterra kihívást jelentő emelkedője várja csodálatos kilátással. Végül kényelmesen guruljon el a Nostra Signora di Valverde templomhoz, hogy a napot abszolút nyugalomban fejezze be a város szélén.",
+        "ro": "Începeți turul cu bicicleta la liniștita biserică Sant'Antonio Abate din nordul orașului, înainte de a pedala spre San Giuseppe. Briza proaspătă vă însoțește prin oraș. La prânz, petreceți timp la Muzeul de Artă Minieră și faceți o scurtă oprire la Monumento a Quintino Sella. După-amiaza vă așteaptă urcarea provocatoare la Castello Salvaterra. În cele din urmă, rulați relaxat până la biserica Nostra Signora di Valverde pentru a încheia ziua în liniște absolută.",
+        "en": "Kick off your cycling tour at the quiet Sant'Antonio Abate church in the north before pedaling smoothly toward the Sanctuary of San Giuseppe. Around midday, dismount to spend ample time at the Mining Art Museum and the monument to Quintino Sella. The afternoon brings a slightly challenging but rewarding ride up to Castello Salvaterra for breathtaking views. Finally, roll comfortably down to the beautiful Church of Nostra Signora di Valverde to end your active day in absolute peace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Pio X",
+            "hu": "San Pio X",
+            "ro": "San Pio X",
+            "en": "San Pio X"
+          },
+          "coords": [
+            8.545488,
+            39.305592
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser modernen Pfarrkirche, die das lokale Viertel verankert und einen authentischen Einblick in das tägliche Leben bietet.",
+            "hu": "Kezdje túráját ennél a modern plébániatemplomnál, amely a helyi negyed horgonya, hiteles bepillantást nyújtva Iglesias mindennapi életébe.",
+            "ro": "Începeți turul la această biserică parohială modernă care ancorează cartierul local, oferind o privire autentică în viața de zi cu zi a Iglesias.",
+            "en": "Start your tour at this modern parish church which anchors the local neighborhood, offering an authentic glimpse into the daily life of Iglesias."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giuseppe Artigiano",
+            "hu": "San Giuseppe Artigiano",
+            "ro": "San Giuseppe Artigiano",
+            "en": "San Giuseppe Artigiano"
+          },
+          "coords": [
+            8.537767,
+            39.304046
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Hingabe des südlichen Bezirks in dieser modernen Kirche und machen Sie eine kurze Pause, um ihr minimalistisches Design zu schätzen.",
+            "hu": "Tapasztalja meg a déli negyed csendes áhítatát ebben a kortárs templomban, rövid szünetet tartva letisztult, minimalista dizájnjának értékelésére.",
+            "ro": "Experimentați devotamentul liniștit al districtului de sud în această biserică contemporană, făcând o scurtă pauză pentru designul său minimalist.",
+            "en": "Experience the quiet devotion of the southern district in this contemporary church, taking a brief pause to appreciate its clean, minimalist design."
+          }
+        },
+        {
+          "name": {
+            "de": "San Paolo Apostolo",
+            "hu": "San Paolo Apostolo",
+            "ro": "San Paolo Apostolo",
+            "en": "San Paolo Apostolo"
+          },
+          "coords": [
+            8.527895,
+            39.310598
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die auffällige Einfachheit dieser Kirche, ein ausgezeichneter kurzer Stopp, um zu sehen, wie sich moderner Glaube mit der Altstadt verbindet.",
+            "hu": "Figyelje meg a környékbeli templom feltűnő egyszerűségét, amely kiváló rövid megálló útközben, hogy lássa a modern hit és az óváros keveredését.",
+            "ro": "Observați simplitatea izbitoare a acestei biserici de cartier, o oprire scurtă excelentă pe traseul dvs. pentru a vedea cum se îmbină credința modernă.",
+            "en": "Notice the striking simplicity of this neighborhood church, an excellent short stop on your route to see how modern faith blends with the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dell'Arte Mineraria",
+            "hu": "Museo dell'Arte Mineraria",
+            "ro": "Museo dell'Arte Mineraria",
+            "en": "Museo dell'Arte Mineraria"
+          },
+          "coords": [
+            8.532032,
+            39.311415
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie faszinierende unterirdische Tunnel des Bergbauerbes von Iglesias, aber bringen Sie eine leichte Jacke mit, da es unten recht kühl wird.",
+            "hu": "Fedezze fel Iglesias gazdag bányászati örökségét bemutató lenyűgöző alagutakat, de hozzon magával egy könnyű kabátot, mivel lent meglehetősen hűvös van.",
+            "ro": "Explorați tunelurile subterane fascinante care detaliază moștenirea minieră, dar nu uitați să luați o jachetă ușoară, deoarece este destul de răcoare jos.",
+            "en": "Explore fascinating underground tunnels detailing Iglesias' rich mining heritage, but remember to bring a light jacket as it gets quite chilly down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Salvaterra",
+            "hu": "Castello Salvaterra",
+            "ro": "Castello Salvaterra",
+            "en": "Castello Salvaterra"
+          },
+          "coords": [
+            8.535618,
+            39.314856
+          ],
+          "category": "castle",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser mittelalterlichen Burg hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel e középkori vár romjaihoz, hogy élvezze a városra nyíló panorámát, és viseljen masszív sétacipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați la ruinele acestui castel medieval pentru a vă bucura de vederi panoramice ale orașului, purtând pantofi de mers rezistenți pentru poteci.",
+            "en": "Climb up to the ruins of this medieval castle to enjoy sweeping panoramic views of the city, wearing sturdy walking shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Nostra Signora di Valverde",
+            "hu": "Chiesa di Nostra Signora di Valverde",
+            "ro": "Chiesa di Nostra Signora di Valverde",
+            "en": "Chiesa di Nostra Signora di Valverde"
+          },
+          "coords": [
+            8.545302,
+            39.310542
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klaren Linien dieser Kirche außerhalb des geschäftigen Zentrums und genießen Sie einen Spaziergang über ihr historisches Gelände.",
+            "hu": "Csodálja meg e templom jellegzetes vonalait a forgalmas központon kívül, és élvezze a békés sétát a lenyűgöző, régi történelmi területén.",
+            "ro": "Minunați-vă de liniile arhitecturale distincte ale acestei biserici situate chiar în afara centrului și bucurați-vă de o plimbare pe terenul ei.",
+            "en": "Marvel at the distinct architectural lines of this church set just outside the busy center, and enjoy a peaceful stroll around its historical grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre bequeme Fahrt beginnt in den südlichen Vororten bei San Pio X und San Giuseppe Artigiano, was Ihnen einen authentischen Eindruck des lokalen Lebens vermittelt. Mittags fahren Sie ins Zentrum, um die moderne Kirche San Paolo Apostolo und das berühmte Bergbaumuseum zu besichtigen. Die Wege zwischen den Vierteln sind kurz. Nachmittags erkunden Sie das imposante Castello Salvaterra von oben. Zum Abschluss des Tages fahren Sie zur Nostra Signora di Valverde, wo Sie den Tag abseits des Trubels mit viel Charme entspannt beenden.",
+        "hu": "Kényelmes autós útja a déli külvárosokban kezdődik a San Pio X és a San Giuseppe Artigiano templomoknál, hiteles képet adva a helyi életről. Délben a központba hajt, hogy megnézze a modern San Paolo Apostolo templomot és a híres bányászati múzeumot. Délután felfedezi az impozáns Castello Salvaterrát, amely uralja a városképet. A nap végén elvezet a Nostra Signora di Valverde templomhoz, ahol a nyüzsgéstől távol, igazi békében fejezheti be a kirándulást.",
+        "ro": "Călătoria dumneavoastră confortabilă începe în suburbiile de sud la San Pio X și San Giuseppe Artigiano, oferindu-vă o impresie autentică asupra vieții locale. La prânz conduceți spre centru pentru a vedea biserica San Paolo Apostolo și celebrul muzeu minier. După-amiaza explorați impunătorul Castello Salvaterra de sus. La sfârșitul zilei conduceți la Nostra Signora di Valverde, unde încheiați relaxat călătoria departe de agitație, într-o atmosferă fermecătoare.",
+        "en": "Your comfortable drive begins in the southern suburbs at San Pio X and San Giuseppe Artigiano, offering an authentic glimpse of everyday local life. By midday, cruise toward the center to visit San Paolo Apostolo and the highly renowned Mining Art Museum. In the afternoon, navigate up to explore the imposing Castello Salvaterra overlooking the city. To round off the day, take a short drive out to Nostra Signora di Valverde, finishing your excursion away from the hustle and bustle."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "lorgues",
+  "anchor": {
+    "name": "Lorgues",
+    "coords": [
+      6.3611,
+      43.4933
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:44",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fassade der Templerherberge",
+            "hu": "Templomosok fogadójának homlokzata",
+            "ro": "Fațada hanului templierilor",
+            "en": "Façade of the Templars' Inn"
+          },
+          "coords": [
+            6.360645,
+            43.493777
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
+            "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
+            "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarrasinentor",
+            "hu": "Szaracén kapu",
+            "ro": "Poarta Sarazină",
+            "en": "Sarrasine Gate"
+          },
+          "coords": [
+            6.362002,
+            43.494281
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
+            "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
+            "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Martin",
+            "hu": "Saint-Martin társaskáptalan",
+            "ro": "Colegiata Saint-Martin",
+            "en": "Collégiale Saint-Martin"
+          },
+          "coords": [
+            6.363005,
+            43.492361
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
+            "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
+            "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Anna-Kapelle",
+            "hu": "Szent Anna kápolna",
+            "ro": "Capela Sfânta Ana",
+            "en": "Chapelle Sainte-Anne"
+          },
+          "coords": [
+            6.364782,
+            43.488501
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber wunderschön erhaltene lokale Kapelle, die die provenzalische Architektur unterstreicht, und kommen Sie früh, um die harte Mittagssonne zu meiden.",
+            "hu": "Látogasson el ebbe a szerény, mégis gyönyörűen megőrzött helyi kápolnába, amely a provence-i építészetet dicséri, és érkezzen korán, hogy elkerülje az erős déli napsütést.",
+            "ro": "Vizitați această capelă locală modestă, dar frumos conservată, care evidențiază arhitectura provensală, și veniți devreme pentru a evita soarele puternic de la amiază.",
+            "en": "Visit this modest yet beautifully preserved local chapel that highlights traditional Provençal religious architecture, and come early to avoid the harsh midday sun on its simple facade."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Honorat-Kapelle",
+            "hu": "Szent Honorat kápolna",
+            "ro": "Capela Saint-Honorat",
+            "en": "Chapelle Saint-Honorat"
+          },
+          "coords": [
+            6.365808,
+            43.497391
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche religiöse Heiligtum etwas abseits des geschäftigen Zentrums für einen Moment der Ruhe, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a nyüzsgő központtól kissé távolabb eső, békés vallási szentélyt, amely egy pillanatnyi nyugalmat hoz, és hozzon magával vizet, mivel a közelben nincs kút.",
+            "ro": "Descoperiți acest sanctuar religios pașnic, ascuns de centrul plin de viață, aducând un moment de calm, și aduceți-vă propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Lorgues, wo Sie in die Geschichte der Templer und das imposante Sarrasinentor eintauchen. Der Mittag ist in die feierliche Anmut der Collégiale getaucht und bietet eine kühle Erholung von der Sonne. Der Nachmittag führt Sie auf einem sanften Spaziergang zur charmanten Kapelle Sainte-Anne, die lokale provenzalische Hingabe offenbart. Der Abend nähert sich, wenn Sie das ruhige Gelände von Saint-Honorat erreichen und diese Erkundungstour perfekt abschließen.",
+        "hu": "A reggel Lorgues szívében indul, elmerülve a templomosok történetében és az impozáns Szaracén kapu látványában. A délidőt a hatalmas Collégiale hűvös és ünnepélyes békéje aranyozza be a melegedő mediterrán nap elől. A délután egy kellemes sétát kínál a bájos Sainte-Anne kápolnához, bemutatva a helyi vallási hagyományokat. Az este közeledtével a békés Saint-Honorat területére érkezik, tökéletesen lezárva ezen ősi kisváros gyalogos felfedezését.",
+        "ro": "Dimineața începe în inima orașului Lorgues, explorând istoria profundă a prezenței templierilor și impunătoarea Poartă Sarazină. Amiaza este scăldată în grația solemnă a bisericii colegiale, oferind un răgaz răcoros din calea soarelui mediteranean. După-amiaza vă poartă într-o plimbare blândă către fermecătoarea capelă Sainte-Anne, dezvăluind devotamentul provensal. Seara se apropie odată cu atingerea terenurilor liniștite de la Saint-Honorat, încheind o explorare pietonală perfectă.",
+        "en": "Morning starts in the very heart of Lorgues, diving into the deep history of the Templar presence and the imposing Sarrasine Gate. Midday is bathed in the solemn grace of the Collégiale, offering a cool respite from the growing Mediterranean sun. The afternoon takes you on a gentle stroll to the charming Sainte-Anne chapel, revealing local Provençal devotion. Evening approaches as you reach the tranquil grounds of Saint-Honorat, wrapping up a perfect pedestrian exploration of this ancient town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 3.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fassade der Templerherberge",
+            "hu": "Templomosok fogadójának homlokzata",
+            "ro": "Fațada hanului templierilor",
+            "en": "Façade of the Templars' Inn"
+          },
+          "coords": [
+            6.360645,
+            43.493777
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
+            "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
+            "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Martin",
+            "hu": "Saint-Martin társaskáptalan",
+            "ro": "Colegiata Saint-Martin",
+            "en": "Collégiale Saint-Martin"
+          },
+          "coords": [
+            6.363005,
+            43.492361
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
+            "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
+            "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarrasinentor",
+            "hu": "Szaracén kapu",
+            "ro": "Poarta Sarazină",
+            "en": "Sarrasine Gate"
+          },
+          "coords": [
+            6.362002,
+            43.494281
+          ],
+          "category": "historical",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
+            "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
+            "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Honorat-Kapelle",
+            "hu": "Szent Honorat kápolna",
+            "ro": "Capela Saint-Honorat",
+            "en": "Chapelle Saint-Honorat"
+          },
+          "coords": [
+            6.365808,
+            43.497391
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche religiöse Heiligtum etwas abseits des geschäftigen Zentrums für einen Moment der Ruhe, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a nyüzsgő központtól kissé távolabb eső, békés vallási szentélyt, amely egy pillanatnyi nyugalmat hoz, és hozzon magával vizet, mivel a közelben nincs kút.",
+            "ro": "Descoperiți acest sanctuar religios pașnic, ascuns de centrul plin de viață, aducând un moment de calm, și aduceți-vă propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Saint-Ferréol",
+            "hu": "Saint-Ferréol remeteség",
+            "ro": "Schitul Saint-Ferréol",
+            "en": "Hermitage of Saint-Ferréol"
+          },
+          "coords": [
+            6.372019,
+            43.499794
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hügel zu dieser ruhigen Einsiedelei mit weitem Blick über die mediterrane Landschaft, die der perfekte Ort für ein ruhiges Picknick am späten Vormittag ist.",
+            "hu": "Mássza meg az enyhe dombot, hogy elérje ezt a békés remeteséget, ahonnan pazar kilátás nyílik a tájra, így ez a tökéletes helyszín egy csendes délelőtti piknikhez.",
+            "ro": "Urcați dealul blând pentru a ajunge la acest schit senin care oferă vederi panoramice peste peisajul mediteranean, făcându-l locul perfect pentru un picnic liniștit.",
+            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauveclare-Wasserfall",
+            "hu": "Sauveclare-vízesés",
+            "ro": "Cascada Sauveclare",
+            "en": "Cascade de Sauveclare"
+          },
+          "coords": [
+            6.389046,
+            43.507139
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem versteckten Wasserfall inmitten üppigen Grüns, und tragen Sie festes Schuhwerk, um sicher über die feuchten, moosbedeckten Felsen zu gehen.",
+            "hu": "Tartson egy frissítő pihenőt ennél a buja növényzettel körülvett rejtett vízesésnél, de viseljen masszív cipőt, hogy biztonságosan mozoghasson a csúszós, mohás sziklákon.",
+            "ro": "Luați o pauză răcoritoare la această cascadă locală ascunsă, înconjurată de verdeață luxuriantă, și purtați pantofi rezistenți pentru a naviga în siguranță pe rocile alunecoase.",
+            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Machen Sie sich auf zwei Rädern auf den Weg, um die zentralen Wahrzeichen leicht mit den weiteren Landschaften zu verbinden. Nach der Erkundung der Templerfassade verspricht der Mittag eine leichte Fahrt an den Stadtrand. Der Nachmittag steigt stetig zur Einsiedelei Saint-Ferréol an, wo ein Panoramablick Ihre Mühen belohnt. Beenden Sie Ihre Radtour mit den erfrischenden Klängen des Sauveclare-Wasserfalls, während das Abendlicht durch die üppigen Bäume fällt.",
+        "hu": "Két keréken induljon útnak, hogy könnyedén összekösse a központi történelmi látványosságokat Lorgues tágasabb tájaival. A központi templomos homlokzat és a templom után a délidő kényelmes tekerést kínál. A délután folyamatos emelkedést tartogat a Saint-Ferréol remeteséghez, ahol a panoráma kárpótol a fáradalmakért. Fejezze be kerékpáros útját a Sauveclare-vízesés frissítő hangjaival, ahogy az esti fény átszűrődik a fák sűrű lombjain.",
+        "ro": "Porniți pe două roți pentru a conecta cu ușurință reperele istorice centrale cu peisajele mai largi din Lorgues. După explorarea fațadei templiere centrale, amiaza promite o plimbare ușoară spre periferie. După-amiaza urcă constant spre Schitul Saint-Ferréol, unde vederile panoramice vă răsplătesc efortul. Încheiați-vă călătoria cu sunetele răcoritoare ale cascadei Sauveclare, în timp ce lumina serii se filtrează prin copacii luxurianți.",
+        "en": "Set off on two wheels to easily connect the central historical landmarks with the wider landscapes of Lorgues. After exploring the central Templar facade and the towering church, midday promises an easy ride towards the outskirts. The afternoon climbs steadily to the Hermitage of Saint-Ferréol, where rewarding panoramic views await your effort. Finish your biking journey with the refreshing sounds of the Sauveclare waterfall as the evening light filters through the lush trees."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Benva",
+            "hu": "Notre-Dame de Benva kápolna",
+            "ro": "Capela Notre-Dame de Benva",
+            "en": "Chapel of Notre-Dame de Benva"
+          },
+          "coords": [
+            6.336805,
+            43.498432
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen mittelalterlichen Fresken im Inneren dieser Feldkapelle, aber denken Sie an eine kleine Taschenlampe, um die dunkleren bemalten Ecken richtig auszuleuchten.",
+            "hu": "Csodálja meg a vidéki kápolna belsejét díszítő csodálatos középkori freskókat, de ne felejtsen el egy kis zseblámpát hozni, hogy a sötétebb festett sarkokat is megvilágíthassa.",
+            "ro": "Minunați-vă de frescele medievale magnifice care decorează interiorul acestei capele rurale, dar nu uitați să aduceți o mică lanternă pentru a ilumina colțurile mai întunecate.",
+            "en": "Marvel at the magnificent medieval frescoes decorating the interior of this countryside chapel, but remember to bring a small flashlight to properly illuminate the darker painted corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Jaume",
+            "hu": "Saint-Jaume kápolna",
+            "ro": "Capela Saint-Jaume",
+            "en": "Chapelle Saint-Jaume"
+          },
+          "coords": [
+            6.328532,
+            43.481512
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese rustikale Steinkapelle inmitten der Weinberge für ein echtes Stück ländlicher Provence, und parken Sie vorsichtig am staubigen Rand, um den Weg nicht zu blockieren.",
+            "hu": "Fedezze fel ezt a szőlőültetvények között megbúvó rusztikus kőkápolnát a vidéki Provence igazi ízéért, és parkoljon óvatosan a poros útpadkán, hogy ne akadályozza a forgalmat.",
+            "ro": "Explorați această capelă rustică din piatră ascunsă printre podgorii pentru un adevărat gust al regiunii Provence și parcați cu atenție pe marginea prăfuită pentru a nu bloca drumul.",
+            "en": "Explore this rustic stone chapel nestled among the vineyards for a true taste of rural Provence, and park carefully on the dusty shoulder to avoid blocking the narrow farming lane."
+          }
+        },
+        {
+          "name": {
+            "de": "Fassade der Templerherberge",
+            "hu": "Templomosok fogadójának homlokzata",
+            "ro": "Fațada hanului templierilor",
+            "en": "Façade of the Templars' Inn"
+          },
+          "coords": [
+            6.360645,
+            43.493777
+          ],
+          "category": "landmark",
+          "arrive_at": "10:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
+            "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
+            "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Saint-Martin",
+            "hu": "Saint-Martin társaskáptalan",
+            "ro": "Colegiata Saint-Martin",
+            "en": "Collégiale Saint-Martin"
+          },
+          "coords": [
+            6.363005,
+            43.492361
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
+            "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
+            "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarrasinentor",
+            "hu": "Szaracén kapu",
+            "ro": "Poarta Sarazină",
+            "en": "Sarrasine Gate"
+          },
+          "coords": [
+            6.362002,
+            43.494281
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
+            "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
+            "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei Saint-Ferréol",
+            "hu": "Saint-Ferréol remeteség",
+            "ro": "Schitul Saint-Ferréol",
+            "en": "Hermitage of Saint-Ferréol"
+          },
+          "coords": [
+            6.372019,
+            43.499794
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den sanften Hügel zu dieser ruhigen Einsiedelei mit weitem Blick über die mediterrane Landschaft, die der perfekte Ort für ein ruhiges Picknick am späten Vormittag ist.",
+            "hu": "Mássza meg az enyhe dombot, hogy elérje ezt a békés remeteséget, ahonnan pazar kilátás nyílik a tájra, így ez a tökéletes helyszín egy csendes délelőtti piknikhez.",
+            "ro": "Urcați dealul blând pentru a ajunge la acest schit senin care oferă vederi panoramice peste peisajul mediteranean, făcându-l locul perfect pentru un picnic liniștit.",
+            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Sauveclare-Wasserfall",
+            "hu": "Sauveclare-vízesés",
+            "ro": "Cascada Sauveclare",
+            "en": "Cascade de Sauveclare"
+          },
+          "coords": [
+            6.389046,
+            43.507139
+          ],
+          "category": "landmark",
+          "arrive_at": "14:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem versteckten Wasserfall inmitten üppigen Grüns, und tragen Sie festes Schuhwerk, um sicher über die feuchten, moosbedeckten Felsen zu gehen.",
+            "hu": "Tartson egy frissítő pihenőt ennél a buja növényzettel körülvett rejtett vízesésnél, de viseljen masszív cipőt, hogy biztonságosan mozoghasson a csúszós, mohás sziklákon.",
+            "ro": "Luați o pauză răcoritoare la această cascadă locală ascunsă, înconjurată de verdeață luxuriantă, și purtați pantofi rezistenți pentru a naviga în siguranță pe rocile alunecoase.",
+            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Autotour ermöglicht es Ihnen, die versteckten Juwelen um Lorgues zu entdecken, beginnend mit den atemberaubenden Fresken. Mittags kehren Sie in das historische Stadtzentrum zurück, um die mittelalterlichen Tore zu bestaunen. Die Fahrt am Nachmittag führt Sie zur ruhigen Einsiedelei, die die atemberaubende regionale Topographie zeigt. Bei Einbruch der Dunkelheit bringt Sie eine kurze Fahrt zur kühlenden Oase des Sauveclare-Wasserfalls, wo Sie sich entspannen können.",
+        "hu": "Egy autós túra lehetővé teszi, hogy felfedezze a Lorgues környékén elszórt rejtett gyöngyszemeket, kezdve a Notre-Dame de Benva lenyűgöző freskóival. Délre visszatér a történelmi városközpontba, hogy megcsodálja a középkori kapukat. A délutáni vezetés a békés remeteséghez visz, bemutatva a lenyűgöző regionális domborzatot. Ahogy leszáll az este, egy utolsó rövid út a Sauveclare-vízesés hűsítő oázisához vezet a teljes kikapcsolódáshoz.",
+        "ro": "Un tur cu mașina vă permite să descoperiți bijuteriile ascunse din jurul orașului Lorgues, începând cu frescele uimitoare. Până la amiază, vă veți întoarce în centrul istoric al orașului pentru a admira porțile medievale. Plimbarea de după-amiază vă duce la schitul liniștit, prezentând topografia regională uimitoare. Odată cu lăsarea serii, o scurtă călătorie finală vă aduce la oaza răcoroasă a cascadei Sauveclare pentru a vă relaxa complet.",
+        "en": "A driving tour allows you to discover the hidden gems scattered around Lorgues, starting with the breathtaking frescoes of Notre-Dame de Benva. By midday, you'll transition back into the historic town center to marvel at the medieval gates and grand collegial church. The afternoon drive takes you up to the serene Hermitage, showcasing the stunning regional topography. As evening falls, a short final drive brings you to the cooling oasis of the Sauveclare waterfall to unwind completely."
+      }
+    }
+  }
+}

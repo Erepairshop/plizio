@@ -1,0 +1,405 @@
+{
+  "city_id": "portugal-mar-cities-v2",
+  "anchor": {
+    "name": "Mar",
+    "coords": [
+      -8.79046,
+      41.57382
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:36",
+      "total_km": 2.44,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Menir de São Bartolomeu do Mar",
+            "hu": "Menir de São Bartolomeu do Mar",
+            "ro": "Menir de São Bartolomeu do Mar",
+            "en": "Menir de São Bartolomeu do Mar"
+          },
+          "coords": [
+            -8.791011,
+            41.573551
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen faszinierenden prähistorischen Menhir in Küstennähe und achten Sie auf die moosbedeckten Inschriften im sanften Morgenlicht.",
+            "hu": "Csodálja meg ezt a lenyűgöző tengerparti őskori menhírt, és figyelje meg a mohával borított részleteket a lágy reggeli fényben.",
+            "ro": "Admirați acest menhir preistoric fascinant de pe coastă și observați detaliile acoperite de mușchi în lumina blândă a dimineții.",
+            "en": "Admire this fascinating coastal prehistoric menhir and look out for the moss-covered details bathed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Cruzeiro de São Bartolomeu",
+            "hu": "Cruzeiro de São Bartolomeu",
+            "ro": "Cruzeiro de São Bartolomeu",
+            "en": "Cruzeiro de São Bartolomeu"
+          },
+          "coords": [
+            -8.798116,
+            41.573952
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses traditionelle Steinkreuz als Symbol des lokalen Glaubens und nehmen Sie sich einen Moment Zeit, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Tekintse meg ezt a hagyományos kőkeresztet, a helyi hit szimbólumát, és szánjon egy percet a békés hangulat élvezetére.",
+            "ro": "Priviți această cruce tradițională de piatră ca simbol al credinței locale și luați-vă un moment pentru a vă bucura de atmosfera liniștită.",
+            "en": "View this traditional stone cross as a symbol of local faith and take a moment to soak in the peaceful atmosphere of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Rio de Moinhos",
+            "hu": "Praia de Rio de Moinhos",
+            "ro": "Praia de Rio de Moinhos",
+            "en": "Praia de Rio de Moinhos"
+          },
+          "coords": [
+            -8.796683,
+            41.565485
+          ],
+          "category": "recreational",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise an diesem unberührten Strand, der sich ideal für einen erholsamen Spaziergang entlang der portugiesischen Küste eignet.",
+            "hu": "Élvezze a friss tengeri szellőt ezen az érintetlen strandon, amely ideális egy pihentető sétához a gyönyörű portugál partvonal mentén.",
+            "ro": "Bucurați-vă de briza proaspătă a oceanului pe această plajă curată, ideală pentru o plimbare relaxantă de-a lungul coastei portugheze.",
+            "en": "Enjoy the fresh ocean breeze at this pristine beach, which is ideal for a relaxing stroll along the beautiful and rugged Portuguese coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Moinho de Vento",
+            "hu": "Moinho de Vento",
+            "ro": "Moinho de Vento",
+            "en": "Moinho de Vento"
+          },
+          "coords": [
+            -8.787691,
+            41.566131
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Windmühle, die von der landwirtschaftlichen Vergangenheit zeugt, und achten Sie auf das rustikale Mauerwerk.",
+            "hu": "Fedezze fel e történelmi szélmalom romjait, amely a mezőgazdasági múltat idézi, és figyelje meg a rusztikus és masszív kőfalakat.",
+            "ro": "Explorați ruinele acestei mori de vânt istorice care amintește de trecutul agricol și observați detaliile rustice ale zidăriei din piatră.",
+            "en": "Explore the remains of this historic windmill reflecting the agricultural past, and take a close look at the rustic stone masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Azenha",
+            "hu": "Azenha",
+            "ro": "Azenha",
+            "en": "Azenha"
+          },
+          "coords": [
+            -8.786971,
+            41.564915
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante alte Wassermühle am Wasserlauf und lauschen Sie dem beruhigenden Plätschern, um Ihren Tag entspannt ausklingen zu lassen.",
+            "hu": "Látogasson el ehhez a bájos régi vízimalomhoz a patak partján, és hallgassa meg a víz nyugtató csobogását a nap tökéletes lezárásaként.",
+            "ro": "Vizitați această veche moară de apă fermecătoare de pe malul pârâului și ascultați susurul liniștitor al apei pentru un final de zi perfect.",
+            "en": "Visit this charming old watermill by the stream and listen to the soothing babble of the water for a perfectly relaxing end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Reise in die Vergangenheit beim Menir de São Bartolomeu do Mar. Ein kurzer Spaziergang bringt Sie zum traditionellen Cruzeiro de São Bartolomeu, wo Sie die lokale Kultur spüren können. Gegen Mittag bietet die Praia de Rio de Moinhos eine entspannende Auszeit am Meer. Danach spazieren Sie zur historischen Windmühle Moinho de Vento. Beenden Sie den Tag bei der charmanten Wassermühle Azenha.",
+        "hu": "Kezdje a napot az őskori Menir de São Bartolomeu do Mar meglátogatásával. Egy rövid sétával elérheti a hagyományos Cruzeiro de São Bartolomeu kőkeresztet. Délben a Praia de Rio de Moinhos tengerpartja nyújt tökéletes kikapcsolódást a friss levegőn. Később sétáljon el a történelmi Moinho de Vento szélmalomhoz. Zárja a napot a hangulatos Azenha vízimalomnál, élvezve a természet nyugalmát.",
+        "ro": "Începeți ziua cu o călătorie în trecut la Menir de São Bartolomeu do Mar. O scurtă plimbare vă duce la tradiționala cruce Cruzeiro de São Bartolomeu. La amiază, Praia de Rio de Moinhos oferă o pauză relaxantă pe litoral. Mai târziu, plimbați-vă până la moara de vânt istorică Moinho de Vento. Încheiați ziua la fermecătoarea moară de apă Azenha, bucurându-vă de liniștea naturii.",
+        "en": "Start your day with a journey into the past at the Menir de São Bartolomeu do Mar. A short walk brings you to the traditional Cruzeiro de São Bartolomeu stone cross. By midday, the Praia de Rio de Moinhos beach offers a relaxing break by the ocean. Afterwards, stroll to the historic Moinho de Vento windmill. Conclude your day at the charming Azenha watermill, enjoying the peaceful sounds of nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 6.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Menir de São Bartolomeu do Mar",
+            "hu": "Menir de São Bartolomeu do Mar",
+            "ro": "Menir de São Bartolomeu do Mar",
+            "en": "Menir de São Bartolomeu do Mar"
+          },
+          "coords": [
+            -8.791011,
+            41.573551
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen faszinierenden prähistorischen Menhir in Küstennähe und achten Sie auf die moosbedeckten Inschriften im sanften Morgenlicht.",
+            "hu": "Csodálja meg ezt a lenyűgöző tengerparti őskori menhírt, és figyelje meg a mohával borított részleteket a lágy reggeli fényben.",
+            "ro": "Admirați acest menhir preistoric fascinant de pe coastă și observați detaliile acoperite de mușchi în lumina blândă a dimineții.",
+            "en": "Admire this fascinating coastal prehistoric menhir and look out for the moss-covered details bathed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamoa do Rápido 3",
+            "hu": "Mamoa do Rápido 3",
+            "ro": "Mamoa do Rápido 3",
+            "en": "Mamoa do Rápido 3"
+          },
+          "coords": [
+            -8.762293,
+            41.578414
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckende prähistorische Grabstätte im Grünen und tragen Sie bequeme Schuhe für die kurze Erkundung des Geländes.",
+            "hu": "Fedezze fel ezt a lenyűgöző őskori temetkezési helyet a zöldben, és viseljen kényelmes cipőt a terület rövid gyalogos bejárásához.",
+            "ro": "Descoperiți acest impresionant sit funerar preistoric din mijlocul naturii și purtați încălțăminte comodă pentru a explora zona din jur.",
+            "en": "Discover this impressive prehistoric burial site nestled in greenery, and wear comfortable shoes for your short exploration of the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Viana de Lima",
+            "hu": "Casa Museu Viana de Lima",
+            "ro": "Casa Museu Viana de Lima",
+            "en": "Casa Museu Viana de Lima"
+          },
+          "coords": [
+            -8.784549,
+            41.561737
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die lokale Geschichte ein und achten Sie auf die detaillierten Ausstellungen traditioneller Artefakte.",
+            "hu": "Merüljön el a helyi történelemben ebben a lenyűgöző múzeumban, és figyelje meg a hagyományos műtárgyak részletes és gazdag kiállításait.",
+            "ro": "Cufundați-vă în istoria locală în acest muzeu fascinant și acordați atenție expozițiilor detaliate de artefacte tradiționale valoroase.",
+            "en": "Immerse yourself in local history at this fascinating museum, and pay close attention to the detailed exhibits of traditional artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Educação Ambiental",
+            "hu": "Centro de Educação Ambiental",
+            "ro": "Centro de Educação Ambiental",
+            "en": "Centro de Educação Ambiental"
+          },
+          "coords": [
+            -8.78019,
+            41.561643
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem modernen Umweltzentrum mehr über die regionale Ökologie und nehmen Sie an den interaktiven Ausstellungen zur Natur teil.",
+            "hu": "Tudjon meg többet a regionális ökológiáról ebben a modern környezetvédelmi központban, és próbálja ki a természetről szóló interaktív kiállításokat.",
+            "ro": "Aflați mai multe despre ecologia regională în acest centru de mediu modern și participați la expozițiile interactive dedicate naturii locale.",
+            "en": "Learn more about regional ecology at this modern environmental center, and make sure to engage with the interactive exhibits about nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Rio de Moinhos",
+            "hu": "Praia de Rio de Moinhos",
+            "ro": "Praia de Rio de Moinhos",
+            "en": "Praia de Rio de Moinhos"
+          },
+          "coords": [
+            -8.796683,
+            41.565485
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Meeresbrise an diesem unberührten Strand, der sich ideal für einen erholsamen Spaziergang entlang der portugiesischen Küste eignet.",
+            "hu": "Élvezze a friss tengeri szellőt ezen az érintetlen strandon, amely ideális egy pihentető sétához a gyönyörű portugál partvonal mentén.",
+            "ro": "Bucurați-vă de briza proaspătă a oceanului pe această plajă curată, ideală pentru o plimbare relaxantă de-a lungul coastei portugheze.",
+            "en": "Enjoy the fresh ocean breeze at this pristine beach, which is ideal for a relaxing stroll along the beautiful and rugged Portuguese coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet beim faszinierenden Menir de São Bartolomeu do Mar. Radeln Sie weiter ins Landesinnere zur prähistorischen Stätte Mamoa do Rápido 3. Am Nachmittag bietet die Casa Museu Viana de Lima kulturelle Einblicke. Gleich in der Nähe erweitert das Centro de Educação Ambiental Ihr Wissen über die lokale Natur. Beenden Sie die Tour mit einer frischen Meeresbrise an der Praia de Rio de Moinhos.",
+        "hu": "Kerékpártúrája a lenyűgöző Menir de São Bartolomeu do Mar-nál kezdődik. Tekerjen beljebb a szárazföldön a Mamoa do Rápido 3 őskori helyszínéhez. Délután a Casa Museu Viana de Lima kulturális betekintést nyújt a régióba. A közelben található Centro de Educação Ambiental tovább bővíti természetismeretét. Fejezze be a túrát a Praia de Rio de Moinhos strandján, élvezve a friss óceáni szellőt.",
+        "ro": "Turul dvs. cu bicicleta începe la fascinantul Menir de São Bartolomeu do Mar. Pedalați spre interior către situl preistoric Mamoa do Rápido 3. După-amiaza, Casa Museu Viana de Lima oferă perspective culturale. În apropiere, Centro de Educação Ambiental vă îmbogățește cunoștințele despre natură. Încheiați traseul pe plaja Praia de Rio de Moinhos, simțind briza proaspătă a oceanului.",
+        "en": "Your cycling tour starts at the fascinating Menir de São Bartolomeu do Mar. Ride further inland to discover the prehistoric site of Mamoa do Rápido 3. In the afternoon, the Casa Museu Viana de Lima provides cultural insights into the region. Nearby, the Centro de Educação Ambiental expands your knowledge of the local ecology. End the ride at Praia de Rio de Moinhos, feeling the fresh ocean breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 5.61,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Observação Panorâmica de Belinho",
+            "hu": "Torre de Observação Panorâmica de Belinho",
+            "ro": "Torre de Observação Panorâmica de Belinho",
+            "en": "Torre de Observação Panorâmica de Belinho"
+          },
+          "coords": [
+            -8.801959,
+            41.588691
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Klettern Sie auf diesen Aussichtsturm, um einen spektakulären Panoramablick auf die Küste zu genießen, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Másszon fel erre a kilátótoronyra, hogy lenyűgöző panorámás kilátást élvezhessen a tengerpartra, és semmiképpen se felejtse el a fényképezőgépét.",
+            "ro": "Urcați în acest turn de observare pentru a vă bucura de o vedere panoramică spectaculoasă a coastei și nu uitați să luați un aparat foto.",
+            "en": "Climb this observation tower to enjoy a spectacular panoramic view of the coastline, and definitely do not forget to bring your camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Menir de São Bartolomeu do Mar",
+            "hu": "Menir de São Bartolomeu do Mar",
+            "ro": "Menir de São Bartolomeu do Mar",
+            "en": "Menir de São Bartolomeu do Mar"
+          },
+          "coords": [
+            -8.791011,
+            41.573551
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen faszinierenden prähistorischen Menhir in Küstennähe und achten Sie auf die moosbedeckten Inschriften im sanften Morgenlicht.",
+            "hu": "Csodálja meg ezt a lenyűgöző tengerparti őskori menhírt, és figyelje meg a mohával borított részleteket a lágy reggeli fényben.",
+            "ro": "Admirați acest menhir preistoric fascinant de pe coastă și observați detaliile acoperite de mușchi în lumina blândă a dimineții.",
+            "en": "Admire this fascinating coastal prehistoric menhir and look out for the moss-covered details bathed in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Anta da Portelagem",
+            "hu": "Anta da Portelagem",
+            "ro": "Anta da Portelagem",
+            "en": "Anta da Portelagem"
+          },
+          "coords": [
+            -8.76719,
+            41.56778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses antike Dolmengrab als Zeugnis der Megalithkultur und betrachten Sie die massiven Steinblöcke aus nächster Nähe.",
+            "hu": "Látogasson el ehhez az ősi dolmenhez, amely a megalitikus kultúra tanúja, és csodálja meg testközelből a hatalmas, rejtélyes kőtömböket.",
+            "ro": "Vizitați acest dolmen antic ca o mărturie a culturii megalitice și admirați de aproape blocurile masive de piatră pline de mister.",
+            "en": "Visit this ancient dolmen tomb as a testament to megalithic culture, and take a close-up look at the massive and mysterious stone blocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Educação Ambiental",
+            "hu": "Centro de Educação Ambiental",
+            "ro": "Centro de Educação Ambiental",
+            "en": "Centro de Educação Ambiental"
+          },
+          "coords": [
+            -8.78019,
+            41.561643
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem modernen Umweltzentrum mehr über die regionale Ökologie und nehmen Sie an den interaktiven Ausstellungen zur Natur teil.",
+            "hu": "Tudjon meg többet a regionális ökológiáról ebben a modern környezetvédelmi központban, és próbálja ki a természetről szóló interaktív kiállításokat.",
+            "ro": "Aflați mai multe despre ecologia regională în acest centru de mediu modern și participați la expozițiile interactive dedicate naturii locale.",
+            "en": "Learn more about regional ecology at this modern environmental center, and make sure to engage with the interactive exhibits about nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Viana de Lima",
+            "hu": "Casa Museu Viana de Lima",
+            "ro": "Casa Museu Viana de Lima",
+            "en": "Casa Museu Viana de Lima"
+          },
+          "coords": [
+            -8.784549,
+            41.561737
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die lokale Geschichte ein und achten Sie auf die detaillierten Ausstellungen traditioneller Artefakte.",
+            "hu": "Merüljön el a helyi történelemben ebben a lenyűgöző múzeumban, és figyelje meg a hagyományos műtárgyak részletes és gazdag kiállításait.",
+            "ro": "Cufundați-vă în istoria locală în acest muzeu fascinant și acordați atenție expozițiilor detaliate de artefacte tradiționale valoroase.",
+            "en": "Immerse yourself in local history at this fascinating museum, and pay close attention to the detailed exhibits of traditional artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Autotrip beginnt mit fantastischen Ausblicken vom Torre de Observação Panorâmica de Belinho. Fahren Sie kurz darauf zum prähistorischen Menir de São Bartolomeu do Mar. Mittags erkunden Sie das alte Megalithgrab Anta da Portelagem. Danach bietet das Centro de Educação Ambiental interaktive Einblicke in die Umwelt. Der Tag endet kulturell reichhaltig in der Casa Museu Viana de Lima.",
+        "hu": "Az autós kirándulás a Torre de Observação Panorâmica de Belinho lélegzetelállító kilátásával indul. Ezt követően hajtson el az őskori Menir de São Bartolomeu do Mar-hoz. Délben fedezze fel az ősi Anta da Portelagem megalitikus sírt. Később a Centro de Educação Ambiental nyújt interaktív környezetvédelmi ismereteket. A nap a Casa Museu Viana de Lima lenyűgöző kulturális kiállításainak megtekintésével zárul.",
+        "ro": "Călătoria cu mașina începe cu priveliști fantastice de la Torre de Observação Panorâmica de Belinho. Conduceți apoi spre Menir de São Bartolomeu do Mar preistoric. La amiază, explorați mormântul megalitic antic Anta da Portelagem. Mai târziu, Centro de Educação Ambiental vă oferă cunoștințe ecologice. Ziua se încheie cu o vizită culturală bogată la Casa Museu Viana de Lima.",
+        "en": "The road trip begins with fantastic panoramic views from the Torre de Observação Panorâmica de Belinho. Drive shortly after to the prehistoric Menir de São Bartolomeu do Mar. At noon, explore the ancient megalithic tomb of Anta da Portelagem. Later, the Centro de Educação Ambiental offers interactive environmental insights. The day ends with a rich cultural experience at the Casa Museu Viana de Lima."
+      }
+    }
+  }
+}

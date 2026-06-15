@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-porto-sant-elpidio-cities-v2",
+  "anchor": {
+    "name": "Porto Sant'Elpidio",
+    "coords": [
+      13.75842,
+      43.25869
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Murri",
+            "hu": "Villa Murri",
+            "ro": "Villa Murri",
+            "en": "Villa Murri"
+          },
+          "coords": [
+            13.756579,
+            43.259237
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen eleganten Adelssitz aus dem 19. Jahrhundert, der die reiche Geschichte der Stadt repräsentiert, aber prüfen Sie vorher die Öffnungszeiten der Kunstausstellungen.",
+            "hu": "Fedezze fel ezt az elegáns 19. századi nemesi rezidenciát, amely a város gazdag történelmét képviseli, de mindenképpen ellenőrizze a belső művészeti kiállítások nyitvatartási idejét.",
+            "ro": "Explorați această elegantă reședință nobiliară din secolul al XIX-lea, care reprezintă bogata istorie a orașului, dar asigurați-vă că verificați programul expozițiilor sale de artă.",
+            "en": "Explore this elegant 19th-century noble residence, which represents the city's rich history, but make sure to check the opening hours for its internal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+            "hu": "Egykori Beniamino Gigli mozi-színház",
+            "ro": "Fostul cinema-teatru Beniamino Gigli",
+            "en": "Ex cine-teatro Beniamino Gigli"
+          },
+          "coords": [
+            13.759081,
+            43.258723
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen ehemaligen Kinos, das einst als kulturelles Zentrum diente, und versuchen Sie, es während der goldenen Stunde zu fotografieren.",
+            "hu": "Csodálja meg e történelmi egykori mozi és színház homlokzatát, amely egykor kulturális központként szolgált, és próbálja meg az aranyórában lefotózni a legjobb fényviszonyokért.",
+            "ro": "Admirați fațada acestui fost cinematograf istoric, care a servit cândva drept centru cultural, și încercați să îl fotografiați în timpul orei de aur pentru cea mai bună lumină arhitecturală.",
+            "en": "Admire the facade of this historic former cinema-theater that once served as a cultural hub, and try to photograph it during the golden hour for the best architectural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Erinnerung",
+            "hu": "Az emlékezés emlékműve",
+            "ro": "Monumentul memoriei",
+            "en": "Monumento alla memoria"
+          },
+          "coords": [
+            13.763161,
+            43.251449
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal für die Gefallenen inne, das einen ruhigen Moment im Zentrum bietet, und lesen Sie die Tafeln, um die lokalen Opfer zu verstehen.",
+            "hu": "Álljon meg ennél a hősi halottaknak szentelt ünnepélyes emlékműnél, amely csendes elmélkedést kínál a városközpontban, és olvassa el a feliratokat a helyi áldozatok megértéséhez.",
+            "ro": "Opriți-vă la acest memorial solemn dedicat eroilor, oferind un moment de liniște în centrul orașului, și citiți plăcile inscripționate pentru a înțelege sacrificiile locale.",
+            "en": "Pause at this solemn memorial dedicated to the fallen, offering a quiet moment of reflection right in the city center, and read the inscribed plaques to understand the local sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Caribe Beach",
+            "hu": "Caribe Beach",
+            "ro": "Caribe Beach",
+            "en": "Caribe Beach"
+          },
+          "coords": [
+            13.761258,
+            43.259631
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Sandstrand, der für seine lebhafte Atmosphäre und sein klares Wasser bekannt ist, wo es empfehlenswert ist, vorab eine Sonnenliege zu reservieren.",
+            "hu": "Pihenjen ezen a nyüzsgő hangulatáról és tiszta vizéről ismert népszerű homokos partszakaszon, ahol a nyári főszezonban erősen ajánlott előre napozóágyat bérelni.",
+            "ro": "Relaxați-vă pe această porțiune populară de coastă nisipoasă, cunoscută pentru vibrația sa plină de viață, unde închirierea prealabilă a unui șezlong este recomandată vara.",
+            "en": "Relax at this popular stretch of sandy coastline known for its lively vibe and clear waters, where renting a sunbed in advance is highly recommended during the summer peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Sette Mari",
+            "hu": "Sette Mari",
+            "ro": "Sette Mari",
+            "en": "Sette Mari"
+          },
+          "coords": [
+            13.758064,
+            43.265215
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den friedlichen Sonnenuntergang an dieser schönen Strandpromenade, die einen Küstentag perfekt abrundet, und bringen Sie eine leichte Jacke für die kühle Abendbrise mit.",
+            "hu": "Élvezze a békés naplementét ezen a kedves tengerparti sétányon, amely tökéletesen megkoronázza a napot, és hozzon magával egy könnyű kabátot, mert az esti szellő hűvös lehet.",
+            "ro": "Bucurați-vă de apusul liniștit în acest loc minunat de pe faleza plajei, aducând cu dumneavoastră o jachetă subțire, deoarece briza mării de seară poate deveni destul de rece.",
+            "en": "Soak in the peaceful sunset at this lovely beachfront promenade spot that perfectly caps off a coastal day, and bring a light jacket as the evening sea breeze can get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang am Morgen an der eleganten Villa Murri. Gegen Mittag erreichen wir das kulturelle Herz der Altstadt am ehemaligen Gigli-Theater und einem feierlichen Denkmal. Am Nachmittag schlendern wir hinunter zum lebhaften Caribe Beach, um die maritime Atmosphäre zu genießen. Der Abend endet am bezaubernden Sette Mari, das den Geist von Porto Sant'Elpidio perfekt einfängt.",
+        "hu": "Sétánkat a reggeli órákban az elegáns Villa Murri épületénél kezdjük meg. Délben a történelmi központ kulturális szívébe, az egykori Gigli színházhoz és egy emlékműhöz érkezünk. Délután lesétálunk a nyüzsgő Caribe Beach partszakaszára, hogy élvezzük a tengerparti hangulatot. Az estét a hangulatos Sette Mari nevű helynél zárjuk, amely tökéletesen megragadja a város tengeri szellemét.",
+        "ro": "Ne începem turul pietonal dimineața la eleganta Villa Murri. La amiază ajungem în inima culturală a centrului istoric, la fostul teatru Gigli și un monument solemn. După-amiaza ne plimbăm spre vibranta Caribe Beach pentru a ne bucura de atmosfera de pe litoral. Seara se încheie la fermecătorul Sette Mari, captând perfect spiritul maritim al orașului Porto Sant'Elpidio.",
+        "en": "We start our walking tour at the elegant Villa Murri in the morning. Midday brings us to the historic center's cultural heart at the former Gigli theater and a solemn monument. In the afternoon, we stroll down to the vibrant Caribe Beach to enjoy the seaside atmosphere. The evening concludes at the charming Sette Mari, perfectly capturing the maritime spirit of Porto Sant'Elpidio."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Baruchello",
+            "hu": "Villa Baruchello",
+            "ro": "Villa Baruchello",
+            "en": "Villa Baruchello"
+          },
+          "coords": [
+            13.750118,
+            43.266283
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den botanischen Park rund um diese historische Villa mit exotischen Pflanzenarten und nehmen Sie an der Wochenendführung teil, um die Fresken zu sehen.",
+            "hu": "Sétáljon végig a történelmi villát körülvevő, egzotikus növényfajokat bemutató gyönyörű botanikus parkon, és vegyen részt a hétvégi vezetett túrán a belső freskók megtekintéséhez.",
+            "ro": "Plimbați-vă prin parcul botanic superb din jurul acestei vile istorice, plin de plante exotice, și faceți turul ghidat din weekend pentru a vedea frescele interioare uimitoare.",
+            "en": "Walk through the beautiful botanical park surrounding this historic villa, which features exotic plant species, and take the guided tour on weekends to see the stunning interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade Nord",
+            "hu": "Északi parti sétány",
+            "ro": "Plaja Promenada de Nord",
+            "en": "Spiaggia Lungomare Nord"
+          },
+          "coords": [
+            13.757221,
+            43.267363
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Rad- oder Wandertour entlang dieser ausgedehnten nördlichen Strandpromenade und nutzen Sie die gut ausgebauten Radwege mit unverbautem Meerblick.",
+            "hu": "Élvezze a festői kerékpározást vagy sétát ezen a kiterjedt északi tengerparti sétányon, kihasználva a jól karbantartott kerékpárutakat, amelyek zavartalan kilátást nyújtanak a tengerre.",
+            "ro": "Bucurați-vă de o plimbare pitorească cu bicicleta pe această promenadă extinsă din nord, profitând de pistele de biciclete bine întreținute care oferă vederi neîntrerupte la mare.",
+            "en": "Enjoy a scenic cycling or walking session along this extensive northern seaside promenade, taking advantage of the well-maintained bike lanes that offer uninterrupted sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Elpilandia",
+            "hu": "Elpilandia",
+            "ro": "Elpilandia",
+            "en": "Elpilandia"
+          },
+          "coords": [
+            13.755816,
+            43.266676
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie zu diesem charmanten lokalen Wahrzeichen und Vergnügungspark mit lustigen Attraktionen, aber besuchen Sie ihn am frühen Nachmittag, um den Menschenmassen auszuweichen.",
+            "hu": "Hozza el az egész családot ebbe a bájos helyi szórakoztató központba és látványossághoz, de érdemes kora délután érkezni, hogy elkerülje a későbbi hangos tömeget.",
+            "ro": "Aduceți toată familia la acest reper local fermecător și parc de distracții, dar vizitați-l devreme după-amiaza pentru a evita aglomerația și zgomotul de mai târziu.",
+            "en": "Bring the whole family to this charming local landmark and amusement area that provides fun attractions, but visit early in the afternoon to avoid the loud crowds later in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Murri",
+            "hu": "Villa Murri",
+            "ro": "Villa Murri",
+            "en": "Villa Murri"
+          },
+          "coords": [
+            13.756579,
+            43.259237
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen eleganten Adelssitz aus dem 19. Jahrhundert, der die reiche Geschichte der Stadt repräsentiert, aber prüfen Sie vorher die Öffnungszeiten der Kunstausstellungen.",
+            "hu": "Fedezze fel ezt az elegáns 19. századi nemesi rezidenciát, amely a város gazdag történelmét képviseli, de mindenképpen ellenőrizze a belső művészeti kiállítások nyitvatartási idejét.",
+            "ro": "Explorați această elegantă reședință nobiliară din secolul al XIX-lea, care reprezintă bogata istorie a orașului, dar asigurați-vă că verificați programul expozițiilor sale de artă.",
+            "en": "Explore this elegant 19th-century noble residence, which represents the city's rich history, but make sure to check the opening hours for its internal art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandpromenade Süd",
+            "hu": "Déli parti sétány",
+            "ro": "Plaja Promenada de Sud",
+            "en": "Spiaggia Lungomare Sud"
+          },
+          "coords": [
+            13.770954,
+            43.244808
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhigere Atmosphäre des südlichen Strandes, der sich perfekt für einen gemütlichen Spaziergang eignet, und halten Sie an einem der Kioske für ein erfrischendes Gelato.",
+            "hu": "Tapasztalja meg a déli partszakasz csendesebb és nyugodtabbébb hangulatát egy kényelmes séta során, és álljon meg az egyik kis kioszknál egy frissítő kézműves fagylaltra.",
+            "ro": "Experimentați atmosfera mai liniștită a plajei sudice, perfectă pentru o plimbare de voie, și opriți-vă la unul dintre micile chioșcuri pentru o înghețată artizanală răcoritoare.",
+            "en": "Experience the quieter, more relaxed atmosphere of the southern beachfront, which is perfect for a leisurely stroll, and stop by one of the small kiosks for a refreshing artisanal gelato."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro delle Api",
+            "hu": "Teatro delle Api",
+            "ro": "Teatro delle Api",
+            "en": "Teatro delle Api"
+          },
+          "coords": [
+            13.761671,
+            43.244673
+          ],
+          "category": "cultural",
+          "arrive_at": "15:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen modernen Kulturort, der für seine markante Architektur und seinen lebendigen Spielplan bekannt ist, weshalb Sie Theaterkarten unbedingt im Voraus buchen sollten.",
+            "hu": "Fedezze fel ezt a modern, jellegzetes építészetéről és élénk előadó-művészeti programjáról ismert kulturális helyszínt, ahol érdemes hetekkel előre lefoglalni a színházjegyeket.",
+            "ro": "Descoperiți acest spațiu cultural modern, cunoscut pentru arhitectura sa distinctivă și programul vibrant de arte, fiind recomandat să rezervați biletele de teatru cu mult timp înainte.",
+            "en": "Discover this modern cultural venue known for its distinctive architecture and vibrant performing arts schedule, making it highly recommended to book your theater tickets weeks in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Villa Baruchello, umgeben von wunderschönen Grünflächen. Fahren Sie zur Nordpromenade und zum Elpilandia-Park, um die lebhafte Küstenenergie zur Mittagszeit aufzunehmen. Am Nachmittag radeln Sie an der großen Villa Murri vorbei zur malerischen Südpromenade für eine frische Meeresbrise. Beenden Sie Ihren aktiven Tag mit einem abendlichen Besuch im markanten Teatro delle Api.",
+        "hu": "Kezdje kerékpáros utazását a történelmi Villa Baruchello épületénél, amelyet gyönyörű zöldterületek vesznek körül. Tekerjen az Északi sétány és az Elpilandia park felé, hogy magába szívja a parti déli energiákat. A délutáni tekerés során a nagyszerű Villa Murri mellett elhaladva a festői Déli sétányhoz ér, ahol friss tengeri szellő várja. Fejezze be aktív napját a lenyűgöző Teatro delle Api esti meglátogatásával.",
+        "ro": "Începeți călătoria cu bicicleta la istorica Villa Baruchello, înconjurată de spații verzi frumoase. Pedalați spre Promenada de Nord și parcul Elpilandia pentru a absorbi energia vibrantă a coastei la amiază. Plimbarea de după-amiază vă duce pe lângă măreața Villa Murri, coborând spre pitoreasca Promenadă de Sud pentru o briză marină. Încheiați ziua activă cu o vizită de seară la impresionantul Teatro delle Api.",
+        "en": "Kick off your cycling journey at the historic Villa Baruchello, surrounded by beautiful green spaces. Ride towards the Northern Promenade and Elpilandia park to take in the vibrant coastal midday energy. Afternoon pedals take you past the grand Villa Murri down to the scenic Southern Promenade for fresh sea breezes. Finish your active day with an evening visit to the striking Teatro delle Api."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Il Castellano",
+            "hu": "Il Castellano",
+            "ro": "Il Castellano",
+            "en": "Il Castellano"
+          },
+          "coords": [
+            13.740476,
+            43.275562
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beeindruckende historische Bauwerk am Stadtrand, das einst Verteidigungszwecken diente, und tragen Sie bequeme Schuhe, da das umliegende Gelände uneben ist.",
+            "hu": "Látogasson el a város szélén található, egykor védelmi célokat szolgáló lenyűgöző történelmi építményhez, és viseljen kényelmes cipőt, mivel a környező talaj meglehetősen egyenetlen.",
+            "ro": "Vizitați această impresionantă structură istorică de la periferie care a servit cândva unor scopuri defensive și purtați încălțăminte confortabilă, deoarece terenul din jur este destul de denivelat.",
+            "en": "Visit this impressive historical structure on the city outskirts that once served defensive purposes, and wear comfortable walking shoes as the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Baruchello",
+            "hu": "Villa Baruchello",
+            "ro": "Villa Baruchello",
+            "en": "Villa Baruchello"
+          },
+          "coords": [
+            13.750118,
+            43.266283
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch den botanischen Park rund um diese historische Villa mit exotischen Pflanzenarten und nehmen Sie an der Wochenendführung teil, um die Fresken zu sehen.",
+            "hu": "Sétáljon végig a történelmi villát körülvevő, egzotikus növényfajokat bemutató gyönyörű botanikus parkon, és vegyen részt a hétvégi vezetett túrán a belső freskók megtekintéséhez.",
+            "ro": "Plimbați-vă prin parcul botanic superb din jurul acestei vile istorice, plin de plante exotice, și faceți turul ghidat din weekend pentru a vedea frescele interioare uimitoare.",
+            "en": "Walk through the beautiful botanical park surrounding this historic villa, which features exotic plant species, and take the guided tour on weekends to see the stunning interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Papillon",
+            "hu": "Papillon",
+            "ro": "Papillon",
+            "en": "Papillon"
+          },
+          "coords": [
+            13.758881,
+            43.263677
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine entspannte Zeit an diesem beliebten Küstenort, der Strandentspannung mit lokaler Küche verbindet, und probieren Sie die Meeresfrüchte-Vorspeise für den Geschmack der Adria.",
+            "hu": "Töltsön el egy kis szabadidőt ezen a kedvelt tengerparti helyen, amely ötvözi a tengerparti pihenést a helyi ételekkel, és kóstolja meg a jellegzetes tengeri herkentyűs előételüket.",
+            "ro": "Petreceți-vă timpul liber în acest loc de coastă îndrăgit, care îmbină relaxarea pe plajă cu bucătăria locală, și încercați aperitivul lor cu fructe de mare pentru un gust autentic al Adriaticii.",
+            "en": "Spend some leisurely time at this beloved coastal spot that effortlessly blends beach relaxation with local dining, and try their signature seafood appetizer for an authentic taste of the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+            "hu": "Egykori Beniamino Gigli mozi-színház",
+            "ro": "Fostul cinema-teatru Beniamino Gigli",
+            "en": "Ex cine-teatro Beniamino Gigli"
+          },
+          "coords": [
+            13.759081,
+            43.258723
+          ],
+          "category": "cultural",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen ehemaligen Kinos, das einst als kulturelles Zentrum diente, und versuchen Sie, es während der goldenen Stunde zu fotografieren.",
+            "hu": "Csodálja meg e történelmi egykori mozi és színház homlokzatát, amely egykor kulturális központként szolgált, és próbálja meg az aranyórában lefotózni a legjobb fényviszonyokért.",
+            "ro": "Admirați fațada acestui fost cinematograf istoric, care a servit cândva drept centru cultural, și încercați să îl fotografiați în timpul orei de aur pentru cea mai bună lumină arhitecturală.",
+            "en": "Admire the facade of this historic former cinema-theater that once served as a cultural hub, and try to photograph it during the golden hour for the best architectural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Erinnerung",
+            "hu": "Az emlékezés emlékműve",
+            "ro": "Monumentul memoriei",
+            "en": "Monumento alla memoria"
+          },
+          "coords": [
+            13.763161,
+            43.251449
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem feierlichen Denkmal für die Gefallenen inne, das einen ruhigen Moment im Zentrum bietet, und lesen Sie die Tafeln, um die lokalen Opfer zu verstehen.",
+            "hu": "Álljon meg ennél a hősi halottaknak szentelt ünnepélyes emlékműnél, amely csendes elmélkedést kínál a városközpontban, és olvassa el a feliratokat a helyi áldozatok megértéséhez.",
+            "ro": "Opriți-vă la acest memorial solemn dedicat eroilor, oferind un moment de liniște în centrul orașului, și citiți plăcile inscripționate pentru a înțelege sacrificiile locale.",
+            "en": "Pause at this solemn memorial dedicated to the fallen, offering a quiet moment of reflection right in the city center, and read the inscribed plaques to understand the local sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Trevisani",
+            "hu": "Villa Trevisani",
+            "ro": "Villa Trevisani",
+            "en": "Villa Trevisani"
+          },
+          "coords": [
+            13.759566,
+            43.236252
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die großartigen architektonischen Linien dieser historischen südlichen Villa inmitten grüner Gärten, beachten Sie jedoch, dass der Zugang zum Inneren oft begrenzt ist.",
+            "hu": "Csodálja meg e zöldellő kertek között megbúvó történelmi déli villa nagyszerű építészeti vonalait, de vegye figyelembe, hogy a belső terekhez való hozzáférés korlátozott, így főleg a külsejét élvezheti.",
+            "ro": "Minunați-vă de liniile arhitecturale grandioase ale acestei vile istorice sudice situate printre grădini verzi, dar rețineți că accesul în interior este limitat, deci bucurați-vă de exterior.",
+            "en": "Marvel at the grand architectural lines of this historic southern villa set among verdant gardens, but note that interior access is limited so plan to mostly enjoy the exterior facades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Autofahren bietet einen weiteren Blick, beginnend an der bemerkenswerten Festung Il Castellano am nördlichen Stadtrand. Erkunden Sie bis zum Mittag die majestätische Villa Baruchello und genießen Sie eine erholsame Pause am Küstenort Papillon. Die Nachmittagsfahrt bringt Sie zum kulturellen Erbe des alten Gigli-Theaters und einem kurzen Stopp am Denkmal. Ihr Tag endet im Süden an der atemberaubenden Villa Trevisani.",
+        "hu": "Az autózás tágabb perspektívát nyújt, és a túra az északi peremvidéken található figyelemre méltó Il Castellano erődnél kezdődik. Délben fedezze fel a fenséges Villa Baruchello épületét, és tartson egy pihentető szünetet a tengerparti Papillonnál. A délutáni vezetés a régi Gigli színház kulturális örökségéhez és egy gyors megállóhoz vezet az emlékműnél. A napot a déli részen, a lenyűgöző Villa Trevisaninál zárja.",
+        "ro": "Mersul cu mașina oferă o vedere mai amplă, începând la remarcabila fortăreață Il Castellano de la periferia nordică. Până la amiază, explorați maiestuoasa Villa Baruchello și bucurați-vă de o pauză relaxantă la punctul litoral Papillon. Conducerea de după-amiază vă aduce la moștenirea culturală a vechiului teatru Gigli și o oprire rapidă la monument. Ziua se încheie în sud, la uimitoarea Villa Trevisani.",
+        "en": "Driving offers a broader view, starting at the remarkable Il Castellano fortress in the northern outskirts. By midday, explore the majestic Villa Baruchello and enjoy a relaxing break at the Papillon seaside spot. Afternoon driving brings you to the cultural legacy of the old Gigli theater and a quick stop at the memory monument. Your day wraps up in the south at the stunning Villa Trevisani."
+      }
+    }
+  }
+}

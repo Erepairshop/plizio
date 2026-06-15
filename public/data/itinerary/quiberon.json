@@ -1,0 +1,474 @@
+{
+  "city_id": "quiberon",
+  "anchor": {
+    "name": "Quiberon",
+    "coords": [
+      -3.1206,
+      47.4833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Locmaria",
+            "hu": "Notre-Dame de Locmaria templom",
+            "ro": "Biserica Notre-Dame de Locmaria",
+            "en": "Notre-Dame de Locmaria Church"
+          },
+          "coords": [
+            -3.118655,
+            47.483553
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser historischen Kirche, aber denken Sie an angemessene Kleidung und leises Sprechen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait, de ügyeljen a szerény öltözködésre és a csendes beszédre.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice, dar nu uitați să vă îmbrăcați modest și să vorbiți încet.",
+            "en": "Admire the beautiful stained glass of this historic church, but remember to dress modestly and speak softly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Konserve",
+            "hu": "Konzervház",
+            "ro": "Casa Conservei",
+            "en": "House of the Preserve"
+          },
+          "coords": [
+            -3.119126,
+            47.483547
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die Tradition des Sardinenfangs und kaufen Sie unbedingt authentische Konserven im Museumsshop.",
+            "hu": "Ismerje meg a szardíniahalászat gazdag örökségét, és mindenképpen vásároljon néhány autentikus helyi konzervet a boltban.",
+            "ro": "Aflați despre patrimoniul bogat al pescuitului de sardine și asigurați-vă că cumpărați conserve locale autentice din magazin.",
+            "en": "Learn about the rich sardine fishing heritage here, and make sure to buy some authentic local tins at the museum shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -3.120371,
+            47.479551
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem feinen Sandstrand im Stadtzentrum; kommen Sie früh, um einen guten Platz am Wasser zu ergattern.",
+            "hu": "Pihenjen ezen a finom homokos strandon a városközpontban; érkezzen korán, hogy jó helyet találjon a víz közelében.",
+            "ro": "Relaxați-vă pe această plajă cu nisip fin din centrul orașului; ajungeți devreme pentru a prinde un loc bun lângă apă.",
+            "en": "Relax on this pristine stretch of fine sand in the town center, arriving early to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-Maria",
+            "hu": "Port-Maria",
+            "ro": "Port-Maria",
+            "en": "Port-Maria"
+          },
+          "coords": [
+            -3.124167,
+            47.479444
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftigen Fähren und Fischerboote in diesem Zentrum und probieren Sie Meeresfrüchte in einem Café am Wasser.",
+            "hu": "Figyelje a nyüzsgő kompok és halászhajók forgalmát, és kóstolja meg a friss tengeri ételeket egy közeli vízparti kávézóban.",
+            "ro": "Urmăriți feriboturile și bărcile de pescuit în acest port plin de viață și gustați fructe de mare proaspete la o cafenea.",
+            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Turpault",
+            "hu": "Turpault Kastély",
+            "ro": "Castelul Turpault",
+            "en": "Turpault Castle"
+          },
+          "coords": [
+            -3.130324,
+            47.473559
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
+            "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
+            "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Quiberon, um die historischen und maritimen Wurzeln zu erkunden. Mittags lockt der breite Sandstrand der Grande Plage für eine entspannte Pause mit Meerblick. Der Nachmittag führt Sie in das geschäftige Hafenviertel, wo Sie den Fischern bei der Arbeit zusehen können. Den Abschluss bildet die dramatische Silhouette des Schlosses an der Küste.",
+        "hu": "Kezdje a napot Quiberon szívében, felfedezve a hangulatos központ történelmi és tengerészeti gyökereit. Délben a Grande Plage széles homokos partja hívogat egy pihentető, tengerparti szünetre. A délután folyamatosan átvezet a nyüzsgő kikötőbe, ahol a halászok munkáját figyelheti. Zárja a napot az ikonikus kastély drámai tengerparti sziluettjével a lenyugvó nap fényében.",
+        "ro": "Începeți ziua în inima orașului Quiberon, descoperind rădăcinile sale istorice și maritime în centrul fermecător. La prânz, nisipurile întinse de la Grande Plage vă invită la o pauză relaxantă. După-amiaza vă poartă spre zona portuară plină de viață, unde puteți urmări pescarii la treabă. Încheiați ziua admirând silueta dramatică a castelului emblematic de pe coastă.",
+        "en": "Begin your day immersing in Quiberon's heart, discovering historical and maritime roots around the charming center. Midday invites you to the sweeping sands of Grande Plage for a relaxing break and sea views. The afternoon flows seamlessly into the bustling port area, where you can watch fishermen at work. Conclude with the dramatic coastal silhouette of the iconic castle as the sun lowers."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 13.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port-Maria",
+            "hu": "Port-Maria",
+            "ro": "Port-Maria",
+            "en": "Port-Maria"
+          },
+          "coords": [
+            -3.124167,
+            47.479444
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftigen Fähren und Fischerboote in diesem Zentrum und probieren Sie Meeresfrüchte in einem Café am Wasser.",
+            "hu": "Figyelje a nyüzsgő kompok és halászhajók forgalmát, és kóstolja meg a friss tengeri ételeket egy közeli vízparti kávézóban.",
+            "ro": "Urmăriți feriboturile și bărcile de pescuit în acest port plin de viață și gustați fructe de mare proaspete la o cafenea.",
+            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Turpault",
+            "hu": "Turpault Kastély",
+            "ro": "Castelul Turpault",
+            "en": "Turpault Castle"
+          },
+          "coords": [
+            -3.130324,
+            47.473559
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
+            "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
+            "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilde Küste (Côte Sauvage)",
+            "hu": "Vad Part (Côte Sauvage)",
+            "ro": "Coasta Sălbatică (Côte Sauvage)",
+            "en": "Côte Sauvage"
+          },
+          "coords": [
+            -3.151394,
+            47.504052
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die von Wellen umtosten zerklüfteten Klippen, aber halten Sie sicheren Abstand zu den instabilen Kanten.",
+            "hu": "Csodálja meg a hullámok által ostromolt csipkézett sziklákat, biztonságos távolságot tartva az instabil peremektől.",
+            "ro": "Minunați-vă de stâncile abrupte bătute de valuri de-a lungul coastei, păstrând o distanță sigură de marginile instabile.",
+            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Bara",
+            "hu": "Port Bara",
+            "ro": "Port Bara",
+            "en": "Port Bara"
+          },
+          "coords": [
+            -3.151667,
+            47.514167
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf diesen beliebten Surfspot, aber beachten Sie das Badeverbot wegen gefährlicher Strömungen.",
+            "hu": "Élvezze a népszerű szörfös hely lenyűgöző kilátását, bár a fürdőzés a veszélyes tengeráramlatok miatt szigorúan tilos.",
+            "ro": "Bucurați-vă de priveliștile uimitoare ale acestui loc popular de surf, deși înotul este interzis din cauza curenților periculoși.",
+            "en": "Enjoy the stunning views of this popular surfing spot, though swimming is forbidden due to dangerous underwater currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Kermahé",
+            "hu": "Kermahé",
+            "ro": "Kermahé",
+            "en": "Kermahé"
+          },
+          "coords": [
+            -3.122765,
+            47.515422
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine ruhige Pause an diesem kleinen Strand; bringen Sie eigene Snacks mit, da es wenig Einkaufsmöglichkeiten gibt.",
+            "hu": "Tartson egy csendes pihenőt ezen a hangulatos kis strandon; hozzon saját rágcsálnivalót, mivel kevés a környéken a bolt.",
+            "ro": "Faceți o pauză liniștită la această mică plajă fermecătoare; aduceți propriile gustări, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Take a quiet break at this charming little beach area, bringing your own snacks as nearby facilities can be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Conguel",
+            "hu": "Pointe du Conguel",
+            "ro": "Pointe du Conguel",
+            "en": "Pointe du Conguel"
+          },
+          "coords": [
+            -3.07972,
+            47.4694
+          ],
+          "category": "natural",
+          "arrive_at": "16:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Gehen Sie zur Spitze der Halbinsel, um den Leuchtturm zu sehen; tragen Sie dabei feste Schuhe für die steinigen Wege.",
+            "hu": "Sétáljon ki a félsziget legcsücskébe a világítótoronyhoz és a szigetekhez, és viseljen masszív cipőt a sziklás utakon.",
+            "ro": "Mergeți până la vârful peninsulei pentru a vedea farul și insulele, purtând încălțăminte rezistentă pentru cărările stâncoase.",
+            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom lebhaften Hafen los, um die morgendliche maritime Energie einzufangen. Gegen Mittag fahren Sie an der wilden Küste entlang, wo schroffe Klippen auf den Atlantik treffen. Der Nachmittag bietet versteckte Buchten und ruhigere Strandabschnitte zum Entspannen. Beenden Sie Ihre Tour an der Südspitze der Halbinsel mit einem Panoramablick unter dem Abendhimmel.",
+        "hu": "Kerékpározzon ki a nyüzsgő kikötőből, és szívja magába a reggeli tengeri energiákat. Délben tekerjen végig a lélegzetelállító vad parton, ahol a zord sziklák találkoznak az Atlanti-óceánnal. A délutánt rejtett öblök és csendesebb strandok fémjelzik, melyek tökéletesek a pihenésre. Fejezze be az utat a félsziget déli csücskén, élvezve a panorámát a lenyugvó nap fényeiben.",
+        "ro": "Porniți cu bicicleta din portul vibrant pentru a simți energia maritimă a dimineții. La prânz, pedalați de-a lungul coastei sălbatice uluitoare, unde stâncile abrupte se întâlnesc cu oceanul. După-amiaza vă aduce golfuri ascunse și plaje mai liniștite, perfecte pentru relaxare. Terminați cursa în vârful sudic al peninsulei, cu vederi panoramice sub cerul de seară.",
+        "en": "Pedal out from the vibrant port area to catch the early maritime energy. By midday, cycle along the breathtaking wild coast, where rugged cliffs meet the Atlantic Ocean's power. Your afternoon features hidden coves and quieter stretches of beach, perfect for unwinding. Finish your ride at the peninsula's southern tip, offering panoramic views as the evening colors paint the sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 16.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "La Grande Plage (Norden)",
+            "hu": "La Grande Plage (Észak)",
+            "ro": "La Grande Plage (Nord)",
+            "en": "La Grande Plage"
+          },
+          "coords": [
+            -3.149871,
+            47.583166
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem langen Spaziergang am großen Sandstrand, aber prüfen Sie vorab unbedingt die Gezeiten.",
+            "hu": "Kezdje a napot egy hosszú sétával ezen a hatalmas homokos parton, és ellenőrizze az árapály idejét, mielőtt túl messzire menne.",
+            "ro": "Începeți ziua cu o plimbare lungă pe această întindere masivă de nisip, verificând mareele înainte de a vă aventura prea departe.",
+            "en": "Start your day with a long walk on this massive expanse of sand, checking the tide times before venturing too far out."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand der Landenge",
+            "hu": "Földszoros strandja",
+            "ro": "Plaja Istmului",
+            "en": "Plage de l'isthme"
+          },
+          "coords": [
+            -3.136566,
+            47.551693
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Geografie dieses schmalen Landstreifens; perfekt für Fotos, aber Vorsicht vor starkem Wind.",
+            "hu": "Tapasztalja meg ennek a keskeny földsávnak az egyedülálló földrajzát, mely kiváló fotózáshoz, de vigyázzon az erős széllel.",
+            "ro": "Experimentați geografia unică a acestei fâșii înguste de pământ, perfectă pentru fotografii, dar feriți-vă de vânturile puternice.",
+            "en": "Experience the unique geography of this narrow strip of land, perfect for photography, but be wary of strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Traezh ar Fozoù",
+            "hu": "Traezh ar Fozoù",
+            "ro": "Traezh ar Fozoù",
+            "en": "Traezh ar Fozoù"
+          },
+          "coords": [
+            -3.153732,
+            47.52833
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel zwischen den Felsen; kommen Sie bei Ebbe, um die Felspools sicher zu erkunden.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet a sziklák között; érkezzen apálykor a sziklamedencék biztonságos felfedezéséhez.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă printre stânci, ajungând la reflux pentru a explora piscinele de stâncă în siguranță.",
+            "en": "Discover this hidden coastal gem among the rocky outcrops, arriving at low tide to explore the fascinating rock pools safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Rhu",
+            "hu": "Port Rhu",
+            "ro": "Port Rhu",
+            "en": "Port Rhu"
+          },
+          "coords": [
+            -3.152797,
+            47.516352
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische, von steilen Klippen gesäumte Bucht, aber meiden Sie das Wasser wegen der starken Unterströmung.",
+            "hu": "Csodálja meg a meredek sziklákkal övezett festői öblöt, és kerülje a vizet, mivel a helyi alsó áramlatok megtévesztően erősek.",
+            "ro": "Admirați golful pitoresc încadrat de stânci abrupte, evitând apa, deoarece curenții din zonă sunt înșelător de puternici.",
+            "en": "Admire the sheltered, picturesque inlet framed by steep cliffs, avoiding the water as the local undertows are deceptively strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Wilde Küste (Côte Sauvage)",
+            "hu": "Vad Part (Côte Sauvage)",
+            "ro": "Coasta Sălbatică (Côte Sauvage)",
+            "en": "Côte Sauvage"
+          },
+          "coords": [
+            -3.151394,
+            47.504052
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die von Wellen umtosten zerklüfteten Klippen, aber halten Sie sicheren Abstand zu den instabilen Kanten.",
+            "hu": "Csodálja meg a hullámok által ostromolt csipkézett sziklákat, biztonságos távolságot tartva az instabil peremektől.",
+            "ro": "Minunați-vă de stâncile abrupte bătute de valuri de-a lungul coastei, păstrând o distanță sigură de marginile instabile.",
+            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Turpault",
+            "hu": "Turpault Kastély",
+            "ro": "Castelul Turpault",
+            "en": "Turpault Castle"
+          },
+          "coords": [
+            -3.130324,
+            47.473559
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
+            "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
+            "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Conguel",
+            "hu": "Pointe du Conguel",
+            "ro": "Pointe du Conguel",
+            "en": "Pointe du Conguel"
+          },
+          "coords": [
+            -3.07972,
+            47.4694
+          ],
+          "category": "natural",
+          "arrive_at": "17:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Gehen Sie zur Spitze der Halbinsel, um den Leuchtturm zu sehen; tragen Sie dabei feste Schuhe für die steinigen Wege.",
+            "hu": "Sétáljon ki a félsziget legcsücskébe a világítótoronyhoz és a szigetekhez, és viseljen masszív cipőt a sziklás utakon.",
+            "ro": "Mergeți până la vârful peninsulei pentru a vedea farul și insulele, purtând încălțăminte rezistentă pentru cărările stâncoase.",
+            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip im hohen Norden der Halbinsel und genießen Sie die weiten Sandflächen vor dem Ansturm der Massen. Fahren Sie nach Süden über den Isthmus und bewundern Sie den Kontrast der Küsten. Der Nachmittag ist der ungezähmten Schönheit der zerklüfteten Westküste gewidmet. Runden Sie die Reise schließlich am historischen Südpunkt mit einem Sonnenuntergang ab.",
+        "hu": "Kezdje autós túráját a félsziget legészakibb pontján, élvezve a tágas homokos partokat a tömeg érkezése előtt. Haladjon dél felé a drámai földszoroson át, megcsodálva az öböl és az óceán kontrasztját. A délután a zord nyugati part és sziklás öbleinek vad szépségére fókuszál. Végül a történelmi déli csücsökben fejezze be az utazást egy látványos naplementével.",
+        "ro": "Începeți excursia cu mașina în nordul peninsulei pentru a vă bucura de plajele spațioase înainte de aglomerație. Mergeți spre sud prin istmul dramatic, admirând contrastul dintre golf și ocean. După-amiaza se concentrează pe frumusețea sălbatică a coastei de vest stâncoase. Încheiați călătoria în punctul sudic istoric pentru un apus de soare spectaculos.",
+        "en": "Start your road trip at the far north of the peninsula to enjoy wide, open sandy spaces before the crowds arrive. Progress southward through the dramatic isthmus, marveling at the contrast between bay and ocean. The afternoon focuses on the untamed beauty of the rugged west coast and its rocky inlets. Finally, round off the journey at the historical southern point for a spectacular sunset."
+      }
+    }
+  }
+}

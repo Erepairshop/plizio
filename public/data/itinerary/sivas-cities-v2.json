@@ -1,0 +1,497 @@
+{
+  "city_id": "sivas-cities-v2",
+  "anchor": {
+    "name": "Sivas",
+    "coords": [
+      37.0167,
+      39.75
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 1.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologiemuseum Sivas",
+            "hu": "Sivasi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Sivas",
+            "en": "Sivas Archaeology Museum"
+          },
+          "coords": [
+            37.011048,
+            39.755389
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie reiche hethitische, römische und seldschukische Artefakte der anatolischen Geschichte und beginnen Sie in der obersten Etage, um dem chronologischen Fluss nach unten zu folgen.",
+            "hu": "Fedezze fel az anatóliai történelmet bemutató hettita, római és szeldzsuk leleteket, és mindenképpen a legfelső emeleten kezdje, hogy lefelé haladva kövesse az időrendet.",
+            "ro": "Descoperiți artefacte hitite, romane și selgiucide care prezintă istoria anatoliană și asigurați-vă că începeți la ultimul etaj pentru a urma fluxul cronologic în jos.",
+            "en": "Discover rich Hittite, Roman, and Seljuk artifacts showcasing Anatolian history, and be sure to start on the top floor to follow the chronological flow downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarızade Mehmet Paşa Camii",
+            "hu": "Sarızade Mehmet Paşa Camii",
+            "ro": "Sarızade Mehmet Paşa Camii",
+            "en": "Sarızade Mehmet Paşa Camii"
+          },
+          "coords": [
+            37.010827,
+            39.751002
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Steinmetzarbeit dieser klassischen osmanischen Moschee und denken Sie daran, praktische Slipper zu tragen, bevor Sie den ruhigen Gebetssaal betreten.",
+            "hu": "Csodálja meg a klasszikus oszmán mecset elegáns kőműves munkáját, és ne felejtsen el könnyen levehető cipőt viselni, mielőtt belép a nyugodt imaterembe.",
+            "ro": "Admirați zidăria elegantă a acestei moschei clasice otomane și nu uitați să purtați încălțăminte ușor de scos înainte de a intra în sala senină de rugăciune.",
+            "en": "Admire the elegant stone masonry of this classical Ottoman mosque, and remember to slip off your shoes easily by wearing slip-ons before entering the serene prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Uzun Hacıoğlu Camii",
+            "hu": "Uzun Hacıoğlu Camii",
+            "ro": "Uzun Hacıoğlu Camii",
+            "en": "Uzun Hacıoğlu Camii"
+          },
+          "coords": [
+            37.010365,
+            39.747093
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Schätzen Sie die kunstvollen hölzernen Deckendetails dieser historischen lokalen Moschee und kommen Sie außerhalb der Gebetszeiten für einen ruhigen Moment abseits des Trubels.",
+            "hu": "Értékelje e történelmi helyi mecset bonyolult fa mennyezeti részleteit, és látogasson el az imaidejükön kívül egy csendes elmélyülésre, távol a város zajától.",
+            "ro": "Apreciați detaliile complicate ale tavanului din lemn ale acestei moschei locale istorice și vizitați-o în afara orelor de rugăciune pentru un moment liniștit departe de agitație.",
+            "en": "Appreciate the intricate wooden ceiling details of this historic local mosque, and visit during non-prayer hours for a quiet moment of reflection away from the city bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Sivas",
+            "hu": "Sivasi Vár",
+            "ro": "Castelul Sivas",
+            "en": "Sivas Castle"
+          },
+          "coords": [
+            37.015298,
+            39.745695
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Überresten der Burg Sivas hinauf, um einen herrlichen Panoramablick auf die Stadt zu genießen, aber tragen Sie festes Schuhwerk auf den unebenen Wegen.",
+            "hu": "Másszon fel a sivasi vár romjaihoz, ahonnan pazar panoráma nyílik a városra, de viseljen masszív túracipőt, mivel az egyenetlen ösvényeken nehéz lehet a közlekedés.",
+            "ro": "Urcați la rămășițele Castelului Sivas pentru vederi panoramice ale orașului, dar purtați încălțăminte de mers pe jos rezistentă, deoarece cărările denivelate pot fi dificile.",
+            "en": "Climb up to the remnants of Sivas Castle for sweeping panoramic views of the city, but wear sturdy walking shoes as the uneven paths can be challenging to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Camii",
+            "hu": "Nagy Mecset",
+            "ro": "Marea Moschee (Ulu Camii)",
+            "en": "Great Mosque (Ulu Camii)"
+          },
+          "coords": [
+            37.017617,
+            39.747164
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das schiefe Minarett der Großen Moschee von Sivas aus dem 13. Jahrhundert und nehmen Sie sich Zeit für die geometrischen Muster der hölzernen Kanzel.",
+            "hu": "Csodálja meg a sivasi Nagy Mecset 13. századi ferde minaretjét, és szánjon időt a fából készült mimbarba faragott bonyolult geometriai minták megtekintésére is.",
+            "ro": "Minunați-vă de minaretul înclinat al Marii Moschei din Sivas, datând din secolul al XIII-lea, și alocați timp pentru a inspecta modelele geometrice sculptate în amvon.",
+            "en": "Marvel at the leaning minaret of Sivas's Great Mosque dating back to the 13th century, and take time to inspect the intricate geometric patterns carved into the wooden mimbar."
+          }
+        },
+        {
+          "name": {
+            "de": "Gök-Medrese",
+            "hu": "Gök Medrese",
+            "ro": "Gök Medrese",
+            "en": "Gök Medrese"
+          },
+          "coords": [
+            37.016804,
+            39.74432
+          ],
+          "category": "museum",
+          "arrive_at": "14:39",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden blauen Kacheln und das monumentale Portal dieses Meisterwerks der seldschukischen Architektur und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e szeldzsuk építészeti remekmű lélegzetelállító kék csempéit és monumentális portálját, és vigyen magával nagylátószögű objektívet az ikerminaretek fotózásához.",
+            "ro": "Explorați faianța albastră și portalul monumental al acestei capodopere arhitecturale selgiucide și aduceți un obiectiv cu unghi larg pentru a surprinde minaretele gemene.",
+            "en": "Explore the breathtaking blue tilework and monumental portal of this masterpiece of Seljuk architecture, and bring a wide-angle lens to capture the stunning twin minarets fully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Archäologiemuseum, um die reiche Vergangenheit der Region zu verstehen. Mittags schlendern Sie durch historische Moscheen wie Sarızade Mehmet Paşa. Der Nachmittag führt Sie zur Burg Sivas für Panoramablicke und zur ikonischen Ulu Camii. Beenden Sie den Abend an der Gök-Medrese und bewundern Sie ihre atemberaubenden blauen Kacheln.",
+        "hu": "Kezdje a reggelt a Régészeti Múzeumban, hogy megértse a régió múltját. Délben sétáljon végig az olyan történelmi mecseteken, mint a Sarızade Mehmet Paşa. A délután elviszi a sivasi várhoz, ahonnan panoráma nyílik, és a híres Ulu Camii-hoz. Zárja az estét a csodálatos Gök Medresénél, megcsodálva annak lenyűgöző kék csempéit.",
+        "ro": "Începeți dimineața la Muzeul de Arheologie pentru a înțelege trecutul regiunii. La prânz, plimbați-vă prin moschei istorice precum Sarızade Mehmet Paşa. După-amiaza vă duce la Castelul Sivas pentru vederi panoramice și la Ulu Camii. Încheiați seara la magnifica Gök Medrese, admirând faianța sa albastră uimitoare.",
+        "en": "Start your morning at the Sivas Archaeology Museum to understand the region's rich past. By midday, wander through historic local mosques like Sarızade Mehmet Paşa and Uzun Hacıoğlu. The afternoon brings you up to Sivas Kalesi for panoramic views and the iconic Ulu Camii. Conclude your evening at the magnificent Gök Medrese, admiring its stunning blue tiles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 2.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aydoğan Camii",
+            "hu": "Aydoğan Camii",
+            "ro": "Aydoğan Camii",
+            "en": "Aydoğan Camii"
+          },
+          "coords": [
+            37.007801,
+            39.749284
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionelle Nachbarschaft um diese bezaubernde Moschee und respektieren Sie lokale Bräuche durch bescheidene Kleidung mit bedeckten Schultern.",
+            "hu": "Figyelje meg a bájos mecsetet körülvevő hagyományos környék elrendezését, és tartsa tiszteletben a helyi szokásokat a vállakat és térdeket takaró szerény öltözködéssel.",
+            "ro": "Observați aspectul tradițional al cartierului din jurul acestei moschei fermecătoare și respectați obiceiurile locale purtând o ținută modestă, cu umerii și genunchii acoperiți.",
+            "en": "Observe the traditional neighbourhood layout surrounding this charming mosque, and respect local customs by dressing modestly with covered shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Fidan Yazıcıoğlu",
+            "hu": "Fidan Yazıcıoğlu Kulturális Központ",
+            "ro": "Centrul Cultural Fidan Yazıcıoğlu",
+            "en": "Fidan Yazıcıoğlu Cultural Centre"
+          },
+          "coords": [
+            37.009183,
+            39.74541
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie moderne Ausstellungen in diesem zeitgenössischen Kulturzentrum und gönnen Sie sich einen schnellen Kaffee im hiesigen Café, um sich vor der Weiterreise zu erfrischen.",
+            "hu": "Tekintse meg a modern kiállításokat ebben a kortárs művészeti központban, és igyon egy gyors kávét a helyszíni kávézóban, hogy felfrissüljön a túra folytatása előtt.",
+            "ro": "Descoperiți expozițiile moderne din acest centru de artă contemporană și savurați o cafea rapidă la cafeneaua din incintă pentru a vă reîmprospăta înainte de a continua.",
+            "en": "Check out modern cultural exhibitions within this contemporary arts centre, and grab a quick coffee at the on-site cafe to refresh yourself before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Staatstheater Sivas",
+            "hu": "Sivasi Állami Színház",
+            "ro": "Teatrul de Stat din Sivas",
+            "en": "Sivas State Theatre"
+          },
+          "coords": [
+            37.010909,
+            39.74361
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den kulturellen Herzschlag von Sivas in seinem Staatstheater und prüfen Sie frühzeitig den Spielplan, um sich Tickets für eine abendliche Vorstellung zu sichern.",
+            "hu": "Értékelje Sivas kulturális lüktetését az Állami Színházban, és nézze meg korán a napi műsort a jegypénztárban, hogy jegyet szerezzen egy esti kulturális előadásra.",
+            "ro": "Apreciați pulsul cultural din Sivas la Teatrul de Stat și verificați din timp programul la casa de bilete pentru a prinde locuri la o reprezentație culturală de seară.",
+            "en": "Appreciate the cultural heartbeat of Sivas at its State Theatre, and check the daily schedule at the box office early to snag tickets for an evening cultural performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Gök-Medrese",
+            "hu": "Gök Medrese",
+            "ro": "Gök Medrese",
+            "en": "Gök Medrese"
+          },
+          "coords": [
+            37.016804,
+            39.74432
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden blauen Kacheln und das monumentale Portal dieses Meisterwerks der seldschukischen Architektur und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e szeldzsuk építészeti remekmű lélegzetelállító kék csempéit és monumentális portálját, és vigyen magával nagylátószögű objektívet az ikerminaretek fotózásához.",
+            "ro": "Explorați faianța albastră și portalul monumental al acestei capodopere arhitecturale selgiucide și aduceți un obiectiv cu unghi larg pentru a surprinde minaretele gemene.",
+            "en": "Explore the breathtaking blue tilework and monumental portal of this masterpiece of Seljuk architecture, and bring a wide-angle lens to capture the stunning twin minarets fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Ulu Camii",
+            "hu": "Nagy Mecset",
+            "ro": "Marea Moschee (Ulu Camii)",
+            "en": "Great Mosque (Ulu Camii)"
+          },
+          "coords": [
+            37.017617,
+            39.747164
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das schiefe Minarett der Großen Moschee von Sivas aus dem 13. Jahrhundert und nehmen Sie sich Zeit für die geometrischen Muster der hölzernen Kanzel.",
+            "hu": "Csodálja meg a sivasi Nagy Mecset 13. századi ferde minaretjét, és szánjon időt a fából készült mimbarba faragott bonyolult geometriai minták megtekintésére is.",
+            "ro": "Minunați-vă de minaretul înclinat al Marii Moschei din Sivas, datând din secolul al XIII-lea, și alocați timp pentru a inspecta modelele geometrice sculptate în amvon.",
+            "en": "Marvel at the leaning minaret of Sivas's Great Mosque dating back to the 13th century, and take time to inspect the intricate geometric patterns carved into the wooden mimbar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sivas Meydan Camii",
+            "hu": "Sivas Meydan Camii",
+            "ro": "Sivas Meydan Camii",
+            "en": "Sivas Meydan Camii"
+          },
+          "coords": [
+            37.020429,
+            39.749447
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betreten Sie das geschäftige Zentrum der Stadt in der Meydan-Moschee und beobachten Sie das Treiben auf dem angrenzenden Platz, nachdem Sie die Architektur genossen haben.",
+            "hu": "Lépjen be a város nyüzsgő szívébe a Meydan mecsetnél, és élvezze az emberek megfigyelését a szomszédos térről, miután megcsodálta a gyönyörű építészeti részleteket.",
+            "ro": "Pășiți în inima plină de viață a orașului la Moscheea Meydan și bucurați-vă de atmosfera din piața adiacentă după ce admirați frumoasele detalii arhitecturale.",
+            "en": "Step inside the bustling heart of the city at Meydan Mosque, and enjoy people-watching from the adjacent square after taking in the beautiful architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Ağa Camii",
+            "hu": "Ali Ağa Camii",
+            "ro": "Ali Ağa Camii",
+            "en": "Ali Ağa Camii"
+          },
+          "coords": [
+            37.016662,
+            39.751147
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleinere historische Moschee wegen ihrer feinen Handwerkskunst und nutzen Sie eine Karten-App, da sie in engen Gassen versteckt und schwer zu finden ist.",
+            "hu": "Látogasson el ebbe a kisebb történelmi mecsetbe a finom kézműves munka miatt, és használjon térképes alkalmazást, mivel a szűk utcákban megbújva nehéz lehet megtalálni.",
+            "ro": "Vizitați această mică moschee istorică pentru măiestria sa și utilizați o aplicație de hărți, deoarece este ascunsă pe străduțe înguste, fiind mai greu de găsit.",
+            "en": "Visit this smaller historical mosque for its fine craftsmanship and authentic atmosphere, and use a map app as it is nestled in narrow streets that can be tricky to find."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der ruhigen Aydoğan Camii, bevor Sie zum Kulturzentrum Fidan Yazıcıoğlu fahren. Mittags bietet das Staatstheater Einblicke. Radeln Sie nachmittags zur Gök-Medrese und Ulu Camii für seldschukische Architektur. Beenden Sie den Tag an der lebhaften Meydan Camii und der historischen Ali Ağa Camii.",
+        "hu": "Kezdje kerékpártúráját a csendes Aydoğan Camii-nél, mielőtt a modern Fidan Yazıcıoğlu Kulturális Központba hajtana. A dél az Állami Színházban kínál betekintést. Délután pedálozzon a Gök Medrese és az Ulu Camii felé, hogy elmerüljön a szeldzsuk építészetben. Fejezze be a napot a nyüzsgő Meydan Camii-nél.",
+        "ro": "Începeți turul cu bicicleta la liniștita Aydoğan Camii înainte de a vă îndrepta spre modernul Centru Cultural Fidan Yazıcıoğlu. Prânzul oferă perspective la Teatrul de Stat. După-amiaza, pedalați spre Gök Medrese și Ulu Camii pentru arhitectura selgiucidă. Încheiați ziua explorând Meydan Camii și Ali Ağa Camii.",
+        "en": "Kick off your bike tour at the tranquil Aydoğan Camii before heading to the modern Fidan Yazıcıoğlu Kültür Merkezi. Midday offers cultural insights at the State Theatre. In the afternoon, pedal towards the grand Gök Medrese and Ulu Camii to immerse yourself in Seljuk architecture. Finish the day exploring the bustling Meydan Camii and historic Ali Ağa Camii."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 5.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Yukarı Tekke Cami",
+            "hu": "Yukarı Tekke Cami",
+            "ro": "Yukarı Tekke Cami",
+            "en": "Yukarı Tekke Cami"
+          },
+          "coords": [
+            37.033164,
+            39.757374
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Atmosphäre dieses erhöhten Moscheekomplexes und nutzen Sie die Lage auf dem Hügel für einzigartige Panoramafotos der umliegenden Landschaft.",
+            "hu": "Élvezze a nyugodt, spirituális hangulatot ebben a magasan fekvő mecsetkomplexumban, és használja ki a dombtetőn lévő elhelyezkedést a környező táj panorámás fotózásához.",
+            "ro": "Bucurați-vă de o ambianță spirituală senină la acest complex de moschei la înălțime și profitați de locația pe deal pentru fotografii panoramice unice ale peisajului.",
+            "en": "Enjoy a serene spiritual ambiance at this elevated mosque complex, and take advantage of the hilltop location for unique panoramic photographs of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologiemuseum Sivas",
+            "hu": "Sivasi Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Sivas",
+            "en": "Sivas Archaeology Museum"
+          },
+          "coords": [
+            37.011048,
+            39.755389
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie reiche hethitische, römische und seldschukische Artefakte der anatolischen Geschichte und beginnen Sie in der obersten Etage, um dem chronologischen Fluss nach unten zu folgen.",
+            "hu": "Fedezze fel az anatóliai történelmet bemutató hettita, római és szeldzsuk leleteket, és mindenképpen a legfelső emeleten kezdje, hogy lefelé haladva kövesse az időrendet.",
+            "ro": "Descoperiți artefacte hitite, romane și selgiucide care prezintă istoria anatoliană și asigurați-vă că începeți la ultimul etaj pentru a urma fluxul cronologic în jos.",
+            "en": "Discover rich Hittite, Roman, and Seljuk artifacts showcasing Anatolian history, and be sure to start on the top floor to follow the chronological flow downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Sivas",
+            "hu": "Sivasi Vár",
+            "ro": "Castelul Sivas",
+            "en": "Sivas Castle"
+          },
+          "coords": [
+            37.015298,
+            39.745695
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Überresten der Burg Sivas hinauf, um einen herrlichen Panoramablick auf die Stadt zu genießen, aber tragen Sie festes Schuhwerk auf den unebenen Wegen.",
+            "hu": "Másszon fel a sivasi vár romjaihoz, ahonnan pazar panoráma nyílik a városra, de viseljen masszív túracipőt, mivel az egyenetlen ösvényeken nehéz lehet a közlekedés.",
+            "ro": "Urcați la rămășițele Castelului Sivas pentru vederi panoramice ale orașului, dar purtați încălțăminte de mers pe jos rezistentă, deoarece cărările denivelate pot fi dificile.",
+            "en": "Climb up to the remnants of Sivas Castle for sweeping panoramic views of the city, but wear sturdy walking shoes as the uneven paths can be challenging to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "İmaret Cami",
+            "hu": "İmaret Cami",
+            "ro": "İmaret Cami",
+            "en": "İmaret Cami"
+          },
+          "coords": [
+            37.022778,
+            39.74202
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das massive Mauerwerk dieses religiösen Bauwerks und verbinden Sie Ihren Besuch mit einem Spaziergang durch die historischen Viertel mit alten Holzhäusern.",
+            "hu": "Vizsgálja meg e történelmi vallási építmény masszív falazatát, és kösse össze látogatását a közeli történelmi negyedekben tett sétával, ahol régi faházakat láthat.",
+            "ro": "Examinați zidăria solidă a acestei structuri religioase istorice și combinați vizita cu o plimbare prin cartierele din apropiere pentru a vedea case vechi din lemn.",
+            "en": "Examine the sturdy masonry of this historic religious structure, and combine your visit with a stroll through the nearby historic neighborhoods to see old wooden houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Yeni Cami",
+            "hu": "Új Mecset (Yeni Cami)",
+            "ro": "Noua Moschee (Yeni Cami)",
+            "en": "New Mosque (Yeni Cami)"
+          },
+          "coords": [
+            37.019139,
+            39.748389
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Beachten Sie die modernen, aber traditionellen Designelemente der Neuen Moschee und besuchen Sie die nahegelegenen Teegärten, um sich mit einem Glas Tee zu entspannen.",
+            "hu": "Figyelje meg az Új Mecset modern, mégis hagyományos dizájnelemeit, és látogasson el a közeli teakertekbe, hogy egy forró török tea mellett pihenjen a belső tér után.",
+            "ro": "Observați elementele de design modern, dar tradițional ale Noii Moschei și vizitați grădinile de ceai din apropiere pentru a vă relaxa cu un ceai turcesc după explorare.",
+            "en": "Note the modern yet traditional design elements of the New Mosque, and visit the nearby tea gardens to relax with a hot glass of Turkish tea after exploring the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Gök-Medrese",
+            "hu": "Gök Medrese",
+            "ro": "Gök Medrese",
+            "en": "Gök Medrese"
+          },
+          "coords": [
+            37.016804,
+            39.74432
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden blauen Kacheln und das monumentale Portal dieses Meisterwerks der seldschukischen Architektur und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel e szeldzsuk építészeti remekmű lélegzetelállító kék csempéit és monumentális portálját, és vigyen magával nagylátószögű objektívet az ikerminaretek fotózásához.",
+            "ro": "Explorați faianța albastră și portalul monumental al acestei capodopere arhitecturale selgiucide și aduceți un obiectiv cu unghi larg pentru a surprinde minaretele gemene.",
+            "en": "Explore the breathtaking blue tilework and monumental portal of this masterpiece of Seljuk architecture, and bring a wide-angle lens to capture the stunning twin minarets fully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur Yukarı Tekke Cami, um den Tag mit weitem Blick und Ruhe zu beginnen. Tauchen Sie mittags im Archäologiemuseum in die Geschichte ein und erkunden Sie die Burgruine. Verbringen Sie den Nachmittag mit dem Besuch der traditionellen İmaret und Yeni Moscheen. Beenden Sie die Tour an der unglaublichen Gök-Medrese.",
+        "hu": "Vessen egy pillantást a Yukarı Tekke Cami-ra, hogy a napot pazar kilátással és nyugalommal kezdje. Délben merüljön el a történelemben a Régészeti Múzeumban, és fedezze fel a sivasi vár romjait. A délutánt a hagyományos İmaret és Yeni mecsetek felkeresésével töltheti. Zárja az autós túrát a Gök Medrese csodálatos portáljánál.",
+        "ro": "Conduceți până la Yukarı Tekke Cami pentru a începe ziua cu vederi ample și calm. La prânz, scufundați-vă în istorie la Muzeul de Arheologie și explorați ruinele castelului. Petreceți după-amiaza vizitând moscheile tradiționale İmaret și Yeni. Încheiați turul minunându-vă de incredibilul portal monumental de la Gök Medrese.",
+        "en": "Drive up to Yukarı Tekke Cami to start the day with sweeping views and spiritual calm. By midday, dive into history at the expansive Sivas Archaeology Museum and explore the castle ruins at Sivas Kalesi. Spend your afternoon visiting the traditional İmaret and Yeni Mosques. End your driving tour marveling at the incredible monumental portal of Gök Medrese."
+      }
+    }
+  }
+}

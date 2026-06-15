@@ -1,0 +1,405 @@
+{
+  "city_id": "mont-saint-martin",
+  "anchor": {
+    "name": "Mont-Saint-Martin",
+    "coords": [
+      5.7794,
+      49.5406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Priorat Mont-Saint-Martin",
+            "hu": "Mont-Saint-Martin Perjelség",
+            "ro": "Prioratul Mont-Saint-Martin",
+            "en": "Mont-Saint-Martin Priory"
+          },
+          "coords": [
+            5.780772,
+            49.540754
+          ],
+          "category": "monastic",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die exquisite romanische Architektur dieses historischen Klosters mit seinen kunstvoll geschnitzten Kapitellen und tragen Sie bequeme Schuhe für die unebenen Böden.",
+            "hu": "Fedezze fel e történelmi kolostor lenyűgöző román kori építészetét és finoman faragott oszlopfőit, de mindenképpen kényelmes cipőt viseljen az egyenetlen kövek miatt.",
+            "ro": "Explorați arhitectura romanică rafinată a acestui sit monahal istoric, observând capitelurile sculptate complex, și amintiți-vă să purtați pantofi comozi pentru podelele inegale.",
+            "en": "Explore the exquisite Romanesque architecture of this historic monastic site, noting the intricately carved capitals, and remember to wear comfortable walking shoes for the uneven floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélémy",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            5.77939,
+            49.543545
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte und doch berührende Fassade dieses lokalen Gotteshauses, das eine tiefe spirituelle Ruhe ausstrahlt, und besuchen Sie es am besten am ruhigen Vormittag.",
+            "hu": "Csodálja meg e helyi istentiszteleti hely egyszerű, mégis megható homlokzatát, amely mély lelki nyugalmat áraszt, és a legjobb élmény érdekében látogasson el ide a csendes délelőtti órákban.",
+            "ro": "Admirați fațada simplă, dar emoționantă a acestui lăcaș de cult local, care emană o liniște spirituală profundă, și vizitați-l preferabil în orele liniștite ale dimineții.",
+            "en": "Admire the simple yet touching facade of this local place of worship, which exudes a deep spiritual tranquility, and try to visit during the quiet mid-morning hours for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Jean Ferrat",
+            "hu": "Jean Ferrat Kulturális Központ",
+            "ro": "Centrul Cultural Jean Ferrat",
+            "en": "Espace Culturel Jean Ferrat"
+          },
+          "coords": [
+            5.795652,
+            49.531404
+          ],
+          "category": "cultural",
+          "arrive_at": "10:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das reiche kulturelle Leben der Gemeinde in diesem modernen Zentrum für Kunst und Veranstaltungen, und prüfen Sie vorab den Kalender auf aktuelle Ausstellungen.",
+            "hu": "Merüljön el a közösség gazdag kulturális életében ebben a modern művészeti és rendezvényközpontban, és érkezés előtt feltétlenül ellenőrizze az aktuális kiállítások naptárát.",
+            "ro": "Cufundați-vă în viața culturală bogată a comunității la acest centru modern de artă și evenimente, și asigurați-vă că verificați calendarul pentru expozițiile actuale înainte de sosire.",
+            "en": "Immerse yourself in the community's rich cultural life at this modern center for arts and events, and be sure to check their calendar in advance to catch any exciting ongoing exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Szent Lőrinc-templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            5.796382,
+            49.53255
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionellen architektonischen Details dieser charmanten Kirche, die ein wichtiges spirituelles Erbe darstellt, und nehmen Sie sich Zeit für die wunderschönen Buntglasfenster.",
+            "hu": "Figyelje meg e bájos templom hagyományos építészeti részleteit, amely fontos vallási örökséget képvisel, és szánjon egy kis időt a gyönyörű ólomüveg ablakok tanulmányozására.",
+            "ro": "Observați detaliile arhitecturale tradiționale ale acestei biserici fermecătoare, care reprezintă o moștenire spirituală importantă, și acordați-vă un moment pentru a studia vitraliile frumoase.",
+            "en": "Observe the traditional architectural details of this charming church, which represents an important spiritual heritage, and take a moment to study the beautiful stained-glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jules",
+            "hu": "Szent Gyula-templom",
+            "ro": "Biserica Saint-Jules",
+            "en": "Église Saint-Jules"
+          },
+          "coords": [
+            5.778026,
+            49.529649
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in dieser friedlichen Kirche, deren ruhige Umgebung zur inneren Einkehr einlädt, und nutzen Sie das sanfte Nachmittagslicht für eindrucksvolle Außenaufnahmen.",
+            "hu": "Zárja a túrát ebben a békés templomban, amelynek csendes környezete belső elmélkedésre hív, és használja ki a lágy délutáni fényeket a lenyűgöző külső fotók elkészítéséhez.",
+            "ro": "Încheiați-vă turul la această biserică pașnică, al cărei cadru liniștit invită la reflecție interioară, și profitați de lumina blândă a după-amiezii pentru fotografii exterioare impresionante.",
+            "en": "Conclude your walking tour at this peaceful church, whose tranquil setting invites quiet reflection, and take advantage of the soft afternoon light for some stunning exterior photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Priorat Mont-Saint-Martin und genießen Sie dessen friedliche romanische Atmosphäre. Gegen Mittag spazieren Sie an der charmanten Kirche Saint-Barthélémy vorbei in Richtung des kulturellen Zentrums. Entdecken Sie nachmittags die lokalen Künste im Espace Culturel Jean Ferrat. Lassen Sie den Tag mit einem ruhigen Besuch der Kirche Saint-Jules ausklingen.",
+        "hu": "Kezdje a reggelt a történelmi Mont-Saint-Martin Perjelségnél, és élvezze annak békés román kori hangulatát. Délben sétáljon el a bájos Szent Bertalan-templom mellett a város kulturális központja felé. Délután fedezze fel a helyi művészeteket a Jean Ferrat Kulturális Központban és a közeli Szent Lőrinc-templomban. Zárja a napot egy csendes sétával a békés Szent Gyula-templom felé.",
+        "ro": "Începeți-vă dimineața la istoricul Priorat Mont-Saint-Martin, bucurându-vă de atmosfera sa romanică pașnică. La prânz, treceți pe lângă fermecătoarea Biserică Saint-Barthélémy spre inima culturală a orașului. După-amiaza, descoperiți artele locale la Espace Culturel Jean Ferrat. Încheiați-vă ziua cu o plimbare liniștită până la Biserica Saint-Jules pentru momente de reflecție.",
+        "en": "Begin your morning at the historic Mont-Saint-Martin Priory, soaking in its peaceful Romanesque atmosphere. Midday takes you past the charming Église Saint-Barthélémy towards the cultural heart of the town. In the afternoon, discover local arts at the Espace Culturel Jean Ferrat and the nearby Église Saint-Laurent. Conclude your day with a quiet stroll to the serene Église Saint-Jules."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:51",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Mont-Saint-Martin",
+            "hu": "Mont-Saint-Martin Városháza",
+            "ro": "Primăria Mont-Saint-Martin",
+            "en": "Mont-Saint-Martin Town Hall"
+          },
+          "coords": [
+            5.808992,
+            49.546777
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Architektur dieses Verwaltungsgebäudes, das das Herz der Gemeinde bildet, und nutzen Sie den weiten Vorplatz als idealen Startpunkt für Ihre Radtour durch die Stadt.",
+            "hu": "Tekintse meg ennek az adminisztratív épületnek az építészetét, amely a közösség szívét alkotja, és használja a tágas előteret ideális kiindulópontként a városi kerékpártúrához.",
+            "ro": "Observați arhitectura acestei clădiri administrative care formează inima comunității, și folosiți piațeta spațioasă ca punct de plecare ideal pentru turul dumneavoastră cu bicicleta.",
+            "en": "Observe the architecture of this administrative building that forms the heart of the community, and use the spacious front plaza as an ideal starting point to adjust your bike gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélémy",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            5.77939,
+            49.543545
+          ],
+          "category": "religious",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Radle gemütlich zu dieser historischen Kirche, bewundere die ruhige Atmosphäre und achte darauf, dein Fahrrad sicher an den vorgesehenen Ständern in der Nähe des Haupteingangs abzuschließen.",
+            "hu": "Kerékpározzon kényelmesen ehhez a történelmi templomhoz, élvezze a csendes légkört, és feltétlenül zárja le kerékpárját biztonságosan a főbejárat közelében lévő tárolóknál.",
+            "ro": "Pedalați lejer până la această biserică istorică, bucurați-vă de atmosfera liniștită și asigurați-vă că vă blocați bicicleta în siguranță la rastelele desemnate de lângă intrarea principală.",
+            "en": "Cycle leisurely to this historic church, taking in the tranquil atmosphere, and make sure to lock your bike securely at the designated stands near the main entrance before going inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat Mont-Saint-Martin",
+            "hu": "Mont-Saint-Martin Perjelség",
+            "ro": "Prioratul Mont-Saint-Martin",
+            "en": "Mont-Saint-Martin Priory"
+          },
+          "coords": [
+            5.780772,
+            49.540754
+          ],
+          "category": "monastic",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen und die romanische Architektur des Klosters und nutzen Sie den offenen Platz davor für eine kurze, erfrischende Pause nach Ihrer Radetappe.",
+            "hu": "Fedezze fel a kolostor történelmi romjait és román kori építészetét, az előtte lévő nyitott teret pedig használja ki egy rövid, frissítő pihenőre a kerékpáros szakasz után.",
+            "ro": "Explorați ruinele istorice și arhitectura romanică a mănăstirii, folosind spațiul deschis din față pentru o scurtă și răcoritoare pauză după etapa dumneavoastră de ciclism.",
+            "en": "Explore the historic ruins and Romanesque architecture of the priory, using the open space in front for a short, refreshing break after completing your recent cycling segment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jules",
+            "hu": "Szent Gyula-templom",
+            "ro": "Biserica Saint-Jules",
+            "en": "Église Saint-Jules"
+          },
+          "coords": [
+            5.778026,
+            49.529649
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Ruhe dieser reizvollen Kirche etwas außerhalb des Zentrums und überprüfen Sie hier kurz den Reifendruck, bevor Sie zur längeren Parketappe aufbrechen.",
+            "hu": "Élvezze ennek a központtól kissé távolabb eső, bájos templomnak a lelki nyugalmát, és itt gyorsan ellenőrizze a guminyomást, mielőtt elindulna a hosszabb parki szakaszra.",
+            "ro": "Bucurați-vă de liniștea spirituală a acestei biserici fermecătoare aflate puțin în afara centrului, și verificați rapid presiunea anvelopelor aici înainte de a pleca spre parc.",
+            "en": "Enjoy the spiritual tranquility of this charming church located slightly away from the center, and do a quick tire check here before setting off on your longer ride toward the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Plaine des Jeux",
+            "hu": "Plaine des Jeux Szabadidőpark",
+            "ro": "Parcul Plaine des Jeux",
+            "en": "Plaine des Jeux"
+          },
+          "coords": [
+            5.752678,
+            49.528917
+          ],
+          "category": "family",
+          "arrive_at": "12:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie die ausgedehnten Grünflächen dieses herrlichen Parks für ein entspanntes Picknick und radeln Sie auf den gut ausgebauten Wegen, die sich perfekt für Familien eignen.",
+            "hu": "Használja ki e csodálatos park kiterjedt zöldterületeit egy pihentető piknikhez, és kerékpározzon a jól kiépített, családok számára is tökéletesen alkalmas ösvényeken.",
+            "ro": "Profitați de spațiile verzi extinse ale acestui parc minunat pentru un picnic relaxant, și pedalați pe potecile bine întreținute care sunt perfecte pentru ieșirile în familie.",
+            "en": "Make use of the extensive green spaces in this lovely park for a relaxing picnic lunch, and enjoy cycling along the well-maintained trails that are perfect for families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt schwungvoll am Rathaus, bevor Sie durch die belebten Straßen zur Kirche Saint-Barthélémy fahren. Im späten Vormittag bietet das Priorat Mont-Saint-Martin faszinierende Einblicke in die Architektur. Am Mittag radeln Sie entspannt zur Kirche Saint-Jules im Süden. Der Nachmittag gehört der Erholung im Park Plaine des Jeux, ideal für ein Picknick.",
+        "hu": "Kerékpártúrája lendületesen indul a Városházától, mielőtt a nyüzsgő utcákon át a Szent Bertalan-templomhoz érne. Késő délelőtt a Perjelség nyújt lenyűgöző építészeti élményt. Délben kényelmesen eltekerhet a déli Szent Gyula-templomhoz. A délutánt a Plaine des Jeux parkban töltheti, amely ideális egy pihentető piknikhez és kikapcsolódáshoz.",
+        "ro": "Turul dumneavoastră cu bicicleta începe energic la Primărie, înainte de a merge pe străzile pline de viață spre Biserica Saint-Barthélémy. Dimineața târziu, Prioratul oferă o perspectivă arhitecturală fascinantă. La prânz, pedalați relaxat spre Biserica Saint-Jules. După-amiaza este dedicată recreerii în parcul Plaine des Jeux, locul perfect pentru picnic.",
+        "en": "Your cycling tour starts briskly at the Town Hall before navigating through the lively streets to Église Saint-Barthélémy. Late morning brings fascinating architectural insights at the Mont-Saint-Martin Priory. By midday, you'll cycle pleasantly down to the Église Saint-Jules. The afternoon is dedicated to recreation at the Plaine des Jeux, perfect for a picnic."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ehemaliges Bergwerk",
+            "hu": "Egykori Bánya",
+            "ro": "Fosta Mină",
+            "en": "Ancienne minière"
+          },
+          "coords": [
+            5.741459,
+            49.549131
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die industrielle Vergangenheit der Region ein und parken Sie Ihr Fahrzeug sicher auf den ausgewiesenen Schotterflächen, bevor Sie die historischen Überreste erkunden.",
+            "hu": "Merüljön el a régió ipari múltjában, és parkoljon le biztonságosan a kijelölt kavicsos területeken, mielőtt felfedezné e fontos bányászati helyszín történelmi maradványait.",
+            "ro": "Pătrundeți în trecutul industrial al regiunii și parcați-vă vehiculul în siguranță pe zonele cu pietriș desemnate, înainte de a explora rămășițele istorice ale acestui sit.",
+            "en": "Delve into the region's industrial past at this important site, ensuring you park your vehicle securely on the designated gravel areas before exploring the historical remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitpark Plaine des Jeux",
+            "hu": "Plaine des Jeux Szabadidőpark",
+            "ro": "Parcul Plaine des Jeux",
+            "en": "Plaine des Jeux"
+          },
+          "coords": [
+            5.752678,
+            49.528917
+          ],
+          "category": "family",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie eine kurze Strecke in den Süden zu diesem Familienpark, der großzügige Parkmöglichkeiten bietet und sich hervorragend für einen entspannten Vormittagsspaziergang eignet.",
+            "hu": "Vezessen dél felé ehhez a családi parkhoz, amely bőséges parkolási lehetőséget kínál, és kiválóan alkalmas egy pihentető délelőtti sétára a friss levegőn a zöldben.",
+            "ro": "Conduceți spre sud la acest parc familial, care oferă spații de parcare generoase și este excelent pentru o plimbare relaxantă de dimineață în aer liber printre verdeață.",
+            "en": "Take a short drive south to this family-friendly park, which offers ample parking facilities and is an excellent spot for a relaxing mid-morning stroll among the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Priorat Mont-Saint-Martin",
+            "hu": "Mont-Saint-Martin Perjelség",
+            "ro": "Prioratul Mont-Saint-Martin",
+            "en": "Mont-Saint-Martin Priory"
+          },
+          "coords": [
+            5.780772,
+            49.540754
+          ],
+          "category": "monastic",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie die zentralen Parkplätze in der Nähe dieses architektonischen Juwels, um die beeindruckenden romanischen Details ohne lange Fußwege entspannt genießen zu können.",
+            "hu": "Használja ki ezen építészeti gyöngyszem közelében lévő központi parkolókat, hogy hosszú gyaloglás nélkül, kényelmesen élvezhesse a lenyűgöző román kori részleteket.",
+            "ro": "Profitați de parcările centrale din apropierea acestei bijuterii arhitecturale, pentru a vă bucura de detaliile romanice impresionante fără a fi nevoie de plimbări lungi.",
+            "en": "Make use of the central parking areas near this architectural gem, allowing you to comfortably enjoy the impressive Romanesque details without needing to walk long distances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélémy",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            5.77939,
+            49.543545
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto am besten stehen und schlendern Sie die wenigen Schritte zu dieser Kirche, um die Ruhe der Nachbarschaft bei einem kurzen Spaziergang auf sich wirken zu lassen.",
+            "hu": "A legjobb, ha az autót parkolva hagyja, és átsétál ehhez a templomhoz, hogy egy rövid séta során befogadja a környék csendjét és a történelmi atmoszférát.",
+            "ro": "Cel mai bine este să lăsați mașina parcată și să mergeți pe jos câțiva pași până la această biserică, pentru a absorbi liniștea cartierului în timpul unei scurte plimbări.",
+            "en": "It is best to leave your car parked where it is and walk the short distance to this nearby church, absorbing the peaceful neighborhood atmosphere along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Mont-Saint-Martin",
+            "hu": "Mont-Saint-Martin Városháza",
+            "ro": "Primăria Mont-Saint-Martin",
+            "en": "Mont-Saint-Martin Town Hall"
+          },
+          "coords": [
+            5.808992,
+            49.546777
+          ],
+          "category": "civic",
+          "arrive_at": "13:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Fahren Sie abschließend zum Rathausplatz, wo es gute Parkmöglichkeiten gibt, und werfen Sie einen letzten Blick auf das moderne Zentrum, bevor Sie die Heimreise antreten.",
+            "hu": "Végül vezessen a Városháza terére, ahol jó parkolási lehetőségek vannak, és vessen egy utolsó pillantást a modern központra, mielőtt megkezdené a hazautat.",
+            "ro": "În cele din urmă, conduceți spre piața Primăriei, unde există facilități bune de parcare, și aruncați o ultimă privire asupra centrului modern înainte de a vă întoarce acasă.",
+            "en": "Finally, drive to the Town Hall square where parking is ample, and take a concluding look at the town's modern civic center before wrapping up your day trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren motorisierten Ausflug am Stadtrand in der Ancienne Minière, wo die Industriegeschichte lebendig wird. Fahren Sie am Vormittag zur Plaine des Jeux für Erholung im Grünen. Die Mittagszeit gehört den historischen Schätzen im Zentrum: Besuchen Sie das Priorat und die benachbarte Kirche Saint-Barthélémy. Den Tag runden Sie am modernen Rathausplatz ab.",
+        "hu": "Kezdje autós kirándulását a külvárosban, az egykori bányánál, ahol megelevenedik az ipartörténet. Délelőtt hajtson a Plaine des Jeux parkba egy kis kikapcsolódásra. A dél a központ történelmi kincseié: látogassa meg a Perjelséget és a szomszédos Szent Bertalan-templomot. A napot a modern Városháza téren zárhatja egy utolsó sétával.",
+        "ro": "Începeți excursia motorizată la periferie, la Ancienne minière, unde istoria industrială prinde viață. Dimineața, conduceți spre Plaine des Jeux pentru relaxare. Prânzul este dedicat comorilor istorice din centru: vizitați Prioratul și biserica vecină Saint-Barthélémy. Încheiați-vă ziua la piațeta modernă a Primăriei înainte de plecare.",
+        "en": "Start your motorized excursion on the outskirts at the Ancienne Minière, where industrial history comes alive. By mid-morning, drive to the Plaine des Jeux for some recreation. Midday is dedicated to the historic treasures in the center: visit the Priory and the neighboring Église Saint-Barthélémy. Round off your day at the modern Town Hall square."
+      }
+    }
+  }
+}

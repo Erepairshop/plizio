@@ -1,0 +1,497 @@
+{
+  "city_id": "cy-kyrenia",
+  "anchor": {
+    "name": "Kyrenia",
+    "coords": [
+      33.3167,
+      35.3333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.34,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Atatürk Anıtı",
+            "hu": "Atatürk Anıtı",
+            "ro": "Atatürk Anıtı",
+            "en": "Atatürk Anıtı"
+          },
+          "coords": [
+            33.313115,
+            35.341666
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit der Bewunderung dieses imposanten Denkmals, das dem Gründer der modernen Türkei gewidmet ist.",
+            "hu": "Kezdje a napot a modern Törökország alapítójának szentelt impozáns emlékmű megtekintésével, amely kiváló fotótéma kora reggel.",
+            "ro": "Începeți ziua admirând acest monument impunător dedicat fondatorului Turciei moderne, un loc ideal pentru fotografii matinale.",
+            "en": "Start your day by admiring this imposing monument dedicated to the founder of modern Turkey, an ideal spot for early morning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+            "hu": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+            "ro": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+            "en": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı"
+          },
+          "coords": [
+            33.31353,
+            35.340274
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese historische archäologische Stätte, um antike Fundamente zu entdecken, und tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon végig e történelmi régészeti lelőhelyen, hogy felfedezze az ősi alapokat, és viseljen kényelmes, masszív cipőt.",
+            "ro": "Plimbați-vă prin acest sit arheologic istoric pentru a descoperi fundații antice și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Stroll through this historic archaeological site to discover ancient foundations, and wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Round Tower",
+            "hu": "Round Tower",
+            "ro": "Round Tower",
+            "en": "Round Tower"
+          },
+          "coords": [
+            33.319357,
+            35.340404
+          ],
+          "category": "fortress",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung, um Kyrenias Verteidigungswerke zu schätzen, und achten Sie auf lokale Kunsthandwerksläden.",
+            "hu": "Fedezze fel ezt a masszív középkori erődítményt, hogy megismerje Kyrenia védelmi múltját, és nézzen be a közeli kézműves boltokba.",
+            "ro": "Explorați această fortificație medievală pentru a aprecia trecutul defensiv al Kyreniei și căutați magazinele artizanale din apropiere.",
+            "en": "Explore this sturdy medieval fortification to appreciate Kyrenia's defensive past, keeping an eye out for local artisan shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cyprus Housr",
+            "hu": "Cyprus Housr",
+            "ro": "Cyprus Housr",
+            "en": "Cyprus Housr"
+          },
+          "coords": [
+            33.319834,
+            35.341519
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante Museum über das traditionelle zyprische Leben und nehmen Sie sich Zeit für die Ausstellungen lokaler Bräuche.",
+            "hu": "Lépjen be ebbe a hagyományos ciprusi életet bemutató bájos múzeumba, és szánjon időt a helyi szokásokat bemutató kiállításokra.",
+            "ro": "Pășiți în acest muzeu fermecător care prezintă viața tradițională cipriotă și acordați-vă timp pentru a citi despre obiceiurile locale.",
+            "en": "Step inside this charming museum showcasing traditional Cypriot life, and take time to read the detailed exhibits on local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Greko-Roman rock graves",
+            "hu": "Greko-Roman rock graves",
+            "ro": "Greko-Roman rock graves",
+            "en": "Greko-Roman rock graves"
+          },
+          "coords": [
+            33.318335,
+            35.341915
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese faszinierenden, direkt in den Fels gehauenen antiken Gräber, die am besten bei tiefen Schatten der Mittagssonne wirken.",
+            "hu": "Csodálja meg ezeket a lenyűgöző, közvetlenül a sziklába vájt ókori sírokat, amelyek a déli napfény árnyékaiban a legszebbek.",
+            "ro": "Minunați-vă de aceste morminte antice fascinante sculptate direct în stâncă, cel mai bine vizualizate când soarele prânzului creează umbre.",
+            "en": "Marvel at these fascinating ancient tombs carved directly into the rock face, best viewed when the midday sun casts deep shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Shipwreck museum",
+            "hu": "Shipwreck museum",
+            "ro": "Shipwreck museum",
+            "en": "Shipwreck museum"
+          },
+          "coords": [
+            33.322677,
+            35.341716
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste eines antiken Handelsschiffs und seiner Fracht, und sichern Sie sich in der Hochsaison vorab Tickets.",
+            "hu": "Fedezze fel egy ősi kereskedelmi hajó és rakományának lenyűgöző maradványait, és főszezonban érdemes előre jegyet foglalni.",
+            "ro": "Descoperiți rămășițele fascinante ale unei nave comerciale antice și încărcătura sa, asigurându-vă biletele în avans în sezonul de vârf.",
+            "en": "Discover the fascinating remains of an ancient trading vessel and its cargo, ensuring you secure tickets in advance during peak season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in der Nähe des Hafens und bewundern Sie die Denkmäler und antiken Fundamente der Stadt.\n\nErkunden Sie mittags den robusten Runden Turm, bevor Sie im Cyprus House in die lokalen Traditionen eintauchen.\n\nBestaunen Sie am Nachmittag die Felsengräber und besuchen Sie das renommierte Schiffswrack-Museum.\n\nGenießen Sie abends den Sonnenuntergang an den historischen Hafenmauern und denken Sie über Kyrenias reiche maritime Vergangenheit nach.",
+        "hu": "Kezdje sétáját a kikötő közelében, megcsodálva a műemlékeket és a város ősi alapjait.\n\nDélben fedezze fel a masszív Kerek Tornyot, mielőtt elmerülne a helyi hagyományokban a Cyprus House-ban.\n\nDélután csodálja meg a sziklasírokat, majd látogasson el a híres hajóroncs múzeumba.\n\nEste élvezze a naplementét a történelmi kikötő falainál, és elmélkedjen Kyrenia gazdag tengeri múltján.",
+        "ro": "Începeți plimbarea lângă port, admirând monumentele și fundațiile antice ale orașului.\n\nLa amiază, explorați robustul Turn Rotund înainte de a vă cufunda în tradițiile locale la Cyprus House.\n\nDupă-amiaza, minunați-vă de mormintele din stâncă și vizitați renumitul muzeu al epavei.\n\nSeara, bucurați-vă de apusul soarelui la zidurile istorice ale portului, reflectând asupra trecutului maritim al Kyreniei.",
+        "en": "Start your walk near the harbor, admiring the monuments and ancient foundations of the city.\n\nAt midday, explore the sturdy Round Tower before diving into local traditions at the Cyprus House.\n\nIn the afternoon, marvel at the ancient rock graves and visit the renowned Shipwreck museum.\n\nIn the evening, enjoy the sunset by the historic harbor walls, reflecting on Kyrenia's rich maritime past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phaneromeni Church",
+            "hu": "Phaneromeni Church",
+            "ro": "Phaneromeni Church",
+            "en": "Phaneromeni Church"
+          },
+          "coords": [
+            33.300787,
+            35.317306
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser historischen Kirche mit ihren wunderschönen Ikonen und denken Sie an angemessene Kleidung.",
+            "hu": "Élvezze a gyönyörű ikonokkal díszített történelmi templom békés atmoszféráját, és emlékezzen a szerény és visszafogott öltözködésre.",
+            "ro": "Experimentați atmosfera senină a acestei biserici istorice cu icoanele sale frumoase și amintiți-vă să vă îmbrăcați modest din respect.",
+            "en": "Experience the serene atmosphere of this historical church with its beautiful icons, and remember to dress modestly out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Dr. Fazıl Küçük Monument",
+            "hu": "Dr. Fazıl Küçük Monument",
+            "ro": "Dr. Fazıl Küçük Monument",
+            "en": "Dr. Fazıl Küçük Monument"
+          },
+          "coords": [
+            33.317572,
+            35.325398
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem wichtigen Denkmal, das einer Schlüsselfigur der türkisch-zyprischen Geschichte gewidmet ist, Ihren Respekt.",
+            "hu": "Rójja le tiszteletét ezen a ciprusi török történelem egyik kulcsfigurájának szentelt jelentős emlékműnél, amely kiváló fotómegálló.",
+            "ro": "Prezentați-vă omagiile la acest memorial dedicat unei figuri cheie în istoria cipriotă turcă, o oprire rapidă, dar plină de informații.",
+            "en": "Pay your respects at this significant memorial dedicated to a key figure in Turkish Cypriot history, a quick but insightful photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Round Tower",
+            "hu": "Round Tower",
+            "ro": "Round Tower",
+            "en": "Round Tower"
+          },
+          "coords": [
+            33.319357,
+            35.340404
+          ],
+          "category": "fortress",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung, um Kyrenias Verteidigungswerke zu schätzen, und achten Sie auf lokale Kunsthandwerksläden.",
+            "hu": "Fedezze fel ezt a masszív középkori erődítményt, hogy megismerje Kyrenia védelmi múltját, és nézzen be a közeli kézműves boltokba.",
+            "ro": "Explorați această fortificație medievală pentru a aprecia trecutul defensiv al Kyreniei și căutați magazinele artizanale din apropiere.",
+            "en": "Explore this sturdy medieval fortification to appreciate Kyrenia's defensive past, keeping an eye out for local artisan shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Shipwreck museum",
+            "hu": "Shipwreck museum",
+            "ro": "Shipwreck museum",
+            "en": "Shipwreck museum"
+          },
+          "coords": [
+            33.322677,
+            35.341716
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste eines antiken Handelsschiffs und seiner Fracht, und sichern Sie sich in der Hochsaison vorab Tickets.",
+            "hu": "Fedezze fel egy ősi kereskedelmi hajó és rakományának lenyűgöző maradványait, és főszezonban érdemes előre jegyet foglalni.",
+            "ro": "Descoperiți rămășițele fascinante ale unei nave comerciale antice și încărcătura sa, asigurându-vă biletele în avans în sezonul de vârf.",
+            "en": "Discover the fascinating remains of an ancient trading vessel and its cargo, ensuring you secure tickets in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Istanbul Art Gallery",
+            "hu": "Istanbul Art Gallery",
+            "ro": "Istanbul Art Gallery",
+            "en": "Istanbul Art Gallery"
+          },
+          "coords": [
+            33.32519,
+            35.339538
+          ],
+          "category": "museum",
+          "arrive_at": "13:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie in dieser eleganten Galerie eine vielfältige Sammlung zeitgenössischer Kunstwerke, perfekt für kulturelle Reflexion.",
+            "hu": "Böngésszen a kortárs műalkotások változatos gyűjteményében ebben az elegáns galériában, amely tökéletes egy csendes kulturális délutánhoz.",
+            "ro": "Răsfoiți o colecție diversă de opere de artă contemporană în această galerie elegantă, perfectă pentru o după-amiază de reflecție culturală.",
+            "en": "Browse a diverse collection of contemporary artworks in this elegant gallery, perfect for an afternoon of quiet cultural reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Girne Belediyesi Anfitiyatro",
+            "hu": "Girne Belediyesi Anfitiyatro",
+            "ro": "Girne Belediyesi Anfitiyatro",
+            "en": "Girne Belediyesi Anfitiyatro"
+          },
+          "coords": [
+            33.326198,
+            35.339879
+          ],
+          "category": "cultural",
+          "arrive_at": "15:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in diesem beeindruckenden Freilufttheater mit spektakulärem Sonnenuntergang und prüfen Sie das Abendprogramm.",
+            "hu": "Zárja a napot ebben a lenyűgöző szabadtéri színházban, amely látványos naplementét kínál, és érdeklődjön az esti előadásokról.",
+            "ro": "Încheiați-vă ziua la acest impresionant teatru în aer liber oferind priveliști spectaculoase, verificând programul spectacolelor de seară.",
+            "en": "End your day at this impressive open-air theater offering spectacular sunset views, checking local listings for evening performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens von der ruhigen Phaneromeni-Kirche zu den monumentalen Wahrzeichen, die das moderne Zypern prägen.\n\nErreichen Sie mittags den mittelalterlichen Runden Turm, um das robuste architektonische Erbe der Stadt zu entdecken.\n\nFahren Sie am Nachmittag zum berühmten Schiffswrack-Museum und durchstöbern Sie zeitgenössische Werke in der Kunstgalerie.\n\nBeenden Sie Ihre Fahrt am majestätischen Amphitheater und genießen Sie den Panoramablick bei Einbruch der Abenddämmerung.",
+        "hu": "Kerékpározzon reggel a békés Phaneromeni templomtól a modern Ciprust formáló monumentális nevezetességekig.\n\nDélben érkezzen meg a középkori Kerek Toronyhoz, hogy felfedezze a város lenyűgöző építészeti örökségét.\n\nDélután tekerjen el a híres hajóroncs múzeumhoz, és böngésszen kortárs műveket a helyi művészeti galériában.\n\nZárja útját a fenséges amfiteátrumnál, élvezve a panorámát, miközben lassan leszáll az est.",
+        "ro": "Pedalați dimineața de la serena Biserică Phaneromeni către reperele monumentale care modelează Ciprul modern.\n\nAjungeți la amiază la Turnul Rotund medieval pentru a descoperi moștenirea arhitecturală robustă a orașului.\n\nPedalați după-amiaza către faimosul muzeu al epavei și răsfoiți piese contemporane la galeria locală de artă.\n\nÎncheiați-vă plimbarea la maiestuosul amfiteatru, bucurându-vă de vederi panoramice pe măsură ce se lasă amurgul.",
+        "en": "Cycle in the morning from the serene Phaneromeni Church to the monumental landmarks shaping modern Cyprus.\n\nArrive at midday at the medieval Round Tower to discover the city's robust architectural heritage.\n\nPedal in the afternoon to the famous Shipwreck museum and browse contemporary pieces at the local art gallery.\n\nConclude your ride at the majestic amphitheater, enjoying panoramic views as dusk settles over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Riviera Beach",
+            "hu": "Riviera Beach",
+            "ro": "Riviera Beach",
+            "en": "Riviera Beach"
+          },
+          "coords": [
+            33.279888,
+            35.34528
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einem erfrischenden Bad oder einem Spaziergang an diesem Küstenabschnitt, packen Sie Sonnencreme ein.",
+            "hu": "Kezdje a reggelt egy frissítő úszással vagy békés sétával ezen a gyönyörű partszakaszon, és ne felejtse el a naptejet.",
+            "ro": "Începeți dimineața cu o înot revigorant sau o plimbare liniștită de-a lungul acestei coaste frumoase, luând cu voi cremă de protecție.",
+            "en": "Start your morning with a refreshing swim or a peaceful stroll along this beautiful coastline, packing sunscreen and a beach towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaoğlanoğlu Plajı",
+            "hu": "Karaoğlanoğlu Plajı",
+            "ro": "Karaoğlanoğlu Plajı",
+            "en": "Karaoğlanoğlu Plajı"
+          },
+          "coords": [
+            33.275398,
+            35.344925
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses historischen Strandes, der für sein klares Wasser bekannt ist, und kommen Sie frühzeitig.",
+            "hu": "Pihenjen ennek a történelmi, tiszta vizéről ismert strandnak a homokos partján, és érkezzen korán, hogy jó helyet kapjon.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei plaje istorice cunoscute pentru apele sale clare, ajungând devreme pentru cel mai bun loc.",
+            "en": "Relax on the sandy shores of this historic beach known for its clear waters, arriving early to secure the best spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Nusret Ertürk",
+            "hu": "Nusret Ertürk",
+            "ro": "Nusret Ertürk",
+            "en": "Nusret Ertürk"
+          },
+          "coords": [
+            33.305695,
+            35.333034
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Denkmal, das die Geschichte lokaler Helden erzählt, und genießen Sie eine kurze Bildungspause.",
+            "hu": "Álljon meg ennél a helyi hősök történetét elmesélő jelentős történelmi emlékműnél, amely egy rövid, tanulságos pihenőt kínál az úton.",
+            "ro": "Opriți-vă la acest marcator istoric proeminent care spune povestea eroilor locali, oferind o scurtă pauză educațională pe parcurs.",
+            "en": "Pause at this prominent historical marker that tells the story of local heroes, offering a brief educational break during your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Round Tower",
+            "hu": "Round Tower",
+            "ro": "Round Tower",
+            "en": "Round Tower"
+          },
+          "coords": [
+            33.319357,
+            35.340404
+          ],
+          "category": "fortress",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung, um Kyrenias Verteidigungswerke zu schätzen, und achten Sie auf lokale Kunsthandwerksläden.",
+            "hu": "Fedezze fel ezt a masszív középkori erődítményt, hogy megismerje Kyrenia védelmi múltját, és nézzen be a közeli kézműves boltokba.",
+            "ro": "Explorați această fortificație medievală pentru a aprecia trecutul defensiv al Kyreniei și căutați magazinele artizanale din apropiere.",
+            "en": "Explore this sturdy medieval fortification to appreciate Kyrenia's defensive past, keeping an eye out for local artisan shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Shipwreck museum",
+            "hu": "Shipwreck museum",
+            "ro": "Shipwreck museum",
+            "en": "Shipwreck museum"
+          },
+          "coords": [
+            33.322677,
+            35.341716
+          ],
+          "category": "museum",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste eines antiken Handelsschiffs und seiner Fracht, und sichern Sie sich in der Hochsaison vorab Tickets.",
+            "hu": "Fedezze fel egy ősi kereskedelmi hajó és rakományának lenyűgöző maradványait, és főszezonban érdemes előre jegyet foglalni.",
+            "ro": "Descoperiți rămășițele fascinante ale unei nave comerciale antice și încărcătura sa, asigurându-vă biletele în avans în sezonul de vârf.",
+            "en": "Discover the fascinating remains of an ancient trading vessel and its cargo, ensuring you secure tickets in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Istanbul Art Gallery",
+            "hu": "Istanbul Art Gallery",
+            "ro": "Istanbul Art Gallery",
+            "en": "Istanbul Art Gallery"
+          },
+          "coords": [
+            33.32519,
+            35.339538
+          ],
+          "category": "museum",
+          "arrive_at": "15:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie in dieser eleganten Galerie eine vielfältige Sammlung zeitgenössischer Kunstwerke, perfekt für kulturelle Reflexion.",
+            "hu": "Böngésszen a kortárs műalkotások változatos gyűjteményében ebben az elegáns galériában, amely tökéletes egy csendes kulturális délutánhoz.",
+            "ro": "Răsfoiți o colecție diversă de opere de artă contemporană în această galerie elegantă, perfectă pentru o după-amiază de reflecție culturală.",
+            "en": "Browse a diverse collection of contemporary artworks in this elegant gallery, perfect for an afternoon of quiet cultural reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Girne Belediyesi Anfitiyatro",
+            "hu": "Girne Belediyesi Anfitiyatro",
+            "ro": "Girne Belediyesi Anfitiyatro",
+            "en": "Girne Belediyesi Anfitiyatro"
+          },
+          "coords": [
+            33.326198,
+            35.339879
+          ],
+          "category": "cultural",
+          "arrive_at": "16:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in diesem beeindruckenden Freilufttheater mit spektakulärem Sonnenuntergang und prüfen Sie das Abendprogramm.",
+            "hu": "Zárja a napot ebben a lenyűgöző szabadtéri színházban, amely látványos naplementét kínál, és érdeklődjön az esti előadásokról.",
+            "ro": "Încheiați-vă ziua la acest impresionant teatru în aer liber oferind priveliști spectaculoase, verificând programul spectacolelor de seară.",
+            "en": "End your day at this impressive open-air theater offering spectacular sunset views, checking local listings for evening performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens nach Westen für einen entspannten Vormittag und erkunden Sie Kyrenias unberührte Riviera und historische Strände.\n\nKehren Sie mittags ins Stadtzentrum zurück, halten Sie an Denkmälern und besuchen Sie den ikonischen Runden Turm.\n\nEntdecken Sie am Nachmittag antike maritime Geheimnisse im Schiffswrack-Museum und besuchen Sie die nahe gelegene Kunstgalerie.\n\nFahren Sie abends hinauf zum Freiluft-Amphitheater für ein atemberaubendes Panorama der Mittelmeerküste in der Dämmerung.",
+        "hu": "Vezessen reggel nyugat felé egy pihentető délelőttért, felfedezve Kyrenia érintetlen Riviéráját és történelmi strandjait.\n\nDélben induljon vissza a városközpontba, álljon meg a műemlékeknél, mielőtt elérné az ikonikus Kerek Tornyot.\n\nDélután fedezzen fel ősi tengerészeti titkokat a hajóroncs múzeumban, és látogasson el a közeli művészeti galériába.\n\nEste hajtson fel a szabadtéri amfiteátrumhoz egy lenyűgöző alkonyati panorámáért a Földközi-tenger partvidékén.",
+        "ro": "Conduceți dimineața spre vest pentru a explora Riviera virgină și plajele istorice ale Kyreniei într-o dimineață relaxantă.\n\nÎndreptați-vă la amiază înapoi spre centrul orașului, oprindu-vă la monumente înainte de a ajunge la iconicul Turn Rotund.\n\nDescoperiți după-amiaza secrete maritime antice la muzeul epavei și vizitați galeria de artă din apropiere.\n\nConduceți seara până la amfiteatrul în aer liber pentru o panoramă uluitoare a coastei mediteraneene la amurg.",
+        "en": "Drive west in the morning for a relaxing exploration of Kyrenia's pristine Riviera and historic beaches.\n\nHead back toward the city center at midday, stopping at monuments before reaching the iconic Round Tower.\n\nDiscover ancient maritime secrets in the afternoon at the Shipwreck museum and visit the nearby art gallery.\n\nDrive up to the open-air amphitheater in the evening for a stunning twilight panorama over the Mediterranean coast."
+      }
+    }
+  }
+}

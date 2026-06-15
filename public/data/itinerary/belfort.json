@@ -1,0 +1,451 @@
+{
+  "city_id": "belfort",
+  "anchor": {
+    "name": "Belfort",
+    "coords": [
+      6.8628,
+      47.6375
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 0.87,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Belfort",
+            "hu": "Belforti Városháza",
+            "ro": "Primăria Belfort",
+            "en": "Belfort City Hall"
+          },
+          "coords": [
+            6.862846,
+            47.637768
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Belfort, das den historischen Kern der Stadt prägt, und achten Sie auf die kunstvollen Details der Fassade, während Sie den Platz erkunden.",
+            "hu": "Csodálja meg a belforti városháza elegáns építészetét, amely a város történelmi magját alkotja, és figyelje meg a homlokzat díszítéseit a központi tér felfedezése közben.",
+            "ro": "Admirați arhitectura elegantă a primăriei din Belfort, care definește nucleul istoric al orașului, și observați detaliile fațadei în timp ce explorați piața centrală liniștită.",
+            "en": "Admire the elegant architecture of the Belfort City Hall, which defines the historical core of the city, and notice the ornate facade details while exploring the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 46",
+            "hu": "46-os Torony",
+            "ro": "Turnul 46",
+            "en": "Tower 46"
+          },
+          "coords": [
+            6.861252,
+            47.63764
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum die reiche Geschichte und die wechselnden Ausstellungen, wobei Sie am besten am Vormittag kommen, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel a gazdag történelmet és a változatos kiállításokat ebben a lenyűgöző múzeumban, ahová érdemes délelőtt érkezni, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Descoperiți istoria bogată și expozițiile captivante în acest muzeu fascinant, unde este cel mai bine să ajungeți dimineața pentru a evita aglomerația și a vă bucura de exponate.",
+            "en": "Discover the rich history and captivating exhibitions in this fascinating museum, arriving ideally in the morning to avoid the crowds and fully enjoy the detailed displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der drei Belagerungen",
+            "hu": "Három Ostrom Emlékműve",
+            "ro": "Monumentul celor Trei Asedii",
+            "en": "Monument of the Three Sieges"
+          },
+          "coords": [
+            6.861642,
+            47.638977
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende historische Denkmal, das die Widerstandsfähigkeit der Stadt symbolisiert, und nutzen Sie das weiche Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Tekintse meg ezt a lenyűgöző történelmi emlékművet, amely a város ellenállóképességét szimbolizálja, és használja ki a lágy reggeli fényeket a legjobb emlékképek elkészítéséhez.",
+            "ro": "Contemplați acest monument istoric impresionant care simbolizează rezistența orașului și profitați de lumina blândă a dimineții pentru a face cele mai bune fotografii suvenir.",
+            "en": "Contemplate this impressive historical monument symbolizing the city's resilience, and take advantage of the soft morning light to capture the most beautiful souvenir photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Belfort",
+            "hu": "Belforti Citadella",
+            "ro": "Citadela din Belfort",
+            "en": "Citadel of Belfort"
+          },
+          "coords": [
+            6.864765,
+            47.636646
+          ],
+          "category": "castle",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Festungsmauern dieser ikonischen Zitadelle, die einen atemberaubenden Blick auf Belfort bietet, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek az ikonikus fellegvárnak a masszív falait, amely lélegzetelállító kilátást nyújt Belfortra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați zidurile masive ale acestei citadele iconice care oferă o panoramă uluitoare asupra Belfortului și asigurați-vă că purtați încălțăminte confortabilă pentru aleile inegale.",
+            "en": "Explore the massive walls of this iconic citadel offering breathtaking views of Belfort, and make sure to wear very comfortable shoes for navigating the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerturm",
+            "hu": "Polgárok Tornya",
+            "ro": "Turnul Burghezilor",
+            "en": "Bourgeois Tower"
+          },
+          "coords": [
+            6.867245,
+            47.638257
+          ],
+          "category": "castle",
+          "arrive_at": "14:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mittelalterliche Vergangenheit der Region ein, indem Sie diese gut erhaltene Burgruine besichtigen, deren schmale Gänge am besten mit leichtem Gepäck erkundet werden.",
+            "hu": "Merüljön el a régió középkori múltjában ennek a jól megőrzött várromnak a meglátogatásával, amelynek szűk folyosóit a legkönnyebben egy kis hátizsákkal tudja kényelmesen bejárni.",
+            "ro": "Pătrundeți în trecutul medieval al regiunii vizitând aceste ruine de castel bine conservate, ale căror coridoare înguste se explorează cel mai bine cu un bagaj foarte ușor.",
+            "en": "Delve into the region's medieval past by visiting this well-preserved castle ruin, whose narrow corridors and tight spaces are best navigated carrying only a light backpack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Belfort beginnt am eleganten Rathaus, gefolgt von einer faszinierenden Reise in die Geschichte im Tour 46. Gegen Mittag erreichen Sie das bedeutende Monument des Trois Sièges, das an den Mut der Stadt erinnert. Der Nachmittag ist der imposanten Zitadelle gewidmet, deren Mauern beeindrucken. Zum Abschluss erkunden Sie den historischen Tour des Bourgeois in aller Ruhe.",
+        "hu": "Belforti sétája az elegáns Városházánál kezdődik, amelyet a Tour 46 múzeum izgalmas történelmi kiállítása követ. Délben a Monument des Trois Sièges emlékműhöz ér, amely a város hősiességét hirdeti. A délutánt a lenyűgöző Citadellának szenteljük, amelynek masszív falai lenyűgözőek. Végül kényelmes tempóban fedezheti fel az ősi Tour des Bourgeois épületének titkait.",
+        "ro": "Plimbarea dvs. prin Belfort începe la eleganta Primărie, urmată de o incursiune istorică la muzeul Tour 46. La prânz, veți ajunge la Monument des Trois Sièges, o mărturie a curajului local. După-amiaza este dedicată impresionantei Citadele, unde vă veți bucura de priveliști superbe. În final, veți explora fortificațiile medievale de la Tour des Bourgeois într-un ritm relaxant.",
+        "en": "Your walking tour of Belfort begins at the elegant City Hall, followed by a fascinating dive into history at Tour 46. By midday, you will reach the Monument des Trois Sièges, commemorating the city's brave past. The afternoon is dedicated to the imposing Citadel, offering magnificent panoramic views. Finally, you will explore the ancient Tour des Bourgeois at a very relaxing pace."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 2.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Émile Lechten Platz",
+            "hu": "Émile Lechten Tér",
+            "ro": "Piața Émile Lechten",
+            "en": "Émile Lechten Square"
+          },
+          "coords": [
+            6.855966,
+            47.643159
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschön angelegten Park voller blühender Pflanzen, und bringen Sie einen kleinen Kaffee mit, um auf einer der ruhigen Bänke den Morgen zu genießen.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, virágzó növényekkel teli parkban, és hozzon magával egy kávét, hogy az egyik csendes padon ülve élvezhesse a békés reggelt.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat, plin de plante înflorite, și aduceți o cafea pentru a vă bucura de dimineața liniștită așezați pe una dintre băncile sale umbrite.",
+            "en": "Relax in this beautifully landscaped park filled with blooming flora, and grab a coffee beforehand to enjoy a peaceful morning sitting on one of its quiet, shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der drei Belagerungen",
+            "hu": "Három Ostrom Emlékműve",
+            "ro": "Monumentul celor Trei Asedii",
+            "en": "Monument of the Three Sieges"
+          },
+          "coords": [
+            6.861642,
+            47.638977
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende historische Denkmal, das die Widerstandsfähigkeit der Stadt symbolisiert, und nutzen Sie das weiche Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Tekintse meg ezt a lenyűgöző történelmi emlékművet, amely a város ellenállóképességét szimbolizálja, és használja ki a lágy reggeli fényeket a legjobb emlékképek elkészítéséhez.",
+            "ro": "Contemplați acest monument istoric impresionant care simbolizează rezistența orașului și profitați de lumina blândă a dimineții pentru a face cele mai bune fotografii suvenir.",
+            "en": "Contemplate this impressive historical monument symbolizing the city's resilience, and take advantage of the soft morning light to capture the most beautiful souvenir photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Belfort",
+            "hu": "Belforti Városháza",
+            "ro": "Primăria Belfort",
+            "en": "Belfort City Hall"
+          },
+          "coords": [
+            6.862846,
+            47.637768
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von Belfort, das den historischen Kern der Stadt prägt, und achten Sie auf die kunstvollen Details der Fassade, während Sie den Platz erkunden.",
+            "hu": "Csodálja meg a belforti városháza elegáns építészetét, amely a város történelmi magját alkotja, és figyelje meg a homlokzat díszítéseit a központi tér felfedezése közben.",
+            "ro": "Admirați arhitectura elegantă a primăriei din Belfort, care definește nucleul istoric al orașului, și observați detaliile fațadei în timp ce explorați piața centrală liniștită.",
+            "en": "Admire the elegant architecture of the Belfort City Hall, which defines the historical core of the city, and notice the ornate facade details while exploring the central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Belfort",
+            "hu": "Belforti Citadella",
+            "ro": "Citadela din Belfort",
+            "en": "Citadel of Belfort"
+          },
+          "coords": [
+            6.864765,
+            47.636646
+          ],
+          "category": "castle",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Festungsmauern dieser ikonischen Zitadelle, die einen atemberaubenden Blick auf Belfort bietet, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek az ikonikus fellegvárnak a masszív falait, amely lélegzetelállító kilátást nyújt Belfortra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați zidurile masive ale acestei citadele iconice care oferă o panoramă uluitoare asupra Belfortului și asigurați-vă că purtați încălțăminte confortabilă pentru aleile inegale.",
+            "en": "Explore the massive walls of this iconic citadel offering breathtaking views of Belfort, and make sure to wear very comfortable shoes for navigating the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Miotte-Turm",
+            "hu": "Miotte Torony",
+            "ro": "Turnul Miotte",
+            "en": "Miotte Tower"
+          },
+          "coords": [
+            6.873982,
+            47.648225
+          ],
+          "category": "castle",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu diesem markanten Turm, der als ein weiteres Wahrzeichen der Stadt gilt, und genießen Sie den weiten Panoramablick über die hügelige Landschaft der Umgebung.",
+            "hu": "Másszon fel ehhez a jellegzetes toronyhoz, amely a város egyik kiemelkedő szimbóluma, és gyönyörködjön a környező dombvidékre nyíló széles, lenyűgöző panorámás kilátásban.",
+            "ro": "Urcați la acest turn distinctiv, considerat un alt simbol important al orașului, și bucurați-vă de vederea panoramică extinsă asupra peisajului deluros din împrejurimi.",
+            "en": "Ascend to this distinctive tower, considered another prominent symbol of the city, and enjoy the expansive panoramic views stretching over the beautiful surrounding hilly landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitzentrum Imier Comte",
+            "hu": "Imier Comte Szabadidőközpont",
+            "ro": "Baza de Agrement Imier Comte",
+            "en": "Imier Comte Leisure Center"
+          },
+          "coords": [
+            6.869557,
+            47.651234
+          ],
+          "category": "family",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Verbringen Sie einen aktiven Nachmittag in diesem familienfreundlichen Freizeitzentrum am Wasser, und packen Sie eine kleine Picknickdecke ein, um sich am Ufer auszuruhen.",
+            "hu": "Töltsön el egy aktív délutánt ebben a családbarát vízparti szabadidőközpontban, és csomagoljon be egy pikniktakarót, hogy kényelmesen megpihenhessen a tó partján.",
+            "ro": "Petreceți o după-amiază activă în acest centru de agrement prietenos cu familiile pe malul apei și aduceți o pătură de picnic pentru a vă relaxa confortabil pe mal.",
+            "en": "Spend an active afternoon at this family-friendly waterfront recreation center, and make sure to pack a picnic blanket so you can comfortably rest and relax by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet entspannt im grünen Square Émile Lechten, bevor Sie das historische Monument des Trois Sièges ansteuern. Mittags radeln Sie am charmanten Rathaus vorbei direkt zur weltberühmten Zitadelle von Belfort. Am Nachmittag führt die Route hinauf zum markanten Tour de la Miotte für ein tolles Panorama. Der Tag endet sportlich und erholsam am idyllischen Base de Loisirs.",
+        "hu": "Kerékpártúrája a zöldellő Square Émile Lechten parkban indul, majd a történelmi Monument des Trois Sièges felé veszi az irányt. Délben a bájos Városháza mellett elhaladva a világhírű Citadellához teker. A délután folyamán a Tour de la Miotte magaslata várja, ahonnan mesés a kilátás. A nap aktív és pihentető lezárásaként a Base de Loisirs vízpartján kapcsolódhat ki.",
+        "ro": "Turul cu bicicleta începe relaxant în verdele Square Émile Lechten, înainte de a vizita istoricul Monument des Trois Sièges. La prânz, veți pedala pe lângă Primărie direct către faimoasa Citadelă din Belfort. După-amiaza, traseul vă duce la pitorescul Tour de la Miotte pentru o panoramă excelentă. Ziua se încheie activ, dar relaxant, la malul apei la Base de Loisirs Imier Comte.",
+        "en": "Your bike tour starts smoothly in the green Square Émile Lechten before heading to the historic Monument des Trois Sièges. At midday, pedal past the charming City Hall directly to the famous Citadel of Belfort. In the afternoon, the route takes you up to the prominent Tour de la Miotte for fantastic views. End your active day relaxing by the water at the Base de Loisirs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 4.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Francis Bédat Park (Hirschpark)",
+            "hu": "Francis Bédat Park (Szarvaspark)",
+            "ro": "Parcul Francis Bédat (cu cerbi)",
+            "en": "Francis Bédat Park (Deer Park)"
+          },
+          "coords": [
+            6.839872,
+            47.621067
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag in diesem ruhigen Tierpark, in dem Sie Hirsche aus nächster Nähe beobachten können, und halten Sie sich ruhig, um die Tiere nicht beim Fressen zu stören.",
+            "hu": "Kezdje a napot ebben a csendes vadasparkban, ahol testközelből figyelheti meg a szarvasokat, de mozogjon lassan és csendesen, hogy ne zavarja meg a békésen legelésző állatokat.",
+            "ro": "Începeți ziua în acest parc de animale liniștit, unde puteți observa căprioarele de aproape, și mișcați-vă încet pentru a nu deranja animalele în timp ce se hrănesc pașnic.",
+            "en": "Start your day in this quiet wildlife park where you can observe deer up close, remembering to move slowly and keep your voice down so as not to disturb the grazing animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm 46",
+            "hu": "46-os Torony",
+            "ro": "Turnul 46",
+            "en": "Tower 46"
+          },
+          "coords": [
+            6.861252,
+            47.63764
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum die reiche Geschichte und die wechselnden Ausstellungen, wobei Sie am besten am Vormittag kommen, um den Menschenmassen zu entgehen.",
+            "hu": "Fedezze fel a gazdag történelmet és a változatos kiállításokat ebben a lenyűgöző múzeumban, ahová érdemes délelőtt érkezni, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Descoperiți istoria bogată și expozițiile captivante în acest muzeu fascinant, unde este cel mai bine să ajungeți dimineața pentru a evita aglomerația și a vă bucura de exponate.",
+            "en": "Discover the rich history and captivating exhibitions in this fascinating museum, arriving ideally in the morning to avoid the crowds and fully enjoy the detailed displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Belfort",
+            "hu": "Belforti Citadella",
+            "ro": "Citadela din Belfort",
+            "en": "Citadel of Belfort"
+          },
+          "coords": [
+            6.864765,
+            47.636646
+          ],
+          "category": "castle",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Festungsmauern dieser ikonischen Zitadelle, die einen atemberaubenden Blick auf Belfort bietet, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ennek az ikonikus fellegvárnak a masszív falait, amely lélegzetelállító kilátást nyújt Belfortra, és viseljen kényelmes cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați zidurile masive ale acestei citadele iconice care oferă o panoramă uluitoare asupra Belfortului și asigurați-vă că purtați încălțăminte confortabilă pentru aleile inegale.",
+            "en": "Explore the massive walls of this iconic citadel offering breathtaking views of Belfort, and make sure to wear very comfortable shoes for navigating the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bürgerturm",
+            "hu": "Polgárok Tornya",
+            "ro": "Turnul Burghezilor",
+            "en": "Bourgeois Tower"
+          },
+          "coords": [
+            6.867245,
+            47.638257
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mittelalterliche Vergangenheit der Region ein, indem Sie diese gut erhaltene Burgruine besichtigen, deren schmale Gänge am besten mit leichtem Gepäck erkundet werden.",
+            "hu": "Merüljön el a régió középkori múltjában ennek a jól megőrzött várromnak a meglátogatásával, amelynek szűk folyosóit a legkönnyebben egy kis hátizsákkal tudja kényelmesen bejárni.",
+            "ro": "Pătrundeți în trecutul medieval al regiunii vizitând aceste ruine de castel bine conservate, ale căror coridoare înguste se explorează cel mai bine cu un bagaj foarte ușor.",
+            "en": "Delve into the region's medieval past by visiting this well-preserved castle ruin, whose narrow corridors and tight spaces are best navigated carrying only a light backpack."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Miotte",
+            "hu": "Miotte Erőd",
+            "ro": "Fortul Miotte",
+            "en": "Miotte Fort"
+          },
+          "coords": [
+            6.875414,
+            47.648177
+          ],
+          "category": "fortress",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende militärische Architektur dieser alten Festung, die reich an Geschichte ist, und bleiben Sie auf den markierten Wegen, um sicheres Erkunden zu gewährleisten.",
+            "hu": "Fedezze fel ennek az ősi és történelemben gazdag erődítménynek a lenyűgöző katonai építészetét, és a biztonságos felfedezés érdekében mindenképpen maradjon a kijelölt ösvényeken.",
+            "ro": "Descoperiți arhitectura militară impresionantă a acestei vechi fortărețe bogate în istorie și asigurați-vă că rămâneți pe cărările marcate pentru o explorare complet sigură.",
+            "en": "Discover the impressive military architecture of this ancient and history-rich fortress, making sure to stay strictly on the marked paths to ensure a safe and enjoyable exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitzentrum Imier Comte",
+            "hu": "Imier Comte Szabadidőközpont",
+            "ro": "Baza de Agrement Imier Comte",
+            "en": "Imier Comte Leisure Center"
+          },
+          "coords": [
+            6.869557,
+            47.651234
+          ],
+          "category": "family",
+          "arrive_at": "16:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Verbringen Sie einen aktiven Nachmittag in diesem familienfreundlichen Freizeitzentrum am Wasser, und packen Sie eine kleine Picknickdecke ein, um sich am Ufer auszuruhen.",
+            "hu": "Töltsön el egy aktív délutánt ebben a családbarát vízparti szabadidőközpontban, és csomagoljon be egy pikniktakarót, hogy kényelmesen megpihenhessen a tó partján.",
+            "ro": "Petreceți o după-amiază activă în acest centru de agrement prietenos cu familiile pe malul apei și aduceți o pătură de picnic pentru a vă relaxa confortabil pe mal.",
+            "en": "Spend an active afternoon at this family-friendly waterfront recreation center, and make sure to pack a picnic blanket so you can comfortably rest and relax by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag im ruhigen Parc Francis Bédat, wo die Tiere den perfekten Start bieten, bevor Sie zum Tour 46 fahren. Die Mittagszeit verbringen Sie in der majestätischen Zitadelle und dem benachbarten Tour des Bourgeois. Nachmittags erwartet Sie das historische Fort de la Miotte mit seiner spannenden Architektur. Zum Ausklang fahren Sie bequem zum Base de Loisirs ans Wasser.",
+        "hu": "A napot a csendes Parc Francis Bédat állatparkban kezdi, mielőtt a történelmi Tour 46 múzeumhoz hajtana. A delet a fenséges Citadellában és a szomszédos Tour des Bourgeois-ban tölti, ahol a történelem életre kel. Délután az izgalmas Fort de la Miotte erődítmény felfedezése következik. Zárásként kényelmesen elautózik a Base de Loisirs vízparti szabadidőközpontjába egy kis pihenésre.",
+        "ro": "Veți începe ziua în liniștitul Parc Francis Bédat, perfect pentru o dimineață calmă, înainte de a conduce spre Tour 46. Mijlocul zilei îl veți petrece explorând maiestuoasa Citadelă și vecinul său, Tour des Bourgeois. După-amiaza vă așteaptă cu arhitectura impresionantă de la Fort de la Miotte. Pentru a încheia ziua, conduceți confortabil spre zona de recreere de la Base de Loisirs.",
+        "en": "You begin your day in the peaceful Parc Francis Bédat, offering a calm start before driving to Tour 46. The middle of the day is spent exploring the majestic Citadel and the neighboring Tour des Bourgeois. In the afternoon, the historic Fort de la Miotte awaits with its impressive military architecture. Finally, take a comfortable drive to the Base de Loisirs for some waterfront relaxation."
+      }
+    }
+  }
+}

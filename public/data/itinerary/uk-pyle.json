@@ -1,0 +1,543 @@
+{
+  "city_id": "uk-pyle",
+  "anchor": {
+    "name": "Pyle",
+    "coords": [
+      -3.6933,
+      51.5289
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "St James' Church",
+            "de": "St James' Church",
+            "hu": "St James' Church",
+            "ro": "St James' Church"
+          },
+          "coords": [
+            -3.694505,
+            51.530474
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the medieval architecture of this peaceful parish church and look for the historic stone crosses in the graveyard before continuing your walk.",
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser friedlichen Pfarrkirche und suchen Sie nach den historischen Steinkreuzen auf dem Friedhof, bevor Sie weitergehen.",
+            "hu": "Csodálja meg e békés plébániatemplom középkori építészetét, és keresse meg a történelmi kőkereszteket a temetőben, mielőtt folytatná a sétát.",
+            "ro": "Admirați arhitectura medievală a acestei biserici parohiale pașnice și căutați crucile istorice de piatră în cimitir înainte de a vă continua plimbarea."
+          }
+        },
+        {
+          "name": {
+            "en": "Pyle Railway Station",
+            "de": "Pyle Railway Station",
+            "hu": "Pyle Railway Station",
+            "ro": "Pyle Railway Station"
+          },
+          "coords": [
+            -3.698,
+            51.526
+          ],
+          "category": "station",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Observe the daily rhythm of this historic local transit hub and snap a photo of the arriving trains before walking towards the coastal sights.",
+            "de": "Beobachten Sie den täglichen Rhythmus dieses historischen Nahverkehrsknotenpunkts und fotografieren Sie die ankommenden Züge, bevor Sie zur Küste aufbrechen.",
+            "hu": "Figyelje meg e történelmi helyi közlekedési csomópont napi ritmusát, és készítsen egy fotót az érkező vonatokról, mielőtt a tengerparti látnivalók felé indulna.",
+            "ro": "Observați ritmul zilnic al acestui nod de tranzit local istoric și fotografiați trenurile care sosesc înainte de a merge spre atracțiile de coastă."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Castle",
+            "de": "Kenfig Castle",
+            "hu": "Kenfig Castle",
+            "ro": "Kenfig Castle"
+          },
+          "coords": [
+            -3.730113,
+            51.530284
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "en": "Explore the sand-swept ruins of this once-mighty Norman fortress and bring sturdy shoes to navigate the uneven, dune-covered terrain safely.",
+            "de": "Erkunden Sie die sandverwehten Ruinen dieser einst mächtigen normannischen Festung und bringen Sie festes Schuhwerk mit, um das unebene Dünengelände sicher zu begehen.",
+            "hu": "Fedezze fel ezen egykor hatalmas normann erőd homokfútta romjait, és hozzon erős cipőt, hogy biztonságosan eligazodjon az egyenetlen, dűnékkel borított terepen.",
+            "ro": "Explorați ruinele bătute de nisip ale acestei fortărețe normande cândva mărețe și aduceți încălțăminte robustă pentru a naviga în siguranță pe terenul denivelat."
+          }
+        },
+        {
+          "name": {
+            "en": "Afon Cynffig",
+            "de": "Afon Cynffig",
+            "hu": "Afon Cynffig",
+            "ro": "Afon Cynffig"
+          },
+          "coords": [
+            -3.727941,
+            51.53238
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Listen to the calming flow of this charming local river and pack a small picnic to enjoy on its grassy banks while watching for native water birds.",
+            "de": "Lauschen Sie dem beruhigenden Fluss dieses bezaubernden lokalen Flusses und packen Sie ein kleines Picknick ein, das Sie an den grasbewachsenen Ufern genießen können.",
+            "hu": "Hallgassa e bájos helyi folyó nyugtató folyását, és csomagoljon egy kis pikniket, amelyet a füves partjain élvezhet, miközben őshonos vízimadarakat figyel.",
+            "ro": "Ascultați curgerea liniștitoare a acestui râu local fermecător și pregătiți un mic picnic pentru a-l savura pe malurile sale înierbate, observând păsările."
+          }
+        },
+        {
+          "name": {
+            "en": "Prince of Wales Inn",
+            "de": "Prince of Wales Inn",
+            "hu": "Prince of Wales Inn",
+            "ro": "Prince of Wales Inn"
+          },
+          "coords": [
+            -3.725797,
+            51.522444
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Step back in time at this sixteenth-century tavern and savor a traditional Welsh ale by the roaring fireplace to truly soak up the historic ambiance.",
+            "de": "Machen Sie in dieser Taverne aus dem sechzehnten Jahrhundert eine Zeitreise und genießen Sie ein traditionelles walisisches Ale am knisternden Kaminfeuer.",
+            "hu": "Lépjen vissza az időben ebben a tizenhatodik századi fogadóban, és kóstoljon meg egy hagyományos walesi sört a ropogó kandalló mellett a történelmi hangulatért.",
+            "ro": "Întoarceți-vă în timp la această tavernă din secolul al șaisprezecelea și savurați o bere galeză tradițională lângă șemineul cu lemne pentru a simți istoria."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Nature Reserve",
+            "de": "Kenfig Nature Reserve",
+            "hu": "Kenfig Nature Reserve",
+            "ro": "Kenfig Nature Reserve"
+          },
+          "coords": [
+            -3.727477,
+            51.516202
+          ],
+          "category": "natural",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Wander through one of Europe's most significant sand dune systems and stick to the marked trails to protect the rare orchids blooming in the shifting sands.",
+            "de": "Wandern Sie durch eines der bedeutendsten Sanddünensysteme Europas und bleiben Sie auf den markierten Wegen, um die in den wandernden Sanden blühenden Orchideen zu schützen.",
+            "hu": "Sétáljon végig Európa egyik legjelentősebb homokdűnerendszerén, és maradjon a kijelölt ösvényeken, hogy megvédje a vándorló homokban nyíló ritka orchideákat.",
+            "ro": "Plimbați-vă prin unul dintre cele mai importante sisteme de dune de nisip din Europa și rămâneți pe traseele marcate pentru a proteja orhideele rare."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning begins in the heart of Pyle, exploring its historic parish church and railway heritage. By midday, you'll walk westward to discover the sandy, wind-swept ruins of an ancient Norman castle. The afternoon brings riverside tranquility along Afon Cynffig before a well-earned pint at an iconic sixteenth-century inn. Finally, your day concludes amid the vast, majestic dunes of Kenfig.",
+        "de": "Der Morgen beginnt im Herzen von Pyle, wo Sie die historische Pfarrkirche und das Eisenbahnerbe erkunden. Mittags spazieren Sie nach Westen zu den sandverwehten Ruinen einer alten normannischen Burg. Der Nachmittag bringt Ruhe am Flussufer des Afon Cynffig, bevor Sie in einem legendären Gasthaus einkehren. Schließlich endet Ihr Tag inmitten der riesigen Dünen von Kenfig.",
+        "hu": "A reggel Pyle szívében kezdődik, felfedezve történelmi plébániatemplomát és vasúti örökségét. Délre nyugat felé sétál, hogy felfedezze egy ősi normann kastély homokfútta romjait. A délután folyóparti nyugalmat hoz az Afon Cynffig mentén, mielőtt megiszik egy pintet egy tizenhatodik századi fogadóban. Végül napja Kenfig hatalmas, fenséges dűnéi között ér véget.",
+        "ro": "Dimineața începe în Pyle, explorând biserica parohială istorică și moștenirea feroviară. La prânz, veți merge spre vest pentru a descoperi ruinele bătute de nisip ale unui vechi castel normand. După-amiaza aduce liniște pe malul râului Afon Cynffig înainte de o bere meritată la un han din secolul al șaisprezecelea. În cele din urmă, ziua se încheie printre dunele vaste din Kenfig."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 14.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "St James' Church",
+            "de": "St James' Church",
+            "hu": "St James' Church",
+            "ro": "St James' Church"
+          },
+          "coords": [
+            -3.694505,
+            51.530474
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the medieval architecture of this peaceful parish church and look for the historic stone crosses in the graveyard before continuing your ride.",
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser friedlichen Pfarrkirche und suchen Sie nach den historischen Steinkreuzen auf dem Friedhof, bevor Sie weiterfahren.",
+            "hu": "Csodálja meg e békés plébániatemplom középkori építészetét, és keresse meg a történelmi kőkereszteket a temetőben, mielőtt folytatná az utat.",
+            "ro": "Admirați arhitectura medievală a acestei biserici parohiale pașnice și căutați crucile istorice de piatră în cimitir înainte de a vă continua drumul."
+          }
+        },
+        {
+          "name": {
+            "en": "Margam Abbey",
+            "de": "Margam Abbey",
+            "hu": "Margam Abbey",
+            "ro": "Margam Abbey"
+          },
+          "coords": [
+            -3.729888,
+            51.56238
+          ],
+          "category": "monastic",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "en": "Marvel at the spectacular Gothic windows of this Cistercian monastery and check the visitor center schedule to catch a fascinating guided historical tour.",
+            "de": "Bestaunen Sie die spektakulären gotischen Fenster dieses Zisterzienserklosters und prüfen Sie den Plan des Besucherzentrums für eine faszinierende historische Führung.",
+            "hu": "Csodálja meg ennek a ciszterci kolostornak a látványos gótikus ablakait, és ellenőrizze a látogatóközpont menetrendjét egy lenyűgöző történelmi vezetésért.",
+            "ro": "Admirați ferestrele gotice spectaculoase ale acestei mănăstiri cisterciene și verificați programul centrului de vizitatori pentru un tur istoric ghidat fascinant."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Castle",
+            "de": "Kenfig Castle",
+            "hu": "Kenfig Castle",
+            "ro": "Kenfig Castle"
+          },
+          "coords": [
+            -3.730113,
+            51.530284
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "en": "Explore the sand-swept ruins of this once-mighty Norman fortress and bring sturdy shoes to navigate the uneven, dune-covered terrain safely.",
+            "de": "Erkunden Sie die sandverwehten Ruinen dieser einst mächtigen normannischen Festung und bringen Sie festes Schuhwerk mit, um das unebene Dünengelände sicher zu begehen.",
+            "hu": "Fedezze fel ezen egykor hatalmas normann erőd homokfútta romjait, és hozzon erős cipőt, hogy biztonságosan eligazodjon az egyenetlen, dűnékkel borított terepen.",
+            "ro": "Explorați ruinele bătute de nisip ale acestei fortărețe normande cândva mărețe și aduceți încălțăminte robustă pentru a naviga în siguranță pe terenul denivelat."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Nature Reserve",
+            "de": "Kenfig Nature Reserve",
+            "hu": "Kenfig Nature Reserve",
+            "ro": "Kenfig Nature Reserve"
+          },
+          "coords": [
+            -3.727477,
+            51.516202
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "en": "Wander through one of Europe's most significant sand dune systems and stick to the marked trails to protect the rare orchids blooming in the shifting sands.",
+            "de": "Wandern Sie durch eines der bedeutendsten Sanddünensysteme Europas und bleiben Sie auf den markierten Wegen, um die in den wandernden Sanden blühenden Orchideen zu schützen.",
+            "hu": "Sétáljon végig Európa egyik legjelentősebb homokdűnerendszerén, és maradjon a kijelölt ösvényeken, hogy megvédje a vándorló homokban nyíló ritka orchideákat.",
+            "ro": "Plimbați-vă prin unul dintre cele mai importante sisteme de dune de nisip din Europa și rămâneți pe traseele marcate pentru a proteja orhideele rare."
+          }
+        },
+        {
+          "name": {
+            "en": "Sker House",
+            "de": "Sker House",
+            "hu": "Sker House",
+            "ro": "Sker House"
+          },
+          "coords": [
+            -3.733665,
+            51.503892
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Photograph the striking yellow facade of this legendary Elizabethan manor and read up on its local ghost stories before approaching the dramatic estate.",
+            "de": "Fotografieren Sie die auffällige gelbe Fassade dieses legendären elisabethanischen Herrenhauses und lesen Sie die lokalen Geistergeschichten, bevor Sie sich nähern.",
+            "hu": "Fényképezze le ennek a legendás Erzsébet-kori udvarháznak a feltűnő sárga homlokzatát, és olvasson utána a helyi szellemtörténeteknek, mielőtt közelebb érne.",
+            "ro": "Fotografiați fațada galbenă izbitoare a acestui conac legendar elisabetan și citiți despre poveștile locale cu fantome înainte de a vă apropia de proprietate."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Sands",
+            "de": "Kenfig Sands",
+            "hu": "Kenfig Sands",
+            "ro": "Kenfig Sands"
+          },
+          "coords": [
+            -3.758198,
+            51.521775
+          ],
+          "category": "recreational",
+          "arrive_at": "16:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "en": "Stroll along the expansive sandy shorelines where the dunes meet the ocean and visit during low tide to discover hidden rock pools teeming with marine life.",
+            "de": "Schlendern Sie an den weitläufigen Sandstränden entlang, wo die Dünen auf den Ozean treffen, und besuchen Sie sie bei Ebbe, um versteckte Gezeitentümpel zu entdecken.",
+            "hu": "Sétáljon a kiterjedt homokos partokon, ahol a dűnék találkoznak az óceánnal, és látogasson el apálykor, hogy felfedezze a tengeri élettől nyüzsgő rejtett sziklamedencéket.",
+            "ro": "Plimbați-vă de-a lungul țărmurilor nisipoase întinse unde dunele întâlnesc oceanul și vizitați la reflux pentru a descoperi bazine stâncoase ascunse, pline de viață."
+          }
+        },
+        {
+          "name": {
+            "en": "Sker Beach",
+            "de": "Sker Beach",
+            "hu": "Sker Beach",
+            "ro": "Sker Beach"
+          },
+          "coords": [
+            -3.757867,
+            51.525467
+          ],
+          "category": "recreational",
+          "arrive_at": "17:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Enjoy the raw beauty of this rugged and uncommercialized beach, but be cautious of the strong currents if you plan to wade into the refreshing waters.",
+            "de": "Genießen Sie die raue Schönheit dieses unberührten Strandes, aber achten Sie auf die starken Strömungen, wenn Sie in das erfrischende Wasser waten möchten.",
+            "hu": "Élvezze ennek a zord és érintetlen strandnak a nyers szépségét, de legyen óvatos az erős áramlatokkal, ha a frissítő vízbe szeretne gázolni.",
+            "ro": "Bucurați-vă de frumusețea brută a acestei plaje stâncoase și necomercializate, dar fiți atenți la curenții puternici dacă intenționați să intrați în apă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Kick off your ride at the local church before pedaling through the Welsh countryside to the magnificent Margam Abbey. Midday takes you south towards the shifting sands that conceal the medieval Kenfig Castle ruins. Spend the afternoon cycling around the nature reserve and admiring the imposing yellow Sker House. As evening approaches, the coastal breeze at Sker Beach offers a perfect finish.",
+        "de": "Beginnen Sie Ihre Fahrt an der örtlichen Kirche, bevor Sie zur prächtigen Margam Abbey radeln. Mittags fahren Sie nach Süden zu den wandernden Sanden, die die mittelalterliche Ruine von Kenfig Castle verbergen. Verbringen Sie den Nachmittag damit, das Naturschutzgebiet zu umradeln und das beeindruckende gelbe Sker House zu bewundern. Am Abend bietet die Küstenbrise am Sker Beach den perfekten Abschluss.",
+        "hu": "Kezdje a kerékpározást a helyi templomnál, mielőtt eltekerne a walesi vidéken a csodálatos Margam Apátságig. Délben dél felé indul a vándorló homok felé, amely a középkori Kenfig kastély romjait rejti. A délutánt a természetvédelmi terület körüli kerékpározással és az impozáns sárga Sker House megcsodálásával tölti. Este a Sker Beach part menti szellője tökéletes befejezést kínál.",
+        "ro": "Începeți plimbarea la biserica locală înainte de a pedala prin mediul rural galez până la magnifica Abație Margam. Prânzul vă duce spre sud, spre nisipurile care ascund ruinele medievale ale Castelului Kenfig. Petreceți după-amiaza cu bicicleta în jurul rezervației naturale și admirând impunătoarea Sker House. Seara, briza de coastă de la Sker Beach oferă un final perfect."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:26",
+      "total_km": 20.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "en": "Cefn Cribwr Ironworks",
+            "de": "Cefn Cribwr Ironworks",
+            "hu": "Cefn Cribwr Ironworks",
+            "ro": "Cefn Cribwr Ironworks"
+          },
+          "coords": [
+            -3.6581,
+            51.538256
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Discover the fascinating industrial heritage of South Wales at these preserved furnaces and wear boots as the surrounding parkland can be muddy after rain.",
+            "de": "Entdecken Sie das faszinierende industrielle Erbe Südwales an diesen erhaltenen Hochöfen und tragen Sie Stiefel, da die umliegende Parklandschaft nach Regen matschig sein kann.",
+            "hu": "Fedezze fel Dél-Wales lenyűgöző ipari örökségét ezeknél a megőrzött kemencéknél, és viseljen csizmát, mivel a környező parkosított terület sár lehet eső után.",
+            "ro": "Descoperiți fascinanta moștenire industrială a Țării Galilor de Sud la aceste cuptoare conservate și purtați cizme, deoarece parcul din jur poate fi noroios."
+          }
+        },
+        {
+          "name": {
+            "en": "St James' Church",
+            "de": "St James' Church",
+            "hu": "St James' Church",
+            "ro": "St James' Church"
+          },
+          "coords": [
+            -3.694505,
+            51.530474
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "en": "Admire the medieval architecture of this peaceful parish church and look for the historic stone crosses in the graveyard before continuing your drive.",
+            "de": "Bewundern Sie die mittelalterliche Architektur dieser friedlichen Pfarrkirche und suchen Sie nach den historischen Steinkreuzen auf dem Friedhof, bevor Sie weiterfahren.",
+            "hu": "Csodálja meg e békés plébániatemplom középkori építészetét, és keresse meg a történelmi kőkereszteket a temetőben, mielőtt folytatná az utat.",
+            "ro": "Admirați arhitectura medievală a acestei biserici parohiale pașnice și căutați crucile istorice de piatră în cimitir înainte de a vă continua drumul."
+          }
+        },
+        {
+          "name": {
+            "en": "Margam Abbey",
+            "de": "Margam Abbey",
+            "hu": "Margam Abbey",
+            "ro": "Margam Abbey"
+          },
+          "coords": [
+            -3.729888,
+            51.56238
+          ],
+          "category": "monastic",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "en": "Marvel at the spectacular Gothic windows of this Cistercian monastery and check the visitor center schedule to catch a fascinating guided historical tour.",
+            "de": "Bestaunen Sie die spektakulären gotischen Fenster dieses Zisterzienserklosters und prüfen Sie den Plan des Besucherzentrums für eine faszinierende historische Führung.",
+            "hu": "Csodálja meg ennek a ciszterci kolostornak a látványos gótikus ablakait, és ellenőrizze a látogatóközpont menetrendjét egy lenyűgöző történelmi vezetésért.",
+            "ro": "Admirați ferestrele gotice spectaculoase ale acestei mănăstiri cisterciene și verificați programul centrului de vizitatori pentru un tur istoric ghidat fascinant."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Castle",
+            "de": "Kenfig Castle",
+            "hu": "Kenfig Castle",
+            "ro": "Kenfig Castle"
+          },
+          "coords": [
+            -3.730113,
+            51.530284
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "en": "Explore the sand-swept ruins of this once-mighty Norman fortress and bring sturdy shoes to navigate the uneven, dune-covered terrain safely.",
+            "de": "Erkunden Sie die sandverwehten Ruinen dieser einst mächtigen normannischen Festung und bringen Sie festes Schuhwerk mit, um das unebene Dünengelände sicher zu begehen.",
+            "hu": "Fedezze fel ezen egykor hatalmas normann erőd homokfútta romjait, és hozzon erős cipőt, hogy biztonságosan eligazodjon az egyenetlen, dűnékkel borított terepen.",
+            "ro": "Explorați ruinele bătute de nisip ale acestei fortărețe normande cândva mărețe și aduceți încălțăminte robustă pentru a naviga în siguranță pe terenul denivelat."
+          }
+        },
+        {
+          "name": {
+            "en": "Prince of Wales Inn",
+            "de": "Prince of Wales Inn",
+            "hu": "Prince of Wales Inn",
+            "ro": "Prince of Wales Inn"
+          },
+          "coords": [
+            -3.725797,
+            51.522444
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Step back in time at this sixteenth-century tavern and savor a traditional Welsh ale by the roaring fireplace to truly soak up the historic ambiance.",
+            "de": "Machen Sie in dieser Taverne aus dem sechzehnten Jahrhundert eine Zeitreise und genießen Sie ein traditionelles walisisches Ale am knisternden Kaminfeuer.",
+            "hu": "Lépjen vissza az időben ebben a tizenhatodik századi fogadóban, és kóstoljon meg egy hagyományos walesi sört a ropogó kandalló mellett a történelmi hangulatért.",
+            "ro": "Întoarceți-vă în timp la această tavernă din secolul al șaisprezecelea și savurați o bere galeză tradițională lângă șemineul cu lemne pentru a simți istoria."
+          }
+        },
+        {
+          "name": {
+            "en": "Kenfig Nature Reserve",
+            "de": "Kenfig Nature Reserve",
+            "hu": "Kenfig Nature Reserve",
+            "ro": "Kenfig Nature Reserve"
+          },
+          "coords": [
+            -3.727477,
+            51.516202
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Wander through one of Europe's most significant sand dune systems and stick to the marked trails to protect the rare orchids blooming in the shifting sands.",
+            "de": "Wandern Sie durch eines der bedeutendsten Sanddünensysteme Europas und bleiben Sie auf den markierten Wegen, um die in den wandernden Sanden blühenden Orchideen zu schützen.",
+            "hu": "Sétáljon végig Európa egyik legjelentősebb homokdűnerendszerén, és maradjon a kijelölt ösvényeken, hogy megvédje a vándorló homokban nyíló ritka orchideákat.",
+            "ro": "Plimbați-vă prin unul dintre cele mai importante sisteme de dune de nisip din Europa și rămâneți pe traseele marcate pentru a proteja orhideele rare."
+          }
+        },
+        {
+          "name": {
+            "en": "Sker Beach",
+            "de": "Sker Beach",
+            "hu": "Sker Beach",
+            "ro": "Sker Beach"
+          },
+          "coords": [
+            -3.757867,
+            51.525467
+          ],
+          "category": "recreational",
+          "arrive_at": "17:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "en": "Enjoy the raw beauty of this rugged and uncommercialized beach, but be cautious of the strong currents if you plan to wade into the refreshing waters.",
+            "de": "Genießen Sie die raue Schönheit dieses unberührten Strandes, aber achten Sie auf die starken Strömungen, wenn Sie in das erfrischende Wasser waten möchten.",
+            "hu": "Élvezze ennek a zord és érintetlen strandnak a nyers szépségét, de legyen óvatos az erős áramlatokkal, ha a frissítő vízbe szeretne gázolni.",
+            "ro": "Bucurați-vă de frumusețea brută a acestei plaje stâncoase și necomercializate, dar fiți atenți la curenții puternici dacă intenționați să intrați în apă."
+          }
+        },
+        {
+          "name": {
+            "en": "Parc Stormy",
+            "de": "Parc Stormy",
+            "hu": "Parc Stormy",
+            "ro": "Parc Stormy"
+          },
+          "coords": [
+            -3.670772,
+            51.50733
+          ],
+          "category": "recreational",
+          "arrive_at": "18:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "en": "Unwind in this innovative eco-park that showcases renewable energy projects, and grab a locally sourced snack at the visitor cafe to support sustainability.",
+            "de": "Entspannen Sie sich in diesem innovativen Ökopark, der Projekte für erneuerbare Energien präsentiert, und holen Sie sich einen lokalen Snack im Besucher-Café.",
+            "hu": "Pihenjen ebben az innovatív ökoparkban, amely megújuló energia projekteket mutat be, és vegyen egy helyi alapanyagokból készült falatot a látogatói kávézóban.",
+            "ro": "Relaxați-vă în acest eco-parc inovator care prezintă proiecte de energie regenerabilă și luați o gustare locală la cafeneaua vizitatorilor pentru a susține sustenabilitatea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your scenic drive at the fascinating remnants of local ironworks, then pause at the town's charming medieval church. Around midday, marvel at the incredible architecture of a historic abbey before exploring a castle swallowed by dunes. The afternoon invites a relaxing break at an ancient tavern followed by a gentle nature walk. Your journey wraps up with sunset coastal views and an eco-park visit.",
+        "de": "Beginnen Sie Ihre malerische Fahrt bei den Überresten lokaler Eisenwerke und halten Sie dann an der charmanten mittelalterlichen Kirche der Stadt. Bewundern Sie mittags eine historische Abtei, bevor Sie eine von Dünen verschluckte Burg erkunden. Der Nachmittag lädt zu einer Pause in einer alten Taverne ein, gefolgt von einem Spaziergang in der Natur. Ihre Reise endet mit Küstenblicken bei Sonnenuntergang.",
+        "hu": "Kezdje festői autózását a helyi vasmű lenyűgöző maradványainál, majd álljon meg a város bájos középkori templománál. Dél körül csodálja meg egy történelmi apátság építészetét, mielőtt felfedezne egy dűnék által elnyelt kastélyt. A délután pihentető szünetre hív egy ősi fogadóban, majd egy kellemes sétára a természetben. Utazása naplementekor ér véget a tengerparti kilátással.",
+        "ro": "Începeți călătoria panoramică la rămășițele fascinante ale fierăriilor locale, apoi opriți-vă la fermecătoarea biserică medievală. La prânz, admirați arhitectura unei abații istorice înainte de a explora un castel înghițit de dune. După-amiaza vă invită la o pauză relaxantă într-o tavernă antică, urmată de o plimbare în natură. Călătoria se încheie cu vederi la coastă la apus."
+      }
+    }
+  }
+}

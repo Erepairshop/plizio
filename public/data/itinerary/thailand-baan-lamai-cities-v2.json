@@ -1,0 +1,543 @@
+{
+  "city_id": "thailand-baan-lamai-cities-v2",
+  "anchor": {
+    "name": "Baan Lamai",
+    "coords": [
+      100.04598,
+      9.47
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Lamai",
+            "hu": "Wat Lamai",
+            "ro": "Wat Lamai",
+            "en": "Wat Lamai"
+          },
+          "coords": [
+            100.042473,
+            9.474145
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Inselleben in diesem kulturellen Tempelkomplex mit Museum, aber achten Sie auf bedeckte Schultern und Knie.",
+            "hu": "Fedezd fel a hagyományos szigeti életet ebben a kulturális templomkomplexumban és múzeumban, de ügyelj arra, hogy a vállad és a térded takarva legyen.",
+            "ro": "Descoperiți viața tradițională a insulei în acest complex de temple și muzeu cultural, dar asigurați-vă că purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Discover traditional island life at this cultural temple complex and museum, but be sure to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Koko Galerie",
+            "hu": "Koko galéria",
+            "ro": "Galeria Koko",
+            "en": "Koko galery"
+          },
+          "coords": [
+            100.04361,
+            9.464216
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stöbern Sie in dieser charmanten Galerie nach einzigartiger lokaler Kunst und handgefertigten Souvenirs und fragen Sie die freundlichen Künstler nach ihren Techniken.",
+            "hu": "Böngéssz az egyedi helyi művészeti alkotások és kézműves ajándéktárgyak között ebben a bájos galériában, és bátran kérdezd meg a barátságos művészeket a technikáikról.",
+            "ro": "Răsfoiți artă locală unică și suveniruri lucrate manual la această galerie fermecătoare și nu ezitați să întrebați artiștii prietenoși despre tehnicile lor.",
+            "en": "Browse through unique local art and handcrafted souvenirs at this charming gallery, and don't hesitate to ask the friendly artists about their inspiring techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Beach",
+            "hu": "Lamai Beach",
+            "ro": "Plaja Lamai",
+            "en": "Lamai Beach"
+          },
+          "coords": [
+            100.048999,
+            9.464741
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weichen, goldenen Sand dieser langen, malerischen Küste, die perfekte Badebedingungen bietet, wobei morgendliche Besuche die intensive Nachmittagssonne vermeiden.",
+            "hu": "Pihenj ennek a hosszú, festői partvonalnak a puha, aranyhomokos strandján, amely tökéletes fürdőhely, bár a reggeli látogatások segítenek elkerülni az erős délutáni napsütést.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei coaste lungi și pitorești, care oferă un mediu perfect pentru înot, deși vizitele de dimineață ajută la evitarea soarelui intens.",
+            "en": "Relax on the soft golden sands of this long, scenic coastline which offers a perfect swimming environment, though morning visits help avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Valentinsstein",
+            "hu": "Valentin-kő",
+            "ro": "Piatra Valentine",
+            "en": "Valentine Stone"
+          },
+          "coords": [
+            100.036689,
+            9.458692
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem romantischen, herzförmigen Felsbrocken im tropischen Dschungel und machen Sie ein schnelles Foto, bevor Sie Ihre malerische Wanderung zum Hauptaussichtspunkt fortsetzen.",
+            "hu": "Tarts szünetet ennél a trópusi dzsungelben megbúvó, romantikus szív alakú sziklánál, és készíts egy gyors fotót, mielőtt folytatnád a festői túrát a fő kilátóhoz.",
+            "ro": "Faceți o pauză la acest bolovan romantic în formă de inimă, cuibărit în jungla tropicală, și faceți o fotografie rapidă înainte de a vă continua drumeția pitorească.",
+            "en": "Pause at this romantically heart-shaped boulder nestled in the tropical jungle, and take a quick photo before continuing your scenic hike up to the main viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Viewpoint",
+            "hu": "Lamai kilátó",
+            "ro": "Lamai Viewpoint",
+            "en": "Lamai Viewpoint"
+          },
+          "coords": [
+            100.035552,
+            9.458754
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform einen atemberaubenden Panoramablick auf die gesamte Ostküste und ziehen Sie in Betracht, die kleine Gebühr für die Fahrt mit der Standseilbahn nach unten zu zahlen.",
+            "hu": "Élvezd a lélegzetelállító panorámát a teljes keleti partvonalra erről a megemelt platformról, és érdemes kifizetni azt a kis díjat is, hogy a siklóval menj lefelé.",
+            "ro": "Admirați vederi panoramice uluitoare ale întregii coaste de est de pe această platformă ridicată și luați în considerare plata micii taxe pentru a coborî cu funicularul.",
+            "en": "Take in breathtaking panoramic views of the entire eastern coastline from this elevated platform, and consider paying the small fee to ride the funicular back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmutter- und Großvaterfelsen",
+            "hu": "Nagymama és nagypapa sziklák",
+            "ro": "Stâncile Bunica și Bunicul",
+            "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+          },
+          "coords": [
+            100.039038,
+            9.451826
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese berühmten, natürlich geformten Felsen, die der männlichen und weiblichen Anatomie ähneln, aber kommen Sie früh, um die riesigen Reisegruppen zu meiden.",
+            "hu": "Csodáld meg ezeket a híres, természetesen formált sziklákat, amelyek férfi és női anatómiára hasonlítanak, de érkezz korán, hogy elkerüld a hatalmas turistacsoportokat.",
+            "ro": "Minunați-vă de aceste celebre stânci sculptate natural, care seamănă cu anatomia masculină și feminină, dar ajungeți devreme pentru a evita aglomerația grupurilor de turiști.",
+            "en": "Marvel at these famous naturally sculpted rocks that resemble male and female anatomy, but arrive early to avoid the massive tour group crowds at this iconic site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in die lokale Kultur im Wat Lamai, gefolgt von einzigartiger Kunst in der Koko Galerie. Die Mittagszeit verbringen Sie am goldenen Ufer des Lamai Beach, wo weicher Sand und sanfte Wellen zum Entspannen einladen. Der Nachmittag wird abenteuerlich, wenn Sie am Valentinsstein vorbei zum spektakulären Lamai Viewpoint wandern. Der Abend bricht bei den legendären Großmutter- und Großvaterfelsen herein und bietet eine unvergessliche Sonnenuntergangsstimmung.",
+        "hu": "A reggel a helyi kultúra felfedezésével indul a Wat Lamai templomban, majd egyedi művészeti alkotásokat csodálhatsz meg a Koko galériában. A délidőt a Lamai Beach aranyhomokos partján töltheted, ahol a lágy hullámok pihenésre csábítanak. A délután izgalmas kalandot ígér, ahogy a dzsungelben megbúvó Valentin-kő mellett elhaladva feljutsz a látványos Lamai kilátóhoz. Az este a nagymama és nagypapa szikláknál ér utol, felejthetetlen naplemente élményt nyújtva.",
+        "ro": "Dimineața începe cu o explorare a culturii locale la Wat Lamai, urmată de descoperirea artei unice la galeria Koko. La amiază vă puteți relaxa pe țărmurile aurii ale plajei Lamai, unde nisipul fin și valurile blânde vă invită la odihnă. După-amiaza devine aventuroasă pe măsură ce treceți pe lângă Piatra Valentine din junglă pentru a ajunge la spectaculosul Lamai Viewpoint. Seara coboară la faimoasele stânci Bunica și Bunicul, oferind o atmosferă memorabilă la apus.",
+        "en": "Morning begins with a deep dive into local culture at Wat Lamai, followed by exploring unique artistic expressions at the quaint Koko galery. Midday transitions to the golden shores of Lamai Beach, where soft sands and gentle waves invite you to unwind completely. Afternoon shifts to adventure as you trek past the jungle-clad Valentine Stone to reach the spectacular Lamai Viewpoint. Evening descends at the iconic Grandma and Grandpa Rocks, providing a memorable sunset atmosphere against the coastal horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Silver Beach",
+            "hu": "Silver Beach",
+            "ro": "Plaja Silver",
+            "en": "Silver Beach"
+          },
+          "coords": [
+            100.067306,
+            9.477405
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare, flache Wasser und den unberührten weißen Sand dieser versteckten Bucht, die sich ideal zum Schnorcheln eignet, wenn Sie Ihre eigene Ausrüstung mitbringen.",
+            "hu": "Élvezd a kristálytiszta sekély vizet és az érintetlen fehér homokot ebben a rejtett öbölben, amely ideális a sznorkelezéshez, ha hozod a saját felszerelésedet.",
+            "ro": "Bucurați-vă de apele cristaline puțin adânci și de nisipul alb imaculat al acestui golf ascuns, care este ideal pentru snorkeling dacă vă aduceți propriul echipament.",
+            "en": "Enjoy the crystal-clear shallow waters and pristine white sand of this hidden cove, which is ideal for snorkeling if you bring your own gear to explore the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lamai",
+            "hu": "Wat Lamai",
+            "ro": "Wat Lamai",
+            "en": "Wat Lamai"
+          },
+          "coords": [
+            100.042473,
+            9.474145
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Inselleben in diesem kulturellen Tempelkomplex mit Museum, aber achten Sie auf bedeckte Schultern und Knie.",
+            "hu": "Fedezd fel a hagyományos szigeti életet ebben a kulturális templomkomplexumban és múzeumban, de ügyelj arra, hogy a vállad és a térded takarva legyen.",
+            "ro": "Descoperiți viața tradițională a insulei în acest complex de temple și muzeu cultural, dar asigurați-vă că purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Discover traditional island life at this cultural temple complex and museum, but be sure to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Beach",
+            "hu": "Lamai Beach",
+            "ro": "Plaja Lamai",
+            "en": "Lamai Beach"
+          },
+          "coords": [
+            100.048999,
+            9.464741
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weichen, goldenen Sand dieser langen, malerischen Küste, die perfekte Badebedingungen bietet, wobei morgendliche Besuche die intensive Nachmittagssonne vermeiden.",
+            "hu": "Pihenj ennek a hosszú, festői partvonalnak a puha, aranyhomokos strandján, amely tökéletes fürdőhely, bár a reggeli látogatások segítenek elkerülni az erős délutáni napsütést.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei coaste lungi și pitorești, care oferă un mediu perfect pentru înot, deși vizitele de dimineață ajută la evitarea soarelui intens.",
+            "en": "Relax on the soft golden sands of this long, scenic coastline which offers a perfect swimming environment, though morning visits help avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Koko Galerie",
+            "hu": "Koko galéria",
+            "ro": "Galeria Koko",
+            "en": "Koko galery"
+          },
+          "coords": [
+            100.04361,
+            9.464216
+          ],
+          "category": "museum",
+          "arrive_at": "12:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie in dieser charmanten Galerie nach einzigartiger lokaler Kunst und handgefertigten Souvenirs und fragen Sie die freundlichen Künstler nach ihren Techniken.",
+            "hu": "Böngéssz az egyedi helyi művészeti alkotások és kézműves ajándéktárgyak között ebben a bájos galériában, és bátran kérdezd meg a barátságos művészeket a technikáikról.",
+            "ro": "Răsfoiți artă locală unică și suveniruri lucrate manual la această galerie fermecătoare și nu ezitați să întrebați artiștii prietenoși despre tehnicile lor.",
+            "en": "Browse through unique local art and handcrafted souvenirs at this charming gallery, and don't hesitate to ask the friendly artists about their inspiring techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Cobra Stone Viewpoint",
+            "hu": "Kobra-kő kilátó",
+            "ro": "Cobra Stone Viewpoint",
+            "en": "Cobra Stone Viewpoint"
+          },
+          "coords": [
+            100.029893,
+            9.461152
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser einzigartigen schlangenförmigen Felsformation für eine ruhigere Perspektive auf den Dschungel und tragen Sie feste Wanderschuhe für den rutschigen Weg.",
+            "hu": "Túrázz fel ehhez az egyedi, kígyó alakú sziklaképződményhez a dzsungel nyugodtabb látványáért, és viselj masszív cipőt, mivel a földút meglehetősen csúszós lehet.",
+            "ro": "Urcați la această formațiune stâncoasă unică în formă de șarpe pentru o perspectivă mai liniștită a junglei și purtați pantofi de mers pe jos rezistenți pentru poteca alunecoasă.",
+            "en": "Hike up to this unique snake-shaped rock formation for a quieter perspective of the jungle, and wear sturdy walking shoes since the dirt path can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Viewpoint",
+            "hu": "Lamai kilátó",
+            "ro": "Lamai Viewpoint",
+            "en": "Lamai Viewpoint"
+          },
+          "coords": [
+            100.035552,
+            9.458754
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform einen atemberaubenden Panoramablick auf die gesamte Ostküste und ziehen Sie in Betracht, die kleine Gebühr für die Fahrt mit der Standseilbahn nach unten zu zahlen.",
+            "hu": "Élvezd a lélegzetelállító panorámát a teljes keleti partvonalra erről a megemelt platformról, és érdemes kifizetni azt a kis díjat is, hogy a siklóval menj lefelé.",
+            "ro": "Admirați vederi panoramice uluitoare ale întregii coaste de est de pe această platformă ridicată și luați în considerare plata micii taxe pentru a coborî cu funicularul.",
+            "en": "Take in breathtaking panoramic views of the entire eastern coastline from this elevated platform, and consider paying the small fee to ride the funicular back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmutter- und Großvaterfelsen",
+            "hu": "Nagymama és nagypapa sziklák",
+            "ro": "Stâncile Bunica și Bunicul",
+            "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+          },
+          "coords": [
+            100.039038,
+            9.451826
+          ],
+          "category": "landmark",
+          "arrive_at": "15:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese berühmten, natürlich geformten Felsen, die der männlichen und weiblichen Anatomie ähneln, aber kommen Sie früh, um die riesigen Reisegruppen zu meiden.",
+            "hu": "Csodáld meg ezeket a híres, természetesen formált sziklákat, amelyek férfi és női anatómiára hasonlítanak, de érkezz korán, hogy elkerüld a hatalmas turistacsoportokat.",
+            "ro": "Minunați-vă de aceste celebre stânci sculptate natural, care seamănă cu anatomia masculină și feminină, dar ajungeți devreme pentru a evita aglomerația grupurilor de turiști.",
+            "en": "Marvel at these famous naturally sculpted rocks that resemble male and female anatomy, but arrive early to avoid the massive tour group crowds at this iconic site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen lädt zu einer Radtour zum unberührten Silver Beach ein, gefolgt von einem Besuch des wunderschönen Tempelkomplexes Wat Lamai. Die Mittagszeit bietet Entspannung an der weitläufigen Küste des Lamai Beach, bevor Sie in der Koko Galerie in die lokale Handwerkskunst eintauchen. Am Nachmittag radeln Sie bergauf zum Cobra Stone Viewpoint und dem Lamai Viewpoint. Der Abend rundet Ihre Reise an den berühmten Großmutter- und Großvaterfelsen ab, die im schwächer werdenden Licht leuchten.",
+        "hu": "A reggel egy kerékpáros túrára hív a Silver Beach érintetlen homokjához, majd a gyönyörű Wat Lamai templomkomplexum meglátogatása következik. A délidő bőséges kikapcsolódást kínál a Lamai Beach kiterjedt partvonalán, mielőtt elmerülnél a Koko galéria kincseiben. A délután izgalmas emelkedőket tartogat, hogy felfedezd a Kobra-kő kilátót és a pazar Lamai kilátót. Az este a híres nagymama és nagypapa szikláknál zárja a túrát, amelyek melegen ragyognak az alkonyati fényben.",
+        "ro": "Dimineața vă invită să pedalați spre nisipurile imaculate ale plajei Silver, urmată de o vizită spirituală senină la complexul de temple Wat Lamai. Amiaza oferă relaxare pe coasta extinsă a plajei Lamai înainte de a descoperi meșteșugurile locale la galeria Koko. După-amiaza implică o pedalare palpitantă la deal pentru a descoperi Cobra Stone Viewpoint și priveliștile ample de la Lamai Viewpoint. Seara vă încheie călătoria la faimoasele stânci Bunica și Bunicul, la apus.",
+        "en": "Morning invites you to cycle towards the pristine sands of Silver Beach, followed by a serene spiritual visit to the beautiful Wat Lamai temple complex. Midday offers ample relaxation on the expansive coastline of Lamai Beach before diving into local crafts at Koko galery. Afternoon involves an exciting uphill pedal to discover the peculiar Cobra Stone Viewpoint and the sweeping Lamai Viewpoint. Evening wraps up your journey at the famous Grandma and Grandpa Rocks, glowing warmly in the fading coastal light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 9.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Golf Club Viewpoint",
+            "hu": "Golf Club kilátó",
+            "ro": "Golf Club Viewpoint",
+            "en": "Golf Club Viewpoint"
+          },
+          "coords": [
+            100.0594,
+            9.477975
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem friedlichen Aussichtspunkt aus den weiten Blick auf die nördlichen tropischen Hügel, obwohl die steile Zufahrtsstraße beim Rollerfahren Vorsicht erfordert.",
+            "hu": "Gyönyörködj az északi trópusi hegyoldalakra nyíló pazar kilátásban erről a békés pontról, bár a meredek felhajtó óvatos vezetést igényel, ha robogót bérelsz.",
+            "ro": "Bucurați-vă de priveliști ample ale dealurilor tropicale nordice de la acest punct de observație liniștit, deși drumul de acces abrupt necesită o conducere precaută.",
+            "en": "Soak up sweeping vistas of the northern tropical hillsides from this peaceful vantage point, though the steep access road requires cautious driving if you rent a scooter."
+          }
+        },
+        {
+          "name": {
+            "de": "Silver Beach",
+            "hu": "Silver Beach",
+            "ro": "Plaja Silver",
+            "en": "Silver Beach"
+          },
+          "coords": [
+            100.067306,
+            9.477405
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare, flache Wasser und den unberührten weißen Sand dieser versteckten Bucht, die sich ideal zum Schnorcheln eignet, wenn Sie Ihre eigene Ausrüstung mitbringen.",
+            "hu": "Élvezd a kristálytiszta sekély vizet és az érintetlen fehér homokot ebben a rejtett öbölben, amely ideális a sznorkelezéshez, ha hozod a saját felszerelésedet.",
+            "ro": "Bucurați-vă de apele cristaline puțin adânci și de nisipul alb imaculat al acestui golf ascuns, care este ideal pentru snorkeling dacă vă aduceți propriul echipament.",
+            "en": "Enjoy the crystal-clear shallow waters and pristine white sand of this hidden cove, which is ideal for snorkeling if you bring your own gear to explore the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lamai",
+            "hu": "Wat Lamai",
+            "ro": "Wat Lamai",
+            "en": "Wat Lamai"
+          },
+          "coords": [
+            100.042473,
+            9.474145
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Inselleben in diesem kulturellen Tempelkomplex mit Museum, aber achten Sie auf bedeckte Schultern und Knie.",
+            "hu": "Fedezd fel a hagyományos szigeti életet ebben a kulturális templomkomplexumban és múzeumban, de ügyelj arra, hogy a vállad és a térded takarva legyen.",
+            "ro": "Descoperiți viața tradițională a insulei în acest complex de temple și muzeu cultural, dar asigurați-vă că purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Discover traditional island life at this cultural temple complex and museum, but be sure to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Beach",
+            "hu": "Lamai Beach",
+            "ro": "Plaja Lamai",
+            "en": "Lamai Beach"
+          },
+          "coords": [
+            100.048999,
+            9.464741
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im weichen, goldenen Sand dieser langen, malerischen Küste, die perfekte Badebedingungen bietet, wobei morgendliche Besuche die intensive Nachmittagssonne vermeiden.",
+            "hu": "Pihenj ennek a hosszú, festői partvonalnak a puha, aranyhomokos strandján, amely tökéletes fürdőhely, bár a reggeli látogatások segítenek elkerülni az erős délutáni napsütést.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei coaste lungi și pitorești, care oferă un mediu perfect pentru înot, deși vizitele de dimineață ajută la evitarea soarelui intens.",
+            "en": "Relax on the soft golden sands of this long, scenic coastline which offers a perfect swimming environment, though morning visits help avoid the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Cobra Stone Viewpoint",
+            "hu": "Kobra-kő kilátó",
+            "ro": "Cobra Stone Viewpoint",
+            "en": "Cobra Stone Viewpoint"
+          },
+          "coords": [
+            100.029893,
+            9.461152
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser einzigartigen schlangenförmigen Felsformation für eine ruhigere Perspektive auf den Dschungel und tragen Sie feste Wanderschuhe für den rutschigen Weg.",
+            "hu": "Túrázz fel ehhez az egyedi, kígyó alakú sziklaképződményhez a dzsungel nyugodtabb látványáért, és viselj masszív cipőt, mivel a földút meglehetősen csúszós lehet.",
+            "ro": "Urcați la această formațiune stâncoasă unică în formă de șarpe pentru o perspectivă mai liniștită a junglei și purtați pantofi de mers pe jos rezistenți pentru poteca alunecoasă.",
+            "en": "Hike up to this unique snake-shaped rock formation for a quieter perspective of the jungle, and wear sturdy walking shoes since the dirt path can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lamai Viewpoint",
+            "hu": "Lamai kilátó",
+            "ro": "Lamai Viewpoint",
+            "en": "Lamai Viewpoint"
+          },
+          "coords": [
+            100.035552,
+            9.458754
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Plattform einen atemberaubenden Panoramablick auf die gesamte Ostküste und ziehen Sie in Betracht, die kleine Gebühr für die Fahrt mit der Standseilbahn nach unten zu zahlen.",
+            "hu": "Élvezd a lélegzetelállító panorámát a teljes keleti partvonalra erről a megemelt platformról, és érdemes kifizetni azt a kis díjat is, hogy a siklóval menj lefelé.",
+            "ro": "Admirați vederi panoramice uluitoare ale întregii coaste de est de pe această platformă ridicată și luați în considerare plata micii taxe pentru a coborî cu funicularul.",
+            "en": "Take in breathtaking panoramic views of the entire eastern coastline from this elevated platform, and consider paying the small fee to ride the funicular back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Großmutter- und Großvaterfelsen",
+            "hu": "Nagymama és nagypapa sziklák",
+            "ro": "Stâncile Bunica și Bunicul",
+            "en": "Hin Ta & Hin Yai (Grandma and Grandpa Rocks)"
+          },
+          "coords": [
+            100.039038,
+            9.451826
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese berühmten, natürlich geformten Felsen, die der männlichen und weiblichen Anatomie ähneln, aber kommen Sie früh, um die riesigen Reisegruppen zu meiden.",
+            "hu": "Csodáld meg ezeket a híres, természetesen formált sziklákat, amelyek férfi és női anatómiára hasonlítanak, de érkezz korán, hogy elkerüld a hatalmas turistacsoportokat.",
+            "ro": "Minunați-vă de aceste celebre stânci sculptate natural, care seamănă cu anatomia masculină și feminină, dar ajungeți devreme pentru a evita aglomerația grupurilor de turiști.",
+            "en": "Marvel at these famous naturally sculpted rocks that resemble male and female anatomy, but arrive early to avoid the massive tour group crowds at this iconic site."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sila Ngu",
+            "hu": "Wat Sila Ngu",
+            "ro": "Wat Sila Ngu",
+            "en": "Wat Sila Ngu"
+          },
+          "coords": [
+            100.030832,
+            9.451267
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante rote Tonarchitektur dieses buddhistischen Küstentempels und nehmen Sie sich einen Moment Zeit, um die ruhige Meeresbrise auf der Terrasse zu genießen.",
+            "hu": "Csodáld meg ennek a tengerparti buddhista templomnak a lenyűgöző vörös agyag építészetét, és tölts el egy percet a nyugodt tengeri szellő élvezetével a teraszáról.",
+            "ro": "Admirați arhitectura uimitoare din argilă roșie a acestui templu budist de coastă și acordați-vă un moment pentru a vă bucura de briza liniștită a oceanului de pe terasa sa.",
+            "en": "Admire the striking red clay architecture of this coastal Buddhist temple, and take a moment to enjoy the tranquil ocean breeze from its beautiful seaside terrace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zum Golf Club Viewpoint und führt schnell zum versteckten Schnorchelparadies Silver Beach. Die Mittagszeit verbindet die spirituelle Ruhe von Wat Lamai mit eine erholsamen Strandpause an den zentralen Abschnitten des Lamai Beach. Am Nachmittag fahren Sie in Richtung Süden, um die Dschungelpanoramen am Cobra Stone und Lamai Viewpoint zu erobern. Der Abend endet perfekt an den legendären Großmutter- und Großvaterfelsen und einem Stopp am Wat Sila Ngu.",
+        "hu": "A reggel egy kényelmes autózással indul a Golf Klub kilátóhoz, majd a Silver Beach rejtett sznorkelező paradicsomához vezet. A délidő elegánsan ötvözi a Wat Lamai spirituális nyugalmát egy pihentető tengerparti szünettel a Lamai Beach központi részein. A délután egy festői dél felé vezető utat kínál a Kobra-kő és a Lamai kilátók dzsungelpanorámájának meghódítására. Az este a nagymama és nagypapa sziklák megcsodálásával, majd a lenyűgöző Wat Sila Ngu templommal zárul.",
+        "ro": "Dimineața începe cu o plimbare ușoară spre Golf Club Viewpoint, trecând rapid la paradisul ascuns de snorkeling de la Silver Beach. Amiaza combină grațios liniștea de la Wat Lamai cu o pauză relaxantă pe porțiunile centrale ale plajei Lamai. După-amiaza vă poartă într-o plimbare pitorească spre sud pentru a cuceri panoramele junglei la Cobra Stone și Lamai Viewpoint. Seara se încheie perfect la stâncile Bunica și Bunicul, înainte de a vă opri la uimitorul Wat Sila Ngu.",
+        "en": "Morning starts with an easy drive to the elevated Golf Club Viewpoint, swiftly moving to the hidden snorkeling paradise of Silver Beach. Midday gracefully combines the spiritual tranquility of Wat Lamai with a relaxing beach break along the central stretches of Lamai Beach. Afternoon features a scenic drive south to conquer the jungle panoramas at both the Cobra Stone and Lamai Viewpoints. Evening concludes perfectly by marveling at the iconic Grandma and Grandpa Rocks before stopping by the striking Wat Sila Ngu."
+      }
+    }
+  }
+}

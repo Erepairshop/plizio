@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-la-maddalena-cities-v2",
+  "anchor": {
+    "name": "La Maddalena",
+    "coords": [
+      9.40833,
+      41.21424
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:44",
+      "total_km": 1.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Busto Maggior Leggero",
+            "hu": "Maggior Leggero mellszobra",
+            "ro": "Bustul Maggior Leggero",
+            "en": "Busto Maggior Leggero"
+          },
+          "coords": [
+            9.408533,
+            41.214228
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese Hommage an einen lokalen Helden und trinken Sie einen schnellen Espresso in einem nahegelegenen Café.",
+            "hu": "Csodálja meg ezt a helyi hősnek emléket állító szobrot a kikötő közelében, és igyon egy kávét a közeli kávézóban.",
+            "ro": "Admirați acest tribut adus unui erou local lângă port și savurați un espresso rapid la o cafenea din apropiere.",
+            "en": "Admire this tribute to a local hero near the port, and grab a quick espresso at a nearby cafe to start your day right."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto Anita Garibaldi",
+            "hu": "Anita Garibaldi mellszobra",
+            "ro": "Bustul Anita Garibaldi",
+            "en": "Busto Anita Garibaldi"
+          },
+          "coords": [
+            9.409981,
+            41.215058
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit an diesem Denkmal für Anita Garibaldi und genießen Sie die sanfte Meeresbrise am Hafen.",
+            "hu": "Szánjon egy percet az Anita Garibaldi tiszteletére állított emlékműre, miközben élvezi a lágy tengeri szellőt a kikötőben.",
+            "ro": "Acordați un moment acestui monument care o onorează pe Anita Garibaldi, bucurându-vă de briza blândă a mării în port.",
+            "en": "Take a moment at this monument honoring Anita Garibaldi, noticing the intricate details while enjoying the gentle sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maddalena",
+            "hu": "Santa Maria Maddalena templom",
+            "ro": "Biserica Santa Maria Maddalena",
+            "en": "Chiesa di Santa Maria Maddalena"
+          },
+          "coords": [
+            9.405482,
+            41.21336
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die sakrale Kunst zu sehen, aber denken Sie daran, sich bescheiden zu kleiden und Ihre Schultern zu bedecken.",
+            "hu": "Lépjen be, hogy megnézze a lenyűgöző szakrális művészetet, de ne felejtse el eltakarni a vállát, mielőtt belép a templomba.",
+            "ro": "Pășiți înăuntru pentru a vedea arta sacră, dar amintiți-vă să vă îmbrăcați decent acoperindu-vă umerii înainte de a intra.",
+            "en": "Step inside to see the stunning sacred art, but remember to dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Balbiano",
+            "hu": "Balbiano erőd",
+            "ro": "Fortul Balbiano",
+            "en": "Forte Balbiano"
+          },
+          "coords": [
+            9.401832,
+            41.211175
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser alten Festung und tragen Sie bequeme Wanderschuhe für den unebenen Boden der Ruinen.",
+            "hu": "Fedezze fel ennek a régi erődnek a maradványait, és viseljen kényelmes sétacipőt a romok egyenetlen talaja miatt.",
+            "ro": "Explorați rămășițele acestei vechi fortărețe și purtați pantofi confortabili de mers din cauza terenului denivelat.",
+            "en": "Explore the remnants of this old fortress for a taste of military history, wearing comfortable walking shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonnina",
+            "hu": "Madonnina",
+            "ro": "Madonnina",
+            "en": "Madonnina"
+          },
+          "coords": [
+            9.400971,
+            41.209516
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang hier für einen weiten Blick aufs Wasser; kommen Sie kurz vor Sonnenuntergang für die besten Fotos.",
+            "hu": "Itt fejezze be a sétáját a tengerre nyíló csodás kilátásért; érkezzen közvetlenül naplemente előtt a legjobb fotókért.",
+            "ro": "Încheiați-vă plimbarea aici pentru o vedere superbă asupra apei, ajungând chiar înainte de apus pentru cele mai bune fotografii.",
+            "en": "End your walk here for a sweeping view of the water, arriving just before sunset for the best lighting for your photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum von La Maddalena, begrüßen Sie die Büste von Maggior Leggero und genießen Sie die Hafenatmosphäre. Mittags erreichen Sie die Kirche Santa Maria Maddalena, das spirituelle Herz der Insel mit ihrer schönen Architektur. Verbringen Sie den Nachmittag mit einem Spaziergang zum Forte Balbiano, um die Militärgeschichte aufzusaugen. Beenden Sie den Tag friedlich bei der Madonnina mit Meerblick.",
+        "hu": "Kezdje a reggelt La Maddalena történelmi központjában, üdvözölve Maggior Leggero mellszobrát és élvezve a kikötő nyüzsgését. Délben a Santa Maria Maddalena-templomnál lesz, a sziget spirituális szívében, lenyűgöző építészetével. A délutánt a Forte Balbiano felé sétálva töltheti, elmerülve a város katonai múltjában. Zárja a napot egy békés estével a Madonninánál, ahonnan csodás kilátás nyílik a tengerre.",
+        "ro": "Începeți dimineața explorând centrul istoric din La Maddalena, admirând Busto Maggior Leggero și atmosfera portului. La prânz, vizitați Biserica Santa Maria Maddalena, inima spirituală a insulei cu arhitectura sa frumoasă. Petreceți după-amiaza plimbându-vă spre Forte Balbiano, descoperind istoria militară a orașului. Încheiați cu o seară liniștită la Madonnina, cu vedere la marea albastră.",
+        "en": "Start your morning exploring the historic center of La Maddalena, greeting the Busto Maggior Leggero and enjoying the lively port atmosphere. By midday, you'll be at the Church of Santa Maria Maddalena, the spiritual heart of the island with its beautiful architecture. Spend your afternoon wandering towards Forte Balbiano, soaking in the town's military history. Conclude with a peaceful evening at the Madonnina, overlooking the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maddalena",
+            "hu": "Santa Maria Maddalena templom",
+            "ro": "Biserica Santa Maria Maddalena",
+            "en": "Chiesa di Santa Maria Maddalena"
+          },
+          "coords": [
+            9.405482,
+            41.21336
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die sakrale Kunst zu sehen, aber denken Sie daran, sich bescheiden zu kleiden und Ihre Schultern zu bedecken.",
+            "hu": "Lépjen be, hogy megnézze a lenyűgöző szakrális művészetet, de ne felejtse el eltakarni a vállát, mielőtt belép a templomba.",
+            "ro": "Pășiți înăuntru pentru a vedea arta sacră, dar amintiți-vă să vă îmbrăcați decent acoperindu-vă umerii înainte de a intra.",
+            "en": "Step inside to see the stunning sacred art, but remember to dress modestly by covering your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Weber",
+            "hu": "Villa Weber",
+            "ro": "Villa Weber",
+            "en": "Villa Weber"
+          },
+          "coords": [
+            9.392434,
+            41.215764
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die historische Fassade der Villa, in der Mussolini einst festgehalten wurde, und schließen Sie Ihr Fahrrad gut ab.",
+            "hu": "Figyelje meg a történelmi homlokzatot, ahol Mussolinit is fogva tartották, és biztonságosan zárja le a kerékpárját a séta előtt.",
+            "ro": "Observați fațada istorică unde Mussolini a fost ținut odată și asigurați-vă bicicleta înainte de a vizita domeniul.",
+            "en": "Notice the beautiful historical facade where Mussolini was once held, and lock your bike securely before walking the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Tegge",
+            "hu": "Tegge erőd",
+            "ro": "Fortul Tegge",
+            "en": "Forte Tegge"
+          },
+          "coords": [
+            9.386937,
+            41.211673
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Architektur der Küstenverteidigung und bringen Sie Wasser mit, da es hier wenig Schatten gibt.",
+            "hu": "Szánjon időt a partvédelmi építészet értékelésére, és hozzon magával vizet, mivel errefelé kevés az árnyékos hely.",
+            "ro": "Acordați-vă timp pentru a aprecia arhitectura de apărare a coastei și aduceți apă, deoarece există puține locuri umbrite aici.",
+            "en": "Take time to appreciate the coastal defense architecture, and bring a water bottle since there are few shaded spots around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Piramide (Tegge)",
+            "hu": "Piramide (Tegge)",
+            "ro": "Piramide (Tegge)",
+            "en": "Piramide (Tegge)"
+          },
+          "coords": [
+            9.384036,
+            41.207694
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie für einen interessanten Blick auf dieses einzigartige Seezeichen etwas hinauf und achten Sie auf lose Steine.",
+            "hu": "Másszon fel egy kicsit a tengerészeti jelzés érdekes látványáért, és ügyeljen a laza kövekre a rövid ösvényen.",
+            "ro": "Urcați puțin pentru o vedere interesantă asupra acestui marcaj maritim unic, fiind atenți la pietrele libere de pe potecă.",
+            "en": "Climb slightly for an interesting view of this unique maritime marker, keeping an eye out for loose rocks on the short trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave di granito di Cala Francese",
+            "hu": "Cala Francese gránitbánya",
+            "ro": "Carierele de granit de la Cala Francese",
+            "en": "Cave di granito di Cala Francese"
+          },
+          "coords": [
+            9.379722,
+            41.220595
+          ],
+          "category": "landmark",
+          "arrive_at": "13:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den massiven verlassenen Granitbrüchen, aber bleiben Sie auf den markierten Wegen, um instabile Kanten zu vermeiden.",
+            "hu": "Barangoljon a hatalmas elhagyott gránitbányák között, de maradjon a kijelölt utakon, hogy elkerülje az instabil párkányokat.",
+            "ro": "Plimbați-vă printre masivele cariere de granit abandonate, dar rămâneți pe căile marcate pentru a evita rocile instabile.",
+            "en": "Wander among the massive abandoned granite quarries, but stay on the marked paths to avoid any unstable ledges in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Stadtzentrum an der eleganten Chiesa di Santa Maria Maddalena. Mittags radeln Sie zur Villa Weber, um ihre historische Architektur fernab der Massen zu bewundern. Verbringen Sie den Nachmittag an der malerischen Westküste und entdecken Sie das raue Forte Tegge und die Piramide. Am Abend erkunden Sie die dramatischen Granitformationen der Cave di granito.",
+        "hu": "Kezdje a kerékpártúrát a városközpontban, az elegáns Santa Maria Maddalena templomnál. Délben tekerjen el a Villa Weberhez, hogy megcsodálja történelmi építészetét. A délutánt a festői nyugati parton töltse, felfedezve a zord Forte Teggét és a lenyűgöző Piramide építményét. Ahogy közeledik az este, fedezze fel a gránitbánya drámai sziklaalakzatait.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului la eleganta Biserică Santa Maria Maddalena. La prânz, pedalați spre Villa Weber pentru a admira arhitectura sa istorică. Petreceți după-amiaza mergând pe coasta vestică pitorească, descoperind Forte Tegge și structura Piramide. Spre seară, explorați formațiunile dramatice de granit de la Cave di granito.",
+        "en": "Kick off your cycling tour in the town center at the elegant Chiesa di Santa Maria Maddalena. By midday, pedal out to Villa Weber to admire its historic architecture away from the crowds. Spend your afternoon riding along the scenic western coast, discovering the rugged Forte Tegge and the striking Piramide structure. As evening approaches, explore the dramatic granite formations at Cave di granito."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Primo Longobardo",
+            "hu": "Primo Longobardo Színház",
+            "ro": "Teatro Primo Longobardo",
+            "en": "Teatro Primo Longobardo"
+          },
+          "coords": [
+            9.418254,
+            41.217345
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan für kommende Aufführungen und parken Sie auf dem ausgewiesenen städtischen Parkplatz in der Straße.",
+            "hu": "Nézze meg a külső műsorfüzetet a közelgő előadásokért, és parkoljon az utcán lejjebb található kijelölt önkormányzati parkolóban.",
+            "ro": "Verificați programul exterior pentru spectacole locale și parcați în parcarea municipală desemnată chiar pe stradă.",
+            "en": "Check the schedule outside for upcoming local performances, and park in the designated municipal lot just down the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Guardia Vecchia",
+            "hu": "Guardia Vecchia",
+            "ro": "Guardia Vecchia",
+            "en": "Guardia Vecchia"
+          },
+          "coords": [
+            9.399235,
+            41.222417
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihre Kamera für tolle Höhenaufnahmen der Insel mit, aber fahren Sie vorsichtig auf der kurvenreichen Zufahrtsstraße.",
+            "hu": "Hozza magával fényképezőgépét a sziget legjobb magaslati fotóihoz, de óvatosan vezessen a kanyargós felvezető úton.",
+            "ro": "Aduceți aparatul foto pentru cele mai bune poze de la altitudine, dar conduceți cu atenție pe drumul de acces sinuos.",
+            "en": "Bring your camera for some of the best high-altitude shots of the island, but drive carefully up the winding access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave di granito di Cala Francese",
+            "hu": "Cala Francese gránitbánya",
+            "ro": "Carierele de granit de la Cala Francese",
+            "en": "Cave di granito di Cala Francese"
+          },
+          "coords": [
+            9.379722,
+            41.220595
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen den massiven verlassenen Granitbrüchen, aber bleiben Sie auf den markierten Wegen, um instabile Kanten zu vermeiden.",
+            "hu": "Barangoljon a hatalmas elhagyott gránitbányák között, de maradjon a kijelölt utakon, hogy elkerülje az instabil párkányokat.",
+            "ro": "Plimbați-vă printre masivele cariere de granit abandonate, dar rămâneți pe căile marcate pentru a evita rocile instabile.",
+            "en": "Wander among the massive abandoned granite quarries, but stay on the marked paths to avoid any unstable ledges in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Tegge",
+            "hu": "Tegge erőd",
+            "ro": "Fortul Tegge",
+            "en": "Forte Tegge"
+          },
+          "coords": [
+            9.386937,
+            41.211673
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die Architektur der Küstenverteidigung und bringen Sie Wasser mit, da es hier wenig Schatten gibt.",
+            "hu": "Szánjon időt a partvédelmi építészet értékelésére, és hozzon magával vizet, mivel errefelé kevés az árnyékos hely.",
+            "ro": "Acordați-vă timp pentru a aprecia arhitectura de apărare a coastei și aduceți apă, deoarece există puține locuri umbrite aici.",
+            "en": "Take time to appreciate the coastal defense architecture, and bring a water bottle since there are few shaded spots around here."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte San Giorgio",
+            "hu": "San Giorgio erőd",
+            "ro": "Fortul San Giorgio",
+            "en": "Forte San Giorgio"
+          },
+          "coords": [
+            9.401849,
+            41.193678
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht nach Süden auf Sardinien und tragen Sie vor der Erkundung der Ruinen Sonnencreme auf.",
+            "hu": "Élvezze a lenyűgöző déli kilátást Szardínia felé, és ne felejtsen el naptejet használni a romok felfedezése előtt.",
+            "ro": "Bucurați-vă de priveliștile spectaculoase spre sud spre Sardinia, aplicând multă cremă de soare înainte de a explora ruinele.",
+            "en": "Enjoy the spectacular southern views towards Sardinia, making sure to apply plenty of sunscreen before exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Cippo Corazzata Roma",
+            "hu": "Cippo Corazzata Roma emlékmű",
+            "ro": "Cippo Corazzata Roma",
+            "en": "Cippo Corazzata Roma"
+          },
+          "coords": [
+            9.395109,
+            41.196716
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem ergreifenden Marinedenkmal die Ehre und fahren Sie sicher an den Rand, da die Parkplätze hier begrenzt sind.",
+            "hu": "Rója le tiszteletét ennél a megható tengerészeti emlékműnél; biztonságosan húzódjon le, mivel a parkolás errefelé korlátozott.",
+            "ro": "Aduceți un omagiu la acest memorial naval impresionant, trăgând în siguranță pe margine deoarece parcarea este limitată.",
+            "en": "Pay your respects at this poignant naval memorial, pulling safely onto the shoulder as parking is somewhat limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit einem Besuch des Teatro Primo Longobardo, um in die Kulturszene einzutauchen. Mittags fahren Sie zur Guardia Vecchia für einen unvergleichlichen Panoramablick. Entdecken Sie nachmittags das industrielle Erbe der Granitbrüche sowie die Küstenverteidigung am Forte Tegge und San Giorgio. Ihr Abend endet besinnlich am Cippo Corazzata Roma.",
+        "hu": "Autós túrája a Teatro Primo Longobardo meglátogatásával kezdődik, elmerülve a helyi kultúrában. Délben hajtson fel a Guardia Vecchiához a páratlan panorámáért. Délután fedezze fel a gránitbányák ipari örökségét, majd a partvédelmet a Forte Tegge és San Giorgio erődöknél. Az este egy csendes megállóval zárul a Cippo Corazzata Románál.",
+        "ro": "Turul dvs. cu mașina începe la Teatro Primo Longobardo, explorând cultura locală. La prânz, conduceți spre Guardia Vecchia pentru vederi panoramice inegalabile. După-amiaza, descoperiți patrimoniul industrial al carierelor de granit, urmat de istoria apărării la Forte Tegge și San Giorgio. Seara se încheie la Cippo Corazzata Roma.",
+        "en": "Your driving tour begins with a visit to the Teatro Primo Longobardo, diving into the local cultural scene. By midday, drive up to Guardia Vecchia for unparalleled panoramic views of the entire archipelago. In the afternoon, discover the industrial heritage at the granite quarries, followed by coastal defense history at Forte Tegge and San Giorgio. Your evening concludes with a reflective stop at the Cippo Corazzata Roma."
+      }
+    }
+  }
+}

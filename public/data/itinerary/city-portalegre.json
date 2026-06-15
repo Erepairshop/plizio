@@ -1,0 +1,497 @@
+{
+  "city_id": "city-portalegre",
+  "anchor": {
+    "name": "Portalegre",
+    "coords": [
+      -7.4313,
+      39.2967
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plátano do Rossio",
+            "hu": "Plátano do Rossio",
+            "ro": "Plátano do Rossio",
+            "en": "Plátano do Rossio"
+          },
+          "coords": [
+            -7.430257,
+            39.296079
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese riesige, jahrhundertealte Platane, die weiten Schatten spendet, und ruhen Sie sich kurz auf einer Bank aus, bevor Sie ins Zentrum gehen.",
+            "hu": "Csodálja meg ezt az évszázados, hatalmas platánfát, amely árnyékot ad, és pihenjen meg egy közeli padon, mielőtt bevetné magát a történelmi központba.",
+            "ro": "Minunați-vă de acest uriaș platan secular ce oferă o umbră vastă și odihniți-vă o clipă pe o bancă înainte de a explora mai departe centrul istoric.",
+            "en": "Marvel at this colossal, centuries-old plane tree offering vast shade, and take a moment to rest on a nearby bench before heading into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Portalegrense",
+            "hu": "Teatro Portalegrense",
+            "ro": "Teatro Portalegrense",
+            "en": "Teatro Portalegrense"
+          },
+          "coords": [
+            -7.43057,
+            39.294072
+          ],
+          "category": "cultural",
+          "arrive_at": "09:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie das kulturelle Herz der Stadt in diesem charmanten Theater und prüfen Sie den Spielplan, ob am Abend eine interessante Vorstellung stattfindet.",
+            "hu": "Csodálja meg a város kulturális szívét jelentő bájos helyi színházat, és érdemes megnézni a napi műsort egy esetleges esti előadás megtekintéséhez.",
+            "ro": "Admirați inima culturală a orașului la acest teatru local fermecător și verificați programul zilnic pentru a prinde o reprezentație de seară în timpul vizitei.",
+            "en": "Admire the cultural heartbeat of the city at this charming local theater, and check the daily schedule to see if you can catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+          },
+          "coords": [
+            -7.432988,
+            39.292645
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartige Portalegre-Stichtechnik, die prächtige Wandteppiche zum Leben erweckt, und achten Sie auf die pinselstrichartigen Details.",
+            "hu": "Fedezze fel az egyedülálló Portalegre-i öltéstechnikát, amely csodás kárpitokat kelt életre, és figyelje meg a festékvonásokat utánzó apró részleteket.",
+            "ro": "Descoperiți tehnica unică de cusătură din Portalegre care dă viață unor tapiserii magnifice și observați detaliile fine ce imită tușele de pensulă.",
+            "en": "Discover the unique Portalegre stitch technique that brings magnificent tapestries to life, and look closely at the intricate details mimicking brushstrokes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Portalegre",
+            "hu": "Museu Municipal de Portalegre",
+            "ro": "Museu Municipal de Portalegre",
+            "en": "Museu Municipal de Portalegre"
+          },
+          "coords": [
+            -7.433529,
+            39.291478
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Sammlung sakraler Kunst in einem ehemaligen Seminar und nehmen Sie sich unbedingt Zeit für den wunderschön erhaltenen Kreuzgang des Gebäudes.",
+            "hu": "Fedezze fel az egykori szemináriumban található egyházművészeti és helyi gyűjteményt, és szánjon külön időt a gyönyörűen megőrzött kerengő megtekintésére.",
+            "ro": "Explorați colecția de artă sacră și artefacte regionale dintr-un fost seminar, asigurându-vă că petreceți timp suplimentar în claustrul frumos conservat.",
+            "en": "Explore a rich collection of sacred art and regional artifacts housed in a former seminary, making sure to spend extra time in the beautifully preserved cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Portalegre",
+            "hu": "Castelo de Portalegre",
+            "ro": "Castelo de Portalegre",
+            "en": "Castelo de Portalegre"
+          },
+          "coords": [
+            -7.430575,
+            39.29106
+          ],
+          "category": "castle",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der teilweise erhaltenen Wehrmauern, um in die mittelalterliche Vergangenheit einzutauchen, und tragen Sie festes Schuhwerk fürs Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a részben fennmaradt védőfalakon a középkori múlt megismeréséhez, és viseljen kényelmes, masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor parțial conservate pentru a înțelege trecutul medieval și purtați încălțăminte robustă pentru aleile pietruite inegale.",
+            "en": "Walk along the ancient, partially preserved defensive walls for a glimpse into the city's medieval past, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu José Régio",
+            "hu": "Museu José Régio",
+            "ro": "Museu José Régio",
+            "en": "Museu José Régio"
+          },
+          "coords": [
+            -7.429907,
+            39.288792
+          ],
+          "category": "museum",
+          "arrive_at": "14:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie das ehemalige Haus des berühmten portugiesischen Dichters, um seine Kunstsammlung zu sehen, und beachten Sie die beeindruckenden Kruzifixe.",
+            "hu": "Lépjen be a híres portugál költő egykori otthonába, ahol népművészeti gyűjteményét, valamint lenyűgöző és egyedi feszületekből álló kiállítását tekintheti meg.",
+            "ro": "Pășiți în fosta casă a celebrului poet portughez pentru a vedea colecția sa de artă populară și observați impresionanta expoziție de crucifixuri religioase.",
+            "en": "Step into the former home of the famous Portuguese poet to view his eclectic collection of popular art, and note the impressive display of religious crucifixes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Schatten der großen Plátano do Rossio, bevor Sie im Teatro lokale Kultur schnuppern. Mittags können Sie sich in den bunten Fäden des Tapisseriemuseums und der sakralen Geschichte verlieren. Der Nachmittag ist den robusten Mauern der Burg gewidmet. Beenden Sie den Tag versunken in den poetischen Sammlungen des Museu José Régio.",
+        "hu": "Kezdje a reggelt a hatalmas Plátano do Rossio árnyékában, mielőtt magába szívná a helyi kultúrát a színháznál. Délben vesszen el a kárpitmúzeum színes szálaiban és a Városi Múzeum szakrális történelmében. A délutánt a vár masszív falainak felfedezésére szánjuk. Zárja a napot a José Régio Múzeum költői és népművészeti gyűjteményeiben elmerülve.",
+        "ro": "Începeți dimineața la umbra grandiosului Platan din Rossio înainte de a simți cultura locală la Teatro. La amiază, pierdeți-vă printre firele vibrante ale Muzeului de Tapiserie și istoria sacră a Muzeului Municipal. După-amiaza este dedicată explorării zidurilor robuste ale Castelului. Încheiați ziua cufundați în colecțiile poetice ale Muzeului José Régio.",
+        "en": "Start your morning beneath the shade of the grand Plátano do Rossio before soaking up local culture at the nearby Teatro. By midday, lose yourself in the vibrant threads of the Tapeçaria Museum and the sacred history of the Municipal Museum. The afternoon is dedicated to exploring the robust walls of the Castle. Finish the day immersed in the poetic collections of the José Régio Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro da Serra",
+            "hu": "Miradouro da Serra",
+            "ro": "Miradouro da Serra",
+            "en": "Miradouro da Serra"
+          },
+          "coords": [
+            -7.423669,
+            39.304522
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ruhigen Aussichtspunkt den atemberaubenden Blick über die Alentejo-Ebene und bringen Sie ein Weitwinkelobjektiv für perfekte Fotos mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Alentejo-síkságra erről a békés hegytetőről, és hozzon magával nagylátószögű objektívet a táj tökéletes megörökítéséhez.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare asupra câmpiilor Alentejo de pe acest deal liniștit și aduceți un obiectiv cu unghi larg pentru fotografii.",
+            "en": "Enjoy breathtaking panoramic views over the Alentejo plains from this serene hilltop spot, and bring a wide-angle lens to capture the sweeping landscape perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plátano do Rossio",
+            "hu": "Plátano do Rossio",
+            "ro": "Plátano do Rossio",
+            "en": "Plátano do Rossio"
+          },
+          "coords": [
+            -7.430257,
+            39.296079
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese riesige, jahrhundertealte Platane, die weiten Schatten spendet, und ruhen Sie sich kurz auf einer Bank aus, bevor Sie ins Zentrum gehen.",
+            "hu": "Csodálja meg ezt az évszázados, hatalmas platánfát, amely árnyékot ad, és pihenjen meg egy közeli padon, mielőtt bevetné magát a történelmi központba.",
+            "ro": "Minunați-vă de acest uriaș platan secular ce oferă o umbră vastă și odihniți-vă o clipă pe o bancă înainte de a explora mai departe centrul istoric.",
+            "en": "Marvel at this colossal, centuries-old plane tree offering vast shade, and take a moment to rest on a nearby bench before heading into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+          },
+          "coords": [
+            -7.432988,
+            39.292645
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartige Portalegre-Stichtechnik, die prächtige Wandteppiche zum Leben erweckt, und achten Sie auf die pinselstrichartigen Details.",
+            "hu": "Fedezze fel az egyedülálló Portalegre-i öltéstechnikát, amely csodás kárpitokat kelt életre, és figyelje meg a festékvonásokat utánzó apró részleteket.",
+            "ro": "Descoperiți tehnica unică de cusătură din Portalegre care dă viață unor tapiserii magnifice și observați detaliile fine ce imită tușele de pensulă.",
+            "en": "Discover the unique Portalegre stitch technique that brings magnificent tapestries to life, and look closely at the intricate details mimicking brushstrokes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Portalegre",
+            "hu": "Castelo de Portalegre",
+            "ro": "Castelo de Portalegre",
+            "en": "Castelo de Portalegre"
+          },
+          "coords": [
+            -7.430575,
+            39.29106
+          ],
+          "category": "castle",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der teilweise erhaltenen Wehrmauern, um in die mittelalterliche Vergangenheit einzutauchen, und tragen Sie festes Schuhwerk fürs Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a részben fennmaradt védőfalakon a középkori múlt megismeréséhez, és viseljen kényelmes, masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor parțial conservate pentru a înțelege trecutul medieval și purtați încălțăminte robustă pentru aleile pietruite inegale.",
+            "en": "Walk along the ancient, partially preserved defensive walls for a glimpse into the city's medieval past, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim",
+            "hu": "Jardim",
+            "ro": "Jardim",
+            "en": "Jardim"
+          },
+          "coords": [
+            -7.425708,
+            39.291732
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich inmitten von viel Grün in diesem zentralen Garten, der sich ideal für eine Mittagspause mit einem Snack aus einer nahegelegenen Bäckerei eignet.",
+            "hu": "Pihenjen meg a buja növényzet és a békés ösvények között ebben a központi kertben, amely tökéletes déli szünetet kínál egy közeli pékségből hozott péksüteménnyel.",
+            "ro": "Relaxați-vă printre verdeața luxuriantă în această grădină centrală, locul perfect pentru o pauză la amiază cu o gustare rapidă de la o brutărie din apropiere.",
+            "en": "Relax amidst lush greenery and tranquil pathways in this central garden, offering a perfect midday break spot if you grab a quick snack from a nearby bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Torrejão",
+            "hu": "Castelo de Torrejão",
+            "ro": "Castelo de Torrejão",
+            "en": "Castelo de Torrejão"
+          },
+          "coords": [
+            -7.423323,
+            39.2931
+          ],
+          "category": "castle",
+          "arrive_at": "14:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser sekundären Festung, die das Tal bewachte, und suchen Sie nach den Informationstafeln, die ihre strategische Bedeutung erklären.",
+            "hu": "Látogassa meg ennek a másodlagos erődítménynek a masszív maradványait, amely a völgyet védte, és keresse a stratégiai fontosságát bemutató információs táblákat.",
+            "ro": "Vizitați rămășițele acestei fortificații secundare care a păzit istoric valea și căutați plăcile informative care detaliază importanța sa strategică.",
+            "en": "Visit the robust remains of this secondary fortification that historically guarded the valley, and look for the informational plaques detailing its strategic importance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer luftigen Fahrt zum Miradouro da Serra für weite Blicke auf den Alentejo, gefolgt von der Plátano. Mittags gibt es künstlerische Inspiration im Tapisseriemuseum und historische Eindrücke an der Burg. Am Nachmittag entspannen Sie im Jardim, bevor Sie zu den markanten Überresten der Burg Torrejão radeln. Ein entspannter Rückweg rundet den Tag ab.",
+        "hu": "Kezdje egy frissítő reggeli tekeréssel a Miradouro da Serra-hoz, majd guruljon le az ikonikus platánfához. A dél művészi ihletet hoz a Kárpitmúzeumban, majd történelmi megállót a várnál. Délután pihentesse meg lábait a Jardimban, mielőtt a Torrejão-vár lenyűgöző maradványaihoz hajtana. Az estét egy kellemes, pihentető kerékpározással zárja vissza a központ felé.",
+        "ro": "Începeți cu o plimbare matinală spre Miradouro da Serra pentru priveliști peste Alentejo, apoi pedalați spre emblematicul Platan. Amiaza aduce inspirație la Muzeul de Tapiserie și o oprire istorică la Castel. După-amiaza, odihniți-vă picioarele la Jardim înainte de a vă îndrepta spre rămășițele Castelului Torrejão. Seara se încheie cu o plimbare relaxantă de întoarcere.",
+        "en": "Begin with a breezy morning ride to the Miradouro da Serra for sweeping Alentejo views, then pedal down to the iconic Plátano. Midday brings artistic inspiration at the Tapestry Museum followed by a historical stop at the Castle. In the afternoon, rest your legs at the Jardim before making your way to the striking remains of Torrejão Castle. The evening concludes with a relaxed ride back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro da Serra",
+            "hu": "Miradouro da Serra",
+            "ro": "Miradouro da Serra",
+            "en": "Miradouro da Serra"
+          },
+          "coords": [
+            -7.423669,
+            39.304522
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ruhigen Aussichtspunkt den atemberaubenden Blick über die Alentejo-Ebene und bringen Sie ein Weitwinkelobjektiv für perfekte Fotos mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Alentejo-síkságra erről a békés hegytetőről, és hozzon magával nagylátószögű objektívet a táj tökéletes megörökítéséhez.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare asupra câmpiilor Alentejo de pe acest deal liniștit și aduceți un obiectiv cu unghi larg pentru fotografii.",
+            "en": "Enjoy breathtaking panoramic views over the Alentejo plains from this serene hilltop spot, and bring a wide-angle lens to capture the sweeping landscape perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Rádio Portalegre",
+            "hu": "Rádio Portalegre",
+            "ro": "Rádio Portalegre",
+            "en": "Rádio Portalegre"
+          },
+          "coords": [
+            -7.426438,
+            39.301451
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie am Hauptsitz des lokalen Radiosenders vorbei, einem wichtigen kulturellen Zentrum, und beachten Sie die modernistischen Details an seiner Fassade.",
+            "hu": "Haladjon el a helyi rádióállomás központja mellett, amely a közösség kulturális csomópontja, és figyelje meg az épület szerény homlokzatának modernista részleteit.",
+            "ro": "Treceți pe lângă sediul postului de radio local, un centru cultural vital, și observați detaliile arhitecturale moderniste de pe fațada sa modestă.",
+            "en": "Pass by the headquarters of the local radio station, a vital cultural hub for the community, and notice the modernist architectural details on its modest facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "hu": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "ro": "Museu da Tapeçaria de Portalegre - Guy Fino",
+            "en": "Museu da Tapeçaria de Portalegre - Guy Fino"
+          },
+          "coords": [
+            -7.432988,
+            39.292645
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartige Portalegre-Stichtechnik, die prächtige Wandteppiche zum Leben erweckt, und achten Sie auf die pinselstrichartigen Details.",
+            "hu": "Fedezze fel az egyedülálló Portalegre-i öltéstechnikát, amely csodás kárpitokat kelt életre, és figyelje meg a festékvonásokat utánzó apró részleteket.",
+            "ro": "Descoperiți tehnica unică de cusătură din Portalegre care dă viață unor tapiserii magnifice și observați detaliile fine ce imită tușele de pensulă.",
+            "en": "Discover the unique Portalegre stitch technique that brings magnificent tapestries to life, and look closely at the intricate details mimicking brushstrokes."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Portalegre",
+            "hu": "Castelo de Portalegre",
+            "ro": "Castelo de Portalegre",
+            "en": "Castelo de Portalegre"
+          },
+          "coords": [
+            -7.430575,
+            39.29106
+          ],
+          "category": "castle",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der teilweise erhaltenen Wehrmauern, um in die mittelalterliche Vergangenheit einzutauchen, und tragen Sie festes Schuhwerk fürs Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a részben fennmaradt védőfalakon a középkori múlt megismeréséhez, és viseljen kényelmes, masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor parțial conservate pentru a înțelege trecutul medieval și purtați încălțăminte robustă pentru aleile pietruite inegale.",
+            "en": "Walk along the ancient, partially preserved defensive walls for a glimpse into the city's medieval past, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Torrejão",
+            "hu": "Castelo de Torrejão",
+            "ro": "Castelo de Torrejão",
+            "en": "Castelo de Torrejão"
+          },
+          "coords": [
+            -7.423323,
+            39.2931
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser sekundären Festung, die das Tal bewachte, und suchen Sie nach den Informationstafeln, die ihre strategische Bedeutung erklären.",
+            "hu": "Látogassa meg ennek a másodlagos erődítménynek a masszív maradványait, amely a völgyet védte, és keresse a stratégiai fontosságát bemutató információs táblákat.",
+            "ro": "Vizitați rămășițele acestei fortificații secundare care a păzit istoric valea și căutați plăcile informative care detaliază importanța sa strategică.",
+            "en": "Visit the robust remains of this secondary fortification that historically guarded the valley, and look for the informational plaques detailing its strategic importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Marco Geodésico",
+            "hu": "Marco Geodésico",
+            "ro": "Marco Geodésico",
+            "en": "Marco Geodésico"
+          },
+          "coords": [
+            -7.418762,
+            39.287919
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser geografischen Markierung für eine einzigartige Perspektive auf das Gelände und achten Sie auf die starken Winde auf dem Gipfel.",
+            "hu": "Túrázzon fel ehhez a hivatalos geodéziai jelzéshez a környező terep egyedi perspektívájáért, és ügyeljen a csúcson gyakran fújó erős, viharos szelekre.",
+            "ro": "Urcați la acest marcaj geografic oficial pentru o perspectivă unică asupra terenului și fiți precauți la vânturile puternice care adesea bat pe acest vârf.",
+            "en": "Hike up to this official geographical marker for a unique perspective of the surrounding terrain, and be cautious of the strong winds that often sweep across the peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Kartódromo",
+            "hu": "Kartódromo",
+            "ro": "Kartódromo",
+            "en": "Kartódromo"
+          },
+          "coords": [
+            -7.423439,
+            39.275525
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bringen Sie etwas Adrenalin in Ihren Tag auf der lokalen Kartbahn und denken Sie daran, Ihre Rennsession im Voraus zu buchen, um sich einen Platz zu sichern.",
+            "hu": "Csempésszen egy kis adrenalint a napjába a helyi gokartpályán, és ne felejtse el előre lefoglalni a futamot, hogy biztosítsa a helyét a forgalmas hétvégéken.",
+            "ro": "Adăugați adrenalină zilei la pista locală de karting și nu uitați să vă rezervați cursa în avans pentru a vă asigura locul în weekendurile aglomerate.",
+            "en": "Inject some adrenaline into your day at the local go-kart track, and remember to book your racing session in advance to secure your spot during busy weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Miradouro da Serra für unglaubliche Ausblicke und dann an der Rádio Portalegre vorbei in die Stadt. Der Mittag ist für das berühmte Tapisseriemuseum und das historische Burggelände reserviert. Nachmittags fahren Sie zur strategischen Burg Torrejão und dem geografischen Marker. Beenden Sie den Tag mit adrenalingeladenem Spaß auf der Kartbahn.",
+        "hu": "Autózzon fel korán a Miradouro da Serra-hoz a hihetetlen kilátásért, majd guruljon el a Rádio Portalegre mellett a város szívébe. A dél a híres Kárpitmúzeumé és a történelmi várkastélyé. Délután hajtson ki a stratégiai Torrejão várához és a robusztus Geodéziai jelzéshez. Zárja az utazást magas oktánszámú szórakozással a gokartpályán a naplemente közben.",
+        "ro": "Conduceți devreme spre Miradouro da Serra pentru o panoramă de vis, apoi treceți pe lângă Rádio Portalegre. Amiaza este rezervată celebrului Muzeu de Tapiserie și explorării Castelului istoric. După-amiaza, mergeți la Castelul Torrejão și la Markerul Geodezic accidentat. Încheiați-vă călătoria cu multă adrenalină și distracție la Kartódromo, la apus.",
+        "en": "Drive up early to the Miradouro da Serra for incredible views, then cruise past Rádio Portalegre to the heart of town. Midday is reserved for the famed Tapestry Museum and wandering the historic Castle grounds. In the afternoon, drive out to the strategic Torrejão Castle and the rugged Geodesic Marker. End your journey with high-octane fun at the Kartódromo as the sun sets."
+      }
+    }
+  }
+}

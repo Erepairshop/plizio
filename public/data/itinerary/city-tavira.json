@@ -1,0 +1,474 @@
+{
+  "city_id": "city-tavira",
+  "anchor": {
+    "name": "Tavira",
+    "coords": [
+      -7.6486,
+      37.1272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:57",
+      "total_km": 1.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Islâmico",
+            "hu": "Museu Islâmico",
+            "ro": "Museu Islâmico",
+            "en": "Museu Islâmico"
+          },
+          "coords": [
+            -7.650226,
+            37.125905
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Taviras maurische Geschichte anhand faszinierender islamischer Artefakte in diesem Museum, und kommen Sie früh, um große Menschenmengen zu meiden.",
+            "hu": "Fedezze fel Tavira mór örökségét a lenyűgöző iszlám leletek révén ebben a múzeumban, és érkezzen korán, hogy elkerülje a dél körüli turistatömeget.",
+            "ro": "Descoperiți moștenirea maură a orașului Tavira prin artefacte islamice fascinante în acest muzeu unic și veniți devreme pentru a evita aglomerația.",
+            "en": "Discover Tavira's rich Moorish heritage through fascinating Islamic artifacts in this unique museum, and come early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal",
+            "hu": "Museu Municipal",
+            "ro": "Museu Municipal",
+            "en": "Museu Municipal"
+          },
+          "coords": [
+            -7.651402,
+            37.126027
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Geschichte und zeitgenössische Kunst in diesem restaurierten Gebäude, aber bringen Sie eine leichte Jacke für die klimatisierten Räume mit.",
+            "hu": "Csodálja meg a helyi történelmet és a kortárs művészeti kiállításokat a felújított épületben, de hozzon magával egy kardigánt a klimatizált termek miatt.",
+            "ro": "Admirați istoria locală și arta contemporană în această clădire frumos restaurată, dar luați o jachetă ușoară deoarece sălile sunt puternic aer condiționate.",
+            "en": "Admire local history and contemporary art exhibits within this beautifully restored building, but remember to bring a light jacket as the rooms are well air-conditioned."
+          }
+        },
+        {
+          "name": {
+            "de": "Bairro Almóada do Convento da Graça",
+            "hu": "Bairro Almóada do Convento da Graça",
+            "ro": "Bairro Almóada do Convento da Graça",
+            "en": "Bairro Almóada do Convento da Graça"
+          },
+          "coords": [
+            -7.652777,
+            37.125175
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Gassen des antiken Almohaden-Viertels, das Schichten der Geschichte zeigt, und tragen Sie bequeme Schuhe für das Pflaster.",
+            "hu": "Sétáljon végig az ősi Almohad-negyed hangulatos utcáin, amelyek a történelem rétegeit mutatják be, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă pe străzile atmosferice ale vechiului cartier Almohad, care prezintă straturi de istorie, și purtați încălțăminte confortabilă pentru piatra cubică inegală.",
+            "en": "Stroll through the ancient Almohad neighborhood's atmospheric streets that showcase layers of history, and wear comfortable walking shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Largo de Santa Ana",
+            "hu": "Largo de Santa Ana",
+            "ro": "Largo de Santa Ana",
+            "en": "Largo de Santa Ana"
+          },
+          "coords": [
+            -7.65136,
+            37.128617
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem charmanten, von Bäumen gesäumten Platz mit authentischer Architektur, und genießen Sie einen Kaffee in einem der gemütlichen Terrassencafés.",
+            "hu": "Pihenjen ezen a bájos, fákkal szegélyezett téren, amely tökéletes az autentikus építészet megcsodálásához, és igyon egy kávét egy közeli teraszos kávézóban.",
+            "ro": "Relaxați-vă în această piață fermecătoare, mărginită de copaci, perfectă pentru a admira arhitectura locală, și savurați o cafea la una dintre terasele din apropiere.",
+            "en": "Relax in this charming, tree-lined square perfect for enjoying authentic local architecture, and take a moment to grab a coffee at one of the cozy nearby terrace cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa das Artes de Tavira",
+            "hu": "Casa das Artes de Tavira",
+            "ro": "Casa das Artes de Tavira",
+            "en": "Casa das Artes de Tavira"
+          },
+          "coords": [
+            -7.652299,
+            37.128894
+          ],
+          "category": "cultural",
+          "arrive_at": "15:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie lebendige kulturelle Darbietungen und dynamische Kunstinstallationen in diesem Zentrum, und prüfen Sie vorab den Online-Spielplan für abendliche Live-Events.",
+            "hu": "Élvezze a pezsgő kulturális előadásokat és a dinamikus művészeti installációkat ebben a kreatív központban, ezért előzetesen ellenőrizze az online programot.",
+            "ro": "Experimentați spectacole culturale vibrante și instalații de artă dinamice în acest centru creativ, așa că verificați online programul zilnic pentru a prinde un eveniment live.",
+            "en": "Experience vibrant cultural performances and dynamic art installations at this creative hub, so check their daily schedule online beforehand to catch a live evening event."
+          }
+        },
+        {
+          "name": {
+            "de": "Tavira Science Centre",
+            "hu": "Tavira Science Centre",
+            "ro": "Tavira Science Centre",
+            "en": "Tavira Science Centre"
+          },
+          "coords": [
+            -7.646031,
+            37.129091
+          ],
+          "category": "museum",
+          "arrive_at": "16:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Wissenschaftsausstellungen, die für die ganze Familie Spaß machen, und planen Sie mindestens zwei Stunden für alle Experimente ein.",
+            "hu": "Vegyen részt a szórakoztató és tanulságos interaktív tudományos kiállításokon, és szánjon legalább két órát az összes gyakorlati kísérlet alapos kipróbálására.",
+            "ro": "Interacționați cu exponate științifice interactive, distractive pentru toată familia, și alocați cel puțin două ore pentru a explora corespunzător toate experimentele.",
+            "en": "Engage with interactive science exhibits that are fun and educational for the whole family, and allocate at least two hours to properly explore all the hands-on experiments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang mit einem Eintauchen in Taviras islamische Vergangenheit im Museu Islâmico, bevor Sie zum Museu Municipal spazieren, um dort weitere lokale Kunst und Geschichte in einer wunderschönen Umgebung zu entdecken.\n\nNach der Erkundung der Museen schlendern Sie zum historischen Bairro Almóada, wo alte Kopfsteinpflasterstraßen Sie einladen, in die maurischen Wurzeln der Stadt einzutauchen.\n\nGenießen Sie einen ruhigen Spaziergang zum Largo de Santa Ana, einem malerischen Platz, der sich perfekt zum Ausruhen eignet, bevor Sie in der Casa das Artes de Tavira zeitgenössische Kunst erleben.\n\nBeenden Sie Ihr Wanderabenteuer im Tavira Science Centre, wo fesselnde interaktive Ausstellungen einen unterhaltsamen Abschluss für einen Tag voller Kultur und Entdeckungen bieten.",
+        "hu": "Kezdje a sétát Tavira iszlám múltjának felfedezésével a Museu Islâmico-ban, majd sétáljon át a Museu Municipalba, ahol további helyi művészeti és történelmi kincseket csodálhat meg.\n\nMiután felfedezte a múzeumokat, sétáljon el a történelmi Bairro Almóada negyedbe, ahol az ősi macskaköves utcák arra hívják, hogy elmerüljön a város lenyűgöző mór gyökereiben.\n\nÉlvezze a békés sétát a Largo de Santa Ana-hoz, egy festői térhez, amely tökéletes a fák alatti pihenéshez, mielőtt felfedezné a kortárs művészetet a Casa das Artes de Tavira-ban.\n\nZárja sétáját a Tavira Science Centre-ben, ahol a lenyűgöző interaktív kiállítások szórakoztató befejezést kínálnak egy kultúrával és felfedezéssel teli napnak.",
+        "ro": "Începeți turul plonjând în trecutul islamic al orașului Tavira la Museu Islâmico, înainte de a merge la Museu Municipal pentru a descoperi mai multă artă și istorie locală.\n\nDupă ce ați explorat muzeele, plimbați-vă spre istoricul Bairro Almóada, unde străzile vechi pietruite vă invită să vă scufundați în rădăcinile maure fascinante ale orașului.\n\nBucurați-vă de o plimbare liniștită până la Largo de Santa Ana, o piață pitorească perfectă pentru odihnă sub copaci, înainte de a descoperi arta contemporană la Casa das Artes de Tavira.\n\nÎncheiați-vă aventura la Tavira Science Centre, unde exponatele interactive captivante oferă un final distractiv pentru o zi plină de cultură și descoperiri uimitoare.",
+        "en": "Begin your walking tour diving into Tavira's Islamic past at the Museu Islâmico before walking over to the Museu Municipal to discover more local art and history in a beautiful setting.\n\nAfter exploring the museums, wander up to the historical Bairro Almóada, where ancient cobblestone streets invite you to immerse yourself in the city’s Moorish roots.\n\nEnjoy a peaceful stroll to Largo de Santa Ana, a picturesque square perfect for resting under the trees before discovering local contemporary art at Casa das Artes de Tavira.\n\nConclude your walking adventure at the Tavira Science Centre, where engaging interactive displays offer a fun wrap-up to a day filled with culture and discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 5.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Feiras e Exposições de Tavira",
+            "hu": "Parque de Feiras e Exposições de Tavira",
+            "ro": "Parque de Feiras e Exposições de Tavira",
+            "en": "Parque de Feiras e Exposições de Tavira"
+          },
+          "coords": [
+            -7.644563,
+            37.140344
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen weitläufigen Messepark mit lebhaften lokalen Märkten, und bringen Sie viel Kleingeld mit, um traditionelle Snacks von regionalen Anbietern zu kaufen.",
+            "hu": "Látogasson el ebbe a tágas kiállítási parkba, amely nyüzsgő helyi vásároknak ad otthont, és hozzon aprópénzt, hogy könnyedén vásárolhasson falatokat a helyi árusoktól.",
+            "ro": "Vizitați acest parc expozițional vast, care găzduiește târguri locale vibrante, și aduceți mult mărunt pentru a cumpăra cu ușurință gustări tradiționale de la vânzători.",
+            "en": "Visit this expansive exhibition park hosting vibrant local fairs and regional markets, and bring plenty of small change to easily purchase traditional snacks from local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Rodoviário",
+            "hu": "Parque Rodoviário",
+            "ro": "Parque Rodoviário",
+            "en": "Parque Rodoviário"
+          },
+          "coords": [
+            -7.654295,
+            37.130826
+          ],
+          "category": "park",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diesen gepflegten Stadtpark, der eine grüne Flucht bietet, und packen Sie ein leichtes Picknick für die schattigen Holzbänke ein.",
+            "hu": "Tegyen egy békés sétát ebben a jól karbantartott városi parkban, és hozzon magával egy könnyű pikniket, amelyet a sok árnyékos fapad egyikén nyugodtan elfogyaszthat.",
+            "ro": "Faceți o plimbare liniștită prin acest parc urban bine întreținut, care oferă o evadare verde relaxantă, și aduceți un mic picnic pentru a-l savura pe o bancă umbrită.",
+            "en": "Take a peaceful stroll through this well-maintained urban park offering a relaxing green escape, and pack a light picnic to enjoy on one of the many shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Bairro Almóada do Convento da Graça",
+            "hu": "Bairro Almóada do Convento da Graça",
+            "ro": "Bairro Almóada do Convento da Graça",
+            "en": "Bairro Almóada do Convento da Graça"
+          },
+          "coords": [
+            -7.652777,
+            37.125175
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Gassen des antiken Almohaden-Viertels, das Schichten der Geschichte zeigt, und parken Sie Ihr Rad sicher, um es zu Fuß zu erkunden.",
+            "hu": "Sétáljon végig az ősi Almohad-negyed hangulatos utcáin, amelyek a történelem rétegeit mutatják be, és parkolja le biztonságosan kerékpárját, hogy gyalog is felfedezhesse.",
+            "ro": "Plimbați-vă pe străzile atmosferice ale vechiului cartier Almohad, care prezintă straturi de istorie, și parcați-vă bicicleta în siguranță pentru a explora zona pe jos.",
+            "en": "Stroll through the ancient Almohad neighborhood's atmospheric streets that showcase layers of history, and safely park your bike to properly explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte do Rato",
+            "hu": "Forte do Rato",
+            "ro": "Forte do Rato",
+            "en": "Forte do Rato"
+          },
+          "coords": [
+            -7.621336,
+            37.121483
+          ],
+          "category": "castle",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser Küstenfestung mit atemberaubender Aussicht auf die Flussmündung, und navigieren Sie vorsichtig, um das perfekte Foto zu machen.",
+            "hu": "Fedezze fel e tengerparti erőd lenyűgöző romjait, amelyek a folyótorkolatot védik, és óvatosan sétáljon az erodált ösvényeken a tökéletes óceáni fotó elkészítéséhez.",
+            "ro": "Explorați ruinele captivante ale acestui fort de coastă cu vederi uimitoare la gura râului și navigați cu atenție pe potecile erodate pentru a face fotografia perfectă.",
+            "en": "Explore the captivating ruins of this coastal fort guarding the river mouth with stunning views, and carefully navigate the eroded pathways to capture the perfect ocean photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of the traditional tuna fishing",
+            "hu": "Museum of the traditional tuna fishing",
+            "ro": "Museum of the traditional tuna fishing",
+            "en": "Museum of the traditional tuna fishing"
+          },
+          "coords": [
+            -7.626941,
+            37.119256
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das faszinierende maritime Erbe der Thunfischerei der Algarve ein, und kombinieren Sie Ihren Besuch mit einer Bootstour, um die Meeresgeschichte zu erleben.",
+            "hu": "Merüljön el az Algarve történelmi tonhalhalászatának lenyűgöző tengeri örökségében, és kösse össze látogatását egy hajótúrával a teljes óceáni történelem megértéséhez.",
+            "ro": "Aprofundați moștenirea maritimă fascinantă a industriei pescuitului de ton din Algarve și combinați vizita cu un tur cu barca pentru a contextualiza pe deplin istoria.",
+            "en": "Delve into the fascinating maritime heritage of the Algarve's historic tuna fishing industry, and combine your visit with a boat tour to fully contextualize oceanic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Rato",
+            "hu": "Praia do Rato",
+            "ro": "Praia do Rato",
+            "en": "Praia do Rato"
+          },
+          "coords": [
+            -7.625204,
+            37.11859
+          ],
+          "category": "recreational",
+          "arrive_at": "16:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser und die unberührten Sandstrände dieses wunderschönen Küstenerholungsortes, aber bringen Sie einen Sonnenschirm mit, da natürlicher Schatten rar ist.",
+            "hu": "Élvezze e gyönyörű tengerparti pihenőhely nyugodt vizét és érintetlen homokos partjait, de hozzon magával napernyőt, mivel a természetes árnyék meglehetősen ritka errefelé.",
+            "ro": "Bucurați-vă de apele calme și de țărmurile nisipoase imaculate ale acestui loc frumos de recreere pe coastă, dar aduceți-vă propria umbrelă, deoarece umbra naturală este rară.",
+            "en": "Enjoy the calm waters and pristine sandy shores of this beautiful coastal recreation spot, but remember to bring your own sunshade as natural shade is quite scarce here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung des Geländes rund um den Parque de Feiras e Exposições, bevor Sie für eine erfrischende Pause zum Parque Rodoviário radeln.\n\nFahren Sie in Richtung des historischen Herzens von Tavira bis zum antiken Bairro Almóada, wo Sie Ihr Fahrrad abstellen und das Erbe des maurischen Klosters bewundern können.\n\nFahren Sie auf dem malerischen Flussweg zum Forte do Rato, genießen Sie den Panoramablick auf die Küste und besuchen Sie dann das Thunfischereimuseum, um Meeresgeheimnisse zu lüften.\n\nBeenden Sie Ihre Radtour, indem Sie zur Praia do Rato hinunterrollen, wo Sie sich im weichen Sand entspannen und den Sonnenuntergang über dem ruhigen Wasser der Algarve-Küste beobachten können.",
+        "hu": "Kezdje a kerékpáros napot a Parque de Feiras e Exposições körüli területek felfedezésével, majd tekerjen le a Parque Rodoviário nyugodt zöldjébe egy frissítő reggeli szünetre.\n\nKerékpározzon Tavira történelmi szíve felé, és érkezzen meg az ősi Bairro Almóadába, ahol leparkolhatja a kerékpárját, és megcsodálhatja a mór kolostor tartós örökségét.\n\nHaladjon a festői folyóparti ösvényen a Forte do Rato felé, gyönyörködjön a panorámás parti kilátásban, majd folytassa útját a hagyományos tonhalhalászat múzeumába.\n\nFejezze be a kerékpártúrát a Praia do Rato partján, ahol megpihenhet a puha homokon, és végignézheti, ahogy a naplemente csodás fénybe borítja a gyönyörű algarvei tengerpartot.",
+        "ro": "Începeți-vă ziua de ciclism explorând terenurile din jurul Parque de Feiras e Exposições, înainte de a pedala spre verdeața liniștită de la Parque Rodoviário pentru o pauză.\n\nMergeți spre inima istorică a orașului Tavira, ajungând la vechiul Bairro Almóada, unde vă puteți parca bicicleta și admira moștenirea de durată a mănăstirii maure.\n\nMergeți pe poteca pitorească a râului spre Forte do Rato, bucurându-vă de priveliștile panoramice de coastă, apoi continuați spre Muzeul pescuitului tradițional de ton.\n\nTerminați-vă excursia coborând la Praia do Rato, unde vă puteți relaxa pe nisipul fin și urmări apusul soarelui peste apele calme ale frumoasei coaste din pitorescul Algarve.",
+        "en": "Start your cycling day exploring the grounds around the Parque de Feiras e Exposições before pedaling down to the tranquil greenery of Parque Rodoviário for a refreshing morning break.\n\nCycle towards the historic heart of Tavira, arriving at the ancient Bairro Almóada, where you can park your bike and admire the enduring legacy of the Moorish convent.\n\nHead along the scenic river path towards Forte do Rato, taking in the panoramic coastal views, then continue to the Museum of the traditional tuna fishing to uncover maritime secrets.\n\nFinish your cycling trip by coasting down to Praia do Rato, where you can relax on the soft sands and watch the sun set over the calm tidal waters of the beautiful Algarve coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 8.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tavira Science Centre",
+            "hu": "Tavira Science Centre",
+            "ro": "Tavira Science Centre",
+            "en": "Tavira Science Centre"
+          },
+          "coords": [
+            -7.646031,
+            37.129091
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven Wissenschaftsausstellungen, die für die ganze Familie Spaß machen, und planen Sie mindestens zwei Stunden für alle Experimente ein.",
+            "hu": "Vegyen részt a szórakoztató és tanulságos interaktív tudományos kiállításokon, és szánjon legalább két órát az összes gyakorlati kísérlet alapos kipróbálására.",
+            "ro": "Interacționați cu exponate științifice interactive, distractive pentru toată familia, și alocați cel puțin două ore pentru a explora corespunzător toate experimentele practice.",
+            "en": "Engage with interactive science exhibits that are fun and educational for the whole family, and allocate at least two hours to properly explore all the hands-on experiments."
+          }
+        },
+        {
+          "name": {
+            "de": "Bairro Almóada do Convento da Graça",
+            "hu": "Bairro Almóada do Convento da Graça",
+            "ro": "Bairro Almóada do Convento da Graça",
+            "en": "Bairro Almóada do Convento da Graça"
+          },
+          "coords": [
+            -7.652777,
+            37.125175
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die stimmungsvollen Gassen des antiken Almohaden-Viertels, das Schichten der Geschichte zeigt, und tragen Sie bequeme Schuhe für das Pflaster.",
+            "hu": "Sétáljon végig az ősi Almohad-negyed hangulatos utcáin, amelyek a történelem rétegeit mutatják be, és viseljen kényelmes cipőt a macskaköves utakon sétálva.",
+            "ro": "Plimbați-vă pe străzile atmosferice ale vechiului cartier Almohad, care prezintă straturi de istorie, și purtați încălțăminte confortabilă pentru piatra cubică inegală.",
+            "en": "Stroll through the ancient Almohad neighborhood's atmospheric streets that showcase layers of history, and wear comfortable walking shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte do Rato",
+            "hu": "Forte do Rato",
+            "ro": "Forte do Rato",
+            "en": "Forte do Rato"
+          },
+          "coords": [
+            -7.621336,
+            37.121483
+          ],
+          "category": "castle",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser Küstenfestung mit atemberaubender Aussicht auf die Flussmündung, und parken Sie in der Nähe am Rand der Schotterstraße.",
+            "hu": "Fedezze fel e tengerparti erőd lenyűgöző romjait, amelyek a folyótorkolatot védik, és parkoljon a közelben a földút szélén, hogy könnyedén megközelíthesse a látványosságot.",
+            "ro": "Explorați ruinele captivante ale acestui fort de coastă cu vederi uimitoare la gura râului și parcați cu grijă în apropiere, pe marginea drumului cu pietriș, pentru acces ușor.",
+            "en": "Explore the captivating ruins of this coastal fort guarding the river mouth with stunning views, and safely park nearby on the edge of the dirt road for easy walking access."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of the traditional tuna fishing",
+            "hu": "Museum of the traditional tuna fishing",
+            "ro": "Museum of the traditional tuna fishing",
+            "en": "Museum of the traditional tuna fishing"
+          },
+          "coords": [
+            -7.626941,
+            37.119256
+          ],
+          "category": "museum",
+          "arrive_at": "13:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das faszinierende maritime Erbe der Thunfischerei der Algarve ein, und kombinieren Sie Ihren Besuch mit einer Bootstour, um die Meeresgeschichte zu erleben.",
+            "hu": "Merüljön el az Algarve történelmi tonhalhalászatának lenyűgöző tengeri örökségében, és kösse össze látogatását egy hajótúrával a teljes óceáni történelem megértéséhez.",
+            "ro": "Aprofundați moștenirea maritimă fascinantă a industriei pescuitului de ton din Algarve și combinați vizita cu un tur cu barca pentru a contextualiza pe deplin istoria oceanică.",
+            "en": "Delve into the fascinating maritime heritage of the Algarve's historic tuna fishing industry, and combine your visit with a boat tour to fully contextualize the oceanic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Forte da Barra",
+            "hu": "Praia do Forte da Barra",
+            "ro": "Praia do Forte da Barra",
+            "en": "Praia do Forte da Barra"
+          },
+          "coords": [
+            -7.61198,
+            37.120012
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen Strandbereich neben historischen Ufermauern, der Ruhe bietet, und kommen Sie bei Ebbe, um die faszinierenden Gezeitentümpel zu erkunden.",
+            "hu": "Fedezze fel ezt a történelmi tengerfalak melletti, hihetetlen nyugalmat kínáló eldugott strandot, és érkezzen apály idején, hogy felfedezze az árapály-medencéket.",
+            "ro": "Descoperiți această plajă izolată, adiacentă zidurilor istorice ale mării, care oferă o liniște incredibilă, și ajungeți la reflux pentru a explora bazinele mareice fascinante.",
+            "en": "Discover this secluded beach area adjacent to historic sea walls offering incredible tranquility, and arrive during low tide to explore the fascinating tidal pools teeming with life."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Terra Estreita na Ilha de Tavira",
+            "hu": "Praia da Terra Estreita na Ilha de Tavira",
+            "ro": "Praia da Terra Estreita na Ilha de Tavira",
+            "en": "Praia da Terra Estreita na Ilha de Tavira"
+          },
+          "coords": [
+            -7.639625,
+            37.098588
+          ],
+          "category": "recreational",
+          "arrive_at": "16:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem atemberaubenden Inselstrand mit feinem weißen Sand, und nehmen Sie die regelmäßige Fähre früh, um den besten Platz nahe den Dünen zu sichern.",
+            "hu": "Töltődjön fel ezen a lenyűgöző, hatalmas szigeti strandon, amely finom fehér homokkal büszkélkedhet, és menjen kora reggeli komppal, hogy a legjobb helyet szerezze meg.",
+            "ro": "Relaxați-vă pe această plajă insulară uimitoare, cu nisip alb și fin, și luați feribotul regulat devreme pentru a vă asigura cel mai bun loc în apropierea dunelor spectaculoase.",
+            "en": "Unwind on this stunning, expansive island beach featuring fine white sand and clear blue waters, and catch the regular ferry service early to secure the best spot near the dunes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Tavira Science Centre für einen spannenden Vormittag voller interaktiver Entdeckungen und machen Sie dann einen kurzen Ausflug ins historische Bairro Almóada.\n\nSetzen Sie Ihren Roadtrip in Richtung Küste fort, um das historische Forte do Rato zu besuchen, ein altes Verteidigungsbauwerk, das einen herrlichen Panoramablick auf die Landschaft bietet.\n\nFahren Sie eine kurze Strecke zum Museum für traditionelle Thunfischerei, um in die Seefahrtsgeschichte einzutauchen, bevor Sie an den abgelegenen Ufern der Praia do Forte da Barra Ruhe finden.\n\nBeenden Sie Ihre Reise, indem Sie zur Küste fahren, wo Sie eine kurze Fährfahrt zur wunderschönen Praia da Terra Estreita bringt und der Tag mit einem Spaziergang entlang der Dünen endet.",
+        "hu": "Autózzon el a Tavira Science Centre-be egy interaktív felfedezésekkel teli izgalmas délelőttért, majd tegyen egy rövid utat a történelmi Bairro Almóada lenyűgöző utcáira.\n\nFolytassa útját a part felé, hogy meglátogassa a történelmi Forte do Rato-t, egy régi védelmi építményt, amely pazar panorámás kilátást nyújt az egész Ria Formosa tájra.\n\nVezessen egy rövid távot a hagyományos tonhalhalászat múzeumához, hogy elmerüljön a helyi tengerészet történetében, mielőtt nyugalmat talál a Praia do Forte da Barra eldugott partjain.\n\nZárja le utazását a part felé tartva, ahonnan egy kompjárat a csodás Praia da Terra Estreita strandra viszi, így a napot látványos kilátással és a dűnék menti pihentető sétával fejezheti be.",
+        "ro": "Conduceți spre Tavira Science Centre pentru o dimineață captivantă de descoperiri interactive, apoi faceți o scurtă călătorie către istoricul Bairro Almóada pentru a-i explora străzile.\n\nContinuați-vă excursia spre coastă pentru a vizita istoricul Forte do Rato, o structură de apărare veche care oferă vederi panoramice superbe asupra întregului peisaj Ria Formosa.\n\nConduceți o distanță scurtă până la Muzeul pescuitului de ton pentru a aprofunda istoria maritimă locală, înainte de a găsi liniște pe țărmurile izolate ale Praia do Forte da Barra.\n\nCompletați-vă călătoria îndreptându-vă spre coastă, unde o plimbare cu feribotul vă duce la Praia da Terra Estreita, încheind ziua cu vederi spectaculoase și o plimbare relaxantă pe dune.",
+        "en": "Drive to the Tavira Science Centre for an engaging morning of interactive discovery, then take a short trip to the historical Bairro Almóada to explore its ancient Moorish streets.\n\nContinue your road trip towards the coast to visit the historic Forte do Rato, an old defensive structure that offers sweeping panoramic views of the entire Ria Formosa landscape.\n\nDrive a short distance to the Museum of the traditional tuna fishing to delve into local seafaring history before finding tranquility at the secluded shores of Praia do Forte da Barra.\n\nComplete your journey by heading to the coast where a ferry ride takes you to Praia da Terra Estreita, ending your day with spectacular views and a relaxing stroll along the pristine dunes."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "city-chaves",
+  "anchor": {
+    "name": "Chaves",
+    "coords": [
+      -7.4688,
+      41.7402
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 1.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "EN2 Km 0",
+            "hu": "EN2 Km 0",
+            "ro": "EN2 Km 0",
+            "en": "EN2 Km 0"
+          },
+          "coords": [
+            -7.464921,
+            41.736725
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto am legendären Startpunkt der portugiesischen Route 66 und besuchen Sie das nahegelegene Tourismusbüro für weitere Tipps.",
+            "hu": "Készíts egy fotót a portugál 66-os út ikonikus kezdőpontján, amely egy epikus utazás kezdetét jelzi, majd látogass el a közeli irodába.",
+            "ro": "Fă o fotografie la punctul de plecare iconic al Rutei 66 a Portugaliei, marcând începutul unei călătorii epice, și vizitează biroul turistic.",
+            "en": "Snap a photo at the iconic starting point of Portugal's Route 66, marking the beginning of an epic journey, and visit the nearby tourist office."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim Público de Chaves",
+            "hu": "Jardim Público de Chaves",
+            "ro": "Jardim Público de Chaves",
+            "en": "Jardim Público de Chaves"
+          },
+          "coords": [
+            -7.466403,
+            41.736708
+          ],
+          "category": "park",
+          "arrive_at": "09:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese eleganten Gärten am Fluss Tâmega, perfekt für einen entspannten Morgenspaziergang vor der Erkundung des Zentrums.",
+            "hu": "Sétálj végig a Tâmega folyó melletti elegáns kerteken, amely tökéletes egy pihentető reggeli sétához a sűrű történelmi központ felfedezése előtt.",
+            "ro": "Plimbă-te prin aceste grădini elegante de pe malul râului Tâmega, perfecte pentru o dimineață relaxantă înainte de a explora centrul istoric.",
+            "en": "Stroll through these elegant gardens beside the Tâmega River, perfect for a relaxing morning walk before exploring the dense historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Trajano",
+            "hu": "Ponte de Trajano",
+            "ro": "Ponte de Trajano",
+            "en": "Ponte de Trajano"
+          },
+          "coords": [
+            -7.467081,
+            41.73826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese tadellos erhaltene römische Brücke über den Fluss und spazieren Sie über ihre massiven Bögen, genau wie einst die Legionen.",
+            "hu": "Csodáld meg a folyón átívelő, kifogástalanul megőrzött római hidat, és sétálj át a masszív boltíveken, ahogyan egykor a római légiók is tették.",
+            "ro": "Minunează-te de acest pod roman impecabil conservat și plimbă-te peste arcadele sale robuste exact așa cum făceau legiunile odinioară.",
+            "en": "Marvel at this impeccably preserved Roman bridge connecting the city over the river, and walk across its sturdy arches just as the legions did."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Termas Romanas de Chaves",
+            "hu": "Museu Termas Romanas de Chaves",
+            "ro": "Museu Termas Romanas de Chaves",
+            "en": "Museu Termas Romanas de Chaves"
+          },
+          "coords": [
+            -7.468058,
+            41.739333
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Heilbäder, die erst kürzlich freigelegt wurden und buchen Sie Ihre Tickets am besten im Voraus, um Wartezeiten zu sparen.",
+            "hu": "Fedezd fel a nemrégiben feltárt ősi gyógyfürdőket, amelyek hihetetlen bepillantást engednek a római fürdőkultúrába, de foglalj előre jegyet.",
+            "ro": "Descoperă băile medicinale antice recent scoase la iveală, care oferă o privire incredibilă asupra culturii balneare romane, și rezervă bilet.",
+            "en": "Discover the ancient medicinal baths uncovered recently, offering an incredible glimpse into Roman spa culture, but book tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ínsula do Arquivo Histórico de Chaves",
+            "hu": "Ínsula do Arquivo Histórico de Chaves",
+            "ro": "Ínsula do Arquivo Histórico de Chaves",
+            "en": "Ínsula do Arquivo Histórico de Chaves"
+          },
+          "coords": [
+            -7.469903,
+            41.740028
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende archäologische Stätte unter den Straßen der Stadt, die antike Wohnanlagen und das römische Alltagsleben zeigt.",
+            "hu": "Fedezd fel ezt a lenyűgöző régészeti lelőhelyet a város utcái alatt, amely feltárja az ősi lakóépületek elrendezését és a mindennapi életet.",
+            "ro": "Explorează acest sit arheologic fascinant ascuns sub străzile orașului, dezvăluind vechile aranjamente rezidențiale și viața de zi cu zi.",
+            "en": "Explore this fascinating archaeological site hidden beneath the city streets, revealing ancient residential layouts and daily Roman life details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Militar",
+            "hu": "Museu Militar",
+            "ro": "Museu Militar",
+            "en": "Museu Militar"
+          },
+          "coords": [
+            -7.471766,
+            41.739586
+          ],
+          "category": "museum",
+          "arrive_at": "13:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieses Museum im alten Burgfried zeigt beeindruckende Waffen vom Mittelalter bis zur Neuzeit und bietet einen tollen Panoramablick vom Turm.",
+            "hu": "Az öreg várban található múzeum lenyűgöző fegyvereket mutat be a középkortól a modern időkig, a toronyból pedig nagyszerű kilátás nyílik.",
+            "ro": "Găzduit în vechiul castel, acest muzeu expune arme impresionante din Evul Mediu până în epoca modernă, oferind vederi panoramice din turn.",
+            "en": "Housed within the old castle keep, this museum displays impressive weaponry from medieval to modern times, offering great panoramic tower views."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Francisco",
+            "hu": "Forte de São Francisco",
+            "ro": "Forte de São Francisco",
+            "en": "Forte de São Francisco"
+          },
+          "coords": [
+            -7.469135,
+            41.742972
+          ],
+          "category": "fortress",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser sternförmigen Festung, in der Sie frei auf den Wällen wandern und die spektakuläre Aussicht genießen können.",
+            "hu": "Fejezd be a sétát ennél a csillag alakú, szállodává alakított erődnél, ahol szabadon sétálhatsz a bástyákon, és élvezheted a csodás naplementét.",
+            "ro": "Încheie plimbarea la acest fort în formă de stea transformat în hotel, unde te poți plimba liber pe metereze pentru panorame la apus.",
+            "en": "Conclude your walk at this expansive star-shaped fort turned hotel, where you can freely wander the ramparts for spectacular sunset panoramas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am KM 0 und machen Sie einen entspannten Spaziergang im Ufergarten. Überqueren Sie am Mittag die alte Ponte de Trajano, um die römischen Thermalbäder und das historische Archiv zu erkunden. Entdecken Sie am Nachmittag die Waffen im Militärmuseum des alten Schlosses. Beenden Sie den Abend auf dem majestätischen Forte de São Francisco mit einem herrlichen Sonnenuntergang.",
+        "hu": "Kezdd a reggelt az ikonikus 0. kilométerkőnél, majd tegyél egy pihentető sétát a folyóparti kertben. Délben kelj át a Ponte de Trajano hídon, és fedezd fel a római örökséget a termálfürdőknél és a levéltárnál. Délután vizsgáld meg az öreg vár katonai múzeumának fegyvereit. Este zárd a napot a fenséges Forte de São Francisco erődben, ahol csodálatos naplementében gyönyörködhetsz a város felett.",
+        "ro": "Începe dimineața la iconicul KM 0, trecând la o plimbare relaxantă în grădina de pe râu. La prânz, traversează vechiul Ponte de Trajano pentru a explora moștenirea romană la băile termale și la arhivă. După-amiaza, descoperă armamentul istoric în muzeul militar al castelului vechi. Încheie seara pe maiestuosul Forte de São Francisco pentru a admira un apus de soare spectaculos deasupra orașului.",
+        "en": "Start your morning at the iconic KM 0, transitioning to a relaxing riverside garden stroll. By midday, cross the ancient Ponte de Trajano to dive into the Roman legacy at the thermal baths and archive site. In the afternoon, explore historic weaponry within the old castle's military museum. End your evening atop the majestic Forte de São Francisco for triumphant sunset views over the city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum of Contemporary Arts Nadir Afonso",
+            "hu": "Museum of Contemporary Arts Nadir Afonso",
+            "ro": "Museum of Contemporary Arts Nadir Afonso",
+            "en": "Museum of Contemporary Arts Nadir Afonso"
+          },
+          "coords": [
+            -7.465643,
+            41.741028
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit abstrakter Kunst in diesem modernen, von Álvaro Siza Vieira entworfenen Gebäude, das sich perfekt in die Ufer einfügt.",
+            "hu": "Kezdd a napot absztrakt művészettel ebben az Álvaro Siza Vieira által tervezett modern épületben, amely tökéletesen illeszkedik a folyóparthoz.",
+            "ro": "Începe ziua admirând artă abstractă în această clădire modernă proiectată de Álvaro Siza Vieira, integrându-se perfect cu malurile râului.",
+            "en": "Start your day admiring abstract art in this stunning modern building designed by Álvaro Siza Vieira, perfectly blending with the riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Trajano",
+            "hu": "Ponte de Trajano",
+            "ro": "Ponte de Trajano",
+            "en": "Ponte de Trajano"
+          },
+          "coords": [
+            -7.467081,
+            41.73826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese tadellos erhaltene römische Brücke über den Fluss und spazieren Sie über ihre massiven Bögen, genau wie einst die Legionen.",
+            "hu": "Csodáld meg a folyón átívelő, kifogástalanul megőrzött római hidat, és sétálj át a masszív boltíveken, ahogyan egykor a római légiók is tették.",
+            "ro": "Minunează-te de acest pod roman impecabil conservat și plimbă-te peste arcadele sale robuste exact așa cum făceau legiunile odinioară.",
+            "en": "Marvel at this impeccably preserved Roman bridge connecting the city over the river, and walk across its sturdy arches just as the legions did."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Termas Romanas de Chaves",
+            "hu": "Museu Termas Romanas de Chaves",
+            "ro": "Museu Termas Romanas de Chaves",
+            "en": "Museu Termas Romanas de Chaves"
+          },
+          "coords": [
+            -7.468058,
+            41.739333
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Heilbäder, die erst kürzlich freigelegt wurden und buchen Sie Ihre Tickets am besten im Voraus, um Wartezeiten zu sparen.",
+            "hu": "Fedezd fel a nemrégiben feltárt ősi gyógyfürdőket, amelyek hihetetlen bepillantást engednek a római fürdőkultúrába, de foglalj előre jegyet.",
+            "ro": "Descoperă băile medicinale antice recent scoase la iveală, care oferă o privire incredibilă asupra culturii balneare romane, și rezervă bilet.",
+            "en": "Discover the ancient medicinal baths uncovered recently, offering an incredible glimpse into Roman spa culture, but book tickets in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Postigo das Caldas",
+            "hu": "Postigo das Caldas",
+            "ro": "Postigo das Caldas",
+            "en": "Postigo das Caldas"
+          },
+          "coords": [
+            -7.470623,
+            41.73905
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Radeln Sie an diesem schmalen historischen Tor vorbei, einem Überrest der mittelalterlichen Stadtmauern, die einst die Thermalquellen schützten.",
+            "hu": "Kerékpározz el ezen a szűk történelmi kapun, amely a régi középkori falak maradványa, melyek egykor a külső betolakodóktól védték a fürdőket.",
+            "ro": "Pedalează pe lângă această poartă istorică îngustă, o rămășiță a vechilor ziduri medievale care protejau odinioară izvoarele termale.",
+            "en": "Cycle past this narrow historical gate, a remnant of the old medieval walls that once protected the thermal springs from outside invaders."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Francisco",
+            "hu": "Forte de São Francisco",
+            "ro": "Forte de São Francisco",
+            "en": "Forte de São Francisco"
+          },
+          "coords": [
+            -7.469135,
+            41.742972
+          ],
+          "category": "fortress",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser sternförmigen Festung, in der Sie frei auf den Wällen wandern und die spektakuläre Aussicht genießen können.",
+            "hu": "Fejezd be a sétát ennél a csillag alakú, szállodává alakított erődnél, ahol szabadon sétálhatsz a bástyákon, és élvezheted a csodás naplementét.",
+            "ro": "Încheie plimbarea la acest fort în formă de stea transformat în hotel, unde te poți plimba liber pe metereze pentru panorame la apus.",
+            "en": "Conclude your walk at this expansive star-shaped fort turned hotel, where you can freely wander the ramparts for spectacular sunset panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo de Chaves do Museu Ferroviário",
+            "hu": "Núcleo de Chaves do Museu Ferroviário",
+            "ro": "Núcleo de Chaves do Museu Ferroviário",
+            "en": "Núcleo de Chaves do Museu Ferroviário"
+          },
+          "coords": [
+            -7.470422,
+            41.745172
+          ],
+          "category": "museum",
+          "arrive_at": "14:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich die alten Lokomotiven in diesem speziellen Museum an, das das reiche Erbe des Eisenbahnverkehrs in der Region veranschaulicht.",
+            "hu": "Nézd meg a régi mozdonyokat és történelmi kocsikat ebben a múzeumban, amely a régió gazdag vasúti közlekedési örökségét mutatja be.",
+            "ro": "Vezi locomotivele de epocă și vagoanele istorice din acest muzeu specializat, care ilustrează moștenirea bogată a transportului feroviar.",
+            "en": "Check out the vintage locomotives and historic carriages in this specialized museum, illustrating the region's rich railway transportation heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Neutel",
+            "hu": "Forte de São Neutel",
+            "ro": "Forte de São Neutel",
+            "en": "Forte de São Neutel"
+          },
+          "coords": [
+            -7.4676,
+            41.750653
+          ],
+          "category": "fortress",
+          "arrive_at": "15:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser beeindruckenden Festung aus dem 17. Jahrhundert, die weite Grünflächen um ihren Wassergraben abseits der Massen bietet.",
+            "hu": "Tekerj fel ehhez a 17. századi duplafalú erődhöz, amely hatalmas zöldterületeket kínál a vizesárok körül, kevesebb tömeggel, mint a központban.",
+            "ro": "Pedalează până la această fortificație formidabilă din secolul al XVII-lea, oferind spații verzi vaste în jurul șanțului său și mai puțini turiști.",
+            "en": "Pedal up to this formidable 17th-century double-walled fortification, offering vast green spaces around its moat and fewer crowds than the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit moderner Kunst im Nadir-Afonso-Museum und radeln Sie zur römischen Brücke. Fahren Sie zu den Thermalbädern, um antike Geheimnisse zu entdecken, und passieren Sie das Tor Postigo das Caldas. Radeln Sie zur Festung São Francisco und erkunden Sie die Eisenbahngeschichte im Museum. Beenden Sie den Tag mit einer gemütlichen Fahrt zum Forte de São Neutel in der Abenddämmerung.",
+        "hu": "Kezdd kerékpártúrádat a kortárs művészetekkel a Nadir Afonso múzeumban, majd tekerj a masszív római híd felé. Látogass el a termálfürdőkbe az ősi titkokért, majd haladj át a Postigo das Caldas kapun. Kerékpározz fel az impozáns Forte de São Francisco erődhöz, és fedezd fel a mozdonyok történetét a múzeumban. Zárd a napot egy kellemes utazással a Forte de São Neutel felé a szürkületben.",
+        "ro": "Începe turul cu bicicleta admirând arta contemporană la muzeul Nadir Afonso, apoi pedalează spre podul roman. Mergi la băile termale pentru a descoperi secrete antice, urmat de o trecere rapidă prin poarta Postigo das Caldas. Urcă la impunătorul Forte de São Francisco și explorează istoria feroviară la muzeu. Termină cu o plimbare relaxantă până la Forte de São Neutel în amurg.",
+        "en": "Kickstart your cycling tour by admiring contemporary art at the Nadir Afonso museum, then wheel towards the sturdy Roman bridge. Ride to the thermal baths to discover ancient secrets, followed by a quick pass through the Postigo das Caldas gate. Cycle up to the imposing Forte de São Francisco and explore locomotive history at the railway museum. Finish with a steady ride up to Forte de São Neutel at twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barragem Romana da Abobeleira",
+            "hu": "Barragem Romana da Abobeleira",
+            "ro": "Barragem Romana da Abobeleira",
+            "en": "Barragem Romana da Abobeleira"
+          },
+          "coords": [
+            -7.491159,
+            41.756721
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den Überresten dieses antiken römischen Staudamms auf dem Land, der beeindruckende historische Ingenieurskunst zeigt.",
+            "hu": "Vezess ki a vidékre, hogy megnézd ennek az ősi római gátnak a maradványait, amely lenyűgöző történelmi mérnöki munkát mutat be egy csendes úton.",
+            "ro": "Condu pentru a vedea rămășițele acestui baraj roman antic ascuns în peisajul rural, prezentând o inginerie istorică impresionantă pe un traseu liniștit.",
+            "en": "Drive out to see the remains of this ancient Roman dam hidden in the countryside, showcasing impressive historical engineering on a quiet trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Neutel",
+            "hu": "Forte de São Neutel",
+            "ro": "Forte de São Neutel",
+            "en": "Forte de São Neutel"
+          },
+          "coords": [
+            -7.4676,
+            41.750653
+          ],
+          "category": "fortress",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser beeindruckenden Festung aus dem 17. Jahrhundert, die weite Grünflächen um ihren Wassergraben abseits der Massen bietet.",
+            "hu": "Tekerj fel ehhez a 17. századi duplafalú erődhöz, amely hatalmas zöldterületeket kínál a vizesárok körül, kevesebb tömeggel, mint a központban.",
+            "ro": "Pedalează până la această fortificație formidabilă din secolul al XVII-lea, oferind spații verzi vaste în jurul șanțului său și mai puțini turiști.",
+            "en": "Pedal up to this formidable 17th-century double-walled fortification, offering vast green spaces around its moat and fewer crowds than the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural de Chaves",
+            "hu": "Centro Cultural de Chaves",
+            "ro": "Centro Cultural de Chaves",
+            "en": "Centro Cultural de Chaves"
+          },
+          "coords": [
+            -7.468294,
+            41.746233
+          ],
+          "category": "cultural",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und erkunden Sie die lokalen Ausstellungen in diesem Zentrum, in dem oft regionale Künstler und Veranstaltungen stattfinden.",
+            "hu": "Parkolj le a közelben, és fedezd fel a helyi kiállításokat ebben a nyüzsgő kulturális központban, ahol gyakran mutatnak be regionális művészeket.",
+            "ro": "Parchează în apropiere și explorează expozițiile locale găzduite în acest centru cultural vibrant, care prezintă adesea artiști regionali.",
+            "en": "Park nearby and explore the local exhibitions hosted in this vibrant cultural hub, which often features regional artists and community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Francisco",
+            "hu": "Forte de São Francisco",
+            "ro": "Forte de São Francisco",
+            "en": "Forte de São Francisco"
+          },
+          "coords": [
+            -7.469135,
+            41.742972
+          ],
+          "category": "fortress",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser sternförmigen Festung, in der Sie frei auf den Wällen wandern und die spektakuläre Aussicht genießen können.",
+            "hu": "Fejezd be a sétát ennél a csillag alakú, szállodává alakított erődnél, ahol szabadon sétálhatsz a bástyákon, és élvezheted a csodás naplementét.",
+            "ro": "Încheie plimbarea la acest fort în formă de stea transformat în hotel, unde te poți plimba liber pe metereze pentru panorame la apus.",
+            "en": "Conclude your walk at this expansive star-shaped fort turned hotel, where you can freely wander the ramparts for spectacular sunset panoramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Militar",
+            "hu": "Museu Militar",
+            "ro": "Museu Militar",
+            "en": "Museu Militar"
+          },
+          "coords": [
+            -7.471766,
+            41.739586
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieses Museum im alten Burgfried zeigt beeindruckende Waffen vom Mittelalter bis zur Neuzeit und bietet einen tollen Panoramablick vom Turm.",
+            "hu": "Az öreg várban található múzeum lenyűgöző fegyvereket mutat be a középkortól a modern időkig, a toronyból pedig nagyszerű kilátás nyílik.",
+            "ro": "Găzduit în vechiul castel, acest muzeu expune arme impresionante din Evul Mediu până în epoca modernă, oferind vederi panoramice din turn.",
+            "en": "Housed within the old castle keep, this museum displays impressive weaponry from medieval to modern times, offering great panoramic tower views."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela da Granjinha",
+            "hu": "Capela da Granjinha",
+            "ro": "Capela da Granjinha",
+            "en": "Capela da Granjinha"
+          },
+          "coords": [
+            -7.491142,
+            41.729044
+          ],
+          "category": "religious",
+          "arrive_at": "16:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an dieser malerischen, romanischen Kapelle, die eine friedliche Atmosphäre und ländliche mittelalterliche Kunst bietet.",
+            "hu": "Fejezd be autós túrádat ennél az elszigetelt, román stílusú kápolnánál, amely rendkívül békés légkört és bepillantást kínál a középkori művészetbe.",
+            "ro": "Încheie călătoria la această capelă romanică izolată, oferind o atmosferă remarcabil de pașnică și o privire în arta medievală rurală.",
+            "en": "Finish your road trip at this quaint, isolated Romanesque chapel, offering a remarkably peaceful atmosphere and a glimpse into rural medieval art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie an den Stadtrand, um den verborgenen römischen Damm von Abobeleira zu entdecken, ein antikes Meisterwerk. Erkunden Sie das massive Forte de São Neutel, bevor Sie die Ausstellungen im Kulturzentrum besuchen. Fahren Sie zum Forte de São Francisco für Militärgeschichte und besuchen Sie das Schlossmuseum. Zum Abschluss fahren Sie nach Süden zur ländlichen Capela da Granjinha.",
+        "hu": "Vezess ki a városból, hogy felfedezd a rejtett római gátat Abobeleirában, az ősi mérnöki munka békés emlékművét. Térj vissza a masszív Forte de São Neutel felfedezéséhez, majd állj meg a kulturális központnál. Keresd fel a Forte de São Francisco-t a hadtörténetért, majd látogasd meg a kastélymúzeumot. Végül vezess délre a csendes, vidéki Capela da Granjinha kápolnához.",
+        "ro": "Condu la periferie pentru a descoperi barajul roman ascuns din Abobeleira, o dovadă a ingineriei antice. Întoarce-te pentru a explora masivul Forte de São Neutel înainte de a te opri pentru expoziții la centrul cultural. Navighează spre Forte de São Francisco pentru istorie militară, apoi vizitează muzeul castelului. Încheie conducând spre sud la liniștita și rurala Capela da Granjinha.",
+        "en": "Drive to the outskirts to uncover the hidden Roman dam of Abobeleira, a testament to ancient engineering in a serene landscape. Head back to explore the massive Forte de São Neutel before stopping for exhibits at the cultural center. Navigate to Forte de São Francisco for military history, then visit the prominent castle museum. Conclude by driving south to the tranquil, rural Capela da Granjinha."
+      }
+    }
+  }
+}

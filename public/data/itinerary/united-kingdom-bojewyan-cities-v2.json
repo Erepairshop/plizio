@@ -1,0 +1,474 @@
+{
+  "city_id": "united-kingdom-bojewyan-cities-v2",
+  "anchor": {
+    "name": "Bojewyan",
+    "coords": [
+      -5.65264,
+      50.15471
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St John the Baptist",
+            "hu": "St John the Baptist",
+            "ro": "Sfântul Ioan Botezătorul",
+            "en": "St John the Baptist"
+          },
+          "coords": [
+            -5.665331,
+            50.150097
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizvolle historische Kirche, die den lokalen Glauben repräsentiert, und besuchen Sie sie tagsüber, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel ezt a helyi hitet képviselő hangulatos, történelmi templomot, és látogassa meg nappal, hogy teljes mértékben élvezhesse a nyugalmát.",
+            "ro": "Descoperiți această biserică istorică fermecătoare ce reprezintă credința locală și vizitați-o pe timpul zilei pentru a vă bucura de liniștea sa.",
+            "en": "Discover this charming historic church representing the local faith, but remember to respect its serene atmosphere and visit during daytime hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Chimney",
+            "hu": "Chimney",
+            "ro": "Coșul de fum",
+            "en": "Chimney"
+          },
+          "coords": [
+            -5.655733,
+            50.148895
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten historischen Schornstein als Zeugnis der industriellen Vergangenheit und tragen Sie beim Erkunden festes Schuhwerk.",
+            "hu": "Csodálja meg a régió ipari múltjáról tanúskodó lenyűgöző történelmi kéményt, és viseljen kényelmes, masszív cipőt az alapjának felfedezéséhez.",
+            "ro": "Admirați acest coș de fum istoric ce stă mărturie trecutului industrial al regiunii și purtați încălțăminte robustă pentru a-i explora baza.",
+            "en": "Admire this striking historic mining chimney that stands as a testament to the region's industrial past, and wear sturdy shoes to explore its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Portheras Cove",
+            "hu": "Portheras Cove",
+            "ro": "Golful Portheras",
+            "en": "Portheras Cove"
+          },
+          "coords": [
+            -5.658161,
+            50.164115
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem einsamen Sandstrand, der für Robben berühmt ist, und packen Sie eine Windjacke ein, da die Meeresbrise recht stark weht.",
+            "hu": "Pihenjen ezen az eldugott homokos strandon, amely a fókalátványosságokról ismert, de vigyen széldzsekit, mert az óceáni szellő itt eléggé erős.",
+            "ro": "Relaxați-vă pe această plajă retrasă renumită pentru foci și stânci dramatice, dar aduceți o jachetă de vânt deoarece briza de coastă e puternică.",
+            "en": "Relax at this secluded sandy beach famous for its dramatic cliffs and local seal sightings, but pack a windbreaker as the coastal breeze is strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Boat Cove",
+            "hu": "Boat Cove",
+            "ro": "Golful Bărcilor",
+            "en": "Boat Cove"
+          },
+          "coords": [
+            -5.662364,
+            50.164834
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die maritime Atmosphäre dieser kleinen Arbeitsbucht mit lebendiger Fischertradition und achten Sie auf die rutschigen Hellinganlagen.",
+            "hu": "Élvezze ennek a kis működő öbölnek a tengeri hangulatát, ahol élnek a halászhagyományok, és lépkedjen óvatosan a nedves, csúszós sólyatereken.",
+            "ro": "Bucurați-vă de atmosfera maritimă a acestui mic golf unde tradițiile de pescuit supraviețuiesc și pășiți cu mare grijă pe rampele mereu alunecoase.",
+            "en": "Enjoy the quaint maritime atmosphere of this small working cove where fishing traditions survive, and step carefully on the slippery, wet slipways."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendeen",
+            "hu": "Pendeen",
+            "ro": "Reperul Pendeen",
+            "en": "Pendeen"
+          },
+          "coords": [
+            -5.671563,
+            50.164977
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean von diesem Wahrzeichen aus und bringen Sie ein Fernglas mit, um Seevögel an der Küste zu beobachten.",
+            "hu": "Gyönyörködjön a lenyűgöző óceáni kilátásban ebből az ikonikus térségből, és mindenképp hozzon távcsövet a part menti tengeri madarak megfigyeléséhez.",
+            "ro": "Admirați priveliștea vastă asupra oceanului de la acest punct de reper emblematic și aduceți un binoclu pentru a observa păsările de pe coastă.",
+            "en": "Take in the expansive ocean views from this iconic landmark area, making sure to bring your binoculars to spot seabirds along the rugged coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der ruhigen Geschichte von St John the Baptist und spazieren Sie dann zum markanten historischen Schornstein. Mittags geht es an die Küste, um die wilde Schönheit der Portheras Cove zu entdecken. Am Nachmittag können Sie die maritime Arbeitsatmosphäre in Boat Cove genießen. Lassen Sie den Abend am Wahrzeichen Pendeen ausklingen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a Keresztelő Szent János-templom békés történelmével, majd sétáljon el a lenyűgöző kéményhez. A dél a part felé viszi, ahol felfedezheti a Portheras Cove zord szépségét. Délután élvezze a Boat Cove apró, de működő kikötőjének egyedi tengeri hangulatát. Zárja az estét a Pendeen kilátónál, miközben a nap lassan lebukik az óceán horizontja mögött.",
+        "ro": "Începeți dimineața absorbind istoria liniștită la Sfântul Ioan Botezătorul, urmată de o plimbare spre coșul de fum istoric. La prânz, mergeți spre coastă pentru a descoperi frumusețea izolată a golfului Portheras. După-amiaza, bucurați-vă de atmosfera maritimă pitorească de la Boat Cove. Încheiați seara la reperul Pendeen, privind apusul soarelui peste oceanul nemărginit.",
+        "en": "Start your morning absorbing the tranquil history at St John the Baptist, followed by a short walk to see the striking historic Chimney. Midday takes you towards the coast to discover the secluded, rugged beauty of Portheras Cove. In the afternoon, enjoy the quaint, working maritime atmosphere at Boat Cove. Conclude your evening at the Pendeen landmark, watching the sun dip over the ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Bridget's Church",
+            "hu": "Szent Brigitta-templom",
+            "ro": "Biserica Sfânta Bridget",
+            "en": "St Bridget's Church"
+          },
+          "coords": [
+            -5.638669,
+            50.161991
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche Pfarrkirche mit beeindruckenden architektonischen Details und achten Sie bei Ihrem Besuch auf laufende Gottesdienste.",
+            "hu": "Fedezze fel ezt a lenyűgöző építészeti részletekkel büszkélkedő békés plébániatemplomot, és legyen tekintettel a helyi közösség istentiszteleteire.",
+            "ro": "Explorați această biserică parohială liniștită, cu detalii arhitecturale impresionante, respectând slujbele comunității când planificați vizita.",
+            "en": "Explore this peaceful parish church boasting impressive architectural details, and be mindful of ongoing community services when planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chûn Quoit",
+            "hu": "Chûn Quoit",
+            "ro": "Chûn Quoit",
+            "en": "Chûn Quoit"
+          },
+          "coords": [
+            -5.637741,
+            50.148595
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen gut erhaltenen neolithischen Dolmen in der Moorlandschaft und bleiben Sie auf den Wegen, um die empfindliche Stätte zu schützen.",
+            "hu": "Csodálja meg ezt a mocsárvidéket uraló, figyelemre méltóan megőrzött neolitikus dolment, és maradjon a kijelölt utakon az ősi helyszín védelmében.",
+            "ro": "Minunați-vă de acest dolmen neolitic bine conservat ce domină mlaștina și rămâneți pe cărările marcate pentru a proteja acest sit antic fragil.",
+            "en": "Marvel at this remarkably preserved Neolithic dolmen dominating the moorland, and stay on the designated paths to protect the fragile ancient site."
+          }
+        },
+        {
+          "name": {
+            "de": "Tregeseal East Stone Circle",
+            "hu": "Tregeseal Keleti Kőkör",
+            "ro": "Cercul de Pietre Tregeseal Est",
+            "en": "Tregeseal East Stone Circle"
+          },
+          "coords": [
+            -5.658582,
+            50.133716
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen mystischen alten Steinen in der rauen kornischen Landschaft und nehmen Sie sich Zeit, die ruhige Energie aufzunehmen.",
+            "hu": "Sétáljon a nyers cornwalli tájba simuló misztikus ősi kövek között, és szánjon egy kis extra időt a hely különleges, csendes energiájának átélésére.",
+            "ro": "Plimbați-vă printre aceste pietre antice mistice așezate în peisajul dur din Cornwall și acordați-vă timp suplimentar pentru a absorbi energia.",
+            "en": "Wander among these mystical ancient stones set against the raw Cornish landscape, allowing extra time to simply absorb the powerful quiet energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Carn Kenidjack",
+            "hu": "Carn Kenidjack",
+            "ro": "Carn Kenidjack",
+            "en": "Carn Kenidjack"
+          },
+          "coords": [
+            -5.657007,
+            50.139106
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem faszinierenden Felsvorsprung voller lokaler Legenden und prüfen Sie unbedingt das Wetter vor dem Aufstieg im offenen Gelände.",
+            "hu": "Túrázzon fel ehhez a helyi legendákkal övezett, lenyűgöző sziklás kiemelkedéshez, és a nyílt terep miatt mindenképpen ellenőrizze az időjárást.",
+            "ro": "Urcați spre acest afloriment stâncos fascinant înconjurat de legende locale, asigurându-vă că verificați vremea înainte de a aborda terenul expus.",
+            "en": "Hike up to this fascinating rocky outcrop surrounded by local folklore and legends, ensuring you check the weather before tackling the exposed terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Geevor Tin Mine",
+            "hu": "Geevor Ónbánya",
+            "ro": "Mina de Staniu Geevor",
+            "en": "Geevor Tin Mine"
+          },
+          "coords": [
+            -5.675982,
+            50.151948
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte des kornischen Zinnbergbaus ein und buchen Sie die Untertage-Tour frühzeitig, um sich einen Platz zu sichern.",
+            "hu": "Merüljön el a cornwalli ónbányászat lenyűgöző történetében az interaktív kiállításokon, és foglalja le korán a földalatti túrát a biztos bejutáshoz.",
+            "ro": "Descoperiți istoria fascinantă a mineritului de staniu prin exponate interactive și rezervați-vă turul subteran din timp pentru a garanta un loc.",
+            "en": "Plunge into the fascinating history of Cornish tin mining through interactive exhibits, and book the underground tour early to secure your spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hard Rock Museum",
+            "hu": "Hard Rock Múzeum",
+            "ro": "Muzeul Hard Rock",
+            "en": "Hard Rock Museum"
+          },
+          "coords": [
+            -5.675053,
+            50.152293
+          ],
+          "category": "museum",
+          "arrive_at": "16:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erforschen Sie die geologischen Schätze der Region und bitten Sie das fachkundige Personal, Ihnen die seltenen Mineralienausstellungen zu erklären.",
+            "hu": "Ismerje meg jobban a régió geológiai kincseit és bányászati technikáit, és bátran kérje a szakértő személyzet segítségét a ritka ásványoknál.",
+            "ro": "Aprofundați comorile geologice și tehnicile miniere ale regiunii, rugând personalul foarte bine pregătit să vă explice vitrinele cu minerale rare.",
+            "en": "Delve deeper into the region's geological treasures and mining techniques, asking the highly knowledgeable staff to explain the rare mineral displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der friedlichen St Bridget's Church, bevor Sie zum faszinierenden Chûn Quoit radeln. Mittags verbinden Sie sich mit den mystischen Energien des Tregeseal Stone Circle und Carn Kenidjack. Der Nachmittag ist der reichen Industriegeschichte Cornwalls in der Geevor Tin Mine gewidmet. Beenden Sie den Tag im Hard Rock Museum bei der Erkundung seltener Mineralien.",
+        "hu": "Kezdje a kerékpártúrát a békés Szent Brigitta-templomnál, mielőtt eltekerne az ősi és lenyűgöző Chûn Quoit dolmenhez. Délre már a Tregeseal Kőkör és a Carn Kenidjack misztikus energiáival ismerkedhet. A délutánt Cornwall gazdag ipari múltjának, a Geevor Ónbányának szentelheti. A napot a Hard Rock Múzeumban ritka ásványok felfedezésével fejezheti be egy tartalmas utazás végén.",
+        "ro": "Începeți turul cu bicicleta la liniștita Biserică St Bridget înainte de a pedala spre fascinantul Chûn Quoit. La prânz, conectați-vă cu energiile mistice ale Cercului de Pietre Tregeseal și Carn Kenidjack. După-amiaza este dedicată istoriei industriale din Cornwall la uriașa Mină de Staniu Geevor. Încheiați ziua explorând minerale rare la muzeul impresionant Hard Rock Museum.",
+        "en": "Kick off your cycling tour at the peaceful St Bridget's Church before pedaling to the ancient and fascinating Chûn Quoit. By midday, connect with the mystical energies of the Tregeseal East Stone Circle and Carn Kenidjack. Your afternoon is dedicated to Cornwall's rich industrial past at the sprawling Geevor Tin Mine. Finish the day exploring rare minerals at the Hard Rock Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chûn Quoit",
+            "hu": "Chûn Quoit",
+            "ro": "Chûn Quoit",
+            "en": "Chûn Quoit"
+          },
+          "coords": [
+            -5.637741,
+            50.148595
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen gut erhaltenen neolithischen Dolmen in der Moorlandschaft und bleiben Sie auf den Wegen, um die empfindliche Stätte zu schützen.",
+            "hu": "Csodálja meg ezt a mocsárvidéket uraló, figyelemre méltóan megőrzött neolitikus dolment, és maradjon a kijelölt utakon az ősi helyszín védelmében.",
+            "ro": "Minunați-vă de acest dolmen neolitic bine conservat ce domină mlaștina și rămâneți pe cărările marcate pentru a proteja acest sit antic fragil.",
+            "en": "Marvel at this remarkably preserved Neolithic dolmen dominating the moorland, and stay on the designated paths to protect the fragile ancient site."
+          }
+        },
+        {
+          "name": {
+            "de": "Tregeseal East Stone Circle",
+            "hu": "Tregeseal Keleti Kőkör",
+            "ro": "Cercul de Pietre Tregeseal Est",
+            "en": "Tregeseal East Stone Circle"
+          },
+          "coords": [
+            -5.658582,
+            50.133716
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen mystischen alten Steinen in der rauen kornischen Landschaft und nehmen Sie sich Zeit, die ruhige Energie aufzunehmen.",
+            "hu": "Sétáljon a nyers cornwalli tájba simuló misztikus ősi kövek között, és szánjon egy kis extra időt a hely különleges, csendes energiájának átélésére.",
+            "ro": "Plimbați-vă printre aceste pietre antice mistice așezate în peisajul dur din Cornwall și acordați-vă timp suplimentar pentru a absorbi energia.",
+            "en": "Wander among these mystical ancient stones set against the raw Cornish landscape, allowing extra time to simply absorb the powerful quiet energy."
+          }
+        },
+        {
+          "name": {
+            "de": "St John the Baptist",
+            "hu": "St John the Baptist",
+            "ro": "Sfântul Ioan Botezătorul",
+            "en": "St John the Baptist"
+          },
+          "coords": [
+            -5.665331,
+            50.150097
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizvolle historische Kirche, die den lokalen Glauben repräsentiert, und besuchen Sie sie tagsüber, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel ezt a helyi hitet képviselő hangulatos, történelmi templomot, és látogassa meg nappal, hogy teljes mértékben élvezhesse a nyugalmát.",
+            "ro": "Descoperiți această biserică istorică fermecătoare ce reprezintă credința locală și vizitați-o pe timpul zilei pentru a vă bucura de liniștea sa.",
+            "en": "Discover this charming historic church representing the local faith, but remember to respect its serene atmosphere and visit during daytime hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Higher Bal Engine and Boiler House",
+            "hu": "Higher Bal Motor- és Kazánház",
+            "ro": "Casa Motorului Higher Bal",
+            "en": "Higher Bal Engine and Boiler House"
+          },
+          "coords": [
+            -5.681946,
+            50.148087
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die Ruinen dieses viktorianischen Meisterwerks und versuchen Sie, am späten Nachmittag zu kommen, wenn das Mauerwerk warm leuchtet.",
+            "hu": "Fotózza le ennek a viktoriánus mérnöki csodának a lenyűgöző romjait, és próbáljon késő délután érkezni, amikor a kőművesmunka meleg fényben ragyog.",
+            "ro": "Fotografiați ruinele impresionante ale acestei minuni inginerești victoriene și vizitați după-amiaza târziu pentru o lumină caldă asupra pietrei.",
+            "en": "Photograph the impressive ruins of this Victorian engineering marvel, trying to visit in the late afternoon when the stonework glows warmly."
+          }
+        },
+        {
+          "name": {
+            "de": "Compressor House",
+            "hu": "Kompresszorház",
+            "ro": "Casa Compresorului",
+            "en": "Compressor House"
+          },
+          "coords": [
+            -5.683942,
+            50.152024
+          ],
+          "category": "historical",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen wichtigen Teil der Bergbauinfrastruktur aus der Nähe und achten Sie auf die schweren Industriemaschinen von einst.",
+            "hu": "Vizsgálja meg közelebbről a történelmi bányászati infrastruktúra ezen létfontosságú elemét, figyelemmel az egykor a műveleteket hajtó nehézgépekre.",
+            "ro": "Inspectați această componentă vitală a infrastructurii miniere istorice de aproape, observând mașinăriile grele care odată alimentau operațiunile.",
+            "en": "Inspect this vital component of the historic mining infrastructure up close, noting the heavy industrial machinery that once powered the operations."
+          }
+        },
+        {
+          "name": {
+            "de": "Arsenic Calciner",
+            "hu": "Arzénpörkölő",
+            "ro": "Calcinator de Arsenic",
+            "en": "Arsenic Calciner"
+          },
+          "coords": [
+            -5.681679,
+            50.15486
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die gefährliche Gewinnung von Arsen aus Zinnerz, aber bleiben Sie dabei unbedingt außerhalb der abgesperrten Schutzbereiche.",
+            "hu": "Ismerje meg itt az arzén ónércből történő kinyerésének veszélyes folyamatát, de mindenképpen maradjon a kötéllel elkerített védett területeken kívül.",
+            "ro": "Aflați despre procesul periculos de extracție a arsenicului din staniu, dar amintiți-vă să rămâneți complet în afara zonelor de conservare delimitate.",
+            "en": "Learn about the dangerous process of extracting arsenic from tin ore here, but remember to stay outside the roped-off conservation areas entirely."
+          }
+        },
+        {
+          "name": {
+            "de": "Portheras Cove",
+            "hu": "Portheras Cove",
+            "ro": "Golful Portheras",
+            "en": "Portheras Cove"
+          },
+          "coords": [
+            -5.658161,
+            50.164115
+          ],
+          "category": "recreational",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem einsamen Sandstrand, der für Robben berühmt ist, und packen Sie eine Windjacke ein, da die Meeresbrise recht stark weht.",
+            "hu": "Pihenjen ezen az eldugott homokos strandon, amely a fókalátványosságokról ismert, de vigyen széldzsekit, mert az óceáni szellő itt eléggé erős.",
+            "ro": "Relaxați-vă pe această plajă retrasă renumită pentru foci și stânci dramatice, dar aduceți o jachetă de vânt deoarece briza de coastă e puternică.",
+            "en": "Relax at this secluded sandy beach famous for its dramatic cliffs and local seal sightings, but pack a windbreaker as the coastal breeze is strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh in die weiten Moore, um Chûn Quoit und den Tregeseal Stone Circle im Morgenlicht zu sehen. Mittags führt der Weg an St John the Baptist vorbei zur beeindruckenden Ruine der Higher Bal Engine. Verbringen Sie den Nachmittag bei der Besichtigung des Compressor House und des Arsenic Calciner. Beenden Sie die Tour mit einem entspannenden Abendspaziergang an der Portheras Cove.",
+        "hu": "Vezessen kora reggel a mocsárvidékre, hogy a reggeli fényben csodálja meg a Chûn Quoit-t és a Tregeseal Kőkört. Délben a Keresztelő Szent János-templom mellett elhaladva a Higher Bal Engine romjaihoz ér. A délutánt a Kompresszorház és a történelmi Arzénpörkölő megtekintésével töltheti. Zárja átfogó túráját egy kellemes, pihentető esti tengerparti sétával a Portheras Cove partján.",
+        "ro": "Conduceți devreme spre mlaștini pentru a vedea Chûn Quoit și Cercul de Pietre Tregeseal în lumina dimineții. Prânzul vă aduce pe lângă Sf. Ioan Botezătorul la ruinele motorului Higher Bal. Petreceți după-amiaza inspectând fascinanta Casă a Compresorului și Calcinatorul de Arsenic istoric. Încheiați acest tur cuprinzător cu o plimbare relaxantă de seară pe plaja golfului Portheras.",
+        "en": "Drive early to the sweeping moors to witness the ancient Chûn Quoit and Tregeseal East Stone Circle in the morning light. Midday brings you past St John the Baptist to the imposing ruins of the Higher Bal Engine. Spend your afternoon inspecting the fascinating Compressor House and the historic Arsenic Calciner. Wrap up your comprehensive tour with a relaxing evening walk at Portheras Cove."
+      }
+    }
+  }
+}

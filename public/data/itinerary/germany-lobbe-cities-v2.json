@@ -1,0 +1,474 @@
+{
+  "city_id": "germany-lobbe-cities-v2",
+  "anchor": {
+    "name": "Lobbe",
+    "coords": [
+      13.7195,
+      54.31856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museumsschiff Luise",
+            "hu": "Museumsschiff Luise",
+            "ro": "Museumsschiff Luise",
+            "en": "Museumsschiff Luise"
+          },
+          "coords": [
+            13.736182,
+            54.334488
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Frachtsegler, der die maritime Geschichte Rügens veranschaulicht, und betreten Sie das Deck frühzeitig, um den besten Blick auf die Takelage zu genießen.",
+            "hu": "Csodálja meg ezt a történelmi teherhajót, amely Rügen tengeri múltját idézi, és érkezzen korán, hogy zavartalanul fedezhesse fel a fedélzetet és a kötélzetet.",
+            "ro": "Admirați acest velier de marfă istoric ce ilustrează trecutul maritim al insulei Rügen și urcați pe punte devreme pentru a observa îndeaproape catargul impresionant.",
+            "en": "Admire this historical cargo sailboat that illustrates Rügen's maritime past, and step onto the deck early in the day for the best view of the intricate rigging."
+          }
+        },
+        {
+          "name": {
+            "de": "Südstrand",
+            "hu": "Südstrand",
+            "ro": "Südstrand",
+            "en": "Südstrand"
+          },
+          "coords": [
+            13.734212,
+            54.329925
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Südstrand, der mit seinem feinen Sand eine ruhige Auszeit bietet, und bringen Sie unbedingt eine windfeste Decke für den perfekten Komfort mit.",
+            "hu": "Pihenjen meg a tágas déli strandon, amely finom homokjával tökéletes nyugalmat kínál, de mindenképpen hozzon magával szélálló takarót a teljes kényelem érdekében.",
+            "ro": "Relaxați-vă pe plaja întinsă din sud, care oferă o evadare liniștită prin nisipul ei fin, și nu uitați să aduceți o pătură rezistentă la vânt pentru un confort deplin.",
+            "en": "Relax on the expansive south beach, which offers a tranquil escape with its fine sand, and be sure to bring a windproof blanket for maximum comfort during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Lobber Ort",
+            "hu": "Lobber Ort",
+            "ro": "Lobber Ort",
+            "en": "Lobber Ort"
+          },
+          "coords": [
+            13.728596,
+            54.31819
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses naturbelassene Kap, das mit seiner rauen Küstenlinie fasziniert, und tragen Sie festes Schuhwerk, da die Wege entlang der Klippen rutschig sein können.",
+            "hu": "Fedezze fel ezt a természetes formájában megőrzött fokot, amely lenyűgöző, zord partszakasszal bír, és viseljen stabil cipőt, mert a sziklák menti ösvények csúszósak.",
+            "ro": "Explorați acest cap natural, care fascinează prin linia sa de coastă accidentată, și purtați încălțăminte robustă, deoarece potecile de pe stânci pot fi alunecoase.",
+            "en": "Explore this natural cape, which fascinates with its rugged coastline, and wear sturdy footwear as the trails along the dramatic cliffs can often be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand",
+            "hu": "Hundestrand",
+            "ro": "Hundestrand",
+            "en": "Hundestrand"
+          },
+          "coords": [
+            13.718378,
+            54.310759
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem hundefreundlichen Küstenabschnitt, wo Vierbeiner frei spielen können, und bringen Sie ausreichend Wasser für Ihr Haustier mit.",
+            "hu": "Élvezze a laza hangulatot ezen a kutyabarát partszakaszon, ahol a négylábúak szabadon játszhatnak, és hozzon magával elegendő friss vizet kedvence számára.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de pe acest segment de coastă prietenos cu câinii, unde animalele se pot juca liber, și aduceți multă apă proaspătă pentru animalul dvs.",
+            "en": "Enjoy the relaxed atmosphere on this dog-friendly stretch of coast where pets can play freely, and remember to bring plenty of fresh water to keep your furry friend hydrated."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand",
+            "hu": "Großer Strand",
+            "ro": "Großer Strand",
+            "en": "Großer Strand"
+          },
+          "coords": [
+            13.717953,
+            54.297885
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des endlos scheinenden Großen Strandes, der perfekte Bedingungen für ausgedehnte Strandwanderungen bietet, und besuchen Sie ihn am späten Nachmittag für bestes Licht.",
+            "hu": "Sétáljon végig a végtelennek tűnő nagy strandon, amely ideális a hosszú tengerparti túrákhoz, és időzítse látogatását késő délutánra, amikor a legszebbek a fények.",
+            "ro": "Plimbați-vă de-a lungul marii plaje aparent nesfârșite, ideală pentru drumeții lungi pe malul mării, și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină.",
+            "en": "Stroll along the seemingly endless Great Beach, which offers perfect conditions for long coastal walks, and time your visit for late afternoon to capture the most stunning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt maritim am Museumsschiff Luise und führt Sie an den entspannten Südstrand. Mittags erkunden Sie die rauen Klippen am naturbelassenen Lobber Ort. Nachmittags spazieren Sie gemütlich zum Hundestrand, wo Sie die frische Brise genießen. Der Abend klingt mit einem langen Spaziergang am endlosen Großen Strand friedlich aus.",
+        "hu": "A reggel a Museumsschiff Luise tengeri hangulatával indul, majd a nyugodt déli strandra vezet. Délben Lobber Ort érintetlen szikláit fedezheti fel. Délután a kutyabarát partszakaszhoz sétálva élvezheti a tengeri szellőt. Az este a végtelen Großer Strand finom homokján, egy csendes sétával zárul a naplemente fényeiben.",
+        "ro": "Dimineața începe maritim la Museumsschiff Luise și vă poartă spre relaxanta plajă din sud. La amiază explorați stâncile aspre de la pitorescul Lobber Ort. După-amiaza vă plimbați agale spre plaja câinilor, unde savurați briza proaspătă. Seara se încheie liniștit cu o plimbare lungă pe nisipul nesfârșit de la Großer Strand.",
+        "en": "The morning begins with a maritime touch at Museumsschiff Luise, leading to the relaxing south beach. At midday, you will explore the rugged cliffs at the natural Lobber Ort. The afternoon invites you for a stroll to the dog-friendly beach to enjoy the fresh breeze. Your evening concludes peacefully along the seemingly endless Great Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:03",
+      "total_km": 9.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schafberg bei Mariendorf",
+            "hu": "Schafberg bei Mariendorf",
+            "ro": "Schafberg bei Mariendorf",
+            "en": "Schafberg bei Mariendorf"
+          },
+          "coords": [
+            13.686547,
+            54.327132
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Landschaft dieses sanften Hügels, der einen weiten Blick über die Halbinsel Mönchgut gewährt, und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Tapasztalja meg ennek a lankás dombnak az idilli táját, amely panorámás kilátást nyújt a Mönchgut-félszigetre, és vigyen magával egy távcsövet a madármegfigyeléshez.",
+            "ro": "Experimentați peisajul idilic al acestui deal blând ce oferă o panoramă largă asupra peninsulei Mönchgut și luați cu voi un binoclu pentru a observa păsările din zonă.",
+            "en": "Experience the idyllic landscape of this gentle hill that grants a sweeping view over the Mönchgut peninsula, and bring a pair of binoculars for excellent birdwatching opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Kleinhagen",
+            "hu": "Strand Kleinhagen",
+            "ro": "Strand Kleinhagen",
+            "en": "Strand Kleinhagen"
+          },
+          "coords": [
+            13.694968,
+            54.324886
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigen Küstenabschnitt, der abseits der großen Touristenströme echte Erholung verspricht, und packen Sie ein Picknick ein, da es hier keine Strandkörbe gibt.",
+            "hu": "Fedezze fel ezt a csendes partszakaszt, amely a tömegtől távol igazi kikapcsolódást ígér, és pakoljon be egy piknikkosarat, mivel itt nincsenek bérelhető strandkosarak.",
+            "ro": "Descoperiți această secțiune liniștită de coastă, care promite o relaxare autentică departe de mulțimi, și aduceți o gustare de picnic, deoarece aici nu veți găsi șezlonguri.",
+            "en": "Discover this quiet stretch of coast that promises genuine relaxation away from the tourist crowds, and pack a picnic lunch since there are no beach chairs available for rent."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum",
+            "hu": "Schulmuseum",
+            "ro": "Schulmuseum",
+            "en": "Schulmuseum"
+          },
+          "coords": [
+            13.704069,
+            54.330272
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem historischen Schulgebäude in den historischen Unterricht auf Rügen ein, und setzen Sie sich unbedingt in die alten Holzbänke, um die Atmosphäre zu spüren.",
+            "hu": "Merüljön el a régi idők rügeni oktatásának világában ebben a történelmi iskolaépületben, és mindenképpen üljön be a régi fapadokba, hogy átérezze a korszak hangulatát.",
+            "ro": "Cufundați-vă în atmosfera lecțiilor istorice din Rügen în această școală veche și asigurați-vă că vă așezați în băncile din lemn masiv pentru a simți cu adevărat spiritul locului.",
+            "en": "Immerse yourself in the historical classroom experience of Rügen inside this old school building, and make sure to sit in the antique wooden desks to truly feel the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzwiesen bei Middelhagen",
+            "hu": "Salzwiesen bei Middelhagen",
+            "ro": "Salzwiesen bei Middelhagen",
+            "en": "Salzwiesen bei Middelhagen"
+          },
+          "coords": [
+            13.701299,
+            54.323287
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese einzigartigen Salzwiesen, die eine seltene Flora und Fauna beherbergen, und bleiben Sie unbedingt auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Sétáljon végig ezeken a különleges sós mocsarakon, amelyek ritka növény- és állatvilágnak adnak otthont, és szigorúan maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelme érdekében.",
+            "ro": "Plimbați-vă prin aceste mlaștini sărate unice, ce găzduiesc o floră și o faună rară, și asigurați-vă că rămâneți pe traseele marcate pentru a proteja acest ecosistem fragil.",
+            "en": "Wander through these unique salt marshes that host rare flora and fauna, and strictly stay on the designated marked trails to protect the highly sensitive local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Luise",
+            "hu": "Museumsschiff Luise",
+            "ro": "Museumsschiff Luise",
+            "en": "Museumsschiff Luise"
+          },
+          "coords": [
+            13.736182,
+            54.334488
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Frachtsegler, der die maritime Geschichte Rügens veranschaulicht, und betreten Sie das Deck frühzeitig, um den besten Blick auf die Takelage zu genießen.",
+            "hu": "Csodálja meg ezt a történelmi teherhajót, amely Rügen tengeri múltját idézi, és érkezzen korán, hogy zavartalanul fedezhesse fel a fedélzetet és a kötélzetet.",
+            "ro": "Admirați acest velier de marfă istoric ce ilustrează trecutul maritim al insulei Rügen și urcați pe punte devreme pentru a observa îndeaproape catargul impresionant.",
+            "en": "Admire this historical cargo sailboat that illustrates Rügen's maritime past, and step onto the deck early in the day for the best view of the intricate rigging."
+          }
+        },
+        {
+          "name": {
+            "de": "Lobber Ort",
+            "hu": "Lobber Ort",
+            "ro": "Lobber Ort",
+            "en": "Lobber Ort"
+          },
+          "coords": [
+            13.728596,
+            54.31819
+          ],
+          "category": "natural",
+          "arrive_at": "16:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses naturbelassene Kap, das mit seiner rauen Küstenlinie fasziniert, und tragen Sie festes Schuhwerk, da die Wege entlang der Klippen rutschig sein können.",
+            "hu": "Fedezze fel ezt a természetes formájában megőrzött fokot, amely lenyűgöző, zord partszakasszal bír, és viseljen stabil cipőt, mert a sziklák menti ösvények csúszósak.",
+            "ro": "Explorați acest cap natural, care fascinează prin linia sa de coastă accidentată, și purtați încălțăminte robustă, deoarece potecile de pe stânci pot fi alunecoase.",
+            "en": "Explore this natural cape, which fascinates with its rugged coastline, and wear sturdy footwear as the trails along the dramatic cliffs can often be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand",
+            "hu": "Großer Strand",
+            "ro": "Großer Strand",
+            "en": "Großer Strand"
+          },
+          "coords": [
+            13.717953,
+            54.297885
+          ],
+          "category": "recreational",
+          "arrive_at": "18:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des endlos scheinenden Großen Strandes, der perfekte Bedingungen für ausgedehnte Strandwanderungen bietet, und besuchen Sie ihn am späten Nachmittag für bestes Licht.",
+            "hu": "Sétáljon végig a végtelennek tűnő nagy strandon, amely ideális a hosszú tengerparti túrákhoz, és időzítse látogatását késő délutánra, amikor a legszebbek a fények.",
+            "ro": "Plimbați-vă de-a lungul marii plaje aparent nesfârșite, ideală pentru drumeții lungi pe malul mării, și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină.",
+            "en": "Stroll along the seemingly endless Great Beach, which offers perfect conditions for long coastal walks, and time your visit for late afternoon to capture the most stunning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie entspannt vom Schafberg zum Strand Kleinhagen und genießen die Ruhe. Mittags tauchen Sie im Schulmuseum in die Geschichte ein und bewundern die einzigartigen Salzwiesen. Nachmittags führt die Tour zum historischen Museumsschiff Luise und an die Klippen von Lobber Ort. Abends entspannen Sie sich am weitläufigen Großen Strand.",
+        "hu": "Reggel a Schafberg lankáitól a csendes Strand Kleinhagen felé teker, élvezve a természet nyugalmát. Délben a helyi Schulmuseum történelmébe és a különleges sós mocsarak világába merül. Délután a Museumsschiff Luise hajójához és Lobber Ort szikláihoz kerekezik. Este a Großer Strand végtelen partján pihenheti ki a nap fáradalmait.",
+        "ro": "Dimineața pedalați relaxat de la Schafberg la Strand Kleinhagen, savurând liniștea naturii. La amiază descoperiți istoria locală la Schulmuseum și explorați mlaștinile sărate. După-amiaza, traseul vă duce la nava istorică Luise și la stâncile de la Lobber Ort. Seara vă relaxați pe întinderea vastă de la Großer Strand, privind apusul.",
+        "en": "In the morning, you will cycle from Schafberg to Strand Kleinhagen, enjoying the natural tranquility. Midday immerses you in local history at the Schulmuseum and the unique salt marshes. The afternoon route leads to the historic museum ship Luise and the rugged cliffs of Lobber Ort. The evening is spent relaxing on the expansive Great Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schafberg bei Mariendorf",
+            "hu": "Schafberg bei Mariendorf",
+            "ro": "Schafberg bei Mariendorf",
+            "en": "Schafberg bei Mariendorf"
+          },
+          "coords": [
+            13.686547,
+            54.327132
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Landschaft dieses sanften Hügels, der einen weiten Blick über die Halbinsel Mönchgut gewährt, und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Tapasztalja meg ennek a lankás dombnak az idilli táját, amely panorámás kilátást nyújt a Mönchgut-félszigetre, és vigyen magával egy távcsövet a madármegfigyeléshez.",
+            "ro": "Experimentați peisajul idilic al acestui deal blând ce oferă o panoramă largă asupra peninsulei Mönchgut și luați cu voi un binoclu pentru a observa păsările din zonă.",
+            "en": "Experience the idyllic landscape of this gentle hill that grants a sweeping view over the Mönchgut peninsula, and bring a pair of binoculars for excellent birdwatching opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Schulmuseum",
+            "hu": "Schulmuseum",
+            "ro": "Schulmuseum",
+            "en": "Schulmuseum"
+          },
+          "coords": [
+            13.704069,
+            54.330272
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem historischen Schulgebäude in den historischen Unterricht auf Rügen ein, und setzen Sie sich unbedingt in die alten Holzbänke, um die Atmosphäre zu spüren.",
+            "hu": "Merüljön el a régi idők rügeni oktatásának világában ebben a történelmi iskolaépületben, és mindenképpen üljön be a régi fapadokba, hogy átérezze a korszak hangulatát.",
+            "ro": "Cufundați-vă în atmosfera lecțiilor istorice din Rügen în această școală veche și asigurați-vă că vă așezați în băncile din lemn masiv pentru a simți cu adevărat spiritul locului.",
+            "en": "Immerse yourself in the historical classroom experience of Rügen inside this old school building, and make sure to sit in the antique wooden desks to truly feel the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Salzwiesen bei Middelhagen",
+            "hu": "Salzwiesen bei Middelhagen",
+            "ro": "Salzwiesen bei Middelhagen",
+            "en": "Salzwiesen bei Middelhagen"
+          },
+          "coords": [
+            13.701299,
+            54.323287
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese einzigartigen Salzwiesen, die eine seltene Flora und Fauna beherbergen, und bleiben Sie unbedingt auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Sétáljon végig ezeken a különleges sós mocsarakon, amelyek ritka növény- és állatvilágnak adnak otthont, és szigorúan maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelme érdekében.",
+            "ro": "Plimbați-vă prin aceste mlaștini sărate unice, ce găzduiesc o floră și o faună rară, și asigurați-vă că rămâneți pe traseele marcate pentru a proteja acest ecosistem fragil.",
+            "en": "Wander through these unique salt marshes that host rare flora and fauna, and strictly stay on the designated marked trails to protect the highly sensitive local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Museumsschiff Luise",
+            "hu": "Museumsschiff Luise",
+            "ro": "Museumsschiff Luise",
+            "en": "Museumsschiff Luise"
+          },
+          "coords": [
+            13.736182,
+            54.334488
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Frachtsegler, der die maritime Geschichte Rügens veranschaulicht, und betreten Sie das Deck frühzeitig, um den besten Blick auf die Takelage zu genießen.",
+            "hu": "Csodálja meg ezt a történelmi teherhajót, amely Rügen tengeri múltját idézi, és érkezzen korán, hogy zavartalanul fedezhesse fel a fedélzetet és a kötélzetet.",
+            "ro": "Admirați acest velier de marfă istoric ce ilustrează trecutul maritim al insulei Rügen și urcați pe punte devreme pentru a observa îndeaproape catargul impresionant.",
+            "en": "Admire this historical cargo sailboat that illustrates Rügen's maritime past, and step onto the deck early in the day for the best view of the intricate rigging."
+          }
+        },
+        {
+          "name": {
+            "de": "Lobber Ort",
+            "hu": "Lobber Ort",
+            "ro": "Lobber Ort",
+            "en": "Lobber Ort"
+          },
+          "coords": [
+            13.728596,
+            54.31819
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses naturbelassene Kap, das mit seiner rauen Küstenlinie fasziniert, und tragen Sie festes Schuhwerk, da die Wege entlang der Klippen rutschig sein können.",
+            "hu": "Fedezze fel ezt a természetes formájában megőrzött fokot, amely lenyűgöző, zord partszakasszal bír, és viseljen stabil cipőt, mert a sziklák menti ösvények csúszósak.",
+            "ro": "Explorați acest cap natural, care fascinează prin linia sa de coastă accidentată, și purtați încălțăminte robustă, deoarece potecile de pe stânci pot fi alunecoase.",
+            "en": "Explore this natural cape, which fascinates with its rugged coastline, and wear sturdy footwear as the trails along the dramatic cliffs can often be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand",
+            "hu": "Großer Strand",
+            "ro": "Großer Strand",
+            "en": "Großer Strand"
+          },
+          "coords": [
+            13.717953,
+            54.297885
+          ],
+          "category": "recreational",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des endlos scheinenden Großen Strandes, der perfekte Bedingungen für ausgedehnte Strandwanderungen bietet, und besuchen Sie ihn am späten Nachmittag für bestes Licht.",
+            "hu": "Sétáljon végig a végtelennek tűnő nagy strandon, amely ideális a hosszú tengerparti túrákhoz, és időzítse látogatását késő délutánra, amikor a legszebbek a fények.",
+            "ro": "Plimbați-vă de-a lungul marii plaje aparent nesfârșite, ideală pentru drumeții lungi pe malul mării, și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină.",
+            "en": "Stroll along the seemingly endless Great Beach, which offers perfect conditions for long coastal walks, and time your visit for late afternoon to capture the most stunning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit einem Ausflug zum Schafberg, bevor Sie im historischen Schulmuseum Halt machen. Mittags spazieren Sie kurz durch die geschützten Salzwiesen und fahren dann zur Küste. Nachmittags erwartet Sie die maritime Welt am Museumsschiff Luise und die wilde Natur am Lobber Ort. Zum Abendspaziergang parken Sie am Großen Strand.",
+        "hu": "A nap egy kirándulással indul a Schafberghez, majd megáll a történelmi iskola múzeumánál. Délben rövid sétát tehet a védett sós mocsarakban, mielőtt a part felé venné az irányt. Délután a Museumsschiff Luise tengeri világa és Lobber Ort vad természete várja. Az esti tengerparti sétához a Großer Strand közelében érdemes parkolni.",
+        "ro": "Ziua începe cu o excursie la Schafberg, înainte de a opri la muzeul istoric al școlii. La amiază faceți o scurtă plimbare prin mlaștinile sărate protejate și apoi conduceți spre coastă. După-amiaza vă așteaptă lumea maritimă la Museumsschiff Luise și natura sălbatică de la Lobber Ort. Seara, parcați pentru o plimbare la Großer Strand.",
+        "en": "The day starts with a drive to Schafberg before stopping at the historic school museum. At midday, take a short walk through the protected salt marshes and drive towards the coast. The afternoon awaits with the maritime world of Museumsschiff Luise and the wild nature at Lobber Ort. For an evening stroll, park right by the Great Beach."
+      }
+    }
+  }
+}

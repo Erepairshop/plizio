@@ -1,0 +1,474 @@
+{
+  "city_id": "cordoba-ver-cities-v2",
+  "anchor": {
+    "name": "Córdoba",
+    "coords": [
+      -96.935,
+      18.8939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción",
+            "hu": "Catedral de la Inmaculada Concepción",
+            "ro": "Catedral de la Inmaculada Concepción",
+            "en": "Catedral de la Inmaculada Concepción"
+          },
+          "coords": [
+            -96.934072,
+            18.89333
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade dieses historischen spirituellen Zentrums und besuchen Sie die morgendliche Messe, um einen ruhigen Chorgesang zu erleben.",
+            "hu": "Csodálja meg e történelmi spirituális központ neoklasszicista homlokzatát, és látogasson el a reggeli misére, hogy átélje a békés kórusének varázslatos hangulatát.",
+            "ro": "Admirați fațada neoclasică a acestui centru spiritual istoric și vizitați în timpul liturghiei de dimineață pentru a experimenta atmosfera corală liniștită și profundă.",
+            "en": "Admire the neoclassical facade and vivid stained glass windows of this historic spiritual center, and remember to visit during morning mass for a serene choral experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Café",
+            "hu": "Museo del Café",
+            "ro": "Museo del Café",
+            "en": "Museo del Café"
+          },
+          "coords": [
+            -96.935123,
+            18.893514
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des lokalen Kaffeeanbaus durch interaktive Ausstellungen und probieren Sie unbedingt den frisch gebrühten Espresso an der Verkostungsbar.",
+            "hu": "Fedezze fel a helyi kávétermesztés gazdag történetét az interaktív kiállításokon keresztül, és távozás előtt feltétlenül kóstolja meg a frissen főzött eszpresszót a bárban.",
+            "ro": "Descoperiți istoria bogată a cultivării locale a cafelei prin expoziții interactive și asigurați-vă că gustați espresso-ul proaspăt preparat la barul de degustare.",
+            "en": "Discover the rich history of local coffee cultivation through interactive exhibits, and be sure to try the freshly brewed espresso at the tasting bar before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedro Díaz",
+            "hu": "Pedro Díaz",
+            "ro": "Pedro Díaz",
+            "en": "Pedro Díaz"
+          },
+          "coords": [
+            -96.935324,
+            18.894754
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die architektonische Eleganz und die kulturellen Aufführungen in diesem ikonischen Theater, aber buchen Sie Ihre Tickets im Voraus für die besten Balkonplätze.",
+            "hu": "Tapasztalja meg az építészeti eleganciát és a kulturális előadásokat ebben az ikonikus színházban, de a legjobb erkélyülésekért érdemes napokkal előre lefoglalni a jegyeket.",
+            "ro": "Experimentați eleganța arhitecturală și spectacolele culturale la acest teatru emblematic, dar rezervați biletele cu câteva zile înainte pentru cele mai bune locuri la balcon.",
+            "en": "Experience the architectural elegance and vibrant cultural performances at this iconic local theatre, but book your tickets a few days in advance for the best balcony seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Manuel Suárez",
+            "hu": "Auditorio Manuel Suárez",
+            "ro": "Auditorio Manuel Suárez",
+            "en": "Auditorio Manuel Suárez"
+          },
+          "coords": [
+            -96.949569,
+            18.898852
+          ],
+          "category": "cultural",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische lokale Kunst in diesem geräumigen, modernen Veranstaltungsort und prüfen Sie den Online-Zeitplan, um eine kostenlose Wochenendausstellung zu sehen.",
+            "hu": "Fedezze fel a kortárs helyi művészetet ebben a tágas, modern rendezvényközpontban, és ellenőrizze az online programot, hogy elcsípjen egy ingyenes hétvégi kiállítást.",
+            "ro": "Explorați arta locală contemporană în această locație modernă spațioasă și verificați programul online în prealabil pentru a prinde o expoziție gratuită de weekend.",
+            "en": "Explore contemporary local art and community events in this spacious modern venue, and check their online schedule beforehand to catch a free weekend exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Atlántida",
+            "hu": "Alberca Atlántida",
+            "ro": "Alberca Atlántida",
+            "en": "Alberca Atlántida"
+          },
+          "coords": [
+            -96.954008,
+            18.906697
+          ],
+          "category": "recreational",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den von viel Grün umgebenen Außenpools und mieten Sie frühzeitig eine schattige Cabana, um der intensiven Nachmittagssonne bequem zu entkommen.",
+            "hu": "Pihenjen a buja növényzettel körülvett szabadtéri medencéknél, és béreljen egy árnyékos sátrat már a nap elején, hogy kényelmesen elkerülje az erős délutáni napsütést.",
+            "ro": "Relaxați-vă la piscinele în aer liber înconjurate de verdeață luxuriantă și închiriați un baldachin umbrit devreme pentru a scăpa confortabil de soarele intens de după-amiază.",
+            "en": "Relax by the spacious outdoor pools surrounded by lush greenery, and consider renting a shaded cabana early in the day to escape the intense afternoon sun comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Córdoba, bestaunen Sie die majestätische Kathedrale und entdecken Sie die Kaffeekultur. Mittags verlagert sich der Fokus auf die lebendige Kunstszene und kulturelle Wahrzeichen der Stadt. Wenn der Nachmittag wärmer wird, suchen Sie Zuflucht in den erfrischenden, von Natur umgebenen Erholungspools. Beenden Sie diesen perfekten Tag, indem Sie die lebhafte lokale Atmosphäre und großartige Aromen genießen, während die Sonne sanft untergeht.",
+        "hu": "Kezdje a reggelt Córdoba történelmi szívének felfedezésével, csodálja meg a fenséges katedrálist, és ismerje meg a mélyen gyökerező kávékultúrát. Délben irány a vibráló művészeti élet és a várost tarkító kulturális nevezetességek. Ahogy a délután egyre melegebb lesz, keressen menedéket a természet lágy ölén található hűsítő helyi rekreációs medencékben. Végül zárja ezt a tökéletes napot a nyüzsgő helyi hangulat és a nagyszerű ízek élvezetével, miközben a nap lassan és gyönyörűen lenyugszik.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Córdoba, admirând maiestuoasa Catedrală și descoperind cultura cafelei. Până la amiază, concentrați-vă pe scena artelor vibrante și reperele culturale care împânzesc orașul. Pe măsură ce după-amiaza se încălzește, căutați refugiu în piscinele locale răcoritoare, înconjurate de natură. În cele din urmă, încheiați-vă ziua perfectă bucurându-vă de atmosfera locală plină de viață și de arome minunate în timp ce soarele apune ușor.",
+        "en": "Start your morning exploring the historic heart of Córdoba, marveling at the majestic Cathedral and uncovering the deep-rooted coffee culture. By midday, shift your focus to the vibrant arts scene and cultural landmarks that dot the city. As the afternoon warms up, seek refuge in the refreshing local recreational pools surrounded by nature. Finally, conclude your perfect day enjoying the lively local atmosphere, savoring great flavors and unforgettable moments as the sun gently sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 7.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción",
+            "hu": "Catedral de la Inmaculada Concepción",
+            "ro": "Catedral de la Inmaculada Concepción",
+            "en": "Catedral de la Inmaculada Concepción"
+          },
+          "coords": [
+            -96.934072,
+            18.89333
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade dieses historischen spirituellen Zentrums und besuchen Sie die morgendliche Messe, um einen ruhigen Chorgesang zu erleben.",
+            "hu": "Csodálja meg e történelmi spirituális központ neoklasszicista homlokzatát, és látogasson el a reggeli misére, hogy átélje a békés kórusének varázslatos hangulatát.",
+            "ro": "Admirați fațada neoclasică a acestui centru spiritual istoric și vizitați în timpul liturghiei de dimineață pentru a experimenta atmosfera corală liniștită și profundă.",
+            "en": "Admire the neoclassical facade and vivid stained glass windows of this historic spiritual center, and remember to visit during morning mass for a serene choral experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Café",
+            "hu": "Museo del Café",
+            "ro": "Museo del Café",
+            "en": "Museo del Café"
+          },
+          "coords": [
+            -96.935123,
+            18.893514
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des lokalen Kaffeeanbaus durch interaktive Ausstellungen und probieren Sie unbedingt den frisch gebrühten Espresso an der Verkostungsbar.",
+            "hu": "Fedezze fel a helyi kávétermesztés gazdag történetét az interaktív kiállításokon keresztül, és távozás előtt feltétlenül kóstolja meg a frissen főzött eszpresszót a bárban.",
+            "ro": "Descoperiți istoria bogată a cultivării locale a cafelei prin expoziții interactive și asigurați-vă că gustați espresso-ul proaspăt preparat la barul de degustare.",
+            "en": "Discover the rich history of local coffee cultivation through interactive exhibits, and be sure to try the freshly brewed espresso at the tasting bar before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Manuel Suárez",
+            "hu": "Auditorio Manuel Suárez",
+            "ro": "Auditorio Manuel Suárez",
+            "en": "Auditorio Manuel Suárez"
+          },
+          "coords": [
+            -96.949569,
+            18.898852
+          ],
+          "category": "cultural",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische lokale Kunst in diesem geräumigen, modernen Veranstaltungsort und prüfen Sie den Online-Zeitplan, um eine kostenlose Wochenendausstellung zu sehen.",
+            "hu": "Fedezze fel a kortárs helyi művészetet ebben a tágas, modern rendezvényközpontban, és ellenőrizze az online programot, hogy elcsípjen egy ingyenes hétvégi kiállítást.",
+            "ro": "Explorați arta locală contemporană în această locație modernă spațioasă și verificați programul online în prealabil pentru a prinde o expoziție gratuită de weekend.",
+            "en": "Explore contemporary local art and community events in this spacious modern venue, and check their online schedule beforehand to catch a free weekend exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Atlántida",
+            "hu": "Alberca Atlántida",
+            "ro": "Alberca Atlántida",
+            "en": "Alberca Atlántida"
+          },
+          "coords": [
+            -96.954008,
+            18.906697
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den von viel Grün umgebenen Außenpools und mieten Sie frühzeitig eine schattige Cabana, um der intensiven Nachmittagssonne bequem zu entkommen.",
+            "hu": "Pihenjen a buja növényzettel körülvett szabadtéri medencéknél, és béreljen egy árnyékos sátrat már a nap elején, hogy kényelmesen elkerülje az erős délutáni napsütést.",
+            "ro": "Relaxați-vă la piscinele în aer liber înconjurate de verdeață luxuriantă și închiriați un baldachin umbrit devreme pentru a scăpa confortabil de soarele intens de după-amiază.",
+            "en": "Relax by the spacious outdoor pools surrounded by lush greenery, and consider renting a shaded cabana early in the day to escape the intense afternoon sun comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Albercas Las Obleas",
+            "hu": "Albercas Las Obleas",
+            "ro": "Albercas Las Obleas",
+            "en": "Albercas Las Obleas"
+          },
+          "coords": [
+            -96.942577,
+            18.918091
+          ],
+          "category": "family",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad mit Ihrer Familie in diesen gut gepflegten Pools und packen Sie ein Picknick ein, um es an den schattigen Tischen am Wasser zu genießen.",
+            "hu": "Élvezze a frissítő úszást a családjával ezekben a jól karbantartott medencékben, és hozzon magával egy házi pikniket, amelyet a vízparti árnyékos asztaloknál fogyaszthat el.",
+            "ro": "Bucurați-vă de o baie răcoritoare cu familia în aceste piscine bine întreținute și împachetați un picnic de casă pentru a-l savura la mesele umbrite de lângă toboganele cu apă.",
+            "en": "Enjoy a refreshing swim with your family in these well-maintained pools, and pack a homemade picnic to enjoy at the shaded tables provided near the water slides."
+          }
+        },
+        {
+          "name": {
+            "de": "Habana Club",
+            "hu": "Habana Club",
+            "ro": "Habana Club",
+            "en": "Habana Club"
+          },
+          "coords": [
+            -96.970099,
+            18.919005
+          ],
+          "category": "recreational",
+          "arrive_at": "16:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte Abendatmosphäre mit energiegeladenem Salsa-Tanz ein und kommen Sie vor Sonnenuntergang, um einen bequemen Tisch nahe der Haupttanzfläche zu ergattern.",
+            "hu": "Merüljön el a nyüzsgő esti hangulatban egy kis energikus salsa tánccal, és érkezzen naplemente előtt, hogy kényelmes asztalt szerezzen a nyüzsgő fő tánctér közelében.",
+            "ro": "Cufundați-vă în atmosfera plină de viață de seară cu dans salsa energic și ajungeți înainte de apus pentru a prinde o masă confortabilă lângă ringul principal de dans.",
+            "en": "Immerse yourself in the lively evening atmosphere with energetic salsa dancing, and arrive before sunset to grab a comfortable table near the vibrant main dance floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Córdoba, bestaunen Sie die majestätische Kathedrale und entdecken Sie die Kaffeekultur. Mittags verlagert sich der Fokus auf die lebendige Kunstszene und kulturelle Wahrzeichen der Stadt. Wenn der Nachmittag wärmer wird, suchen Sie Zuflucht in den erfrischenden, von Natur umgebenen Erholungspools. Beenden Sie diesen perfekten Tag, indem Sie die lebhafte lokale Atmosphäre und großartige Aromen genießen, während die Sonne sanft untergeht.",
+        "hu": "Kezdje a reggelt Córdoba történelmi szívének felfedezésével, csodálja meg a fenséges katedrálist, és ismerje meg a mélyen gyökerező kávékultúrát. Délben irány a vibráló művészeti élet és a várost tarkító kulturális nevezetességek. Ahogy a délután egyre melegebb lesz, keressen menedéket a természet lágy ölén található hűsítő helyi rekreációs medencékben. Végül zárja ezt a tökéletes napot a nyüzsgő helyi hangulat és a nagyszerű ízek élvezetével, miközben a nap lassan és gyönyörűen lenyugszik.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Córdoba, admirând maiestuoasa Catedrală și descoperind cultura cafelei. Până la amiază, concentrați-vă pe scena artelor vibrante și reperele culturale care împânzesc orașul. Pe măsură ce după-amiaza se încălzește, căutați refugiu în piscinele locale răcoritoare, înconjurate de natură. În cele din urmă, încheiați-vă ziua perfectă bucurându-vă de atmosfera locală plină de viață și de arome minunate în timp ce soarele apune ușor.",
+        "en": "Start your morning exploring the historic heart of Córdoba, marveling at the majestic Cathedral and uncovering the deep-rooted coffee culture. By midday, shift your focus to the vibrant arts scene and cultural landmarks that dot the city. As the afternoon warms up, seek refuge in the refreshing local recreational pools surrounded by nature. Finally, conclude your perfect day enjoying the lively local atmosphere, savoring great flavors and unforgettable moments as the sun gently sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:55",
+      "total_km": 29.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Catedral de la Inmaculada Concepción",
+            "hu": "Catedral de la Inmaculada Concepción",
+            "ro": "Catedral de la Inmaculada Concepción",
+            "en": "Catedral de la Inmaculada Concepción"
+          },
+          "coords": [
+            -96.934072,
+            18.89333
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade dieses historischen spirituellen Zentrums und besuchen Sie die morgendliche Messe, um einen ruhigen Chorgesang zu erleben.",
+            "hu": "Csodálja meg e történelmi spirituális központ neoklasszicista homlokzatát, és látogasson el a reggeli misére, hogy átélje a békés kórusének varázslatos hangulatát.",
+            "ro": "Admirați fațada neoclasică a acestui centru spiritual istoric și vizitați în timpul liturghiei de dimineață pentru a experimenta atmosfera corală liniștită și profundă.",
+            "en": "Admire the neoclassical facade and vivid stained glass windows of this historic spiritual center, and remember to visit during morning mass for a serene choral experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Café",
+            "hu": "Museo del Café",
+            "ro": "Museo del Café",
+            "en": "Museo del Café"
+          },
+          "coords": [
+            -96.935123,
+            18.893514
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des lokalen Kaffeeanbaus durch interaktive Ausstellungen und probieren Sie unbedingt den frisch gebrühten Espresso an der Verkostungsbar.",
+            "hu": "Fedezze fel a helyi kávétermesztés gazdag történetét az interaktív kiállításokon keresztül, és távozás előtt feltétlenül kóstolja meg a frissen főzött eszpresszót a bárban.",
+            "ro": "Descoperiți istoria bogată a cultivării locale a cafelei prin expoziții interactive și asigurați-vă că gustați espresso-ul proaspăt preparat la barul de degustare.",
+            "en": "Discover the rich history of local coffee cultivation through interactive exhibits, and be sure to try the freshly brewed espresso at the tasting bar before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuatico San Pedro",
+            "hu": "Parque Acuatico San Pedro",
+            "ro": "Parque Acuatico San Pedro",
+            "en": "Parque Acuatico San Pedro"
+          },
+          "coords": [
+            -97.012855,
+            18.893084
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.3,
+          "tip_5lang": {
+            "de": "Begeistern Sie die ganze Familie mit aufregenden Wasserrutschen sowie Wellenbecken und vergessen Sie nicht, reichlich wasserfeste Sonnencreme für einen vollen Tag mitzubringen.",
+            "hu": "Nyűgözze le az egész családot az izgalmas vízi csúszdákkal és hullámmedencékkel, és ne felejtsen el bőséges vízálló naptejet hozni az egész napos vizes szórakozáshoz.",
+            "ro": "Încântați întreaga familie cu tobogane de apă captivante și piscine cu valuri și nu uitați să aduceți multă protecție solară rezistentă la apă pentru o zi plină de distracție.",
+            "en": "Thrill the whole family with exciting water slides and expansive wave pools, and don't forget to bring plenty of waterproof sunscreen for a full day of aquatic fun."
+          }
+        },
+        {
+          "name": {
+            "de": "El Rincón de la Ceiba",
+            "hu": "El Rincón de la Ceiba",
+            "ro": "El Rincón de la Ceiba",
+            "en": "El Rincón de la Ceiba"
+          },
+          "coords": [
+            -97.009902,
+            18.929999
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich wieder mit der Natur in diesem ruhigen ökologischen Raum rund um einen alten Baum und tragen Sie bequeme Wanderschuhe, um die Umgebung zu erkunden.",
+            "hu": "Kerüljön újra kapcsolatba a természettel ebben a békés, egy ősi fa köré épült ökológiai térben, és viseljen kényelmes cipőt a környező ösvények alapos felfedezéséhez.",
+            "ro": "Reconectați-vă cu natura în acest spațiu ecologic liniștit centrat în jurul unui copac antic magnific și purtați pantofi confortabili pentru a explora traseele din jur.",
+            "en": "Reconnect with nature in this tranquil ecological space centered around a magnificent ancient tree, and wear comfortable walking shoes to explore the surrounding trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Naranja",
+            "hu": "Alberca Naranja",
+            "ro": "Alberca Naranja",
+            "en": "Alberca Naranja"
+          },
+          "coords": [
+            -96.990855,
+            18.879326
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem pulsierenden Erholungsort mit makellosen Badeanlagen und bringen Sie eigene Schwimmhilfen mit, um die flachen Loungebereiche zu genießen.",
+            "hu": "Napozzon ezen a vibráló rekreációs helyen, amely kristálytiszta fürdőlétesítményekkel rendelkezik, és hozzon magával saját úszógumit a tágas, sekély pihenőrészek kiélvezéséhez.",
+            "ro": "Bucurați-vă de soare în acest loc de agrement vibrant, care oferă facilități de înot impecabile și aduceți propriile colace pentru a vă bucura de zonele spațioase de relaxare.",
+            "en": "Soak up the sun at this vibrant recreational spot featuring pristine swimming facilities, and bring your own floaties to fully enjoy the spacious shallow lounging areas."
+          }
+        },
+        {
+          "name": {
+            "de": "La Palapa del Güero",
+            "hu": "La Palapa del Güero",
+            "ro": "La Palapa del Güero",
+            "en": "La Palapa del Güero"
+          },
+          "coords": [
+            -96.984098,
+            18.858873
+          ],
+          "category": "recreational",
+          "arrive_at": "16:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Probieren Sie authentische lokale Meeresfrüchte unter einem großen traditionellen Strohdach und fragen Sie den freundlichen Kellner nach der täglichen Frischfangempfehlung.",
+            "hu": "Kóstolja meg az autentikus helyi tengeri ételeket egy nagy hagyományos nádtető alatt, és kérdezze meg a barátságos pincért a napi friss fogásra vonatkozó ajánlásokról.",
+            "ro": "Savurați preparate autentice din fructe de mare sub un acoperiș mare de paie tradițional și cereți ospătarului recomandarea lor privind captura proaspătă de zi cu zi.",
+            "en": "Savor authentic local seafood dishes and refreshing drinks under a large traditional thatched roof, and ask the waiter for their daily fresh catch recommendation."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca \"Los delfines\"",
+            "hu": "Alberca \"Los delfines\"",
+            "ro": "Alberca \"Los delfines\"",
+            "en": "Alberca \"Los delfines\""
+          },
+          "coords": [
+            -96.90765,
+            18.847654
+          ],
+          "category": "recreational",
+          "arrive_at": "18:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den delfinbezogenen Schwimmbecken ab, die eine entspannende Umgebung bieten, und halten Sie etwas Kleingeld für die Imbissstände vor Ort bereit.",
+            "hu": "Hűtse le magát a delfin témájú úszómedencékben, amelyek pihentető környezetet kínálnak, és tartson magánál némi aprópénzt a helyszíni büfék és italos kioszkok számára.",
+            "ro": "Răcoriți-vă în piscinele cu tematică cu delfini care oferă un mediu relaxant pentru vizitatori și păstrați niște mărunțiș la îndemână pentru chioșcurile cu gustări și băuturi.",
+            "en": "Cool off in the dolphin-themed swimming pools that offer a relaxing environment for visitors, and keep some small change handy for the on-site snack and beverage kiosks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Córdoba, bestaunen Sie die majestätische Kathedrale und entdecken Sie die Kaffeekultur. Mittags verlagert sich der Fokus auf die lebendige Kunstszene und kulturelle Wahrzeichen der Stadt. Wenn der Nachmittag wärmer wird, suchen Sie Zuflucht in den erfrischenden, von Natur umgebenen Erholungspools. Beenden Sie diesen perfekten Tag, indem Sie die lebhafte lokale Atmosphäre und großartige Aromen genießen, während die Sonne sanft untergeht.",
+        "hu": "Kezdje a reggelt Córdoba történelmi szívének felfedezésével, csodálja meg a fenséges katedrálist, és ismerje meg a mélyen gyökerező kávékultúrát. Délben irány a vibráló művészeti élet és a várost tarkító kulturális nevezetességek. Ahogy a délután egyre melegebb lesz, keressen menedéket a természet lágy ölén található hűsítő helyi rekreációs medencékben. Végül zárja ezt a tökéletes napot a nyüzsgő helyi hangulat és a nagyszerű ízek élvezetével, miközben a nap lassan és gyönyörűen lenyugszik.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Córdoba, admirând maiestuoasa Catedrală și descoperind cultura cafelei. Până la amiază, concentrați-vă pe scena artelor vibrante și reperele culturale care împânzesc orașul. Pe măsură ce după-amiaza se încălzește, căutați refugiu în piscinele locale răcoritoare, înconjurate de natură. În cele din urmă, încheiați-vă ziua perfectă bucurându-vă de atmosfera locală plină de viață și de arome minunate în timp ce soarele apune ușor.",
+        "en": "Start your morning exploring the historic heart of Córdoba, marveling at the majestic Cathedral and uncovering the deep-rooted coffee culture. By midday, shift your focus to the vibrant arts scene and cultural landmarks that dot the city. As the afternoon warms up, seek refuge in the refreshing local recreational pools surrounded by nature. Finally, conclude your perfect day enjoying the lively local atmosphere, savoring great flavors and unforgettable moments as the sun gently sets."
+      }
+    }
+  }
+}

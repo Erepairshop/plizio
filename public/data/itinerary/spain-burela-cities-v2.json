@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-burela-cities-v2",
+  "anchor": {
+    "name": "Burela",
+    "coords": [
+      -7.36978,
+      43.65895
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Ril",
+            "hu": "Praia de Ril",
+            "ro": "Praia de Ril",
+            "en": "Praia de Ril"
+          },
+          "coords": [
+            -7.364647,
+            43.671561
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die raue Küstenschönheit dieser Bucht macht sie zu einem malerischen Ort, an dem festes Schuhwerk für einen Spaziergang sehr nützlich ist.",
+            "hu": "Ennek az öbölnek a vad tengerparti szépsége festői helyszínt kínál, ahol érdemes kényelmes cipőt viselni a sziklák melletti sétához.",
+            "ro": "Frumusețea de coastă brută a acestui golf creează un cadru pitoresc, unde încălțămintea solidă este de mare ajutor pentru plimbări.",
+            "en": "The raw coastal beauty of this lovely cove makes it a highly picturesque spot, where sturdy shoes will greatly help you explore the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cabaliño",
+            "hu": "Praia do Cabaliño",
+            "ro": "Praia do Cabaliño",
+            "en": "Praia do Cabaliño"
+          },
+          "coords": [
+            -7.356889,
+            43.666453
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein charmanter kleiner Küstenabschnitt, ideal für Familien, bei dem Sie Badesachen einpacken sollten, um das sanfte Meerwasser zu genießen.",
+            "hu": "Hangulatos kis tengerparti szakasz, amely ideális a családok számára, így mindenképpen csomagoljon fürdőruhát a lágy tengervíz élvezetéhez.",
+            "ro": "O porțiune de coastă fermecătoare, ideală pentru familii, unde ar trebui să aduceți costume de baie pentru a vă bucura de apa mării.",
+            "en": "A charming little stretch of coastline that is incredibly ideal for families, so make sure to pack your swimwear to enjoy the gentle sea water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portelo",
+            "hu": "Praia do Portelo",
+            "ro": "Praia do Portelo",
+            "en": "Praia do Portelo"
+          },
+          "coords": [
+            -7.356835,
+            43.664194
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser zentrale und sehr beliebte Strand ist das Herzstück des lokalen Lebens, weshalb sich ein früher Besuch für den besten Liegeplatz lohnt.",
+            "hu": "Ez a központi és rendkívül népszerű strand a helyi élet szíve, ami miatt érdemes korán érkezni a legjobb napozóhely biztosítása érdekében.",
+            "ro": "Această plajă centrală și populară este inima vieții locale, motiv pentru care o vizită matinală vă garantează cel mai bun loc la soare.",
+            "en": "This central and extremely popular beach is the true heart of local life, which makes arriving early worthwhile to secure the best lounging spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Penoural",
+            "hu": "Praia do Penoural",
+            "ro": "Praia do Penoural",
+            "en": "Praia do Penoural"
+          },
+          "coords": [
+            -7.355463,
+            43.662243
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanfte Meeresbrise an diesem wunderbaren Ort, der sich perfekt für ein entspanntes Picknick mit frischen Snacks aus der Region anbietet.",
+            "hu": "Élvezze a lágy tengeri szellőt ezen a csodálatos helyen, amely egyszerűen tökéletes egy nyugodt piknikhez a helyi piacról származó friss falatokkal.",
+            "ro": "Bucurați-vă de briza mării în acest loc minunat, care este absolut perfect pentru un picnic relaxant cu gustări proaspete cumpărate din zonă.",
+            "en": "Enjoy the gentle sea breeze at this wonderful location, which is absolutely perfect for setting up a relaxed picnic with some fresh local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Limosa",
+            "hu": "Praia da Limosa",
+            "ro": "Praia da Limosa",
+            "en": "Praia da Limosa"
+          },
+          "coords": [
+            -7.352533,
+            43.652748
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese weite Sandfläche bietet reichlich Platz für ausgedehnte Strandspaziergänge, idealerweise barfuß entlang der erfrischenden und klaren Wasserlinie.",
+            "hu": "Ez a hatalmas homokos terület bőséges helyet kínál a hosszú tengerparti sétákhoz, ideális esetben mezítláb sétálva a frissítő vízparton.",
+            "ro": "Această întindere vastă de nisip oferă spațiu amplu pentru plimbări lungi pe plajă, de preferat desculț de-a lungul liniei apei răcoroase.",
+            "en": "This vast expanse of sand provides ample space for long, unhurried beach walks, ideally done barefoot right along the refreshing, clear waterline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der malerischen Küste, wo die ersten Sonnenstrahlen das sanfte Rauschen der Wellen am Praia de Ril begleiten. Danach spazieren wir gemütlich zum Praia do Cabaliño, um die ruhige Atmosphäre und die frische Meeresluft zu genießen. Am Mittag erreichen wir den belebten Praia do Portelo im Zentrum, perfekt für eine Pause. Der Nachmittag klingt entspannt am Praia da Limosa aus.",
+        "hu": "A reggel a festői partvonalon kezdődik, ahol az első napsugarak kísérik a hullámok lágy morajlását a Praia de Ril strandján. Ezután kényelmesen átsétálunk a Praia do Cabaliño felé, hogy kiélvezzük a tengeri levegőt. Délben elérjük a nyüzsgő Praia do Portelo-t, amely tökéletes egy pihentető szünethez. A délután végül a Praia da Limosa tágas homokján ér véget a lemenő nap fényeiben.",
+        "ro": "Dimineața începe pe coasta pitorească, unde primele raze de soare însoțesc sunetul blând al valurilor la Praia de Ril. Apoi, ne plimbăm liniștit spre Praia do Cabaliño pentru a savura aerul proaspăt al mării. La prânz, ajungem la plaja centrală și animată Praia do Portelo, perfectă pentru o pauză de masă. După-amiaza se încheie relaxant pe nisipul fin de la Praia da Limosa.",
+        "en": "The morning begins on the picturesque coastline, where the first rays of sunlight accompany the gentle sound of the waves at Praia de Ril. We then stroll leisurely to Praia do Cabaliño to soak in the tranquil atmosphere. At midday, we reach the bustling Praia do Portelo in the center, perfect for a delightful break. The afternoon winds down completely relaxed at the vast Praia da Limosa."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Rueta",
+            "hu": "Praia da Rueta",
+            "ro": "Praia da Rueta",
+            "en": "Praia da Rueta"
+          },
+          "coords": [
+            -7.405431,
+            43.682029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Dieser ruhige Sandstrand am nördlichen Rand der Stadt lädt zum Entspannen ein, also bringen Sie ein Handtuch für ein ausgedehntes Sonnenbad mit.",
+            "hu": "Ez a csendes homokos strand a város északi szélén tökéletes a pihenésre, ezért hozzon magával egy törölközőt a hosszas napozáshoz.",
+            "ro": "Această plajă de nisip liniștită, situată la marginea nordică, invită la relaxare totală, așa că aduceți un prosop generos pentru plajă.",
+            "en": "This quiet sandy beach on the northern edge of town invites you to completely unwind, so bring a large towel for an extended sunbathing session."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Ril",
+            "hu": "Praia de Ril",
+            "ro": "Praia de Ril",
+            "en": "Praia de Ril"
+          },
+          "coords": [
+            -7.364647,
+            43.671561
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die raue Küstenschönheit dieser Bucht macht sie zu einem malerischen Ort, an dem festes Schuhwerk für einen Spaziergang sehr nützlich ist.",
+            "hu": "Ennek az öbölnek a vad tengerparti szépsége festői helyszínt kínál, ahol érdemes kényelmes cipőt viselni a sziklák melletti sétához.",
+            "ro": "Frumusețea de coastă brută a acestui golf creează un cadru pitoresc, unde încălțămintea solidă este de mare ajutor pentru plimbări.",
+            "en": "The raw coastal beauty of this lovely cove makes it a highly picturesque spot, where sturdy shoes will greatly help you explore the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cabaliño",
+            "hu": "Praia do Cabaliño",
+            "ro": "Praia do Cabaliño",
+            "en": "Praia do Cabaliño"
+          },
+          "coords": [
+            -7.356889,
+            43.666453
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein charmanter kleiner Küstenabschnitt, ideal für Familien, bei dem Sie Badesachen einpacken sollten, um das sanfte Meerwasser zu genießen.",
+            "hu": "Hangulatos kis tengerparti szakasz, amely ideális a családok számára, így mindenképpen csomagoljon fürdőruhát a lágy tengervíz élvezetéhez.",
+            "ro": "O porțiune de coastă fermecătoare, ideală pentru familii, unde ar trebui să aduceți costume de baie pentru a vă bucura de apa mării.",
+            "en": "A charming little stretch of coastline that is incredibly ideal for families, so make sure to pack your swimwear to enjoy the gentle sea water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portelo",
+            "hu": "Praia do Portelo",
+            "ro": "Praia do Portelo",
+            "en": "Praia do Portelo"
+          },
+          "coords": [
+            -7.356835,
+            43.664194
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser zentrale und sehr beliebte Strand ist das Herzstück des lokalen Lebens, weshalb sich ein früher Besuch für den besten Liegeplatz lohnt.",
+            "hu": "Ez a központi és rendkívül népszerű strand a helyi élet szíve, ami miatt érdemes korán érkezni a legjobb napozóhely biztosítása érdekében.",
+            "ro": "Această plajă centrală și populară este inima vieții locale, motiv pentru care o vizită matinală vă garantează cel mai bun loc la soare.",
+            "en": "This central and extremely popular beach is the true heart of local life, which makes arriving early worthwhile to secure the best lounging spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Penoural",
+            "hu": "Praia do Penoural",
+            "ro": "Praia do Penoural",
+            "en": "Praia do Penoural"
+          },
+          "coords": [
+            -7.355463,
+            43.662243
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanfte Meeresbrise an diesem wunderbaren Ort, der sich perfekt für ein entspanntes Picknick mit frischen Snacks aus der Region anbietet.",
+            "hu": "Élvezze a lágy tengeri szellőt ezen a csodálatos helyen, amely egyszerűen tökéletes egy nyugodt piknikhez a helyi piacról származó friss falatokkal.",
+            "ro": "Bucurați-vă de briza mării în acest loc minunat, care este absolut perfect pentru un picnic relaxant cu gustări proaspete cumpărate din zonă.",
+            "en": "Enjoy the gentle sea breeze at this wonderful location, which is absolutely perfect for setting up a relaxed picnic with some fresh local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Limosa",
+            "hu": "Praia da Limosa",
+            "ro": "Praia da Limosa",
+            "en": "Praia da Limosa"
+          },
+          "coords": [
+            -7.352533,
+            43.652748
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese weite Sandfläche bietet reichlich Platz für ausgedehnte Strandspaziergänge, idealerweise barfuß entlang der erfrischenden und klaren Wasserlinie.",
+            "hu": "Ez a hatalmas homokos terület bőséges helyet kínál a hosszú tengerparti sétákhoz, ideális esetben mezítláb sétálva a frissítő vízparton.",
+            "ro": "Această întindere vastă de nisip oferă spațiu amplu pentru plimbări lungi pe plajă, de preferat desculț de-a lungul liniei apei răcoroase.",
+            "en": "This vast expanse of sand provides ample space for long, unhurried beach walks, ideally done barefoot right along the refreshing, clear waterline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir ganz im Norden am ruhigen Praia da Rueta, ideal für einen erfrischenden Auftakt. Entlang der wunderschönen Küstenstraße radeln wir zügig zum Praia de Ril und weiter zum Cabaliño. Die Mittagszeit verbringen wir an den belebten Stränden Portelo und Penoural mit herrlichen Ausblicken. Am Nachmittag lockt der lange Sandstrand Limosa für einen entspannten Abschluss.",
+        "hu": "Kerékpárral északon, a csendes Praia da Rueta partján indulunk, amely ideális egy frissítő kezdéshez. A gyönyörű parti úton haladva gyorsan elérjük a Praia de Ril és Cabaliño strandjait. A delet a nyüzsgő Portelo és Penoural homokján töltjük, ahonnan remek a kilátás. Késő délután pedig a hosszú, homokos Limosa strand csábít egy kellemes, pihentető befejezésre a tengerpart mentén.",
+        "ro": "Pe bicicletă, începem în nord, la liniștita Praia da Rueta, ideală pentru un început revigorant de zi. Pedalând de-a lungul coastei frumoase, ajungem rapid la Praia de Ril și Cabaliño. Ne petrecem prânzul la plajele pline de viață Portelo și Penoural, bucurându-ne de vederi superbe. După-amiaza, lunga plajă cu nisip Limosa ne atrage pentru o încheiere relaxantă a călătoriei noastre.",
+        "en": "By bike, we start in the far north at the quiet Praia da Rueta, ideal for a refreshing start. Cycling along the lovely coastal road, we quickly reach Praia de Ril and Cabaliño. We spend midday at the lively beaches of Portelo and Penoural, enjoying the spectacular ocean views. In the afternoon, the long sandy stretch of Limosa beckons for a perfectly relaxed conclusion to the ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:43",
+      "total_km": 12.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Rueta",
+            "hu": "Praia da Rueta",
+            "ro": "Praia da Rueta",
+            "en": "Praia da Rueta"
+          },
+          "coords": [
+            -7.405431,
+            43.682029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Dieser ruhige Sandstrand am nördlichen Rand der Stadt lädt zum Entspannen ein, also bringen Sie ein Handtuch für ein ausgedehntes Sonnenbad mit.",
+            "hu": "Ez a csendes homokos strand a város északi szélén tökéletes a pihenésre, ezért hozzon magával egy törölközőt a hosszas napozáshoz.",
+            "ro": "Această plajă de nisip liniștită, situată la marginea nordică, invită la relaxare totală, așa că aduceți un prosop generos pentru plajă.",
+            "en": "This quiet sandy beach on the northern edge of town invites you to completely unwind, so bring a large towel for an extended sunbathing session."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Ril",
+            "hu": "Praia de Ril",
+            "ro": "Praia de Ril",
+            "en": "Praia de Ril"
+          },
+          "coords": [
+            -7.364647,
+            43.671561
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die raue Küstenschönheit dieser Bucht macht sie zu einem malerischen Ort, an dem festes Schuhwerk für einen Spaziergang sehr nützlich ist.",
+            "hu": "Ennek az öbölnek a vad tengerparti szépsége festői helyszínt kínál, ahol érdemes kényelmes cipőt viselni a sziklák melletti sétához.",
+            "ro": "Frumusețea de coastă brută a acestui golf creează un cadru pitoresc, unde încălțămintea solidă este de mare ajutor pentru plimbări.",
+            "en": "The raw coastal beauty of this lovely cove makes it a highly picturesque spot, where sturdy shoes will greatly help you explore the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cabaliño",
+            "hu": "Praia do Cabaliño",
+            "ro": "Praia do Cabaliño",
+            "en": "Praia do Cabaliño"
+          },
+          "coords": [
+            -7.356889,
+            43.666453
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein charmanter kleiner Küstenabschnitt, ideal für Familien, bei dem Sie Badesachen einpacken sollten, um das sanfte Meerwasser zu genießen.",
+            "hu": "Hangulatos kis tengerparti szakasz, amely ideális a családok számára, így mindenképpen csomagoljon fürdőruhát a lágy tengervíz élvezetéhez.",
+            "ro": "O porțiune de coastă fermecătoare, ideală pentru familii, unde ar trebui să aduceți costume de baie pentru a vă bucura de apa mării.",
+            "en": "A charming little stretch of coastline that is incredibly ideal for families, so make sure to pack your swimwear to enjoy the gentle sea water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portelo",
+            "hu": "Praia do Portelo",
+            "ro": "Praia do Portelo",
+            "en": "Praia do Portelo"
+          },
+          "coords": [
+            -7.356835,
+            43.664194
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser zentrale und sehr beliebte Strand ist das Herzstück des lokalen Lebens, weshalb sich ein früher Besuch für den besten Liegeplatz lohnt.",
+            "hu": "Ez a központi és rendkívül népszerű strand a helyi élet szíve, ami miatt érdemes korán érkezni a legjobb napozóhely biztosítása érdekében.",
+            "ro": "Această plajă centrală și populară este inima vieții locale, motiv pentru care o vizită matinală vă garantează cel mai bun loc la soare.",
+            "en": "This central and extremely popular beach is the true heart of local life, which makes arriving early worthwhile to secure the best lounging spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Limosa",
+            "hu": "Praia da Limosa",
+            "ro": "Praia da Limosa",
+            "en": "Praia da Limosa"
+          },
+          "coords": [
+            -7.352533,
+            43.652748
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese weite Sandfläche bietet reichlich Platz für ausgedehnte Strandspaziergänge, idealerweise barfuß entlang der erfrischenden und klaren Wasserlinie.",
+            "hu": "Ez a hatalmas homokos terület bőséges helyet kínál a hosszú tengerparti sétákhoz, ideális esetben mezítláb sétálva a frissítő vízparton.",
+            "ro": "Această întindere vastă de nisip oferă spațiu amplu pentru plimbări lungi pe plajă, de preferat desculț de-a lungul liniei apei răcoroase.",
+            "en": "This vast expanse of sand provides ample space for long, unhurried beach walks, ideally done barefoot right along the refreshing, clear waterline."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Perdouro",
+            "hu": "Praia do Perdouro",
+            "ro": "Praia do Perdouro",
+            "en": "Praia do Perdouro"
+          },
+          "coords": [
+            -7.350688,
+            43.649051
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Umgeben von interessanten Felsformationen ist dies ein Paradies für Naturliebhaber, vergessen Sie also nicht Ihre Kamera für beeindruckende Landschaftsbilder.",
+            "hu": "Érdekes sziklaképződményekkel körülvéve ez a hely a természetkedvelők paradicsoma, ezért ne felejtse otthon a fényképezőgépét a tájképekhez.",
+            "ro": "Înconjurată de formațiuni stâncoase interesante, aceasta este un paradis pentru iubitorii de natură, așa că nu uitați aparatul foto pentru peisaje.",
+            "en": "Surrounded by fascinating rock formations, this area is a true paradise for nature lovers, so definitely remember to bring your camera along."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Brava",
+            "hu": "Area Brava",
+            "ro": "Area Brava",
+            "en": "Area Brava"
+          },
+          "coords": [
+            -7.339981,
+            43.638574
+          ],
+          "category": "recreational",
+          "arrive_at": "16:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der südlichste Rückzugsort bietet absolute Ruhe und Naturverbundenheit, am besten erkundet man ihn am späten Nachmittag für stimmungsvolles Licht.",
+            "hu": "A legdélibb menedék abszolút nyugalmat és a természettel való kapcsolatot kínál, amelyet a késő délutáni fényben a legjobb alaposan felfedezni.",
+            "ro": "Acest refugiu sudic oferă liniște absolută și conexiune cu natura, fiind cel mai bine explorat în lumina blândă a după-amiezii târzii.",
+            "en": "The southernmost retreat offers absolute tranquility and connection with nature, which is best explored during the late afternoon for atmospheric light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt entspannt am abgelegenen Praia da Rueta im Norden, fernab des großen Trubels. Ein kurzer Fahrweg bringt uns zu den malerischen Küstenabschnitten Ril und Cabaliño. Das lebhafte Treiben am Praia do Portelo begleitet uns durch die Mittagsstunden, gefolgt von der Weite des Limosa. Der Tag endet magisch am wildromantischen Area Brava im äußersten Süden von Burela.",
+        "hu": "Az autós túra a nyugodt, északi Praia da Rueta strandon kezdődik, távol a nagy nyüzsgéstől. Egy rövid úttal a festői Ril és Cabaliño partjaihoz érünk, majd belevetjük magunkat a tengerbe. A Portelo strand pezsgő élete kísér végig minket a déli órákban, amit a Limosa tágas tere követ. A nap varázslatos módon, a vadregényes Area Brava parton ér véget, Burela legdélibb pontján.",
+        "ro": "Turul cu mașina începe relaxant la izolata Praia da Rueta în nord, departe de agitația orașului. O scurtă călătorie ne duce la sectoarele pitorești de coastă Ril și Cabaliño. Atmosfera animată de la Praia do Portelo ne ține companie la prânz, urmată de întinderea vastă de la Limosa. Ziua se încheie magic la peisajul sălbatic și romantic de la Area Brava, în extremitatea sudică.",
+        "en": "The road trip begins peacefully at the secluded Praia da Rueta in the north, far from any crowds. A short drive takes us to the picturesque coastal stretches of Ril and Cabaliño. The lively atmosphere at Praia do Portelo accompanies us through the midday hours, followed by the vast Limosa. The day ends magically at the wildly romantic Area Brava in the southernmost part of Burela."
+      }
+    }
+  }
+}

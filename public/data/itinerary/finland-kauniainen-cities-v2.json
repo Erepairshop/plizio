@@ -1,0 +1,543 @@
+{
+  "city_id": "finland-kauniainen-cities-v2",
+  "anchor": {
+    "name": "Kauniainen",
+    "coords": [
+      24.729167,
+      60.209722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Junghans",
+            "hu": "Villa Junghans",
+            "ro": "Villa Junghans",
+            "en": "Villa Junghans"
+          },
+          "coords": [
+            24.728028,
+            60.207051
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Jugendstildetails dieses historischen Gemeindezentrums und werfen Sie einen Blick auf die lokale Informationstafel.",
+            "hu": "Csodálja meg ennek a történelmi közösségi központnak a szecessziós részleteit, és keresse a helyi kulturális események hirdetéseit.",
+            "ro": "Admirați detaliile Art Nouveau ale acestui centru comunitar istoric și verificați panoul informativ pentru evenimente culturale viitoare.",
+            "en": "Admire the Art Nouveau details of this historic community center and check the local notice board for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kauniainen",
+            "hu": "Kauniaisten kirkko",
+            "ro": "Biserica Kauniainen",
+            "en": "Kauniaisten kirkko"
+          },
+          "coords": [
+            24.728009,
+            60.213306
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön minimalistische Kirche, um ihre friedliche Atmosphäre zu genießen, und achten Sie auf das Buntglas.",
+            "hu": "Lépjen be ebbe a gyönyörűen minimalista templomba, hogy élvezze a békés hangulatot, és figyelje meg a finom ólomüveg ablakokat.",
+            "ro": "Pășiți în această biserică frumos minimalistă pentru a aprecia atmosfera pașnică, asigurându-vă că observați vitraliile delicate.",
+            "en": "Step inside this beautifully minimalist church to appreciate its peaceful atmosphere, making sure to notice the delicate stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Odenvall",
+            "hu": "Villa Odenvall",
+            "ro": "Villa Odenvall",
+            "en": "Villa Odenvall"
+          },
+          "coords": [
+            24.723868,
+            60.213919
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Holzarchitektur dieser gut erhaltenen Villa und achten Sie auf die aufwendigen Schnitzereien auf der Veranda.",
+            "hu": "Csodálja meg e jól megőrzött villa klasszikus faépítészetét, és fordítson különös figyelmet a tornác bonyolult fafaragásaira.",
+            "ro": "Minunați-vă de arhitectura clasică din lemn a acestei vile bine conservate, acordând atenție sculpturilor complicate ale verandei.",
+            "en": "Marvel at the classic wooden architecture of this well-preserved villa, paying attention to the intricate porch carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Skogshyddan",
+            "hu": "Villa Skogshyddan",
+            "ro": "Villa Skogshyddan",
+            "en": "Villa Skogshyddan"
+          },
+          "coords": [
+            24.729393,
+            60.215186
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um das romantische Äußere dieses alten Hauses zu fotografieren, das ein Symbol der Stadtgeschichte ist.",
+            "hu": "Szánjon egy percet arra, hogy lefotózza ennek a nagyszerű régi háznak a romantikus külsejét, amely a város korai napjainak szimbóluma.",
+            "ro": "Faceți-vă timp pentru a fotografia exteriorul romantic al acestei case vechi, care stă ca un mândru simbol al zilelor de început ale orașului.",
+            "en": "Take a moment to photograph the romantic exterior of this grand old house, which stands as a proud symbol of the town's early days."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelschutzgebiet Lintu-alue",
+            "hu": "Lintu-alue madárrezervátum",
+            "ro": "Zona de păsări Lintu-alue",
+            "en": "Lintu-alue Bird Area"
+          },
+          "coords": [
+            24.727271,
+            60.217789
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas in dieses ruhige Vogelgebiet mit und setzen Sie sich leise auf die Bänke, um verschiedene Vogelarten zu beobachten.",
+            "hu": "Hozzon magával távcsövet ebbe a nyugodt madárrezervátumba, és üljön le csendben a padokra, hogy megfigyelhesse a madarakat.",
+            "ro": "Aduceți un binoclu în această zonă liniștită pentru păsări și așezați-vă liniștit pe bănci pentru a observa diverse specii aviare locale.",
+            "en": "Bring your binoculars to this tranquil bird area and sit quietly on the benches to spot various local avian species."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Kukkapuro",
+            "hu": "Studio Kukkapuro",
+            "ro": "Studio Kukkapuro",
+            "en": "Studio Kukkapuro"
+          },
+          "coords": [
+            24.72646,
+            60.220956
+          ],
+          "category": "museum",
+          "arrive_at": "15:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markante Betonarchitektur und die innovativen Möbeldesigns von Yrjö Kukkapuro, indem Sie Ihren Besuch vorab buchen.",
+            "hu": "Fedezze fel Yrjö Kukkapuro lenyűgöző betonépítészetét és innovatív bútorterveit, érdemes a látogatást előre lefoglalni.",
+            "ro": "Explorați arhitectura impresionantă din beton și designurile inovatoare de mobilier ale lui Yrjö Kukkapuro, rezervând vizita în avans.",
+            "en": "Explore the striking concrete architecture and innovative furniture designs of Yrjö Kukkapuro, booking your visit slightly in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des architektonischen Erbes von Kauniainen in der Villa Junghans und der örtlichen Kirche.\n\nAm Mittag erreichen Sie die eleganten historischen Herrenhäuser Villa Odenvall und Villa Skogshyddan.\n\nVerbringen Sie den Nachmittag damit, die natürliche Schönheit des Vogelschutzgebiets Lintu-alue zu genießen.\n\nBeenden Sie den Tag im faszinierenden Studio Kukkapuro.",
+        "hu": "Kezdje a reggelt Kauniainen építészeti örökségének felfedezésével a Villa Junghans és a helyi templom meglátogatásával.\n\nA dél közeledtével a Villa Odenvall és a Villa Skogshyddan elegáns történelmi kúriái várják.\n\nA délutánt a Lintu-alue madárrezervátum természeti szépségeinek megcsodálásával töltheti.\n\nZárja a napot a Studio Kukkapuro modern dizájnkiállításának megtekintésével.",
+        "ro": "Începeți dimineața explorând patrimoniul arhitectural din Kauniainen la Villa Junghans și biserica locală.\n\nLa amiază vizitați conacele istorice elegante Villa Odenvall și Villa Skogshyddan, o perspectivă asupra trecutului.\n\nPetreceți după-amiaza bucurându-vă de frumusețea naturală a sanctuarului de păsări Lintu-alue.\n\nÎncheiați ziua admirând designul modern de la Studio Kukkapuro.",
+        "en": "Start the morning exploring the rich architectural heritage of Kauniainen at Villa Junghans and the serene local church.\n\nMidday brings you to the elegant historical manors of Villa Odenvall and Villa Skogshyddan.\n\nSpend the afternoon taking in the natural beauty of the Lintu-alue bird sanctuary.\n\nConclude your day admiring modern design at Studio Kukkapuro."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Kauniainen",
+            "hu": "Kauniaisten kirkko",
+            "ro": "Biserica Kauniainen",
+            "en": "Kauniaisten kirkko"
+          },
+          "coords": [
+            24.728009,
+            60.213306
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad in der Nähe des Haupteingangs an und treten Sie ein, um die Stille zu genießen.",
+            "hu": "Zárja le kerékpárját a főbejárat közelében, és lépjen be, hogy élvezze a csendet, mielőtt a város felébredne.",
+            "ro": "Legați bicicleta lângă intrarea principală și pășiți înăuntru pentru a vă bucura de liniște înainte de trezirea orașului.",
+            "en": "Lock your bike near the main entrance and step in to enjoy the silence before the town fully wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Junghans",
+            "hu": "Villa Junghans",
+            "ro": "Villa Junghans",
+            "en": "Villa Junghans"
+          },
+          "coords": [
+            24.728028,
+            60.207051
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad um das Gelände, um die markante Holzarchitektur aus allen Blickwinkeln zu betrachten.",
+            "hu": "Tolja körbe a kerékpárját, hogy minden szögből teljes mértékben értékelni tudja a jellegzetes faépítészetet.",
+            "ro": "Plimbați-vă bicicleta pe perimetru pentru a aprecia pe deplin arhitectura distinctivă din lemn din toate unghiurile.",
+            "en": "Walk your bike around the perimeter to fully appreciate the distinctive wooden architecture from all angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Karvasbacka Haselnusshain",
+            "hu": "Karvasbacka mogyoróliget",
+            "ro": "Livada de aluni Karvasbacka",
+            "en": "Karvasbackan pähkinäpensaslehto"
+          },
+          "coords": [
+            24.691382,
+            60.208455
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Zugangswegen und genießen Sie einen friedlichen Spaziergang zwischen den seltenen Haselnusssträuchern.",
+            "hu": "Óvatosan tekerjen a megközelítési útvonalakon, és élvezze a békés sétát a ritka és ősi mogyoróbokrok között.",
+            "ro": "Mergeți cu grijă pe potecile de acces și bucurați-vă de o plimbare liniștită printre arbuștii rari și antici de alun.",
+            "en": "Ride carefully on the approach paths and enjoy a peaceful stroll among the rare and ancient hazelnut shrubs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Sankarihauta",
+            "ro": "Memorialul Eroilor",
+            "en": "Sankarihauta - Pro Patria"
+          },
+          "coords": [
+            24.69976,
+            60.216964
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser Gedenkstätte respektvoll inne und beachten Sie die eingravierten Namen, die eine ergreifende Geschichte erzählen.",
+            "hu": "Álljon meg tiszteletteljesen ezen az ünnepélyes emlékhelyen, és vegye figyelembe a helyi történelmet elmesélő vésett neveket.",
+            "ro": "Opriți-vă cu respect la acest loc memorial solemn, remarcând numele gravate care spun o istorie locală emoționantă.",
+            "en": "Pause respectfully at this solemn memorial site, noting the engraved names that tell a poignant local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockmann-Ruinen",
+            "hu": "Stockmann-romok",
+            "ro": "Ruinele Stockmann",
+            "en": "Stockmann ruins"
+          },
+          "coords": [
+            24.696997,
+            60.217179
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und klettern Sie vorsichtig auf die umliegenden Wege, um diese Ruinen zu entdecken.",
+            "hu": "Parkolja le biztonságosan kerékpárját, és óvatosan másszon fel az ösvényeken, hogy felfedezze ezeket a mohával borított romokat.",
+            "ro": "Parcați bicicleta în siguranță și urcați cu grijă pe cărările din jur pentru a descoperi aceste ruine acoperite de mușchi.",
+            "en": "Park your bike securely and carefully climb the surrounding paths to discover these moss-covered castle-like ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Pelander",
+            "hu": "Villa Pelander",
+            "ro": "Villa Pelander",
+            "en": "Villa Pelander"
+          },
+          "coords": [
+            24.718001,
+            60.221513
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Halten Sie an, um die Erhabenheit dieses Anwesens zu bewundern, das ein Beispiel für die Wohnarchitektur des frühen 20. Jahrhunderts ist.",
+            "hu": "Álljon meg, hogy megcsodálja ezt a kiemelkedő birtokot, amely gyönyörűen példázza a 20. század eleji lakóépületek tervezését.",
+            "ro": "Opriți-vă pentru a admira măreția acestei moșii proeminente, care exemplifică frumos designul rezidențial de la începutul secolului XX.",
+            "en": "Stop to admire the grandeur of this prominent estate, which beautifully exemplifies early 20th-century residential design."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Kukkapuro",
+            "hu": "Studio Kukkapuro",
+            "ro": "Studio Kukkapuro",
+            "en": "Studio Kukkapuro"
+          },
+          "coords": [
+            24.72646,
+            60.220956
+          ],
+          "category": "museum",
+          "arrive_at": "16:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine aus und bewundern Sie diese einzigartige Struktur, ein wahres verborgenes Juwel für Designliebhaber.",
+            "hu": "Pihentesse a lábát, miközben megcsodálja ezt az egyedülálló szerkezetet, amely a dizájn rajongóinak igazi rejtett gyöngyszeme.",
+            "ro": "Odihniți-vă picioarele în timp ce admirați această structură unică, o adevărată bijuterie ascunsă pentru pasionații de design.",
+            "en": "Rest your legs while admiring this unique fiberglass and concrete structure, a true hidden gem for design enthusiasts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh los, um die friedliche Atmosphäre der Kirche von Kauniainen und der charmanten Villa Junghans zu erleben.\n\nMittags geht es in die Natur zum malerischen Haselnusshain Karvasbacka.\n\nAm Nachmittag erweisen Sie am Kriegerdenkmal Ihren Respekt, bevor Sie die faszinierenden Stockmann-Ruinen erkunden.\n\nBeenden Sie Ihren aktiven Tag mit einer Radtour zur Villa Pelander und einem Besuch im legendären Studio Kukkapuro.",
+        "hu": "Korán induljon kerékpárral, hogy megtapasztalja a Kauniainen templom és a hangulatos Villa Junghans békés légkörét.\n\nDélben a természet felé veszi az irányt, és elteker a festői Karvasbacka mogyoróligethez.\n\nDélután tisztelegjen a háborús emlékműnél, mielőtt felfedezné a tájban megbúvó izgalmas Stockmann-romokat.\n\nZárja az aktív napot a Villa Pelander és az ikonikus Studio Kukkapuro meglátogatásával.",
+        "ro": "Pedalați devreme pentru a experimenta atmosfera pașnică a Bisericii Kauniainen și a fermecătoarei Villa Junghans.\n\nLa prânz vă îndreptați spre natură, pedalând către pitoreasca livadă de aluni Karvasbacka.\n\nDupă-amiaza, aduceți un omagiu la memorialul de război înainte de a explora fascinantele ruine Stockmann ascunse în peisaj.\n\nÎncheiați-vă ziua activă mergând cu bicicleta spre Villa Pelander și admirând iconicul Studio Kukkapuro.",
+        "en": "Pedal out early to experience the peaceful atmosphere of Kauniainen Church and the charming Villa Junghans.\n\nMidday shifts towards nature as you ride out to the scenic Karvasbacka hazelnut grove.\n\nIn the afternoon, pay your respects at the war memorial before exploring the intriguing Stockmann ruins hidden in the landscape.\n\nWrap up your active day by cycling to Villa Pelander and marveling at the iconic Studio Kukkapuro."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 7.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lillträsk Naturschutzgebiet",
+            "hu": "Lillträsk természetvédelmi terület",
+            "ro": "Rezervația naturală Lillträsk",
+            "en": "Lillträskin luonnonsuojelualue"
+          },
+          "coords": [
+            24.718874,
+            60.192334
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und tragen Sie feste Wanderschuhe, um die bewaldeten Wege rund um den kleinen See zu erkunden.",
+            "hu": "Parkoljon le a közelben, és viseljen masszív túracipőt, hogy bejárhassa a kis tó körüli gyönyörű erdős ösvényeket.",
+            "ro": "Parcați în apropiere și purtați pantofi de mers rezistenți pentru a parcurge frumoasele trasee împădurite din jurul micului lac.",
+            "en": "Park nearby and wear sturdy walking shoes to navigate the beautiful forested trails around the small lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Central Park Waldgebiet",
+            "hu": "Központi Park erdő",
+            "ro": "Pădurea Parcului Central",
+            "en": "Keskuspuiston metsäalue"
+          },
+          "coords": [
+            24.70303,
+            60.191859
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Suchen Sie sich einen Parkplatz am ausgewiesenen Wanderweg und genießen Sie die reiche Artenvielfalt dieses Waldes.",
+            "hu": "Keressen egy helyet a kijelölt parkolóban, és élvezze ennek a kiterjedt központi erdőnek a gazdag biodiverzitását.",
+            "ro": "Găsiți un loc în parcarea desemnată pentru traseu și bucurați-vă de biodiversitatea bogată a acestei vaste păduri centrale.",
+            "en": "Find a spot at the designated trailhead parking and enjoy the rich biodiversity of this extensive central forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Karvasbacka Haselnusshain",
+            "hu": "Karvasbacka mogyoróliget",
+            "ro": "Livada de aluni Karvasbacka",
+            "en": "Karvasbackan pähkinäpensaslehto"
+          },
+          "coords": [
+            24.691382,
+            60.208455
+          ],
+          "category": "natural",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto an den nahegelegenen Wohngebieten stehen und respektieren Sie das fragile Ökosystem.",
+            "hu": "Hagyja autóját a közeli lakóövezetek szélén, és tisztelje a törékeny ökoszisztémát az öreg fák közötti séta során.",
+            "ro": "Lăsați mașina la marginile rezidențiale din apropiere și respectați ecosistemul fragil în timp ce vă plimbați printre copacii bătrâni.",
+            "en": "Leave your car at the nearby residential edges and respect the fragile ecosystem while walking among the old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Stockmann-Ruinen",
+            "hu": "Stockmann-romok",
+            "ro": "Ruinele Stockmann",
+            "en": "Stockmann ruins"
+          },
+          "coords": [
+            24.696997,
+            60.217179
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die kleinen Parkbuchten in der Nähe und bereiten Sie sich auf eine kurze, etwas unebene Wanderung vor.",
+            "hu": "Használja a közeli kis parkolókat, majd készüljön fel egy rövid, kissé egyenetlen túrára ehhez az építészeti érdekességhez.",
+            "ro": "Folosiți micile parcări din apropiere, apoi pregătiți-vă pentru o scurtă drumeție ușor accidentată până la această curiozitate.",
+            "en": "Use the small nearby parking pull-outs, then prepare for a short, slightly uneven hike up to this architectural curiosity."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Sankarihauta",
+            "ro": "Memorialul Eroilor",
+            "en": "Sankarihauta - Pro Patria"
+          },
+          "coords": [
+            24.69976,
+            60.216964
+          ],
+          "category": "historical",
+          "arrive_at": "14:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Straßenparkplätze stehen direkt neben dem Friedhof zur Verfügung und ermöglichen einen ruhigen, besinnlichen Besuch.",
+            "hu": "Közvetlenül a temető mellett lehet parkolni az utcán, így nagyon könnyen megközelíthető egy csendes, elmélkedő látogatáshoz.",
+            "ro": "Parcarea pe stradă este disponibilă chiar lângă cimitir, făcându-l foarte accesibil pentru o vizită liniștită și reflexivă.",
+            "en": "Street parking is available right next to the graveyard, making it very accessible for a quiet, reflective visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Kukkapuro",
+            "hu": "Studio Kukkapuro",
+            "ro": "Studio Kukkapuro",
+            "en": "Studio Kukkapuro"
+          },
+          "coords": [
+            24.72646,
+            60.220956
+          ],
+          "category": "museum",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Da es sich um ein privates Studio handelt, achten Sie darauf, dass Sie während Ihrer Tour keine Einfahrten blockieren.",
+            "hu": "Mivel ez egy privát stúdió, ügyeljen arra, hogy óvatosan parkoljon, és ne akadályozza a szomszédos kocsibejárókat a túra során.",
+            "ro": "Deoarece aceasta este o locație privată de studio, asigurați-vă că parcați cu atenție fără a bloca căile de acces vecine.",
+            "en": "Since this is a private studio location, make sure you park carefully without blocking neighboring driveways during your scheduled tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Kauniainen",
+            "hu": "Kauniaisten kirkko",
+            "ro": "Biserica Kauniainen",
+            "en": "Kauniaisten kirkko"
+          },
+          "coords": [
+            24.728009,
+            60.213306
+          ],
+          "category": "religious",
+          "arrive_at": "16:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nutzen Sie den geräumigen Parkplatz der Kirche und nehmen Sie sich Zeit, um das Gelände zu erkunden, bevor Sie hineingehen.",
+            "hu": "Használja ki a templom tágas parkolóját, és szánjon időt az érintetlen terület bejárására, mielőtt bemenne.",
+            "ro": "Utilizați parcarea spațioasă a bisericii și acordați-vă timp pentru a vă plimba pe terenul imaculat înainte de a intra.",
+            "en": "Utilize the church’s spacious parking lot and take your time walking the pristine grounds before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Junghans",
+            "hu": "Villa Junghans",
+            "ro": "Villa Junghans",
+            "en": "Villa Junghans"
+          },
+          "coords": [
+            24.728028,
+            60.207051
+          ],
+          "category": "historical",
+          "arrive_at": "17:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt hier, wo ausreichend Parkplätze vorhanden sind, um die Gärten und die historische Fassade zu genießen.",
+            "hu": "Fejezze be autós túráját itt, ahol a bőséges parkolóhely lehetővé teszi, hogy könnyedén sétáljon a kertekben naplementekor.",
+            "ro": "Încheiați-vă turul cu mașina aici, unde parcarea amplă vă permite să vă plimbați cu ușurință prin grădini la apus.",
+            "en": "Conclude your driving tour here, where ample parking allows you to easily wander the gardens and enjoy the historic facade at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an den friedlichen südlichen Rändern der Stadt und machen Sie erfrischende Morgenspaziergänge durch die Naturschutzgebiete.\n\nFahren Sie mittags nach Westen, um den seltenen Haselnusshain und die faszinierenden historischen Stockmann-Ruinen zu erkunden.\n\nDer Nachmittag bietet einen Moment der Besinnung am Kriegerdenkmal, gefolgt von einem Besuch im atemberaubenden Studio Kukkapuro.\n\nDer Abend bricht herein, wenn Sie in der Nähe des Zentrums parken und die ruhige Atmosphäre der Kirche und Villa Junghans genießen.",
+        "hu": "Kezdje autós útját a város békés déli peremén, és tegyen egy frissítő reggeli sétát a buja természetvédelmi területeken.\n\nDélben hajtson nyugatra, hogy felfedezze a ritka mogyoróligetet és a lenyűgöző történelmi Stockmann-romokat.\n\nA délután közepén tartson egy pillanatnyi elmélkedést a háborús emlékműnél, majd látogasson el az építészetileg lenyűgöző Studio Kukkapuroba.\n\nEste parkoljon le a központ közelében, és élvezze a templom és a Villa Junghans békés hangulatát.",
+        "ro": "Începeți plimbarea cu mașina la marginile liniștite din sudul orașului, făcând plimbări revigorante de dimineață prin rezervele naturale luxuriante.\n\nLa prânz, mergeți spre vest pentru a explora crângul rar de aluni și fascinantele ruine istorice Stockmann.\n\nDupă-amiaza oferă un moment de reflecție la memorialul de război, urmat de o vizită la impresionantul Studio Kukkapuro.\n\nSeara coboară în timp ce parcați aproape de centru, bucurându-vă de atmosfera senină de la Biserică și Villa Junghans.",
+        "en": "Begin your drive on the peaceful southern edges of the city, taking refreshing morning walks through the lush Lillträsk and Central Park nature reserves.\n\nBy midday, cruise westward to explore the rare hazelnut grove and the fascinating historic Stockmann ruins.\n\nMid-afternoon offers a moment of reflection at the local war memorial followed by a visit to the architecturally stunning Studio Kukkapuro.\n\nEvening descends as you park near the center, enjoying the serene atmosphere of Kauniainen Church and Villa Junghans."
+      }
+    }
+  }
+}

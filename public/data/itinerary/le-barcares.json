@@ -1,0 +1,405 @@
+{
+  "city_id": "le-barcares",
+  "anchor": {
+    "name": "Le Barcarès",
+    "coords": [
+      3.0356,
+      42.7883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Barcarès",
+            "hu": "Port Barcarès",
+            "ro": "Port Barcarès",
+            "en": "Port Barcarès"
+          },
+          "coords": [
+            3.035556,
+            42.788333
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der belebten Promenaden des Hafens, um das maritime Flair zu genießen, und probieren Sie unbedingt frische Meeresfrüchte in den anliegenden Lokalen.",
+            "hu": "Sétáljon végig a kikötő nyüzsgő sétányain, hogy átélje a tengeri hangulatot, és mindenképpen kóstolja meg a friss tengeri ételeket a közeli hangulatos éttermek egyikében.",
+            "ro": "Plimbați-vă de-a lungul promenadelor animate ale portului pentru a simți atmosfera maritimă și nu ratați ocazia de a gusta fructe de mare proaspete la restaurantele locale.",
+            "en": "Stroll along the lively promenades of the port to soak in the bustling maritime atmosphere, and be sure to try some fresh local seafood at one of the waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "La goélette",
+            "hu": "La goélette",
+            "ro": "La goélette",
+            "en": "La goélette"
+          },
+          "coords": [
+            3.037493,
+            42.787169
+          ],
+          "category": "family",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Faszination traditioneller Segelschiffe an diesem charmanten Ort, der perfekt für Familien ist, und bringen Sie eine Kamera für tolle maritime Fotos mit.",
+            "hu": "Fedezze fel a hagyományos vitorláshajók varázsát ezen a hangulatos, családbarát helyszínen, és mindenképpen hozzon magával fényképezőgépet a csodás tengeri fotókhoz.",
+            "ro": "Descoperiți fascinația navelor cu pânze tradiționale în acest loc fermecător, perfect pentru familii, și aduceți un aparat foto pentru a surprinde imagini maritime minunate.",
+            "en": "Discover the fascination of traditional sailing ships at this charming, family-friendly location, and remember to bring a camera for capturing some wonderful nautical photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de la Jeunesse et de la Paix",
+            "hu": "Jardin de la Jeunesse et de la Paix",
+            "ro": "Jardin de la Jeunesse et de la Paix",
+            "en": "Jardin de la Jeunesse et de la Paix"
+          },
+          "coords": [
+            3.034616,
+            42.788927
+          ],
+          "category": "family",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses gepflegten Gartens, der zum Verweilen und Nachdenken einlädt, und nutzen Sie die schattigen Bänke für ein kleines Picknick.",
+            "hu": "Élvezze a gondozott kert békés hangulatát, amely tökéletes a kikapcsolódásra és elmélkedésre, és használja ki az árnyékos padokat egy kellemes, pihentető piknikhez.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei grădini îngrijite, ideală pentru relaxare, și profitați de băncile umbrite pentru a organiza un mic picnic revigorant.",
+            "en": "Enjoy the peaceful atmosphere of this well-kept garden, which is perfect for relaxation and reflection, and take advantage of the shaded benches for a refreshing little picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Goolfy Bora Bora",
+            "hu": "Goolfy Bora Bora",
+            "ro": "Goolfy Bora Bora",
+            "en": "Goolfy Bora Bora"
+          },
+          "coords": [
+            3.034474,
+            42.78364
+          ],
+          "category": "family",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie bei diesem farbenfrohen Minigolf-Abenteuer im Dunkeln Spaß für die ganze Familie und kommen Sie am besten frühzeitig, um längere Wartezeiten zu vermeiden.",
+            "hu": "Éljen át egy felejthetetlen, sötétben világító minigolf kalandot az egész családdal, és érkezzen minél korábban, hogy elkerülje a hosszabb várakozási időt a bejáratnál.",
+            "ro": "Experimentați o aventură colorată de minigolf în întuneric, perfectă pentru toată familia, și încercați să ajungeți devreme pentru a evita timpii lungi de așteptare.",
+            "en": "Experience a colorful glow-in-the-dark minigolf adventure that promises fun for the whole family, and try to arrive early in the day to avoid the longest waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Village Western",
+            "hu": "Village Western",
+            "ro": "Village Western",
+            "en": "Village Western"
+          },
+          "coords": [
+            3.026327,
+            42.784588
+          ],
+          "category": "family",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem detailreichen Themenpark in das Leben des Wilden Westens ein und planen Sie genügend Zeit ein, um die verschiedenen Shows und Aktivitäten zu genießen.",
+            "hu": "Merüljön el a Vadnyugat életében ebben a részletgazdag vidámparkban, és tervezzen be elegendő időt arra, hogy minden különleges bemutatót és izgalmas tevékenységet kipróbáljon.",
+            "ro": "Pătrundeți în viața Vestului Sălbatic în acest parc tematic detaliat și rezervați-vă suficient timp pentru a vă bucura de toate spectacolele și activitățile interactive oferite.",
+            "en": "Immerse yourself in the life of the Wild West at this highly detailed theme park, and be sure to allocate plenty of time to fully enjoy the various shows and interactive activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am lebhaften Hafen, genießen Sie das maritime Flair und spazieren Sie dann zur La goélette für maritime Einblicke. Mittags lockt der Jardin de la Jeunesse mit entspannender Ruhe. Am Nachmittag bringt Goolfy Bora Bora Spaß für die Familie. Lassen Sie den Tag mit einem Ausflug ins Village Western bei einem charmanten Abend ausklingen.",
+        "hu": "Kezdje a reggelt a nyüzsgő kikötőben, élvezze a tengeri hangulatot, majd sétáljon át a La goélette hajóhoz. Délben a Jardin de la Jeunesse kínál kellemes pihenést. Délután a Goolfy Bora Bora izgalmas, családbarát szórakozást ígér. Fejezze be a napot a Village Western különleges hangulatával és kóstoljon meg egy finom vacsorát.",
+        "ro": "Începeți dimineața în portul plin de viață, admirând priveliștile, apoi plimbați-vă până la La goélette pentru o experiență nautică. La amiază, Jardin de la Jeunesse oferă un refugiu liniștit. După-amiaza, Goolfy Bora Bora vă așteaptă cu distracție pentru toată familia. Încheiați ziua în atmosfera unică de la Village Western.",
+        "en": "Start your morning at the bustling port, taking in the maritime vibes before walking over to La goélette for a nautical treat. At midday, the Jardin de la Jeunesse offers a peaceful and relaxing retreat. In the afternoon, Goolfy Bora Bora provides fun family entertainment. Conclude your day experiencing the unique charm of Village Western."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 7.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lydia Ocean Liner",
+            "hu": "Lydia Ocean Liner",
+            "ro": "Lydia Ocean Liner",
+            "en": "Lydia Ocean Liner"
+          },
+          "coords": [
+            3.041105,
+            42.827501
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Kreuzfahrtschiff, das ungewöhnlicherweise direkt im Sand liegt, und besuchen Sie die Ausstellung im Inneren für maritime Einblicke.",
+            "hu": "Csodálja meg ezt a történelmi óceánjárót, amely szokatlan módon közvetlenül a homokon pihen, és látogasson el a belsejében található érdekes tengerészeti kiállításra.",
+            "ro": "Admirați acest vas de croazieră istoric, care se află neobișnuit direct pe nisip, și vizitați expoziția din interior pentru a descoperi fascinanta sa istorie maritimă.",
+            "en": "Marvel at this historic ocean liner uniquely resting directly on the sand, and make sure to visit the fascinating exhibition inside for a deeper look into its maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts Alley",
+            "hu": "Arts Alley",
+            "ro": "Arts Alley",
+            "en": "Arts Alley"
+          },
+          "coords": [
+            3.041645,
+            42.833267
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese Freiluftgalerie voller Skulpturen und Straßenkunstwerken, die den Strandbereich bereichern, und achten Sie auf die wechselnden Ausstellungen.",
+            "hu": "Sétáljon végig ezen a szabadtéri galérián, amely tele van a tengerpartot díszítő szobrokkal és utcai művészettel, és figyelje meg a folyamatosan változó kiállításokat.",
+            "ro": "Plimbați-vă prin această galerie în aer liber plină de sculpturi și artă stradală care îmbogățesc zona plajei și acordați atenție expozițiilor care se schimbă constant.",
+            "en": "Stroll through this open-air gallery full of sculptures and street art that enrich the beach area, and pay close attention to the constantly rotating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "The Great Beach",
+            "hu": "The Great Beach",
+            "ro": "The Great Beach",
+            "en": "The Great Beach"
+          },
+          "coords": [
+            3.039901,
+            42.824906
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand, der ideal zum Sonnenbaden und Schwimmen ist, und bringen Sie unbedingt ausreichend Sonnenschutz für die heißen Mittagsstunden mit.",
+            "hu": "Pihenjen ezen a széles homokos strandon, amely ideális napozáshoz és úszáshoz, és mindenképpen hozzon magával bőséges napvédőt a forró déli és kora délutáni órákra.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip, ideală pentru plajă și înot, și nu uitați să aduceți suficientă protecție solară pentru orele fierbinți ale amiezii.",
+            "en": "Relax on this expansive sandy beach that is absolutely ideal for sunbathing and swimming, and remember to bring plenty of sun protection for the hot midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Barcarès",
+            "hu": "Port Barcarès",
+            "ro": "Port Barcarès",
+            "en": "Port Barcarès"
+          },
+          "coords": [
+            3.035556,
+            42.788333
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der belebten Promenaden des Hafens, um das maritime Flair zu genießen, und probieren Sie unbedingt frische Meeresfrüchte in den anliegenden Lokalen.",
+            "hu": "Sétáljon végig a kikötő nyüzsgő sétányain, hogy átélje a tengeri hangulatot, és mindenképpen kóstolja meg a friss tengeri ételeket a közeli hangulatos éttermek egyikében.",
+            "ro": "Plimbați-vă de-a lungul promenadelor animate ale portului pentru a simți atmosfera maritimă și nu ratați ocazia de a gusta fructe de mare proaspete la restaurantele locale.",
+            "en": "Stroll along the lively promenades of the port to soak in the bustling maritime atmosphere, and be sure to try some fresh local seafood at one of the waterfront restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Accès plage",
+            "hu": "Accès plage",
+            "ro": "Accès plage",
+            "en": "Accès plage"
+          },
+          "coords": [
+            3.035077,
+            42.76909
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen praktischen Strandzugang für einen unkomplizierten Sprung ins Mittelmeer und kommen Sie am späten Nachmittag, um den Menschenmassen zu entgehen.",
+            "hu": "Használja ezt a kényelmes strandlejárót egy gyors csobbanáshoz a Földközi-tengerben, és érkezzen a késő délutáni órákban, ha szeretné elkerülni a legnagyobb tömeget.",
+            "ro": "Folosiți acest acces practic la plajă pentru o baie rapidă în Marea Mediterană și veniți după-amiaza târziu pentru a evita cele mai mari aglomerații de turiști.",
+            "en": "Use this very convenient beach access for a quick and easy dip in the Mediterranean Sea, and consider visiting in the late afternoon to avoid the largest tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am historischen Ozeanriesen Lydia, ein einzigartiges Fotomotiv am Strand. Fahren Sie mittags durch die künstlerische Arts Alley und genießen Sie die Sonne am Great Beach. Am Nachmittag radeln Sie entspannt zum Port Barcarès, wo Sie die Boote beobachten können. Beenden Sie den Tag gemütlich am südlichen Strandzugang bei einem sanften Abendspaziergang am Meer.",
+        "hu": "Kezdje a kerékpártúrát a történelmi Lydia óceánjárónál, amely lenyűgöző látványt nyújt a tengerparton. Délben fedezze fel a művészeti sikátort, majd pihenjen a homokos The Great Beach-en. Délután tekerjen le a Port Barcarès kikötőjébe, és csodálja meg a ringatózó hajókat. Zárja a napot a déli strandokon, hallgatva a tenger megnyugtató morajlását.",
+        "ro": "Începeți turul cu bicicleta la istoricul transatlantic Lydia, o priveliște impresionantă pe plajă. La prânz, vizitați aleea de artă și relaxați-vă pe nisipul fin de la The Great Beach. După-amiaza, pedalați spre Port Barcarès pentru a urmări bărcile și activitatea portuară. Seara, retrageți-vă spre sud, bucurându-vă de briza liniștitoare a mării pe plajă.",
+        "en": "Kick off your bike tour at the historic Lydia ocean liner, a stunning and unique sight resting right on the beach. By midday, explore the artistic Arts Alley and soak up the sun at The Great Beach. In the afternoon, pedal down to Port Barcarès to watch the boats and enjoy the lively atmosphere. Wind down your evening with a calming seaside walk at the southern beach access."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 16.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de Leucate",
+            "hu": "Étang de Leucate",
+            "ro": "Étang de Leucate",
+            "en": "Étang de Leucate"
+          },
+          "coords": [
+            2.998786,
+            42.863808
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Natur dieses großen Küstensees, der ein Paradies für Vogelbeobachter ist, und bringen Sie ein Fernglas mit, um die Flamingos zu erspähen.",
+            "hu": "Élvezze e hatalmas tengerparti tó békés természetét, amely a madármegfigyelők valóságos paradicsoma, és hozzon magával távcsövet a gyönyörű flamingók megfigyeléséhez.",
+            "ro": "Bucurați-vă de natura pașnică a acestui lac de coastă, un adevărat paradis pentru observatorii de păsări, și aduceți binoclul pentru a zări frumoșii flamingo sălbatici.",
+            "en": "Enjoy the peaceful nature of this large coastal lake, which is a true paradise for birdwatchers, and be sure to bring binoculars to spot the beautiful wild flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Leucate Lagoon",
+            "hu": "Leucate Lagoon",
+            "ro": "Leucate Lagoon",
+            "en": "Leucate Lagoon"
+          },
+          "coords": [
+            2.996347,
+            42.847678
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erfreuen Sie sich an den herrlichen Aussichten über diese weitläufige Lagune, ein Hotspot für Windsurfer, und unternehmen Sie einen entspannten Spaziergang am Ufer.",
+            "hu": "Gyönyörködjön a tágas lagúnára nyíló csodás kilátásban, amely a szörfösök kedvelt helyszíne, és tegyen egy kellemes, pihentető sétát a nyugodt vízparti ösvényeken.",
+            "ro": "Bucurați-vă de priveliștile magnifice asupra acestei lagune întinse, un loc preferat de surferi, și faceți o plimbare relaxantă de-a lungul malurilor sale liniștite.",
+            "en": "Marvel at the magnificent views across this expansive lagoon, a popular hotspot for windsurfers, and take a relaxing and unhurried stroll along its tranquil shorelines."
+          }
+        },
+        {
+          "name": {
+            "de": "Lydia Ocean Liner",
+            "hu": "Lydia Ocean Liner",
+            "ro": "Lydia Ocean Liner",
+            "en": "Lydia Ocean Liner"
+          },
+          "coords": [
+            3.041105,
+            42.827501
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Kreuzfahrtschiff, das ungewöhnlicherweise direkt im Sand liegt, und besuchen Sie die Ausstellung im Inneren für maritime Einblicke.",
+            "hu": "Csodálja meg ezt a történelmi óceánjárót, amely szokatlan módon közvetlenül a homokon pihen, és látogasson el a belsejében található érdekes tengerészeti kiállításra.",
+            "ro": "Admirați acest vas de croazieră istoric, care se află neobișnuit direct pe nisip, și vizitați expoziția din interior pentru a descoperi fascinanta sa istorie maritimă.",
+            "en": "Marvel at this historic ocean liner uniquely resting directly on the sand, and make sure to visit the fascinating exhibition inside for a deeper look into its maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "espace aquatique",
+            "hu": "espace aquatique",
+            "ro": "espace aquatique",
+            "en": "espace aquatique"
+          },
+          "coords": [
+            3.024327,
+            42.766471
+          ],
+          "category": "family",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den vielfältigen Pools und auf den Rutschen dieses Wasserparks ab, was besonders für Kinder ein Highlight ist, und mieten Sie sich frühzeitig Liegen.",
+            "hu": "Hűsöljön a vízipark változatos medencéiben és izgalmas csúszdáin, ami különösen a gyerekek számára hatalmas élmény, és béreljen napágyat a maximális kényelemért.",
+            "ro": "Răcoriți-vă în diversele piscine și pe toboganele acestui parc acvatic, o adevărată atracție pentru copii, și închiriați șezlonguri din timp pentru confort maxim.",
+            "en": "Cool off in the diverse pools and thrilling slides of this water park, which is a major highlight for kids, and be sure to rent your sun loungers early for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Sud Torreilles",
+            "hu": "Plage Sud Torreilles",
+            "ro": "Plage Sud Torreilles",
+            "en": "Plage Sud Torreilles"
+          },
+          "coords": [
+            3.037598,
+            42.754334
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen, unberührten Strandabschnitt abseits des Trubels und genießen Sie hier in aller Ruhe einen spektakulären Sonnenuntergang.",
+            "hu": "Zárja a napot ezen a gyönyörű, érintetlen strandszakaszon távol a város zajától, és élvezze teljes nyugalomban a tenger felett lenyugvó nap lenyűgöző látványát.",
+            "ro": "Încheiați-vă ziua pe această porțiune de plajă frumoasă și neatinsă, departe de agitație, și bucurați-vă în liniște de un apus de soare cu adevărat spectaculos.",
+            "en": "End your day at this beautiful, unspoiled stretch of beach far away from the hustle and bustle, and enjoy a truly spectacular and peaceful sunset over the Mediterranean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am malerischen Étang de Leucate, wo Sie die friedliche Natur und Vogelwelt bewundern können. Mittags bietet die Leucate Lagoon atemberaubende Ausblicke und frische Seeluft. Fahren Sie am Nachmittag zum legendären Lydia-Schiff und genießen Sie dann das kühle Nass im Espace Aquatique. Der Abend klingt entspannt am Plage Sud Torreilles bei einem herrlichen Sonnenuntergang aus.",
+        "hu": "Indítsa a napot a festői Étang de Leucate-nál, ahol megcsodálhatja a nyugodt természetet és a madárvilágot. Délben a Leucate Lagoon lenyűgöző kilátást és friss tengeri levegőt kínál. Délután vezessen el a legendás Lydia hajóhoz, majd frissüljenek fel az Espace Aquatique medencéiben. Az estét a Plage Sud Torreilles csodás naplementéje koronázza meg.",
+        "ro": "Începeți ziua la pitorescul Étang de Leucate, unde puteți admira natura liniștită și păsările din zonă. La amiază, Laguna Leucate oferă priveliști uimitoare și o briză proaspătă. După-amiaza, conduceți la legendarul vapor Lydia, apoi relaxați-vă la piscinele de la Espace Aquatique. Seara se încheie perfect cu un apus spectaculos pe Plage Sud Torreilles.",
+        "en": "Start your day at the picturesque Étang de Leucate, taking in the peaceful nature and local birdlife. At midday, the Leucate Lagoon offers stunning panoramic views and refreshing sea breezes. In the afternoon, drive to the legendary Lydia ship, followed by family fun at the Espace Aquatique. End your evening unwinding at Plage Sud Torreilles with a magnificent sunset over the Mediterranean."
+      }
+    }
+  }
+}

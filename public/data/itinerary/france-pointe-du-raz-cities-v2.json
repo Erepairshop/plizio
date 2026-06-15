@@ -1,0 +1,474 @@
+{
+  "city_id": "france-pointe-du-raz-cities-v2",
+  "anchor": {
+    "name": "Pointe du Raz",
+    "coords": [
+      -4.732,
+      48.038833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 5.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison de Site de la Pointe du Raz",
+            "hu": "Maison de Site de la Pointe du Raz",
+            "ro": "Maison de Site de la Pointe du Raz",
+            "en": "Maison de Site de la Pointe du Raz"
+          },
+          "coords": [
+            -4.718691,
+            48.037451
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und dramatische Geschichte der Halbinsel in diesem Besucherzentrum, wo Sie früh Ihre Parktickets kaufen sollten.",
+            "hu": "Fedezze fel a félsziget gazdag biodiverzitását és drámai történelmét ebben a látogatóközpontban, ahol érdemes korán megvenni a parkolójegyet.",
+            "ro": "Descoperiți biodiversitatea bogată și istoria dramatică a peninsulei la acest centru de vizitatori, unde este bine să vă cumpărați biletele devreme.",
+            "en": "Discover the rich biodiversity and dramatic history of the peninsula at this visitor center, where you should buy your parking and shuttle passes early."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore de la pointe du Raz",
+            "hu": "Sémaphore de la pointe du Raz",
+            "ro": "Sémaphore de la pointe du Raz",
+            "en": "Sémaphore de la pointe du Raz"
+          },
+          "coords": [
+            -4.731737,
+            48.038832
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean von dieser Signalstation aus, und bringen Sie unbedingt eine Windjacke mit, auch an sonnigen Tagen.",
+            "hu": "Élvezze a viharos óceánra nyíló kilátást ebből a tengeri jelzőállomásból, de mindenképpen hozzon széldzsekit még a napsütéses napokon is.",
+            "ro": "Bucurați-vă de priveliști superbe ale oceanului de la această stație de semnalizare, asigurându-vă că aduceți o geacă de vânt chiar și pe soare.",
+            "en": "Enjoy sweeping views of the turbulent ocean from this strategic maritime signaling station, making sure to bring a windbreaker even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des Naufragés",
+            "hu": "Notre-Dame des Naufragés",
+            "ro": "Notre-Dame des Naufragés",
+            "en": "Notre-Dame des Naufragés"
+          },
+          "coords": [
+            -4.733235,
+            48.039066
+          ],
+          "category": "landmark",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ergreifenden Marmordenkmal zu Ehren schiffbrüchiger Seeleute inne und bewahren Sie respektvollen Abstand an diesem Gedenkort.",
+            "hu": "Álljon meg egy pillanatra ezen a hajótörött tengerészeket tisztelő márvány emlékműnél, tiszteletteljes távolságot tartva ezen a fontos emlékhelyen.",
+            "ro": "Opriți-vă la acest monument emoționant din marmură care onorează marinarii naufragiați, păstrând o distanță respectuoasă la acest loc de amintire.",
+            "en": "Pause at this poignant marble monument honoring shipwrecked sailors, keeping a respectful distance as this remains an active site of remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Raz",
+            "hu": "Pointe du Raz",
+            "ro": "Pointe du Raz",
+            "en": "Pointe du Raz"
+          },
+          "coords": [
+            -4.736721,
+            48.039921
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüfteten Klippen, die in die tosenden Wellen stürzen, aber bleiben Sie unbedingt auf den markierten Wegen zu Ihrer Sicherheit.",
+            "hu": "Csodálja meg a hullámokba zuhanó csipkézett sziklákat ezen az ikonikus természeti helyen, de a saját biztonsága érdekében maradjon a kijelölt utakon.",
+            "ro": "Admirați stâncile abrupte care se prăbușesc în valuri la acest sit natural emblematic, dar urmați strict potecile marcate pentru siguranța dumneavoastră.",
+            "en": "Marvel at the jagged cliffs plunging into the crashing waves at this iconic natural site, but strictly follow the marked paths to ensure your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse la Vieille",
+            "hu": "Lighthouse la Vieille",
+            "ro": "Lighthouse la Vieille",
+            "en": "Lighthouse la Vieille"
+          },
+          "coords": [
+            -4.756445,
+            48.040673
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Blicken Sie durch den Nebel, um diesen legendären Leuchtturm im Meer zu entdecken, der sich am besten mit einem Teleobjektiv fotografieren lässt.",
+            "hu": "Kémleljen át a tengeri ködön, hogy meglássa ezt a legendás világítótornyot, amelyet a sziklák széléről egy teleobjektívvel érdemes lefotózni.",
+            "ro": "Priviți prin ceața marină pentru a vedea acest far legendar, care este cel mai bine fotografiat cu un teleobiectiv de pe marginea stâncilor înalte.",
+            "en": "Peer through the sea mist to spot this legendary offshore lighthouse, which is best photographed with a telephoto lens from the edge of the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie des Trépassés",
+            "hu": "Baie des Trépassés",
+            "ro": "Baie des Trépassés",
+            "en": "Baie des Trépassés"
+          },
+          "coords": [
+            -4.711978,
+            48.046087
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser historisch reichen Bucht zwischen zwei Landzungen entlang und beobachten Sie die geschickten Surfer in der starken Strömung.",
+            "hu": "Sétáljon ezen a történelmileg gazdag, két hegyfok közötti öbölben, és figyelje meg a helyi szörfösöket, akik bátran dacolnak az erős árapállyal.",
+            "ro": "Plimbați-vă de-a lungul acestui golf frumos situat între două promontorii, privind surferii locali pricepuți care înfruntă curenții puternici aici.",
+            "en": "Stroll along this hauntingly beautiful and historically rich bay caught between two promontories, watching the skilled local surfers brave the tides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit der Naturgeschichte der Region im Besucherzentrum.\n\nGegen Mittag folgen Sie den rauen Wegen zur Signalstation und zum Denkmal.\n\nVerbringen Sie den Nachmittag an den ungeschützten Klippen beim legendären Leuchtturm.\n\nBeenden Sie den Tag mit einem malerischen Spaziergang zur dramatischen Baie des Trépassés.",
+        "hu": "Kezdje a napot a régió természettörténetének felfedezésével a látogatóközpontban.\n\nDél közeledtével kövesse a sziklás ösvényeket a jelzőállomás és az emlékmű felé.\n\nDélutánját töltse a sziklákon, ahonnan a legendás világítótornyot csodálhatja.\n\nZárja a napot egy festői sétával a drámai Baie des Trépassés öböl irányába.",
+        "ro": "Începeți ziua descoperind istoria naturală a regiunii la centrul de vizitatori.\n\nLa prânz, urmați potecile abrupte către stația de semnalizare și monumentul marinarilor.\n\nPetreceți după-amiaza pe stâncile expuse, privind spre farul legendar oceanic.\n\nÎncheiați cu o plimbare pitorească spre spectaculoasa Baie des Trépassés la asfințit.",
+        "en": "Start your day absorbing the natural history of the region at the visitor center.\n\nBy midday, follow the rugged paths toward the signaling station and the sailors' monument.\n\nSpend your afternoon on the exposed cliffs gazing at the legendary lighthouse.\n\nConclude with a scenic stroll over to the dramatic Baie des Trépassés."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -4.705786,
+            48.037903
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkapelle für eine ruhige Pause vor dem großen Ansturm und prüfen Sie das Schild auf sommerliche Chorveranstaltungen.",
+            "hu": "Látogasson el ebbe a bájos tengerparti kápolnába a tömeg elkerülése végett, és nézze meg a hirdetőtáblát az esetleges nyári kórusrendezvényekről.",
+            "ro": "Vizitați această capelă de coastă care oferă un răgaz liniștit înaintea aglomerației, verificând panoul pentru evenimentele corale de vară ocazionale.",
+            "en": "Visit this charming coastal chapel that offers a quiet respite before the main crowds, checking the notice board for occasional summer choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Site de la Pointe du Raz",
+            "hu": "Maison de Site de la Pointe du Raz",
+            "ro": "Maison de Site de la Pointe du Raz",
+            "en": "Maison de Site de la Pointe du Raz"
+          },
+          "coords": [
+            -4.718691,
+            48.037451
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und dramatische Geschichte der Halbinsel in diesem Besucherzentrum, wo Sie früh Ihre Parktickets kaufen sollten.",
+            "hu": "Fedezze fel a félsziget gazdag biodiverzitását és drámai történelmét ebben a látogatóközpontban, ahol érdemes korán megvenni a parkolójegyet.",
+            "ro": "Descoperiți biodiversitatea bogată și istoria dramatică a peninsulei la acest centru de vizitatori, unde este bine să vă cumpărați biletele devreme.",
+            "en": "Discover the rich biodiversity and dramatic history of the peninsula at this visitor center, where you should buy your parking and shuttle passes early."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore de la pointe du Raz",
+            "hu": "Sémaphore de la pointe du Raz",
+            "ro": "Sémaphore de la pointe du Raz",
+            "en": "Sémaphore de la pointe du Raz"
+          },
+          "coords": [
+            -4.731737,
+            48.038832
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean von dieser Signalstation aus, und bringen Sie unbedingt eine Windjacke mit, auch an sonnigen Tagen.",
+            "hu": "Élvezze a viharos óceánra nyíló kilátást ebből a tengeri jelzőállomásból, de mindenképpen hozzon széldzsekit még a napsütéses napokon is.",
+            "ro": "Bucurați-vă de priveliști superbe ale oceanului de la această stație de semnalizare, asigurându-vă că aduceți o geacă de vânt chiar și pe soare.",
+            "en": "Enjoy sweeping views of the turbulent ocean from this strategic maritime signaling station, making sure to bring a windbreaker even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Raz",
+            "hu": "Pointe du Raz",
+            "ro": "Pointe du Raz",
+            "en": "Pointe du Raz"
+          },
+          "coords": [
+            -4.736721,
+            48.039921
+          ],
+          "category": "natural",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüfteten Klippen, die in die tosenden Wellen stürzen, aber bleiben Sie unbedingt auf den markierten Wegen zu Ihrer Sicherheit.",
+            "hu": "Csodálja meg a hullámokba zuhanó csipkézett sziklákat ezen az ikonikus természeti helyen, de a saját biztonsága érdekében maradjon a kijelölt utakon.",
+            "ro": "Admirați stâncile abrupte care se prăbușesc în valuri la acest sit natural emblematic, dar urmați strict potecile marcate pentru siguranța dumneavoastră.",
+            "en": "Marvel at the jagged cliffs plunging into the crashing waves at this iconic natural site, but strictly follow the marked paths to ensure your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie des Trépassés",
+            "hu": "Baie des Trépassés",
+            "ro": "Baie des Trépassés",
+            "en": "Baie des Trépassés"
+          },
+          "coords": [
+            -4.711978,
+            48.046087
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser historisch reichen Bucht zwischen zwei Landzungen entlang und beobachten Sie die geschickten Surfer in der starken Strömung.",
+            "hu": "Sétáljon ezen a történelmileg gazdag, két hegyfok közötti öbölben, és figyelje meg a helyi szörfösöket, akik bátran dacolnak az erős árapállyal.",
+            "ro": "Plimbați-vă de-a lungul acestui golf frumos situat între două promontorii, privind surferii locali pricepuți care înfruntă curenții puternici aici.",
+            "en": "Stroll along this hauntingly beautiful and historically rich bay caught between two promontories, watching the skilled local surfers brave the tides."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Trépassés",
+            "hu": "Plage des Trépassés",
+            "ro": "Plage des Trépassés",
+            "en": "Plage des Trépassés"
+          },
+          "coords": [
+            -4.708935,
+            48.04638
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses Strandes, der von Klippen umgeben ist, aber schwimmen Sie wegen starker Strömungen nur in bewachten Zonen.",
+            "hu": "Pihenjen ennek a magas sziklák által körülvett, drámai strandnak az aranyhomokján, de az erős áramlatok miatt csak a felügyelt zónákban ússzon.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje flancate de stânci, dar înotați doar în zonele supravegheate din cauza curenților oceanici foarte puternici.",
+            "en": "Relax on the golden sands of this dramatic beach surrounded by towering cliffs, but always swim only in the supervised zones due to strong currents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der ruhigen Kapelle Saint-Michel, bevor Sie zum Besucherzentrum fahren.\n\nMittags radeln Sie zur Spitze der Halbinsel, um die beeindruckende Signalstation zu sehen.\n\nGenießen Sie einen erfrischenden Nachmittag am äußersten Rand der rauen Pointe du Raz.\n\nIhre Fahrt endet an den weiten Ufern des Strandes Trépassés für einen entspannten Tagesausklang.",
+        "hu": "Kezdje kerékpártúráját a csendes Saint-Michel kápolnánál, mielőtt a fő látogatóközpontba hajtana.\n\nEbédidőben tekerjen a félsziget csúcsa felé, hogy megnézze a tengeri jelzőállomást.\n\nÉlvezze a frissítő délutánt a Pointe du Raz peremén, ahol az óceáni szelek fújnak.\n\nAz útja a Trépassés strand széles partjainál ér véget, miközben a lemenő nap sugarai világítanak.",
+        "ro": "Începeți turul cu bicicleta la liniștita capelă Saint-Michel înainte de a merge la vizitatori.\n\nLa prânz, pedalați spre vârful peninsulei pentru a vedea stația maritimă istorică.\n\nBucurați-vă de o după-amiază revigorantă explorând marginea extremă a Pointe du Raz.\n\nCursa dumneavoastră se termină de-a lungul malurilor plajei Trépassés la finalul zilei.",
+        "en": "Kick off your cycling tour at the quiet chapel before heading to the visitor center.\n\nBy lunchtime, ride toward the tip of the peninsula to see the maritime semaphore.\n\nEnjoy an invigorating afternoon exploring the very edge of Pointe du Raz.\n\nYour ride ends along the sweeping shores of Trépassés beach as the sun descends."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir du Village",
+            "hu": "Menhir du Village",
+            "ro": "Menhir du Village",
+            "en": "Menhir du Village"
+          },
+          "coords": [
+            -4.703279,
+            48.040051
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten Menhir, der auf die prähistorischen Wurzeln der Region hinweist, und nutzen Sie das frühe Morgenlicht für Fotos.",
+            "hu": "Vizsgálja meg ezt az ősi állókövet, amely a régió történelem előtti gyökereire utal, és használja ki a kora reggeli fényt a legjobb fényképekhez.",
+            "ro": "Examinați această piatră străveche care indică rădăcinile preistorice ale regiunii, profitând de lumina dimineții devreme pentru cele mai bune poze.",
+            "en": "Examine this ancient standing stone that hints at the prehistoric roots of the region, taking advantage of the early morning light for the best pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Vue sur Arche dans la roche",
+            "hu": "Vue sur Arche dans la roche",
+            "ro": "Vue sur Arche dans la roche",
+            "en": "Vue sur Arche dans la roche"
+          },
+          "coords": [
+            -4.714633,
+            48.034198
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den spektakulären natürlichen Felsbogen, der von den Wellen geformt wurde, und halten Sie Ihre Kamera bei den starken Böen gut fest.",
+            "hu": "Csodálja meg a könyörtelen atlanti hullámok által kivájt látványos sziklaívet, de tartsa erősen a fényképezőgépét a hirtelen széllökések elkerülése végett.",
+            "ro": "Admirați spectaculoasa arcadă de stâncă sculptată de valurile atlantice, ținând bine aparatul foto pentru a-l proteja de rafalele bruște de vânt.",
+            "en": "Admire the spectacular natural rock arch carved by the relentless Atlantic waves, keeping a firm grip on your camera to protect it from sudden gusts."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Site de la Pointe du Raz",
+            "hu": "Maison de Site de la Pointe du Raz",
+            "ro": "Maison de Site de la Pointe du Raz",
+            "en": "Maison de Site de la Pointe du Raz"
+          },
+          "coords": [
+            -4.718691,
+            48.037451
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt und dramatische Geschichte der Halbinsel in diesem Besucherzentrum, wo Sie früh Ihre Parktickets kaufen sollten.",
+            "hu": "Fedezze fel a félsziget gazdag biodiverzitását és drámai történelmét ebben a látogatóközpontban, ahol érdemes korán megvenni a parkolójegyet.",
+            "ro": "Descoperiți biodiversitatea bogată și istoria dramatică a peninsulei la acest centru de vizitatori, unde este bine să vă cumpărați biletele devreme.",
+            "en": "Discover the rich biodiversity and dramatic history of the peninsula at this visitor center, where you should buy your parking and shuttle passes early."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des Naufragés",
+            "hu": "Notre-Dame des Naufragés",
+            "ro": "Notre-Dame des Naufragés",
+            "en": "Notre-Dame des Naufragés"
+          },
+          "coords": [
+            -4.733235,
+            48.039066
+          ],
+          "category": "landmark",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ergreifenden Marmordenkmal zu Ehren schiffbrüchiger Seeleute inne und bewahren Sie respektvollen Abstand an diesem Gedenkort.",
+            "hu": "Álljon meg egy pillanatra ezen a hajótörött tengerészeket tisztelő márvány emlékműnél, tiszteletteljes távolságot tartva ezen a fontos emlékhelyen.",
+            "ro": "Opriți-vă la acest monument emoționant din marmură care onorează marinarii naufragiați, păstrând o distanță respectuoasă la acest loc de amintire.",
+            "en": "Pause at this poignant marble monument honoring shipwrecked sailors, keeping a respectful distance as this remains an active site of remembrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Raz",
+            "hu": "Pointe du Raz",
+            "ro": "Pointe du Raz",
+            "en": "Pointe du Raz"
+          },
+          "coords": [
+            -4.736721,
+            48.039921
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüfteten Klippen, die in die tosenden Wellen stürzen, aber bleiben Sie unbedingt auf den markierten Wegen zu Ihrer Sicherheit.",
+            "hu": "Csodálja meg a hullámokba zuhanó csipkézett sziklákat ezen az ikonikus természeti helyen, de a saját biztonsága érdekében maradjon a kijelölt utakon.",
+            "ro": "Admirați stâncile abrupte care se prăbușesc în valuri la acest sit natural emblematic, dar urmați strict potecile marcate pentru siguranța dumneavoastră.",
+            "en": "Marvel at the jagged cliffs plunging into the crashing waves at this iconic natural site, but strictly follow the marked paths to ensure your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Trépassés",
+            "hu": "Plage des Trépassés",
+            "ro": "Plage des Trépassés",
+            "en": "Plage des Trépassés"
+          },
+          "coords": [
+            -4.708935,
+            48.04638
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses Strandes, der von Klippen umgeben ist, aber schwimmen Sie wegen starker Strömungen nur in bewachten Zonen.",
+            "hu": "Pihenjen ennek a magas sziklák által körülvett, drámai strandnak az aranyhomokján, de az erős áramlatok miatt csak a felügyelt zónákban ússzon.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje flancate de stânci, dar înotați doar în zonele supravegheate din cauza curenților oceanici foarte puternici.",
+            "en": "Relax on the golden sands of this dramatic beach surrounded by towering cliffs, but always swim only in the supervised zones due to strong currents."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um die Morgenschatten auf den alten Menhiren einzufangen.\n\nFahren Sie mittags zur Küste und bewundern Sie den spektakulären Felsbogen und das Zentrum.\n\nDer Nachmittag ist dem Stehen am westlichsten Punkt neben dem Denkmal gewidmet.\n\nBeenden Sie den Tag, indem Sie in der Nähe des Strandes für einen ruhigen Abend parken.",
+        "hu": "Induljon korán, hogy megörökítse a reggeli árnyékokat az ősi állóköveken.\n\nDél körül közeledjen a parthoz, tegyen egy sétát a drámai sziklaívhez és a központhoz.\n\nA délutánt a legnyugatibb csúcson, a hajótöröttek emlékműve melletti nézelődésnek szentelje.\n\nZárja a napot a tágas strand melletti parkolóban egy békés és csendes visszavonulással.",
+        "ro": "Conduceți devreme pentru a surprinde umbrele dimineții peste pietrele preistorice.\n\nDeplasați-vă spre coastă la prânz, făcând o plimbare pentru a admira arcada de stâncă.\n\nDupă-amiaza este dedicată explorării celui mai vestic punct, lângă monumentul istoric.\n\nÎncheiați ziua parcând lângă plaja întinsă pentru o retragere liniștită de seară.",
+        "en": "Drive out early to capture the morning shadows across the ancient standing stones.\n\nMove towards the coast by midday, admiring the dramatic rock arch and exhibits.\n\nThe afternoon is dedicated to standing at the westernmost tip next to the monument.\n\nWrap up the day parking near the expansive beach for a peaceful evening."
+      }
+    }
+  }
+}

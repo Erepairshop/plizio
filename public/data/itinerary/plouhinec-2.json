@@ -1,0 +1,428 @@
+{
+  "city_id": "plouhinec-2",
+  "anchor": {
+    "name": "Plouhinec",
+    "coords": [
+      -3.2511,
+      47.6975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 4.54,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de Grâce",
+            "hu": "Église Notre-Dame de Grâce",
+            "ro": "Église Notre-Dame de Grâce",
+            "en": "Église Notre-Dame de Grâce"
+          },
+          "coords": [
+            -3.25117,
+            47.697286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Buntglasfenster dieser zentralen Kirche, ein Symbol des Erbes von Plouhinec, und kommen Sie früh, um die Ruhe zu genießen.",
+            "hu": "Csodálja meg a központi templom ólomüveg ablakait, melyek Plouhinec örökségének szimbólumai, és érkezzen kora reggel a legcsendesebb pillanatokért.",
+            "ro": "Admirați vitraliile complicate ale acestei biserici centrale, un simbol al moștenirii din Plouhinec, și vizitați-o dimineața devreme pentru a vă bucura de liniște.",
+            "en": "Admire the intricate stained glass of this central church, a symbol of Plouhinec's heritage, and visit early in the morning to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir dit du Bourg",
+            "hu": "Menhir dit du Bourg",
+            "ro": "Menhir dit du Bourg",
+            "en": "Menhir dit du Bourg"
+          },
+          "coords": [
+            -3.254058,
+            47.693411
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen prähistorischen Hinkelstein, der keltische Traditionen bezeugt, und bringen Sie ein Weitwinkelobjektiv für beeindruckende Fotos mit.",
+            "hu": "Csodálja meg ezt az őskori állókövet, az ősi kelta hagyományok néma tanúját, és hozzon magával nagylátószögű lencsét a lenyűgöző méreteinek megörökítéséhez.",
+            "ro": "Minunați-vă de această piatră preistorică în picioare, un martor al tradițiilor celtice, și aduceți un obiectiv cu unghi larg pentru a-i surprinde scara.",
+            "en": "Marvel at this towering prehistoric standing stone, a silent witness to ancient Celtic traditions, and bring a wide-angle lens to capture its impressive scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Gueldro-Steinreihen",
+            "hu": "Gueldro kősorok",
+            "ro": "Aliniamentele Gueldro",
+            "en": "Gueldro Alignments"
+          },
+          "coords": [
+            -3.251629,
+            47.687878
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser mysteriösen megalithischen Reihen, die die tiefgreifende Vergangenheit der Bretagne offenbaren, und tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon e titokzatos megalitikus sorok mentén, amelyek Bretagne mély múltját tárják fel, és viseljen masszív cipőt, mivel a környező terep egyenetlen.",
+            "ro": "Plimbați-vă de-a lungul acestor rânduri megalitice misterioase ce dezvăluie trecutul Bretaniei și purtați pantofi rezistenți deoarece terenul este accidentat.",
+            "en": "Walk alongside these mysterious megalithic rows that reveal Brittany's deep past, and wear sturdy walking shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Roc'h Kerouaren",
+            "hu": "Dolmen de Roc'h Kerouaren",
+            "ro": "Dolmen de Roc'h Kerouaren",
+            "en": "Dolmen de Roc'h Kerouaren"
+          },
+          "coords": [
+            -3.245769,
+            47.70909
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Grabkammer, um die neolithische Architektur zu verstehen, und ziehen Sie den Kopf ein, wenn Sie sich die inneren Steine ansehen.",
+            "hu": "Fedezze fel ezt az ősi temetkezési kamrát a neolitikus építészet megértéséhez, és óvatosan hajtsa le a fejét, ha közelebbről meg akarja vizsgálni a belső köveket.",
+            "ro": "Explorați această veche cameră funerară pentru a înțelege arhitectura neolitică și aplecați-vă capul cu atenție dacă încercați să priviți pietrele interioare.",
+            "en": "Explore this ancient burial chamber to understand Neolithic architecture, and carefully duck your head if you attempt to look closely at the interior stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Pen er Pont",
+            "hu": "Menhir de Pen er Pont",
+            "ro": "Menhir de Pen er Pont",
+            "en": "Menhir de Pen er Pont"
+          },
+          "coords": [
+            -3.248356,
+            47.718002
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem isolierten Megalithen, der eine heilige Stätte markiert, und kommen Sie zur goldenen Stunde für die markantesten Schatten auf dem Granit.",
+            "hu": "Álljon meg ezen elszigetelt megalit előtt, amely egy ősi szent helyet jelöl, és látogasson el az aranyórában a grániton vetülő legszebb árnyékokért.",
+            "ro": "Stați în fața acestui megalit izolat ce marchează un loc sacru antic și vizitați-l la ora de aur pentru cele mai frapante umbre peste granitul accidentat.",
+            "en": "Stand before this isolated megalith that marks an ancient sacred site, and visit during golden hour for the most striking shadows across the rugged granite."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Plouhinec, wo Sie die Kirche bewundern.\n\nAls nächstes entdecken Sie den antiken Menhir dit du Bourg, nur einen kurzen Spaziergang entfernt.\n\nDer Nachmittag widmet sich den mysteriösen Gueldro-Ausrichtungen, reich an Legenden.\n\nSchließlich erreichen Sie den Dolmen und den Stein von Pen er Pont und beenden die Wanderung.",
+        "hu": "Reggelét Plouhinec szívében kezdi, megcsodálva a helyi templomot.\n\nEzután felfedezi az ősi Menhir dit du Bourg-t, amely csak egy rövid sétára található.\n\nA délután a rejtélyes Gueldro-sorokhoz vezet, melyek kelta legendákban gazdagok.\n\nVégül eléri a lenyűgöző dolment és a Pen er Pont követ, befejezve a történelmi túrát.",
+        "ro": "Dimineața începe în inima orașului Plouhinec, admirând biserica locală.\n\nApoi, veți descoperi vechiul Menhir dit du Bourg la o scurtă plimbare.\n\nDupă-amiaza se mută la aliniamentele misterioase Gueldro, bogate în legende celtice.\n\nÎn cele din urmă, veți ajunge la impresionantul Dolmen și la piatra Pen er Pont, încheind drumeția istorică.",
+        "en": "Your morning starts in the heart of Plouhinec, admiring the local church.\n\nNext, you will uncover the ancient Menhir dit du Bourg just a short stroll away.\n\nThe afternoon shifts to the mysterious Gueldro Alignments, rich with Celtic legends.\n\nFinally, you'll reach the impressive Dolmen and Pen er Pont stone, finishing a historic trek."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 15.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de Grâce",
+            "hu": "Église Notre-Dame de Grâce",
+            "ro": "Église Notre-Dame de Grâce",
+            "en": "Église Notre-Dame de Grâce"
+          },
+          "coords": [
+            -3.25117,
+            47.697286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Buntglasfenster dieser zentralen Kirche, ein Symbol des Erbes von Plouhinec, und kommen Sie früh, um die Ruhe zu genießen.",
+            "hu": "Csodálja meg a központi templom ólomüveg ablakait, melyek Plouhinec örökségének szimbólumai, és érkezzen kora reggel a legcsendesebb pillanatokért.",
+            "ro": "Admirați vitraliile complicate ale acestei biserici centrale, un simbol al moștenirii din Plouhinec, și vizitați-o dimineața devreme pentru a vă bucura de liniște.",
+            "en": "Admire the intricate stained glass of this central church, a symbol of Plouhinec's heritage, and visit early in the morning to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Gueldro-Steinreihen",
+            "hu": "Gueldro kősorok",
+            "ro": "Aliniamentele Gueldro",
+            "en": "Gueldro Alignments"
+          },
+          "coords": [
+            -3.251629,
+            47.687878
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser mysteriösen megalithischen Reihen, die die tiefgreifende Vergangenheit der Bretagne offenbaren, und tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon e titokzatos megalitikus sorok mentén, amelyek Bretagne mély múltját tárják fel, és viseljen masszív cipőt, mivel a környező terep egyenetlen.",
+            "ro": "Plimbați-vă de-a lungul acestor rânduri megalitice misterioase ce dezvăluie trecutul Bretaniei și purtați pantofi rezistenți deoarece terenul este accidentat.",
+            "en": "Walk alongside these mysterious megalithic rows that reveal Brittany's deep past, and wear sturdy walking shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand von Gâvres",
+            "hu": "Gâvres nagy strandja",
+            "ro": "Plaja mare din Gâvres",
+            "en": "Grande plage de Gâvres"
+          },
+          "coords": [
+            -3.291407,
+            47.682112
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Atlantikbrise an diesem weitläufigen Sandstrand ein und packen Sie eine Windjacke ein, da die Küstenböen hier ziemlich stark sein können.",
+            "hu": "Lélegezze be a friss atlanti szellőt ezen a hatalmas, pihenésre tökéletes homokos partszakaszon, és csomagoljon széldzsekit, mivel a parti széllökések erősek.",
+            "ro": "Respirați briza proaspătă a Atlanticului pe această plajă imensă perfectă pentru relaxare și luați o jachetă de vânt, deoarece rafalele pot fi destul de puternice.",
+            "en": "Breathe in the fresh Atlantic breeze on this expansive sandy stretch perfect for relaxation, and pack a windbreaker as the coastal gusts can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-römische Villa Mané-Vechen",
+            "hu": "Mané-Vechen gallo-római villa",
+            "ro": "Vila galo-romană Mané-Vechen",
+            "en": "Mané-Vechen Gallo-Roman Villa"
+          },
+          "coords": [
+            -3.215393,
+            47.668231
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bemerkenswert erhaltenen Fundamente dieser römischen Siedlung und lesen Sie die informativen Tafeln, um sich ihren einstigen Glanz vorzustellen.",
+            "hu": "Fedezze fel a torkolatra néző római település rendkívül jól megőrzött alapjait, és olvassa el a tájékoztató táblákat, hogy elképzelje annak egykori pompáját.",
+            "ro": "Descoperiți fundațiile remarcabil conservate ale acestei așezări romane cu vedere la estuar și citiți panourile informative pentru a vizualiza fosta sa glorie.",
+            "en": "Discover the remarkably preserved foundations of this Roman settlement overlooking the estuary, and read the informative panels to visualize its former glory."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Fiacre",
+            "hu": "Chapelle Saint-Fiacre",
+            "ro": "Chapelle Saint-Fiacre",
+            "en": "Chapelle Saint-Fiacre"
+          },
+          "coords": [
+            -3.232647,
+            47.719165
+          ],
+          "category": "landmark",
+          "arrive_at": "15:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Moment in dieser charmanten bretonischen Kapelle und prüfen Sie die Anschlagtafel draußen auf gelegentliche Tage der offenen Tür.",
+            "hu": "Töltsön el egy békés pillanatot ezen a helyi jelentőségű, bájos breton kápolnánál, és nézze meg a kinti hirdetőtáblát az esetleges közösségi nyílt napokról.",
+            "ro": "Bucurați-vă de un moment de liniște la această capelă bretonă fermecătoare și verificați avizierul de afară pentru eventualele zile deschise ale comunității.",
+            "en": "Take a peaceful moment at this charming Breton chapel known for its local significance, and check the notice board outside for occasional community open days."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einem Besuch der charmanten zentralen Kirche.\n\nRadeln Sie zu den alten Gueldro-Reihen, um die megalithische Vergangenheit zu sehen.\n\nGenießen Sie am Nachmittag die Meeresbrise am weitläufigen Grande plage de Gâvres.\n\nSchließen Sie mit der römischen Villa und der ruhigen Chapelle Saint-Fiacre ab.",
+        "hu": "Kezdje a kerékpáros utazást a bájos központi templom meglátogatásával.\n\nTekerjen el az ősi Gueldro-sorokhoz, hogy tanúja legyen Bretagne múltjának.\n\nDélután élvezze a tengeri szellőt a hatalmas Grande plage de Gâvres strandon.\n\nFejezze be a napot a lenyűgöző római villával és a csendes Chapelle Saint-Fiacre-rel.",
+        "ro": "Începeți călătoria cu bicicleta vizitând fermecătoarea biserică centrală.\n\nPedalați până la aliniamentele antice Gueldro pentru a vedea trecutul megalitic.\n\nDupă-amiaza, bucurați-vă de briza mării la întinsa Grande plage de Gâvres.\n\nÎncheiați cu remarcabila vilă romană și liniștita Chapelle Saint-Fiacre.",
+        "en": "Kick off your cycling journey by visiting the charming central church.\n\nPedal out to the ancient Gueldro Alignments to witness Brittany's megalithic past.\n\nIn the afternoon, enjoy the sea breeze at the expansive Grande plage de Gâvres.\n\nConclude with the remarkable Roman Villa and the quiet Chapelle Saint-Fiacre."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 25.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de Grâce",
+            "hu": "Église Notre-Dame de Grâce",
+            "ro": "Église Notre-Dame de Grâce",
+            "en": "Église Notre-Dame de Grâce"
+          },
+          "coords": [
+            -3.25117,
+            47.697286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen Buntglasfenster dieser zentralen Kirche, ein Symbol des Erbes von Plouhinec, und kommen Sie früh, um die Ruhe zu genießen.",
+            "hu": "Csodálja meg a központi templom ólomüveg ablakait, melyek Plouhinec örökségének szimbólumai, és érkezzen kora reggel a legcsendesebb pillanatokért.",
+            "ro": "Admirați vitraliile complicate ale acestei biserici centrale, un simbol al moștenirii din Plouhinec, și vizitați-o dimineața devreme pentru a vă bucura de liniște.",
+            "en": "Admire the intricate stained glass of this central church, a symbol of Plouhinec's heritage, and visit early in the morning to enjoy the quietest moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Fiacre",
+            "hu": "Chapelle Saint-Fiacre",
+            "ro": "Chapelle Saint-Fiacre",
+            "en": "Chapelle Saint-Fiacre"
+          },
+          "coords": [
+            -3.232647,
+            47.719165
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.81,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Moment in dieser charmanten bretonischen Kapelle und prüfen Sie die Anschlagtafel draußen auf gelegentliche Tage der offenen Tür.",
+            "hu": "Töltsön el egy békés pillanatot ezen a helyi jelentőségű, bájos breton kápolnánál, és nézze meg a kinti hirdetőtáblát az esetleges közösségi nyílt napokról.",
+            "ro": "Bucurați-vă de un moment de liniște la această capelă bretonă fermecătoare și verificați avizierul de afară pentru eventualele zile deschise ale comunității.",
+            "en": "Take a peaceful moment at this charming Breton chapel known for its local significance, and check the notice board outside for occasional community open days."
+          }
+        },
+        {
+          "name": {
+            "de": "Ria d'Étel",
+            "hu": "Ria d'Étel",
+            "ro": "Ria d'Étel",
+            "en": "Ria d'Étel"
+          },
+          "coords": [
+            -3.15528,
+            47.7275
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.87,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden Küstenökosysteme dieses Meeresarms und bringen Sie ein Fernglas mit, um die vielfältigen Seevögel an der Küste zu beobachten.",
+            "hu": "Merüljön el ennek a tengeri öbölnek a lélegzetelállító part menti ökoszisztémájában, és hozzon távcsövet a part mentén gyülekező tengeri madarak megfigyeléséhez.",
+            "ro": "Admirați ecosistemele de coastă uluitoare ale acestui estuar marin și aduceți binoclul pentru a observa diversele păsări marine care se adună de-a lungul țărmului.",
+            "en": "Soak in the breathtaking coastal ecosystems of this vibrant marine inlet, and bring binoculars to observe the diverse seabirds that gather along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-römische Villa Mané-Vechen",
+            "hu": "Mané-Vechen gallo-római villa",
+            "ro": "Vila galo-romană Mané-Vechen",
+            "en": "Mané-Vechen Gallo-Roman Villa"
+          },
+          "coords": [
+            -3.215393,
+            47.668231
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie die bemerkenswert erhaltenen Fundamente dieser römischen Siedlung und lesen Sie die informativen Tafeln, um sich ihren einstigen Glanz vorzustellen.",
+            "hu": "Fedezze fel a torkolatra néző római település rendkívül jól megőrzött alapjait, és olvassa el a tájékoztató táblákat, hogy elképzelje annak egykori pompáját.",
+            "ro": "Descoperiți fundațiile remarcabil conservate ale acestei așezări romane cu vedere la estuar și citiți panourile informative pentru a vizualiza fosta sa glorie.",
+            "en": "Discover the remarkably preserved foundations of this Roman settlement overlooking the estuary, and read the informative panels to visualize its former glory."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand von Gâvres",
+            "hu": "Gâvres nagy strandja",
+            "ro": "Plaja mare din Gâvres",
+            "en": "Grande plage de Gâvres"
+          },
+          "coords": [
+            -3.291407,
+            47.682112
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.9,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Atlantikbrise an diesem weitläufigen Sandstrand ein und packen Sie eine Windjacke ein, da die Küstenböen hier ziemlich stark sein können.",
+            "hu": "Lélegezze be a friss atlanti szellőt ezen a hatalmas, pihenésre tökéletes homokos partszakaszon, és csomagoljon széldzsekit, mivel a parti széllökések erősek.",
+            "ro": "Respirați briza proaspătă a Atlanticului pe această plajă imensă perfectă pentru relaxare și luați o jachetă de vânt, deoarece rafalele pot fi destul de puternice.",
+            "en": "Breathe in the fresh Atlantic breeze on this expansive sandy stretch perfect for relaxation, and pack a windbreaker as the coastal gusts can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Gueldro-Steinreihen",
+            "hu": "Gueldro kősorok",
+            "ro": "Aliniamentele Gueldro",
+            "en": "Gueldro Alignments"
+          },
+          "coords": [
+            -3.251629,
+            47.687878
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser mysteriösen megalithischen Reihen, die die tiefgreifende Vergangenheit der Bretagne offenbaren, und tragen Sie festes Schuhwerk.",
+            "hu": "Sétáljon e titokzatos megalitikus sorok mentén, amelyek Bretagne mély múltját tárják fel, és viseljen masszív cipőt, mivel a környező terep egyenetlen.",
+            "ro": "Plimbați-vă de-a lungul acestor rânduri megalitice misterioase ce dezvăluie trecutul Bretaniei și purtați pantofi rezistenți deoarece terenul este accidentat.",
+            "en": "Walk alongside these mysterious megalithic rows that reveal Brittany's deep past, and wear sturdy walking shoes as the surrounding terrain can be uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre große Tour mit dem Auto an der ikonischen lokalen Kirche.\n\nBesuchen Sie die schöne Chapelle Saint-Fiacre, bevor Sie die Ria d'Étel bewundern.\n\nVerbringen Sie den Nachmittag mit römischer Geschichte und Entspannung am Strand.\n\nBeenden Sie Ihre Fahrt an den legendären Gueldro-Ausrichtungen.",
+        "hu": "Induljon el a nagy körútra a helyi ikonikus templom megtekintésével.\n\nLátogassa meg a gyönyörű Chapelle Saint-Fiacre-t, mielőtt a Ria d'Ételben gyönyörködne.\n\nTöltse a délutánt a római történelem és a tengerparti pihenés felfedezésével.\n\nFejezze be a festői autózást a legendás Gueldro-soroknál, ahogy a nap véget ér.",
+        "ro": "Conduceți pentru a începe marele tur la biserica locală emblematică.\n\nVizitați frumoasa Chapelle Saint-Fiacre înainte de a admira naturala Ria d'Étel.\n\nPetreceți după-amiaza explorând istoria romană și relaxându-vă pe plajă.\n\nÎncheiați-vă călătoria la legendarele aliniamente Gueldro pe măsură ce ziua se termină.",
+        "en": "Drive out to begin your grand tour at the iconic local church.\n\nVisit the beautiful Chapelle Saint-Fiacre before marveling at the natural Ria d'Étel.\n\nSpend your afternoon exploring the Roman history at Mané-Vechen and relaxing by the beach.\n\nEnd your scenic drive at the legendary Gueldro Alignments as the day winds down."
+      }
+    }
+  }
+}

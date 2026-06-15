@@ -1,0 +1,474 @@
+{
+  "city_id": "los-cabos-cities-v2",
+  "anchor": {
+    "name": "Los Cabos",
+    "coords": [
+      -109.9167,
+      22.8905
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 3.14,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la madre",
+            "hu": "Monumento a la madre",
+            "ro": "Monumento a la madre",
+            "en": "Monumento a la madre"
+          },
+          "coords": [
+            -109.919624,
+            22.896204
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an diesem historischen Denkmal zu Ehren der Mütter, das lokale Werte widerspiegelt, und holen Sie sich in der Nähe früh einen Kaffee.",
+            "hu": "Kezdje a napot ennél az anyákat tisztelő, helyi kulturális értékeket tükröző emlékműnél, és igyon egy kávét a tömeg érkezése előtt.",
+            "ro": "Începeți la acest monument istoric dedicat mamelor, ce reflectă valorile culturale locale, și savurați o cafea în apropiere înainte de aglomerație.",
+            "en": "Start at this poignant historical monument honoring mothers, reflecting local cultural values, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Natural History in Cabo San Lucas",
+            "hu": "Museum of Natural History in Cabo San Lucas",
+            "ro": "Museum of Natural History in Cabo San Lucas",
+            "en": "Museum of Natural History in Cabo San Lucas"
+          },
+          "coords": [
+            -109.91468,
+            22.882915
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die geologischen Ursprünge und die reiche Artenvielfalt der Halbinsel Baja California, aber nehmen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel a Baja California-félsziget geológiai eredetét és gazdag biológiai sokféleségét, de hozzon egy vékony kabátot a hűvös légkondicionáló miatt.",
+            "ro": "Descoperiți originile geologice și biodiversitatea bogată a peninsulei, dar luați o jachetă ușoară, deoarece aerul condiționat este puternic.",
+            "en": "Discover the fascinating geological origins and rich biodiversity of the Baja California peninsula here, but bring a light jacket as the AC is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "#CABO sign",
+            "hu": "#CABO sign",
+            "ro": "#CABO sign",
+            "en": "#CABO sign"
+          },
+          "coords": [
+            -109.909374,
+            22.886497
+          ],
+          "category": "landmark",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Machen Sie das ultimative Urlaubsfoto an diesem farbenfrohen, ikonischen Stadtschild nahe dem Yachthafen und nutzen Sie das sanfte Licht am Vormittag.",
+            "hu": "Készítse el a tökéletes nyaralási fotót ennél a színes és ikonikus városi táblánál a kikötő közelében, kihasználva a kiváló délutáni fényeket.",
+            "ro": "Surprindeți fotografia perfectă de vacanță la acest panou colorat și emblematic al orașului de lângă port, venind aici pentru cea mai bună lumină a zilei.",
+            "en": "Capture the quintessential vacation photo at this vibrant, iconic city sign near the marina, coming right at golden hour for the perfect lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Fiesta Resort & Spa",
+            "hu": "Marina Fiesta Resort & Spa",
+            "ro": "Marina Fiesta Resort & Spa",
+            "en": "Marina Fiesta Resort & Spa"
+          },
+          "coords": [
+            -109.908274,
+            22.885405
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem luxuriösen Küstenresort vorbei, um die Architektur und das maritime Flair zu bewundern, und stöbern Sie in den Boutiquen.",
+            "hu": "Sétáljon el e luxus tengerparti üdülőhely mellett, csodálja meg építészetét és tengeri hangulatát, majd nézzen szét a szomszédos elegáns butikokban.",
+            "ro": "Plimbați-vă pe lângă această stațiune de lux pe coastă pentru a admira arhitectura și atmosfera maritimă, vizitând totodată buticurile elegante adiacente.",
+            "en": "Stroll past this luxurious coastal resort to admire its stunning architecture and maritime vibe, taking a moment to browse the adjacent high-end boutiques."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo Dolphins",
+            "hu": "Cabo Dolphins",
+            "ro": "Cabo Dolphins",
+            "en": "Cabo Dolphins"
+          },
+          "coords": [
+            -109.910709,
+            22.878699
+          ],
+          "category": "landmark",
+          "arrive_at": "14:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Meeresleben und lernen Sie in diesem Zentrum für Delfine mehr über den Meeresschutz, buchen Sie Ihr Erlebnis aber weit im Voraus.",
+            "hu": "Figyelje meg a játékos tengeri élőlényeket és tanuljon az óceánvédelméről ebben a központban, de interaktív programját jó előre foglalja le.",
+            "ro": "Urmăriți viața marină jucăușă și învățați despre conservarea oceanelor la acest centru de delfini, rezervându-vă experiența interactivă cu mult timp înainte.",
+            "en": "Watch the playful marine life and learn about ocean conservation at this premier dolphin center, booking your interactive experience well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Historie im Stadtzentrum, bevor Sie in die Naturgeschichte eintauchen. Mittags erkunden Sie den Yachthafen und machen Fotos am bunten Stadtschild. Der Nachmittag bringt den Charme der Küste mit sich, während Sie Resorts und Marinezentren entdecken. Der Tag endet mit einem unvergesslichen Abend im lebhaften Cabo-Sonnenuntergang.",
+        "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
+        "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
+        "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 4.16,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la madre",
+            "hu": "Monumento a la madre",
+            "ro": "Monumento a la madre",
+            "en": "Monumento a la madre"
+          },
+          "coords": [
+            -109.919624,
+            22.896204
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an diesem historischen Denkmal zu Ehren der Mütter, das lokale Werte widerspiegelt, und holen Sie sich in der Nähe früh einen Kaffee.",
+            "hu": "Kezdje a napot ennél az anyákat tisztelő, helyi kulturális értékeket tükröző emlékműnél, és igyon egy kávét a tömeg érkezése előtt.",
+            "ro": "Începeți la acest monument istoric dedicat mamelor, ce reflectă valorile culturale locale, și savurați o cafea în apropiere înainte de aglomerație.",
+            "en": "Start at this poignant historical monument honoring mothers, reflecting local cultural values, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Natural History in Cabo San Lucas",
+            "hu": "Museum of Natural History in Cabo San Lucas",
+            "ro": "Museum of Natural History in Cabo San Lucas",
+            "en": "Museum of Natural History in Cabo San Lucas"
+          },
+          "coords": [
+            -109.91468,
+            22.882915
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die geologischen Ursprünge und die reiche Artenvielfalt der Halbinsel Baja California, aber nehmen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel a Baja California-félsziget geológiai eredetét és gazdag biológiai sokféleségét, de hozzon egy vékony kabátot a hűvös légkondicionáló miatt.",
+            "ro": "Descoperiți originile geologice și biodiversitatea bogată a peninsulei, dar luați o jachetă ușoară, deoarece aerul condiționat este puternic.",
+            "en": "Discover the fascinating geological origins and rich biodiversity of the Baja California peninsula here, but bring a light jacket as the AC is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "#CABO sign",
+            "hu": "#CABO sign",
+            "ro": "#CABO sign",
+            "en": "#CABO sign"
+          },
+          "coords": [
+            -109.909374,
+            22.886497
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Machen Sie das ultimative Urlaubsfoto an diesem farbenfrohen, ikonischen Stadtschild nahe dem Yachthafen und nutzen Sie das sanfte Licht am Vormittag.",
+            "hu": "Készítse el a tökéletes nyaralási fotót ennél a színes és ikonikus városi táblánál a kikötő közelében, kihasználva a kiváló délutáni fényeket.",
+            "ro": "Surprindeți fotografia perfectă de vacanță la acest panou colorat și emblematic al orașului de lângă port, venind aici pentru cea mai bună lumină a zilei.",
+            "en": "Capture the quintessential vacation photo at this vibrant, iconic city sign near the marina, coming right at golden hour for the perfect lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Dorada Los Cabos Resort & Spa",
+            "hu": "Casa Dorada Los Cabos Resort & Spa",
+            "ro": "Casa Dorada Los Cabos Resort & Spa",
+            "en": "Casa Dorada Los Cabos Resort & Spa"
+          },
+          "coords": [
+            -109.904918,
+            22.888005
+          ],
+          "category": "landmark",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Genießen Sie das luxuriöse Ambiente und den herrlichen Blick auf den Strand rund um dieses erstklassige Resort und machen Sie eine Pause in einem Café.",
+            "hu": "Élvezze a luxus hangulatot és a gyönyörű tengerparti kilátást e prémium üdülőhely körül, tartson szünetet és frissítse fel magát egy kávézóban.",
+            "ro": "Bucurați-vă de ambianța de lux și de priveliștile frumoase pe malul mării de la marginea acestei stațiuni de top, oprindu-vă la o cafenea.",
+            "en": "Enjoy the luxurious ambiance and beautiful beachfront views from the perimeter of this premier resort, pausing to rehydrate at a nearby coastal cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabo Adventures",
+            "hu": "Cabo Adventures",
+            "ro": "Cabo Adventures",
+            "en": "Cabo Adventures"
+          },
+          "coords": [
+            -109.908354,
+            22.879406
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Spüren Sie den Nervenkitzel der Outdoor-Aktivitäten an diesem Hub für Extremsportarten, aber tragen Sie bequeme Sportschuhe für das unebene Gelände.",
+            "hu": "Érezze a szabadtéri izgalmakat, amikor megérkezik ehhez az extrém sportközponthoz, de mindenképpen kényelmes sportcipőt viseljen a nehéz terep miatt.",
+            "ro": "Simțiți emoția activităților în aer liber la acest centru de sporturi extreme, dar asigurați-vă că purtați încălțăminte sportivă confortabilă.",
+            "en": "Feel the rush of outdoor excitement as you arrive at this extreme sports hub, but be sure to wear comfortable athletic shoes for the rugged terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Solmar Resorts",
+            "hu": "Solmar Resorts",
+            "ro": "Solmar Resorts",
+            "en": "Solmar Resorts"
+          },
+          "coords": [
+            -109.904923,
+            22.876429
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich und genießen Sie die majestätische Aussicht auf den Pazifik nahe dieser Resort-Anlage, ideal für einen Spaziergang bei Sonnenuntergang.",
+            "hu": "Pihenjen és csodálja meg a fenséges csendes-óceáni kilátást e neves üdülőközpont közelében, amely tökéletes hely egy naplementés sétával zárni a napot.",
+            "ro": "Relaxați-vă și admirați priveliștea spectaculoasă a Pacificului în apropierea acestui complex renumit, locul perfect pentru a încheia ziua la apus.",
+            "en": "Relax and take in the majestic Pacific views near this renowned resort community, making it the perfect spot to end your active day with a sunset stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Historie im Stadtzentrum, bevor Sie in die Naturgeschichte eintauchen. Mittags erkunden Sie den Yachthafen und machen Fotos am bunten Stadtschild. Der Nachmittag bringt den Charme der Küste mit sich, während Sie Resorts und Marinezentren entdecken. Der Tag endet mit einem unvergesslichen Abend im lebhaften Cabo-Sonnenuntergang.",
+        "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
+        "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
+        "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 10.48,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la madre",
+            "hu": "Monumento a la madre",
+            "ro": "Monumento a la madre",
+            "en": "Monumento a la madre"
+          },
+          "coords": [
+            -109.919624,
+            22.896204
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie an diesem historischen Denkmal zu Ehren der Mütter, das lokale Werte widerspiegelt, und holen Sie sich in der Nähe früh einen Kaffee.",
+            "hu": "Kezdje a napot ennél az anyákat tisztelő, helyi kulturális értékeket tükröző emlékműnél, és igyon egy kávét a tömeg érkezése előtt.",
+            "ro": "Începeți la acest monument istoric dedicat mamelor, ce reflectă valorile culturale locale, și savurați o cafea în apropiere înainte de aglomerație.",
+            "en": "Start at this poignant historical monument honoring mothers, reflecting local cultural values, and grab a coffee nearby before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "#CABO sign",
+            "hu": "#CABO sign",
+            "ro": "#CABO sign",
+            "en": "#CABO sign"
+          },
+          "coords": [
+            -109.909374,
+            22.886497
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Machen Sie das ultimative Urlaubsfoto an diesem farbenfrohen, ikonischen Stadtschild nahe dem Yachthafen und nutzen Sie das sanfte Licht am Vormittag.",
+            "hu": "Készítse el a tökéletes nyaralási fotót ennél a színes és ikonikus városi táblánál a kikötő közelében, kihasználva a kiváló délutáni fényeket.",
+            "ro": "Surprindeți fotografia perfectă de vacanță la acest panou colorat și emblematic al orașului de lângă port, venind aici pentru cea mai bună lumină a zilei.",
+            "en": "Capture the quintessential vacation photo at this vibrant, iconic city sign near the marina, coming right at golden hour for the perfect lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Natural History in Cabo San Lucas",
+            "hu": "Museum of Natural History in Cabo San Lucas",
+            "ro": "Museum of Natural History in Cabo San Lucas",
+            "en": "Museum of Natural History in Cabo San Lucas"
+          },
+          "coords": [
+            -109.91468,
+            22.882915
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die geologischen Ursprünge und die reiche Artenvielfalt der Halbinsel Baja California, aber nehmen Sie eine leichte Jacke mit.",
+            "hu": "Fedezze fel a Baja California-félsziget geológiai eredetét és gazdag biológiai sokféleségét, de hozzon egy vékony kabátot a hűvös légkondicionáló miatt.",
+            "ro": "Descoperiți originile geologice și biodiversitatea bogată a peninsulei, dar luați o jachetă ușoară, deoarece aerul condiționat este puternic.",
+            "en": "Discover the fascinating geological origins and rich biodiversity of the Baja California peninsula here, but bring a light jacket as the AC is quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrasol Beach Resort",
+            "hu": "Terrasol Beach Resort",
+            "ro": "Terrasol Beach Resort",
+            "en": "Terrasol Beach Resort"
+          },
+          "coords": [
+            -109.906729,
+            22.876078
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Fahren Sie an diesem abgelegenen Strandresort vorbei, das für seine ruhige Atmosphäre bekannt ist, und öffnen Sie die Fenster für eine frische Meeresbrise.",
+            "hu": "Autózzon el e csendes tengerparti birtok mellett, amely nyugodt légköréről híres, és tekerje le az ablakokat, hogy érezze a friss tengeri szellőt.",
+            "ro": "Conduceți pe lângă această proprietate retrasă pe plajă, cunoscută pentru liniștea sa, deschizând geamurile pentru a simți briza proaspătă a mării.",
+            "en": "Drive by this secluded beachside property known for its tranquil atmosphere and sweeping ocean vistas, rolling down the windows to catch the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "El Arch of Cabo San Lucas",
+            "hu": "El Arch of Cabo San Lucas",
+            "ro": "El Arch of Cabo San Lucas",
+            "en": "El Arch of Cabo San Lucas"
+          },
+          "coords": [
+            -109.894563,
+            22.876024
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatischen Kalksteinformationen am Land's End, wo sich zwei Ozeane treffen, am besten von einem Aussichtspunkt mit dem Fernglas.",
+            "hu": "Csodálja meg a Land's End drámai mészkőképződményeit, ahol két óceán találkozik, ezt a legjobb egy közeli kilátópontról, távcsővel megfigyelni.",
+            "ro": "Admirați formațiunile dramatice de calcar de la Land's End unde se întâlnesc două oceane, văzute cel mai bine de la un punct de observare cu binoclul.",
+            "en": "Marvel at the dramatic limestone formations of Land's End where two oceans meet, best viewed from a nearby vantage point using binoculars for clarity."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacuzzi",
+            "hu": "Jacuzzi",
+            "ro": "Jacuzzi",
+            "en": "Jacuzzi"
+          },
+          "coords": [
+            -109.892387,
+            22.895987
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte natürliche Gezeitenbecken zwischen den Felsen für eine erfrischende Pause, tragen Sie dabei aber unbedingt Wasserschuhe.",
+            "hu": "Fedezze fel ezt a sziklák között megbúvó természetes árapály-medencét egy frissítő szünetre, de viseljen vizicipőt a csúszós parti kövek miatt.",
+            "ro": "Descoperiți această piscină naturală ascunsă printre stânci pentru o pauză răcoritoare, purtând încălțăminte de apă pentru pietrele alunecoase.",
+            "en": "Discover this natural tidal pool area hidden among the rocks for a refreshing break, carefully wearing water shoes to navigate the slippery coastal stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Margarita Pool",
+            "hu": "Margarita Pool",
+            "ro": "Margarita Pool",
+            "en": "Margarita Pool"
+          },
+          "coords": [
+            -109.853548,
+            22.901873
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser lebhaften Pooloase mit Blick auf den Ozean und gönnen Sie sich bei Sonnenuntergang ein wohlverdientes lokales Getränk.",
+            "hu": "Fejezze be autózását ennél az óceánra néző, élettel teli medencés oázisnál, és kényeztesse magát egy jól megérdemelt helyi itallal naplemente közben.",
+            "ro": "Încheiați călătoria la această oază vibrantă la piscină cu vedere la ocean, delectându-vă cu o băutură locală meritată în timp ce soarele apune.",
+            "en": "Conclude your drive at this vibrant communal poolside oasis overlooking the ocean, treating yourself to a well-deserved local beverage as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Historie im Stadtzentrum, bevor Sie in die Naturgeschichte eintauchen. Mittags erkunden Sie den Yachthafen und machen Fotos am bunten Stadtschild. Der Nachmittag bringt den Charme der Küste mit sich, während Sie Resorts und Marinezentren entdecken. Der Tag endet mit einem unvergesslichen Abend im lebhaften Cabo-Sonnenuntergang.",
+        "hu": "A reggel történelmi elmélkedéssel kezdődik, mielőtt elmerülne a természetrajzban. Délben felfedezheti a nyüzsgő kikötőt, fotózva a színes városi táblánál. A délután elhozza a partvidék varázsát, miközben luxus üdülőhelyeket és központokat fedez fel. A nap egy felejthetetlen estével zárul, elmerülve a vibráló Cabo-i naplementében.",
+        "ro": "Dimineața începe cu istorie în centrul orașului înainte de a explora științele naturii. La prânz explorați zona animată a portului pentru fotografii la panoul colorat. După-amiaza aduce farmecul coastei, descoperind stațiuni de lux și centre marine. Ziua se încheie cu o seară de neuitat, admirând apusul vibrant din Cabo.",
+        "en": "Morning begins with historical reflection in the city's heart before exploring natural history. Midday invites you to the bustling marina for iconic photos at the colorful sign. Afternoon brings coastal charm as you discover luxury resorts and lively marine centers. The day concludes with an unforgettable evening soaking in the vibrant Cabo sunset."
+      }
+    }
+  }
+}

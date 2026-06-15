@@ -1,0 +1,428 @@
+{
+  "city_id": "sarzeau",
+  "anchor": {
+    "name": "Sarzeau",
+    "coords": [
+      -2.7697,
+      47.5272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spielplatz Belvédère de la Grée",
+            "hu": "Belvédère de la Grée játszótér",
+            "ro": "Loc de joacă Belvédère de la Grée",
+            "en": "Belvédère de la Grée Playground"
+          },
+          "coords": [
+            -2.769289,
+            47.530352
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen auf diesem malerischen Spielplatz mit toller Aussicht und frischer Luft, aber vergessen Sie nicht eine leichte Windjacke.",
+            "hu": "Kezdje a reggelt ezen a festői kilátóval egybekötött játszótéren, élvezze a friss levegőt, de mindenképpen hozzon magával egy könnyű széldzsekit.",
+            "ro": "Începeți dimineața la acest loc de joacă pitoresc cu vedere panoramică, ideal pentru aer curat, dar nu uitați să purtați o jachetă subțire.",
+            "en": "Start your morning at this scenic viewpoint playground, offering fresh air and views, but be sure to wear a light windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Szent Szaturninusz-templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "Saint-Saturnin Church"
+          },
+          "coords": [
+            -2.768384,
+            47.52736
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieses historischen religiösen Zentrums und treten Sie ein, um die wunderschönen Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg e történelmi vallási központ békés építészetét, amely a helyi örökséget tükrözi, és lépjen be a gyönyörű ólomüveg ablakokért.",
+            "ro": "Admirați arhitectura pașnică a acestui centru religios istoric, reflectând moștenirea locală, și intrați pentru a vedea vitraliile superbe.",
+            "en": "Admire the peaceful architecture of this historical religious center, reflecting local heritage, and step inside to see the beautiful stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Père Marie Joseph Coudrin",
+            "hu": "Père Marie Joseph Coudrin játszótér",
+            "ro": "Loc de joacă Père Marie Joseph Coudrin",
+            "en": "Père Marie Joseph Coudrin Playground"
+          },
+          "coords": [
+            -2.770093,
+            47.526343
+          ],
+          "category": "family",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder diesen zentralen Familienspielplatz genießen, perfekt für eine Pause, während Sie sich einen Kaffee in der Nähe holen.",
+            "hu": "Hagyja, hogy a gyerekek élvezzék ezt a központi játszóteret, amely tökéletes egy tízórai szünetre, miközben Ön egy közeli pékségből hoz kávét.",
+            "ro": "Lăsați copiii să se bucure de acest loc de joacă central, perfect pentru o pauză matinală, în timp ce luați o cafea de la o brutărie din apropiere.",
+            "en": "Let the kids enjoy this central family playground, perfect for a mid-morning break, while you grab a coffee from a nearby bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Roaliguen",
+            "hu": "Roaliguen strand",
+            "ro": "Plaja Roaliguen",
+            "en": "Roaliguen Beach"
+          },
+          "coords": [
+            -2.768324,
+            47.497449
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Stränden dieses Küstenrückzugsortes, ideal für Meerblick, und bringen Sie bequeme Schuhe für den Weg mit.",
+            "hu": "Pihenjen meg e tengerparti menedékhely tágas homokján, amely ideális a tenger bámulására, és hozzon kényelmes cipőt a hosszabb sétához.",
+            "ro": "Relaxați-vă pe nisipurile vaste ale acestui refugiu de coastă, ideal pentru a privi oceanul, și aduceți încălțăminte comodă pentru plimbare.",
+            "en": "Unwind on the expansive sands of this coastal retreat, ideal for ocean gazing, and bring comfortable shoes for the slightly long scenic walk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kerfontaine",
+            "hu": "Kerfontaine strand",
+            "ro": "Plaja Kerfontaine",
+            "en": "Kerfontaine Beach"
+          },
+          "coords": [
+            -2.782213,
+            47.494242
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem entspannenden Strand im perfekten Abendlicht und packen Sie ein kleines Picknick für den Sonnenuntergang ein.",
+            "hu": "Fejezze be a sétát ezen a pihentető strandon, ahol a legszebb az aranyóra fénye, így csomagoljon egy kis pikniket a naplemente élvezetéhez.",
+            "ro": "Încheiați-vă turul pietonal la această plajă relaxantă, unde lumina asfințitului este superbă, deci pregătiți un mic picnic pentru apus.",
+            "en": "Conclude your walking tour at this relaxing recreational beach, where golden hour shines best, so pack a small picnic to enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im charmanten Zentrum von Sarzeau und genießen Sie Aussichtspunkte und Architektur.\n\nMittags wechseln Sie von den malerischen Straßen zur atemberaubenden Atlantikküste.\n\nDer Nachmittag ist langen, malerischen Strandspaziergängen an den weiten Sandstränden gewidmet.\n\nLassen Sie den Tag an den sanften Wellen ausklingen und genießen Sie einen spektakulären Sonnenuntergang.",
+        "hu": "Kezdje a napot Sarzeau bájos központjának felfedezésével, gyönyörködjön a kilátókban és az építészetben.\n\nDélben a festői utcákról induljon el a lélegzetelállító Atlanti-óceán partja felé.\n\nA délutánt a végtelen homokos partokon tett hosszú, festői sétáknak szenteljük.\n\nZárja a napot a lágy hullámok mellett pihenve, egy látványos naplementét élvezve a félsziget felett.",
+        "ro": "Începeți ziua explorând centrul fermecător al orașului Sarzeau, admirând priveliștile și arhitectura locală.\n\nLa prânz, treceți de la străzile pitorești spre coasta uluitoare a Atlanticului.\n\nDupă-amiaza este dedicată plimbărilor lungi și pitorești pe plajele vaste de nisip.\n\nÎncheiați-vă ziua relaxându-vă lângă valurile blânde, savurând un apus spectaculos deasupra peninsulei.",
+        "en": "Start your day exploring the charming town center of Sarzeau, taking in the local viewpoints and historical architecture.\n\nMidday, transition from the quaint streets towards the breathtaking Atlantic coastline.\n\nThe afternoon is dedicated to long, scenic beach walks along the expansive sandy shores.\n\nConclude your day relaxing by the gentle waves, enjoying a spectacular sunset over the peninsula."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Szent Szaturninusz-templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "Saint-Saturnin Church"
+          },
+          "coords": [
+            -2.768384,
+            47.52736
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag in den ruhigen Gängen dieser historischen Kirche, die Sie am besten früh vor dem großen Mittagstrubel besuchen.",
+            "hu": "Kezdje a kerékpáros napot ennek a történelmi templomnak a csendes sorai között, amelyet a legjobb kora reggel, a tömeg előtt meglátogatni.",
+            "ro": "Începeți ziua de ciclism explorând culoarele liniștite ale acestei biserici istorice, de preferat a fi vizitată devreme pentru a evita aglomerația.",
+            "en": "Begin your cycling day exploring the tranquil aisles of this historic church, a cultural anchor, best visited early before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Roaliguen",
+            "hu": "Roaliguen strand",
+            "ro": "Plaja Roaliguen",
+            "en": "Roaliguen Beach"
+          },
+          "coords": [
+            -2.768324,
+            47.497449
+          ],
+          "category": "recreational",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem unberührten Sandstrand hinunter, um die atlantische Brise zu genießen, und schließen Sie Ihr Fahrrad an den Ständern gut ab.",
+            "hu": "Kerekezzen le erre az érintetlen homokos strandra, hogy élvezze az óceáni szellőt, és zárja le biztonságosan a kerékpárját a kijelölt tárolóknál.",
+            "ro": "Bicicliți până la această plajă cu nisip fin pentru a vă bucura de briza atlantică și asigurați-vă bicicleta la suporturile special amenajate.",
+            "en": "Cycle down to this pristine sandy beach to enjoy the refreshing Atlantic breeze, and lock your bike securely at the designated coastal racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Domaine des Grèves",
+            "hu": "Domaine des Grèves strand",
+            "ro": "Plaja Domaine des Grèves",
+            "en": "Domaine des Grèves Beach"
+          },
+          "coords": [
+            -2.751753,
+            47.498367
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigeren Küstenabschnitt, der perfekt für eine Pause ist, aber bringen Sie Ihr eigenes Wasser mit, da es hier wenig gibt.",
+            "hu": "Fedezze fel ezt a csendesebb partszakaszt, amely tökéletes egy tengerparti szünetre, de hozzon magával vizet, mivel a kényelmi szolgáltatások ritkák.",
+            "ro": "Descoperiți această porțiune de coastă mai liniștită, perfectă pentru o pauză, dar aduceți-vă propria apă, deoarece facilitățile sunt rare aici.",
+            "en": "Discover this quieter stretch of shoreline perfect for a peaceful coastal pause, but remember to bring your own water as amenities are scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Beg Lann",
+            "hu": "Beg Lann strand",
+            "ro": "Plaja Beg Lann",
+            "en": "Beg Lann Beach"
+          },
+          "coords": [
+            -2.743409,
+            47.50015
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick von diesem beliebten Sandstrand aus und halten Sie die Augen nach interessanten Muscheln offen.",
+            "hu": "Élvezze a tágas óceáni kilátást erről a helyiek által kedvelt homokos strandról, és tartsa nyitva a szemét az érdekes kagylóhéjakért.",
+            "ro": "Bucurați-vă de priveliștile ample ale oceanului de pe această plajă de nisip, apreciată de localnici, și căutați scoici interesante pe mal.",
+            "en": "Enjoy the sweeping ocean views from this recreational sandy spot, a favorite among locals, and keep an eye out for interesting seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Suscinio",
+            "hu": "Suscinio kastély",
+            "ro": "Castelul Suscinio",
+            "en": "Château de Suscinio"
+          },
+          "coords": [
+            -2.729444,
+            47.512778
+          ],
+          "category": "fortress",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese majestätische mittelalterliche Festung inmitten von Sümpfen und buchen Sie Ihr Ticket online, um die Warteschlangen zu umgehen.",
+            "hu": "Csodálja meg ezt a mocsarakkal körülvett fenséges középkori erődöt, amely igazi történelmi gyöngyszem, és foglalja le jegyét online a soron kívüli bejutáshoz.",
+            "ro": "Admirați această fortăreață medievală maiestuoasă înconjurată de mlaștini și rezervați-vă biletul online pentru a sări peste cozile de la intrare.",
+            "en": "Marvel at this majestic medieval fortress surrounded by marshes, a true historical gem, and book your entrance ticket online to skip the lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Suscinio",
+            "hu": "Suscinio strand",
+            "ro": "Plaja Suscinio",
+            "en": "Suscinio Beach"
+          },
+          "coords": [
+            -2.728688,
+            47.505836
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Strand direkt neben dem Schloss mit historischer Kulisse und bleiben Sie bis zu den atemberaubenden späten Nachmittagsfarben.",
+            "hu": "Pihenjen meg a kastély melletti lenyűgöző strandon, amely tökéletes történelmi hátteret kínál, és maradjon a lélegzetelállító késő délutáni színekig.",
+            "ro": "Relaxați-vă pe plaja superbă de lângă castel, care oferă un fundal istoric perfect, și rămâneți pentru culorile uluitoare ale după-amiezii târzii.",
+            "en": "Relax on the stunning beach right next to the castle, offering a perfect historical backdrop, and stay for the breathtaking late afternoon colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer im Herzen von Sarzeau, bevor Sie in Richtung Süden ans Meer fahren.\n\nBis zum Mittag radeln Sie auf wunderschönen Küstenwegen von einem unberührten Strand zum nächsten.\n\nAm Nachmittag erwartet Sie das majestätische Château de Suscinio, das Geschichte und Natur verbindet.\n\nBeenden Sie Ihre Fahrt am angrenzenden Strand, während die Farben über der Festung wechseln.",
+        "hu": "Kezdje kerékpáros kalandját Sarzeau szívében, mielőtt dél felé, az óceán felé pedálozna.\n\nDélre már gyönyörű parti ösvényeken cirkálhat, egyik érintetlen strandról a másikra ugrálva.\n\nA délután fénypontja a fenséges Suscinio kastély, amely a breton történelmet a természettel ötvözi.\n\nFejezze be túráját a szomszédos strandon, figyelve az ősi erőd felett változó színeket.",
+        "ro": "Începeți aventura pe bicicletă în inima orașului Sarzeau, înainte de a pedala spre sud, spre ocean.\n\nPână la prânz, veți merge pe poteci de coastă superbe, sărind de la o plajă la alta.\n\nDupă-amiaza evidențiază magnificul Château de Suscinio, îmbinând istoria bretonă cu natura.\n\nÎncheiați plimbarea pe plaja adiacentă, urmărind cum se schimbă culorile deasupra cetății antice.",
+        "en": "Kick off your cycling adventure in the heart of Sarzeau before pedaling south towards the ocean.\n\nBy midday, you'll be cruising along beautiful coastal paths, hopping from one pristine beach to another.\n\nThe afternoon highlights the magnificent Château de Suscinio, blending rich Breton history with nature.\n\nEnd your ride on the adjacent beach, watching the colors shift over the ancient fortress."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Saturnin",
+            "hu": "Szent Szaturninusz-templom",
+            "ro": "Biserica Saint-Saturnin",
+            "en": "Saint-Saturnin Church"
+          },
+          "coords": [
+            -2.768384,
+            47.52736
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit der ruhigen Atmosphäre dieser lokalen Kirche, um Sarzeaus Wurzeln zu schätzen, und nutzen Sie die kostenlosen Parkplätze direkt davor.",
+            "hu": "Kezdje ennek a helyi templomnak a derűs hangulatával, hogy megismerje Sarzeau gyökereit, kihasználva a közvetlenül a bejárat előtti ingyenes parkolókat.",
+            "ro": "Începeți cu ambianța senină a acestei biserici pentru a aprecia rădăcinile orașului Sarzeau, folosind locurile de parcare gratuite disponibile chiar afară.",
+            "en": "Start with the serene ambiance of this local church to appreciate Sarzeau's roots, utilizing the free parking spaces available just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Suscinio",
+            "hu": "Suscinio kastély",
+            "ro": "Castelul Suscinio",
+            "en": "Château de Suscinio"
+          },
+          "coords": [
+            -2.729444,
+            47.512778
+          ],
+          "category": "fortress",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großen Hallen dieser beeindruckenden bretonischen Festung und tragen Sie bequeme Schuhe, um die steinernen Türme zu besteigen.",
+            "hu": "Fedezze fel ennek a lenyűgöző breton erődnek a nagytermeit, és viseljen kényelmes cipőt a kőtornyok megmászásához.",
+            "ro": "Explorați sălile grandioase ale acestei impresionante fortărețe bretone și purtați încălțăminte confortabilă pentru a urca în turnurile sale de piatră.",
+            "en": "Explore the grand halls of this impressive Breton fortress, once a ducal residence, and wear comfortable shoes for climbing its stone towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Suscinio",
+            "hu": "Suscinio strand",
+            "ro": "Plaja Suscinio",
+            "en": "Suscinio Beach"
+          },
+          "coords": [
+            -2.728688,
+            47.505836
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie vom Schloss hinunter zu diesem weitläufigen Naturstrand für eine erfrischende Pause und bringen Sie eine Windjacke für den Komfort mit.",
+            "hu": "Sétáljon le a kastélytól ehhez a hatalmas természetes strandhoz egy frissítő szünetre, és hozzon magával széldzsekit a kényelem érdekében.",
+            "ro": "Coborâți de la castel spre această plajă naturală vastă pentru o pauză răcoritoare și aduceți o jachetă de vânt pentru a sta confortabil pe mal.",
+            "en": "Walk down from the castle to this expansive natural beach for a refreshing break, and bring a windbreaker to stay comfortable by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-la-Côte",
+            "hu": "Notre-Dame-de-la-Côte kápolna",
+            "ro": "Capela Notre-Dame-de-la-Côte",
+            "en": "Notre-Dame-de-la-Côte Chapel"
+          },
+          "coords": [
+            -2.680995,
+            47.493585
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser malerischen Küstenkapelle mit Blick auf den Ozean und nehmen Sie sich einen Moment Zeit für den Panoramablick vom Gelände aus.",
+            "hu": "Vezessen el ehhez az óceánra néző festői tengerparti kápolnához, amely egy igazi lelki menedék, és élvezze a panorámát a területéről.",
+            "ro": "Conduceți către această pitorească capelă de coastă cu vedere la ocean și luați-vă un moment pentru a vă bucura de vederile panoramice de pe domeniu.",
+            "en": "Drive to this picturesque coastal chapel overlooking the ocean, a spiritual haven, and take a moment to enjoy the panoramic views from its grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Penvins",
+            "hu": "Penvins strand",
+            "ro": "Plaja Penvins",
+            "en": "Penvins Beach"
+          },
+          "coords": [
+            -2.688912,
+            47.49787
+          ],
+          "category": "natural",
+          "arrive_at": "13:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an diesem weiten, windigen Strand, der für Drachensteigen bekannt ist, und holen Sie sich ein warmes Getränk für den Sonnenuntergang.",
+            "hu": "Fejezze be autós túráját ezen a hatalmas, sárkányeregetésről ismert szeles strandon, és vegyen egy meleg italt a közeli kávézóban a naplementéhez.",
+            "ro": "Încheiați excursia pe această plajă vastă, cunoscută pentru zmeie, și luați o băutură caldă de la o cafenea din apropiere pentru a savura apusul.",
+            "en": "End your road trip at this vast and windy beach known for kite flying, and grab a warm drink from a nearby coastal café to enjoy the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Stadtzentrum, bevor es direkt zum Kronjuwel der Region geht, dem Château de Suscinio.\n\nDer Mittag bietet eine Mischung aus mittelalterlicher Erkundung und Spaziergängen am weitläufigen Strand.\n\nFahren Sie am Nachmittag weiter die Küste entlang zu einer charmanten Kapelle am Meer.\n\nBeenden Sie Ihre Reise am Penvins Beach mit seiner dramatischen Küstenlandschaft.",
+        "hu": "Autós túrája a városközpontban kezdődik, majd egyenesen a régió ékkövéhez, a Suscinio kastélyhoz vezet.\n\nA dél a középkori felfedezés és a közeli tágas strandon tett pihentető séták tökéletes keverékét kínálja.\n\nDélután vezessen tovább a part mentén egy hangulatos tengerparti kápolnához.\n\nFejezze be utazását a Penvins strandon, befogadva a drámai parti szeleket és kilátást.",
+        "ro": "Turul cu mașina începe în centrul orașului înainte de a vă îndrepta direct către bijuteria regiunii, Château de Suscinio.\n\nPrânzul oferă un mix de explorare medievală și plimbări relaxante pe plaja vastă din apropiere.\n\nDupă-amiaza, conduceți mai departe de-a lungul coastei pentru a descoperi o capelă fermecătoare pe malul mării.\n\nÎncheiați călătoria la plaja Penvins, bucurându-vă de vânturile de coastă.",
+        "en": "Your driving tour begins in the town center before heading straight to the region's crown jewel, the Château de Suscinio.\n\nMidday offers a perfect mix of medieval exploration and relaxing strolls on the nearby expansive beach.\n\nIn the afternoon, drive further along the coast to discover a charming seaside chapel.\n\nWrap up your journey at Penvins Beach, taking in the dramatic coastal winds."
+      }
+    }
+  }
+}

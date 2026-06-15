@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-lignano-sabbiadoro-cities-v2",
+  "anchor": {
+    "name": "Lignano Sabbiadoro",
+    "coords": [
+      13.11727,
+      45.6759
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sabbiadoro",
+            "hu": "Sabbiadoro",
+            "ro": "Sabbiadoro",
+            "en": "Sabbiadoro"
+          },
+          "coords": [
+            13.12987,
+            45.678478
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen goldenen Sand dieses Hauptstrandes, der ideal zum Sonnenbaden ist, aber kommen Sie früh, um die besten Liegestühle am Meer zu sichern.",
+            "hu": "Élvezze a finom aranyhomokot, amely nevét adja ennek a fő strandnak és tökéletes napozáshoz, de érkezzen korán a legjobb tengerparti nyugágyakért.",
+            "ro": "Bucurați-vă de nisipul auriu fin care dă numele acestei plaje principale, perfectă pentru băi de soare, dar ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the fine golden sands that give this main beach its name, making it perfect for sunbathing, but arrive early to secure the best seaside loungers."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunny Pet",
+            "hu": "Sunny Pet",
+            "ro": "Sunny Pet",
+            "en": "Sunny Pet"
+          },
+          "coords": [
+            13.130782,
+            45.679297
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihre pelzigen Freunde zu diesem gut ausgestatteten, haustierfreundlichen Strandbereich mit Schatten, damit Ihr Hund die Adria sicher genießen kann.",
+            "hu": "Hozza el szőrös barátait erre a jól felszerelt kutyabarát strandra, amely árnyékos helyeket kínál, így kutyája is biztonságosan élvezheti az Adriát.",
+            "ro": "Aduceți-vă prietenii blănoși pe această plajă bine echipată, care oferă locuri umbrite și boluri cu apă, pentru ca și câinele să se bucure de Marea Adriatică.",
+            "en": "Bring your furry friends to this well-equipped pet-friendly beach area, offering shaded spots and water bowls, so your dog can safely enjoy the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera",
+            "hu": "Spiaggia libera",
+            "ro": "Spiaggia libera",
+            "en": "Spiaggia libera"
+          },
+          "coords": [
+            13.133158,
+            45.680568
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem makellosen, kostenlosen öffentlichen Strand mit viel Platz für Sie, vergessen Sie nur nicht, Ihren eigenen Sonnenschirm mitzubringen.",
+            "hu": "Pihenjen ezen az érintetlen, ingyenes szabadstrandon, amely rengeteg helyet kínál a kikapcsolódáshoz, csak ne felejtse el magával hozni saját napernyőjét.",
+            "ro": "Relaxați-vă pe această plajă publică gratuită, care oferă mult spațiu pentru o așezare personalizată, amintiți-vă doar să vă aduceți propria umbrelă de soare.",
+            "en": "Relax on this pristine free public beach stretch that offers plenty of space for a custom setup, just remember to pack your own parasol for shade at noon."
+          }
+        },
+        {
+          "name": {
+            "de": "Portofino",
+            "hu": "Portofino",
+            "ro": "Portofino",
+            "en": "Portofino"
+          },
+          "coords": [
+            13.134519,
+            45.681419
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante Atmosphäre dieses Premium-Strandabschnitts mit tollen Annehmlichkeiten, perfekt für einen erfrischenden Cocktail am Nachmittag.",
+            "hu": "Tapasztalja meg ennek a prémium strandszakasznak az elegáns hangulatát és kiváló szolgáltatásait, amely tökéletes egy frissítő délutáni koktél elfogyasztásához.",
+            "ro": "Experimentați atmosfera elegantă a acestui sector de plajă premium, cu dotări excelente, fiind locul perfect pentru a savura un cocktail răcoritor de după-amiază.",
+            "en": "Experience the elegant atmosphere of this premium beach sector featuring high-end amenities and a lovely bar, perfect for a refreshing afternoon cocktail."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 11",
+            "hu": "Ufficio 11",
+            "ro": "Ufficio 11",
+            "en": "Ufficio 11"
+          },
+          "coords": [
+            13.137843,
+            45.683462
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Strandleben dieses beliebten Abschnitts mit hervorragenden Sportplätzen ein, und nehmen Sie hier an einem Beachvolleyballspiel teil.",
+            "hu": "Merüljön el a nyüzsgő tengerparti életben ezen a népszerű szakaszon, ahol kiváló sportpályák várják, ezért érdemes csatlakozni egy strandröplabda meccshez.",
+            "ro": "Scufundați-vă în viața de plajă vibrantă la acest sector popular, care oferă terenuri de sport excelente, așa că alăturați-vă unui meci de volei pe plajă.",
+            "en": "Dive into the vibrant beach life at this popular sector offering excellent sports courts and clear waters, so join a local beach volleyball game here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 10",
+            "hu": "Ufficio 10",
+            "ro": "Ufficio 10",
+            "en": "Ufficio 10"
+          },
+          "coords": [
+            13.139573,
+            45.684578
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen, familienorientierten Strandzone mit sicheren, flachen Gewässern in der Nähe von Gelaterias, ideal für planschende Kinder.",
+            "hu": "Kapcsolódjon ki ezen a nyugodt és családbarát strandszakaszon, ahol a biztonságos sekély víz és a közeli fagyizók ideálisak a gyerekek pancsolásához.",
+            "ro": "Relaxați-vă în această zonă de plajă calmă și destinată familiilor, având ape sigure și gelaterii în apropiere, fiind locul ideal pentru bălăceala copiilor.",
+            "en": "Unwind at this calm and family-oriented beach zone which features safe shallow waters and nearby gelaterias, making it an ideal spot for kids to splash."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag auf dem berühmten goldenen Sand von Sabbiadoro. Das Morgenlicht über der Adria ist perfekt für einen friedlichen Start, während Sie die haustierfreundlichen Zonen erkunden und die Meeresbrise spüren.\nMidday: Wenn die Sonne höher steigt, wechseln Sie zu den freien Strandabschnitten. Die lebhafte Atmosphäre nimmt zu, während Einheimische und Touristen das Wasser genießen.\nAfternoon: Verbringen Sie den Nachmittag zwischen dem eleganten Portofino-Sektor und den sportlichen Vibes der nummerierten Strandbüros. Die Küste summt vor Beachvolleyball unter der Sonne.\nEvening: Beenden Sie Ihren Küstenspaziergang im lebhaften Bereich von Ufficio 10. Genießen Sie einen Spaziergang auf der Promenade, während sich der Himmel rosa färbt, und essen Sie ein traditionelles Gelato.",
+        "hu": "Morning: Kezdje a napot a híres Sabbiadoro aranyhomokos partján. Az Adria feletti reggeli fények tökéletesek a békés kezdéshez, miközben felfedezi a kutyabarát zónákat és élvezi a szellőt.\nMidday: Ahogy a nap magasabbra hág, sétáljon át az ingyenes strandszakaszokra. Az élénk hangulat fokozódik, ahogy mindenki élvezi a tiszta, sekély vizet, ami ideális időszak a pihenésre.\nAfternoon: A délutánt az elegáns Portofino szektor és a sportos számozott strandirodák között töltheti. A partvonal a strandröplabdától és a nevetéstől hangos a barátságos napsütésben.\nEvening: Zárja a tengerparti sétát a nyüzsgő Ufficio 10 környékén. Élvezze a lassú sétát a sétányon, miközben az ég rózsaszínbe fordul, és álljon meg egy hagyományos olasz fagylaltra.",
+        "ro": "Morning: Începeți ziua pășind pe faimosul nisip auriu din Sabbiadoro. Lumina dimineții peste Marea Adriatică este perfectă pentru un început liniștit, în timp ce explorați plaja.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre zonele de plajă liberă. Atmosfera devine vibrantă, localnicii bucurându-se de apele limpezi, fiind momentul ideal pentru relaxare.\nAfternoon: Petreceți după-amiaza mișcându-vă între sectorul elegant Portofino și atmosfera sportivă a oficiilor de plajă numerotate. Litoralul este plin de volei și râsete sub soarele cald.\nEvening: Încheiați plimbarea pe coastă în zona vibrantă Ufficio 10. Bucurați-vă de o plimbare lentă pe promenadă pe măsură ce cerul devine roz, oprindu-vă pentru o înghețată tradițională.",
+        "en": "Morning: Begin your day by stepping onto the famous golden sands of Sabbiadoro. The morning light over the Adriatic Sea is perfect for a peaceful start as you explore the pet-friendly zones.\nMidday: As the sun climbs higher, transition towards the free beach areas. The lively atmosphere builds up as locals and tourists alike enjoy the clear, shallow waters for a relaxing midday break.\nAfternoon: Spend your afternoon moving between the elegant Portofino sector and the sporty vibes of the numbered beach offices. The shoreline buzzes with beach volleyball under the warm Italian sun.\nEvening: Conclude your coastal walk at the vibrant Ufficio 10 area. Enjoy a slow stroll along the promenade as the sky turns pink, perhaps stopping for a traditional gelato while you reflect on the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:05",
+      "total_km": 7.35,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sun River",
+            "hu": "Sun River",
+            "ro": "Sun River",
+            "en": "Sun River"
+          },
+          "coords": [
+            13.096363,
+            45.647657
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der Natur an diesem malerischen Strand, der ins Meer übergeht, und den Sie am besten bei einem ruhigen Morgenspaziergang genießen.",
+            "hu": "Kezdje a napot a természet lágy ölén ezen a festői, tengerbe torkolló folyóparti strandon, amelyet a legjobb egy csendes reggeli séta során felfedezni.",
+            "ro": "Începeți ziua înconjurați de natură pe această plajă pitorească unde râul întâlnește marea, cel mai bine de savurat printr-o plimbare matinală liniștită.",
+            "en": "Start your day surrounded by nature at this scenic riverfront beach merging into the sea, best enjoyed with a quiet morning walk along the calm shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabbiadoro",
+            "hu": "Sabbiadoro",
+            "ro": "Sabbiadoro",
+            "en": "Sabbiadoro"
+          },
+          "coords": [
+            13.12987,
+            45.678478
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen goldenen Sand dieses Hauptstrandes, der ideal zum Sonnenbaden ist, aber kommen Sie früh, um die besten Liegestühle am Meer zu sichern.",
+            "hu": "Élvezze a finom aranyhomokot, amely nevét adja ennek a fő strandnak és tökéletes napozáshoz, de érkezzen korán a legjobb tengerparti nyugágyakért.",
+            "ro": "Bucurați-vă de nisipul auriu fin care dă numele acestei plaje principale, perfectă pentru băi de soare, dar ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the fine golden sands that give this main beach its name, making it perfect for sunbathing, but arrive early to secure the best seaside loungers."
+          }
+        },
+        {
+          "name": {
+            "de": "Portofino",
+            "hu": "Portofino",
+            "ro": "Portofino",
+            "en": "Portofino"
+          },
+          "coords": [
+            13.134519,
+            45.681419
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante Atmosphäre dieses Premium-Strandabschnitts mit tollen Annehmlichkeiten, perfekt für einen erfrischenden Cocktail am Nachmittag.",
+            "hu": "Tapasztalja meg ennek a prémium strandszakasznak az elegáns hangulatát és kiváló szolgáltatásait, amely tökéletes egy frissítő délutáni koktél elfogyasztásához.",
+            "ro": "Experimentați atmosfera elegantă a acestui sector de plajă premium, cu dotări excelente, fiind locul perfect pentru a savura un cocktail răcoritor de după-amiază.",
+            "en": "Experience the elegant atmosphere of this premium beach sector featuring high-end amenities and a lovely bar, perfect for a refreshing afternoon cocktail."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 10",
+            "hu": "Ufficio 10",
+            "ro": "Ufficio 10",
+            "en": "Ufficio 10"
+          },
+          "coords": [
+            13.139573,
+            45.684578
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen, familienorientierten Strandzone mit sicheren, flachen Gewässern in der Nähe von Gelaterias, ideal für planschende Kinder.",
+            "hu": "Kapcsolódjon ki ezen a nyugodt és családbarát strandszakaszon, ahol a biztonságos sekély víz és a közeli fagyizók ideálisak a gyerekek pancsolásához.",
+            "ro": "Relaxați-vă în această zonă de plajă calmă și destinată familiilor, având ape sigure și gelaterii în apropiere, fiind locul ideal pentru bălăceala copiilor.",
+            "en": "Unwind at this calm and family-oriented beach zone which features safe shallow waters and nearby gelaterias, making it an ideal spot for kids to splash."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausonia",
+            "hu": "Ausonia",
+            "ro": "Ausonia",
+            "en": "Ausonia"
+          },
+          "coords": [
+            13.141026,
+            45.685499
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie klassischen Küstencharme in dieser historischen Badeanstalt mit traditionellen Holzkabinen, wo das Mieten eines Tretboots sehr zu empfehlen ist.",
+            "hu": "Fedezze fel a klasszikus tengerparti varázst ebben a hagyományos fakabinokat kínáló, történelmi fürdőben, ahol nagyon ajánlott vízibiciklit bérelni.",
+            "ro": "Descoperiți farmecul clasic al coastei la acest stabiliment de băi istoric cu cabine tradiționale din lemn, unde închirierea unei hidrobiciclete este recomandată.",
+            "en": "Discover classic coastal charm at this historic bathing establishment offering traditional wooden cabins, where renting a pedal boat is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 6",
+            "hu": "Ufficio 6",
+            "ro": "Ufficio 6",
+            "en": "Ufficio 6"
+          },
+          "coords": [
+            13.144592,
+            45.687673
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weite Aussicht auf die Adria von diesem gepflegten Abschnitt mit hervorragenden Promenaden, der ideal ist, um eine bequeme Sonnenliege zu mieten.",
+            "hu": "Csodálja meg a hatalmas adriai kilátást erről a jól karbantartott szakaszról, amely kiváló sétányokkal büszkélkedhet, és ideális egy kényelmes napágy bérlésére.",
+            "ro": "Admirați vederea vastă asupra Adriaticii din această secțiune bine întreținută, cu promenade excelente, fiind locul ideal pentru a închiria un șezlong confortabil.",
+            "en": "Admire the sweeping Adriatic views from this well-maintained section boasting excellent beachfront promenades, ideal for renting a comfortable sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 1-bis",
+            "hu": "Ufficio 1-bis",
+            "ro": "Ufficio 1-bis",
+            "en": "Ufficio 1-bis"
+          },
+          "coords": [
+            13.151013,
+            45.692575
+          ],
+          "category": "recreational",
+          "arrive_at": "16:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der belebten Ostküste entlang, wo diese moderne Badeanstalt hervorragende Duschen bietet, was sie zu einem tollen Stopp vor dem Mittag macht.",
+            "hu": "Sétáljon végig a pezsgő keleti partvonalon, ahol ez a modern fürdőlétesítmény kiváló zuhanyzókat kínál, így nagyszerű megálló lehet ebéd előtt.",
+            "ro": "Plimbați-vă de-a lungul coastei de est, unde această facilitate modernă oferă dușuri și servicii excelente, fiind o oprire grozavă înainte de prânz.",
+            "en": "Stroll along the vibrant eastern coastline where this modern bathing facility offers excellent showers and amenities, making it a great stop before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Doggy Beach",
+            "hu": "Doggy Beach",
+            "ro": "Doggy Beach",
+            "en": "Doggy Beach"
+          },
+          "coords": [
+            13.152813,
+            45.69544
+          ],
+          "category": "recreational",
+          "arrive_at": "17:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser berühmten Nordspitze für Haustiere mit Schwimmbereichen für Hunde und einer fröhlichen Atmosphäre, um den Sonnenuntergang zu sehen.",
+            "hu": "Zárja a strandtúrát ezen a kutyáknak szentelt, híres északi csücsökben, ahol a kutyák is fürödhetnek, és vidám hangulatban nézheti végig a naplementét.",
+            "ro": "Încheiați turul la acest capăt nordic faimos dedicat animalelor, cu zone de înot pentru câini, oferind o atmosferă veselă pentru a privi apusul soarelui.",
+            "en": "Conclude your beach tour at this famous northern tip dedicated to pets with swimming areas for dogs, providing a joyous atmosphere to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Radtour in der ruhigen Gegend von Sun River. Die sanfte Morgenbrise begleitet Sie, während Sie an der weiten Küste entlang zum geschäftigen Herzen von Sabbiadoro radeln.\nMidday: Parken Sie Ihr Fahrrad, um den eleganten Sektor Portofino zu erkunden. Die Mittagshitze wird perfekt durch ein kurzes Bad im klaren Wasser ausgeglichen, gefolgt von Entspannung.\nAfternoon: Radeln Sie weiter nach Nordosten entlang der Promenaden und passieren Sie klassische Badeanstalten wie Ausonia. Die lebhafte Energie von Strandspielen umgibt Sie auf der Strecke.\nEvening: Erreichen Sie die nördlichste Spitze am Doggy Beach, wenn der Tag ausklingt. Genießen Sie den Anblick von Haustieren, die im Wasser spielen, und beobachten Sie einen Sonnenuntergang.",
+        "hu": "Morning: Kezdje kerékpártúráját a nyugodt Sun River térségében. A lágy reggeli szellő kíséri, miközben végigteker a kiterjedt homokos part mentén Sabbiadoro nyüzsgő szíve felé.\nMidday: Parkolja le a kerékpárt, hogy felfedezze az elegáns Portofino szektort. A hőséget tökéletesen ellensúlyozza egy gyors csobbanás a tiszta adriai vízben, amelyet pihenés követ a parton.\nAfternoon: Tekerjen tovább északkelet felé a jól karbantartott sétányokon, elhaladva a klasszikus fürdőhelyek, mint az Ausonia mellett. A vízi sportok vidám energiája veszi körül az úton.\nEvening: A nap végéhez közeledve érje el a legészakibb csücsköt, a Doggy Beach-et. Élvezze a vízben játszó háziállatok látványát, és gyönyörködjön a tengerparti naplementében.",
+        "ro": "Morning: Începeți turul cu bicicleta în zona liniștită Sun River. Briza blândă a dimineții vă însoțește în timp ce pedalați de-a lungul coastei de nisip spre inima stațiunii Sabbiadoro.\nMidday: Parcați bicicleta pentru a explora elegantul sector Portofino. Căldura prânzului este perfect contracarată de o baie rapidă în apele Adriaticii, urmată de o odihnă relaxantă.\nAfternoon: Pedalați mai departe spre nord-est de-a lungul promenadelor, trecând pe lângă stabilimente clasice precum Ausonia. Energia vibrantă a sporturilor nautice vă înconjoară.\nEvening: Ajungeți la capătul nordic la Doggy Beach pe măsură ce ziua se încheie. Bucurați-vă de vederea animalelor jucându-se în apă și admirați un apus de soare uimitor la malul mării.",
+        "en": "Morning: Kick off your cycling tour at the tranquil Sun River area, where the river meets the sea. The gentle morning breeze accompanies you as you pedal toward the bustling heart of Sabbiadoro.\nMidday: Park your bike to explore the elegant Portofino sector. The midday heat is perfectly countered by a quick dip in the clear Adriatic waters, followed by relaxing on a sunbed.\nAfternoon: Cycle further northeast along the well-maintained promenades, passing classic bathing establishments like Ausonia. The vibrant energy of beach games and chatter surrounds you.\nEvening: Reach the northernmost tip at Doggy Beach as the day winds down. Enjoy the heartwarming sight of pets playing in the water, and take in a stunning seaside sunset before heading back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 7.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sun River",
+            "hu": "Sun River",
+            "ro": "Sun River",
+            "en": "Sun River"
+          },
+          "coords": [
+            13.096363,
+            45.647657
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in der Natur an diesem malerischen Strand, der ins Meer übergeht, und den Sie am besten bei einem ruhigen Morgenspaziergang genießen.",
+            "hu": "Kezdje a napot a természet lágy ölén ezen a festői, tengerbe torkolló folyóparti strandon, amelyet a legjobb egy csendes reggeli séta során felfedezni.",
+            "ro": "Începeți ziua înconjurați de natură pe această plajă pitorească unde râul întâlnește marea, cel mai bine de savurat printr-o plimbare matinală liniștită.",
+            "en": "Start your day surrounded by nature at this scenic riverfront beach merging into the sea, best enjoyed with a quiet morning walk along the calm shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabbiadoro",
+            "hu": "Sabbiadoro",
+            "ro": "Sabbiadoro",
+            "en": "Sabbiadoro"
+          },
+          "coords": [
+            13.12987,
+            45.678478
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen goldenen Sand dieses Hauptstrandes, der ideal zum Sonnenbaden ist, aber kommen Sie früh, um die besten Liegestühle am Meer zu sichern.",
+            "hu": "Élvezze a finom aranyhomokot, amely nevét adja ennek a fő strandnak és tökéletes napozáshoz, de érkezzen korán a legjobb tengerparti nyugágyakért.",
+            "ro": "Bucurați-vă de nisipul auriu fin care dă numele acestei plaje principale, perfectă pentru băi de soare, dar ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the fine golden sands that give this main beach its name, making it perfect for sunbathing, but arrive early to secure the best seaside loungers."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 11",
+            "hu": "Ufficio 11",
+            "ro": "Ufficio 11",
+            "en": "Ufficio 11"
+          },
+          "coords": [
+            13.137843,
+            45.683462
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Strandleben dieses beliebten Abschnitts mit hervorragenden Sportplätzen ein, und nehmen Sie hier an einem Beachvolleyballspiel teil.",
+            "hu": "Merüljön el a nyüzsgő tengerparti életben ezen a népszerű szakaszon, ahol kiváló sportpályák várják, ezért érdemes csatlakozni egy strandröplabda meccshez.",
+            "ro": "Scufundați-vă în viața de plajă vibrantă la acest sector popular, care oferă terenuri de sport excelente, așa că alăturați-vă unui meci de volei pe plajă.",
+            "en": "Dive into the vibrant beach life at this popular sector offering excellent sports courts and clear waters, so join a local beach volleyball game here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufficio 4/1-ter",
+            "hu": "Ufficio 4/1-ter",
+            "ro": "Ufficio 4/1-ter",
+            "en": "Ufficio 4/1-ter"
+          },
+          "coords": [
+            13.148169,
+            45.690238
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die kühle Meeresbrise in diesem weitläufigen Bereich, der für seine Wassersportarten bekannt ist, und ziehen Sie hier Windsurfkurse in Betracht.",
+            "hu": "Érezze a hűsítő tengeri szellőt ezen a tágas, vízi sportokról és pezsgő tömegről ismert területen, ezért érdemes megfontolni a szörfleckék kipróbálását.",
+            "ro": "Simțiți briza mării în această zonă spațioasă cunoscută pentru sporturile nautice și atmosfera vibrantă, așa că luați în considerare lecțiile de windsurfing.",
+            "en": "Feel the cooling sea breeze at this spacious area known for its water sports activities and vibrant crowd, so consider trying out windsurfing lessons here."
+          }
+        },
+        {
+          "name": {
+            "de": "Doggy Beach",
+            "hu": "Doggy Beach",
+            "ro": "Doggy Beach",
+            "en": "Doggy Beach"
+          },
+          "coords": [
+            13.152813,
+            45.69544
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser berühmten Nordspitze für Haustiere mit Schwimmbereichen für Hunde und einer fröhlichen Atmosphäre, um den Sonnenuntergang zu sehen.",
+            "hu": "Zárja a strandtúrát ezen a kutyáknak szentelt, híres északi csücsökben, ahol a kutyák is fürödhetnek, és vidám hangulatban nézheti végig a naplementét.",
+            "ro": "Încheiați turul la acest capăt nordic faimos dedicat animalelor, cu zone de înot pentru câini, oferind o atmosferă veselă pentru a privi apusul soarelui.",
+            "en": "Conclude your beach tour at this famous northern tip dedicated to pets with swimming areas for dogs, providing a joyous atmosphere to watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zum ruhigen Rand von Sun River, um die Morgenatmosphäre einzufangen. Die Konvergenz von Fluss und Meer bildet eine atemberaubende Kulisse, ideal für einen Spaziergang.\nMidday: Parken Sie Ihr Auto näher am zentralen Sabbiadoro-Bereich. Die goldene Stunde der Sonne bringt die brillanten Farben der Adria zur Geltung und lädt Sie ein, in die Gewässer einzutauchen.\nAfternoon: Fahren Sie nach Osten, um die geschäftigen Strandbüros wie Ufficio 4/1-ter zu erkunden. Die energiegeladene Stimmung von Wassersport und Strandbars bietet viel Unterhaltung.\nEvening: Beenden Sie Ihre Autoreise an den nördlichen Parkplätzen nahe dem Doggy Beach. Genießen Sie die fröhliche Atmosphäre der haustierfreundlichen Ufer, während Sie den Sonnenuntergang beobachten.",
+        "hu": "Morning: Autózzon el a város csendes Sun River részéhez, hogy elkapja a nyugodt reggeli hangulatot. A folyó és a tenger találkozása lenyűgöző hátteret teremt egy frissítő korai sétához.\nMidday: Helyezze át autóját közelebb a központi Sabbiadoro területhez. A déli nap kiemeli az Adria ragyogó színeit, arra csábítva, hogy fejest ugorjon a vízbe, vagy sütkérezzen a parti melegben.\nAfternoon: Vezessen kicsit keletebbre, hogy felfedezze az olyan forgalmas irodákat, mint az Ufficio 4/1-ter. A vízi sportok és a strandbárok energikus hangulata rengeteg szórakozást kínál.\nEvening: Fejezze be autós útvonalát a Doggy Beach melletti parkolókban. Élvezze a kutyabarát partok vidám hangulatát, miközben megnézi, ahogy a látványos naplemente megfesti az eget.",
+        "ro": "Morning: Conduceți către marginea Sun River pentru a surprinde atmosfera matinală tăcută. Convergența dintre râu și mare creează un decor natural uimitor, ideal pentru o plimbare revigorantă.\nMidday: Mutați mașina mai aproape de zona centrală Sabbiadoro. Ora de aur a soarelui scoate în evidență culorile strălucitoare ale Adriaticii, invitându-vă să faceți o baie în apele răcoroase.\nAfternoon: Conduceți puțin spre est pentru a explora oficiile de plajă, cum ar fi Ufficio 4/1-ter. Atmosfera energică a sporturilor nautice și barurile animate oferă mult divertisment.\nEvening: Încheiați itinerariul cu mașina la parcările nordice de lângă Doggy Beach. Bucurați-vă de atmosfera plajelor prietenoase cu animalele în timp ce priviți un apus de soare spectaculos.",
+        "en": "Morning: Drive to the tranquil Sun River edge of town to catch the quiet morning atmosphere. The convergence of river and sea here creates a stunning natural backdrop for a refreshing early walk.\nMidday: Relocate your car closer to the central Sabbiadoro area. The golden hour of the midday sun brings out the brilliant colors of the Adriatic, inviting you to dive into the cool waters.\nAfternoon: Drive slightly east to explore the busy numbered beach offices like Ufficio 4/1-ter. The energetic vibe of water sports and lively beach bars offers plenty of entertainment.\nEvening: Finish your driving itinerary at the northernmost parking areas near Doggy Beach. Enjoy the joyful atmosphere of the pet-friendly shores as you watch a spectacular sunset before dinner."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "samut-prakan-cities-v2",
+  "anchor": {
+    "name": "Samut Prakan",
+    "coords": [
+      100.599,
+      13.599
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:26",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Samut Prakan Aussichtsturm",
+            "hu": "Samut Prakan Kilátótorony",
+            "ro": "Turnul de Observație Samut Prakan",
+            "en": "Samut Prakan Observation Tower"
+          },
+          "coords": [
+            100.598982,
+            13.598233
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Chao Phraya und die Stadt von diesem Wahrzeichen, aber kommen Sie am besten an einem klaren Morgen, um perfekte Fotos zu schießen.",
+            "hu": "Élvezze a Chao Phraya folyóra és a nyüzsgő városra nyíló panorámát ebből az ikonikus toronyból, de a legjobb fotókhoz érdemes egy tiszta reggelen érkezni.",
+            "ro": "Bucurați-vă de o panoramă superbă asupra râului Chao Phraya și a orașului din acest turn simbolic, dar veniți într-o dimineață senină pentru cele mai bune poze.",
+            "en": "Enjoy a panoramic view of the Chao Phraya River and the bustling cityscape from this iconic tower, but be sure to visit on a clear morning for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Mahawong",
+            "hu": "Wat Mahawong",
+            "ro": "Wat Mahawong",
+            "en": "Wat Mahawong"
+          },
+          "coords": [
+            100.596032,
+            13.60331
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details und die ruhige Atmosphäre dieses Tempels, wobei Sie sich respektvoll und angemessen kleiden sollten.",
+            "hu": "Csodálja meg a helyi templom bonyolult építészeti részleteit és békés atmoszféráját, miközben ügyeljen a szerény öltözködésre, hogy tisztelje a helyieket.",
+            "ro": "Admirați detaliile arhitecturale și atmosfera liniștită a acestui templu, amintindu-vă să vă îmbrăcați decent pentru a respecta călugării și credincioșii.",
+            "en": "Admire the intricate architectural details and serene atmosphere of this local temple, remembering to dress modestly to respect the monks and local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Klang Worawihan",
+            "hu": "Wat Klang Worawihan",
+            "ro": "Wat Klang Worawihan",
+            "en": "Wat Klang Worawihan"
+          },
+          "coords": [
+            100.599417,
+            13.59242
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen königlichen Tempel mit seinen atemberaubenden Wandmalereien, und vergessen Sie nicht, vor dem Betreten der Haupthalle die Schuhe auszuziehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző falfestményeiről ismert történelmi királyi templomot, de ne felejtse el levenni a cipőjét, mielőtt belép a szent főcsarnokba.",
+            "ro": "Explorați acest templu regal istoric, renumit pentru picturile murale impresionante, și asigurați-vă că vă descălțați înainte de a intra în sala principală.",
+            "en": "Explore this historic royal temple known for its stunning murals and grand statues, taking off your shoes before entering the sacred main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nai Song Wihan",
+            "hu": "Wat Nai Song Wihan",
+            "ro": "Wat Nai Song Wihan",
+            "en": "Wat Nai Song Wihan"
+          },
+          "coords": [
+            100.604773,
+            13.592904
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der Ruhe in diesem wunderschön geschmückten Heiligtum, am besten am späten Vormittag, um die täglichen Rituale friedlich zu beobachten.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a gyönyörűen díszített szentélyben, és látogasson el késő délelőtt, hogy megfigyelhesse a hagyományos rituálékat.",
+            "ro": "Luați-vă un moment de reflecție în acest sanctuar frumos împodobit, vizitându-l spre sfârșitul dimineții pentru a observa în liniște ritualurile tradiționale.",
+            "en": "Take a moment for quiet reflection in this beautifully adorned sanctuary, visiting during the late morning to observe the traditional daily rituals in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chai Mongkhon",
+            "hu": "Wat Chai Mongkhon",
+            "ro": "Wat Chai Mongkhon",
+            "en": "Wat Chai Mongkhon"
+          },
+          "coords": [
+            100.604747,
+            13.591321
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvollen goldenen Spitzen, die das Nachmittagslicht einfangen, und gehen Sie leise um den zentralen Chedi, um die spirituelle Ruhe aufzunehmen.",
+            "hu": "Csodálja meg az aranyozott tornyokat, amelyek gyönyörűen verik vissza a délutáni fényt, és sétáljon csendben a központi sztúpa körül a teljes békéért.",
+            "ro": "Minunați-vă de turlele aurii care captează superb lumina după-amiezii și plimbați-vă în liniște în jurul chedi-ului central pentru a simți calmul spiritual.",
+            "en": "Marvel at the ornate golden spires that catch the afternoon light beautifully, and walk quietly around the central chedi to fully absorb the spiritual calm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit spektakulären Ausblicken vom Samut Prakan Observation Tower auf das Delta. Auf dem Weg nach Süden finden Sie den friedlichen Wat Mahawong. Der Nachmittag bietet historische Einblicke im Wat Klang Worawihan mit seinen brillanten Wandmalereien. Der Tag endet schließlich ruhig bei den benachbarten Tempeln Wat Nai Song Wihan und Wat Chai Mongkhon unter dem goldenen Abendhimmel.",
+        "hu": "A reggel a Samut Prakan Kilátótorony lenyűgöző panorámájával indul, ahonnan belátni az egész deltát. Dél felé sétálva rábukkanunk a békés Wat Mahawongra. A délután folyamán a Wat Klang Worawihan lenyűgöző freskói nyújtanak történelmi élményt. Végül a nap a szomszédos Wat Nai Song Wihan és a Wat Chai Mongkhon csendes meglátogatásával zárul, az aranyló esti égbolt alatt.",
+        "ro": "Dimineața începe cu vederi spectaculoase din Turnul de Observație, oferind o perspectivă grandioasă. Plimbându-vă spre sud, veți găsi liniștitul Wat Mahawong. După-amiaza se transformă într-o incursiune istorică la Wat Klang Worawihan cu picturile sale murale. În cele din urmă, ziua se încheie cu vizite relaxante la Wat Nai Song Wihan și Wat Chai Mongkhon sub cerul auriu de seară.",
+        "en": "Morning begins with spectacular views from the Samut Prakan Observation Tower, offering a grand perspective of the delta. Strolling south, you will find the peaceful Wat Mahawong where local monks practice their daily routines. The afternoon shifts into historical immersion at Wat Klang Worawihan with its brilliant murals. Finally, the day winds down with tranquil visits to the adjacent Wat Nai Song Wihan and Wat Chai Mongkhon under the golden evening sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Samut Prakan Aussichtsturm",
+            "hu": "Samut Prakan Kilátótorony",
+            "ro": "Turnul de Observație Samut Prakan",
+            "en": "Samut Prakan Observation Tower"
+          },
+          "coords": [
+            100.598982,
+            13.598233
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Chao Phraya und die Stadt von diesem Wahrzeichen, aber kommen Sie am besten an einem klaren Morgen, um perfekte Fotos zu schießen.",
+            "hu": "Élvezze a Chao Phraya folyóra és a nyüzsgő városra nyíló panorámát ebből az ikonikus toronyból, de a legjobb fotókhoz érdemes egy tiszta reggelen érkezni.",
+            "ro": "Bucurați-vă de o panoramă superbă asupra râului Chao Phraya și a orașului din acest turn simbolic, dar veniți într-o dimineață senină pentru cele mai bune poze.",
+            "en": "Enjoy a panoramic view of the Chao Phraya River and the bustling cityscape from this iconic tower, but be sure to visit on a clear morning for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Mahawong",
+            "hu": "Wat Mahawong",
+            "ro": "Wat Mahawong",
+            "en": "Wat Mahawong"
+          },
+          "coords": [
+            100.596032,
+            13.60331
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details und die ruhige Atmosphäre dieses Tempels, wobei Sie sich respektvoll und angemessen kleiden sollten.",
+            "hu": "Csodálja meg a helyi templom bonyolult építészeti részleteit és békés atmoszféráját, miközben ügyeljen a szerény öltözködésre, hogy tisztelje a helyieket.",
+            "ro": "Admirați detaliile arhitecturale și atmosfera liniștită a acestui templu, amintindu-vă să vă îmbrăcați decent pentru a respecta călugării și credincioșii.",
+            "en": "Admire the intricate architectural details and serene atmosphere of this local temple, remembering to dress modestly to respect the monks and local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Nang Kreng",
+            "hu": "Wat Bang Nang Kreng",
+            "ro": "Wat Bang Nang Kreng",
+            "en": "Wat Bang Nang Kreng"
+          },
+          "coords": [
+            100.587969,
+            13.612801
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den verborgenen Charme dieses Flusstempels mit seiner friedlichen Atmosphäre und spazieren Sie am Ufer entlang, um eine erfrischende Brise zu genießen.",
+            "hu": "Fedezze fel ennek a folyóparti templomnak a rejtett báját, és sétáljon egyet a víz mentén, hogy élvezze a kellemesen frissítő, enyhe szellőt.",
+            "ro": "Descoperiți farmecul ascuns al acestui templu de pe malul râului și plimbați-vă pe marginea apei pentru a vă bucura de o briză răcoroasă.",
+            "en": "Discover the hidden charm of this riverside temple with its peaceful ambiance, and take a stroll along the water's edge to catch a refreshing gentle breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Samut Chedi",
+            "hu": "Wat Phra Samut Chedi",
+            "ro": "Wat Phra Samut Chedi",
+            "en": "Wat Phra Samut Chedi"
+          },
+          "coords": [
+            100.584805,
+            13.600039
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese weiße Stupa, die einst auf einer Insel stand, und nehmen Sie die Fähre für ein absolut authentisches und lokales Transporterlebnis.",
+            "hu": "Látogasson el ehhez a történelmi fehér sztúpához, és próbálja ki a kompozást a folyón, amely egy igazán autentikus és helyi utazási élményt nyújt.",
+            "ro": "Vizitați această stupă albă care istoric se afla pe o insulă și luați feribotul peste râu pentru o experiență de transport local cu adevărat autentică.",
+            "en": "Visit this iconic white stupa that historically stood on an island in the river, and catch the ferry across for a truly authentic local transport experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Phi Suea Samut Festung",
+            "hu": "Phi Suea Samut Erőd",
+            "ro": "Fortul Phi Suea Samut",
+            "en": "Phi Suea Samut Fort"
+          },
+          "coords": [
+            100.587555,
+            13.595354
+          ],
+          "category": "fortress",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieser Inselfestung ein, die einst die Flussmündung bewachte, und tragen Sie bequeme Schuhe, um die alten Geschützstellungen zu erkunden.",
+            "hu": "Lépjen vissza az időben ennél a sziget-erődnél, amely egykor a folrtorkolatot védte, és viseljen kényelmes cipőt a történelmi ágyúállások felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această fortăreață insulară care păzea gura râului, purtând încălțăminte comodă pentru a explora ușor vechile amplasamente de tunuri.",
+            "en": "Step back in time at this island fortress that once guarded the river mouth, wearing comfortable walking shoes to easily explore its historic gun emplacements."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Klang Worawihan",
+            "hu": "Wat Klang Worawihan",
+            "ro": "Wat Klang Worawihan",
+            "en": "Wat Klang Worawihan"
+          },
+          "coords": [
+            100.599417,
+            13.59242
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen königlichen Tempel mit seinen atemberaubenden Wandmalereien, und vergessen Sie nicht, vor dem Betreten der Haupthalle die Schuhe auszuziehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző falfestményeiről ismert történelmi királyi templomot, de ne felejtse el levenni a cipőjét, mielőtt belép a szent főcsarnokba.",
+            "ro": "Explorați acest templu regal istoric, renumit pentru picturile murale impresionante, și asigurați-vă că vă descălțați înainte de a intra în sala principală.",
+            "en": "Explore this historic royal temple known for its stunning murals and grand statues, taking off your shoes before entering the sacred main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nai Song Wihan",
+            "hu": "Wat Nai Song Wihan",
+            "ro": "Wat Nai Song Wihan",
+            "en": "Wat Nai Song Wihan"
+          },
+          "coords": [
+            100.604773,
+            13.592904
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der Ruhe in diesem wunderschön geschmückten Heiligtum, am besten am späten Vormittag, um die täglichen Rituale friedlich zu beobachten.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a gyönyörűen díszített szentélyben, és látogasson el késő délelőtt, hogy megfigyelhesse a hagyományos rituálékat.",
+            "ro": "Luați-vă un moment de reflecție în acest sanctuar frumos împodobit, vizitându-l spre sfârșitul dimineții pentru a observa în liniște ritualurile tradiționale.",
+            "en": "Take a moment for quiet reflection in this beautifully adorned sanctuary, visiting during the late morning to observe the traditional daily rituals in peace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit dem Ausblick vom Observation Tower, bevor Sie zum Wat Mahawong radeln. Mittags genießen Sie die Flussbrise am Wat Bang Nang Kreng und erkunden den Wat Phra Samut Chedi. Am Nachmittag setzen Sie zum Phi Suea Samut Fort über. Wenn der Abend naht, radeln Sie zurück in Richtung Stadtzentrum, um die exquisiten Details des Wat Klang Worawihan und Wat Nai Song Wihan zu bewundern.",
+        "hu": "Kezdje a toronyból nyíló kilátással, mielőtt a Wat Mahawonghoz tekerne. A délidő folyóparti szellőt hoz a Wat Bang Nang Krengnél és a Wat Phra Samut Chedi felfedezésénél. Délután látogasson el a Phi Suea Samut Erődhöz, hogy elmélyedjen a katonai történelemben. Ahogy közeledik az este, biciklizzen vissza a központba a Wat Klang Worawihan és a Wat Nai Song Wihan megcsodálásához.",
+        "ro": "Începeți cu panorama din Turnul de Observație înainte de a pedala spre Wat Mahawong. Prânzul aduce briza râului la Wat Bang Nang Kreng și explorarea Wat Phra Samut Chedi. După-amiaza, treceți la Fortul Phi Suea Samut pentru istorie militară. Spre seară, pedalați înapoi spre centrul vibrant al orașului pentru a descoperi detaliile deosebite de la Wat Klang Worawihan.",
+        "en": "Start with an elevated view from the Samut Prakan Observation Tower before cycling to Wat Mahawong. Midday brings a riverside breeze at Wat Bang Nang Kreng and an exploration of the historic Wat Phra Samut Chedi. In the afternoon, cross over to the intriguing Phi Suea Samut Fort to delve into local military history. As evening approaches, pedal back towards the vibrant town center to discover the exquisite details of Wat Klang Worawihan and Wat Nai Song Wihan."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Samut Prakan Aussichtsturm",
+            "hu": "Samut Prakan Kilátótorony",
+            "ro": "Turnul de Observație Samut Prakan",
+            "en": "Samut Prakan Observation Tower"
+          },
+          "coords": [
+            100.598982,
+            13.598233
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Chao Phraya und die Stadt von diesem Wahrzeichen, aber kommen Sie am besten an einem klaren Morgen, um perfekte Fotos zu schießen.",
+            "hu": "Élvezze a Chao Phraya folyóra és a nyüzsgő városra nyíló panorámát ebből az ikonikus toronyból, de a legjobb fotókhoz érdemes egy tiszta reggelen érkezni.",
+            "ro": "Bucurați-vă de o panoramă superbă asupra râului Chao Phraya și a orașului din acest turn simbolic, dar veniți într-o dimineață senină pentru cele mai bune poze.",
+            "en": "Enjoy a panoramic view of the Chao Phraya River and the bustling cityscape from this iconic tower, but be sure to visit on a clear morning for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Ping",
+            "hu": "Wat Bang Ping",
+            "ro": "Wat Bang Ping",
+            "en": "Wat Bang Ping"
+          },
+          "coords": [
+            100.622423,
+            13.607054
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ländliche Ruhe rund um diesen weniger bekannten Tempelkomplex und bringen Sie eine kleine Spende mit, um die örtlichen Mönche zu unterstützen.",
+            "hu": "Élvezze a vidéki nyugalmat e kevésbé ismert templomkomplexum körül, és vigyen magával egy kis adományt, ha szeretné támogatni a helyi szerzetesi közösséget.",
+            "ro": "Bucurați-vă de liniștea rurală din jurul acestui complex de temple mai puțin cunoscut, aducând o mică donație dacă doriți să susțineți comunitatea monahală locală.",
+            "en": "Enjoy the rural tranquility surrounding this lesser-known temple complex, bringing a small donation if you wish to support the local monastic community."
+          }
+        },
+        {
+          "name": {
+            "de": "lee",
+            "hu": "lee",
+            "ro": "lee",
+            "en": "lee"
+          },
+          "coords": [
+            100.607944,
+            13.579147
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende lokale Geschichte und die Ausstellungen ein, und planen Sie mindestens eine Stunde ein, um die einzigartigen Artefakte zu würdigen.",
+            "hu": "Merüljön el a lenyűgöző helyi történelemben és a kulturális kiállításokban, és szánjon legalább egy órát az egyedülálló műtárgyak teljes körű megismerésére.",
+            "ro": "Cufundați-vă în istoria locală fascinantă și în expozițiile culturale, alocând cel puțin o oră pentru a aprecia pe deplin artefactele unice expuse aici.",
+            "en": "Dive into the fascinating local history and cultural exhibits showcased here, allowing at least an hour to fully appreciate the unique artifacts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Samutprakarn Krokodilfarm & Zoo",
+            "hu": "Samutprakarn Krokodilfarm és Állatkert",
+            "ro": "Ferma de Crocodili și Grădina Zoologică Samutprakarn",
+            "en": "Samutprakarn Crocodile Farm & Zoo"
+          },
+          "coords": [
+            100.596211,
+            13.571218
+          ],
+          "category": "family",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Tausende von Krokodilen und verschiedene Tiershows hautnah, aber kommen Sie am besten früh morgens, um der Hitze und den Menschenmassen zu entgehen.",
+            "hu": "Nézzen meg közelről több ezer krokodilt és élvezze az állatbemutatókat, de érkezzen kora reggel, hogy elkerülje a hőséget és a nagy tömegeket.",
+            "ro": "Apropiați-vă de mii de crocodili și bucurați-vă de spectacolele cu animale, dar încercați să ajungeți dimineața devreme pentru a evita căldura și aglomerația.",
+            "en": "Get up close with thousands of crocodiles and enjoy various animal shows, but try to arrive early in the morning to beat the heat and the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Thong Kong",
+            "hu": "Wat Thong Kong",
+            "ro": "Wat Thong Kong",
+            "en": "Wat Thong Kong"
+          },
+          "coords": [
+            100.595616,
+            13.574161
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen in diesem kleinen, ruhigen Tempel, der sich perfekt für eine kurze Meditation oder einen Spaziergang über das Gelände eignet.",
+            "hu": "Meneküljön el a tömeg elől ebbe a kis, nyugodt templomba, amely tökéletes egy rövid meditációhoz vagy egy csendes sétához a békés területén.",
+            "ro": "Scăpați de aglomerație în acest templu mic și senin, perfect pentru o scurtă meditație sau o plimbare liniștită prin curțile sale pline de pace.",
+            "en": "Escape the crowds at this small, serene temple that offers a peaceful retreat, perfect for a short meditation or a quiet stroll through its tranquil grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Traimit Wararam",
+            "hu": "Wat Traimit Wararam",
+            "ro": "Wat Traimit Wararam",
+            "en": "Wat Traimit Wararam"
+          },
+          "coords": [
+            100.577922,
+            13.5815
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die thailändische Tempelarchitektur in der Nähe des Flussufers und nehmen Sie sich Zeit für die Schnitzereien, die von buddhistischen Lehren erzählen.",
+            "hu": "Csodálja meg a gyönyörű thai templomépítészetet a folyópart közelében, és szánjon időt az ősi buddhista tanításokat elbeszélő bonyolult fafaragásokra.",
+            "ro": "Minunați-vă de frumoasa arhitectură a templului thailandez de lângă râu, luându-vă timp să admirați sculpturile complicate ce spun povești budiste străvechi.",
+            "en": "Marvel at the beautiful Thai temple architecture near the riverbanks, taking time to admire the intricate carvings that tell stories of ancient Buddhist teachings."
+          }
+        },
+        {
+          "name": {
+            "de": "Phi Suea Samut Festung",
+            "hu": "Phi Suea Samut Erőd",
+            "ro": "Fortul Phi Suea Samut",
+            "en": "Phi Suea Samut Fort"
+          },
+          "coords": [
+            100.587555,
+            13.595354
+          ],
+          "category": "fortress",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieser Inselfestung ein, die einst die Flussmündung bewachte, und tragen Sie bequeme Schuhe, um die alten Geschützstellungen zu erkunden.",
+            "hu": "Lépjen vissza az időben ennél a sziget-erődnél, amely egykor a folyótorkolatot védte, és viseljen kényelmes cipőt a történelmi ágyúállások felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această fortăreață insulară care păzea gura râului, purtând încălțăminte comodă pentru a explora ușor vechile amplasamente de tunuri.",
+            "en": "Step back in time at this island fortress that once guarded the river mouth, wearing comfortable walking shoes to easily explore its historic gun emplacements."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Samut Chedi",
+            "hu": "Wat Phra Samut Chedi",
+            "ro": "Wat Phra Samut Chedi",
+            "en": "Wat Phra Samut Chedi"
+          },
+          "coords": [
+            100.584805,
+            13.600039
+          ],
+          "category": "religious",
+          "arrive_at": "16:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese weiße Stupa, die einst auf einer Insel stand, und nehmen Sie die Fähre für ein absolut authentisches und lokales Transporterlebnis.",
+            "hu": "Látogasson el ehhez a történelmi fehér sztúpához, és próbálja ki a kompozást a folyón, amely egy igazán autentikus és helyi utazási élményt nyújt.",
+            "ro": "Vizitați această stupă albă care istoric se afla pe o insulă și luați feribotul peste râu pentru o experiență de transport local cu adevărat autentică.",
+            "en": "Visit this iconic white stupa that historically stood on an island in the river, and catch the ferry across for a truly authentic local transport experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt am Observation Tower, bevor es ins ländliche Umland zum Wat Bang Ping geht. Der späte Vormittag bietet einen Stopp im örtlichen Museum. Der Nachmittag ist voller Spannung auf der Krokodilfarm, gefolgt von Kontemplation im Wat Thong Kong. Beenden Sie Ihre Reise mit der Erkundung des historischen Phi Suea Samut Forts und des ikonischen Wat Phra Samut Chedi.",
+        "hu": "Utazása a magasba törő Kilátótoronynál kezdődik, majd a Wat Bang Ping vidékies környéke felé veszi az irányt. Késő délelőtt a helyi múzeum nyújt kulturális élményt. A délután izgalmakat tartogat a krokodilfarmon, majd csendes elmélkedést a Wat Thong Kongnál. Zárja hosszú utazását a történelmi Phi Suea Samut Erőd és az ikonikus Wat Phra Samut Chedi felfedezésével.",
+        "ro": "Plimbarea cu mașina începe la Turnul de Observație înainte de a vă îndrepta spre Wat Bang Ping. Dimineața târziu include o oprire la muzeul local. După-amiaza este plină de entuziasm la Ferma de Crocodili, urmată de contemplare liniștită la Wat Thong Kong. Încheiați-vă călătoria explorând Fortul istoric Phi Suea Samut și emblematicul Wat Phra Samut Chedi.",
+        "en": "Your drive starts at the soaring Samut Prakan Observation Tower before heading to the rural outskirts to see Wat Bang Ping. Late morning features a fascinating stop at the local museum to uncover regional heritage. The afternoon is filled with excitement at the Samutprakarn Crocodile Farm, followed by quiet contemplation at Wat Thong Kong and Wat Traimit Wararam. Conclude your extensive journey by exploring the historic Phi Suea Samut Fort and the iconic Wat Phra Samut Chedi."
+      }
+    }
+  }
+}

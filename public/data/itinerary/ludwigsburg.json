@@ -1,0 +1,474 @@
+{
+  "city_id": "ludwigsburg",
+  "anchor": {
+    "name": "Ludwigsburg",
+    "coords": [
+      9.1919,
+      48.8975
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.191919,
+            48.897579
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
+            "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
+            "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludwigsburg Museum",
+            "hu": "Ludwigsburg Múzeum",
+            "ro": "Muzeul Ludwigsburg",
+            "en": "Ludwigsburg Museum"
+          },
+          "coords": [
+            9.1927,
+            48.8963
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche kulturelle und königliche Geschichte der Region in diesem modernen Museum, das die Gründung der Stadt nahtlos mit ihrer barocken Architektur verbindet.",
+            "hu": "Fedezze fel a régió gazdag kulturális és királyi történelmét ebben a modern múzeumban, amely zökkenőmentesen köti össze a város alapítását a nagyszerű barokk építészettel.",
+            "ro": "Descoperiți istoria culturală și regală bogată a regiunii în acest muzeu modern, care conectează perfect fondarea orașului de arhitectura sa barocă grandioasă.",
+            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Ludwigsburg",
+            "hu": "Ludwigsburgi kastély",
+            "ro": "Palatul Rezidențial Ludwigsburg",
+            "en": "Ludwigsburg Residential Palace"
+          },
+          "coords": [
+            9.195833,
+            48.9
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
+            "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
+            "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Blühendes Barock",
+            "hu": "Virágzó Barokk Kertek",
+            "ro": "Grădinile Baroce Înflorite",
+            "en": "Blooming Baroque Gardens"
+          },
+          "coords": [
+            9.19583,
+            48.9
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese weitläufigen, lebendigen historischen Gärten und achten Sie auf die saisonalen Blumenarrangements, wobei Sie Wochenenden meiden sollten.",
+            "hu": "Sétáljon végig ezeken a hatalmas, élettel teli történelmi kerteken, figyelje a szezonális virágkiállításokat, és kerülje a hétvégéket a legnagyobb tömeg elkerülése érdekében.",
+            "ro": "Plimbați-vă prin aceste grădini istorice întinse și vibrante, urmărind aranjamentele florale de sezon și evitând weekendurile pentru a scăpa de cele mai mari aglomerații.",
+            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Märchengarten",
+            "hu": "Mesekert",
+            "ro": "Grădina Basmelor",
+            "en": "Fairy Tale Garden"
+          },
+          "coords": [
+            9.198917,
+            48.901806
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfreuen Sie Ihr inneres Kind in dieser märchenhaften, nostalgischen Attraktion, für deren interaktive mechanische Darstellungen Sie ein paar Münzen mitbringen sollten.",
+            "hu": "Szerezzen örömet belső gyermekének ebben a varázslatos, nosztalgikus látványosságban, és hozzon magával aprópénzt az interaktív mechanikus figurák beindításához.",
+            "ro": "Încântați-vă copilul interior în această atracție nostalgică ce dă viață poveștilor clasice și aduceți câteva monede pentru a activa afișajele mecanice interactive.",
+            "en": "Delight your inner child in this whimsical, nostalgic attraction that brings classic stories to life, and bring some coins to activate the interactive mechanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Favorite",
+            "hu": "Favorite kastély",
+            "ro": "Palatul Favorite",
+            "en": "Favorite Palace"
+          },
+          "coords": [
+            9.19556,
+            48.9044
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
+            "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
+            "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am lebhaften Marktplatz und genießen Sie die barocke Symmetrie, bevor Sie das Ludwigsburg Museum besuchen, um die königlichen Ursprünge der Stadt zu verstehen.\n\nDer Mittag entfaltet sich am prächtigen Residenzschloss Ludwigsburg, gefolgt von einem farbenfrohen Spaziergang durch die ausgedehnten Gärten des Blühenden Barocks.\n\nWecken Sie Kindheitserinnerungen im Märchengarten, wo animierte Dioramen in einer üppigen Umgebung Besucher jeden Alters verzaubern.\n\nBeenden Sie Ihren Spaziergang am Lustschloss Favorite und genießen Sie die ruhige Waldkulisse, während die Abendsonne die Fassade in goldenes Licht taucht.",
+        "hu": "Kezdje a nyüzsgő Piactéren a barokk szimmetria megcsodálásával, majd látogasson el a Ludwigsburg Múzeumba a királyi város eredetének megismeréséhez.\n\nA dél a lenyűgöző Ludwigsburgi kastélynál folytatódik, amelyet egy színpompás séta követ a kiterjedt Virágzó Barokk Kertekben.\n\nÉbressze fel gyermekkori emlékeit a Mesekertben, ahol a megelevenedő diorámák buja környezetben varázsolnak el minden korosztályt.\n\nZárja sétáját a Favorite kastélynál, és élvezze a békés erdei környezetet, miközben az esti naplemente aranyló fénnyel világítja meg a homlokzatot.",
+        "ro": "Începeți în Piața Centrală plină de viață, admirând simetria barocă, înainte de a vizita Muzeul Ludwigsburg pentru a înțelege originile orașului regal.\n\nAmiaza se desfășoară la magnificul Palat Rezidențial Ludwigsburg, urmată de o plimbare plină de culoare prin Grădinile Baroce Înflorite.\n\nReconectați-vă cu nostalgia copilăriei la Grădina Basmelor, unde dioramele animate captivează vizitatorii de toate vârstele într-un cadru luxuriant.\n\nÎncheiați-vă plimbarea la Palatul Favorite, bucurându-vă de împrejurimile liniștite ale parcului forestier, în timp ce soarele de seară scaldă fațada în nuanțe aurii.",
+        "en": "Start at the lively Market Square, taking in the Baroque symmetry before heading to the Ludwigsburg Museum to understand the royal city's origins.\n\nThe midday unfolds at the magnificent Ludwigsburg Residential Palace, followed by a vibrant walk through the extensive Blooming Baroque Gardens.\n\nReconnect with childhood nostalgia at the Fairy Tale Garden, where animated dioramas captivate visitors of all ages in a lush setting.\n\nConclude your walk at the Favorite Palace, enjoying the serene forest park surroundings as the evening sun casts golden hues on the grand facade."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.191919,
+            48.897579
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
+            "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
+            "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Ludwigsburg",
+            "hu": "Ludwigsburgi kastély",
+            "ro": "Palatul Rezidențial Ludwigsburg",
+            "en": "Ludwigsburg Residential Palace"
+          },
+          "coords": [
+            9.195833,
+            48.9
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
+            "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
+            "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Blühendes Barock",
+            "hu": "Virágzó Barokk Kertek",
+            "ro": "Grădinile Baroce Înflorite",
+            "en": "Blooming Baroque Gardens"
+          },
+          "coords": [
+            9.19583,
+            48.9
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese weitläufigen, lebendigen historischen Gärten und achten Sie auf die saisonalen Blumenarrangements, wobei Sie Wochenenden meiden sollten.",
+            "hu": "Sétáljon végig ezeken a hatalmas, élettel teli történelmi kerteken, figyelje a szezonális virágkiállításokat, és kerülje a hétvégéket a legnagyobb tömeg elkerülése érdekében.",
+            "ro": "Plimbați-vă prin aceste grădini istorice întinse și vibrante, urmărind aranjamentele florale de sezon și evitând weekendurile pentru a scăpa de cele mai mari aglomerații.",
+            "en": "Stroll through these expansive, vibrant historical gardens, keeping an eye out for the seasonal floral displays and avoiding weekends to escape the biggest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Favorite",
+            "hu": "Favorite kastély",
+            "ro": "Palatul Favorite",
+            "en": "Favorite Palace"
+          },
+          "coords": [
+            9.19556,
+            48.9044
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
+            "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
+            "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeschloss Monrepos",
+            "hu": "Monrepos tóparti kastély",
+            "ro": "Palatul de pe lac Monrepos",
+            "en": "Monrepos Lakeside Palace"
+          },
+          "coords": [
+            9.16944,
+            48.9197
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen See bei diesem Rokoko-Meisterwerk, wo das Mieten eines kleinen Ruderboots die malerischsten Ausblicke auf die Schlossfassade vom Wasser aus bietet.",
+            "hu": "Pihenjen a csendes tó partján ennél a rokokó remekműnél, ahol egy csónak bérlése kínálja a legjobb és legfestőibb kilátást a kastély homlokzatára a vízről.",
+            "ro": "Relaxați-vă lângă lacul liniștit la această capodoperă rococo, unde închirierea unei mici bărci cu vâsle oferă cele mai pitorești vederi ale fațadei de pe apă.",
+            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Simigolf",
+            "hu": "Simigolf",
+            "ro": "Simigolf",
+            "en": "Simigolf"
+          },
+          "coords": [
+            9.146838,
+            48.907443
+          ],
+          "category": "family",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unbeschwerte Pause mit der Familie auf dieser gepflegten Minigolfanlage, die ein unterhaltsames Wettbewerbselement und eine tolle Möglichkeit zum Entspannen bietet.",
+            "hu": "Élvezze a könnyed kikapcsolódást a családdal ezen a jól karbantartott minigolfpályán, amely szórakoztató versenyszellemet és remek kikapcsolódást kínál a délutáni napsütésben.",
+            "ro": "Bucurați-vă de o pauză veselă alături de familie la acest teren de minigolf bine întreținut, oferind un element competitiv distractiv și o modalitate excelentă de relaxare.",
+            "en": "Enjoy a lighthearted break with the family at this well-maintained minigolf course, offering a fun competitive element and a great way to unwind in the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum belebten Marktplatz für einen schnellen Kaffee und fahren Sie dann bequem zum prächtigen Residenzschloss Ludwigsburg für eine inspirierende Führung.\n\nSteigen Sie vom Fahrrad, um durch das Blühende Barock zu schlendern und die farbenfrohe Blumenpracht sowie die wunderschön angelegten königlichen Gärten auf sich wirken zu lassen.\n\nGenießen Sie eine luftige Fahrt zum Schloss Favorite und setzen Sie Ihren Weg zum idyllischen Seeschloss Monrepos fort, das malerische Ausblicke auf das Wasser bietet.\n\nLassen Sie Ihren aktiven Tag mit einer spaßigen, entspannenden Runde Minigolf bei Simigolf ausklingen und nutzen Sie das verbleibende Abendlicht optimal aus.",
+        "hu": "Tekerjen el a nyüzsgő Piactérre egy gyors kávéra, majd kényelmesen biciklizzen át a lenyűgöző Ludwigsburgi kastélyhoz egy inspiráló tárlatvezetésre.\n\nSzálljon le a kerékpárról, hogy sétáljon egyet a Virágzó Barokk Kertekben, elmerülve az élénk virágkompozíciók és a gyönyörűen parkosított királyi birtok látványában.\n\nÉlvezze a kellemes utazást a Favorite kastélyhoz, majd folytassa útját az idilli Monrepos tóparti kastély felé, amely festői vízparti kilátást nyújt.\n\nZárja aktív napját egy vidám, pihentető minigolfozással a Simigolfnál, kihasználva a kellemes kora esti napfényt.",
+        "ro": "Pedalați spre Piața Centrală aglomerată pentru o cafea rapidă, apoi mergeți ușor către grandiosul Palat Rezidențial Ludwigsburg pentru un tur ghidat captivant.\n\nCoborâți de pe bicicletă pentru a vă plimba prin Grădinile Baroce Înflorite, bucurându-vă de aranjamentele florale vibrante și de terenurile regale frumos amenajate.\n\nBucurați-vă de o plimbare răcoroasă până la Palatul Favorite, apoi continuați-vă călătoria către idilicul Palat Monrepos pentru vederi pitorești la malul apei.\n\nÎncheiați-vă ziua activă cu o rundă distractivă și relaxantă de minigolf la Simigolf, profitând la maximum de lumina plăcută a serii.",
+        "en": "Cycle to the bustling Market Square for a quick coffee, then easily pedal over to the grand Ludwigsburg Residential Palace for an inspiring historical tour.\n\nHop off the bike to wander through the Blooming Baroque Gardens, soaking in the vibrant floral displays and beautifully landscaped royal grounds.\n\nEnjoy a breezy ride to the Favorite Palace, then continue your journey towards the idyllic Monrepos Lakeside Palace for scenic waterside views.\n\nWrap up your active day with a fun, relaxing round of minigolf at Simigolf, making the most of the lingering evening daylight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 12.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ludwigsburg Museum",
+            "hu": "Ludwigsburg Múzeum",
+            "ro": "Muzeul Ludwigsburg",
+            "en": "Ludwigsburg Museum"
+          },
+          "coords": [
+            9.1927,
+            48.8963
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche kulturelle und königliche Geschichte der Region in diesem modernen Museum, das die Gründung der Stadt nahtlos mit ihrer barocken Architektur verbindet.",
+            "hu": "Fedezze fel a régió gazdag kulturális és királyi történelmét ebben a modern múzeumban, amely zökkenőmentesen köti össze a város alapítását a nagyszerű barokk építészettel.",
+            "ro": "Descoperiți istoria culturală și regală bogată a regiunii în acest muzeu modern, care conectează perfect fondarea orașului de arhitectura sa barocă grandioasă.",
+            "en": "Uncover the rich cultural and royal history of the region in this modern museum, which seamlessly connects the founding of the city to its grand baroque architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            9.191919,
+            48.897579
+          ],
+          "category": "civic",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die elegante Atmosphäre dieses bürgerlichen Zentrums mit seinen zwei Kirchen, das von Arkaden im italienischen Stil umrahmt wird, ideal für eine kurze Kaffeepause.",
+            "hu": "Élvezze a város ikertemplomos polgári szívének elegáns hangulatát, amelyet olasz stílusú árkádok öveznek, tökéletes helyszínt nyújtva egy gyors kávészünethez.",
+            "ro": "Bucurați-vă de atmosfera elegantă a acestei inimi civice cu două biserici a orașului, încadrată perfect de arcade în stil italian, ideale pentru o scurtă pauză de cafea.",
+            "en": "Soak in the elegant atmosphere of this twin-churched civic heart of the city, perfectly framed by Italian-style arcades that are ideal for a quick coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Residenzschloss Ludwigsburg",
+            "hu": "Ludwigsburgi kastély",
+            "ro": "Palatul Rezidențial Ludwigsburg",
+            "en": "Ludwigsburg Residential Palace"
+          },
+          "coords": [
+            9.195833,
+            48.9
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eines der größten erhaltenen Barockschlösser Deutschlands, wo Sie früh eintreffen sollten, um sich einen Platz bei der faszinierenden Innenführung zu sichern.",
+            "hu": "Fedezze fel Németország egyik legnagyobb fennmaradt barokk kastélyát, ahová érdemes korán érkezni, hogy biztosítson magának helyet a lenyűgöző belső tárlatvezetésen.",
+            "ro": "Explorați unul dintre cele mai mari palate baroce supraviețuitoare din Germania, unde ar trebui să ajungeți devreme pentru a vă asigura un loc la fascinantul tur ghidat al interiorului.",
+            "en": "Explore one of Germany's largest surviving Baroque palaces, where you should arrive early to secure a spot on the fascinating guided interior tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Favorite",
+            "hu": "Favorite kastély",
+            "ro": "Palatul Favorite",
+            "en": "Favorite Palace"
+          },
+          "coords": [
+            9.19556,
+            48.9044
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante Jagdschloss in einem ruhigen Park und nehmen Sie sich Zeit für einen Spaziergang auf den Waldwegen, um Rehe zu beobachten.",
+            "hu": "Csodálja meg ezt a bájos vadászkastélyt egy békés parkban, és szánjon időt a környező erdei ösvények bejárására, ahol helyi őzeket is megfigyelhet.",
+            "ro": "Admirați această fermecătoare cabană de vânătoare dintr-un parc liniștit, făcând o plimbare pe potecile forestiere din jur pentru a observa căprioarele locale.",
+            "en": "Admire this charming hunting lodge set within a peaceful park, taking time to walk the surrounding forested paths to spot local wildlife like roaming deer."
+          }
+        },
+        {
+          "name": {
+            "de": "Seeschloss Monrepos",
+            "hu": "Monrepos tóparti kastély",
+            "ro": "Palatul de pe lac Monrepos",
+            "en": "Monrepos Lakeside Palace"
+          },
+          "coords": [
+            9.16944,
+            48.9197
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen See bei diesem Rokoko-Meisterwerk, wo das Mieten eines kleinen Ruderboots die malerischsten Ausblicke auf die Schlossfassade vom Wasser aus bietet.",
+            "hu": "Pihenjen a csendes tó partján ennél a rokokó remekműnél, ahol egy csónak bérlése kínálja a legjobb és legfestőibb kilátást a kastély homlokzatára a vízről.",
+            "ro": "Relaxați-vă lângă lacul liniștit la această capodoperă rococo, unde închirierea unei mici bărci cu vâsle oferă cele mai pitorești vederi ale fațadei de pe apă.",
+            "en": "Relax by the serene lake at this rococo masterpiece, where renting a small rowboat offers the best, most picturesque views of the palace facade from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Evangelische Stadtkirche",
+            "hu": "Evangélikus Városi Templom",
+            "ro": "Biserica Evanghelică a Orașului",
+            "en": "Evangelical City Church"
+          },
+          "coords": [
+            9.14376,
+            48.9984
+          ],
+          "category": "religious",
+          "arrive_at": "15:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit zur stillen Einkehr in diesem markanten historischen Kirchengebäude und bewundern Sie die dezenten architektonischen Details.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a lenyűgöző történelmi templomban, értékelve a visszafogott, megnyugtató építészeti részleteket.",
+            "ro": "Luați-vă un moment de reflecție liniștită în această biserică istorică impresionantă, apreciind detaliile sale arhitecturale discrete și atmosfera calmă.",
+            "en": "Take a moment for quiet reflection in this striking historical church building, appreciating its understated architectural details that contrast with the nearby palaces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem ins Stadtzentrum und beginnen Sie mit der reichen Geschichte im Ludwigsburg Museum, gefolgt von einem kurzen Spaziergang über den eleganten Marktplatz.\n\nParken Sie in der Nähe des monumentalen Residenzschlosses Ludwigsburg, um seine großen Säle zu erkunden, und fahren Sie dann unkompliziert zum nahen Schloss Favorite.\n\nEine kurze, malerische Fahrt bringt Sie zum atemberaubenden Seeschloss Monrepos, wo Sie sich die Beine vertreten und die ruhigen Wasserspiegelungen bewundern können.\n\nBeenden Sie den Tag mit einer Fahrt in die nördlichen Außenbezirke und finden Sie friedliche Besinnung in der historischen Evangelischen Stadtkirche, bevor Sie heimkehren.",
+        "hu": "Vezessen kényelmesen a városközpontba, és kezdje a napot a Ludwigsburg Múzeum gazdag történelmével, majd tegyen egy rövid sétát az elegáns Piactéren.\n\nParkoljon le a monumentális Ludwigsburgi kastély közelében, fedezze fel hatalmas termeit, majd vezessen át a közeli Favorite kastélyhoz.\n\nEgy rövid, festői autózás elviszi a lenyűgöző Monrepos tóparti kastélyhoz, ahol kinyújtóztathatja végtagjait és megcsodálhatja a csendes tó tükröződéseit.\n\nZárja a napot egy autózással az északi külvárosba, ahol békés elmélyülést talál a történelmi Evangélikus Városi Templomban a hazatérés előtt.",
+        "ro": "Conduceți ușor spre centrul orașului, începând cu istoria bogată a Muzeului Ludwigsburg, urmată de o scurtă plimbare prin Piața Centrală elegantă.\n\nParcați lângă monumentalul Palat Rezidențial Ludwigsburg pentru a explora sălile sale grandioase, apoi conduceți rapid la Palatul Favorite din apropiere.\n\nUn scurt drum pitoresc vă duce la uimitorul Palat Monrepos, unde vă puteți dezmorți picioarele și admira reflexiile liniștite ale apei.\n\nÎncheiați ziua cu o plimbare spre periferia nordică, găsind momente de reflecție pașnică la istorica Biserică Evanghelică a Orașului înainte de a pleca acasă.",
+        "en": "Drive smoothly into the city center, starting with the Ludwigsburg Museum's rich history, followed by a quick stroll across the elegant Market Square.\n\nPark near the monumental Ludwigsburg Residential Palace to explore its grand halls, then easily drive over to the beautifully situated Favorite Palace.\n\nA short scenic drive takes you to the stunning Monrepos Lakeside Palace, where you can stretch your legs and admire the serene water reflections.\n\nFinish the day with a drive to the northern outskirts, finding peaceful reflection at the historic Evangelical City Church before heading home."
+      }
+    }
+  }
+}

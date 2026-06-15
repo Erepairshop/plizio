@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-boiro-cities-v2",
+  "anchor": {
+    "name": "Boiro",
+    "coords": [
+      -8.89409,
+      42.66732
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Costadal",
+            "hu": "Praia do Costadal",
+            "ro": "Praia do Costadal",
+            "en": "Praia do Costadal"
+          },
+          "coords": [
+            -8.903697,
+            42.632522
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ruhigen Strand früh, um den unberührten Sand zu genießen und sich zu entspannen, bevor es voll wird.",
+            "hu": "Látogasson el erre a csendes strandra korán, hogy élvezze az érintetlen homokot, és pihenjen egyet, mielőtt a tömeg megérkezik.",
+            "ro": "Vizitați această plajă liniștită devreme pentru a vă bucura de nisipul imaculat, relaxându-vă înainte de a se aglomera.",
+            "en": "Visit this quiet beach early to enjoy the pristine sands, taking a moment to relax before it gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Agramuíña",
+            "hu": "Praia da Agramuíña",
+            "ro": "Praia da Agramuíña",
+            "en": "Praia da Agramuíña"
+          },
+          "coords": [
+            -8.902202,
+            42.635221
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein großartiger Ort für eine morgendliche Pause; bringen Sie einen kleinen Snack mit und genießen Sie die sanften Wellen abseits der Massen.",
+            "hu": "Remek hely egy délelőtti pihenőre; hozzon magával némi harapnivalót, és élvezze a lágy hullámokat a tömegtől távol.",
+            "ro": "Un loc excelent pentru o pauză dimineața; aduceți o gustare ușoară și bucurați-vă de valurile blânde departe de mulțimi.",
+            "en": "A great spot for a mid-morning rest; bring a light snack and enjoy the gentle waves away from the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Xardín",
+            "hu": "Praia Xardín",
+            "ro": "Praia Xardín",
+            "en": "Praia Xardín"
+          },
+          "coords": [
+            -8.898319,
+            42.640694
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bekannt für seine lebhafte Atmosphäre, ist dieser Strand perfekt für Familien, packen Sie also Ihr Handtuch ein und nutzen Sie die Einrichtungen.",
+            "hu": "Az élénk hangulatáról ismert strand tökéletes családok számára, ezért csomagolja be a törölközőjét, és élvezze a kiváló létesítményeket.",
+            "ro": "Cunoscută pentru atmosfera sa plină de viață, această plajă este perfectă pentru familii, așa că luați prosopul și bucurați-vă de facilități.",
+            "en": "Known for its lively atmosphere, this beach is perfect for families, so pack your beach towel and enjoy the excellent local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Barraña",
+            "hu": "Praia de Barraña",
+            "ro": "Praia de Barraña",
+            "en": "Praia de Barraña"
+          },
+          "coords": [
+            -8.888589,
+            42.639937
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der weitläufigen Promenade hier, aber denken Sie an bequeme Schuhe für die lange Strecke.",
+            "hu": "Tegyen egy kényelmes sétát a kiterjedt sétányon, de ne felejtsen el kényelmes cipőt viselni a hosszú távolság miatt.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul promenadei extinse de aici, dar nu uitați să purtați încălțăminte confortabilă pentru distanța lungă.",
+            "en": "Take a leisurely walk along the extensive promenade here, but remember to wear comfortable shoes for the long stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Saltiño",
+            "hu": "Praia do Saltiño",
+            "ro": "Praia do Saltiño",
+            "en": "Praia do Saltiño"
+          },
+          "coords": [
+            -8.878423,
+            42.636714
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bleiben Sie bis zum Abend, um einen spektakulären Sonnenuntergang über der Ria zu erleben; eine leichte Jacke ist wegen der kühlen Meeresbrise ratsam.",
+            "hu": "Maradjon estig, hogy szemtanúja legyen a látványos naplementének az öböl felett; ajánlott egy könnyű kabátot hozni a hűvös tengeri szellő miatt.",
+            "ro": "Rămâneți până seara pentru a asista la un apus spectaculos peste estuar; este recomandat să aduceți o jachetă ușoară din cauza brizei mării.",
+            "en": "Stay until the evening to witness a spectacular sunset over the ria; bringing a light jacket is advisable as the sea breeze cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Tag am ruhigen Praia do Costadal, genießen Sie die frühe Sonne, bevor ein kurzer Spaziergang Sie zum Praia da Agramuíña führt.\nMittags: Der Küstenpfad führt zum Praia Xardín, wo die lebhafte Atmosphäre und der goldene Sand den perfekten Ort für ein Picknick am Meer bieten.\nNachmittags: Gehen Sie weiter entlang der Küste zum Praia de Barraña und genießen Sie den Panoramablick auf die Flussmündung, während Sie über die Promenade spazieren.\nAbends: Beenden Sie die Tour am Praia do Saltiño und finden Sie ein ruhiges Plätzchen, um die Sonne über der malerischen galicischen Küste untergehen zu sehen.",
+        "hu": "Délelőtt: Kezdje a napot a csendes Praia do Costadalnál, élvezze a kora reggeli napot, mielőtt egy rövid sétával eléri a Praia da Agramuíña strandot.\nDélben: A parti ösvény a Praia Xardínhoz vezet, ahol a nyüzsgő hangulat és az aranyhomok tökéletes helyszínt biztosít egy tengerparti piknikhez.\nDélután: Folytassa útját a Praia de Barraña felé, és élvezze az öbölre nyíló panorámát, miközben végigsétál a kiterjedt és jól karbantartott sétányon.\nEste: Fejezze be a sétát a Praia do Saltiño strandnál, ahol egy csendes helyet találva nézheti végig a naplementét a festői galíciai partok felett.",
+        "ro": "Dimineața: Începeți ziua la plaja liniștită Praia do Costadal, bucurându-vă de soare înainte ca o scurtă plimbare să vă ducă la Praia da Agramuíña.\nPrânz: Cărarea de coastă duce la Praia Xardín, unde atmosfera vibrantă și nisipul auriu oferă locul perfect pentru un picnic pe malul mării.\nDupă-amiaza: Continuați de-a lungul țărmului spre Praia de Barraña, admirând vederile panoramice ale estuarului în timp ce vă plimbați pe faleză.\nSeara: Încheiați turul la Praia do Saltiño, găsind un loc liniștit pentru a privi apusul soarelui peste pitoreasca coastă galiciană.",
+        "en": "Morning: Start your day at the tranquil Praia do Costadal, enjoying the early sun and calm waters, before a short stroll takes you to Praia da Agramuíña for a refreshing mid-morning break.\nMidday: The coastal path leads to Praia Xardín where the vibrant atmosphere and golden sands offer the perfect setting for a seaside picnic or a quick swim in the calm bay.\nAfternoon: Continue along the shoreline to Praia de Barraña, taking in the panoramic views of the estuary while walking along its expansive and well-maintained promenade.\nEvening: Conclude the walking tour at Praia do Saltiño, finding a quiet spot to watch the sun dip below the horizon over the picturesque Galician coastline before heading back."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Area Basta",
+            "hu": "Praia de Area Basta",
+            "ro": "Praia de Area Basta",
+            "en": "Praia de Area Basta"
+          },
+          "coords": [
+            -8.846801,
+            42.665713
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radroute an diesem malerischen Ort und nehmen Sie sich einen Moment Zeit, um das ruhige Wasser vor der Weiterfahrt zu bewundern.",
+            "hu": "Kezdje kerékpáros útvonalát ezen a festői helyen, és szánjon egy pillanatot a nyugodt vizek megcsodálására, mielőtt tovább pedálozna.",
+            "ro": "Începeți traseul de ciclism în această locație pitorească și acordați-vă un moment pentru a admira apele liniștite înainte de a pedala mai departe.",
+            "en": "Start your cycling route at this picturesque location, and take a moment to admire the calm waters before pedaling onwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Basta",
+            "hu": "Area Basta",
+            "ro": "Area Basta",
+            "en": "Area Basta"
+          },
+          "coords": [
+            -8.852065,
+            42.658918
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie hier die natürliche Schönheit und den weicheren Sand; es wird empfohlen, eine Wasserflasche mitzubringen, um hydratisiert zu bleiben.",
+            "hu": "Élvezze a természetes szépséget és a puhább homokot itt; erősen ajánlott egy vizes palackot hozni a kerékpártúrán való hidratáltság megőrzéséhez.",
+            "ro": "Bucurați-vă de frumusețea naturală și de nisipul fin aici; este foarte recomandat să aduceți o sticlă cu apă pentru a rămâne hidratat pe bicicletă.",
+            "en": "Enjoy the natural beauty and softer sands here; it is highly recommended to bring a water bottle to stay hydrated on your bike trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Suaribeira",
+            "hu": "Suaribeira",
+            "ro": "Suaribeira",
+            "en": "Suaribeira"
+          },
+          "coords": [
+            -8.854514,
+            42.654653
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein großartiger Haltepunkt mit schöner Küstenflora, perfekt für eine kurze Pause und ein paar schnelle Fotos der wunderschönen galicischen Küste.",
+            "hu": "Kiváló megálló gyönyörű part menti növényzettel, tökéletes egy rövid pihenőhöz és néhány gyors fotóhoz a galíciai partról.",
+            "ro": "Un punct de oprire excelent, cu floră de coastă frumoasă, perfect pentru o scurtă odihnă și câteva fotografii ale coastei galiciene.",
+            "en": "A great stopping point with beautiful coastal flora, perfect for a short rest and some quick photography of the beautiful Galician coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -8.853853,
+            42.655748
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser etwas abgelegene Strand bietet einen friedlichen Rückzugsort, was ihn zu einem idealen Platz macht, um dem sanften Plätschern der Wellen zu lauschen.",
+            "hu": "Ez a kissé eldugott strand békés menedéket kínál, ideális hely arra, hogy leüljön és hallgassa a hullámok lágy csobogását.",
+            "ro": "Această plajă ușor retrasă oferă un refugiu liniștit, făcând-o un loc ideal pentru a sta și a asculta susurul blând al valurilor.",
+            "en": "This slightly secluded beach offers a peaceful retreat, making it an ideal spot to sit and listen to the gentle lapping of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Bodión",
+            "hu": "Praia do Bodión",
+            "ro": "Praia do Bodión",
+            "en": "Praia do Bodión"
+          },
+          "coords": [
+            -8.860035,
+            42.648014
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die felsigen Aufschlüsse, die diesen Strand prägen, und halten Sie Ausschau nach interessanten Muscheln nahe der Wasserkante.",
+            "hu": "Csodálja meg a strandot jellemző sziklás kiemelkedéseket, és figyeljen az érdekes kagylókra és tengeri élőlényekre a vízpart közelében.",
+            "ro": "Admirați stâncile care caracterizează această plajă și căutați scoici interesante și viață marină în apropierea malului apei.",
+            "en": "Admire the rocky outcrops that characterize this beach, and watch out for interesting shells and marine life near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Saltiño",
+            "hu": "Praia do Saltiño",
+            "ro": "Praia do Saltiño",
+            "en": "Praia do Saltiño"
+          },
+          "coords": [
+            -8.878423,
+            42.636714
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bleiben Sie bis zum Abend, um einen spektakulären Sonnenuntergang über der Ria zu erleben; eine leichte Jacke ist wegen der kühlen Meeresbrise ratsam.",
+            "hu": "Maradjon estig, hogy szemtanúja legyen a látványos naplementének az öböl felett; ajánlott egy könnyű kabátot hozni a hűvös tengeri szellő miatt.",
+            "ro": "Rămâneți până seara pentru a asista la un apus spectaculos peste estuar; este recomandat să aduceți o jachetă ușoară din cauza brizei mării.",
+            "en": "Stay until the evening to witness a spectacular sunset over the ria; bringing a light jacket is advisable as the sea breeze cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihr Radabenteuer am Praia de Area Basta, genießen Sie die frische Meeresbrise und radeln Sie dann südwärts zum schönen Area Basta.\nMittags: Eine kurze Fahrt bringt Sie nach Suaribeira und zum Praia da Arnela, zwei benachbarte Strände, an denen Sie eine wohlverdiente Pause einlegen können.\nNachmittags: Radeln Sie weiter zum Praia do Bodión und genießen Sie die sanften Kurven der Küstenroute sowie die Aussicht auf die glitzernde Ría de Arousa.\nAbends: Beenden Sie Ihre Fahrt am Praia do Saltiño, wo Sie am Wasser entspannen und einen perfekten Tag an der Küste ausklingen lassen können.",
+        "hu": "Délelőtt: Kezdje kerékpáros kalandját a Praia de Area Bastánál, élvezze a friss tengeri szellőt, majd tekerjen dél felé a gyönyörű Area Basta felé.\nDélben: Egy rövid út után elérkezik a Suaribeira és a Praia da Arnela strandokhoz, ahol megérdemelt pihenőt tarthat, és talán egy frissítő csobbanást is tehet.\nDélután: Tekerjen tovább a Praia do Bodión felé, élvezve a part menti útvonal szelíd íveit és a napfényben szikrázó Ría de Arousa látványát.\nEste: Fejezze be az utat a Praia do Saltiño strandnál, ahol a vízparton pihenhet, és visszagondolhat erre a tökéletes tengerparti napra.",
+        "ro": "Dimineața: Începeți aventura pe bicicletă la Praia de Area Basta, bucurându-vă de briza mării, apoi pedalați spre sud către frumoasa zonă Area Basta.\nPrânz: O scurtă plimbare vă aduce la Suaribeira și Praia da Arnela, două plaje adiacente unde puteți lua o pauză bine meritată.\nDupă-amiaza: Pedalați mai departe spre Praia do Bodión, bucurându-vă de curbele line ale rutei de coastă și de priveliștile superbe ale estuarului Ría de Arousa.\nSeara: Terminați plimbarea la Praia do Saltiño, unde vă puteți relaxa la marginea apei și reflecta asupra unei zile perfecte de ciclism de coastă.",
+        "en": "Morning: Begin your cycling adventure at Praia de Area Basta, enjoying the fresh sea breeze, then pedal southwards to the beautiful stretch of Area Basta for more stunning views.\nMidday: A short ride brings you to Suaribeira and Praia da Arnela, two lovely adjacent beaches where you can take a well-deserved break and perhaps a quick, refreshing dip.\nAfternoon: Cycle onwards to Praia do Bodión, enjoying the gentle curves of the coastal route and the consistent, beautiful sights of the Ría de Arousa sparkling in the sun.\nEvening: Finish your ride at Praia do Saltiño, where you can relax by the water's edge and reflect on a perfect day of coastal cycling before returning to the town center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Costadal",
+            "hu": "Praia do Costadal",
+            "ro": "Praia do Costadal",
+            "en": "Praia do Costadal"
+          },
+          "coords": [
+            -8.903697,
+            42.632522
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ruhigen Strand früh, um den unberührten Sand zu genießen und sich zu entspannen, bevor es voll wird.",
+            "hu": "Látogasson el erre a csendes strandra korán, hogy élvezze az érintetlen homokot, és pihenjen egyet, mielőtt a tömeg megérkezik.",
+            "ro": "Vizitați această plajă liniștită devreme pentru a vă bucura de nisipul imaculat, relaxându-vă înainte de a se aglomera.",
+            "en": "Visit this quiet beach early to enjoy the pristine sands, taking a moment to relax before it gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Xardín",
+            "hu": "Praia Xardín",
+            "ro": "Praia Xardín",
+            "en": "Praia Xardín"
+          },
+          "coords": [
+            -8.898319,
+            42.640694
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bekannt für seine lebhafte Atmosphäre, ist dieser Strand perfekt für Familien, packen Sie also Ihr Handtuch ein und nutzen Sie die Einrichtungen.",
+            "hu": "Az élénk hangulatáról ismert strand tökéletes családok számára, ezért csomagolja be a törölközőjét, és élvezze a kiváló létesítményeket.",
+            "ro": "Cunoscută pentru atmosfera sa plină de viață, această plajă este perfectă pentru familii, așa că luați prosopul și bucurați-vă de facilități.",
+            "en": "Known for its lively atmosphere, this beach is perfect for families, so pack your beach towel and enjoy the excellent local facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Barraña",
+            "hu": "Praia de Barraña",
+            "ro": "Praia de Barraña",
+            "en": "Praia de Barraña"
+          },
+          "coords": [
+            -8.888589,
+            42.639937
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der weitläufigen Promenade hier, aber denken Sie an bequeme Schuhe für die lange Strecke.",
+            "hu": "Tegyen egy kényelmes sétát a kiterjedt sétányon, de ne felejtsen el kényelmes cipőt viselni a hosszú távolság miatt.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul promenadei extinse de aici, dar nu uitați să purtați încălțăminte confortabilă pentru distanța lungă.",
+            "en": "Take a leisurely walk along the extensive promenade here, but remember to wear comfortable shoes for the long stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Bodión",
+            "hu": "Praia do Bodión",
+            "ro": "Praia do Bodión",
+            "en": "Praia do Bodión"
+          },
+          "coords": [
+            -8.860035,
+            42.648014
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die felsigen Aufschlüsse, die diesen Strand prägen, und halten Sie Ausschau nach interessanten Muscheln nahe der Wasserkante.",
+            "hu": "Csodálja meg a strandot jellemző sziklás kiemelkedéseket, és figyeljen az érdekes kagylókra és tengeri élőlényekre a vízpart közelében.",
+            "ro": "Admirați stâncile care caracterizează această plajă și căutați scoici interesante și viață marină în apropierea malului apei.",
+            "en": "Admire the rocky outcrops that characterize this beach, and watch out for interesting shells and marine life near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -8.853853,
+            42.655748
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieser etwas abgelegene Strand bietet einen friedlichen Rückzugsort, was ihn zu einem idealen Platz macht, um dem sanften Plätschern der Wellen zu lauschen.",
+            "hu": "Ez a kissé eldugott strand békés menedéket kínál, ideális hely arra, hogy leüljön és hallgassa a hullámok lágy csobogását.",
+            "ro": "Această plajă ușor retrasă oferă un refugiu liniștit, făcând-o un loc ideal pentru a sta și a asculta susurul blând al valurilor.",
+            "en": "This slightly secluded beach offers a peaceful retreat, making it an ideal spot to sit and listen to the gentle lapping of the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Area Basta",
+            "hu": "Praia de Area Basta",
+            "ro": "Praia de Area Basta",
+            "en": "Praia de Area Basta"
+          },
+          "coords": [
+            -8.846801,
+            42.665713
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radroute an diesem malerischen Ort und nehmen Sie sich einen Moment Zeit, um das ruhige Wasser vor der Weiterfahrt zu bewundern.",
+            "hu": "Kezdje kerékpáros útvonalát ezen a festői helyen, és szánjon egy pillanatot a nyugodt vizek megcsodálására, mielőtt tovább pedálozna.",
+            "ro": "Începeți traseul de ciclism în această locație pitorească și acordați-vă un moment pentru a admira apele liniștite înainte de a pedala mai departe.",
+            "en": "Start your cycling route at this picturesque location, and take a moment to admire the calm waters before pedaling onwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie zum südlichsten Punkt unserer Route, dem Praia do Costadal, für einen friedlichen Strandspaziergang, und dann weiter zum Praia Xardín.\nMittags: Kommen Sie am Praia de Barraña an, einem großen Strand mit hervorragenden Einrichtungen, wo Sie die lebhafte Atmosphäre der Küste genießen können.\nNachmittags: Fahren Sie etwas nördlich zum Praia do Bodión und zum Praia da Arnela und erkunden Sie die ruhigeren Orte entlang der Küste von Boiro.\nAbends: Parken Sie in der Nähe des Praia de Area Basta für Ihren letzten Halt und nehmen Sie sich Zeit, die friedliche Atmosphäre der Abenddämmerung zu genießen.",
+        "hu": "Délelőtt: Vezessen útvonalunk legdélibb pontjára, a Praia do Costadalra egy békés tengerparti sétára, majd egy rövid úttal érje el az élettel teli Praia Xardínt.\nDélben: Érkezzen meg a Praia de Barraña hatalmas strandjára, ahol kiváló létesítmények várják, és élvezheti a nyüzsgő hangulatot, valamint a tengerparti tájat.\nDélután: Utazzon kicsit északra a Praia do Bodión és a Praia da Arnela felé, hogy felfedezze Boiro partvidékének változatos és bájos, csendesebb pontjait.\nEste: Parkoljon le a Praia de Area Basta közelében az utolsó megállóhoz, hagyva elég időt arra, hogy elmerüljön a nyugodt esti hangulatban.",
+        "ro": "Dimineața: Conduceți spre cel mai sudic punct al rutei noastre, Praia do Costadal, pentru o plimbare liniștită, apoi mergeți spre plaja animată Praia Xardín.\nPrânz: Ajungeți la Praia de Barraña, o plajă mare și populară cu facilități excelente, unde vă puteți bucura de atmosfera vibrantă și de peisaj.\nDupă-amiaza: Conduceți ușor spre nord până la Praia do Bodión și apoi Praia da Arnela, explorând coasta diversă și locurile mai liniștite din Boiro.\nSeara: Parcați lângă Praia de Area Basta pentru ultima oprire, acordându-vă mult timp pentru a savura atmosfera liniștită odată cu lăsarea serii.",
+        "en": "Morning: Drive to the southernmost point of our route, Praia do Costadal, to begin your day with a peaceful beach walk, then take a short drive to the lively Praia Xardín.\nMidday: Arrive at Praia de Barraña, a large and popular beach with excellent facilities where you can enjoy the bustling atmosphere and stunning coastal scenery.\nAfternoon: Drive slightly north to Praia do Bodión and then Praia da Arnela, exploring the diverse coastline and the charming, quieter spots along the Boiro shore.\nEvening: Park near Praia de Area Basta for your final stop, allowing yourself plenty of time to soak in the tranquil atmosphere as evening falls over the beautiful estuary."
+      }
+    }
+  }
+}

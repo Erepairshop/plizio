@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-figueres-cities-v2",
+  "anchor": {
+    "name": "Figueres",
+    "coords": [
+      2.96163,
+      42.26645
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de l'Electricitat",
+            "hu": "Museu de l'Electricitat",
+            "ro": "Museu de l'Electricitat",
+            "en": "Museu de l'Electricitat"
+          },
+          "coords": [
+            2.960137,
+            42.265347
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Elektrifizierung im Museu de l'Electricitat und sichern Sie sich Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a villamosítás izgalmas történetét a Museu de l'Electricitat múzeumban, és érdemes előre, online megváltani a jegyét.",
+            "ro": "Descoperiți istoria fascinantă a electrificării la Museu de l'Electricitat și asigurați-vă că vă cumpărați biletele online în avans pentru a evita cozile.",
+            "en": "Discover the fascinating history of electrification at the Museu de l'Electricitat, and be sure to book your tickets online in advance to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cate",
+            "hu": "La Cate",
+            "ro": "La Cate",
+            "en": "La Cate"
+          },
+          "coords": [
+            2.956826,
+            42.268214
+          ],
+          "category": "cultural",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in La Cate, einem wichtigen kulturellen Zentrum der Stadt, und informieren Sie sich über das aktuelle Veranstaltungsprogramm.",
+            "hu": "Tapasztalja meg a helyi kultúrát a La Cate kulturális központban, és mindenképpen tájékozódjon az aktuális programokról az érkezés előtt.",
+            "ro": "Experimentați cultura locală la La Cate, un centru cultural important al orașului, și verificați programul evenimentelor actuale înainte de vizită.",
+            "en": "Experience local culture at La Cate, a key cultural center of the city, and check their current event schedule before you arrive to catch a performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Piscina municipal",
+            "ro": "Piscina municipal",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            2.952589,
+            42.268842
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der Piscina municipal und bringen Sie an heißen Sommertagen am besten eine eigene Flasche Wasser und ausreichend Sonnencreme mit.",
+            "hu": "Pihenjen a Piscina municipal medencéinél, és forró nyári napokon ne felejtsen el magával hozni egy üveg vizet és megfelelő naptejet.",
+            "ro": "Relaxați-vă la Piscina municipal și asigurați-vă că aduceți propria sticlă de apă și multă cremă de soare în zilele toride de vară.",
+            "en": "Relax at the Piscina municipal, and make sure to bring your own water bottle and plenty of sunscreen on hot summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Telegràfica del Castell de Sant Ferran",
+            "hu": "Torre Telegràfica del Castell de Sant Ferran",
+            "ro": "Torre Telegràfica del Castell de Sant Ferran",
+            "en": "Torre Telegràfica del Castell de Sant Ferran"
+          },
+          "coords": [
+            2.948393,
+            42.272319
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Torre Telegràfica del Castell de Sant Ferran und tragen Sie bequeme Schuhe für den kurzen Spaziergang zu diesem Aussichtspunkt.",
+            "hu": "Csodálja meg a történelmi Torre Telegràfica del Castell de Sant Ferran tornyot, és viseljen kényelmes cipőt az ezen kilátóhoz vezető rövid sétához.",
+            "ro": "Admirați istoricul Torre Telegràfica del Castell de Sant Ferran și purtați încălțăminte confortabilă pentru scurta plimbare către acest punct de belvedere.",
+            "en": "Marvel at the historical Torre Telegràfica del Castell de Sant Ferran, and wear comfortable walking shoes for the short stroll up to this viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluard Sant Narcís",
+            "hu": "Baluard Sant Narcís",
+            "ro": "Baluard Sant Narcís",
+            "en": "Baluard Sant Narcís"
+          },
+          "coords": [
+            2.949886,
+            42.272987
+          ],
+          "category": "natural",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht vom Baluard Sant Narcís und vergessen Sie Ihre Kamera nicht, um die großartige Weitsicht über das Tal festzuhalten.",
+            "hu": "Élvezze a lélegzetelállító kilátást a Baluard Sant Narcís bástyáról, és ne hagyja otthon a fényképezőgépét a völgyre nyíló remek panoráma megörökítéséhez.",
+            "ro": "Bucurați-vă de vederea uluitoare de la Baluard Sant Narcís și nu uitați camera foto pentru a surprinde perspectiva superbă asupra văii.",
+            "en": "Enjoy the breathtaking views from Baluard Sant Narcís, and don't forget to bring your camera to capture the sweeping panoramas of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Ferran",
+            "hu": "Castell de Sant Ferran",
+            "ro": "Castell de Sant Ferran",
+            "en": "Castell de Sant Ferran"
+          },
+          "coords": [
+            2.946177,
+            42.273638
+          ],
+          "category": "landmark",
+          "arrive_at": "15:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gigantischen Festungsanlagen des Castell de Sant Ferran und buchen Sie eine geführte Tour, um auch die unterirdischen Zisternen zu sehen.",
+            "hu": "Fedezze fel a Castell de Sant Ferran hatalmas erődítményeit, és érdemes vezetett túrát foglalni, hogy a lenyűgöző földalatti ciszternákat is láthassa.",
+            "ro": "Explorați fortificațiile gigantice ale Castell de Sant Ferran și rezervați un tur ghidat pentru a vedea și fascinantele cisterne subterane.",
+            "en": "Explore the gigantic fortifications of the Castell de Sant Ferran, and book a guided tour to gain access to the fascinating underground cisterns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Museu de l'Electricitat und erfahren Sie mehr über die lokale Technikgeschichte. Mittags schlendern Sie zum Kulturzentrum La Cate und erfrischen sich anschließend in der Piscina municipal. Der Nachmittag ist den beeindruckenden Festungsanlagen rund um das Castell de Sant Ferran gewidmet, wo Sie fantastische Ausblicke genießen. Den Abend lassen Sie gemütlich ausklingen.",
+        "hu": "Kezdje a sétát a Museu de l'Electricitat kiállításainál, hogy megismerje a helyi technikatörténetet. Délben sétáljon el a La Cate kulturális központhoz, majd frissüljön fel a Piscina municipal medencéiben. A délután a Castell de Sant Ferran lenyűgöző erődítményeinek felfedezéséről szól, ahol fantasztikus kilátások várják. Az estét a bástyáknál zárja, békés hangulatban.",
+        "ro": "Începeți plimbarea la Museu de l'Electricitat și aflați mai multe despre istoria tehnologiei locale. La prânz, vizitați centrul cultural La Cate, apoi răcoriți-vă la Piscina municipal. După-amiaza este dedicată impresionantelor structuri defensive din jurul Castell de Sant Ferran, unde vă veți bucura de priveliști fantastice. Seara se încheie liniștit pe vechile bastioane.",
+        "en": "Begin your walking tour at the Museu de l'Electricitat to delve into local technological history. Midday, head to the cultural hub of La Cate and cool off at the Piscina municipal. The afternoon is completely dedicated to exploring the massive fortifications around the Castell de Sant Ferran, offering breathtaking views. Your evening winds down peacefully among the historic bastions."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capella i mas de Sant Pau de la Calçada",
+            "hu": "Capella i mas de Sant Pau de la Calçada",
+            "ro": "Capella i mas de Sant Pau de la Calçada",
+            "en": "Capella i mas de Sant Pau de la Calçada"
+          },
+          "coords": [
+            2.9747,
+            42.249507
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Capella i mas de Sant Pau de la Calçada, eine historische Perle, die sich perfekt für einen ruhigen Fotostopp am Morgen eignet.",
+            "hu": "Csodálja meg a bájos Capella i mas de Sant Pau de la Calçada kápolnát, egy történelmi gyöngyszemet, amely tökéletes egy nyugodt, reggeli fotószünetre.",
+            "ro": "Admirați fermecătoarea Capella i mas de Sant Pau de la Calçada, o bijuterie istorică perfectă pentru o oprire fotografică liniștită de dimineață.",
+            "en": "Admire the charming Capella i mas de Sant Pau de la Calçada, a historical gem that is perfect for a peaceful morning photo stop on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Electricitat",
+            "hu": "Museu de l'Electricitat",
+            "ro": "Museu de l'Electricitat",
+            "en": "Museu de l'Electricitat"
+          },
+          "coords": [
+            2.960137,
+            42.265347
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Elektrifizierung im Museu de l'Electricitat und sichern Sie sich Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a villamosítás izgalmas történetét a Museu de l'Electricitat múzeumban, és érdemes előre, online megváltani a jegyét.",
+            "ro": "Descoperiți istoria fascinantă a electrificării la Museu de l'Electricitat și asigurați-vă că vă cumpărați biletele online în avans pentru a evita cozile.",
+            "en": "Discover the fascinating history of electrification at the Museu de l'Electricitat, and be sure to book your tickets online in advance to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cate",
+            "hu": "La Cate",
+            "ro": "La Cate",
+            "en": "La Cate"
+          },
+          "coords": [
+            2.956826,
+            42.268214
+          ],
+          "category": "cultural",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in La Cate, einem wichtigen kulturellen Zentrum der Stadt, und informieren Sie sich über das aktuelle Veranstaltungsprogramm.",
+            "hu": "Tapasztalja meg a helyi kultúrát a La Cate kulturális központban, és mindenképpen tájékozódjon az aktuális programokról az érkezés előtt.",
+            "ro": "Experimentați cultura locală la La Cate, un centru cultural important al orașului, și verificați programul evenimentelor actuale înainte de vizită.",
+            "en": "Experience local culture at La Cate, a key cultural center of the city, and check their current event schedule before you arrive to catch a performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Ferran",
+            "hu": "Castell de Sant Ferran",
+            "ro": "Castell de Sant Ferran",
+            "en": "Castell de Sant Ferran"
+          },
+          "coords": [
+            2.946177,
+            42.273638
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gigantischen Festungsanlagen des Castell de Sant Ferran und buchen Sie eine geführte Tour, um auch die unterirdischen Zisternen zu sehen.",
+            "hu": "Fedezze fel a Castell de Sant Ferran hatalmas erődítményeit, és érdemes vezetett túrát foglalni, hogy a lenyűgöző földalatti ciszternákat is láthassa.",
+            "ro": "Explorați fortificațiile gigantice ale Castell de Sant Ferran și rezervați un tur ghidat pentru a vedea și fascinantele cisterne subterane.",
+            "en": "Explore the gigantic fortifications of the Castell de Sant Ferran, and book a guided tour to gain access to the fascinating underground cisterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluard Sant Felip",
+            "hu": "Baluard Sant Felip",
+            "ro": "Baluard Sant Felip",
+            "en": "Baluard Sant Felip"
+          },
+          "coords": [
+            2.943755,
+            42.275447
+          ],
+          "category": "natural",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe beim Spaziergang entlang des Baluard Sant Felip und achten Sie auf unebene Pfade, während Sie die alten Verteidigungsanlagen erkunden.",
+            "hu": "Élje át a nyugalmat a Baluard Sant Felip mentén sétálva, és figyeljen az egyenetlen ösvényekre, miközben felfedezi a régi védelmi rendszereket.",
+            "ro": "Experimentați liniștea plimbându-vă de-a lungul Baluard Sant Felip și fiți atenți la potecile denivelate în timp ce explorați vechile structuri defensive.",
+            "en": "Experience tranquility while walking along the Baluard Sant Felip, and mind the uneven pathways as you explore the ancient defensive fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluard Santi",
+            "hu": "Baluard Santi",
+            "ro": "Baluard Santi",
+            "en": "Baluard Santi"
+          },
+          "coords": [
+            2.946407,
+            42.276293
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag am Baluard Santi, wo die Nachmittagssonne das Mauerwerk wunderschön beleuchtet und herrliche Fotomotive schafft.",
+            "hu": "Fejezze be a délutánt a Baluard Santi bástyánál, ahol a késő délutáni nap gyönyörűen megvilágítja a falakat, remek fotótémákat biztosítva.",
+            "ro": "Încheiați-vă după-amiaza la Baluard Santi, unde soarele de după-amiază luminează frumos zidăria și creează oportunități fotografice excelente.",
+            "en": "Finish your afternoon at the Baluard Santi, where the late sunlight beautifully illuminates the stonework, providing excellent photography opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet an der charmanten Capella i mas de Sant Pau. Danach fahren Sie ins Zentrum, um das spannende Museu de l'Electricitat zu besuchen. Gegen Mittag radeln Sie zum Kulturzentrum La Cate. Am Nachmittag erklimmen Sie mit dem Rad das Castell de Sant Ferran und erkunden seine faszinierenden Baluards in der Umgebung. Am Abend genießen Sie die goldenen Sonnenuntergangsfarben.",
+        "hu": "A kerékpártúra a bájos Capella i mas de Sant Pau kápolnánál kezdődik. Ezután a központba teker, hogy megtekintse a Museu de l'Electricitat kiállításait. Délben a La Cate központhoz látogat. Délután kerékpárral meghódítja a Castell de Sant Ferran erődöt, és felfedezi a környező, történelmi bástyákat. Este élvezheti a lenyugvó nap varázslatos, aranyló fényeit.",
+        "ro": "Turul cu bicicleta începe la fermecătoarea Capella i mas de Sant Pau. Apoi, mergeți spre centru pentru a vizita fascinantul Museu de l'Electricitat. La prânz, pedalați către centrul cultural La Cate. După-amiaza, urcați cu bicicleta spre Castell de Sant Ferran și explorați bastioanele istorice din împrejurimi. Seara, admirați nuanțele aurii ale apusului de soare.",
+        "en": "Your cycling adventure starts at the charming Capella i mas de Sant Pau. You'll then ride into the center to visit the fascinating Museu de l'Electricitat. By midday, pedal over to the cultural center La Cate. The afternoon involves biking up to the monumental Castell de Sant Ferran and exploring its surrounding historic bastions. End the day enjoying the golden hues of sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 6.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscines Pont del Príncep",
+            "hu": "Piscines Pont del Príncep",
+            "ro": "Piscines Pont del Príncep",
+            "en": "Piscines Pont del Príncep"
+          },
+          "coords": [
+            2.964928,
+            42.227224
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag entspannt an den Piscines Pont del Príncep und kommen Sie frühzeitig, um sich den besten Schattenplatz für Ihre Gruppe zu sichern.",
+            "hu": "Kezdje a napot lazán a Piscines Pont del Príncep medencéinél, és érkezzen korán, hogy biztosítsa a legjobb árnyékos helyet a csoportjának.",
+            "ro": "Începeți ziua relaxându-vă la Piscines Pont del Príncep și sosiți devreme pentru a vă asigura cel mai bun loc la umbră pentru grupul dumneavoastră.",
+            "en": "Start your day relaxing at the Piscines Pont del Príncep, and arrive early to secure the best shady spot for your group near the main pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Capella i mas de Sant Pau de la Calçada",
+            "hu": "Capella i mas de Sant Pau de la Calçada",
+            "ro": "Capella i mas de Sant Pau de la Calçada",
+            "en": "Capella i mas de Sant Pau de la Calçada"
+          },
+          "coords": [
+            2.9747,
+            42.249507
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Capella i mas de Sant Pau de la Calçada, eine historische Perle, die sich perfekt für einen ruhigen Fotostopp am Morgen eignet.",
+            "hu": "Csodálja meg a bájos Capella i mas de Sant Pau de la Calçada kápolnát, egy történelmi gyöngyszemet, amely tökéletes egy nyugodt, reggeli fotószünetre.",
+            "ro": "Admirați fermecătoarea Capella i mas de Sant Pau de la Calçada, o bijuterie istorică perfectă pentru o oprire fotografică liniștită de dimineață.",
+            "en": "Admire the charming Capella i mas de Sant Pau de la Calçada, a historical gem that is perfect for a peaceful morning photo stop on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de l'Electricitat",
+            "hu": "Museu de l'Electricitat",
+            "ro": "Museu de l'Electricitat",
+            "en": "Museu de l'Electricitat"
+          },
+          "coords": [
+            2.960137,
+            42.265347
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Elektrifizierung im Museu de l'Electricitat und sichern Sie sich Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a villamosítás izgalmas történetét a Museu de l'Electricitat múzeumban, és érdemes előre, online megváltani a jegyét.",
+            "ro": "Descoperiți istoria fascinantă a electrificării la Museu de l'Electricitat și asigurați-vă că vă cumpărați biletele online în avans pentru a evita cozile.",
+            "en": "Discover the fascinating history of electrification at the Museu de l'Electricitat, and be sure to book your tickets online in advance to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Sant Ferran",
+            "hu": "Castell de Sant Ferran",
+            "ro": "Castell de Sant Ferran",
+            "en": "Castell de Sant Ferran"
+          },
+          "coords": [
+            2.946177,
+            42.273638
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gigantischen Festungsanlagen des Castell de Sant Ferran und buchen Sie eine geführte Tour, um auch die unterirdischen Zisternen zu sehen.",
+            "hu": "Fedezze fel a Castell de Sant Ferran hatalmas erődítményeit, és érdemes vezetett túrát foglalni, hogy a lenyűgöző földalatti ciszternákat is láthassa.",
+            "ro": "Explorați fortificațiile gigantice ale Castell de Sant Ferran și rezervați un tur ghidat pentru a vedea și fascinantele cisterne subterane.",
+            "en": "Explore the gigantic fortifications of the Castell de Sant Ferran, and book a guided tour to gain access to the fascinating underground cisterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital",
+            "hu": "Hospital",
+            "ro": "Hospital",
+            "en": "Hospital"
+          },
+          "coords": [
+            2.946019,
+            42.274949
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Gebäude des ehemaligen Hospital und achten Sie auf die gut erhaltenen architektonischen Details der klassischen Fassade.",
+            "hu": "Látogasson el az egykori Hospital történelmi épületéhez, és figyelje meg a klasszikus homlokzat szépen megőrzött építészeti részleteit.",
+            "ro": "Vizitați clădirea istorică a fostului Hospital și acordați atenție detaliilor arhitecturale bine conservate de pe fațada sa clasică impresionantă.",
+            "en": "Visit the historic building of the former Hospital, and pay attention to the beautifully preserved architectural details on its classical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluard Santa Tecla",
+            "hu": "Baluard Santa Tecla",
+            "ro": "Baluard Santa Tecla",
+            "en": "Baluard Santa Tecla"
+          },
+          "coords": [
+            2.947819,
+            42.274463
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den abgelegenen Baluard Santa Tecla und bringen Sie ein Fernglas mit, um die Details der fernen Landschaft in der Region besser zu erkennen.",
+            "hu": "Fedezze fel a félreeső Baluard Santa Tecla bástyát, és hozzon magával távcsövet, hogy jobban lássa a távoli táj lenyűgöző részleteit.",
+            "ro": "Descoperiți retrasul Baluard Santa Tecla și aduceți binoclul pentru a vedea mai bine detaliile peisajului îndepărtat din această regiune minunată.",
+            "en": "Discover the secluded Baluard Santa Tecla, and bring along some binoculars to get a better view of the distant landscape details in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluard Santa Bàrbara",
+            "hu": "Baluard Santa Bàrbara",
+            "ro": "Baluard Santa Bàrbara",
+            "en": "Baluard Santa Bàrbara"
+          },
+          "coords": [
+            2.944816,
+            42.272726
+          ],
+          "category": "natural",
+          "arrive_at": "17:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie zum Abschluss den Baluard Santa Bàrbara, von wo aus Sie einen fantastischen Blick auf den Sonnenuntergang über der Festungsmauer haben.",
+            "hu": "Zárja a napot a Baluard Santa Bàrbara felfedezésével, ahonnan fantasztikus kilátás nyílik az erőd falai felett lenyugvó napra.",
+            "ro": "Explorați la final Baluard Santa Bàrbara, de unde veți avea o vedere fantastică a apusului de soare peste zidurile masive ale fortăreței.",
+            "en": "End your day by exploring the Baluard Santa Bàrbara, which offers fantastic views of the sunset over the massive walls of the fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie den Tag entspannt an den Piscines Pont del Príncep. Weiter geht es zur malerischen Capella i mas de Sant Pau und dem Museu de l'Electricitat. Nach dem Mittagessen fahren Sie zur imposanten Festung Castell de Sant Ferran und besichtigen das historische Hospital. Der späte Nachmittag gehört den versteckten Baluards, wo Sie den Abend bei herrlicher Aussicht beenden.",
+        "hu": "Autóval a napot kényelmesen a Piscines Pont del Príncep medencéinél kezdi. Ezután a festői Capella i mas de Sant Pau kápolnához és a Museu de l'Electricitat-hoz hajt. Ebéd után a lenyűgöző Castell de Sant Ferran erődítményt és a történelmi Hospital épületét látogatja meg. A késő délutánt a rejtett bástyák felfedezésével tölti, miközben lenyűgöző panorámában gyönyörködhet.",
+        "ro": "Cu mașina, începeți ziua relaxant la Piscines Pont del Príncep. Continuați cu o oprire la pitoreasca Capella i mas de Sant Pau și apoi Museu de l'Electricitat. După prânz, conduceți spre formidabila fortăreață Castell de Sant Ferran și vizitați clădirea istorică Hospital. A doua parte a după-amiezii este rezervată bastioanelor ascunse, unde veți încheia ziua cu priveliști superbe.",
+        "en": "Starting by car, your day begins with relaxation at the Piscines Pont del Príncep. Next, drive to the picturesque Capella i mas de Sant Pau and the intriguing Museu de l'Electricitat. After lunch, head up to the mighty Castell de Sant Ferran and visit the historic Hospital building. The late afternoon is devoted to discovering the hidden bastions, ending your day with glorious sunset views."
+      }
+    }
+  }
+}

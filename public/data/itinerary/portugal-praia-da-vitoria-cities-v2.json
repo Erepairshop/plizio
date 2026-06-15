@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-praia-da-vitoria-cities-v2",
+  "anchor": {
+    "name": "Praia da Vitória",
+    "coords": [
+      -27.06035,
+      38.73104
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Facho",
+            "hu": "Miradouro do Facho",
+            "ro": "Miradouro do Facho",
+            "en": "Miradouro do Facho"
+          },
+          "coords": [
+            -27.054017,
+            38.733468
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht und die Stadt von diesem erhöhten Aussichtspunkt und bringen Sie unbedingt eine Windjacke mit, da es hier oft windig ist.",
+            "hu": "Élvezze az öbölre és a városra nyíló panorámát erről a magaslati kilátóból, és mindenképpen hozzon magával széldzsekit az erős szellők miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale golfului de la acest punct de belvedere și nu uitați să aduceți o jachetă de vânt, deoarece aici suflă mereu briza.",
+            "en": "Enjoy panoramic views of the bay and city from this elevated coastal lookout, and be sure to bring a windbreaker as it gets breezy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+          },
+          "coords": [
+            -27.059842,
+            38.7321
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Zwillingstürme und die wunderschön erhaltene religiöse Kunst dieser historischen Kirche, ideal für einen ruhigen morgendlichen Besuch.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző ikerharangtornyait és vallási művészetét, amelyet a csendesebb délelőtti órákban a legjobb meglátogatni.",
+            "ro": "Admirați turnurile gemene impresionante și arta religioasă a acestei biserici istorice, pe care este ideal să o vizitați în timpul orelor liniștite ale dimineții.",
+            "en": "Admire the striking twin bell towers and beautifully preserved religious art of this historic church, ideally visited during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Museu Vitorino Nemésio",
+            "hu": "Casa-Museu Vitorino Nemésio",
+            "ro": "Casa-Museu Vitorino Nemésio",
+            "en": "Casa-Museu Vitorino Nemésio"
+          },
+          "coords": [
+            -27.061135,
+            38.732079
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Elternhaus eines berühmten portugiesischen Schriftstellers der Azoren, wobei Sie vor dem Besuch die Öffnungszeiten online prüfen sollten.",
+            "hu": "Fedezze fel egy híres portugál író szülőházát az azori irodalomtörténet megismeréséhez, és látogatás előtt érdemes ellenőrizni a nyitvatartást az interneten.",
+            "ro": "Explorați casa copilăriei unui celebru scriitor portughez pentru a înțelege istoria literară, verificând programul de funcționare online înainte de vizită.",
+            "en": "Explore the childhood home of a famous Portuguese writer to understand Azorean literary history, checking the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditório do Ramo Grande",
+            "hu": "Auditório do Ramo Grande",
+            "ro": "Auditório do Ramo Grande",
+            "en": "Auditório do Ramo Grande"
+          },
+          "coords": [
+            -27.061097,
+            38.729438
+          ],
+          "category": "cultural",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante moderne Architektur dieses Kulturzentrums, wo Sie oft noch Last-Minute-Tickets für lokale Aufführungen ergattern können.",
+            "hu": "Tekintse meg ennek a kulturális központnak a feltűnő kortárs építészetét, ahol gyakran szerezhet utolsó pillanatban is jegyeket a helyi előadásokra.",
+            "ro": "Admirați arhitectura contemporană a acestui centru cultural, unde puteți obține adesea bilete în ultimul minut pentru spectacolele locale captivante.",
+            "en": "Check out the striking contemporary architecture of this major cultural center, where you can often secure last-minute tickets for local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Vitória",
+            "hu": "Praia da Vitória",
+            "ro": "Praia da Vitória",
+            "en": "Praia da Vitória"
+          },
+          "coords": [
+            -27.059563,
+            38.730082
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen vulkanischen Stränden dieser weitläufigen Bucht und bringen Sie Handtuch und Sonnencreme mit, um das ruhige Wasser zu genießen.",
+            "hu": "Pihenjen ennek a tágas öbölnek a puha vulkáni homokján, és hozzon magával törölközőt, hogy teljes mértékben élvezhesse a nyugodt és tiszta atlanti vizeket.",
+            "ro": "Relaxați-vă pe nisipul vulcanic moale al acestui golf întins, aducând propriul prosop pentru a vă bucura pe deplin de apele liniștite și clare ale Atlanticului.",
+            "en": "Relax on the soft volcanic sands of this expansive bay, bringing your own towel and sunscreen to fully enjoy the calm and clear Atlantic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Oficiais",
+            "hu": "Praia dos Oficiais",
+            "ro": "Praia dos Oficiais",
+            "en": "Praia dos Oficiais"
+          },
+          "coords": [
+            -27.055204,
+            38.731062
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen gepflegten und bei Einheimischen beliebten Küstenabschnitt entlang und halten Sie Ausschau nach kleinen Cafés mit exzellentem Espresso.",
+            "hu": "Sétáljon végig a helyiek által kedvelt, jól karbantartott partszakaszon, és keressen egy kis tengerparti kávézót, amely kiváló eszpresszót kínál.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste bine întreținute de localnici, căutând micile cafenele de pe litoral care oferă espresso și produse de patiserie.",
+            "en": "Stroll along this well-maintained coastal stretch favored by locals, keeping an eye out for small seaside cafes offering excellent espresso and pastries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem weiten Blick auf die Bucht und literarischer Geschichte. Mittags erkunden Sie das kulturelle Zentrum und die zentrale Küste. Der Nachmittag ist der Entspannung auf den Vulkansanden der Hauptbucht gewidmet. Der Abend endet mit einem malerischen Spaziergang am Meer, während die Sonne langsam untergeht.",
+        "hu": "A reggel az öbölre nyíló pazar kilátással és irodalomtörténettel indul. A dél a modern kulturális központ és a központi partvidék felfedezésére hív. A délutánt a fő strand kiterjedt vulkáni homokján való pihenésnek szentelheti. Az estét egy festői tengerparti séta zárja, miközben a nap lassan lenyugszik az Atlanti-óceán felett.",
+        "ro": "Dimineața începe cu vederi ample asupra golfului și istorie literară. La prânz sunteți invitați să explorați centrul cultural modern și coasta. După-amiaza este dedicată relaxării pe nisipurile vulcanice extinse ale golfului principal. Seara se încheie cu o plimbare pitorească la malul mării, în timp ce soarele apune lent.",
+        "en": "Morning begins with sweeping bay views and local literary history. Midday invites you to explore the modern cultural hub and the central coastline. Afternoon is dedicated to unwinding on the expansive volcanic sands of the main bay. Evening concludes with a scenic seaside stroll as the sun slowly sets over the Atlantic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Facho",
+            "hu": "Miradouro do Facho",
+            "ro": "Miradouro do Facho",
+            "en": "Miradouro do Facho"
+          },
+          "coords": [
+            -27.054017,
+            38.733468
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht und die Stadt von diesem erhöhten Aussichtspunkt und bringen Sie unbedingt eine Windjacke mit, da es hier oft windig ist.",
+            "hu": "Élvezze az öbölre és a városra nyíló panorámát erről a magaslati kilátóból, és mindenképpen hozzon magával széldzsekit az erős szellők miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale golfului de la acest punct de belvedere și nu uitați să aduceți o jachetă de vânt, deoarece aici suflă mereu briza.",
+            "en": "Enjoy panoramic views of the bay and city from this elevated coastal lookout, and be sure to bring a windbreaker as it gets breezy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Museu Vitorino Nemésio",
+            "hu": "Casa-Museu Vitorino Nemésio",
+            "ro": "Casa-Museu Vitorino Nemésio",
+            "en": "Casa-Museu Vitorino Nemésio"
+          },
+          "coords": [
+            -27.061135,
+            38.732079
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Elternhaus eines berühmten portugiesischen Schriftstellers der Azoren, wobei Sie vor dem Besuch die Öffnungszeiten online prüfen sollten.",
+            "hu": "Fedezze fel egy híres portugál író szülőházát az azori irodalomtörténet megismeréséhez, és látogatás előtt érdemes ellenőrizni a nyitvatartást az interneten.",
+            "ro": "Explorați casa copilăriei unui celebru scriitor portughez pentru a înțelege istoria literară, verificând programul de funcționare online înainte de vizită.",
+            "en": "Explore the childhood home of a famous Portuguese writer to understand Azorean literary history, checking the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Vitória",
+            "hu": "Praia da Vitória",
+            "ro": "Praia da Vitória",
+            "en": "Praia da Vitória"
+          },
+          "coords": [
+            -27.059563,
+            38.730082
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen vulkanischen Stränden dieser weitläufigen Bucht und bringen Sie Handtuch und Sonnencreme mit, um das ruhige Wasser zu genießen.",
+            "hu": "Pihenjen ennek a tágas öbölnek a puha vulkáni homokján, és hozzon magával törölközőt, hogy teljes mértékben élvezhesse a nyugodt és tiszta atlanti vizeket.",
+            "ro": "Relaxați-vă pe nisipul vulcanic moale al acestui golf întins, aducând propriul prosop pentru a vă bucura pe deplin de apele liniștite și clare ale Atlanticului.",
+            "en": "Relax on the soft volcanic sands of this expansive bay, bringing your own towel and sunscreen to fully enjoy the calm and clear Atlantic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Riviera",
+            "hu": "Praia da Riviera",
+            "ro": "Praia da Riviera",
+            "en": "Praia da Riviera"
+          },
+          "coords": [
+            -27.060865,
+            38.714919
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die nistenden Vögel an diesem ruhigen, naturreichen Strand und bringen Sie unbedingt ein Fernglas für die Wildtierbeobachtung mit.",
+            "hu": "Figyelje meg a fészkelő madarakat ezen a békés, természetközeli strandon, ahová érdemes távcsövet hozni a vadvilág jobb megfigyelése érdekében.",
+            "ro": "Observați păsările care cuibăresc pe această plajă liniștită, unde un binoclu vă va îmbunătăți considerabil experiența de observare a faunei sălbatice.",
+            "en": "Watch the nesting birds at this peaceful, nature-rich beach environment, where bringing a pair of binoculars will greatly enhance your wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Império das Tronqueiras",
+            "hu": "Império das Tronqueiras",
+            "ro": "Império das Tronqueiras",
+            "en": "Império das Tronqueiras"
+          },
+          "coords": [
+            -27.063279,
+            38.713644
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese lebhafte, traditionelle Heilig-Geist-Kapelle der Azoren und halten Sie Ihre Kamera bereit, um die farbenfrohe Fassade einzufangen.",
+            "hu": "Fedezze fel ezt a vibráló, hagyományos azori Szentlélek-kápolnát, és tartsa készenlétben fényképezőgépét, hogy megörökítse rendkívül színes homlokzatát.",
+            "ro": "Descoperiți această capelă tradițională vibrantă și asigurați-vă că aveți aparatul foto pregătit pentru a surprinde fațada sa extrem de colorată.",
+            "en": "Discover this vibrant, traditional Azorean Holy Ghost chapel, ensuring your camera is ready to capture its intensely colorful and detailed facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -27.051508,
+            38.710261
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Steinruinen dieser Küstenfestung, um Terceiras maritime Geschichte zu erleben, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ennek a partvédelmi erődnek a kőromjain Terceira tengeri történelmének megismeréséhez, miközben erős cipőt visel az egyenetlen utakon.",
+            "ro": "Plimbați-vă prin ruinele acestui fort de apărare pentru a înțelege istoria maritimă, purtând încălțăminte rezistentă pentru aleile ușor denivelate.",
+            "en": "Wander through the stone ruins of this coastal defense fort to grasp Terceira's maritime history, wearing sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Oficiais",
+            "hu": "Praia dos Oficiais",
+            "ro": "Praia dos Oficiais",
+            "en": "Praia dos Oficiais"
+          },
+          "coords": [
+            -27.055204,
+            38.731062
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen gepflegten und bei Einheimischen beliebten Küstenabschnitt entlang und halten Sie Ausschau nach kleinen Cafés mit exzellentem Espresso.",
+            "hu": "Sétáljon végig a helyiek által kedvelt, jól karbantartott partszakaszon, és keressen egy kis tengerparti kávézót, amely kiváló eszpresszót kínál.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste bine întreținute de localnici, căutând micile cafenele de pe litoral care oferă espresso și produse de patiserie.",
+            "en": "Stroll along this well-maintained coastal stretch favored by locals, keeping an eye out for small seaside cafes offering excellent espresso and pastries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Abfahrt ins historische Zentrum zum Museum. Mittags erwartet Sie eine erfrischende Fahrt entlang der belebten Hauptstrandpromenade. Der Nachmittag führt Sie nach Süden, um eine traditionelle Kapelle und eine Küstenfestung zu entdecken. Der Abend rundet Ihr Radabenteuer an den ruhigen nördlichen Ufern ab.",
+        "hu": "A reggel a történelmi központba és a múzeumba vezető panorámás ereszkedéssel indul. A dél egy frissítő tekerést tartogat a nyüzsgő fő strand sétányán. A délután délre visz, hogy felfedezzen egy élénk kápolnát és egy parti erődöt. Az este az északi csendes partokon zárja le ezt a kellemes és emlékezetes kerékpáros kalandot.",
+        "ro": "Dimineața începe cu o coborâre panoramică în centrul istoric la muzeu. Prânzul vă oferă o plimbare revigorantă de-a lungul promenadei principale. După-amiaza vă duce spre sud pentru a descoperi o capelă tradițională și un fort de coastă. Seara încheie aventura dumneavoastră cu bicicleta înapoi pe țărmurile nordice liniștite.",
+        "en": "Morning kicks off with a panoramic descent into the historic center to visit the museum. Midday features a refreshing ride along the bustling main beach promenade. Afternoon takes you south to discover a vibrant traditional chapel and a coastal fort. Evening wraps up your cycling adventure back at the quiet northern shorelines."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 5.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Facho",
+            "hu": "Miradouro do Facho",
+            "ro": "Miradouro do Facho",
+            "en": "Miradouro do Facho"
+          },
+          "coords": [
+            -27.054017,
+            38.733468
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Bucht und die Stadt von diesem erhöhten Aussichtspunkt und bringen Sie unbedingt eine Windjacke mit, da es hier oft windig ist.",
+            "hu": "Élvezze az öbölre és a városra nyíló panorámát erről a magaslati kilátóból, és mindenképpen hozzon magával széldzsekit az erős szellők miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale golfului de la acest punct de belvedere și nu uitați să aduceți o jachetă de vânt, deoarece aici suflă mereu briza.",
+            "en": "Enjoy panoramic views of the bay and city from this elevated coastal lookout, and be sure to bring a windbreaker as it gets breezy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "hu": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "ro": "Igreja do Senhor Santo Cristo das Misericórdias",
+            "en": "Igreja do Senhor Santo Cristo das Misericórdias"
+          },
+          "coords": [
+            -27.059842,
+            38.7321
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Zwillingstürme und die wunderschön erhaltene religiöse Kunst dieser historischen Kirche, ideal für einen ruhigen morgendlichen Besuch.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző ikerharangtornyait és vallási művészetét, amelyet a csendesebb délelőtti órákban a legjobb meglátogatni.",
+            "ro": "Admirați turnurile gemene impresionante și arta religioasă a acestei biserici istorice, pe care este ideal să o vizitați în timpul orelor liniștite ale dimineții.",
+            "en": "Admire the striking twin bell towers and beautifully preserved religious art of this historic church, ideally visited during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Museu Vitorino Nemésio",
+            "hu": "Casa-Museu Vitorino Nemésio",
+            "ro": "Casa-Museu Vitorino Nemésio",
+            "en": "Casa-Museu Vitorino Nemésio"
+          },
+          "coords": [
+            -27.061135,
+            38.732079
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Elternhaus eines berühmten portugiesischen Schriftstellers der Azoren, wobei Sie vor dem Besuch die Öffnungszeiten online prüfen sollten.",
+            "hu": "Fedezze fel egy híres portugál író szülőházát az azori irodalomtörténet megismeréséhez, és látogatás előtt érdemes ellenőrizni a nyitvatartást az interneten.",
+            "ro": "Explorați casa copilăriei unui celebru scriitor portughez pentru a înțelege istoria literară, verificând programul de funcționare online înainte de vizită.",
+            "en": "Explore the childhood home of a famous Portuguese writer to understand Azorean literary history, checking the opening hours online before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditório do Ramo Grande",
+            "hu": "Auditório do Ramo Grande",
+            "ro": "Auditório do Ramo Grande",
+            "en": "Auditório do Ramo Grande"
+          },
+          "coords": [
+            -27.061097,
+            38.729438
+          ],
+          "category": "cultural",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante moderne Architektur dieses Kulturzentrums, wo Sie oft noch Last-Minute-Tickets für lokale Aufführungen ergattern können.",
+            "hu": "Tekintse meg ennek a kulturális központnak a feltűnő kortárs építészetét, ahol gyakran szerezhet utolsó pillanatban is jegyeket a helyi előadásokra.",
+            "ro": "Admirați arhitectura contemporană a acestui centru cultural, unde puteți obține adesea bilete în ultimul minut pentru spectacolele locale captivante.",
+            "en": "Check out the striking contemporary architecture of this major cultural center, where you can often secure last-minute tickets for local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Vitória",
+            "hu": "Praia da Vitória",
+            "ro": "Praia da Vitória",
+            "en": "Praia da Vitória"
+          },
+          "coords": [
+            -27.059563,
+            38.730082
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weichen vulkanischen Stränden dieser weitläufigen Bucht und bringen Sie Handtuch und Sonnencreme mit, um das ruhige Wasser zu genießen.",
+            "hu": "Pihenjen ennek a tágas öbölnek a puha vulkáni homokján, és hozzon magával törölközőt, hogy teljes mértékben élvezhesse a nyugodt és tiszta atlanti vizeket.",
+            "ro": "Relaxați-vă pe nisipul vulcanic moale al acestui golf întins, aducând propriul prosop pentru a vă bucura pe deplin de apele liniștite și clare ale Atlanticului.",
+            "en": "Relax on the soft volcanic sands of this expansive bay, bringing your own towel and sunscreen to fully enjoy the calm and clear Atlantic waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Império das Tronqueiras",
+            "hu": "Império das Tronqueiras",
+            "ro": "Império das Tronqueiras",
+            "en": "Império das Tronqueiras"
+          },
+          "coords": [
+            -27.063279,
+            38.713644
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese lebhafte, traditionelle Heilig-Geist-Kapelle der Azoren und halten Sie Ihre Kamera bereit, um die farbenfrohe Fassade einzufangen.",
+            "hu": "Fedezze fel ezt a vibráló, hagyományos azori Szentlélek-kápolnát, és tartsa készenlétben fényképezőgépét, hogy megörökítse rendkívül színes homlokzatát.",
+            "ro": "Descoperiți această capelă tradițională vibrantă și asigurați-vă că aveți aparatul foto pregătit pentru a surprinde fațada sa extrem de colorată.",
+            "en": "Discover this vibrant, traditional Azorean Holy Ghost chapel, ensuring your camera is ready to capture its intensely colorful and detailed facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -27.051508,
+            38.710261
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Steinruinen dieser Küstenfestung, um Terceiras maritime Geschichte zu erleben, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ennek a partvédelmi erődnek a kőromjain Terceira tengeri történelmének megismeréséhez, miközben erős cipőt visel az egyenetlen utakon.",
+            "ro": "Plimbați-vă prin ruinele acestui fort de apărare pentru a înțelege istoria maritimă, purtând încălțăminte rezistentă pentru aleile ușor denivelate.",
+            "en": "Wander through the stone ruins of this coastal defense fort to grasp Terceira's maritime history, wearing sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Riviera",
+            "hu": "Praia da Riviera",
+            "ro": "Praia da Riviera",
+            "en": "Praia da Riviera"
+          },
+          "coords": [
+            -27.060865,
+            38.714919
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die nistenden Vögel an diesem ruhigen, naturreichen Strand und bringen Sie unbedingt ein Fernglas für die Wildtierbeobachtung mit.",
+            "hu": "Figyelje meg a fészkelő madarakat ezen a békés, természetközeli strandon, ahová érdemes távcsövet hozni a vadvilág jobb megfigyelése érdekében.",
+            "ro": "Observați păsările care cuibăresc pe această plajă liniștită, unde un binoclu vă va îmbunătăți considerabil experiența de observare a faunei sălbatice.",
+            "en": "Watch the nesting birds at this peaceful, nature-rich beach environment, where bringing a pair of binoculars will greatly enhance your wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zum hohen Aussichtspunkt, gefolgt von Kirche und Museum. Mittags können Sie zentral parken und die Atmosphäre des Kulturzentrums genießen. Der Nachmittag beinhaltet eine kurze Fahrt nach Süden zu alten maritimen Verteidigungsanlagen. Der Abend endet friedlich in einem naturreichen Küstenreservat.",
+        "hu": "A reggel egy autózással indul a magas kilátóhoz, majd a templom és a múzeum meglátogatásával. A dél folyamán központilag parkolhat, és átadhatja magát a nyüzsgő hangulatnak. A délután egy rövid déli utat foglal magába az ősi tengeri védművek felfedezésére. Az este békésen zárul egy természetközeli, gyönyörű parti rezervátumban.",
+        "ro": "Dimineața începe cu o plimbare spre belvederea înaltă, urmată de biserică și muzeu. La prânz puteți parca central pentru a vă bucura de atmosfera vibrantă a orașului. După-amiaza implică un scurt drum spre sud pentru a descoperi apărarea maritimă antică. Seara se termină liniștit la o rezervație de coastă bogată în natură.",
+        "en": "Morning starts with a drive to the high lookout, followed by visits to the church and museum. Midday allows you to park centrally and soak in the vibrant atmosphere of the cultural hub. Afternoon involves a short drive south to uncover ancient maritime defenses and heritage. Evening ends peacefully at a nature-rich coastal reserve."
+      }
+    }
+  }
+}

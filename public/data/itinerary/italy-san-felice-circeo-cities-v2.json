@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-san-felice-circeo-cities-v2",
+  "anchor": {
+    "name": "San Felice Circeo",
+    "coords": [
+      13.09416,
+      41.23716
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Vittoria",
+            "hu": "Torre Vittoria",
+            "ro": "Torre Vittoria",
+            "en": "Torre Vittoria"
+          },
+          "coords": [
+            13.101962,
+            41.236824
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Küstenturm zur Verteidigung gegen Piraten, und bringen Sie eine Windjacke mit, da die Meeresbrise an dieser Landzunge sehr stark sein kann.",
+            "hu": "Csodálja meg ezt a kalózok elleni védelemre épült történelmi parti tornyot, és hozzon magával széldzsekit, mert a tengeri szél meglehetősen erős lehet ezen a nyílt fokon.",
+            "ro": "Admirați acest turn de coastă istoric construit pentru apărarea contra piraților și aduceți o jachetă, deoarece briza mării poate fi destul de puternică pe acest promontoriu.",
+            "en": "Admire this historic coastal tower built to defend against pirate raids, and be sure to bring a windbreaker as the sea breeze can be quite strong along this exposed headland."
+          }
+        },
+        {
+          "name": {
+            "de": "San Felice Martire",
+            "hu": "San Felice Martire",
+            "ro": "San Felice Martire",
+            "en": "San Felice Martire"
+          },
+          "coords": [
+            13.089188,
+            41.23279
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche religiöse Zentrum im historischen Herzen der Stadt, und denken Sie an angemessene Kleidung, bevor Sie den angrenzenden Platz entspannt genießen.",
+            "hu": "Látogasson el a város történelmi magját alkotó békés vallási központba, és ügyeljen a visszafogott öltözködésre a helyi szokások tiszteletben tartása érdekében a téren.",
+            "ro": "Vizitați acest centru religios liniștit din inima istorică a orașului, asigurându-vă că purtați o ținută decentă pentru a respecta tradițiile locale înainte de a ieși în piață.",
+            "en": "Visit this serene religious center which anchors the historic core of the town, keeping in mind to dress modestly to respect local customs before enjoying the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Acropoli del Circeo",
+            "hu": "Acropoli del Circeo",
+            "ro": "Acropoli del Circeo",
+            "en": "Acropoli del Circeo"
+          },
+          "coords": [
+            13.082544,
+            41.229223
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven zyklopischen Mauern dieser antiken Stätte aus der Zeit vor Rom, und tragen Sie unbedingt feste Wanderschuhe für das raue und unebene Felsgelände.",
+            "hu": "Csodálja meg ennek a Rómát megelőző ősi régészeti lelőhelynek a hatalmas küklopszi falait, de feltétlenül viseljen masszív túracipőt a durva, egyenetlen sziklás terep miatt.",
+            "ro": "Minunați-vă de zidurile ciclopice masive ale acestui sit arheologic anterior Romei, asigurându-vă că purtați bocanci de drumeție rezistenți pe terenul stâncos și accidentat.",
+            "en": "Marvel at the massive cyclopean walls of this ancient archaeological site that predates Rome, ensuring you wear sturdy hiking boots to navigate the rough, uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Fico",
+            "hu": "Torre Fico",
+            "ro": "Torre Fico",
+            "en": "Torre Fico"
+          },
+          "coords": [
+            13.089493,
+            41.224473
+          ],
+          "category": "tower",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem historischen Wachturm auf das Meer, und bringen Sie ein Fernglas mit, um weit entfernte Schiffe an der Küste sicher zu entdecken.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből a történelmi őrtoronyból a tengerre, és hozzon magával távcsövet, hogy megfigyelhesse a partvonal mentén haladó távoli hajókat.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare de la acest turn de veghe istoric și aduceți un binoclu pentru a observa navele îndepărtate care traversează frumoasa coastă.",
+            "en": "Enjoy breathtaking panoramic views from this historical watchtower overlooking the vibrant sea, and bring a pair of binoculars to spot distant ships traversing the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta delle Capre",
+            "hu": "Grotta delle Capre",
+            "ro": "Grotta delle Capre",
+            "en": "Grotta delle Capre"
+          },
+          "coords": [
+            13.082779,
+            41.22406
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese riesige Meereshöhle mit faszinierenden geologischen Formationen, aber tragen Sie unbedingt rutschfeste Schuhe auf den extrem nassen Klippen.",
+            "hu": "Fedezze fel ezt a hatalmas tengeri barlangot, amely lenyűgöző geológiai formációiról ismert, de viseljen csúszásgátló cipőt, mivel a parti sziklák rendkívül csúszósak.",
+            "ro": "Explorați această peșteră marină masivă, faimoasă pentru formațiunile sale geologice, dar purtați încălțăminte antiderapantă deoarece stâncile de pe coastă sunt alunecoase.",
+            "en": "Explore this massive sea cave, famed for its ancient geological formations and mythology, but remember to wear anti-slip shoes as the coastal rocks are extremely slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Wanderung beginnt am alten Küstenturm mit der morgendlichen Meeresbrise, bevor wir zum friedlichen religiösen Herzen des historischen Stadtzentrums aufbrechen.\n\nAm Mittag wandern wir zu den alten, vorrömischen zyklopischen Mauern der Akropolis und tauchen tief in die reiche archäologische Geschichte ein.\n\nDer Nachmittag führt hinab zur zerklüfteten Küste, mit Halt an einem malerischen Wachturm, der atemberaubende Panoramablicke auf das Meer bietet.\n\nWir beenden unseren Tag mit der Erkundung einer prächtigen Meereshöhle und beobachten die sanften Wellen, während sich der Abend langsam nähert.",
+        "hu": "Sétatúránk az ősi parti torony közelében kezdődik, élvezve a reggeli tengeri szellőt, mielőtt a történelmi városközpont békés vallási szívébe indulnánk.\n\nDélben az Akropolisz ősi, római kor előtti küklopszi falai felé túrázunk, mélyen elmerülve a régió gazdag régészeti történelmében és legendáiban.\n\nA délután a zord partvonal felé ereszkedik, megállva egy festői őrtoronynál, amely lélegzetelállító panorámát kínál a végtelen kék tengerre.\n\nNapunkat egy csodálatos tengeri barlang felfedezésével zárjuk, figyelve a szelíd hullámok összecsapását az ősi sziklaalakzatokon az este közeledtével.",
+        "ro": "Turul nostru de mers pe jos începe lângă vechiul turn de coastă, înainte de a ne îndrepta spre inima religioasă liniștită a centrului istoric.\n\nPână la amiază, facem o drumeție către vechile ziduri ciclopice preromane ale Acropolei, scufundându-ne adânc în istoria arheologică a regiunii.\n\nDupă-amiaza coboară spre coasta accidentată, oprindu-ne la un turn de veghe pitoresc care oferă vederi panoramice uluitoare asupra mării albastre.\n\nNe încheiem ziua explorând o peșteră marină magnifică, privind valurile blânde care se lovesc de formațiunile stâncoase odată cu lăsarea serii.",
+        "en": "Our walking tour begins near the ancient coastal tower, taking in the morning sea breeze before heading to the peaceful religious heart of the historical town center.\n\nBy midday, we hike towards the ancient, pre-Roman cyclopean walls of the Acropolis, diving deep into the region's rich archaeological history.\n\nThe afternoon descends towards the rugged coastline, stopping at a picturesque watchtower that offers breathtaking panoramic views of the sea.\n\nWe conclude our day exploring a magnificent sea cave, watching the gentle waves crash against the ancient rock formations as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fortino",
+            "hu": "Fortino",
+            "ro": "Fortino",
+            "en": "Fortino"
+          },
+          "coords": [
+            13.083554,
+            41.242362
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser Festung aus der Napoleon-Zeit in den Hügeln, und kommen Sie zur goldenen Stunde, um wirklich atemberaubende Fotos zu machen.",
+            "hu": "Fedezze fel a Napóleon-korabeli erőd lenyűgöző romjait, amelyek egykor a dombokat őrizték, és érkezzen az aranyórában, hogy igazán lenyűgöző tájképeket készíthessen itt.",
+            "ro": "Descoperiți ruinele fascinante ale acestei fortărețe din epoca napoleoniană și ajungeți în timpul orei de aur pentru a surprinde fotografii de peisaj cu adevărat uimitoare.",
+            "en": "Discover the fascinating ruins of this Napoleon-era fortress that once guarded the hills, and arrive during the golden hour to capture truly stunning landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa del Peretto",
+            "hu": "Villa del Peretto",
+            "ro": "Villa del Peretto",
+            "en": "Villa del Peretto"
+          },
+          "coords": [
+            13.080739,
+            41.237918
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser großen römischen Villa, und laden Sie vorab einen Offline-Reiseführer herunter, da der Handyempfang in dieser Gegend extrem unzuverlässig ist.",
+            "hu": "Látogasson el e nagyszerű római villa romjaihoz, és töltsön le egy offline történelmi útmutatót, mivel a térerő ezen a gyönyörű természeti területen rendkívül megbízhatatlan.",
+            "ro": "Pășiți în trecut la rămășițele acestei mari vile romane și descărcați un ghid istoric offline în prealabil, deoarece semnalul de telefonie mobilă este incredibil de slab.",
+            "en": "Step back in time at the remnants of this grand Roman villa surrounded by nature, and download an offline historical guide beforehand as cell reception here is incredibly spotty."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte Guattari",
+            "hu": "Grotte Guattari",
+            "ro": "Grotte Guattari",
+            "en": "Grotte Guattari"
+          },
+          "coords": [
+            13.093221,
+            41.231382
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologische Bedeutung dieser berühmten Neandertaler-Höhle, aber prüfen Sie vorab die Zeiten für Führungen, da der öffentliche Zugang streng reguliert ist.",
+            "hu": "Ismerje meg e történelem előtti neandervölgyi barlang régészeti jelentőségét, de ellenőrizze a túrák menetrendjét, mivel a nyilvános hozzáférés szigorúan korlátozott.",
+            "ro": "Explorați importanța arheologică a acestei peșteri de Neanderthal, dar verificați programul tururilor ghidate, deoarece accesul publicului larg este foarte strict reglementat.",
+            "en": "Explore the archaeological significance of this famous prehistoric Neanderthal cave, but verify the guided tour schedule in advance as general public access is strictly regulated."
+          }
+        },
+        {
+          "name": {
+            "de": "San Felice Martire",
+            "hu": "San Felice Martire",
+            "ro": "San Felice Martire",
+            "en": "San Felice Martire"
+          },
+          "coords": [
+            13.089188,
+            41.23279
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche religiöse Zentrum im historischen Herzen der Stadt, und denken Sie an angemessene Kleidung, bevor Sie den angrenzenden Platz entspannt genießen.",
+            "hu": "Látogasson el a város történelmi magját alkotó békés vallási központba, és ügyeljen a visszafogott öltözködésre a helyi szokások tiszteletben tartása érdekében a téren.",
+            "ro": "Vizitați acest centru religios liniștit din inima istorică a orașului, asigurându-vă că purtați o ținută decentă pentru a respecta tradițiile locale înainte de a ieși în piață.",
+            "en": "Visit this serene religious center which anchors the historic core of the town, keeping in mind to dress modestly to respect local customs before enjoying the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Acropoli del Circeo",
+            "hu": "Acropoli del Circeo",
+            "ro": "Acropoli del Circeo",
+            "en": "Acropoli del Circeo"
+          },
+          "coords": [
+            13.082544,
+            41.229223
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven zyklopischen Mauern dieser antiken Stätte aus der Zeit vor Rom, und tragen Sie unbedingt feste Wanderschuhe für das raue und unebene Felsgelände.",
+            "hu": "Csodálja meg ennek a Rómát megelőző ősi régészeti lelőhelynek a hatalmas küklopszi falait, de feltétlenül viseljen masszív túracipőt a durva, egyenetlen sziklás terep miatt.",
+            "ro": "Minunați-vă de zidurile ciclopice masive ale acestui sit arheologic anterior Romei, asigurându-vă că purtați bocanci de drumeție rezistenți pe terenul stâncos și accidentat.",
+            "en": "Marvel at the massive cyclopean walls of this ancient archaeological site that predates Rome, ensuring you wear sturdy hiking boots to navigate the rough, uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Fico",
+            "hu": "Torre Fico",
+            "ro": "Torre Fico",
+            "en": "Torre Fico"
+          },
+          "coords": [
+            13.089493,
+            41.224473
+          ],
+          "category": "tower",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem historischen Wachturm auf das Meer, und bringen Sie ein Fernglas mit, um weit entfernte Schiffe an der Küste sicher zu entdecken.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből a történelmi őrtoronyból a tengerre, és hozzon magával távcsövet, hogy megfigyelhesse a partvonal mentén haladó távoli hajókat.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare de la acest turn de veghe istoric și aduceți un binoclu pentru a observa navele îndepărtate care traversează frumoasa coastă.",
+            "en": "Enjoy breathtaking panoramic views from this historical watchtower overlooking the vibrant sea, and bring a pair of binoculars to spot distant ships traversing the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dell'Impiso",
+            "hu": "Grotta dell'Impiso",
+            "ro": "Grotta dell'Impiso",
+            "en": "Grotta dell'Impiso"
+          },
+          "coords": [
+            13.080892,
+            41.223788
+          ],
+          "category": "natural",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Stalaktiten in dieser malerischen Küstenhöhle, und planen Sie Ihren Besuch exakt bei Ebbe, um völlig sicher in die verborgenen Innenkammern zu gelangen.",
+            "hu": "Fedezze fel a festői parti barlangban természetes módon függő cseppköveket, és időzítse látogatását apály idejére, hogy biztonságosan hozzáférjen a rejtett belső kamrákhoz.",
+            "ro": "Descoperiți stalactitele care atârnă natural în această peșteră de coastă pitorească și vizitați-o exact la reflux pentru a accesa în siguranță camerele interioare ascunse.",
+            "en": "Discover the stalactites hanging naturally within this picturesque coastal cave, and aim to visit precisely during low tide to safely access the hidden interior chambers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einer Fahrt ins Landesinnere zu den faszinierenden Festungsruinen aus der Napoleon-Zeit in der frischen Morgenluft.\n\nDer Mittag führt uns zu einer alten römischen Villa und einer prähistorischen Höhle, die tief mit der reichen Menschheitsgeschichte verwoben sind.\n\nAm Nachmittag radeln wir durch das historische Stadtzentrum, bevor wir zur antiken Akropolis hinaufsteigen und die weite Aussicht genießen.\n\nDie Tour endet an der dramatischen Küste, vorbei an historischen Wachtürmen, um an einer spektakulären Meereshöhle am Wasser abzuschließen.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Napóleon-korabeli erődromok felé tekerve a szárazföld belsejében, élvezve a mediterrán bozót friss reggeli levegőjét.\n\nA dél egy ókori római villához és egy történelem előtti barlanghoz vezet minket, átszőve az emberi történelem gazdag és lenyűgöző szövevényét.\n\nDélután áttekerünk a történelmi városközponton, mielőtt felmásznánk az ősi Akropoliszhoz, ahonnan elsöprő kilátás nyílik a környező tájra.\n\nAz utazás a drámai partvonal mentén ér véget, történelmi őrtornyok mellett elhaladva egy látványos tengeri barlangnál a hullámok közelében.",
+        "ro": "Începeți aventura pe bicicletă îndreptându-vă spre interior, către fascinantele ruine ale fortului din epoca napoleoniană, bucurându-vă de aerul proaspăt.\n\nAmiaza ne aduce la o veche vilă romană și la o peșteră preistorică profund importantă, țesând prin bogata tapiserie a istoriei umane străvechi.\n\nDupă-amiaza, pedalăm prin centrul istoric înainte de a urca spre vechea Acropolă, admirând priveliștile vaste și spectaculoase ale orizontului.\n\nPlimbarea se termină de-a lungul coastei dramatice, trecând pe lângă turnuri de veghe istorice pentru a încheia la o peșteră marină spectaculoasă.",
+        "en": "Kick off your cycling adventure by riding inland towards the fascinating Napoleonic-era fort ruins, enjoying the fresh morning air of the Mediterranean scrub.\n\nMidday brings us to an ancient Roman villa and a profoundly important prehistoric cave, weaving through the rich tapestry of human history.\n\nIn the afternoon, we pedal through the historic town center before climbing towards the ancient Acropolis, taking in sweeping views.\n\nThe ride finishes along the dramatic coastline, passing historic watchtowers to end at a spectacular sea cave carved by ancient waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:14",
+      "total_km": 6.0,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Vittoria",
+            "hu": "Torre Vittoria",
+            "ro": "Torre Vittoria",
+            "en": "Torre Vittoria"
+          },
+          "coords": [
+            13.101962,
+            41.236824
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Küstenturm zur Verteidigung gegen Piraten, und bringen Sie eine Windjacke mit, da die Meeresbrise an dieser Landzunge sehr stark sein kann.",
+            "hu": "Csodálja meg ezt a kalózok elleni védelemre épült történelmi parti tornyot, és hozzon magával széldzsekit, mert a tengeri szél meglehetősen erős lehet ezen a nyílt fokon.",
+            "ro": "Admirați acest turn de coastă istoric construit pentru apărarea contra piraților și aduceți o jachetă, deoarece briza mării poate fi destul de puternică pe acest promontoriu.",
+            "en": "Admire this historic coastal tower built to defend against pirate raids, and be sure to bring a windbreaker as the sea breeze can be quite strong along this exposed headland."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotte Guattari",
+            "hu": "Grotte Guattari",
+            "ro": "Grotte Guattari",
+            "en": "Grotte Guattari"
+          },
+          "coords": [
+            13.093221,
+            41.231382
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die archäologische Bedeutung dieser berühmten Neandertaler-Höhle, aber prüfen Sie vorab die Zeiten für Führungen, da der öffentliche Zugang streng reguliert ist.",
+            "hu": "Ismerje meg e történelem előtti neandervölgyi barlang régészeti jelentőségét, de ellenőrizze a túrák menetrendjét, mivel a nyilvános hozzáférés szigorúan korlátozott.",
+            "ro": "Explorați importanța arheologică a acestei peșteri de Neanderthal, dar verificați programul tururilor ghidate, deoarece accesul publicului larg este foarte strict reglementat.",
+            "en": "Explore the archaeological significance of this famous prehistoric Neanderthal cave, but verify the guided tour schedule in advance as general public access is strictly regulated."
+          }
+        },
+        {
+          "name": {
+            "de": "San Felice Martire",
+            "hu": "San Felice Martire",
+            "ro": "San Felice Martire",
+            "en": "San Felice Martire"
+          },
+          "coords": [
+            13.089188,
+            41.23279
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche religiöse Zentrum im historischen Herzen der Stadt, und denken Sie an angemessene Kleidung, bevor Sie den angrenzenden Platz entspannt genießen.",
+            "hu": "Látogasson el a város történelmi magját alkotó békés vallási központba, és ügyeljen a visszafogott öltözködésre a helyi szokások tiszteletben tartása érdekében a téren.",
+            "ro": "Vizitați acest centru religios liniștit din inima istorică a orașului, asigurându-vă că purtați o ținută decentă pentru a respecta tradițiile locale înainte de a ieși în piață.",
+            "en": "Visit this serene religious center which anchors the historic core of the town, keeping in mind to dress modestly to respect local customs before enjoying the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna del Peretto",
+            "hu": "Cisterna del Peretto",
+            "ro": "Cisterna del Peretto",
+            "en": "Cisterna del Peretto"
+          },
+          "coords": [
+            13.079467,
+            41.237845
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Inspizieren Sie dieses antike römische Wasserreservoir mit seiner unglaublichen Ingenieurskunst, und bringen Sie eine Taschenlampe mit, um das unterirdische Mauerwerk zu sehen.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző ősi római víztározót, és vigyen magával egy erős zseblámpát, hogy teljes mértékben értékelni tudja a földalatti építmény csodálatos téglafalát.",
+            "ro": "Inspectați acest vechi rezervor de apă roman care subliniază ingineria incredibilă și aduceți o lanternă puternică pentru a aprecia pe deplin zidăria subterană impresionantă.",
+            "en": "Inspect this ancient Roman water reservoir that highlights incredible engineering, and carry a strong flashlight to fully appreciate the impressive subterranean ancient brickwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa del Peretto",
+            "hu": "Villa del Peretto",
+            "ro": "Villa del Peretto",
+            "en": "Villa del Peretto"
+          },
+          "coords": [
+            13.080739,
+            41.237918
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser großen römischen Villa, und laden Sie vorab einen Offline-Reiseführer herunter, da der Handyempfang in dieser Gegend extrem unzuverlässig ist.",
+            "hu": "Látogasson el e nagyszerű római villa romjaihoz, és töltsön le egy offline történelmi útmutatót, mivel a térerő ezen a gyönyörű természeti területen rendkívül megbízhatatlan.",
+            "ro": "Pășiți în trecut la rămășițele acestei mari vile romane și descărcați un ghid istoric offline în prealabil, deoarece semnalul de telefonie mobilă este incredibil de slab.",
+            "en": "Step back in time at the remnants of this grand Roman villa surrounded by nature, and download an offline historical guide beforehand as cell reception here is incredibly spotty."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortino",
+            "hu": "Fortino",
+            "ro": "Fortino",
+            "en": "Fortino"
+          },
+          "coords": [
+            13.083554,
+            41.242362
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser Festung aus der Napoleon-Zeit in den Hügeln, und kommen Sie zur goldenen Stunde, um wirklich atemberaubende Fotos zu machen.",
+            "hu": "Fedezze fel a Napóleon-korabeli erőd lenyűgöző romjait, amelyek egykor a dombokat őrizték, és érkezzen az aranyórában, hogy igazán lenyűgöző tájképeket készíthessen itt.",
+            "ro": "Descoperiți ruinele fascinante ale acestei fortărețe din epoca napoleoniană și ajungeți în timpul orei de aur pentru a surprinde fotografii de peisaj cu adevărat uimitoare.",
+            "en": "Discover the fascinating ruins of this Napoleon-era fortress that once guarded the hills, and arrive during the golden hour to capture truly stunning landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Acropoli del Circeo",
+            "hu": "Acropoli del Circeo",
+            "ro": "Acropoli del Circeo",
+            "en": "Acropoli del Circeo"
+          },
+          "coords": [
+            13.082544,
+            41.229223
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven zyklopischen Mauern dieser antiken Stätte aus der Zeit vor Rom, und tragen Sie unbedingt feste Wanderschuhe für das raue und unebene Felsgelände.",
+            "hu": "Csodálja meg ennek a Rómát megelőző ősi régészeti lelőhelynek a hatalmas küklopszi falait, de feltétlenül viseljen masszív túracipőt a durva, egyenetlen sziklás terep miatt.",
+            "ro": "Minunați-vă de zidurile ciclopice masive ale acestui sit arheologic anterior Romei, asigurându-vă că purtați bocanci de drumeție rezistenți pe terenul stâncos și accidentat.",
+            "en": "Marvel at the massive cyclopean walls of this ancient archaeological site that predates Rome, ensuring you wear sturdy hiking boots to navigate the rough, uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Fico",
+            "hu": "Torre Fico",
+            "ro": "Torre Fico",
+            "en": "Torre Fico"
+          },
+          "coords": [
+            13.089493,
+            41.224473
+          ],
+          "category": "tower",
+          "arrive_at": "17:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem historischen Wachturm auf das Meer, und bringen Sie ein Fernglas mit, um weit entfernte Schiffe an der Küste sicher zu entdecken.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből a történelmi őrtoronyból a tengerre, és hozzon magával távcsövet, hogy megfigyelhesse a partvonal mentén haladó távoli hajókat.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare de la acest turn de veghe istoric și aduceți un binoclu pentru a observa navele îndepărtate care traversează frumoasa coastă.",
+            "en": "Enjoy breathtaking panoramic views from this historical watchtower overlooking the vibrant sea, and bring a pair of binoculars to spot distant ships traversing the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Fossellone",
+            "hu": "Grotta del Fossellone",
+            "ro": "Grotta del Fossellone",
+            "en": "Grotta del Fossellone"
+          },
+          "coords": [
+            13.079739,
+            41.223757
+          ],
+          "category": "natural",
+          "arrive_at": "17:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Öffnung dieser Meereshöhle, die für ihre Fossilien bekannt ist, aber gehen Sie vorsichtig vor, da der Weg nach unten steil und extrem rutschig sein kann.",
+            "hu": "Álljon lenyűgözve a kövületeiről híres tengeri barlang hatalmas nyílása előtt, de haladjon óvatosan, mivel a lefelé vezető ösvény meredek és meglehetősen csúszós tud lenni.",
+            "ro": "Admirați deschiderea masivă a acestei caverne marine faimoasă pentru fosile, dar procedați cu mare atenție, deoarece traseul de coborâre este abrupt și extrem de alunecos.",
+            "en": "Stand in awe before the massive opening of this sea cavern famous for its fossils, but proceed with extreme caution as the downward trail is both steep and notoriously slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autofahrt beginnt an der Küste bei einem historischen Wachturm, bevor wir in die tiefen Geheimnisse einer berühmten Neandertaler-Höhle eintauchen.\n\nAm Mittag erreichen wir das religiöse Zentrum der Stadt, gefolgt von einer malerischen Fahrt in die Hügel zu bemerkenswerten römischen Ruinen.\n\nDer Nachmittag ist der Erkundung hochgelegener Festungen und der monumentalen zyklopischen Mauern der antiken Akropolis hoch über dem Meer gewidmet.\n\nBei Sonnenuntergang fahren wir hinab zum rauen Kap, um dramatische Meereshöhlen und alte Steinformationen an der schönen Uferpromenade zu sehen.",
+        "hu": "Autós utazásunk a gyönyörű part mentén kezdődik egy történelmi őrtoronynál, mielőtt elmerülnénk egy híres neandervölgyi barlang mély rejtélyeiben.\n\nA dél a város vallási szívébe visz minket, majd egy rövid festői autózás a dombokon elvezet egy figyelemre méltó ősi római mérnöki alkotáshoz.\n\nA délután folyamán magasan fekvő Napóleon-korabeli erődöket és az ősi Akropolisz monumentális küklopszi falait fedezzük fel a magaslatokon.\n\nAhogy a nap lenyugszik, visszahajtunk a zord fokhoz, hogy megcsodáljuk a drámai tengeri barlangokat és az ősi kőalakzatokat a vízpart mentén.",
+        "ro": "Călătoria noastră cu mașina începe pe coastă pentru a admira un turn de veghe istoric înainte de a pătrunde în misterele unei celebre peșteri.\n\nAmiaza ne duce în inima religioasă a orașului, apoi un scurt drum pitoresc pe dealuri ne aduce la remarcabila inginerie și arhitectură romană antică.\n\nDupă-amiaza implică explorarea forturilor la mare altitudine și a zidurilor ciclopice monumentale ale vechii Acropole, pline de istorie.\n\nPe măsură ce soarele apune, coborâm înapoi spre capul stâncos pentru a asista la peșteri marine dramatice și formațiuni antice de piatră magnifice.",
+        "en": "Our driving journey starts along the beautiful coast to admire a historic watchtower before delving into the profound mysteries of a famous Neanderthal cave.\n\nMidday takes us into the town's religious heart, then a short scenic drive up the hills brings us to remarkable ancient Roman engineering and ruins.\n\nThe afternoon involves exploring high-elevation Napoleonic forts and the monumental cyclopean walls of the ancient Acropolis.\n\nAs the sun sets, we cruise back down to the rugged cape to witness dramatic sea caves and ancient stone formations along the beautiful waterfront."
+      }
+    }
+  }
+}

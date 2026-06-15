@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-terrasini-cities-v2",
+  "anchor": {
+    "name": "Terrasini",
+    "coords": [
+      13.08212,
+      38.15282
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+            "hu": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+            "ro": "Chiesa Madre e Parrocchia Santa Maria delle Grazie",
+            "en": "Chiesa Madre e Parrocchia Santa Maria delle Grazie"
+          },
+          "coords": [
+            13.08396,
+            38.151465
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Fassade dieser zentralen Kirche, dem spirituellen Herzen der Stadt, und kleiden Sie sich bescheiden für den Besuch.",
+            "hu": "Csodálja meg e központi templom, a város szellemi szívének lenyűgöző homlokzatát, és viseljen visszafogott ruházatot a belső tér felfedezéséhez.",
+            "ro": "Admirați fațada uimitoare a acestei biserici centrale, inima spirituală a orașului, și îmbrăcați-vă decent pentru a explora interioarele decorate.",
+            "en": "Admire the stunning facade of this central church, the spiritual heart of the city, and dress modestly to explore its beautifully decorated aisles."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo regionale di Terrasini",
+            "hu": "Museo regionale di Terrasini",
+            "ro": "Museo regionale di Terrasini",
+            "en": "Museo regionale di Terrasini"
+          },
+          "coords": [
+            13.079844,
+            38.153622
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Naturgeschichte und sizilianische Karren in diesem Museum; planen Sie genug Zeit für die Vogelsammlungen ein.",
+            "hu": "Fedezze fel a gazdag helyi természettörténetet és a szicíliai szekereket ebben a múzeumban, ügyelve arra, hogy elég időt szánjon a madarakra.",
+            "ro": "Descoperiți istoria naturală și fascinantele căruțe siciliene în acest muzeu, asigurându-vă că aveți suficient timp pentru colecțiile de păsări.",
+            "en": "Discover rich local natural history and fascinating Sicilian carts in this museum, making sure to allocate enough time for the bird collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Villa a Mare",
+            "hu": "Anfiteatro Villa a Mare",
+            "ro": "Anfiteatro Villa a Mare",
+            "en": "Anfiteatro Villa a Mare"
+          },
+          "coords": [
+            13.080959,
+            38.153881
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses moderne Amphitheater, das das Meer wunderbar einrahmt, perfekt für Panoramafotos im warmen Licht des frühen Vormittags.",
+            "hu": "Fedezze fel ezt a modern szabadtéri amfiteátrumot, amely gyönyörűen keretezi a tengert, ideális panorámaképek készítéséhez a reggeli fényben.",
+            "ro": "Explorați acest amfiteatru modern în aer liber care încadrează marea, perfect pentru a face fotografii panoramice în lumina caldă a dimineții.",
+            "en": "Explore this modern open-air amphitheater that beautifully frames the sea, perfect for taking panoramic photos during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Alba",
+            "hu": "Torre Alba",
+            "ro": "Torre Alba",
+            "en": "Torre Alba"
+          },
+          "coords": [
+            13.072362,
+            38.151551
+          ],
+          "category": "tower",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen historischen Küstenwachturm gegen antike Piraten und bringen Sie ein Zoomobjektiv mit, um die Klippendetails einzufangen.",
+            "hu": "Csodálja meg ezt a történelmi őrtornyot, amely egykor a kalózok ellen védett, és hozzon teleobjektívet a sziklás részletek megörökítéséhez.",
+            "ro": "Admirați acest turn istoric de coastă care apăra împotriva piraților antici și aduceți un obiectiv cu zoom pentru detaliile stâncilor abrupte.",
+            "en": "Marvel at this historic coastal watchtower defending against ancient pirates, and bring a good zoom lens to capture the dramatic cliffside details."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazzetta degli Innamorati",
+            "hu": "Piazzetta degli Innamorati",
+            "ro": "Piazzetta degli Innamorati",
+            "en": "Piazzetta degli Innamorati"
+          },
+          "coords": [
+            13.071445,
+            38.148913
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem romantischen Platz mit dem ikonischen Herzdenkmal und holen Sie sich ein Eis, während Sie aufs Meer schauen.",
+            "hu": "Pihenjen meg a szerelmeseknek szentelt romantikus téren a szív emlékművel, és vegyen egy közeli fagylaltot, amit a tengeri kilátás mellett élvezhet.",
+            "ro": "Relaxați-vă în această piațetă romantică cu monumentul ei simbolic în formă de inimă și luați o înghețată în apropiere pentru a o savura admirând marea.",
+            "en": "Relax at this romantic square dedicated to lovers with its iconic heart monument, and grab a gelato nearby to enjoy while watching the sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Magaggiari",
+            "hu": "Spiaggia di Magaggiari",
+            "ro": "Spiaggia di Magaggiari",
+            "en": "Spiaggia di Magaggiari"
+          },
+          "coords": [
+            13.084326,
+            38.15968
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Sandstrand, der für sein kristallklares, flaches Wasser bekannt ist, und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Kapcsolódjon ki ezen a kristálytiszta, sekély vizéről híres homokos strandon, és érkezzen korán, hogy jó helyet találjon a főszezon idején.",
+            "ro": "Relaxați-vă pe această plajă renumită pentru apele sale cristaline și puțin adânci, și veniți devreme pentru a prinde un loc bun în sezonul de vârf.",
+            "en": "Unwind on this sandy beach famous for its crystal-clear shallow waters, and arrive early to secure a good spot with sunbeds during the peak season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der Chiesa Madre, um die lokale Geschichte zu spüren, bevor Sie die Sammlungen des Museo Regionale erkunden. Gegen Mittag spazieren Sie zum kulturellen Anfiteatro Villa a Mare und genießen die Küstenatmosphäre sowie die schöne Architektur. Verbringen Sie den Nachmittag mit herrlichen Meerblicken von der Torre Alba und entspannen Sie sich auf der romantischen Piazzetta. Beenden Sie Ihren Rundgang am Sandstrand Spiaggia di Magaggiari und genießen Sie die warme Abendbrise am Meer.",
+        "hu": "Kezdje a reggelt a lenyűgöző Chiesa Madre-nál, elmerülve a vallási örökségben, majd fedezze fel a Museo Regionale gazdag gyűjteményeit. Délben sétáljon el az Anfiteatro Villa a Mare felé, élvezve a tengerparti hangulatot és a gyönyörű építészetet. Délután gyönyörködjön a tengeri kilátásban a Torre Alba-tól, és pihenjen meg a romantikus Piazzetta padjain. A túrát a homokos Spiaggia di Magaggiari strandon fejezze be, élvezve a meleg esti tengeri szellőt a hullámok közelében.",
+        "ro": "Începeți dimineața la grandioasa Chiesa Madre, descoperind moștenirea religioasă înainte de a explora colecțiile de la Museo Regionale. La prânz, plimbați-vă spre Anfiteatro Villa a Mare, bucurându-vă de briza mării și de arhitectura deosebită a zonei. Petreceți după-amiaza admirând priveliștile dramatice de la Torre Alba și relaxându-vă în Piazzetta romantică. Încheiați-vă turul pe nisipul de la Spiaggia di Magaggiari, savurând atmosfera caldă a serilor liniștite de lângă valuri.",
+        "en": "Start your morning at the grand Chiesa Madre, immersing yourself in local religious heritage before exploring the vast collections at the Museo Regionale. As midday approaches, stroll towards the cultural Anfiteatro Villa a Mare, soaking in the coastal atmosphere and historical architecture. Spend the afternoon marveling at the dramatic sea views from Torre Alba and relaxing at the romantic Piazzetta. Conclude your walking tour on the sandy shores of Spiaggia di Magaggiari, enjoying the warm evening breeze by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piazzetta degli Innamorati",
+            "hu": "Piazzetta degli Innamorati",
+            "ro": "Piazzetta degli Innamorati",
+            "en": "Piazzetta degli Innamorati"
+          },
+          "coords": [
+            13.071445,
+            38.148913
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem romantischen Platz mit dem ikonischen Herzdenkmal und holen Sie sich ein Eis, während Sie aufs Meer schauen.",
+            "hu": "Pihenjen meg a szerelmeseknek szentelt romantikus téren a szív emlékművel, és vegyen egy közeli fagylaltot, amit a tengeri kilátás mellett élvezhet.",
+            "ro": "Relaxați-vă în această piațetă romantică cu monumentul ei simbolic în formă de inimă și luați o înghețată în apropiere pentru a o savura admirând marea.",
+            "en": "Relax at this romantic square dedicated to lovers with its iconic heart monument, and grab a gelato nearby to enjoy while watching the sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Alba",
+            "hu": "Torre Alba",
+            "ro": "Torre Alba",
+            "en": "Torre Alba"
+          },
+          "coords": [
+            13.072362,
+            38.151551
+          ],
+          "category": "tower",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen historischen Küstenwachturm gegen antike Piraten und bringen Sie ein Zoomobjektiv mit, um die Klippendetails einzufangen.",
+            "hu": "Csodálja meg ezt a történelmi őrtornyot, amely egykor a kalózok ellen védett, és hozzon teleobjektívet a sziklás részletek megörökítéséhez.",
+            "ro": "Admirați acest turn istoric de coastă care apăra împotriva piraților antici și aduceți un obiectiv cu zoom pentru detaliile stâncilor abrupte.",
+            "en": "Marvel at this historic coastal watchtower defending against ancient pirates, and bring a good zoom lens to capture the dramatic cliffside details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Magaggiari",
+            "hu": "Spiaggia di Magaggiari",
+            "ro": "Spiaggia di Magaggiari",
+            "en": "Spiaggia di Magaggiari"
+          },
+          "coords": [
+            13.084326,
+            38.15968
+          ],
+          "category": "recreational",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Sandstrand, der für sein kristallklares, flaches Wasser bekannt ist, und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Kapcsolódjon ki ezen a kristálytiszta, sekély vizéről híres homokos strandon, és érkezzen korán, hogy jó helyet találjon a főszezon idején.",
+            "ro": "Relaxați-vă pe această plajă renumită pentru apele sale cristaline și puțin adânci, și veniți devreme pentru a prinde un loc bun în sezonul de vârf.",
+            "en": "Unwind on this sandy beach famous for its crystal-clear shallow waters, and arrive early to secure a good spot with sunbeds during the peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leonardo",
+            "hu": "San Leonardo",
+            "ro": "San Leonardo",
+            "en": "San Leonardo"
+          },
+          "coords": [
+            13.088805,
+            38.162427
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese malerische Küstenkapelle, die lokale maritime Traditionen widerspiegelt, und verhalten Sie sich leise in diesem ruhigen Ort.",
+            "hu": "Lépjen be ebbe a festői tengerparti kápolnába, amely a helyi tengerészeti hagyományokat tükrözi, és halkan sétáljon az elmélkedés e békés helyén.",
+            "ro": "Pășiți în această capelă pitorească ce reflectă tradițiile maritime, și mergeți încet, deoarece este un loc liniștit de reflecție pentru localnici.",
+            "en": "Step inside this quaint coastal chapel reflecting local maritime traditions, and walk softly as it remains a quiet place of reflection for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Mulinazzo",
+            "hu": "Torre Mulinazzo",
+            "ro": "Torre Mulinazzo",
+            "en": "Torre Mulinazzo"
+          },
+          "coords": [
+            13.077456,
+            38.170934
+          ],
+          "category": "tower",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen alten Küstenturm nahe den Start- und Landebahnen, der einen Kontrast zwischen historischen Ruinen und Flugzeugen bietet.",
+            "hu": "Fényképezze le ezt az ősi part menti tornyot a repülőtér közelében, amely egyedi kontrasztot kínál a történelmi romok és a modern gépek között.",
+            "ro": "Fotografiați acest vechi turn de coastă situat lângă aeroport, oferind un contrast unic între ruinele istorice și avioanele moderne din zonă.",
+            "en": "Photograph this ancient coastal tower situated near the airport runways, offering a unique contrast between historical ruins and modern airplanes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Memoria Peppino e Felicia Impastato",
+            "hu": "Casa Memoria Peppino e Felicia Impastato",
+            "ro": "Casa Memoria Peppino e Felicia Impastato",
+            "en": "Casa Memoria Peppino e Felicia Impastato"
+          },
+          "coords": [
+            13.10508,
+            38.158606
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie die bewegende Geschichte des Anti-Mafia-Helden Peppino Impastato in seinem Haus und hinterlassen Sie eine kleine Spende für ihre Arbeit.",
+            "hu": "Ismerje meg a maffiaellenes hős, Peppino Impastato megható történetét egykori otthonában, és fontolja meg egy kis adomány hagyását a munkájukhoz.",
+            "ro": "Aflați povestea eroului antimafia Peppino Impastato în fosta sa casă și luați în considerare să lăsați o mică donație pentru a sprijini munca lor.",
+            "en": "Learn the moving story of anti-mafia hero Peppino Impastato in his former home, and consider leaving a small donation to support their noble work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der romantischen Piazzetta degli Innamorati und radeln Sie dann zur historischen Torre Alba am Meer. Mittags erreichen Sie den lebhaften Spiaggia di Magaggiari und das ruhige San Leonardo für eine Mischung aus Strand und Kultur. Am Nachmittag radeln Sie entlang der malerischen Küste zur einsamen Torre Mulinazzo für spektakuläre Panoramablicke. Lassen Sie den Tag mit einem tiefgründigen Besuch in der Casa Memoria ausklingen, die an Peppino Impastato erinnert.",
+        "hu": "Indítsa kerékpártúráját a romantikus Piazzetta degli Innamorati téren, majd tekerjen a történelmi Torre Alba tengerparti kilátópontjához. Délben a nyüzsgő Spiaggia di Magaggiari és a békés San Leonardo templom nyújt tökéletes egyensúlyt. Délután kerekezzen végig a festői tengerparton a magányos Torre Mulinazzo felé a látványos panorámáért. Zárja a napot egy elgondolkodtató látogatással a Casa Memoriában, megismerve Peppino Impastato bátor életének történelmi hagyatékát.",
+        "ro": "Începeți plimbarea cu bicicleta la Piazzetta degli Innamorati, bucurându-vă de soare înainte de a merge la istoricul Torre Alba. La prânz ajungeți la animata Spiaggia di Magaggiari și la liniștitul San Leonardo, combinând plaja cu spiritul cultural. După-amiaza, pedalați de-a lungul coastei pitorești până la Torre Mulinazzo pentru panorame spectaculoase. Încheiați ziua cu o vizită profundă la Casa Memoria, reflectând asupra istoriei curajoase a lui Peppino Impastato.",
+        "en": "Kick off your cycling journey at the romantic Piazzetta degli Innamorati, soaking in the morning sun before riding to the historic Torre Alba. Midday brings you to the lively Spiaggia di Magaggiari and the serene San Leonardo, offering a perfect blend of beach and culture. In the afternoon, pedal along the scenic coastline to reach the solitary Torre Mulinazzo for spectacular panoramas. Wind down the day with a profound visit to Casa Memoria, reflecting on the courageous history of Peppino Impastato."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "SeaClub",
+            "hu": "SeaClub",
+            "ro": "SeaClub",
+            "en": "SeaClub"
+          },
+          "coords": [
+            13.072498,
+            38.141656
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die luxuriöse Entspannung und lebhafte Atmosphäre in diesem Club, aber denken Sie daran, Ihren Eintritt an Sommerwochenenden zu buchen.",
+            "hu": "Élvezze a luxus tengerparti pihenést és a pezsgő hangulatot ebben a klubban, de ne felejtse el előre lefoglalni a belépőt a nyári hétvégéken.",
+            "ro": "Bucurați-vă de relaxarea luxoasă și atmosfera vibrantă la acest club, dar amintiți-vă să rezervați intrarea din timp în weekendurile de vară.",
+            "en": "Experience the luxurious seaside relaxation and vibrant atmosphere at this club, but remember to book your entry in advance during summer weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo regionale di Terrasini",
+            "hu": "Museo regionale di Terrasini",
+            "ro": "Museo regionale di Terrasini",
+            "en": "Museo regionale di Terrasini"
+          },
+          "coords": [
+            13.079844,
+            38.153622
+          ],
+          "category": "museum",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Naturgeschichte und sizilianische Karren in diesem Museum; planen Sie genug Zeit für die Vogelsammlungen ein.",
+            "hu": "Fedezze fel a gazdag helyi természettörténetet és a szicíliai szekereket ebben a múzeumban, ügyelve arra, hogy elég időt szánjon a madarakra.",
+            "ro": "Descoperiți istoria naturală și fascinantele căruțe siciliene în acest muzeu, asigurându-vă că aveți suficient timp pentru colecțiile de păsări.",
+            "en": "Discover rich local natural history and fascinating Sicilian carts in this museum, making sure to allocate enough time for the bird collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Mulinazzo",
+            "hu": "Torre Mulinazzo",
+            "ro": "Torre Mulinazzo",
+            "en": "Torre Mulinazzo"
+          },
+          "coords": [
+            13.077456,
+            38.170934
+          ],
+          "category": "tower",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen alten Küstenturm nahe den Start- und Landebahnen, der einen Kontrast zwischen historischen Ruinen und Flugzeugen bietet.",
+            "hu": "Fényképezze le ezt az ősi part menti tornyot a repülőtér közelében, amely egyedi kontrasztot kínál a történelmi romok és a modern gépek között.",
+            "ro": "Fotografiați acest vechi turn de coastă situat lângă aeroport, oferind un contrast unic între ruinele istorice și avioanele moderne din zonă.",
+            "en": "Photograph this ancient coastal tower situated near the airport runways, offering a unique contrast between historical ruins and modern airplanes."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Santissimo Ecce Homo",
+            "hu": "Santuario Santissimo Ecce Homo",
+            "ro": "Santuario Santissimo Ecce Homo",
+            "en": "Santuario Santissimo Ecce Homo"
+          },
+          "coords": [
+            13.101948,
+            38.161536
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige Heiligtum mit wunderschöner religiöser Kunst und respektieren Sie die stille Atmosphäre für spirituelle Kontemplation.",
+            "hu": "Látogasson el ebbe a békés szentélybe, ahol gyönyörű vallási műalkotások találhatók, és tartsa tiszteletben a spirituális elmélkedés csendes légkörét.",
+            "ro": "Vizitați acest sanctuar liniștit cu artă religioasă frumoasă și respectați atmosfera tăcută menită pentru contemplare spirituală și rugăciune.",
+            "en": "Visit this serene sanctuary featuring beautiful religious artwork, and respect the silent atmosphere meant for deep spiritual contemplation and prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Madre Santa Fara",
+            "hu": "Chiesa Madre Santa Fara",
+            "ro": "Chiesa Madre Santa Fara",
+            "en": "Chiesa Madre Santa Fara"
+          },
+          "coords": [
+            13.109698,
+            38.155201
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Architektur und das Innere der Hauptkirche von Cinisi und achten Sie besonders auf die detaillierten Deckenfresken.",
+            "hu": "Fedezze fel Cinisi főtemplomának lenyűgöző építészetét és belső terét, különös figyelmet fordítva a mennyezeten található részletes freskókra.",
+            "ro": "Descoperiți arhitectura impresionantă a bisericii principale din Cinisi, asigurându-vă că observați frescele detaliate de pe tavanul uimitor.",
+            "en": "Discover the impressive grand architecture and stunning interior of Cinisi's main church, making sure to notice the detailed frescoes on the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Memoria Peppino e Felicia Impastato",
+            "hu": "Casa Memoria Peppino e Felicia Impastato",
+            "ro": "Casa Memoria Peppino e Felicia Impastato",
+            "en": "Casa Memoria Peppino e Felicia Impastato"
+          },
+          "coords": [
+            13.10508,
+            38.158606
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie die bewegende Geschichte des Anti-Mafia-Helden Peppino Impastato in seinem Haus und hinterlassen Sie eine kleine Spende für ihre Arbeit.",
+            "hu": "Ismerje meg a maffiaellenes hős, Peppino Impastato megható történetét egykori otthonában, és fontolja meg egy kis adomány hagyását a munkájukhoz.",
+            "ro": "Aflați povestea eroului antimafia Peppino Impastato în fosta sa casă și luați în considerare să lăsați o mică donație pentru a sprijini munca lor.",
+            "en": "Learn the moving story of anti-mafia hero Peppino Impastato in his former home, and consider leaving a small donation to support their noble work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am exklusiven SeaClub am Wasser, bevor Sie die beeindruckenden Sammlungen im Museo Regionale besichtigen. Mittags fahren Sie zur rauen Küste der Torre Mulinazzo und ins Landesinnere zum ruhigen Santuario Santissimo Ecce Homo. Ihr Nachmittag ist Cinisi gewidmet, wo Sie die majestätische Chiesa Madre Santa Fara bewundern. Beenden Sie den Roadtrip mit einem bewegenden Abendbesuch in der Casa Memoria, um ein wichtiges Stück Anti-Mafia-Geschichte zu ehren.",
+        "hu": "Kezdje az autós utat az exkluzív SeaClubnál, majd látogasson el az impozáns Museo Regionale kiállításaira a délelőtt folyamán. Délben vezessen a sziklás parthoz, a Torre Mulinazzo-hoz, majd haladjon a békés Santuario Santissimo Ecce Homo felé. Délután Cinisi központjában csodálja meg a fenséges Chiesa Madre Santa Fara részletgazdag építészetét. Zárja az utazást egy megható esti látogatással a Casa Memoriában, tisztelegve a maffiaellenes mozgalom fontos alakjai előtt.",
+        "ro": "Începeți traseul cu mașina la exclusivistul SeaClub, relaxându-vă lângă apă înainte de a vizita impresionantul Museo Regionale. La prânz, conduceți spre coasta stâncoasă la Torre Mulinazzo, apoi spre liniștitul Santuario Santissimo Ecce Homo. După-amiaza explorați centrul Cinisi cu vizita la impunătoarea Chiesa Madre Santa Fara. Încheiați excursia cu o vizită emoționantă la Casa Memoria în timpul serii, onorând o bucată vitală din istoria antimafia locală.",
+        "en": "Start your drive at the exclusive SeaClub, enjoying the morning tranquility by the water before visiting the impressive Museo Regionale. By midday, drive out to the rugged coast to see Torre Mulinazzo, then head inland to the peaceful Santuario Santissimo Ecce Homo. Your afternoon explores Cinisi's core with the majestic Chiesa Madre Santa Fara, admiring its detailed architecture. Conclude your road trip with a moving evening visit to Casa Memoria, honoring a vital piece of anti-mafia history."
+      }
+    }
+  }
+}

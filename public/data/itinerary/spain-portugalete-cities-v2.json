@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-portugalete-cities-v2",
+  "anchor": {
+    "name": "Portugalete",
+    "coords": [
+      -3.019583,
+      43.319444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 1.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika von Santa María",
+            "hu": "Santa María-bazilika",
+            "ro": "Bazilica Santa María",
+            "en": "Basilica of Santa María"
+          },
+          "coords": [
+            -3.016724,
+            43.319818
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser Basilika schon früh am Tag und betrachten Sie das detailreiche Renaissance-Portal, bevor sich die Touristenmassen ansammeln.",
+            "hu": "Csodálja meg a bazilika lenyűgöző gótikus építészetét kora reggel, és szánjon időt a részletgazdag reneszánsz portál megtekintésére, mielőtt a turisták hada megérkezik.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei bazilici la începutul zilei, acordând un moment pentru a aprecia portalul detaliat renascentist înainte ca mulțimile să apară.",
+            "en": "Admire the striking Gothic architecture of this basilica early in the day, taking a moment to appreciate the detailed Renaissance portal before the tourist crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Biskaya-Brücke",
+            "hu": "Vizcaya-híd",
+            "ro": "Podul Vizcaya",
+            "en": "Vizcaya Bridge"
+          },
+          "coords": [
+            -3.017138,
+            43.323214
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese ikonische Schwebefähre ist ein bemerkenswertes UNESCO-Weltkulturerbe; fahren Sie unbedingt mit der Gondel nach Getxo, um den spektakulären Panoramablick zu genießen.",
+            "hu": "Ez az ikonikus szállítóhíd egy lenyűgöző UNESCO-helyszín, ezért mindenképpen utazzon át a gondolával Getxo-ba, hogy élvezhesse az egész torkolatra nyíló látványos panorámát.",
+            "ro": "Acest pod transbordor iconic este un sit UNESCO remarcabil, așa că asigurați-vă că faceți o plimbare cu gondola către Getxo pentru a savura priveliștile panoramice spectaculoase.",
+            "en": "This iconic transporter bridge is a remarkable UNESCO site, so make sure to ride the gondola across the river to Getxo for spectacular panoramic views of the entire estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Portugalete Schild",
+            "hu": "Portugalete tábla",
+            "ro": "Semnul Portugalete",
+            "en": "Portugalete Sign"
+          },
+          "coords": [
+            -3.016486,
+            43.321076
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieses wichtige historische Wahrzeichen vermittelt die reiche Geschichte der Stadt; lesen Sie die informativen Tafeln und machen Sie ein unvergessliches Erinnerungsfoto.",
+            "hu": "Ez a fontos történelmi jelzőtábla kontextust ad a város gazdag örökségének, ezért szánjon időt a tájékoztató táblák elolvasására, és készítsen egy emlékezetes fényképet.",
+            "ro": "Acest marcaj istoric esențial oferă context despre patrimoniul bogat al orașului, așa că citiți plăcile informative și faceți o fotografie memorabilă pentru a surprinde vizita.",
+            "en": "This essential historical marker gives context to the town's rich heritage, so take time to read the informative plaques and snap a memorable photo to capture your visit here."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în Aer Liber",
+            "en": "Open-Air Theatre"
+          },
+          "coords": [
+            -3.019384,
+            43.32123
+          ],
+          "category": "cultural",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses lebendige Freilichttheater beherbergt zahlreiche lokale Kulturveranstaltungen; überprüfen Sie den Spielplan im Voraus, um vielleicht eine tolle kostenlose Aufführung zu sehen.",
+            "hu": "Ez a nyüzsgő szabadtéri színház számos helyi kulturális eseménynek ad otthont, ezért érdemes előre ellenőrizni a műsort, hátha elcsíphet egy fantasztikus ingyenes előadást.",
+            "ro": "Acest teatru vibrant în aer liber găzduiește numeroase evenimente culturale locale, fiind recomandat să verificați programul în prealabil pentru o eventuală reprezentație gratuită.",
+            "en": "This vibrant open-air theater hosts numerous local cultural events, so it is highly recommended to check the schedule beforehand in hopes of catching a fantastic free performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikstudienzentrum",
+            "hu": "Zenei Tanulmányi Központ",
+            "ro": "Centrul de Studii Muzicale",
+            "en": "Music Studies Center"
+          },
+          "coords": [
+            -3.022633,
+            43.320693
+          ],
+          "category": "cultural",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Als zentraler kultureller Knotenpunkt voller künstlerischer Energie lässt Sie ein Spaziergang um dieses Gebäude die übenden Studenten hören und die echte lokale Atmosphäre spüren.",
+            "hu": "A művészeti energiával teli központi kulturális csomópont körüli séta során hallhatja a diákok gyakorlását, ami csodálatos ízelítőt ad a város autentikus, helyi hangulatából.",
+            "ro": "Ca un hub cultural central plin de energie artistică, o plimbare prin jurul acestei clădiri vă permite să auziți elevii exersând, oferindu-vă un sentiment autentic al atmosferei locale.",
+            "en": "As a central cultural hub filled with artistic energy, a stroll around this building lets you hear students practicing, giving you a wonderful sense of the authentic local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Siervas de María",
+            "hu": "Siervas de María kolostor",
+            "ro": "Mănăstirea Siervas de María",
+            "en": "Siervas de María Convent"
+          },
+          "coords": [
+            -3.020072,
+            43.318963
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieses friedliche Kloster bietet einen ruhigen Rückzugsort von den belebten Straßen und ist der perfekte letzte Halt, um Ihren Rundgang abzuschließen und den Tag Revue passieren zu lassen.",
+            "hu": "Ez a békés kolostor csendes, elmélyült menedéket nyújt a nyüzsgő utcák elől, így tökéletes utolsó állomás a gyalogtúra lezárásához és a nap élményeinek átgondolásához.",
+            "ro": "Această mănăstire pașnică oferă o retragere liniștită de pe străzile aglomerate, fiind oprirea finală perfectă pentru a vă încheia turul pietonal și a reflecta asupra zilei.",
+            "en": "This peaceful convent offers a quiet, contemplative retreat from the bustling streets, making it the perfect final stop to wrap up your walking tour and reflect on your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der herrlichen gotischen Architektur der örtlichen Basilika.\n\nBewundern Sie am Mittag die unglaubliche Struktur der Schwebefähre, bevor Sie in das lokale Erbe eintauchen.\n\nGenießen Sie am Nachmittag die lebhafte kulturelle Atmosphäre rund um das Freilichttheater und das Musikzentrum.\n\nLassen Sie den Tag an einem ruhigen Kloster friedlich ausklingen.",
+        "hu": "Kezdje a reggelt a helyi bazilika csodálatos gótikus építészetének felfedezésével, és merüljön el a történelmi hangulatban.\n\nDélben csodálja meg a szállítóhíd hihetetlen szerkezetét, mielőtt megismerné a helyi örökséget.\n\nDélután élvezze az élénk kulturális légkört a szabadtéri színház és a zenei központ körül.\n\nFejezze be a napját, igazi békére lelve egy nyugodt, csendes kolostorban.",
+        "ro": "Începeți dimineața explorând magnifica arhitectură gotică a bazilicii locale, absorbind ambianța sa istorică.\n\nLa prânz, admirați structura incredibilă a podului transbordor înainte de a vă adânci în patrimoniu.\n\nDupă-amiaza, bucurați-vă de atmosfera culturală plină de viață în jurul teatrului în aer liber și al centrului muzical.\n\nÎncheiați-vă ziua găsind pacea la o mănăstire liniștită.",
+        "en": "Start your morning exploring the magnificent Gothic architecture of the local basilica, soaking in its historical ambiance.\n\nBy midday, marvel at the incredible structure of the transporter bridge before delving into the local heritage.\n\nIn the afternoon, enjoy the lively cultural atmosphere around the open-air theater and music center.\n\nEnd your day finding true peace at a serene convent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Biskaya-Brücke",
+            "hu": "Vizcaya-híd",
+            "ro": "Podul Vizcaya",
+            "en": "Vizcaya Bridge"
+          },
+          "coords": [
+            -3.017138,
+            43.323214
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese ikonische Schwebefähre ist ein bemerkenswertes UNESCO-Weltkulturerbe; fahren Sie unbedingt mit der Gondel nach Getxo, um den spektakulären Panoramablick zu genießen.",
+            "hu": "Ez az ikonikus szállítóhíd egy lenyűgöző UNESCO-helyszín, ezért mindenképpen utazzon át a gondolával Getxo-ba, hogy élvezhesse az egész torkolatra nyíló látványos panorámát.",
+            "ro": "Acest pod transbordor iconic este un sit UNESCO remarcabil, așa că asigurați-vă că faceți o plimbare cu gondola către Getxo pentru a savura priveliștile panoramice spectaculoase.",
+            "en": "This iconic transporter bridge is a remarkable UNESCO site, so make sure to ride the gondola across the river to Getxo for spectacular panoramic views of the entire estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Park von Santurtzi",
+            "hu": "Santurtzi park",
+            "ro": "Parcul din Santurtzi",
+            "en": "Santurtzi Park"
+          },
+          "coords": [
+            -3.031578,
+            43.328847
+          ],
+          "category": "park",
+          "arrive_at": "09:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen zentralen Park, um das tägliche Leben hautnah mitzuerleben, und suchen Sie sich eine schattige Bank, um sich ein paar Minuten auszuruhen.",
+            "hu": "Sétáljon át ezen a központi parkon, hogy megtapasztalja a helyiek mindennapi életét, és keressen egy árnyékos padot, ahol megpihenhet néhány percre az utazás folytatása előtt.",
+            "ro": "Plimbați-vă prin acest parc central pentru a experimenta viața de zi cu zi a localnicilor, găsind o bancă umbrită pentru a vă relaxa câteva minute înainte de a continua.",
+            "en": "Stroll through this central park to experience local daily life firsthand, finding a shaded bench to relax for a few minutes before continuing your journey through the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Santurtzi",
+            "hu": "Santurtzi Városháza",
+            "ro": "Primăria din Santurtzi",
+            "en": "Santurtzi Town Hall"
+          },
+          "coords": [
+            -3.032955,
+            43.328785
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Das Rathaus ist ein wunderschönes architektonisches Herzstück der Gemeinde; achten Sie auf seine elegante Fassade und genießen Sie die lebhafte Atmosphäre des umliegenden Platzes.",
+            "hu": "A városháza a település gyönyörű építészeti központjaként szolgál, ezért figyelje meg az elegáns homlokzatot, és élvezze a környező tér pezsgő, barátságos hangulatát.",
+            "ro": "Primăria reprezintă o piesă arhitecturală centrală a municipalității, așa că observați fațada sa elegantă și bucurați-vă de atmosfera plină de viață a pieței înconjurătoare.",
+            "en": "The town hall stands as a beautiful architectural centerpiece of the municipality, so take note of its elegant facade and enjoy the bustling atmosphere of the surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeresmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Museum of the Sea"
+          },
+          "coords": [
+            -3.030966,
+            43.330567
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefgreifende maritime Geschichte der Region ein und erfahren Sie mehr über die traditionellen Fangmethoden, die diese Küstengemeinde maßgeblich geprägt haben.",
+            "hu": "Merüljön el a régió mély tengerészeti történelmében a magával ragadó kiállításokon keresztül, és ismerje meg a partmenti közösséget formáló hagyományos halászati technikákat.",
+            "ro": "Pătrundeți în istoria maritimă a regiunii prin expoziții captivante, acordând o atenție specială tehnicilor tradiționale de pescuit care au modelat această comunitate de coastă.",
+            "en": "Dive into the deep maritime history of the region through engaging exhibits, taking special care to learn about the traditional fishing techniques that shaped this coastal community."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischereimuseum Agurtza",
+            "hu": "Agurtza Halászati Múzeum",
+            "ro": "Muzeul Pescuitului Agurtza",
+            "en": "Agurtza Museum of Fishing"
+          },
+          "coords": [
+            -3.023685,
+            43.326954
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie an Bord dieses authentisch erhaltenen Fischerbootes aus Holz, um das harte, aber faszinierende Leben der baskischen Fischer durch die Erkundung der engen Räume zu verstehen.",
+            "hu": "Szálljon fel erre az autentikusan megőrzött, történelmi fa halászhajóra, hogy a szűk fedélzeti szállások felfedezésével megértse a baszk halászok kimerítő, mégis lenyűgöző életét.",
+            "ro": "Urcați la bordul acestei bărci de pescuit istorice pentru a înțelege viața fascinantă, dar dificilă a pescarilor basci, explorând cartierele înguste și autentice de pe navă.",
+            "en": "Board this authentically preserved historic wooden fishing boat to truly understand the grueling yet fascinating life of Basque fishermen by exploring the tight onboard quarters."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Santa María",
+            "hu": "Santa María-bazilika",
+            "ro": "Bazilica Santa María",
+            "en": "Basilica of Santa María"
+          },
+          "coords": [
+            -3.016724,
+            43.319818
+          ],
+          "category": "religious",
+          "arrive_at": "15:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser Basilika schon früh am Tag und betrachten Sie das detailreiche Renaissance-Portal, bevor sich die Touristenmassen ansammeln.",
+            "hu": "Csodálja meg a bazilika lenyűgöző gótikus építészetét kora reggel, és szánjon időt a részletgazdag reneszánsz portál megtekintésére, mielőtt a turisták hada megérkezik.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei bazilici la începutul zilei, acordând un moment pentru a aprecia portalul detaliat renascentist înainte ca mulțimile să apară.",
+            "en": "Admire the striking Gothic architecture of this basilica early in the day, taking a moment to appreciate the detailed Renaissance portal before the tourist crowds gather."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer an der ikonischen Schwebefähre und bewundern Sie ihre industrielle Schönheit im Morgenlicht.\n\nRadeln Sie gegen Mittag zur grünen Oase des Stadtparks und bewundern Sie das Rathaus.\n\nVerbringen Sie Ihren Nachmittag damit, die faszinierende maritime Geschichte in zwei Meeresmuseen zu erkunden.\n\nBeenden Sie Ihre Tour in der Nähe der historischen Basilika.",
+        "hu": "Indítsa kerékpáros kalandját az ikonikus szállítóhídnál, és csodálja meg ipari szépségét a reggeli fényben.\n\nAhogy közeledik a dél, tekerjen a helyi park zöld oázisa felé.\n\nDélutánját töltse a lenyűgöző tengerészeti történelem felfedezésével két különböző múzeumban, amelyek a régió halászati múltját mutatják be.\n\nFejezze be az utazást a lenyűgöző történelmi bazilika közelében.",
+        "ro": "Începeți aventura pe bicicletă la podul transbordor iconic, admirând frumusețea sa industrială.\n\nPe măsură ce se apropie prânzul, pedalați spre oaza verde a parcului local și admirați arhitectura civică din apropiere.\n\nPetreceți-vă după-amiaza explorând istoria maritimă fascinantă în două muzee ale mării diferite.\n\nÎncheiați cursa înapoi lângă uimitoarea bazilică istorică.",
+        "en": "Kick off your biking adventure at the iconic transporter bridge, marveling at its industrial beauty in the morning light.\n\nAs midday approaches, pedal towards the green oasis of the local park and admire the nearby civic architecture.\n\nSpend your afternoon exploring fascinating maritime history across two different sea museums.\n\nConclude your ride back near the stunning historic basilica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Meeresmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Mării",
+            "en": "Museum of the Sea"
+          },
+          "coords": [
+            -3.030966,
+            43.330567
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tiefgreifende maritime Geschichte der Region ein und erfahren Sie mehr über die traditionellen Fangmethoden, die diese Küstengemeinde maßgeblich geprägt haben.",
+            "hu": "Merüljön el a régió mély tengerészeti történelmében a magával ragadó kiállításokon keresztül, és ismerje meg a partmenti közösséget formáló hagyományos halászati technikákat.",
+            "ro": "Pătrundeți în istoria maritimă a regiunii prin expoziții captivante, acordând o atenție specială tehnicilor tradiționale de pescuit care au modelat această comunitate de coastă.",
+            "en": "Dive into the deep maritime history of the region through engaging exhibits, taking special care to learn about the traditional fishing techniques that shaped this coastal community."
+          }
+        },
+        {
+          "name": {
+            "de": "Biskaya-Brücke",
+            "hu": "Vizcaya-híd",
+            "ro": "Podul Vizcaya",
+            "en": "Vizcaya Bridge"
+          },
+          "coords": [
+            -3.017138,
+            43.323214
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Diese ikonische Schwebefähre ist ein bemerkenswertes UNESCO-Weltkulturerbe; fahren Sie unbedingt mit der Gondel nach Getxo, um den spektakulären Panoramablick zu genießen.",
+            "hu": "Ez az ikonikus szállítóhíd egy lenyűgöző UNESCO-helyszín, ezért mindenképpen utazzon át a gondolával Getxo-ba, hogy élvezhesse az egész torkolatra nyíló látványos panorámát.",
+            "ro": "Acest pod transbordor iconic este un sit UNESCO remarcabil, așa că asigurați-vă că faceți o plimbare cu gondola către Getxo pentru a savura priveliștile panoramice spectaculoase.",
+            "en": "This iconic transporter bridge is a remarkable UNESCO site, so make sure to ride the gondola across the river to Getxo for spectacular panoramic views of the entire estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Roque",
+            "hu": "San Roque remetelak",
+            "ro": "Schitul San Roque",
+            "en": "San Roque Hermitage"
+          },
+          "coords": [
+            -3.020987,
+            43.317894
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde historische Einsiedelei, die dem Schutzpatron der Pestopfer gewidmet ist, und nutzen Sie die ruhige Atmosphäre für eine stille spirituelle Reflexion.",
+            "hu": "Látogasson el a pestisáldozatok védőszentjének szentelt, bájos történelmi remetelakba, és használja ki az itteni nyugodt légkört egy csendes, spirituális elmélyülésre.",
+            "ro": "Vizitați acest schit istoric fermecător dedicat sfântului patron al victimelor ciumei, folosind atmosfera senină de aici ca o oportunitate perfectă pentru reflecție spirituală liniștită.",
+            "en": "Visit this charming historic hermitage dedicated to the patron saint of plague victims, using the serene atmosphere here as a perfect opportunity for quiet spiritual reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturgebiet La Manzanera",
+            "hu": "La Manzanera természeti terület",
+            "ro": "Zona naturală La Manzanera",
+            "en": "La Manzanera Natural Area"
+          },
+          "coords": [
+            -3.048359,
+            43.312204
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich wieder mit der Natur auf einer gemütlichen Wanderung durch dieses weitläufige Naturgebiet; bringen Sie bequeme Schuhe und eine Kamera für die vielfältige Flora mit.",
+            "hu": "Kerüljön újra kapcsolatba a természettel egy kényelmes túra során ezen a kiterjedt természeti területen, és feltétlenül hozzon magával kényelmes cipőt, valamint fényképezőgépet.",
+            "ro": "Reconectați-vă cu natura printr-o drumeție relaxantă în această zonă naturală vastă, asigurându-vă că aduceți încălțăminte confortabilă și o cameră pentru flora și fauna diversă.",
+            "en": "Reconnect with nature by taking a leisurely hike through this expansive natural area, ensuring you bring comfortable shoes and a camera for the diverse local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Bernabé",
+            "hu": "San Bernabé remetelak",
+            "ro": "Schitul San Bernabé",
+            "en": "Hermitage of San Bernabé"
+          },
+          "coords": [
+            -3.040159,
+            43.309359
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieses bescheidene, aber historisch bedeutsame Wahrzeichen bietet einen wunderbaren Einblick in die religiösen Traditionen der Gegend und ist ein bereichernder Stopp auf Ihrer Fahrt.",
+            "hu": "Ez a szerény, mégis történelmileg jelentős mérföldkő csodálatos bepillantást nyújt a környék vallási hagyományaiba, így egy gyors, de mélyen gazdagító megálló az autós túrán.",
+            "ro": "Acest punct de reper modest, dar semnificativ istoric, oferă o privire minunată asupra tradițiilor religioase din zonă, devenind o oprire scurtă, dar profundă pe traseul dumneavoastră.",
+            "en": "This modest yet historically significant landmark provides a wonderful glimpse into religious traditions of the area, making it a quick but deeply enriching stop on your driving tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -3.038133,
+            43.305319
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im bürgerlichen Herzen des südlichen Bezirks an diesem stattlichen Rathaus und trinken Sie in der Nähe einen Kaffee, um die lokale Atmosphäre zu genießen.",
+            "hu": "Fejezze be a napját a déli kerület polgári központjának megfigyelésével ennél a tekintélyes városházánál, és igyon egy kávét a közelben, miközben a lenyűgöző építészetet csodálja.",
+            "ro": "Încheiați ziua observând inima civică a districtului sudic la această primărie impunătoare, luând o cafea în apropiere pentru a privi localnicii trecând pe lângă arhitectura grandioasă.",
+            "en": "End your day observing the civic heart of the southern district at this stately town hall, grabbing a coffee nearby to watch the locals pass by the grand institutional architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem tiefen Einblick in das reiche maritime Erbe der Region im Hauptmeeresmuseum.\n\nMachen Sie mittags kurze, malerische Stopps an der weltberühmten Schwebefähre und einer charmanten Einsiedelei.\n\nDer Nachmittag wird durch einen erfrischenden Spaziergang in einem Naturgebiet hervorgehoben.\n\nLassen Sie den Tag bei den klassischen Gebäuden im südlichen Bezirk ausklingen.",
+        "hu": "Kezdje autós túráját azzal, hogy elmerül a gazdag helyi tengerészeti örökségben a fő tengerészeti múzeumban.\n\nDélben tegyen rövid, festői megállókat a világhírű szállítóhídnál és egy bájos történelmi remetelaknál.\n\nA délután fénypontja egy frissítő természeti séta lesz egy gyönyörű, kiterjedt zöldterületen.\n\nZárja a napot a déli kerület klasszikus intézményi épületeinek meglátogatásával.",
+        "ro": "Începeți turul auto prin a vă cufunda în bogatul patrimoniu maritim local la principalul muzeu al mării.\n\nLa prânz, faceți opriri pitorești rapide la podul transbordor de renume mondial și la un schit fermecător.\n\nDupă-amiaza va fi evidențiată printr-o plimbare revigorantă prin natură într-o frumoasă zonă verde.\n\nÎncheiați-vă ziua vizitând clădirile instituționale clasice din districtul sudic.",
+        "en": "Begin your driving tour by immersing yourself in the rich local maritime heritage at the main sea museum.\n\nBy midday, make quick scenic stops at the world-famous transporter bridge and a charming historic hermitage.\n\nYour afternoon will be highlighted by a refreshing nature walk through a beautiful expansive green area.\n\nWrap up your day visiting classic institutional buildings in the southern district."
+      }
+    }
+  }
+}

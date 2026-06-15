@@ -1,0 +1,474 @@
+{
+  "city_id": "le-haillan",
+  "anchor": {
+    "name": "Le Haillan",
+    "coords": [
+      -0.6769,
+      44.8717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Merci",
+            "hu": "Notre-Dame-de-la-Merci templom",
+            "ro": "Biserica Notre-Dame-de-la-Merci",
+            "en": "Notre-Dame-de-la-Merci Church"
+          },
+          "coords": [
+            -0.676909,
+            44.873939
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser friedlichen Pfarrkirche und kommen Sie am Morgen, wenn das Licht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg e békés plébániatemplom gyönyörű építészetét, és érdemes reggel érkezni, amikor a fény csodásan megvilágítja a színes ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale pașnice și vizitați-o dimineața, când lumina iluminează minunat vitraliile sale colorate.",
+            "en": "Admire the beautiful architecture of this peaceful parish church and remember to visit in the morning when the light beautifully illuminates its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Entrepôt",
+            "hu": "L'Entrepôt",
+            "ro": "L'Entrepôt",
+            "en": "L'Entrepôt"
+          },
+          "coords": [
+            -0.676785,
+            44.874198
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Erleben Sie das reichhaltige kulturelle Angebot dieses dynamischen Veranstaltungssaals und prüfen Sie das Programm im Voraus, um Tickets für lokale Stücke zu sichern.",
+            "hu": "Tapasztalja meg e dinamikus előadóterem gazdag kulturális kínálatát, és előzetesen ellenőrizze a műsort, hogy jegyet válthasson a helyi színházi produkciókra.",
+            "ro": "Experimentați oferta culturală bogată a acestei săli de spectacole și verificați programul în avans pentru a rezerva bilete la teatrul sau muzica locală.",
+            "en": "Experience the rich cultural offerings of this dynamic performance hall, and check their schedule in advance to secure tickets for local theatre or music acts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel-Air Anwesen",
+            "hu": "Bel-Air birtok",
+            "ro": "Domeniul Bel-Air",
+            "en": "Bel-Air Estate"
+          },
+          "coords": [
+            -0.672829,
+            44.872183
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende historische Gelände dieses eleganten Anwesens, wo bequeme Wanderschuhe Ihnen helfen, die weitläufigen Wege voll zu genießen.",
+            "hu": "Fedezze fel ezen elegáns birtok lenyűgöző történelmi területét, ahol kényelmes sétacipő viselése segít abban, hogy maradéktalanul élvezze a kiterjedt ösvényeket.",
+            "ro": "Explorați terenurile istorice fascinante ale acestei proprietăți elegante, unde purtarea pantofilor comozi vă va ajuta să apreciați pe deplin aleile extinse.",
+            "en": "Explore the fascinating historical grounds of this elegant estate, where wearing comfortable walking shoes will help you fully appreciate the expansive surrounding paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel-Air Park",
+            "hu": "Bel-Air park",
+            "ro": "Parcul Bel-Air",
+            "en": "Bel-Air Park"
+          },
+          "coords": [
+            -0.672829,
+            44.872183
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im üppigen Grün dieses weitläufigen öffentlichen Parks, der der perfekte Ort ist, um ein Lunchpaket für ein ruhiges Picknick mitzubringen.",
+            "hu": "Pihenjen meg e tágas közpark buja zöldjében, amely tökéletes helyszínt biztosít ahhoz, hogy egy csomagolt ebéddel csendes pikniket tartson az ősi fák árnyékában.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc public spațios, locul perfect pentru a aduce un prânz la pachet și a vă bucura de un picnic liniștit.",
+            "en": "Relax in the lush greenery of this spacious public park, making it the perfect spot to bring a packed lunch for a quiet picnic under the shade of ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Phytotreatment-Becken",
+            "hu": "Fitotisztító medence",
+            "ro": "Bazinul de fitotratare",
+            "en": "Phytotreatment Water Basin"
+          },
+          "coords": [
+            -0.653207,
+            44.872059
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ökologische Bedeutung dieses ehemaligen Schwimmbads und bringen Sie ein Fernglas mit, um die vielfältigen Vögel zu beobachten, die hierher kommen.",
+            "hu": "Fedezze fel ezen egykori medencéből lett víztisztító medence ökológiai fontosságát, és hozzon távcsövet a változatos, ezen élőhelyet felkereső madarak megfigyeléséhez.",
+            "ro": "Descoperiți importanța ecologică a acestui fost bazin transformat, și aduceți un binoclu pentru a observa diversele păsări atrase de acest habitat natural uimitor.",
+            "en": "Discover the ecological importance of this former swimming pool turned water treatment basin, and bring binoculars to observe the diverse birds attracted to this habitat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der spirituellen Ruhe der zentralen Kirche, die eine friedliche Stimmung verbreitet. Spüren Sie die künstlerische Atmosphäre in der Kulturhalle, bevor Sie zum historischen Anwesen aufbrechen. Der Nachmittag ist geprägt vom üppigen Grün im Bel-Air Park und der Erkundung des ökologischen Beckens. Beenden Sie Ihren Spaziergang mit Gedanken an die Stadt.",
+        "hu": "Kezdje a napot a központi templom nyugalmával, amely békés alaphangot ad. Ezt követően szívja magába a helyi kulturális központ művészeti hangulatát, majd induljon el a történelmi birtok felé. A délutánt a Bel-Air park zöldjében és a különleges ökológiai víztisztító medence felfedezésével tölti. Zárja kellemes sétáját Le Haillan fejlődésén elmélkedve.",
+        "ro": "Începeți ziua îmbrățișând liniștea bisericii centrale. Apoi, absorbiți vibrația artistică de la sala de spectacole înainte de a vă îndrepta spre proprietatea istorică. După-amiaza este plină de verdeața din Parcul Bel-Air și explorarea unicului bazin ecologic. Încheiați-vă plimbarea relaxantă reflectând la frumoasa transformare a orașului Le Haillan.",
+        "en": "Start your day embracing the spiritual tranquility of the central church, setting a peaceful tone. Next, absorb the artistic vibe at the local performance hall before venturing towards the historical estate. Your afternoon is filled with greenery at Bel-Air Park and exploring the unique ecological water basin. Conclude your leisurely stroll reflecting on Le Haillan's transformation."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Merci",
+            "hu": "Notre-Dame-de-la-Merci templom",
+            "ro": "Biserica Notre-Dame-de-la-Merci",
+            "en": "Notre-Dame-de-la-Merci Church"
+          },
+          "coords": [
+            -0.676909,
+            44.873939
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser friedlichen Pfarrkirche und kommen Sie am Morgen, wenn das Licht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg e békés plébániatemplom gyönyörű építészetét, és érdemes reggel érkezni, amikor a fény csodásan megvilágítja a színes ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale pașnice și vizitați-o dimineața, când lumina iluminează minunat vitraliile sale colorate.",
+            "en": "Admire the beautiful architecture of this peaceful parish church and remember to visit in the morning when the light beautifully illuminates its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Entrepôt",
+            "hu": "L'Entrepôt",
+            "ro": "L'Entrepôt",
+            "en": "L'Entrepôt"
+          },
+          "coords": [
+            -0.676785,
+            44.874198
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Erleben Sie das reichhaltige kulturelle Angebot dieses dynamischen Veranstaltungssaals und prüfen Sie das Programm im Voraus, um Tickets für lokale Stücke zu sichern.",
+            "hu": "Tapasztalja meg e dinamikus előadóterem gazdag kulturális kínálatát, és előzetesen ellenőrizze a műsort, hogy jegyet válthasson a helyi színházi produkciókra.",
+            "ro": "Experimentați oferta culturală bogată a acestei săli de spectacole și verificați programul în avans pentru a rezerva bilete la teatrul sau muzica locală.",
+            "en": "Experience the rich cultural offerings of this dynamic performance hall, and check their schedule in advance to secure tickets for local theatre or music acts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel-Air Anwesen",
+            "hu": "Bel-Air birtok",
+            "ro": "Domeniul Bel-Air",
+            "en": "Bel-Air Estate"
+          },
+          "coords": [
+            -0.672829,
+            44.872183
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende historische Gelände dieses eleganten Anwesens, wo bequeme Wanderschuhe Ihnen helfen, die weitläufigen Wege voll zu genießen.",
+            "hu": "Fedezze fel ezen elegáns birtok lenyűgöző történelmi területét, ahol kényelmes sétacipő viselése segít abban, hogy maradéktalanul élvezze a kiterjedt ösvényeket.",
+            "ro": "Explorați terenurile istorice fascinante ale acestei proprietăți elegante, unde purtarea pantofilor comozi vă va ajuta să apreciați pe deplin aleile extinse.",
+            "en": "Explore the fascinating historical grounds of this elegant estate, where wearing comfortable walking shoes will help you fully appreciate the expansive surrounding paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel-Air Park",
+            "hu": "Bel-Air park",
+            "ro": "Parcul Bel-Air",
+            "en": "Bel-Air Park"
+          },
+          "coords": [
+            -0.672829,
+            44.872183
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im üppigen Grün dieses weitläufigen öffentlichen Parks, der der perfekte Ort ist, um ein Lunchpaket für ein ruhiges Picknick mitzubringen.",
+            "hu": "Pihenjen meg e tágas közpark buja zöldjében, amely tökéletes helyszínt biztosít ahhoz, hogy egy csomagolt ebéddel csendes pikniket tartson az ősi fák árnyékában.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc public spațios, locul perfect pentru a aduce un prânz la pachet și a vă bucura de un picnic liniștit.",
+            "en": "Relax in the lush greenery of this spacious public park, making it the perfect spot to bring a packed lunch for a quiet picnic under the shade of ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Phytotreatment-Becken",
+            "hu": "Fitotisztító medence",
+            "ro": "Bazinul de fitotratare",
+            "en": "Phytotreatment Water Basin"
+          },
+          "coords": [
+            -0.653207,
+            44.872059
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ökologische Bedeutung dieses ehemaligen Schwimmbads und bringen Sie ein Fernglas mit, um die vielfältigen Vögel zu beobachten, die hierher kommen.",
+            "hu": "Fedezze fel ezen egykori medencéből lett víztisztító medence ökológiai fontosságát, és hozzon távcsövet a változatos, ezen élőhelyet felkereső madarak megfigyeléséhez.",
+            "ro": "Descoperiți importanța ecologică a acestui fost bazin transformat, și aduceți un binoclu pentru a observa diversele păsări atrase de acest habitat natural uimitor.",
+            "en": "Discover the ecological importance of this former swimming pool turned water treatment basin, and bring binoculars to observe the diverse birds attracted to this habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Játszótér",
+            "ro": "Loc de joacă pentru copii",
+            "en": "Children's Playground"
+          },
+          "coords": [
+            -0.652377,
+            44.87436
+          ],
+          "category": "family",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kleinen sich auf diesem ansprechenden Spielplatz austoben, der sichere Geräte und nahe gelegene Bänke bietet, auf denen sich die Eltern ausruhen können.",
+            "hu": "Hagyja, hogy a kicsik levezessék energiájukat ezen a játszótéren, amely rengeteg biztonságos felszerelést és közeli padokat kínál a szülők pihenéséhez.",
+            "ro": "Lăsați-i pe cei mici să-și consume energia la acest loc de joacă captivant, care oferă echipamente sigure și bănci în apropiere pentru ca părinții să se odihnească.",
+            "en": "Let the little ones burn off energy at this engaging playground area, which offers plenty of safe, well-maintained equipment and nearby benches for parents to rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Déhès-Wald",
+            "hu": "Déhès-erdő",
+            "ro": "Pădurea Déhès",
+            "en": "Déhès Woods"
+          },
+          "coords": [
+            -0.680199,
+            44.892008
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die ruhige Schönheit dieses natürlichen Waldes und denken Sie daran, in den wärmeren Monaten Mückenschutzmittel für eine angenehme Wanderung mitzunehmen.",
+            "hu": "Merüljön el e természetes erdő nyugodt szépségében, és ne felejtsen el szúnyogriasztót magával vinni a melegebb hónapokban, hogy kényelmes legyen a túrázás.",
+            "ro": "Cufundați-vă în frumusețea liniștită a acestei păduri naturale și nu uitați să luați repelent de țânțari în lunile calde pentru a asigura o drumeție confortabilă.",
+            "en": "Immerse yourself in the tranquil beauty of this natural woodland, and remember to carry mosquito repellent during the warmer months to ensure a comfortable hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am geschäftigen Kulturzentrum, bevor Sie die historische Kirche besuchen. Radeln Sie sanft zum eleganten Bel-Air-Anwesen und dem umliegenden Park. Nach dem Mittagessen fahren Sie zum faszinierenden ökologischen Becken und Spielplatz. Die letzte Etappe führt Sie tief in die friedlichen Déhès-Wälder, ein perfekter Abschluss für einen aktiven Tag.",
+        "hu": "Kezdje kerékpártúráját a nyüzsgő kulturális központban, majd látogasson el a történelmi templomba. Tekerjen el az elegáns Bel-Air birtokig és az azt körülvevő zöld parkig. Ebéd után lovagoljon a lenyűgöző ökológiai medence és a családi játszótér felé. Az utolsó szakasz mélyen a békés Déhès-erdőbe viszi, amely tökéletes természetes lezárása ennek az aktív napnak.",
+        "ro": "Începeți turul cu bicicleta la centrul cultural înainte de a vizita biserica istorică. Pedalați lin către eleganta proprietate Bel-Air și parcul său verde. După prânz, mergeți spre fascinantul bazin ecologic și zona de joacă. Ultima porțiune vă duce adânc în liniștitele păduri Déhès, oferind o încheiere naturală perfectă pentru o zi activă.",
+        "en": "Kick off your cycling tour at the bustling cultural hub before visiting the historic church. Pedal smoothly to the elegant Bel-Air Estate and its surrounding green park. After lunch, ride towards the fascinating ecological basin and family play area. The final stretch takes you deep into the peaceful Déhès Woods, offering a perfect natural wrap-up to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Entrepôt",
+            "hu": "L'Entrepôt",
+            "ro": "L'Entrepôt",
+            "en": "L'Entrepôt"
+          },
+          "coords": [
+            -0.676785,
+            44.874198
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das reichhaltige kulturelle Angebot dieses dynamischen Veranstaltungssaals und prüfen Sie das Programm im Voraus, um Tickets für lokale Stücke zu sichern.",
+            "hu": "Tapasztalja meg e dinamikus előadóterem gazdag kulturális kínálatát, és előzetesen ellenőrizze a műsort, hogy jegyet válthasson a helyi színházi produkciókra.",
+            "ro": "Experimentați oferta culturală bogată a acestei săli de spectacole și verificați programul în avans pentru a rezerva bilete la teatrul sau muzica locală.",
+            "en": "Experience the rich cultural offerings of this dynamic performance hall, and check their schedule in advance to secure tickets for local theatre or music acts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Merci",
+            "hu": "Notre-Dame-de-la-Merci templom",
+            "ro": "Biserica Notre-Dame-de-la-Merci",
+            "en": "Notre-Dame-de-la-Merci Church"
+          },
+          "coords": [
+            -0.676909,
+            44.873939
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser friedlichen Pfarrkirche und kommen Sie am Morgen, wenn das Licht die Buntglasfenster wunderschön beleuchtet.",
+            "hu": "Csodálja meg e békés plébániatemplom gyönyörű építészetét, és érdemes reggel érkezni, amikor a fény csodásan megvilágítja a színes ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale pașnice și vizitați-o dimineața, când lumina iluminează minunat vitraliile sale colorate.",
+            "en": "Admire the beautiful architecture of this peaceful parish church and remember to visit in the morning when the light beautifully illuminates its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bel-Air Anwesen",
+            "hu": "Bel-Air birtok",
+            "ro": "Domeniul Bel-Air",
+            "en": "Bel-Air Estate"
+          },
+          "coords": [
+            -0.672829,
+            44.872183
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende historische Gelände dieses eleganten Anwesens, wo bequeme Wanderschuhe Ihnen helfen, die weitläufigen Wege voll zu genießen.",
+            "hu": "Fedezze fel ezen elegáns birtok lenyűgöző történelmi területét, ahol kényelmes sétacipő viselése segít abban, hogy maradéktalanul élvezze a kiterjedt ösvényeket.",
+            "ro": "Explorați terenurile istorice fascinante ale acestei proprietăți elegante, unde purtarea pantofilor comozi vă va ajuta să apreciați pe deplin aleile extinse.",
+            "en": "Explore the fascinating historical grounds of this elegant estate, where wearing comfortable walking shoes will help you fully appreciate the expansive surrounding paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Déhès-Wald",
+            "hu": "Déhès-erdő",
+            "ro": "Pădurea Déhès",
+            "en": "Déhès Woods"
+          },
+          "coords": [
+            -0.680199,
+            44.892008
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die ruhige Schönheit dieses natürlichen Waldes und denken Sie daran, in den wärmeren Monaten Mückenschutzmittel für eine angenehme Wanderung mitzunehmen.",
+            "hu": "Merüljön el e természetes erdő nyugodt szépségében, és ne felejtsen el szúnyogriasztót magával vinni a melegebb hónapokban, hogy kényelmes legyen a túrázás.",
+            "ro": "Cufundați-vă în frumusețea liniștită a acestei păduri naturale și nu uitați să luați repelent de țânțari în lunile calde pentru a asigura o drumeție confortabilă.",
+            "en": "Immerse yourself in the tranquil beauty of this natural woodland, and remember to carry mosquito repellent during the warmer months to ensure a comfortable hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Planschbecken",
+            "hu": "Pancsoló",
+            "ro": "Piscina de copii",
+            "en": "Paddling Pool"
+          },
+          "coords": [
+            -0.654546,
+            44.847702
+          ],
+          "category": "family",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem familienfreundlichen Planschbecken, wo wasserfeste Sonnencreme wichtig ist, um die Kinder beim Spielen im Wasser zu schützen.",
+            "hu": "Élvezze a frissítő mártózást ebben a családbarát pancsolómedencében, ahol a vízálló naptej használata elengedhetetlen a gyermekek védelme érdekében a vízi játék során.",
+            "ro": "Bucurați-vă de o baie răcoritoare în această piscină pentru familii, unde aplicarea cremei solare rezistente la apă este esențială pentru a proteja copiii la soare.",
+            "en": "Enjoy a refreshing dip in this family-friendly paddling pool, where applying waterproof sunscreen early is essential to protect children during hours of water play."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordisches Becken",
+            "hu": "Északi medence",
+            "ro": "Bazinul nordic",
+            "en": "Nordic Pool"
+          },
+          "coords": [
+            -0.652069,
+            44.846903
+          ],
+          "category": "family",
+          "arrive_at": "14:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie energische Runden in diesem ausgezeichneten nordischen Freibad und prüfen Sie die öffentlichen Öffnungszeiten, um Überschneidungen mit Vereinen zu vermeiden.",
+            "hu": "Ússzon energikus hosszokat ebben a kiváló szabadtéri északi medencében, és mindenképpen ellenőrizze a nyitvatartást, hogy elkerülje a privát klubedzések időpontjait.",
+            "ro": "Înotați energic în această excelentă piscină nordică în aer liber și verificați orele de deschidere pentru public pentru a evita suprapunerea cu cluburile private.",
+            "en": "Swim energetic laps in this excellent open-air Nordic pool, and be sure to check the specific public opening hours to avoid overlapping with private club sessions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am lokalen Kunstort und genießen Sie die moderne Energie der Stadt. Eine kurze Fahrt bringt Sie zur Kirche und dem weitläufigen Bel-Air-Anwesen. Am Nachmittag entfliehen Sie auf die Wege der Déhès-Wälder. Ihre Reise endet mit erfrischenden Stopps an den südlichen Wasseranlagen, die perfekt für einen entspannten Abschluss sind.",
+        "hu": "Kezdje autós útját a helyi művészeti központban, magába szívva a város modern energiáját. Egy rövid út elviszi a főtemplom építészeti szépségéhez és a kiterjedt Bel-Air birtokhoz. Délután meneküljön el a Déhès-erdő kiterjedt ösvényeire. Utazása a déli vízi létesítményeknél tett frissítő megállókkal zárul, ami tökéletes egy nyugodt befejezéshez.",
+        "ro": "Începeți itinerariul auto la locația de arte, bucurându-vă de energia modernă. Un scurt drum vă aduce la frumusețea arhitecturală a bisericii principale și a vastului domeniu Bel-Air. După-amiaza, evadați pe traseele Pădurii Déhès. Călătoria dumneavoastră se încheie cu opriri răcoritoare la facilitățile acvatice din sud, perfecte pentru un final relaxat.",
+        "en": "Begin your driving itinerary at the local arts venue, soaking in the town's modern energy. A short drive brings you to the architectural beauty of the main church and the sprawling Bel-Air Estate. In the afternoon, escape to the sprawling trails of Déhès Woods. Your journey concludes with refreshing stops at the southern aquatic facilities, perfect for a relaxed finish."
+      }
+    }
+  }
+}

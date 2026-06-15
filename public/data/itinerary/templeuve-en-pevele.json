@@ -1,0 +1,474 @@
+{
+  "city_id": "templeuve-en-pevele",
+  "anchor": {
+    "name": "Templeuve-en-Pévèle",
+    "coords": [
+      3.175,
+      50.5267
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:24",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Templeuve",
+            "hu": "Templeuve Vasútállomás",
+            "ro": "Gara Templeuve",
+            "en": "Templeuve Railway Station"
+          },
+          "coords": [
+            3.17513,
+            50.528466
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhofsgebäude, das noch immer als Tor zur Region Pévèle dient und ein idealer Treffpunkt ist.",
+            "hu": "Kezdje útját ennél a történelmi vasútállomásnál, amely továbbra is a Pévèle régió kapujaként szolgál, így ideális találkozási pont.",
+            "ro": "Începeți-vă călătoria la această gară istorică, care încă servește drept poartă de acces către regiunea Pévèle, fiind un punct de întâlnire ideal.",
+            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Au Petit Théâtre",
+            "hu": "Au Petit Théâtre",
+            "ro": "Au Petit Théâtre",
+            "en": "Au Petit Théâtre"
+          },
+          "coords": [
+            3.173432,
+            50.529041
+          ],
+          "category": "cultural",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieses lokalen Kulturzentrums und prüfen Sie vorab den Spielplan, um eine einzigartige Aufführung zu erleben.",
+            "hu": "Élvezze a helyi kulturális központ meghitt hangulatát, és előzetesen ellenőrizze a műsort, hogy egyedi amatőr vagy profi előadást láthasson.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui centru cultural local, verificând programul în avans pentru a surprinde o reprezentație unică.",
+            "en": "Enjoy the intimate atmosphere of this local cultural hub by checking their schedule in advance to catch a unique amateur or professional performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandbild der Mühlenberufe",
+            "hu": "Malomipari Szakmák Freskója",
+            "ro": "Fresca Profesiilor de Morărit",
+            "en": "Fresque \"Les Métiers autour du Moulin\""
+          },
+          "coords": [
+            3.169293,
+            50.529147
+          ],
+          "category": "landmark",
+          "arrive_at": "11:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses lebhafte Wandbild von Przygodzsky über traditionelle Mühlenberufe und kommen Sie an einem sonnigen Tag für die besten Fotos.",
+            "hu": "Csodálja meg Przygodzsky hagyományos malomipari szakmákat ábrázoló élénk freskóját, és napos időben jöjjön, hogy a legjobb fotókat készíthesse.",
+            "ro": "Admirați această frescă vibrantă de Przygodzsky cu profesii tradiționale de morărit și vizitați-o într-o zi însorită pentru cele mai bune fotografii.",
+            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.169401,
+            50.52696
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizvolle Kirche, um die Buntglasfenster zu bewundern, und verhalten Sie sich beim Erkunden des Kirchenschiffs stets ruhig.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja az ólomüveg ablakokat, és a hajó, valamint az oltár felfedezése közben őrizze meg a csendet.",
+            "ro": "Pășiți în această biserică fermecătoare pentru vitraliile sale și păstrați o atitudine liniștită în timp ce explorați naosul și altarul.",
+            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Baratte",
+            "hu": "Baratte Kastély",
+            "ro": "Castelul Baratte",
+            "en": "Chateau Baratte"
+          },
+          "coords": [
+            3.174146,
+            50.532156
+          ],
+          "category": "cultural",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang um das wunderschöne Schloss, um die Architektur zu bewundern, wobei private Bereiche gesperrt sein können.",
+            "hu": "Sétáljon egyet ennek a gyönyörű kastélynak a külseje körül, hogy megcsodálja építészetét, de vegye figyelembe a magánterületekre vonatkozó korlátozásokat.",
+            "ro": "Plimbați-vă în jurul acestui frumos castel pentru a-i aprecia arhitectura, dar rețineți că accesul în zonele private ar putea fi restricționat.",
+            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Vertain",
+            "hu": "Vertain Malom",
+            "ro": "Moara din Vertain",
+            "en": "Moulin de Vertain"
+          },
+          "coords": [
+            3.177758,
+            50.536078
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
+            "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
+            "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Bahnhof und tauchen Sie im gemütlichen Petit Théâtre in die lokale Kunstszene ein. Gegen Mittag bewundern Sie das faszinierende Wandbild der alten Müllerberufe, bevor Sie die friedliche Kirche Saint-Martin besuchen. Verbringen Sie Ihren Nachmittag damit, das elegante Chateau Baratte zu erkunden und die architektonische Schönheit zu genießen. Beenden Sie Ihren Tagesausflug mit einem letzten Halt an der ikonischen Mühle von Vertain, ein perfekter Ort für den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a történelmi vasútállomáson, majd merüljön el a helyi művészeti életben a hangulatos Petit Théâtre-ban. Délidőben álljon meg a régi molnár szakmákat ábrázoló lenyűgöző freskónál, mielőtt meglátogatná a békés Saint-Martin templomot. Töltse a délutánt az elegáns Chateau Baratte körüli sétával, átadva magát a Pévèle régió építészeti szépségének. Zárja a napot az ikonikus Moulin de Vertain-nél, amely tökéletes helyszín a lenyugvó nap megtekintéséhez.",
+        "ro": "Începeți dimineața la gara istorică, apoi cufundați-vă în scena artistică locală la cochetul Petit Théâtre. La prânz, opriți-vă la fresca fascinantă a vechilor profesii de morar înainte de a vizita liniștita Biserică Saint-Martin. Petreceți după-amiaza plimbându-vă în jurul elegantului Chateau Baratte, bucurându-vă de frumusețea arhitecturală a regiunii Pévèle. Încheiați-vă excursia cu o ultimă oprire la emblematica Moulin de Vertain, un loc perfect pentru a privi apusul.",
+        "en": "Start your morning right at the historical railway station, proceeding to immerse yourself in the local arts scene at the cozy Petit Théâtre. As midday approaches, stop by the fascinating mural depicting old milling professions before visiting the peaceful Saint-Martin Church. Spend your afternoon wandering around the elegant Chateau Baratte, soaking in the architectural beauty of the Pévèle region. Conclude your day trip with a final stop at the iconic Moulin de Vertain, a perfect spot to watch the sun begin to set over the rolling landscape."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Templeuve",
+            "hu": "Templeuve Vasútállomás",
+            "ro": "Gara Templeuve",
+            "en": "Templeuve Railway Station"
+          },
+          "coords": [
+            3.17513,
+            50.528466
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhofsgebäude, das noch immer als Tor zur Region Pévèle dient und ein idealer Treffpunkt ist.",
+            "hu": "Kezdje útját ennél a történelmi vasútállomásnál, amely továbbra is a Pévèle régió kapujaként szolgál, így ideális találkozási pont.",
+            "ro": "Începeți-vă călătoria la această gară istorică, care încă servește drept poartă de acces către regiunea Pévèle, fiind un punct de întâlnire ideal.",
+            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandbild der Mühlenberufe",
+            "hu": "Malomipari Szakmák Freskója",
+            "ro": "Fresca Profesiilor de Morărit",
+            "en": "Fresque \"Les Métiers autour du Moulin\""
+          },
+          "coords": [
+            3.169293,
+            50.529147
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses lebhafte Wandbild von Przygodzsky über traditionelle Mühlenberufe und kommen Sie an einem sonnigen Tag für die besten Fotos.",
+            "hu": "Csodálja meg Przygodzsky hagyományos malomipari szakmákat ábrázoló élénk freskóját, és napos időben jöjjön, hogy a legjobb fotókat készíthesse.",
+            "ro": "Admirați această frescă vibrantă de Przygodzsky cu profesii tradiționale de morărit și vizitați-o într-o zi însorită pentru cele mai bune fotografii.",
+            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Vertain",
+            "hu": "Vertain Malom",
+            "ro": "Moara din Vertain",
+            "en": "Moulin de Vertain"
+          },
+          "coords": [
+            3.177758,
+            50.536078
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
+            "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
+            "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Visitation",
+            "hu": "Notre-Dame-de-la-Visitation Templom",
+            "ro": "Biserica Notre-Dame-de-la-Visitation",
+            "en": "Église Notre-Dame-de-la-Visitation"
+          },
+          "coords": [
+            3.214352,
+            50.530667
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die besondere Architektur dieser örtlichen Pfarrei und parken Sie Ihr Fahrrad sicher, bevor Sie für einen ruhigen Moment eintreten.",
+            "hu": "Csodálja meg e helyi plébánia különleges építészetét, és biztonságosan parkolja le kerékpárját, mielőtt belépne egy csendes pillanatra.",
+            "ro": "Admirați arhitectura religioasă distinctă a acestei parohii locale și parcați-vă bicicleta în siguranță înainte de a intra pentru un moment de liniște.",
+            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            3.172103,
+            50.509961
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche ländliche Kirche, in der oft weniger los ist, und nutzen Sie sie als perfekten kurzen Halt auf Ihrer Radtour.",
+            "hu": "Fedezze fel ezt a békés vidéki templomot, ahol ritkán van tömeg, így tökéletes egy rövid pihenőre a vidéki kerékpáros túra során.",
+            "ro": "Explorați această biserică rurală liniștită, unde de obicei nu este aglomerat, fiind un loc perfect pentru o scurtă pauză în timpul traseului cu bicicleta.",
+            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rupilly",
+            "hu": "Rupilly Kastély",
+            "ro": "Castelul Rupilly",
+            "en": "Château de Rupilly"
+          },
+          "coords": [
+            3.147819,
+            50.506911
+          ],
+          "category": "castle",
+          "arrive_at": "12:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nähern Sie sich diesem majestätischen Schloss über malerische Landstraßen, und machen Sie Ihre besten Fotos von den öffentlichen Wegen aus.",
+            "hu": "A festői vidéki utakon közelítse meg ezt a fenséges kastélyt, de ne feledje, hogy magánbirtok, így a legjobb fotókat a közutakról készítheti.",
+            "ro": "Apropiați-vă de acest castel maiestuos pe drumurile pitorești, reținând că este domeniu privat, deci cele mai bune fotografii se fac de pe drumul public.",
+            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Bahnhof und sehen Sie sich das lebhafte Wandbild der Müllerei an. Bis zum Mittag radeln Sie zur historischen Mühle von Vertain und spüren das landwirtschaftliche Erbe der Gegend. Fahren Sie am Nachmittag über malerische Routen zu den Kirchen Notre-Dame und Saint-Nicolas, die ländlichen Charme versprühen. Lassen Sie Ihren aktiven Tag am imposanten Château de Rupilly ausklingen und genießen Sie die ruhigen Landstraßen am frühen Abend.",
+        "hu": "Indítsa kerékpártúráját az állomásról, és nézze meg a lenyűgöző malomipari freskót, a helyi történelem színes mementóját. Délre tekerjen el az ikonikus Moulin de Vertain-hez, ahol megérezheti a környék mezőgazdasági örökségét. Délután festői utakon kerekezve látogassa meg a Notre-Dame és a Saint-Nicolas templomokat. Zárja ezt az aktív napot az impozáns Château de Rupilly-nél, élvezve a csendes vidéki utakat a közeledő este nyugalmában.",
+        "ro": "Începeți turul cu bicicleta de la gară și îndreptați-vă spre fresca morăritului, o dovadă colorată a istoriei locale. La prânz, pedalați spre emblematica Moulin de Vertain, simțind patrimoniul agricol. După-amiaza, mergeți pe rute pitorești pentru a vizita bisericile Notre-Dame și Saint-Nicolas, fiecare oferind un farmec rural distinct. Încheiați ziua activă la impunătorul Château de Rupilly, bucurându-vă de drumurile de țară liniștite în apropierea serii.",
+        "en": "Kick off your cycling tour at the station and quickly head to see the vibrant milling mural, a colorful testament to local history. By midday, cycle to the iconic Moulin de Vertain, getting a true sense of the area's agricultural heritage. In the afternoon, ride through the scenic routes to visit both Notre-Dame and Saint-Nicolas churches, each offering distinct rural charm. Wrap up your active day at the imposing Château de Rupilly, enjoying the quiet countryside roads as evening softly approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 9.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.169401,
+            50.52696
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizvolle Kirche, um die Buntglasfenster zu bewundern, und verhalten Sie sich beim Erkunden des Kirchenschiffs stets ruhig.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja az ólomüveg ablakokat, és a hajó, valamint az oltár felfedezése közben őrizze meg a csendet.",
+            "ro": "Pășiți în această biserică fermecătoare pentru vitraliile sale și păstrați o atitudine liniștită în timp ce explorați naosul și altarul.",
+            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Baratte",
+            "hu": "Baratte Kastély",
+            "ro": "Castelul Baratte",
+            "en": "Chateau Baratte"
+          },
+          "coords": [
+            3.174146,
+            50.532156
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen Spaziergang um das wunderschöne Schloss, um die Architektur zu bewundern, wobei private Bereiche gesperrt sein können.",
+            "hu": "Sétáljon egyet ennek a gyönyörű kastélynak a külseje körül, hogy megcsodálja építészetét, de vegye figyelembe a magánterületekre vonatkozó korlátozásokat.",
+            "ro": "Plimbați-vă în jurul acestui frumos castel pentru a-i aprecia arhitectura, dar rețineți că accesul în zonele private ar putea fi restricționat.",
+            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle von Vertain",
+            "hu": "Vertain Malom",
+            "ro": "Moara din Vertain",
+            "en": "Moulin de Vertain"
+          },
+          "coords": [
+            3.177758,
+            50.536078
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
+            "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
+            "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Visitation",
+            "hu": "Notre-Dame-de-la-Visitation Templom",
+            "ro": "Biserica Notre-Dame-de-la-Visitation",
+            "en": "Église Notre-Dame-de-la-Visitation"
+          },
+          "coords": [
+            3.214352,
+            50.530667
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die besondere Architektur dieser örtlichen Pfarrei und parken Sie Ihr Fahrrad sicher, bevor Sie für einen ruhigen Moment eintreten.",
+            "hu": "Csodálja meg e helyi plébánia különleges építészetét, és biztonságosan parkolja le kerékpárját, mielőtt belépne egy csendes pillanatra.",
+            "ro": "Admirați arhitectura religioasă distinctă a acestei parohii locale și parcați-vă bicicleta în siguranță înainte de a intra pentru un moment de liniște.",
+            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            3.172103,
+            50.509961
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche ländliche Kirche, in der oft weniger los ist, und nutzen Sie sie als perfekten kurzen Halt auf Ihrer Radtour.",
+            "hu": "Fedezze fel ezt a békés vidéki templomot, ahol ritkán van tömeg, így tökéletes egy rövid pihenőre a vidéki kerékpáros túra során.",
+            "ro": "Explorați această biserică rurală liniștită, unde de obicei nu este aglomerat, fiind un loc perfect pentru o scurtă pauză în timpul traseului cu bicicleta.",
+            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rupilly",
+            "hu": "Rupilly Kastély",
+            "ro": "Castelul Rupilly",
+            "en": "Château de Rupilly"
+          },
+          "coords": [
+            3.147819,
+            50.506911
+          ],
+          "category": "castle",
+          "arrive_at": "13:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Nähern Sie sich diesem majestätischen Schloss über malerische Landstraßen, und machen Sie Ihre besten Fotos von den öffentlichen Wegen aus.",
+            "hu": "A festői vidéki utakon közelítse meg ezt a fenséges kastélyt, de ne feledje, hogy magánbirtok, így a legjobb fotókat a közutakról készítheti.",
+            "ro": "Apropiați-vă de acest castel maiestuos pe drumurile pitorești, reținând că este domeniu privat, deci cele mai bune fotografii se fac de pe drumul public.",
+            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch der zentral gelegenen Kirche Saint-Martin, die reich an spiritueller Atmosphäre ist. Gegen Mittag fahren Sie zum majestätischen Chateau Baratte und zur Mühle von Vertain. Fahren Sie am Nachmittag bequem zu den Kirchen Notre-Dame und Saint-Nicolas und bewundern Sie die sanften Landschaften von Pévèle. Beenden Sie den Tag am entfernten Château de Rupilly, um vor dem Abendessen über die Geschichte der Region nachzudenken.",
+        "hu": "Kezdje autós túráját egy békés reggeli látogatással a központban található, spirituális hangulatú Saint-Martin templomban. Délidőben vezessen ki a fenséges Chateau Baratte-hoz és a közeli Moulin de Vertain-hez. A délután folyamán kényelmesen autózva keresse fel a Notre-Dame és a Saint-Nicolas templomokat, útközben megcsodálva Pévèle dimbes-dombos tájait. Fejezze be a napot a távoli Château de Rupilly-nél, csendesen elmélyedve a régió történelmében vacsora előtt.",
+        "ro": "Începeți turul auto cu o vizită matinală la Biserica Saint-Martin, situată central și bogată în ambianță spirituală. La prânz, conduceți către maiestuosul Chateau Baratte și moara de vânt din Vertain. Pe măsură ce se desfășoară după-amiaza, navigați confortabil spre bisericile Notre-Dame și Saint-Nicolas, admirând peisajele Pévèle. Încheiați ziua la îndepărtatul Château de Rupilly, găsind un loc liniștit pentru a reflecta înainte de cină.",
+        "en": "Begin your driving tour with a peaceful morning visit to the centrally located Saint-Martin Church, rich in spiritual ambiance. Around midday, drive out to the majestic Chateau Baratte and the nearby Moulin de Vertain, capturing the essence of local heritage. As the afternoon unfolds, comfortably navigate to the Notre-Dame and Saint-Nicolas churches, admiring the rolling Pévèle landscapes along the way. Finish your day at the distant Château de Rupilly, finding a quiet spot to reflect on the region's castles before dinner."
+      }
+    }
+  }
+}

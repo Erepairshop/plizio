@@ -1,0 +1,474 @@
+{
+  "city_id": "castelnau-d-estretefonds",
+  "anchor": {
+    "name": "Castelnau-d'Estrétefonds",
+    "coords": [
+      1.3583,
+      43.7822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 8.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelnau Town Hall",
+            "hu": "Castelnau Town Hall",
+            "ro": "Castelnau Town Hall",
+            "en": "Castelnau Town Hall"
+          },
+          "coords": [
+            1.362247,
+            43.784878
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
+            "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martin Church",
+            "hu": "Saint Martin Church",
+            "ro": "Saint Martin Church",
+            "en": "Saint Martin Church"
+          },
+          "coords": [
+            1.359283,
+            43.785259
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
+            "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelnau-d'Estrétefonds Castle",
+            "hu": "Castelnau-d'Estrétefonds Castle",
+            "ro": "Castelnau-d'Estrétefonds Castle",
+            "en": "Castelnau-d'Estrétefonds Castle"
+          },
+          "coords": [
+            1.359089,
+            43.78251
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
+            "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Le lac de la Gargasses",
+            "hu": "Le lac de la Gargasses",
+            "ro": "Le lac de la Gargasses",
+            "en": "Le lac de la Gargasses"
+          },
+          "coords": [
+            1.315395,
+            43.770316
+          ],
+          "category": "natural",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 57,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
+            "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
+            "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit lac de Juliasse",
+            "hu": "Petit lac de Juliasse",
+            "ro": "Petit lac de Juliasse",
+            "en": "Petit lac de Juliasse"
+          },
+          "coords": [
+            1.299328,
+            43.802555
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
+            "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
+            "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen von Castelnau-d'Estrétefonds, bewundern Sie das Rathaus und besuchen Sie die ruhige Kirche Saint Martin für eine morgendliche Reflexion.\n\nErkunden Sie die faszinierenden mittelalterlichen Überreste der Burg Castelnau-d'Estrétefonds und tauchen Sie in die Geschichte ein, bevor Sie zu den Seen wandern.\n\nDer Weg führt Sie durch die ruhige Landschaft zum Lac de la Gargasses, einem perfekten Rückzugsort in der Natur, um sich auszuruhen und ein Picknick zu genießen.\n\nBeenden Sie Ihre Wanderung am Petit lac de Juliasse, wo das ruhige Wasser und die rustikalen Pfade einen beruhigenden Abschluss eines Tages voller Kultur und Natur bieten.",
+        "hu": "Kezdje a napot Castelnau-d'Estrétefonds szívében, csodálja meg a Városháza történelmi hangulatát, majd térjen be a békés Saint Martin templomba egy kis reggeli elmélkedésre.\n\nFedezze fel a Castelnau-d'Estrétefonds kastély lenyűgöző középkori maradványait, elmerülve a régió gazdag történelmében, mielőtt egy kellemes túrára indulna a közeli tavakhoz.\n\nA séta a nyugodt vidéken keresztül a Le lac de la Gargasses-hoz vezet, amely tökéletes természeti menedéket kínál a lábak pihentetésére és egy vízparti piknikre.\n\nFejezze be gyalogos útját a Petit lac de Juliasse-nál, ahol a csendes vizek és a rusztikus ösvények megnyugtató lezárást nyújtanak a kultúra és a természet között egyensúlyozó napnak.",
+        "ro": "Începeți în inima orașului Castelnau-d'Estrétefonds, admirând atmosfera istorică a Primăriei înainte de a păși în senina Biserică Saint Martin pentru o reflecție matinală.\n\nExplorați rămășițele medievale fascinante ale Castelului Castelnau-d'Estrétefonds, scufundându-vă în istoria bogată a regiunii înainte de a începe o drumeție plăcută.\n\nPlimbarea vă poartă prin zona rurală liniștită până la Le lac de la Gargasses, oferind o retragere perfectă în natură pentru a vă odihni și a savura un picnic.\n\nÎncheiați-vă călătoria pe jos la Petit lac de Juliasse, unde apele calme și potecile rustice oferă un final liniștitor pentru o zi echilibrată între cultură și natură.",
+        "en": "Start at the heart of Castelnau-d'Estrétefonds, taking in the historical ambiance of the Town Hall before stepping into the serene Saint Martin Church for a peaceful morning reflection.\n\nMidday explores the fascinating medieval remnants of the Castelnau-d'Estrétefonds Castle, immersing yourself in the region's rich history before beginning a pleasant hike towards the nearby lakes.\n\nThe afternoon walk leads you through the tranquil countryside to Le lac de la Gargasses, offering a perfect natural retreat to rest your legs and enjoy a leisurely waterside picnic.\n\nConclude your walking journey at the Petit lac de Juliasse, where the calm waters and rustic trails provide a soothing end to a day beautifully balanced between culture and nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelnau Town Hall",
+            "hu": "Castelnau Town Hall",
+            "ro": "Castelnau Town Hall",
+            "en": "Castelnau Town Hall"
+          },
+          "coords": [
+            1.362247,
+            43.784878
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
+            "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martin Church",
+            "hu": "Saint Martin Church",
+            "ro": "Saint Martin Church",
+            "en": "Saint Martin Church"
+          },
+          "coords": [
+            1.359283,
+            43.785259
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
+            "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelnau-d'Estrétefonds Castle",
+            "hu": "Castelnau-d'Estrétefonds Castle",
+            "ro": "Castelnau-d'Estrétefonds Castle",
+            "en": "Castelnau-d'Estrétefonds Castle"
+          },
+          "coords": [
+            1.359089,
+            43.78251
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
+            "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Le lac de la Gargasses",
+            "hu": "Le lac de la Gargasses",
+            "ro": "Le lac de la Gargasses",
+            "en": "Le lac de la Gargasses"
+          },
+          "coords": [
+            1.315395,
+            43.770316
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
+            "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
+            "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit lac de Juliasse",
+            "hu": "Petit lac de Juliasse",
+            "ro": "Petit lac de Juliasse",
+            "en": "Petit lac de Juliasse"
+          },
+          "coords": [
+            1.299328,
+            43.802555
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
+            "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
+            "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand lac de Juliasse",
+            "hu": "Grand lac de Juliasse",
+            "ro": "Grand lac de Juliasse",
+            "en": "Grand lac de Juliasse"
+          },
+          "coords": [
+            1.297028,
+            43.801893
+          ],
+          "category": "natural",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Naturtour an diesem weitläufigen See mit herrlichem Blick auf den Sonnenuntergang, und vergessen Sie nicht das Mückenspray an warmen Abenden.",
+            "hu": "Zárja természetjáró túráját ennél a kiterjedt tónál, amely lenyűgöző naplemente kilátást nyújt, de ne felejtse el a szúnyogriasztót a meleg nyári estéken.",
+            "ro": "Încheiați-vă turul în natură la acest lac extins cu vederi panoramice la apus, asigurându-vă că folosiți un repelent împotriva țânțarilor în serile de vară.",
+            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in das lebhafte Stadtzentrum, um das historische Rathaus und die ruhige Kirche Saint Martin zu bewundern und den kulturellen Grundstein zu legen.\n\nFahren Sie zur Burg Castelnau-d'Estrétefonds hinauf, erkunden Sie die alten Mauern und rollen Sie dann über die windigen ländlichen Wege zum Lac de la Gargasses hinab.\n\nIhre Radtour führt Sie weiter nach Norden zum Juliasse-Seensystem, wo Sie an den Ufern des Petit lac de Juliasse entlangfahren und die lokale Vogelwelt beobachten können.\n\nKommen Sie bei Sonnenuntergang am weitläufigen Grand lac de Juliasse an und genießen Sie eine wohlverdiente Pause am Wasser, bevor Sie Ihr Radabenteuer abschließen.",
+        "hu": "Kerékpározzon be a nyüzsgő városközpontba, hogy megcsodálja a történelmi Városházát és a csendes Saint Martin templomot, kulturális alaphangot adva az aktív napnak.\n\nKerekezzen fel a Castelnau-d'Estrétefonds kastélyhoz, fedezze fel ősi falait, majd guruljon le a festői vidéken keresztül a Le lac de la Gargasses tavához.\n\nKerékpártúrája észak felé folytatódik a Juliasse tórendszerhez, ahol a Petit lac de Juliasse csillogó partjain tekerhet végig, élénk helyi madárvilággal körülvéve.\n\nÉrkezzen meg a hatalmas Grand lac de Juliasse-hoz naplemente idején, és élvezze a jól megérdemelt pihenést a vízparton, mielőtt befejezné a frissítő kerékpáros kalandot.",
+        "ro": "Pedalați în centrul plin de viață al orașului pentru a admira Primăria istorică și liniștea Bisericii Saint Martin, stabilind un ton cultural pentru ziua activă.\n\nUrcați cu bicicleta la Castelul Castelnau-d'Estrétefonds, explorați zidurile antice, apoi coborâți spre peisajul rural pitoresc către Le lac de la Gargasses.\n\nCălătoria continuă spre nord către sistemul de lacuri Juliasse, unde puteți pedala de-a lungul malurilor strălucitoare ale Petit lac de Juliasse.\n\nAjungeți la vastul Grand lac de Juliasse pe măsură ce soarele începe să apună, bucurându-vă de o odihnă binemeritată la malul apei înainte de a încheia aventura.",
+        "en": "Cycle into the bustling town center to admire the historic Town Hall and the quiet sanctity of Saint Martin Church, setting a cultural tone for your active day on two wheels.\n\nPedal up to the Castelnau-d'Estrétefonds Castle to explore its ancient walls, then coast down towards the scenic countryside, navigating the breezy rural paths to Le lac de la Gargasses.\n\nYour bike journey continues northbound to the Juliasse lake system, where you can ride along the shimmering shores of Petit lac de Juliasse, surrounded by vibrant local birdlife.\n\nArrive at the expansive Grand lac de Juliasse as the sun begins to set, enjoying a well-deserved rest by the water before concluding your invigorating cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelnau Town Hall",
+            "hu": "Castelnau Town Hall",
+            "ro": "Castelnau Town Hall",
+            "en": "Castelnau Town Hall"
+          },
+          "coords": [
+            1.362247,
+            43.784878
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
+            "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martin Church",
+            "hu": "Saint Martin Church",
+            "ro": "Saint Martin Church",
+            "en": "Saint Martin Church"
+          },
+          "coords": [
+            1.359283,
+            43.785259
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
+            "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelnau-d'Estrétefonds Castle",
+            "hu": "Castelnau-d'Estrétefonds Castle",
+            "ro": "Castelnau-d'Estrétefonds Castle",
+            "en": "Castelnau-d'Estrétefonds Castle"
+          },
+          "coords": [
+            1.359089,
+            43.78251
+          ],
+          "category": "historical",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
+            "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Le lac de la Gargasses",
+            "hu": "Le lac de la Gargasses",
+            "ro": "Le lac de la Gargasses",
+            "en": "Le lac de la Gargasses"
+          },
+          "coords": [
+            1.315395,
+            43.770316
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
+            "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
+            "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Pompignan",
+            "hu": "Lac de Pompignan",
+            "ro": "Lac de Pompignan",
+            "en": "Lac de Pompignan"
+          },
+          "coords": [
+            1.311504,
+            43.803245
+          ],
+          "category": "natural",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Umgebung dieses klaren Sees, der sich ideal zur Vogelbeobachtung eignet, und nutzen Sie ein Fernglas für ungestörte Tierbeobachtungen.",
+            "hu": "Élvezze e tiszta vizű tó érintetlen környezetét, amely ideális madármegfigyeléshez, távcsövet használva a ritka fajok felfedezéséhez anélkül, hogy megzavarná őket.",
+            "ro": "Bucurați-vă de mediul curat al acestui lac limpede ideal pentru observarea păsărilor, folosind binoclul pentru a vedea specii rare fără a le perturba habitatul.",
+            "en": "Enjoy the pristine environment of this clear lake ideal for birdwatching, using binoculars to spot rare species without disturbing their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Petit lac de Juliasse",
+            "hu": "Petit lac de Juliasse",
+            "ro": "Petit lac de Juliasse",
+            "en": "Petit lac de Juliasse"
+          },
+          "coords": [
+            1.299328,
+            43.802555
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
+            "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
+            "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand lac de Juliasse",
+            "hu": "Grand lac de Juliasse",
+            "ro": "Grand lac de Juliasse",
+            "en": "Grand lac de Juliasse"
+          },
+          "coords": [
+            1.297028,
+            43.801893
+          ],
+          "category": "natural",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Naturtour an diesem weitläufigen See mit herrlichem Blick auf den Sonnenuntergang, und vergessen Sie nicht das Mückenspray an warmen Abenden.",
+            "hu": "Zárja természetjáró túráját ennél a kiterjedt tónál, amely lenyűgöző naplemente kilátást nyújt, de ne felejtse el a szúnyogriasztót a meleg nyári estéken.",
+            "ro": "Încheiați-vă turul în natură la acest lac extins cu vederi panoramice la apus, asigurându-vă că folosiți un repelent împotriva țânțarilor în serile de vară.",
+            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in den historischen Kern von Castelnau-d'Estrétefonds, parken Sie bequem am eleganten Rathaus und besuchen Sie die charmante Kirche Saint Martin.\n\nMachen Sie eine kurze Fahrt zur Burg Castelnau-d'Estrétefonds für einen tiefen Einblick in das lokale Erbe und fahren Sie dann zum Lac de la Gargasses für ein Picknick.\n\nFahren Sie auf den malerischen Routen, die die Seen der Region verbinden, und halten Sie am Lac de Pompignan und Petit lac de Juliasse, um die Natur zu erleben.\n\nBeenden Sie Ihre Fahrt am riesigen Grand lac de Juliasse und beobachten Sie das abendliche Licht auf dem Wasser – ein ruhiger Abschluss eines ereignisreichen Tages.",
+        "hu": "Vezessen be Castelnau-d'Estrétefonds történelmi központjába, parkoljon le az elegáns Városháza közelében, és látogassa meg a bájos Saint Martin templomot a tömeg előtt.\n\nTegyen egy rövid utat a Castelnau-d'Estrétefonds kastélyhoz a helyi örökség felfedezéséhez, majd induljon el a Le lac de la Gargasses felé egy vízparti ebédre.\n\nAutózzon végig a régió tavait összekötő festői útvonalakon, álljon meg a Lac de Pompignan és a Petit lac de Juliasse tavaknál, hogy megtapasztalja a helyi ökoszisztémákat.\n\nFejezze be autós túráját a hatalmas Grand lac de Juliasse-nál, figyelve, ahogy az esti fény megcsillan a vízen, nyugodt befejezést kínálva egy eseménydús napnak.",
+        "ro": "Conduceți în centrul istoric din Castelnau-d'Estrétefonds, parcând ușor lângă Primăria elegantă și vizitând fermecătoarea Biserică Saint Martin înaintea aglomerației.\n\nFaceți o scurtă plimbare cu mașina până la Castelul Castelnau-d'Estrétefonds pentru istoria locală, apoi îndreptați-vă spre Le lac de la Gargasses pentru un prânz pitoresc.\n\nCălătoriți pe rutele scenice ce conectează lacurile, oprindu-vă la Lac de Pompignan și Petit lac de Juliasse pentru a experimenta diversele ecosisteme naturale.\n\nÎncheiați turul la vastul Grand lac de Juliasse, privind lumina serii reflectându-se pe apă, oferind o concluzie confortabilă și senină unei zile pline.",
+        "en": "Drive into the historic core of Castelnau-d'Estrétefonds, easily parking near the elegant Town Hall and visiting the charming Saint Martin Church before the midday crowds arrive.\n\nTake a short drive up to the Castelnau-d'Estrétefonds Castle for a deep dive into local heritage, then head out to Le lac de la Gargasses to enjoy a picturesque waterside lunch.\n\nCruise through the scenic routes connecting the region's lakes, stopping at Lac de Pompignan and Petit lac de Juliasse to experience the diverse natural ecosystems of the area.\n\nFinish your driving tour at the vast Grand lac de Juliasse, watching the evening light reflect off the water, offering a serene and comfortable conclusion to a packed day."
+      }
+    }
+  }
+}

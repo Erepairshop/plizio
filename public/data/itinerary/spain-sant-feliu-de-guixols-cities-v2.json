@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-sant-feliu-de-guixols-cities-v2",
+  "anchor": {
+    "name": "Sant Feliu de Guíxols",
+    "coords": [
+      3.030556,
+      41.780556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala Jonca",
+            "hu": "Cala Jonca",
+            "ro": "Cala Jonca",
+            "en": "Cala Jonca"
+          },
+          "coords": [
+            3.040024,
+            41.778838
+          ],
+          "category": "recreational",
+          "arrive_at": "09:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese felsige Bucht bietet kristallklares Wasser, das sich ideal zum Schnorcheln eignet, bringen Sie also Ihre Maske mit und kommen Sie früh wegen eines guten Platzes.",
+            "hu": "Ez a sziklás öböl kristálytiszta vizével tökéletes a sznorkelezéshez, ezért hozza magával a búvármaszkját, és érkezzen korán, hogy kényelmes helyet találjon.",
+            "ro": "Acest golf stâncos oferă ape cristaline perfecte pentru snorkeling, așa că aduceți-vă masca și sosiți devreme pentru a prinde un loc confortabil pe pietre.",
+            "en": "This rocky cove offers crystal-clear water perfect for snorkeling, so be sure to bring your mask and arrive early to secure a comfortable spot on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Vigatà",
+            "hu": "Cala del Vigatà",
+            "ro": "Cala del Vigatà",
+            "en": "Cala del Vigatà"
+          },
+          "coords": [
+            3.025597,
+            41.773971
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Posidonia-Seegraswiesen in dieser Bucht, aber tragen Sie feste Wanderschuhe, da der steile unbefestigte Weg hinab ziemlich rutschig ist.",
+            "hu": "Csodálja meg a hatalmas öböl élénk tengerifű-mezőit, de feltétlenül viseljen masszív túracipőt, mivel a lefelé vezető meredek ösvény meglehetősen csúszós lehet.",
+            "ro": "Admirați pajiștile vibrante de iarbă de mare Posidonia din acest golf, dar purtați încălțăminte de drumeție robustă, deoarece poteca abruptă poate fi alunecoasă.",
+            "en": "Admire the vibrant Posidonia sea grass meadows in this expansive cove, but wear sturdy walking shoes because the steep dirt trail down can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Platjola",
+            "hu": "sa Platjola",
+            "ro": "sa Platjola",
+            "en": "sa Platjola"
+          },
+          "coords": [
+            3.022207,
+            41.774003
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten Charme dieses hundefreundlichen Kieselstrandes beim Rauschen der Wellen, aber packen Sie ausreichend Trinkwasser ein, da es keine Kioske gibt.",
+            "hu": "Élvezze ennek a kutyabarát kavicsos strandnak az érintetlen varázsát a hullámokat hallgatva, de ne felejtsen el sok ivóvizet csomagolni, mivel nincsenek büfék.",
+            "ro": "Bucurați-vă de farmecul curat al acestei plaje cu pietriș unde câinii sunt permiși, dar asigurați-vă că aduceți multă apă de băut, deoarece nu există facilități.",
+            "en": "Enjoy the unspoiled charm of this pet-friendly pebble beach by listening to the waves crash, just remember to pack plenty of drinking water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Canyer d'en Mieres",
+            "hu": "Canyer d'en Mieres",
+            "ro": "Canyer d'en Mieres",
+            "en": "Canyer d'en Mieres"
+          },
+          "coords": [
+            3.007583,
+            41.770998
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieser dramatische Küstenabschnitt bietet atemberaubende Ausblicke auf die schroffen Klippen und ist ein hervorragender Ort zum Fotografieren, besonders zur goldenen Stunde.",
+            "hu": "Ez a drámai part menti zug lélegzetelállító kilátást nyújt a zord sziklákra, így kiváló helyszín a fotózáshoz, különösen, ha az aranyórában látogat ide.",
+            "ro": "Acest ungher de coastă dramatic oferă vederi uluitoare ale stâncilor accidentate, fiind un loc excelent pentru fotografie dacă îl vizitați în timpul orei de aur.",
+            "en": "This dramatic coastal nook provides breathtaking views of the rugged cliffs, making it an excellent spot for photography if you visit during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Maset",
+            "hu": "Cala Maset",
+            "ro": "Cala Maset",
+            "en": "Cala Maset"
+          },
+          "coords": [
+            3.044756,
+            41.786325
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser kleinen, leicht zugänglichen Sandbucht, aber Familien sollten aufpassen, da das Wasser hier sehr schnell tief abfällt.",
+            "hu": "Pihenjen ebben a kis, könnyen megközelíthető, fenyőfákkal körülvett homokos öbölben, de a családok figyeljenek a gyerekekre, mert a víz nagyon hirtelen mélyül.",
+            "ro": "Relaxați-vă în acest mic golf de nisip ușor accesibil, înconjurat de pini, deși familiile ar trebui să fie atente, deoarece apa devine adâncă foarte brusc.",
+            "en": "Relax at this small, easily accessible sandy cove surrounded by pine trees, though families should watch children closely as the water deepens very abruptly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang vom Stadtzentrum zur wunderschönen Cala Jonca und genießen Sie die frische Küstenbrise. Gegen Mittag wandern Sie auf schroffen Pfaden nach Süden, um Cala del Vigatà und sa Platjola zu entdecken. Der Nachmittag führt Sie in die ruhige Bucht Canyer d'en Mieres, bevor Sie den Rückweg nach Norden antreten. Beenden Sie Ihren aktiven Tag entspannt an der geschützten Cala Maset, während das Abendlicht den mediterranen Himmel färbt.",
+        "hu": "Kezdje a reggelt egy sétával a városközpontból a gyönyörű Cala Jonca öbölbe, élvezve a friss tengerparti szellőt. Délben sétáljon dél felé a sziklás ösvényeken, és fedezze fel a Cala del Vigatà és a sa Platjola szépségeit. A délután folyamán a Canyer d'en Mieres nyugalmába vonulhat, mielőtt visszaindulna észak felé. Zárja aktív napját a védett Cala Maset partján, miközben az esti fények csodás színekre festik a Földközi-tenger feletti eget.",
+        "ro": "Începeți-vă dimineața plimbându-vă din centrul orașului spre frumosul Cala Jonca, bucurându-vă de briza proaspătă. La prânz, coborâți spre sud de-a lungul potecilor accidentate pentru a descoperi frumusețea golfului Cala del Vigatà și sa Platjola. După-amiaza vă poartă spre liniștea de la Canyer d'en Mieres înainte de a vă întoarce spre nord. Încheiați ziua activă relaxându-vă la adăpostul oferit de Cala Maset în timp ce lumina serii pictează cerul Mării Mediterane.",
+        "en": "Start your morning by strolling out from the city center to the beautiful Cala Jonca, embracing the crisp coastal breeze. By midday, wander south along the rugged paths to discover the expansive natural beauty of Cala del Vigatà and sa Platjola. The afternoon takes you further into tranquility at Canyer d'en Mieres before you make the steady trek back north. Conclude your active day by relaxing at the sheltered Cala Maset as the evening light paints the Mediterranean skies."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cala Pedrosa",
+            "hu": "Cala Pedrosa",
+            "ro": "Cala Pedrosa",
+            "en": "Cala Pedrosa"
+          },
+          "coords": [
+            3.057685,
+            41.7913
+          ],
+          "category": "recreational",
+          "arrive_at": "09:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie wahre Ruhe in dieser abgelegenen Kieselbucht, die über einen malerischen Küstenpfad erreichbar ist, und tragen Sie Badeschuhe für den felsigen Meeresboden.",
+            "hu": "Fedezze fel az igazi nyugalmat ebben az eldugott, festői tengerparti ösvényen megközelíthető kavicsos öbölben, és viseljen vizicipőt a sziklás tengerfenék miatt.",
+            "ro": "Descoperiți liniștea adevărată în acest golf retras cu pietriș, accesibil printr-o cărare de coastă pitorească, purtând încălțăminte de apă pentru fundul stâncos.",
+            "en": "Discover true tranquility at this secluded pebble cove accessible via a scenic coastal path, taking care to wear water shoes to navigate the rocky seabed comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Maset",
+            "hu": "Cala Maset",
+            "ro": "Cala Maset",
+            "en": "Cala Maset"
+          },
+          "coords": [
+            3.044756,
+            41.786325
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser kleinen, leicht zugänglichen Sandbucht, aber Familien sollten aufpassen, da das Wasser hier sehr schnell tief abfällt.",
+            "hu": "Pihenjen ebben a kis, könnyen megközelíthető, fenyőfákkal körülvett homokos öbölben, de a családok figyeljenek a gyerekekre, mert a víz nagyon hirtelen mélyül.",
+            "ro": "Relaxați-vă în acest mic golf de nisip ușor accesibil, înconjurat de pini, deși familiile ar trebui să fie atente, deoarece apa devine adâncă foarte brusc.",
+            "en": "Relax at this small, easily accessible sandy cove surrounded by pine trees, though families should watch children closely as the water deepens very abruptly."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Jonca",
+            "hu": "Cala Jonca",
+            "ro": "Cala Jonca",
+            "en": "Cala Jonca"
+          },
+          "coords": [
+            3.040024,
+            41.778838
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Diese felsige Bucht bietet kristallklares Wasser, das sich ideal zum Schnorcheln eignet, bringen Sie also Ihre Maske mit und kommen Sie früh wegen eines guten Platzes.",
+            "hu": "Ez a sziklás öböl kristálytiszta vizével tökéletes a sznorkelezéshez, ezért hozza magával a búvármaszkját, és érkezzen korán, hogy kényelmes helyet találjon.",
+            "ro": "Acest golf stâncos oferă ape cristaline perfecte pentru snorkeling, așa că aduceți-vă masca și sosiți devreme pentru a prinde un loc confortabil pe pietre.",
+            "en": "This rocky cove offers crystal-clear water perfect for snorkeling, so be sure to bring your mask and arrive early to secure a comfortable spot on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Vigatà",
+            "hu": "Cala del Vigatà",
+            "ro": "Cala del Vigatà",
+            "en": "Cala del Vigatà"
+          },
+          "coords": [
+            3.025597,
+            41.773971
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Posidonia-Seegraswiesen in dieser Bucht, aber tragen Sie feste Wanderschuhe, da der steile unbefestigte Weg hinab ziemlich rutschig ist.",
+            "hu": "Csodálja meg a hatalmas öböl élénk tengerifű-mezőit, de feltétlenül viseljen masszív túracipőt, mivel a lefelé vezető meredek ösvény meglehetősen csúszós lehet.",
+            "ro": "Admirați pajiștile vibrante de iarbă de mare Posidonia din acest golf, dar purtați încălțăminte de drumeție robustă, deoarece poteca abruptă poate fi alunecoasă.",
+            "en": "Admire the vibrant Posidonia sea grass meadows in this expansive cove, but wear sturdy walking shoes because the steep dirt trail down can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Platjola",
+            "hu": "sa Platjola",
+            "ro": "sa Platjola",
+            "en": "sa Platjola"
+          },
+          "coords": [
+            3.022207,
+            41.774003
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten Charme dieses hundefreundlichen Kieselstrandes beim Rauschen der Wellen, aber packen Sie ausreichend Trinkwasser ein, da es keine Kioske gibt.",
+            "hu": "Élvezze ennek a kutyabarát kavicsos strandnak az érintetlen varázsát a hullámokat hallgatva, de ne felejtsen el sok ivóvizet csomagolni, mivel nincsenek büfék.",
+            "ro": "Bucurați-vă de farmecul curat al acestei plaje cu pietriș unde câinii sunt permiși, dar asigurați-vă că aduceți multă apă de băut, deoarece nu există facilități.",
+            "en": "Enjoy the unspoiled charm of this pet-friendly pebble beach by listening to the waves crash, just remember to pack plenty of drinking water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Canyer d'en Mieres",
+            "hu": "Canyer d'en Mieres",
+            "ro": "Canyer d'en Mieres",
+            "en": "Canyer d'en Mieres"
+          },
+          "coords": [
+            3.007583,
+            41.770998
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieser dramatische Küstenabschnitt bietet atemberaubende Ausblicke auf die schroffen Klippen und ist ein hervorragender Ort zum Fotografieren, besonders zur goldenen Stunde.",
+            "hu": "Ez a drámai part menti zug lélegzetelállító kilátást nyújt a zord sziklákra, így kiváló helyszín a fotózáshoz, különösen, ha az aranyórában látogat ide.",
+            "ro": "Acest ungher de coastă dramatic oferă vederi uluitoare ale stâncilor accidentate, fiind un loc excelent pentru fotografie dacă îl vizitați în timpul orei de aur.",
+            "en": "This dramatic coastal nook provides breathtaking views of the rugged cliffs, making it an excellent spot for photography if you visit during the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einer Fahrt zur ruhigen Cala Pedrosa und genießen Sie die morgendlichen Küstenwege. Wenn der Tag wärmer wird, radeln Sie zurück Richtung Stadt zu Cala Maset und Cala Jonca. Am Nachmittag fahren Sie weiter nach Süden, um sich an der Cala del Vigatà und sa Platjola auszuruhen, wo das Meer auf grüne Klippen trifft. Lassen Sie Ihren Tag an der malerischen Canyer d'en Mieres ausklingen und genießen Sie die friedliche Abendstimmung am Wasser.",
+        "hu": "Kezdje kerékpáros kalandját egy tekeréssel a nyugodt Cala Pedrosa öbölbe, élvezve a csendes reggeli parti ösvényeket. Ahogy melegszik a nap, tekerjen vissza a város felé a Cala Maset és a Cala Jonca felé. Délután haladjon tovább délre, hogy megpihenjen a Cala del Vigatà és a sa Platjola partján, ahol a tenger zöld sziklákkal találkozik. Zárja a napot a festői Canyer d'en Mieres öbölben, élvezve a békés esti hangulatot a víz mellett.",
+        "ro": "Începeți aventura pe bicicletă urcând spre liniștitul Cala Pedrosa, bucurându-vă de traseele de coastă dimineața. Pe măsură ce ziua se încălzește, pedalați înapoi spre oraș spre Cala Maset și Cala Jonca. După-amiaza, mergeți mai la sud pentru a vă odihni la Cala del Vigatà și sa Platjola, unde marea întâlnește stânci verzi dramatice. Încheiați ziua la pitorescul Canyer d'en Mieres, bucurându-vă de atmosfera liniștită a serii pe malul apei.",
+        "en": "Kick off your cycling adventure by riding up to the serene Cala Pedrosa, enjoying the quiet morning coastal trails. As the day warms up, pedal back towards town to visit Cala Maset and Cala Jonca, soaking in the dynamic rocky scenery. In the afternoon, head further south to rest at Cala del Vigatà and sa Platjola, where the sea meets dramatic green cliffs. Wind down your day at the picturesque Canyer d'en Mieres, enjoying the peaceful evening atmosphere by the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 12.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pp's Park",
+            "hu": "Pp's Park",
+            "ro": "Pp's Park",
+            "en": "Pp's Park"
+          },
+          "coords": [
+            3.060649,
+            41.811722
+          ],
+          "category": "recreational",
+          "arrive_at": "09:09",
+          "stay_min": 85,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Erleben Sie familienfreundlichen Nervenkitzel in diesem klassischen Vergnügungspark mit Fahrgeschäften, wo der Kauf eines Armbandes viel günstiger ist als Einzeltickets.",
+            "hu": "Élvezze a családbarát izgalmakat ebben a klasszikus vidámparkban, ahol a karszalag vásárlása sokkal jobb értéket képvisel, mintha az egyes attrakciókért külön fizetne.",
+            "ro": "Experimentați senzații tari în acest parc de distracții clasic pentru familii, unde cumpărarea unei brățări oferă o valoare mult mai bună decât plata pe atracție.",
+            "en": "Experience family-friendly thrills at this classic amusement park featuring vintage rides, where buying a wristband offers much better value than paying per individual attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Pedrosa",
+            "hu": "Cala Pedrosa",
+            "ro": "Cala Pedrosa",
+            "en": "Cala Pedrosa"
+          },
+          "coords": [
+            3.057685,
+            41.7913
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie wahre Ruhe in dieser abgelegenen Kieselbucht, die über einen malerischen Küstenpfad erreichbar ist, und tragen Sie Badeschuhe für den felsigen Meeresboden.",
+            "hu": "Fedezze fel az igazi nyugalmat ebben az eldugott, festői tengerparti ösvényen megközelíthető kavicsos öbölben, és viseljen vizicipőt a sziklás tengerfenék miatt.",
+            "ro": "Descoperiți liniștea adevărată în acest golf retras cu pietriș, accesibil printr-o cărare de coastă pitorească, purtând încălțăminte de apă pentru fundul stâncos.",
+            "en": "Discover true tranquility at this secluded pebble cove accessible via a scenic coastal path, taking care to wear water shoes to navigate the rocky seabed comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Maset",
+            "hu": "Cala Maset",
+            "ro": "Cala Maset",
+            "en": "Cala Maset"
+          },
+          "coords": [
+            3.044756,
+            41.786325
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser kleinen, leicht zugänglichen Sandbucht, aber Familien sollten aufpassen, da das Wasser hier sehr schnell tief abfällt.",
+            "hu": "Pihenjen ebben a kis, könnyen megközelíthető, fenyőfákkal körülvett homokos öbölben, de a családok figyeljenek a gyerekekre, mert a víz nagyon hirtelen mélyül.",
+            "ro": "Relaxați-vă în acest mic golf de nisip ușor accesibil, înconjurat de pini, deși familiile ar trebui să fie atente, deoarece apa devine adâncă foarte brusc.",
+            "en": "Relax at this small, easily accessible sandy cove surrounded by pine trees, though families should watch children closely as the water deepens very abruptly."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Jonca",
+            "hu": "Cala Jonca",
+            "ro": "Cala Jonca",
+            "en": "Cala Jonca"
+          },
+          "coords": [
+            3.040024,
+            41.778838
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Diese felsige Bucht bietet kristallklares Wasser, das sich ideal zum Schnorcheln eignet, bringen Sie also Ihre Maske mit und kommen Sie früh wegen eines guten Platzes.",
+            "hu": "Ez a sziklás öböl kristálytiszta vizével tökéletes a sznorkelezéshez, ezért hozza magával a búvármaszkját, és érkezzen korán, hogy kényelmes helyet találjon.",
+            "ro": "Acest golf stâncos oferă ape cristaline perfecte pentru snorkeling, așa că aduceți-vă masca și sosiți devreme pentru a prinde un loc confortabil pe pietre.",
+            "en": "This rocky cove offers crystal-clear water perfect for snorkeling, so be sure to bring your mask and arrive early to secure a comfortable spot on the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Vigatà",
+            "hu": "Cala del Vigatà",
+            "ro": "Cala del Vigatà",
+            "en": "Cala del Vigatà"
+          },
+          "coords": [
+            3.025597,
+            41.773971
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Posidonia-Seegraswiesen in dieser Bucht, aber tragen Sie feste Wanderschuhe, da der steile unbefestigte Weg hinab ziemlich rutschig ist.",
+            "hu": "Csodálja meg a hatalmas öböl élénk tengerifű-mezőit, de feltétlenül viseljen masszív túracipőt, mivel a lefelé vezető meredek ösvény meglehetősen csúszós lehet.",
+            "ro": "Admirați pajiștile vibrante de iarbă de mare Posidonia din acest golf, dar purtați încălțăminte de drumeție robustă, deoarece poteca abruptă poate fi alunecoasă.",
+            "en": "Admire the vibrant Posidonia sea grass meadows in this expansive cove, but wear sturdy walking shoes because the steep dirt trail down can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala d'en Bosc",
+            "hu": "Cala d'en Bosc",
+            "ro": "Cala d'en Bosc",
+            "en": "Cala d'en Bosc"
+          },
+          "coords": [
+            3.000411,
+            41.765935
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Sommermassen und wagen Sie sich in diese wilde, abgelegene Bucht, aber bedenken Sie, dass der Abstieg mäßige Fitness und Sonnenschutz erfordert.",
+            "hu": "Meneküljön el a nyári tömeg elől, és merészkedjen el ebbe a vad és távoli öbölbe, de tartsa szem előtt, hogy a lefelé vezető túra közepes edzettséget igényel.",
+            "ro": "Scăpați de aglomerația verii aventurându-vă în acest golf sălbatic și îndepărtat, dar rețineți că drumeția necesită o condiție fizică moderată și protecție solară.",
+            "en": "Escape the summer crowds by venturing to this wild and remote cove, but keep in mind that the hike down requires moderate fitness and plenty of sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Urgell",
+            "hu": "Cala Urgell",
+            "ro": "Cala Urgell",
+            "en": "Cala Urgell"
+          },
+          "coords": [
+            2.997332,
+            41.764775
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Finden Sie absolute Ruhe in diesem natürlichen Amphitheater, das von üppiger Vegetation umgeben ist, und packen Sie ein Picknick ein, da es hier keinerlei Service gibt.",
+            "hu": "Találjon tökéletes békére ebben a buja növényzettel körülvett, hatalmas természeti amfiteátrumban, és csomagoljon piknikebédet, mivel ezen a területen nincsenek szolgáltatások.",
+            "ro": "Găsiți pace absolută în acest vast amfiteatru natural înconjurat de vegetație luxuriantă, aducând un picnic la pachet deoarece nu există servicii în această zonă virgină.",
+            "en": "Find absolute peace in this expansive natural amphitheater surrounded by lush vegetation, packing a picnic lunch since there are absolutely no services in this pristine area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit Familienspaß im Pp's Park am nördlichen Rand der Stadt, um die kühleren Morgenstunden zu nutzen. Gegen Mittag fahren Sie die Küste hinunter zu den versteckten Stränden Cala Pedrosa und Cala Maset. Nach einer Pause geht es weiter nach Süden zur Cala Jonca und Cala del Vigatà. Beenden Sie Ihre malerische Fahrt an den schroffen südlichen Rändern von Cala d'en Bosc und Cala Urgell, während die Sonne langsam hinter den Küstenklippen untergeht.",
+        "hu": "Kezdje a családi szórakozást a város északi szélén található Pp's Parkban a hűvösebb reggeli órákban. Délben autózzon végig a partvonalon a lenyűgöző Cala Pedrosa és a Cala Maset felfedezéséhez. Egy frissítő pihenő után folytassa útját délre a Cala Jonca és a Cala del Vigatà felé. Fejezze be a festői autózást a zord déli peremeken, a Cala d'en Bosc és a Cala Urgell partján, nézve, ahogy a nap lassan a tengerparti sziklák mögé bukik.",
+        "ro": "Începeți cu distracție în familie la Pp's Park, la marginea de nord a orașului, în orele răcoroase ale dimineții. La prânz, conduceți de-a lungul coastei pentru a vizita plajele ascunse Cala Pedrosa și Cala Maset. După o pauză răcoritoare, continuați spre sud pentru a explora Cala Jonca și Cala del Vigatà. Finalizați condusul pitoresc la marginile sudice accidentate de la Cala d'en Bosc și Cala Urgell, urmărind cum soarele coboară încet în spatele stâncilor.",
+        "en": "Start with family fun at Pp's Park on the northern edge of town, maximizing the cooler morning hours. By midday, drive down the coastline to visit the stunning hidden beaches of Cala Pedrosa and Cala Maset. After a refreshing break, continue south to explore the easily accessible yet spectacular Cala Jonca and Cala del Vigatà. Finish your scenic drive at the rugged southern edges of Cala d'en Bosc and Cala Urgell, watching the sun slowly dip below the dramatic coastal cliffs."
+      }
+    }
+  }
+}

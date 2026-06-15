@@ -1,0 +1,543 @@
+{
+  "city_id": "norway-reine-cities-v2",
+  "anchor": {
+    "name": "Reine",
+    "coords": [
+      13.08,
+      67.93
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Reinehalsen",
+            "de": "Reinehalsen",
+            "hu": "Reinehalsen kilátó",
+            "ro": "Punctul de belvedere Reinehalsen"
+          },
+          "coords": [
+            13.084359,
+            67.928332
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy breathtaking panoramas of the jagged peaks rising from the sea at this iconic viewpoint, but arrive early to secure a good spot for photography.",
+            "de": "Genießen Sie atemberaubende Panoramen der zerklüfteten Gipfel an diesem Aussichtspunkt, aber kommen Sie früh, um den besten Platz für Fotos zu sichern.",
+            "hu": "Élvezze a tengerből kiemelkedő csipkézett csúcsok lélegzetelállító panorámáját ezen az ikonikus kilátón, de érkezzen korán a legjobb fotós helyekért.",
+            "ro": "Bucurați-vă de panorame uluitoare ale vârfurilor zimțate care se ridică din mare, dar ajungeți devreme pentru a vă asigura un loc bun pentru fotografii."
+          }
+        },
+        {
+          "name": {
+            "en": "Gravdalsbukta",
+            "de": "Gravdalsbukta",
+            "hu": "Gravdalsbukta",
+            "ro": "Gravdalsbukta"
+          },
+          "coords": [
+            13.084694,
+            67.931025
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Stroll along this picturesque bay to admire traditional red rorbuer cabins, and watch out for drying fish racks if visiting in the early spring months.",
+            "de": "Spazieren Sie entlang dieser Bucht mit roten Rorbuer-Hütten und achten Sie auf die trocknenden Fischgestelle, falls Sie im frühen Frühling hier sind.",
+            "hu": "Sétáljon végig a festői öböl mentén a hagyományos piros halászkunyhókig, és kora tavasszal figyelje meg a híres lofoteni szárított halállványokat.",
+            "ro": "Plimbați-vă de-a lungul acestui golf pitoresc pentru a admira cabanele roșii și fiți atenți la rafturile de uscat pește dacă veniți în lunile de primăvară."
+          }
+        },
+        {
+          "name": {
+            "en": "Lofotodden National Park museum",
+            "de": "Nationalparkmuseum Lofotodden",
+            "hu": "Lofotodden Nemzeti Park múzeum",
+            "ro": "Muzeul Parcului Național Lofotodden"
+          },
+          "coords": [
+            13.087668,
+            67.932202
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Discover the dramatic geology and rich biodiversity of the Lofoten islands in this modern exhibition, and ask the guides for daily trail conditions.",
+            "de": "Entdecken Sie die dramatische Geologie der Lofoten-Inseln in dieser modernen Ausstellung und fragen Sie die Guides nach den täglichen Wegbedingungen.",
+            "hu": "Fedezze fel a Lofoten-szigetek drámai geológiáját ebben a modern kiállításban, és érdeklődjön a túravezetőknél az aktuális ösvényviszonyokról.",
+            "ro": "Descoperiți geologia dramatică a insulelor Lofoten în această expoziție modernă și întrebați ghizii despre starea traseelor zilnice din zonă."
+          }
+        },
+        {
+          "name": {
+            "en": "Ancient Fisherboat Hanna Mathilde",
+            "de": "Historisches Fischerboot Hanna Mathilde",
+            "hu": "Hanna Mathilde történelmi halászhajó",
+            "ro": "Vechea barcă de pescuit Hanna Mathilde"
+          },
+          "coords": [
+            13.088122,
+            67.934231
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Examine this beautifully preserved historic wooden vessel to understand the harsh local fishing history, and check the hull's intricate craftsmanship.",
+            "de": "Untersuchen Sie dieses gut erhaltene historische Holzschiff, um die lokale Fischereigeschichte zu verstehen, und achten Sie auf die Handwerkskunst.",
+            "hu": "Vizsgálja meg ezt a gyönyörűen megőrzött történelmi fahajót a helyi halászati múlt megismeréséhez, és figyelje meg a hajótest bonyolult kidolgozását.",
+            "ro": "Examinați această navă istorică din lemn bine conservată pentru a înțelege istoria aspră a pescuitului local și observați măiestria chilei."
+          }
+        },
+        {
+          "name": {
+            "en": "Aqua Lofoten Coast Adventure",
+            "de": "Aqua Lofoten Küstenabenteuer",
+            "hu": "Aqua Lofoten tengeri kalandok",
+            "ro": "Aventura de Coastă Aqua Lofoten"
+          },
+          "coords": [
+            13.090225,
+            67.934798
+          ],
+          "category": "landmark",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Book a thrilling RIB boat safari or kayaking tour here to see eagles and fjords from the water, but make sure to wear windproof clothing on deck.",
+            "de": "Buchen Sie hier eine RIB-Boot-Safari, um Adler und Fjorde vom Wasser aus zu sehen, aber tragen Sie unbedingt winddichte Kleidung auf dem Deck.",
+            "hu": "Foglaljon egy izgalmas RIB-hajós szafarit vagy kajaktúrát a sasok és fjordok megtekintéséhez, de mindenképpen viseljen szélálló ruházatot a fedélzeten.",
+            "ro": "Rezervați un safari cu barca RIB sau un tur cu caiacul pentru a vedea vulturi și fiorduri de pe apă, dar purtați îmbrăcăminte rezistentă la vânt."
+          }
+        },
+        {
+          "name": {
+            "en": "Reinevågen",
+            "de": "Reinevågen",
+            "hu": "Reinevågen",
+            "ro": "Reinevågen"
+          },
+          "coords": [
+            13.080658,
+            67.936725
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Soak in the peaceful atmosphere of the inner harbor reflecting the majestic surrounding mountains, taking advantage of the calm morning waters for shots.",
+            "de": "Genießen Sie die friedliche Atmosphäre des inneren Hafens, in dem sich die Berge spiegeln, und nutzen Sie das ruhige Wasser für tolle Fotos.",
+            "hu": "Szívja magába a belső kikötő békés atmoszféráját, amely tükrözi a fenséges hegyeket, és használja ki a nyugodt vizeket a tökéletes fotókhoz.",
+            "ro": "Absorbiți atmosfera pașnică a portului interior care reflectă munții maiestuoși, profitând de apele calme ale zilei pentru fotografii perfecte."
+          }
+        },
+        {
+          "name": {
+            "en": "Fiskarskjæret",
+            "de": "Fiskarskjæret",
+            "hu": "Fiskarskjæret",
+            "ro": "Fiskarskjæret"
+          },
+          "coords": [
+            13.102406,
+            67.93639
+          ],
+          "category": "landmark",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "en": "Explore this small rocky islet known for its authentic fishing village charm and excellent coastal views, finishing your walk with a hot local coffee.",
+            "de": "Erkunden Sie dieses Felseneiland mit seinem authentischen Fischerdorf-Charme und beenden Sie Ihren Spaziergang mit einem heißen lokalen Kaffee.",
+            "hu": "Fedezze fel ezt az autentikus halászfalu bájjáról ismert apró sziklás szigetet, és zárja a sétát egy csésze forró, helyben pörkölt kávéval.",
+            "ro": "Explorați această mică insulă stâncoasă cunoscută pentru farmecul său de sat de pescari și încheiați plimbarea cu o cafea locală fierbinte excelentă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning at Reinehalsen, absorbing the unparalleled views of jagged peaks before wandering down to Gravdalsbukta. By midday, dive into natural history at the Lofotodden Museum and marvel at the historic Hanna Mathilde boat. Spend your afternoon feeling the ocean's pulse at Aqua Lofoten Coast Adventure and exploring the serene Reinevågen. As evening approaches, unwind at Fiskarskjæret, enjoying the golden hour over the Norwegian Sea.",
+        "de": "Beginnen Sie den Morgen in Reinehalsen mit unvergleichlichen Ausblicken auf schroffe Gipfel, bevor Sie zur Gravdalsbukta hinabschlendern. Mittags tauchen Sie im Lofotodden-Museum in die Naturgeschichte ein und bewundern das historische Boot Hanna Mathilde. Verbringen Sie den Nachmittag bei Aqua Lofoten und erkunden Sie den ruhigen Reinevågen. Gegen Abend entspannen Sie sich auf Fiskarskjæret und genießen die magische goldene Stunde.",
+        "hu": "Kezdje a reggelt a Reinehalsennél a csipkézett csúcsok páratlan látványával, majd sétáljon le a Gravdalsbukta öbölbe. Délben merüljön el a természettudományokban a Lofotodden Múzeumban, és csodálja meg a történelmi Hanna Mathilde hajót. A délutánt az Aqua Lofoten partjainál és a békés Reinevågen felfedezésével töltse. Az este közeledtével pihenjen meg a Fiskarskjæret szigeténél, élvezve a Norvég-tenger aranyóráját.",
+        "ro": "Începeți dimineața la Reinehalsen cu vederi de neegalat ale vârfurilor stâncoase, apoi plimbați-vă spre Gravdalsbukta. La amiază, explorați istoria naturală la Muzeul Lofotodden și admirați barca istorică Hanna Mathilde. Petreceți-vă după-amiaza simțind pulsul oceanului la Aqua Lofoten și explorând seninul Reinevågen. Pe măsură ce se apropie seara, relaxați-vă la Fiskarskjæret, bucurându-vă de ora de aur asupra mării."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Reinehalsen",
+            "de": "Reinehalsen",
+            "hu": "Reinehalsen",
+            "ro": "Reinehalsen"
+          },
+          "coords": [
+            13.084359,
+            67.928332
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy breathtaking panoramas of the jagged peaks rising from the sea at this iconic viewpoint, but arrive early to secure a good spot for photography.",
+            "de": "Genießen Sie atemberaubende Panoramen der zerklüfteten Gipfel an diesem Aussichtspunkt, aber kommen Sie früh, um den besten Platz für Fotos zu sichern.",
+            "hu": "Élvezze a tengerből kiemelkedő csipkézett csúcsok lélegzetelállító panorámáját ezen az ikonikus kilátón, de érkezzen korán a legjobb fotós helyekért.",
+            "ro": "Bucurați-vă de panorame uluitoare ale vârfurilor zimțate care se ridică din mare, dar ajungeți devreme pentru a vă asigura un loc bun pentru fotografii."
+          }
+        },
+        {
+          "name": {
+            "en": "Lofotodden National Park museum",
+            "de": "Nationalparkmuseum Lofotodden",
+            "hu": "Lofotodden Nemzeti Park múzeum",
+            "ro": "Muzeul Parcului Național Lofotodden"
+          },
+          "coords": [
+            13.087668,
+            67.932202
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Discover the dramatic geology and rich biodiversity of the Lofoten islands in this modern exhibition, and ask the guides for daily trail conditions.",
+            "de": "Entdecken Sie die dramatische Geologie der Lofoten-Inseln in dieser modernen Ausstellung und fragen Sie die Guides nach den täglichen Wegbedingungen.",
+            "hu": "Fedezze fel a Lofoten-szigetek drámai geológiáját ebben a modern kiállításban, és érdeklődjön a túravezetőknél az aktuális ösvényviszonyokról.",
+            "ro": "Descoperiți geologia dramatică a insulelor Lofoten în această expoziție modernă și întrebați ghizii despre starea traseelor zilnice din zonă."
+          }
+        },
+        {
+          "name": {
+            "en": "Aqua Lofoten Coast Adventure",
+            "de": "Aqua Lofoten Küstenabenteuer",
+            "hu": "Aqua Lofoten tengeri kalandok",
+            "ro": "Aventura de Coastă Aqua Lofoten"
+          },
+          "coords": [
+            13.090225,
+            67.934798
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Book a thrilling RIB boat safari or kayaking tour here to see eagles and fjords from the water, but make sure to wear windproof clothing on deck.",
+            "de": "Buchen Sie hier eine RIB-Boot-Safari, um Adler und Fjorde vom Wasser aus zu sehen, aber tragen Sie unbedingt winddichte Kleidung auf dem Deck.",
+            "hu": "Foglaljon egy izgalmas RIB-hajós szafarit vagy kajaktúrát a sasok és fjordok megtekintéséhez, de mindenképpen viseljen szélálló ruházatot a fedélzeten.",
+            "ro": "Rezervați un safari cu barca RIB sau un tur cu caiacul pentru a vedea vulturi și fiorduri de pe apă, dar purtați îmbrăcăminte rezistentă la vânt."
+          }
+        },
+        {
+          "name": {
+            "en": "Preikstolen",
+            "de": "Preikstolen",
+            "hu": "Preikstolen",
+            "ro": "Preikstolen"
+          },
+          "coords": [
+            13.083045,
+            67.940254
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Hike the steep path from the road to reach this dramatic clifftop overlooking the archipelago, but ensure you wear sturdy hiking boots for the mud.",
+            "de": "Wandern Sie auf dem steilen Pfad zu dieser Klippe mit Blick auf den Archipel, aber stellen Sie sicher, dass Sie feste Wanderschuhe für den Schlamm tragen.",
+            "hu": "Másszon fel a meredek ösvényen a szigetvilágra néző drámai sziklához, de mindenképpen viseljen erős túrabakancsot a sáros és csúszós szakaszok miatt.",
+            "ro": "Urcați pe poteca abruptă pentru a ajunge la această stâncă cu vedere la arhipelag, dar asigurați-vă că purtați bocanci de drumeție robuști pentru noroi."
+          }
+        },
+        {
+          "name": {
+            "en": "Reinefjorden",
+            "de": "Reinefjorden",
+            "hu": "Reinefjorden",
+            "ro": "Reinefjorden"
+          },
+          "coords": [
+            13.056264,
+            67.949707
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Cycle along the edge of this vast, mirror-like fjord reflecting giant granite walls, pausing at the small laybys to safely capture the stunning scale.",
+            "de": "Radeln Sie am Rande dieses riesigen Fjords entlang, in dem sich Granitwände spiegeln, und halten Sie an kleinen Buchten, um die Aussicht zu genießen.",
+            "hu": "Kerekezzen a hatalmas, tükörsima fjord partján, amely gránitfalakat tükröz, és álljon meg a kis pihenőknél, hogy biztonságosan megörökítse a tájat.",
+            "ro": "Pedalați de-a lungul acestui fiord vast care reflectă pereții uriași de granit, oprindu-vă în micile refugii pentru a surprinde în siguranță peisajul."
+          }
+        },
+        {
+          "name": {
+            "en": "Navaren",
+            "de": "Navaren",
+            "hu": "Navaren",
+            "ro": "Navaren"
+          },
+          "coords": [
+            13.043648,
+            67.938102
+          ],
+          "category": "natural",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Take a short break at this distinct rugged peak looming over the coastline, using the natural shelter of the rocks if the Arctic coastal winds pick up.",
+            "de": "Machen Sie eine Pause an diesem schroffen Gipfel, der über der Küste thront, und nutzen Sie den Schutz der Felsen, wenn die arktischen Winde zunehmen.",
+            "hu": "Tartson rövid pihenőt e partvonal fölé magasodó zord csúcsnál, kihasználva a sziklák természetes menedékét, ha a fagyos sarki szelek felerősödnének.",
+            "ro": "Faceți o scurtă pauză la acest vârf accidentat care domină coasta, folosind adăpostul natural al stâncilor dacă vânturile arctice se întețesc brusc."
+          }
+        },
+        {
+          "name": {
+            "en": "Gylttinden",
+            "de": "Gylttinden",
+            "hu": "Gylttinden",
+            "ro": "Gylttinden"
+          },
+          "coords": [
+            13.038806,
+            67.912371
+          ],
+          "category": "natural",
+          "arrive_at": "15:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "en": "Admire the imposing pyramidal structure of this mountain from the valley floor, keeping your camera ready for the changing dramatic light of the afternoon.",
+            "de": "Bewundern Sie die imposante Pyramidenstruktur dieses Berges vom Talboden aus und halten Sie Ihre Kamera für das wechselnde Licht des Nachmittags bereit.",
+            "hu": "Csodálja meg e hegy impozáns piramisszerkezetét a völgyből, és tartsa készenlétben a fényképezőgépét a délutáni drámai fényviszonyok megörökítéséhez.",
+            "ro": "Admirați structura piramidală impunătoare a acestui munte de la nivelul văii, păstrând aparatul foto pregătit pentru lumina dramatică a după-amiezii."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your cycling day starts with iconic snaps at Reinehalsen and deep dives into ecology at the Lofotodden Museum. By midday, feel the rush near Aqua Lofoten before parking your bike to hike the stunning Preikstolen viewpoint. The afternoon brings a scenic ride past the deep waters of Reinefjorden towards the towering Navaren. As evening falls, cycle your way to Gylttinden, witnessing the mountains turn brilliant shades of orange.",
+        "de": "Ihr Radtag beginnt mit Fotos am Reinehalsen und Einblicken im Lofotodden-Museum. Mittags spüren Sie den Nervenkitzel bei Aqua Lofoten, bevor Sie zum Preikstolen wandern. Der Nachmittag bringt eine malerische Fahrt entlang des tiefen Reinefjorden in Richtung des majestätischen Navaren. Gegen Abend radeln Sie zum Gylttinden und beobachten, wie die Berge in leuchtenden Orangetönen erstrahlen.",
+        "hu": "A kerékpáros nap a Reinehalsen ikonikus látványával és a Lofotodden Múzeum felfedezésével indul. Délben élje át az Aqua Lofoten nyüzsgését, majd túrázzon fel a Preikstolen kilátóhoz. A délután festői utazást kínál a mély Reinefjorden mentén a tornyosuló Navaren irányába. Ahogy leszáll az est, tekerjen el a Gylttindenhez, megcsodálva a narancssárgába boruló fenséges hegycsúcsokat.",
+        "ro": "Ziua de ciclism începe cu fotografii la Reinehalsen și o vizită la Muzeul Lofotodden. La amiază, simțiți energia la Aqua Lofoten înainte de a face o drumeție la Preikstolen. După-amiaza aduce o plimbare pitorească pe lângă apele adânci ale Reinefjorden spre impunătorul Navaren. Odată cu lăsarea serii, pedalați spre Gylttinden, observând munții transformându-se în nuanțe strălucitoare de portocaliu."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 17.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Reinehalsen",
+            "de": "Reinehalsen",
+            "hu": "Reinehalsen",
+            "ro": "Reinehalsen"
+          },
+          "coords": [
+            13.084359,
+            67.928332
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Enjoy breathtaking panoramas of the jagged peaks rising from the sea at this iconic viewpoint, but arrive early to secure a good spot for photography.",
+            "de": "Genießen Sie atemberaubende Panoramen der zerklüfteten Gipfel an diesem Aussichtspunkt, aber kommen Sie früh, um den besten Platz für Fotos zu sichern.",
+            "hu": "Élvezze a tengerből kiemelkedő csipkézett csúcsok lélegzetelállító panorámáját ezen az ikonikus kilátón, de érkezzen korán a legjobb fotós helyekért.",
+            "ro": "Bucurați-vă de panorame uluitoare ale vârfurilor zimțate care se ridică din mare, dar ajungeți devreme pentru a vă asigura un loc bun pentru fotografii."
+          }
+        },
+        {
+          "name": {
+            "en": "Lofotodden National Park museum",
+            "de": "Nationalparkmuseum Lofotodden",
+            "hu": "Lofotodden Nemzeti Park múzeum",
+            "ro": "Muzeul Parcului Național Lofotodden"
+          },
+          "coords": [
+            13.087668,
+            67.932202
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Discover the dramatic geology and rich biodiversity of the Lofoten islands in this modern exhibition, and ask the guides for daily trail conditions.",
+            "de": "Entdecken Sie die dramatische Geologie der Lofoten-Inseln in dieser modernen Ausstellung und fragen Sie die Guides nach den täglichen Wegbedingungen.",
+            "hu": "Fedezze fel a Lofoten-szigetek drámai geológiáját ebben a modern kiállításban, és érdeklődjön a túravezetőknél az aktuális ösvényviszonyokról.",
+            "ro": "Descoperiți geologia dramatică a insulelor Lofoten în această expoziție modernă și întrebați ghizii despre starea traseelor zilnice din zonă."
+          }
+        },
+        {
+          "name": {
+            "en": "Reinefjorden",
+            "de": "Reinefjorden",
+            "hu": "Reinefjorden",
+            "ro": "Reinefjorden"
+          },
+          "coords": [
+            13.056264,
+            67.949707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "en": "Drive along the edge of this vast, mirror-like fjord reflecting giant granite walls, pausing at the small laybys to safely capture the stunning scale.",
+            "de": "Fahren Sie am Rande dieses riesigen Fjords entlang, in dem sich Granitwände spiegeln, und halten Sie an kleinen Buchten, um die Aussicht zu genießen.",
+            "hu": "Kocsikázzon a hatalmas, tükörsima fjord partján, amely gránitfalakat tükröz, és álljon meg a kis pihenőknél, hogy biztonságosan megörökítse a tájat.",
+            "ro": "Conduceți de-a lungul acestui fiord vast care reflectă pereții uriași de granit, oprindu-vă în micile refugii pentru a surprinde în siguranță peisajul."
+          }
+        },
+        {
+          "name": {
+            "en": "Olstinden",
+            "de": "Olstinden",
+            "hu": "Olstinden",
+            "ro": "Olstinden"
+          },
+          "coords": [
+            13.076849,
+            67.95648
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "en": "Pull over safely to capture this iconic steep mountain that frequently graces postcards, looking for reflections in the calm water on windless days.",
+            "de": "Fahren Sie sicher ran, um diesen ikonischen steilen Berg zu fotografieren, und suchen Sie an windstillen Tagen nach Spiegelungen im ruhigen Wasser.",
+            "hu": "Húzódjon félre biztonságosan a gyakran képeslapokon szereplő meredek hegy lefotózásához, és szélcsendes napokon keresse a tükröződést a vízben.",
+            "ro": "Trageți pe dreapta pentru a fotografia acest munte abrupt iconic, căutând reflexii în apa calmă în zilele fără vânt pentru o imagine perfectă."
+          }
+        },
+        {
+          "name": {
+            "en": "Vorfjorden",
+            "de": "Vorfjorden",
+            "hu": "Vorfjorden",
+            "ro": "Vorfjorden"
+          },
+          "coords": [
+            13.103948,
+            67.959164
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "en": "Drive along this remote and majestic fjord offering pristine Arctic wilderness viewing, but always watch out for wandering sheep crossing the narrow roads.",
+            "de": "Fahren Sie entlang dieses abgelegenen Fjords, der eine unberührte arktische Wildnis bietet, aber achten Sie auf wandernde Schafe auf den engen Straßen.",
+            "hu": "Vezessen végig ezen az elhagyatott, fenséges fjordon a sarkvidéki vadon megfigyeléséhez, de mindig ügyeljen a keskeny utakon átkelő kóbor juhokra.",
+            "ro": "Conduceți de-a lungul acestui fiord izolat care oferă vederi sălbatice arctice, dar fiți mereu atenți la oile care traversează drumurile înguste."
+          }
+        },
+        {
+          "name": {
+            "en": "Gylttinden",
+            "de": "Gylttinden",
+            "hu": "Gylttinden",
+            "ro": "Gylttinden"
+          },
+          "coords": [
+            13.038806,
+            67.912371
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "en": "Admire the imposing pyramidal structure of this mountain from the valley floor, keeping your camera ready for the changing dramatic light of the afternoon.",
+            "de": "Bewundern Sie die imposante Pyramidenstruktur dieses Berges vom Talboden aus und halten Sie Ihre Kamera für das wechselnde Licht des Nachmittags bereit.",
+            "hu": "Csodálja meg e hegy impozáns piramisszerkezetét a völgyből, és tartsa készenlétben a fényképezőgépét a délutáni drámai fényviszonyok megörökítéséhez.",
+            "ro": "Admirați structura piramidală impunătoare a acestui munte de la nivelul văii, păstrând aparatul foto pregătit pentru lumina dramatică a după-amiezii."
+          }
+        },
+        {
+          "name": {
+            "en": "Sørvågvatnet",
+            "de": "Sørvågvatnet",
+            "hu": "Sørvågvatnet",
+            "ro": "Sørvågvatnet"
+          },
+          "coords": [
+            13.017494,
+            67.892576
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "en": "Conclude your drive at this beautiful scenic lake perfect for a peaceful evening stroll, checking the local forecast as it's a great spot for the aurora.",
+            "de": "Beenden Sie Ihre Fahrt an diesem wunderschönen See, der sich perfekt für einen Spaziergang eignet, und prüfen Sie die Vorhersage für Nordlichter.",
+            "hu": "Zárja a vezetést ennél a békés esti sétákra tökéletes gyönyörű tónál, és ellenőrizze az előrejelzést, mivel kiváló helyszín a sarki fény megfigyelésére.",
+            "ro": "Încheiați-vă călătoria la acest lac frumos, perfect pentru o plimbare pașnică, verificând prognoza meteo, deoarece este un loc excelent pentru aurore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your road trip by marveling at Reinehalsen and enriching your knowledge at the Lofotodden National Park museum. Around midday, cruise along the magnificent Reinefjorden and pull over for spectacular photo ops of Olstinden's iconic peak. Your afternoon continues on the quiet roads bordering Vorfjorden, surrounded by towering walls of rock. As the sun sets, drive down through Gylttinden's shadow, ending your journey beside the tranquil waters of Sørvågvatnet.",
+        "de": "Beginnen Sie Ihren Roadtrip am Reinehalsen und erweitern Sie Ihr Wissen im Lofotodden-Nationalparkmuseum. Mittags fahren Sie entlang des prächtigen Reinefjorden und halten für spektakuläre Fotos vom Olstinden. Ihr Nachmittag verläuft auf den ruhigen Straßen am Vorfjorden, umgeben von aufragenden Felswänden. Wenn die Sonne untergeht, fahren Sie durch den Schatten des Gylttinden und beenden die Reise am friedlichen Sørvågvatnet.",
+        "hu": "Kezdje autós utazását a Reinehalsen megcsodálásával és a Lofotodden Nemzeti Park múzeumának meglátogatásával. Délben kocsikázzon végig a lenyűgöző Reinefjorden mentén, és álljon meg lefotózni az Olstinden ikonikus csúcsát. A délutánt a Vorfjorden melletti csendes utakon töltse, hatalmas sziklafalakkal körülvéve. Naplemente közeledtével haladjon át a Gylttinden árnyékán, utazását pedig a Sørvågvatnet békés vizénél zárja.",
+        "ro": "Începeți excursia cu mașina admirând Reinehalsen și îmbogățindu-vă cunoștințele la Muzeul Parcului Național Lofotodden. În jurul prânzului, conduceți de-a lungul magnificului Reinefjorden și opriți pentru fotografii la Olstinden. După-amiaza continuă pe drumurile liniștite de lângă Vorfjorden, înconjurat de pereți stâncoși impunători. La apus, conduceți prin umbra lui Gylttinden, terminând călătoria la Sørvågvatnet."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "creutzwald",
+  "anchor": {
+    "name": "Creutzwald",
+    "coords": [
+      6.6958,
+      49.2053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+          },
+          "coords": [
+            6.697191,
+            49.20742
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieser zentralen Kirche, die die Geschichte der Stadt widerspiegelt, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a központi templomnak a feltűnő neogótikus építészetét, amely a város történelmét tükrözi, és a legjobb fényviszonyokért a reggeli misén látogassa meg.",
+            "ro": "Admirați arhitectura neogotică uimitoare a acestei biserici centrale, care reflectă istoria orașului, și vizitați-o în timpul slujbei de dimineață pentru cea mai bună lumină.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, which reflects the town's history, and try to visit during morning mass for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of Creutzwald",
+            "hu": "Lake of Creutzwald",
+            "ro": "Lake of Creutzwald",
+            "en": "Lake of Creutzwald"
+          },
+          "coords": [
+            6.706569,
+            49.204914
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen wunderschönen natürlichen See, der als ruhige Oase in der Stadt dient, und bringen Sie Brot mit, um die lokalen Enten an den schattigen Ufern zu füttern.",
+            "hu": "Sétáljon egyet e csodás természetes tó körül, amely nyugodt oázisként szolgál a városban, és ne felejtsen el kenyeret hozni a helyi kacsák etetéséhez az árnyékos partokon.",
+            "ro": "Plimbați-vă în jurul acestui frumos lac natural care servește ca o oază de liniște în oraș și nu uitați să aduceți pâine pentru a hrăni rațele locale pe malurile umbrite.",
+            "en": "Stroll around this beautiful natural lake that serves as a tranquil oasis in the city, and remember to bring some bread to feed the local ducks along the shaded shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Fatima",
+            "hu": "Église Notre-Dame-de-Fatima",
+            "ro": "Église Notre-Dame-de-Fatima",
+            "en": "Église Notre-Dame-de-Fatima"
+          },
+          "coords": [
+            6.708985,
+            49.200909
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der stillen Reflexion in dieser reizvollen lokalen Kirche und beachten Sie die wunderschönen Buntglasfenster auf der Ostseite des Gebäudes.",
+            "hu": "Szánjon egy kis időt a csendes elmélkedésre ebben a bájos, békés hangulatáról ismert helyi templomban, és figyelje meg a keleti oldalon található gyönyörű ólomüveg részleteket.",
+            "ro": "Luați-vă un moment de reflecție în această fermecătoare biserică locală cunoscută pentru ambianța sa pașnică și observați detaliile superbe ale vitraliilor de pe latura estică.",
+            "en": "Take a moment of quiet reflection in this charming local church known for its peaceful ambiance, and observe the beautiful stained glass details on the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Thérèse",
+            "hu": "Église Sainte-Thérèse",
+            "ro": "Église Sainte-Thérèse",
+            "en": "Église Sainte-Thérèse"
+          },
+          "coords": [
+            6.680351,
+            49.195956
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den besonderen architektonischen Charme von Sainte-Thérèse, ein Zeugnis des regionalen religiösen Erbes, und achten Sie auf die aufwendig geschnitzten Holzbänke.",
+            "hu": "Fedezze fel a Sainte-Thérèse egyedi építészeti varázsát, amely a regionális vallási örökség bizonyítéka, és figyelje meg a faragott fapadokat az oltár közelében.",
+            "ro": "Descoperiți farmecul arhitectural distinct al bisericii Sainte-Thérèse, o mărturie a moștenirii religioase regionale, și remarcați băncile din lemn sculptat de lângă altar.",
+            "en": "Discover the distinct architectural charm of Sainte-Thérèse, a testament to regional religious heritage, and take note of the intricately carved wooden pews near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Église du Christ-Roi",
+            "ro": "Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            6.666449,
+            49.194668
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour durch das religiöse Erbe an dieser majestätischen Kirche und setzen Sie sich kurz in die vorderen Reihen, um die widerhallende Akustik zu genießen.",
+            "hu": "Fejezze be vallási örökségi túráját ennél a fenséges templomnál, és üljön le röviden az első padokba, hogy élvezze a belső tér különleges akusztikáját és közösségi hangulatát.",
+            "ro": "Încheiați-vă turul patrimoniului religios la această biserică maiestuoasă și așezați-vă scurt în primele bănci pentru a aprecia acustica impresionantă din interiorul clădirii.",
+            "en": "End your religious heritage tour at this majestic church offering a sense of local community, and sit briefly in the front pews to appreciate the echoing acoustics inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen unsere Wanderung im Herzen von Creutzwald und bewundern die atemberaubende Architektur der Église de l'Exaltation. Mittag: Wir gehen weiter zum friedlichen See von Creutzwald, um uns zu entspannen, bevor wir zur nahen Église Notre-Dame-de-Fatima aufbrechen. Nachmittag: Ein zügiger Spaziergang bringt uns zur historischen Église Sainte-Thérèse, wo wir das regionale religiöse Erbe bewundern. Abend: Wir beenden unseren Tag in der Église du Christ-Roi, genießen die ruhige Atmosphäre und lassen den Tag entspannt ausklingen.",
+        "hu": "Reggel: Sétánkat Creutzwald szívében kezdjük, és megcsodáljuk a központi Église de l'Exaltation lenyűgöző építészetét. Dél: Továbbsétálunk a békés Creutzwald-tóhoz, amely tökéletes hely a pihenésre, mielőtt a közeli Église Notre-Dame-de-Fatima felé vennénk az irányt. Délután: Egy frissítő séta elvezet a történelmi Église Sainte-Thérèse-hez, ahol értékelhetjük a regionális vallási örökséget. Este: Napunkat az Église du Christ-Roi templomnál zárjuk, elmerülve a nyugodt légkörben és visszagondolva a csodás városi élményekre.",
+        "ro": "Dimineață: Începem turul nostru pietonal în inima orașului Creutzwald, admirând arhitectura uimitoare a bisericii centrale Exaltation. Prânz: Continuăm spre pașnicul Lac Creutzwald, un loc perfect pentru a ne relaxa înainte de a ne îndrepta spre biserica Notre-Dame-de-Fatima. După-amiază: O plimbare vioaie ne aduce la biserica istorică Sainte-Thérèse, unde apreciem moștenirea religioasă regională. Seară: Ne încheiem ziua la Église du Christ-Roi, absorbind atmosfera senină și reflectând la o zi minunată petrecută în oraș.",
+        "en": "Morning: We begin our walking tour in the heart of Creutzwald, admiring the stunning architecture of the central Église de l'Exaltation-de-la-Sainte-Croix. Midday: We continue to the peaceful Lake of Creutzwald, a perfect spot to relax and take in the natural surroundings before heading to the nearby Église Notre-Dame-de-Fatima. Afternoon: A brisk walk brings us to the historic Église Sainte-Thérèse, where we can appreciate the regional religious heritage and its distinct charm. Evening: We conclude our day at the Église du Christ-Roi, soaking in the serene atmosphere and reflecting on a lovely day in the city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 10.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+          },
+          "coords": [
+            6.697191,
+            49.20742
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieser zentralen Kirche, die die Geschichte der Stadt widerspiegelt, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a központi templomnak a feltűnő neogótikus építészetét, amely a város történelmét tükrözi, és a legjobb fényviszonyokért a reggeli misén látogassa meg.",
+            "ro": "Admirați arhitectura neogotică uimitoare a acestei biserici centrale, care reflectă istoria orașului, și vizitați-o în timpul slujbei de dimineață pentru cea mai bună lumină.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, which reflects the town's history, and try to visit during morning mass for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkbad Überherrn",
+            "hu": "Parkbad Überherrn",
+            "ro": "Parkbad Überherrn",
+            "en": "Parkbad Überherrn"
+          },
+          "coords": [
+            6.693439,
+            49.237569
+          ],
+          "category": "family",
+          "arrive_at": "10:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in diesem familienfreundlichen Schwimmkomplex und kommen Sie am frühen Nachmittag, um den größten Menschenmassen an den Schwimmbecken elegant auszuweichen.",
+            "hu": "Élvezze a frissítő fürdőzést vagy egy pihentető sétát ebben a népszerű, családbarát uszodakomplexumban, és próbáljon kora délután érkezni, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Bucurați-vă de o baie răcoritoare la acest complex de înot popular pentru familii și încercați să vizitați la începutul după-amiezii pentru a evita cele mai mari aglomerații.",
+            "en": "Enjoy a refreshing dip or a relaxing walk at this popular family-friendly swimming complex, and try to visit early in the afternoon to avoid the largest crowds at the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of Creutzwald",
+            "hu": "Lake of Creutzwald",
+            "ro": "Lake of Creutzwald",
+            "en": "Lake of Creutzwald"
+          },
+          "coords": [
+            6.706569,
+            49.204914
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen wunderschönen natürlichen See, der als ruhige Oase in der Stadt dient, und bringen Sie Brot mit, um die lokalen Enten an den schattigen Ufern zu füttern.",
+            "hu": "Sétáljon egyet e csodás természetes tó körül, amely nyugodt oázisként szolgál a városban, és ne felejtsen el kenyeret hozni a helyi kacsák etetéséhez az árnyékos partokon.",
+            "ro": "Plimbați-vă în jurul acestui frumos lac natural care servește ca o oază de liniște în oraș și nu uitați să aduceți pâine pentru a hrăni rațele locale pe malurile umbrite.",
+            "en": "Stroll around this beautiful natural lake that serves as a tranquil oasis in the city, and remember to bring some bread to feed the local ducks along the shaded shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Fatima",
+            "hu": "Église Notre-Dame-de-Fatima",
+            "ro": "Église Notre-Dame-de-Fatima",
+            "en": "Église Notre-Dame-de-Fatima"
+          },
+          "coords": [
+            6.708985,
+            49.200909
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Moment der stillen Reflexion in dieser reizvollen lokalen Kirche und beachten Sie die wunderschönen Buntglasfenster auf der Ostseite des Gebäudes.",
+            "hu": "Szánjon egy kis időt a csendes elmélkedésre ebben a bájos, békés hangulatáról ismert helyi templomban, és figyelje meg a keleti oldalon található gyönyörű ólomüveg részleteket.",
+            "ro": "Luați-vă un moment de reflecție în această fermecătoare biserică locală cunoscută pentru ambianța sa pașnică și observați detaliile superbe ale vitraliilor de pe latura estică.",
+            "en": "Take a moment of quiet reflection in this charming local church known for its peaceful ambiance, and observe the beautiful stained glass details on the eastern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Thérèse",
+            "hu": "Église Sainte-Thérèse",
+            "ro": "Église Sainte-Thérèse",
+            "en": "Église Sainte-Thérèse"
+          },
+          "coords": [
+            6.680351,
+            49.195956
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den besonderen architektonischen Charme von Sainte-Thérèse, ein Zeugnis des regionalen religiösen Erbes, und achten Sie auf die aufwendig geschnitzten Holzbänke.",
+            "hu": "Fedezze fel a Sainte-Thérèse egyedi építészeti varázsát, amely a regionális vallási örökség bizonyítéka, és figyelje meg a faragott fapadokat az oltár közelében.",
+            "ro": "Descoperiți farmecul arhitectural distinct al bisericii Sainte-Thérèse, o mărturie a moștenirii religioase regionale, și remarcați băncile din lemn sculptat de lângă altar.",
+            "en": "Discover the distinct architectural charm of Sainte-Thérèse, a testament to regional religious heritage, and take note of the intricately carved wooden pews near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Église du Christ-Roi",
+            "ro": "Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            6.666449,
+            49.194668
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour durch das religiöse Erbe an dieser majestätischen Kirche und setzen Sie sich kurz in die vorderen Reihen, um die widerhallende Akustik zu genießen.",
+            "hu": "Fejezze be vallási örökségi túráját ennél a fenséges templomnál, és üljön le röviden az első padokba, hogy élvezze a belső tér különleges akusztikáját és közösségi hangulatát.",
+            "ro": "Încheiați-vă turul patrimoniului religios la această biserică maiestuoasă și așezați-vă scurt în primele bănci pentru a aprecia acustica impresionantă din interiorul clădirii.",
+            "en": "End your religious heritage tour at this majestic church offering a sense of local community, and sit briefly in the front pews to appreciate the echoing acoustics inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Unser Radabenteuer beginnt im Stadtzentrum, bevor wir zum familienfreundlichen Parkbad Überherrn radeln, um aktiv zu werden. Mittag: Wir fahren zurück Richtung Stadt, um uns am wunderschönen See von Creutzwald zu entspannen und die ruhigen Gewässer zu genießen. Nachmittag: Eine kurze Fahrt bringt uns zur Église Notre-Dame-de-Fatima und weiter zur charmanten Église Sainte-Thérèse. Abend: Wir beenden unsere Radtour an der majestätischen Église du Christ-Roi und ruhen unsere Beine bei friedlicher Architektur aus.",
+        "hu": "Reggel: Kerékpáros kalandunk a városközpontban kezdődik, majd a családbarát Parkbad Überherrn felé tekerünk egy kis aktív szórakozásra. Dél: Visszabiciklizünk a város felé, hogy megpihenjünk a gyönyörű Creutzwald-tónál, élvezve a nyugodt vizeket. Délután: Egy rövid út elvisz minket az Église Notre-Dame-de-Fatima-hoz, majd a bájos Église Sainte-Thérèse templomhoz. Este: Biciklitúránkat a fenséges Église du Christ-Roi-nál fejezzük be, megpihentetve lábainkat és megcsodálva a nyugodt vallási építészetet.",
+        "ro": "Dimineață: Aventura noastră cu bicicleta începe în centrul orașului, înainte de a pedala spre Parkbad Überherrn pentru distracție activă. Prânz: Ne întoarcem spre oraș pentru a ne relaxa la frumosul Lac Creutzwald, bucurându-ne de apele calme și țărmurile verzi. După-amiază: O scurtă plimbare ne duce la Église Notre-Dame-de-Fatima și apoi la fermecătoarea Église Sainte-Thérèse. Seară: Încheiem turul la maiestuoasa biserică Christ-Roi, odihnindu-ne picioarele în timp ce apreciem arhitectura religioasă liniștită.",
+        "en": "Morning: Our cycling adventure starts in the city center before we pedal out to the family-friendly Parkbad Überherrn for some active fun. Midday: We bike back toward the city to relax at the beautiful Lake of Creutzwald, taking time to enjoy the calm waters and green shores. Afternoon: A short ride takes us to Église Notre-Dame-de-Fatima and then on to the charming Église Sainte-Thérèse. Evening: We finish our cycling tour at the majestic Église du Christ-Roi, resting our legs while appreciating the tranquil religious architecture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 13.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+            "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+          },
+          "coords": [
+            6.697191,
+            49.20742
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieser zentralen Kirche, die die Geschichte der Stadt widerspiegelt, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a központi templomnak a feltűnő neogótikus építészetét, amely a város történelmét tükrözi, és a legjobb fényviszonyokért a reggeli misén látogassa meg.",
+            "ro": "Admirați arhitectura neogotică uimitoare a acestei biserici centrale, care reflectă istoria orașului, și vizitați-o în timpul slujbei de dimineață pentru cea mai bună lumină.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, which reflects the town's history, and try to visit during morning mass for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parkbad Überherrn",
+            "hu": "Parkbad Überherrn",
+            "ro": "Parkbad Überherrn",
+            "en": "Parkbad Überherrn"
+          },
+          "coords": [
+            6.693439,
+            49.237569
+          ],
+          "category": "family",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in diesem familienfreundlichen Schwimmkomplex und kommen Sie am frühen Nachmittag, um den größten Menschenmassen an den Schwimmbecken elegant auszuweichen.",
+            "hu": "Élvezze a frissítő fürdőzést vagy egy pihentető sétát ebben a népszerű, családbarát uszodakomplexumban, és próbáljon kora délután érkezni, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Bucurați-vă de o baie răcoritoare la acest complex de înot popular pentru familii și încercați să vizitați la începutul după-amiezii pentru a evita cele mai mari aglomerații.",
+            "en": "Enjoy a refreshing dip or a relaxing walk at this popular family-friendly swimming complex, and try to visit early in the afternoon to avoid the largest crowds at the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of Creutzwald",
+            "hu": "Lake of Creutzwald",
+            "ro": "Lake of Creutzwald",
+            "en": "Lake of Creutzwald"
+          },
+          "coords": [
+            6.706569,
+            49.204914
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen wunderschönen natürlichen See, der als ruhige Oase in der Stadt dient, und bringen Sie Brot mit, um die lokalen Enten an den schattigen Ufern zu füttern.",
+            "hu": "Sétáljon egyet e csodás természetes tó körül, amely nyugodt oázisként szolgál a városban, és ne felejtsen el kenyeret hozni a helyi kacsák etetéséhez az árnyékos partokon.",
+            "ro": "Plimbați-vă în jurul acestui frumos lac natural care servește ca o oază de liniște în oraș și nu uitați să aduceți pâine pentru a hrăni rațele locale pe malurile umbrite.",
+            "en": "Stroll around this beautiful natural lake that serves as a tranquil oasis in the city, and remember to bring some bread to feed the local ducks along the shaded shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Reservoir 15000 m³",
+            "hu": "Reservoir 15000 m³",
+            "ro": "Reservoir 15000 m³",
+            "en": "Reservoir 15000 m³"
+          },
+          "coords": [
+            6.707295,
+            49.181312
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die beeindruckende Größe dieses massiven Naturreservoirs für das lokale Ökosystem und bringen Sie eine Kamera mit, um die weiten Wasserflächen optimal einzufangen.",
+            "hu": "Csodálja meg a helyi ökoszisztémát támogató masszív víztározó méretét, és hozzon magával egy jó fényképezőgépet a hatalmas és szépen tükröződő vízfelületek megörökítéséhez.",
+            "ro": "Asistați la scara impresionantă a acestui rezervor natural masiv care sprijină ecosistemul și aduceți o cameră bună pentru a surprinde suprafețele reflectorizante ale apei.",
+            "en": "Witness the impressive scale of this massive natural reservoir that supports the local ecosystem, and bring a good camera to capture the wide reflective surfaces of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Reservoire Gazel",
+            "hu": "Reservoire Gazel",
+            "ro": "Reservoire Gazel",
+            "en": "Reservoire Gazel"
+          },
+          "coords": [
+            6.679634,
+            49.189177
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Natur nahe dieses Wasserreservoirs und tragen Sie feste Wanderschuhe, da die umliegenden Wege oft uneben und unbefestigt sein können.",
+            "hu": "Fedezze fel a természetet e jelentős víztározó közelében, és viseljen masszív túracipőt, mivel a környező ösvények gyakran egyenetlenek és burkolatlanok a környéken.",
+            "ro": "Explorați împrejurimile naturale fascinante de lângă acest rezervor de apă și purtați încălțăminte robustă de mers, deoarece căile înconjurătoare pot fi denivelate și nepavate.",
+            "en": "Explore the fascinating natural surroundings near this significant water reservoir, and wear sturdy walking shoes as the surrounding pathways can be quite uneven and unpaved."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Thérèse",
+            "hu": "Église Sainte-Thérèse",
+            "ro": "Église Sainte-Thérèse",
+            "en": "Église Sainte-Thérèse"
+          },
+          "coords": [
+            6.680351,
+            49.195956
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den besonderen architektonischen Charme von Sainte-Thérèse, ein Zeugnis des regionalen religiösen Erbes, und achten Sie auf die aufwendig geschnitzten Holzbänke.",
+            "hu": "Fedezze fel a Sainte-Thérèse egyedi építészeti varázsát, amely a regionális vallási örökség bizonyítéka, és figyelje meg a faragott fapadokat az oltár közelében.",
+            "ro": "Descoperiți farmecul arhitectural distinct al bisericii Sainte-Thérèse, o mărturie a moștenirii religioase regionale, și remarcați băncile din lemn sculptat de lângă altar.",
+            "en": "Discover the distinct architectural charm of Sainte-Thérèse, a testament to regional religious heritage, and take note of the intricately carved wooden pews near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Église du Christ-Roi",
+            "ro": "Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            6.666449,
+            49.194668
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour durch das religiöse Erbe an dieser majestätischen Kirche und setzen Sie sich kurz in die vorderen Reihen, um die widerhallende Akustik zu genießen.",
+            "hu": "Fejezze be vallási örökségi túráját ennél a fenséges templomnál, és üljön le röviden az első padokba, hogy élvezze a belső tér különleges akusztikáját és közösségi hangulatát.",
+            "ro": "Încheiați-vă turul patrimoniului religios la această biserică maiestuoasă și așezați-vă scurt în primele bănci pentru a aprecia acustica impresionantă din interiorul clădirii.",
+            "en": "End your religious heritage tour at this majestic church offering a sense of local community, and sit briefly in the front pews to appreciate the echoing acoustics inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir fahren zuerst zum Parkbad Überherrn, genießen die malerischen Straßen und entspannen uns im familienfreundlichen Erholungsgebiet. Mittag: Zurück in Creutzwald halten wir am ruhigen See von Creutzwald und besuchen dann das beeindruckende Reservoir 15000 m³. Nachmittag: Eine kurze Fahrt bringt uns zum Reservoire Gazel, wo wir die Naturlandschaften und Gewässer der Gegend weiter erkunden. Abend: Wir schließen mit einer Fahrt zur historischen Église Sainte-Thérèse und schließlich zur Église du Christ-Roi ab.",
+        "hu": "Reggel: Először a Parkbad Überherrn felé autózunk, élvezve a festői utakat, mielőtt a családbarát medencénél és rekreációs területen pihennénk. Dél: Visszatérve Creutzwaldba, megállunk a nyugodt Creutzwald-tónál, majd meglátogatjuk a lenyűgöző 15000 m³-es víztározót. Délután: Egy rövid út a Reservoire Gazelhez vezet, ahol tovább fedezzük fel a környék természeti szépségeit. Este: A napot a történelmi Église Sainte-Thérèse-hez és végül az Église du Christ-Roi-hoz tett kényelmes autóúttal zárjuk.",
+        "ro": "Dimineață: Conducem mai întâi spre Parkbad Überherrn, bucurându-ne de drumurile pitorești înainte de a ne relaxa la zona de recreere pentru familii. Prânz: Întorcându-ne în Creutzwald, oprim la Lacul Creutzwald și apoi vizităm impresionantul Rezervor 15000 m³. După-amiază: O scurtă călătorie ne aduce la Reservoire Gazel, continuând explorarea peisajelor naturale și a caracteristicilor acvatice. Seară: Încheiem cu o plimbare cu mașina până la biserica istorică Sainte-Thérèse și, în final, la Église du Christ-Roi.",
+        "en": "Morning: We drive out first to Parkbad Überherrn, enjoying the scenic roads before relaxing at the family-friendly pool and recreation area. Midday: Returning to the natural beauty of Creutzwald, we stop at the serene Lake of Creutzwald and then visit the impressive Reservoir 15000 m³. Afternoon: A short drive brings us to the Reservoire Gazel, continuing our exploration of the area's natural landscapes and water features. Evening: We conclude with a drive to the historic Église Sainte-Thérèse and finally the Église du Christ-Roi."
+      }
+    }
+  }
+}

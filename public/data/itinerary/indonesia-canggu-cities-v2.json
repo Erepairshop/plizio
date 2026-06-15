@@ -1,0 +1,428 @@
+{
+  "city_id": "indonesia-canggu-cities-v2",
+  "anchor": {
+    "name": "Canggu",
+    "coords": [
+      115.142778,
+      -8.641111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:04",
+      "total_km": 1.96,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Canggu jewelry classes",
+            "hu": "Canggu jewelry classes",
+            "ro": "Canggu jewelry classes",
+            "en": "Canggu jewelry classes"
+          },
+          "coords": [
+            115.139905,
+            -8.64651
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erlernen Sie traditionelle Silberverarbeitungstechniken, die Balis reiches künstlerisches Erbe widerspiegeln, während Sie in einem morgendlichen Workshop Ihr eigenes Souvenir kreieren.",
+            "hu": "Sajátítson el hagyományos ezüstműves technikákat, amelyek Bali gazdag művészeti örökségét tükrözik, miközben egy délelőtti workshop keretében elkészíti saját egyedi ajándékát.",
+            "ro": "Învățați tehnici tradiționale de prelucrare a argintului care reflectă bogata moștenire artistică din Bali, creându-vă propriul suvenir unic în timpul unui atelier matinal instructiv.",
+            "en": "Learn traditional silver crafting techniques that reflect Bali's rich artistic heritage while creating your own unique souvenir during an engaging morning jewelry workshop session."
+          }
+        },
+        {
+          "name": {
+            "de": "Small Temple (No Name)",
+            "hu": "Small Temple (No Name)",
+            "ro": "Small Temple (No Name)",
+            "en": "Small Temple (No Name)"
+          },
+          "coords": [
+            115.138697,
+            -8.64826
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten dieses friedlichen lokalen Schreins, der Einblicke in das spirituelle Leben bietet, und denken Sie an einen Sarong vor dem Eintreten.",
+            "hu": "Csodálja meg ennek a békés helyi szentélynek a bonyolult kőfaragásait, amely bepillantást enged a mindennapi spirituális életbe, és ne felejtsen el szarongot viselni a belépés előtt.",
+            "ro": "Admirați sculpturile complicate în piatră ale acestui altar local pașnic, care oferă o privire în viața spirituală balineză, și nu uitați să purtați un sarong înainte de a intra.",
+            "en": "Admire the intricate stone carvings of this peaceful local shrine, which offers a glimpse into daily Balinese spiritual life, and remember to wear a sarong before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Hyang",
+            "hu": "Pura Hyang",
+            "ro": "Pura Hyang",
+            "en": "Pura Hyang"
+          },
+          "coords": [
+            115.137293,
+            -8.649457
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen traditionellen Wassertempel, der lokalen Gottheiten gewidmet ist, um die landwirtschaftlichen Wurzeln der Gemeinde zu verstehen, und kommen Sie früh wegen der Hitze.",
+            "hu": "Fedezze fel ezt a helyi istenségeknek szentelt hagyományos vízi templomot, hogy megértse a közösség mezőgazdasági gyökereit, és érkezzen korán, hogy elkerülje a trópusi hőséget.",
+            "ro": "Explorați acest templu tradițional al apei dedicat zeităților locale pentru a înțelege rădăcinile agricole ale comunității, vizitându-l devreme pentru a evita arșița zilei tropicale.",
+            "en": "Explore this traditional water temple dedicated to local deities to understand the community's agricultural roots, visiting early to avoid the hottest part of the tropical day."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelinggih / Merajan",
+            "hu": "Pelinggih / Merajan",
+            "ro": "Pelinggih / Merajan",
+            "en": "Pelinggih / Merajan"
+          },
+          "coords": [
+            115.136013,
+            -8.650404
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Struktur eines traditionellen balinesischen Familientempelkomplexes der Ahnenverehrung, aber seien Sie respektvoll und halten Sie Abstand zu den Altären.",
+            "hu": "Fedezze fel egy hagyományos balinéz családi templomkomplexum lenyűgöző szerkezetét, amely az ősök tiszteletét mutatja be, de legyen tisztelettudó, és tartson távolságot az oltároktól.",
+            "ro": "Descoperiți structura fascinantă a unui complex de temple familiale balineze care prezintă cultul strămoșilor, dar fiți respectuoși și păstrați o distanță tăcută de altarele sfinte.",
+            "en": "Discover the fascinating structure of a traditional Balinese family temple complex that showcases ancestral worship, but be respectful and maintain a quiet distance from the altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Berawa",
+            "hu": "Pasar Berawa",
+            "ro": "Pasar Berawa",
+            "en": "Pasar Berawa"
+          },
+          "coords": [
+            115.148565,
+            -8.649408
+          ],
+          "category": "cultural",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Stöbern Sie über einen lebhaften lokalen Markt voller frischer exotischer Früchte, traditionellem Streetfood und Kunsthandwerk, wobei kleines Bargeld das Feilschen deutlich erleichtert.",
+            "hu": "Böngésszen a friss egzotikus gyümölcsökkel, hagyományos utcai ételekkel és kézműves termékekkel teli nyüzsgő helyi piacon, és hozzon magával aprópénzt a könnyebb alkudozás érdekében.",
+            "ro": "Explorați o piață locală vibrantă plină de fructe exotice proaspete, mâncare tradițională de stradă și obiecte de artizanat, aducând bancnote mici pentru a negocia mult mai ușor.",
+            "en": "Browse through a vibrant local market filled with fresh exotic fruits, traditional street food, and handmade crafts, bringing small cash denominations for easier bargaining."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Canggu, indem Sie bei einem lokalen Workshop ein eigenes Silberschmuckstück herstellen. Gegen Mittag schlendern Sie durch ruhige Straßen, um versteckte Tempel und familiäre Schreine zu entdecken, die den Alltag auf Bali prägen. Am Nachmittag tauchen Sie in die Düfte und Farben des lebhaften Pasar Berawa ein. Der Abend lädt zu einem entspannten Abschluss ein.",
+        "hu": "Kezdje a reggelt Canggu-ban egy helyi ékszerkészítő workshopon, ahol saját ezüst emléktárgyat alkothat. Délben sétáljon végig a csendes utcákon, fedezze fel a rejtett templomokat és a balinéz mindennapokat meghatározó szentélyeket. Délután merüljön el a nyüzsgő Pasar Berawa piac illataiban és színeiben. Az estét nyugodt, helyi ízekkel teli hangulatban zárhatja a környéken.",
+        "ro": "Începeți dimineața în Canggu confecționând o bijuterie unică din argint la un atelier local. La prânz, plimbați-vă pe străzile liniștite pentru a descoperi templele ascunse și sanctuarele familiale ce definesc viața de zi cu zi balineză. După-amiaza, pătrundeți în aromele și culorile vibrantei piețe Pasar Berawa. Seara oferă un final relaxant perfect pentru această zi de explorare.",
+        "en": "Start your morning in Canggu by crafting a unique silver keepsake at a local jewelry workshop. By midday, wander through quiet streets to discover hidden temples and family shrines that define daily Balinese life. In the afternoon, immerse yourself in the vibrant sights and scents of the bustling Pasar Berawa. The evening promises a relaxing conclusion after a satisfying day of cultural exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:03",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Scenic rice fields route",
+            "hu": "Scenic rice fields route",
+            "ro": "Scenic rice fields route",
+            "en": "Scenic rice fields route"
+          },
+          "coords": [
+            115.144969,
+            -8.630358
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch üppige, smaragdgrüne Reisterrassen, die Balis traditionelles Subak-Bewässerungssystem veranschaulichen, und halten Sie an ausgewiesenen Plätzen für die besten Fotos.",
+            "hu": "Biciklizzen át a buja, smaragdzöld rizsteraszokon, amelyek Bali hagyományos subak öntözőrendszerét példázzák, és álljon meg gyakran a kijelölt helyeken a legjobb fotókért.",
+            "ro": "Pedalați prin terasele de orez verzi smarald care exemplifică sistemul tradițional de irigații subak din Bali, oprindu-vă frecvent în zonele amenajate pentru cele mai bune fotografii.",
+            "en": "Cycle through lush, emerald-green rice terraces that exemplify Bali's traditional subak irrigation system, stopping frequently at the designated pull-offs for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Roh Kudus, Babakan",
+            "hu": "Gereja Roh Kudus, Babakan",
+            "ro": "Gereja Roh Kudus, Babakan",
+            "en": "Gereja Roh Kudus, Babakan"
+          },
+          "coords": [
+            115.152742,
+            -8.627327
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese einzigartige Kirche, die katholische Traditionen mit balinesischer Architektur wie gespaltenen Toren verbindet, und prüfen Sie den Chorplan für das Wochenende.",
+            "hu": "Csodálja meg ezt az egyedülálló templomot, amely a katolikus hagyományokat balinéz építészeti elemekkel ötvözi, és nézze meg a közösségi hirdetőtáblát a hétvégi kórusok miatt.",
+            "ro": "Minunați-vă de această biserică unică ce îmbină tradițiile catolice cu arhitectura balineză, precum porțile despicate, verificând panoul comunității pentru programul corului.",
+            "en": "Marvel at this unique church blending Catholic traditions with distinctly Balinese architectural elements like split gates, checking the community board for weekend choir schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Paulus, Kulibul",
+            "hu": "Gereja Santo Paulus, Kulibul",
+            "ro": "Gereja Santo Paulus, Kulibul",
+            "en": "Gereja Santo Paulus, Kulibul"
+          },
+          "coords": [
+            115.15844,
+            -8.635995
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie ein weiteres feines Beispiel für religiösen Synkretismus, bei dem christlicher Glaube auf lokale Motive trifft, und vergessen Sie Ihre Sonnencreme nicht.",
+            "hu": "Figyelje meg a vallási szinkretizmus egy másik remek példáját, ahol a keresztény hit a helyi művészeti motívumokkal találkozik az épületen, és használjon bőségesen naptejet.",
+            "ro": "Observați un alt exemplu de sincretism religios, unde credința creștină se întâlnește cu motivele artistice locale pe fațadă, având grijă să folosiți cremă de protecție solară.",
+            "en": "Observe another fine example of religious syncretism where Christian faith meets local artistic motifs in the building's facade, packing sunscreen as there is little shade outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Berawa",
+            "hu": "Pasar Berawa",
+            "ro": "Pasar Berawa",
+            "en": "Pasar Berawa"
+          },
+          "coords": [
+            115.148565,
+            -8.649408
+          ],
+          "category": "cultural",
+          "arrive_at": "11:31",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Probieren Sie authentische indonesische Snacks wie Klepon auf diesem belebten Markt, der echtes lokales Leben zeigt, und stellen Sie sicher, dass Ihr Fahrrad gut abgeschlossen ist.",
+            "hu": "Kóstoljon meg olyan autentikus indonéz rágcsálnivalókat ezen a nyüzsgő piacon, mint a klepon, amely valódi szeletet kínál a helyi életből, és gondosan zárja le a kerékpárját.",
+            "ro": "Gustați gustări indoneziene autentice precum klepon la această piață de cartier plină de viață, asigurându-vă totodată că bicicleta dumneavoastră este încuiată în siguranță.",
+            "en": "Taste authentic Indonesian snacks like klepon or satay at this bustling neighborhood market which offers a genuine slice of daily local life, ensuring your bicycle is securely locked."
+          }
+        },
+        {
+          "name": {
+            "de": "Berawa Surfspot",
+            "hu": "Berawa Surfspot",
+            "ro": "Berawa Surfspot",
+            "en": "Berawa Surfspot"
+          },
+          "coords": [
+            115.137327,
+            -8.6655
+          ],
+          "category": "landmark",
+          "arrive_at": "12:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie erfahrene Surfer an diesem weitläufigen Strand mit dunklem Sand und bringen Sie eine wiederverwendbare Wasserflasche mit, während Sie sich in einem Warung entspannen.",
+            "hu": "Nézze meg a szörfösöket ezen a hatalmas, sötét homokos strandon, és hozzon magával újrafelhasználható vizespalackot, hogy hidratált maradjon, miközben egy warungban pihen.",
+            "ro": "Urmăriți surferii experimentați la această plajă extinsă cu nisip închis, aducând o sticlă de apă reutilizabilă pentru a vă hidrata în timp ce vă relaxați la un warung de pe mal.",
+            "en": "Watch skilled surfers tackle the impressive waves at this expansive dark-sand beach, bringing a reusable water bottle to stay hydrated while you relax at a seaside warung."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie entspannt durch die frischen, grünen Reisfelder, die das ländliche Herz von Canggu zeigen. Gegen Mittag entdecken Sie zwei faszinierende Kirchen, deren Architektur eindrucksvoll balinesische und christliche Traditionen verschmilzt. Der Nachmittag bringt Sie auf einen belebten Markt für kleine Stärkungen. Abends können Sie am Strand die Surfer auf den Wellen beobachten.",
+        "hu": "Reggel kényelmesen kerékpározhat a friss, zöld rizsföldeken keresztül, amelyek megmutatják Canggu vidéki arcát. Délben két lenyűgöző templomot fedezhet fel, amelyek építészete a balinéz és a keresztény hagyományokat ötvözi. A délután egy nyüzsgő piacra kalauzolja, ahol finomságokat kóstolhat. Este a tengerparton pihenve nézheti, ahogy a szörfösök meglovagolják a hullámokat.",
+        "ro": "Dimineața, pedalați prin câmpurile de orez verzi și proaspete, ce ilustrează perfect inima rurală a zonei Canggu. La prânz, descoperiți două biserici fascinante unde tradițiile balineze se împletesc cu cele creștine într-o arhitectură unică. După-amiaza vă aduce la o piață vibrantă pentru gustări delicioase. Seara, relaxați-vă pe plajă și admirați surferii care prind valurile.",
+        "en": "In the morning, enjoy a breezy ride through the fresh, emerald rice fields that showcase Canggu's rural charm. By midday, explore two fascinating local churches where Balinese architecture beautifully intertwines with Christian traditions. The afternoon leads you to a bustling market for authentic local snacks. End your active day on the beach, watching talented surfers conquer the rolling waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue",
+            "hu": "Statue",
+            "ro": "Statue",
+            "en": "Statue"
+          },
+          "coords": [
+            115.121153,
+            -8.65186
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem prominenten historischen Wahrzeichen an einer belebten Kreuzung und machen Sie früh Fotos, bevor der starke Nachmittagsverkehr einsetzt.",
+            "hu": "Kezdje az utazást ennél a kiemelkedő történelmi nevezetességnél egy forgalmas kereszteződésben, és készítsen fotókat korán, mielőtt a délutáni forgalom felerősödne.",
+            "ro": "Începeți călătoria la acest punct de reper istoric proeminent aflat la o intersecție aglomerată, făcând fotografii devreme, înainte ca traficul intens de după-amiază să se acumuleze.",
+            "en": "Begin your journey at this prominent historical landmark which commemorates local heritage at a bustling intersection, capturing photos early before the heavy afternoon traffic builds up."
+          }
+        },
+        {
+          "name": {
+            "de": "Krasivyi voskresnyi rynok",
+            "hu": "Krasivyi voskresnyi rynok",
+            "ro": "Krasivyi voskresnyi rynok",
+            "en": "Krasivyi voskresnyi rynok"
+          },
+          "coords": [
+            115.125328,
+            -8.653854
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen Sonntagsmarkt, der für Vintage-Kleidung, Bio-Produkte und handwerklichen Schmuck bekannt ist, und kommen Sie pünktlich zur Öffnung für die besten Funde.",
+            "hu": "Merüljön el ezen az ikonikus vasárnapi piacon, amely vintage ruhákról és kézműves ékszerekről ismert, és érkezzen rögtön nyitáskor, hogy lecsaphasson a legjobb kincsekre.",
+            "ro": "Pătrundeți în această piață vibrantă de duminică, cunoscută pentru hainele vintage și bijuteriile artizanale, sosind exact la deschidere pentru a prinde cele mai căutate comori.",
+            "en": "Dive into this vibrant Sunday market known for eclectic vintage clothes, organic produce, and artisanal jewelry, arriving right when it opens to grab the most sought-after treasures."
+          }
+        },
+        {
+          "name": {
+            "de": "Othree Beach Bar",
+            "hu": "Othree Beach Bar",
+            "ro": "Othree Beach Bar",
+            "en": "Othree Beach Bar"
+          },
+          "coords": [
+            115.124047,
+            -8.654094
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Mocktail in dieser entspannten Strandbar mit spektakulärem Meerblick und gemütlichen Sitzsäcken, und sichern Sie sich früh die besten Plätze.",
+            "hu": "Fogyasszon el egy frissítő koktélt ebben a laza tengerparti bárban, amely látványos óceáni kilátással várja, és érkezzen hamar, hogy a legkényelmesebb babzsákokat szerezze meg.",
+            "ro": "Savurați un cocktail răcoritor la acest bar relaxant de pe plajă, care oferă vederi spectaculoase la ocean și fotolii puf confortabile, sosind din timp pentru a prinde un loc bun.",
+            "en": "Enjoy a refreshing mocktail at this laid-back beachfront establishment featuring spectacular ocean views and comfortable bean bags, arriving before sunset to secure the best seating."
+          }
+        },
+        {
+          "name": {
+            "de": "BBC Batu Bolong Center Bazzar",
+            "hu": "BBC Batu Bolong Center Bazzar",
+            "ro": "BBC Batu Bolong Center Bazzar",
+            "en": "BBC Batu Bolong Center Bazzar"
+          },
+          "coords": [
+            115.131014,
+            -8.657984
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie verschiedene Stände mit handgemachter Bohème-Mode und lokalen Gewürzen, halten Sie Ausschau nach einzigartigen Souvenirs und üben Sie das höfliche Feilschen.",
+            "hu": "Böngésszen a különféle standok között, amelyek a kézzel készített divattól a helyi fűszerekig mindent kínálnak, keressen egyedi ajándékokat, és gyakorolja az udvarias alkudozást.",
+            "ro": "Cercetați diversele tarabe care oferă de la modă boemă realizată manual până la condimente locale, căutând suveniruri unice și exersându-vă abilitățile de negociere politicoasă.",
+            "en": "Peruse diverse stalls offering everything from handmade bohemian fashion to locally sourced spices, keeping an eye out for unique souvenirs and practicing your polite bargaining skills."
+          }
+        },
+        {
+          "name": {
+            "de": "Berawa Surfspot",
+            "hu": "Berawa Surfspot",
+            "ro": "Berawa Surfspot",
+            "en": "Berawa Surfspot"
+          },
+          "coords": [
+            115.137327,
+            -8.6655
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang über den dunklen Vulkansand und beobachten Sie Amateur- und Profisurfer, wobei Sie an umweltfreundliche Sonnencreme denken sollten.",
+            "hu": "Tegyen egy kellemes sétát a sötét vulkáni homokon, miközben amatőr és profi szörfösöket figyel meg a hullámokon, és ne feledkezzen meg a környezetbarát naptej használatáról.",
+            "ro": "Faceți o plimbare liniștită pe nisipul vulcanic întunecat în timp ce observați atât surferii amatori, cât și pe cei profesioniști, amintindu-vă să aplicați cremă solară ecologică.",
+            "en": "Take a leisurely stroll along the dark volcanic sands while observing both amateur and professional surfers riding the rolling waves, remembering to apply eco-friendly sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Berawa",
+            "hu": "Pasar Berawa",
+            "ro": "Pasar Berawa",
+            "en": "Pasar Berawa"
+          },
+          "coords": [
+            115.148565,
+            -8.649408
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an den authentischen Essensständen dieses traditionellen Marktes und bringen Sie kleine indonesische Rupiah-Scheine mit, um das köstliche Streetfood zu kaufen.",
+            "hu": "Zárja a napot ennek a hagyományos piacnak az autentikus élelmiszer-standjainál, és hozzon magával kis címletű indonéz rúpiát, hogy finom és olcsó utcai ételeket vásárolhasson.",
+            "ro": "Încheiați-vă ziua explorând tarabele cu mâncare autentică de la această piață tradițională, având la dumneavoastră bancnote mici de Rupii Indoneziene pentru delicioasa mâncare de stradă.",
+            "en": "End your day exploring authentic local food stalls and vibrant fresh produce sections at this traditional market, carrying Indonesian Rupiah in small bills to buy delicious street food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag startet mit einem Blick auf historische Denkmäler und einem lebhaften Sonntagsmarkt voller lokaler Schätze. Mittags können Sie sich in einer entspannten Strandbar erfrischen, bevor Sie das Auto zu den geschäftigen Straßenbasaren von Batu Bolong bringt. Am Nachmittag schauen Sie am Strand den Surfern zu. Den krönenden Abschluss bildet ein Marktbesuch mit herrlich authentischem Streetfood.",
+        "hu": "A délelőtt történelmi emlékművek megtekintésével és egy helyi kincsekkel teli, nyüzsgő piaccal indul. Délben frissüljön fel egy laza tengerparti bárban, mielőtt az autó elviszi Batu Bolong forgalmas bazárjaiba. A délután folyamán a parton pihenve figyelheti a szörfösöket. A nap méltó lezárásaként egy hagyományos piacon kóstolhatja meg a legfinomabb utcai ételeket.",
+        "ro": "Dimineața începe cu o oprire la monumentele istorice și o piață de duminică plină de comori locale. La prânz, vă puteți răcori la un bar relaxant pe plajă, înainte ca mașina să vă ducă la bazarurile aglomerate din Batu Bolong. După-amiaza oferă un spectacol fascinant al surferilor pe plajă. Finalul zilei este rezervat explorării unei piețe tradiționale, ideală pentru o cină cu preparate stradale delicioase.",
+        "en": "Your morning kicks off with a visit to a historical landmark and a lively Sunday market full of local treasures. By midday, refresh yourself at a laid-back beach bar before driving over to the bustling bazaars of Batu Bolong. In the afternoon, enjoy watching the surfers tackle the waves right from the sand. The day concludes wonderfully with a trip to a traditional market for incredibly authentic street food."
+      }
+    }
+  }
+}

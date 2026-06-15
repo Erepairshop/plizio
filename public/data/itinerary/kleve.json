@@ -1,0 +1,474 @@
+{
+  "city_id": "kleve",
+  "anchor": {
+    "name": "Kleve",
+    "coords": [
+      6.14,
+      51.79
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Káptalani templom",
+            "ro": "Biserica Colegială",
+            "en": "Collegiate Church"
+          },
+          "coords": [
+            6.136667,
+            51.784722
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur der Stiftskirche, die die Grablege der Klever Herzöge beherbergt, und achten Sie besonders auf die kunstvoll geschnitzten Altäre im ruhigen Innenraum.",
+            "hu": "Csodálja meg a gótikus Stiftskirche építészetét, amely a klevei hercegek temetkezési helye, és fordítson különös figyelmet a nyugalmat árasztó belső tér művészien faragott oltáraira.",
+            "ro": "Admirați arhitectura gotică a bisericii Stiftskirche, locul de veci al ducilor de Kleve, și acordați o atenție deosebită altarelor sculptate artistic din interiorul liniștit.",
+            "en": "Admire the Gothic architecture of the Collegiate Church, the burial place of the Dukes of Kleve, and pay special attention to the masterfully carved altars in its tranquil interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenburg",
+            "hu": "Schwanenburg",
+            "ro": "Schwanenburg",
+            "en": "Schwanenburg"
+          },
+          "coords": [
+            6.139089,
+            51.786583
+          ],
+          "category": "castle",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Schwanenburg, das Wahrzeichen der Stadt auf dem steilen Burgberg, und erklimmen Sie den markanten Schwanenturm für einen unvergleichlichen Panoramablick über die Rheinebene.",
+            "hu": "Fedezze fel a történelmi Schwanenburgot, a város meredek várhegyen álló jelképét, és mássza meg a jellegzetes Hattyú-tornyot, ahonnan páratlan panoráma nyílik a Rajna-síkságra.",
+            "ro": "Explorați istoricul Schwanenburg, simbolul orașului situat pe un deal abrupt, și urcați în Turnul Lebedei pentru a vă bucura de o priveliște panoramică inegalabilă asupra câmpiei Rinului.",
+            "en": "Explore the historic Schwanenburg, the city's landmark perched on a steep hill, and climb the iconic Swan Tower for an unparalleled panoramic view over the Rhine plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Koekkoek",
+            "hu": "Haus Koekkoek",
+            "ro": "Haus Koekkoek",
+            "en": "Haus Koekkoek"
+          },
+          "coords": [
+            6.13775,
+            51.79
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der romantischen Landschaftsmalerei im Haus Koekkoek ein, dem ehemaligen Palais des Künstlers, das heute herausragende niederländische Kunstwerke präsentiert.",
+            "hu": "Merüljön el a romantikus tájképfestészet lenyűgöző világában a Haus Koekkoekban, a művész egykori palotájában, amely ma kiemelkedő holland művészeti alkotásokat mutat be.",
+            "ro": "Cufundați-vă în lumea fascinantă a picturii peisagistice romantice la Haus Koekkoek, fostul palat al artistului, care expune astăzi opere de artă olandeze remarcabile.",
+            "en": "Immerse yourself in the fascinating world of romantic landscape painting at Haus Koekkoek, the artist's former palace that now showcases outstanding Dutch artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kurhaus Kleve",
+            "hu": "Kurhaus Kleve Múzeum",
+            "ro": "Muzeul Kurhaus Kleve",
+            "en": "Museum Kurhaus Kleve"
+          },
+          "coords": [
+            6.12583,
+            51.7956
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der modernen und zeitgenössischen Kunst im Museum Kurhaus Kleve inspirieren, wo einst Joseph Beuys sein Atelier hatte, und nehmen Sie sich Zeit für den wunderschönen Skulpturenpark.",
+            "hu": "Merítsen ihletet a modern és kortárs művészetből a Museum Kurhaus Kleve falai között, ahol egykor Joseph Beuys dolgozott, és feltétlenül szánjon időt a gyönyörű szoborparkra is.",
+            "ro": "Lăsați-vă inspirat de arta modernă și contemporană la Museum Kurhaus Kleve, locul unde a creat cândva Joseph Beuys, și rezervați-vă timp pentru a admira frumosul parc de sculpturi.",
+            "en": "Be inspired by the modern and contemporary art at Museum Kurhaus Kleve, where Joseph Beuys once had his studio, and make sure to reserve some time for the beautiful sculpture park."
+          }
+        },
+        {
+          "name": {
+            "de": "Forstgarten",
+            "hu": "Forstgarten",
+            "ro": "Forstgarten",
+            "en": "Forstgarten"
+          },
+          "coords": [
+            6.127056,
+            51.796581
+          ],
+          "category": "park",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den malerischen Forstgarten, einen historischen Landschaftspark mit prächtigen alten Bäumen, und genießen Sie die entspannende Atmosphäre bei einem Spaziergang entlang der ruhigen Kanäle.",
+            "hu": "Sétáljon végig a festői Forstgartenen, egy csodálatos, idős fákkal teli történelmi tájparkon, és élvezze a nyugodt csatornák mentén tett séta pihentető atmoszféráját.",
+            "ro": "Plimbați-vă prin pitorescul Forstgarten, un parc peisagistic istoric cu copaci seculari magnifici, și bucurați-vă de atmosfera relaxantă de-a lungul canalelor liniștite.",
+            "en": "Stroll through the picturesque Forstgarten, a historic landscaped park with magnificent old trees, and enjoy the relaxing atmosphere while walking along the tranquil canals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt spirituell in der Stiftskirche, bevor wir das Wahrzeichen Kleves, die majestätische Schwanenburg, erobern. Mittags tauchen wir im Haus Koekkoek in romantische Landschaften ein und bewundern anschließend im Museum Kurhaus Meisterwerke der Moderne. Der Nachmittag klingt mit einem entspannten Spaziergang unter den Baumriesen des Forstgartens harmonisch aus.",
+        "hu": "A reggel a Stiftskirche gótikus nyugalmával indul, majd meghódítjuk Kleve jelképét, a fenséges Schwanenburgot. Délben a Haus Koekkoek romantikus tájképeiben merülünk el, majd a Museum Kurhaus modern remekműveit csodáljuk meg. A délután egy pihentető sétával zárul a Forstgarten ősfái alatt, amely tökéletes levezetése a napnak.",
+        "ro": "Dimineața începe cu liniștea gotică a bisericii Stiftskirche, urmată de cucerirea simbolului orașului, majestuosul Schwanenburg. La prânz, ne cufundăm în peisajele romantice de la Haus Koekkoek și admirăm capodoperele moderne de la Museum Kurhaus. După-amiaza se încheie armonios cu o plimbare relaxantă printre arborii seculari din Forstgarten.",
+        "en": "The morning begins spiritually at the Collegiate Church before we conquer Kleve's iconic landmark, the majestic Schwanenburg. At noon, we immerse ourselves in romantic landscapes at Haus Koekkoek, followed by modern masterpieces at the Museum Kurhaus. The afternoon ends harmoniously with a relaxing walk beneath the ancient trees of the Forstgarten."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "XOX-Theater",
+            "hu": "XOX Színház",
+            "ro": "Teatrul XOX",
+            "en": "XOX-Theater"
+          },
+          "coords": [
+            6.146494,
+            51.794511
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kreative Seite von Kleve im XOX-Theater, einer einzigartigen kulturellen Begegnungsstätte in einer ehemaligen Keksfabrik, deren historisches Industrie-Flair bis heute spürbar ist.",
+            "hu": "Fedezze fel Kleve kreatív oldalát a XOX-Theaterben, egy egykori kekszgyárban kialakított egyedülálló kulturális találkozóhelyen, amelynek történelmi ipari hangulata ma is érezhető.",
+            "ro": "Descoperiți latura creativă a orașului Kleve la XOX-Theater, un loc de întâlnire cultural unic, amenajat într-o fostă fabrică de biscuiți a cărei atmosferă industrială istorică persistă și astăzi.",
+            "en": "Discover Kleve's creative side at the XOX-Theater, a unique cultural meeting place set in a former biscuit factory whose historic industrial flair is still palpable today."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenburg",
+            "hu": "Schwanenburg",
+            "ro": "Schwanenburg",
+            "en": "Schwanenburg"
+          },
+          "coords": [
+            6.139089,
+            51.786583
+          ],
+          "category": "castle",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Schwanenburg, das Wahrzeichen der Stadt auf dem steilen Burgberg, und erklimmen Sie den markanten Schwanenturm für einen unvergleichlichen Panoramablick über die Rheinebene.",
+            "hu": "Fedezze fel a történelmi Schwanenburgot, a város meredek várhegyen álló jelképét, és mássza meg a jellegzetes Hattyú-tornyot, ahonnan páratlan panoráma nyílik a Rajna-síkságra.",
+            "ro": "Explorați istoricul Schwanenburg, simbolul orașului situat pe un deal abrupt, și urcați în Turnul Lebedei pentru a vă bucura de o priveliște panoramică inegalabilă asupra câmpiei Rinului.",
+            "en": "Explore the historic Schwanenburg, the city's landmark perched on a steep hill, and climb the iconic Swan Tower for an unparalleled panoramic view over the Rhine plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche",
+            "hu": "Káptalani templom",
+            "ro": "Biserica Colegială",
+            "en": "Collegiate Church"
+          },
+          "coords": [
+            6.136667,
+            51.784722
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur der Stiftskirche, die die Grablege der Klever Herzöge beherbergt, und achten Sie besonders auf die kunstvoll geschnitzten Altäre im ruhigen Innenraum.",
+            "hu": "Csodálja meg a gótikus Stiftskirche építészetét, amely a klevei hercegek temetkezési helye, és fordítson különös figyelmet a nyugalmat árasztó belső tér művészien faragott oltáraira.",
+            "ro": "Admirați arhitectura gotică a bisericii Stiftskirche, locul de veci al ducilor de Kleve, și acordați o atenție deosebită altarelor sculptate artistic din interiorul liniștit.",
+            "en": "Admire the Gothic architecture of the Collegiate Church, the burial place of the Dukes of Kleve, and pay special attention to the masterfully carved altars in its tranquil interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Koekkoek",
+            "hu": "Haus Koekkoek",
+            "ro": "Haus Koekkoek",
+            "en": "Haus Koekkoek"
+          },
+          "coords": [
+            6.13775,
+            51.79
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der romantischen Landschaftsmalerei im Haus Koekkoek ein, dem ehemaligen Palais des Künstlers, das heute herausragende niederländische Kunstwerke präsentiert.",
+            "hu": "Merüljön el a romantikus tájképfestészet lenyűgöző világában a Haus Koekkoekban, a művész egykori palotájában, amely ma kiemelkedő holland művészeti alkotásokat mutat be.",
+            "ro": "Cufundați-vă în lumea fascinantă a picturii peisagistice romantice la Haus Koekkoek, fostul palat al artistului, care expune astăzi opere de artă olandeze remarcabile.",
+            "en": "Immerse yourself in the fascinating world of romantic landscape painting at Haus Koekkoek, the artist's former palace that now showcases outstanding Dutch artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kurhaus Kleve",
+            "hu": "Kurhaus Kleve Múzeum",
+            "ro": "Muzeul Kurhaus Kleve",
+            "en": "Museum Kurhaus Kleve"
+          },
+          "coords": [
+            6.12583,
+            51.7956
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der modernen und zeitgenössischen Kunst im Museum Kurhaus Kleve inspirieren, wo einst Joseph Beuys sein Atelier hatte, und nehmen Sie sich Zeit für den wunderschönen Skulpturenpark.",
+            "hu": "Merítsen ihletet a modern és kortárs művészetből a Museum Kurhaus Kleve falai között, ahol egykor Joseph Beuys dolgozott, és feltétlenül szánjon időt a gyönyörű szoborparkra is.",
+            "ro": "Lăsați-vă inspirat de arta modernă și contemporană la Museum Kurhaus Kleve, locul unde a creat cândva Joseph Beuys, și rezervați-vă timp pentru a admira frumosul parc de sculpturi.",
+            "en": "Be inspired by the modern and contemporary art at Museum Kurhaus Kleve, where Joseph Beuys once had his studio, and make sure to reserve some time for the beautiful sculpture park."
+          }
+        },
+        {
+          "name": {
+            "de": "Klever Tiergarten",
+            "hu": "Klevei Állatkert",
+            "ro": "Grădina Zoologică din Kleve",
+            "en": "Kleve Zoo"
+          },
+          "coords": [
+            6.12186,
+            51.7991
+          ],
+          "category": "park",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie den familienfreundlichen Klever Tiergarten, der sich dem Schutz seltener Nutztierrassen widmet, und kaufen Sie am Eingang Futter, um die Tiere hautnah erleben zu dürfen.",
+            "hu": "Látogasson el a családbarát Klevei Állatkertbe, amely a ritka haszonállatfajták védelmének szenteli magát, és vegyen eledelt a bejáratnál, hogy testközelből is megtapasztalhassa az állatok közelségét.",
+            "ro": "Vizitați grădina zoologică din Kleve, un loc ideal pentru familii, dedicat protejării raselor rare de animale domestice, și cumpărați hrană de la intrare pentru a interacționa îndeaproape cu animalele.",
+            "en": "Visit the family-friendly Kleve Zoo, which is dedicated to protecting rare domestic animal breeds, and buy food at the entrance to experience the animals up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am XOX-Theater in die Industriekultur und radeln zur hoch aufragenden Schwanenburg sowie der nahen Stiftskirche. Nach der historischen Dosis lockt mittags die Kunst im Haus Koekkoek. Am Nachmittag radeln wir zum Museum Kurhaus, um Beuys' Erbe zu spüren, und lassen den Tag schließlich entspannt bei den Tieren im Klever Tiergarten ausklingen.",
+        "hu": "Az ipari múltat idéző XOX-Theaternél kezdünk, majd feltekerünk a magasodó Schwanenburghoz és a közeli Stiftskirchéhez. A történelmi feltöltődés után délben a Haus Koekkoek művészete csábít. Délután a Museum Kurhaushoz kerékpározunk Beuys örökségéért, végül pedig a Klevei Állatkert lakóinak társaságában vezetjük le a tartalmas napot.",
+        "ro": "Începem la XOX-Theater pentru a simți cultura industrială și pedalăm spre impozantul Schwanenburg și biserica Stiftskirche. După doza de istorie, la prânz ne atrage arta de la Haus Koekkoek. După-amiaza, pedalăm spre Museum Kurhaus pentru moștenirea lui Beuys, încheind ziua relaxant printre animalele de la grădina zoologică din Kleve.",
+        "en": "We start at the XOX-Theater to soak up some industrial culture, then pedal to the towering Schwanenburg and the nearby Collegiate Church. After our historical dose, noon brings art at Haus Koekkoek. In the afternoon, we cycle to Museum Kurhaus to feel Beuys' legacy, finally winding down the day surrounded by animals at the Kleve Zoo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:37",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schuhmuseum",
+            "hu": "Cipőmúzeum",
+            "ro": "Muzeul Încălțămintei",
+            "en": "Shoe Museum"
+          },
+          "coords": [
+            6.127473,
+            51.779284
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Schuhmuseum alles über die einstige Bedeutung der örtlichen Schuhindustrie und bestaunen Sie die vielfältige Sammlung an historischen Werkzeugen und faszinierenden Schuhmodellen aus aller Welt.",
+            "hu": "Tudjon meg mindent a helyi cipőipar egykori jelentőségéről a Schuhmuseumban, és csodálja meg a történelmi szerszámokból, valamint a világ minden tájáról származó cipőmodellekből álló változatos gyűjteményt.",
+            "ro": "Aflați totul despre fosta importanță a industriei locale de încălțăminte la Schuhmuseum și admirați colecția diversificată de unelte istorice și modele fascinante de pantofi din întreaga lume.",
+            "en": "Learn all about the former importance of the local shoe industry at the Schuhmuseum, and marvel at the diverse collection of historic tools and fascinating shoe models from around the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwanenburg",
+            "hu": "Schwanenburg",
+            "ro": "Schwanenburg",
+            "en": "Schwanenburg"
+          },
+          "coords": [
+            6.139089,
+            51.786583
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Schwanenburg, das Wahrzeichen der Stadt auf dem steilen Burgberg, und erklimmen Sie den markanten Schwanenturm für einen unvergleichlichen Panoramablick über die Rheinebene.",
+            "hu": "Fedezze fel a történelmi Schwanenburgot, a város meredek várhegyen álló jelképét, és mássza meg a jellegzetes Hattyú-tornyot, ahonnan páratlan panoráma nyílik a Rajna-síkságra.",
+            "ro": "Explorați istoricul Schwanenburg, simbolul orașului situat pe un deal abrupt, și urcați în Turnul Lebedei pentru a vă bucura de o priveliște panoramică inegalabilă asupra câmpiei Rinului.",
+            "en": "Explore the historic Schwanenburg, the city's landmark perched on a steep hill, and climb the iconic Swan Tower for an unparalleled panoramic view over the Rhine plain."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Koekkoek",
+            "hu": "Haus Koekkoek",
+            "ro": "Haus Koekkoek",
+            "en": "Haus Koekkoek"
+          },
+          "coords": [
+            6.13775,
+            51.79
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der romantischen Landschaftsmalerei im Haus Koekkoek ein, dem ehemaligen Palais des Künstlers, das heute herausragende niederländische Kunstwerke präsentiert.",
+            "hu": "Merüljön el a romantikus tájképfestészet lenyűgöző világában a Haus Koekkoekban, a művész egykori palotájában, amely ma kiemelkedő holland művészeti alkotásokat mutat be.",
+            "ro": "Cufundați-vă în lumea fascinantă a picturii peisagistice romantice la Haus Koekkoek, fostul palat al artistului, care expune astăzi opere de artă olandeze remarcabile.",
+            "en": "Immerse yourself in the fascinating world of romantic landscape painting at Haus Koekkoek, the artist's former palace that now showcases outstanding Dutch artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Kurhaus Kleve",
+            "hu": "Kurhaus Kleve Múzeum",
+            "ro": "Muzeul Kurhaus Kleve",
+            "en": "Museum Kurhaus Kleve"
+          },
+          "coords": [
+            6.12583,
+            51.7956
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der modernen und zeitgenössischen Kunst im Museum Kurhaus Kleve inspirieren, wo einst Joseph Beuys sein Atelier hatte, und nehmen Sie sich Zeit für den wunderschönen Skulpturenpark.",
+            "hu": "Merítsen ihletet a modern és kortárs művészetből a Museum Kurhaus Kleve falai között, ahol egykor Joseph Beuys dolgozott, és feltétlenül szánjon időt a gyönyörű szoborparkra is.",
+            "ro": "Lăsați-vă inspirat de arta modernă și contemporană la Museum Kurhaus Kleve, locul unde a creat cândva Joseph Beuys, și rezervați-vă timp pentru a admira frumosul parc de sculpturi.",
+            "en": "Be inspired by the modern and contemporary art at Museum Kurhaus Kleve, where Joseph Beuys once had his studio, and make sure to reserve some time for the beautiful sculpture park."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Forum Arenacum",
+            "hu": "Forum Arenacum Múzeum",
+            "ro": "Muzeul Forum Arenacum",
+            "en": "Museum Forum Arenacum"
+          },
+          "coords": [
+            6.124304,
+            51.812674
+          ],
+          "category": "museum",
+          "arrive_at": "15:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Begeben Sie sich im Museum Forum Arenacum auf die Spuren der Römer und Franken am Niederrhein, wo Sie beeindruckende archäologische Funde aus der spannenden Regionalgeschichte detailliert studieren können.",
+            "hu": "Lépjen a rómaiak és a frankok nyomába az Alsó-Rajna vidékén a Museum Forum Arenacumban, ahol lenyűgöző régészeti leleteket tanulmányozhat a régió izgalmas történelméből.",
+            "ro": "Călcați pe urmele romanilor și francilor pe cursul inferior al Rinului la Museum Forum Arenacum, unde puteți studia în detaliu descoperiri arheologice impresionante din istoria fascinantă a regiunii.",
+            "en": "Follow in the footsteps of the Romans and Franks on the Lower Rhine at the Museum Forum Arenacum, where you can study impressive archaeological finds from the region's fascinating history."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserburg Rindern",
+            "hu": "Rindern Vízivár",
+            "ro": "Castelul pe apă Rindern",
+            "en": "Wasserburg Rindern"
+          },
+          "coords": [
+            6.129144,
+            51.805946
+          ],
+          "category": "castle",
+          "arrive_at": "17:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie von außen die idyllische Wasserburg Rindern, deren historische Backsteinmauern sich wunderschön im Wassergraben spiegeln, und nutzen Sie den Ort für wundervolle Erinnerungsfotos.",
+            "hu": "Tekintse meg kívülről az idilli Wasserburg Rindernt, amelynek történelmi téglafalai gyönyörűen tükröződnek a vizesárokban, és használja ki a helyszínt csodálatos emlékfotók készítésére.",
+            "ro": "Admirați de afară idilicul castel cu șanț de apă Wasserburg Rindern, ai cărui pereți istorici din cărămidă se reflectă frumos în apă, și profitați de locație pentru fotografii memorabile.",
+            "en": "View the idyllic moated castle Wasserburg Rindern from the outside, its historic brick walls beautifully reflected in the water, and use this picturesque spot for wonderful souvenir photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Gnadental",
+            "hu": "Gnadental Kastély",
+            "ro": "Castelul Gnadental",
+            "en": "Schloss Gnadental"
+          },
+          "coords": [
+            6.107626,
+            51.80624
+          ],
+          "category": "castle",
+          "arrive_at": "18:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag am Schloss Gnadental ab, einem versteckten Juwel inmitten grüner Weiden, dessen ruhige Umgebung perfekt für einen besinnlichen Abendspaziergang bei Sonnenuntergang geeignet ist.",
+            "hu": "Zárja a napot a Schloss Gnadentalnál, a zöldellő legelők között megbúvó rejtett gyöngyszemnél, amelynek békés környezete tökéletes egy naplemente körüli, elmélyült esti sétához.",
+            "ro": "Încheiați-vă ziua la Schloss Gnadental, o bijuterie ascunsă în mijlocul pășunilor verzi, a cărui atmosferă liniștită este perfectă pentru o plimbare contemplativă de seară la apus.",
+            "en": "Conclude your day at Schloss Gnadental, a hidden gem amidst green pastures, whose tranquil surroundings are perfect for a contemplative evening stroll at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt im Schuhmuseum, bevor wir bequem zur imposanten Schwanenburg im Stadtzentrum fahren. Nach dem Haus Koekkoek und den Kunstwerken im Museum Kurhaus verlassen wir die Innenstadt. Der späte Nachmittag führt uns zum römisch-fränkischen Museum Forum Arenacum und den malerischen Wasserschlössern Rindern und Gnadental im Umland.",
+        "hu": "Az autós túra a Schuhmuseumban indul, mielőtt kényelmesen a városközpont impozáns Schwanenburgjához hajtanánk. A Haus Koekkoek és a Museum Kurhaus műalkotásai után elhagyjuk a belvárost. A késő délután a római-frank Forum Arenacum múzeumhoz, valamint a festői Rindern és Gnadental vízivárakhoz vezet minket a környéken.",
+        "ro": "Turul cu mașina începe la Schuhmuseum, apoi conducem confortabil spre impunătorul Schwanenburg din centru. După Haus Koekkoek și arta de la Museum Kurhaus, părăsim orașul. După-amiaza târziu ne conduce spre muzeul romano-franc Forum Arenacum și castelele pitorești pe apă Rindern și Gnadental din împrejurimi.",
+        "en": "The car tour starts at the Schuhmuseum before we comfortably drive to the imposing Schwanenburg in the city center. After Haus Koekkoek and the artwork at the Museum Kurhaus, we leave the downtown area. The late afternoon leads us to the Roman-Frankish Museum Forum Arenacum and the picturesque moated castles Rindern and Gnadental."
+      }
+    }
+  }
+}

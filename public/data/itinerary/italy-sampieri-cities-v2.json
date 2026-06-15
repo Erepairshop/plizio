@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-sampieri-cities-v2",
+  "anchor": {
+    "name": "Sampieri",
+    "coords": [
+      14.73678,
+      36.7204
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pata Pata",
+            "hu": "Pata Pata",
+            "ro": "Pata Pata",
+            "en": "Pata Pata"
+          },
+          "coords": [
+            14.739562,
+            36.72099
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in dieser beliebten Strandbar und probieren Sie unbedingt einen erfrischenden lokalen Cocktail am späten Nachmittag.",
+            "hu": "Élvezze a nyugodt tengerparti hangulatot ebben a népszerű bárban, és feltétlenül kóstoljon meg egy hűsítő helyi koktélt a késő délutáni órákban.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de la acest bar popular de pe plajă și asigurați-vă că gustați un cocktail local răcoritor în timpul după-amiezii.",
+            "en": "Enjoy the laid-back coastal atmosphere at this popular beachside bar, and be sure to try a refreshing local cocktail during the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Pappafico",
+            "hu": "Pappafico",
+            "ro": "Pappafico",
+            "en": "Pappafico"
+          },
+          "coords": [
+            14.740672,
+            36.720954
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese charmante Einrichtung bietet großartige Unterhaltung direkt am Meer, also reservieren Sie am besten im Voraus einen Platz, um die Live-Musik zu genießen.",
+            "hu": "Ez a bájos hely nagyszerű tengerparti szórakozást kínál, ezért érdemes előre asztalt foglalni, hogy kényelmesen élvezhesse az élőzenei programokat.",
+            "ro": "Această locație fermecătoare oferă divertisment minunat pe malul mării, așa că asigurați-vă că rezervați un loc în avans pentru a vă bucura de muzica live.",
+            "en": "This charming venue provides great seaside entertainment, so make sure to reserve a table in advance to comfortably enjoy the live music performances."
+          }
+        },
+        {
+          "name": {
+            "de": "VOI Marsa Siclà Essentia",
+            "hu": "VOI Marsa Siclà Essentia",
+            "ro": "VOI Marsa Siclà Essentia",
+            "en": "VOI Marsa Siclà Essentia"
+          },
+          "coords": [
+            14.745552,
+            36.720387
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Hauch von Luxus in dieser gepflegten Freizeitanlage, wo Sie sich am Pool entspannen oder im exklusiven Restaurant zu Mittag essen können.",
+            "hu": "Tapasztalja meg a luxus érintését ebben a gondozott szabadidős komplexumban, ahol pihenhet a medence partján, vagy megebédelhet az exkluzív étteremben.",
+            "ro": "Experimentați o notă de lux în acest complex de agrement bine întreținut, unde vă puteți relaxa la piscină sau puteți lua prânzul la restaurantul exclusivist.",
+            "en": "Experience a touch of luxury at this well-maintained recreational complex, where you can relax by the pool or enjoy a wonderful lunch at the exclusive restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Sampieri",
+            "hu": "Spiaggia di Sampieri",
+            "ro": "Spiaggia di Sampieri",
+            "en": "Spiaggia di Sampieri"
+          },
+          "coords": [
+            14.749023,
+            36.718997
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie den endlosen goldenen Sandstrand entlang, der für seine malerischen Dünen bekannt ist, und besuchen Sie die nahegelegenen Ruinen der alten Ziegelei.",
+            "hu": "Sétáljon végig a festői homokdűnéiről híres, végtelen aranyparton, és mindenképpen látogasson el a régi téglagyár lenyűgöző tengerparti romjaihoz.",
+            "ro": "Plimbați-vă de-a lungul nesfârșitei plaje aurii, cunoscută pentru dunele sale pitorești, și vizitați ruinele fascinante ale vechii fabrici de cărămidă.",
+            "en": "Stroll along the endless golden sandy beach known for its picturesque dunes, and make time to visit the fascinating seaside ruins of the old brick factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona speciale di conservazione - C. Religione ITA080008",
+            "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+            "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+            "en": "Zona speciale di conservazione - C. Religione ITA080008"
+          },
+          "coords": [
+            14.754532,
+            36.719135
+          ],
+          "category": "natural",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wichtige ökologische Reservat, das seltene Pflanzenarten schützt, und bringen Sie unbedingt ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Sétáljon végig ezen a ritka növényfajokat védő, fontos ökológiai rezervátumon, és mindenképpen hozzon magával távcsövet a vadvilág megfigyeléséhez.",
+            "ro": "Plimbați-vă prin această rezervație ecologică importantă care protejează specii rare de plante și asigurați-vă că aduceți binoclul pentru observarea faunei.",
+            "en": "Wander through this important ecological reserve that protects rare plant species, and be sure to bring your binoculars for excellent wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang an der Küste beim beliebten Pata Pata. Die frische Meeresbrise gibt den perfekten Ton an.\n\nSetzen Sie Ihre entspannte Reise zum Pappafico und dem eleganten VOI Marsa Siclà Essentia fort.\n\nVerbringen Sie den Nachmittag damit, sich am goldenen Sand der Spiaggia di Sampieri zu entspannen und die sizilianische Sonne zu genießen.\n\nBeenden Sie den Tag in den geschützten ökologischen Zonen, um sich vor Sonnenuntergang mit der Natur zu verbinden.",
+        "hu": "Kezdje a reggelt egy frissítő tengerparti sétával a népszerű Pata Patánál. A sós tengeri szellő tökéletes alaphangot ad a napnak.\n\nFolytassa kényelmes útját a Pappafico és az elegáns VOI Marsa Siclà Essentia felé, élvezve a partmenti pezsgést.\n\nTöltse a délutánt a Spiaggia di Sampieri aranyhomokos partján, megfürödve a meleg szicíliai napsütésben.\n\nZárja a napot a védett ökológiai övezetek felfedezésével, kapcsolódva a természethez naplemente előtt.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă pe coastă la popularul Pata Pata. Briza proaspătă a mării dă tonul perfect pentru zi.\n\nContinuați-vă călătoria relaxantă către Pappafico și elegantul VOI Marsa Siclà Essentia.\n\nPetreceți-vă după-amiaza relaxându-vă pe nisipurile aurii de la Spiaggia di Sampieri, bucurându-vă de soarele cald sicilian.\n\nÎncheiați ziua explorând zonele ecologice protejate, conectându-vă cu natura înainte de apus.",
+        "en": "Begin your morning with a refreshing stroll along the coast, starting at the popular Pata Pata. The fresh sea breeze sets a perfect tone for the day.\n\nContinue your leisurely journey to Pappafico and the elegant VOI Marsa Siclà Essentia, enjoying the lively beachfront atmosphere.\n\nSpend your afternoon unwinding on the golden sands of Spiaggia di Sampieri, soaking in the warm Sicilian sun.\n\nConclude the day exploring the protected ecological zones, connecting with nature before sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "protected area",
+            "hu": "protected area",
+            "ro": "protected area",
+            "en": "protected area"
+          },
+          "coords": [
+            14.724233,
+            36.720664
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Naturschutzgebiet mit seiner reichen Vogelwelt und tragen Sie bequeme Wanderschuhe für die unebenen Küstenpfade.",
+            "hu": "Fedezze fel ezt a lenyűgöző, gazdag madárvilággal rendelkező természetvédelmi területet, és viseljen kényelmes túracipőt az egyenetlen part menti ösvényeken.",
+            "ro": "Explorați această rezervație naturală fascinantă cu viața sa bogată de păsări și purtați pantofi de drumeție confortabili pentru potecile de coastă.",
+            "en": "Explore this fascinating protected natural area with its rich birdlife, and remember to wear comfortable hiking shoes for the uneven coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Pata Pata",
+            "hu": "Pata Pata",
+            "ro": "Pata Pata",
+            "en": "Pata Pata"
+          },
+          "coords": [
+            14.739562,
+            36.72099
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in dieser beliebten Strandbar und probieren Sie unbedingt einen erfrischenden lokalen Cocktail am späten Nachmittag.",
+            "hu": "Élvezze a nyugodt tengerparti hangulatot ebben a népszerű bárban, és feltétlenül kóstoljon meg egy hűsítő helyi koktélt a késő délutáni órákban.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de la acest bar popular de pe plajă și asigurați-vă că gustați un cocktail local răcoritor în timpul după-amiezii.",
+            "en": "Enjoy the laid-back coastal atmosphere at this popular beachside bar, and be sure to try a refreshing local cocktail during the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Pappafico",
+            "hu": "Pappafico",
+            "ro": "Pappafico",
+            "en": "Pappafico"
+          },
+          "coords": [
+            14.740672,
+            36.720954
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese charmante Einrichtung bietet großartige Unterhaltung direkt am Meer, also reservieren Sie am besten im Voraus einen Platz, um die Live-Musik zu genießen.",
+            "hu": "Ez a bájos hely nagyszerű tengerparti szórakozást kínál, ezért érdemes előre asztalt foglalni, hogy kényelmesen élvezhesse az élőzenei programokat.",
+            "ro": "Această locație fermecătoare oferă divertisment minunat pe malul mării, așa că asigurați-vă că rezervați un loc în avans pentru a vă bucura de muzica live.",
+            "en": "This charming venue provides great seaside entertainment, so make sure to reserve a table in advance to comfortably enjoy the live music performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Sampieri",
+            "hu": "Spiaggia di Sampieri",
+            "ro": "Spiaggia di Sampieri",
+            "en": "Spiaggia di Sampieri"
+          },
+          "coords": [
+            14.749023,
+            36.718997
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie den endlosen goldenen Sandstrand entlang, der für seine malerischen Dünen bekannt ist, und besuchen Sie die nahegelegenen Ruinen der alten Ziegelei.",
+            "hu": "Sétáljon végig a festői homokdűnéiről híres, végtelen aranyparton, és mindenképpen látogasson el a régi téglagyár lenyűgöző tengerparti romjaihoz.",
+            "ro": "Plimbați-vă de-a lungul nesfârșitei plaje aurii, cunoscută pentru dunele sale pitorești, și vizitați ruinele fascinante ale vechii fabrici de cărămidă.",
+            "en": "Stroll along the endless golden sandy beach known for its picturesque dunes, and make time to visit the fascinating seaside ruins of the old brick factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona speciale di conservazione - C. Religione ITA080008",
+            "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+            "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+            "en": "Zona speciale di conservazione - C. Religione ITA080008"
+          },
+          "coords": [
+            14.754532,
+            36.719135
+          ],
+          "category": "natural",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wichtige ökologische Reservat, das seltene Pflanzenarten schützt, und bringen Sie unbedingt ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Sétáljon végig ezen a ritka növényfajokat védő, fontos ökológiai rezervátumon, és mindenképpen hozzon magával távcsövet a vadvilág megfigyeléséhez.",
+            "ro": "Plimbați-vă prin această rezervație ecologică importantă care protejează specii rare de plante și asigurați-vă că aduceți binoclul pentru observarea faunei.",
+            "en": "Wander through this important ecological reserve that protects rare plant species, and be sure to bring your binoculars for excellent wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Piciona",
+            "hu": "Villa Piciona",
+            "ro": "Villa Piciona",
+            "en": "Villa Piciona"
+          },
+          "coords": [
+            14.754961,
+            36.730804
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieser prächtigen historischen Villa, die einst einer Adelsfamilie gehörte, und fotografieren Sie die wunderschönen Gartenanlagen.",
+            "hu": "Fedezze fel e pompás, egykor egy nemesi család tulajdonában lévő történelmi villa varázsát, és ne felejtse el lefotózni a gyönyörű, gondozott kerteket.",
+            "ro": "Descoperiți farmecul acestei vile istorice magnifice care a aparținut cândva unei familii nobiliare și fotografiați grădinile frumoase și bine îngrijite.",
+            "en": "Discover the charm of this magnificent historic villa that once belonged to a noble family, and remember to take photos of the beautifully landscaped gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer früh im geschützten Küstengebiet, wo unberührte Natur im sanften Morgenlicht Sie begrüßt.\n\nRadeln Sie nach Osten zu den belebten Orten Pata Pata und Pappafico und genießen Sie die lebhafte Energie an der Küste.\n\nAm Nachmittag fahren Sie an der weitläufigen Spiaggia di Sampieri vorbei und erkunden das Schutzgebiet.\n\nBeenden Sie Ihre Fahrt landeinwärts an der historischen Villa Piciona und bewundern Sie die Architektur am Abend.",
+        "hu": "Kezdje kerékpáros kalandját kora reggel a védett part menti övezetben, ahol az érintetlen természet a lágy reggeli fényben fogadja.\n\nTekerjen kelet felé a Pata Pata és a Pappafico pezsgő helyszínei felé, élvezve a tengerparti ösvények energiáját.\n\nDélután guruljon el a kiterjedt Spiaggia di Sampieri mellett, majd fedezze fel a természetvédelmi zóna ritka növényvilágát.\n\nZárja útját a szárazföld belsejében, a történelmi Villa Picionánál, megcsodálva annak építészetét.",
+        "ro": "Începeți aventura cu bicicleta devreme vizitând zona de coastă protejată, unde natura neatinsă vă întâmpină în lumina blândă a dimineții.\n\nPedalați spre est către locațiile animate Pata Pata și Pappafico, bucurându-vă de energia coastei.\n\nDupă-amiaza, treceți pe lângă întinsa plajă Spiaggia di Sampieri, apoi explorați flora rară a zonei de conservare.\n\nÎncheiați-vă plimbarea spre interior la istorica Villa Piciona, admirându-i arhitectura grandioasă.",
+        "en": "Start your cycling adventure early by visiting the coastal protected area, where unspoiled nature greets you in the gentle morning light.\n\nPedal east towards the bustling venues of Pata Pata and Pappafico, taking in the vibrant coastal energy along the seaside paths.\n\nIn the afternoon, cruise past the extensive Spiaggia di Sampieri, then head out to explore the rare flora of the conservation zone.\n\nEnd your ride inland at the historic Villa Piciona, admiring its grand architecture as the evening shadows lengthen."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "protected area",
+            "hu": "protected area",
+            "ro": "protected area",
+            "en": "protected area"
+          },
+          "coords": [
+            14.724233,
+            36.720664
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Naturschutzgebiet mit seiner reichen Vogelwelt und tragen Sie bequeme Wanderschuhe für die unebenen Küstenpfade.",
+            "hu": "Fedezze fel ezt a lenyűgöző, gazdag madárvilággal rendelkező természetvédelmi területet, és viseljen kényelmes túracipőt az egyenetlen part menti ösvényeken.",
+            "ro": "Explorați această rezervație naturală fascinantă cu viața sa bogată de păsări și purtați pantofi de drumeție confortabili pentru potecile de coastă.",
+            "en": "Explore this fascinating protected natural area with its rich birdlife, and remember to wear comfortable hiking shoes for the uneven coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Trippatore",
+            "hu": "Villa Trippatore",
+            "ro": "Villa Trippatore",
+            "en": "Villa Trippatore"
+          },
+          "coords": [
+            14.738707,
+            36.734652
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Anwesens, das tief in der lokalen Kultur verwurzelt ist, und achten Sie auf die Steindetails.",
+            "hu": "Csodálja meg e történelmi birtok hagyományos, helyi kultúrában gyökerező építészetét, és figyelje meg az aprólékosan kidolgozott kőfaragásos részleteket.",
+            "ro": "Admirați arhitectura tradițională a acestei proprietăți istorice înrădăcinate în cultura locală și acordați atenție detaliilor fascinante din piatră.",
+            "en": "Admire the traditional architecture of this historic estate deeply rooted in local culture, and pay close attention to the intricate stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Piciona",
+            "hu": "Villa Piciona",
+            "ro": "Villa Piciona",
+            "en": "Villa Piciona"
+          },
+          "coords": [
+            14.754961,
+            36.730804
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieser prächtigen historischen Villa, die einst einer Adelsfamilie gehörte, und fotografieren Sie die wunderschönen Gartenanlagen.",
+            "hu": "Fedezze fel e pompás, egykor egy nemesi család tulajdonában lévő történelmi villa varázsát, és ne felejtse el lefotózni a gyönyörű, gondozott kerteket.",
+            "ro": "Descoperiți farmecul acestei vile istorice magnifice care a aparținut cândva unei familii nobiliare și fotografiați grădinile frumoase și bine îngrijite.",
+            "en": "Discover the charm of this magnificent historic villa that once belonged to a noble family, and remember to take photos of the beautifully landscaped gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona speciale di conservazione - C. Religione ITA080008",
+            "hu": "Zona speciale di conservazione - C. Religione ITA080008",
+            "ro": "Zona speciale di conservazione - C. Religione ITA080008",
+            "en": "Zona speciale di conservazione - C. Religione ITA080008"
+          },
+          "coords": [
+            14.754532,
+            36.719135
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wichtige ökologische Reservat, das seltene Pflanzenarten schützt, und bringen Sie unbedingt ein Fernglas für die Tierbeobachtung mit.",
+            "hu": "Sétáljon végig ezen a ritka növényfajokat védő, fontos ökológiai rezervátumon, és mindenképpen hozzon magával távcsövet a vadvilág megfigyeléséhez.",
+            "ro": "Plimbați-vă prin această rezervație ecologică importantă care protejează specii rare de plante și asigurați-vă că aduceți binoclul pentru observarea faunei.",
+            "en": "Wander through this important ecological reserve that protects rare plant species, and be sure to bring your binoculars for excellent wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Sampieri",
+            "hu": "Spiaggia di Sampieri",
+            "ro": "Spiaggia di Sampieri",
+            "en": "Spiaggia di Sampieri"
+          },
+          "coords": [
+            14.749023,
+            36.718997
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie den endlosen goldenen Sandstrand entlang, der für seine malerischen Dünen bekannt ist, und besuchen Sie die nahegelegenen Ruinen der alten Ziegelei.",
+            "hu": "Sétáljon végig a festői homokdűnéiről híres, végtelen aranyparton, és mindenképpen látogasson el a régi téglagyár lenyűgöző tengerparti romjaihoz.",
+            "ro": "Plimbați-vă de-a lungul nesfârșitei plaje aurii, cunoscută pentru dunele sale pitorești, și vizitați ruinele fascinante ale vechii fabrici de cărămidă.",
+            "en": "Stroll along the endless golden sandy beach known for its picturesque dunes, and make time to visit the fascinating seaside ruins of the old brick factory."
+          }
+        },
+        {
+          "name": {
+            "de": "Pata Pata",
+            "hu": "Pata Pata",
+            "ro": "Pata Pata",
+            "en": "Pata Pata"
+          },
+          "coords": [
+            14.739562,
+            36.72099
+          ],
+          "category": "recreational",
+          "arrive_at": "15:34",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in dieser beliebten Strandbar und probieren Sie unbedingt einen erfrischenden lokalen Cocktail am späten Nachmittag.",
+            "hu": "Élvezze a nyugodt tengerparti hangulatot ebben a népszerű bárban, és feltétlenül kóstoljon meg egy hűsítő helyi koktélt a késő délutáni órákban.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de la acest bar popular de pe plajă și asigurați-vă că gustați un cocktail local răcoritor în timpul după-amiezii.",
+            "en": "Enjoy the laid-back coastal atmosphere at this popular beachside bar, and be sure to try a refreshing local cocktail during the late afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach dem Frühstück ins westliche Naturschutzgebiet und nutzen Sie den ruhigen Morgen, um die zerklüftete Küste zu erkunden.\n\nFahren Sie ins Landesinnere zur faszinierenden Villa Trippatore, wo Sie in die Geschichte der Region eintauchen können.\n\nVerbringen Sie den Nachmittag zwischen der Villa Piciona und der Naturschutzzone, bevor Sie den herrlichen Strand erreichen.\n\nBeenden Sie den perfekten Roadtrip bei Sonnenuntergang mit Abendessen und Getränken im lebhaften Pata Pata.",
+        "hu": "Reggeli után vezessen a nyugati természetvédelmi területre, kihasználva a csendes reggelt a zord partvidék és a vadvilág felfedezésére.\n\nNavigáljon a szárazföld belsejébe a lenyűgöző Villa Trippatore felé, ahol elmerülhet a régió gazdag történelmében.\n\nTöltse a délutánt a Villa Piciona és a védett zóna között ingázva, mielőtt meglátogatná a fenséges strandot.\n\nZárja a tökéletes autós túrát egy vacsorával a pezsgő Pata Patában, miközben a nap lenyugszik a tenger felett.",
+        "ro": "Conduceți către zona protejată din vest imediat după micul dejun, profitând de dimineața liniștită pentru a explora coasta stâncoasă.\n\nNavigați spre interior până la fascinanta Villa Trippatore, unde vă puteți scufunda în istoria bogată a regiunii.\n\nPetreceți-vă după-amiaza vizitând Villa Piciona și zona de conservare înainte de a ajunge la plaja maiestuoasă din Sampieri.\n\nÎncheiați călătoria perfectă cu cină și băuturi la animatul Pata Pata, în timp ce soarele apune peste Marea Mediterană.",
+        "en": "Drive to the western protected area right after breakfast, taking advantage of the quiet morning to explore the rugged coastline and observe wildlife.\n\nNavigate inland to the fascinating Villa Trippatore, where you can dive into the region's rich history and architectural heritage.\n\nSpend your afternoon hopping between Villa Piciona and the important conservation zone before hitting the majestic Sampieri beach.\n\nWrap up the perfect road trip with dinner and drinks at the lively Pata Pata as the sun sets over the Mediterranean."
+      }
+    }
+  }
+}

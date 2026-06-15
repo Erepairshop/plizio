@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-o-porto-de-corme-cities-v2",
+  "anchor": {
+    "name": "O Porto de Corme",
+    "coords": [
+      -8.96322,
+      43.2647
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 1.56,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+          },
+          "coords": [
+            -8.962928,
+            43.264499
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum von Corme, um die lokale Architektur zu bewundern, aber kommen Sie am besten morgens vor der großen Hitze.",
+            "hu": "Látogassa meg ezt a bájos templomot Corme központjában, hogy megcsodálja a helyi építészetet, de érdemes korán érkezni a nagyobb tömeg elkerülése végett.",
+            "ro": "Vizitați această biserică fermecătoare din centrul orașului Corme pentru arhitectura sa locală autentică, dar asigurați-vă că veniți devreme pentru liniște.",
+            "en": "Visit this charming church in the heart of Corme to admire its authentic local architecture, but make sure to arrive early in the morning to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -8.959686,
+            43.265529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand dieses geschützten Strandes, der ideal für Familien ist, und vergessen Sie nicht, etwas Sonnencreme und ausreichend Wasser mitzubringen.",
+            "hu": "Élvezze a védett strand finom homokját, amely tökéletes választás családok számára, és ne felejtsen el naptejet, valamint elegendő ivóvizet magával hozni.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje protejate, ideală pentru familii, și nu uitați să aduceți cremă de protecție solară și multă apă potabilă.",
+            "en": "Enjoy the fine sand of this protected beach, which is perfectly suited for families, and do not forget to bring plenty of sunscreen and enough drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Osmo",
+            "hu": "Praia do Osmo",
+            "ro": "Praia do Osmo",
+            "en": "Praia do Osmo"
+          },
+          "coords": [
+            -8.956266,
+            43.26545
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Küstenabschnitt mit sanften Wellen und klarem Wasser, jedoch sollten Sie bei Flut auf starke Strömungen achtgeben.",
+            "hu": "Pihenjen ezen a gyönyörű partszakaszon, ahol lágy hullámok és tiszta víz várja, de dagály idején mindig ügyeljen az esetlegesen felerősödő áramlatokra.",
+            "ro": "Relaxați-vă pe această întindere frumoasă de coastă cu valuri blânde, dar aveți grijă la curenții puternici care pot apărea în timpul fluxului ridicat.",
+            "en": "Relax on this beautiful stretch of coastline with gentle waves and clear water, but always be mindful of potentially strong currents during the high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Ermida",
+            "hu": "Praia da Ermida",
+            "ro": "Praia da Ermida",
+            "en": "Praia da Ermida"
+          },
+          "coords": [
+            -8.951487,
+            43.26285
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieses versteckten Strandes fernab des Trubels, und bringen Sie bequeme Schuhe für den kurzen, steinigen Fußweg mit.",
+            "hu": "Fedezze fel e rejtett strand nyugodt légkörét távol a nyüzsgéstől, és mindenképpen hozzon magával kényelmes cipőt a rövid, kissé köves sétaút miatt.",
+            "ro": "Descoperiți atmosfera liniștită a acestei plaje ascunse departe de agitație și aduceți încălțăminte confortabilă pentru scurta plimbare pe teren stâncos.",
+            "en": "Discover the tranquil atmosphere of this hidden beach far from the bustling crowds, and make sure to wear comfortable shoes for the short, rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Illa da Estrela",
+            "hu": "Castro da Illa da Estrela",
+            "ro": "Castro da Illa da Estrela",
+            "en": "Castro da Illa da Estrela"
+          },
+          "coords": [
+            -8.95547,
+            43.259768
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden historischen Ruinen dieser alten keltischen Siedlung mit Meerblick, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi, tengerre néző kelta településnek a lenyűgöző romjait, és feltétlenül viseljen masszív lábbelit az egyenetlen terep bejárásához.",
+            "ro": "Explorați ruinele istorice fascinante ale acestei vechi așezări celtice cu vedere la mare și purtați încălțăminte robustă pentru a traversa terenul accidentat.",
+            "en": "Explore the fascinating historical ruins of this ancient Celtic settlement overlooking the sea, and wear sturdy footwear to navigate the uneven coastal terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der historischen Kirche im Herzen des Dorfes und genießen Sie die lokale Atmosphäre. Wenn es wärmer wird, schlendern Sie zur Praia da Arnela, um den Sand zu genießen. Am Nachmittag erkunden Sie die benacharten Strände Osmo und Ermida, die beide ihren eigenen Charme haben. Beenden Sie Ihren Tag mit einem Spaziergang zu den alten keltischen Ruinen von Castro da Illa da Estrela, wo Sie den weiten Blick auf die untergehende Sonne bewundern können.",
+        "hu": "Kezdje a reggelt a falu szívében található történelmi templomnál, elmerülve a helyi atmoszférában. Ahogy melegszik az idő, sétáljon el a Praia da Arnela finom homokjához. Délután fedezze fel a szomszédos Osmo és Ermida strandokat, amelyek mindegyike egyedi parti bájjal rendelkezik. Zárja a napot a Castro da Illa da Estrela ősi kelta romjainak felfedezésével, ahonnan lenyűgöző kilátás nyílik a lemenő napra és a végtelen óceánra.",
+        "ro": "Începeți dimineața la biserica istorică din inima satului, absorbind atmosfera locală liniștită. Pe măsură ce ziua se încălzește, faceți o scurtă plimbare până la Praia da Arnela pentru a vă bucura de nisip. După-amiaza, explorați plajele învecinate Osmo și Ermida, fiecare oferind un farmec de coastă unic. Încheiați ziua mergând spre vechile ruine celtice de la Castro da Illa da Estrela, minunându-vă de priveliștile spectaculoase ale soarelui la apus.",
+        "en": "Begin your morning at the historic church in the heart of the village, soaking in the quiet local atmosphere. As the day warms up, take a short stroll to Praia da Arnela to enjoy the fine sand and gentle waves. In the afternoon, explore the neighboring beaches of Osmo and Ermida, each offering a unique coastal charm and tranquil setting. Conclude your day walking up to the ancient Celtic ruins of Castro da Illa da Estrela, marveling at the sweeping views of the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 5.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santo Adrán de Corme Aldea",
+            "hu": "Igrexa de Santo Adrán de Corme Aldea",
+            "ro": "Igrexa de Santo Adrán de Corme Aldea",
+            "en": "Igrexa de Santo Adrán de Corme Aldea"
+          },
+          "coords": [
+            -8.938884,
+            43.269246
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese friedliche Kirche, die für ihre historische Bedeutung bekannt ist, und fotografieren Sie die wunderschöne Fassade im weichen Nachmittagslicht.",
+            "hu": "Csodálja meg ezt a történelmi jelentőségéről ismert, békés templomot, és használja ki a lágy délutáni fényeket a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Admirați această biserică pașnică cunoscută pentru importanța sa istorică și fotografiați fațada sa frumoasă în lumina caldă și moale a după-amiezii.",
+            "en": "Admire this peaceful church known for its deep historical significance, and be sure to photograph its beautiful facade during the soft, golden afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Ermida",
+            "hu": "Praia da Ermida",
+            "ro": "Praia da Ermida",
+            "en": "Praia da Ermida"
+          },
+          "coords": [
+            -8.951487,
+            43.26285
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieses versteckten Strandes fernab des Trubels, und bringen Sie bequeme Schuhe für den kurzen, steinigen Fußweg mit.",
+            "hu": "Fedezze fel e rejtett strand nyugodt légkörét távol a nyüzsgéstől, és mindenképpen hozzon magával kényelmes cipőt a rövid, kissé köves sétaút miatt.",
+            "ro": "Descoperiți atmosfera liniștită a acestei plaje ascunse departe de agitație și aduceți încălțăminte confortabilă pentru scurta plimbare pe teren stâncos.",
+            "en": "Discover the tranquil atmosphere of this hidden beach far from the bustling crowds, and make sure to wear comfortable shoes for the short, rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Osmo",
+            "hu": "Praia do Osmo",
+            "ro": "Praia do Osmo",
+            "en": "Praia do Osmo"
+          },
+          "coords": [
+            -8.956266,
+            43.26545
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Küstenabschnitt mit sanften Wellen und klarem Wasser, jedoch sollten Sie bei Flut auf starke Strömungen achtgeben.",
+            "hu": "Pihenjen ezen a gyönyörű partszakaszon, ahol lágy hullámok és tiszta víz várja, de dagály idején mindig ügyeljen az esetlegesen felerősödő áramlatokra.",
+            "ro": "Relaxați-vă pe această întindere frumoasă de coastă cu valuri blânde, dar aveți grijă la curenții puternici care pot apărea în timpul fluxului ridicat.",
+            "en": "Relax on this beautiful stretch of coastline with gentle waves and clear water, but always be mindful of potentially strong currents during the high tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+          },
+          "coords": [
+            -8.962928,
+            43.264499
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum von Corme, um die lokale Architektur zu bewundern, aber kommen Sie am besten morgens vor der großen Hitze.",
+            "hu": "Látogassa meg ezt a bájos templomot Corme központjában, hogy megcsodálja a helyi építészetet, de érdemes korán érkezni a nagyobb tömeg elkerülése végett.",
+            "ro": "Vizitați această biserică fermecătoare din centrul orașului Corme pentru arhitectura sa locală autentică, dar asigurați-vă că veniți devreme pentru liniște.",
+            "en": "Visit this charming church in the heart of Corme to admire its authentic local architecture, but make sure to arrive early in the morning to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Cunchas",
+            "hu": "Praia das Cunchas",
+            "ro": "Praia das Cunchas",
+            "en": "Praia das Cunchas"
+          },
+          "coords": [
+            -8.974342,
+            43.263375
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Suchen Sie an diesem malerischen, mit kleinen Muscheln übersäten Strand nach Souvenirs aus der Natur, aber nehmen Sie eine Windjacke für die frische Brise mit.",
+            "hu": "Keressen természetes szuveníreket ezen a festői, apró kagylókkal teli strandon, de a hűvös óceáni szél miatt érdemes egy könnyű széldzsekit is magával hoznia.",
+            "ro": "Căutați suveniruri naturale pe această plajă pitorească presărată cu scoici mici, dar luați o jachetă de vânt pentru a face față brizelor răcoroase ale mării.",
+            "en": "Search for natural souvenirs on this picturesque beach scattered with tiny shells, but remember to bring a windbreaker to handle the brisk ocean breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro do Roncudo",
+            "hu": "Faro do Roncudo",
+            "ro": "Faro do Roncudo",
+            "en": "Faro do Roncudo"
+          },
+          "coords": [
+            -8.990516,
+            43.27492
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick vom Leuchtturm über die wilde Atlantikküste, und halten Sie sich bei starkem Wind wegen der steilen Klippen fern.",
+            "hu": "Élvezze a világítótoronyból nyíló lélegzetelállító kilátást a vad atlanti partvidékre, és erős szél esetén a meredek sziklák miatt tartson biztonságos távolságot.",
+            "ro": "Bucurați-vă de vederea uluitoare de la far peste coasta sălbatică a Atlanticului și păstrați o distanță sigură de stâncile abrupte în zilele cu vânt puternic.",
+            "en": "Enjoy the breathtaking views from the lighthouse over the wild Atlantic coastline, and keep a safe distance from the steep cliffs during strong wind conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der friedlichen Kirche Santo Adrán und genießen Sie die morgendliche Ruhe. Radeln Sie die Küste entlang, um die ruhigen Strände Ermida und Osmo zu entdecken. Nach einer Mittagspause nahe der zentralen Kirche fahren Sie weiter zur muschelübersäten Praia das Cunchas. Ihr aktiver Tag endet mit einer lohnenden Fahrt zum Faro do Roncudo, wo dramatische Klippen und brechende Wellen ein unvergessliches Finale bieten.",
+        "hu": "Kezdje kerékpáros túráját a békés Santo Adrán templomnál, élvezve a reggeli nyugalmat. Tekerjen végig a part mentén, hogy felfedezze Ermida és Osmo csendes strandjait. A központi templom melletti déli pihenő után folytassa útját a kagylós Praia das Cunchas felé. Aktív napja egy frissítő tekeréssel zárul a Faro do Roncudo felé, ahol a drámai sziklák és a hatalmas hullámok felejthetetlen atlanti élményt nyújtanak.",
+        "ro": "Începeți călătoria cu bicicleta la biserica pașnică Santo Adrán, apreciind liniștea dimineții. Pedați de-a lungul coastei pentru a descoperi nisipurile liniștite de la Ermida și Osmo. După o pauză la amiază lângă biserica centrală, continuați-vă traseul spre Praia das Cunchas. Ziua activă se încheie cu o plimbare răcoroasă până la Faro do Roncudo, unde stâncile dramatice și valurile puternice creează un final atlantic de neuitat.",
+        "en": "Kick off your cycling journey at the peaceful Santo Adrán church, appreciating the serene morning vibes. Pedal your way along the coastline to discover the tranquil sands of Ermida and Osmo. After a midday break near the central church of Nosa Señora, continue your ride towards the shell-scattered Praia das Cunchas. Your active day ends with a rewarding and breezy ride out to Faro do Roncudo, where the dramatic cliffs and crashing waves create an unforgettable Atlantic finale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro do Roncudo",
+            "hu": "Faro do Roncudo",
+            "ro": "Faro do Roncudo",
+            "en": "Faro do Roncudo"
+          },
+          "coords": [
+            -8.990516,
+            43.27492
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Blick vom Leuchtturm über die wilde Atlantikküste, und halten Sie sich bei starkem Wind wegen der steilen Klippen fern.",
+            "hu": "Élvezze a világítótoronyból nyíló lélegzetelállító kilátást a vad atlanti partvidékre, és erős szél esetén a meredek sziklák miatt tartson biztonságos távolságot.",
+            "ro": "Bucurați-vă de vederea uluitoare de la far peste coasta sălbatică a Atlanticului și păstrați o distanță sigură de stâncile abrupte în zilele cu vânt puternic.",
+            "en": "Enjoy the breathtaking views from the lighthouse over the wild Atlantic coastline, and keep a safe distance from the steep cliffs during strong wind conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Insua",
+            "hu": "Praia da Insua",
+            "ro": "Praia da Insua",
+            "en": "Praia da Insua"
+          },
+          "coords": [
+            -8.982706,
+            43.26886
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Strand entlang, der sich ideal für ausgedehnte Spaziergänge eignet, und packen Sie ein Picknick für eine entspannte Pause ein.",
+            "hu": "Sétáljon végig ezen a tágas strandon, amely ideális a hosszú, pihentető sétákhoz, és csomagoljon be egy pikniket, hogy élvezhesse a tengerparti nyugalmat.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse, ideală pentru explorări lungi pe jos, și împachetați un picnic delicios pentru o pauză relaxantă pe nisip.",
+            "en": "Stroll along this expansive beach which is perfectly suited for long, relaxing walks, and consider packing a delicious picnic to enjoy a peaceful break right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "hu": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "ro": "Igrexa de Nosa Señora dos Remedios de Corme Porto",
+            "en": "Igrexa de Nosa Señora dos Remedios de Corme Porto"
+          },
+          "coords": [
+            -8.962928,
+            43.264499
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.67,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Zentrum von Corme, um die lokale Architektur zu bewundern, aber kommen Sie am besten morgens vor der großen Hitze.",
+            "hu": "Látogassa meg ezt a bájos templomot Corme központjában, hogy megcsodálja a helyi építészetet, de érdemes korán érkezni a nagyobb tömeg elkerülése végett.",
+            "ro": "Vizitați această biserică fermecătoare din centrul orașului Corme pentru arhitectura sa locală autentică, dar asigurați-vă că veniți devreme pentru liniște.",
+            "en": "Visit this charming church in the heart of Corme to admire its authentic local architecture, but make sure to arrive early in the morning to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -8.959686,
+            43.265529
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand dieses geschützten Strandes, der ideal für Familien ist, und vergessen Sie nicht, etwas Sonnencreme und ausreichend Wasser mitzubringen.",
+            "hu": "Élvezze a védett strand finom homokját, amely tökéletes választás családok számára, és ne felejtsen el naptejet, valamint elegendő ivóvizet magával hozni.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje protejate, ideală pentru familii, și nu uitați să aduceți cremă de protecție solară și multă apă potabilă.",
+            "en": "Enjoy the fine sand of this protected beach, which is perfectly suited for families, and do not forget to bring plenty of sunscreen and enough drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Illa da Estrela",
+            "hu": "Castro da Illa da Estrela",
+            "ro": "Castro da Illa da Estrela",
+            "en": "Castro da Illa da Estrela"
+          },
+          "coords": [
+            -8.95547,
+            43.259768
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden historischen Ruinen dieser alten keltischen Siedlung mit Meerblick, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi, tengerre néző kelta településnek a lenyűgöző romjait, és feltétlenül viseljen masszív lábbelit az egyenetlen terep bejárásához.",
+            "ro": "Explorați ruinele istorice fascinante ale acestei vechi așezări celtice cu vedere la mare și purtați încălțăminte robustă pentru a traversa terenul accidentat.",
+            "en": "Explore the fascinating historical ruins of this ancient Celtic settlement overlooking the sea, and wear sturdy footwear to navigate the uneven coastal terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Riocovo",
+            "hu": "Praia de Riocovo",
+            "ro": "Praia de Riocovo",
+            "en": "Praia de Riocovo"
+          },
+          "coords": [
+            -8.949755,
+            43.254131
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem abgelegenen Strand, der für seine unberührte Natur geschätzt wird, und verlassen Sie den Ort vor Einbruch der völligen Dunkelheit.",
+            "hu": "Fejezze be a napját ezen a félreeső strandon, amelyet érintetlen természeti szépségéért kedvelnek, és még a teljes sötétség beállta előtt induljon visszafelé.",
+            "ro": "Încheiați-vă ziua pe această plajă retrasă, apreciată pentru frumusețea sa naturală neatinsă, și asigurați-vă că plecați înainte de a se întuneca complet afară.",
+            "en": "End your day at this secluded beach appreciated for its absolutely pristine natural beauty, and ensure you start heading back before it gets completely dark outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am dramatischen Faro do Roncudo und lassen Sie sich vom starken Meereswind erfrischen. Fahren Sie ein Stück zurück, um an der Praia da Insua zu entspannen, bevor Sie die zentrale Kirche besuchen. Am Nachmittag genießen Sie die Praia da Arnela und erkunden die faszinierenden keltischen Ruinen in der Nähe. Beenden Sie Ihren Roadtrip am unberührten Strand Praia de Riocovo, während die Dämmerung über der rauen Landschaft hereinbricht.",
+        "hu": "Kezdje festői autózását a drámai Faro do Roncudónál, ahol a hatalmas óceáni szél azonnal felfrissíti. Vezessen vissza, hogy megpihenjen a Praia da Insua homokján, mielőtt meglátogatja a központi templomot. Délután élvezze a könnyen megközelíthető Praia da Arnela strandját, és fedezze fel a közeli ősi kelta romokat. Zárja tengerparti útját a távoli és érintetlen Praia de Riocovo strandon, figyelve, ahogy az alkonyat leszáll a zord tájra.",
+        "ro": "Începeți traseul pitoresc la dramaticul Faro do Roncudo, lăsând vântul puternic al oceanului să vă revigoreze. Conduceți înapoi pentru a vă relaxa pe Praia da Insua înainte de a vizita biserica centrală. După-amiaza, bucurați-vă de accesul ușor la Praia da Arnela și explorați fascinantele ruine celtice din apropiere. Încheiați călătoria cu mașina la plaja retrasă Praia de Riocovo, urmărind cum amurgul se așterne peste peisajul accidentat.",
+        "en": "Start your scenic drive at the dramatic Faro do Roncudo, letting the powerful ocean winds invigorate you. Drive back slightly to relax on the expansive sands of Praia da Insua before visiting the cultural heart at the central church. In the afternoon, enjoy the easy access to Praia da Arnela and explore the fascinating historical Celtic ruins nearby. Conclude your coastal road trip at the remote and pristine Praia de Riocovo, watching the twilight settle over the rugged landscape."
+      }
+    }
+  }
+}

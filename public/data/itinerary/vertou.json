@@ -1,0 +1,474 @@
+{
+  "city_id": "vertou",
+  "anchor": {
+    "name": "Vertou",
+    "coords": [
+      -1.4714,
+      47.1681
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.47278,
+            47.1684
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
+            "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaussée des Moines",
+            "hu": "Chaussée des Moines",
+            "ro": "Chaussée des Moines",
+            "en": "Chaussée des Moines"
+          },
+          "coords": [
+            -1.481122,
+            47.167172
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
+            "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
+            "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Gautron",
+            "hu": "Moulin de Gautron",
+            "ro": "Moulin de Gautron",
+            "en": "Moulin de Gautron"
+          },
+          "coords": [
+            -1.482051,
+            47.166435
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
+            "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
+            "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Genette",
+            "hu": "Genette játszótér",
+            "ro": "Loc de joacă Genette",
+            "en": "Genette Playground"
+          },
+          "coords": [
+            -1.48023,
+            47.166251
+          ],
+          "category": "family",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz Energie abbauen, der ausreichend schattige Sitzplätze bietet, damit sich Eltern entspannen können.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a jól felszerelt játszótéren, amely bőséges árnyékos ülőhelyet kínál a szülők kényelmes pihenéséhez.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă bine dotat, care oferă locuri umbrite unde părinții se pot relaxa în voie în timp ce îi supraveghează.",
+            "en": "Let the kids burn off some energy at this well-equipped playground, which offers ample shaded seating where parents can relax while keeping a watchful eye."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiry-Park",
+            "hu": "Loiry Park",
+            "ro": "Parcul Loiry",
+            "en": "Loiry Park"
+          },
+          "coords": [
+            -1.477441,
+            47.163247
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
+            "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
+        "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.47278,
+            47.1684
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
+            "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaussée des Moines",
+            "hu": "Chaussée des Moines",
+            "ro": "Chaussée des Moines",
+            "en": "Chaussée des Moines"
+          },
+          "coords": [
+            -1.481122,
+            47.167172
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
+            "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
+            "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Gautron",
+            "hu": "Moulin de Gautron",
+            "ro": "Moulin de Gautron",
+            "en": "Moulin de Gautron"
+          },
+          "coords": [
+            -1.482051,
+            47.166435
+          ],
+          "category": "cultural",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
+            "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
+            "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiry-Park",
+            "hu": "Loiry Park",
+            "ro": "Parcul Loiry",
+            "en": "Loiry Park"
+          },
+          "coords": [
+            -1.477441,
+            47.163247
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
+            "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiz-Spiel",
+            "hu": "Kvízjáték",
+            "ro": "Joc de quiz",
+            "en": "Quiz game"
+          },
+          "coords": [
+            -1.482832,
+            47.189608
+          ],
+          "category": "family",
+          "arrive_at": "14:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Freunde und Familie zu einem interaktiven Quiz-Erlebnis heraus und buchen Sie Ihre Sitzung im Voraus, um sich an Wochenenden einen Platz zu sichern.",
+            "hu": "Hívja ki barátait és családját egy interaktív kvíz élményre, de mindenképpen foglaljon időpontot előre, hogy biztosítsa helyét a forgalmas hétvégi délutánokon.",
+            "ro": "Provocați-vă prietenii și familia la o experiență interactivă de quiz, având grijă să rezervați sesiunea în avans pentru a vă asigura un loc la sfârșit de săptămână.",
+            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "EVA - Virtuelle Esports-Arenen",
+            "hu": "EVA - Esports Virtuális Arénák",
+            "ro": "EVA - Arene Virtuale de Esports",
+            "en": "EVA - Esports Virtual Arenas"
+          },
+          "coords": [
+            -1.484295,
+            47.190046
+          ],
+          "category": "family",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in ein immersives Virtual-Reality-Abenteuer ein, das Teamarbeit erfordert, und tragen Sie bequeme Kleidung, um sich in der Arena frei zu bewegen.",
+            "hu": "Merüljön el egy magával ragadó virtuális valóság kalandban, amely csapatmunkát igényel, és viseljen kényelmes ruhát, hogy szabadon mozoghasson a játéktérben.",
+            "ro": "Pătrundeți într-o aventură captivantă de realitate virtuală care necesită muncă în echipă și purtați haine confortabile pentru a vă mișca liber în arena imensă.",
+            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
+        "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.47278,
+            47.1684
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
+            "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaussée des Moines",
+            "hu": "Chaussée des Moines",
+            "ro": "Chaussée des Moines",
+            "en": "Chaussée des Moines"
+          },
+          "coords": [
+            -1.481122,
+            47.167172
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
+            "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
+            "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Gautron",
+            "hu": "Moulin de Gautron",
+            "ro": "Moulin de Gautron",
+            "en": "Moulin de Gautron"
+          },
+          "coords": [
+            -1.482051,
+            47.166435
+          ],
+          "category": "cultural",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
+            "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
+            "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Loiry-Park",
+            "hu": "Loiry Park",
+            "ro": "Parcul Loiry",
+            "en": "Loiry Park"
+          },
+          "coords": [
+            -1.477441,
+            47.163247
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
+            "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiz-Spiel",
+            "hu": "Kvízjáték",
+            "ro": "Joc de quiz",
+            "en": "Quiz game"
+          },
+          "coords": [
+            -1.482832,
+            47.189608
+          ],
+          "category": "family",
+          "arrive_at": "14:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Freunde und Familie zu einem interaktiven Quiz-Erlebnis heraus und buchen Sie Ihre Sitzung im Voraus, um sich an Wochenenden einen Platz zu sichern.",
+            "hu": "Hívja ki barátait és családját egy interaktív kvíz élményre, de mindenképpen foglaljon időpontot előre, hogy biztosítsa helyét a forgalmas hétvégi délutánokon.",
+            "ro": "Provocați-vă prietenii și familia la o experiență interactivă de quiz, având grijă să rezervați sesiunea în avans pentru a vă asigura un loc la sfârșit de săptămână.",
+            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "EVA - Virtuelle Esports-Arenen",
+            "hu": "EVA - Esports Virtuális Arénák",
+            "ro": "EVA - Arene Virtuale de Esports",
+            "en": "EVA - Esports Virtual Arenas"
+          },
+          "coords": [
+            -1.484295,
+            47.190046
+          ],
+          "category": "family",
+          "arrive_at": "15:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in ein immersives Virtual-Reality-Abenteuer ein, das Teamarbeit erfordert, und tragen Sie bequeme Kleidung, um sich in der Arena frei zu bewegen.",
+            "hu": "Merüljön el egy magával ragadó virtuális valóság kalandban, amely csapatmunkát igényel, és viseljen kényelmes ruhát, hogy szabadon mozoghasson a játéktérben.",
+            "ro": "Pătrundeți într-o aventură captivantă de realitate virtuală care necesită muncă în echipă și purtați haine confortabile pentru a vă mișca liber în arena imensă.",
+            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen der Chaussée",
+            "hu": "Chaussée kikötő",
+            "ro": "Portul Chaussée",
+            "en": "Port of the Chaussée"
+          },
+          "coords": [
+            -1.550157,
+            47.215364
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag ausklingen, indem Sie die Boote an diesem malerischen Yachthafen beobachten, und nutzen Sie die Uferwege für einen Spaziergang bei Sonnenuntergang.",
+            "hu": "Zárja a napot a festői kikötőben elhaladó hajók megfigyelésével, és használja ki a gyönyörű vízparti sétányokat egy békés naplemente körüli sétára vacsora előtt.",
+            "ro": "Încheiați-vă ziua privind bărcile trecând pe la acest port pitoresc, profitând de potecile minunate de pe malul apei pentru o plimbare senină la apusul soarelui.",
+            "en": "End your day watching boats glide by at this picturesque marina, taking advantage of the lovely waterfront paths for a serene sunset stroll before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
+        "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+      }
+    }
+  }
+}

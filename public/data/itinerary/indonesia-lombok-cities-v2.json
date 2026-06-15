@@ -1,0 +1,405 @@
+{
+  "city_id": "indonesia-lombok-cities-v2",
+  "anchor": {
+    "name": "Lombok",
+    "coords": [
+      116.317556,
+      -8.631219
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:02",
+      "total_km": 1.09,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid sumbekdaye",
+            "hu": "Masjid sumbekdaye",
+            "ro": "Masjid sumbekdaye",
+            "en": "Masjid sumbekdaye"
+          },
+          "coords": [
+            116.316933,
+            -8.642898
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieser lokalen Moschee; denken Sie an respektvolle Kleidung und bedeckte Schultern.",
+            "hu": "Figyelje meg a helyi mecset finom díszítéseit; ügyeljen a megfelelő, vállat és térdet elfedő öltözékre a belépéshez.",
+            "ro": "Admirați detaliile arhitecturale ale acestei moschei locale; asigurați-vă că aveți umerii și genunchii acoperiți pentru a respecta tradiția.",
+            "en": "Observe the fine details of this local mosque; remember to wear modest clothing covering shoulders and knees when visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "MASJID SUMBEK",
+            "hu": "MASJID SUMBEK",
+            "ro": "MASJID SUMBEK",
+            "en": "MASJID SUMBEK"
+          },
+          "coords": [
+            116.317325,
+            -8.645236
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Dieses spirituelle Zentrum prägt das Viertel; lauschen Sie dem Gebetsruf, aber betreten Sie die Innenräume nur außerhalb der Hauptgebetszeiten.",
+            "hu": "Ez a központi imahely meghatározza a környéket; a legszebb élmény érdekében a fő imaidőkön kívül érkezzen.",
+            "ro": "Acest centru spiritual definește cartierul; vizitați-l în afara orelor principale de rugăciune pentru a-i explora liniștea în voie.",
+            "en": "This central spiritual hub anchors the neighborhood; visit outside of main prayer times to appreciate its peaceful interior quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "MAJLIS Taklim Al-Gafuriyah sumbek",
+            "hu": "MAJLIS Taklim Al-Gafuriyah sumbek",
+            "ro": "MAJLIS Taklim Al-Gafuriyah sumbek",
+            "en": "MAJLIS Taklim Al-Gafuriyah sumbek"
+          },
+          "coords": [
+            116.317162,
+            -8.646203
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Ein wichtiger Ort islamischer Lehre, der Einblicke ins Gemeindeleben bietet; ein freundliches Lächeln öffnet hier viele Türen.",
+            "hu": "Az iszlám oktatás fontos helyszíne, amely betekintést enged a közösség életébe; egy barátságos mosoly mindig jó belépő.",
+            "ro": "Un loc esențial pentru educația islamică locală; respectați intimitatea elevilor și folosiți o atitudine amabilă pentru a interacționa.",
+            "en": "An important center for Islamic teaching that offers insight into community life; a respectful, friendly smile goes a long way here."
+          }
+        },
+        {
+          "name": {
+            "de": "Musalla Sumbek",
+            "hu": "Musalla Sumbek",
+            "ro": "Musalla Sumbek",
+            "en": "Musalla Sumbek"
+          },
+          "coords": [
+            116.315492,
+            -8.646889
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese kleine Gebetsstätte ist eine Oase der Ruhe; verhalten Sie sich leise und genießen Sie die spirituelle Gelassenheit.",
+            "hu": "Ez a kis imaház a nyugalom szigete; csendes viselkedéssel mutasson tiszteletet a hely szelleme iránt.",
+            "ro": "Acest mic spațiu de rugăciune este o oază de liniște; păstrați tăcerea și bucurați-vă de atmosfera spirituală relaxantă.",
+            "en": "This small prayer hall is a true oasis of calm; maintain a quiet demeanor and embrace the serene spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Cerore",
+            "hu": "Masjid Cerore",
+            "ro": "Masjid Cerore",
+            "en": "Masjid Cerore"
+          },
+          "coords": [
+            116.320222,
+            -8.647296
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erleben Sie die Abendstimmung an dieser belebten Moschee; bringen Sie eine Kamera für die goldene Stunde mit, fotografieren Sie aber diskret.",
+            "hu": "Tapasztalja meg a nyüzsgő mecset esti hangulatát; az aranyórában csodás fotókat készíthet, de kerülje a hívek zavarását.",
+            "ro": "Simțiți vibrația serii la această moschee animată; lumina caldă este perfectă pentru poze, dar fotografiați cu discreție.",
+            "en": "Experience the vibrant evening atmosphere at this lively mosque; the golden hour light is beautiful, but photograph worshippers discreetly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie Ihre Tour bei der Masjid Sumbekdaye, wo das erste Licht die friedliche Atmosphäre der Gemeinde untermalt. Mittags führt der Weg zur zentralen Masjid Sumbek und dem Majlis Taklim, Orte der Begegnung. Nachmittags erreichen Sie die ruhige Musalla Sumbek, ideal für eine kurze Reflexion. Der Abend klingt an der Masjid Cerore aus, begleitet von den Klängen des Gebetsrufs.",
+        "hu": "Reggel a Masjid Sumbekdaye nyugalmával kezdi a napot, miközben a falu ébredezik. Délben a központba sétálva megcsodálhatja a Masjid Sumbek és a Majlis Taklim élénk közösségi életét. Délután a Musalla Sumbek csendesebb környezete tökéletes egy kis pihenésre. Az este a Masjid Cerore környékén ér véget, ahol a helyiek gyülekeznek a nap lezárásaként.",
+        "ro": "Dimineața începe la Masjid Sumbekdaye, savurând liniștea satului care se trezește la viață. La prânz, explorați zona centrală din jurul Masjid Sumbek și Majlis Taklim, inima comunității. După-amiaza vă poartă spre Musalla Sumbek, un loc perfect pentru o clipă de meditație. Seara se încheie la Masjid Cerore, într-o atmosferă spirituală vibrantă la apus.",
+        "en": "Morning begins at Masjid sumbekdaye, offering a peaceful glimpse into the local village awakening. Midday takes you through the central Masjid Sumbek and Majlis Taklim, observing the community's heart. Afternoon strolling leads to the quiet Musalla Sumbek, perfect for a moment of quiet reflection. The evening concludes at Masjid Cerore, wrapping up the day surrounded by spiritual harmony."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:50",
+      "total_km": 4.69,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bale Sangkep",
+            "hu": "Bale Sangkep",
+            "ro": "Bale Sangkep",
+            "en": "Bale Sangkep"
+          },
+          "coords": [
+            116.314642,
+            -8.624565
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses Ortes; mieten Sie vorab einen lokalen Guide, um die historischen Zusammenhänge zu verstehen.",
+            "hu": "Fedezze fel a hely gazdag történelmét; érdemes előre helyi vezetőt fogadni, aki elmagyarázza az épület kulturális jelentőségét.",
+            "ro": "Descoperiți istoria bogată a acestui loc fascinant; angajați un ghid local pentru a înțelege pe deplin importanța sa culturală.",
+            "en": "Discover the deep roots of this historical site; hiring a local guide in advance will help you fully grasp its cultural significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Barabali",
+            "hu": "Masjid Barabali",
+            "ro": "Masjid Barabali",
+            "en": "Masjid Barabali"
+          },
+          "coords": [
+            116.307678,
+            -8.625969
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonische Einbettung der Moschee in die Natur; prüfen Sie hier kurz den Reifendruck Ihres Fahrrads.",
+            "hu": "Csodálja meg a mecset és a természet harmóniáját; itt érdemes egy gyors ellenőrzést tartani a kerékpáron a továbbhaladás előtt.",
+            "ro": "Admirați integrarea armonioasă a moscheii în natură; profitați de această oprire scurtă pentru a verifica presiunea roților la bicicletă.",
+            "en": "Admire how the mosque blends harmoniously with its natural surroundings; take a quick moment here to check your bike tires."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Runtak",
+            "hu": "Masjid Runtak",
+            "ro": "Masjid Runtak",
+            "en": "Masjid Runtak"
+          },
+          "coords": [
+            116.308622,
+            -8.64798
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Diese Moschee zeichnet sich durch ihre besondere Dachkonstruktion aus; nehmen Sie sich Zeit für eine kühle Erfrischung im Schatten.",
+            "hu": "A mecset különleges tetőszerkezete lenyűgöző; tartson egy kis pihenőt és frissítse fel magát az árnyékos udvaron.",
+            "ro": "Această moschee se remarcă prin acoperișul său unic; odihniți-vă la umbră și hidratați-vă bine înainte de a pedala mai departe.",
+            "en": "This mosque is notable for its unique roof structure; take your time to enjoy a cool refreshment in the shaded courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Yatofa",
+            "hu": "Yatofa",
+            "ro": "Yatofa",
+            "en": "Yatofa"
+          },
+          "coords": [
+            116.302625,
+            -8.650626
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Ein markanter Orientierungspunkt auf Ihrer Route; positionieren Sie Ihr Fahrrad sicher, bevor Sie die Gegend zu Fuß erkunden.",
+            "hu": "Fontos tájékozódási pont az útvonalon; zárja le biztonságosan a kerékpárját, mielőtt közelebbről is szemügyre venné.",
+            "ro": "Un punct de reper vizual excelent pe traseul dumneavoastră; asigurați-vă că parcați bicicleta în siguranță cât explorați împrejurimile.",
+            "en": "A striking landmark along your route; make sure to securely park your bicycle before wandering around the immediate area."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Nyiur Ende",
+            "hu": "Masjid Nyiur Ende",
+            "ro": "Masjid Nyiur Ende",
+            "en": "Masjid Nyiur Ende"
+          },
+          "coords": [
+            116.298098,
+            -8.64534
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Stimmung am Ende Ihrer Tour; die sanfte Beleuchtung am späten Nachmittag schafft eine magische Atmosphäre.",
+            "hu": "Élvezze a békés hangulatot a túra végén; a késő délutáni lágy fények varázslatossá teszik a mecset homlokzatát.",
+            "ro": "Bucurați-vă de liniștea deplină la finalul turului; lumina blândă a după-amiezii târzii creează o atmosferă de-a dreptul magică.",
+            "en": "Enjoy the deeply peaceful mood at the end of your tour; the soft late afternoon lighting creates a truly magical atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet historisch am Bale Sangkep, umgeben von traditioneller Sasak-Architektur. Mittags radeln Sie zur Masjid Barabali, deren Umgebung zur Pause einlädt. Der Nachmittag bringt Sie über malerische Wege zur Masjid Runtak und dem Yatofa-Wahrzeichen. Am Abend erreichen Sie die Masjid Nyiur Ende, wo Sie den Tag entspannt ausklingen lassen können.",
+        "hu": "A reggelt a Bale Sangkep történelmi épületeinél kezdi, elmerülve a helyi hagyományokban. Délben áteker a Masjid Barabali felé, élvezve a trópusi tájat és a friss levegőt. Délután a Masjid Runtak és a Yatofa környéke kínál érdekes kulturális látnivalókat. Az estét a Masjid Nyiur Ende nyugalmában zárja, miközben a naplemente színei beborítják a tájat.",
+        "ro": "Dimineața debutează la Bale Sangkep, un loc istoric fascinant, plin de arhitectură tradițională. La prânz pedalați spre Masjid Barabali, traversând peisaje rurale pitorești. După-amiaza este dedicată vizitării Masjid Runtak și a punctului de reper Yatofa. Seara, la Masjid Nyiur Ende, vă puteți relaxa după o zi plină de explorări culturale pe două roți.",
+        "en": "The morning starts at the historical Bale Sangkep, diving deep into traditional Sasak structures. Midday cycling brings you to Masjid Barabali, enjoying the gentle breeze and lush surroundings. The afternoon continues to Masjid Runtak and the landmark of Yatofa, observing daily life. Evening settles at Masjid Nyiur Ende, offering a serene conclusion to your cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:59",
+      "total_km": 8.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Al-Khairot (Beneng)",
+            "hu": "Masjid Al-Khairot (Beneng)",
+            "ro": "Masjid Al-Khairot (Beneng)",
+            "en": "Masjid Al-Khairot (Beneng)"
+          },
+          "coords": [
+            116.326815,
+            -8.609836
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese etwas abgelegene Moschee bietet pure Authentizität; fahren Sie langsam auf den schmalen Zufahrtsstraßen.",
+            "hu": "Ez a kissé eldugott mecset az igazi autentikus élményt nyújtja; vezessen óvatosan a szűk, helyi bekötőutakon.",
+            "ro": "Această moschee izolată oferă o experiență autentică pură; conduceți cu prudență pe drumurile de acces mai înguste.",
+            "en": "This slightly remote mosque offers a wonderfully authentic experience; drive slowly and carefully on the narrow access roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Mesjid",
+            "hu": "Mesjid",
+            "ro": "Mesjid",
+            "en": "Mesjid"
+          },
+          "coords": [
+            116.340741,
+            -8.625026
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein klassischer Gebetsort mit freundlichen Einheimischen; parken Sie das Auto etwas abseits, um den Verkehrsfluss nicht zu stören.",
+            "hu": "Klasszikus imahely barátságos helyiekkel; parkoljon kissé távolabb, hogy ne akadályozza a falu forgalmát.",
+            "ro": "Un loc de rugăciune clasic cu localnici primitori; parcați mașina puțin mai departe pentru a nu bloca traficul local.",
+            "en": "A classic prayer hall frequented by friendly locals; park your car a bit further down the road to avoid blocking traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Bale Sangkep",
+            "hu": "Bale Sangkep",
+            "ro": "Bale Sangkep",
+            "en": "Bale Sangkep"
+          },
+          "coords": [
+            116.314642,
+            -8.624565
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein kulturelles Highlight Ihrer Fahrt; planen Sie genug Zeit ein, um die traditionellen Artefakte in Ruhe zu studieren.",
+            "hu": "Az autós túra kulturális fénypontja; szánjon elegendő időt a hagyományos műtárgyak és épületek alapos megtekintésére.",
+            "ro": "Punctul culminant cultural al călătoriei; alocați suficient timp pentru a studia în tihnă artefactele tradiționale expuse aici.",
+            "en": "The cultural highlight of your drive; allocate plenty of time to thoroughly study the traditional artifacts preserved here."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Lingkung Muncan",
+            "hu": "Masjid Lingkung Muncan",
+            "ro": "Masjid Lingkung Muncan",
+            "en": "Masjid Lingkung Muncan"
+          },
+          "coords": [
+            116.323974,
+            -8.651516
+          ],
+          "category": "landmark",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Die Architektur reflektiert den tiefen Glauben der Gemeinde; achten Sie beim Aussteigen auf spielende Kinder in der Nähe.",
+            "hu": "Az építészet a közösség mély hitét tükrözi; kiszálláskor ügyeljen a mecset környékén játszó gyermekekre.",
+            "ro": "Arhitectura reflectă credința profundă a comunității; la coborârea din mașină, fiți atenți la copiii care se joacă prin preajmă.",
+            "en": "The architecture reflects the community's deep faith; when getting out of the car, watch out for children playing nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Prantap",
+            "hu": "Masjid Prantap",
+            "ro": "Masjid Prantap",
+            "en": "Masjid Prantap"
+          },
+          "coords": [
+            116.324538,
+            -8.655705
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss im Süden; kaufen Sie an den nahegelegenen Ständen kleine lokale Snacks für die Rückfahrt.",
+            "hu": "A tökéletes befejezés a déli részen; a közeli standoknál vásároljon néhány helyi falatot a visszaútra.",
+            "ro": "O încheiere perfectă a zilei în sud; cumpărați câteva gustări locale de la tarabele din apropiere pentru drumul de întoarcere.",
+            "en": "A perfect conclusion to your southern route; grab some local snacks from the nearby stalls for your drive back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die nördliche Masjid Al-Khairot, abseits der Touristenpfade. Gegen Mittag besuchen Sie die zentrale Mesjid und fahren zum historischen Bale Sangkep. Nachmittags führt die Fahrt nach Süden zur Masjid Lingkung Muncan, tief verwurzelt in der Gemeinde. Abends endet die Reise an der Masjid Prantap, wo die lokale Kultur besonders lebendig ist.",
+        "hu": "A reggel a távoli Masjid Al-Khairot meglátogatásával indul, csendes környezetben. Délben a Mesjid és a történelmi jelentőségű Bale Sangkep felé veszi az irányt kocsival. Délután délre autózik, ahol a Masjid Lingkung Muncan gyönyörű épülete várja. Az estét a Masjid Prantapnál tölti, bepillantást nyerve a sziget autentikus vallási hagyományaiban.",
+        "ro": "Dimineața începe explorând Masjid Al-Khairot, o moschee nordică liniștită, departe de agitație. La prânz conduceți spre Mesjid și remarcabilul monument istoric Bale Sangkep. După-amiaza vă poartă în partea de sud, vizitând frumoasa Masjid Lingkung Muncan. Seara se încheie confortabil la Masjid Prantap, o ocazie excelentă de a admira comunitatea locală.",
+        "en": "Morning kicks off at Masjid Al-Khairot, enjoying a tranquil drive to this northern sanctuary. Midday travels take you to the eastern Mesjid and the historically rich Bale Sangkep. Afternoon cruising brings you south to Masjid Lingkung Muncan, showcasing vibrant local faith. The evening gracefully wraps up at Masjid Prantap, providing a wonderful end to your driving tour."
+      }
+    }
+  }
+}

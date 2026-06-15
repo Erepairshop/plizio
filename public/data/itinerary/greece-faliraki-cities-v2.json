@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-faliraki-cities-v2",
+  "anchor": {
+    "name": "Faliraki",
+    "coords": [
+      28.202,
+      36.34031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 1.98,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sky park",
+            "hu": "Sky park",
+            "ro": "Sky park",
+            "en": "Sky park"
+          },
+          "coords": [
+            28.199624,
+            36.344832
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem lebhaften Freizeitpark mit unterhaltsamen Aktivitäten und entspannter Atmosphäre, und bringen Sie unbedingt bequeme Schuhe für die Erkundung mit.",
+            "hu": "Kezdje a napját ebben a szórakoztató tevékenységeket és nyugodt légkört kínáló, élénk szabadidőparkban, és mindenképpen hozzon magával kényelmes cipőt a felfedezéshez.",
+            "ro": "Începeți ziua în acest parc de agrement plin de viață, care oferă activități distractive și o atmosferă relaxată, asigurându-vă că aveți încălțăminte comodă pentru explorare.",
+            "en": "Start your day at this lively recreational park offering entertaining activities and a relaxed atmosphere, making sure to bring comfortable shoes for exploring its various attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Faliraki A",
+            "hu": "Faliraki A",
+            "ro": "Faliraki A",
+            "en": "Faliraki A"
+          },
+          "coords": [
+            28.204669,
+            36.339845
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten goldenen Sand und das klare Wasser dieses beliebten Strandabschnitts und kommen Sie früh, um sich eine Sonnenliege direkt am Wasser zu sichern.",
+            "hu": "Élvezze e népszerű strandrész kiterjedt aranyhomokját és tiszta vizét, és érkezzen korán, hogy biztosítson egy jó napozóágyat a vízparton.",
+            "ro": "Bucurați-vă de nisipul auriu și apele clare ale acestei secțiuni populare de plajă, ajungând devreme pentru a obține un șezlong excelent aproape de apă.",
+            "en": "Enjoy the expansive golden sands and clear waters of this popular beach segment, arriving early to secure a prime sunbed near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Katafygio Strand",
+            "hu": "Katafygio strand",
+            "ro": "Plaja Katafygio",
+            "en": "Katafygio beach"
+          },
+          "coords": [
+            28.206131,
+            36.336524
+          ],
+          "category": "recreational",
+          "arrive_at": "11:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen etwas ruhigeren Küstenstreifen, der für seine angenehmen Badebedingungen bekannt ist, und bringen Sie Ihre Schnorchelausrüstung mit, um die Fische zu beobachten.",
+            "hu": "Fedezze fel ezt a kellemes úszási feltételeiről ismert, kissé csendesebb partszakaszt, ahová érdemes saját sznorkelfelszerelést hozni a kis helyi halak megfigyeléséhez.",
+            "ro": "Descoperiți această fâșie de coastă ceva mai liniștită, cunoscută pentru condițiile bune de înot, unde aducerea propriului echipament de snorkeling vă permite să observați peștii.",
+            "en": "Discover this slightly quieter coastal strip known for its pleasant swimming conditions, where bringing your own snorkeling gear allows you to observe the small local fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathara Strand",
+            "hu": "Kathara strand",
+            "ro": "Plaja Kathara",
+            "en": "Kathara beach"
+          },
+          "coords": [
+            28.208735,
+            36.333182
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses familienfreundlichen Strandes mit flachem Wasser, wo es sich anbietet, ein Tretboot für einen spaßigen Ausflug auf das Meer zu mieten.",
+            "hu": "Pihenjen e családbarát, sekély és nyugodt vizet kínáló strand puha homokján, ahol ideális vízibiciklit bérelni egy szórakoztató tengeri kiránduláshoz.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje prietenoase pentru familii, cu ape puțin adânci, fiind ideal să închiriați o hidrobicicletă pentru o excursie distractivă pe mare.",
+            "en": "Relax on the soft sands of this family-friendly beach offering shallow and calm waters, making it ideal to rent a pedal boat for a fun offshore excursion."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantomata Strand",
+            "hu": "Mantomata strand",
+            "ro": "Plaja Mantomata",
+            "en": "Mantomata Beach"
+          },
+          "coords": [
+            28.211935,
+            36.32934
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem schönen, von Felsen umrahmten FKK-Strand, wobei Sie die lokale Etikette respektieren und ausreichend Wasser mitbringen sollten.",
+            "hu": "Fejezze be sétáját ezen a sziklákkal övezett, gyönyörű és eldugott naturista strandon, tiszteletben tartva a helyi illemszabályokat és sok vizet csomagolva a kevés létesítmény miatt.",
+            "ro": "Încheiați plimbarea pe această plajă nudistă frumoasă și izolată, înconjurată de stânci, respectând eticheta locală și aducând multă apă, deoarece facilitățile sunt limitate.",
+            "en": "End your walk at this beautiful and secluded naturist beach framed by rocks, remembering to respect the local etiquette and pack plenty of water since facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des energiegeladenen Zentrums von Faliraki in der Nähe des Sky Parks. Mittags können Sie sich an den Sandstränden abkühlen. Der Nachmittag lädt zu einem langsameren Tempo am familienfreundlichen Kathara-Strand ein. Beenden Sie Ihren Spaziergang am abgelegenen Mantomata-Strand und genießen Sie die ruhige Mittelmeeratmosphäre.",
+        "hu": "Kezdje a reggelt Faliraki energikus központjának felfedezésével a Sky park közelében. Délben hűsöljön a homokos strandoknál. A délután lassabb tempóra csábít a családbarát Kathara strandon. Fejezze be sétáját a félreeső Mantomata strandon, és élvezze a robusztus természeti tájat és a békés mediterrán hangulatot.",
+        "ro": "Începeți dimineața explorând centrul energic al stațiunii Faliraki, lângă Sky park. La prânz, răcoriți-vă pe porțiunile de nisip fin. După-amiaza invită la un ritm mai lent pe plaja prietenoasă Kathara. Încheiați plimbarea la plaja izolată Mantomata, bucurându-vă de peisajul natural sălbatic și de atmosfera liniștită a Mediteranei.",
+        "en": "Start your morning exploring the energetic center of Faliraki, soaking in the vibrant atmosphere near the Sky park. Midday, hit the sandy stretches for a refreshing dip. The afternoon invites a slower pace at the family-friendly Kathara beach. Conclude your walk at the secluded Mantomata Beach, enjoying the rugged natural scenery and tranquil Mediterranean atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 4.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phaleraki 1",
+            "hu": "Phaleraki 1",
+            "ro": "Phaleraki 1",
+            "en": "Phaleraki 1"
+          },
+          "coords": [
+            28.214978,
+            36.360022
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem nördlichen Teil der Bucht, wo die breiten Sandstrände perfekt für ein morgendliches Bad sind, und schließen Sie Ihr Fahrrad am Strandeingang ab.",
+            "hu": "Kezdje kerékpáros útvonalát az öböl északi részén, ahol a széles homokos szakaszok tökéletesek egy reggeli úszáshoz, miközben kerékpárját biztonságosan lezárja a strand bejáratánál.",
+            "ro": "Începeți traseul de ciclism în această parte nordică a golfului, unde întinderile largi de nisip sunt perfecte pentru o baie matinală, blocând bicicleta în siguranță la intrarea pe plajă.",
+            "en": "Start your cycling route at this northern part of the bay where the wide sandy stretches are perfect for a morning swim, keeping your bike safely locked near the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaleraki 4",
+            "hu": "Phaleraki 4",
+            "ro": "Phaleraki 4",
+            "en": "Phaleraki 4"
+          },
+          "coords": [
+            28.209142,
+            36.352548
+          ],
+          "category": "recreational",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Radeln Sie hinunter zu diesem lebhaften Küstenabschnitt, der voller Wassersportaktivitäten ist und sich hervorragend für eine Pause bei einem erfrischenden lokalen Saft anbietet.",
+            "hu": "Tekerjen le a partvidék ezen élénk, vízi sportoktól nyüzsgő szakaszához, amely nagyszerű helyszín egy pihenőre és egy frissítő helyi gyümölcslé elfogyasztására.",
+            "ro": "Pedalați până la această secțiune vibrantă a coastei, plină de activități de sporturi nautice, oferind un loc minunat pentru a face o pauză și a bea un suc local răcoritor.",
+            "en": "Cycle down to this vibrant section of the coastline that buzzes with water sports activities, offering a great spot to pause and grab a refreshing local juice."
+          }
+        },
+        {
+          "name": {
+            "de": "Faliraki B",
+            "hu": "Faliraki B",
+            "ro": "Faliraki B",
+            "en": "Faliraki B"
+          },
+          "coords": [
+            28.20491,
+            36.343786
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem zentralen Abschnitt des langen Strandes mit hervorragenden touristischen Einrichtungen, und tragen Sie ausreichend Sonnencreme auf.",
+            "hu": "Tartson szünetet a hosszú strand e kiváló turisztikai szolgáltatásokkal rendelkező középső szakaszán, és mindenképpen kenjen fel sok fényvédőt, mielőtt a görög napon pihenne.",
+            "ro": "Faceți o pauză pe acest segment central al plajei lungi, dotat cu facilități turistice excelente, asigurându-vă că aplicați multă cremă de protecție solară.",
+            "en": "Take a break on this central segment of the long beach featuring excellent tourist amenities, ensuring you apply plenty of sunscreen before relaxing under the bright Greek sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Faliraki A",
+            "hu": "Faliraki A",
+            "ro": "Faliraki A",
+            "en": "Faliraki A"
+          },
+          "coords": [
+            28.204669,
+            36.339845
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten goldenen Sand und das klare Wasser dieses beliebten Strandabschnitts und kommen Sie früh, um sich eine Sonnenliege direkt am Wasser zu sichern.",
+            "hu": "Élvezze e népszerű strandrész kiterjedt aranyhomokját és tiszta vizét, és érkezzen korán, hogy biztosítson egy jó napozóágyat a vízparton.",
+            "ro": "Bucurați-vă de nisipul auriu și apele clare ale acestei secțiuni populare de plajă, ajungând devreme pentru a obține un șezlong excelent aproape de apă.",
+            "en": "Enjoy the expansive golden sands and clear waters of this popular beach segment, arriving early to secure a prime sunbed near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathara Strand",
+            "hu": "Kathara strand",
+            "ro": "Plaja Kathara",
+            "en": "Kathara beach"
+          },
+          "coords": [
+            28.208735,
+            36.333182
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses familienfreundlichen Strandes mit flachem Wasser, wo es sich anbietet, ein Tretboot für einen spaßigen Ausflug auf das Meer zu mieten.",
+            "hu": "Pihenjen e családbarát, sekély és nyugodt vizet kínáló strand puha homokján, ahol ideális vízibiciklit bérelni egy szórakoztató tengeri kiránduláshoz.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje prietenoase pentru familii, cu ape puțin adânci, fiind ideal să închiriați o hidrobicicletă pentru o excursie distractivă pe mare.",
+            "en": "Relax on the soft sands of this family-friendly beach offering shallow and calm waters, making it ideal to rent a pedal boat for a fun offshore excursion."
+          }
+        },
+        {
+          "name": {
+            "de": "Ladiko Strand",
+            "hu": "Ladiko strand",
+            "ro": "Plaja Ladiko",
+            "en": "Ladiko Beach"
+          },
+          "coords": [
+            28.205526,
+            36.320212
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, von grünen Hügeln und Felsen gesäumte Bucht, und kommen Sie vor Mittag, um sich einen guten Platz auf dem relativ kleinen Sandbereich zu sichern.",
+            "hu": "Fedezze fel ezt a buja dombokkal és sziklás kiszögellésekkel szegélyezett festői öblöt, és érkezzen dél előtt, hogy jó helyet kapjon a viszonylag kis homokos területen.",
+            "ro": "Descoperiți acest golf pitoresc mărginit de dealuri verzi și stânci, ajungând înainte de prânz pentru a vă asigura un loc bun pe suprafața de nisip relativ mică.",
+            "en": "Discover this picturesque cove bordered by lush hills and rocky outcrops, arriving before midday to secure a good spot on the relatively small sandy area."
+          }
+        },
+        {
+          "name": {
+            "de": "Anthony Quinn Strand",
+            "hu": "Anthony Quinn strand",
+            "ro": "Plaja Anthony Quinn",
+            "en": "Anthony Quinn Beach"
+          },
+          "coords": [
+            28.20948,
+            36.321432
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie das smaragdgrüne Wasser und die felsige Kulisse, die diese Bucht in der Filmgeschichte berühmt gemacht haben, und bringen Sie Badeschuhe für den Kiesstrand mit.",
+            "hu": "Csodálja meg a lenyűgöző smaragdzöld vizet és a drámai sziklás tájat, amely e filmtörténeti hírű öblöt jellemzi, és hozzon vízicipőt a kavicsokon való kényelmesebb belépéshez.",
+            "ro": "Admirați apele de smarald și peisajul stâncos dramatic care au făcut acest golf faimos în istoria filmului, aducând încălțăminte de apă pentru o intrare mai confortabilă peste pietricele.",
+            "en": "Admire the striking emerald waters and dramatic rocky scenery that made this bay famous in film history, bringing water shoes for a more comfortable entry over the pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an den weiten nördlichen Stränden von Phaleraki und genießen Sie die kühle Morgenluft. Mittags radeln Sie durch die belebten zentralen Strände, die sich perfekt für eine Erfrischung eignen. Am Nachmittag lassen Sie den flachen Sand hinter sich und fahren südwärts zu den malerischen Felsbuchten. Beenden Sie Ihre Fahrt am berühmten Anthony Quinn Strand.",
+        "hu": "Kezdje kerékpáros kalandját Phaleraki tágas északi strandjainál, és élvezze a friss reggeli levegőt. Délben tekerjen át a nyüzsgő központi strandokon, amelyek tökéletesek egy kis felfrissülésre. Délután hagyja maga mögött a lapos homokot, és lovagoljon délre a sziklás, festői öblök felé. Fejezze be az utat a híres Anthony Quinn strandon egy felejthetetlen fináléval.",
+        "ro": "Începeți aventura pe bicicletă pe plajele întinse din nordul stațiunii Phaleraki, bucurându-vă de aerul proaspăt. La prânz, pedalați de-a lungul plajelor centrale pline de viață, perfecte pentru o pauză. După-amiaza, lăsați nisipul plat în urmă și mergeți spre sud spre golfurile stâncoase pitorești. Încheiați-vă plimbarea la faimoasa plajă Anthony Quinn pentru un final memorabil.",
+        "en": "Kick off your cycling adventure at the expansive northern stretches of Phaleraki. Midday, pedal through the bustling central beaches of Faliraki, offering plenty of spots to pause and refresh. In the afternoon, leave the flat sands behind and ride south towards the scenic, rocky coves. End your ride at the famous Anthony Quinn Beach for an unforgettable finale of dramatic coastal views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anthony Quinn Bucht",
+            "hu": "Anthony Quinn-öböl",
+            "ro": "Golful Anthony Quinn",
+            "en": "Anthony Quinn Bay"
+          },
+          "coords": [
+            28.210205,
+            36.322372
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser ikonischen, von Pinien und Felsen umgebenen Bucht, und kommen Sie sehr früh, um problemlos einen Parkplatz auf dem nahegelegenen Platz zu finden.",
+            "hu": "Kezdje autózását ennél az ikonikus, fenyőkkel borított sziklák által övezett smaragdzöld öbölnél, és érkezzen nagyon korán, hogy könnyen találjon parkolóhelyet a közeli parkolóban.",
+            "ro": "Începeți plimbarea cu mașina la acest golf iconic de smarald, înconjurat de stânci cu pini, ajungând foarte devreme pentru a găsi cu ușurință un loc de parcare în apropiere.",
+            "en": "Start your drive at this iconic emerald bay surrounded by dramatic pine-clad rocks, arriving very early to easily find a parking spot at the nearby lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ladiko Bucht",
+            "hu": "Ladiko-öböl",
+            "ro": "Golful Ladiko",
+            "en": "Ladiko Bay"
+          },
+          "coords": [
+            28.207162,
+            36.320258
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Naturhafen direkt nebenan, der kristallklares Wasser zum Schnorcheln bietet, und nutzen Sie die organisierten Sonnenliegen am schmalen Ufer.",
+            "hu": "Fedezze fel ezt a lenyűgöző, kristálytiszta, sznorkelezéshez tökéletes vizet kínáló szomszédos természetes kikötőt, kihasználva a keskeny part menti napozóágyakat.",
+            "ro": "Explorați acest port natural uimitor chiar alături, care oferă ape cristaline perfecte pentru snorkeling, profitând de șezlongurile organizate de-a lungul țărmului îngust.",
+            "en": "Explore this stunning natural harbor right next door offering crystal-clear waters perfect for snorkeling, taking advantage of the organized sunbeds along the narrow shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantomata Strand",
+            "hu": "Mantomata strand",
+            "ro": "Plaja Mantomata",
+            "en": "Mantomata Beach"
+          },
+          "coords": [
+            28.211935,
+            36.32934
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem schönen, von Felsen umrahmten FKK-Strand, wobei Sie die lokale Etikette respektieren und ausreichend Wasser mitbringen sollten.",
+            "hu": "Fejezze be sétáját ezen a sziklákkal övezett, gyönyörű és eldugott naturista strandon, tiszteletben tartva a helyi illemszabályokat és sok vizet csomagolva a kevés létesítmény miatt.",
+            "ro": "Încheiați plimbarea pe această plajă nudistă frumoasă și izolată, înconjurată de stânci, respectând eticheta locală și aducând multă apă, deoarece facilitățile sunt limitate.",
+            "en": "End your walk at this beautiful and secluded naturist beach framed by rocks, remembering to respect the local etiquette and pack plenty of water since facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Katafygio Strand",
+            "hu": "Katafygio strand",
+            "ro": "Plaja Katafygio",
+            "en": "Katafygio beach"
+          },
+          "coords": [
+            28.206131,
+            36.336524
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen etwas ruhigeren Küstenstreifen, der für seine angenehmen Badebedingungen bekannt ist, und bringen Sie Ihre Schnorchelausrüstung mit, um die Fische zu beobachten.",
+            "hu": "Fedezze fel ezt a kellemes úszási feltételeiről ismert, kissé csendesebb partszakaszt, ahová érdemes saját sznorkelfelszerelést hozni a kis helyi halak megfigyeléséhez.",
+            "ro": "Descoperiți această fâșie de coastă ceva mai liniștită, cunoscută pentru condițiile bune de înot, unde aducerea propriului echipament de snorkeling vă permite să observați peștii.",
+            "en": "Discover this slightly quieter coastal strip known for its pleasant swimming conditions, where bringing your own snorkeling gear allows you to observe the small local fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Sky park",
+            "hu": "Sky park",
+            "ro": "Sky park",
+            "en": "Sky park"
+          },
+          "coords": [
+            28.199624,
+            36.344832
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem lebhaften Freizeitpark mit unterhaltsamen Aktivitäten und entspannter Atmosphäre, und bringen Sie unbedingt bequeme Schuhe für die Erkundung mit.",
+            "hu": "Kezdje a napját ebben a szórakoztató tevékenységeket és nyugodt légkört kínáló, élénk szabadidőparkban, és mindenképpen hozzon magával kényelmes cipőt a felfedezéshez.",
+            "ro": "Începeți ziua în acest parc de agrement plin de viață, care oferă activități distractive și o atmosferă relaxată, asigurându-vă că aveți încălțăminte comodă pentru explorare.",
+            "en": "Start your day at this lively recreational park offering entertaining activities and a relaxed atmosphere, making sure to bring comfortable shoes for exploring its various attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaleraki 5",
+            "hu": "Phaleraki 5",
+            "ro": "Phaleraki 5",
+            "en": "Phaleraki 5"
+          },
+          "coords": [
+            28.211659,
+            36.35582
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem weiten nördlichen Ende des Hauptstrandes, wo der Sand am weichsten ist, und machen Sie einen entspannten Abendspaziergang bei Sonnenuntergang.",
+            "hu": "Zárja utazását a fő üdülőhelyi strand tágas északi végén, ahol a legpuhább a homok, és tegyen egy pihentető esti sétát, amikor a nap lemegy.",
+            "ro": "Încheiați-vă călătoria la această extremitate nordică a plajei principale, unde nisipul este cel mai fin, făcând o plimbare relaxantă de seară când soarele începe să apună.",
+            "en": "Conclude your trip at this expansive northern end of the main resort beach where the sand is softest, taking a relaxing evening stroll as the sun begins to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt mit einem Besuch der atemberaubenden Buchten Anthony Quinn und Ladiko, bevor die Massen ankommen. Fahren Sie mittags zum zentralen Knotenpunkt von Faliraki und erleben Sie die schönen Küsten. Nachmittags können Sie die Freizeiteinrichtungen rund um den Sky Park genießen. Beenden Sie Ihre Autotour im Norden von Phaleraki bei einem Spaziergang.",
+        "hu": "Kezdje festői autózását a lélegzetelállító Anthony Quinn és Ladiko öblök meglátogatásával, még a tömeg érkezése előtt. Délben hajtson Faliraki központja felé, hogy megtapasztalja a gyönyörű partokat. Délután szánjon időt a Sky park körüli szabadidős létesítmények élvezetére. Fejezze be autós túráját Phaleraki északi szakaszán egy békés alkonyati sétával.",
+        "ro": "Începeți plimbarea pitorească vizitând golfurile uluitoare Anthony Quinn și Ladiko înainte să apară aglomerația. La prânz, conduceți spre centrul stațiunii Faliraki, experimentând țărmurile frumoase. După-amiaza, bucurați-vă de facilitățile de agrement din jurul parcului Sky. Încheiați turul cu mașina în nordul Phaleraki cu o plimbare liniștită la crepuscul.",
+        "en": "Begin your scenic drive by visiting the breathtaking Anthony Quinn and Ladiko bays before the crowds arrive. Midday, drive up towards the central hub of Faliraki to experience the beautiful and lively shores. Afternoon invites you to enjoy the recreational facilities near the Sky park. Finish your driving tour at the northern stretches of Phaleraki with a peaceful twilight stroll."
+      }
+    }
+  }
+}

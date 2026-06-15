@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-iseo-cities-v2",
+  "anchor": {
+    "name": "Iseo",
+    "coords": [
+      10.053611,
+      45.658611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 2.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Iseo",
+            "hu": "Municipio di Iseo",
+            "ro": "Municipio di Iseo",
+            "en": "Municipio di Iseo"
+          },
+          "coords": [
+            10.048455,
+            45.660039
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne historische Fassade des Rathauses im Herzen von Iseo, aber versuchen Sie, früh zu kommen, um Fotos ohne Touristen zu machen.",
+            "hu": "Csodálja meg a városháza gyönyörű történelmi homlokzatát Iseo szívében, de érkezzen korán, hogy elkerülje a tömeget és nyugodtan fotózhasson.",
+            "ro": "Admirați frumoasa fațadă istorică a primăriei din inima orașului Iseo, dar încercați să ajungeți devreme pentru a face poze fără aglomerația de turiști.",
+            "en": "Admire the beautiful historical facade of the town hall in the heart of Iseo, but try to arrive early to capture photos without the busy tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria",
+            "hu": "Galleria",
+            "ro": "Galleria",
+            "en": "Galleria"
+          },
+          "coords": [
+            10.048551,
+            45.658963
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Kunstausstellungen in dieser Galerie und prüfen Sie vorab den Zeitplan, da die temporären Sammlungen häufig wechseln.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat ebben a bájos galériában, és érdemes előre ellenőrizni a programot, mivel az időszaki tárlatok gyakran változnak.",
+            "ro": "Explorați expoziții fascinante de artă locală în această galerie fermecătoare și verificați programul în prealabil, deoarece colecțiile se schimbă des.",
+            "en": "Explore fascinating local art exhibits in this charming gallery, and be sure to check the schedule beforehand as temporary collections change frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Oldofredi",
+            "hu": "Castello Oldofredi",
+            "ro": "Castello Oldofredi",
+            "en": "Castello Oldofredi"
+          },
+          "coords": [
+            10.050602,
+            45.658399
+          ],
+          "category": "castle",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Mauern dieser Burg, die tolle Panoramablicke bietet, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Fedezze fel ezen impozáns kastély középkori falait, amely nagyszerű panorámát nyújt, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Descoperiți zidurile medievale ale acestui castel care oferă vederi panoramice și nu uitați să purtați încălțăminte comodă pentru scările de piatră.",
+            "en": "Discover the medieval walls of this imposing castle which offers great panoramic views, and remember to wear comfortable shoes for the uneven stone stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Sant'Andrea",
+            "hu": "Pieve di Sant'Andrea",
+            "ro": "Pieve di Sant'Andrea",
+            "en": "Pieve di Sant'Andrea"
+          },
+          "coords": [
+            10.051367,
+            45.660842
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den romanischen Glockenturm dieser historischen Kirche und treten Sie leise ein, um die beeindruckenden Fresken in Ruhe zu bewundern.",
+            "hu": "Csodálja meg e történelmi templom román stílusú harangtornyát, és lépjen be csendben, hogy értékelni tudja a lenyűgöző freskókat a békés főhajóban.",
+            "ro": "Admirați frumosul turn romanic al acestei biserici istorice și intrați în liniște pentru a aprecia frescele uimitoare din naosul extrem de pașnic.",
+            "en": "Marvel at the beautiful Romanesque bell tower of this historic church, and step inside quietly to appreciate the stunning frescoes in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "La Terra di Mezzo",
+            "hu": "La Terra di Mezzo",
+            "ro": "La Terra di Mezzo",
+            "en": "La Terra di Mezzo"
+          },
+          "coords": [
+            10.049591,
+            45.661184
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die einzigartigen kulturellen Exponate dieses Museums und bitten Sie das freundliche Personal um eine kurze Führung zu den Highlights.",
+            "hu": "Merüljön el e lenyűgöző múzeum egyedi kulturális kiállításaiban, és bátran kérjen a barátságos személyzettől egy rövid tárlatvezetést a fénypontokról.",
+            "ro": "Cufundați-vă în exponatele culturale unice ale acestui muzeu intrigant și cereți personalului prietenos un scurt tur ghidat al punctelor de atracție.",
+            "en": "Immerse yourself in the unique cultural displays of this intriguing museum, and consider asking the friendly staff for a brief guided tour of the highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Giuseppe",
+            "hu": "Cappella di San Giuseppe",
+            "ro": "Cappella di San Giuseppe",
+            "en": "Cappella di San Giuseppe"
+          },
+          "coords": [
+            10.06881,
+            45.658948
+          ],
+          "category": "religious",
+          "arrive_at": "16:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kapelle, um ihre bescheidene Architektur zu bewundern, und ruhen Sie sich auf den nahegelegenen Bänken aus, während Sie die Ruhe genießen.",
+            "hu": "Látogasson el ebbe a békés kápolnába a szerény, mégis elegáns építészetéért, és pihenjen meg egy pillanatra a közeli padokon, élvezve a csendes környéket.",
+            "ro": "Vizitați această capelă senină pentru arhitectura sa modestă și odihniți-vă un moment pe băncile din apropiere, bucurându-vă de împrejurimile liniștite.",
+            "en": "Visit this serene chapel to admire its modest yet elegant architecture, and take a moment to rest on the nearby benches while enjoying the quiet surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im historischen Zentrum, besichtigen Sie das Rathaus und bewundern Sie Kunst in der Galleria.\nErkunden Sie das historische Castello Oldofredi. Danach können Sie das religiöse Erbe in der Pieve di Sant'Andrea bewundern.\nVertiefen Sie sich in die lokale Geschichte in La Terra di Mezzo. Das Museum bietet einen exzellenten Überblick über die Kultur.\nBeenden Sie die Tour mit einem friedlichen Halt an der Cappella di San Giuseppe. Ein perfekter, ruhiger Abschluss für Ihren Tag.",
+        "hu": "Kezdje a napot a történelmi központban, látogassa meg a városházát, majd csodálja meg a Galleria művészeti alkotásait.\nFedezze fel a Castello Oldofredi középkori falait. Ezután tekintse meg a Pieve di Sant'Andrea vallási örökségét és szépségét.\nMerüljön el a helyi történelemben a La Terra di Mezzo múzeumban. A kiállítás kiváló áttekintést nyújt a régió kulturális múltjáról.\nZárja a gyalogtúrát a Cappella di San Giuseppe békés kápolnájánál. Tökéletes, nyugodt befejezése lesz az élményekkel teli napnak.",
+        "ro": "Începeți ziua explorând centrul istoric, vizitând primăria impresionantă înainte de a admira arta de la Galleria.\nExplorați castelul istoric Oldofredi. Ulterior, admirați moștenirea religioasă fascinantă la Pieve di Sant'Andrea din apropiere.\nAprofundați istoria locală la La Terra di Mezzo. Muzeul oferă o imagine de ansamblu excelentă a trecutului cultural al regiunii.\nÎncheiați turul de plimbare cu o oprire pașnică la Cappella di San Giuseppe. Este sfârșitul perfect și liniștit pentru ziua dumneavoastră.",
+        "en": "Start the day exploring the historical center, visiting the impressive Town Hall before admiring art at the Galleria.\nExplore the historic Castello Oldofredi, a prominent local castle. Afterwards, take in the religious heritage at Pieve di Sant'Andrea.\nDelve deeper into local history at La Terra di Mezzo. The museum provides an excellent overview of the region's cultural past.\nConclude the walking tour with a peaceful stop at Cappella di San Giuseppe. It's the perfect serene ending to your day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.08,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Iseo",
+            "hu": "Municipio di Iseo",
+            "ro": "Municipio di Iseo",
+            "en": "Municipio di Iseo"
+          },
+          "coords": [
+            10.048455,
+            45.660039
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne historische Fassade des Rathauses im Herzen von Iseo, aber versuchen Sie, früh zu kommen, um Fotos ohne Touristen zu machen.",
+            "hu": "Csodálja meg a városháza gyönyörű történelmi homlokzatát Iseo szívében, de érkezzen korán, hogy elkerülje a tömeget és nyugodtan fotózhasson.",
+            "ro": "Admirați frumoasa fațadă istorică a primăriei din inima orașului Iseo, dar încercați să ajungeți devreme pentru a face poze fără aglomerația de turiști.",
+            "en": "Admire the beautiful historical facade of the town hall in the heart of Iseo, but try to arrive early to capture photos without the busy tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Oldofredi",
+            "hu": "Castello Oldofredi",
+            "ro": "Castello Oldofredi",
+            "en": "Castello Oldofredi"
+          },
+          "coords": [
+            10.050602,
+            45.658399
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Mauern dieser Burg, die tolle Panoramablicke bietet, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Fedezze fel ezen impozáns kastély középkori falait, amely nagyszerű panorámát nyújt, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Descoperiți zidurile medievale ale acestui castel care oferă vederi panoramice și nu uitați să purtați încălțăminte comodă pentru scările de piatră.",
+            "en": "Discover the medieval walls of this imposing castle which offers great panoramic views, and remember to wear comfortable shoes for the uneven stone stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Sant'Andrea",
+            "hu": "Pieve di Sant'Andrea",
+            "ro": "Pieve di Sant'Andrea",
+            "en": "Pieve di Sant'Andrea"
+          },
+          "coords": [
+            10.051367,
+            45.660842
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den romanischen Glockenturm dieser historischen Kirche und treten Sie leise ein, um die beeindruckenden Fresken in Ruhe zu bewundern.",
+            "hu": "Csodálja meg e történelmi templom román stílusú harangtornyát, és lépjen be csendben, hogy értékelni tudja a lenyűgöző freskókat a békés főhajóban.",
+            "ro": "Admirați frumosul turn romanic al acestei biserici istorice și intrați în liniște pentru a aprecia frescele uimitoare din naosul extrem de pașnic.",
+            "en": "Marvel at the beautiful Romanesque bell tower of this historic church, and step inside quietly to appreciate the stunning frescoes in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Lido Iseo",
+            "hu": "Il Lido Iseo",
+            "ro": "Il Lido Iseo",
+            "en": "Il Lido Iseo"
+          },
+          "coords": [
+            10.036587,
+            45.658589
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem schönen Seeufer und bringen Sie ein kleines Picknick mit, um es auf dem Rasen mit herrlichem Blick auf das Wasser zu genießen.",
+            "hu": "Pihenjen meg ezen a szép tóparti helyen, és hozzon magával egy kis pikniket, amelyet a füvön ülve élvezhet a lenyűgöző vízparti kilátás kíséretében.",
+            "ro": "Relaxați-vă în acest loc de agrement minunat de pe malul lacului și aduceți un mic picnic pentru a vă bucura pe iarbă admirând priveliștile apei.",
+            "en": "Relax at this lovely recreational spot by the lake, and bring a small picnic to enjoy on the grass while taking in the stunning views of the surrounding water."
+          }
+        },
+        {
+          "name": {
+            "de": "Monastero di San Pietro in Lamosa",
+            "hu": "Monastero di San Pietro in Lamosa",
+            "ro": "Monastero di San Pietro in Lamosa",
+            "en": "Monastero di San Pietro in Lamosa"
+          },
+          "coords": [
+            10.038216,
+            45.639242
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende mittelalterliche Kloster über den Torfmooren und folgen Sie den Stegen draußen für einen friedlichen Naturspaziergang.",
+            "hu": "Fedezze fel ezt a tőzeglápok felett magasodó, lenyűgöző középkori kolostort, majd tegyen egy békés sétát a kint található hangulatos fapallókon.",
+            "ro": "Explorați acest fascinant complex monahal medieval deasupra turbăriilor și urmați potecile de lemn de afară pentru o plimbare liniștită în natură.",
+            "en": "Explore this fascinating medieval monastery complex perched above the peat bogs, and follow the boardwalks just outside for a peaceful nature stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Provaglio d'Iseo",
+            "hu": "Castello di Provaglio d'Iseo",
+            "ro": "Castello di Provaglio d'Iseo",
+            "en": "Castello di Provaglio d'Iseo"
+          },
+          "coords": [
+            10.051851,
+            45.636777
+          ],
+          "category": "castle",
+          "arrive_at": "14:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den Ruinen dieser alten Festung für atemberaubende Talblicke und nehmen Sie extra Wasser mit, da der Weg steil und schattenlos sein kann.",
+            "hu": "Túrázzon fel ezen ősi erőd romjaihoz a lélegzetelállító völgyi panorámáért, és vigyen magával extra vizet, mivel az ösvény meredek és árnyék nélküli.",
+            "ro": "Urcați la ruinele acestei fortărețe antice pentru vederi uluitoare ale văii și purtați apă suplimentară, deoarece traseul poate fi abrupt și fără umbră.",
+            "en": "Hike up to the ruins of this ancient fortress for breathtaking valley views, and carry extra water since the trail can be quite steep and unshaded."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie ins Zentrum von Iseo, um das Rathaus zu sehen, und dann zum Castello Oldofredi für fantastische historische Einblicke.\nFahren Sie weiter zur Pieve di Sant'Andrea, bevor Sie eine erfrischende Pause und vielleicht ein Picknick am Il Lido Iseo genießen.\nFahren Sie auf den Radwegen nach Süden zum wunderschönen Monastero di San Pietro in Lamosa, das elegant über den Mooren thront.\nZárja a napot egy energikus mászással a Castello di Provaglio d'Iseo felé, wo Sie die Aussicht auf den Sonnenuntergang belohnt.",
+        "hu": "Kerékpározzon Iseo szívébe, hogy megnézze a városházát, majd tekerjen a Castello Oldofredihez a történelmi élményekért.\nFolytassa útját a Pieve di Sant'Andrea felé, mielőtt egy frissítő pihenőt tartana a festői Il Lido Iseo partján.\nHaladjon dél felé a kerékpárutakon a gyönyörű Monastero di San Pietro in Lamosa kolostorhoz, amely a mocsarak felett magasodik.\nZárja a napot egy energikus mászással a Castello di Provaglio d'Iseo felé, ahol a völgy feletti naplemente kárpótolja az erőfeszítésért.",
+        "ro": "Mergeți cu bicicleta în inima orașului Iseo pentru a vedea primăria, apoi pedalați spre Castello Oldofredi pentru istorie.\nContinuați plimbarea spre Pieve di Sant'Andrea, înainte de a vă bucura de o pauză revigorantă la pitorescul Il Lido Iseo.\nÎndreptați-vă spre sud pe pistele de biciclete către frumosul Monastero di San Pietro in Lamosa, situat deasupra mlaștinilor.\nTerminați cu o urcare energică spre Castello di Provaglio d'Iseo, unde priveliștile apusului peste vale vă vor răsplăti efortul.",
+        "en": "Cycle to the heart of Iseo to see the Town Hall, then pedal to Castello Oldofredi for some fantastic historical insights.\nContinue your ride to Pieve di Sant'Andrea, before enjoying a refreshing break and perhaps a picnic at the scenic Il Lido Iseo.\nHead south along the cycling paths to the beautiful Monastero di San Pietro in Lamosa, perched gracefully overlooking the bogs.\nFinish with an energetic climb to Castello di Provaglio d'Iseo, where the sunset views over the valley will reward your effort."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monastero di San Pietro in Lamosa",
+            "hu": "Monastero di San Pietro in Lamosa",
+            "ro": "Monastero di San Pietro in Lamosa",
+            "en": "Monastero di San Pietro in Lamosa"
+          },
+          "coords": [
+            10.038216,
+            45.639242
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende mittelalterliche Kloster über den Torfmooren und folgen Sie den Stegen draußen für einen friedlichen Naturspaziergang.",
+            "hu": "Fedezze fel ezt a tőzeglápok felett magasodó, lenyűgöző középkori kolostort, majd tegyen egy békés sétát a kint található hangulatos fapallókon.",
+            "ro": "Explorați acest fascinant complex monahal medieval deasupra turbăriilor și urmați potecile de lemn de afară pentru o plimbare liniștită în natură.",
+            "en": "Explore this fascinating medieval monastery complex perched above the peat bogs, and follow the boardwalks just outside for a peaceful nature stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Provaglio d'Iseo",
+            "hu": "Castello di Provaglio d'Iseo",
+            "ro": "Castello di Provaglio d'Iseo",
+            "en": "Castello di Provaglio d'Iseo"
+          },
+          "coords": [
+            10.051851,
+            45.636777
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den Ruinen dieser alten Festung für atemberaubende Talblicke und nehmen Sie extra Wasser mit, da der Weg steil und schattenlos sein kann.",
+            "hu": "Túrázzon fel ezen ősi erőd romjaihoz a lélegzetelállító völgyi panorámáért, és vigyen magával extra vizet, mivel az ösvény meredek és árnyék nélküli.",
+            "ro": "Urcați la ruinele acestei fortărețe antice pentru vederi uluitoare ale văii și purtați apă suplimentară, deoarece traseul poate fi abrupt și fără umbră.",
+            "en": "Hike up to the ruins of this ancient fortress for breathtaking valley views, and carry extra water since the trail can be quite steep and unshaded."
+          }
+        },
+        {
+          "name": {
+            "de": "Acqua Splash",
+            "hu": "Acqua Splash",
+            "ro": "Acqua Splash",
+            "en": "Acqua Splash"
+          },
+          "coords": [
+            10.002324,
+            45.636918
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Verbringen Sie einen Nachmittag in diesem lebhaften Wasserpark und versuchen Sie, direkt zur Öffnung zu kommen, um sich gute Liegen zu sichern.",
+            "hu": "Töltsön el egy izgalmas délutánt ebben a nyüzsgő vízi parkban, és próbáljon nyitásra érkezni, hogy biztosítson magának egy jó napozóágyat a tömeg előtt.",
+            "ro": "Petreceți o după-amiază palpitantă în acest parc acvatic plin de viață și ajungeți la deschidere pentru a ocupa un șezlong bun înaintea aglomerației.",
+            "en": "Spend a thrilling afternoon at this lively water park, and try to arrive right when it opens to secure a good spot on the sunbeds before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Oldofredi",
+            "hu": "Castello Oldofredi",
+            "ro": "Castello Oldofredi",
+            "en": "Castello Oldofredi"
+          },
+          "coords": [
+            10.050602,
+            45.658399
+          ],
+          "category": "castle",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Mauern dieser Burg, die tolle Panoramablicke bietet, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Fedezze fel ezen impozáns kastély középkori falait, amely nagyszerű panorámát nyújt, és viseljen kényelmes cipőt az egyenetlen kőlépcsők miatt.",
+            "ro": "Descoperiți zidurile medievale ale acestui castel care oferă vederi panoramice și nu uitați să purtați încălțăminte comodă pentru scările de piatră.",
+            "en": "Discover the medieval walls of this imposing castle which offers great panoramic views, and remember to wear comfortable shoes for the uneven stone stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Pieve di Sant'Andrea",
+            "hu": "Pieve di Sant'Andrea",
+            "ro": "Pieve di Sant'Andrea",
+            "en": "Pieve di Sant'Andrea"
+          },
+          "coords": [
+            10.051367,
+            45.660842
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den romanischen Glockenturm dieser historischen Kirche und treten Sie leise ein, um die beeindruckenden Fresken in Ruhe zu bewundern.",
+            "hu": "Csodálja meg e történelmi templom román stílusú harangtornyát, és lépjen be csendben, hogy értékelni tudja a lenyűgöző freskókat a békés főhajóban.",
+            "ro": "Admirați frumosul turn romanic al acestei biserici istorice și intrați în liniște pentru a aprecia frescele uimitoare din naosul extrem de pașnic.",
+            "en": "Marvel at the beautiful Romanesque bell tower of this historic church, and step inside quietly to appreciate the stunning frescoes in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Eurovil",
+            "hu": "Piscina Eurovil",
+            "ro": "Piscina Eurovil",
+            "en": "Piscina Eurovil"
+          },
+          "coords": [
+            9.998924,
+            45.678156
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den großen Pools dieser beliebten Freizeitanlage ab und vergessen Sie nicht, eigene Handtücher mitzubringen, um Leihgebühren zu sparen.",
+            "hu": "Hűsöljön e népszerű szabadidős létesítmény tágas medencéiben, és ne felejtsen el saját törölközőt pakolni, hogy megspórolja a bérleti díjakat a bejáratnál.",
+            "ro": "Răcoriți-vă în piscinele mari ale acestei facilități de agrement și nu uitați să vă aduceți propriile prosoape pentru a economisi taxele de închiriere.",
+            "en": "Cool off in the expansive swimming pools at this popular recreational facility, and don't forget to pack your own towels to save on rental fees at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum atemberaubenden Monastero di San Pietro in Lamosa, um Ihren Tag mit Geschichte zu beginnen, dann zum Castello di Provaglio.\nGenießen Sie aktiven Spaß bei einem Besuch im Acqua Splash, perfekt zum Abkühlen und Planschen, bevor es ins Zentrum zurückgeht.\nKehren Sie nach Iseo zurück, um das alte Castello Oldofredi und die exquisite Architektur der nahegelegenen Pieve di Sant'Andrea zu erkunden.\nBeenden Sie Ihr Abenteuer mit einem entspannten Bad im Sonnenuntergang oder einem kühlen Getränk an den Pools der Piscina Eurovil.",
+        "hu": "Vezessen a lélegzetelállító Monastero di San Pietro in Lamosa kolostorhoz, majd látogasson el a lenyűgöző Castello di Provaglio-ba.\nÉlvezze az aktív szórakozást az Acqua Splash vízi parkban, amely tökéletes a hűsölésre, mielőtt visszatérne a városközpontba.\nTérjen vissza Iseóba, hogy felfedezze az ősi Castello Oldofredi-t és a közeli Pieve di Sant'Andrea gyönyörű építészetét.\nFejezze be kalandját egy pihentető naplemente előtti úszással vagy egy hűsítő itallal a Piscina Eurovil medencéinél.",
+        "ro": "Conduceți până la impresionantul Monastero di San Pietro in Lamosa pentru a începe ziua cu istorie, apoi vizitați Castello di Provaglio.\nBucurați-vă de distracție activă cu o vizită la Acqua Splash, perfect pentru a vă răcori înainte de a vă întoarce în centru.\nÎntoarceți-vă în Iseo pentru a explora vechiul Castello Oldofredi și arhitectura rafinată a Pieve di Sant'Andrea din apropiere.\nÎncheiați-vă aventura cu o înotare relaxantă la apus sau cu o băutură rece la piscinele de la Piscina Eurovil.",
+        "en": "Drive out to the breathtaking Monastero di San Pietro in Lamosa to start your day with peaceful history, then visit Castello di Provaglio.\nEnjoy some active fun with a visit to Acqua Splash, perfect for cooling off and splashing around before heading back to the center.\nReturn to Iseo to explore the ancient Castello Oldofredi and the exquisite architecture of Pieve di Sant'Andrea nearby.\nEnd your adventure with a relaxing sunset swim or a chilled drink by the pools at Piscina Eurovil."
+      }
+    }
+  }
+}

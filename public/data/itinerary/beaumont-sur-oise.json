@@ -1,0 +1,520 @@
+{
+  "city_id": "beaumont-sur-oise",
+  "anchor": {
+    "name": "Beaumont-sur-Oise",
+    "coords": [
+      2.2864,
+      49.1425
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 2.89,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Beaumont-sur-Oise",
+            "hu": "Mairie de Beaumont-sur-Oise",
+            "ro": "Mairie de Beaumont-sur-Oise",
+            "en": "Mairie de Beaumont-sur-Oise"
+          },
+          "coords": [
+            2.284494,
+            49.1416
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses, bevor Sie Ihre Tour beginnen, und genießen Sie das Flair des zentralen Platzes.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét a túra megkezdése előtt, és töltsön el egy kis időt a nyüzsgő központi téren.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei înainte de a vă începe turul și savurați o clipă de liniște în piața centrală plină de viață.",
+            "en": "Admire the classic French architecture of the town hall before starting your tour, and take a moment to enjoy the bustling central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Château féodal",
+            "hu": "Château féodal",
+            "ro": "Château féodal",
+            "en": "Château féodal"
+          },
+          "coords": [
+            2.286275,
+            49.143888
+          ],
+          "category": "castle",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen dieser feudalen Burg aus dem 11. Jahrhundert mit Blick auf die Oise, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a 11. századi hűbéri kastély középkori romjait, amely az Oise folyóra néz, és viseljen kényelmes cipőt az egyenetlen, füves terep miatt.",
+            "ro": "Explorați ruinele medievale ale acestui castel feudal din secolul al XI-lea cu vedere la râul Oise și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore the medieval ruins of this 11th-century feudal castle overlooking the Oise river, and wear sturdy shoes for navigating the uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            2.287752,
+            49.144966
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne romanische und gotische Kirche, um ihre beeindruckenden Gewölbedecken zu sehen, aber verhalten Sie sich während der Gebetszeiten leise.",
+            "hu": "Lépjen be ebbe a gyönyörű román és gótikus stílusú templomba, hogy megcsodálja a lenyűgöző boltíves mennyezetet, de ügyeljen a csendre az imaidők alatt.",
+            "ro": "Pășiți în această frumoasă biserică romanică și gotică pentru a-i vedea tavanul boltit uimitor, dar asigurați-vă că păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this beautiful Romanesque and Gothic church to see its stunning vaulted ceilings, but remember to keep your voice down during active prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaumont-sur-Oise amphitheatre",
+            "hu": "Beaumont-sur-Oise amphitheatre",
+            "ro": "Beaumont-sur-Oise amphitheatre",
+            "en": "Beaumont-sur-Oise amphitheatre"
+          },
+          "coords": [
+            2.296844,
+            49.146171
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende gallo-romanische Amphitheater, das einst Tausende von Zuschauern fasste, und bringen Sie eine Kamera für die beeindruckende Anlage mit.",
+            "hu": "Fedezze fel a lenyűgöző gall-római amfiteátrumot, amely egykor több ezer nézőnek adott otthont, és vigyen magával fényképezőgépet az ősi elrendezés megörökítéséhez.",
+            "ro": "Descoperiți fascinantul amfiteatru galo-roman care a găzduit cândva mii de spectatori și aduceți o cameră pentru a fotografia impresionanta structură antică.",
+            "en": "Discover the fascinating Gallo-Roman amphitheater that once hosted thousands of spectators, and bring a camera to capture the impressive ancient layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Nointel",
+            "hu": "Château de Nointel",
+            "ro": "Château de Nointel",
+            "en": "Château de Nointel"
+          },
+          "coords": [
+            2.291445,
+            49.130014
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das exquisite Gelände dieses großen Anwesens, das für seine bemerkenswerte Kunstsammlung bekannt ist, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Sétáljon végig a figyelemre méltó művészeti gyűjteményéről ismert, hatalmas birtok gyönyörű területén, de látogatás előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Plimbați-vă prin domeniul rafinat al acestei moșii mărețe, cunoscută pentru remarcabila sa colecție de artă, și verificați programul de funcționare sezonier.",
+            "en": "Stroll through the exquisite grounds of this grand estate known for its remarkable art collection, and check the seasonal opening hours before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Beaumont-sur-Oise am historischen Rathaus und genießen Sie die lokale Atmosphäre.\nMittags reisen Sie in die Vergangenheit, wenn Sie die mittelalterlichen Burgruinen und die atemberaubenden gotischen Bögen der Église Saint-Laurent erkunden.\nAm Nachmittag entdecken Sie das beeindruckende gallo-romanische Amphitheater, bevor Sie zum Château de Nointel gehen.\nLassen Sie den Tag bei einem Spaziergang über das exquisite Anwesen ausklingen und reflektieren Sie die reiche Geschichte dieser wunderschönen Region.",
+        "hu": "Kezdje a reggelt Beaumont-sur-Oise szívében, a történelmi városházánál, elmerülve a helyi hangulatban.\nDélben utazzon vissza az időben, miközben felfedezi a hűbéri kastély középkori romjait és a Saint-Laurent templom lenyűgöző gótikus boltíveit.\nDélután fedezze fel a lenyűgöző ókori gall-római amfiteátrumot, mielőtt egy festői sétát tenne az elegáns Nointel kastély felé.\nFejezze be a napot a gyönyörű birtok bejárásával, elmélkedve e csodálatos régió gazdag történelmi örökségén.",
+        "ro": "Începeți-vă dimineața în inima orașului Beaumont-sur-Oise la primăria istorică, bucurându-vă de atmosfera locală.\nLa amiază, călătoriți înapoi în timp explorând ruinele medievale ale castelului feudal și arcadele gotice uimitoare ale bisericii Saint-Laurent.\nDupă-amiază, descoperiți impresionantul amfiteatru galo-roman antic, înainte de a face o plimbare spre elegantul Château de Nointel.\nÎncheiați-vă ziua plimbându-vă pe domeniul rafinat, reflectând la istoria bogată a acestei regiuni.",
+        "en": "Begin your morning in the heart of Beaumont-sur-Oise at the historic town hall, soaking in the local atmosphere.\nMidday leads you back in time as you explore the medieval ruins of the feudal castle and the stunning gothic arches of Église Saint-Laurent.\nIn the afternoon, discover the impressive ancient Gallo-Roman amphitheater before enjoying a scenic walk towards the elegant Château de Nointel.\nConclude your day wandering the exquisite estate grounds, reflecting on the rich blend of medieval and ancient history of this beautiful region."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 7.49,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Beaumont-sur-Oise",
+            "hu": "Mairie de Beaumont-sur-Oise",
+            "ro": "Mairie de Beaumont-sur-Oise",
+            "en": "Mairie de Beaumont-sur-Oise"
+          },
+          "coords": [
+            2.284494,
+            49.1416
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses, bevor Sie Ihre Tour beginnen, und genießen Sie das Flair des zentralen Platzes.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét a túra megkezdése előtt, és töltsön el egy kis időt a nyüzsgő központi téren.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei înainte de a vă începe turul și savurați o clipă de liniște în piața centrală plină de viață.",
+            "en": "Admire the classic French architecture of the town hall before starting your tour, and take a moment to enjoy the bustling central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Château féodal",
+            "hu": "Château féodal",
+            "ro": "Château féodal",
+            "en": "Château féodal"
+          },
+          "coords": [
+            2.286275,
+            49.143888
+          ],
+          "category": "castle",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen dieser feudalen Burg aus dem 11. Jahrhundert mit Blick auf die Oise, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a 11. századi hűbéri kastély középkori romjait, amely az Oise folyóra néz, és viseljen kényelmes cipőt az egyenetlen, füves terep miatt.",
+            "ro": "Explorați ruinele medievale ale acestui castel feudal din secolul al XI-lea cu vedere la râul Oise și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore the medieval ruins of this 11th-century feudal castle overlooking the Oise river, and wear sturdy shoes for navigating the uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            2.287752,
+            49.144966
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne romanische und gotische Kirche, um ihre beeindruckenden Gewölbedecken zu sehen, aber verhalten Sie sich während der Gebetszeiten leise.",
+            "hu": "Lépjen be ebbe a gyönyörű román és gótikus stílusú templomba, hogy megcsodálja a lenyűgöző boltíves mennyezetet, de ügyeljen a csendre az imaidők alatt.",
+            "ro": "Pășiți în această frumoasă biserică romanică și gotică pentru a-i vedea tavanul boltit uimitor, dar asigurați-vă că păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this beautiful Romanesque and Gothic church to see its stunning vaulted ceilings, but remember to keep your voice down during active prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaumont-sur-Oise amphitheatre",
+            "hu": "Beaumont-sur-Oise amphitheatre",
+            "ro": "Beaumont-sur-Oise amphitheatre",
+            "en": "Beaumont-sur-Oise amphitheatre"
+          },
+          "coords": [
+            2.296844,
+            49.146171
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende gallo-romanische Amphitheater, das einst Tausende von Zuschauern fasste, und bringen Sie eine Kamera für die beeindruckende Anlage mit.",
+            "hu": "Fedezze fel a lenyűgöző gall-római amfiteátrumot, amely egykor több ezer nézőnek adott otthont, és vigyen magával fényképezőgépet az ősi elrendezés megörökítéséhez.",
+            "ro": "Descoperiți fascinantul amfiteatru galo-roman care a găzduit cândva mii de spectatori și aduceți o cameră pentru a fotografia impresionanta structură antică.",
+            "en": "Discover the fascinating Gallo-Roman amphitheater that once hosted thousands of spectators, and bring a camera to capture the impressive ancient layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Denis",
+            "hu": "Église Saint-Denis",
+            "ro": "Église Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            2.30144,
+            49.160435
+          ],
+          "category": "religious",
+          "arrive_at": "13:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige historische Kirche etwas abseits der Touristenpfade, um ihre friedlichen Buntglasfenster zu bewundern, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Látogasson el ebbe a csendes, történelmi templomba egy kicsit távolabb a kitaposott ösvénytől, és vigyen magával egy könnyű kabátot, mert bent hűvös lehet.",
+            "ro": "Vizitați această biserică istorică liniștită pentru a admira vitraliile sale pline de pace, asigurându-vă că aduceți o jachetă ușoară deoarece poate fi răcoare înăuntru.",
+            "en": "Visit this serene historical church slightly off the beaten path to admire its peaceful stained glass windows, making sure to bring a light jacket as it can be cool inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Nointel",
+            "hu": "Château de Nointel",
+            "ro": "Château de Nointel",
+            "en": "Château de Nointel"
+          },
+          "coords": [
+            2.291445,
+            49.130014
+          ],
+          "category": "castle",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das exquisite Gelände dieses großen Anwesens, das für seine bemerkenswerte Kunstsammlung bekannt ist, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Sétáljon végig a figyelemre méltó művészeti gyűjteményéről ismert, hatalmas birtok gyönyörű területén, de látogatás előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Plimbați-vă prin domeniul rafinat al acestei moșii mărețe, cunoscută pentru remarcabila sa colecție de artă, și verificați programul de funcționare sezonier.",
+            "en": "Stroll through the exquisite grounds of this grand estate known for its remarkable art collection, and check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pères Blancs",
+            "hu": "Chapelle des Pères Blancs",
+            "ro": "Chapelle des Pères Blancs",
+            "en": "Chapelle des Pères Blancs"
+          },
+          "coords": [
+            2.271933,
+            49.132351
+          ],
+          "category": "religious",
+          "arrive_at": "15:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Besinnung an dieser charmanten und historisch bedeutsamen religiösen Stätte, und nutzen Sie die ruhige Umgebung für ein friedliches Lesen.",
+            "hu": "Töltsön el egy percet a csendes elmélkedéssel ezen a bájos és történelmileg jelentős vallási helyen, és használja ki a nyugodt környezetet egy kis olvasásra.",
+            "ro": "Bucurați-vă de un moment de reflecție la acest sit religios fermecător și important din punct de vedere istoric și profitați de împrejurimile liniștite.",
+            "en": "Enjoy a moment of reflection at this charming and historically significant religious site, and take advantage of the quiet surroundings for some peaceful reading."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der zentralen Mairie und spüren Sie die morgendliche Energie der Stadt, bevor Sie zu den nahen Burgruinen radeln.\nDer Mittag ist historischen Wundern vorbehalten: Besuchen Sie die schöne Église Saint-Laurent und das große gallo-romanische Amphitheater in der Nähe.\nAm Nachmittag radeln Sie zur Église Saint-Denis für einen ruhigen Moment und setzen dann Ihre Reise zum majestätischen Château de Nointel fort.\nLassen Sie den Abend mit einer friedlichen Fahrt zur Chapelle des Pères Blancs ausklingen und genießen Sie den ruhigen Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a központi városházánál, majd tekerjen a közeli ősi kastélyromokhoz, hogy átélje a város reggeli energiáját.\nA dél a történelmi csodáké: látogasson el a gyönyörű Saint-Laurent templomba és az egy rövid útra található hatalmas gall-római amfiteátrumba.\nDélután kerékpározzon el a Saint-Denis templomhoz egy csendes pillanatra, majd folytassa útját a fenséges Nointel kastély felé.\nZárja az estét egy békés utazással a Chapelle des Pères Blancs felé, élvezve a nyugodt naplementét a történelmi tájak felett.",
+        "ro": "Începeți turul cu bicicleta la primăria centrală, simțind energia matinală a orașului înainte de a pedala spre ruinele antice ale castelului.\nAmiaza este rezervată minunilor istorice, vizitând frumoasa biserică Saint-Laurent și marele amfiteatru galo-roman aflat la o scurtă distanță.\nDupă-amiază, pedalați spre biserica Saint-Denis pentru un moment de liniște, apoi continuați călătoria spre maiestuosul Château de Nointel.\nÎncheiați-vă seara cu o plimbare liniștită spre Chapelle des Pères Blancs, bucurându-vă de un apus senin peste peisajele istorice.",
+        "en": "Kick off your cycling tour at the central Mairie, feeling the morning energy of the city before pedaling to the nearby ancient castle ruins.\nMidday is reserved for historical marvels, visiting the beautiful Église Saint-Laurent and the grand Gallo-Roman amphitheater just a short ride away.\nIn the afternoon, cycle out towards Église Saint-Denis for a quiet moment, then continue your journey to the majestic Château de Nointel.\nWind down your evening with a peaceful ride to the Chapelle des Pères Blancs, enjoying the serene sunset over the historic landscapes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 9.04,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle des Pères Blancs",
+            "hu": "Chapelle des Pères Blancs",
+            "ro": "Chapelle des Pères Blancs",
+            "en": "Chapelle des Pères Blancs"
+          },
+          "coords": [
+            2.271933,
+            49.132351
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Besinnung an dieser charmanten und historisch bedeutsamen religiösen Stätte, und nutzen Sie die ruhige Umgebung für ein friedliches Lesen.",
+            "hu": "Töltsön el egy percet a csendes elmélkedéssel ezen a bájos és történelmileg jelentős vallási helyen, és használja ki a nyugodt környezetet egy kis olvasásra.",
+            "ro": "Bucurați-vă de un moment de reflecție la acest sit religios fermecător și important din punct de vedere istoric și profitați de împrejurimile liniștite.",
+            "en": "Enjoy a moment of reflection at this charming and historically significant religious site, and take advantage of the quiet surroundings for some peaceful reading."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Beaumont-sur-Oise",
+            "hu": "Mairie de Beaumont-sur-Oise",
+            "ro": "Mairie de Beaumont-sur-Oise",
+            "en": "Mairie de Beaumont-sur-Oise"
+          },
+          "coords": [
+            2.284494,
+            49.1416
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Architektur des Rathauses, bevor Sie Ihre Tour beginnen, und genießen Sie das Flair des zentralen Platzes.",
+            "hu": "Csodálja meg a városháza klasszikus francia építészetét a túra megkezdése előtt, és töltsön el egy kis időt a nyüzsgő központi téren.",
+            "ro": "Admirați arhitectura clasică franceză a primăriei înainte de a vă începe turul și savurați o clipă de liniște în piața centrală plină de viață.",
+            "en": "Admire the classic French architecture of the town hall before starting your tour, and take a moment to enjoy the bustling central square."
+          }
+        },
+        {
+          "name": {
+            "de": "Château féodal",
+            "hu": "Château féodal",
+            "ro": "Château féodal",
+            "en": "Château féodal"
+          },
+          "coords": [
+            2.286275,
+            49.143888
+          ],
+          "category": "castle",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen dieser feudalen Burg aus dem 11. Jahrhundert mit Blick auf die Oise, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a 11. századi hűbéri kastély középkori romjait, amely az Oise folyóra néz, és viseljen kényelmes cipőt az egyenetlen, füves terep miatt.",
+            "ro": "Explorați ruinele medievale ale acestui castel feudal din secolul al XI-lea cu vedere la râul Oise și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore the medieval ruins of this 11th-century feudal castle overlooking the Oise river, and wear sturdy shoes for navigating the uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            2.287752,
+            49.144966
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne romanische und gotische Kirche, um ihre beeindruckenden Gewölbedecken zu sehen, aber verhalten Sie sich während der Gebetszeiten leise.",
+            "hu": "Lépjen be ebbe a gyönyörű román és gótikus stílusú templomba, hogy megcsodálja a lenyűgöző boltíves mennyezetet, de ügyeljen a csendre az imaidők alatt.",
+            "ro": "Pășiți în această frumoasă biserică romanică și gotică pentru a-i vedea tavanul boltit uimitor, dar asigurați-vă că păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this beautiful Romanesque and Gothic church to see its stunning vaulted ceilings, but remember to keep your voice down during active prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaumont-sur-Oise amphitheatre",
+            "hu": "Beaumont-sur-Oise amphitheatre",
+            "ro": "Beaumont-sur-Oise amphitheatre",
+            "en": "Beaumont-sur-Oise amphitheatre"
+          },
+          "coords": [
+            2.296844,
+            49.146171
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende gallo-romanische Amphitheater, das einst Tausende von Zuschauern fasste, und bringen Sie eine Kamera für die beeindruckende Anlage mit.",
+            "hu": "Fedezze fel a lenyűgöző gall-római amfiteátrumot, amely egykor több ezer nézőnek adott otthont, és vigyen magával fényképezőgépet az ősi elrendezés megörökítéséhez.",
+            "ro": "Descoperiți fascinantul amfiteatru galo-roman care a găzduit cândva mii de spectatori și aduceți o cameră pentru a fotografia impresionanta structură antică.",
+            "en": "Discover the fascinating Gallo-Roman amphitheater that once hosted thousands of spectators, and bring a camera to capture the impressive ancient layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Denis",
+            "hu": "Église Saint-Denis",
+            "ro": "Église Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            2.30144,
+            49.160435
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige historische Kirche etwas abseits der Touristenpfade, um ihre friedlichen Buntglasfenster zu bewundern, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Látogasson el ebbe a csendes, történelmi templomba egy kicsit távolabb a kitaposott ösvénytől, és vigyen magával egy könnyű kabátot, mert bent hűvös lehet.",
+            "ro": "Vizitați această biserică istorică liniștită pentru a admira vitraliile sale pline de pace, asigurându-vă că aduceți o jachetă ușoară deoarece poate fi răcoare înăuntru.",
+            "en": "Visit this serene historical church slightly off the beaten path to admire its peaceful stained glass windows, making sure to bring a light jacket as it can be cool inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Nointel",
+            "hu": "Château de Nointel",
+            "ro": "Château de Nointel",
+            "en": "Château de Nointel"
+          },
+          "coords": [
+            2.291445,
+            49.130014
+          ],
+          "category": "castle",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das exquisite Gelände dieses großen Anwesens, das für seine bemerkenswerte Kunstsammlung bekannt ist, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Sétáljon végig a figyelemre méltó művészeti gyűjteményéről ismert, hatalmas birtok gyönyörű területén, de látogatás előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Plimbați-vă prin domeniul rafinat al acestei moșii mărețe, cunoscută pentru remarcabila sa colecție de artă, și verificați programul de funcționare sezonier.",
+            "en": "Stroll through the exquisite grounds of this grand estate known for its remarkable art collection, and check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Foot",
+            "hu": "Foot",
+            "ro": "Foot",
+            "en": "Foot"
+          },
+          "coords": [
+            2.283274,
+            49.116401
+          ],
+          "category": "family",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem angenehmen familienfreundlichen Grünstreifen, ideal für einen Nachmittagsspaziergang, und bringen Sie Snacks für ein kleines Picknick mit.",
+            "hu": "Fejezze be a napot ezen a kellemes, családbarát zöldövezetben, amely tökéletes egy délutáni sétához, és vigyen magával harapnivalót egy kis piknikhez.",
+            "ro": "Încheiați-vă ziua în această zonă verde plăcută, ideală pentru familii și perfectă pentru o plimbare de după-amiază, aducând câteva gustări pentru un picnic mic.",
+            "en": "Finish your day at this pleasant family-friendly green area perfect for a relaxing afternoon walk, and bring some snacks to enjoy a small picnic with your loved ones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch der Chapelle des Pères Blancs, bevor Sie in das lebhafte Stadtzentrum fahren.\nMittags parken Sie in der Nähe der Mairie, um die feudalen Burgruinen, die schöne Église Saint-Laurent und das antike römische Amphitheater zu erkunden.\nVerbringen Sie Ihren Nachmittag damit, die Église Saint-Denis zu bewundern, gefolgt von einem Besuch im berühmten Château de Nointel.\nBeenden Sie Ihren umfassenden Tagesausflug entspannt im familienfreundlichen Foot-Gebiet und genießen Sie die laue Nachmittagsbrise in der Umgebung.",
+        "hu": "Kezdje autós túráját egy békés reggeli látogatással a Chapelle des Pères Blancs-nál, mielőtt a városközpont felé venné az irányt.\nDélben parkoljon le a városháza közelében, hogy felfedezze a hűbéri kastélyromokat, a gyönyörű Saint-Laurent templomot és az ókori római amfiteátrumot.\nTöltse a délutánt a Saint-Denis templom ólomüveg ablakainak megcsodálásával, majd tegyen egy hosszú, festői látogatást a híres Nointel kastélyban.\nFejezze be az átfogó egynapos kirándulást a családbarát Foot területen, élvezve a késő délutáni szellőt és a kedves helyi környezetet.",
+        "ro": "Începeți turul cu mașina cu o vizită matinală la Chapelle des Pères Blancs, stabilind un ton reflexiv înainte de a vă îndrepta spre centrul orașului.\nLa amiază, parcați lângă primărie pentru a explora ruinele castelului feudal, frumoasa biserică Saint-Laurent și amfiteatrul roman antic.\nPetreceți-vă după-amiaza admirând vitraliile bisericii Saint-Denis, urmată de o lungă și pitorească vizită la faimosul Château de Nointel.\nÎncheiați-vă excursia relaxându-vă în zona prietenoasă pentru familii Foot, bucurându-vă de briza după-amiezii târziu și de împrejurimile minunate.",
+        "en": "Start your driving tour with a peaceful morning visit to the Chapelle des Pères Blancs, setting a reflective tone before heading into the town center.\nAt midday, park near the Mairie to explore the impressive feudal castle ruins, the beautiful Église Saint-Laurent, and the ancient Roman amphitheater.\nSpend your afternoon marveling at the stained glass of Église Saint-Denis, followed by a long, scenic visit to the famous Château de Nointel.\nFinish your comprehensive day trip relaxing at the family-friendly Foot area, enjoying the late afternoon breeze and the lovely local surroundings."
+      }
+    }
+  }
+}

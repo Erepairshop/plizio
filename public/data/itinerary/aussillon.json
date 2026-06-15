@@ -1,0 +1,520 @@
+{
+  "city_id": "aussillon",
+  "anchor": {
+    "name": "Aussillon",
+    "coords": [
+      2.365,
+      43.4983
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            2.355786,
+            43.48807
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Steinfassade und das ruhige Innere dieser alten Kirche, die das spirituelle Herz der Altstadt bildet, am besten im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ennek az ősi templomnak a történelmi kőhomlokzatát és csendes belső terét, amely az óváros szellemi központja, és leginkább a reggeli fényben érdemes felkeresni.",
+            "ro": "Admirați fațada istorică de piatră și interiorul liniștit al acestei biserici vechi, care reprezintă inima spirituală a orașului vechi, cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the historic stone facade and quiet interior of this ancient church, representing the spiritual heart of the old town, best visited when morning light enters the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aussillon",
+            "hu": "Château d'Aussillon",
+            "ro": "Château d'Aussillon",
+            "en": "Château d'Aussillon"
+          },
+          "coords": [
+            2.355833,
+            43.4875
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen mittelalterlichen Mauern dieses Schlosses, ein Zeugnis der feudalen Vergangenheit der Region, und tragen Sie bequeme Schuhe für die unebenen Höfe.",
+            "hu": "Fedezze fel e kastély lenyűgöző középkori falait, amelyek a régió feudális múltjáról tanúskodnak, és viseljen kényelmes cipőt az egyenetlen, macskaköves udvarok miatt.",
+            "ro": "Explorați zidurile medievale formidabile ale acestui castel, o dovadă a trecutului feudal al regiunii, și purtați pantofi confortabili pentru curțile sale denivelate.",
+            "en": "Explore the formidable medieval walls and defensive architecture of this castle, a testament to the region's feudal past, and wear comfortable shoes for the uneven courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Coeur de Bonnecousse",
+            "hu": "Église du Sacré-Coeur de Bonnecousse",
+            "ro": "Église du Sacré-Coeur de Bonnecousse",
+            "en": "Église du Sacré-Coeur de Bonnecousse"
+          },
+          "coords": [
+            2.365746,
+            43.500581
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Baustil des zwanzigsten Jahrhunderts dieses einzigartigen Sakralraums, ein Symbol moderner Hingabe, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek az egyedülálló, huszadik századi szakrális térnek a modern építészeti stílusát, és mindenképpen szánjon időt a lenyűgöző ólomüveg ablakok megcsodálására.",
+            "ro": "Descoperiți stilul arhitectural distinct al secolului XX al acestui spațiu sacru, un simbol al devotamentului modern, unde ar trebui să vă faceți timp pentru vitralii.",
+            "en": "Discover the distinct twentieth-century architectural style of this unique sacred space, a symbol of modern devotion, where you should take a moment to appreciate the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Rougearié",
+            "hu": "Parc de la Rougearié",
+            "ro": "Parc de la Rougearié",
+            "en": "Parc de la Rougearié"
+          },
+          "coords": [
+            2.363613,
+            43.507364
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den gepflegten Grünflächen dieses weitläufigen Parks, der eine perfekte urbane Flucht bietet und ideal für ein ruhiges Picknick auf den schattigen Holzbänken ist.",
+            "hu": "Pihenjen meg ennek a tágas parknak a buja, gondozott zöldterületein, amely tökéletes városi menedéket nyújt egy csendes piknikhez az árnyékos fapadokon ülve.",
+            "ro": "Relaxați-vă în spațiile verzi luxuriante ale acestui parc expansiv, oferind o evadare urbană perfectă, unde vă puteți bucura de un picnic liniștit pe băncile umbrite.",
+            "en": "Relax in the lush, manicured green spaces of this expansive park, offering a perfect urban escape where you can enjoy a quiet picnic break on the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Falgalarié",
+            "hu": "Château de la Falgalarié",
+            "ro": "Château de la Falgalarié",
+            "en": "Château de la Falgalarié"
+          },
+          "coords": [
+            2.367139,
+            43.50657
+          ],
+          "category": "castle",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Anlagen dieses historischen Schlosses, das heute als lokales Kulturzentrum dient, und prüfen Sie die Anschlagtafel auf öffentliche Ausstellungen.",
+            "hu": "Sétáljon végig ennek a ma már helyi kulturális központként működő történelmi kastélynak az elegáns parkjában, és érdemes megnézni a kinti táblát az aktuális kiállítások miatt.",
+            "ro": "Plimbați-vă prin terenurile elegante ale acestui castel istoric care servește acum ca centru cultural, verificând panoul exterior pentru orice expoziții publice în desfășurare.",
+            "en": "Wander through the elegant grounds of this historic castle that now serves as a local cultural hub, checking the community board outside for any ongoing public exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der alten Wurzeln von Aussillon an der Église Saint-André und dem majestätischen Château. Mittags tauchen Sie in die Moderne der Église du Sacré-Coeur ein. Der Nachmittag lädt zur puren Entspannung auf den grünen Wegen des Parc de la Rougearié ein. Beenden Sie Ihren Spaziergang mit der Entdeckung der kulturellen Vielfalt im Château de la Falgalarié.",
+        "hu": "Kezdje a reggelt Aussillon ősi gyökereinek felfedezésével az Église Saint-André-nál és a lenyűgöző kastélynál. Délben térjen át a modern korba az egyedülálló Église du Sacré-Coeur meglátogatásával. A délután tiszta pihenésre csábít a Parc de la Rougearié buja ösvényein sétálva. Zárja gyalogtúráját a Château de la Falgalarié kulturális pezsgésének felfedezésével.",
+        "ro": "Începeți dimineața explorând rădăcinile antice ale Aussillon-ului la Église Saint-André și formidabilul Château. La prânz, treceți la era modernă cu o vizită la unica Église du Sacré-Coeur. După-amiaza invită la relaxare pură pe aleile luxuriante ale Parc de la Rougearié. Încheiați-vă turul pietonal descoperind vibrația culturală la Château de la Falgalarié.",
+        "en": "Start your morning exploring the ancient roots of Aussillon at the Église Saint-André and the formidable Château. By midday, transition to the modern era with a visit to the unique Église du Sacré-Coeur. The afternoon invites pure relaxation as you stroll through the lush pathways of Parc de la Rougearié. Conclude your walking tour discovering the cultural vibrancy at Château de la Falgalarié."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Aussillon",
+            "hu": "Château d'Aussillon",
+            "ro": "Château d'Aussillon",
+            "en": "Château d'Aussillon"
+          },
+          "coords": [
+            2.355833,
+            43.4875
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen mittelalterlichen Mauern dieses Schlosses, ein Zeugnis der feudalen Vergangenheit der Region, und tragen Sie bequeme Schuhe für die unebenen Höfe.",
+            "hu": "Fedezze fel e kastély lenyűgöző középkori falait, amelyek a régió feudális múltjáról tanúskodnak, és viseljen kényelmes cipőt az egyenetlen, macskaköves udvarok miatt.",
+            "ro": "Explorați zidurile medievale formidabile ale acestui castel, o dovadă a trecutului feudal al regiunii, și purtați pantofi confortabili pentru curțile sale denivelate.",
+            "en": "Explore the formidable medieval walls and defensive architecture of this castle, a testament to the region's feudal past, and wear comfortable shoes for the uneven courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            2.355786,
+            43.48807
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Steinfassade und das ruhige Innere dieser alten Kirche, die das spirituelle Herz der Altstadt bildet, am besten im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ennek az ősi templomnak a történelmi kőhomlokzatát és csendes belső terét, amely az óváros szellemi központja, és leginkább a reggeli fényben érdemes felkeresni.",
+            "ro": "Admirați fațada istorică de piatră și interiorul liniștit al acestei biserici vechi, care reprezintă inima spirituală a orașului vechi, cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the historic stone facade and quiet interior of this ancient church, representing the spiritual heart of the old town, best visited when morning light enters the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Coeur de Bonnecousse",
+            "hu": "Église du Sacré-Coeur de Bonnecousse",
+            "ro": "Église du Sacré-Coeur de Bonnecousse",
+            "en": "Église du Sacré-Coeur de Bonnecousse"
+          },
+          "coords": [
+            2.365746,
+            43.500581
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Baustil des zwanzigsten Jahrhunderts dieses einzigartigen Sakralraums, ein Symbol moderner Hingabe, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek az egyedülálló, huszadik századi szakrális térnek a modern építészeti stílusát, és mindenképpen szánjon időt a lenyűgöző ólomüveg ablakok megcsodálására.",
+            "ro": "Descoperiți stilul arhitectural distinct al secolului XX al acestui spațiu sacru, un simbol al devotamentului modern, unde ar trebui să vă faceți timp pentru vitralii.",
+            "en": "Discover the distinct twentieth-century architectural style of this unique sacred space, a symbol of modern devotion, where you should take a moment to appreciate the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Rougearié",
+            "hu": "Parc de la Rougearié",
+            "ro": "Parc de la Rougearié",
+            "en": "Parc de la Rougearié"
+          },
+          "coords": [
+            2.363613,
+            43.507364
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den gepflegten Grünflächen dieses weitläufigen Parks, der eine perfekte urbane Flucht bietet und ideal für ein ruhiges Picknick auf den schattigen Holzbänken ist.",
+            "hu": "Pihenjen meg ennek a tágas parknak a buja, gondozott zöldterületein, amely tökéletes városi menedéket nyújt egy csendes piknikhez az árnyékos fapadokon ülve.",
+            "ro": "Relaxați-vă în spațiile verzi luxuriante ale acestui parc expansiv, oferind o evadare urbană perfectă, unde vă puteți bucura de un picnic liniștit pe băncile umbrite.",
+            "en": "Relax in the lush, manicured green spaces of this expansive park, offering a perfect urban escape where you can enjoy a quiet picnic break on the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Falgalarié",
+            "hu": "Château de la Falgalarié",
+            "ro": "Château de la Falgalarié",
+            "en": "Château de la Falgalarié"
+          },
+          "coords": [
+            2.367139,
+            43.50657
+          ],
+          "category": "castle",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Anlagen dieses historischen Schlosses, das heute als lokales Kulturzentrum dient, und prüfen Sie die Anschlagtafel auf öffentliche Ausstellungen.",
+            "hu": "Sétáljon végig ennek a ma már helyi kulturális központként működő történelmi kastélynak az elegáns parkjában, és érdemes megnézni a kinti táblát az aktuális kiállítások miatt.",
+            "ro": "Plimbați-vă prin terenurile elegante ale acestui castel istoric care servește acum ca centru cultural, verificând panoul exterior pentru orice expoziții publice în desfășurare.",
+            "en": "Wander through the elegant grounds of this historic castle that now serves as a local cultural hub, checking the community board outside for any ongoing public exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Thoré",
+            "hu": "Château de Thoré",
+            "ro": "Château de Thoré",
+            "en": "Château de Thoré"
+          },
+          "coords": [
+            2.372462,
+            43.513679
+          ],
+          "category": "castle",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Details dieses majestätischen Anwesens, das die strategische Bedeutung der Region offenbart, und machen Sie Fotos von der Zufahrtsstraße aus.",
+            "hu": "Figyelje meg ennek a fenséges dombtetői birtoknak az impozáns részleteit, amely a régió stratégiai fontosságát mutatja, és készítsen nagyszerű fotókat a bekötőútról.",
+            "ro": "Observați detaliile structurale impunătoare ale acestei moșii maiestuoase, care dezvăluie importanța strategică a regiunii, și faceți fotografii de pe drumul de acces.",
+            "en": "Observe the imposing structural details of this majestic hilltop estate, which reveals the strategic importance of the region, and capture photos from the approach road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel de Payrin",
+            "hu": "Église Saint-Michel de Payrin",
+            "ro": "Église Saint-Michel de Payrin",
+            "en": "Église Saint-Michel de Payrin"
+          },
+          "coords": [
+            2.355965,
+            43.52102
+          ],
+          "category": "religious",
+          "arrive_at": "16:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser charmanten Pfarrkirche, die für ihren rustikalen Glockenturm bekannt ist und eine ruhige Atmosphäre für eine Nachmittagsreflexion bietet.",
+            "hu": "Fejezze be útját ennél a bájos, rusztikus harangtornyáról ismert északi plébániatemplomnál, amelynek békés atmoszférája tökéletes egy csendes délutáni elmélyüléshez.",
+            "ro": "Încheiați-vă călătoria la această fermecătoare biserică parohială nordică, cunoscută pentru clopotnița sa rustică, oferind o atmosferă senină perfectă pentru reflecție liniștită.",
+            "en": "Finish your journey at this charming northern parish church known for its rustic bell tower, offering a serene atmosphere perfectly suited for a quiet afternoon reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie in den Tag, indem Sie die alten Steinmauern des Château d'Aussillon und die Ruhe von Saint-André entdecken. Mittags radeln Sie entspannt zur Herz-Jesu-Kirche und zum Park. Ihre nachmittägliche Route verbindet reibungslos das lebhafte Château de la Falgalarié mit dem majestätischen Château de Thoré. Eine sanfte Abendfahrt endet ruhig an der Kirche Saint-Michel de Payrin.",
+        "hu": "Indítsa a napot a Château d'Aussillon vastag kőfalainak és a Saint-André templom csendjének felfedezésével. Délben kényelmesen áttekerhet a Szent Szív templomhoz, majd megpihenhet a parkban. A délutáni útvonal zökkenőmentesen köti össze a nyüzsgő Château de la Falgalarié-t a fenséges Château de Thoré-val. Az esti levezető kerékpározás a békés Saint-Michel de Payrin-nél ér véget.",
+        "ro": "Începeți ziua pedalând spre zidurile grele de piatră ale Château d'Aussillon și reverența liniștită de la Saint-André. Prânzul vă duce confortabil la Biserica Sacré-Coeur înainte de o pauză în parc. Traseul de după-amiază conectează lin vibrantul Château de la Falgalarié cu maiestuosul Château de Thoré. O plimbare blândă de seară se încheie la senina Saint-Michel de Payrin.",
+        "en": "Pedal off your day discovering the heavy stone walls of Château d'Aussillon and the quiet reverence of Saint-André. Midday takes you comfortably to the Sacred Heart church before a refreshing park break. Your afternoon cycling route smoothly connects the vibrant Château de la Falgalarié with the majestic Château de Thoré. A gentle evening ride concludes at the serene Saint-Michel de Payrin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 8.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotte de Lacalm",
+            "hu": "Grotte de Lacalm",
+            "ro": "Grotte de Lacalm",
+            "en": "Grotte de Lacalm"
+          },
+          "coords": [
+            2.328263,
+            43.500646
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende unterirdische Welt dieses Naturdenkmals ein, um Kalksteinformationen zu sehen, aber bringen Sie eine leichte Jacke für die kühlen Höhlen mit.",
+            "hu": "Lépjen be ennek a természeti nevezetességnek a lenyűgöző földalatti világába a cseppkövek miatt, de ne felejtsen el egy könnyű kabátot hozni, mivel a barlang elég hűvös.",
+            "ro": "Pășiți în lumea subterană fascinantă a acestui reper natural pentru formațiunile sale impresionante, dar aduceți o jachetă ușoară deoarece peșterile sunt destul de răcoroase.",
+            "en": "Step into the fascinating subterranean world of this natural landmark to see impressive limestone formations, but remember to bring a light jacket as the caves are quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            2.355786,
+            43.48807
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Steinfassade und das ruhige Innere dieser alten Kirche, die das spirituelle Herz der Altstadt bildet, am besten im morgendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ennek az ősi templomnak a történelmi kőhomlokzatát és csendes belső terét, amely az óváros szellemi központja, és leginkább a reggeli fényben érdemes felkeresni.",
+            "ro": "Admirați fațada istorică de piatră și interiorul liniștit al acestei biserici vechi, care reprezintă inima spirituală a orașului vechi, cel mai bine vizitată în lumina dimineții.",
+            "en": "Admire the historic stone facade and quiet interior of this ancient church, representing the spiritual heart of the old town, best visited when morning light enters the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aussillon",
+            "hu": "Château d'Aussillon",
+            "ro": "Château d'Aussillon",
+            "en": "Château d'Aussillon"
+          },
+          "coords": [
+            2.355833,
+            43.4875
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mächtigen mittelalterlichen Mauern dieses Schlosses, ein Zeugnis der feudalen Vergangenheit der Region, und tragen Sie bequeme Schuhe für die unebenen Höfe.",
+            "hu": "Fedezze fel e kastély lenyűgöző középkori falait, amelyek a régió feudális múltjáról tanúskodnak, és viseljen kényelmes cipőt az egyenetlen, macskaköves udvarok miatt.",
+            "ro": "Explorați zidurile medievale formidabile ale acestui castel, o dovadă a trecutului feudal al regiunii, și purtați pantofi confortabili pentru curțile sale denivelate.",
+            "en": "Explore the formidable medieval walls and defensive architecture of this castle, a testament to the region's feudal past, and wear comfortable shoes for the uneven courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Coeur de Bonnecousse",
+            "hu": "Église du Sacré-Coeur de Bonnecousse",
+            "ro": "Église du Sacré-Coeur de Bonnecousse",
+            "en": "Église du Sacré-Coeur de Bonnecousse"
+          },
+          "coords": [
+            2.365746,
+            43.500581
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Baustil des zwanzigsten Jahrhunderts dieses einzigartigen Sakralraums, ein Symbol moderner Hingabe, und achten Sie besonders auf die Buntglasfenster.",
+            "hu": "Fedezze fel ennek az egyedülálló, huszadik századi szakrális térnek a modern építészeti stílusát, és mindenképpen szánjon időt a lenyűgöző ólomüveg ablakok megcsodálására.",
+            "ro": "Descoperiți stilul arhitectural distinct al secolului XX al acestui spațiu sacru, un simbol al devotamentului modern, unde ar trebui să vă faceți timp pentru vitralii.",
+            "en": "Discover the distinct twentieth-century architectural style of this unique sacred space, a symbol of modern devotion, where you should take a moment to appreciate the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Rougearié",
+            "hu": "Parc de la Rougearié",
+            "ro": "Parc de la Rougearié",
+            "en": "Parc de la Rougearié"
+          },
+          "coords": [
+            2.363613,
+            43.507364
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den gepflegten Grünflächen dieses weitläufigen Parks, der eine perfekte urbane Flucht bietet und ideal für ein ruhiges Picknick auf den schattigen Holzbänken ist.",
+            "hu": "Pihenjen meg ennek a tágas parknak a buja, gondozott zöldterületein, amely tökéletes városi menedéket nyújt egy csendes piknikhez az árnyékos fapadokon ülve.",
+            "ro": "Relaxați-vă în spațiile verzi luxuriante ale acestui parc expansiv, oferind o evadare urbană perfectă, unde vă puteți bucura de un picnic liniștit pe băncile umbrite.",
+            "en": "Relax in the lush, manicured green spaces of this expansive park, offering a perfect urban escape where you can enjoy a quiet picnic break on the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Falgalarié",
+            "hu": "Château de la Falgalarié",
+            "ro": "Château de la Falgalarié",
+            "en": "Château de la Falgalarié"
+          },
+          "coords": [
+            2.367139,
+            43.50657
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Anlagen dieses historischen Schlosses, das heute als lokales Kulturzentrum dient, und prüfen Sie die Anschlagtafel auf öffentliche Ausstellungen.",
+            "hu": "Sétáljon végig ennek a ma már helyi kulturális központként működő történelmi kastélynak az elegáns parkjában, és érdemes megnézni a kinti táblát az aktuális kiállítások miatt.",
+            "ro": "Plimbați-vă prin terenurile elegante ale acestui castel istoric care servește acum ca centru cultural, verificând panoul exterior pentru orice expoziții publice în desfășurare.",
+            "en": "Wander through the elegant grounds of this historic castle that now serves as a local cultural hub, checking the community board outside for any ongoing public exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Thoré",
+            "hu": "Château de Thoré",
+            "ro": "Château de Thoré",
+            "en": "Château de Thoré"
+          },
+          "coords": [
+            2.372462,
+            43.513679
+          ],
+          "category": "castle",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Details dieses majestätischen Anwesens, das die strategische Bedeutung der Region offenbart, und machen Sie Fotos von der Zufahrtsstraße aus.",
+            "hu": "Figyelje meg ennek a fenséges dombtetői birtoknak az impozáns részleteit, amely a régió stratégiai fontosságát mutatja, és készítsen nagyszerű fotókat a bekötőútról.",
+            "ro": "Observați detaliile structurale impunătoare ale acestei moșii maiestuoase, care dezvăluie importanța strategică a regiunii, și faceți fotografii de pe drumul de acces.",
+            "en": "Observe the imposing structural details of this majestic hilltop estate, which reveals the strategic importance of the region, and capture photos from the approach road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel de Payrin",
+            "hu": "Église Saint-Michel de Payrin",
+            "ro": "Église Saint-Michel de Payrin",
+            "en": "Église Saint-Michel de Payrin"
+          },
+          "coords": [
+            2.355965,
+            43.52102
+          ],
+          "category": "religious",
+          "arrive_at": "16:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser charmanten Pfarrkirche, die für ihren rustikalen Glockenturm bekannt ist und eine ruhige Atmosphäre für eine Nachmittagsreflexion bietet.",
+            "hu": "Fejezze be útját ennél a bájos, rusztikus harangtornyáról ismert északi plébániatemplomnál, amelynek békés atmoszférája tökéletes egy csendes délutáni elmélyüléshez.",
+            "ro": "Încheiați-vă călătoria la această fermecătoare biserică parohială nordică, cunoscută pentru clopotnița sa rustică, oferind o atmosferă senină perfectă pentru reflecție liniștită.",
+            "en": "Finish your journey at this charming northern parish church known for its rustic bell tower, offering a serene atmosphere perfectly suited for a quiet afternoon reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt tief in den faszinierenden Kammern der Grotte de Lacalm, bevor Sie das historische Zentrum erkunden. Mittags fahren Sie bequem zur modernen Église du Sacré-Coeur und genießen den Parc de la Rougearié. Der Nachmittag ist einer Burgentour gewidmet, die sowohl Falgalarié als auch Thoré umfasst. Der Sonnenuntergang naht, wenn Sie ruhig an der nördlichen Gemeinde Payrin parken.",
+        "hu": "Kiterjedt autós túrája a Grotte de Lacalm barlangjaiban kezdődik, mielőtt felfedezné a történelmi városközpontot. Délben kényelmesen elvezethet a modern Église du Sacré-Coeur-höz és a Parc de la Rougearié-hoz. A délutánt egy fenséges kastélytúrának szentelheti, amely a Falgalarié-t és a Thoré-t is magában foglalja. A naplementét az északi Payrin plébániánál csodálhatja meg.",
+        "ro": "Excursia dvs. extinsă începe adânc în camerele naturale ale Grotte de Lacalm înainte de a explora centrul istoric. La prânz, conduceți ușor către moderna Église du Sacré-Coeur și vă bucurați de Parc de la Rougearié. După-amiaza este dedicată unui tur de castele care acoperă atât Falgalarié cât și Thoré. Apusul se apropie în timp ce parcați liniștit la parohia nordică Payrin.",
+        "en": "Your extensive road trip begins deep within the fascinating natural chambers of Grotte de Lacalm before exploring the historical town center. By midday, you can easily drive to the modern Église du Sacré-Coeur and enjoy a picnic at Parc de la Rougearié. The afternoon is dedicated to a majestic castle tour covering both Falgalarié and Thoré. Sunset approaches as you park quietly at the northern Payrin parish."
+      }
+    }
+  }
+}

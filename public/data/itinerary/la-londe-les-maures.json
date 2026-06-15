@@ -1,0 +1,451 @@
+{
+  "city_id": "la-londe-les-maures",
+  "anchor": {
+    "name": "La Londe-les-Maures",
+    "coords": [
+      6.2344,
+      43.1381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de Miramar",
+            "hu": "Port de Miramar",
+            "ro": "Port de Miramar",
+            "en": "Port de Miramar"
+          },
+          "coords": [
+            6.244287,
+            43.12688
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre des Yachthafens und trinken Sie einen frischen Kaffee, bevor Sie wandern.",
+            "hu": "Élvezze a kikötő nyüzsgő hangulatát, és igyon egy friss kávét egy teraszon, mielőtt elkezdené a part menti túrát.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a portului și savurați o cafea proaspătă pe o terasă înainte de drumeția de coastă.",
+            "en": "Enjoy the marina's vibrant atmosphere and grab a fresh coffee at a terrace before starting your scenic coastal hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Argentière",
+            "hu": "Plage de l'Argentière",
+            "ro": "Plage de l'Argentière",
+            "en": "Plage de l'Argentière"
+          },
+          "coords": [
+            6.25535,
+            43.11935
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem großen, sandigen Küstenabschnitt entlang und packen Sie Sonnencreme für ein Bad ein.",
+            "hu": "Sétáljon végig ezen a kristálytiszta vizéről híres széles homokos partszakaszon, és hozzon magával naptejet is.",
+            "ro": "Plimbați-vă pe această plajă largă de nisip renumită pentru apele sale clare, aducând cremă de protecție solară.",
+            "en": "Stroll along this large sandy stretch renowned for its crystal-clear waters, packing sunscreen for a relaxing morning dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Salins",
+            "hu": "Plage des Salins",
+            "ro": "Plage des Salins",
+            "en": "Plage des Salins"
+          },
+          "coords": [
+            6.220726,
+            43.115101
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine friedliche Pause an diesem malerischen Strand mit herrlichem Blick auf die alten Salzpfannen.",
+            "hu": "Tartson egy békés pihenőt ezen a festői strandon, ahol a parti ösvényről remek kilátás nyílik a régi sólepárlókra.",
+            "ro": "Faceți o pauză liniștită pe această plajă pitorească unde poteca oferă vederi minunate asupra vechilor saline.",
+            "en": "Take a peaceful break at this scenic beach where the coastal path offers great views of the historical salt pans nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pentagone",
+            "hu": "Plage du Pentagone",
+            "ro": "Plage du Pentagone",
+            "en": "Plage du Pentagone"
+          },
+          "coords": [
+            6.20777,
+            43.11587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen etwas abgelegeneren Küstenort, der sich perfekt eignet, um Ihr Handtuch abseits der Massen auszubreiten.",
+            "hu": "Fedezze fel ezt a kissé eldugottabb partszakaszt, amely tökéletes arra, hogy a legnagyobb tömegtől távol napozzon.",
+            "ro": "Explorați acest loc de coastă ușor mai izolat, perfect pentru a vă așeza prosopul departe de aglomerația cea mare.",
+            "en": "Explore this slightly more secluded coastal spot, which is perfect for laying out your towel away from the biggest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Mérou",
+            "hu": "Plage du Mérou",
+            "ro": "Plage du Mérou",
+            "en": "Plage du Mérou"
+          },
+          "coords": [
+            6.18119,
+            43.107358
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Wandertour an dieser ruhigen Küste, aber prüfen Sie den Busfahrplan für die Rückfahrt ins Zentrum.",
+            "hu": "Fejezze be gyalogtúráját ezen a csendes parton, de naplemente közeledtével ellenőrizze a központba tartó buszok menetrendjét.",
+            "ro": "Încheiați turul de mers pe această plajă liniștită, dar verificați orarul autobuzului spre centru la lăsarea serii.",
+            "en": "Conclude your walking tour on this quiet shoreline, but check the local bus schedule back to the center as dusk approaches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Hafen von Miramar. Folgen Sie den Küstenwegen nach Osten zum Strand l'Argentière. Mittags erreichen Sie den ruhigen Plage des Salins für eine wohlverdiente Pause. Verbringen Sie den Nachmittag am Plage du Pentagone. Beenden Sie den Tag mit einem entspannenden Spaziergang in den Sonnenuntergang am Plage du Mérou.",
+        "hu": "Kezdje a reggelt a nyüzsgő Miramar kikötőben. Kövesse a part menti ösvényeket a tágas l'Argentière strandig. Délben a csendes Plage des Salins kínál remek pihenési lehetőséget. A délutánt a Plage du Pentagone felfedezésével töltheti. Zárja a napot egy kellemes naplementés sétával a Plage du Mérou békés homokján.",
+        "ro": "Începeți dimineața în portul animat Miramar. Urmați potecile de coastă spre est până la plaja l'Argentière. La prânz, ajungeți la liniștita Plage des Salins pentru o odihnă binemeritată. Petreceți după-amiaza explorând Plage du Pentagone. Încheiați ziua cu o plimbare relaxantă la apus pe nisipurile pașnice de la Plage du Mérou.",
+        "en": "Start your morning at the bustling Port de Miramar. Follow the scenic coastal paths east to the expansive Plage de l'Argentière. Midday brings you to the tranquil Plage des Salins for a well-deserved rest. Spend the afternoon exploring Plage du Pentagone. Conclude your day with a relaxing sunset walk along the peaceful sands of Plage du Mérou."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 10.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tropischer Zoologischer Garten",
+            "hu": "Trópusi Állatkert",
+            "ro": "Grădina Zoologică Tropicală",
+            "en": "Tropical Zoological Garden"
+          },
+          "coords": [
+            6.234444,
+            43.138056
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und bestaunen Sie die exotischen Pflanzen und Vögel mit einer Karte vom Eingang.",
+            "hu": "Parkolja le kerékpárját biztonságosan, és csodálja meg az egzotikus növényeket, térképet kérve a bejáratnál.",
+            "ro": "Parcați bicicleta în siguranță și admirați plantele exotice și păsările rare, luând o hartă de la intrare.",
+            "en": "Park your bike securely and marvel at the exotic plants and rare birds, making sure to grab a map at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Miramar",
+            "hu": "Port de Miramar",
+            "ro": "Port de Miramar",
+            "en": "Port de Miramar"
+          },
+          "coords": [
+            6.244287,
+            43.12688
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie hinunter zum belebten Hafen, um die Boote zu beobachten und sich ein leckeres Mittagessen zu gönnen.",
+            "hu": "Tekerjen le a nyüzsgő kikötőbe, nézze meg a hajókat, és lepje meg magát egy finom tengerparti ebéddel a teraszon.",
+            "ro": "Pedalați până la portul animat pentru a privi bărcile și a vă răsfăța cu un prânz delicios pe o terasă la malul mării.",
+            "en": "Pedal down to the bustling harbor to watch the boats and treat yourself to a delicious seaside lunch on an outdoor terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Argentière",
+            "hu": "Plage de l'Argentière",
+            "ro": "Plage de l'Argentière",
+            "en": "Plage de l'Argentière"
+          },
+          "coords": [
+            6.25535,
+            43.11935
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie nur wenige Minuten nach Osten, um diesen weitläufigen Strand mit hervorragenden Einrichtungen zu finden.",
+            "hu": "Tekerjen csak néhány percet keletre, hogy megtalálja ezt a kiváló felszereltségű strandot remek kilátással a szigetekre.",
+            "ro": "Mergeți cu bicicleta doar câteva minute spre est pentru a găsi această plajă largă cu facilități excelente.",
+            "en": "Cycle just a few minutes east to find this expansive beach with excellent facilities and a great view of the nearby islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Salins",
+            "hu": "Plage des Salins",
+            "ro": "Plage des Salins",
+            "en": "Plage des Salins"
+          },
+          "coords": [
+            6.220726,
+            43.115101
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Folgen Sie der Küstenradroute, um dieses historische Salzpfannengebiet zu erreichen, das ideal zur Vogelbeobachtung ist.",
+            "hu": "Kövesse a parti kerékpárutat ehhez a történelmi sólepárlóhoz, amely ideális a helyi tengeri madarak megfigyelésére.",
+            "ro": "Urmați traseul de biciclete de coastă pentru a ajunge în zona salinelor istorice, ideală pentru observarea păsărilor.",
+            "en": "Follow the coastal bike route to reach this historical salt pan area, which is ideal for spotting local seabirds and resting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Marquise",
+            "hu": "Plage de la Marquise",
+            "ro": "Plage de la Marquise",
+            "en": "Plage de la Marquise"
+          },
+          "coords": [
+            6.171715,
+            43.100558
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die stetige Fahrt zur Westgrenze und halten Sie hier für ein erfrischendes Bad im sehr ruhigen Meerwasser.",
+            "hu": "Élvezze a nyugati határ felé tartó egyenletes utazást, és álljon meg itt egy frissítő úszásra a kivételesen nyugodt tengerben.",
+            "ro": "Bucurați-vă de o plimbare constantă spre vest și opriți-vă aici pentru o baie răcoritoare în apele excepțional de calme.",
+            "en": "Enjoy the steady ride towards the western border and stop here for a refreshing swim in the exceptionally calm sea waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Ayguade",
+            "hu": "Plage de l'Ayguade",
+            "ro": "Plage de l'Ayguade",
+            "en": "Plage de l'Ayguade"
+          },
+          "coords": [
+            6.176448,
+            43.103776
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag in der Nähe dieses charmanten Küstendorfes, wo Sie leicht eine fantastische Eisdiele finden.",
+            "hu": "Fejezze be a kerékpáros napot e bájos kis parti falu közelében, ahol könnyen találhat egy fantasztikus helyi fagyizót.",
+            "ro": "Terminați ziua de ciclism lângă acest fermecător sat de coastă, unde veți găsi cu ușurință o gelaterie locală fantastică.",
+            "en": "Finish your cycling day near this charming little coastal village, where you can easily find a fantastic local ice cream parlor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am tropischen Zoo. Radeln Sie zum Port de Miramar für eine schöne Hafenpause. Bis zum Mittag erreichen Sie den breiten Strand l'Argentière. Fahren Sie westwärts zum malerischen Plage des Salins. Der Nachmittag führt Sie zur ruhigen Plage de la Marquise, und die Reise endet am bezaubernden Plage de l'Ayguade.",
+        "hu": "Kezdje kerékpártúráját a trópusi állatkertnél. Tekerjen a Miramar kikötőhöz egy rövid pihenőre. Délre eléri a l'Argentière strand széles homokját. Haladjon nyugatra a festői Plage des Salins felé. A délutánt a csendes Plage de la Marquise felé tekerve tölti, végül a bájos Plage de l'Ayguade közelében fejezi be a túrát.",
+        "ro": "Începeți turul cu bicicleta la grădina zoologică tropicală. Pedalați ușor spre portul Miramar pentru o pauză plăcută. Până la prânz veți ajunge la plaja l'Argentière. Mergeți spre vest pe coastă până la pitoreasca Plage des Salins. După-amiaza continuă spre liniștita Plage de la Marquise, terminând călătoria la Plage de l'Ayguade.",
+        "en": "Kick off your cycling tour at the tropical zoo. Pedal smoothly to Port de Miramar for a lovely harbor break. By midday, you'll reach the wide sands of Plage de l'Argentière. Ride west along the coast to the scenic Plage des Salins. Your afternoon continues towards the quiet Plage de la Marquise, ending the journey near the charming Plage de l'Ayguade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 22.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de Gaoutabry",
+            "hu": "Dolmen de Gaoutabry",
+            "ro": "Dolmen de Gaoutabry",
+            "en": "Dolmen de Gaoutabry"
+          },
+          "coords": [
+            6.2388,
+            43.1718
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig die kurvige Straße hinauf, um dieses megalithische Grab mit spektakulärem Panorama zu sehen.",
+            "hu": "Óvatosan vezessen fel a kanyargós hegyi úton, hogy megnézze ezt az ősi megalitikus sírt, amely pazar kilátást nyújt az öbölre.",
+            "ro": "Conduceți cu grijă pe drumul șerpuit de deal pentru a vedea acest mormânt antic cu panorame spectaculoase asupra golfului.",
+            "en": "Drive carefully up the winding hill road to see this ancient megalithic tomb offering spectacular panoramas over the deep blue bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sainte-Marguerite",
+            "hu": "Château Sainte-Marguerite",
+            "ro": "Château Sainte-Marguerite",
+            "en": "Château Sainte-Marguerite"
+          },
+          "coords": [
+            6.219485,
+            43.146879
+          ],
+          "category": "culinary",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem malerischen Weingut, um exzellente Roséweine zu probieren, aber denken Sie an einen nüchternen Fahrer.",
+            "hu": "Álljon meg ennél a gyönyörű borászatnál a kiváló helyi rozéborok kóstolására, de mindig legyen egy kijelölt sofőr.",
+            "ro": "Opriți-vă la această cramă prestigioasă pentru a degusta vinuri rosé excelente, dar nu uitați să aveți un șofer desemnat.",
+            "en": "Stop at this prestigious and beautiful winery to taste excellent local rosés, but always remember to have a designated driver."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropischer Zoologischer Garten",
+            "hu": "Trópusi Állatkert",
+            "ro": "Grădina Zoologică Tropicală",
+            "en": "Tropical Zoological Garden"
+          },
+          "coords": [
+            6.234444,
+            43.138056
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Mittag damit, durch wunderschöne tropische Gärten voller faszinierender exotischer Tiere zu schlendern.",
+            "hu": "Töltse a delet ezen a gyönyörűen parkosított trópusi kerten sétálva, amely tele van lenyűgöző egzotikus állatvilággal.",
+            "ro": "Petreceți prânzul plimbându-vă prin grădinile tropicale frumos amenajate, pline de animale sălbatice exotice și păsări.",
+            "en": "Spend midday wandering through beautifully landscaped tropical gardens filled with fascinating exotic wildlife and colorful birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Miramar",
+            "hu": "Port de Miramar",
+            "ro": "Port de Miramar",
+            "en": "Port de Miramar"
+          },
+          "coords": [
+            6.244287,
+            43.12688
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den öffentlichen Hauptparkplatz und vertreten Sie sich die Beine entlang des Yachthafens mit seinen vielen Cafés.",
+            "hu": "Használja a fő nyilvános parkolót, és nyújtóztassa ki a lábát a nyüzsgő kikötőben, ahol barátságos kávézók sora várja.",
+            "ro": "Folosiți parcarea publică principală și întindeți-vă picioarele pe portul animat, presărat cu cafenele și magazine primitoare.",
+            "en": "Use the main public parking lot and stretch your legs along the lively marina dotted with welcoming waterfront cafes and local shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Capte",
+            "hu": "Plage de la Capte",
+            "ro": "Plage de la Capte",
+            "en": "Plage de la Capte"
+          },
+          "coords": [
+            6.149991,
+            43.060044
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden auf die Halbinsel Giens, um an diesem flachen, familienfreundlichen Strand vor Wind geschützt zu entspannen.",
+            "hu": "Vezessen délre a lenyűgöző Giens-félszigetre, és pihenjen ezen a sekély vizű, családbarát strandon, amely védett az erős széltől.",
+            "ro": "Conduceți spre sud pe uimitoarea peninsulă Giens pentru a vă relaxa pe această plajă plată, protejată de vânturile puternice.",
+            "en": "Drive south onto the stunning Giens peninsula to relax on this shallow, family-friendly beach that is protected from strong winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Peno",
+            "hu": "Plage Peno",
+            "ro": "Plage Peno",
+            "en": "Plage Peno"
+          },
+          "coords": [
+            6.07491,
+            43.085295
+          ],
+          "category": "recreational",
+          "arrive_at": "15:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip weiter westlich an diesem schönen Sandstrand, perfekt, um den Sonnenuntergang über dem Mittelmeer zu beobachten.",
+            "hu": "Zárja autós utazását nyugatabbra ezen a szép homokos partszakaszon, amely tökéletes a földközi-tengeri naplemente megtekintésére.",
+            "ro": "Încheiați călătoria cu mașina la vest pe această plajă minunată, perfectă pentru a admira apusul peste Marea Mediterană.",
+            "en": "Conclude your road trip further west at this lovely stretch of sand, perfect for watching the sunset over the beautiful Mediterranean Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Dolmen de Gaoutabry für atemberaubende morgendliche Aussichten. Besuchen Sie als nächstes das Château Sainte-Marguerite. Mittags bewundern Sie exotische Flora und Fauna im tropischen Zoo. Später spazieren Sie am Hafen von Miramar, bevor Sie nach Süden zum Strand von La Capte fahren und am Plage Peno abschließen.",
+        "hu": "Autózzon fel a Dolmen de Gaoutabry ősi emlékművéhez a csodás reggeli kilátásért. Ezután látogasson el a tekintélyes Château Sainte-Marguerite-be. A delet a trópusi állatkert egzotikus növényeinek és állatainak megcsodálásával töltheti. Később sétáljon a Miramar kikötőben, majd vezessen délre a La Capte partjaihoz, és a Plage Peno-n zárja a napot.",
+        "ro": "Conduceți la vechiul Dolmen de Gaoutabry pentru o panoramă matinală uimitoare. Vizitați apoi prestigiul Château Sainte-Marguerite. Prânzul este petrecut admirând flora și fauna exotică la grădina zoologică tropicală. Mai târziu, faceți o plimbare în portul Miramar înainte de a conduce spre plaja La Capte și a termina la Plage Peno.",
+        "en": "Drive up to the ancient Dolmen de Gaoutabry for breathtaking morning views. Next, visit the prestigious Château Sainte-Marguerite for a brief stop. Midday is spent admiring exotic flora and fauna at the tropical zoo. Later, take a stroll at Port de Miramar before driving south to the shallow waters of Plage de la Capte, wrapping up at Plage Peno."
+      }
+    }
+  }
+}

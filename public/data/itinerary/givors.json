@@ -1,0 +1,520 @@
+{
+  "city_id": "givors",
+  "anchor": {
+    "name": "Givors",
+    "coords": [
+      4.7689,
+      45.5906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cité des Étoiles",
+            "hu": "Cité des Étoiles",
+            "ro": "Cité des Étoiles",
+            "en": "Cité des Étoiles"
+          },
+          "coords": [
+            4.7733,
+            45.5815
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten modernistischen Wohnkomplex von Jean Renaudie und halten Sie Ihre Kamera für seine einzigartige geometrische Architektur bereit.",
+            "hu": "Csodálja meg Jean Renaudie lenyűgöző, modernista lakóparkját, és tartsa kéznél a fényképezőgépét a különleges geometriai formák miatt.",
+            "ro": "Admirați acest complex rezidențial modernist impresionant creat de Jean Renaudie și țineți aparatul foto pregătit pentru arhitectura sa geometrică unică.",
+            "en": "Admire this striking modernist housing complex by Jean Renaudie and keep your camera ready for its unique geometric architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Gérald",
+            "hu": "Château de Saint-Gérald",
+            "ro": "Château de Saint-Gérald",
+            "en": "Château de Saint-Gérald"
+          },
+          "coords": [
+            4.77373,
+            45.58069
+          ],
+          "category": "fortress",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen über der Stadt und tragen Sie festes Schuhwerk, um sicher über die alten, unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel a város fölé magasodó középkori romokat, és viseljen kényelmes cipőt az ősi, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele medievale așezate deasupra orașului și purtați încălțăminte robustă pentru a păși în siguranță pe cărările vechi de piatră.",
+            "en": "Explore the medieval ruins perched above the town and wear sturdy shoes to safely navigate the ancient, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            4.775612,
+            45.583154
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre schönen Buntglasfenster zu betrachten, aber bewahren Sie während der Gebetszeiten eine ruhige Haltung.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű ólomüveg ablakokat, de ügyeljen a csendre a helyi imaidők alatt.",
+            "ro": "Pășiți în această biserică istorică pentru a observa vitraliile superbe, dar amintiți-vă să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this historic church to observe its beautiful stained glass, but remember to maintain a quiet demeanor during local prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Fleuve Rhône",
+            "hu": "Maison du Fleuve Rhône",
+            "ro": "Maison du Fleuve Rhône",
+            "en": "Maison du Fleuve Rhône"
+          },
+          "coords": [
+            4.775518,
+            45.584232
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Schifffahrt auf der Rhône und prüfen Sie den Museumsplan auf Führungen, die das Erlebnis bereichern.",
+            "hu": "Ismerje meg a Rhône folyó hajózásának lenyűgöző történetét, és ellenőrizze a múzeum beosztását a tárlatvezetésekhez a teljes élményért.",
+            "ro": "Descoperiți istoria fascinantă a navigației pe râul Ron și verificați programul muzeului pentru tururi ghidate care îmbogățesc experiența.",
+            "en": "Discover the fascinating history of the Rhône river navigation and check the museum schedule for guided tours that enrich the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Normandie",
+            "hu": "Parc de Normandie",
+            "ro": "Parc de Normandie",
+            "en": "Parc de Normandie"
+          },
+          "coords": [
+            4.773734,
+            45.586399
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch diese üppige Grünfläche im Stadtzentrum und bringen Sie ein Picknick mit, um es im Schatten zu genießen.",
+            "hu": "Tegyen egy pihentető sétát ebben a belvárosi zöld oázisban, és hozzon magával egy könnyű pikniket, amit az öreg fák árnyékában költhet el.",
+            "ro": "Faceți o plimbare relaxantă prin acest spațiu verde luxuriant din centrul orașului și aduceți un picnic ușor de savurat la umbra copacilor bătrâni.",
+            "en": "Take a relaxing stroll through this lush green space in the city center and bring a light picnic to enjoy under the shade of mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Givors",
+            "hu": "Canal de Givors",
+            "ro": "Canal de Givors",
+            "en": "Canal de Givors"
+          },
+          "coords": [
+            4.7751,
+            45.5901
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser historischen Wasserstraße aus dem 18. Jahrhundert und achten Sie auf die Informationstafeln.",
+            "hu": "Sétáljon végig a történelmi 18. századi vízi út maradványai mentén, és keresse az ipari jelentőségét bemutató információs táblákat.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor acestei căi navigabile istorice din secolul al XVIII-lea și căutați plăcile informative despre istoria sa.",
+            "en": "Walk along the remnants of this historic 18th-century waterway and look for informational plaques that explain its industrial significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an den geometrischen Winkeln der Cité des Étoiles und reisen Sie bei den Ruinen des Château de Saint-Gérald in die Vergangenheit. Mittags besuchen Sie die ruhige Église Saint-Nicolas, bevor Sie in der Maison du Fleuve in die Flussgeschichte eintauchen. Verbringen Sie den späten Nachmittag im Parc de Normandie und beenden Sie den Tag am historischen Canal de Givors.",
+        "hu": "Kezdje a reggelt a Cité des Étoiles különleges formáinál, majd utazzon vissza az időben a Château de Saint-Gérald romjainál. Délben látogasson el a békés Église Saint-Nicolas templomba, mielőtt a folyó történelmével ismerkedne. Késő délután tegyen egy sétát a Parc de Normandie fáinak árnyékában, végül zárja a napot a Canal de Givors történelmi partjainál.",
+        "ro": "Începeți dimineața admirând unghiurile unice de la Cité des Étoiles, apoi explorați ruinele Château de Saint-Gérald. La prânz, vizitați liniștita biserică Saint-Nicolas înainte de a descoperi istoria fluviului la Maison du Fleuve. Petreceți după-amiaza bucurându-vă de o plimbare pașnică în Parc de Normandie. Încheiați ziua explorând istoricul Canal de Givors.",
+        "en": "Start your morning marveling at the unique geometric angles of the Cité des Étoiles, then step back in time at the Château de Saint-Gérald ruins. Midday brings you to the quiet sanctuary of Église Saint-Nicolas before diving into river history at the Maison du Fleuve. Spend your late afternoon enjoying a peaceful walk in Parc de Normandie. End your day exploring the historic Canal de Givors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Robert Jaffuel",
+            "hu": "Espace Robert Jaffuel",
+            "ro": "Espace Robert Jaffuel",
+            "en": "Espace Robert Jaffuel"
+          },
+          "coords": [
+            4.770921,
+            45.600628
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie diesen modernen Gemeinschafts- und Sportkomplex mit der Familie und bringen Sie Wasserflaschen mit, da die Aktivitäten anstrengend sind.",
+            "hu": "Élvezze ezt a modern közösségi és sportkomplexumot a családjával, és hozzon magával vizet, mivel a tevékenységek energiát igényelnek.",
+            "ro": "Bucurați-vă de acest complex modern sportiv cu familia și aduceți sticle cu apă, deoarece activitățile pot fi destul de energice.",
+            "en": "Enjoy this modern community and sports complex with your family, and bring water bottles as the activities can be quite energetic."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Givors",
+            "hu": "Canal de Givors",
+            "ro": "Canal de Givors",
+            "en": "Canal de Givors"
+          },
+          "coords": [
+            4.7751,
+            45.5901
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser historischen Wasserstraße aus dem 18. Jahrhundert und achten Sie auf die Informationstafeln.",
+            "hu": "Sétáljon végig a történelmi 18. századi vízi út maradványai mentén, és keresse az ipari jelentőségét bemutató információs táblákat.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor acestei căi navigabile istorice din secolul al XVIII-lea și căutați plăcile informative despre istoria sa.",
+            "en": "Walk along the remnants of this historic 18th-century waterway and look for informational plaques that explain its industrial significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Normandie",
+            "hu": "Parc de Normandie",
+            "ro": "Parc de Normandie",
+            "en": "Parc de Normandie"
+          },
+          "coords": [
+            4.773734,
+            45.586399
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang durch diese üppige Grünfläche im Stadtzentrum und bringen Sie ein Picknick mit, um es im Schatten zu genießen.",
+            "hu": "Tegyen egy pihentető sétát ebben a belvárosi zöld oázisban, és hozzon magával egy könnyű pikniket, amit az öreg fák árnyékában költhet el.",
+            "ro": "Faceți o plimbare relaxantă prin acest spațiu verde luxuriant din centrul orașului și aduceți un picnic ușor de savurat la umbra copacilor bătrâni.",
+            "en": "Take a relaxing stroll through this lush green space in the city center and bring a light picnic to enjoy under the shade of mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Fleuve Rhône",
+            "hu": "Maison du Fleuve Rhône",
+            "ro": "Maison du Fleuve Rhône",
+            "en": "Maison du Fleuve Rhône"
+          },
+          "coords": [
+            4.775518,
+            45.584232
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Schifffahrt auf der Rhône und prüfen Sie den Museumsplan auf Führungen, die das Erlebnis bereichern.",
+            "hu": "Ismerje meg a Rhône folyó hajózásának lenyűgöző történetét, és ellenőrizze a múzeum beosztását a tárlatvezetésekhez a teljes élményért.",
+            "ro": "Descoperiți istoria fascinantă a navigației pe râul Ron și verificați programul muzeului pentru tururi ghidate care îmbogățesc experiența.",
+            "en": "Discover the fascinating history of the Rhône river navigation and check the museum schedule for guided tours that enrich the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            4.775612,
+            45.583154
+          ],
+          "category": "religious",
+          "arrive_at": "14:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre schönen Buntglasfenster zu betrachten, aber bewahren Sie während der Gebetszeiten eine ruhige Haltung.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű ólomüveg ablakokat, de ügyeljen a csendre a helyi imaidők alatt.",
+            "ro": "Pășiți în această biserică istorică pentru a observa vitraliile superbe, dar amintiți-vă să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this historic church to observe its beautiful stained glass, but remember to maintain a quiet demeanor during local prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité des Étoiles",
+            "hu": "Cité des Étoiles",
+            "ro": "Cité des Étoiles",
+            "en": "Cité des Étoiles"
+          },
+          "coords": [
+            4.7733,
+            45.5815
+          ],
+          "category": "civic",
+          "arrive_at": "15:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten modernistischen Wohnkomplex von Jean Renaudie und halten Sie Ihre Kamera für seine einzigartige geometrische Architektur bereit.",
+            "hu": "Csodálja meg Jean Renaudie lenyűgöző, modernista lakóparkját, és tartsa kéznél a fényképezőgépét a különleges geometriai formák miatt.",
+            "ro": "Admirați acest complex rezidențial modernist impresionant creat de Jean Renaudie și țineți aparatul foto pregătit pentru arhitectura sa geometrică unică.",
+            "en": "Admire this striking modernist housing complex by Jean Renaudie and keep your camera ready for its unique geometric architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Gérald",
+            "hu": "Château de Saint-Gérald",
+            "ro": "Château de Saint-Gérald",
+            "en": "Château de Saint-Gérald"
+          },
+          "coords": [
+            4.77373,
+            45.58069
+          ],
+          "category": "fortress",
+          "arrive_at": "16:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen über der Stadt und tragen Sie festes Schuhwerk, um sicher über die alten, unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel a város fölé magasodó középkori romokat, és viseljen kényelmes cipőt az ősi, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele medievale așezate deasupra orașului și purtați încălțăminte robustă pentru a păși în siguranță pe cărările vechi de piatră.",
+            "en": "Explore the medieval ruins perched above the town and wear sturdy shoes to safely navigate the ancient, uneven stone pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie einen dynamischen Radtag am Espace Robert Jaffuel, gefolgt von einer Fahrt entlang des Canal de Givors. Ruhen Sie sich mittags im Parc de Normandie aus und entdecken Sie die Maison du Fleuve Rhône. Fahren Sie nachmittags an der Église Saint-Nicolas vorbei zur Cité des Étoiles und beenden Sie den Tag bei den Schlossruinen zum Sonnenuntergang.",
+        "hu": "Indítson egy aktív napot az Espace Robert Jaffuelnél, majd kerékpározzon végig a Canal de Givors történelmi nyomvonalán. Délben pihenjen meg a Parc de Normandie zöldjében, és látogasson el a Maison du Fleuve Rhône-ba. Délután tekerjen el az Église Saint-Nicolas és a Cité des Étoiles mellett, majd zárja a napot a magaslati kastélyromoknál.",
+        "ro": "Începeți o zi dinamică pe bicicletă la Espace Robert Jaffuel, urmată de o plimbare istorică de-a lungul Canal de Givors. Odihniți-vă la prânz în Parc de Normandie și descoperiți Maison du Fleuve Rhône. După-amiaza, pedalați pe lângă Église Saint-Nicolas către Cité des Étoiles, încheind ziua la ruinele castelului pentru un apus superb.",
+        "en": "Kick off a dynamic day cycling starting at Espace Robert Jaffuel, followed by a historical ride tracing the Canal de Givors. Rest midday with a serene break at Parc de Normandie and dive into local heritage at Maison du Fleuve Rhône. As afternoon turns to evening, pedal past Église Saint-Nicolas to the fascinating Cité des Étoiles, concluding at the elevated Château ruins for sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Trampoline Park",
+            "hu": "Trampoline Park",
+            "ro": "Trampoline Park",
+            "en": "Trampoline Park"
+          },
+          "coords": [
+            4.743572,
+            45.581584
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Toben Sie sich an diesem aktiven Unterhaltungsort aus und buchen Sie Ihre Sprungzeiten im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Vezesse le az energiáit ebben a vidám trambulinparkban, és foglalja le az ugrálási időpontot előre az interneten, hogy elkerülje a sorban állást.",
+            "ro": "Consumați-vă energia cu distracție la înălțime în acest loc de divertisment și rezervați-vă sesiunile de sărituri online pentru a evita cozile.",
+            "en": "Let off some steam with high-flying fun at this active entertainment venue, and book your jumping slots online in advance to skip the line."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Gérald",
+            "hu": "Château de Saint-Gérald",
+            "ro": "Château de Saint-Gérald",
+            "en": "Château de Saint-Gérald"
+          },
+          "coords": [
+            4.77373,
+            45.58069
+          ],
+          "category": "fortress",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen über der Stadt und tragen Sie festes Schuhwerk, um sicher über die alten, unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel a város fölé magasodó középkori romokat, és viseljen kényelmes cipőt az ősi, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele medievale așezate deasupra orașului și purtați încălțăminte robustă pentru a păși în siguranță pe cărările vechi de piatră.",
+            "en": "Explore the medieval ruins perched above the town and wear sturdy shoes to safely navigate the ancient, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité des Étoiles",
+            "hu": "Cité des Étoiles",
+            "ro": "Cité des Étoiles",
+            "en": "Cité des Étoiles"
+          },
+          "coords": [
+            4.7733,
+            45.5815
+          ],
+          "category": "civic",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten modernistischen Wohnkomplex von Jean Renaudie und halten Sie Ihre Kamera für seine einzigartige geometrische Architektur bereit.",
+            "hu": "Csodálja meg Jean Renaudie lenyűgöző, modernista lakóparkját, és tartsa kéznél a fényképezőgépét a különleges geometriai formák miatt.",
+            "ro": "Admirați acest complex rezidențial modernist impresionant creat de Jean Renaudie și țineți aparatul foto pregătit pentru arhitectura sa geometrică unică.",
+            "en": "Admire this striking modernist housing complex by Jean Renaudie and keep your camera ready for its unique geometric architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Fleuve Rhône",
+            "hu": "Maison du Fleuve Rhône",
+            "ro": "Maison du Fleuve Rhône",
+            "en": "Maison du Fleuve Rhône"
+          },
+          "coords": [
+            4.775518,
+            45.584232
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Schifffahrt auf der Rhône und prüfen Sie den Museumsplan auf Führungen, die das Erlebnis bereichern.",
+            "hu": "Ismerje meg a Rhône folyó hajózásának lenyűgöző történetét, és ellenőrizze a múzeum beosztását a tárlatvezetésekhez a teljes élményért.",
+            "ro": "Descoperiți istoria fascinantă a navigației pe râul Ron și verificați programul muzeului pentru tururi ghidate care îmbogățesc experiența.",
+            "en": "Discover the fascinating history of the Rhône river navigation and check the museum schedule for guided tours that enrich the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            4.775612,
+            45.583154
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre schönen Buntglasfenster zu betrachten, aber bewahren Sie während der Gebetszeiten eine ruhige Haltung.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a gyönyörű ólomüveg ablakokat, de ügyeljen a csendre a helyi imaidők alatt.",
+            "ro": "Pășiți în această biserică istorică pentru a observa vitraliile superbe, dar amintiți-vă să păstrați liniștea în timpul orelor de rugăciune.",
+            "en": "Step inside this historic church to observe its beautiful stained glass, but remember to maintain a quiet demeanor during local prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de Givors",
+            "hu": "Canal de Givors",
+            "ro": "Canal de Givors",
+            "en": "Canal de Givors"
+          },
+          "coords": [
+            4.7751,
+            45.5901
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Überreste dieser historischen Wasserstraße aus dem 18. Jahrhundert und achten Sie auf die Informationstafeln.",
+            "hu": "Sétáljon végig a történelmi 18. századi vízi út maradványai mentén, és keresse az ipari jelentőségét bemutató információs táblákat.",
+            "ro": "Plimbați-vă de-a lungul rămășițelor acestei căi navigabile istorice din secolul al XVIII-lea și căutați plăcile informative despre istoria sa.",
+            "en": "Walk along the remnants of this historic 18th-century waterway and look for informational plaques that explain its industrial significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Robert Jaffuel",
+            "hu": "Espace Robert Jaffuel",
+            "ro": "Espace Robert Jaffuel",
+            "en": "Espace Robert Jaffuel"
+          },
+          "coords": [
+            4.770921,
+            45.600628
+          ],
+          "category": "family",
+          "arrive_at": "16:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie diesen modernen Gemeinschafts- und Sportkomplex mit der Familie und bringen Sie Wasserflaschen mit, da die Aktivitäten anstrengend sind.",
+            "hu": "Élvezze ezt a modern közösségi és sportkomplexumot a családjával, és hozzon magával vizet, mivel a tevékenységek energiát igényelnek.",
+            "ro": "Bucurați-vă de acest complex modern sportiv cu familia și aduceți sticle cu apă, deoarece activitățile pot fi destul de energice.",
+            "en": "Enjoy this modern community and sports complex with your family, and bring water bottles as the activities can be quite energetic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour im Trampolinpark, bevor Sie ins Zentrum fahren, um das Château de Saint-Gérald zu erkunden. Nutzen Sie die Mittagszeit für die Cité des Étoiles und die Maison du Fleuve Rhône. Besuchen Sie später kurz die Église Saint-Nicolas, fahren Sie dann zum Canal de Givors und beenden Sie den erlebnisreichen Tag am Espace Robert Jaffuel.",
+        "hu": "Indítsa autós túráját a trambulinparkban, majd vezessen a központba a középkori Château de Saint-Gérald felfedezéséhez. Délben csodálja meg a Cité des Étoiles-t és a Maison du Fleuve Rhône-t. Később látogasson el az Église Saint-Nicolas-hoz, majd hajtson el a Canal de Givors-hoz, és fejezze be a napot az Espace Robert Jaffuelnél.",
+        "ro": "Începeți turul auto cu energie la Trampoline Park, apoi conduceți spre centrul orașului pentru a explora Château de Saint-Gérald. La prânz, vedeți moderna Cité des Étoiles și Maison du Fleuve Rhône. Mai târziu, vizitați rapid Église Saint-Nicolas, apoi mergeți la Canal de Givors și încheiați ziua la Espace Robert Jaffuel.",
+        "en": "Launch your car tour with energetic fun at the Trampoline Park before driving centrally to explore the medieval Château de Saint-Gérald. Use the midday to see the modern Cité des Étoiles and learn regional waterway history at Maison du Fleuve Rhône. Later, quickly visit Église Saint-Nicolas, then drive up to the Canal de Givors, finishing the day at Espace Robert Jaffuel."
+      }
+    }
+  }
+}

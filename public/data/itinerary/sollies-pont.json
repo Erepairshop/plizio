@@ -1,0 +1,474 @@
+{
+  "city_id": "sollies-pont",
+  "anchor": {
+    "name": "Solliès-Pont",
+    "coords": [
+      6.0411,
+      43.19
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.040312,
+            43.191037
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
+            "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Forbin Castle",
+            "hu": "Forbin Kastély",
+            "ro": "Castelul Forbin",
+            "en": "Forbin Castle"
+          },
+          "coords": [
+            6.0423,
+            43.192954
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
+            "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
+            "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Saint-Roch Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            6.052297,
+            43.193521
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, intime Kapelle, um der Mittagshitze zu entfliehen, und achten Sie darauf, die von den Einheimischen gewünschte Stille zu respektieren.",
+            "hu": "Lépjen be ebbe a békés, meghitt kápolnába, hogy elmeneküljön a déli hőség elől, ügyelve arra, hogy tiszteletben tartsa a helyi hívek által kért csendet.",
+            "ro": "Pășiți în această capelă pașnică și intimă pentru a scăpa de căldura amiezii, având grijă să respectați liniștea cerută de enoriașii locali.",
+            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du vêtement provençal",
+            "hu": "Musée du vêtement provençal",
+            "ro": "Musée du vêtement provençal",
+            "en": "Musée du vêtement provençal"
+          },
+          "coords": [
+            6.039883,
+            43.181287
+          ],
+          "category": "museum",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Spezialmuseum die lebendige Geschichte traditioneller regionaler Kleidung und bringen Sie Bargeld für lokal gewebte Souvenirs mit.",
+            "hu": "Fedezze fel a hagyományos regionális öltözetek élénk történetét ebben a speciális múzeumban, és hozzon készpénzt, ha helyben szőtt ajándéktárgyat szeretne venni.",
+            "ro": "Descoperiți istoria vibrantă a ținutei regionale tradiționale în acest muzeu specializat și aduceți numerar dacă doriți să cumpărați un suvenir țesut local.",
+            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Forbin (ruines)",
+            "hu": "Forbin Kastély (romok)",
+            "ro": "Château de Forbin (ruine)",
+            "en": "Château de Forbin (ruines)"
+          },
+          "coords": [
+            6.038057,
+            43.183816
+          ],
+          "category": "landmark",
+          "arrive_at": "14:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die bröckelnden Mauern dieser mittelalterlichen Ruinen, aber tragen Sie festes Schuhwerk, da der Weg dorthin recht steinig sein kann.",
+            "hu": "Fényképezze le ezen a város szélén található középkori romok beszédes, omladozó falait, de viseljen masszív cipőt, mivel a felfelé vezető út meglehetősen sziklás.",
+            "ro": "Fotografiați zidurile evocatoare ale acestor ruine medievale de la marginea orașului, dar purtați încălțăminte rezistentă deoarece poteca este destul de stâncoasă.",
+            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
+        "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
+        "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Christine Chapel",
+            "hu": "Szent Krisztina Kápolna",
+            "ro": "Capela Saint Christine",
+            "en": "Saint Christine Chapel"
+          },
+          "coords": [
+            6.043608,
+            43.217058
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser ruhigen Kapelle mit weitem Blick über das Tal und kommen Sie früh, um das sanfte Morgenlicht auf der Steinfassade zu erleben.",
+            "hu": "Kezdje túráját ennél a nyugodt, magasan fekvő kápolnánál, amely pazar kilátást nyújt a völgyre, és érkezzen korán, hogy elcsípje a kőhomlokzatot megvilágító reggeli fényt.",
+            "ro": "Începeți turul la această capelă liniștită, înaltă, care oferă vederi ample asupra văii, ajungând devreme pentru a prinde lumina blândă a dimineții pe fațadă.",
+            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Forbin Castle",
+            "hu": "Forbin Kastély",
+            "ro": "Castelul Forbin",
+            "en": "Forbin Castle"
+          },
+          "coords": [
+            6.0423,
+            43.192954
+          ],
+          "category": "historical",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
+            "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
+            "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.040312,
+            43.191037
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
+            "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Jean Aicard",
+            "hu": "Musée Jean Aicard",
+            "ro": "Muzeul Jean Aicard",
+            "en": "Musée Jean Aicard"
+          },
+          "coords": [
+            6.039024,
+            43.183212
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie im ehemaligen Wohnhaus des Autors in das literarische Erbe der Provence ein und nutzen Sie den kostenlosen Audioguide für das erhaltene Arbeitszimmer.",
+            "hu": "Merüljön el Provence irodalmi örökségében az író egykori otthonában, és kérje az ingyenes audioguide-ot, hogy teljes mértékben értékelni tudja a megőrzött dolgozószobát.",
+            "ro": "Cufundați-vă în moștenirea literară a regiunii Provence la fosta casă a autorului și luați ghidul audio gratuit pentru a aprecia pe deplin biroul conservat.",
+            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Forbin (ruines)",
+            "hu": "Forbin Kastély (romok)",
+            "ro": "Château de Forbin (ruine)",
+            "en": "Château de Forbin (ruines)"
+          },
+          "coords": [
+            6.038057,
+            43.183816
+          ],
+          "category": "landmark",
+          "arrive_at": "13:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die bröckelnden Mauern dieser mittelalterlichen Ruinen, aber tragen Sie festes Schuhwerk, da der Weg dorthin recht steinig sein kann.",
+            "hu": "Fényképezze le ezen a város szélén található középkori romok beszédes, omladozó falait, de viseljen masszív cipőt, mivel a felfelé vezető út meglehetősen sziklás.",
+            "ro": "Fotografiați zidurile evocatoare ale acestor ruine medievale de la marginea orașului, dar purtați încălțăminte rezistentă deoarece poteca este destul de stâncoasă.",
+            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Bau Rouge",
+            "hu": "Bau Rouge",
+            "ro": "Bau Rouge",
+            "en": "Bau Rouge"
+          },
+          "coords": [
+            6.012021,
+            43.179505
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang am späten Nachmittag durch dieses auffällige Naturgebiet aus rotem Gestein und nehmen Sie zusätzliches Wasser sowie einen Hut mit.",
+            "hu": "Élvezze a késő délutáni sétát ezen a lenyűgöző, vörös sziklás természeti területen, és vigyen magával extra vizet, mivel az árnyék meglepően ritka lehet.",
+            "ro": "Bucurați-vă de o plimbare după-amiaza târziu prin această zonă naturală uimitoare cu roci roșii, purtând apă suplimentară deoarece umbra poate fi surprinzător de rară.",
+            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
+        "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
+        "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Christine Chapel",
+            "hu": "Szent Krisztina Kápolna",
+            "ro": "Capela Saint Christine",
+            "en": "Saint Christine Chapel"
+          },
+          "coords": [
+            6.043608,
+            43.217058
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser ruhigen Kapelle mit weitem Blick über das Tal und kommen Sie früh, um das sanfte Morgenlicht auf der Steinfassade zu erleben.",
+            "hu": "Kezdje túráját ennél a nyugodt, magasan fekvő kápolnánál, amely pazar kilátást nyújt a völgyre, és érkezzen korán, hogy elcsípje a kőhomlokzatot megvilágító reggeli fényt.",
+            "ro": "Începeți turul la această capelă liniștită, înaltă, care oferă vederi ample asupra văii, ajungând devreme pentru a prinde lumina blândă a dimineții pe fațadă.",
+            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Saint-Roch Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            6.052297,
+            43.193521
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche, intime Kapelle, um der Mittagshitze zu entfliehen, und achten Sie darauf, die von den Einheimischen gewünschte Stille zu respektieren.",
+            "hu": "Lépjen be ebbe a békés, meghitt kápolnába, hogy elmeneküljön a déli hőség elől, ügyelve arra, hogy tiszteletben tartsa a helyi hívek által kért csendet.",
+            "ro": "Pășiți în această capelă pașnică și intimă pentru a scăpa de căldura amiezii, având grijă să respectați liniștea cerută de enoriașii locali.",
+            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners."
+          }
+        },
+        {
+          "name": {
+            "de": "Forbin Castle",
+            "hu": "Forbin Kastély",
+            "ro": "Castelul Forbin",
+            "en": "Forbin Castle"
+          },
+          "coords": [
+            6.0423,
+            43.192954
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
+            "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
+            "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.040312,
+            43.191037
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
+            "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du vêtement provençal",
+            "hu": "Musée du vêtement provençal",
+            "ro": "Musée du vêtement provençal",
+            "en": "Musée du vêtement provençal"
+          },
+          "coords": [
+            6.039883,
+            43.181287
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Spezialmuseum die lebendige Geschichte traditioneller regionaler Kleidung und bringen Sie Bargeld für lokal gewebte Souvenirs mit.",
+            "hu": "Fedezze fel a hagyományos regionális öltözetek élénk történetét ebben a speciális múzeumban, és hozzon készpénzt, ha helyben szőtt ajándéktárgyat szeretne venni.",
+            "ro": "Descoperiți istoria vibrantă a ținutei regionale tradiționale în acest muzeu specializat și aduceți numerar dacă doriți să cumpărați un suvenir țesut local.",
+            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Jean Aicard",
+            "hu": "Musée Jean Aicard",
+            "ro": "Muzeul Jean Aicard",
+            "en": "Musée Jean Aicard"
+          },
+          "coords": [
+            6.039024,
+            43.183212
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie im ehemaligen Wohnhaus des Autors in das literarische Erbe der Provence ein und nutzen Sie den kostenlosen Audioguide für das erhaltene Arbeitszimmer.",
+            "hu": "Merüljön el Provence irodalmi örökségében az író egykori otthonában, és kérje az ingyenes audioguide-ot, hogy teljes mértékben értékelni tudja a megőrzött dolgozószobát.",
+            "ro": "Cufundați-vă în moștenirea literară a regiunii Provence la fosta casă a autorului și luați ghidul audio gratuit pentru a aprecia pe deplin biroul conservat.",
+            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study."
+          }
+        },
+        {
+          "name": {
+            "de": "Bau Rouge",
+            "hu": "Bau Rouge",
+            "ro": "Bau Rouge",
+            "en": "Bau Rouge"
+          },
+          "coords": [
+            6.012021,
+            43.179505
+          ],
+          "category": "natural",
+          "arrive_at": "16:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang am späten Nachmittag durch dieses auffällige Naturgebiet aus rotem Gestein und nehmen Sie zusätzliches Wasser sowie einen Hut mit.",
+            "hu": "Élvezze a késő délutáni sétát ezen a lenyűgöző, vörös sziklás természeti területen, és vigyen magával extra vizet, mivel az árnyék meglepően ritka lehet.",
+            "ro": "Bucurați-vă de o plimbare după-amiaza târziu prin această zonă naturală uimitoare cu roci roșii, purtând apă suplimentară deoarece umbra poate fi surprinzător de rară.",
+            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
+        "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
+        "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+      }
+    }
+  }
+}

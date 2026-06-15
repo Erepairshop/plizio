@@ -1,0 +1,428 @@
+{
+  "city_id": "finland-ylojarvi-cities-v2",
+  "anchor": {
+    "name": "Ylöjärvi",
+    "coords": [
+      23.5833,
+      61.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 2.87,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ylöjärven pienoisgolf",
+            "hu": "Ylöjärven pienoisgolf",
+            "ro": "Ylöjärven pienoisgolf",
+            "en": "Ylöjärven pienoisgolf"
+          },
+          "coords": [
+            23.592039,
+            61.551982
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Runde Minigolf auf dieser gepflegten Anlage, die sich perfekt für Familien eignet, aber denken Sie daran, Bargeld für die Ausrüstungsmiete mitzubringen.",
+            "hu": "Élvezze a minigolfot ezen a jól karbantartott pályán, amely tökéletes a családi szórakozáshoz, de ne felejtsen el készpénzt hozni az ütők bérléséhez.",
+            "ro": "Bucurați-vă de o rundă de minigolf în acest loc bine întreținut, perfect pentru distracția în familie, dar amintiți-vă să aduceți numerar pentru închirierea echipamentului.",
+            "en": "Enjoy a competitive round of miniature golf in this well-maintained local spot, perfect for family fun, but remember to bring cash for the equipment rental."
+          }
+        },
+        {
+          "name": {
+            "de": "Aronranta",
+            "hu": "Aronranta",
+            "ro": "Aronranta",
+            "en": "Aronranta"
+          },
+          "coords": [
+            23.600791,
+            61.552322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder entspannen Sie am Sandstrand von Aronranta, einem beliebten Ort, wo Sie am besten früh ankommen, um sich die sonnigsten Plätze zu sichern.",
+            "hu": "Vegyen egy frissítő fürdőt, vagy csak pihenjen Aronranta homokos partján, egy népszerű strandon, ahová érdemes korán érkezni a legjobb napos helyekért.",
+            "ro": "Faceți o baie răcoritoare sau relaxați-vă pe malurile nisipoase de la Aronranta, o plajă populară unde sosirea devreme vă asigură cele mai bune locuri însorite.",
+            "en": "Take a refreshing dip or simply relax on the sandy shores of Aronranta, a popular local beach where arriving early secures the best sunny spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Räikänranta",
+            "hu": "Räikänranta",
+            "ro": "Räikänranta",
+            "en": "Räikänranta"
+          },
+          "coords": [
+            23.601128,
+            61.557988
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Parkanlagen und den Strand von Räikänranta, eine ideale Kulisse für ein gemütliches Picknick, also packen Sie unbedingt ein paar lokale Snacks ein.",
+            "hu": "Fedezze fel Räikänranta festői parkjait és vízpartját, amely ideális helyszín egy kellemes piknikhez, ezért ne felejtsen el helyi finomságokat csomagolni.",
+            "ro": "Explorați parcurile pitorești și plaja din Räikänranta, un cadru ideal pentru un picnic liniștit, așa că asigurați-vă că împachetați gustările locale preferate.",
+            "en": "Explore the scenic parklands and beachfront of Räikänranta, an ideal setting for a leisurely picnic, so be sure to pack your favorite local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotikon leikkipuisto",
+            "hu": "Rotikon leikkipuisto",
+            "ro": "Rotikon leikkipuisto",
+            "en": "Rotikon leikkipuisto"
+          },
+          "coords": [
+            23.594506,
+            61.558588
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem modernen Spielplatz Rotikon leikkipuisto ihre Energie abbauen, während Sie sich auf den nahegelegenen schattigen Bänken ausruhen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat a Rotikon leikkipuisto modern játékokkal felszerelt játszóterén, miközben ön az árnyékos padokon pihen.",
+            "ro": "Lăsați copiii să-și consume energia la Rotikon leikkipuisto, un loc de joacă modern, în timp ce vă odihniți pe băncile umbrite din apropiere.",
+            "en": "Let the children burn off energy at Rotikon leikkipuisto, a vibrant playground equipped with modern structures, while you rest on the nearby shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Koivumäentien leikkikenttä",
+            "hu": "Koivumäentien leikkikenttä",
+            "ro": "Koivumäentien leikkikenttä",
+            "en": "Koivumäentien leikkikenttä"
+          },
+          "coords": [
+            23.577486,
+            61.568807
+          ],
+          "category": "family",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen friedlichen, von Bäumen umgebenen Spielplatz, der jungen Familien einen ruhigen Rückzugsort bietet, und nehmen Sie eine leichte Jacke mit, da es im Schatten kühl sein kann.",
+            "hu": "Fedezze fel ezt a fák között megbúvó békés játszóteret, amely csendes kikapcsolódást kínál a kisgyerekes családoknak, és hozzon egy vékony kabátot a hűvös árnyék miatt.",
+            "ro": "Descoperiți acest loc de joacă liniștit ascuns printre copaci, oferind o retragere tăcută pentru familiile tinere, și luați o jachetă subțire deoarece la umbră poate fi răcoare.",
+            "en": "Discover this peaceful neighborhood playground nestled among the trees, offering a quiet retreat for young families, and pack a light jacket as the shade can be cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer freundschaftlichen Runde Minigolf direkt im Herzen von Ylöjärvi. Mittags erreichen Sie die erfrischenden Ufer von Aronranta und die malerischen Parkanlagen von Räikänranta. Lassen Sie die Kinder am Nachmittag im Rotikon leikkipuisto spielen. Beenden Sie den Tag mit einem Spaziergang zum ruhigen Koivumäentien leikkikenttä.",
+        "hu": "Kezdje a reggelt egy barátságos minigolf mérkőzéssel Ylöjärvi szívében. A délidő Aronranta frissítő partjaihoz és Räikänranta festői parkjaihoz vezeti. Délután hagyja, hogy a gyerekek játsszanak a Rotikon leikkipuisto játszótéren. Zárja a napot egy békés sétával a csendes Koivumäentien leikkikenttä felé.",
+        "ro": "Începeți dimineața cu o rundă prietenoasă de minigolf chiar în inima orașului Ylöjärvi. Miezul zilei vă aduce pe țărmurile răcoritoare de la Aronranta și în parcurile din Räikänranta. După-amiaza, lăsați copiii să se joace la Rotikon leikkipuisto. Încheiați ziua cu o plimbare pașnică spre liniștitul Koivumäentien leikkikenttä.",
+        "en": "Start your morning with a friendly round of miniature golf right in the heart of Ylöjärvi. Midday brings you to the refreshing shores of Aronranta and the scenic parklands of Räikänranta. In the afternoon, let the kids play at Rotikon leikkipuisto as you relax. Conclude the day with a peaceful stroll to the quiet Koivumäentien leikkikenttä."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ylöjärven pienoisgolf",
+            "hu": "Ylöjärven pienoisgolf",
+            "ro": "Ylöjärven pienoisgolf",
+            "en": "Ylöjärven pienoisgolf"
+          },
+          "coords": [
+            23.592039,
+            61.551982
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Runde Minigolf auf dieser gepflegten Anlage, die sich perfekt für Familien eignet, aber denken Sie daran, Bargeld für die Ausrüstungsmiete mitzubringen.",
+            "hu": "Élvezze a minigolfot ezen a jól karbantartott pályán, amely tökéletes a családi szórakozáshoz, de ne felejtsen el készpénzt hozni az ütők bérléséhez.",
+            "ro": "Bucurați-vă de o rundă de minigolf în acest loc bine întreținut, perfect pentru distracția în familie, dar amintiți-vă să aduceți numerar pentru închirierea echipamentului.",
+            "en": "Enjoy a competitive round of miniature golf in this well-maintained local spot, perfect for family fun, but remember to bring cash for the equipment rental."
+          }
+        },
+        {
+          "name": {
+            "de": "Aronranta",
+            "hu": "Aronranta",
+            "ro": "Aronranta",
+            "en": "Aronranta"
+          },
+          "coords": [
+            23.600791,
+            61.552322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder entspannen Sie am Sandstrand von Aronranta, einem beliebten Ort, wo Sie am besten früh ankommen, um sich die sonnigsten Plätze zu sichern.",
+            "hu": "Vegyen egy frissítő fürdőt, vagy csak pihenjen Aronranta homokos partján, egy népszerű strandon, ahová érdemes korán érkezni a legjobb napos helyekért.",
+            "ro": "Faceți o baie răcoritoare sau relaxați-vă pe malurile nisipoase de la Aronranta, o plajă populară unde sosirea devreme vă asigură cele mai bune locuri însorite.",
+            "en": "Take a refreshing dip or simply relax on the sandy shores of Aronranta, a popular local beach where arriving early secures the best sunny spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Pohjajärvi",
+            "hu": "Pohjajärvi",
+            "ro": "Pohjajärvi",
+            "en": "Pohjajärvi"
+          },
+          "coords": [
+            23.589416,
+            61.534565
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ruhige Wasser und die unberührte Natur des Pohjajärvi, ein perfekter Ort zur Vogelbeobachtung, bringen Sie also ein Fernglas für das beste Erlebnis mit.",
+            "hu": "Csodálja meg a Pohjajärvi nyugodt vizét és érintetlen természetét, amely tökéletes hely a madármegfigyeléshez, ezért hozzon magával távcsövet a legjobb élmény érdekében.",
+            "ro": "Admirați apele liniștite și natura neatinsă a Pohjajärvi, un loc perfect pentru observarea păsărilor, așa că aduceți un binoclu pentru cea mai bună experiență.",
+            "en": "Admire the tranquil waters and pristine nature of Pohjajärvi, a perfect spot for birdwatching, so bring a pair of binoculars for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ryydynpohjan uimaranta",
+            "hu": "Ryydynpohjan uimaranta",
+            "ro": "Ryydynpohjan uimaranta",
+            "en": "Ryydynpohjan uimaranta"
+          },
+          "coords": [
+            23.659827,
+            61.53075
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.75,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im klaren Wasser des Ryydynpohjan uimaranta, der für seine hervorragende Wasserqualität bekannt ist, und tragen Sie Badeschuhe, wenn Sie die felsigen Ufer erkunden möchten.",
+            "hu": "Ússzon a Ryydynpohjan uimaranta tiszta vizében, amely kiváló vízminőségéről ismert, és viseljen vizicipőt, ha a sziklás partokat is felfedezné.",
+            "ro": "Înotați în apele limpezi ale Ryydynpohjan uimaranta, renumit pentru calitatea excelentă a apei, și purtați încălțăminte de apă dacă explorați marginile stâncoase.",
+            "en": "Swim in the clear waters of Ryydynpohjan uimaranta, known for its excellent water quality, and wear water shoes if you plan to explore the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Tohloppi",
+            "hu": "Tohloppi",
+            "ro": "Tohloppi",
+            "en": "Tohloppi"
+          },
+          "coords": [
+            23.650293,
+            61.510863
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den wunderschönen Waldwegen rund um den Tohloppi-See, fangen Sie atemberaubende Spiegelungen auf dem Wasser ein und tragen Sie festes Schuhwerk für die unbefestigten Pfade.",
+            "hu": "Sétáljon a Tohloppi tavat körülvevő gyönyörű erdei ösvényeken, csodálja meg a víz tükröződéseit, és viseljen túracipőt a burkolatlan utakon.",
+            "ro": "Plimbați-vă pe traseele împădurite frumoase din jurul lacului Tohloppi, surprinzând reflexii uimitoare pe apă, și purtați pantofi de drumeție solizi pentru potecile neasfaltate.",
+            "en": "Walk along the beautiful forested trails surrounding Tohloppi lake, capturing stunning reflections on the water, and wear sturdy walking shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tesomajärvi",
+            "hu": "Tesomajärvi",
+            "ro": "Tesomajärvi",
+            "en": "Tesomajärvi"
+          },
+          "coords": [
+            23.613017,
+            61.508266
+          ],
+          "category": "natural",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.99,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den friedlichen Ufern des Tesomajärvi, einem schönen städtischen See, der eine ruhige Flucht bietet, und halten Sie Ausschau nach den kleinen Stegen für Sonnenuntergangsfotos.",
+            "hu": "Kapcsolódjon ki a Tesomajärvi békés partjainál, egy kedves városi tónál, amely nyugodt menedéket nyújt, és keresse meg a naplemente fotózásához tökéletes kis mólókat.",
+            "ro": "Relaxați-vă pe țărmurile pașnice ale Tesomajärvi, un frumos lac urban care oferă o evadare senină, și căutați micile pontoane perfecte pentru fotografii la apus.",
+            "en": "Unwind by the peaceful shores of Tesomajärvi, a lovely urban lake that provides a serene escape, and look out for the small, charming docks perfect for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit unbeschwertem Spaß auf dem örtlichen Minigolfplatz. Gegen Mittag radeln Sie am Strand von Aronranta vorbei und genießen das ruhige Wasser des Pohjajärvi. Die Nachmittagsfahrt führt Sie zu den klaren Badestellen von Ryydynpohjan uimaranta und den Waldwegen von Tohloppi. Beenden Sie Ihren Abend am Tesomajärvi.",
+        "hu": "Kezdje kerékpártúráját egy kis könnyed szórakozással a helyi minigolfpályán. Délre már Aronranta strandja mellett teker el, és megcsodálja a Pohjajärvi nyugodt vizét. A délutáni út Ryydynpohjan uimaranta fürdőhelyeihez és Tohloppi erdei ösvényeihez vezet. Fejezze be az estét a Tesomajärvi naplementéjének megcsodálásával.",
+        "ro": "Începeți turul cu bicicleta cu puțină distracție la terenul local de minigolf. Până la prânz, veți pedala pe lângă plaja Aronranta și apele liniștite din Pohjajärvi. Călătoria de după-amiază vă duce la locurile de înot clare de la Ryydynpohjan uimaranta și Tohloppi. Terminați seara admirând apusul de soare la Tesomajärvi.",
+        "en": "Kick off your cycling tour with some lighthearted fun at the local miniature golf course. By midday, you'll be riding past Aronranta's beach and taking in the serene waters of Pohjajärvi. The afternoon ride leads you to the clear swimming spots of Ryydynpohjan uimaranta and the forested trails of Tohloppi. Finish your evening admiring the sunset at Tesomajärvi."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 51.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Näsijärvi",
+            "hu": "Näsijärvi",
+            "ro": "Näsijärvi",
+            "en": "Näsijärvi"
+          },
+          "coords": [
+            23.798195,
+            61.698583
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite, atemberaubende Fläche des Näsijärvi, Finnlands berühmtem See mit endlosen Boots- und Naturaussichten, wo eine Windjacke sehr zu empfehlen ist.",
+            "hu": "Tapasztalja meg a Näsijärvi, Finnország ikonikus tavának hatalmas, lélegzetelállító kiterjedését, amely végtelen csónakázási lehetőségeket kínál, ezért széldzseki viselése erősen ajánlott.",
+            "ro": "Experimentați întinderea vastă a Näsijärvi, lacul iconic al Finlandei oferind peisaje naturale nesfârșite, unde se recomandă insistent să purtați o geacă de vânt.",
+            "en": "Experience the vast, breathtaking expanse of Näsijärvi, Finland's iconic lake offering endless boating and nature views, where packing a windbreaker is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Räikänranta",
+            "hu": "Räikänranta",
+            "ro": "Räikänranta",
+            "en": "Räikänranta"
+          },
+          "coords": [
+            23.601128,
+            61.557988
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Parkanlagen und den Strand von Räikänranta, eine ideale Kulisse für ein gemütliches Picknick, also packen Sie unbedingt ein paar lokale Snacks ein.",
+            "hu": "Fedezze fel Räikänranta festői parkjait és vízpartját, amely ideális helyszín egy kellemes piknikhez, ezért ne felejtsen el helyi finomságokat csomagolni.",
+            "ro": "Explorați parcurile pitorești și plaja din Räikänranta, un cadru ideal pentru un picnic liniștit, așa că asigurați-vă că împachetați gustările locale preferate.",
+            "en": "Explore the scenic parklands and beachfront of Räikänranta, an ideal setting for a leisurely picnic, so be sure to pack your favorite local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kyynijärvi",
+            "hu": "Kyynijärvi",
+            "ro": "Kyynijärvi",
+            "en": "Kyynijärvi"
+          },
+          "coords": [
+            23.515405,
+            61.503166
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.58,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in die abgeschiedene Schönheit des Kyynijärvi, einem kleinen Waldsee, der für seine absolute Stille bekannt ist, weshalb Sie leise treten sollten, um wilde Tiere zu entdecken.",
+            "hu": "Meneküljön a Kyynijärvi eldugott szépségébe, egy kis erdei tóhoz, amely abszolút csendjéről híres, így csendben lépkedve akár helyi vadon élő állatokat is megfigyelhet.",
+            "ro": "Evadați în frumusețea izolată a Kyynijärvi, un mic lac de pădure renumit pentru liniștea sa absolută, făcând esențial să pășiți ușor pentru a observa fauna locală.",
+            "en": "Escape to the secluded beauty of Kyynijärvi, a small forest lake renowned for its absolute silence, making it essential to tread lightly to spot local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyhäjärvi",
+            "hu": "Pyhäjärvi",
+            "ro": "Pyhäjärvi",
+            "en": "Pyhäjärvi"
+          },
+          "coords": [
+            23.549193,
+            61.394898
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 12.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Panoramen des Pyhäjärvi, einer historisch bedeutsamen Wasserstraße, und halten Sie an den Ufercafés an, um sich mit einem lokalen Kaffee aufzuwärmen.",
+            "hu": "Csodálja meg a Pyhäjärvi, a régiót szegélyező történelmi jelentőségű vízi út lenyűgöző panorámáját, és térjen be a parti kávézók egyikébe egy melegítő helyi kávéra.",
+            "ro": "Admirați panoramele vaste ale Pyhäjärvi, o cale navigabilă semnificativă istoric care mărginește regiunea, și opriți-vă la cafenelele de pe mal pentru o cafea locală.",
+            "en": "Marvel at the sweeping panoramas of Pyhäjärvi, a historically significant waterway bordering the region, and stop by the shoreline cafes to warm up with a local coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Tesomajärvi-Ikuri",
+            "hu": "Tesomajärvi-Ikuri",
+            "ro": "Tesomajärvi-Ikuri",
+            "en": "Tesomajärvi-Ikuri"
+          },
+          "coords": [
+            23.610893,
+            61.508624
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 13.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung im Erholungsgebiet Tesomajärvi-Ikuri, das kommunale Sportplätze mit Naturpfaden verbindet und sich perfekt für einen Abendspaziergang vor dem Abendessen eignet.",
+            "hu": "Zárja a felfedezést a Tesomajärvi-Ikuri rekreációs területen, amely a közösségi sportpályákat természetjáró ösvényekkel ötvözi, így tökéletes egy vacsora előtti esti sétához.",
+            "ro": "Încheiați-vă explorarea la zona de recreere Tesomajärvi-Ikuri, care îmbină terenurile de sport comunitare cu traseele naturale, perfectă pentru o plimbare de seară înainte de cină.",
+            "en": "Conclude your exploration at the Tesomajärvi-Ikuri recreation area, blending community sports fields with nature trails, perfect for an evening stroll before dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine malerische Fahrt, die morgens mit der atemberaubenden Aussicht auf den Näsijärvi beginnt. Mittags kehren Sie in Richtung Zentrum zurück, um in den wunderschönen Parkanlagen von Räikänranta zu entspannen. Entdecken Sie nachmittags den Waldsee Kyynijärvi und die Panoramen des Pyhäjärvi. Beenden Sie Ihre Reise im Erholungsgebiet Tesomajärvi-Ikuri.",
+        "hu": "Induljon egy festői autózásra, amely reggel a Näsijärvi lélegzetelállító kilátásával kezdődik. Délben térjen vissza a központ felé, hogy megpihenjen Räikänranta gyönyörű parkjaiban. Délután fedezze fel a mélyen eldugott Kyynijärvi erdei tavat és a Pyhäjärvi lenyűgöző panorámáit. Zárja az utazást a Tesomajärvi-Ikuri rekreációs területein.",
+        "ro": "Porniți într-o plimbare pitorească începând cu vederile vaste ale lacului Näsijärvi dimineața. Miezul zilei vă aduce înapoi spre centru pentru a vă relaxa în parcurile frumoase din Räikänranta. După-amiaza, descoperiți lacul de pădure Kyynijärvi și panoramele largi ale Pyhäjärvi. Încheiați călătoria explorând zonele de recreere diverse din Tesomajärvi-Ikuri.",
+        "en": "Embark on a scenic drive starting with the vast, breathtaking views of Näsijärvi in the morning. Midday brings you back towards the center to relax at the beautiful parklands of Räikänranta. In the afternoon, discover the deeply secluded forest lake of Kyynijärvi and the sweeping panoramas of Pyhäjärvi. End your journey exploring the diverse recreation areas of Tesomajärvi-Ikuri."
+      }
+    }
+  }
+}

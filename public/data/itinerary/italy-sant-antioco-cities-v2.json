@@ -1,0 +1,589 @@
+{
+  "city_id": "italy-sant-antioco-cities-v2",
+  "anchor": {
+    "name": "Sant'Antioco",
+    "coords": [
+      8.4563,
+      39.06483
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:53",
+      "total_km": 2.15,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe",
+            "hu": "Nuraghe",
+            "ro": "Nuraghe",
+            "en": "Nuraghe"
+          },
+          "coords": [
+            8.451888,
+            39.075615
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Megalithanlage, um die frühen Zivilisationen Sardiniens zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az ősi megalitikus építményt Szardínia korai civilizációjának megismeréséhez; viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați această structură megalitică antică pentru a înțelege civilizația timpurie a Sardiniei; purtați încălțăminte robustă pentru cărările pietruite inegale.",
+            "en": "Explore this ancient megalithic structure to understand Sardinia's early civilizations; wear sturdy shoes to safely navigate its uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulki",
+            "hu": "Sulki",
+            "ro": "Sulki",
+            "en": "Sulki"
+          },
+          "coords": [
+            8.451467,
+            39.07159
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste der antiken phönizisch-punischen Siedlung Sulki und vergessen Sie nicht Ihre Kamera für die Ausgrabungen.",
+            "hu": "Ismerje meg Sulki ősi föníciai-pun településének lenyűgöző maradványait, és ne felejtse el a fényképezőgépét a megkapó ásatások megörökítéséhez.",
+            "ro": "Descoperiți rămășițele fascinante ale așezării feniciano-punice antice Sulki și nu uitați aparatul foto pentru a surprinde excavațiile impresionante.",
+            "en": "Discover the fascinating remnants of the ancient Phoenician-Punic settlement of Sulki, and don't forget your camera to capture the impressive excavations."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Su Magasinu De Su Binu",
+            "hu": "Museo Etnografico Su Magasinu De Su Binu",
+            "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+            "en": "Museo Etnografico Su Magasinu De Su Binu"
+          },
+          "coords": [
+            8.449749,
+            39.070957
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem authentischen ethnografischen Museum in die lokale Agrar- und Weinbaugeschichte ein; planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Mélyedjen el a helyi mezőgazdaság és borkészítés történetében ebben az autentikus néprajzi múzeumban; szánjon legalább egy órát az informatív kiállításokra.",
+            "ro": "Aprofundați istoria agricolă locală și tradițiile de vinificație în acest muzeu etnografic autentic; alocați cel puțin o oră pentru exponatele detaliate.",
+            "en": "Delve into local agricultural history and winemaking traditions in this authentic ethnographic museum; allocate at least an hour to read the informative exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Su Pisu",
+            "hu": "Forte Su Pisu",
+            "ro": "Forte Su Pisu",
+            "en": "Forte Su Pisu"
+          },
+          "coords": [
+            8.450784,
+            39.07068
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wälle dieser savoyardischen Festung aus dem 19. Jahrhundert für einen Panoramablick über Stadt und Meer, besonders schön im Nachmittagslicht.",
+            "hu": "Másszon fel a 19. századi savoyai erőd bástyáira, ahonnan panorámás kilátás nyílik a városra és a tengerre, különösen a délutáni fényekben lenyűgöző.",
+            "ro": "Urcați pe meterezele acestui fort savoiard din secolul al XIX-lea pentru vederi panoramice asupra orașului, experiență perfectă în lumina blândă a după-amiezii.",
+            "en": "Climb the ramparts of this 19th-century Savoyard fort to enjoy panoramic views over the town and sea, best experienced when the afternoon light softens."
+          }
+        },
+        {
+          "name": {
+            "de": "Catacombe di Sant'Antioco",
+            "hu": "Sant'Antioco katakombái",
+            "ro": "Catacombele din Sant'Antioco",
+            "en": "Catacombe di Sant'Antioco"
+          },
+          "coords": [
+            8.451072,
+            39.06946
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie diese frühchristlichen Katakomben, um umfunktionierte punische Gräber zu sehen; bringen Sie eine Jacke mit, da es unterirdisch kühl ist.",
+            "hu": "Sétáljon végig az ókeresztény katakombákon, hogy megnézze az istentiszteletre átalakított pun sírokat; hozzon egy könnyű kabátot, mert lent meglehetősen hűvös van.",
+            "ro": "Plimbați-vă prin aceste catacombe paleocreștine pentru a vedea morminte punice reutilizate; luați o jachetă ușoară deoarece pasajele subterane sunt destul de răcoroase.",
+            "en": "Wander through these early Christian catacombs to witness ancient Punic tombs repurposed for worship; bring a light jacket as underground passages can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Romana",
+            "hu": "Fontana Romana",
+            "ro": "Fontana Romana",
+            "en": "Fontana Romana"
+          },
+          "coords": [
+            8.455696,
+            39.065816
+          ],
+          "category": "historical",
+          "arrive_at": "16:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen gut erhaltenen römischen Brunnen, der die Stadt einst mit Wasser versorgte; kommen Sie früh, um die Architektur ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a jó állapotban fennmaradt római kutat, amely egykor a várost látta el friss vízzel; érdemes korán érkezni, hogy tömeg nélkül élvezhesse a látványt.",
+            "ro": "Admirați această fântână romană bine conservată care aproviziona orașul cu apă dulce; vizitați-o devreme pentru a-i aprecia arhitectura fără aglomerație.",
+            "en": "Admire this well-preserved Roman fountain that historically supplied the city with fresh water; visit early to appreciate its architecture without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Goretti",
+            "hu": "Santa Maria Goretti",
+            "ro": "Santa Maria Goretti",
+            "en": "Santa Maria Goretti"
+          },
+          "coords": [
+            8.455805,
+            39.063906
+          ],
+          "category": "religious",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche moderne Kirche, die Santa Maria Goretti gewidmet ist, für einen Moment der Besinnung und beachten Sie die elegante Architektur.",
+            "hu": "Látogasson el a Santa Maria Gorettinek szentelt békés modern templomba egy kis csendes elmélkedésre, és figyelje meg az építészeti vonalak elegáns egyszerűségét.",
+            "ro": "Vizitați această biserică modernă și liniștită dedicată Sfintei Maria Goretti pentru un moment de reflecție; remarcați simplitatea elegantă a liniilor sale arhitecturale.",
+            "en": "Visit this peaceful modern church dedicated to Santa Maria Goretti for a moment of quiet reflection, and note the elegant simplicity of its architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora di Bonaria",
+            "hu": "Nostra Signora di Bonaria",
+            "ro": "Nostra Signora di Bonaria",
+            "en": "Nostra Signora di Bonaria"
+          },
+          "coords": [
+            8.458758,
+            39.060111
+          ],
+          "category": "religious",
+          "arrive_at": "18:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses reizvolle Heiligtum, um die lokale Spiritualität hautnah zu erleben; respektieren Sie die Gottesdienste, indem Sie Ihr Handy stumm schalten.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy első kézből tapasztalja meg a helyi hitéletet; tartsa tiszteletben az istentiszteleteket azáltal, hogy lehalkítja telefonját.",
+            "ro": "Intrați în acest sanctuar fermecător pentru a experimenta devotamentul spiritual local; respectați slujbele în curs prin comutarea telefonului pe silențios.",
+            "en": "Step inside this charming sanctuary to experience local spiritual devotion firsthand; be respectful of ongoing services by turning your phone to silent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den antiken Wurzeln von Sant'Antioco am Nuraghen und der Ausgrabungsstätte Sulki. Mittags laden das Ethnografische Museum und die Aussicht vom Forte Su Pisu ein. Verbringen Sie den Nachmittag mit dem Abstieg in die faszinierenden Katakomben, bevor Sie den römischen Brunnen besichtigen. Der Abend bringt einen friedlichen Spaziergang zu den örtlichen Kirchen als Abschluss.",
+        "hu": "Kezdje a reggelt Sant'Antioco ősi gyökereinek felfedezésével a Nuraghe és Sulki régészeti területén. A dél üdvözli a helyi hagyományokat a Néprajzi Múzeumban és a történelmi kilátást a Forte Su Pisuból. Délutánját a lenyűgöző katakombákban és a római kút felfedezésével töltheti. Az este csendes sétát kínál a helyi templomokhoz, megkoronázva ezt a gazdag történelmi utazást.",
+        "ro": "Începeți dimineața explorând rădăcinile antice din Sant'Antioco la Nuraghe și zona arheologică Sulki. Amiaza vă invită la o incursiune în tradițiile locale la Muzeul Etnografic și la vederile istorice de la Forte Su Pisu. Petreceți după-amiaza coborând în fascinantele Catacombe înainte de a vizita Fântâna Romană. Seara aduce o plimbare liniștită la bisericile locale, încheind o călătorie istorică.",
+        "en": "Start your morning exploring the ancient roots of Sant'Antioco at the Nuraghe and the vast archaeological area of Sulki. Midday invites a deep dive into local traditions at the Ethnographic Museum and historic views from Forte Su Pisu. Spend your afternoon descending into the fascinating Catacombe before visiting the monumental Fontana Romana. Evening brings a peaceful stroll to the local churches, concluding a fulfilling historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 4.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Nostra Signora di Bonaria",
+            "hu": "Nostra Signora di Bonaria",
+            "ro": "Nostra Signora di Bonaria",
+            "en": "Nostra Signora di Bonaria"
+          },
+          "coords": [
+            8.458758,
+            39.060111
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses reizvolle Heiligtum, um die lokale Spiritualität hautnah zu erleben; respektieren Sie die Gottesdienste, indem Sie Ihr Handy stumm schalten.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy első kézből tapasztalja meg a helyi hitéletet; tartsa tiszteletben az istentiszteleteket azáltal, hogy lehalkítja telefonját.",
+            "ro": "Intrați în acest sanctuar fermecător pentru a experimenta devotamentul spiritual local; respectați slujbele în curs prin comutarea telefonului pe silențios.",
+            "en": "Step inside this charming sanctuary to experience local spiritual devotion firsthand; be respectful of ongoing services by turning your phone to silent."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Goretti",
+            "hu": "Santa Maria Goretti",
+            "ro": "Santa Maria Goretti",
+            "en": "Santa Maria Goretti"
+          },
+          "coords": [
+            8.455805,
+            39.063906
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche moderne Kirche, die Santa Maria Goretti gewidmet ist, für einen Moment der Besinnung und beachten Sie die elegante Architektur.",
+            "hu": "Látogasson el a Santa Maria Gorettinek szentelt békés modern templomba egy kis csendes elmélkedésre, és figyelje meg az építészeti vonalak elegáns egyszerűségét.",
+            "ro": "Vizitați această biserică modernă și liniștită dedicată Sfintei Maria Goretti pentru un moment de reflecție; remarcați simplitatea elegantă a liniilor sale arhitecturale.",
+            "en": "Visit this peaceful modern church dedicated to Santa Maria Goretti for a moment of quiet reflection, and note the elegant simplicity of its architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Romana",
+            "hu": "Fontana Romana",
+            "ro": "Fontana Romana",
+            "en": "Fontana Romana"
+          },
+          "coords": [
+            8.455696,
+            39.065816
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen gut erhaltenen römischen Brunnen, der die Stadt einst mit Wasser versorgte; kommen Sie früh, um die Architektur ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a jó állapotban fennmaradt római kutat, amely egykor a várost látta el friss vízzel; érdemes korán érkezni, hogy tömeg nélkül élvezhesse a látványt.",
+            "ro": "Admirați această fântână romană bine conservată care aproviziona orașul cu apă dulce; vizitați-o devreme pentru a-i aprecia arhitectura fără aglomerație.",
+            "en": "Admire this well-preserved Roman fountain that historically supplied the city with fresh water; visit early to appreciate its architecture without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Catacombe di Sant'Antioco",
+            "hu": "Sant'Antioco katakombái",
+            "ro": "Catacombele din Sant'Antioco",
+            "en": "Catacombe di Sant'Antioco"
+          },
+          "coords": [
+            8.451072,
+            39.06946
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie diese frühchristlichen Katakomben, um umfunktionierte punische Gräber zu sehen; bringen Sie eine Jacke mit, da es unterirdisch kühl ist.",
+            "hu": "Sétáljon végig az ókeresztény katakombákon, hogy megnézze az istentiszteletre átalakított pun sírokat; hozzon egy könnyű kabátot, mert lent meglehetősen hűvös van.",
+            "ro": "Plimbați-vă prin aceste catacombe paleocreștine pentru a vedea morminte punice reutilizate; luați o jachetă ușoară deoarece pasajele subterane sunt destul de răcoroase.",
+            "en": "Wander through these early Christian catacombs to witness ancient Punic tombs repurposed for worship; bring a light jacket as underground passages can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Su Pisu",
+            "hu": "Forte Su Pisu",
+            "ro": "Forte Su Pisu",
+            "en": "Forte Su Pisu"
+          },
+          "coords": [
+            8.450784,
+            39.07068
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wälle dieser savoyardischen Festung aus dem 19. Jahrhundert für einen Panoramablick über Stadt und Meer, besonders schön im Nachmittagslicht.",
+            "hu": "Másszon fel a 19. századi savoyai erőd bástyáira, ahonnan panorámás kilátás nyílik a városra és a tengerre, különösen a délutáni fényekben lenyűgöző.",
+            "ro": "Urcați pe meterezele acestui fort savoiard din secolul al XIX-lea pentru vederi panoramice asupra orașului, experiență perfectă în lumina blândă a după-amiezii.",
+            "en": "Climb the ramparts of this 19th-century Savoyard fort to enjoy panoramic views over the town and sea, best experienced when the afternoon light softens."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulki",
+            "hu": "Sulki",
+            "ro": "Sulki",
+            "en": "Sulki"
+          },
+          "coords": [
+            8.451467,
+            39.07159
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste der antiken phönizisch-punischen Siedlung Sulki und vergessen Sie nicht Ihre Kamera für die Ausgrabungen.",
+            "hu": "Ismerje meg Sulki ősi föníciai-pun településének lenyűgöző maradványait, és ne felejtse el a fényképezőgépét a megkapó ásatások megörökítéséhez.",
+            "ro": "Descoperiți rămășițele fascinante ale așezării feniciano-punice antice Sulki și nu uitați aparatul foto pentru a surprinde excavațiile impresionante.",
+            "en": "Discover the fascinating remnants of the ancient Phoenician-Punic settlement of Sulki, and don't forget your camera to capture the impressive excavations."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe",
+            "hu": "Nuraghe",
+            "ro": "Nuraghe",
+            "en": "Nuraghe"
+          },
+          "coords": [
+            8.451888,
+            39.075615
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Megalithanlage, um die frühen Zivilisationen Sardiniens zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az ősi megalitikus építményt Szardínia korai civilizációjának megismeréséhez; viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați această structură megalitică antică pentru a înțelege civilizația timpurie a Sardiniei; purtați încălțăminte robustă pentru cărările pietruite inegale.",
+            "en": "Explore this ancient megalithic structure to understand Sardinia's early civilizations; wear sturdy shoes to safely navigate its uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Ponte Romano",
+            "hu": "Antico Ponte Romano",
+            "ro": "Antico Ponte Romano",
+            "en": "Antico Ponte Romano"
+          },
+          "coords": [
+            8.470155,
+            39.058427
+          ],
+          "category": "landmark",
+          "arrive_at": "17:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser antiken römischen Brücke, die die Insel mit dem Festland verband, und bewundern Sie die raffinierte Technik der Steinbögen.",
+            "hu": "Sétáljon végig az ókori római hídon, amely egykor a szigetet a szárazfölddel kötötte össze, és figyelje meg a tartós kőívek bonyolult mérnöki munkáját.",
+            "ro": "Plimbați-vă de-a lungul acestui vechi pod roman care a conectat cândva insula de continent și observați ingineria complexă a arcadelor sale durabile din piatră.",
+            "en": "Walk along this ancient Roman bridge that once connected the island to the mainland, and carefully observe the intricate engineering of its enduring stone arches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt friedlich bei Nostra Signora di Bonaria und Santa Maria Goretti. Mittags radeln Sie zum römischen Brunnen und den unterirdischen Geheimnissen der Katakomben. Am Nachmittag fahren Sie hinauf zum Forte Su Pisu und den antiken Ruinen von Sulki und Nuraghe. Der Abend führt Sie auf einer erfrischenden Fahrt über die antike römische Brücke mit einem majestätischen Blick.",
+        "hu": "Kerékpáros napja békésen indul a Nostra Signora di Bonaria és a Santa Maria Goretti templomoknál. A dél a Fontana Romana történelmi kútjához és a katakombák földalatti rejtelmeihez vezet. Délután tekerjen fel a Forte Su Pisuhoz, valamint Sulki és a Nuraghe ősi romjaihoz. Az este egy frissítő utazást kínál az Antico Ponte Romano hídjához, ahonnan fenséges kilátás nyílik a sziget partjaira.",
+        "ro": "Ziua de ciclism începe liniștit la Nostra Signora di Bonaria și Santa Maria Goretti. Amiaza vă îndreaptă spre istorica Fântână Romană și misterele subterane ale Catacombelor. După-amiaza, pedalați până la Forte Su Pisu și ruinele antice din Sulki și Nuraghe. Seara vă conduce într-o plimbare răcoritoare peste Antico Ponte Romano, oferind o vedere finală maiestuoasă a țărmurilor insulei.",
+        "en": "Your cycling day starts peacefully at Nostra Signora di Bonaria and Santa Maria Goretti. Midday wheels you towards the historic Fontana Romana and the underground mysteries of the Catacombe. In the afternoon, pedal up to Forte Su Pisu and the ancient ruins of Sulki and Nuraghe. Evening leads you on a refreshing ride across the Antico Ponte Romano, offering a majestic final view of the island's shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antico Ponte Romano",
+            "hu": "Antico Ponte Romano",
+            "ro": "Antico Ponte Romano",
+            "en": "Antico Ponte Romano"
+          },
+          "coords": [
+            8.470155,
+            39.058427
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser antiken römischen Brücke, die die Insel mit dem Festland verband, und bewundern Sie die raffinierte Technik der Steinbögen.",
+            "hu": "Sétáljon végig az ókori római hídon, amely egykor a szigetet a szárazfölddel kötötte össze, és figyelje meg a tartós kőívek bonyolult mérnöki munkáját.",
+            "ro": "Plimbați-vă de-a lungul acestui vechi pod roman care a conectat cândva insula de continent și observați ingineria complexă a arcadelor sale durabile din piatră.",
+            "en": "Walk along this ancient Roman bridge that once connected the island to the mainland, and carefully observe the intricate engineering of its enduring stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora di Bonaria",
+            "hu": "Nostra Signora di Bonaria",
+            "ro": "Nostra Signora di Bonaria",
+            "en": "Nostra Signora di Bonaria"
+          },
+          "coords": [
+            8.458758,
+            39.060111
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses reizvolle Heiligtum, um die lokale Spiritualität hautnah zu erleben; respektieren Sie die Gottesdienste, indem Sie Ihr Handy stumm schalten.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy első kézből tapasztalja meg a helyi hitéletet; tartsa tiszteletben az istentiszteleteket azáltal, hogy lehalkítja telefonját.",
+            "ro": "Intrați în acest sanctuar fermecător pentru a experimenta devotamentul spiritual local; respectați slujbele în curs prin comutarea telefonului pe silențios.",
+            "en": "Step inside this charming sanctuary to experience local spiritual devotion firsthand; be respectful of ongoing services by turning your phone to silent."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Goretti",
+            "hu": "Santa Maria Goretti",
+            "ro": "Santa Maria Goretti",
+            "en": "Santa Maria Goretti"
+          },
+          "coords": [
+            8.455805,
+            39.063906
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche moderne Kirche, die Santa Maria Goretti gewidmet ist, für einen Moment der Besinnung und beachten Sie die elegante Architektur.",
+            "hu": "Látogasson el a Santa Maria Gorettinek szentelt békés modern templomba egy kis csendes elmélkedésre, és figyelje meg az építészeti vonalak elegáns egyszerűségét.",
+            "ro": "Vizitați această biserică modernă și liniștită dedicată Sfintei Maria Goretti pentru un moment de reflecție; remarcați simplitatea elegantă a liniilor sale arhitecturale.",
+            "en": "Visit this peaceful modern church dedicated to Santa Maria Goretti for a moment of quiet reflection, and note the elegant simplicity of its architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Romana",
+            "hu": "Fontana Romana",
+            "ro": "Fontana Romana",
+            "en": "Fontana Romana"
+          },
+          "coords": [
+            8.455696,
+            39.065816
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen gut erhaltenen römischen Brunnen, der die Stadt einst mit Wasser versorgte; kommen Sie früh, um die Architektur ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg a jó állapotban fennmaradt római kutat, amely egykor a várost látta el friss vízzel; érdemes korán érkezni, hogy tömeg nélkül élvezhesse a látványt.",
+            "ro": "Admirați această fântână romană bine conservată care aproviziona orașul cu apă dulce; vizitați-o devreme pentru a-i aprecia arhitectura fără aglomerație.",
+            "en": "Admire this well-preserved Roman fountain that historically supplied the city with fresh water; visit early to appreciate its architecture without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Su Magasinu De Su Binu",
+            "hu": "Museo Etnografico Su Magasinu De Su Binu",
+            "ro": "Muzeul Etnografic Su Magasinu De Su Binu",
+            "en": "Museo Etnografico Su Magasinu De Su Binu"
+          },
+          "coords": [
+            8.449749,
+            39.070957
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem authentischen ethnografischen Museum in die lokale Agrar- und Weinbaugeschichte ein; planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Mélyedjen el a helyi mezőgazdaság és borkészítés történetében ebben az autentikus néprajzi múzeumban; szánjon legalább egy órát az informatív kiállításokra.",
+            "ro": "Aprofundați istoria agricolă locală și tradițiile de vinificație în acest muzeu etnografic autentic; alocați cel puțin o oră pentru exponatele detaliate.",
+            "en": "Delve into local agricultural history and winemaking traditions in this authentic ethnographic museum; allocate at least an hour to read the informative exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Sulki",
+            "hu": "Sulki",
+            "ro": "Sulki",
+            "en": "Sulki"
+          },
+          "coords": [
+            8.451467,
+            39.07159
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste der antiken phönizisch-punischen Siedlung Sulki und vergessen Sie nicht Ihre Kamera für die Ausgrabungen.",
+            "hu": "Ismerje meg Sulki ősi föníciai-pun településének lenyűgöző maradványait, és ne felejtse el a fényképezőgépét a megkapó ásatások megörökítéséhez.",
+            "ro": "Descoperiți rămășițele fascinante ale așezării feniciano-punice antice Sulki și nu uitați aparatul foto pentru a surprinde excavațiile impresionante.",
+            "en": "Discover the fascinating remnants of the ancient Phoenician-Punic settlement of Sulki, and don't forget your camera to capture the impressive excavations."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe",
+            "hu": "Nuraghe",
+            "ro": "Nuraghe",
+            "en": "Nuraghe"
+          },
+          "coords": [
+            8.451888,
+            39.075615
+          ],
+          "category": "historical",
+          "arrive_at": "15:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike Megalithanlage, um die frühen Zivilisationen Sardiniens zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt az ősi megalitikus építményt Szardínia korai civilizációjának megismeréséhez; viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
+            "ro": "Explorați această structură megalitică antică pentru a înțelege civilizația timpurie a Sardiniei; purtați încălțăminte robustă pentru cărările pietruite inegale.",
+            "en": "Explore this ancient megalithic structure to understand Sardinia's early civilizations; wear sturdy shoes to safely navigate its uneven stone pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der antiken römischen Brücke und bewundern Sie die alte Technik. Mittags können Sie schnell zu den religiösen Stätten der Stadt und dem historischen römischen Brunnen fahren. Verbringen Sie den Nachmittag im Ethnografischen Museum und auf den weitläufigen antiken Pfaden von Sulki. Der Abend nähert sich, während Sie den monumentalen Nuraghen erkunden.",
+        "hu": "Kezdje autós túráját az Antico Ponte Romano hídnál, megcsodálva az ősi mérnöki munkát. Délidőben gyorsan eljuthat a város csendes vallási helyszíneihez és a történelmi római kúthoz. Töltse a délutánt a Néprajzi Múzeum és Sulki kiterjedt ősi ösvényeinek felfedezésével. Az este közeledtével járja be a monumentális Nuraghe területét, tökéletes befejezést adva a kulturális utazásnak.",
+        "ro": "Începeți turul cu mașina la vechiul Pod Roman, admirând ingineria antică. Amiaza permite o scurtă deplasare la siturile religioase liniștite și la istorica Fântână Romană. Petreceți după-amiaza adâncindu-vă în Muzeul Etnografic și cărările antice întinse din Sulki. Seara se apropie în timp ce explorați monumentalul Nuraghe, încheind o zi perfectă de cultură și istorie.",
+        "en": "Kick off your driving tour at the Antico Ponte Romano, admiring the ancient engineering. Midday allows a quick hop to the town's serene religious sites and the historic Fontana Romana. Spend your afternoon diving deep into the Ethnographic Museum and the sprawling ancient paths of Sulki. Evening approaches as you explore the monumental Nuraghe, wrapping up a perfect day of culture and history."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "servian",
+  "anchor": {
+    "name": "Servian",
+    "coords": [
+      3.2992,
+      43.4272
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:17",
+      "total_km": 1.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Marché",
+            "hu": "Place du Marché",
+            "ro": "Place du Marché",
+            "en": "Place du Marché"
+          },
+          "coords": [
+            3.300065,
+            43.426858
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, wo Sie frische lokale Produkte kaufen und Ihre Route planen können, während Sie die charmante mittelalterliche Atmosphäre genießen.",
+            "hu": "Kezdje a napot a nyüzsgő piactéren, ahol friss helyi termékeket vásárolhat, és megtervezheti útvonalát, miközben élvezi a bájos középkori hangulatot.",
+            "ro": "Începeți ziua în piața plină de viață, unde puteți cumpăra produse locale proaspete și vă puteți planifica traseul în timp ce savurați atmosfera medievală fermecătoare.",
+            "en": "Start your day at the lively market square where you can pick up fresh local produce and plan your route while enjoying the charming medieval atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Julien",
+            "hu": "Eglise Saint-Julien",
+            "ro": "Eglise Saint-Julien",
+            "en": "Eglise Saint-Julien"
+          },
+          "coords": [
+            3.300101,
+            43.427214
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und treten Sie ein, um einen Moment der Ruhe zu finden, aber prüfen Sie vor Ihrem Besuch unbedingt die örtlichen Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és lépjen be egy pillanatnyi békéért, de látogatás előtt mindenképpen ellenőrizze a helyi misék menetrendjét.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și pășiți înăuntru pentru a găsi un moment de pace, dar asigurați-vă că verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the striking architecture of this historic church and step inside to find a moment of peace, but be sure to check the local mass schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tata",
+            "hu": "Tata",
+            "ro": "Tata",
+            "en": "Tata"
+          },
+          "coords": [
+            3.301352,
+            43.429786
+          ],
+          "category": "landmark",
+          "arrive_at": "10:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zu diesem markanten lokalen Wahrzeichen, das eine großartige Kulisse für Fotos bietet, besonders wenn das Morgenlicht auf die Struktur fällt.",
+            "hu": "Tegyen egy rövid kitérőt ehhez a jellegzetes helyi nevezetességhez, amely nagyszerű hátteret biztosít a fényképekhez, különösen, amikor a reggeli fény megvilágítja.",
+            "ro": "Faceți un scurt ocol către acest punct de reper local distinctiv, care oferă un fundal excelent pentru fotografii, mai ales când lumina dimineții lovește structura.",
+            "en": "Take a quick detour to this distinctive local landmark which offers a great backdrop for photos, especially when the morning light hits the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue Vierge Marie",
+            "hu": "Statue Vierge Marie",
+            "ro": "Statue Vierge Marie",
+            "en": "Statue Vierge Marie"
+          },
+          "coords": [
+            3.304553,
+            43.425552
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang zu dieser wunderschönen Marienstatue mit Blick auf die Stadt, die ein idealer Ort ist, um innezuhalten und den weiten Panoramablick auf Servian zu bewundern.",
+            "hu": "Élvezze a békés sétát ehhez a várost elnéző gyönyörű Mária-szoborhoz, amely ideális hely egy kis pihenésre és Servian lenyűgöző panorámájának megcsodálására.",
+            "ro": "Bucurați-vă de o plimbare pașnică până la această frumoasă statuie a Fecioarei Maria cu vedere la oraș, care este un loc ideal pentru a vă opri și a aprecia priveliștile panoramice ample ale Servianului.",
+            "en": "Enjoy a peaceful walk to this beautiful Marian statue overlooking the town, which is an ideal spot to pause and appreciate the sweeping panoramic views of Servian."
+          }
+        },
+        {
+          "name": {
+            "de": "La Parenthèse",
+            "hu": "La Parenthèse",
+            "ro": "La Parenthèse",
+            "en": "La Parenthèse"
+          },
+          "coords": [
+            3.311189,
+            43.425949
+          ],
+          "category": "cultural",
+          "arrive_at": "11:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem lebendigen Veranstaltungsort in die lokale Kulturszene ein, aber kommen Sie frühzeitig, um sich gute Plätze für laufende Aufführungen oder Ausstellungen zu sichern.",
+            "hu": "Merüljön el a helyi kulturális életben ezen a pezsgő helyszínen, de érkezzen korán, hogy jó ülőhelyeket biztosítson a folyamatban lévő előadásokhoz vagy kiállításokhoz.",
+            "ro": "Cufundați-vă în scena culturală locală în această locație vibrantă, dar asigurați-vă că ajungeți devreme pentru a vă asigura locuri bune pentru orice spectacole sau expoziții în curs.",
+            "en": "Immerse yourself in the local cultural scene at this vibrant venue, but make sure to arrive early to secure good seats for any ongoing performances or exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem belebten Marktplatz und geht schnell zur benachbarten historischen Kirche über. Der Mittag führt Sie durch verwinkelte Gassen zu einzigartigen lokalen Wahrzeichen. Der Nachmittag konzentriert sich auf das kulturelle Eintauchen bei La Parenthèse. Der Abend lädt zu einem entspannten Spaziergang zurück ins Dorfzentrum ein.",
+        "hu": "A reggel a nyüzsgő piactéren kezdődik, majd gyorsan áttér a szomszédos történelmi templomra. A dél felé közeledve kanyargós utcákon át juthat el egyedi helyi nevezetességekhez. A délután a kulturális elmélyülésre összpontosít a La Parenthèse-ben. Az este egy pihentető sétát tesz lehetővé vissza a faluközpontba.",
+        "ro": "Dimineața începe în piața aglomerată, mutându-se rapid la biserica istorică adiacentă. Amiaza vă poartă pe străzile șerpuitoare către repere locale unice. După-amiaza se concentrează pe imersiunea culturală la La Parenthèse. Seara permite o plimbare relaxată înapoi către centrul satului.",
+        "en": "Morning starts at the bustling market square, moving quickly to the adjacent historic church. Midday leads you through winding streets to unique local landmarks. Afternoon focuses on cultural immersion at La Parenthèse. Evening allows for a relaxed stroll back to the village center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 6.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Marché",
+            "hu": "Place du Marché",
+            "ro": "Place du Marché",
+            "en": "Place du Marché"
+          },
+          "coords": [
+            3.300065,
+            43.426858
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, wo Sie frische lokale Produkte kaufen und Ihre Route planen können, während Sie die charmante mittelalterliche Atmosphäre genießen.",
+            "hu": "Kezdje a napot a nyüzsgő piactéren, ahol friss helyi termékeket vásárolhat, és megtervezheti útvonalát, miközben élvezi a bájos középkori hangulatot.",
+            "ro": "Începeți ziua în piața plină de viață, unde puteți cumpăra produse locale proaspete și vă puteți planifica traseul în timp ce savurați atmosfera medievală fermecătoare.",
+            "en": "Start your day at the lively market square where you can pick up fresh local produce and plan your route while enjoying the charming medieval atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Julien",
+            "hu": "Eglise Saint-Julien",
+            "ro": "Eglise Saint-Julien",
+            "en": "Eglise Saint-Julien"
+          },
+          "coords": [
+            3.300101,
+            43.427214
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und treten Sie ein, um einen Moment der Ruhe zu finden, aber prüfen Sie vor Ihrem Besuch unbedingt die örtlichen Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és lépjen be egy pillanatnyi békéért, de látogatás előtt mindenképpen ellenőrizze a helyi misék menetrendjét.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și pășiți înăuntru pentru a găsi un moment de pace, dar asigurați-vă că verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the striking architecture of this historic church and step inside to find a moment of peace, but be sure to check the local mass schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Coussat",
+            "hu": "Château du Coussat",
+            "ro": "Château du Coussat",
+            "en": "Château du Coussat"
+          },
+          "coords": [
+            3.314686,
+            43.43081
+          ],
+          "category": "castle",
+          "arrive_at": "10:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände dieses beeindruckenden Schlosses, das Geschichten aus der edlen Vergangenheit der Region erzählt, wobei bequeme Wanderschuhe für die unebenen Wege dringend empfohlen werden.",
+            "hu": "Fedezze fel e lenyűgöző kastély hatalmas birtokát, amely a régió nemesi múltjáról mesél, bár a kényelmes sétacipő erősen ajánlott az egyenetlen ösvények miatt.",
+            "ro": "Explorați domeniile vaste ale acestui castel impresionant care spune povești despre trecutul nobil al regiunii, deși încălțămintea confortabilă este foarte recomandată pentru potecile inegale.",
+            "en": "Explore the grand grounds of this impressive castle that tells tales of the region's noble past, though comfortable walking shoes are highly recommended for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Hermitage de Combas",
+            "hu": "Château de l'Hermitage de Combas",
+            "ro": "Château de l'Hermitage de Combas",
+            "en": "Château de l'Hermitage de Combas"
+          },
+          "coords": [
+            3.328702,
+            43.437102
+          ],
+          "category": "castle",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Innenhöfe dieses prächtigen Anwesens, um sein reiches Erbe zu entdecken, und vergessen Sie nicht, die Führer nach seinen verborgenen architektonischen Details zu fragen.",
+            "hu": "Sétáljon végig e csodálatos birtok elegáns udvarain, hogy felfedezze gazdag örökségét, és ne felejtse el megkérdezni az idegenvezetőket az elrejtett építészeti részletekről.",
+            "ro": "Plimbați-vă prin curțile elegante ale acestei moșii magnifice pentru a descoperi patrimoniul său bogat și nu uitați să întrebați ghizii despre detaliile sale arhitecturale ascunse.",
+            "en": "Wander through the elegant courtyards of this magnificent estate to discover its rich heritage, and don't forget to ask the guides about its hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Pitié",
+            "hu": "Église Notre-Dame de Pitié",
+            "ro": "Église Notre-Dame de Pitié",
+            "en": "Église Notre-Dame de Pitié"
+          },
+          "coords": [
+            3.295396,
+            43.449741
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das ruhige Ambiente dieser malerischen, in der Natur gelegenen Landkirche, die einen perfekten, ruhigen Rückzugsort abseits des geschäftigen Dorfzentrums darstellt.",
+            "hu": "Tapasztalja meg ennek a természetben megbúvó festői vidéki templomnak a nyugodt hangulatát, amely tökéletes, csendes menedéket nyújt a forgalmas faluközponttól távol.",
+            "ro": "Experimentați ambianța senină a acestei pitorești biserici de țară cuibărită în natură, care oferă o retragere liniștită perfectă departe de centrul aglomerat al satului.",
+            "en": "Experience the serene ambiance of this quaint countryside church nestled in nature, which makes for a perfect quiet retreat away from the busy village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen des Dorfes, bevor Sie zum imposanten Château du Coussat radeln. Der Mittag wird mit der Erkundung des weitläufigen Geländes von Château de l'Hermitage verbracht. Am Nachmittag radeln Sie nach Norden zu einer ruhigen Landkirche. Der Abend bringt eine sanfte Brise auf der Heimfahrt.",
+        "hu": "A reggel a falu szívében indul, mielőtt kikerékpározna a lenyűgöző Château du Coussat-hoz. A delet a Château de l'Hermitage hatalmas birtokának felfedezésével tölti. Délután kerekezzen északra egy nyugodt vidéki templomhoz. Az este lágy szelet hoz a hazaútra.",
+        "ro": "Dimineața dvs. începe în inima satului înainte de a pedala spre grandiosul Château du Coussat. Amiaza este petrecută explorând vastele domenii ale Château de l'Hermitage. După-amiaza, pedalați spre nord către o biserică rurală liniștită. Seara aduce o briză blândă pe drumul spre casă.",
+        "en": "Your morning kicks off in the heart of the village before cycling outwards to the grand Château du Coussat. Midday is spent exploring the vast grounds of Château de l'Hermitage. In the afternoon, pedal north to a serene country church. Evening brings a gentle coastal breeze on your ride home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 12.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Marché",
+            "hu": "Place du Marché",
+            "ro": "Place du Marché",
+            "en": "Place du Marché"
+          },
+          "coords": [
+            3.300065,
+            43.426858
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem belebten Marktplatz, wo Sie frische lokale Produkte kaufen und Ihre Route planen können, während Sie die charmante mittelalterliche Atmosphäre genießen.",
+            "hu": "Kezdje a napot a nyüzsgő piactéren, ahol friss helyi termékeket vásárolhat, és megtervezheti útvonalát, miközben élvezi a bájos középkori hangulatot.",
+            "ro": "Începeți ziua în piața plină de viață, unde puteți cumpăra produse locale proaspete și vă puteți planifica traseul în timp ce savurați atmosfera medievală fermecătoare.",
+            "en": "Start your day at the lively market square where you can pick up fresh local produce and plan your route while enjoying the charming medieval atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Julien",
+            "hu": "Eglise Saint-Julien",
+            "ro": "Eglise Saint-Julien",
+            "en": "Eglise Saint-Julien"
+          },
+          "coords": [
+            3.300101,
+            43.427214
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und treten Sie ein, um einen Moment der Ruhe zu finden, aber prüfen Sie vor Ihrem Besuch unbedingt die örtlichen Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és lépjen be egy pillanatnyi békéért, de látogatás előtt mindenképpen ellenőrizze a helyi misék menetrendjét.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și pășiți înăuntru pentru a găsi un moment de pace, dar asigurați-vă că verificați programul slujbelor înainte de vizită.",
+            "en": "Admire the striking architecture of this historic church and step inside to find a moment of peace, but be sure to check the local mass schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Coussat",
+            "hu": "Château du Coussat",
+            "ro": "Château du Coussat",
+            "en": "Château du Coussat"
+          },
+          "coords": [
+            3.314686,
+            43.43081
+          ],
+          "category": "castle",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände dieses beeindruckenden Schlosses, das Geschichten aus der edlen Vergangenheit der Region erzählt, wobei bequeme Wanderschuhe für die unebenen Wege dringend empfohlen werden.",
+            "hu": "Fedezze fel e lenyűgöző kastély hatalmas birtokát, amely a régió nemesi múltjáról mesél, bár a kényelmes sétacipő erősen ajánlott az egyenetlen ösvények miatt.",
+            "ro": "Explorați domeniile vaste ale acestui castel impresionant care spune povești despre trecutul nobil al regiunii, deși încălțămintea confortabilă este foarte recomandată pentru potecile inegale.",
+            "en": "Explore the grand grounds of this impressive castle that tells tales of the region's noble past, though comfortable walking shoes are highly recommended for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Hermitage de Combas",
+            "hu": "Château de l'Hermitage de Combas",
+            "ro": "Château de l'Hermitage de Combas",
+            "en": "Château de l'Hermitage de Combas"
+          },
+          "coords": [
+            3.328702,
+            43.437102
+          ],
+          "category": "castle",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die eleganten Innenhöfe dieses prächtigen Anwesens, um sein reiches Erbe zu entdecken, und vergessen Sie nicht, die Führer nach seinen verborgenen architektonischen Details zu fragen.",
+            "hu": "Sétáljon végig e csodálatos birtok elegáns udvarain, hogy felfedezze gazdag örökségét, és ne felejtse el megkérdezni az idegenvezetőket az elrejtett építészeti részletekről.",
+            "ro": "Plimbați-vă prin curțile elegante ale acestei moșii magnifice pentru a descoperi patrimoniul său bogat și nu uitați să întrebați ghizii despre detaliile sale arhitecturale ascunse.",
+            "en": "Wander through the elegant courtyards of this magnificent estate to discover its rich heritage, and don't forget to ask the guides about its hidden architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Pitié",
+            "hu": "Église Notre-Dame de Pitié",
+            "ro": "Église Notre-Dame de Pitié",
+            "en": "Église Notre-Dame de Pitié"
+          },
+          "coords": [
+            3.295396,
+            43.449741
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das ruhige Ambiente dieser malerischen, in der Natur gelegenen Landkirche, die einen perfekten, ruhigen Rückzugsort abseits des geschäftigen Dorfzentrums darstellt.",
+            "hu": "Tapasztalja meg ennek a természetben megbúvó festői vidéki templomnak a nyugodt hangulatát, amely tökéletes, csendes menedéket nyújt a forgalmas faluközponttól távol.",
+            "ro": "Experimentați ambianța senină a acestei pitorești biserici de țară cuibărită în natură, care oferă o retragere liniștită perfectă departe de centrul aglomerat al satului.",
+            "en": "Experience the serene ambiance of this quaint countryside church nestled in nature, which makes for a perfect quiet retreat away from the busy village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont sur la Thongue",
+            "hu": "Pont sur la Thongue",
+            "ro": "Pont sur la Thongue",
+            "en": "Pont sur la Thongue"
+          },
+          "coords": [
+            3.3422,
+            43.4054
+          ],
+          "category": "historical",
+          "arrive_at": "14:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit einem Spaziergang über diese alte historische Brücke, die sich über den Fluss spannt und einen brillanten Aussichtspunkt für Sonnenuntergangsfotografie und Naturbeobachtung bietet.",
+            "hu": "Fejezze be utazását úgy, hogy átsétál ezen az ősi történelmi hídon a folyó felett, amely ragyogó kilátópontot kínál a naplemente fotózásához és a természet megfigyeléséhez.",
+            "ro": "Încheiați-vă călătoria mergând pe acest pod istoric antic ce se întinde peste râu, oferind un punct de observație genial pentru fotografii la apus și observarea naturii.",
+            "en": "Conclude your journey by walking across this ancient historical bridge stretching over the river, offering a brilliant vantage point for sunset photography and nature watching."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein kurzer morgendlicher Stopp im Dorfzentrum bereitet die Bühne, bevor Sie zu den majestätischen Schlössern der Region fahren. Der Mittag bietet ausgedehnte Touren durch edle Anwesen und eine friedliche Landkirche. Die nachmittägliche Fahrt führt Sie zur historischen Flussbrücke. Abendsonnenuntergänge über dem Wasser bieten einen spektakulären Abschied.",
+        "hu": "Egy rövid reggeli megálló a faluközpontban megadja az alaphangot, mielőtt a régió fenséges kastélyaihoz hajtana. A dél kiterjedt túrákat kínál nemesi birtokokon és egy békés vidéki templomban. A délutáni út a történelmi folyami hídhoz vezet. A víz feletti esti naplementék látványos búcsút nyújtanak.",
+        "ro": "O scurtă oprire matinală în centrul satului pregătește terenul înainte de a conduce spre castelele maiestuoase ale regiunii. Amiaza oferă tururi extinse ale moșiilor nobile și o biserică rurală pașnică. Condusul de după-amiază vă duce la podul istoric peste râu. Apusurile de seară peste apă oferă un rămas bun spectaculos.",
+        "en": "A brief morning stop in the village center sets the stage before driving out to the region's majestic castles. Midday offers expansive tours of noble estates and a peaceful rural church. The afternoon drive takes you to the historic river bridge. Evening sunsets over the water provide a spectacular farewell."
+      }
+    }
+  }
+}

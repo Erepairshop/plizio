@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-margherita-di-savoia-cities-v2",
+  "anchor": {
+    "name": "Margherita di Savoia",
+    "coords": [
+      16.15017,
+      41.37423
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Visite Saline di Margherita di Savoia",
+            "hu": "Centro Visite Saline di Margherita di Savoia",
+            "ro": "Centro Visite Saline di Margherita di Savoia",
+            "en": "Centro Visite Saline di Margherita di Savoia"
+          },
+          "coords": [
+            16.146231,
+            41.3772
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die faszinierende Salzgewinnung in diesem interaktiven Museum und bringen Sie Ihre Kamera für die Flamingos mit.",
+            "hu": "Ismerje meg a lenyűgöző sólepárlás történetét ebben az interaktív múzeumban, és mindenképpen hozzon magával fényképezőgépet a flamingókhoz.",
+            "ro": "Descoperiți istoria fascinantă a extracției sării în acest muzeu interactiv și nu uitați aparatul foto pentru a surprinde păsările flamingo.",
+            "en": "Discover the fascinating history of salt extraction at this interactive museum, and be sure to bring your camera to photograph the flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Santissimo Salvatore",
+            "hu": "Santissimo Salvatore",
+            "ro": "Santissimo Salvatore",
+            "en": "Santissimo Salvatore"
+          },
+          "coords": [
+            16.147269,
+            41.377701
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser modernen Kirche im Herzen der Stadt und nehmen Sie sich einen Moment Zeit für stille Reflexion.",
+            "hu": "Csodálja meg ennek a modern belvárosi templomnak az egyszerű eleganciáját, és szánjon egy kis időt a csendes elmélkedésre a hűvös belső térben.",
+            "ro": "Admirați eleganța simplă a acestei biserici moderne din inima orașului și bucurați-vă de un moment de liniște în interiorul său răcoros.",
+            "en": "Admire the simple elegance of this modern church located right in the city center, and take a moment for quiet reflection in its cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre delle saline",
+            "hu": "Torre delle saline",
+            "ro": "Torre delle saline",
+            "en": "Torre delle saline"
+          },
+          "coords": [
+            16.146224,
+            41.378231
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den historischen Wachturm, der einst die wertvollen Salinen beschützte, und achten Sie auf die robusten architektonischen Details.",
+            "hu": "Tekintse meg a történelmi őrtornyot, amely egykor az értékes sólepárlókat védte, és figyelje meg a robusztus építészeti részleteket.",
+            "ro": "Explorați turnul istoric de veghe care proteja odinioară valoroasele saline și observați detaliile arhitecturale robuste ale fațadei sale.",
+            "en": "Explore the historic watchtower that once protected the valuable salt pans, and pay attention to the robust architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sport",
+            "hu": "Lido Sport",
+            "ro": "Lido Sport",
+            "en": "Lido Sport"
+          },
+          "coords": [
+            16.147139,
+            41.378668
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem lebhaften Strandabschnitt mit hervorragenden Sporteinrichtungen und mieten Sie sich frühzeitig eine Sonnenliege.",
+            "hu": "Pihenjen ezen a nyüzsgő, kiváló sportolási lehetőségeket kínáló partszakaszon, és érdemes korán érkezni, hogy biztosítson egy napágyat.",
+            "ro": "Relaxați-vă pe această plajă plină de viață cu facilități sportive excelente și închiriați un șezlong devreme pentru a vă asigura locul perfect.",
+            "en": "Relax on this lively stretch of beach offering excellent sports facilities, and rent a sunbed early to secure your perfect spot by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Copacabana Suite",
+            "hu": "Copacabana Suite",
+            "ro": "Copacabana Suite",
+            "en": "Copacabana Suite"
+          },
+          "coords": [
+            16.159175,
+            41.372544
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie exklusive Cocktails und eine entspannte Atmosphäre in diesem eleganten Strandclub, der sich perfekt für den späten Nachmittag eignet.",
+            "hu": "Kóstoljon meg exkluzív koktélokat és élvezze a laza hangulatot ebben az elegáns strandklubban, amely tökéletes a késő délutáni kikapcsolódáshoz.",
+            "ro": "Savurați cocktailuri exclusive într-o atmosferă relaxantă la acest club elegant de pe plajă, locul ideal pentru a petrece o după-amiază târzie.",
+            "en": "Savor exclusive cocktails in a relaxed atmosphere at this elegant beach club, making it the perfect spot for late afternoon unwinding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang mit der lokalen Geschichte im faszinierenden Salzmuseum, gefolgt von einer ruhigen Pause im modernen Santissimo Salvatore. Mittags lädt der robuste Torre delle saline, ein historischer Wächter der Salzpfannen, zur Besichtigung ein. Wenn der Nachmittag wärmer wird, spazieren Sie zum Lido Sport für entspannte Stunden am Strand. Lassen Sie den Abend bei Premium-Getränken in der eleganten Copacabana Suite ausklingen.",
+        "hu": "Sétáját a helyi történelem felfedezésével kezdje a sólepárló múzeumban, majd pihenjen meg a modern Santissimo Salvatore templomban. Délben tekintse meg a masszív Torre delle saline őrtornyot, a sólepárlók történelmi védelmezőjét. Ahogy a délután melegszik, tegyen egy rövid sétát a Lido Sport strandjára egy kis kikapcsolódásért. Zárja az estét prémium italokkal és tengerparti kilátással az elegáns Copacabana Suite klubban.",
+        "ro": "Începeți plimbarea cu istoria locală la fascinantul muzeu al sării, urmat de o oprire liniștită la moderna biserică Santissimo Salvatore. La prânz, vizitați robustul Torre delle saline, un gardian istoric al prețioaselor saline. Pe măsură ce după-amiaza devine mai caldă, plimbați-vă scurt până la Lido Sport pentru recreere pe plajă. Încheiați seara relaxându-vă cu băuturi fine și o vedere superbă la eleganta Copacabana Suite.",
+        "en": "Begin your walking tour diving into local history at the engaging salt extraction museum, followed by a serene stop at the modern Santissimo Salvatore. Midday invites you to inspect the robust Torre delle saline, a historical guardian of the town's precious salt pans. As the afternoon warms up, take a short stroll to Lido Sport for some energetic beachside recreation. Conclude your evening unwinding with premium drinks and coastal views at the elegant Copacabana Suite."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parrocchia di San Pio",
+            "hu": "Parrocchia di San Pio",
+            "ro": "Parrocchia di San Pio",
+            "en": "Parrocchia di San Pio"
+          },
+          "coords": [
+            16.146766,
+            41.36253
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche und architektonisch reizvolle Pfarrkirche etwas außerhalb des Zentrums, um dem Touristentrubel zu entfliehen.",
+            "hu": "Látogasson el ebbe a békés és építészetileg vonzó, a központtól kicsit távolabb eső plébániatemplomba, hogy elmeneküljön a turisták elől.",
+            "ro": "Vizitați această biserică parohială pașnică și atrăgătoare din punct de vedere arhitectural pentru a scăpa puțin de agitația turistică.",
+            "en": "Visit this peaceful and architecturally appealing parish church situated slightly outside the center to briefly escape the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Visite Saline di Margherita di Savoia",
+            "hu": "Centro Visite Saline di Margherita di Savoia",
+            "ro": "Centro Visite Saline di Margherita di Savoia",
+            "en": "Centro Visite Saline di Margherita di Savoia"
+          },
+          "coords": [
+            16.146231,
+            41.3772
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die faszinierende Salzgewinnung in diesem interaktiven Museum und bringen Sie Ihre Kamera für die Flamingos mit.",
+            "hu": "Ismerje meg a lenyűgöző sólepárlás történetét ebben az interaktív múzeumban, és mindenképpen hozzon magával fényképezőgépet a flamingókhoz.",
+            "ro": "Descoperiți istoria fascinantă a extracției sării în acest muzeu interactiv și nu uitați aparatul foto pentru a surprinde păsările flamingo.",
+            "en": "Discover the fascinating history of salt extraction at this interactive museum, and be sure to bring your camera to photograph the flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre delle saline",
+            "hu": "Torre delle saline",
+            "ro": "Torre delle saline",
+            "en": "Torre delle saline"
+          },
+          "coords": [
+            16.146224,
+            41.378231
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den historischen Wachturm, der einst die wertvollen Salinen beschützte, und achten Sie auf die robusten architektonischen Details.",
+            "hu": "Tekintse meg a történelmi őrtornyot, amely egykor az értékes sólepárlókat védte, és figyelje meg a robusztus építészeti részleteket.",
+            "ro": "Explorați turnul istoric de veghe care proteja odinioară valoroasele saline și observați detaliile arhitecturale robuste ale fațadei sale.",
+            "en": "Explore the historic watchtower that once protected the valuable salt pans, and pay attention to the robust architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Bussola",
+            "hu": "Lido La Bussola",
+            "ro": "Lido La Bussola",
+            "en": "Lido La Bussola"
+          },
+          "coords": [
+            16.14114,
+            41.382093
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie einen familienfreundlichen Strandtag mit feinem Sand und flachem Wasser, ideal für Kinder, die hier sicher schwimmen können.",
+            "hu": "Töltsön el egy családbarát strandnapot a finom homokos parton és a sekély vízben, amely ideális és biztonságos a gyermekek számára.",
+            "ro": "Petreceți o zi de plajă alături de familie pe acest nisip fin cu apă puțin adâncă, fiind un loc sigur și distractiv pentru înotul copiilor.",
+            "en": "Experience a family-friendly beach day with fine sand and shallow waters, making it an ideal and safe spot for children to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Aloha Beach",
+            "hu": "Aloha Beach",
+            "ro": "Aloha Beach",
+            "en": "Aloha Beach"
+          },
+          "coords": [
+            16.160715,
+            41.371952
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das tropische Flair dieses beliebten Strandabschnitts ein und probieren Sie unbedingt die lokalen Snacks an der Strandbar.",
+            "hu": "Merüljön el ennek a népszerű partszakasznak a trópusi hangulatában, és mindenképpen kóstolja meg a helyi snackeket a tengerparti bárban.",
+            "ro": "Simțiți atmosfera tropicală a acestei plaje populare și nu ratați ocazia de a gusta gustările locale delicioase de la barul de pe plajă.",
+            "en": "Soak up the tropical atmosphere of this popular beach stretch, and make sure to try the delicious local snacks at the beachfront bar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit dem Rad zur friedlichen Parrocchia di San Pio, bevor Sie das faszinierende Salzmuseum besuchen. Bestaunen Sie mittags den Torre delle saline und spüren Sie die Küstenbrise auf der Fahrt in den Norden. Verbringen Sie den Nachmittag in der familienfreundlichen und entspannten Atmosphäre am Lido La Bussola. Radeln Sie schließlich zum Aloha Beach, um den lebhaften Sonnenuntergang bei tropischen Erfrischungen zu genießen.",
+        "hu": "Kezdje a reggelt egy biciklizéssel a békés Parrocchia di San Pio-hoz, mielőtt a sólepárló múzeumba látogatna. Délben csodálja meg a Torre delle saline tornyot, majd érezze a parti szelet, ahogy észak felé teker. Töltse a délutánt a Lido La Bussola családbarát és pihentető hangulatában. Végül pedálozzon délre az Aloha Beach-re, hogy élvezze a lenyűgöző naplementét és a trópusi tengerparti frissítőket.",
+        "ro": "Începeți dimineața pedalând spre pașnica Parrocchia di San Pio înainte de a vizita fascinantul muzeu al sării. La prânz, admirați vechiul Torre delle saline și simțiți briza pe măsură ce mergeți spre țărmurile nordice. Petreceți după-amiaza bucurându-vă de atmosfera relaxantă și potrivită pentru familii de la Lido La Bussola. În final, mergeți spre sud la Aloha Beach pentru a prinde apusul vibrant cu o băutură tropicală.",
+        "en": "Start your morning cycling to the peaceful Parrocchia di San Pio before heading to the fascinating salt extraction museum. At midday, marvel at the ancient Torre delle saline and feel the coastal breeze as you ride towards the northern shores. Spend your afternoon enjoying the family-friendly and relaxing atmosphere at Lido La Bussola. Finally, pedal south to Aloha Beach to catch the vibrant sunset and enjoy tropical-themed seaside refreshments."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 5.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Visite Saline di Margherita di Savoia",
+            "hu": "Centro Visite Saline di Margherita di Savoia",
+            "ro": "Centro Visite Saline di Margherita di Savoia",
+            "en": "Centro Visite Saline di Margherita di Savoia"
+          },
+          "coords": [
+            16.146231,
+            41.3772
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die faszinierende Salzgewinnung in diesem interaktiven Museum und bringen Sie Ihre Kamera für die Flamingos mit.",
+            "hu": "Ismerje meg a lenyűgöző sólepárlás történetét ebben az interaktív múzeumban, és mindenképpen hozzon magával fényképezőgépet a flamingókhoz.",
+            "ro": "Descoperiți istoria fascinantă a extracției sării în acest muzeu interactiv și nu uitați aparatul foto pentru a surprinde păsările flamingo.",
+            "en": "Discover the fascinating history of salt extraction at this interactive museum, and be sure to bring your camera to photograph the flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre delle saline",
+            "hu": "Torre delle saline",
+            "ro": "Torre delle saline",
+            "en": "Torre delle saline"
+          },
+          "coords": [
+            16.146224,
+            41.378231
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den historischen Wachturm, der einst die wertvollen Salinen beschützte, und achten Sie auf die robusten architektonischen Details.",
+            "hu": "Tekintse meg a történelmi őrtornyot, amely egykor az értékes sólepárlókat védte, és figyelje meg a robusztus építészeti részleteket.",
+            "ro": "Explorați turnul istoric de veghe care proteja odinioară valoroasele saline și observați detaliile arhitecturale robuste ale fațadei sale.",
+            "en": "Explore the historic watchtower that once protected the valuable salt pans, and pay attention to the robust architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Santissimo Salvatore",
+            "hu": "Santissimo Salvatore",
+            "ro": "Santissimo Salvatore",
+            "en": "Santissimo Salvatore"
+          },
+          "coords": [
+            16.147269,
+            41.377701
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser modernen Kirche im Herzen der Stadt und nehmen Sie sich einen Moment Zeit für stille Reflexion.",
+            "hu": "Csodálja meg ennek a modern belvárosi templomnak az egyszerű eleganciáját, és szánjon egy kis időt a csendes elmélkedésre a hűvös belső térben.",
+            "ro": "Admirați eleganța simplă a acestei biserici moderne din inima orașului și bucurați-vă de un moment de liniște în interiorul său răcoros.",
+            "en": "Admire the simple elegance of this modern church located right in the city center, and take a moment for quiet reflection in its cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Darsena",
+            "hu": "Lido La Darsena",
+            "ro": "Lido La Darsena",
+            "en": "Lido La Darsena"
+          },
+          "coords": [
+            16.135972,
+            41.386807
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ruhige Momente an diesem idyllischen Küstenstreifen, wo Sie fernab der Massen die Sonne Süditaliens ungestört genießen können.",
+            "hu": "Engedélyezzen magának néhány nyugodt pillanatot ezen az idilli partszakaszon, ahol a tömegtől távol, zavartalanul élvezheti a dél-olasz napsütést.",
+            "ro": "Oferiți-vă momente de liniște pe această fâșie de coastă idilică, unde vă puteți bucura de soarele sudic departe de aglomerația mare.",
+            "en": "Treat yourself to quiet moments on this idyllic coastal strip, where you can enjoy the Southern Italian sun away from the bustling crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Valerio",
+            "hu": "Lido Valerio",
+            "ro": "Lido Valerio",
+            "en": "Lido Valerio"
+          },
+          "coords": [
+            16.172659,
+            41.367028
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem weitläufigen Strand ausklingen, der viel Platz für abendliche Spaziergänge entlang der ruhigen Küstenlinie bietet.",
+            "hu": "Zárja a napot ezen a tágas strandon, amely bőséges helyet kínál egy romantikus, esti sétához a csendes tengerpart mentén.",
+            "ro": "Încheiați ziua pe această plajă spațioasă, care oferă mult loc pentru o plimbare relaxantă de seară de-a lungul coastei liniștite.",
+            "en": "End your day at this spacious beach, which offers plenty of room for a relaxing evening stroll along the quiet and beautiful coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Herz von Margherita di Savoia, um das große Salzmuseum zu erkunden und die Geschichte der Stadt zu verstehen. Mittags können Sie den ikonischen Torre delle saline und das nahe gelegene Santissimo Salvatore kulturell auf sich wirken lassen. Am Nachmittag machen Sie eine kurze Fahrt nach Norden zum idyllischen Lido La Darsena, ideal zum Sonnenbaden. Beenden Sie Ihren Ausflug mit einer Fahrt entlang der Küste zum Lido Valerio für einen Abendspaziergang.",
+        "hu": "Autózzon Margherita di Savoia szívébe, hogy felfedezze a nagy sómúzeumot, amely bemutatja a város történelmét. Délben csodálja meg az ikonikus Torre delle saline tornyot és a közeli Santissimo Salvatore templomot egy kis kulturális élményért. Délután tegyen egy rövid utat északra az idilli Lido La Darsena felé, amely tökéletes a nyugodt napozáshoz. Zárja az autós túrát a part mentén haladva a Lido Valerio felé egy hosszú esti sétára.",
+        "ro": "Conduceți în inima orașului Margherita di Savoia pentru a explora marele muzeu al sării, aflând istoria locală. În jurul prânzului, admirați iconicul Torre delle saline și biserica Santissimo Salvatore pentru o scurtă imersiune culturală. După-amiaza, faceți un scurt drum spre nord până la idilicul Lido La Darsena, perfect pentru plajă liniștită. Încheiați-vă călătoria conducând pe coastă până la Lido Valerio pentru o plimbare de seară.",
+        "en": "Drive into the heart of Margherita di Savoia to explore the grand salt museum, setting the historical context of the town. Around midday, step out to admire the iconic Torre delle saline and the nearby Santissimo Salvatore for a quick cultural immersion. In the afternoon, take a brief drive north to the idyllic Lido La Darsena, perfect for peaceful sunbathing. Finish your road trip cruising down the coastline to Lido Valerio for an expansive evening walk."
+      }
+    }
+  }
+}
